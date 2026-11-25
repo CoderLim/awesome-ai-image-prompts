@@ -22,13 +22,13 @@ Original examples below use hand-authored SVG illustrations, not model-generated
 
 ### Image editing
 
-**[Replace Product Background](editing/background-change.md#original-product-background)**
-
-<img src="assets/examples/original-product-background-input.svg" width="220" alt="input — illustrative fixture"> <img src="assets/examples/original-product-background-output.svg" width="220" alt="output — illustrative fixture"> 
-
 **[Replace Poster Headline](editing/text-editing.md#original-poster-text)**
 
 <img src="assets/examples/original-poster-text-input.svg" width="220" alt="input — illustrative fixture"> <img src="assets/examples/original-poster-text-output.svg" width="220" alt="output — illustrative fixture"> 
+
+**[Replace Product Background](editing/background-change.md#original-product-background)**
+
+<img src="assets/examples/original-product-background-input.svg" width="220" alt="input — illustrative fixture"> <img src="assets/examples/original-product-background-output.svg" width="220" alt="output — illustrative fixture"> 
 
 ## Browse by category
 
