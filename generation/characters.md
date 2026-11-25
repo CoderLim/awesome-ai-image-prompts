@@ -1,90 +1,331 @@
 # characters
 
+[← Home](../README.md) · Page 1 / 4
+
+**1** · [2](characters-2.md) · [3](characters-3.md) · [4](characters-4.md)
+
+Source images are externally hosted and creator-attributed; previews are not independently reproduced. Follow the case link for the full original prompt. Image roles are unverified unless identified by the source.
+
+<a id="evolink-character-sheets-case-52"></a>
+
+## Popeye and Olive Oyl Character Sheet
+
+<a href="https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/character-sheets.md#character-sheets-case-52"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2108576531228291072.jpg" width="260" alt="Source example"></a> <a href="https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/character-sheets.md#character-sheets-case-52"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2108576483413286913-poster.jpg" width="260" alt="Source example"></a>
+
+**Prompt preview**
+
+<blockquote>Create a premium cinematic character bible sheet for POPEYE &amp; OLIVE OYL. Use uploaded character shee…</blockquote>
+
+**[Read full original prompt →](https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/character-sheets.md#character-sheets-case-52)**
+
+Creator: @TechieBySA · [Original post](https://x.com/TechieBySA/status/2108576537561751626) · Collected from: [evolink](https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/character-sheets.md#character-sheets-case-52)
+
+---
+
+<a id="evolink-character-sheets-case-53"></a>
+
+## Mr Bean and Conor McGregor Character Sheet
+
+<a href="https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/character-sheets.md#character-sheets-case-53"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2108521163966001152.jpg" width="260" alt="Source example"></a> <a href="https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/character-sheets.md#character-sheets-case-53"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2108521106105577472-poster.jpg" width="260" alt="Source example"></a>
+
+**Prompt preview**
+
+<blockquote>Create a premium cinematic character bible sheet for MR BEAN &amp; CONOR MCGREGOR. Use uploaded characte…</blockquote>
+
+**[Read full original prompt →](https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/character-sheets.md#character-sheets-case-53)**
+
+Creator: @TechieBySA · [Original post](https://x.com/TechieBySA/status/2108521171800973435) · Collected from: [evolink](https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/character-sheets.md#character-sheets-case-53)
+
+---
+
+<a id="evolink-character-sheets-case-54"></a>
+
+## Mira Character Sheet
+
+<a href="https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/character-sheets.md#character-sheets-case-54"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2108377959119872000.jpg" width="260" alt="Source example"></a> <a href="https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/character-sheets.md#character-sheets-case-54"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2108377959132520448.jpg" width="260" alt="Source example"></a>
+
+**Prompt preview**
+
+<blockquote>Create a premium, highly detailed AI character reference sheet for a young woman named “MIRA”. Chara…</blockquote>
+
+**[Read full original prompt →](https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/character-sheets.md#character-sheets-case-54)**
+
+Creator: @mehwishkiran07 · [Original post](https://x.com/mehwishkiran07/status/2108378073498571029) · Collected from: [evolink](https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/character-sheets.md#character-sheets-case-54)
+
+---
+
+<a id="evolink-character-sheets-case-55"></a>
+
+## Ben 10 Character Sheet
+
+<a href="https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/character-sheets.md#character-sheets-case-55"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2108250242072162304.jpg" width="260" alt="Source example"></a> <a href="https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/character-sheets.md#character-sheets-case-55"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2108250194005377024-poster.jpg" width="260" alt="Source example"></a>
+
+**Prompt preview**
+
+<blockquote>Create a premium cinematic character bible sheet. LAYOUT: Single unified wide format. Both character…</blockquote>
+
+**[Read full original prompt →](https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/character-sheets.md#character-sheets-case-55)**
+
+Creator: @TechieBySA · [Original post](https://x.com/TechieBySA/status/2108250248879788117) · Collected from: [evolink](https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/character-sheets.md#character-sheets-case-55)
+
+---
+
+<a id="evolink-character-sheets-case-56"></a>
+
+## Popeye and King Kong Character Sheet
+
+<a href="https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/character-sheets.md#character-sheets-case-56"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2108211804631371776.jpg" width="260" alt="Source example"></a> <a href="https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/character-sheets.md#character-sheets-case-56"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2108211763212591104-poster.jpg" width="260" alt="Source example"></a>
+
+**Prompt preview**
+
+<blockquote>Create a premium cinematic character bible sheet for POPEYE &amp; KING KONG. Use uploaded character shee…</blockquote>
+
+**[Read full original prompt →](https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/character-sheets.md#character-sheets-case-56)**
+
+Creator: @TechieBySA · [Original post](https://x.com/TechieBySA/status/2108211811421925617) · Collected from: [evolink](https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/character-sheets.md#character-sheets-case-56)
+
+---
+
+<a id="evolink-character-sheets-case-57"></a>
+
+## Mr Bean and the Mask Character Sheet
+
+<a href="https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/character-sheets.md#character-sheets-case-57"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2108156262584066049.jpg" width="260" alt="Source example"></a> <a href="https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/character-sheets.md#character-sheets-case-57"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2108156208876044288-poster.jpg" width="260" alt="Source example"></a>
+
+**Prompt preview**
+
+<blockquote>Create a premium cinematic character bible sheet for MR BEAN &amp; THE MASK. Use uploaded character shee…</blockquote>
+
+**[Read full original prompt →](https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/character-sheets.md#character-sheets-case-57)**
+
+Creator: @TechieBySA · [Original post](https://x.com/TechieBySA/status/2108156271048130705) · Collected from: [evolink](https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/character-sheets.md#character-sheets-case-57)
+
+---
+
+<a id="evolink-character-sheets-case-58"></a>
+
+## Faizan Character Sheet
+
+<a href="https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/character-sheets.md#character-sheets-case-58"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2108024707715096576.jpg" width="520" alt="Source example"></a>
+
+**Prompt preview**
+
+<blockquote>Create a professional, ultra-detailed CHARACTER REFERENCE SHEET for a male cinematic character named…</blockquote>
+
+**[Read full original prompt →](https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/character-sheets.md#character-sheets-case-58)**
+
+Creator: @mehwishkiran07 · [Original post](https://x.com/mehwishkiran07/status/2108024895804481648) · Collected from: [evolink](https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/character-sheets.md#character-sheets-case-58)
+
+---
+
+<a id="evolink-character-sheets-case-59"></a>
+
+## Mehwish Character Sheet
+
+<a href="https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/character-sheets.md#character-sheets-case-59"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2108024707656368128.jpg" width="520" alt="Source example"></a>
+
+**Prompt preview**
+
+<blockquote>Create a professional, high-end CHARACTER REFERENCE SHEET for a female content creator and main char…</blockquote>
+
+**[Read full original prompt →](https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/character-sheets.md#character-sheets-case-59)**
+
+Creator: @mehwishkiran07 · [Original post](https://x.com/mehwishkiran07/status/2108024891471761791) · Collected from: [evolink](https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/character-sheets.md#character-sheets-case-59)
+
+---
+
+<a id="evolink-character-sheets-case-60"></a>
+
+## Popeye Character Sheet
+
+<a href="https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/character-sheets.md#character-sheets-case-60"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2107893060541587456.jpg" width="260" alt="Source example"></a> <a href="https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/character-sheets.md#character-sheets-case-60"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2107893018640437248-poster.jpg" width="260" alt="Source example"></a>
+
+**Prompt preview**
+
+<blockquote>Create a premium cinematic character bible sheet for POPEYE. Use uploaded character sheet as strict …</blockquote>
+
+**[Read full original prompt →](https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/character-sheets.md#character-sheets-case-60)**
+
+Creator: @TechieBySA · [Original post](https://x.com/TechieBySA/status/2107893068770767068) · Collected from: [evolink](https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/character-sheets.md#character-sheets-case-60)
+
+---
+
+<a id="evolink-character-sheets-case-61"></a>
+
+## Atom and Charlie Character Sheet
+
+<a href="https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/character-sheets.md#character-sheets-case-61"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2107853178213380098.jpg" width="260" alt="Source example"></a> <a href="https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/character-sheets.md#character-sheets-case-61"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2107853090569273344-poster.jpg" width="260" alt="Source example"></a>
+
+**Prompt preview**
+
+<blockquote>Create a premium cinematic character bible sheet for ATOM &amp; CHARLIE. Use the uploaded image as stric…</blockquote>
+
+**[Read full original prompt →](https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/character-sheets.md#character-sheets-case-61)**
+
+Creator: @TechieBySA · [Original post](https://x.com/TechieBySA/status/2107853186438427065) · Collected from: [evolink](https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/character-sheets.md#character-sheets-case-61)
+
+---
+
+<a id="evolink-character-sheets-case-62"></a>
+
+## Mr Bean and Jackie Chan Character Sheet
+
+<a href="https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/character-sheets.md#character-sheets-case-62"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2107794854533111808.jpg" width="260" alt="Source example"></a> <a href="https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/character-sheets.md#character-sheets-case-62"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2107794794881613826-poster.jpg" width="260" alt="Source example"></a>
+
+**Prompt preview**
+
+<blockquote>Create a premium cinematic character bible sheet for MR BEAN &amp; JACKIE CHAN. Use uploaded character s…</blockquote>
+
+**[Read full original prompt →](https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/character-sheets.md#character-sheets-case-62)**
+
+Creator: @TechieBySA · [Original post](https://x.com/TechieBySA/status/2107794864586756308) · Collected from: [evolink](https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/character-sheets.md#character-sheets-case-62)
+
+---
+
+<a id="evolink-character-sheets-case-63"></a>
+
+## Ip Man and Mike Tyson Character Sheet
+
+<a href="https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/character-sheets.md#character-sheets-case-63"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2107523532624146432.jpg" width="260" alt="Source example"></a> <a href="https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/character-sheets.md#character-sheets-case-63"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2107523488831373312-poster.jpg" width="260" alt="Source example"></a>
+
+**Prompt preview**
+
+<blockquote>Create a premium cinematic character bible sheet for IP MAN &amp; MIKE TYSON. Use uploaded character she…</blockquote>
+
+**[Read full original prompt →](https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/character-sheets.md#character-sheets-case-63)**
+
+Creator: @TechieBySA · [Original post](https://x.com/TechieBySA/status/2107523538718499051) · Collected from: [evolink](https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/character-sheets.md#character-sheets-case-63)
+
+---
+
+<a id="evolink-character-sheets-case-64"></a>
+
+## Rama Character Sheet
+
+<a href="https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/character-sheets.md#character-sheets-case-64"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2107486196964225024.jpg" width="260" alt="Source example"></a> <a href="https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/character-sheets.md#character-sheets-case-64"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2107486156371742720-poster.jpg" width="260" alt="Source example"></a>
+
+**Prompt preview**
+
+<blockquote>Create a premium cinematic character bible sheet for RAMA. Use uploaded character sheet as strict vi…</blockquote>
+
+**[Read full original prompt →](https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/character-sheets.md#character-sheets-case-64)**
+
+Creator: @TechieBySA · [Original post](https://x.com/TechieBySA/status/2107486202647462305) · Collected from: [evolink](https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/character-sheets.md#character-sheets-case-64)
+
+---
+
+<a id="evolink-character-sheets-case-65"></a>
+
+## John Wick and Mr Bean Character Sheet
+
+<a href="https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/character-sheets.md#character-sheets-case-65"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2107432283716104192.jpg" width="260" alt="Source example"></a> <a href="https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/character-sheets.md#character-sheets-case-65"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2107432235271884800-poster.jpg" width="260" alt="Source example"></a>
+
+**Prompt preview**
+
+<blockquote>Create a premium cinematic character bible sheet for JOHN WICK &amp; MR BEAN. Use uploaded character she…</blockquote>
+
+**[Read full original prompt →](https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/character-sheets.md#character-sheets-case-65)**
+
+Creator: @TechieBySA · [Original post](https://x.com/TechieBySA/status/2107432291785945480) · Collected from: [evolink](https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/character-sheets.md#character-sheets-case-65)
+
+---
+
+<a id="evolink-character-sheets-case-66"></a>
+
+## Achilles Character Sheet
+
+<a href="https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/character-sheets.md#character-sheets-case-66"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2107171760105734145.jpg" width="260" alt="Source example"></a> <a href="https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/character-sheets.md#character-sheets-case-66"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2107171720633217024-poster.jpg" width="260" alt="Source example"></a>
+
+**Prompt preview**
+
+<blockquote>Create a premium cinematic character bible sheet for ACHILLES. Use uploaded character sheet as stric…</blockquote>
+
+**[Read full original prompt →](https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/character-sheets.md#character-sheets-case-66)**
+
+Creator: @TechieBySA · [Original post](https://x.com/TechieBySA/status/2107171765944242546) · Collected from: [evolink](https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/character-sheets.md#character-sheets-case-66)
+
+---
+
+<a id="evolink-character-sheets-case-67"></a>
+
+## Jackie Chan and Jet Li Character Sheet
+
+<a href="https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/character-sheets.md#character-sheets-case-67"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2107128231463645184.jpg" width="260" alt="Source example"></a> <a href="https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/character-sheets.md#character-sheets-case-67"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2107128190313414656-poster.jpg" width="260" alt="Source example"></a>
+
+**Prompt preview**
+
+<blockquote>Create a premium cinematic character bible sheet for JACKIE CHAN &amp; JET LI. Use uploaded character sh…</blockquote>
+
+**[Read full original prompt →](https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/character-sheets.md#character-sheets-case-67)**
+
+Creator: @TechieBySA · [Original post](https://x.com/TechieBySA/status/2107128238719852852) · Collected from: [evolink](https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/character-sheets.md#character-sheets-case-67)
+
+---
+
+<a id="evolink-character-sheets-case-68"></a>
+
+## Two-Character Reference Sheet
+
+<a href="https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/character-sheets.md#character-sheets-case-68"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2107073029826031616.jpg" width="260" alt="Source example"></a> <a href="https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/character-sheets.md#character-sheets-case-68"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2107072902218555392-poster.jpg" width="260" alt="Source example"></a>
+
+**Prompt preview**
+
+<blockquote>Create a premium cinematic character bible sheet for these two characters. Use uploaded character sh…</blockquote>
+
+**[Read full original prompt →](https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/character-sheets.md#character-sheets-case-68)**
+
+Creator: @TechieBySA · [Original post](https://x.com/TechieBySA/status/2107073058280276339) · Collected from: [evolink](https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/character-sheets.md#character-sheets-case-68)
+
+---
+
+<a id="evolink-character-sheets-case-69"></a>
+
+## Reference Photo Character Sheet
+
+<a href="https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/character-sheets.md#character-sheets-case-69"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2106587631417212928.jpg" width="520" alt="Source example"></a>
+
+**Prompt preview**
+
+<blockquote>画像1のキャラで画像2みたいなリファレンスシートを作って</blockquote>
+
+**[Read full original prompt →](https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/character-sheets.md#character-sheets-case-69)**
+
+Creator: @1banana2546 · [Original post](https://x.com/1banana2546/status/2106866959300092369) · Collected from: [evolink](https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/character-sheets.md#character-sheets-case-69)
+
+---
+
+<a id="evolink-character-sheets-case-70"></a>
+
+## Marcus Fenix Character Sheet
+
+<a href="https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/character-sheets.md#character-sheets-case-70"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2106804065438986242.jpg" width="260" alt="Source example"></a> <a href="https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/character-sheets.md#character-sheets-case-70"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2106804010187444224-poster.jpg" width="260" alt="Source example"></a>
+
+**Prompt preview**
+
+<blockquote>Create a premium cinematic character bible sheet for MARCUS FENIX. Use uploaded character sheet as s…</blockquote>
+
+**[Read full original prompt →](https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/character-sheets.md#character-sheets-case-70)**
+
+Creator: @TechieBySA · [Original post](https://x.com/TechieBySA/status/2106804071512617020) · Collected from: [evolink](https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/character-sheets.md#character-sheets-case-70)
+
+---
+
+<a id="evolink-character-sheets-case-71"></a>
+
+## Mr Bean Character Sheet
+
+<a href="https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/character-sheets.md#character-sheets-case-71"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2106770919435759616.jpg" width="260" alt="Source example"></a> <a href="https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/character-sheets.md#character-sheets-case-71"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2106770874862858240-poster.jpg" width="260" alt="Source example"></a>
+
+**Prompt preview**
+
+<blockquote>Create a premium cinematic character bible sheet for MR BEAN. LAYOUT: Single character solo format. …</blockquote>
+
+**[Read full original prompt →](https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/character-sheets.md#character-sheets-case-71)**
+
+Creator: @TechieBySA · [Original post](https://x.com/TechieBySA/status/2106770926847107507) · Collected from: [evolink](https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/character-sheets.md#character-sheets-case-71)
+
+---
+
+**1** · [2](characters-2.md) · [3](characters-3.md) · [4](characters-4.md)
+
 [← Home](../README.md)
-
-## Source index
-
-Open the collected case to view the source image and prompt. Classifications are provisional; original sources are reported by upstream and not independently checked.
-
-| Case | Creator | Original post | Collected from |
-|---|---|---|---|
-| Popeye and Olive Oyl Character Sheet | @TechieBySA | [Original](https://x.com/TechieBySA/status/2108576537561751626) | [evolink](https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/character-sheets.md#character-sheets-case-52) |
-| Mr Bean and Conor McGregor Character Sheet | @TechieBySA | [Original](https://x.com/TechieBySA/status/2108521171800973435) | [evolink](https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/character-sheets.md#character-sheets-case-53) |
-| Mira Character Sheet | @mehwishkiran07 | [Original](https://x.com/mehwishkiran07/status/2108378073498571029) | [evolink](https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/character-sheets.md#character-sheets-case-54) |
-| Ben 10 Character Sheet | @TechieBySA | [Original](https://x.com/TechieBySA/status/2108250248879788117) | [evolink](https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/character-sheets.md#character-sheets-case-55) |
-| Popeye and King Kong Character Sheet | @TechieBySA | [Original](https://x.com/TechieBySA/status/2108211811421925617) | [evolink](https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/character-sheets.md#character-sheets-case-56) |
-| Mr Bean and the Mask Character Sheet | @TechieBySA | [Original](https://x.com/TechieBySA/status/2108156271048130705) | [evolink](https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/character-sheets.md#character-sheets-case-57) |
-| Faizan Character Sheet | @mehwishkiran07 | [Original](https://x.com/mehwishkiran07/status/2108024895804481648) | [evolink](https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/character-sheets.md#character-sheets-case-58) |
-| Mehwish Character Sheet | @mehwishkiran07 | [Original](https://x.com/mehwishkiran07/status/2108024891471761791) | [evolink](https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/character-sheets.md#character-sheets-case-59) |
-| Popeye Character Sheet | @TechieBySA | [Original](https://x.com/TechieBySA/status/2107893068770767068) | [evolink](https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/character-sheets.md#character-sheets-case-60) |
-| Atom and Charlie Character Sheet | @TechieBySA | [Original](https://x.com/TechieBySA/status/2107853186438427065) | [evolink](https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/character-sheets.md#character-sheets-case-61) |
-| Mr Bean and Jackie Chan Character Sheet | @TechieBySA | [Original](https://x.com/TechieBySA/status/2107794864586756308) | [evolink](https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/character-sheets.md#character-sheets-case-62) |
-| Ip Man and Mike Tyson Character Sheet | @TechieBySA | [Original](https://x.com/TechieBySA/status/2107523538718499051) | [evolink](https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/character-sheets.md#character-sheets-case-63) |
-| Rama Character Sheet | @TechieBySA | [Original](https://x.com/TechieBySA/status/2107486202647462305) | [evolink](https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/character-sheets.md#character-sheets-case-64) |
-| John Wick and Mr Bean Character Sheet | @TechieBySA | [Original](https://x.com/TechieBySA/status/2107432291785945480) | [evolink](https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/character-sheets.md#character-sheets-case-65) |
-| Achilles Character Sheet | @TechieBySA | [Original](https://x.com/TechieBySA/status/2107171765944242546) | [evolink](https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/character-sheets.md#character-sheets-case-66) |
-| Jackie Chan and Jet Li Character Sheet | @TechieBySA | [Original](https://x.com/TechieBySA/status/2107128238719852852) | [evolink](https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/character-sheets.md#character-sheets-case-67) |
-| Two-Character Reference Sheet | @TechieBySA | [Original](https://x.com/TechieBySA/status/2107073058280276339) | [evolink](https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/character-sheets.md#character-sheets-case-68) |
-| Reference Photo Character Sheet | @1banana2546 | [Original](https://x.com/1banana2546/status/2106866959300092369) | [evolink](https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/character-sheets.md#character-sheets-case-69) |
-| Marcus Fenix Character Sheet | @TechieBySA | [Original](https://x.com/TechieBySA/status/2106804071512617020) | [evolink](https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/character-sheets.md#character-sheets-case-70) |
-| Mr Bean Character Sheet | @TechieBySA | [Original](https://x.com/TechieBySA/status/2106770926847107507) | [evolink](https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/character-sheets.md#character-sheets-case-71) |
-| Bruce Lee and Mr Bean Character Sheet | @TechieBySA | [Original](https://x.com/TechieBySA/status/2106702675253383494) | [evolink](https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/character-sheets.md#character-sheets-case-72) |
-| Gordon Ramsay Kitchen Character Sheet | @TechieBySA | [Original](https://x.com/TechieBySA/status/2106437712337113577) | [evolink](https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/character-sheets.md#character-sheets-case-73) |
-| John Creasy Character Sheet | @TechieBySA | [Original](https://x.com/TechieBySA/status/2106395410327564512) | [evolink](https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/character-sheets.md#character-sheets-case-74) |
-| John Wick and Mr Bean Reference Sheet | @TechieBySA | [Original](https://x.com/TechieBySA/status/2106342387698036839) | [evolink](https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/character-sheets.md#character-sheets-case-75) |
-| Selene Character Sheet | @TechieBySA | [Original](https://x.com/TechieBySA/status/2106077907969851743) | [evolink](https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/character-sheets.md#character-sheets-case-76) |
-| Alfred Borden Character Sheet | @TechieBySA | [Original](https://x.com/TechieBySA/status/2106032316220895460) | [evolink](https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/character-sheets.md#character-sheets-case-77) |
-| Bruce Lee and Jackie Chan Character Sheet | @TechieBySA | [Original](https://x.com/TechieBySA/status/2105987097504989297) | [evolink](https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/character-sheets.md#character-sheets-case-78) |
-| Gerry Lane Character Sheet | @TechieBySA | [Original](https://x.com/TechieBySA/status/2105711388224032919) | [evolink](https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/character-sheets.md#character-sheets-case-79) |
-| James Bond Character Sheet | @TechieBySA | [Original](https://x.com/TechieBySA/status/2105668470583050602) | [evolink](https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/character-sheets.md#character-sheets-case-80) |
-| Neo and John Wick Character Sheet | @TechieBySA | [Original](https://x.com/TechieBySA/status/2105619699820044329) | [evolink](https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/character-sheets.md#character-sheets-case-81) |
-| T-800 Character Sheet | @TechieBySA | [Original](https://x.com/TechieBySA/status/2105307488744571211) | [evolink](https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/character-sheets.md#character-sheets-case-82) |
-| Bruce Lee and John Wick Character Sheet | @TechieBySA | [Original](https://x.com/TechieBySA/status/2105256780565492165) | [evolink](https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/character-sheets.md#character-sheets-case-83) |
-| Tyler Rake Character Sheet | @TechieBySA | [Original](https://x.com/TechieBySA/status/2104944751766065348) | [evolink](https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/character-sheets.md#character-sheets-case-84) |
-| The Expendables Character Sheet | @TechieBySA | [Original](https://x.com/TechieBySA/status/2104896373321507030) | [evolink](https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/character-sheets.md#character-sheets-case-85) |
-| Neo and Morpheus Character Sheet | @TechieBySA | [Original](https://x.com/TechieBySA/status/2104623035009347974) | [evolink](https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/character-sheets.md#character-sheets-case-86) |
-| Chon and Roy Character Sheet | @TechieBySA | [Original](https://x.com/TechieBySA/status/2104534785011974532) | [evolink](https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/character-sheets.md#character-sheets-case-87) |
-| Maximus Character Sheet | @TechieBySA | [Original](https://x.com/TechieBySA/status/2104216397387624745) | [evolink](https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/character-sheets.md#character-sheets-case-88) |
-| Customizable Live-Action Character Sheet | @GeekCatX | [Original](https://x.com/GeekCatX/status/2104135797280752081) | [evolink](https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/character-sheets.md#character-sheets-case-89) |
-| Jackie Character Sheet | @TechieBySA | [Original](https://x.com/TechieBySA/status/2103902027218592010) | [evolink](https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/character-sheets.md#character-sheets-case-90) |
-| The Bride Character Sheet | @TechieBySA | [Original](https://x.com/TechieBySA/status/2103852769605992813) | [evolink](https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/character-sheets.md#character-sheets-case-91) |
-| Maverick Character Sheet | @TechieBySA | [Original](https://x.com/TechieBySA/status/2103805475116532149) | [evolink](https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/character-sheets.md#character-sheets-case-92) |
-| Tony Montana Character Sheet | @TechieBySA | [Original](https://x.com/TechieBySA/status/2103492759357174060) | [evolink](https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/character-sheets.md#character-sheets-case-93) |
-| Neo and Agent Smith Character Sheet | @TechieBySA | [Original](https://x.com/TechieBySA/status/2103172404537143403) | [evolink](https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/character-sheets.md#character-sheets-case-94) |
-| McClane Character Sheet | @TechieBySA | [Original](https://x.com/TechieBySA/status/2102777689434120432) | [evolink](https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/character-sheets.md#character-sheets-case-95) |
-| Bruce Lee and Ip Man Character Sheet | @TechieBySA | [Original](https://x.com/TechieBySA/status/2102719679642943870) | [evolink](https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/character-sheets.md#character-sheets-case-96) |
-| Bryan and Wick Character Sheet | @TechieBySA | [Original](https://x.com/TechieBySA/status/2102398939290816708) | [evolink](https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/character-sheets.md#character-sheets-case-97) |
-| Male Multi-View Character Sheet | @Arzoo12sh | [Original](https://x.com/Arzoo12sh/status/2102350378633420971) | [evolink](https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/character-sheets.md#character-sheets-case-98) |
-| Reference Face Editorial Character Sheet | @Alina_with_Ai | [Original](https://x.com/Alina_with_Ai/status/2102234492761243885) | [evolink](https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/character-sheets.md#character-sheets-case-99) |
-| Isla Character Sheet | @TechieBySA | [Original](https://x.com/TechieBySA/status/2102089391153860926) | [evolink](https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/character-sheets.md#character-sheets-case-100) |
-| Frank Character Sheet | @TechieBySA | [Original](https://x.com/TechieBySA/status/2102040622857134127) | [evolink](https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/character-sheets.md#character-sheets-case-101) |
-| Cristiano Ronaldo Character Sheet | @Alina_with_Ai | [Original](https://x.com/Alina_with_Ai/status/2101991381413892150) | [evolink](https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/character-sheets.md#character-sheets-case-102) |
-| Adult Woman Character Reference Sheet | @Alina_with_Ai | [Original](https://x.com/Alina_with_Ai/status/2101869350366191729) | [evolink](https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/character-sheets.md#character-sheets-case-103) |
-| Lucia and Jason Character Sheet | @TechieBySA | [Original](https://x.com/TechieBySA/status/2101678773703754189) | [evolink](https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/character-sheets.md#character-sheets-case-104) |
-| J and K Character Sheet | @TechieBySA | [Original](https://x.com/TechieBySA/status/2101629652741624268) | [evolink](https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/character-sheets.md#character-sheets-case-105) |
-| Ethan Character Sheet | @TechieBySA | [Original](https://x.com/TechieBySA/status/2101266498266313185) | [evolink](https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/character-sheets.md#character-sheets-case-106) |
-| Jason Bourne Character Sheet | @TechieBySA | [Original](https://x.com/TechieBySA/status/2100955490674987274) | [evolink](https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/character-sheets.md#character-sheets-case-107) |
-| Neiman Character Sheet | @TechieBySA | [Original](https://x.com/TechieBySA/status/2100907108573024578) | [evolink](https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/character-sheets.md#character-sheets-case-108) |
-| Stranger Things Group Character Sheet | @TechieBySA | [Original](https://x.com/TechieBySA/status/2100548638413930687) | [evolink](https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/character-sheets.md#character-sheets-case-109) |
-| Jack and Sawyer Character Sheet | @TechieBySA | [Original](https://x.com/TechieBySA/status/2100278579464417333) | [evolink](https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/character-sheets.md#character-sheets-case-110) |
-| Lee and Carter Character Sheet | @TechieBySA | [Original](https://x.com/TechieBySA/status/2100226095320580331) | [evolink](https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/character-sheets.md#character-sheets-case-111) |
-| Rocky and Drago Character Sheet | @TechieBySA | [Original](https://x.com/TechieBySA/status/2100177122916454655) | [evolink](https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/character-sheets.md#character-sheets-case-112) |
-| Rambo Character Sheet | @TechieBySA | [Original](https://x.com/TechieBySA/status/2099865500746485837) | [evolink](https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/character-sheets.md#character-sheets-case-113) |
-| Ophelia Celestial Puppeteer Character Sheet | @itsPixieVerse | [Original](https://x.com/itsPixieVerse/status/2099712708908319052) | [evolink](https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/character-sheets.md#character-sheets-case-114) |
-| John Wick Character Sheet | @TechieBySA | [Original](https://x.com/TechieBySA/status/2099502876166947252) | [evolink](https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/character-sheets.md#character-sheets-case-115) |
-| The Chef and the Cat Character Sheet | @TechieBySA | [Original](https://x.com/TechieBySA/status/2099460145449185433) | [evolink](https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/character-sheets.md#character-sheets-case-116) |
-| Two Fighters Character Sheet | @TechieBySA | [Original](https://x.com/TechieBySA/status/2099188504416936155) | [evolink](https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/character-sheets.md#character-sheets-case-117) |
-| Bryan Mills Character Sheet | @TechieBySA | [Original](https://x.com/TechieBySA/status/2099139896438919623) | [evolink](https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/character-sheets.md#character-sheets-case-118) |
-| Robert and Sam Character Sheet | @TechieBySA | [Original](https://x.com/TechieBySA/status/2099095652638581123) | [evolink](https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/character-sheets.md#character-sheets-case-119) |
-| Phil, Stu and Alan Character Sheet | @TechieBySA | [Original](https://x.com/TechieBySA/status/2098779184550002853) | [evolink](https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/character-sheets.md#character-sheets-case-120) |
-| Rick and Daryl Character Sheet | @TechieBySA | [Original](https://x.com/TechieBySA/status/2098731888617689164) | [evolink](https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/character-sheets.md#character-sheets-case-121) |
-| 人物角色设定图 | @anemone_sd | Not available | [freestylefly](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-27) |
-| 人物角色设定图 | @fukumy_ai | Not available | [freestylefly](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-54) |
-| 人物角色设定图 | @wtry1102 | Not available | [freestylefly](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-155) |
-| 人物角色设定图 | @nicdunz | Not available | [freestylefly](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-162) |
-| 人物角色设定图 | @tsubaki_ew | [Original](https://x.com/tsubaki_ew/status/2045259289993048284) | [freestylefly](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-271) |
-| 官方角色设定资料卡 | @MANISH1027512 | [Original](https://x.com/MANISH1027512/status/2045013913901867334) | [freestylefly](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-306) |
-| 可爱角色设定表 | @xRahultripathi | [Original](https://x.com/xRahultripathi/status/2050152865566708134) | [freestylefly](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-372) |
-| 街舞角色设定参考图 | @ChangningL29508 | [Original](https://x.com/ChangningL29508/status/2052229452080591276) | [freestylefly](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-397) |
-| 赛博黑客角色设定表 | @Kashberg_0 | [Original](https://x.com/Kashberg_0/status/2055865126335762902) | [freestylefly](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-439) |
-| Brutalist Freestyle 角色设定表 | @ShamsAmin56 | [Original](https://x.com/ShamsAmin56/status/2071590431725670517) | [freestylefly](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-512) |

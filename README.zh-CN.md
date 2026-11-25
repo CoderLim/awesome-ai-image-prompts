@@ -1,16 +1,44 @@
-# AI 图片提示词案例库
+# AI 图片生成与编辑提示词
 
 [English](README.md) · [来源](SOURCES.md)
 
-当前包含 4 个原创未测试 Prompt 示例及 811 个第三方来源索引。原创示例图为手工 SVG 示意图，并非模型实测效果。第三方内容请打开原始来源查看图片和完整提示词。
+共 811 条来源案例。首页及分类页直接引用来源图片，不使用自制示意图。分类页展示原文片段及完整 Prompt 的来源链接；未独立复现，图片角色以原来源标注为准。
+
+## 图片生成
+
+<table><tr>
+<td width="33%" valign="top" align="center"><a href="generation/portraits.md#evolink-advertising-case-171"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2108555755276341248.jpg" width="230" alt="Source example"></a><br><a href="generation/portraits.md#evolink-advertising-case-171"><strong>Food Photography and Ingredient Journal</strong></a></td>
+<td width="33%" valign="top" align="center"><a href="generation/avatars.md#freestylefly-case-188"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case188.jpg" width="230" alt="Source example"></a><br><a href="generation/avatars.md#freestylefly-case-188"><strong>暗黑极简头像网站视觉设计</strong></a></td>
+<td width="33%" valign="top" align="center"><a href="generation/illustrations.md#evolink-illustration-case-122"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2108558438796345344.jpg" width="230" alt="Source example"></a><br><a href="generation/illustrations.md#evolink-illustration-case-122"><strong>Landmark Behind a Zipper</strong></a></td>
+</tr></table>
+
+<table><tr>
+<td width="33%" valign="top" align="center"><a href="generation/products.md#evolink-advertising-case-172"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2107783725346103296.jpg" width="230" alt="Source example"></a><br><a href="generation/products.md#evolink-advertising-case-172"><strong>H&amp;M Red and Black Fashion Campaign</strong></a></td>
+<td width="33%" valign="top" align="center"><a href="generation/posters.md#evolink-gpt-image-2-6-case-255"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/2118193058370158592.jpg" width="230" alt="Source example"></a><br><a href="generation/posters.md#evolink-gpt-image-2-6-case-255"><strong>Baroque Winter Gallery Posters</strong></a></td>
+<td width="33%" valign="top" align="center"><a href="generation/characters.md#evolink-character-sheets-case-52"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2108576531228291072.jpg" width="230" alt="Source example"></a><br><a href="generation/characters.md#evolink-character-sheets-case-52"><strong>Popeye and Olive Oyl Character Sheet</strong></a></td>
+</tr></table>
+
+## 图片编辑
+
+<table><tr>
+<td width="33%" valign="top" align="center"><a href="editing/object-removal.md#evolink-gpt-image-2-6-case-252"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/man-with-blue-hat.webp" width="230" alt="Source example"></a><br><a href="editing/object-removal.md#evolink-gpt-image-2-6-case-252"><strong>Flower Removal with Scene Preservation</strong></a></td>
+<td width="33%" valign="top" align="center"><a href="editing/text-editing.md#evolink-gpt-image-2-6-case-253"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/billboard-gpt-image-2-6-flare.webp" width="230" alt="Source example"></a><br><a href="editing/text-editing.md#evolink-gpt-image-2-6-case-253"><strong>Snowy Evening Billboard Edit</strong></a></td>
+<td width="33%" valign="top" align="center"><a href="editing/other.md#evolink-editing-case-237"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2108382579359649793.jpg" width="230" alt="After"></a><br><a href="editing/other.md#evolink-editing-case-237"><strong>Old House Miniature Model</strong></a></td>
+</tr></table>
+
+<table><tr>
+<td width="33%" valign="top" align="center"><a href="editing/other.md#evolink-editing-case-238"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2108123010473590784.jpg" width="230" alt="Source example"></a><br><a href="editing/other.md#evolink-editing-case-238"><strong>Partial Composite Edit with Original Pixels</strong></a></td>
+<td width="33%" valign="top" align="center"><a href="editing/other.md#evolink-editing-case-239"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2102352397066735616.jpg" width="230" alt="Source example"></a><br><a href="editing/other.md#evolink-editing-case-239"><strong>Reference Composition Character Transformation</strong></a></td>
+<td width="33%" valign="top" align="center"><a href="editing/other.md#evolink-editing-case-240"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2100003201902899200-poster.jpg" width="230" alt="Source example"></a><br><a href="editing/other.md#evolink-editing-case-240"><strong>Drone Route Overlay on Original Photo</strong></a></td>
+</tr></table>
 
 ## 分类浏览
 
 ### generation
 
 - [portraits](generation/portraits.md) (104)
-- [avatars](generation/avatars.md) (4)
-- [illustrations](generation/illustrations.md) (69)
+- [avatars](generation/avatars.md) (3)
+- [illustrations](generation/illustrations.md) (68)
 - [products](generation/products.md) (33)
 - [posters](generation/posters.md) (87)
 - [characters](generation/characters.md) (80)
@@ -19,15 +47,16 @@
 
 ### editing
 
-- [background change](editing/background-change.md) (1)
 - [object removal](editing/object-removal.md) (1)
-- [text editing](editing/text-editing.md) (2)
+- [text editing](editing/text-editing.md) (1)
 - [other](editing/other.md) (5)
 
 ### unclassified
 
 - [other](unclassified/other.md) (338)
 
+## Sources and use
 
+[Source attribution](SOURCES.md) · [Content policy](docs/content-policy.md) · [Try AI Photo Editor](https://getaiphotoeditor.com/)
 
-数据以 JSON 为准，Markdown 自动生成。
+JSON is the source of truth. Markdown is generated with `npm run build`.

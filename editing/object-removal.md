@@ -1,11 +1,27 @@
 # object removal
 
+[← Home](../README.md) · Page 1 / 1
+
+**1**
+
+Source images are externally hosted and creator-attributed; previews are not independently reproduced. Follow the case link for the full original prompt. Image roles are unverified unless identified by the source.
+
+<a id="evolink-gpt-image-2-6-case-252"></a>
+
+## Flower Removal with Scene Preservation
+
+<a href="https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/gpt-image-2-6.md#gpt-image-2-6-case-252"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/man-with-blue-hat.webp" width="260" alt="Source example"></a> <a href="https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/gpt-image-2-6.md#gpt-image-2-6-case-252"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/man-with-no-flower-gpt-image-2-6-flare.webp" width="260" alt="Source example"></a> <a href="https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/gpt-image-2-6.md#gpt-image-2-6-case-252"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/man-with-no-flower-gpt-image-2-6-sunburst.webp" width="260" alt="Source example"></a>
+
+**Prompt preview**
+
+<blockquote>Remove the flower from man&#39;s hand. Do not change anything else.</blockquote>
+
+**[Read full original prompt →](https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/gpt-image-2-6.md#gpt-image-2-6-case-252)**
+
+Creator: @OpenAI · Collected from: [evolink](https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/gpt-image-2-6.md#gpt-image-2-6-case-252)
+
+---
+
+**1**
+
 [← Home](../README.md)
-
-## Source index
-
-Open the collected case to view the source image and prompt. Classifications are provisional; original sources are reported by upstream and not independently checked.
-
-| Case | Creator | Original post | Collected from |
-|---|---|---|---|
-| Flower Removal with Scene Preservation | @OpenAI | Not available | [evolink](https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/gpt-image-2-6.md#gpt-image-2-6-case-252) |

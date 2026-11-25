@@ -10,7 +10,7 @@
     "status",
     "prompt",
     "media",
-    "models",
+    "sourcePreview",
     "provenance",
     "rights"
   ],
@@ -20,25 +20,7 @@
       "pattern": "^[a-z0-9-]+$"
     },
     "title": {
-      "type": "object",
-      "required": [
-        "en",
-        "zh"
-      ],
-      "properties": {
-        "en": {
-          "type": [
-            "string",
-            "null"
-          ]
-        },
-        "zh": {
-          "type": [
-            "string",
-            "null"
-          ]
-        }
-      }
+      "type": "object"
     },
     "type": {
       "enum": [
@@ -59,57 +41,62 @@
       ]
     },
     "status": {
-      "enum": [
-        "index-only",
-        "original-untested"
-      ]
+      "const": "index-only"
     },
     "prompt": {
-      "type": [
-        "object",
-        "null"
-      ]
+      "type": "null"
     },
     "media": {
-      "type": "array"
+      "type": "array",
+      "maxItems": 0
     },
-    "models": {
-      "type": "array"
+    "sourcePreview": {
+      "type": "object",
+      "required": [
+        "images",
+        "promptExcerpt",
+        "excerptTruncated"
+      ],
+      "properties": {
+        "images": {
+          "type": "array",
+          "maxItems": 4,
+          "items": {
+            "type": "object",
+            "required": [
+              "url",
+              "role"
+            ],
+            "properties": {
+              "url": {
+                "type": "string",
+                "format": "uri"
+              },
+              "role": {
+                "enum": [
+                  "source-media",
+                  "input",
+                  "output"
+                ]
+              }
+            }
+          }
+        },
+        "promptExcerpt": {
+          "type": "string",
+          "maxLength": 100
+        },
+        "excerptTruncated": {
+          "type": "boolean"
+        }
+      }
     },
     "provenance": {
       "type": "object",
       "required": [
         "originalSource",
         "collectedFrom"
-      ],
-      "properties": {
-        "originalSource": {
-          "type": "object",
-          "required": [
-            "platform",
-            "author",
-            "url",
-            "postId",
-            "publishedAt",
-            "verification"
-          ]
-        },
-        "collectedFrom": {
-          "type": "array",
-          "items": {
-            "type": "object",
-            "required": [
-              "sourceId",
-              "repository",
-              "ref",
-              "commitSha",
-              "path",
-              "anchor",
-              "url"
-            ]
-          }
-        }
-      }
+      ]
     },
     "rights": {
       "type": "object",
@@ -118,26 +105,5 @@
         "media"
       ]
     }
-  },
-  "allOf": [
-    {
-      "if": {
-        "properties": {
-          "status": {
-            "const": "index-only"
-          }
-        }
-      },
-      "then": {
-        "properties": {
-          "prompt": {
-            "type": "null"
-          },
-          "media": {
-            "maxItems": 0
-          }
-        }
-      }
-    }
-  ]
+  }
 }

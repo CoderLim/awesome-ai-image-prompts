@@ -1,7 +1,7 @@
 # Sources and acknowledgements
 
-- [freestylefly](https://github.com/freestylefly/awesome-gpt-image-2): MIT (repository-authored material; third-party rights separate)
-- [evolink](https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api): CC BY 4.0 (repository-authored documentation only)
-- [prompthero](https://prompthero.com/): Per creator / platform terms
+- [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2): upstream gallery and creator attribution.
+- [Evolink-AI/awesome-gpt-image-2-6-prompts-and-api](https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api): upstream gallery and creator attribution.
+- [PromptHero](https://prompthero.com/): discovery source, not yet imported.
 
-Original creator links and pinned collector URLs are stored per record. Missing original links are left unknown. Source-index titles are reference metadata; no third-party prompt text or media is redistributed. PromptHero is a manually curated discovery source, not scraped.
+Images are externally linked, not mirrored. Third-party rights remain with their owners. Short prompt previews and links point to the original full prompt. See [content policy](docs/content-policy.md).

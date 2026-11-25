@@ -1,61 +1,331 @@
 # infographics
 
+[← Home](../README.md) · Page 1 / 3
+
+**1** · [2](infographics-2.md) · [3](infographics-3.md)
+
+Source images are externally hosted and creator-attributed; previews are not independently reproduced. Follow the case link for the full original prompt. Image roles are unverified unless identified by the source.
+
+<a id="freestylefly-case-1"></a>
+
+## 信息图可视化设计
+
+<a href="https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-1"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case1.jpg" width="520" alt="Source example"></a>
+
+**Prompt preview**
+
+<blockquote>Vertical 9:16 isometric cutaway infographic &quot;城市生命系统图谱 / Urban Metabolism Atlas&quot;. Smart city from sky…</blockquote>
+
+**[Read full original prompt →](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-1)**
+
+Creator: 小红书号insight\_express · Collected from: [freestylefly](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-1)
+
+---
+
+<a id="freestylefly-case-8"></a>
+
+## 科普百科图
+
+<a href="https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-8"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case8.jpg" width="520" alt="Source example"></a>
+
+**Prompt preview**
+
+<blockquote>根据【主题】生成一张高质量竖版「科普百科图」。 这张图不是普通海报，也不是单纯插画，而是一张兼具图鉴感、百科感、信息结构感和收藏感的模块化科普信息图。整体风格参考高级博物图鉴、现代百科书页、生活方式知…</blockquote>
+
+**[Read full original prompt →](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-8)**
+
+Creator: 小红书号1055699679 · Collected from: [freestylefly](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-8)
+
+---
+
+<a id="freestylefly-case-13"></a>
+
+## 信息图可视化设计
+
+<a href="https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-13"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case13.jpg" width="520" alt="Source example"></a>
+
+**Prompt preview**
+
+<blockquote>A realistic photo of a Chinese high school math exam paper, printed inblack and white on slightly gr…</blockquote>
+
+**[Read full original prompt →](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-13)**
+
+Creator: 小红书号94156710894 · Collected from: [freestylefly](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-13)
+
+---
+
+<a id="freestylefly-case-14"></a>
+
+## 信息图可视化设计
+
+<a href="https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-14"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case14.jpg" width="520" alt="Source example"></a>
+
+**Prompt preview**
+
+<blockquote>视觉设计规格描述：画幅比 9:16（竖版手机信息图）；背景纹理为具有呼吸感的米色手工纸（Handmade Washi Paper），带微小纤维纹理，边角有轻微水渍晕染；配色方案为熟番茄红（#E23A2…</blockquote>
+
+**[Read full original prompt →](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-14)**
+
+Creator: 小红书号Roy\_Jay · Collected from: [freestylefly](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-14)
+
+---
+
+<a id="freestylefly-case-18"></a>
+
+## 信息图可视化设计
+
+<a href="https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-18"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case18.jpg" width="520" alt="Source example"></a>
+
+**Prompt preview**
+
+<blockquote>{ &quot;type&quot;: &quot;illustrated map infographic&quot;, &quot;style&quot;: &quot;{argument name=\&quot;art style\&quot; default=\&quot;watercolor…</blockquote>
+
+**[Read full original prompt →](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-18)**
+
+Creator: @mm\_zzm44854 · Collected from: [freestylefly](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-18)
+
+---
+
+<a id="freestylefly-case-19"></a>
+
+## 信息图可视化设计
+
+<a href="https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-19"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case19.jpg" width="520" alt="Source example"></a>
+
+**Prompt preview**
+
+<blockquote>Create an explanatory slide ({argument name=&quot;format&quot; default=&quot;ponchi-e diagram&quot;}) for {argument name…</blockquote>
+
+**[Read full original prompt →](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-19)**
+
+Creator: @yammamon · Collected from: [freestylefly](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-19)
+
+---
+
+<a id="freestylefly-case-20"></a>
+
+## 信息图可视化设计
+
+<a href="https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-20"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case20.jpg" width="520" alt="Source example"></a>
+
+**Prompt preview**
+
+<blockquote>Create an explanatory slide ({argument name=&quot;format&quot; default=&quot;ponchi-e diagram&quot;}) for {argument name…</blockquote>
+
+**[Read full original prompt →](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-20)**
+
+Creator: @yammamon · Collected from: [freestylefly](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-20)
+
+---
+
+<a id="freestylefly-case-23"></a>
+
+## 信息图可视化设计
+
+<a href="https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-23"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case23.jpg" width="520" alt="Source example"></a>
+
+**Prompt preview**
+
+<blockquote>{ &quot;type&quot;: &quot;evolutionary timeline infographic&quot;, &quot;instruction&quot;: &quot;Using REFERENCE_0 as a structural bas…</blockquote>
+
+**[Read full original prompt →](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-23)**
+
+Creator: @GeekCatX · Collected from: [freestylefly](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-23)
+
+---
+
+<a id="freestylefly-case-51"></a>
+
+## 信息图可视化设计
+
+<a href="https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-51"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case51.jpg" width="520" alt="Source example"></a>
+
+**Prompt preview**
+
+<blockquote>{ &quot;type&quot;: &quot;7-day fashion lookbook infographic&quot;, &quot;header&quot;: { &quot;title&quot;: &quot;{argument name=\&quot;main title\&quot; …</blockquote>
+
+**[Read full original prompt →](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-51)**
+
+Creator: @yyyole · Collected from: [freestylefly](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-51)
+
+---
+
+<a id="freestylefly-case-55"></a>
+
+## 信息图可视化设计
+
+<a href="https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-55"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case55.jpg" width="520" alt="Source example"></a>
+
+**Prompt preview**
+
+<blockquote>Help me create a detailed production flowchart for the dish {argument name=&quot;dish name&quot; default=&quot;Frie…</blockquote>
+
+**[Read full original prompt →](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-55)**
+
+Creator: @Kurt\_Rousey466 · Collected from: [freestylefly](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-55)
+
+---
+
+<a id="freestylefly-case-64"></a>
+
+## 信息图可视化设计
+
+<a href="https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-64"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case64.jpg" width="520" alt="Source example"></a>
+
+**Prompt preview**
+
+<blockquote>{&quot;type&quot;:&quot;infographic poster&quot;,&quot;style&quot;:&quot;cute flat vector illustration, cozy, warm, soft shading, {argu…</blockquote>
+
+**[Read full original prompt →](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-64)**
+
+Creator: @j\_zou93 · Collected from: [freestylefly](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-64)
+
+---
+
+<a id="freestylefly-case-65"></a>
+
+## 信息图可视化设计
+
+<a href="https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-65"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case65.jpg" width="520" alt="Source example"></a>
+
+**Prompt preview**
+
+<blockquote>A breathtaking and extremely complex world-building infographic masterpiece conceptualizing the &quot;{ar…</blockquote>
+
+**[Read full original prompt →](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-65)**
+
+Creator: @GeekCatX · Collected from: [freestylefly](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-65)
+
+---
+
+<a id="freestylefly-case-66"></a>
+
+## 信息图可视化设计
+
+<a href="https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-66"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case66.jpg" width="520" alt="Source example"></a>
+
+**Prompt preview**
+
+<blockquote>{ &quot;type&quot;: &quot;fashion design process infographic&quot;, &quot;title&quot;: &quot;{argument name=\&quot;main title\&quot; default=\&quot;一件…</blockquote>
+
+**[Read full original prompt →](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-66)**
+
+Creator: @hx831126 · Collected from: [freestylefly](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-66)
+
+---
+
+<a id="freestylefly-case-67"></a>
+
+## 信息图可视化设计
+
+<a href="https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-67"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case67.jpg" width="520" alt="Source example"></a>
+
+**Prompt preview**
+
+<blockquote>{ &quot;type&quot;: &quot;medical infographic poster&quot;, &quot;style&quot;: &quot;highly detailed anatomical illustrations, clean st…</blockquote>
+
+**[Read full original prompt →](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-67)**
+
+Creator: @hx831126 · Collected from: [freestylefly](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-67)
+
+---
+
+<a id="freestylefly-case-68"></a>
+
+## 信息图可视化设计
+
+<a href="https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-68"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case68.jpg" width="520" alt="Source example"></a>
+
+**Prompt preview**
+
+<blockquote>{ &quot;type&quot;: &quot;comprehensive medical infographic&quot;, &quot;style&quot;: &quot;highly detailed 3D medical illustration, cl…</blockquote>
+
+**[Read full original prompt →](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-68)**
+
+Creator: @hx831126 · Collected from: [freestylefly](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-68)
+
+---
+
+<a id="freestylefly-case-69"></a>
+
+## 信息图可视化设计
+
+<a href="https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-69"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case69.jpg" width="520" alt="Source example"></a>
+
+**Prompt preview**
+
+<blockquote>{ &quot;type&quot;: &quot;comprehensive medical infographic&quot;, &quot;style&quot;: &quot;highly detailed 3D medical illustration, cl…</blockquote>
+
+**[Read full original prompt →](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-69)**
+
+Creator: @hx831126 · Collected from: [freestylefly](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-69)
+
+---
+
+<a id="freestylefly-case-70"></a>
+
+## 信息图可视化设计
+
+<a href="https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-70"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case70.jpg" width="520" alt="Source example"></a>
+
+**Prompt preview**
+
+<blockquote>{ &quot;type&quot;: &quot;technical infographic&quot;, &quot;subject&quot;: &quot;{argument name=\&quot;subject matter\&quot; default=\&quot;digital p…</blockquote>
+
+**[Read full original prompt →](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-70)**
+
+Creator: @hx831126 · Collected from: [freestylefly](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-70)
+
+---
+
+<a id="freestylefly-case-71"></a>
+
+## 关系图谱信息图
+
+<a href="https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-71"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case71.jpg" width="520" alt="Source example"></a>
+
+**Prompt preview**
+
+<blockquote>{ &quot;type&quot;: &quot;technical infographic and exploded view diagram&quot;, &quot;header&quot;: { &quot;title&quot;: &quot;{argument name=\&quot;…</blockquote>
+
+**[Read full original prompt →](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-71)**
+
+Creator: @hx831126 · Collected from: [freestylefly](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-71)
+
+---
+
+<a id="freestylefly-case-72"></a>
+
+## 信息图可视化设计
+
+<a href="https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-72"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case72.jpg" width="520" alt="Source example"></a>
+
+**Prompt preview**
+
+<blockquote>{ &quot;type&quot;: &quot;scientific botanical infographic poster&quot;, &quot;subject&quot;: &quot;{argument name=\&quot;plant species\&quot; de…</blockquote>
+
+**[Read full original prompt →](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-72)**
+
+Creator: @hx831126 · Collected from: [freestylefly](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-72)
+
+---
+
+<a id="freestylefly-case-73"></a>
+
+## 信息图可视化设计
+
+<a href="https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-73"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case73.jpg" width="520" alt="Source example"></a>
+
+**Prompt preview**
+
+<blockquote>{ &quot;type&quot;: &quot;complex urban systems atlas infographic&quot;, &quot;style&quot;: &quot;{argument name=\&quot;color palette\&quot; defa…</blockquote>
+
+**[Read full original prompt →](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-73)**
+
+Creator: @hx831126 · Collected from: [freestylefly](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-73)
+
+---
+
+**1** · [2](infographics-2.md) · [3](infographics-3.md)
+
 [← Home](../README.md)
-
-## Source index
-
-Open the collected case to view the source image and prompt. Classifications are provisional; original sources are reported by upstream and not independently checked.
-
-| Case | Creator | Original post | Collected from |
-|---|---|---|---|
-| 信息图可视化设计 | 小红书号insight_express | Not available | [freestylefly](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-1) |
-| 科普百科图 | 小红书号1055699679 | Not available | [freestylefly](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-8) |
-| 信息图可视化设计 | 小红书号94156710894 | Not available | [freestylefly](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-13) |
-| 信息图可视化设计 | 小红书号Roy_Jay | Not available | [freestylefly](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-14) |
-| 信息图可视化设计 | @mm_zzm44854 | Not available | [freestylefly](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-18) |
-| 信息图可视化设计 | @yammamon | Not available | [freestylefly](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-19) |
-| 信息图可视化设计 | @yammamon | Not available | [freestylefly](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-20) |
-| 信息图可视化设计 | @GeekCatX | Not available | [freestylefly](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-23) |
-| 信息图可视化设计 | @yyyole | Not available | [freestylefly](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-51) |
-| 信息图可视化设计 | @Kurt_Rousey466 | Not available | [freestylefly](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-55) |
-| 信息图可视化设计 | @j_zou93 | Not available | [freestylefly](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-64) |
-| 信息图可视化设计 | @GeekCatX | Not available | [freestylefly](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-65) |
-| 信息图可视化设计 | @hx831126 | Not available | [freestylefly](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-66) |
-| 信息图可视化设计 | @hx831126 | Not available | [freestylefly](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-67) |
-| 信息图可视化设计 | @hx831126 | Not available | [freestylefly](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-68) |
-| 信息图可视化设计 | @hx831126 | Not available | [freestylefly](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-69) |
-| 信息图可视化设计 | @hx831126 | Not available | [freestylefly](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-70) |
-| 关系图谱信息图 | @hx831126 | Not available | [freestylefly](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-71) |
-| 信息图可视化设计 | @hx831126 | Not available | [freestylefly](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-72) |
-| 信息图可视化设计 | @hx831126 | Not available | [freestylefly](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-73) |
-| 关系图谱信息图 | @alanlovelq | Not available | [freestylefly](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-74) |
-| 关系图谱信息图 | @alanlovelq | Not available | [freestylefly](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-75) |
-| 关系图谱信息图 | @alanlovelq | Not available | [freestylefly](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-76) |
-| 关系图谱信息图 | @alanlovelq | Not available | [freestylefly](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-77) |
-| 信息图可视化设计 | @HumanOS_v2 | Not available | [freestylefly](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-82) |
-| 信息图可视化设计 | @NumeroBTC | Not available | [freestylefly](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-83) |
-| 关系图谱信息图 | @MrLarus | Not available | [freestylefly](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-84) |
-| 关系图谱信息图 | @MrLarus | Not available | [freestylefly](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-85) |
-| 关系图谱信息图 | @MrLarus | Not available | [freestylefly](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-86) |
-| 关系图谱信息图 | @MrLarus | Not available | [freestylefly](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-87) |
-| 信息图可视化设计 | @A9Quant | Not available | [freestylefly](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-88) |
-| 信息图可视化设计 | @A9Quant | Not available | [freestylefly](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-89) |
-| 信息图可视化设计 | @A9Quant | Not available | [freestylefly](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-90) |
-| 信息图可视化设计 | @maxescu | Not available | [freestylefly](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-102) |
-| 信息图可视化设计 | @songguoxiansen | Not available | [freestylefly](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-112) |
-| 信息图可视化设计 | @umesh_ai | [Original](https://x.com/umesh_ai/status/2046510988367945983) | [freestylefly](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-171) |
-| 一张中文健身信息图 | @MrLarus | [Original](https://x.com/MrLarus/status/2046560406760505727) | [freestylefly](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-183) |
-| 精致模块化科普百科图鉴 | @MrLarus | [Original](https://x.com/MrLarus/status/2046231542817497392) | [freestylefly](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-222) |
-| 信息图可视化设计 | @Toshi_nyaruo_AI | [Original](https://x.com/Toshi_nyaruo_AI/status/2045025277538107420) | [freestylefly](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-270) |
-| 博物馆级中文拆解信息图鉴 | @MrLarus | [Original](https://x.com/MrLarus/status/2045504669401653414) | [freestylefly](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-296) |
-| AP Calculus 学习表信息图 | @hqmank | [Original](https://x.com/hqmank/status/2048587150544028084) | [freestylefly](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-341) |
-| 品牌口红推荐报告信息图 | @liyue_ai | [Original](https://x.com/liyue_ai/status/2048667226195317219) | [freestylefly](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-353) |
-| 长发造型分析信息图 | @Gemalpha_88 | [Original](https://x.com/Gemalpha_88/status/2048918707343401034) | [freestylefly](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-360) |
-| 奢华个人色彩档案信息图 | @meng_dagg695 | [Original](https://x.com/meng_dagg695/status/2049822844918575586) | [freestylefly](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-364) |
-| 品牌人格漫画信息图 | @CallumGrey | [Original](https://x.com/CallumGrey/status/2051293342139584922) | [freestylefly](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-379) |
-| 冠状病毒尺度缩放科学信息图 | @Gdgtify | [Original](https://x.com/Gdgtify/status/2051288232613351571) | [freestylefly](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-380) |
-| Neuro-AI 混合系统信息图 | @YaZoraiz | [Original](https://x.com/YaZoraiz/status/2052968427514708371) | [freestylefly](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-407) |
-| 塔可爆炸拆解信息图 | @Strength04_X | [Original](https://x.com/Strength04_X/status/2056018963084226866) | [freestylefly](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-443) |
-| 现代地铁工程信息图 | @j_smeaton99 | [Original](https://x.com/j_smeaton99/status/2056950969083343077) | [freestylefly](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-447) |
-| 导览式科普绘本 | @MrLarus | [Original](https://x.com/MrLarus/status/2058773446167773521) | [freestylefly](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-469) |
-| 电动巴士工程信息图 | @j_smeaton99 | [Original](https://x.com/j_smeaton99/status/2062365258984177766) | [freestylefly](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-494) |
