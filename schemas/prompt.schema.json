@@ -1,0 +1,143 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "required": [
+    "id",
+    "title",
+    "type",
+    "category",
+    "inputMode",
+    "status",
+    "prompt",
+    "media",
+    "models",
+    "provenance",
+    "rights"
+  ],
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^[a-z0-9-]+$"
+    },
+    "title": {
+      "type": "object",
+      "required": [
+        "en",
+        "zh"
+      ],
+      "properties": {
+        "en": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "zh": {
+          "type": [
+            "string",
+            "null"
+          ]
+        }
+      }
+    },
+    "type": {
+      "enum": [
+        "generation",
+        "editing",
+        "unclassified"
+      ]
+    },
+    "category": {
+      "type": "string"
+    },
+    "inputMode": {
+      "enum": [
+        "text-to-image",
+        "reference-to-image",
+        "image-editing",
+        "unknown"
+      ]
+    },
+    "status": {
+      "enum": [
+        "index-only",
+        "original-untested"
+      ]
+    },
+    "prompt": {
+      "type": [
+        "object",
+        "null"
+      ]
+    },
+    "media": {
+      "type": "array"
+    },
+    "models": {
+      "type": "array"
+    },
+    "provenance": {
+      "type": "object",
+      "required": [
+        "originalSource",
+        "collectedFrom"
+      ],
+      "properties": {
+        "originalSource": {
+          "type": "object",
+          "required": [
+            "platform",
+            "author",
+            "url",
+            "postId",
+            "publishedAt",
+            "verification"
+          ]
+        },
+        "collectedFrom": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": [
+              "sourceId",
+              "repository",
+              "ref",
+              "commitSha",
+              "path",
+              "anchor",
+              "url"
+            ]
+          }
+        }
+      }
+    },
+    "rights": {
+      "type": "object",
+      "required": [
+        "prompt",
+        "media"
+      ]
+    }
+  },
+  "allOf": [
+    {
+      "if": {
+        "properties": {
+          "status": {
+            "const": "index-only"
+          }
+        }
+      },
+      "then": {
+        "properties": {
+          "prompt": {
+            "type": "null"
+          },
+          "media": {
+            "maxItems": 0
+          }
+        }
+      }
+    }
+  ]
+}

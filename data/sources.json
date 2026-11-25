@@ -1,0 +1,36 @@
+[
+  {
+    "id": "freestylefly",
+    "repository": "freestylefly/awesome-gpt-image-2",
+    "ref": "main",
+    "paths": [
+      "docs/gallery-part-1.md",
+      "docs/gallery-part-2.md"
+    ],
+    "url": "https://github.com/freestylefly/awesome-gpt-image-2",
+    "license": "MIT (repository-authored material; third-party rights separate)"
+  },
+  {
+    "id": "evolink",
+    "repository": "Evolink-AI/awesome-gpt-image-2-6-prompts-and-api",
+    "ref": "codex/gpt-image-2-5-prompts",
+    "paths": [
+      "cases/portraits.md",
+      "cases/character-sheets.md",
+      "cases/illustration.md",
+      "cases/advertising.md",
+      "cases/travel-journals.md",
+      "cases/editing.md",
+      "cases/sequential-art.md",
+      "cases/gpt-image-2-6.md"
+    ],
+    "url": "https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api",
+    "license": "CC BY 4.0 (repository-authored documentation only)"
+  },
+  {
+    "id": "prompthero",
+    "url": "https://prompthero.com/",
+    "mode": "manual-link-only",
+    "license": "Per creator / platform terms"
+  }
+]

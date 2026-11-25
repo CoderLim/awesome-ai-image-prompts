@@ -1,0 +1,33 @@
+{
+  "generation": [
+    "portraits",
+    "avatars",
+    "illustrations",
+    "products",
+    "posters",
+    "characters",
+    "architecture",
+    "infographics",
+    "logos",
+    "travel",
+    "other"
+  ],
+  "editing": [
+    "restyle",
+    "portrait-editing",
+    "outfit-change",
+    "hair-makeup",
+    "background-change",
+    "object-removal",
+    "object-replacement",
+    "text-editing",
+    "restoration",
+    "enhancement",
+    "composition",
+    "expansion",
+    "other"
+  ],
+  "unclassified": [
+    "other"
+  ]
+}

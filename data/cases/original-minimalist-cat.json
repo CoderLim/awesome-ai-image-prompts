@@ -1,0 +1,39 @@
+{
+  "id": "original-minimalist-cat",
+  "title": {
+    "en": "Minimalist Cat Avatar",
+    "zh": "极简猫咪头像"
+  },
+  "type": "generation",
+  "category": "avatars",
+  "inputMode": "text-to-image",
+  "status": "original-untested",
+  "prompt": {
+    "original": "Create a playful minimalist vector avatar of a charcoal-gray cat with tiny round eyes, a crooked smile and a soft sage-green background. Use simple rounded shapes, generous negative space, no text, and a square composition.",
+    "language": "en"
+  },
+  "media": [
+    {
+      "role": "output",
+      "path": "assets/examples/original-minimalist-cat-output.svg",
+      "kind": "illustrative-fixture",
+      "license": "CC0-1.0"
+    }
+  ],
+  "models": [],
+  "provenance": {
+    "originalSource": {
+      "platform": "repository",
+      "author": "Awesome AI Image Prompts contributors",
+      "url": "https://github.com/CoderLim/awesome-ai-image-prompts",
+      "postId": null,
+      "publishedAt": null,
+      "verification": "first-party"
+    },
+    "collectedFrom": []
+  },
+  "rights": {
+    "prompt": "CC0-1.0",
+    "media": "CC0-1.0"
+  }
+}
