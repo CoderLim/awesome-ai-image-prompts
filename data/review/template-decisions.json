@@ -1,0 +1,875 @@
+[
+  {
+    "keepId": "prompthero-4d67fd58767",
+    "dropId": "prompthero-00378c9832c",
+    "keepHash": "543786044afa9b9b2a092d0b40f9cc3e8430cf7deb9d1ea0121ec8956475ee2a",
+    "dropHash": "52fb29ea60e9b337db3880b6def0876400c1e7398bb20c40ddbf5b63993c78e8",
+    "scope": "candidate",
+    "reason": "same-template-variable-or-wording",
+    "reviewSource": "v3-pair-45"
+  },
+  {
+    "keepId": "prompthero-dd8310db9f2",
+    "dropId": "prompthero-00e5d3ac69e",
+    "keepHash": "f93b75f6deba35ebab5e4ea5d8c3f3336fab1e2a6a498d8d01f11016bd1fafe9",
+    "dropHash": "223d9ebed7c204b2ed365d89b842ebad85ce21338de0806ab9779b310892b0aa",
+    "scope": "candidate",
+    "reason": "same-template-variable-or-wording",
+    "reviewSource": "v3-pair-77"
+  },
+  {
+    "keepId": "prompthero-31bbc905388",
+    "dropId": "prompthero-0f71736e134",
+    "keepHash": "9780ee1dc2fae173fe603e1e6aaa5233f06d280e00d0e6803f526e39fd8e6678",
+    "dropHash": "c639a0aaee17ec875f2d1166b0aca39c103a78cf976e7f3b4d84ba412cece3fa",
+    "scope": "candidate",
+    "reason": "same-template-variable-or-wording",
+    "reviewSource": "v3-pair-88"
+  },
+  {
+    "keepId": "prompthero-d7a09fc8b07",
+    "dropId": "prompthero-0fc33eef6c6",
+    "keepHash": "8ae5a6c5db0f87524c8956eab30108c93ea8be5f6b1a12321febb1dead0f373d",
+    "dropHash": "e3db40934eb34440904b23846b6f9de508ec02c72f2c8d2378562df62a1fe12e",
+    "scope": "candidate",
+    "reason": "same-template-variable-or-wording",
+    "reviewSource": "v3-pair-89"
+  },
+  {
+    "keepId": "prompthero-9090feb1232",
+    "dropId": "prompthero-10082477c96",
+    "keepHash": "a6a67a2e197131371dcdbf6c948b6e6360b2220a0b6ab4044d3ef30a8fa9e295",
+    "dropHash": "0041084e064032e976a0d78b4bf54f34d510552943f584b14a08175b6669e3eb",
+    "scope": "candidate",
+    "reason": "same-template-variable-or-wording",
+    "reviewSource": "v3-pair-46"
+  },
+  {
+    "keepId": "prompthero-79b2ae458be",
+    "dropId": "prompthero-106c6a97791",
+    "keepHash": "b1b224f844829b87f836c27de7612b093816268ff431a7c11ffeb65c8fea4880",
+    "dropHash": "f21ac1796e3211cc6b29be9d75f28e946568d83f48f28068105ba19f568a59b9",
+    "scope": "candidate",
+    "reason": "same-template-variable-or-wording",
+    "reviewSource": "v3-pair-54"
+  },
+  {
+    "keepId": "prompthero-72dd84ffd42",
+    "dropId": "prompthero-10b3f6579f6",
+    "keepHash": "abe90d253278066936786e82bb626120fc2e4cc74074bcd0d1789687f850d915",
+    "dropHash": "ef56c7de4ab338873e3c97ec3b9d364a2689c4eabe95f94e439769a2fadbf6ef",
+    "scope": "candidate",
+    "reason": "same-template-variable-or-wording",
+    "reviewSource": "v3-pair-48"
+  },
+  {
+    "keepId": "prompthero-716fbc33406",
+    "dropId": "prompthero-1144688ec62",
+    "keepHash": "f674df64ce5ed3141f80454ac617a92974053220b2265124db55eee18f188072",
+    "dropHash": "3ebb6bd86037f6f91273c0a4a7fbbcb09e1b6bcbd7585b0b5474a446fd7b8743",
+    "scope": "candidate",
+    "reason": "same-template-variable-or-wording",
+    "reviewSource": "v3-pair-92"
+  },
+  {
+    "keepId": "prompthero-1cfa58b7840",
+    "dropId": "prompthero-12489ee83e1",
+    "keepHash": "302c2e683e815a8773c966cbc4d7a6d32f63612befac3839b8a797e7b9b1add5",
+    "dropHash": "9fd4bc41ad25a5597131e7b896233af7c7246b601ea51f966b50d90b43203c37",
+    "scope": "candidate",
+    "reason": "same-template-variable-or-wording",
+    "reviewSource": "v3-pair-36"
+  },
+  {
+    "keepId": "prompthero-1b787270560",
+    "dropId": "prompthero-1da158ccf43",
+    "keepHash": "6731c3e0723bde998c86d386b50d08ee54fa2241eeb3e0279fed8e4597960a7e",
+    "dropHash": "d554a26377eb5944920f16ae571a1097b2848e6474c3ad5b8c453263c7c9e351",
+    "scope": "candidate",
+    "reason": "same-template-variable-or-wording",
+    "reviewSource": "v3-pair-75"
+  },
+  {
+    "keepId": "prompthero-a11394df568",
+    "dropId": "prompthero-231fbf23b35",
+    "keepHash": "8e582feb0231e2567f1e8ebdffa89247722dc8e689cb3565fb4b1ba83b0ae766",
+    "dropHash": "c46fd1bcfd7bed3c04973d1c1e6e93bf99a541dd54c07fce21d72ddd2daeb432",
+    "scope": "candidate",
+    "reason": "same-template-variable-or-wording",
+    "reviewSource": "v3-pair-57"
+  },
+  {
+    "keepId": "prompthero-92fce837d3d",
+    "dropId": "prompthero-27b935afced",
+    "keepHash": "162e182df52ced986b40a7af1fd27eade17ff2dcc35ca75d46c011facd70c212",
+    "dropHash": "62d79c47ecaf5c496e10485023a358e1764fa5308e8e96be29f0342b9d6f105e",
+    "scope": "candidate",
+    "reason": "same-template-variable-or-wording",
+    "reviewSource": "v3-pair-23"
+  },
+  {
+    "keepId": "prompthero-093d644cfbb",
+    "dropId": "prompthero-2ab88abf161",
+    "keepHash": "467d0da61b2cc1e42db69d8ce5c5b1c0357e0e368705cb755e648ce99591ab7b",
+    "dropHash": "9ebac68af67ed1cdbe52f9e260ad224e4bef860d59ace101b9578460750bc7ad",
+    "scope": "candidate",
+    "reason": "same-template-variable-or-wording",
+    "reviewSource": "v3-pair-70"
+  },
+  {
+    "keepId": "prompthero-d864fb91e32",
+    "dropId": "prompthero-3947bccd8c2",
+    "keepHash": "82edd4f57549506cb982104c682536a57c9856a3ae502d556edec80ba8e36642",
+    "dropHash": "60ac2b5de1d2c06ec155c57d621ae3b233edbbcb02bfd3fcf4133fca5c67c3f5",
+    "scope": "candidate",
+    "reason": "same-template-variable-or-wording",
+    "reviewSource": "v3-pair-7"
+  },
+  {
+    "keepId": "prompthero-0afc90760f5",
+    "dropId": "prompthero-39cdca169d1",
+    "keepHash": "f88839e07c631c01fa5af46a56123bb89b9184fc96ce6714090bebab25b7b01a",
+    "dropHash": "65e1f211da0049fd7b650c9d6c8ca2c804d1df8866775e438e50a215d8f6b885",
+    "scope": "candidate",
+    "reason": "same-template-variable-or-wording",
+    "reviewSource": "v3-pair-47"
+  },
+  {
+    "keepId": "prompthero-93ac0697241",
+    "dropId": "prompthero-3d8d834076b",
+    "keepHash": "d46b0a75b853e2fec2af8002fa8bc057d430daa87c944eb371aad657e636fc1c",
+    "dropHash": "84cf0b9c58d6e82feeb66bc91cd289c2bb3a5e338a3942c3ab54d301937a97f5",
+    "scope": "candidate",
+    "reason": "same-template-variable-or-wording",
+    "reviewSource": "v3-pair-13"
+  },
+  {
+    "keepId": "prompthero-2acd137d36c",
+    "dropId": "prompthero-488ea3a49b6",
+    "keepHash": "2018afde2b5acb5df73e3108eaa25ff531ae1e9422c7737c25625429b9889168",
+    "dropHash": "3748bd5b79d29d77e631204365c689e7db910a3748f786874b18e4c3ea2048e2",
+    "scope": "candidate",
+    "reason": "same-template-variable-or-wording",
+    "reviewSource": "v3-pair-42"
+  },
+  {
+    "keepId": "prompthero-0b7b879ba91",
+    "dropId": "prompthero-4c553a78e23",
+    "keepHash": "49883c9e382a8c02478a1e52c1d854b3d25f2cac9649132e4b311af95f34b9a4",
+    "dropHash": "c87f9bbf88a817de32eff781afe5e9e484f3fcbd31cf45590339f6260485d32b",
+    "scope": "candidate",
+    "reason": "same-template-variable-or-wording",
+    "reviewSource": "v3-pair-66"
+  },
+  {
+    "keepId": "prompthero-935b0975c3e",
+    "dropId": "prompthero-4f1100feb03",
+    "keepHash": "a4dc118a3d545818cc981eb445746b59f627de2797457ad53142c6ad5e74f994",
+    "dropHash": "4fdb91afad34204312584b0dedeb848f5a69e99d2a8f60f60578daf31f560fcb",
+    "scope": "candidate",
+    "reason": "same-template-variable-or-wording",
+    "reviewSource": "v3-pair-61"
+  },
+  {
+    "keepId": "prompthero-cbd7fca77f5",
+    "dropId": "prompthero-5109f943425",
+    "keepHash": "b64bfd2ba7fff16930d7fa05cf8650511b3741ac0b0e4e3831a07c298a621f74",
+    "dropHash": "964a47f1b59778cdfecfa5009c7842857ca81c23d9a5df6e8b594902099322af",
+    "scope": "candidate",
+    "reason": "same-template-variable-or-wording",
+    "reviewSource": "v3-pair-15"
+  },
+  {
+    "keepId": "prompthero-e1cf9ae6bb1",
+    "dropId": "prompthero-53e0ca90fd5",
+    "keepHash": "e98da00c18ae8aa948a38ce8b62803d2bb6c07851ca7b6f68157616a717bc1e9",
+    "dropHash": "1d36c320b012839be0b7f73298dd627d399d738cc1c722819e92070267a4ea38",
+    "scope": "candidate",
+    "reason": "same-template-variable-or-wording",
+    "reviewSource": "v3-pair-65"
+  },
+  {
+    "keepId": "prompthero-32777a01e62",
+    "dropId": "prompthero-55463886eca",
+    "keepHash": "8662f2e60139a61682ab98fa988f2b45f507e0ddc3ab19f259add1236e641a8e",
+    "dropHash": "aed824849b35bc6829186fc15c55c37d0b1248efa22313b86bc2419f6a8c9719",
+    "scope": "candidate",
+    "reason": "same-template-variable-or-wording",
+    "reviewSource": "v3-pair-72"
+  },
+  {
+    "keepId": "prompthero-937c6c925c1",
+    "dropId": "prompthero-5567c3f7059",
+    "keepHash": "336d830599872005d327125408ef573ca4479ba10ce78878b8ff6d9c192313a4",
+    "dropHash": "fa36e6bf7afdb8517342adc7574525a6efe5d5609501f1d76fb16f856733a92d",
+    "scope": "candidate",
+    "reason": "same-template-variable-or-wording",
+    "reviewSource": "v3-pair-83"
+  },
+  {
+    "keepId": "prompthero-dcadf764f8a",
+    "dropId": "prompthero-5d3115c6f0b",
+    "keepHash": "66d5c83113e80a111f4182d659ccca96f1b7e414cf4692d935da6f944efedb9a",
+    "dropHash": "0042aaf92c5094510392ab9b2d002bb8124121879750298d8fc348f0f770ef64",
+    "scope": "candidate",
+    "reason": "same-template-variable-or-wording",
+    "reviewSource": "v3-pair-24"
+  },
+  {
+    "keepId": "prompthero-db626f9a2b8",
+    "dropId": "prompthero-6335c7ddf3c",
+    "keepHash": "f851915a24d0b2987f56aec2d8eb76944c82e4e484994508f8d5ad39321a00e4",
+    "dropHash": "8fcac3fee1ced53b5fde679b04921e61f6ecbf5b3a61705d32674006b05abed0",
+    "scope": "candidate",
+    "reason": "same-template-variable-or-wording",
+    "reviewSource": "v3-pair-18"
+  },
+  {
+    "keepId": "prompthero-15871e84965",
+    "dropId": "prompthero-648c765748f",
+    "keepHash": "c0f7085fa097a94f276ccf097a63a85aae119c4e4e5122e65f6aee1fe9136d8d",
+    "dropHash": "05e51990c50af1526121bf36add9fffd7ebd2db4944a0741a83d971ac3b5827f",
+    "scope": "candidate",
+    "reason": "same-template-variable-or-wording",
+    "reviewSource": "v3-pair-35"
+  },
+  {
+    "keepId": "prompthero-d7a09fc8b07",
+    "dropId": "prompthero-656d3946030",
+    "keepHash": "8ae5a6c5db0f87524c8956eab30108c93ea8be5f6b1a12321febb1dead0f373d",
+    "dropHash": "1535bd9dc8df98f5fd69b94791ed29aaf1eef4415509158ac9bff3713e3954c1",
+    "scope": "candidate",
+    "reason": "same-template-variable-or-wording",
+    "reviewSource": "v3-pair-87"
+  },
+  {
+    "keepId": "prompthero-af7a50d39cd",
+    "dropId": "prompthero-66ba65c4058",
+    "keepHash": "70c052461d0965d35489e0df6d82c3372ca59c671bcccb3827fe96f23dbef8f8",
+    "dropHash": "61a81b7a3a2cb30d39f6e5c8749fd12116ea69011cb1d5f934f50b5575ee250d",
+    "scope": "candidate",
+    "reason": "same-template-variable-or-wording",
+    "reviewSource": "v3-pair-4"
+  },
+  {
+    "keepId": "prompthero-da00515e478",
+    "dropId": "prompthero-6f14ba1aa85",
+    "keepHash": "dd86299179ff152fe6044f70f1ac56990926a42747ec50d3d78292b8d8ea70bd",
+    "dropHash": "0d25dc5140d49016dfbe086d8d5fbe6d9507eb269ce305b0d3719285f5b8385b",
+    "scope": "candidate",
+    "reason": "same-template-variable-or-wording",
+    "reviewSource": "v3-pair-32"
+  },
+  {
+    "keepId": "prompthero-3ca13bd7148",
+    "dropId": "prompthero-71c2c37e09d",
+    "keepHash": "5104349c9f1d3f2daee5cae74a5aebbf08e71a93402bec8943d489310f92a74f",
+    "dropHash": "d1e738cb7e2315b526b501ea52b7f2c3e2bb8333f38f9ebd72deb098c2745a50",
+    "scope": "candidate",
+    "reason": "same-template-variable-or-wording",
+    "reviewSource": "v3-pair-17"
+  },
+  {
+    "keepId": "prompthero-3ca13bd7148",
+    "dropId": "prompthero-7b6a6ca2050",
+    "keepHash": "5104349c9f1d3f2daee5cae74a5aebbf08e71a93402bec8943d489310f92a74f",
+    "dropHash": "c6e1d3b7f4cbe180063fbb29efb7b9904071bfd68f08e540b07e77ea4fcfe393",
+    "scope": "candidate",
+    "reason": "same-template-variable-or-wording",
+    "reviewSource": "v3-pair-84"
+  },
+  {
+    "keepId": "prompthero-1e00201783c",
+    "dropId": "prompthero-7d23fe868a4",
+    "keepHash": "b7011d7401c3817ff767af0f10e628a5b5b8ec3b069e7dca4122a42f13f773a7",
+    "dropHash": "0136b7c24efbca9d149bdb71ec87ba76526bf7c37461d90daaeeb59c3eee95b1",
+    "scope": "candidate",
+    "reason": "same-template-variable-or-wording",
+    "reviewSource": "v3-pair-14"
+  },
+  {
+    "keepId": "prompthero-5f6a67de4cf",
+    "dropId": "prompthero-7dfec78858b",
+    "keepHash": "e9ee081dc8d9e57be9fa4000eab03e61fa3794a67441d67ebef5b2bdc4a6e34c",
+    "dropHash": "15e1e15e5da985810e98a365d469e839e09d158bf3cc3a68b16fd17d45e8aa6c",
+    "scope": "candidate",
+    "reason": "same-template-variable-or-wording",
+    "reviewSource": "v3-pair-52"
+  },
+  {
+    "keepId": "prompthero-32777a01e62",
+    "dropId": "prompthero-863dbd8cfdb",
+    "keepHash": "8662f2e60139a61682ab98fa988f2b45f507e0ddc3ab19f259add1236e641a8e",
+    "dropHash": "2167c4987358c19af74f7d3f182110717a39b74b53b681e75c2637fcd85aa6d3",
+    "scope": "candidate",
+    "reason": "same-template-variable-or-wording",
+    "reviewSource": "v3-pair-68"
+  },
+  {
+    "keepId": "prompthero-f0cc63ce6b1",
+    "dropId": "prompthero-86fb61a4173",
+    "keepHash": "820ae8367a15173447bc47332d5b2aef23420a2b78e2853ea3cc7ab2c502a2ed",
+    "dropHash": "390ab43f9e0a8081b613e7f2e52be95a85fa2525f5b6cc58b2752f5b1ef2998a",
+    "scope": "candidate",
+    "reason": "same-template-variable-or-wording",
+    "reviewSource": "v3-pair-21"
+  },
+  {
+    "keepId": "prompthero-dd8310db9f2",
+    "dropId": "prompthero-89ce9997358",
+    "keepHash": "f93b75f6deba35ebab5e4ea5d8c3f3336fab1e2a6a498d8d01f11016bd1fafe9",
+    "dropHash": "cfa3c77ddfc0774c116cb17ae50d4a0f23608d116e5f72d5235499aa62ea8baf",
+    "scope": "candidate",
+    "reason": "same-template-variable-or-wording",
+    "reviewSource": "v3-pair-73"
+  },
+  {
+    "keepId": "prompthero-49d61a37a0e",
+    "dropId": "prompthero-8e959ac0002",
+    "keepHash": "6ee5e17fe73a4e008b74afbf6e4d62f9b398746d7e644af957ca0f27bf687660",
+    "dropHash": "044f853e59a759f62b1098cac8b5db25a7d2275716e7d460e639a39014e7db70",
+    "scope": "candidate",
+    "reason": "same-template-variable-or-wording",
+    "reviewSource": "v3-pair-63"
+  },
+  {
+    "keepId": "prompthero-513aafba2e1",
+    "dropId": "prompthero-902b71ea1dd",
+    "keepHash": "cf4f5c8a285f376f5d29b7af3d550b6b02247ba395638c1550a35843808ca9eb",
+    "dropHash": "2f33d309e11454f499ef3573386c755a4ae884ea0ecb36f4c0e0c92f85dfdb5d",
+    "scope": "candidate",
+    "reason": "same-template-variable-or-wording",
+    "reviewSource": "v3-pair-41"
+  },
+  {
+    "keepId": "prompthero-af7a50d39cd",
+    "dropId": "prompthero-980d0b1aa16",
+    "keepHash": "70c052461d0965d35489e0df6d82c3372ca59c671bcccb3827fe96f23dbef8f8",
+    "dropHash": "f86163ac32b1388955b727a13d0ae27f0e28a5a933f870cd33dce40527ba8232",
+    "scope": "candidate",
+    "reason": "same-template-variable-or-wording",
+    "reviewSource": "v3-pair-3"
+  },
+  {
+    "keepId": "prompthero-9d2abdb1231",
+    "dropId": "prompthero-98ea836b9cc",
+    "keepHash": "f2408e2b4b59e5865f57ac57805a43a9631b07f90338a3ecd07cd8d522ff674a",
+    "dropHash": "9632fb9da36c1b2f58557638e5353c21543420f7c9f8aeefc610f0e049b2927d",
+    "scope": "candidate",
+    "reason": "same-template-variable-or-wording",
+    "reviewSource": "v3-pair-8"
+  },
+  {
+    "keepId": "prompthero-63b3dd4764c",
+    "dropId": "prompthero-99b54c0af88",
+    "keepHash": "76f46055f24e53852473110863df3ed3b8939fbcb116d0ae426f72f9549ab62e",
+    "dropHash": "db348269c721dc0f85143028764f023aad1a29bb53d46e75176bf6de9e45b6bc",
+    "scope": "candidate",
+    "reason": "same-template-variable-or-wording",
+    "reviewSource": "v3-pair-33"
+  },
+  {
+    "keepId": "prompthero-f0cc63ce6b1",
+    "dropId": "prompthero-9b9ebf11f63",
+    "keepHash": "820ae8367a15173447bc47332d5b2aef23420a2b78e2853ea3cc7ab2c502a2ed",
+    "dropHash": "90de236287e3a99364451eca4f28238a63bd469b91f6726cf77ef67d760d8f42",
+    "scope": "candidate",
+    "reason": "same-template-variable-or-wording",
+    "reviewSource": "v3-pair-29"
+  },
+  {
+    "keepId": "prompthero-3e21bd9bb8e",
+    "dropId": "prompthero-ab0158d13f8",
+    "keepHash": "a55a4f90147ac3ffc487cbf3d89c9ba73d511c6d472b43f239553099e330cfac",
+    "dropHash": "1ec19762cd5871b40823570b300176264dec49363c8eb8471f9f0aa827450995",
+    "scope": "candidate",
+    "reason": "same-template-variable-or-wording",
+    "reviewSource": "v3-pair-85"
+  },
+  {
+    "keepId": "prompthero-74997f783de",
+    "dropId": "prompthero-ac4734d636b",
+    "keepHash": "955898431267066ce1bf7f75244858a162346c0f84c9d6873b9c9e0e48274d11",
+    "dropHash": "e2e0d96b4ea36a38bf5ac825ec8074eaad1c4f08078dd9a6282e45f0b35a04c8",
+    "scope": "candidate",
+    "reason": "same-template-variable-or-wording",
+    "reviewSource": "v3-pair-50"
+  },
+  {
+    "keepId": "prompthero-87b7520efa1",
+    "dropId": "prompthero-b0e71920b52",
+    "keepHash": "41843043302369427cf2c9b9bf4e802038eb134583c2634f8f2d36e8fc7115fd",
+    "dropHash": "1f2985d0f765fd3b6fd54033c8f1003a8124a00d2ca5b1d2e95d6a5bc9e60543",
+    "scope": "candidate",
+    "reason": "same-template-variable-or-wording",
+    "reviewSource": "v3-pair-38"
+  },
+  {
+    "keepId": "prompthero-7f8b58e4cdf",
+    "dropId": "prompthero-b4173e5811d",
+    "keepHash": "a0e5779ee9b85f7521a20f0cd4d12ded4b3255a45946ddd00af90d4ad7adfc32",
+    "dropHash": "8fdf2215929954a53c0581ec45b2786840bb09648cd983a49dd8d0f0f3a4371e",
+    "scope": "candidate",
+    "reason": "same-template-variable-or-wording",
+    "reviewSource": "v3-pair-16"
+  },
+  {
+    "keepId": "prompthero-cf21894a906",
+    "dropId": "prompthero-b5df224c20d",
+    "keepHash": "c076f1bedbc54cfbecc018de7b50b1a19c08a98afb93795ec1d95cf2593de38f",
+    "dropHash": "f4a3d990e99d855d4683a36a4df029d28a2b4470ac2e843d7b29b8917a2e470c",
+    "scope": "candidate",
+    "reason": "same-template-variable-or-wording",
+    "reviewSource": "v3-pair-30"
+  },
+  {
+    "keepId": "prompthero-571ddbfa0c4",
+    "dropId": "prompthero-b8aab110f7e",
+    "keepHash": "bbe7965e3dd6551da38cbb1c08c179c05ac15039f97810a5ec1aebe5bdbcb6e5",
+    "dropHash": "2dd8b4be5e14dd0af0b6f585d5fbf581a017df8eae133616d1aba981a10d973d",
+    "scope": "candidate",
+    "reason": "same-template-variable-or-wording",
+    "reviewSource": "v3-pair-56"
+  },
+  {
+    "keepId": "prompthero-268b10be29d",
+    "dropId": "prompthero-b98f69c311c",
+    "keepHash": "f09ccfff6bbac88a087e6cce8ee7a3511bfe18c831df6049c6913047bb7b9126",
+    "dropHash": "c08a6da446c6d73ade8fff9367d2c6667d4a6482cd0f3a1d5f577ab573d21a04",
+    "scope": "candidate",
+    "reason": "same-template-variable-or-wording",
+    "reviewSource": "v3-pair-79"
+  },
+  {
+    "keepId": "prompthero-1cc0f793485",
+    "dropId": "prompthero-c5006e67961",
+    "keepHash": "d638a027802df8fb523ddd30d193ed482e6f61f89fd3a770b78b70c391f3f15c",
+    "dropHash": "8a911e4b45d77741a813b5e22d9e5080565c9c7d63c3f8cfff9eb1c54cb612a3",
+    "scope": "candidate",
+    "reason": "same-template-variable-or-wording",
+    "reviewSource": "v3-pair-74"
+  },
+  {
+    "keepId": "prompthero-dcadf764f8a",
+    "dropId": "prompthero-cb9c7fcac70",
+    "keepHash": "66d5c83113e80a111f4182d659ccca96f1b7e414cf4692d935da6f944efedb9a",
+    "dropHash": "3800f4ba60cf0afdf4c8c22547a242b05710de2424038d8c55d38cacc4debc1d",
+    "scope": "candidate",
+    "reason": "same-template-variable-or-wording",
+    "reviewSource": "v3-pair-53"
+  },
+  {
+    "keepId": "prompthero-66af2542298",
+    "dropId": "prompthero-cc6ba0f91ff",
+    "keepHash": "5ad9f9c92f48e4713410c4d8e036779e18f4f9d7661172e34178f14fda79c32e",
+    "dropHash": "c3a9f739828251fc802701136ace2e1015e9b3ae343187ab1c7166cc6b7ac8ca",
+    "scope": "candidate",
+    "reason": "same-template-variable-or-wording",
+    "reviewSource": "v3-pair-11"
+  },
+  {
+    "keepId": "prompthero-bd4aa8edaf6",
+    "dropId": "prompthero-ce037fdb463",
+    "keepHash": "b9d9450af58cd873a2a1c0353d4d62738c8265dc048377daa8c0d77119a8b7c0",
+    "dropHash": "3b75f15c43e617263a8c3e1426a787c95797ac6bef6c5a3c75d6688bafa86299",
+    "scope": "candidate",
+    "reason": "same-template-variable-or-wording",
+    "reviewSource": "v3-pair-31"
+  },
+  {
+    "keepId": "prompthero-e2bc62414f3",
+    "dropId": "prompthero-d87745f6f23",
+    "keepHash": "4401ab9fe84f3236da8040be5dfd693be75fea6faf58733a74426b6a8dc8aa6d",
+    "dropHash": "e645b41098a20ec31f30135556e3f88e0959962a3896fef8d89cd3ab24556e1d",
+    "scope": "candidate",
+    "reason": "same-template-variable-or-wording",
+    "reviewSource": "v3-pair-55"
+  },
+  {
+    "keepId": "prompthero-9cec9f4de2d",
+    "dropId": "prompthero-d9446d1093c",
+    "keepHash": "6e11cefabf81d2d008874b16ecfaa4b659d6344b3d476f9a5c7ba4240ccc95df",
+    "dropHash": "2718351bceeee4ef74baad26a0b83ce6e4250c97423d17255e254fae4fb4f4ec",
+    "scope": "candidate",
+    "reason": "same-template-variable-or-wording",
+    "reviewSource": "v3-pair-44"
+  },
+  {
+    "keepId": "prompthero-7e6790663a2",
+    "dropId": "prompthero-da4026631c5",
+    "keepHash": "d8c3254907f44c93713ed5bdb37abd1cf727a5dc1771ad512b1e7f6e164befc3",
+    "dropHash": "c19f4883c8b381674e80e51d273f063f56625fa9dc65a9200d3bb26fe8ab0c1a",
+    "scope": "candidate",
+    "reason": "same-template-variable-or-wording",
+    "reviewSource": "v3-pair-25"
+  },
+  {
+    "keepId": "prompthero-7f7c8b74d0b",
+    "dropId": "prompthero-dac6f69ce98",
+    "keepHash": "9ca23654380f2c48d9641f9579225f9e1c150a44999c96cbf08242b35b8a2a21",
+    "dropHash": "05d863228e73b7d5fec628cdaaa066f0037f9318618cedc243417624b76989c5",
+    "scope": "candidate",
+    "reason": "same-template-variable-or-wording",
+    "reviewSource": "v3-pair-40"
+  },
+  {
+    "keepId": "prompthero-1c2930d1911",
+    "dropId": "prompthero-e5f7e49331e",
+    "keepHash": "a2a45e8e0e31d432113b330b9511a02221a25261145546614ceba2a7c56661f7",
+    "dropHash": "f4a7f430588e58c50d066ae1a5539c8991854edc303cf43622ef0b01054f07d5",
+    "scope": "candidate",
+    "reason": "same-template-variable-or-wording",
+    "reviewSource": "v3-pair-37"
+  },
+  {
+    "keepId": "prompthero-8f33d846c6a",
+    "dropId": "prompthero-e6a9aca8998",
+    "keepHash": "0d8e1587de4755413ca413af3da13663fabd585bb22bb37b31002f8f33ea96fc",
+    "dropHash": "79e8eba00e865c81ba3580c6c01a1a1c9ecc2d0731a489638662d816b4ea078b",
+    "scope": "candidate",
+    "reason": "same-template-variable-or-wording",
+    "reviewSource": "v3-pair-80"
+  },
+  {
+    "keepId": "prompthero-de8453986d9",
+    "dropId": "prompthero-ef18d37235b",
+    "keepHash": "5b192ce79ed5baf10068f0e6695ee6639daeeba9d839e73c45c54a3aa0a09d99",
+    "dropHash": "58cb62c5d205024e0f2f0b3611fcbbdf1a39715637229abb29c3389df279be82",
+    "scope": "candidate",
+    "reason": "same-template-variable-or-wording",
+    "reviewSource": "v3-pair-22"
+  },
+  {
+    "keepId": "prompthero-4577a444ffa",
+    "dropId": "prompthero-ef853ecbd77",
+    "keepHash": "ee38a167c0b39daf44b44b25f4153db2f677f33dae2fc2784f091d2ac4704b45",
+    "dropHash": "6e3d766f9ff930a9f537f37d3bc2f088c1456b199737043ebeeb2cd76f958687",
+    "scope": "candidate",
+    "reason": "same-template-variable-or-wording",
+    "reviewSource": "v3-pair-20"
+  },
+  {
+    "keepId": "prompthero-79b2ae458be",
+    "dropId": "prompthero-fdd37d88c58",
+    "keepHash": "b1b224f844829b87f836c27de7612b093816268ff431a7c11ffeb65c8fea4880",
+    "dropHash": "721957b6cc3f07229a5c504029353f27c1760d8b8e665acefeab5fb310ab51cc",
+    "scope": "candidate",
+    "reason": "same-template-variable-or-wording",
+    "reviewSource": "v3-pair-28"
+  },
+  {
+    "keepId": "prompthero-4577a444ffa",
+    "dropId": "prompthero-fe5635afa15",
+    "keepHash": "ee38a167c0b39daf44b44b25f4153db2f677f33dae2fc2784f091d2ac4704b45",
+    "dropHash": "17de8ecf1641cd1084f422d8aeaabb46f44fb4e16092f8a8adae13189a3e700f",
+    "scope": "candidate",
+    "reason": "same-template-variable-or-wording",
+    "reviewSource": "v3-pair-49"
+  },
+  {
+    "keepId": "prompthero-558ae4eb664",
+    "dropId": "prompthero-02b087a52fa",
+    "keepHash": "58a65541c4ab854b9804dc3cecaed9938bf2141e125bbbd5c91fff501ae74e5a",
+    "dropHash": "8b16b7d13033719858a3c846f3c2cdb7a2b9ce1fe0738bf4cae2768c3897497d",
+    "scope": "catalog",
+    "reason": "same-template-variable-or-wording",
+    "reviewSource": "catalog-trigram-review-2026-11-26"
+  },
+  {
+    "keepId": "prompthero-e11a8fcaf00",
+    "dropId": "prompthero-0329ff3fd5b",
+    "keepHash": "907eba7cb88a41e8ce9d905a5ae3511493f34de81406b2b74b9d317b854f15a1",
+    "dropHash": "382926e2855bee9cee20352289e47d08b9dc8f3a80cc33ebce028b3d8bab3238",
+    "scope": "catalog",
+    "reason": "same-template-variable-or-wording",
+    "reviewSource": "catalog-trigram-review-2026-11-26"
+  },
+  {
+    "keepId": "prompthero-9b437b4f37d",
+    "dropId": "prompthero-083bba40e58",
+    "keepHash": "d2a7ce52c4e7538e7e2be12adb26b2cb72c610cbff6fa864c52b2905e8a28c45",
+    "dropHash": "3328282121659c21467c8c64f9764d8a71a927ef6f6aee17172ac1135cce9d81",
+    "scope": "catalog",
+    "reason": "same-template-variable-or-wording",
+    "reviewSource": "catalog-trigram-review-2026-11-26"
+  },
+  {
+    "keepId": "prompthero-c855e76978a",
+    "dropId": "prompthero-121e3844167",
+    "keepHash": "c7adb785a405dcc82305e7519eba95f4b4b8d0eabb28d1a6bb9878887b4e3731",
+    "dropHash": "98292198fb3a2e1d69bb442c57808064de22598dfc0c8964f1bb642dad6fde84",
+    "scope": "catalog",
+    "reason": "same-template-variable-or-wording",
+    "reviewSource": "catalog-trigram-review-2026-11-26"
+  },
+  {
+    "keepId": "prompthero-26fc1da943b",
+    "dropId": "prompthero-13ebfb0bf78",
+    "keepHash": "efb4dfc1a60b67442e578e10e1ff1a08df87e5873fe97f31054aa8abd5870f0e",
+    "dropHash": "e348db96be30159c528b85b529fa3dd78eb85d319f546bb929b4d9a47e02988b",
+    "scope": "catalog",
+    "reason": "same-template-variable-or-wording",
+    "reviewSource": "catalog-trigram-review-2026-11-26"
+  },
+  {
+    "keepId": "prompthero-8e361dcd578",
+    "dropId": "prompthero-221c8121a4f",
+    "keepHash": "b5b289a104871da9eb58e72a3cfd41fb3cc165e08df79eed4a645fa1d2796fb0",
+    "dropHash": "3dc5bf6f7067b19d590e214128f47fe0d50946a3a3cb0515ff0f06e1a682eb7b",
+    "scope": "catalog",
+    "reason": "same-template-variable-or-wording",
+    "reviewSource": "catalog-trigram-review-2026-11-26"
+  },
+  {
+    "keepId": "prompthero-997a94facac",
+    "dropId": "prompthero-2bcd6558af0",
+    "keepHash": "7488763676ddb6c54692c27f349f7c3fe04e46d7b3b27cec44e59eb9b61b3413",
+    "dropHash": "59a318c96a2b29d1f415a7aaf392f673d0abd7c6cb791ae0b74b5faa14f6109c",
+    "scope": "catalog",
+    "reason": "same-template-variable-or-wording",
+    "reviewSource": "catalog-trigram-review-2026-11-26"
+  },
+  {
+    "keepId": "prompthero-812dde8c057",
+    "dropId": "prompthero-2c7973a4a8c",
+    "keepHash": "b565019a8eef5102dec471e0872ef529d2d34244e0a2157abd8862fb9d673a76",
+    "dropHash": "83a69130fd9d656b0f8cce71ae6ab1704bb60410ef96be095384fa822c1ebc15",
+    "scope": "catalog",
+    "reason": "same-template-variable-or-wording",
+    "reviewSource": "catalog-trigram-review-2026-11-26"
+  },
+  {
+    "keepId": "prompthero-26fc1da943b",
+    "dropId": "prompthero-304810840db",
+    "keepHash": "efb4dfc1a60b67442e578e10e1ff1a08df87e5873fe97f31054aa8abd5870f0e",
+    "dropHash": "8e8f61dc97b65f57f28b816082e877e511c03f2813dd219826f208c37913c9e4",
+    "scope": "catalog",
+    "reason": "same-template-variable-or-wording",
+    "reviewSource": "catalog-trigram-review-2026-11-26"
+  },
+  {
+    "keepId": "prompthero-2c881805471",
+    "dropId": "prompthero-3dd85cc4e51",
+    "keepHash": "7a73bdbc7b3f70ef18dee791e1c6864e0c37f26e5088a025b2e5fd25d668d531",
+    "dropHash": "16c4ed7b41a50678f06e7abf3f0180b63512e5c0223599aafec46c091eaa18cb",
+    "scope": "catalog",
+    "reason": "same-template-variable-or-wording",
+    "reviewSource": "catalog-trigram-review-2026-11-26"
+  },
+  {
+    "keepId": "prompthero-997a94facac",
+    "dropId": "prompthero-3e20f16cfe9",
+    "keepHash": "7488763676ddb6c54692c27f349f7c3fe04e46d7b3b27cec44e59eb9b61b3413",
+    "dropHash": "fa72380c69f5fcc609ac532e34f92d8803900e620d1de9556e29e4fb4161b68b",
+    "scope": "catalog",
+    "reason": "same-template-variable-or-wording",
+    "reviewSource": "catalog-trigram-review-2026-11-26"
+  },
+  {
+    "keepId": "prompthero-bd19d9b3b85",
+    "dropId": "prompthero-4500233a013",
+    "keepHash": "3a21537afcf30f35fb08f31a2f16ea27b0cd0485c2105b4f853b7d3b24a39dfa",
+    "dropHash": "e4212fd1d2f1dae86007542a5b842b6f65bf8c8327c2d244c1cad605e0f31636",
+    "scope": "catalog",
+    "reason": "same-template-variable-or-wording",
+    "reviewSource": "catalog-trigram-review-2026-11-26"
+  },
+  {
+    "keepId": "prompthero-d5de20b2423",
+    "dropId": "prompthero-47f275a2c8e",
+    "keepHash": "3b365eddff3267bee0342100a02bfb6abdce53eada4b7683272c3742563156ab",
+    "dropHash": "1ff328d9c00293558707b4f6b5282ceeb5f89b0c81591d4e98d83f1b3ca2efc6",
+    "scope": "catalog",
+    "reason": "same-template-variable-or-wording",
+    "reviewSource": "catalog-trigram-review-2026-11-26"
+  },
+  {
+    "keepId": "prompthero-db5e5a61eb2",
+    "dropId": "prompthero-5009403378a",
+    "keepHash": "ea2ec5e0753ba164548f4303b32e4be9b7b34a1224dea480b21c85096f8ee18a",
+    "dropHash": "49cacd5ae1611d7cb83fc9ee21caacb89f7392083e2ee68209273083e0d697b5",
+    "scope": "catalog",
+    "reason": "same-template-variable-or-wording",
+    "reviewSource": "catalog-trigram-review-2026-11-26"
+  },
+  {
+    "keepId": "prompthero-36172e1ad2e",
+    "dropId": "prompthero-53f29c4e0ac",
+    "keepHash": "5f10356beb22efb85b3352933ccffb8bb7d998a710b75098525f944cb2004f47",
+    "dropHash": "1d91e32065fddbb1b4424176228701ade5930bb05ec3755b7f1598f27018fdf8",
+    "scope": "catalog",
+    "reason": "same-template-variable-or-wording",
+    "reviewSource": "catalog-trigram-review-2026-11-26"
+  },
+  {
+    "keepId": "prompthero-025afb28307",
+    "dropId": "prompthero-66a2b65df89",
+    "keepHash": "2ea8c72931b40e2221d19d4c3110c9df95559dd6081e89d56611246801a6664c",
+    "dropHash": "8b9b3b043834664bf9b9aa17eb87bab9cf80d204da27cae489faba040513ae86",
+    "scope": "catalog",
+    "reason": "same-template-variable-or-wording",
+    "reviewSource": "catalog-trigram-review-2026-11-26"
+  },
+  {
+    "keepId": "prompthero-8887d8e2e22",
+    "dropId": "prompthero-7e3574b18fd",
+    "keepHash": "b35ba5f8bab96adaadfe579d32106aabd28549654be30a12894722c7c46d0208",
+    "dropHash": "b9219f309df122f94fdad09dc04c048059587a8ab7d635d8b25b6e73ddaa8dc3",
+    "scope": "catalog",
+    "reason": "same-template-variable-or-wording",
+    "reviewSource": "catalog-trigram-review-2026-11-26"
+  },
+  {
+    "keepId": "prompthero-213df9dc954",
+    "dropId": "prompthero-907c202d7d1",
+    "keepHash": "3d9c364f7efe6c2b2b48f5cd0ad85d8fba35b4fbd9b14bac607054919bb25ccd",
+    "dropHash": "d02f8f46629324a5ff933b066d189412c7b3e530f33c4428b242a04c1caba49b",
+    "scope": "catalog",
+    "reason": "same-template-variable-or-wording",
+    "reviewSource": "catalog-trigram-review-2026-11-26"
+  },
+  {
+    "keepId": "prompthero-958f3e65e4c",
+    "dropId": "prompthero-96ec4368edf",
+    "keepHash": "dfd10218f1647781187e036eb68815201ecc619eaf7f3b68111d080eb39dcf41",
+    "dropHash": "aad9cd32ee18cb5627eb45d903e84c542020d3625873911ea25a3ba9db4b4b4e",
+    "scope": "catalog",
+    "reason": "same-template-variable-or-wording",
+    "reviewSource": "catalog-trigram-review-2026-11-26"
+  },
+  {
+    "keepId": "prompthero-1dbc73e83f0",
+    "dropId": "prompthero-a285dcdc873",
+    "keepHash": "9d8dddd3b2bd0dcae99317727f612d1803ce5e0ef85803e3e2d42ec10557ffd3",
+    "dropHash": "dcb3f4eb328de219faf68b1173ca36c24e46dd944477cd18b2ef40c0ed5155bf",
+    "scope": "catalog",
+    "reason": "same-template-variable-or-wording",
+    "reviewSource": "catalog-trigram-review-2026-11-26"
+  },
+  {
+    "keepId": "prompthero-2c257f9cf57",
+    "dropId": "prompthero-a7e59376ba2",
+    "keepHash": "7bed8e44111feab5182142b54f30fb405d60297118913b3ecba22646104552d9",
+    "dropHash": "975417dc7b84775a380a87184731505a28aea66bd635e3055fb1cc798278d178",
+    "scope": "catalog",
+    "reason": "same-template-variable-or-wording",
+    "reviewSource": "catalog-trigram-review-2026-11-26"
+  },
+  {
+    "keepId": "prompthero-23df2a7ff73",
+    "dropId": "prompthero-b91e4b308d6",
+    "keepHash": "3b8bfc53e283dcf44b3504f5f8fcfe16a8473465ad23ea2584cdfa155c45b857",
+    "dropHash": "f128f5c2dd8ca483e7404bb5174a84bd0ec05121169900f27fb353e0a9e01948",
+    "scope": "catalog",
+    "reason": "same-template-variable-or-wording",
+    "reviewSource": "catalog-trigram-review-2026-11-26"
+  },
+  {
+    "keepId": "prompthero-f314b7dcb31",
+    "dropId": "prompthero-cfdd6ef42e3",
+    "keepHash": "573f15d254860f3dfdfc06f7a358ecd58947609244864bf7d6bdf06f07fe129f",
+    "dropHash": "4b5eac0465e5d303014bd4e2225272e1a584b7934f7e23e32e06d71711287ca8",
+    "scope": "catalog",
+    "reason": "same-template-variable-or-wording",
+    "reviewSource": "catalog-trigram-review-2026-11-26"
+  },
+  {
+    "keepId": "prompthero-3b4d25f3a67",
+    "dropId": "prompthero-d27a02b0e0d",
+    "keepHash": "47ca58d7ea7752e4b5b5b8875dc31dc0d4c200ec36052b099a22a8bb4db6e325",
+    "dropHash": "3a6637e5a0f9a6b6eb3e2fbf3d4938e63b72cabf748cfd6c4a72fa187976efd4",
+    "scope": "catalog",
+    "reason": "same-template-variable-or-wording",
+    "reviewSource": "catalog-trigram-review-2026-11-26"
+  },
+  {
+    "keepId": "prompthero-2130d69b8f3",
+    "dropId": "prompthero-d58b375975e",
+    "keepHash": "083b18151f3975a5adb5dd0be6bf09f30e8905b4f663b692b2d9b6cc7fd419e0",
+    "dropHash": "6ec89920861d89554321e7501bb973833609701f8319f4f2e8f704f25b015980",
+    "scope": "catalog",
+    "reason": "same-template-variable-or-wording",
+    "reviewSource": "catalog-trigram-review-2026-11-26"
+  },
+  {
+    "keepId": "prompthero-891ce84337d",
+    "dropId": "prompthero-d6b42afab22",
+    "keepHash": "d9acb1ab7d36d3693f2cb8817d5ce6dbe3d7643953e24e4f5e450e428dfe75a7",
+    "dropHash": "c63800f972ea2c12fd39557b97cdf957cb97857c8643bcfd28d5d9140b2b7dd8",
+    "scope": "catalog",
+    "reason": "same-template-variable-or-wording",
+    "reviewSource": "catalog-trigram-review-2026-11-26"
+  },
+  {
+    "keepId": "prompthero-1560ab05e03",
+    "dropId": "prompthero-d86bd177e46",
+    "keepHash": "da3112494e0cc1d31a71830722c934658d1504e64919abb0af91d4e6671071f6",
+    "dropHash": "3c1aaa0012d670f5e069c28b32a87a496dd7844617d4e226e1ad20fc7e75171c",
+    "scope": "catalog",
+    "reason": "same-template-variable-or-wording",
+    "reviewSource": "catalog-trigram-review-2026-11-26"
+  },
+  {
+    "keepId": "prompthero-36d4a0cca0f",
+    "dropId": "prompthero-dc66f12f3cd",
+    "keepHash": "863b77f2baaab92e382be2f4c02ab496cfc102c0d5b8503a702f36b19b638dbd",
+    "dropHash": "0b1e2195b95e33c2f8b89a7cdae4841014f411856366a27c9f4ce526bd229f7a",
+    "scope": "catalog",
+    "reason": "same-template-variable-or-wording",
+    "reviewSource": "catalog-trigram-review-2026-11-26"
+  },
+  {
+    "keepId": "prompthero-c5cde05631e",
+    "dropId": "prompthero-e35522ac220",
+    "keepHash": "99f77db0c52d7f67e959d51b7ad7cdf86a10ea0724494cac7a52ff6ff3da6123",
+    "dropHash": "a26b06e556bcec20133a742b92c6d8d664a2201df7475a63cf0f25fcd9e600cb",
+    "scope": "catalog",
+    "reason": "same-template-variable-or-wording",
+    "reviewSource": "catalog-trigram-review-2026-11-26"
+  },
+  {
+    "keepId": "prompthero-958f3e65e4c",
+    "dropId": "prompthero-ed6fcad273e",
+    "keepHash": "dfd10218f1647781187e036eb68815201ecc619eaf7f3b68111d080eb39dcf41",
+    "dropHash": "6468288e27b378f10d3af97efdd878ee108f1c13d913a0f9726f33c10c711d24",
+    "scope": "catalog",
+    "reason": "same-template-variable-or-wording",
+    "reviewSource": "catalog-trigram-review-2026-11-26"
+  },
+  {
+    "keepId": "prompthero-bb9e5b3bb0d",
+    "dropId": "prompthero-f0c46c9ce69",
+    "keepHash": "c77d47a475a4137a299f10c71c8229942d76e7964e74415c8c129afeafd91c10",
+    "dropHash": "1c2a8557c02dc3cd7092c98bc2e598dffa715575307538c2ed3ae026f5fc1485",
+    "scope": "catalog",
+    "reason": "same-template-variable-or-wording",
+    "reviewSource": "catalog-trigram-review-2026-11-26"
+  },
+  {
+    "keepId": "prompthero-1560ab05e03",
+    "dropId": "prompthero-f0df2fdf530",
+    "keepHash": "da3112494e0cc1d31a71830722c934658d1504e64919abb0af91d4e6671071f6",
+    "dropHash": "85e6f00114d60960ff265b9740bb48d58cec04fb9a7236d4c0a7f02fb1f10bf3",
+    "scope": "catalog",
+    "reason": "same-template-variable-or-wording",
+    "reviewSource": "catalog-trigram-review-2026-11-26"
+  },
+  {
+    "keepId": "prompthero-0c97785b276",
+    "dropId": "prompthero-f3cde24ccaf",
+    "keepHash": "f4c508a895cdc33a8f6e14d9c0d71d0a4544935b31db2b37a233277a6f05ee5f",
+    "dropHash": "9da432866308160416ec79fce0e79e9f6e65ecb7aff90ce4f9bb2733b9fbe111",
+    "scope": "catalog",
+    "reason": "same-template-variable-or-wording",
+    "reviewSource": "catalog-trigram-review-2026-11-26"
+  },
+  {
+    "keepId": "prompthero-1560ab05e03",
+    "dropId": "prompthero-fa81f3cd4ad",
+    "keepHash": "da3112494e0cc1d31a71830722c934658d1504e64919abb0af91d4e6671071f6",
+    "dropHash": "69a2f58908920c5851d85d141fdb141a38e5ac2ba8830c4f7cd76ff73599647f",
+    "scope": "catalog",
+    "reason": "same-template-variable-or-wording",
+    "reviewSource": "catalog-trigram-review-2026-11-26"
+  }
+]
