@@ -1,8 +1,8 @@
 # portraits
 
-[← Home](../README.md) · Page 2 / 5
+[← Home](../README.md) · Page 2 / 21
 
-[1](portraits.md) · **2** · [3](portraits-3.md) · [4](portraits-4.md) · [5](portraits-5.md)
+[1](portraits.md) · **2** · [3](portraits-3.md) · [4](portraits-4.md) · [5](portraits-5.md) · [6](portraits-6.md) · [7](portraits-7.md) · [8](portraits-8.md) · [9](portraits-9.md) · [10](portraits-10.md) · [11](portraits-11.md) · [12](portraits-12.md) · [13](portraits-13.md) · [14](portraits-14.md) · [15](portraits-15.md) · [16](portraits-16.md) · [17](portraits-17.md) · [18](portraits-18.md) · [19](portraits-19.md) · [20](portraits-20.md) · [21](portraits-21.md)
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
@@ -326,6 +326,6 @@ By [@kazmaendo](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbf
 
 ---
 
-[1](portraits.md) · **2** · [3](portraits-3.md) · [4](portraits-4.md) · [5](portraits-5.md)
+[1](portraits.md) · **2** · [3](portraits-3.md) · [4](portraits-4.md) · [5](portraits-5.md) · [6](portraits-6.md) · [7](portraits-7.md) · [8](portraits-8.md) · [9](portraits-9.md) · [10](portraits-10.md) · [11](portraits-11.md) · [12](portraits-12.md) · [13](portraits-13.md) · [14](portraits-14.md) · [15](portraits-15.md) · [16](portraits-16.md) · [17](portraits-17.md) · [18](portraits-18.md) · [19](portraits-19.md) · [20](portraits-20.md) · [21](portraits-21.md)
 
 [← Home](../README.md)

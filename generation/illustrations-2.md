@@ -1,8 +1,8 @@
 # illustrations
 
-[← Home](../README.md) · Page 2 / 4
+[← Home](../README.md) · Page 2 / 7
 
-[1](illustrations.md) · **2** · [3](illustrations-3.md) · [4](illustrations-4.md)
+[1](illustrations.md) · **2** · [3](illustrations-3.md) · [4](illustrations-4.md) · [5](illustrations-5.md) · [6](illustrations-6.md) · [7](illustrations-7.md)
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
@@ -326,6 +326,6 @@ By [@taira\_renta](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999
 
 ---
 
-[1](illustrations.md) · **2** · [3](illustrations-3.md) · [4](illustrations-4.md)
+[1](illustrations.md) · **2** · [3](illustrations-3.md) · [4](illustrations-4.md) · [5](illustrations-5.md) · [6](illustrations-6.md) · [7](illustrations-7.md)
 
 [← Home](../README.md)

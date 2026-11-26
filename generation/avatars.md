@@ -102,6 +102,22 @@ By [@MrLarus](https://x.com/MrLarus/status/2059248197910827364)
 
 ---
 
+<a id="prompthero-ee3bde62395"></a>
+
+## Prompt Credit @NorthmoorAI\. &amp; Tweaked v3
+
+<a href="https://cdn.prompthero.com/9ts3zvnig7b43vjk45z6xadkp3rr-stable-diffusion-xl-base-09-prompt-credit-northmoorai-tweaked-v3.jpg"><img src="https://cdn.prompthero.com/9ts3zvnig7b43vjk45z6xadkp3rr-stable-diffusion-xl-base-09-prompt-credit-northmoorai-tweaked-v3.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+avatar aang, the last airbender, in the style of furaffinity, orange robes, red, #vfxfriday, massurrealism, explosive pigmentation, spiritualcore, cinematic lighting, bioluminescent arrow, (arrow pointing downwards), ((full body portrait)) in the style of martial arts meditative pose, photorealism, water bending, water flowing in the background, water flowing orb, blue bioluminescent, highly detailed, 8k sharp focus
+```
+
+By [@Atheist](https://prompthero.com/prompt/ee3bde62395-stable-diffusion-xl-base-09-prompt-credit-northmoorai-tweaked-v3)
+
+---
+
 **1**
 
 [← Home](../README.md)

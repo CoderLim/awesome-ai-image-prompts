@@ -1,8 +1,8 @@
 # posters
 
-[← Home](../README.md) · Page 1 / 6
+[← Home](../README.md) · Page 1 / 7
 
-**1** · [2](posters-2.md) · [3](posters-3.md) · [4](posters-4.md) · [5](posters-5.md) · [6](posters-6.md)
+**1** · [2](posters-2.md) · [3](posters-3.md) · [4](posters-4.md) · [5](posters-5.md) · [6](posters-6.md) · [7](posters-7.md)
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
@@ -326,6 +326,6 @@ By [@mehwishkiran07](https://x.com/mehwishkiran07/status/2100787012529975424)
 
 ---
 
-**1** · [2](posters-2.md) · [3](posters-3.md) · [4](posters-4.md) · [5](posters-5.md) · [6](posters-6.md)
+**1** · [2](posters-2.md) · [3](posters-3.md) · [4](posters-4.md) · [5](posters-5.md) · [6](posters-6.md) · [7](posters-7.md)
 
 [← Home](../README.md)

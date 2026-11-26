@@ -1,8 +1,8 @@
 # portraits
 
-[← Home](../README.md) · Page 2 / 2
+[← Home](../README.md) · Page 2 / 3
 
-[1](portraits.md) · **2**
+[1](portraits.md) · **2** · [3](portraits-3.md)
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
@@ -214,6 +214,118 @@ By [@AiwithLariab](https://x.com/AiwithLariab/status/2091394735416160715)
 
 ---
 
-[1](portraits.md) · **2**
+<a id="prompthero-1c73cac76a6"></a>
+
+## A joyful blonde woman lying inside a cardboard gif\.\.\.
+
+<a href="https://cdn.prompthero.com/fv7t07y71sp7o0imqama400d7r-hero-10-a-joyful-blonde-woman-lying-inside-a-cardboard-gift-box-with-an-open-flipped-lid-camera-angle-from-the-corner.jpeg"><img src="https://cdn.prompthero.com/fv7t07y71sp7o0imqama400d7r-hero-10-a-joyful-blonde-woman-lying-inside-a-cardboard-gift-box-with-an-open-flipped-lid-camera-angle-from-the-corner.jpeg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+A joyful blonde woman lying inside a cardboard gift box with an open flipped lid. Camera angle from the corner of the box, top-down diagonal view, iPhone-style ultra wide 0.5x lens. She is wearing a light-toned, modern zumer-style outfit: cropped top or baby tee with a mini skirt or relaxed shorts, fashion-casual, playful, contemporary, soft fabrics. Bare legs visible, barefoot. Fresh glowing makeup, natural skin texture, dewy skin, glossy lips, light blush. Hair styled in an effortless, modern way. Her facial expression shows real joy, pleasure, playful happiness, candid smile. Inside the box she is surrounded by oversized skincare products, much larger than her body, as if she is happily drowning in them. Real skincare brands visible: Anua, Manyo, Celimax. Large skincare bottles and tubes, serums, toners and creams arranged in bold, graphic abundance. Color palette dominated by lime green and lilac accents, vibrant yet soft. Light pastel background with lime and lilac tones, clean and bright. Paper hearts and rose petals frozen mid-air, playful motion paused in time. Soft soap bubbles floating around. Valentine’s Day theme. Zumer skincare campaign vibe, playful, fresh, modern, joyful, slightly surreal. High-end skincare editorial, Gen Z beauty advertising style, clean composition, vibrant color pops, ultra-detailed, realistic, natural skin texture, soft studio lighting, bold lime green and lilac color accents, fresh pop color beauty campaign --ar 9:16 --raw --stylize 50 --v 7
+```
+
+[Source](https://prompthero.com/prompt/1c73cac76a6-hero-10-a-joyful-blonde-woman-lying-inside-a-cardboard-gift-box-with-an-open-flipped-lid-camera-angle-from-the-corner)
+
+---
+
+<a id="prompthero-3e98e6635d5"></a>
+
+## \{ &quot;prompt\_type&quot;: &quot;descriptive\_replication&quot;, &quot;r\.\.\.
+
+<a href="https://cdn.prompthero.com/uyxxjm1ri8gi68dk72q09jwkaz-nano-banana-nano-banana-2-prompttype-descriptivereplication-referenceadherence-strictvisualfidelity-aspectratio-34-identitylock-priority-absolute-instruction-use-my-exact-female-model-adle-facial-identity-must-be.jpeg"><img src="https://cdn.prompthero.com/uyxxjm1ri8gi68dk72q09jwkaz-nano-banana-nano-banana-2-prompttype-descriptivereplication-referenceadherence-strictvisualfidelity-aspectratio-34-identitylock-priority-absolute-instruction-use-my-exact-female-model-adle-facial-identity-must-be.jpeg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+{ "prompt_type": "descriptive_replication", "reference_adherence": "STRICT_VISUAL_FIDELITY", "aspect_ratio": "3:4", "identity_lock": { "priority": "ABSOLUTE", "instruction": "Use MY EXACT FEMALE MODEL Adèle. Facial identity must be perfectly preserved with zero drift. All details below must be followed exactly.", "cranial_structure": { "shape": "elongated oval skull with wide bizygomatic width", "forward_growth": "maxilla and mandible projected forward, strong skeletal framework", "facial_thirds": "upper : middle : lower = 1:1:0.9, slightly elongated lower third", "cheekbones": "high‑set, razor‑sharp, beginning directly under eyes, sweeping laterally, forming deep hollow cheeks with natural submalar shadows", "mandible": "sharply defined, gonial angle approx. 118°, clean V‑shaped jawline", "chin": "slightly pointed but firm, aligned with nasal septum" }, "eyes": { "shape": "almond‑shaped, deeply set", "canthal_tilt": "positive 5° (outer corners higher)", "medial_canthi": "acutely angled, extending downward", "scleral_show": "zero (lower lids tightly hug iris)", "eyelids": "hooded with minimal exposure", "iris": "light green with golden‑brown central heterochromia, distinct limbal ring, visible radial fibers", "eyebrows": "thick, straight, set low on supraorbital ridge, soft arch peaking slightly lateral to lateral limbus, individual hairs visible" }, "nose": { "dorsum": "straight, smooth", "bridge": "refined, narrow", "tip": "precisely sculpted, slightly rounded, delicate cartilage definition", "nostrils": "narrow, symmetrical, slight columellar show" }, "lips": { "fullness": "full, lower lip to upper lip ratio approx. 1.3:1", "cupids_bow": "pronounced with distinct peaks", "vermilion_borders": "distinct", "oral_commissures": "sharp, turning slightly upward", "philtrum": "short, well‑defined, approx. 11 mm" }, "skin": { "tone": "warm‑neutral with subtle olive undertone, faint golden undertones in cheeks", "texture": "hyperrealistic, photorealistic, ultra‑detailed", "pores": "barely visible micropores 0.1–0.2 mm in T‑zone", "micro_roughness": "present", "orange_peel": "ultra‑fine micro‑depressions visible under side lighting", "subsurface_scattering": "moderate on nose, cheeks, earlobes, lifelike translucency", "vellus_hairs": "delicate on jawline and cheekbones", "micro_veins": "faintly discernible under translucent skin", "specular_highlights": "healthy on forehead, nose, cheekbones; matte cheeks" }, "hair": { "color": "chestnut brown with natural California blonde balayage (bronde), multi‑tonal, soft caramel and honey streaks", "style": "long wavy, cascading over shoulders, with side‑swept curtain bang grazing outer eye corner", "texture": "glossy, healthy, individual strands visible, anisotropic reflections, no frizz" }, "body": { "height": "approx. 172 cm", "build": "lean athletic, low body fat (18–20%)", "neck": "slender, elongated", "clavicles": "prominent, horizontal", "shoulders": "faint muscle definition with delicate venous network", "curves": "subtle feminine curves", "chest": "full bust with natural projection" } }, "subject": { "demographics": "Young adult female (mid‑20s), my exact model Adèle, styled as a 90s fashion model", "hair": { "color": "chestnut brown with natural blonde balayage (bronde), multi‑tonal", "style": "long wavy, cascading over shoulders, with side‑swept curtain bang grazing outer eye corner, chic 90s hairstyle", "texture": "glossy, healthy, individual strands visible, anisotropic reflections, no frizz" }, "face": { "expression": "elegant, confident, timeless beauty", "gaze": "direct, engaging, slightly smoldering", "makeup": "none, natural flawless skin (no makeup look)", "visibility": "full face visible" }, "body": { "pose": "standing gracefully, holding a luxurious Chanel handbag elegantly, possibly with one hand on hip or bag at side", "posture": "upright, poised, model stance", "anatomy": { "curves": "lean athletic silhouette, subtle curves", "chest": "full bust with natural projection, accentuated by elegant top/dress", "details": "visible collarbones, slender elongated neck" }, "skin_texture": "visible fine pores, micro‑roughness, delicate vellus hairs, natural sheen from sebum film, no airbrushing, subsurface scattering on nose and cheeks" }, "clothing": { "description": "elegant 90s‑style outfit (likely a chic dress or top), not specified but implied to be luxurious", "accessories": "luxurious Chanel handbag held gracefully" } }, "environment": { "setting": "indoor studio or elegant room with wallpaper", "background": { "description": "soft pastel hues, dreamy wallpaper pattern, subtle and refined, but heavily washed out by flash, barely visible in deep shadows", "lighting": "dark background due to on‑camera flash overpowering ambient, pastel tones appear as faint, desaturated hints" } }, "lighting_and_atmosphere": { "source": "on‑camera flash (compact digital camera from early 1990s)", "quality": "harsh flash with high contrast, overexposed highlights on skin and white/light surfaces, deep shadows in background", "effects": [ "strong flash creating specular highlights on skin and Chanel handbag", "overexposed areas on face and body (washed out, ethereal glow)", "background dark with faint pastel tones barely visible", "grainy texture characteristic of early compact digital cameras", "washed out colors, low saturation", "unreal contrast" ], "color_cast": "cool flash white balance, slightly desaturated, pastel hues muted", "contrast": "very high" }, "camera_and_technical": { "perspective": "straight‑on, eye level, typical point‑and‑shoot snapshot", "camera_position": "handheld, compact digital camera from early 1990s", "framing": "full‑body or three‑quarter shot, subject centered, background visible but dark", "focus": "slightly soft, typical of low‑resolution cameras with flash", "visual_fidelity": "grainy, low resolution aesthetic, washed out colors, flash photography style, ultra high quality real image (realistic despite lo‑fi look), timeless elegance with 90s snapshot feel" }, "realism_constraints": { "allowed": [ "grain", "washed out colors", "overexposed highlights", "harsh shadows", "imperfect composition", "natural skin texture", "minor asymmetry", "faint pastel tones in background" ], "forbidden": [ "face alteration", "identity drift", "plastic skin", "professional studio lighting", "sharp focus", "perfect exposure", "perfect composition", "cinematic look", "8k", "masterpiece", "excessive makeup", "visible ears", "messy or flat hair", "CGI", "3d render", "modern digital perfection", "iPhone", "smartphone", "24mm", "modern camera" ] }, "negative_prompt": [ "different face", "beauty filters", "airbrushed skin", "anime", "cartoon", "over-sharpening", "clean digital look", "perfect exposure", "smooth gradients", "visible ears", "ears showing", "messy hair", "flat hair", "greasy hair", "one-length haircut", "blunt cut", "excessive makeup", "CGI", "3d render", "plastic texture", "smooth", "airbrushed", "digital art", "painting", "deformed face", "asymmetrical eyes", "extra facial features", "blurry (intentional motion blur allowed)", "low detail", "unrealistic proportions", "bad anatomy", "acne", "skin imperfections", "blemishes", "redness", "pimples", "scars", "moles", "shiny T-zone", "glossy skin", "watermark", "text", "signature", "professional photography", "studio lighting", "sharp focus", "perfect composition", "cinematic", "8k", "masterpiece", "makeup", "stylized", "iPhone", "smartphone camera", "24mm", "modern digital" ] }
+```
+
+[Source](https://prompthero.com/prompt/3e98e6635d5-nano-banana-nano-banana-2-prompttype-descriptivereplication-referenceadherence-strictvisualfidelity-aspectratio-34-identitylock-priority-absolute-instruction-use-my-exact-female-model-adle-facial-identity-must-be)
+
+---
+
+<a id="prompthero-4cc6519d643"></a>
+
+## Create an Ultra-realistic cinematic dark poster d\.\.\.
+
+<a href="https://cdn.prompthero.com/v1_64f11d7e61c3ffd5af33322499-hero-10-create-an-ultra-realistic-cinematic-dark-poster-dramatic-over-the-shoulder-pose-of-a-young-man-using-the-same-face.jpg"><img src="https://cdn.prompthero.com/v1_64f11d7e61c3ffd5af33322499-hero-10-create-an-ultra-realistic-cinematic-dark-poster-dramatic-over-the-shoulder-pose-of-a-young-man-using-the-same-face.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+Create an Ultra-realistic cinematic dark poster dramatic over-the-shoulder pose of a young man (using the same face as uploaded image), camera positioned slightly behind the shoulder, 90-45 degree side profile facing right, strong rim light outlining the messy textured hair, nose and sharp jawline, deep black background, only the edges of the face glowing with white light, brown round sunglasses with silver rimmed reflecting a soft glow, mysterious shadowed face with almost no facial details visible, intense cinematic lighting
+```
+
+By [@user40ruy](https://prompthero.com/prompt/4cc6519d643-hero-10-create-an-ultra-realistic-cinematic-dark-poster-dramatic-over-the-shoulder-pose-of-a-young-man-using-the-same-face)
+
+---
+
+<a id="prompthero-14c3a324a15"></a>
+
+## \{ &quot;prompt\_type&quot;: &quot;descriptive\_replication&quot;, &quot;r\.\.\.
+
+<a href="https://cdn.prompthero.com/oezn49yedi36f22co0gxb34jbe-hero-10-prompttype-descriptivereplication-referenceadherence-strictvisualfidelity-aspectratio-34-identitylock-priority-absolute-instruction-use-my-exact-female-model-facial-identity-must-be-perfectly.jpeg"><img src="https://cdn.prompthero.com/oezn49yedi36f22co0gxb34jbe-hero-10-prompttype-descriptivereplication-referenceadherence-strictvisualfidelity-aspectratio-34-identitylock-priority-absolute-instruction-use-my-exact-female-model-facial-identity-must-be-perfectly.jpeg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+{ "prompt_type": "descriptive_replication", "reference_adherence": "STRICT_VISUAL_FIDELITY", "aspect_ratio": "3:4", "identity_lock": { "priority": "ABSOLUTE", "instruction": "Use MY EXACT FEMALE MODEL. Facial identity must be perfectly preserved with zero drift. Bone structure, eye spacing, nose shape, lip volume, jawline, cheek fullness, skin texture, height perception, shoulder width, waist-to-hip ratio, and overall proportions must match the model exactly. No beautification, no face blending, no generic influencer features." }, "subject": { "demographics": "Young adult female (21+), my exact blonde model", "hair": { "color": "ash blonde with visible darker roots (match model exactly)", "style": "center part with soft curtain layers, loose natural waves", "texture": "realistic, slightly tousled, not over-styled" }, "face": { "expression": "soft pout / duck-face expression identical to reference", "gaze": "directed at phone screen via mirror reflection", "makeup": "contoured cheeks, mascara, glossy mauve-nude lips, groomed brows", "visibility": "partially obscured by phone, face proportions remain readable" }, "body": { "pose": "seated on bed, leaning slightly forward and subtly to the side", "posture": "relaxed torso with natural compression from seated position", "anatomy": { "curves": "natural soft curves with realistic gravity", "chest": "bikini-supported volume, natural weight and shape", "details": "visible collarbones, subtle shoulder blade definition" }, "skin_texture": "visible pores, slight natural sheen on chest and shoulders, no airbrushing" } }, "attire_and_accessories": { "clothing": { "top": "metallic silver / silver triangle string bikini top with thin straps", "bottom_detail": "matching bikini bottom strings visible at hips" }, "jewelry": { "necklaces": [ "layered gold chain with small cross pendant", "delicate charm necklace (star/flower)", "long lariat-style gold chain" ], "wrists": [ "thick ribbed gold bangle on left wrist", "thin gold chain bracelet" ], "fingers": "multiple gold rings on left hand" }, "props": { "phone": "white iPhone (iPhone Pro style), held in right hand", } }, "environment": { "setting": "bedroom interior, daytime", "foreground_element": { "mirror": "large rectangular mirror with GREY MARBLE FRAME", "material": "polished stone marble, subtle veining, cool grey tone", "placement": "occupying the right third of the frame" }, "background": { "bed": "white rumpled bed sheets with natural creases", "walls": "plain white walls", "decor": "minimalist, clean, no clutter", "shadows": "soft corner shadows for realism" } }, "lighting_and_atmosphere": { "source": "natural daylight from window on camera-left", "quality": "soft but directional", "effects": [ "specular highlights on left shoulder and chest", "gentle shadow falloff on right side of face and torso" ], "color_cast": "cool daylight mixed with warm skin tones", "contrast": "moderate, natural, no studio fill" }, "camera_and_technical": { "perspective": "mirror reflection selfie", "camera_position": "eye level, angled slightly downward", "framing": "vertical 3:4, subject slightly left to accommodate marble frame", "focus": "sharp on face and phone, background slightly softer", "visual_fidelity": "real iPhone camera look, mild digital noise, no HDR crunch" }, "realism_constraints": { "allowed": [ "minor asymmetry", "natural skin texture", "fabric tension and wrinkles", "subtle lighting imperfections" ], "forbidden": [ "face alteration", "identity drift", "plastic skin", "studio lighting", "CGI or stylized realism", "generic influencer face" ] }, "negative_prompt": [ "different face", "beauty filters", "airbrushed skin", "anime", "cartoon", "over-sharpening", "wooden mirror frame", "wrong phone color", "missing jewelry", "incorrect bikini style" ] }
+```
+
+[Source](https://prompthero.com/prompt/14c3a324a15-hero-10-prompttype-descriptivereplication-referenceadherence-strictvisualfidelity-aspectratio-34-identitylock-priority-absolute-instruction-use-my-exact-female-model-facial-identity-must-be-perfectly)
+
+---
+
+<a id="prompthero-30a5f508454"></a>
+
+## Neon logo brain
+
+<a href="https://cdn.prompthero.com/1ssttpkqgexxy0e7gxsnttp42tq1-midjourney-6-neon-logo-brain.png"><img src="https://cdn.prompthero.com/1ssttpkqgexxy0e7gxsnttp42tq1-midjourney-6-neon-logo-brain.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+This image shows [a white woman] with a very distinctive and stylized [neon brain] that is designed to look like a brain filled with logos, transparent logos, of car brands, food brands, clothing brands, technology brands, beverage brands, computer brands, publishing brands, the logos are distributed throughout the brain and perfectly fused. This elaborate design comes in what appears to be a neon shade that contrasts with the person's light complexion. The individual has defined facial features, with a strong jaw, prominent cheekbones, and deep-set eyes. she wears [a jacket] with neon designs that echo the brain's neon theme. The person's gaze is directed slightly off-screen, giving the image a contemplative or introspective mood. This brain is a piece of artistic fashion. It shows a fusion of contemporary fashion with elements of customer experience, created for a haute couture editorial --ar 4:5 --stylize 750 --v 6.0 --style raw
+```
+
+By [@jefharris](https://prompthero.com/prompt/30a5f508454-midjourney-6-neon-logo-brain)
+
+---
+
+<a id="prompthero-43d0c01e73c"></a>
+
+## Oversized white sweatshirt, white purple oversized\.\.\.
+
+<a href="https://cdn.prompthero.com/v1_0e2bd59fe41ab9715ac65d2800-chatgpt-image-gpt-image-25-oversized-white-sweatshirt-white-purple-oversized-combat-jean-styled-with-footwear-white-purple-neutral-or-nike-sneakers-and-white-ribbed.jpeg"><img src="https://cdn.prompthero.com/v1_0e2bd59fe41ab9715ac65d2800-chatgpt-image-gpt-image-25-oversized-white-sweatshirt-white-purple-oversized-combat-jean-styled-with-footwear-white-purple-neutral-or-nike-sneakers-and-white-ribbed.jpeg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+Oversized white sweatshirt, white purple oversized combat jean, styled with footwear: white purple neutral or nike sneakers and white ribbed socks. Environment: muted white purple-toned studio background. Lighting: soft cinematic glow highlighting skin and fabric textures. Style: fashion editorial x futuristic. Composition: model seated elegantly with relaxed posture. In floor keep my face and body hair style 100% same as in reference Images.
+```
+
+By [@heymantransport](https://prompthero.com/prompt/43d0c01e73c-chatgpt-image-gpt-image-25-oversized-white-sweatshirt-white-purple-oversized-combat-jean-styled-with-footwear-white-purple-neutral-or-nike-sneakers-and-white-ribbed)
+
+---
+
+<a id="prompthero-51e64d7f4aa"></a>
+
+## \{ &quot;meta&quot;: \{ &quot;aspect\_ratio&quot;: &quot;4:5&quot;, &quot;qual\.\.\.
+
+<a href="https://cdn.prompthero.com/v1_00c472f668cafd3850b43697da-nano-banana-nano-banana-2-meta-aspectratio-45-quality-ultraphotorealistic-camera-iphone-15-pro-max-lens-24mm-wide-style-raw-iphone-outdoor-photography-natural-skin.jpg"><img src="https://cdn.prompthero.com/v1_00c472f668cafd3850b43697da-nano-banana-nano-banana-2-meta-aspectratio-45-quality-ultraphotorealistic-camera-iphone-15-pro-max-lens-24mm-wide-style-raw-iphone-outdoor-photography-natural-skin.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+{ "meta": { "aspect_ratio": "4:5", "quality": "ultra_photorealistic", "camera": "iPhone 15 Pro Max", "lens": "24mm wide", "style": "raw iPhone outdoor photography, natural skin texture, zero plastic look, slight handheld imperfection", "priority": "MAXIMUM FACE AND BODY CONSISTENCY" }, "identity_enforcement": { "strictness": "ABSOLUTE", "instruction": "Use MY EXACT FEMALE MODEL ONLY. Facial identity must match perfectly with no drift. Preserve exact facial structure, eye shape, nose, lips, jawline, skin texture, height perception, shoulder width, waist-to-hip ratio, and overall body proportions. No beautification, no identity blending.", "locked_traits": [ "exact face identity", "exact body proportions", "natural curves", "realistic anatomy", "authentic skin texture" ] }, "scene": { "location": "private backyard patio", "environment": [ "light gray stone patio tiles", "minimal modern garden plants", "sun lounger with fabric surface", "soft natural shadows across the ground" ], "time": "early afternoon", "atmosphere": "quiet, warm, casual outdoor moment" }, "lighting": { "type": "natural sunlight", "direction": "top-front daylight", "color_temperature": "neutral daylight", "effect": "soft highlights on skin, gentle shadows from natural body contours, realistic outdoor exposure" }, "camera_perspective": { "pov": "third-person, close standing distance", "angle": "slightly above chest level, looking downward", "distance": "close-medium", "framing": "mid-thigh to top of head", "stability": "slight handheld feel, casually framed" }, "subject": { "gender": "female", "age": "adult (21+)", "vibe": "young adult, relaxed confidence", "body": { "type": "curvy hourglass", "upper_body": "naturally full chest with realistic gravity and soft contouring", "waist": "slim and proportional, not exaggerated", "hips": "rounded and balanced with torso", "legs": "full upper thighs with natural contact", "stomach": "flat but soft, realistic skin tension", "balance": "harmonious proportions, gravity-driven posture" }, "skin": { "tone": "match model exactly (fair with warm undertone)", "texture": "visible natural skin texture", "details": "subtle warmth on cheeks and chest from sun exposure" }, "hair": { "color": "match model exactly (natural blonde)", "length": "long", "style": "straight with slight natural movement", "part": "center-parted", "behavior": "falls naturally over shoulders" }, "face": { "expression": "eyes gently closed with a soft, relaxed smile", "vibe": "peaceful, casual, lightly playful", "makeup": "minimal, natural lashes, light blush", "features": "exact facial structure preserved" }, "pose": { "position": "sitting on a sun lounger", "upper_body": "leaning slightly forward with relaxed shoulders", "arms
+```
+
+[Source](https://prompthero.com/prompt/51e64d7f4aa-nano-banana-nano-banana-2-meta-aspectratio-45-quality-ultraphotorealistic-camera-iphone-15-pro-max-lens-24mm-wide-style-raw-iphone-outdoor-photography-natural-skin)
+
+---
+
+[1](portraits.md) · **2** · [3](portraits-3.md)
 
 [← Home](../README.md)

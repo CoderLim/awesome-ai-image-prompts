@@ -22,6 +22,22 @@ By [@AiwithLariab](https://x.com/AiwithLariab/status/2090297565732585554)
 
 ---
 
+<a id="prompthero-665f837d4e5"></a>
+
+## Skin must be clean and flawless: no tattoos, no sc\.\.\.
+
+<a href="https://cdn.prompthero.com/v1_91ae724819b5142a01ee47a7a5-hero-10-skin-must-be-clean-and-flawless-no-tattoos-no-scars-no-marks-no-blemishes-wearing-the-dress-in-the-provided.jpg"><img src="https://cdn.prompthero.com/v1_91ae724819b5142a01ee47a7a5-hero-10-skin-must-be-clean-and-flawless-no-tattoos-no-scars-no-marks-no-blemishes-wearing-the-dress-in-the-provided.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+Skin must be clean and flawless: no tattoos, no scars, no marks, no blemishes. Wearing the dress in the provided picture, perfectly fitted to her body, highlighting her natural curves in a realistic and elegant way. A full character reference sheet showing multiple angles and views of the same woman, consistent identity across all views: - full body front view, standing pose, head to toe visible; - full body back view, showing body shape from behind; - full body side view, natural posture; expression; neutral background, studio lighting, clean composition, no distractions, highly detailed, realistic skin texture, consistent proportions across all views, no distortion, no extra limbs.
+```
+
+By [@kileparent](https://prompthero.com/prompt/665f837d4e5-hero-10-skin-must-be-clean-and-flawless-no-tattoos-no-scars-no-marks-no-blemishes-wearing-the-dress-in-the-provided)
+
+---
+
 **1**
 
 [← Home](../README.md)

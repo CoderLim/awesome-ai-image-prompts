@@ -30,9 +30,10 @@
   {
     "id": "prompthero",
     "url": "https://prompthero.com/",
-    "mode": "manual-link-only",
+    "mode": "manual-collector-export",
     "license": "Per creator / platform terms",
-    "discoveryFile": "data/discovery/prompthero.json"
+    "discoveryFile": "data/discovery/prompthero.json",
+    "snapshotSha256": "5b6ec3ba2250eeed1e839b3070b829e07609396f2c3da9710a0262e196571854"
   },
   {
     "id": "vcl",

@@ -118,6 +118,22 @@ By [@j\_smeaton99](https://x.com/j_smeaton99/status/2062365258984177766)
 
 ---
 
+<a id="prompthero-02e40ef99e8"></a>
+
+## Voyager Blueprint: Craft of Tomorrow
+
+<a href="https://cdn.prompthero.com/azsctfbp1b3boojozrhlgxzw81bi-chatgpt-image-gpt-4o-voyager-blueprint-craft-of-tomorrow.png"><img src="https://cdn.prompthero.com/azsctfbp1b3boojozrhlgxzw81bi-chatgpt-image-gpt-4o-voyager-blueprint-craft-of-tomorrow.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+Produce a detailed technical illustration of a spacecraft, showcasing a cutaway design that reveals its internal structure. The spacecraft should be rendered with a sleek, streamlined body in vibrant orange and metallic shades. The image must include annotated engineering blueprints, detailed schematics, and callouts, set against a technical background that provides a comprehensive view of the craft's design. Aim for a sketch-like style that merges artistic intricacy with mechanical precision, complete with various angles and detailed exploded views of spacecraft components
+```
+
+By [@robiness](https://prompthero.com/prompt/02e40ef99e8-chatgpt-image-gpt-4o-voyager-blueprint-craft-of-tomorrow)
+
+---
+
 <a id="vcl-blueprint"></a>
 
 ## Blueprint — Tesla Cybertruck

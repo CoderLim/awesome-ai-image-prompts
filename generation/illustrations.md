@@ -1,8 +1,8 @@
 # illustrations
 
-[← Home](../README.md) · Page 1 / 4
+[← Home](../README.md) · Page 1 / 7
 
-**1** · [2](illustrations-2.md) · [3](illustrations-3.md) · [4](illustrations-4.md)
+**1** · [2](illustrations-2.md) · [3](illustrations-3.md) · [4](illustrations-4.md) · [5](illustrations-5.md) · [6](illustrations-6.md) · [7](illustrations-7.md)
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
@@ -326,6 +326,6 @@ By [@Goodmanprotocol](https://x.com/Goodmanprotocol/status/2108199004546933097)
 
 ---
 
-**1** · [2](illustrations-2.md) · [3](illustrations-3.md) · [4](illustrations-4.md)
+**1** · [2](illustrations-2.md) · [3](illustrations-3.md) · [4](illustrations-4.md) · [5](illustrations-5.md) · [6](illustrations-6.md) · [7](illustrations-7.md)
 
 [← Home](../README.md)

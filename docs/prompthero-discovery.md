@@ -20,3 +20,7 @@ These five detail pages match visible homepage prompt text and source-reported m
 - [Fantasy ruins cinematic scene](https://prompthero.com/prompt/872900f88d1-seedream-5-seedream-5-pro-in-overgrown-stone-ruins-where-waterfalls-spill-between-mossy-walls-2-savage-wolves-ravage-a-dead-carcass-nearby-a-pale) — @johns1670 · Seedream 5 seedream-5-pro · 2026-11-19 · creative-art
 
 [Platform terms](https://prompthero.com/faq) · [Reference image search](https://prompthero.com/search?q=reference+image)
+
+## Export integration
+
+The current [discovery index](../data/discovery/prompthero.json) contains 9 link-only entries. 2 previous discovery entries were moved into the catalog import. Historical shortlist above may include moved entries.

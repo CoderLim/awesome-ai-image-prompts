@@ -1,8 +1,8 @@
 # illustrations
 
-[← Home](../README.md) · Page 4 / 4
+[← Home](../README.md) · Page 4 / 7
 
-[1](illustrations.md) · [2](illustrations-2.md) · [3](illustrations-3.md) · **4**
+[1](illustrations.md) · [2](illustrations-2.md) · [3](illustrations-3.md) · **4** · [5](illustrations-5.md) · [6](illustrations-6.md) · [7](illustrations-7.md)
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
@@ -214,6 +214,118 @@ By [@Sairah\_0](https://x.com/Sairah_0/status/2093929087010246754)
 
 ---
 
-[1](illustrations.md) · [2](illustrations-2.md) · [3](illustrations-3.md) · **4**
+<a id="prompthero-1e00201783c"></a>
+
+## illustration art, nostalgic, wide low-angle, small\.\.\.
+
+<a href="https://cdn.prompthero.com/htcej3mwd5znbhvjruap3g2a3l-chatgpt-image-v1-illustration-art-nostalgic-wide-low-angle-small-retro-roadside-cafe-warm-orange-and-teal-color-scheme-isolated-countryside-empty-rural.png"><img src="https://cdn.prompthero.com/htcej3mwd5znbhvjruap3g2a3l-chatgpt-image-v1-illustration-art-nostalgic-wide-low-angle-small-retro-roadside-cafe-warm-orange-and-teal-color-scheme-isolated-countryside-empty-rural.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+illustration art, nostalgic, wide low-angle, small retro roadside Cafe, warm orange and teal color scheme, isolated countryside, empty rural road, wet cracked asphalt with subtle puddle reflections, massive dreamy pastel clouds towering in the sky, cotton-candy colored clouds in pink, peach and lavender hues, blue hour twilight sky, soft volumetric lights, ambient glow, cinematic color grading, high detail textures, atmospheric perspective, surreal mood, poetic silence, ultra detailed --no people --ar 9:16 --raw --stylize 200
+```
+
+[Source](https://prompthero.com/prompt/1e00201783c-chatgpt-image-v1-illustration-art-nostalgic-wide-low-angle-small-retro-roadside-cafe-warm-orange-and-teal-color-scheme-isolated-countryside-empty-rural)
+
+---
+
+<a id="prompthero-2e3950c3699"></a>
+
+## artistic, oil painting texture, front view, upper \.\.\.
+
+<a href="https://cdn.prompthero.com/22mgmkpzs2cvjnfd33sca0eotuwl-midjourney-61-artistic-oil-painting-texture-front-view-upper-body-creepy-man-incorporating-a-heavy-brush-style-sci-fi-entity-organic-and.png"><img src="https://cdn.prompthero.com/22mgmkpzs2cvjnfd33sca0eotuwl-midjourney-61-artistic-oil-painting-texture-front-view-upper-body-creepy-man-incorporating-a-heavy-brush-style-sci-fi-entity-organic-and.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+artistic, oil painting texture, front view, upper body, creepy man, incorporating a heavy brush style, sci-fi entity organic and mechanical elements, eyes locked in a gaze, face, creation of a dystopian atmosphere, horror of a technology, color scheme dominated by bloody red and deep black, chaos and rawness of Tsutomu Nihei's dystopian environments, hyper-detailed elements to evoke realism --ar 9:16 --style raw --profile ue2yzjl --stylize 300 --v 6.1
+```
+
+By [@Grayve](https://prompthero.com/prompt/2e3950c3699-midjourney-61-artistic-oil-painting-texture-front-view-upper-body-creepy-man-incorporating-a-heavy-brush-style-sci-fi-entity-organic-and)
+
+---
+
+<a id="prompthero-3b4d25f3a67"></a>
+
+## Picture a cat portrayed with the artistic essence \.\.\.
+
+<a href="https://cdn.prompthero.com/v1_5558ef952acfefc672c93d639e-chatgpt-image-gpt-image-2-picture-a-cat-portrayed-with-the-artistic-essence-of-qi-baishis-renowned-brushwork-the-cats-form-is-captured-through-fluid.jpeg"><img src="https://cdn.prompthero.com/v1_5558ef952acfefc672c93d639e-chatgpt-image-gpt-image-2-picture-a-cat-portrayed-with-the-artistic-essence-of-qi-baishis-renowned-brushwork-the-cats-form-is-captured-through-fluid.jpeg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+Picture a cat portrayed with the artistic essence of Qi Baishi's renowned brushwork. The cat's form is captured through fluid, spontaneous lines that suggest its playful demeanor and agile nature. Using minimal strokes, Qi Baishi's signature style brings out the cat's character, emphasizing its curiosity and independence. The cat might be depicted in a simple yet evocative setting, surrounded by delicate depictions of flora or objects that offer a glimpse into its world. The overall scene carries a sense of whimsy and an appreciation for the beauty in everyday life, paying homage to the artistic legacy of Qi Baishi --ar 2:3 --v 5.2
+```
+
+[Source](https://prompthero.com/prompt/3b4d25f3a67-chatgpt-image-gpt-image-2-picture-a-cat-portrayed-with-the-artistic-essence-of-qi-baishis-renowned-brushwork-the-cats-form-is-captured-through-fluid)
+
+---
+
+<a id="prompthero-03bd5e77f6c"></a>
+
+## A hyper-realistic digital portrait of a sheep tryi\.\.\.
+
+<a href="https://cdn.prompthero.com/h4cl5vor50q686em2gh8y0lda4x0-flux-flux-kontext-pro-a-hyper-realistic-digital-portrait-of-a-sheep-trying-to-go-to-sleep-in-front-of-the-sheep-are-mini.png"><img src="https://cdn.prompthero.com/h4cl5vor50q686em2gh8y0lda4x0-flux-flux-kontext-pro-a-hyper-realistic-digital-portrait-of-a-sheep-trying-to-go-to-sleep-in-front-of-the-sheep-are-mini.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+A hyper-realistic digital portrait of a sheep trying to go to sleep. In front of the sheep are mini humans jumping a fence while the sheep looks at it trying to goto sleep. The background is a bed on which the sheep is trying to sleep on. The lighting is soft but directional. The style is reminiscent of classical oil painting with meticulous detail and smooth brushwork, but created with digital tools.
+```
+
+[Source](https://prompthero.com/prompt/03bd5e77f6c-flux-flux-kontext-pro-a-hyper-realistic-digital-portrait-of-a-sheep-trying-to-go-to-sleep-in-front-of-the-sheep-are-mini)
+
+---
+
+<a id="prompthero-3d1db4d2c92"></a>
+
+## a stunning realistic photograph portrait of a bea\.\.\.
+
+<a href="https://cdn.prompthero.com/h6iea2jbtp068yj97rf2fpqsoj3r-dreamshaper-5-baked-vae-pirate-dreamshaperxl10alpha2xl10-a-stunning-realistic-photograph-portrait-of-a-beautiful-blonde-20-year-old-woman-aboard-a-pirate-ship15-wearing-pirate-captain.png"><img src="https://cdn.prompthero.com/h6iea2jbtp068yj97rf2fpqsoj3r-dreamshaper-5-baked-vae-pirate-dreamshaperxl10alpha2xl10-a-stunning-realistic-photograph-portrait-of-a-beautiful-blonde-20-year-old-woman-aboard-a-pirate-ship15-wearing-pirate-captain.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+a stunning realistic photograph portrait of a beautiful blonde 20 year old woman, (aboard a pirate ship:1.5), wearing pirate captain clothes, hyper realism, Very detailed, Full character in view, detailed face, masterpiece, random colored hair,  (jade ocean), mercury, random color eyes, full body, cover, hyperdetailed painting, luminism,  Bar lighting,  complex, [style by Martina Fačková and Prywinko Art, Artgerm, WLOP, Alphonse Mucha, Tony Taka], Detailed  face, hyper-reallistic cover photo awesome full color, bright, gritty, realistic color scheme,  intricate details , masterpiece ((hyperdetailed eyes)), perfect body, perfect anatomy, beautifully detailed face, full body, highly detailed, digital painting, hyper-realistic, sharp focus, illustration, pretty eyes, award-winning, intense coloration fantasy, 16K, UHD, HDR,(Masterpiece, best quality:1.5)
+```
+
+By [@ScArecrow23](https://prompthero.com/prompt/3d1db4d2c92-dreamshaper-5-baked-vae-pirate-dreamshaperxl10alpha2xl10-a-stunning-realistic-photograph-portrait-of-a-beautiful-blonde-20-year-old-woman-aboard-a-pirate-ship15-wearing-pirate-captain)
+
+---
+
+<a id="prompthero-3d7065db3ff"></a>
+
+## An illustration of Flash with a hard, intense look\.\.\.
+
+<a href="https://cdn.prompthero.com/31xd8qqe59i4vd5f8rxx2du4vczo-dalle-3-flash-an-illustration-of-flash-with-a-hard-intense-look-and-strong-bandaged-hands-sharing-scars-and-battle-marks-on-his.jfif"><img src="https://cdn.prompthero.com/31xd8qqe59i4vd5f8rxx2du4vczo-dalle-3-flash-an-illustration-of-flash-with-a-hard-intense-look-and-strong-bandaged-hands-sharing-scars-and-battle-marks-on-his.jfif" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+An illustration of Flash with a hard, intense look, and strong, bandaged hands, sharing scars and battle marks on his face and body. Sweat, speed and blur. his body is adorned with glowing golden runes. purple aura fire around him. body dynamic epic action pose, bladerunner city street ruined background. with an emphasis on bold, expressive brushstrokes and bright colors. The background can be left to the artist's interpretation. The modifier is CarnageStyle, the color is blood red, and the intensity is 1.6, the lighting is cinematic, the angle is dynamic, the details are extreme.
+```
+
+[Source](https://prompthero.com/prompt/3d7065db3ff-dalle-3-flash-an-illustration-of-flash-with-a-hard-intense-look-and-strong-bandaged-hands-sharing-scars-and-battle-marks-on-his)
+
+---
+
+<a id="prompthero-4a26619479c"></a>
+
+## vivid red tomatoes with simple green leaves arrang\.\.\.
+
+<a href="https://cdn.prompthero.com/iv7nufakxxdtr1zelwh1hwauqs-chatgpt-image-gpt-image-2-vivid-red-tomatoes-with-simple-green-leaves-arranged-organically-sliced-tomatoes-and-whole-tomatoes-mixed-bold-flat-colors-risograph-print.jpeg"><img src="https://cdn.prompthero.com/iv7nufakxxdtr1zelwh1hwauqs-chatgpt-image-gpt-image-2-vivid-red-tomatoes-with-simple-green-leaves-arranged-organically-sliced-tomatoes-and-whole-tomatoes-mixed-bold-flat-colors-risograph-print.jpeg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+vivid red tomatoes with simple green leaves arranged organically, sliced tomatoes and whole tomatoes mixed, bold flat colors, risograph print style, textured halftone grain, imperfect ink spread, soft paper texture, retro screen-printing aesthetic, minimalistic illustration, no text, clean white background, playful composition, high contrast, vintage print poster vi
+```
+
+[Source](https://prompthero.com/prompt/4a26619479c-chatgpt-image-gpt-image-2-vivid-red-tomatoes-with-simple-green-leaves-arranged-organically-sliced-tomatoes-and-whole-tomatoes-mixed-bold-flat-colors-risograph-print)
+
+---
+
+[1](illustrations.md) · [2](illustrations-2.md) · [3](illustrations-3.md) · **4** · [5](illustrations-5.md) · [6](illustrations-6.md) · [7](illustrations-7.md)
 
 [← Home](../README.md)

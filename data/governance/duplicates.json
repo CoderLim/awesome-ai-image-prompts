@@ -303,5 +303,41 @@
       "freestylefly-case-147",
       "freestylefly-case-148"
     ]
+  },
+  {
+    "kind": "same-prompt-prefix",
+    "ids": [
+      "prompthero-14c3a324a15",
+      "prompthero-3e98e6635d5",
+      "prompthero-428be2a38be"
+    ]
+  },
+  {
+    "kind": "same-prompt-prefix",
+    "ids": [
+      "prompthero-025afb28307",
+      "prompthero-66a2b65df89"
+    ]
+  },
+  {
+    "kind": "same-prompt-prefix",
+    "ids": [
+      "prompthero-b017b77247c",
+      "prompthero-dfc09524286"
+    ]
+  },
+  {
+    "kind": "same-prompt-prefix",
+    "ids": [
+      "prompthero-b43225b06f5",
+      "prompthero-cc98f9e2f32"
+    ]
+  },
+  {
+    "kind": "same-prompt-prefix",
+    "ids": [
+      "prompthero-c5cde05631e",
+      "prompthero-e35522ac220"
+    ]
   }
 ]

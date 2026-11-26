@@ -1,8 +1,8 @@
 # travel
 
-[← Home](../README.md) · Page 1 / 1
+[← Home](../README.md) · Page 1 / 2
 
-**1**
+**1** · [2](travel-2.md)
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
@@ -294,6 +294,38 @@ By [@Naiknelofar788](https://x.com/Naiknelofar788/status/2093679919473840378)
 
 ---
 
-**1**
+<a id="prompthero-0e300d1c33b"></a>
+
+## scenic view landscape cyberpunk city of highly det\.\.\.
+
+<a href="https://cdn.prompthero.com/729cw0maqgzi96o6vs68g2itft3c-stable-diffusion-21-768-scenic-view-landscape-cyberpunk-city-of-highly-detailed-water-color-pastel-mix-ultra-realistic-robotic-dog-hyperdetailed-full-body-visible.jpg"><img src="https://cdn.prompthero.com/729cw0maqgzi96o6vs68g2itft3c-stable-diffusion-21-768-scenic-view-landscape-cyberpunk-city-of-highly-detailed-water-color-pastel-mix-ultra-realistic-robotic-dog-hyperdetailed-full-body-visible.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+scenic view landscape cyberpunk city of highly detailed water color pastel mix ultra realistic, robotic dog, hyperdetailed full body visible, looking from below
+```
+
+[Source](https://prompthero.com/prompt/0e300d1c33b-stable-diffusion-21-768-scenic-view-landscape-cyberpunk-city-of-highly-detailed-water-color-pastel-mix-ultra-realistic-robotic-dog-hyperdetailed-full-body-visible)
+
+---
+
+<a id="prompthero-1b9ce410a6c"></a>
+
+## cinematic seascape, warm color grading, long-lens \.\.\.
+
+<a href="https://cdn.prompthero.com/m4n05u4o7cwbdqsrponsny9ctiqw-midjourney-7-cinematic-seascape-warm-color-grading-long-lens-compression-straight-horizon-large-sun-near-upper-third-low-vantage-from-wet-sand.png"><img src="https://cdn.prompthero.com/m4n05u4o7cwbdqsrponsny9ctiqw-midjourney-7-cinematic-seascape-warm-color-grading-long-lens-compression-straight-horizon-large-sun-near-upper-third-low-vantage-from-wet-sand.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+cinematic seascape, warm color grading, long-lens compression, straight horizon, large sun near upper third, low vantage from wet sand, gentle shoreline leading lines, full-frame mirrorless, 200-300mm telephoto lens, f/4, 1/800s, ISO100, single-point AF on subject, slight background motion blur on waves, woman seated on a folding beach chair, side-profile silhouette, windswept hair in sea breeze, relaxed posture, subtle rim light on edges, ocean shore with breaking surf and reflective wet sand, sun color bleeding on wet sand, intense orange-red golden-hour backlight, soft atmospheric haze, crisp horizon, delicate water-droplet bokeh, vermilion-to-amber sky gradient --ar 9:16 --raw --stylize 200
+```
+
+By [@Grayve](https://prompthero.com/prompt/1b9ce410a6c-midjourney-7-cinematic-seascape-warm-color-grading-long-lens-compression-straight-horizon-large-sun-near-upper-third-low-vantage-from-wet-sand)
+
+---
+
+**1** · [2](travel-2.md)
 
 [← Home](../README.md)

@@ -1,8 +1,8 @@
 # logos
 
-[← Home](../README.md) · Page 1 / 1
+[← Home](../README.md) · Page 1 / 2
 
-**1**
+**1** · [2](logos-2.md)
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
@@ -326,6 +326,6 @@ By [@iamaiistudio](https://x.com/iamaiistudio/status/2071923809788285125)
 
 ---
 
-**1**
+**1** · [2](logos-2.md)
 
 [← Home](../README.md)

@@ -1,57 +1,57 @@
 {
-  "total": 823,
-  "visible": 758,
+  "total": 1450,
+  "visible": 1385,
   "hidden": 65,
   "duplicateExcluded": 62,
   "duplicateExcludedFromGallery": 60,
-  "uniqueCases": 761,
+  "uniqueCases": 1388,
   "galleryGroups": {
-    "reference": 168,
-    "generation": 590
+    "reference": 209,
+    "generation": 1176
   },
   "types": {
-    "generation": 732,
-    "editing": 26
+    "generation": 1351,
+    "editing": 34
   },
   "inputModes": {
-    "reference-to-image": 142,
-    "text-to-image": 403,
-    "unknown": 187,
-    "image-editing": 26
+    "reference-to-image": 175,
+    "text-to-image": 961,
+    "unknown": 215,
+    "image-editing": 34
   },
   "categories": {
-    "generation/posters": 136,
-    "generation/creative-art": 44,
-    "generation/illustrations": 89,
-    "generation/logos": 23,
-    "generation/portraits": 131,
-    "generation/products": 21,
-    "generation/comics-storyboards": 26,
-    "generation/travel": 21,
-    "generation/characters": 88,
-    "generation/architecture": 4,
-    "editing/composition": 3,
+    "generation/posters": 149,
+    "generation/creative-art": 150,
+    "generation/illustrations": 154,
+    "generation/logos": 24,
+    "generation/portraits": 457,
+    "generation/products": 32,
+    "generation/comics-storyboards": 28,
+    "generation/travel": 38,
+    "generation/characters": 146,
+    "generation/architecture": 20,
+    "editing/composition": 5,
     "editing/portrait-editing": 5,
-    "generation/other": 50,
+    "generation/other": 52,
     "editing/object-removal": 3,
-    "editing/background-change": 1,
+    "editing/background-change": 2,
     "editing/object-replacement": 1,
-    "editing/restyle": 12,
-    "generation/infographics": 56,
+    "editing/restyle": 16,
+    "generation/infographics": 57,
     "generation/ui-mockups": 36,
-    "generation/avatars": 7,
-    "editing/outfit-change": 1
+    "generation/avatars": 8,
+    "editing/outfit-change": 2
   },
   "confidence": {
-    "high": 501,
-    "medium": 239,
-    "low": 83
+    "high": 855,
+    "medium": 452,
+    "low": 143
   },
   "flags": {
-    "rights-review": 811,
-    "input-mode-review": 209,
-    "duplicate-candidate:same-prompt-prefix": 32,
-    "classification-review": 83,
+    "rights-review": 1438,
+    "input-mode-review": 237,
+    "duplicate-candidate:same-prompt-prefix": 43,
+    "classification-review": 143,
     "missing-original-post-url": 180,
     "duplicate-candidate:same-post": 58,
     "duplicate-excluded": 62,
@@ -63,9 +63,9 @@
   "duplicateGroups": {
     "exact-prompt": 10,
     "same-post": 16,
-    "same-prompt-prefix": 11
+    "same-prompt-prefix": 16
   },
-  "rightsPending": 811,
+  "rightsPending": 1438,
   "checks": {
     "imageHttp": "not-run",
     "imagePromptMatch": "not-run",

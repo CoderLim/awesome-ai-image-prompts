@@ -39,6 +39,7 @@ export function classifyContent(r){
  const isEditPath=/\/editing\.md$/.test(path),specific=editObject.find(([,re])=>re.test(head));
  const preserve=/keep.{0,80}(?:background|everything else|all other|original pixels|unchanged)|preserv.{0,60}(?:exact pose|original background|composition|original pixels)|do not change anything else|原画的画素|元画の画素|其他.{0,12}不变|背景.{0,8}不变|保持原始.{0,12}(?:构图|背景)|保持.{0,8}原图/i.test(p);
  let type='generation',category='other',mode='unknown',confidence='medium',reason='prompt-category';
+ if(r.provenance.collectedFrom[0].sourceId==='prompthero'&&r.sourceMeta?.review?.qualityStatus==='recommended'&&!missing){const confidence=r.sourceMeta.review.classificationConfidence;return {type:r.type,category:r.category,inputMode:r.inputMode,confidence:['high','medium','low'].includes(confidence)?confidence:'low',reason:'reviewed-collector-export'};}
  if(r.provenance.collectedFrom[0].sourceId==='vcl'&&r.inputMode==='text-to-image')return {type:'generation',category:r.category,inputMode:'text-to-image',confidence:'high',reason:'reviewed-source-recipe'};
  if(missing)return {type:'unclassified',category:'other',inputMode:'unknown',confidence:'low',reason:'prompt-unavailable'};
  const overrides={

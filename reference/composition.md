@@ -54,6 +54,38 @@ By [@AiWithTariq](https://x.com/AiWithTariq/status/2100427354216841263)
 
 ---
 
+<a id="prompthero-9b01df4f1f0"></a>
+
+## &quot;image\_generation&quot;:\( &quot;quality&quot;: &quot;hyper-realistic&quot;,\.\.\.
+
+<a href="https://cdn.prompthero.com/v1_8626851ffbf55723225b5cdf60-hero-10-imagegeneration-quality-hyper-realistic-face-preserveoriginal-true-referencematch-true-subject-description-a-stylish-person-with-the-same-face-clothing-top.jpg"><img src="https://cdn.prompthero.com/v1_8626851ffbf55723225b5cdf60-hero-10-imagegeneration-quality-hyper-realistic-face-preserveoriginal-true-referencematch-true-subject-description-a-stylish-person-with-the-same-face-clothing-top.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+"image_generation":( "quality": "hyper-realistic", "face": ("preserve_original": true, "reference_match'": true), "subject":{ "description": "A stylish person with the same face.", “clothing":{ "Top": ("type": "knitted sweater", "color": "light grey (Tom Theme) ". } "pants": ("type": "high-waisted jeans", "color": "denim blue". "shoes":("type": "high-top sneakers", "color": "white") "pose": "standing with arm around a giant 3D spongebob while Patrick Star sits on spongebob's shoulder", "expression": "fun, mischievous" "character_element":{ "name": "spongebob & Patrick Star", "type': "3D photorealistic duo", "interaction': "spongebob poses confidently, Patrick Star looks playful" "environment-( "background'. (clean grey-blue backdrop"} }
+```
+
+By [@user40ruy](https://prompthero.com/prompt/9b01df4f1f0-hero-10-imagegeneration-quality-hyper-realistic-face-preserveoriginal-true-referencematch-true-subject-description-a-stylish-person-with-the-same-face-clothing-top)
+
+---
+
+<a id="prompthero-09f74dc210a"></a>
+
+## contemporary art gallery interior, minimal museu\.\.\.
+
+<a href="https://cdn.prompthero.com/y6oyks1si3qb934acchdfzq46o-nano-banana-nano-banana-2-contemporary-art-gallery-interior-minimal-museum-space-polished-concrete-floor-soft-neutral-walls-the-object-from-the-reference-image-placed.jpeg"><img src="https://cdn.prompthero.com/y6oyks1si3qb934acchdfzq46o-nano-banana-nano-banana-2-contemporary-art-gallery-interior-minimal-museum-space-polished-concrete-floor-soft-neutral-walls-the-object-from-the-reference-image-placed.jpeg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+contemporary art gallery interior, minimal museum space, polished concrete floor, soft neutral walls the object from the reference image placed at the center on a clean pedestal, displayed as a high-end collectible surrounded by a transparent glass display case (museum vitrine), subtle reflections, thin metal frame, realistic glass behavior lighting: soft overhead spotlight, museum lighting, realistic shadows under the object, cinematic but natural composition: centered, eye-level shot, product clearly visible, balanced framing background slightly blurred, shallow depth of field, focus on the object, premium exhibition atmosphere ultra realistic integration of the referenced object into the scene, preserving its shape, proportions and design photorealistic, 8k, commercial photography quality
+```
+
+[Source](https://prompthero.com/prompt/09f74dc210a-nano-banana-nano-banana-2-contemporary-art-gallery-interior-minimal-museum-space-polished-concrete-floor-soft-neutral-walls-the-object-from-the-reference-image-placed)
+
+---
+
 **1**
 
 [← Home](../README.md)

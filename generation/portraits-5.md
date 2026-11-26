@@ -1,8 +1,8 @@
 # portraits
 
-[← Home](../README.md) · Page 5 / 5
+[← Home](../README.md) · Page 5 / 21
 
-[1](portraits.md) · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · **5**
+[1](portraits.md) · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · **5** · [6](portraits-6.md) · [7](portraits-7.md) · [8](portraits-8.md) · [9](portraits-9.md) · [10](portraits-10.md) · [11](portraits-11.md) · [12](portraits-12.md) · [13](portraits-13.md) · [14](portraits-14.md) · [15](portraits-15.md) · [16](portraits-16.md) · [17](portraits-17.md) · [18](portraits-18.md) · [19](portraits-19.md) · [20](portraits-20.md) · [21](portraits-21.md)
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
@@ -294,6 +294,38 @@ By [@SheBuildsAI\_](https://x.com/SheBuildsAI_/status/2092431090095149533)
 
 ---
 
-[1](portraits.md) · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · **5**
+<a id="prompthero-0c109f6343c"></a>
+
+## shadowed model against a background that shifts fr\.\.\.
+
+<a href="https://cdn.prompthero.com/t1bvz7vez7jl94o58qv59tau66s5-flux-pro-shadowed-model-against-a-background-that-shifts-from-deep-black-to-vibrant-red-key-lighting-soft-diffusion-warm-red-gel.jpeg"><img src="https://cdn.prompthero.com/t1bvz7vez7jl94o58qv59tau66s5-flux-pro-shadowed-model-against-a-background-that-shifts-from-deep-black-to-vibrant-red-key-lighting-soft-diffusion-warm-red-gel.jpeg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+shadowed model against a background that shifts from deep black to vibrant red, key lighting, soft diffusion, warm red gel backlight,  modern photoshoot, slanted head position, gaze directly into the lens,  confident posture, high-neck shirt, mist, surreal ambiance, diffused shadows, lowlight, enhanced tonal adjustments, targeted lightening and darkening, textured grain overlay, portrait focusing on the chest and head, professional model with ancient greek dark facial characteristics and heterochromia—one eye blue, one eye brown,  photographed with red camera, cinematic, crisp details.
+```
+
+By [@chorlo](https://prompthero.com/prompt/0c109f6343c-flux-pro-shadowed-model-against-a-background-that-shifts-from-deep-black-to-vibrant-red-key-lighting-soft-diffusion-warm-red-gel)
+
+---
+
+<a id="prompthero-0cc18598e48"></a>
+
+## &quot;The Cosmic Eternal Empress of Celestia&quot;
+
+<a href="https://cdn.prompthero.com/8t0thhgctzkapqfylbo5b2839hvk-stable-diffusion-21-768-the-cosmic-eternal-empress-of-celestia.jpg"><img src="https://cdn.prompthero.com/8t0thhgctzkapqfylbo5b2839hvk-stable-diffusion-21-768-the-cosmic-eternal-empress-of-celestia.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+((a portrait)) in the (fantasy style of luis royo and H.R Giger)), of an ancient female ethereal otherwordly queen, attractive, white ash smooth skin, athletic, (muted colors) conveying powerful emotions, the scene features a close up portrait theme setting, very detailed, bright, highly detailed digital art, features (magic, sorcery), imaginative Fantasy and Science Fiction themes alongside Mythological, all brought together in an epic setting that evokes a sense of adventure,  truly impressive graphics, with intricate compositions and fantastical subject matter that transport viewers into a world of surreal imagination, highly detailed, art by julie bell))) finely detailed, (((masterpiece, good quality, intricate details, high quality, best quality, 8k, in focus, sharp focus)))intricate details))), ((((masterpiece, good quality
+```
+
+[Source](https://prompthero.com/prompt/0cc18598e48-stable-diffusion-21-768-the-cosmic-eternal-empress-of-celestia)
+
+---
+
+[1](portraits.md) · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · **5** · [6](portraits-6.md) · [7](portraits-7.md) · [8](portraits-8.md) · [9](portraits-9.md) · [10](portraits-10.md) · [11](portraits-11.md) · [12](portraits-12.md) · [13](portraits-13.md) · [14](portraits-14.md) · [15](portraits-15.md) · [16](portraits-16.md) · [17](portraits-17.md) · [18](portraits-18.md) · [19](portraits-19.md) · [20](portraits-20.md) · [21](portraits-21.md)
 
 [← Home](../README.md)

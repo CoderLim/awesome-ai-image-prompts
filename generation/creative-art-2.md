@@ -1,8 +1,8 @@
 # creative art
 
-[← Home](../README.md) · Page 2 / 2
+[← Home](../README.md) · Page 2 / 8
 
-[1](creative-art.md) · **2**
+[1](creative-art.md) · **2** · [3](creative-art-3.md) · [4](creative-art-4.md) · [5](creative-art-5.md) · [6](creative-art-6.md) · [7](creative-art-7.md) · [8](creative-art-8.md)
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
@@ -294,6 +294,38 @@ By [@PromptSin](https://x.com/PromptSin/status/2092390329890849163)
 
 ---
 
-[1](creative-art.md) · **2**
+<a id="prompthero-0b1e8c269a2"></a>
+
+## \{ &quot;scene&quot;: \{ &quot;setting&quot;: &quot;inside a swirling t\.\.\.
+
+<a href="https://cdn.prompthero.com/v1_a99224c8869cbccfd372051d1a-hero-10-scene-setting-inside-a-swirling-tornado-mood-dramatic-and-surreal-style-hyper-realistic-fashion-editorial-lighting-high-contrast-with-stormy.jpeg"><img src="https://cdn.prompthero.com/v1_a99224c8869cbccfd372051d1a-hero-10-scene-setting-inside-a-swirling-tornado-mood-dramatic-and-surreal-style-hyper-realistic-fashion-editorial-lighting-high-contrast-with-stormy.jpeg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+{ "scene": { "setting": "inside a swirling tornado", "mood": "dramatic and surreal", "style": "hyper-realistic, fashion editorial", "lighting": "high contrast with stormy overcast sky", "atmosphere": "intense, with debris flying and motion blur around edges" }, "subject": { "type": "girl", "age": "20", "expression": "focused, intense", "pose": "falling or flying upwards with foot toward camera", "outfit": { "top": "blue gingham dress", "shoes": "bold red Crocs" }, "hair": "braided, swept upward by wind", "accessories": { "animal": "small fluffy dog held under her arm" } }, "camera": { "angle": "extreme wide-angle, low perspective from foot upward", "lens": "ultra wide-angle", "motion": "dynamic motion blur on foot and background debris", "focus": "sharp on girl’s face and dress, blurred background" }, "effects": { "wind": "clothes and hair dramatically lifted", "debris": "leaves and dirt spiraling around", "sky": "dark and stormy with funnel clouds" }, "composition": { "foreground": "large red Croc in extreme perspective", "background": "tornado spiral and flying particles" } }
+```
+
+By [@albertoantoniot](https://prompthero.com/prompt/0b1e8c269a2-hero-10-scene-setting-inside-a-swirling-tornado-mood-dramatic-and-surreal-style-hyper-realistic-fashion-editorial-lighting-high-contrast-with-stormy)
+
+---
+
+<a id="prompthero-0d3dd87d153"></a>
+
+## A rapid aerial tracking shot from the drone&\#39;s pers\.\.\.
+
+<a href="https://cdn.prompthero.com/cll1ubjksbcfbqs0sv9b0lst9ji9-flux-flux-11-pro-ultra-a-rapid-aerial-tracking-shot-from-the-drones-perspective-captures-a-surreal-dream-sequence-of-an-ancient-chinese-beauty-dressed.jpg"><img src="https://cdn.prompthero.com/cll1ubjksbcfbqs0sv9b0lst9ji9-flux-flux-11-pro-ultra-a-rapid-aerial-tracking-shot-from-the-drones-perspective-captures-a-surreal-dream-sequence-of-an-ancient-chinese-beauty-dressed.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+A rapid aerial tracking shot from the drone's perspective captures a surreal dream sequence of an ancient Chinese beauty dressed in an exquisite Hanfu, flying at high speed in a prone position. She effortlessly glides through the clouds, her body fully extended with arms outstretched to the sides, legs slightly parted, and her head forward, capturing the sensation of smooth horizontal flight. Her Hanfu billows in the wind as the camera closely tracks from a slightly higher angle, moving from the left rear to the right rear, maintaining a continuous view of the prone position as the character swiftly traverses the scene. The environment is dynamic and rapidly changing, with clouds below and white clouds streaking by in the background, a large moon hanging high in the distance, and a sparkling night sky surrounding, with motion blur and light trails enhancing the sense of speed and fluidity. Rapid movement.
+```
+
+[Source](https://prompthero.com/prompt/0d3dd87d153-flux-flux-11-pro-ultra-a-rapid-aerial-tracking-shot-from-the-drones-perspective-captures-a-surreal-dream-sequence-of-an-ancient-chinese-beauty-dressed)
+
+---
+
+[1](creative-art.md) · **2** · [3](creative-art-3.md) · [4](creative-art-4.md) · [5](creative-art-5.md) · [6](creative-art-6.md) · [7](creative-art-7.md) · [8](creative-art-8.md)
 
 [← Home](../README.md)

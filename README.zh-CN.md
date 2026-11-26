@@ -2,13 +2,13 @@
 
 [English](README.md) · [来源](SOURCES.md)
 
-共 758 个可浏览案例。参考图生成包含风格转换、换装等基于输入图的任务；普通图片生成暂含输入要求待确认的案例。每个案例默认展示一张原始效果图，仅来源明确的编辑前后对比保留两张。完整提示词以可复制的单行代码块展示，原始格式保留在 JSON 中。案例未独立复现。
+共 1385 个可浏览案例。参考图生成包含风格转换、换装等基于输入图的任务；普通图片生成暂含输入要求待确认的案例。每个案例默认展示一张原始效果图，仅来源明确的编辑前后对比保留两张。完整提示词以可复制的单行代码块展示，原始格式保留在 JSON 中。案例未独立复现。
 
 ## 图片生成
 
 <table><tr>
 <td width="33%" valign="top" align="center"><a href="generation/portraits.md#evolink-gpt-image-2-6-case-254"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/2118147098709274624.jpg" width="230" alt="Source example"></a><br><a href="generation/portraits.md#evolink-gpt-image-2-6-case-254"><strong>Tea Portrait Version Comparison</strong></a></td>
-<td width="33%" valign="top" align="center"><a href="generation/avatars.md#freestylefly-case-34"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case34.jpg" width="230" alt="Source example"></a><br><a href="generation/avatars.md#freestylefly-case-34"><strong>插画艺术创作图</strong></a></td>
+<td width="33%" valign="top" align="center"><a href="generation/avatars.md#prompthero-ee3bde62395"><img src="https://cdn.prompthero.com/9ts3zvnig7b43vjk45z6xadkp3rr-stable-diffusion-xl-base-09-prompt-credit-northmoorai-tweaked-v3.jpg" width="230" alt="After"></a><br><a href="generation/avatars.md#prompthero-ee3bde62395"><strong>Prompt Credit @NorthmoorAI. &amp; Tweaked v3</strong></a></td>
 <td width="33%" valign="top" align="center"><a href="generation/illustrations.md#evolink-illustration-case-124"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2108424193708867584.jpg" width="230" alt="Source example"></a><br><a href="generation/illustrations.md#evolink-illustration-case-124"><strong>Hand-Drawn Watermelon Magazine Illustration</strong></a></td>
 </tr></table>
 
@@ -36,44 +36,44 @@
 
 ### 图片生成
 
-- [portraits](generation/portraits.md) (98)
-- [avatars](generation/avatars.md) (6)
-- [illustrations](generation/illustrations.md) (73)
-- [products](generation/products.md) (19)
-- [posters](generation/posters.md) (115)
-- [characters](generation/characters.md) (48)
-- [architecture](generation/architecture.md) (3)
-- [infographics](generation/infographics.md) (52)
-- [logos](generation/logos.md) (20)
-- [travel](generation/travel.md) (18)
+- [portraits](generation/portraits.md) (404)
+- [avatars](generation/avatars.md) (7)
+- [illustrations](generation/illustrations.md) (136)
+- [products](generation/products.md) (28)
+- [posters](generation/posters.md) (127)
+- [characters](generation/characters.md) (101)
+- [architecture](generation/architecture.md) (19)
+- [infographics](generation/infographics.md) (53)
+- [logos](generation/logos.md) (21)
+- [travel](generation/travel.md) (35)
 - [ui mockups](generation/ui-mockups.md) (35)
-- [comics storyboards](generation/comics-storyboards.md) (22)
-- [creative art](generation/creative-art.md) (38)
-- [other](generation/other.md) (43)
+- [comics storyboards](generation/comics-storyboards.md) (23)
+- [creative art](generation/creative-art.md) (142)
+- [other](generation/other.md) (45)
 
 ### 参考图生成
 
-- [portraits](reference/portraits.md) (33)
+- [portraits](reference/portraits.md) (53)
 - [avatars](reference/avatars.md) (1)
-- [illustrations](reference/illustrations.md) (16)
-- [products](reference/products.md) (2)
-- [posters](reference/posters.md) (21)
-- [characters](reference/characters.md) (40)
+- [illustrations](reference/illustrations.md) (18)
+- [products](reference/products.md) (4)
+- [posters](reference/posters.md) (22)
+- [characters](reference/characters.md) (45)
 - [architecture](reference/architecture.md) (1)
 - [infographics](reference/infographics.md) (4)
 - [logos](reference/logos.md) (3)
 - [travel](reference/travel.md) (3)
 - [ui mockups](reference/ui-mockups.md) (1)
-- [comics storyboards](reference/comics-storyboards.md) (4)
-- [creative art](reference/creative-art.md) (6)
+- [comics storyboards](reference/comics-storyboards.md) (5)
+- [creative art](reference/creative-art.md) (8)
 - [other](reference/other.md) (7)
-- [restyle](reference/restyle.md) (12)
+- [restyle](reference/restyle.md) (16)
 - [portrait editing](reference/portrait-editing.md) (5)
-- [outfit change](reference/outfit-change.md) (1)
-- [background change](reference/background-change.md) (1)
+- [outfit change](reference/outfit-change.md) (2)
+- [background change](reference/background-change.md) (2)
 - [object removal](reference/object-removal.md) (3)
 - [object replacement](reference/object-replacement.md) (1)
-- [composition](reference/composition.md) (3)
+- [composition](reference/composition.md) (5)
 
 ## Sources and use
 

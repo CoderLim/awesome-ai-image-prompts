@@ -34,3 +34,12 @@ test('reference generation and editing share one gallery without losing operatio
  assert.deepEqual(view.rows.map(r=>[r.id,r.type,r.operationType]),[['text','generation','generation'],['ref','reference','generation'],['edit','reference','editing'],['unknown','generation','generation']]);
  assert.deepEqual(view.taxonomy.reference,['portraits','other','restyle']);
 });
+
+test('PromptHero reviewed export preserves approved provisional classification',()=>{
+ const r=make('prompthero-abc','A cinematic portrait with a detailed poster layout');
+ r.type='generation';r.category='posters';r.inputMode='text-to-image';
+ r.provenance.collectedFrom=[{sourceId:'prompthero',url:'https://prompthero.com/prompt/abc'}];
+ r.sourceMeta={review:{qualityStatus:'recommended',classificationConfidence:'medium'}};
+ assert.deepEqual(classifyContent(r),{type:'generation',category:'posters',inputMode:'text-to-image',confidence:'medium',reason:'reviewed-collector-export'});
+ assert.equal(govern([r]).metadata[r.id].quality.rights,'pending-review');
+});

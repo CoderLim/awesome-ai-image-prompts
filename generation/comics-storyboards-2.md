@@ -38,6 +38,22 @@ By [@Strength04\_X](https://x.com/Strength04_X/status/2093726038400585925)
 
 ---
 
+<a id="prompthero-9ef005f0727"></a>
+
+## The Joker, a male adult with Caucasian features, i\.\.\.
+
+<a href="https://cdn.prompthero.com/8caqs6gbldozo1o5t50spcvg90v5-midjourney-61-the-joker-a-male-adult-with-caucasian-features-is-depicted-in-a-dimly-lit-stylized-office-setting-he-sports-a.png"><img src="https://cdn.prompthero.com/8caqs6gbldozo1o5t50spcvg90v5-midjourney-61-the-joker-a-male-adult-with-caucasian-features-is-depicted-in-a-dimly-lit-stylized-office-setting-he-sports-a.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+The Joker, a male adult with Caucasian features, is depicted in a dimly lit, stylized office setting. He sports a purple and yellow striped suit, a green hair, and a mischievous grin. His expression is playful and slightly menacing. He's seated in a black office chair, one leg propped up. He's positioned slightly off-center to the left side of the image, facing the viewer. The composition is dynamic and slightly diagonal, highlighting the character's pose and the neon signs surrounding him. The overall color palette is vibrant, contrasting shades of purple and pink neon lights illuminating the scene. The backdrop features large, bright neon letters spelling "HAHAHA!" in a stylized font. The office is cluttered and somewhat chaotic, suggesting a character-driven environment. The lighting is dramatic and theatrical, casting strong shadows and emphasizing the subject. The style is artistic and evocative of a stylized comic book or graphic novel. The scene evokes a sense of energy and theatricality.
+```
+
+[Source](https://prompthero.com/prompt/9ef005f0727-midjourney-61-the-joker-a-male-adult-with-caucasian-features-is-depicted-in-a-dimly-lit-stylized-office-setting-he-sports-a)
+
+---
+
 [1](comics-storyboards.md) · **2**
 
 [← Home](../README.md)

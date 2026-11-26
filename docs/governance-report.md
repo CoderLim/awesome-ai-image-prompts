@@ -2,64 +2,64 @@
 
 Generated from source JSON. Classification is heuristic and provisional; completeness is not aesthetic quality. No image network, visual matching, reproduction or rights clearance is claimed.
 
-- Source cases: 823
-- Unique cases: 761
-- Gallery cases: 758
+- Source cases: 1450
+- Unique cases: 1388
+- Gallery cases: 1385
 - Duplicate records excluded: 62 (60 previously visible)
 - Unique cases withheld for missing content: 3
-- Rights pending: 811
+- Rights pending: 1438
 
 ## Gallery groups
 
-- reference: 168
-- generation: 590
+- reference: 209
+- generation: 1176
 
 ## Internal operation classification
 
 | Category | Count |
 |---|---:|
-| editing/background-change | 1 |
-| editing/composition | 3 |
+| editing/background-change | 2 |
+| editing/composition | 5 |
 | editing/object-removal | 3 |
 | editing/object-replacement | 1 |
-| editing/outfit-change | 1 |
+| editing/outfit-change | 2 |
 | editing/portrait-editing | 5 |
-| editing/restyle | 12 |
-| generation/architecture | 4 |
-| generation/avatars | 7 |
-| generation/characters | 88 |
-| generation/comics-storyboards | 26 |
-| generation/creative-art | 44 |
-| generation/illustrations | 89 |
-| generation/infographics | 56 |
-| generation/logos | 23 |
-| generation/other | 50 |
-| generation/portraits | 131 |
-| generation/posters | 136 |
-| generation/products | 21 |
-| generation/travel | 21 |
+| editing/restyle | 16 |
+| generation/architecture | 20 |
+| generation/avatars | 8 |
+| generation/characters | 146 |
+| generation/comics-storyboards | 28 |
+| generation/creative-art | 150 |
+| generation/illustrations | 154 |
+| generation/infographics | 57 |
+| generation/logos | 24 |
+| generation/other | 52 |
+| generation/portraits | 457 |
+| generation/posters | 149 |
+| generation/products | 32 |
+| generation/travel | 38 |
 | generation/ui-mockups | 36 |
 
 ## Input modes
 
-- reference-to-image: 142
-- text-to-image: 403
-- unknown: 187
-- image-editing: 26
+- reference-to-image: 175
+- text-to-image: 961
+- unknown: 215
+- image-editing: 34
 
 ## Review flags
 
-- classification-review: 83
+- classification-review: 143
 - duplicate-candidate:exact-prompt: 30
 - duplicate-candidate:same-post: 58
-- duplicate-candidate:same-prompt-prefix: 32
+- duplicate-candidate:same-prompt-prefix: 43
 - duplicate-excluded: 62
 - generic-title-review: 98
-- input-mode-review: 209
+- input-mode-review: 237
 - missing-image-url: 3
 - missing-original-post-url: 180
 - missing-original-prompt: 2
-- rights-review: 811
+- rights-review: 1438
 
 ## Withheld cases
 

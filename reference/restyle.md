@@ -198,6 +198,70 @@ By [@Sairah\_0](https://x.com/Sairah_0/status/2093212900160868430)
 
 ---
 
+<a id="prompthero-3fa773db382"></a>
+
+## Transform the uploaded photo of my real cat into a\.\.\.
+
+<a href="https://cdn.prompthero.com/v1_357b993043e130f656050b99dd-hero-10-transform-the-uploaded-photo-of-my-real-cat-into-a-high-quality-3d-animated-movie-character-important-preserve-the-cats.jpeg"><img src="https://cdn.prompthero.com/v1_357b993043e130f656050b99dd-hero-10-transform-the-uploaded-photo-of-my-real-cat-into-a-high-quality-3d-animated-movie-character-important-preserve-the-cats.jpeg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+Transform the uploaded photo of my real cat into a high-quality 3D animated movie character. IMPORTANT: Preserve the cat's exact identity and appearance. Keep the original fur color, unique patterns, markings, eye color, eye shape, nose, ears, muzzle, face proportions and all distinctive features. The character must look unmistakably like the real cat in the uploaded photograph. Style: beautiful premium 3D animation, semi-realistic Pixar-inspired aesthetic, incredibly detailed soft fur, expressive beautiful eyes, natural proportions, subtle facial expressions, charming personality. Show the entire cat standing naturally on four paws, facing slightly toward the camera. Professional character design, cinematic soft lighting, realistic shadows, detailed fur texture, beautiful color grading, clean neutral background. The result should look like a character from a high-budget animated movie, not a generic cartoon cat. Do not change the cat's breed, colors, markings or physical characteristics. No clothes, no accessories, no extra limbs, no distorted face, no text, no watermark.
+```
+
+By [@lumetro](https://prompthero.com/prompt/3fa773db382-hero-10-transform-the-uploaded-photo-of-my-real-cat-into-a-high-quality-3d-animated-movie-character-important-preserve-the-cats)
+
+---
+
+<a id="prompthero-428be2a38be"></a>
+
+## \{ &quot;prompt\_type&quot;: &quot;descriptive\_replication&quot;, &quot;r\.\.\.
+
+<a href="https://cdn.prompthero.com/q6iiz6srtyrefban8wyu0900ex-nano-banana-gemini-3-pro-image-prompttype-descriptivereplication-referenceadherence-strictvisualfidelity-aspectratio-34-identitylock-priority-absolute-instruction-use-my-exact-female-model-facial-identity-must-be-perfectly.jpeg"><img src="https://cdn.prompthero.com/q6iiz6srtyrefban8wyu0900ex-nano-banana-gemini-3-pro-image-prompttype-descriptivereplication-referenceadherence-strictvisualfidelity-aspectratio-34-identitylock-priority-absolute-instruction-use-my-exact-female-model-facial-identity-must-be-perfectly.jpeg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+{ "prompt_type": "descriptive_replication", "reference_adherence": "STRICT_VISUAL_FIDELITY", "aspect_ratio": "3:4", "identity_lock": { "priority": "ABSOLUTE", "instruction": "Use MY EXACT FEMALE MODEL. Facial identity must be perfectly preserved with zero drift. Bone structure, eye spacing, nose shape, lip volume, jawline, cheek fullness, skin texture, height perception, shoulder width, waist-to-hip ratio, and overall proportions must match the model exactly. No beautification, no face blending, no generic influencer features." }, "subject": { "demographics": "Young adult female (21+), my exact blonde model", "hair": { "color": "ash blonde with visible darker roots (match model exactly)", "style": "center part with soft curtain layers, loose natural waves", "texture": "realistic, slightly tousled, not over-styled" }, "face": { "expression": "soft pout / duck-face expression identical to reference", "gaze": "directed at phone screen via mirror reflection", "makeup": "contoured cheeks, mascara, glossy mauve-nude lips, groomed brows", "visibility": "partially obscured by phone, face proportions remain readable" }, "body": { "pose": "seated on bed, leaning slightly forward and subtly to the side", "posture": "relaxed torso with natural compression from seated position", "anatomy": { "curves": "natural soft curves with realistic gravity", "chest": "bikini-supported volume, natural weight and shape", "details": "visible collarbones, subtle shoulder blade definition" }, "skin_texture": "visible pores, slight natural sheen on chest and shoulders, no airbrushing" } }, "attire_and_accessories": { "clothing": { "top": "metallic dull silver/ silver triangle string bikini top with thin straps", "bottom_detail": "matching bikini bottom strings visible at hips" }, "jewelry": { "necklaces": [ "layered gold chain with small cross pendant", "delicate charm necklace (star/flower)", "long lariat-style gold chain" ], "wrists": [ "thick ribbed gold bangle on left wrist", "thin gold chain bracelet" ], "fingers": "multiple gold rings on left hand" }, "props": { "phone": "white iPhone (iPhone Pro style), held in right hand", "case": "pink textured pop-it bubble phone case" } }, "environment": { "setting": "bedroom interior, daytime", "foreground_element": { "mirror": "large rectangular mirror with GREY MARBLE FRAME", "material": "polished stone marble, subtle veining, cool grey tone", "placement": "occupying the right third of the frame" }, "background": { "bed": "white rumpled bed sheets with natural creases", "walls": "plain white walls", "decor": "minimalist, clean, no clutter", "shadows": "soft corner shadows for realism" } }, "lighting_and_atmosphere": { "source": "natural daylight from window on camera-left", "quality": "soft but directional", "effects": [ "specular highlights on left shoulder and chest", "gentle shadow falloff on right side of face and torso" ], "color_cast": "cool daylight mixed with warm skin tones", "contrast": "moderate, natural, no studio fill" }, "camera_and_technical": { "perspective": "mirror reflection selfie", "camera_position": "eye level, angled slightly downward", "framing": "vertical 3:4, subject slightly left to accommodate marble frame", "focus": "sharp on face and phone, background slightly softer", "visual_fidelity": "real iPhone camera look, mild digital noise, no HDR crunch" }, "realism_constraints": { "allowed": [ "minor asymmetry", "natural skin texture", "fabric tension and wrinkles", "subtle lighting imperfections" ], "forbidden": [ "face alteration", "identity drift", "plastic skin", "studio lighting", "CGI or stylized realism", "generic influencer face" ] }, "negative_prompt": [ "different face", "beauty filters", "airbrushed skin", "anime", "cartoon", "over-sharpening", "wooden mirror frame", "wrong phone color", "missing jewelry", "incorrect bikini style" ] }
+```
+
+[Source](https://prompthero.com/prompt/428be2a38be-nano-banana-gemini-3-pro-image-prompttype-descriptivereplication-referenceadherence-strictvisualfidelity-aspectratio-34-identitylock-priority-absolute-instruction-use-my-exact-female-model-facial-identity-must-be-perfectly)
+
+---
+
+<a id="prompthero-1232f6ac884"></a>
+
+## Transforming the photographed person into a realis\.\.\.
+
+<a href="https://cdn.prompthero.com/d0oan4p2rxjfq894i9f4iz7e3x-nano-banana-nano-banana-2-transforming-the-photographed-person-into-a-realistic-3d-figurine-in-front-of-a-computer-desk-the-computer-screen-displays-a.jpeg"><img src="https://cdn.prompthero.com/d0oan4p2rxjfq894i9f4iz7e3x-nano-banana-nano-banana-2-transforming-the-photographed-person-into-a-realistic-3d-figurine-in-front-of-a-computer-desk-the-computer-screen-displays-a.jpeg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+Transforming the photographed person into a realistic 3D figurine in front of a computer desk. The computer screen displays a 3D design drawing of the figurine's software interface. The figurine has a transparent base, and next to it is its matching packaging box, allowing the figurine to be seen. The overall scene is in a realistic style, with the character presented in an ultra-realistic manner. The image quality reaches 4K high definition, the lighting effects are bright and layered, and the colors are saturated and vibrant, showcasing the exquisite imaging effect of high-end photography. Visual Tone: The scene is rich in color and visually impactful. The camera should be able to display different grand backgrounds, with detailed and lively elements in the background, creating an immersive experience.
+```
+
+[Source](https://prompthero.com/prompt/1232f6ac884-nano-banana-nano-banana-2-transforming-the-photographed-person-into-a-realistic-3d-figurine-in-front-of-a-computer-desk-the-computer-screen-displays-a)
+
+---
+
+<a id="prompthero-1387a39d33d"></a>
+
+## Use my uploaded photo as the primary facial identi\.\.\.
+
+<a href="https://cdn.prompthero.com/v1_764c8c31142996872e47cd5c8f-hero-10-use-my-uploaded-photo-as-the-primary-facial-identity-reference-preserve-my-real-facial-identity-facial-proportions-eye-shape-nose.jpeg"><img src="https://cdn.prompthero.com/v1_764c8c31142996872e47cd5c8f-hero-10-use-my-uploaded-photo-as-the-primary-facial-identity-reference-preserve-my-real-facial-identity-facial-proportions-eye-shape-nose.jpeg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+Use my uploaded photo as the primary facial identity reference. Preserve my real facial identity, facial proportions, eye shape, nose, lips, jawline, skin texture, and overall likeness. Transform me into an ultra-realistic cinematic cybernetic human, inspired by a high-end futuristic sci-fi aesthetic. Create a dramatic extreme close-up portrait, showing approximately half of my face as natural human skin and the other half seamlessly transformed into advanced biomechanical cybernetic components. The cybernetic side should contain: - intricate titanium and dark metallic facial plates - exposed micro-mechanical structures - realistic screws, pistons, sensors and tiny cameras - dense fiber-optic cables and microscopic circuitry - subtle glowing orange and blue electronic elements - realistic mechanical connections beneath the skin - partially exposed synthetic jaw and cheek structures Keep the transition between human skin and machinery extremely detailed and believable, with cracked/fragmented skin gradually revealing the mechanical layers underneath. My visible human eye should remain completely natural and highly detailed, with realistic iris texture and reflections. Lighting: dramatic cinematic lighting, dark background, strong side lighting, subtle warm orange rim light, deep shadows, high contrast, beautiful specular highlights on metal, shallow depth of field, soft cinematic bokeh. Visual quality: hyper-realistic, photorealistic skin pores, individual facial hairs, realistic metal scratches and wear, micro-detail, physically accurate reflections, cinematic color grading, 8K-level detail, premium sci-fi movie concept art, shot with a macro cinematic lens. Composition: vertical portrait, face filling most of the frame, extreme close-up, centered composition, intense realistic expression, professional cinematic photography. IMPORTANT: Do not replace my identity with another person. Keep my face recognizable and faithful to the uploaded photo. Do not make me look like a generic AI character. Maintain realistic human anatomy and natural facial proportions.
+```
+
+By [@josefranciscodu](https://prompthero.com/prompt/1387a39d33d-hero-10-use-my-uploaded-photo-as-the-primary-facial-identity-reference-preserve-my-real-facial-identity-facial-proportions-eye-shape-nose)
+
+---
+
 **1**
 
 [← Home](../README.md)
