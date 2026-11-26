@@ -270,15 +270,6 @@
     "reviewSource": "v3-pair-17"
   },
   {
-    "keepId": "prompthero-3ca13bd7148",
-    "dropId": "prompthero-7b6a6ca2050",
-    "keepHash": "5104349c9f1d3f2daee5cae74a5aebbf08e71a93402bec8943d489310f92a74f",
-    "dropHash": "c6e1d3b7f4cbe180063fbb29efb7b9904071bfd68f08e540b07e77ea4fcfe393",
-    "scope": "candidate",
-    "reason": "same-template-variable-or-wording",
-    "reviewSource": "v3-pair-84"
-  },
-  {
     "keepId": "prompthero-1e00201783c",
     "dropId": "prompthero-7d23fe868a4",
     "keepHash": "b7011d7401c3817ff767af0f10e628a5b5b8ec3b069e7dca4122a42f13f773a7",
@@ -621,15 +612,6 @@
     "reviewSource": "catalog-trigram-review-2026-11-26"
   },
   {
-    "keepId": "prompthero-997a94facac",
-    "dropId": "prompthero-2bcd6558af0",
-    "keepHash": "7488763676ddb6c54692c27f349f7c3fe04e46d7b3b27cec44e59eb9b61b3413",
-    "dropHash": "59a318c96a2b29d1f415a7aaf392f673d0abd7c6cb791ae0b74b5faa14f6109c",
-    "scope": "catalog",
-    "reason": "same-template-variable-or-wording",
-    "reviewSource": "catalog-trigram-review-2026-11-26"
-  },
-  {
     "keepId": "prompthero-812dde8c057",
     "dropId": "prompthero-2c7973a4a8c",
     "keepHash": "b565019a8eef5102dec471e0872ef529d2d34244e0a2157abd8862fb9d673a76",
@@ -855,19 +837,46 @@
     "reviewSource": "catalog-trigram-review-2026-11-26"
   },
   {
-    "keepId": "prompthero-0c97785b276",
-    "dropId": "prompthero-f3cde24ccaf",
-    "keepHash": "f4c508a895cdc33a8f6e14d9c0d71d0a4544935b31db2b37a233277a6f05ee5f",
-    "dropHash": "9da432866308160416ec79fce0e79e9f6e65ecb7aff90ce4f9bb2733b9fbe111",
+    "keepId": "prompthero-1560ab05e03",
+    "dropId": "prompthero-fa81f3cd4ad",
+    "keepHash": "da3112494e0cc1d31a71830722c934658d1504e64919abb0af91d4e6671071f6",
+    "dropHash": "69a2f58908920c5851d85d141fdb141a38e5ac2ba8830c4f7cd76ff73599647f",
     "scope": "catalog",
     "reason": "same-template-variable-or-wording",
     "reviewSource": "catalog-trigram-review-2026-11-26"
   },
   {
-    "keepId": "prompthero-1560ab05e03",
-    "dropId": "prompthero-fa81f3cd4ad",
-    "keepHash": "da3112494e0cc1d31a71830722c934658d1504e64919abb0af91d4e6671071f6",
-    "dropHash": "69a2f58908920c5851d85d141fdb141a38e5ac2ba8830c4f7cd76ff73599647f",
+    "keepId": "evolink-illustration-case-166",
+    "dropId": "evolink-illustration-case-168",
+    "keepHash": "15c1b783aec3e9a2a8956158d61c69e3491cf72d73334e4d7aecbb8a9a367960",
+    "dropHash": "69bb27198e5395ae523a40476cef0c21aad075eb4d463fd03889302175e23683",
+    "scope": "catalog",
+    "reason": "same-template-variable-or-wording",
+    "reviewSource": "catalog-trigram-review-2026-11-26"
+  },
+  {
+    "keepId": "evolink-portraits-case-38",
+    "dropId": "evolink-portraits-case-39",
+    "keepHash": "0dc4ae9d0d02f9b810b3f382404b280819ae04dfc1db810a0ab82e5e8f844cc5",
+    "dropHash": "abed816fa50986d6668e8ce2d4219df9f6e03fc460674ae3361e150900cb4175",
+    "scope": "catalog",
+    "reason": "same-template-variable-or-wording",
+    "reviewSource": "catalog-trigram-review-2026-11-26"
+  },
+  {
+    "keepId": "evolink-travel-journals-case-208",
+    "dropId": "evolink-travel-journals-case-215",
+    "keepHash": "82b2f98c8a3ce8fee1ee84266d98cef7aef05cf27249eefcb27250576d188db8",
+    "dropHash": "3daf9a56f32baefc92ae041833c0ba77b681d9cf7c61941a7df72157e1888ebc",
+    "scope": "catalog",
+    "reason": "same-template-variable-or-wording",
+    "reviewSource": "catalog-trigram-review-2026-11-26"
+  },
+  {
+    "keepId": "evolink-travel-journals-case-212",
+    "dropId": "evolink-travel-journals-case-217",
+    "keepHash": "284a71d4fef8eb9ae7e1b1f0082f6c23c00b56b094fab3f5a9d55f2a8322b63f",
+    "dropHash": "ee68234f0e5ece6f3b218f3e43785a64c7fadd44e18871a5b8f85004f883502b",
     "scope": "catalog",
     "reason": "same-template-variable-or-wording",
     "reviewSource": "catalog-trigram-review-2026-11-26"

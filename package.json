@@ -12,6 +12,7 @@
     "sync": "node scripts/sync.mjs",
     "check": "node scripts/build.mjs --check && node scripts/validate.mjs && node --test",
     "audit:links": "node scripts/audit-links.mjs",
-    "review:images": "node scripts/review-images.mjs"
+    "review:images": "node scripts/review-images.mjs",
+    "review:templates": "node scripts/review-templates.mjs"
   }
 }

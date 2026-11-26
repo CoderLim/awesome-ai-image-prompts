@@ -4,12 +4,22 @@ import path from 'node:path';
 import { pathToFileURL } from 'node:url';
 import { normalize } from './prompthero-preflight.mjs';
 
-export function audit(queue, catalog, threshold=0.83) {
+// Variable normalization is only a recall hint, not a verdict.
+export function templateSkeleton(prompt){
+ return normalize(prompt)
+  .replace(/--(?:ar|aspect|v|version|niji|s|stylize|seed|q|quality|chaos|c|w|weird|style|personalize|profile|p|stop)\s+\S+/g,' ')
+  .replace(/<lora:[^>]+>/g,' ')
+  .replace(/\b(?:red|blue|green|yellow|pink|purple|orange|black|white|cyan|magenta|coral|burgundy|golden|silver|brown|grey|gray|blonde|ivory|beige)\b/g,'<color>')
+  .replace(/\b(?:woman|man|female|male|girl|boy|women|men|princess|prince|queen|king)\b/g,'<subject>')
+  .replace(/\s+/g,' ').trim();
+}
+export function audit(queue, catalog, threshold=0.83,{includeCatalog=false,templateRecall=false}={}) {
   if (!(threshold>0&&threshold<=1)) throw Error('Invalid similarity threshold');
   const candidates=queue.filter(r=>r.next_action==='visual_review'&&r.text_status==='advance');
   const all=[...candidates.map(r=>({id:'prompthero-'+r.case_id,prompt:r.prompt,post:r.case_id,source:'candidate'})),
     ...catalog.map(r=>({id:r.id,prompt:r.prompt.original,post:r.provenance.originalSource.postId,source:r.provenance.collectedFrom[0].sourceId}))];
   const normalized=all.map(r=>normalize(r.prompt));
+  const skeletons=templateRecall?all.map(r=>templateSkeleton(r.prompt)):[];
   const df=new Map();
   const vectors=normalized.map(s=>{
     const chars=Array.from(s), counts=new Map();
@@ -25,14 +35,15 @@ export function audit(queue, catalog, threshold=0.83) {
     for(const [k,w] of v)v.set(k,w/Math.sqrt(sq));
   }
   const pairs=[];
-  for(let i=0;i<candidates.length;i++){
+  for(let i=0;i<(includeCatalog?all.length:candidates.length);i++){
     const scores=new Float64Array(all.length);
     for(const [k,w] of vectors[i])for(const [j,v] of index.get(k)||[])if(j>i)scores[j]+=w*v;
     for(let j=i+1;j<all.length;j++){
       const exact=normalized[i]!==''&&normalized[i]===normalized[j];
       const samePost=Boolean(all[i].post)&&all[i].post===all[j].post;
-      if(exact||samePost||scores[j]+1e-12>=threshold)pairs.push({
-        case_id:candidates[i].case_id,match_id:all[j].id,match_source:all[j].source,
+      const templateHint=templateRecall&&skeletons[i].length>=60&&skeletons[i]===skeletons[j];
+      if(exact||samePost||templateHint||scores[j]+1e-12>=threshold)pairs.push({
+        case_id:i<candidates.length?candidates[i].case_id:all[i].id,case_source:all[i].source,match_id:all[j].id,match_source:all[j].source,template_hint:templateHint,
         similarity:+Math.min(1,scores[j]).toFixed(6),exact_prompt:exact,same_post:samePost,
         status:exact||samePost?'exact_conflict':'needs_pair_review'
       });
@@ -44,9 +55,9 @@ export function audit(queue, catalog, threshold=0.83) {
 export function readQueue(file){return fs.readFileSync(file,'utf8').split(/\r?\n/).filter(s=>s.trim()).map(JSON.parse);}
 export function readCatalog(root='.'){return fs.readdirSync(path.join(root,'data/index')).filter(f=>f.endsWith('.json')).sort().flatMap(f=>JSON.parse(fs.readFileSync(path.join(root,'data/index',f),'utf8')));}
 if(process.argv[1]&&import.meta.url===pathToFileURL(path.resolve(process.argv[1])).href){
-  const [queue,out,threshold='0.83']=process.argv.slice(2);
+  const [queue,out,threshold='0.83',...flags]=process.argv.slice(2);
   if(!queue||!out)throw Error('Usage: node scripts/audit-prompt-similarity.mjs QUEUE.jsonl OUTPUT.json [threshold]');
-  const report=audit(readQueue(queue),readCatalog(),Number(threshold));
+  const report=audit(queue==='-'?[]:readQueue(queue),readCatalog(),Number(threshold),{includeCatalog:flags.includes('--all'),templateRecall:flags.includes('--templates')});
   fs.writeFileSync(out,JSON.stringify(report,null,2)+'\n',{flag:'wx'});
   console.log(JSON.stringify({candidates:report.candidates,catalog:report.catalog,pairs:report.pairs.length},null,2));
 }
