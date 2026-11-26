@@ -27,3 +27,11 @@ test('even complete visual evidence cannot bypass missing media rights',()=>{
   d.rights.media={...d.rights.prompt,url:q.image_urls[0]};
   assert.equal(stage([q],[],[],[d]).eligible,1);
 });
+
+test('manual candidate exclusion blocks a future import plan',()=>{
+ const q=make();
+ const result=stage([q],[],[],[],[{id:'prompthero-'+q.case_id,keys:['id:prompthero-'+q.case_id]}]);
+ assert.equal(result.eligible,0);
+ assert.equal(result.added.length,0);
+ assert.deepEqual(result.audit[0].reasons,['manual_exclusion']);
+});

@@ -1,0 +1,48 @@
+import test from 'node:test';
+import assert from 'node:assert/strict';
+import fs from 'node:fs';
+import os from 'node:os';
+import path from 'node:path';
+import net from 'node:net';
+import {spawn} from 'node:child_process';
+import {once} from 'node:events';
+import {fileURLToPath} from 'node:url';
+
+test('local reviewer persists exclusion, rejects stale writes, restores case', {timeout:20000}, async t=>{
+ const root=fs.mkdtempSync(path.join(os.tmpdir(),'image-review-'));
+ let child;
+ t.after(async()=>{if(child&&child.exitCode===null&&child.signalCode===null){const exited=once(child,'exit');child.kill();await exited;}fs.rmSync(root,{recursive:true,force:true});});
+ const scripts=path.dirname(fileURLToPath(import.meta.url));
+ fs.mkdirSync(path.join(root,'scripts'),{recursive:true});
+ for(const f of ['review-images.mjs','review-images.html','review-exclusions.mjs','governance.mjs','audit-prompt-similarity.mjs','prompthero-preflight.mjs'])fs.copyFileSync(path.join(scripts,f),path.join(root,'scripts',f));
+ fs.mkdirSync(path.join(root,'data/index'),{recursive:true});
+ const make=(id,postId,prompt)=>({id,title:{en:id},prompt:{original:prompt},inputMode:'text-to-image',sourcePreview:{images:[{url:'https://example.com/'+id+'.jpg',role:'output'}]},provenance:{originalSource:{url:'https://example.com/'+id,postId},collectedFrom:[{sourceId:'fixture',path:'docs/gallery.md',url:'https://example.com/'+id}]},rights:{prompt:'unknown',media:'unknown'}});
+ fs.writeFileSync(path.join(root,'data/index/test.json'),JSON.stringify([make('a','1','A cinematic portrait'),make('b','2','A different landscape')]));
+ const queue=path.join(root,'queue.jsonl');
+ fs.writeFileSync(queue,JSON.stringify({case_id:'abcdef01234',prompt:'A watercolor landscape',image_urls:['https://example.com/c.jpg'],source_url:'https://prompthero.com/prompt/abcdef01234-example',category:'illustrations',input_mode:'text-to-image',next_action:'visual_review',text_status:'advance'})+'\n');
+ const temp=net.createServer();temp.listen(0,'127.0.0.1');await once(temp,'listening');const port=temp.address().port;await new Promise(resolve=>temp.close(resolve));
+ child=spawn(process.execPath,[path.join(root,'scripts/review-images.mjs'),'--port',String(port),'--queue',queue],{stdio:['ignore','pipe','pipe']});
+ let stdout='',stderr='';
+ await new Promise((resolve,reject)=>{
+  const timer=setTimeout(()=>reject(Error('Server startup timeout: '+stderr)),7000);
+  child.stdout.on('data',b=>{stdout+=b;if(stdout.includes('Review: http://')){clearTimeout(timer);resolve();}});
+  child.stderr.on('data',b=>stderr+=b);
+  child.once('exit',code=>{clearTimeout(timer);reject(Error('Server exited '+code+': '+stderr));});
+  child.once('error',e=>{clearTimeout(timer);reject(e);});
+ });
+ const base='http://127.0.0.1:'+port;
+ const html=await (await fetch(base)).text(),token=html.match(/const token='([a-f0-9]{64})'/)?.[1];
+ assert(token);
+ const data=await (await fetch(base+'/api/data')).json();
+ assert.equal(data.cards.length,3);assert.deepEqual(data.entries,[]);
+ const write=(action,ids,expectedRevision,key=token)=>fetch(base+'/api/review',{method:'POST',headers:{Origin:base,'Content-Type':'application/json','X-Review-Token':key},body:JSON.stringify({action,ids,expectedRevision})});
+ assert.equal((await write('exclude',['a'],data.revision,'bad-token')).status,403);
+ const resp=await write('exclude',['a','prompthero-abcdef01234'],data.revision);assert.equal(resp.status,200);
+ const saved=await resp.json();assert.equal(saved.entries.length,2);assert(saved.excluded.a);assert(saved.excluded['prompthero-abcdef01234']);
+ assert.equal(JSON.parse(fs.readFileSync(path.join(root,'data/review/exclusions.json'),'utf8')).length,2);
+ assert.deepEqual((await (await fetch(base+'/api/data')).json()).excluded,saved.excluded);
+ assert.equal((await write('exclude',['b'],data.revision)).status,409);
+ const restore=await write('restore',['a'],saved.revision);assert.equal(restore.status,200);
+ const result=await restore.json();assert.equal(result.entries.length,1);assert(!result.excluded.a);
+ assert(result.excluded['prompthero-abcdef01234']);
+});
