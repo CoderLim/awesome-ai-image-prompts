@@ -34,7 +34,7 @@ Keep collector files and uncertain-rights material local. The full-record queue 
 
 ## README featured examples
 
-Click ☆ 精选 on a card or in the enlarged image, or use the batch feature/unfeature controls. Use the featured filter to review your picks. Selections are saved immediately in data/review/featured.json, in selection order. Initial null keeps the existing automatic README previews until the first selection; after that only manual selections are shown, including when the list is empty. Both READMEs use the same list and retain the existing three-column layout, separate generation/reference sections and category navigation. Empty sections are omitted.
+Click ☆ 精选 on a card or in the enlarged image, or use the batch feature/unfeature controls. Use the featured filter to review your picks. Selections are saved immediately in data/review/featured.json, in selection order. Initial null keeps the existing automatic README previews until the first selection; after that only manual selections are shown, including when the list is empty. Both READMEs use the same list and retain the existing three-column layout in one unified featured grid (at most 30 previews; no separate generation/reference featured headings) plus category navigation.
 
 Pending queue candidates can be marked now but will not appear in README until actually published and canonical. Deleted, duplicate-excluded and otherwise unavailable cases are also omitted. Restoring a deleted case can make its saved selection visible again; unfeature to remove the selection itself. No rights or visual approval is implied by selection. Build and check after reviewing, then commit the featured file with the generated README changes.
 

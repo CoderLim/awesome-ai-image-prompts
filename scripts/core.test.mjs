@@ -39,6 +39,9 @@ test('manual README features replace automatic previews, preserve order and cate
  const taxonomy={generation:['portraits'],reference:['portraits']};
  const auto=render([],rows,taxonomy,null);
  assert(auto['README.md'].includes('https://example.com/a.jpg'));
+ assert(!/^## Image Generation$/m.test(auto['README.md']));
+ assert(!/^## Reference Image Generation$/m.test(auto['README.md']));
+ assert(/^### Image Generation$/m.test(auto['README.md']));
  const manual=render([],rows,taxonomy,['c','b','missing','b']);
  for(const name of ['README.md','README.zh-CN.md']){
   assert(!manual[name].includes('https://example.com/a.jpg'));
@@ -48,10 +51,15 @@ test('manual README features replace automatic previews, preserve order and cate
   assert(manual[name].includes('reference/portraits.md#c'));
   assert(!manual[name].includes('#missing'));
   assert.equal(manual[name].split('https://example.com/b.jpg').length-1,1);
+  assert(!/^## (?:Image Generation|Reference Image Generation|图片生成|参考图生成)$/m.test(manual[name]));
  }
  assert.equal(manual['generation/portraits.md'],auto['generation/portraits.md']);
  const reordered=render([],rows,taxonomy,['b','a'])['README.md'];
  assert(reordered.indexOf('#b')<reordered.indexOf('#a'));
  const empty=render([],rows,taxonomy,[])['README.md'];
  assert(!empty.includes('<table>'));assert(empty.includes('## Browse by category'));
+ const many=Array.from({length:35},(_,i)=>mk('f'+i,i%2?'reference':'generation'));
+ const capped=render([],many,taxonomy,many.map(r=>r.id))['README.md'];
+ assert.equal((capped.match(/<table>/g)??[]).length,10);
+ assert.equal((capped.match(/https:\/\/example\.com\/f\d+\.jpg/g)??[]).length,30);
 });

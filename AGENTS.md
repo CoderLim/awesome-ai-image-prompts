@@ -78,7 +78,7 @@ The existing sync rewrites configured source shards from fetched upstream snapsh
 
 ## 5. User-facing presentation
 
-- README: actual upstream source images only, two gallery groups, curated image grid and category links. Keep the existing compact three-column featured layout.
+- README: actual upstream source images only, one unified curated image grid (no Image Generation / Reference Image Generation split in the featured section; at most 30 previews) plus category links that still browse the two gallery directories. Keep the existing compact three-column featured layout.
 - Category pages: vertically arranged cases (not a metadata table), title, one representative original image, complete eligible prompt in a single-line fenced `text` code block, compact linked creator attribution.
 - Prefer a source-labelled output image; retain two images only for a clearly identified original/edited pair. Never guess before/after roles. Default single image width 480 px, paired images 240 px each. Current pagination is 20 cases per page.
 - Keep full prompt text intact in JSON. For Markdown presentation only, collapse line breaks into spaces. Do not truncate or add ellipses to a complete displayed prompt. Use a safe fence length for prompts containing backticks; GitHub provides native horizontal scrolling and copy controls. If a prompt cannot be republished, link to its source instead.
@@ -143,7 +143,7 @@ For collector exports follow [the local review workflow](docs/prompthero-review-
 
 Use [the local image reviewer](docs/local-image-review.md) via `npm run review:images` (optional `-- --queue /absolute/path/to/V3.jsonl`). The explicitly owner-requested local-only reviewer writes `data/review/exclusions.json`. Keep this durable input separate from source shards; build and future import plans honor exclusions across exact post/prompt components. Do not silently reset it during sync. Raw records remain for audit. Rebuild and check after changing exclusions; retaining an item is not visual or rights approval. Do not commit private queues, image caches or credentials.
 
-README featured previews use `data/review/featured.json`: null keeps legacy auto-selection until the first manual pick; an array is authoritative, including an empty array. Local reviewer can feature/unfeature existing and pending cases; rendering includes only currently visible canonical gallery cases, with no auto-fill in manual mode. Preserve selection order, two gallery groups, category navigation and the three-column README layout. Rebuild both READMEs after changing selections. Do not reset featured choices during sync.
+README featured previews use `data/review/featured.json`: null keeps legacy auto-selection until the first manual pick; an array is authoritative, including an empty array. Local reviewer can feature/unfeature existing and pending cases; rendering includes only currently visible canonical gallery cases, with no auto-fill in manual mode. Preserve selection order across both galleries in one grid (cap 30), category navigation and the three-column README layout. Rebuild both READMEs after changing selections. Do not reset featured choices during sync.
 
 ## Template-level duplicate policy
 
