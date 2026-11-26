@@ -11,7 +11,7 @@ const textOf = r => typeof r.prompt === 'string' ? r.prompt : r.prompt?.original
 const compare = (a,b) => Number(Boolean(b.author))-Number(Boolean(a.author)) ||
   Number(Boolean(b.imageUrls?.length))-Number(Boolean(a.imageUrls?.length)) ||
   (Number(b.likes)||0)-(Number(a.likes)||0) || (Number(b.views)||0)-(Number(a.views)||0) ||
-  (idOf(a)<idOf(b)?-1:idOf(a)>idOf(b)?1:0);
+  (idOf(a)>idOf(b)?-1:idOf(a)<idOf(b)?1:0);
 
 export function preflight(raw, catalog) {
   const ids=new Set(), existingIds=new Map(), existingPrompts=new Map(), existingPosts=new Map(), groups=new Map(), audit=[];
