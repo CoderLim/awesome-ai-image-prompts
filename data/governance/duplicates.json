@@ -1,0 +1,307 @@
+[
+  {
+    "kind": "exact-prompt",
+    "ids": [
+      "freestylefly-case-19",
+      "freestylefly-case-20"
+    ]
+  },
+  {
+    "kind": "exact-prompt",
+    "ids": [
+      "freestylefly-case-37",
+      "freestylefly-case-38",
+      "freestylefly-case-39",
+      "freestylefly-case-40"
+    ]
+  },
+  {
+    "kind": "exact-prompt",
+    "ids": [
+      "freestylefly-case-48",
+      "freestylefly-case-49"
+    ]
+  },
+  {
+    "kind": "exact-prompt",
+    "ids": [
+      "freestylefly-case-68",
+      "freestylefly-case-69"
+    ]
+  },
+  {
+    "kind": "exact-prompt",
+    "ids": [
+      "freestylefly-case-74",
+      "freestylefly-case-75",
+      "freestylefly-case-76",
+      "freestylefly-case-77"
+    ]
+  },
+  {
+    "kind": "exact-prompt",
+    "ids": [
+      "freestylefly-case-78",
+      "freestylefly-case-79",
+      "freestylefly-case-80"
+    ]
+  },
+  {
+    "kind": "exact-prompt",
+    "ids": [
+      "freestylefly-case-84",
+      "freestylefly-case-85",
+      "freestylefly-case-86",
+      "freestylefly-case-87"
+    ]
+  },
+  {
+    "kind": "exact-prompt",
+    "ids": [
+      "freestylefly-case-88",
+      "freestylefly-case-89",
+      "freestylefly-case-90"
+    ]
+  },
+  {
+    "kind": "exact-prompt",
+    "ids": [
+      "freestylefly-case-108",
+      "freestylefly-case-109"
+    ]
+  },
+  {
+    "kind": "exact-prompt",
+    "ids": [
+      "freestylefly-case-145",
+      "freestylefly-case-146",
+      "freestylefly-case-147",
+      "freestylefly-case-148"
+    ]
+  },
+  {
+    "kind": "same-post",
+    "ids": [
+      "evolink-gpt-image-2-6-case-258",
+      "evolink-gpt-image-2-6-case-259"
+    ]
+  },
+  {
+    "kind": "same-post",
+    "ids": [
+      "evolink-illustration-case-135",
+      "evolink-illustration-case-136",
+      "evolink-illustration-case-137",
+      "evolink-illustration-case-138"
+    ]
+  },
+  {
+    "kind": "same-post",
+    "ids": [
+      "evolink-illustration-case-139",
+      "evolink-illustration-case-140",
+      "evolink-portraits-case-8",
+      "evolink-portraits-case-9"
+    ]
+  },
+  {
+    "kind": "same-post",
+    "ids": [
+      "freestylefly-case-163",
+      "freestylefly-case-176",
+      "freestylefly-case-184",
+      "freestylefly-case-185"
+    ]
+  },
+  {
+    "kind": "same-post",
+    "ids": [
+      "freestylefly-case-174",
+      "freestylefly-case-193"
+    ]
+  },
+  {
+    "kind": "same-post",
+    "ids": [
+      "freestylefly-case-177",
+      "freestylefly-case-178"
+    ]
+  },
+  {
+    "kind": "same-post",
+    "ids": [
+      "freestylefly-case-189",
+      "freestylefly-case-190",
+      "freestylefly-case-192",
+      "freestylefly-case-194"
+    ]
+  },
+  {
+    "kind": "same-post",
+    "ids": [
+      "freestylefly-case-202",
+      "freestylefly-case-203",
+      "freestylefly-case-204",
+      "freestylefly-case-205"
+    ]
+  },
+  {
+    "kind": "same-post",
+    "ids": [
+      "freestylefly-case-242",
+      "freestylefly-case-244",
+      "freestylefly-case-245",
+      "freestylefly-case-246",
+      "freestylefly-case-247",
+      "freestylefly-case-250",
+      "freestylefly-case-251",
+      "freestylefly-case-252",
+      "freestylefly-case-253",
+      "freestylefly-case-254"
+    ]
+  },
+  {
+    "kind": "same-post",
+    "ids": [
+      "freestylefly-case-249",
+      "freestylefly-case-255",
+      "freestylefly-case-256",
+      "freestylefly-case-257"
+    ]
+  },
+  {
+    "kind": "same-post",
+    "ids": [
+      "freestylefly-case-258",
+      "freestylefly-case-259",
+      "freestylefly-case-260",
+      "freestylefly-case-269"
+    ]
+  },
+  {
+    "kind": "same-post",
+    "ids": [
+      "freestylefly-case-276",
+      "freestylefly-case-307"
+    ]
+  },
+  {
+    "kind": "same-post",
+    "ids": [
+      "freestylefly-case-287",
+      "freestylefly-case-289",
+      "freestylefly-case-300",
+      "freestylefly-case-301"
+    ]
+  },
+  {
+    "kind": "same-post",
+    "ids": [
+      "freestylefly-case-293",
+      "freestylefly-case-294",
+      "freestylefly-case-295",
+      "freestylefly-case-303"
+    ]
+  },
+  {
+    "kind": "same-post",
+    "ids": [
+      "freestylefly-case-317",
+      "freestylefly-case-318"
+    ]
+  },
+  {
+    "kind": "same-post",
+    "ids": [
+      "freestylefly-case-394",
+      "freestylefly-case-395"
+    ]
+  },
+  {
+    "kind": "same-prompt-prefix",
+    "ids": [
+      "evolink-character-sheets-case-65",
+      "evolink-character-sheets-case-75"
+    ]
+  },
+  {
+    "kind": "same-prompt-prefix",
+    "ids": [
+      "evolink-portraits-case-36",
+      "evolink-travel-journals-case-226"
+    ]
+  },
+  {
+    "kind": "same-prompt-prefix",
+    "ids": [
+      "freestylefly-case-19",
+      "freestylefly-case-20"
+    ]
+  },
+  {
+    "kind": "same-prompt-prefix",
+    "ids": [
+      "freestylefly-case-37",
+      "freestylefly-case-38",
+      "freestylefly-case-39",
+      "freestylefly-case-40"
+    ]
+  },
+  {
+    "kind": "same-prompt-prefix",
+    "ids": [
+      "freestylefly-case-48",
+      "freestylefly-case-49"
+    ]
+  },
+  {
+    "kind": "same-prompt-prefix",
+    "ids": [
+      "freestylefly-case-68",
+      "freestylefly-case-69"
+    ]
+  },
+  {
+    "kind": "same-prompt-prefix",
+    "ids": [
+      "freestylefly-case-74",
+      "freestylefly-case-75",
+      "freestylefly-case-76",
+      "freestylefly-case-77"
+    ]
+  },
+  {
+    "kind": "same-prompt-prefix",
+    "ids": [
+      "freestylefly-case-78",
+      "freestylefly-case-79",
+      "freestylefly-case-80"
+    ]
+  },
+  {
+    "kind": "same-prompt-prefix",
+    "ids": [
+      "freestylefly-case-84",
+      "freestylefly-case-85",
+      "freestylefly-case-86",
+      "freestylefly-case-87"
+    ]
+  },
+  {
+    "kind": "same-prompt-prefix",
+    "ids": [
+      "freestylefly-case-88",
+      "freestylefly-case-89",
+      "freestylefly-case-90"
+    ]
+  },
+  {
+    "kind": "same-prompt-prefix",
+    "ids": [
+      "freestylefly-case-145",
+      "freestylefly-case-146",
+      "freestylefly-case-147",
+      "freestylefly-case-148"
+    ]
+  }
+]

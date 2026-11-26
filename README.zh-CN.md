@@ -2,61 +2,70 @@
 
 [English](README.md) · [来源](SOURCES.md)
 
-共 811 条来源案例。每个案例默认展示一张原始效果图，仅来源明确的编辑前后对比保留两张。完整提示词以可复制的单行代码块展示，原始格式保留在 JSON 中。案例未独立复现。
+共 806 个可浏览案例。每个案例默认展示一张原始效果图，仅来源明确的编辑前后对比保留两张。完整提示词以可复制的单行代码块展示，原始格式保留在 JSON 中。案例未独立复现。
 
 ## 图片生成
 
 <table><tr>
-<td width="33%" valign="top" align="center"><a href="generation/portraits.md#evolink-advertising-case-171"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2108555755276341248.jpg" width="230" alt="Source example"></a><br><a href="generation/portraits.md#evolink-advertising-case-171"><strong>Food Photography and Ingredient Journal</strong></a></td>
-<td width="33%" valign="top" align="center"><a href="generation/avatars.md#freestylefly-case-188"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case188.jpg" width="230" alt="Source example"></a><br><a href="generation/avatars.md#freestylefly-case-188"><strong>暗黑极简头像网站视觉设计</strong></a></td>
-<td width="33%" valign="top" align="center"><a href="generation/illustrations.md#evolink-illustration-case-122"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2108558438796345344.jpg" width="230" alt="Source example"></a><br><a href="generation/illustrations.md#evolink-illustration-case-122"><strong>Landmark Behind a Zipper</strong></a></td>
+<td width="33%" valign="top" align="center"><a href="generation/portraits.md#evolink-advertising-case-179"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2106344432266362881.jpg" width="230" alt="Source example"></a><br><a href="generation/portraits.md#evolink-advertising-case-179"><strong>Zara Tote Bag Launch Campaign</strong></a></td>
+<td width="33%" valign="top" align="center"><a href="generation/avatars.md#freestylefly-case-34"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case34.jpg" width="230" alt="Source example"></a><br><a href="generation/avatars.md#freestylefly-case-34"><strong>插画艺术创作图</strong></a></td>
+<td width="33%" valign="top" align="center"><a href="generation/illustrations.md#evolink-illustration-case-124"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2108424193708867584.jpg" width="230" alt="Source example"></a><br><a href="generation/illustrations.md#evolink-illustration-case-124"><strong>Hand-Drawn Watermelon Magazine Illustration</strong></a></td>
 </tr></table>
 
 <table><tr>
-<td width="33%" valign="top" align="center"><a href="generation/products.md#evolink-advertising-case-172"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2107783725346103296.jpg" width="230" alt="Source example"></a><br><a href="generation/products.md#evolink-advertising-case-172"><strong>H&amp;M Red and Black Fashion Campaign</strong></a></td>
-<td width="33%" valign="top" align="center"><a href="generation/posters.md#evolink-gpt-image-2-6-case-255"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/2118193058370158592.jpg" width="230" alt="Source example"></a><br><a href="generation/posters.md#evolink-gpt-image-2-6-case-255"><strong>Baroque Winter Gallery Posters</strong></a></td>
+<td width="33%" valign="top" align="center"><a href="generation/products.md#evolink-advertising-case-182"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2103428435775504385.jpg" width="230" alt="Source example"></a><br><a href="generation/products.md#evolink-advertising-case-182"><strong>JBL Headphones Typography Campaign</strong></a></td>
+<td width="33%" valign="top" align="center"><a href="generation/posters.md#evolink-advertising-case-171"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2108555755276341248.jpg" width="230" alt="Source example"></a><br><a href="generation/posters.md#evolink-advertising-case-171"><strong>Food Photography and Ingredient Journal</strong></a></td>
 <td width="33%" valign="top" align="center"><a href="generation/characters.md#evolink-character-sheets-case-52"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2108576531228291072.jpg" width="230" alt="Source example"></a><br><a href="generation/characters.md#evolink-character-sheets-case-52"><strong>Popeye and Olive Oyl Character Sheet</strong></a></td>
 </tr></table>
 
 ## 图片编辑
 
 <table><tr>
-<td width="33%" valign="top" align="center"><a href="editing/object-removal.md#evolink-gpt-image-2-6-case-252"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/man-with-blue-hat.webp" width="230" alt="Source example"></a><br><a href="editing/object-removal.md#evolink-gpt-image-2-6-case-252"><strong>Flower Removal with Scene Preservation</strong></a></td>
-<td width="33%" valign="top" align="center"><a href="editing/text-editing.md#evolink-gpt-image-2-6-case-253"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/billboard-gpt-image-2-6-flare.webp" width="230" alt="Source example"></a><br><a href="editing/text-editing.md#evolink-gpt-image-2-6-case-253"><strong>Snowy Evening Billboard Edit</strong></a></td>
-<td width="33%" valign="top" align="center"><a href="editing/other.md#evolink-editing-case-237"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2108382579359649793.jpg" width="230" alt="After"></a><br><a href="editing/other.md#evolink-editing-case-237"><strong>Old House Miniature Model</strong></a></td>
+<td width="33%" valign="top" align="center"><a href="editing/restyle.md#evolink-illustration-case-157"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2102593832353497088.jpg" width="230" alt="Source example"></a><br><a href="editing/restyle.md#evolink-illustration-case-157"><strong>Film Noir Pencil Portrait</strong></a></td>
+<td width="33%" valign="top" align="center"><a href="editing/portrait-editing.md#evolink-editing-case-239"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2102352397066735616.jpg" width="230" alt="Source example"></a><br><a href="editing/portrait-editing.md#evolink-editing-case-239"><strong>Reference Composition Character Transformation</strong></a></td>
+<td width="33%" valign="top" align="center"><a href="editing/outfit-change.md#freestylefly-case-524"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case524.jpg" width="230" alt="Source example"></a><br><a href="editing/outfit-change.md#freestylefly-case-524"><strong>纸雕拼贴乡野人像</strong></a></td>
 </tr></table>
 
 <table><tr>
-<td width="33%" valign="top" align="center"><a href="editing/other.md#evolink-editing-case-238"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2108123010473590784.jpg" width="230" alt="Source example"></a><br><a href="editing/other.md#evolink-editing-case-238"><strong>Partial Composite Edit with Original Pixels</strong></a></td>
-<td width="33%" valign="top" align="center"><a href="editing/other.md#evolink-editing-case-239"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2102352397066735616.jpg" width="230" alt="Source example"></a><br><a href="editing/other.md#evolink-editing-case-239"><strong>Reference Composition Character Transformation</strong></a></td>
-<td width="33%" valign="top" align="center"><a href="editing/other.md#evolink-editing-case-240"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2100003201902899200-poster.jpg" width="230" alt="Source example"></a><br><a href="editing/other.md#evolink-editing-case-240"><strong>Drone Route Overlay on Original Photo</strong></a></td>
+<td width="33%" valign="top" align="center"><a href="editing/background-change.md#evolink-gpt-image-2-6-case-253"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/billboard-gpt-image-2-6-flare.webp" width="230" alt="Source example"></a><br><a href="editing/background-change.md#evolink-gpt-image-2-6-case-253"><strong>Snowy Evening Billboard Edit</strong></a></td>
+<td width="33%" valign="top" align="center"><a href="editing/object-removal.md#evolink-gpt-image-2-6-case-252"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/man-with-blue-hat.webp" width="230" alt="Source example"></a><br><a href="editing/object-removal.md#evolink-gpt-image-2-6-case-252"><strong>Flower Removal with Scene Preservation</strong></a></td>
+<td width="33%" valign="top" align="center"><a href="editing/object-replacement.md#evolink-gpt-image-2-6-case-258"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/2118151559322419200.jpg" width="230" alt="Source example"></a><br><a href="editing/object-replacement.md#evolink-gpt-image-2-6-case-258"><strong>Circle-Guided Holiday Character Edit</strong></a></td>
 </tr></table>
 
 ## 分类浏览
 
 ### generation
 
-- [portraits](generation/portraits.md) (104)
-- [avatars](generation/avatars.md) (3)
-- [illustrations](generation/illustrations.md) (68)
-- [products](generation/products.md) (33)
-- [posters](generation/posters.md) (87)
-- [characters](generation/characters.md) (80)
-- [infographics](generation/infographics.md) (51)
-- [travel](generation/travel.md) (40)
+- [portraits](generation/portraits.md) (133)
+- [avatars](generation/avatars.md) (10)
+- [illustrations](generation/illustrations.md) (95)
+- [products](generation/products.md) (26)
+- [posters](generation/posters.md) (141)
+- [characters](generation/characters.md) (89)
+- [architecture](generation/architecture.md) (3)
+- [infographics](generation/infographics.md) (58)
+- [logos](generation/logos.md) (24)
+- [travel](generation/travel.md) (21)
+- [ui mockups](generation/ui-mockups.md) (45)
+- [comics storyboards](generation/comics-storyboards.md) (26)
+- [creative art](generation/creative-art.md) (46)
+- [other](generation/other.md) (63)
 
 ### editing
 
-- [object removal](editing/object-removal.md) (1)
-- [text editing](editing/text-editing.md) (1)
-- [other](editing/other.md) (5)
+- [restyle](editing/restyle.md) (12)
+- [portrait editing](editing/portrait-editing.md) (5)
+- [outfit change](editing/outfit-change.md) (1)
+- [background change](editing/background-change.md) (1)
+- [object removal](editing/object-removal.md) (3)
+- [object replacement](editing/object-replacement.md) (1)
+- [composition](editing/composition.md) (3)
 
 ### unclassified
 
-- [other](unclassified/other.md) (338)
 
 ## Sources and use
 
-[Source attribution](SOURCES.md) · [Content policy](docs/content-policy.md) · [Try AI Photo Editor](https://getaiphotoeditor.com/)
+[Source attribution](SOURCES.md) · [Content policy](docs/content-policy.md) · [Governance report](docs/governance-report.md) · [Try AI Photo Editor](https://getaiphotoeditor.com/)
 
 JSON is the source of truth. Markdown is generated with `npm run build`.

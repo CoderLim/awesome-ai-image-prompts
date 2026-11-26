@@ -1,0 +1,70 @@
+{
+  "total": 811,
+  "visible": 806,
+  "hidden": 5,
+  "types": {
+    "generation": 783,
+    "editing": 26,
+    "unclassified": 2
+  },
+  "inputModes": {
+    "reference-to-image": 147,
+    "text-to-image": 429,
+    "unknown": 209,
+    "image-editing": 26
+  },
+  "categories": {
+    "generation/posters": 141,
+    "generation/creative-art": 46,
+    "generation/illustrations": 98,
+    "generation/logos": 24,
+    "generation/portraits": 133,
+    "generation/products": 26,
+    "generation/comics-storyboards": 26,
+    "generation/travel": 21,
+    "generation/characters": 89,
+    "generation/architecture": 3,
+    "editing/composition": 3,
+    "editing/portrait-editing": 5,
+    "generation/other": 63,
+    "editing/object-removal": 3,
+    "editing/background-change": 1,
+    "editing/object-replacement": 1,
+    "editing/restyle": 12,
+    "generation/infographics": 58,
+    "generation/ui-mockups": 45,
+    "generation/avatars": 10,
+    "unclassified/other": 2,
+    "editing/outfit-change": 1
+  },
+  "confidence": {
+    "high": 489,
+    "medium": 239,
+    "low": 83
+  },
+  "flags": {
+    "rights-review": 811,
+    "input-mode-review": 209,
+    "duplicate-candidate:same-prompt-prefix": 32,
+    "classification-review": 83,
+    "missing-original-post-url": 180,
+    "duplicate-candidate:same-post": 58,
+    "generic-title-review": 98,
+    "duplicate-candidate:exact-prompt": 30,
+    "missing-image-url": 3,
+    "missing-original-prompt": 2
+  },
+  "duplicateGroups": {
+    "exact-prompt": 10,
+    "same-post": 16,
+    "same-prompt-prefix": 11
+  },
+  "rightsPending": 811,
+  "checks": {
+    "imageHttp": "not-run",
+    "imagePromptMatch": "not-run",
+    "perceptualHash": "not-run",
+    "semanticEmbedding": "not-run",
+    "rights": "not-cleared"
+  }
+}
