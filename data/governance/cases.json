@@ -2678,20 +2678,22 @@
       "animation"
     ],
     "quality": {
-      "status": "metadata-complete",
+      "status": "duplicate-excluded",
       "score": 3,
       "flags": [
         "classification-review",
         "input-mode-review",
         "rights-review",
-        "duplicate-candidate:same-post"
+        "duplicate-candidate:same-post",
+        "duplicate-excluded"
       ],
       "imageAvailability": "unchecked",
       "imagePromptMatch": "unchecked",
       "reproduction": "untested",
       "rights": "pending-review"
     },
-    "visible": true
+    "visible": false,
+    "duplicateOf": "evolink-gpt-image-2-6-case-258"
   },
   "evolink-gpt-image-2-6-case-260": {
     "type": "generation",
@@ -3169,19 +3171,21 @@
       "anime"
     ],
     "quality": {
-      "status": "metadata-complete",
+      "status": "duplicate-excluded",
       "score": 4,
       "flags": [
         "classification-review",
         "rights-review",
-        "duplicate-candidate:same-post"
+        "duplicate-candidate:same-post",
+        "duplicate-excluded"
       ],
       "imageAvailability": "unchecked",
       "imagePromptMatch": "unchecked",
       "reproduction": "untested",
       "rights": "pending-review"
     },
-    "visible": true
+    "visible": false,
+    "duplicateOf": "evolink-illustration-case-137"
   },
   "evolink-illustration-case-136": {
     "type": "generation",
@@ -3191,19 +3195,21 @@
     "reason": "source-fallback",
     "tags": [],
     "quality": {
-      "status": "metadata-complete",
+      "status": "duplicate-excluded",
       "score": 4,
       "flags": [
         "classification-review",
         "rights-review",
-        "duplicate-candidate:same-post"
+        "duplicate-candidate:same-post",
+        "duplicate-excluded"
       ],
       "imageAvailability": "unchecked",
       "imagePromptMatch": "unchecked",
       "reproduction": "untested",
       "rights": "pending-review"
     },
-    "visible": true
+    "visible": false,
+    "duplicateOf": "evolink-illustration-case-137"
   },
   "evolink-illustration-case-137": {
     "type": "generation",
@@ -3238,19 +3244,21 @@
       "film"
     ],
     "quality": {
-      "status": "metadata-complete",
+      "status": "duplicate-excluded",
       "score": 4,
       "flags": [
         "classification-review",
         "rights-review",
-        "duplicate-candidate:same-post"
+        "duplicate-candidate:same-post",
+        "duplicate-excluded"
       ],
       "imageAvailability": "unchecked",
       "imagePromptMatch": "unchecked",
       "reproduction": "untested",
       "rights": "pending-review"
     },
-    "visible": true
+    "visible": false,
+    "duplicateOf": "evolink-illustration-case-137"
   },
   "evolink-illustration-case-139": {
     "type": "generation",
@@ -3287,19 +3295,21 @@
       "vintage"
     ],
     "quality": {
-      "status": "metadata-complete",
+      "status": "duplicate-excluded",
       "score": 4,
       "flags": [
         "classification-review",
         "rights-review",
-        "duplicate-candidate:same-post"
+        "duplicate-candidate:same-post",
+        "duplicate-excluded"
       ],
       "imageAvailability": "unchecked",
       "imagePromptMatch": "unchecked",
       "reproduction": "untested",
       "rights": "pending-review"
     },
-    "visible": true
+    "visible": false,
+    "duplicateOf": "evolink-illustration-case-139"
   },
   "evolink-illustration-case-141": {
     "type": "generation",
@@ -4230,19 +4240,21 @@
       "film"
     ],
     "quality": {
-      "status": "metadata-complete",
+      "status": "duplicate-excluded",
       "score": 4,
       "flags": [
         "classification-review",
         "rights-review",
-        "duplicate-candidate:same-post"
+        "duplicate-candidate:same-post",
+        "duplicate-excluded"
       ],
       "imageAvailability": "unchecked",
       "imagePromptMatch": "unchecked",
       "reproduction": "untested",
       "rights": "pending-review"
     },
-    "visible": true
+    "visible": false,
+    "duplicateOf": "evolink-illustration-case-139"
   },
   "evolink-portraits-case-9": {
     "type": "generation",
@@ -4252,18 +4264,20 @@
     "reason": "prompt-category",
     "tags": [],
     "quality": {
-      "status": "metadata-complete",
+      "status": "duplicate-excluded",
       "score": 4,
       "flags": [
         "rights-review",
-        "duplicate-candidate:same-post"
+        "duplicate-candidate:same-post",
+        "duplicate-excluded"
       ],
       "imageAvailability": "unchecked",
       "imagePromptMatch": "unchecked",
       "reproduction": "untested",
       "rights": "pending-review"
     },
-    "visible": true
+    "visible": false,
+    "duplicateOf": "evolink-illustration-case-139"
   },
   "evolink-portraits-case-10": {
     "type": "generation",
@@ -7159,21 +7173,23 @@
       "template"
     ],
     "quality": {
-      "status": "metadata-complete",
+      "status": "duplicate-excluded",
       "score": 3,
       "flags": [
         "missing-original-post-url",
         "rights-review",
         "generic-title-review",
         "duplicate-candidate:exact-prompt",
-        "duplicate-candidate:same-prompt-prefix"
+        "duplicate-candidate:same-prompt-prefix",
+        "duplicate-excluded"
       ],
       "imageAvailability": "unchecked",
       "imagePromptMatch": "unchecked",
       "reproduction": "untested",
       "rights": "pending-review"
     },
-    "visible": true
+    "visible": false,
+    "duplicateOf": "freestylefly-case-19"
   },
   "freestylefly-case-21": {
     "type": "generation",
@@ -7614,21 +7630,23 @@
       "template"
     ],
     "quality": {
-      "status": "metadata-complete",
+      "status": "duplicate-excluded",
       "score": 3,
       "flags": [
         "missing-original-post-url",
         "rights-review",
         "generic-title-review",
         "duplicate-candidate:exact-prompt",
-        "duplicate-candidate:same-prompt-prefix"
+        "duplicate-candidate:same-prompt-prefix",
+        "duplicate-excluded"
       ],
       "imageAvailability": "unchecked",
       "imagePromptMatch": "unchecked",
       "reproduction": "untested",
       "rights": "pending-review"
     },
-    "visible": true
+    "visible": false,
+    "duplicateOf": "freestylefly-case-37"
   },
   "freestylefly-case-39": {
     "type": "generation",
@@ -7640,21 +7658,23 @@
       "template"
     ],
     "quality": {
-      "status": "metadata-complete",
+      "status": "duplicate-excluded",
       "score": 3,
       "flags": [
         "missing-original-post-url",
         "rights-review",
         "generic-title-review",
         "duplicate-candidate:exact-prompt",
-        "duplicate-candidate:same-prompt-prefix"
+        "duplicate-candidate:same-prompt-prefix",
+        "duplicate-excluded"
       ],
       "imageAvailability": "unchecked",
       "imagePromptMatch": "unchecked",
       "reproduction": "untested",
       "rights": "pending-review"
     },
-    "visible": true
+    "visible": false,
+    "duplicateOf": "freestylefly-case-37"
   },
   "freestylefly-case-40": {
     "type": "generation",
@@ -7666,21 +7686,23 @@
       "template"
     ],
     "quality": {
-      "status": "metadata-complete",
+      "status": "duplicate-excluded",
       "score": 3,
       "flags": [
         "missing-original-post-url",
         "rights-review",
         "generic-title-review",
         "duplicate-candidate:exact-prompt",
-        "duplicate-candidate:same-prompt-prefix"
+        "duplicate-candidate:same-prompt-prefix",
+        "duplicate-excluded"
       ],
       "imageAvailability": "unchecked",
       "imagePromptMatch": "unchecked",
       "reproduction": "untested",
       "rights": "pending-review"
     },
-    "visible": true
+    "visible": false,
+    "duplicateOf": "freestylefly-case-37"
   },
   "freestylefly-case-41": {
     "type": "generation",
@@ -7893,20 +7915,22 @@
       "template"
     ],
     "quality": {
-      "status": "metadata-complete",
+      "status": "duplicate-excluded",
       "score": 4,
       "flags": [
         "missing-original-post-url",
         "rights-review",
         "duplicate-candidate:exact-prompt",
-        "duplicate-candidate:same-prompt-prefix"
+        "duplicate-candidate:same-prompt-prefix",
+        "duplicate-excluded"
       ],
       "imageAvailability": "unchecked",
       "imagePromptMatch": "unchecked",
       "reproduction": "untested",
       "rights": "pending-review"
     },
-    "visible": true
+    "visible": false,
+    "duplicateOf": "freestylefly-case-48"
   },
   "freestylefly-case-50": {
     "type": "generation",
@@ -8402,21 +8426,23 @@
       "template"
     ],
     "quality": {
-      "status": "metadata-complete",
+      "status": "duplicate-excluded",
       "score": 4,
       "flags": [
         "missing-original-post-url",
         "rights-review",
         "generic-title-review",
         "duplicate-candidate:exact-prompt",
-        "duplicate-candidate:same-prompt-prefix"
+        "duplicate-candidate:same-prompt-prefix",
+        "duplicate-excluded"
       ],
       "imageAvailability": "unchecked",
       "imagePromptMatch": "unchecked",
       "reproduction": "untested",
       "rights": "pending-review"
     },
-    "visible": true
+    "visible": false,
+    "duplicateOf": "freestylefly-case-68"
   },
   "freestylefly-case-70": {
     "type": "generation",
@@ -8561,21 +8587,23 @@
       "template"
     ],
     "quality": {
-      "status": "metadata-complete",
+      "status": "duplicate-excluded",
       "score": 3,
       "flags": [
         "missing-original-post-url",
         "input-mode-review",
         "rights-review",
         "duplicate-candidate:exact-prompt",
-        "duplicate-candidate:same-prompt-prefix"
+        "duplicate-candidate:same-prompt-prefix",
+        "duplicate-excluded"
       ],
       "imageAvailability": "unchecked",
       "imagePromptMatch": "unchecked",
       "reproduction": "untested",
       "rights": "pending-review"
     },
-    "visible": true
+    "visible": false,
+    "duplicateOf": "freestylefly-case-74"
   },
   "freestylefly-case-76": {
     "type": "generation",
@@ -8588,21 +8616,23 @@
       "template"
     ],
     "quality": {
-      "status": "metadata-complete",
+      "status": "duplicate-excluded",
       "score": 3,
       "flags": [
         "missing-original-post-url",
         "input-mode-review",
         "rights-review",
         "duplicate-candidate:exact-prompt",
-        "duplicate-candidate:same-prompt-prefix"
+        "duplicate-candidate:same-prompt-prefix",
+        "duplicate-excluded"
       ],
       "imageAvailability": "unchecked",
       "imagePromptMatch": "unchecked",
       "reproduction": "untested",
       "rights": "pending-review"
     },
-    "visible": true
+    "visible": false,
+    "duplicateOf": "freestylefly-case-74"
   },
   "freestylefly-case-77": {
     "type": "generation",
@@ -8615,21 +8645,23 @@
       "template"
     ],
     "quality": {
-      "status": "metadata-complete",
+      "status": "duplicate-excluded",
       "score": 3,
       "flags": [
         "missing-original-post-url",
         "input-mode-review",
         "rights-review",
         "duplicate-candidate:exact-prompt",
-        "duplicate-candidate:same-prompt-prefix"
+        "duplicate-candidate:same-prompt-prefix",
+        "duplicate-excluded"
       ],
       "imageAvailability": "unchecked",
       "imagePromptMatch": "unchecked",
       "reproduction": "untested",
       "rights": "pending-review"
     },
-    "visible": true
+    "visible": false,
+    "duplicateOf": "freestylefly-case-74"
   },
   "freestylefly-case-78": {
     "type": "generation",
@@ -8668,7 +8700,7 @@
       "reference-image"
     ],
     "quality": {
-      "status": "needs-content-review",
+      "status": "duplicate-excluded",
       "score": 2,
       "flags": [
         "missing-image-url",
@@ -8676,14 +8708,16 @@
         "rights-review",
         "generic-title-review",
         "duplicate-candidate:exact-prompt",
-        "duplicate-candidate:same-prompt-prefix"
+        "duplicate-candidate:same-prompt-prefix",
+        "duplicate-excluded"
       ],
       "imageAvailability": "unchecked",
       "imagePromptMatch": "unchecked",
       "reproduction": "untested",
       "rights": "pending-review"
     },
-    "visible": false
+    "visible": false,
+    "duplicateOf": "freestylefly-case-78"
   },
   "freestylefly-case-80": {
     "type": "generation",
@@ -8695,7 +8729,7 @@
       "reference-image"
     ],
     "quality": {
-      "status": "needs-content-review",
+      "status": "duplicate-excluded",
       "score": 2,
       "flags": [
         "missing-image-url",
@@ -8703,14 +8737,16 @@
         "rights-review",
         "generic-title-review",
         "duplicate-candidate:exact-prompt",
-        "duplicate-candidate:same-prompt-prefix"
+        "duplicate-candidate:same-prompt-prefix",
+        "duplicate-excluded"
       ],
       "imageAvailability": "unchecked",
       "imagePromptMatch": "unchecked",
       "reproduction": "untested",
       "rights": "pending-review"
     },
-    "visible": false
+    "visible": false,
+    "duplicateOf": "freestylefly-case-78"
   },
   "freestylefly-case-81": {
     "type": "generation",
@@ -8828,21 +8864,23 @@
       "template"
     ],
     "quality": {
-      "status": "metadata-complete",
+      "status": "duplicate-excluded",
       "score": 2,
       "flags": [
         "missing-original-post-url",
         "input-mode-review",
         "rights-review",
         "duplicate-candidate:exact-prompt",
-        "duplicate-candidate:same-prompt-prefix"
+        "duplicate-candidate:same-prompt-prefix",
+        "duplicate-excluded"
       ],
       "imageAvailability": "unchecked",
       "imagePromptMatch": "unchecked",
       "reproduction": "untested",
       "rights": "pending-review"
     },
-    "visible": true
+    "visible": false,
+    "duplicateOf": "freestylefly-case-84"
   },
   "freestylefly-case-86": {
     "type": "generation",
@@ -8856,21 +8894,23 @@
       "template"
     ],
     "quality": {
-      "status": "metadata-complete",
+      "status": "duplicate-excluded",
       "score": 2,
       "flags": [
         "missing-original-post-url",
         "input-mode-review",
         "rights-review",
         "duplicate-candidate:exact-prompt",
-        "duplicate-candidate:same-prompt-prefix"
+        "duplicate-candidate:same-prompt-prefix",
+        "duplicate-excluded"
       ],
       "imageAvailability": "unchecked",
       "imagePromptMatch": "unchecked",
       "reproduction": "untested",
       "rights": "pending-review"
     },
-    "visible": true
+    "visible": false,
+    "duplicateOf": "freestylefly-case-84"
   },
   "freestylefly-case-87": {
     "type": "generation",
@@ -8884,21 +8924,23 @@
       "template"
     ],
     "quality": {
-      "status": "metadata-complete",
+      "status": "duplicate-excluded",
       "score": 2,
       "flags": [
         "missing-original-post-url",
         "input-mode-review",
         "rights-review",
         "duplicate-candidate:exact-prompt",
-        "duplicate-candidate:same-prompt-prefix"
+        "duplicate-candidate:same-prompt-prefix",
+        "duplicate-excluded"
       ],
       "imageAvailability": "unchecked",
       "imagePromptMatch": "unchecked",
       "reproduction": "untested",
       "rights": "pending-review"
     },
-    "visible": true
+    "visible": false,
+    "duplicateOf": "freestylefly-case-84"
   },
   "freestylefly-case-88": {
     "type": "generation",
@@ -8951,7 +8993,7 @@
       "template"
     ],
     "quality": {
-      "status": "metadata-complete",
+      "status": "duplicate-excluded",
       "score": 3,
       "flags": [
         "missing-original-post-url",
@@ -8959,14 +9001,16 @@
         "rights-review",
         "generic-title-review",
         "duplicate-candidate:exact-prompt",
-        "duplicate-candidate:same-prompt-prefix"
+        "duplicate-candidate:same-prompt-prefix",
+        "duplicate-excluded"
       ],
       "imageAvailability": "unchecked",
       "imagePromptMatch": "unchecked",
       "reproduction": "untested",
       "rights": "pending-review"
     },
-    "visible": true
+    "visible": false,
+    "duplicateOf": "freestylefly-case-88"
   },
   "freestylefly-case-90": {
     "type": "generation",
@@ -8985,7 +9029,7 @@
       "template"
     ],
     "quality": {
-      "status": "metadata-complete",
+      "status": "duplicate-excluded",
       "score": 3,
       "flags": [
         "missing-original-post-url",
@@ -8993,14 +9037,16 @@
         "rights-review",
         "generic-title-review",
         "duplicate-candidate:exact-prompt",
-        "duplicate-candidate:same-prompt-prefix"
+        "duplicate-candidate:same-prompt-prefix",
+        "duplicate-excluded"
       ],
       "imageAvailability": "unchecked",
       "imagePromptMatch": "unchecked",
       "reproduction": "untested",
       "rights": "pending-review"
     },
-    "visible": true
+    "visible": false,
+    "duplicateOf": "freestylefly-case-88"
   },
   "freestylefly-case-91": {
     "type": "generation",
@@ -9468,21 +9514,23 @@
       "template"
     ],
     "quality": {
-      "status": "metadata-complete",
+      "status": "duplicate-excluded",
       "score": 3,
       "flags": [
         "missing-original-post-url",
         "classification-review",
         "rights-review",
         "generic-title-review",
-        "duplicate-candidate:exact-prompt"
+        "duplicate-candidate:exact-prompt",
+        "duplicate-excluded"
       ],
       "imageAvailability": "unchecked",
       "imagePromptMatch": "unchecked",
       "reproduction": "untested",
       "rights": "pending-review"
     },
-    "visible": true
+    "visible": false,
+    "duplicateOf": "freestylefly-case-108"
   },
   "freestylefly-case-110": {
     "type": "generation",
@@ -10409,21 +10457,23 @@
       "template"
     ],
     "quality": {
-      "status": "metadata-complete",
+      "status": "duplicate-excluded",
       "score": 4,
       "flags": [
         "missing-original-post-url",
         "rights-review",
         "generic-title-review",
         "duplicate-candidate:exact-prompt",
-        "duplicate-candidate:same-prompt-prefix"
+        "duplicate-candidate:same-prompt-prefix",
+        "duplicate-excluded"
       ],
       "imageAvailability": "unchecked",
       "imagePromptMatch": "unchecked",
       "reproduction": "untested",
       "rights": "pending-review"
     },
-    "visible": true
+    "visible": false,
+    "duplicateOf": "freestylefly-case-145"
   },
   "freestylefly-case-147": {
     "type": "generation",
@@ -10436,21 +10486,23 @@
       "template"
     ],
     "quality": {
-      "status": "metadata-complete",
+      "status": "duplicate-excluded",
       "score": 4,
       "flags": [
         "missing-original-post-url",
         "rights-review",
         "generic-title-review",
         "duplicate-candidate:exact-prompt",
-        "duplicate-candidate:same-prompt-prefix"
+        "duplicate-candidate:same-prompt-prefix",
+        "duplicate-excluded"
       ],
       "imageAvailability": "unchecked",
       "imagePromptMatch": "unchecked",
       "reproduction": "untested",
       "rights": "pending-review"
     },
-    "visible": true
+    "visible": false,
+    "duplicateOf": "freestylefly-case-145"
   },
   "freestylefly-case-148": {
     "type": "generation",
@@ -10463,21 +10515,23 @@
       "template"
     ],
     "quality": {
-      "status": "metadata-complete",
+      "status": "duplicate-excluded",
       "score": 4,
       "flags": [
         "missing-original-post-url",
         "rights-review",
         "generic-title-review",
         "duplicate-candidate:exact-prompt",
-        "duplicate-candidate:same-prompt-prefix"
+        "duplicate-candidate:same-prompt-prefix",
+        "duplicate-excluded"
       ],
       "imageAvailability": "unchecked",
       "imagePromptMatch": "unchecked",
       "reproduction": "untested",
       "rights": "pending-review"
     },
-    "visible": true
+    "visible": false,
+    "duplicateOf": "freestylefly-case-145"
   },
   "freestylefly-case-149": {
     "type": "generation",
@@ -10830,20 +10884,22 @@
     "reason": "source-fallback",
     "tags": [],
     "quality": {
-      "status": "metadata-complete",
+      "status": "duplicate-excluded",
       "score": 3,
       "flags": [
         "classification-review",
         "input-mode-review",
         "rights-review",
-        "duplicate-candidate:same-post"
+        "duplicate-candidate:same-post",
+        "duplicate-excluded"
       ],
       "imageAvailability": "unchecked",
       "imagePromptMatch": "unchecked",
       "reproduction": "untested",
       "rights": "pending-review"
     },
-    "visible": true
+    "visible": false,
+    "duplicateOf": "freestylefly-case-176"
   },
   "freestylefly-case-164": {
     "type": "generation",
@@ -11097,19 +11153,21 @@
     "reason": "prompt-category",
     "tags": [],
     "quality": {
-      "status": "metadata-complete",
+      "status": "duplicate-excluded",
       "score": 4,
       "flags": [
         "input-mode-review",
         "rights-review",
-        "duplicate-candidate:same-post"
+        "duplicate-candidate:same-post",
+        "duplicate-excluded"
       ],
       "imageAvailability": "unchecked",
       "imagePromptMatch": "unchecked",
       "reproduction": "untested",
       "rights": "pending-review"
     },
-    "visible": true
+    "visible": false,
+    "duplicateOf": "freestylefly-case-178"
   },
   "freestylefly-case-178": {
     "type": "generation",
@@ -11255,19 +11313,21 @@
     "reason": "prompt-category",
     "tags": [],
     "quality": {
-      "status": "metadata-complete",
+      "status": "duplicate-excluded",
       "score": 4,
       "flags": [
         "input-mode-review",
         "rights-review",
-        "duplicate-candidate:same-post"
+        "duplicate-candidate:same-post",
+        "duplicate-excluded"
       ],
       "imageAvailability": "unchecked",
       "imagePromptMatch": "unchecked",
       "reproduction": "untested",
       "rights": "pending-review"
     },
-    "visible": true
+    "visible": false,
+    "duplicateOf": "freestylefly-case-176"
   },
   "freestylefly-case-185": {
     "type": "generation",
@@ -11277,19 +11337,21 @@
     "reason": "prompt-category",
     "tags": [],
     "quality": {
-      "status": "metadata-complete",
+      "status": "duplicate-excluded",
       "score": 3,
       "flags": [
         "input-mode-review",
         "rights-review",
-        "duplicate-candidate:same-post"
+        "duplicate-candidate:same-post",
+        "duplicate-excluded"
       ],
       "imageAvailability": "unchecked",
       "imagePromptMatch": "unchecked",
       "reproduction": "untested",
       "rights": "pending-review"
     },
-    "visible": true
+    "visible": false,
+    "duplicateOf": "freestylefly-case-176"
   },
   "freestylefly-case-186": {
     "type": "generation",
@@ -11396,19 +11458,21 @@
       "product"
     ],
     "quality": {
-      "status": "metadata-complete",
+      "status": "duplicate-excluded",
       "score": 4,
       "flags": [
         "input-mode-review",
         "rights-review",
-        "duplicate-candidate:same-post"
+        "duplicate-candidate:same-post",
+        "duplicate-excluded"
       ],
       "imageAvailability": "unchecked",
       "imagePromptMatch": "unchecked",
       "reproduction": "untested",
       "rights": "pending-review"
     },
-    "visible": true
+    "visible": false,
+    "duplicateOf": "freestylefly-case-189"
   },
   "freestylefly-case-191": {
     "type": "generation",
@@ -11440,19 +11504,21 @@
       "product"
     ],
     "quality": {
-      "status": "metadata-complete",
+      "status": "duplicate-excluded",
       "score": 4,
       "flags": [
         "input-mode-review",
         "rights-review",
-        "duplicate-candidate:same-post"
+        "duplicate-candidate:same-post",
+        "duplicate-excluded"
       ],
       "imageAvailability": "unchecked",
       "imagePromptMatch": "unchecked",
       "reproduction": "untested",
       "rights": "pending-review"
     },
-    "visible": true
+    "visible": false,
+    "duplicateOf": "freestylefly-case-189"
   },
   "freestylefly-case-193": {
     "type": "generation",
@@ -11462,19 +11528,21 @@
     "reason": "prompt-category",
     "tags": [],
     "quality": {
-      "status": "metadata-complete",
+      "status": "duplicate-excluded",
       "score": 3,
       "flags": [
         "input-mode-review",
         "rights-review",
-        "duplicate-candidate:same-post"
+        "duplicate-candidate:same-post",
+        "duplicate-excluded"
       ],
       "imageAvailability": "unchecked",
       "imagePromptMatch": "unchecked",
       "reproduction": "untested",
       "rights": "pending-review"
     },
-    "visible": true
+    "visible": false,
+    "duplicateOf": "freestylefly-case-174"
   },
   "freestylefly-case-194": {
     "type": "generation",
@@ -11486,19 +11554,21 @@
       "product"
     ],
     "quality": {
-      "status": "metadata-complete",
+      "status": "duplicate-excluded",
       "score": 4,
       "flags": [
         "input-mode-review",
         "rights-review",
-        "duplicate-candidate:same-post"
+        "duplicate-candidate:same-post",
+        "duplicate-excluded"
       ],
       "imageAvailability": "unchecked",
       "imagePromptMatch": "unchecked",
       "reproduction": "untested",
       "rights": "pending-review"
     },
-    "visible": true
+    "visible": false,
+    "duplicateOf": "freestylefly-case-189"
   },
   "freestylefly-case-195": {
     "type": "generation",
@@ -11669,18 +11739,20 @@
       "anime"
     ],
     "quality": {
-      "status": "metadata-complete",
+      "status": "duplicate-excluded",
       "score": 4,
       "flags": [
         "rights-review",
-        "duplicate-candidate:same-post"
+        "duplicate-candidate:same-post",
+        "duplicate-excluded"
       ],
       "imageAvailability": "unchecked",
       "imagePromptMatch": "unchecked",
       "reproduction": "untested",
       "rights": "pending-review"
     },
-    "visible": true
+    "visible": false,
+    "duplicateOf": "freestylefly-case-204"
   },
   "freestylefly-case-203": {
     "type": "generation",
@@ -11692,18 +11764,20 @@
       "reference-image"
     ],
     "quality": {
-      "status": "metadata-complete",
+      "status": "duplicate-excluded",
       "score": 4,
       "flags": [
         "rights-review",
-        "duplicate-candidate:same-post"
+        "duplicate-candidate:same-post",
+        "duplicate-excluded"
       ],
       "imageAvailability": "unchecked",
       "imagePromptMatch": "unchecked",
       "reproduction": "untested",
       "rights": "pending-review"
     },
-    "visible": true
+    "visible": false,
+    "duplicateOf": "freestylefly-case-204"
   },
   "freestylefly-case-204": {
     "type": "generation",
@@ -11737,19 +11811,21 @@
     "reason": "source-fallback",
     "tags": [],
     "quality": {
-      "status": "metadata-complete",
+      "status": "duplicate-excluded",
       "score": 4,
       "flags": [
         "classification-review",
         "rights-review",
-        "duplicate-candidate:same-post"
+        "duplicate-candidate:same-post",
+        "duplicate-excluded"
       ],
       "imageAvailability": "unchecked",
       "imagePromptMatch": "unchecked",
       "reproduction": "untested",
       "rights": "pending-review"
     },
-    "visible": true
+    "visible": false,
+    "duplicateOf": "freestylefly-case-204"
   },
   "freestylefly-case-206": {
     "type": "generation",
@@ -12624,18 +12700,20 @@
     "reason": "prompt-category",
     "tags": [],
     "quality": {
-      "status": "metadata-complete",
+      "status": "duplicate-excluded",
       "score": 4,
       "flags": [
         "rights-review",
-        "duplicate-candidate:same-post"
+        "duplicate-candidate:same-post",
+        "duplicate-excluded"
       ],
       "imageAvailability": "unchecked",
       "imagePromptMatch": "unchecked",
       "reproduction": "untested",
       "rights": "pending-review"
     },
-    "visible": true
+    "visible": false,
+    "duplicateOf": "freestylefly-case-242"
   },
   "freestylefly-case-245": {
     "type": "generation",
@@ -12645,20 +12723,22 @@
     "reason": "source-fallback",
     "tags": [],
     "quality": {
-      "status": "metadata-complete",
+      "status": "duplicate-excluded",
       "score": 3,
       "flags": [
         "classification-review",
         "input-mode-review",
         "rights-review",
-        "duplicate-candidate:same-post"
+        "duplicate-candidate:same-post",
+        "duplicate-excluded"
       ],
       "imageAvailability": "unchecked",
       "imagePromptMatch": "unchecked",
       "reproduction": "untested",
       "rights": "pending-review"
     },
-    "visible": true
+    "visible": false,
+    "duplicateOf": "freestylefly-case-242"
   },
   "freestylefly-case-246": {
     "type": "generation",
@@ -12668,19 +12748,21 @@
     "reason": "source-fallback",
     "tags": [],
     "quality": {
-      "status": "metadata-complete",
+      "status": "duplicate-excluded",
       "score": 4,
       "flags": [
         "classification-review",
         "rights-review",
-        "duplicate-candidate:same-post"
+        "duplicate-candidate:same-post",
+        "duplicate-excluded"
       ],
       "imageAvailability": "unchecked",
       "imagePromptMatch": "unchecked",
       "reproduction": "untested",
       "rights": "pending-review"
     },
-    "visible": true
+    "visible": false,
+    "duplicateOf": "freestylefly-case-242"
   },
   "freestylefly-case-247": {
     "type": "generation",
@@ -12692,18 +12774,20 @@
       "typography"
     ],
     "quality": {
-      "status": "metadata-complete",
+      "status": "duplicate-excluded",
       "score": 4,
       "flags": [
         "rights-review",
-        "duplicate-candidate:same-post"
+        "duplicate-candidate:same-post",
+        "duplicate-excluded"
       ],
       "imageAvailability": "unchecked",
       "imagePromptMatch": "unchecked",
       "reproduction": "untested",
       "rights": "pending-review"
     },
-    "visible": true
+    "visible": false,
+    "duplicateOf": "freestylefly-case-242"
   },
   "freestylefly-case-248": {
     "type": "generation",
@@ -12755,19 +12839,21 @@
     "reason": "source-fallback",
     "tags": [],
     "quality": {
-      "status": "metadata-complete",
+      "status": "duplicate-excluded",
       "score": 4,
       "flags": [
         "classification-review",
         "rights-review",
-        "duplicate-candidate:same-post"
+        "duplicate-candidate:same-post",
+        "duplicate-excluded"
       ],
       "imageAvailability": "unchecked",
       "imagePromptMatch": "unchecked",
       "reproduction": "untested",
       "rights": "pending-review"
     },
-    "visible": true
+    "visible": false,
+    "duplicateOf": "freestylefly-case-242"
   },
   "freestylefly-case-251": {
     "type": "generation",
@@ -12777,19 +12863,21 @@
     "reason": "source-fallback",
     "tags": [],
     "quality": {
-      "status": "metadata-complete",
+      "status": "duplicate-excluded",
       "score": 4,
       "flags": [
         "classification-review",
         "rights-review",
-        "duplicate-candidate:same-post"
+        "duplicate-candidate:same-post",
+        "duplicate-excluded"
       ],
       "imageAvailability": "unchecked",
       "imagePromptMatch": "unchecked",
       "reproduction": "untested",
       "rights": "pending-review"
     },
-    "visible": true
+    "visible": false,
+    "duplicateOf": "freestylefly-case-242"
   },
   "freestylefly-case-252": {
     "type": "generation",
@@ -12799,18 +12887,20 @@
     "reason": "prompt-category",
     "tags": [],
     "quality": {
-      "status": "metadata-complete",
+      "status": "duplicate-excluded",
       "score": 4,
       "flags": [
         "rights-review",
-        "duplicate-candidate:same-post"
+        "duplicate-candidate:same-post",
+        "duplicate-excluded"
       ],
       "imageAvailability": "unchecked",
       "imagePromptMatch": "unchecked",
       "reproduction": "untested",
       "rights": "pending-review"
     },
-    "visible": true
+    "visible": false,
+    "duplicateOf": "freestylefly-case-242"
   },
   "freestylefly-case-253": {
     "type": "generation",
@@ -12820,18 +12910,20 @@
     "reason": "prompt-category",
     "tags": [],
     "quality": {
-      "status": "metadata-complete",
+      "status": "duplicate-excluded",
       "score": 5,
       "flags": [
         "rights-review",
-        "duplicate-candidate:same-post"
+        "duplicate-candidate:same-post",
+        "duplicate-excluded"
       ],
       "imageAvailability": "unchecked",
       "imagePromptMatch": "unchecked",
       "reproduction": "untested",
       "rights": "pending-review"
     },
-    "visible": true
+    "visible": false,
+    "duplicateOf": "freestylefly-case-242"
   },
   "freestylefly-case-254": {
     "type": "generation",
@@ -12843,18 +12935,20 @@
       "film"
     ],
     "quality": {
-      "status": "metadata-complete",
+      "status": "duplicate-excluded",
       "score": 5,
       "flags": [
         "rights-review",
-        "duplicate-candidate:same-post"
+        "duplicate-candidate:same-post",
+        "duplicate-excluded"
       ],
       "imageAvailability": "unchecked",
       "imagePromptMatch": "unchecked",
       "reproduction": "untested",
       "rights": "pending-review"
     },
-    "visible": true
+    "visible": false,
+    "duplicateOf": "freestylefly-case-242"
   },
   "freestylefly-case-255": {
     "type": "generation",
@@ -12864,19 +12958,21 @@
     "reason": "prompt-category",
     "tags": [],
     "quality": {
-      "status": "metadata-complete",
+      "status": "duplicate-excluded",
       "score": 4,
       "flags": [
         "input-mode-review",
         "rights-review",
-        "duplicate-candidate:same-post"
+        "duplicate-candidate:same-post",
+        "duplicate-excluded"
       ],
       "imageAvailability": "unchecked",
       "imagePromptMatch": "unchecked",
       "reproduction": "untested",
       "rights": "pending-review"
     },
-    "visible": true
+    "visible": false,
+    "duplicateOf": "freestylefly-case-249"
   },
   "freestylefly-case-256": {
     "type": "generation",
@@ -12886,18 +12982,20 @@
     "reason": "prompt-category",
     "tags": [],
     "quality": {
-      "status": "metadata-complete",
+      "status": "duplicate-excluded",
       "score": 5,
       "flags": [
         "rights-review",
-        "duplicate-candidate:same-post"
+        "duplicate-candidate:same-post",
+        "duplicate-excluded"
       ],
       "imageAvailability": "unchecked",
       "imagePromptMatch": "unchecked",
       "reproduction": "untested",
       "rights": "pending-review"
     },
-    "visible": true
+    "visible": false,
+    "duplicateOf": "freestylefly-case-249"
   },
   "freestylefly-case-257": {
     "type": "generation",
@@ -12907,18 +13005,20 @@
     "reason": "prompt-category",
     "tags": [],
     "quality": {
-      "status": "metadata-complete",
+      "status": "duplicate-excluded",
       "score": 5,
       "flags": [
         "rights-review",
-        "duplicate-candidate:same-post"
+        "duplicate-candidate:same-post",
+        "duplicate-excluded"
       ],
       "imageAvailability": "unchecked",
       "imagePromptMatch": "unchecked",
       "reproduction": "untested",
       "rights": "pending-review"
     },
-    "visible": true
+    "visible": false,
+    "duplicateOf": "freestylefly-case-249"
   },
   "freestylefly-case-258": {
     "type": "generation",
@@ -12928,18 +13028,20 @@
     "reason": "prompt-category",
     "tags": [],
     "quality": {
-      "status": "metadata-complete",
+      "status": "duplicate-excluded",
       "score": 4,
       "flags": [
         "rights-review",
-        "duplicate-candidate:same-post"
+        "duplicate-candidate:same-post",
+        "duplicate-excluded"
       ],
       "imageAvailability": "unchecked",
       "imagePromptMatch": "unchecked",
       "reproduction": "untested",
       "rights": "pending-review"
     },
-    "visible": true
+    "visible": false,
+    "duplicateOf": "freestylefly-case-259"
   },
   "freestylefly-case-259": {
     "type": "generation",
@@ -12970,18 +13072,20 @@
     "reason": "prompt-category",
     "tags": [],
     "quality": {
-      "status": "metadata-complete",
+      "status": "duplicate-excluded",
       "score": 5,
       "flags": [
         "rights-review",
-        "duplicate-candidate:same-post"
+        "duplicate-candidate:same-post",
+        "duplicate-excluded"
       ],
       "imageAvailability": "unchecked",
       "imagePromptMatch": "unchecked",
       "reproduction": "untested",
       "rights": "pending-review"
     },
-    "visible": true
+    "visible": false,
+    "duplicateOf": "freestylefly-case-259"
   },
   "freestylefly-case-261": {
     "type": "generation",
@@ -13164,18 +13268,20 @@
     "reason": "prompt-category",
     "tags": [],
     "quality": {
-      "status": "metadata-complete",
+      "status": "duplicate-excluded",
       "score": 5,
       "flags": [
         "rights-review",
-        "duplicate-candidate:same-post"
+        "duplicate-candidate:same-post",
+        "duplicate-excluded"
       ],
       "imageAvailability": "unchecked",
       "imagePromptMatch": "unchecked",
       "reproduction": "untested",
       "rights": "pending-review"
     },
-    "visible": true
+    "visible": false,
+    "duplicateOf": "freestylefly-case-259"
   },
   "freestylefly-case-270": {
     "type": "generation",
@@ -13629,18 +13735,20 @@
     "reason": "prompt-category",
     "tags": [],
     "quality": {
-      "status": "metadata-complete",
+      "status": "duplicate-excluded",
       "score": 5,
       "flags": [
         "rights-review",
-        "duplicate-candidate:same-post"
+        "duplicate-candidate:same-post",
+        "duplicate-excluded"
       ],
       "imageAvailability": "unchecked",
       "imagePromptMatch": "unchecked",
       "reproduction": "untested",
       "rights": "pending-review"
     },
-    "visible": true
+    "visible": false,
+    "duplicateOf": "freestylefly-case-287"
   },
   "freestylefly-case-290": {
     "type": "generation",
@@ -13738,19 +13846,21 @@
     "reason": "source-fallback",
     "tags": [],
     "quality": {
-      "status": "metadata-complete",
+      "status": "duplicate-excluded",
       "score": 4,
       "flags": [
         "classification-review",
         "rights-review",
-        "duplicate-candidate:same-post"
+        "duplicate-candidate:same-post",
+        "duplicate-excluded"
       ],
       "imageAvailability": "unchecked",
       "imagePromptMatch": "unchecked",
       "reproduction": "untested",
       "rights": "pending-review"
     },
-    "visible": true
+    "visible": false,
+    "duplicateOf": "freestylefly-case-293"
   },
   "freestylefly-case-295": {
     "type": "generation",
@@ -13762,19 +13872,21 @@
       "vintage"
     ],
     "quality": {
-      "status": "metadata-complete",
+      "status": "duplicate-excluded",
       "score": 4,
       "flags": [
         "classification-review",
         "rights-review",
-        "duplicate-candidate:same-post"
+        "duplicate-candidate:same-post",
+        "duplicate-excluded"
       ],
       "imageAvailability": "unchecked",
       "imagePromptMatch": "unchecked",
       "reproduction": "untested",
       "rights": "pending-review"
     },
-    "visible": true
+    "visible": false,
+    "duplicateOf": "freestylefly-case-293"
   },
   "freestylefly-case-296": {
     "type": "generation",
@@ -13884,19 +13996,21 @@
     "reason": "source-fallback",
     "tags": [],
     "quality": {
-      "status": "metadata-complete",
+      "status": "duplicate-excluded",
       "score": 4,
       "flags": [
         "classification-review",
         "rights-review",
-        "duplicate-candidate:same-post"
+        "duplicate-candidate:same-post",
+        "duplicate-excluded"
       ],
       "imageAvailability": "unchecked",
       "imagePromptMatch": "unchecked",
       "reproduction": "untested",
       "rights": "pending-review"
     },
-    "visible": true
+    "visible": false,
+    "duplicateOf": "freestylefly-case-287"
   },
   "freestylefly-case-301": {
     "type": "generation",
@@ -13908,18 +14022,20 @@
       "product"
     ],
     "quality": {
-      "status": "metadata-complete",
+      "status": "duplicate-excluded",
       "score": 4,
       "flags": [
         "rights-review",
-        "duplicate-candidate:same-post"
+        "duplicate-candidate:same-post",
+        "duplicate-excluded"
       ],
       "imageAvailability": "unchecked",
       "imagePromptMatch": "unchecked",
       "reproduction": "untested",
       "rights": "pending-review"
     },
-    "visible": true
+    "visible": false,
+    "duplicateOf": "freestylefly-case-287"
   },
   "freestylefly-case-302": {
     "type": "generation",
@@ -13953,19 +14069,21 @@
     "reason": "source-fallback",
     "tags": [],
     "quality": {
-      "status": "metadata-complete",
+      "status": "duplicate-excluded",
       "score": 4,
       "flags": [
         "classification-review",
         "rights-review",
-        "duplicate-candidate:same-post"
+        "duplicate-candidate:same-post",
+        "duplicate-excluded"
       ],
       "imageAvailability": "unchecked",
       "imagePromptMatch": "unchecked",
       "reproduction": "untested",
       "rights": "pending-review"
     },
-    "visible": true
+    "visible": false,
+    "duplicateOf": "freestylefly-case-293"
   },
   "freestylefly-case-304": {
     "type": "generation",
@@ -14048,19 +14166,21 @@
       "typography"
     ],
     "quality": {
-      "status": "metadata-complete",
+      "status": "duplicate-excluded",
       "score": 3,
       "flags": [
         "input-mode-review",
         "rights-review",
-        "duplicate-candidate:same-post"
+        "duplicate-candidate:same-post",
+        "duplicate-excluded"
       ],
       "imageAvailability": "unchecked",
       "imagePromptMatch": "unchecked",
       "reproduction": "untested",
       "rights": "pending-review"
     },
-    "visible": true
+    "visible": false,
+    "duplicateOf": "freestylefly-case-276"
   },
   "freestylefly-case-308": {
     "type": "generation",
@@ -14314,18 +14434,20 @@
       "reference-image"
     ],
     "quality": {
-      "status": "metadata-complete",
+      "status": "duplicate-excluded",
       "score": 4,
       "flags": [
         "rights-review",
-        "duplicate-candidate:same-post"
+        "duplicate-candidate:same-post",
+        "duplicate-excluded"
       ],
       "imageAvailability": "unchecked",
       "imagePromptMatch": "unchecked",
       "reproduction": "untested",
       "rights": "pending-review"
     },
-    "visible": true
+    "visible": false,
+    "duplicateOf": "freestylefly-case-317"
   },
   "freestylefly-case-319": {
     "type": "generation",
@@ -16158,19 +16280,21 @@
       "template"
     ],
     "quality": {
-      "status": "metadata-complete",
+      "status": "duplicate-excluded",
       "score": 4,
       "flags": [
         "classification-review",
         "rights-review",
-        "duplicate-candidate:same-post"
+        "duplicate-candidate:same-post",
+        "duplicate-excluded"
       ],
       "imageAvailability": "unchecked",
       "imagePromptMatch": "unchecked",
       "reproduction": "untested",
       "rights": "pending-review"
     },
-    "visible": true
+    "visible": false,
+    "duplicateOf": "freestylefly-case-394"
   },
   "freestylefly-case-396": {
     "type": "generation",

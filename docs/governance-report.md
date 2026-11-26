@@ -3,11 +3,18 @@
 Generated from source JSON. Classification is heuristic and provisional; completeness is not aesthetic quality. No image network, visual matching, reproduction or rights clearance is claimed.
 
 - Source cases: 811
-- Gallery cases: 806
-- Withheld for missing content: 5
+- Unique cases: 749
+- Gallery cases: 746
+- Duplicate records excluded: 62 (60 previously visible)
+- Unique cases withheld for missing content: 3
 - Rights pending: 811
 
-## Classification
+## Gallery groups
+
+- reference: 168
+- generation: 578
+
+## Internal operation classification
 
 | Category | Count |
 |---|---:|
@@ -19,26 +26,25 @@ Generated from source JSON. Classification is heuristic and provisional; complet
 | editing/portrait-editing | 5 |
 | editing/restyle | 12 |
 | generation/architecture | 3 |
-| generation/avatars | 10 |
-| generation/characters | 89 |
+| generation/avatars | 7 |
+| generation/characters | 88 |
 | generation/comics-storyboards | 26 |
-| generation/creative-art | 46 |
-| generation/illustrations | 98 |
-| generation/infographics | 58 |
-| generation/logos | 24 |
-| generation/other | 63 |
-| generation/portraits | 133 |
-| generation/posters | 141 |
-| generation/products | 26 |
+| generation/creative-art | 44 |
+| generation/illustrations | 89 |
+| generation/infographics | 51 |
+| generation/logos | 23 |
+| generation/other | 50 |
+| generation/portraits | 131 |
+| generation/posters | 134 |
+| generation/products | 19 |
 | generation/travel | 21 |
-| generation/ui-mockups | 45 |
-| unclassified/other | 2 |
+| generation/ui-mockups | 34 |
 
 ## Input modes
 
-- reference-to-image: 147
-- text-to-image: 429
-- unknown: 209
+- reference-to-image: 142
+- text-to-image: 391
+- unknown: 187
 - image-editing: 26
 
 ## Review flags
@@ -47,6 +53,7 @@ Generated from source JSON. Classification is heuristic and provisional; complet
 - duplicate-candidate:exact-prompt: 30
 - duplicate-candidate:same-post: 58
 - duplicate-candidate:same-prompt-prefix: 32
+- duplicate-excluded: 62
 - generic-title-review: 98
 - input-mode-review: 209
 - missing-image-url: 3
@@ -57,14 +64,12 @@ Generated from source JSON. Classification is heuristic and provisional; complet
 ## Withheld cases
 
 - [freestylefly-case-78](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-78): missing-image-url, missing-original-post-url
-- [freestylefly-case-79](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-79): missing-image-url, missing-original-post-url
-- [freestylefly-case-80](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-80): missing-image-url, missing-original-post-url
 - [freestylefly-case-335](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-335): missing-original-prompt, missing-original-post-url
 - [freestylefly-case-336](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-336): missing-original-prompt, missing-original-post-url
 
 ## Duplicate candidates
 
-Exact same prompts may intentionally have different outputs; same post may contain different prompts. No automatic destructive merge. See data/governance/duplicates.json.
+Keep one representative for each connected group sharing an original post ID or exact normalized full prompt. Raw source records are retained for provenance only, not in the canonical catalog or galleries. Prefix-only and image-only similarities are not automatically excluded. See data/governance/deduplication.json for removed-to-kept mappings.
 
 ## Remaining manual checks
 
