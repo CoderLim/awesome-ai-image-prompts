@@ -65,6 +65,30 @@ export function classifyContent(r){
  else mode='unknown';
  return {type,category,inputMode:mode,confidence,reason};
 }
+// A connected component links records by the same original post OR exact normalized prompt.
+export function selectCanonical(rows,duplicateGroups){
+ const byId=new Map(rows.map(r=>[r.id,r])),parent=new Map(rows.map(r=>[r.id,r.id]));
+ const root=id=>{while(parent.get(id)!==id){parent.set(id,parent.get(parent.get(id)));id=parent.get(id);}return id;};
+ for(const group of duplicateGroups){if(!['exact-prompt','same-post'].includes(group.kind))continue;const first=root(group.ids[0]);for(const id of group.ids.slice(1))parent.set(root(id),first);}
+ const components=new Map();
+ for(const r of rows){const key=root(r.id),items=components.get(key)??[];items.push(r);components.set(key,items);}
+ const compare=(a,b)=>{
+  const score=r=>[Number(r.visible),Number(r.quality.rights!=='pending-review'),Number(Boolean(r.provenance.originalSource.url)),Number(Boolean(r.provenance.originalSource.author)&&!r.quality.flags.includes('generic-title-review')),Number(r.sourcePreview.images.some(m=>m.role==='output')),Number(r.sourcePreview.images.length>0),r.quality.score];
+  const x=score(a),y=score(b);for(let i=0;i<x.length;i++)if(x[i]!==y[i])return y[i]-x[i];
+  return a.id.localeCompare(b.id,'en',{numeric:true});
+ };
+ const removed=[],kept=[];
+ for(const component of components.values()){
+  component.sort(compare);const winner=component[0];kept.push(winner.id);
+  if(component.length===1)continue;
+  const ids=new Set(component.map(r=>r.id));
+  const evidence=duplicateGroups.filter(g=>['exact-prompt','same-post'].includes(g.kind)&&g.ids.some(id=>ids.has(id))).map(g=>({kind:g.kind,ids:g.ids}));
+  for(const r of component.slice(1))removed.push({id:r.id,keptId:winner.id,wasVisible:r.visible,source:r.provenance.collectedFrom[0].url,evidence:evidence.filter(g=>g.ids.includes(r.id)).map(g=>g.kind)});
+ }
+ removed.sort((a,b)=>a.id.localeCompare(b.id,'en',{numeric:true}));kept.sort((a,b)=>a.localeCompare(b,'en',{numeric:true}));
+ return {removed,kept};
+}
+
 export function govern(records){
  const exact=new Map(),posts=new Map(),images=new Map(),prefixes=new Map();
  const add=(map,k,id)=>{if(!k)return;const a=map.get(k)??[];if(!a.includes(id))a.push(id);map.set(k,a);};
@@ -89,14 +113,16 @@ export function govern(records){
  const item={...c,tags:[...new Set(tagList)],quality:{status:visible?'metadata-complete':'needs-content-review',score,flags,imageAvailability:'unchecked',imagePromptMatch:'unchecked',reproduction:'untested',rights:'pending-review'},visible};
  metadata[r.id]=item;rows.push({...r,...c,tags:item.tags,quality:item.quality,visible});
  }
- const counts={};for(const r of rows){const k=r.type+'/'+r.category;counts[k]=(counts[k]??0)+1;}
- return {rows,metadata,duplicates,counts};
+ const dedup=selectCanonical(rows,duplicates), removedById=new Map(dedup.removed.map(r=>[r.id,r]));
+ for(const r of rows){const dropped=removedById.get(r.id);if(dropped){r.visible=false;r.quality={...r.quality,status:'duplicate-excluded',flags:[...r.quality.flags,'duplicate-excluded']};metadata[r.id]={...metadata[r.id],visible:false,quality:r.quality,duplicateOf:dropped.keptId};}}
+ const counts={};for(const r of rows.filter(r=>r.visible)){const k=r.type+'/'+r.category;counts[k]=(counts[k]??0)+1;}
+ return {rows,metadata,duplicates,counts,dedup};
 }
 export function governanceFiles(result){
  const json=v=>JSON.stringify(v,null,2)+'\n',rows=result.rows,visible=rows.filter(r=>r.visible),count=(list,key)=>list.reduce((m,r)=>(m[key(r)]=(m[key(r)]??0)+1,m),{});
  const flags=count(rows.flatMap(r=>r.quality.flags),x=>x);
- const report={total:rows.length,visible:visible.length,hidden:rows.length-visible.length,types:count(rows,r=>r.type),inputModes:count(rows,r=>r.inputMode),categories:result.counts,confidence:count(rows,r=>r.confidence),flags,duplicateGroups:count(result.duplicates,x=>x.kind),rightsPending:rows.filter(r=>r.quality.flags.includes('rights-review')).length,checks:{imageHttp:'not-run',imagePromptMatch:'not-run',perceptualHash:'not-run',semanticEmbedding:'not-run',rights:'not-cleared'}};
+ const report={total:rows.length,visible:visible.length,hidden:rows.length-visible.length,duplicateExcluded:result.dedup.removed.length,duplicateExcludedFromGallery:result.dedup.removed.filter(r=>r.wasVisible).length,uniqueCases:result.dedup.kept.length,types:count(visible,r=>r.type),inputModes:count(visible,r=>r.inputMode),categories:result.counts,confidence:count(rows,r=>r.confidence),flags,duplicateGroups:count(result.duplicates,x=>x.kind),rightsPending:rows.filter(r=>r.quality.flags.includes('rights-review')).length,checks:{imageHttp:'not-run',imagePromptMatch:'not-run',perceptualHash:'not-run',semanticEmbedding:'not-run',rights:'not-cleared'}};
  let md='# Content governance report\n\nGenerated from source JSON. Classification is heuristic and provisional; completeness is not aesthetic quality. No image network, visual matching, reproduction or rights clearance is claimed.\n\n';
- md+='- Source cases: '+report.total+'\n- Gallery cases: '+report.visible+'\n- Withheld for missing content: '+report.hidden+'\n- Rights pending: '+report.rightsPending+'\n\n## Classification\n\n| Category | Count |\n|---|---:|\n'+Object.entries(report.categories).sort().map(([k,v])=>'| '+k+' | '+v+' |').join('\n')+'\n\n## Input modes\n\n'+Object.entries(report.inputModes).map(([k,v])=>'- '+k+': '+v).join('\n')+'\n\n## Review flags\n\n'+Object.entries(flags).sort().map(([k,v])=>'- '+k+': '+v).join('\n')+'\n\n## Withheld cases\n\n'+rows.filter(r=>!r.visible).map(r=>'- ['+r.id+']('+r.provenance.collectedFrom[0].url+'): '+r.quality.flags.filter(f=>f.startsWith('missing-')).join(', ')).join('\n')+'\n\n## Duplicate candidates\n\nExact same prompts may intentionally have different outputs; same post may contain different prompts. No automatic destructive merge. See data/governance/duplicates.json.\n\n## Remaining manual checks\n\nImage availability, visual prompt matching, perceptual hash, semantic similarity, original-source verification and per-asset rights clearance. Unknown rights do not establish permission; existing published material has not been cleared. Review before redistributing or commercial use.\n';
- return {'data/governance/cases.json':json(result.metadata),'data/governance/duplicates.json':json(result.duplicates),'data/governance/report.json':json(report),'docs/governance-report.md':md};
+ md+='- Source cases: '+report.total+'\n- Unique cases: '+report.uniqueCases+'\n- Gallery cases: '+report.visible+'\n- Duplicate records excluded: '+report.duplicateExcluded+' ('+report.duplicateExcludedFromGallery+' previously visible)\n- Unique cases withheld for missing content: '+(report.uniqueCases-report.visible)+'\n- Rights pending: '+report.rightsPending+'\n\n## Classification\n\n| Category | Count |\n|---|---:|\n'+Object.entries(report.categories).sort().map(([k,v])=>'| '+k+' | '+v+' |').join('\n')+'\n\n## Input modes\n\n'+Object.entries(report.inputModes).map(([k,v])=>'- '+k+': '+v).join('\n')+'\n\n## Review flags\n\n'+Object.entries(flags).sort().map(([k,v])=>'- '+k+': '+v).join('\n')+'\n\n## Withheld cases\n\n'+rows.filter(r=>!r.visible&&!result.metadata[r.id].duplicateOf).map(r=>'- ['+r.id+']('+r.provenance.collectedFrom[0].url+'): '+r.quality.flags.filter(f=>f.startsWith('missing-')).join(', ')).join('\n')+'\n\n## Duplicate candidates\n\nKeep one representative for each connected group sharing an original post ID or exact normalized full prompt. Raw source records are retained for provenance only, not in the canonical catalog or galleries. Prefix-only and image-only similarities are not automatically excluded. See data/governance/deduplication.json for removed-to-kept mappings.\n\n## Remaining manual checks\n\nImage availability, visual prompt matching, perceptual hash, semantic similarity, original-source verification and per-asset rights clearance. Unknown rights do not establish permission; existing published material has not been cleared. Review before redistributing or commercial use.\n';
+ return {'data/governance/cases.json':json(result.metadata),'data/governance/duplicates.json':json(result.duplicates),'data/governance/deduplication.json':json(result.dedup),'data/governance/canonical.json':json(visible.map(r=>r.id)),'data/governance/report.json':json(report),'docs/governance-report.md':md};
 }
