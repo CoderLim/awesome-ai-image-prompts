@@ -5,6 +5,7 @@ import { pathToFileURL } from 'node:url';
 import { readCatalog,readQueue } from './audit-prompt-similarity.mjs';
 import { govern } from './governance.mjs';
 import { readFeatured } from './review-featured.mjs';
+import { readLocalReviewQueues } from './review-local-queues.mjs';
 import { keysFor,readExclusions,writeExclusions } from './review-exclusions.mjs';
 export const templateDecisionPath='data/review/template-decisions.json';
 export function readTemplateDecisions(root='.'){
@@ -60,7 +61,9 @@ if(process.argv[1]&&import.meta.url===pathToFileURL(path.resolve(process.argv[1]
   else if(args[i]==='--report')report=args[++i];
   else throw Error('Usage: npm run review:templates -- [--queue V3.jsonl] [--apply] [--report FILE]');
  }
- const catalog=readCatalog(),existing=readExclusions(),queue=queueFile?queueRecords(readQueue(queueFile)):[];
+ const catalog=readCatalog(),existing=readExclusions(),known=new Set(catalog.map(r=>r.id));
+ const queue=(queueFile?queueRecords(readQueue(queueFile)):[]).filter(r=>{if(known.has(r.id))return false;known.add(r.id);return true;});
+ queue.push(...readLocalReviewQueues('.',known).map(r=>({...r,templateStatus:'visual_review'})));
  const available=[...govern(catalog,existing).rows.filter(r=>r.visible).map(r=>r.id),...queue.filter(r=>r.templateStatus!=='exclude').map(r=>r.id)];
  const result=planTemplateExclusions([...catalog,...queue],readTemplateDecisions(),existing,{featured:readFeatured()??[],available});
  if(apply)writeExclusions(result.entries);

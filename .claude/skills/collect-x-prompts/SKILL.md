@@ -1,131 +1,55 @@
 ---
 name: collect-x-prompts
-description: Collect AI image prompts from an X/Twitter account into awesome-ai-image-prompts catalog shards shaped like data/index/aweniai-001.json. Use when the user asks to scrape/collect prompts from an X user (@handle), with a time range (week/month/year/2y or dates), and wants complete prompts plus generated images as index-ready JSON. Triggers include collect-x-prompts, 采集 X 提示词, 从推特收集 prompt, AWENIAI-style import prep.
+description: Collect complete reusable AI image prompts and corresponding generated examples from an X/Twitter account over a specified date range. Use for collect-x-prompts, 采集 X 提示词, 从推特收集 prompt, or repeated X author imports. Stages local review queues before any publication.
 ---
 
-# Collect X prompts → catalog shard
+# Collect X prompts
 
-Collect **complete reusable prompts + source images** from one X account into records matching `data/index/aweniai-001.json`.
+Read root AGENTS.md and [record schema / review contract](references/record-schema.md). Use one verified X handle and a time range (week/month/year/2y or YYYY-MM-DD[..YYYY-MM-DD]). Do not intentionally collect simple utility operations (background/person removal, basic cropping/resizing, etc.). Do not create link-only records as substitutes for incomplete gallery cases. Discard or keep a local rejection report instead. Preserve complete original prompt text and attribution; never invent missing text or image URLs.
 
-## Inputs
+## 1. Collect raw posts and measure coverage
 
-| Arg | Required | Examples |
-|---|---|---|
-| `username` | yes | `AWENIAI` / `@AWENIAI` |
-| `range` | yes | `week` `month` `year` `2y` `2024-11-26` `2024-11-26..2026-11-26` |
-
-Optional: `sourceId` (default = lowercased handle without `@`), `outDir` (default `data/index` or a temp dir until user confirms import).
-
-Resolve dates first:
+Check `opencli doctor`, `opencli twitter whoami -f json`, and installed `opencli twitter search --help`. Use the existing authenticated browser only. Do not export cookies, bypass access controls or commit raw snapshots.
 
 ```bash
-node .claude/skills/collect-x-prompts/scripts/resolve-range.mjs <range>
+node .claude/skills/collect-x-prompts/scripts/collect-posts.mjs AWENIAI year .cache/x-raw/aweniai-20261126.json
 ```
 
-## Hard rules (this repo)
+Collector runs all-post, image and multilingual prompt-keyword searches per 30-day UTC slice, recursively splits saturated slices down to days, keeps every raw representation keyed by string tweet ID, records failed, empty, saturated and out-of-range slices. No exclusion of replies. Explicit date end is inclusive, X until is exclusive. Inspect coverage, rerun unresolved slices in new snapshot files if feasible; do not claim full historical coverage from a below-limit search. X indexing, deleted/private posts and adapter behavior may limit discovery. If a saturated single day cannot be paginated with the installed adapter, report the gap. Timeline/thread/detail backfill may be needed; check installed commands and preserve raw returned posts before using them. Do not silently overwrite raw files.
 
-Read root `AGENTS.md` before writing into `data/index`. Especially:
+## 2. Semantic review of raw posts
 
-- Do **not** invent prompts, OCR image text into prompts, or fabricate media URLs.
-- Missing full prompt → keep as discovery/link-only or drop; never fake `prompt.original`.
-- Rights default `unknown`. Public X posts ≠ redistribution clearance.
-- Do not run `npm run sync` unless asked. Catalog write is manual / owner-directed.
-- Prefer writing a review queue under `.cache/review-queues/` first; only copy into `data/index` after the user confirms import.
+Read the collected variants. Use the longest actual full-text representation, expand long posts where available and record raw detail evidence. Extract the exact verbatim reusable body, stripping only separable marketing prefixes/suffixes. No minimum length or language bias; do not discard an otherwise complete body just because a separate promo line ends in a colon. Reject truncated, teaser-only, image-only or external-link-only material. Never OCR a screenshot to invent prompt text.
 
-Schema details: [references/record-schema.md](references/record-schema.md).
+Images must be source-reported and belong to the selected original post. Separate input reference images, output examples and unknown source media. Never label an unknown role as verified. Check extra required reference attachments, source access and image matching separately. Pairing precedence:
+- same post;
+- explicit reply/quote relationship or explicit post link recorded in raw variants;
+- otherwise explicit semantic review using shared series identifier, thread and topic, or actual visual match. Record reviewer and concrete evidence. Timing proximity is only a discovery hint. Ambiguous many-to-many cases remain unpaired.
 
-## Workflow
+Create a local intermediate JSON array, one object per proposed case (see contract). For every accepted candidate supply `textReview: "complete"` and `utilityReview: "reusable"` based on actual content review, taxonomy and input mode. Do not treat these as default values.
 
-### 1. Browser / auth
+## 3. Preflight and local queue
 
 ```bash
-opencli doctor
-opencli twitter whoami -f json
+node .claude/skills/collect-x-prompts/scripts/build-index-shard.mjs .cache/x-cases/aweniai.json .cache/x-raw/aweniai-20261126.json
+npm run review:images
 ```
 
-Need logged-in cookie session. If not: `opencli twitter login`.
+The historical filename is retained for compatibility of the entry point, but its interface now writes only a full-record local queue at `.cache/review-queues/<sourceId>.json`. It verifies raw text/media association and pairing evidence, preserves stable prompt-post IDs, never overwrites an existing row, and uses the full catalog and all local queues for transitive exact deduplication and manual exclusions. It produces a separate report with invalid cases, exact conflicts, image matches, near/template similarity and existing reviewed template decisions. Read it; near matches need human/AI semantic review, never auto-delete by score. User exclusions and featured selections are preserved. Apply verified template decisions via the existing explicit `npm run review:templates -- --apply` workflow only; a restored case is not silently re-excluded. Local queues are Git-ignored.
 
-### 2. Fetch posts in range
+## 4. Import only approved cases
 
-Strip leading `@`. Use `since` / `until` from `resolve-range.mjs`.
+Do not copy arbitrary shards to data/index or modify generated pages manually. Use the review evidence contract in the reference file. The owner-directed historical AWENIAI import is not authorization for future sources; record prompt and media rights separately. A source being public or requested by the owner alone does not establish redistribution rights. Keep uncertain cases local; do not generate public link-only fallback records.
 
 ```bash
-# Image posts (primary media candidates)
-opencli twitter search "since:<SINCE> until:<UNTIL>" --from <USER> --has images --exclude replies --exclude retweets --product live --limit 200 -f json > /tmp/x-<user>-images.json
-
-# Prompt-keyword sweep (catches text-only prompt follow-ups)
-opencli twitter search "提示词 OR prompt since:<SINCE> until:<UNTIL>" --from <USER> --product live --limit 200 -f json > /tmp/x-<user>-promptkw.json
-
-# Timeline backfill if account volume is modest
-opencli twitter tweets <USER> --limit 500 --page-delay 2 -f json > /tmp/x-<user>-timeline.json
+node .claude/skills/collect-x-prompts/scripts/stage-import.mjs .cache/review-queues/aweniai.json .cache/x-reviews/aweniai.json .cache/x-import/aweniai-001
+# Inspect report.json and staged files. On a clean current checkout, after explicit import request:
+node .claude/skills/collect-x-prompts/scripts/apply-import.mjs .cache/x-import/aweniai-001
+git status
 ```
 
-Merge by tweet `id`. Ignore retweets.
+Staging rechecks current catalog, exact duplicates, exclusions, template decisions, specific similarity/media-match review, visual/reference evidence and separate rights basis. It allocates NEW shard numbers after the existing ones, at most 80 rows per shard, and prepares registry changes. Applying rejects stale HEAD, dirty working tree, modified plan bytes and any existing shard destination. It runs build/check; inspect diff and commit source data, registry, generated pages and governance together only after success. Never run sync as part of this workflow. New X authors use `platform: "x"`, `username` and the common validator/classifier; no author-specific code changes.
 
-### 3. Eligibility: complete prompt + images
+## 5. Report
 
-Keep a case only when **both** exist (same post or reliably paired nearby posts):
-
-**Reusable prompt body** (after stripping `提示词：` / arrow lines / trailing promo links):
-
-- Length typically ≥200, and ≥2 instruction signals such as: `将上传` `上传照片` `生成一张` `上半` `下半` `3:4` `竖版` `最终只输出` `Transform the uploaded` …
-- Reject Day marketing blurbs that only say “附绝美提示词” without instructions.
-- If text says `完整提示词地址` / points to paywalled library and body is a short teaser → **incomplete** (do not treat as full).
-- Drop truncated bodies ending mid-clause (`：` / `提示词地址：` / unfinished sentence).
-
-**Images**: `has_media` with `media_urls` on X (`pbs.twimg.com`).
-
-**Pairing** (common for Day series):
-
-- Image post: examples / Day card
-- Prompt post: same author within ~2–3 hours, starts with `提示词`
-- Gallery media URL/postId from **image post**; store `promptPostUrl` / `promptPostId` when paired
-
-Optional cleanup: strip branding prefixes like `阿文提示词｜` / `阿文提示词 V3.0｜` from `prompt.original` when the user wants clean prompts—record that you changed formatting.
-
-### 4. Classify
-
-Pick one best-fit `category` from `data/taxonomy.json`.
-
-- Photo→poster / diptych creative transforms: often `posters` or `illustrations` / `creative-art` with `inputMode: "reference-to-image"`.
-- If category is `restyle`, set `type: "editing"`.
-- Prefer prompt text over fancy titles.
-
-### 5. Emit intermediate JSON → shard
-
-Write `/tmp/x-<user>-cases.json` as an array of intermediate objects (`title`, `category`, `inputMode`, `prompt`, `images`, `url`, `postId`, `publishedAt`, `author`, optional pairing fields). Then:
-
-```bash
-node .claude/skills/collect-x-prompts/scripts/build-index-shard.mjs \
-  /tmp/x-<user>-cases.json \
-  /tmp/x-<user>-out \
-  <sourceId>
-```
-
-Output files look like `aweniai-001.json`: pretty-printed array, 80 cases per shard, with `snapshotSha256`, `rights.unknown`, and `sourceMeta.review`.
-
-### 6. Deliver to user
-
-Return:
-
-1. Path(s) to generated shard JSON
-2. Counts: fetched / eligible / incomplete teasers
-3. Date window used
-4. Note: rights unverified; not auto-imported
-
-If the user asks to **入库**:
-
-1. Copy shard(s) → `data/index/`
-2. Register source in `data/sources.json` (`mode: manual-collector-export`, `snapshotSha256`)
-3. Extend `scripts/validate.mjs` image-host allowlist for `pbs.twimg.com` if this is a new X source pattern (aweniai already allowed)
-4. Update `SOURCES.md` / `AGENTS.md` additional source notes
-5. `npm run build && npm run check`
-
-## Quality checklist
-
-- [ ] Every record has nonempty `prompt.original` and ≥1 https image
-- [ ] `type`/`category` valid in taxonomy
-- [ ] `promptExcerpt` ≤100 Unicode characters
-- [ ] No duplicate `id` against existing `data/index`
-- [ ] No fabricated prompts from screenshots
-- [ ] User told rights remain unknown
+Return date range (UTC, exclusive until), coverage gaps, fetched unique posts, accepted/rejected reasons, queue path, actual exact/near/image match results, image/rights evidence status, and any import/test/commit result. Do not claim a complete crawl, visual approval, rights clearance or successful tests without evidence.

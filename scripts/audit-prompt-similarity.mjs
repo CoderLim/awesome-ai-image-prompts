@@ -13,10 +13,11 @@ export function templateSkeleton(prompt){
   .replace(/\b(?:woman|man|female|male|girl|boy|women|men|princess|prince|queen|king)\b/g,'<subject>')
   .replace(/\s+/g,' ').trim();
 }
-export function audit(queue, catalog, threshold=0.83,{includeCatalog=false,templateRecall=false}={}) {
+export function audit(queue, catalog, threshold=0.83,{includeCatalog=false,templateRecall=false,fullRecords=[]}={}) {
   if (!(threshold>0&&threshold<=1)) throw Error('Invalid similarity threshold');
   const candidates=queue.filter(r=>r.next_action==='visual_review'&&r.text_status==='advance');
-  const all=[...candidates.map(r=>({id:'prompthero-'+r.case_id,prompt:r.prompt,post:r.case_id,source:'candidate'})),
+  const pending=[...candidates.map(r=>({id:'prompthero-'+r.case_id,prompt:r.prompt,post:r.case_id,source:'candidate',caseId:r.case_id})),...fullRecords.map(r=>({id:r.id,prompt:r.prompt.original,post:r.provenance.originalSource.postId,source:r.provenance.collectedFrom[0].sourceId,caseId:r.id}))];
+  const all=[...pending,
     ...catalog.map(r=>({id:r.id,prompt:r.prompt.original,post:r.provenance.originalSource.postId,source:r.provenance.collectedFrom[0].sourceId}))];
   const normalized=all.map(r=>normalize(r.prompt));
   const skeletons=templateRecall?all.map(r=>templateSkeleton(r.prompt)):[];
@@ -35,7 +36,7 @@ export function audit(queue, catalog, threshold=0.83,{includeCatalog=false,templ
     for(const [k,w] of v)v.set(k,w/Math.sqrt(sq));
   }
   const pairs=[];
-  for(let i=0;i<(includeCatalog?all.length:candidates.length);i++){
+  for(let i=0;i<(includeCatalog?all.length:pending.length);i++){
     const scores=new Float64Array(all.length);
     for(const [k,w] of vectors[i])for(const [j,v] of index.get(k)||[])if(j>i)scores[j]+=w*v;
     for(let j=i+1;j<all.length;j++){
@@ -43,14 +44,14 @@ export function audit(queue, catalog, threshold=0.83,{includeCatalog=false,templ
       const samePost=Boolean(all[i].post)&&all[i].post===all[j].post;
       const templateHint=templateRecall&&skeletons[i].length>=60&&skeletons[i]===skeletons[j];
       if(exact||samePost||templateHint||scores[j]+1e-12>=threshold)pairs.push({
-        case_id:i<candidates.length?candidates[i].case_id:all[i].id,case_source:all[i].source,match_id:all[j].id,match_source:all[j].source,template_hint:templateHint,
+        case_id:i<pending.length?pending[i].caseId:all[i].id,case_source:all[i].source,match_id:all[j].id,match_source:all[j].source,template_hint:templateHint,
         similarity:+Math.min(1,scores[j]).toFixed(6),exact_prompt:exact,same_post:samePost,
         status:exact||samePost?'exact_conflict':'needs_pair_review'
       });
     }
   }
   pairs.sort((a,b)=>Number(b.exact_prompt||b.same_post)-Number(a.exact_prompt||a.same_post)||b.similarity-a.similarity||a.case_id.localeCompare(b.case_id)||a.match_id.localeCompare(b.match_id));
-  return {algorithm:'unicode-char-trigram-tfidf-cosine-v1',threshold,candidates:candidates.length,catalog:catalog.length,pairs};
+  return {algorithm:'unicode-char-trigram-tfidf-cosine-v1',threshold,candidates:pending.length,catalog:catalog.length,pairs};
 }
 export function readQueue(file){return fs.readFileSync(file,'utf8').split(/\r?\n/).filter(s=>s.trim()).map(JSON.parse);}
 export function readCatalog(root='.'){return fs.readdirSync(path.join(root,'data/index')).filter(f=>f.endsWith('.json')).sort().flatMap(f=>JSON.parse(fs.readFileSync(path.join(root,'data/index',f),'utf8')));}

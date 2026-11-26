@@ -8,6 +8,8 @@ const nonempty=s=>typeof s==='string'&&s.trim()!=='';
 export function keysFor(r){
  const keys=['id:'+r.id],post=r.provenance?.originalSource?.postId,p=r.prompt?.original;
  if(nonempty(post))keys.push('post:'+post);
+ const promptPost=r.provenance?.originalSource?.promptPostId;
+ if(r.provenance?.originalSource?.platform==='x'&&nonempty(promptPost)&&promptPost!==post)keys.push('post:'+promptPost);
  if(nonempty(p))keys.push('prompt:'+fingerprint(p));
  return keys;
 }

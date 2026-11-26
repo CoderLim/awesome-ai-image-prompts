@@ -1,94 +1,60 @@
-# Catalog record schema (aweniai-001.json style)
+# X collection contract
 
-Output must be a JSON **array** of catalog records. Shard naming: `data/index/<sourceId>-001.json` (80 records per shard max).
+## Raw snapshot (collect-posts.mjs)
 
-## Required fields per record
+Version 1: username (canonical handle), range (UTC since / exclusive until), posts (array of {id: string, variants: raw OpenCLI objects}), coverage, unresolved, coverageStatus, absoluteCompleteness. Store locally. Keep full raw variants; do not truncate or coerce snowflake IDs to numbers. If the installed adapter does not expose full text/media/reply fields, obtain actual detail/thread data and keep the raw evidence; do not manufacture fields.
 
-| Field | Rules |
-|---|---|
-| `id` | `^[a-z0-9-]+$`, prefer `<sourceId>-<tweetId>` |
-| `title` | `{ en, zh }` — at least one nonempty |
-| `type` | `generation` \| `editing` \| `unclassified` |
-| `category` | Must exist under that `type` in `data/taxonomy.json` |
-| `inputMode` | `text-to-image` \| `reference-to-image` \| `image-editing` \| `unknown` |
-| `status` | always `index-only` |
-| `prompt.original` | Full reusable prompt; never invent / OCR-fabricate |
-| `media` | always `[]` |
-| `sourcePreview.images` | 1–4 items; `https` URLs; roles `source-media` \| `input` \| `output` |
-| `sourcePreview.promptExcerpt` | ≤100 Unicode chars |
-| `sourcePreview.excerptTruncated` | boolean |
-| `provenance.originalSource` | platform, author (`@handle`), url, postId, publishedAt, verification |
-| `provenance.collectedFrom[0]` | `sourceId`, `mode: "collector-export"`, `snapshotSha256`, `url`, `collectedAt` |
-| `rights` | `{ prompt: "unknown", media: "unknown" }` unless cleared evidence exists |
-
-## Taxonomy gotchas
-
-- `restyle` lives under **`editing`**, not `generation`.
-- Reference-to-image poster transforms may stay `type: generation` + `category: posters` with `inputMode: reference-to-image` when that is the intended public category.
-- Public gallery maps `editing` and `reference-to-image` into **Reference Image Generation**.
-
-## Image hosts for X
-
-Use `https://pbs.twimg.com/media/...` URLs from the tweet. Prefer `?name=large` only for local inspection; store the canonical media URL without inventing hosts.
-
-## Minimal example
+## Intermediate cases (local array)
 
 ```json
-{
-  "id": "aweniai-2105661058765770857",
-  "title": { "en": null, "zh": "橡胶印章旅行海报" },
-  "type": "generation",
-  "category": "posters",
-  "inputMode": "reference-to-image",
-  "status": "index-only",
-  "prompt": { "original": "为每张上传照片分别生成一张独立的…" },
-  "media": [],
-  "models": [],
-  "sourcePreview": {
-    "images": [{ "url": "https://pbs.twimg.com/media/….jpg", "role": "source-media" }],
-    "promptExcerpt": "为每张上传照片分别生成一张独立的…",
-    "excerptTruncated": true
-  },
-  "provenance": {
-    "originalSource": {
-      "platform": "x",
-      "author": "@AWENIAI",
-      "url": "https://x.com/AWENIAI/status/2105661058765770857",
-      "postId": "2105661058765770857",
-      "publishedAt": "2026-10-01T12:00:00.000Z",
-      "verification": "reported-by-collector"
-    },
-    "collectedFrom": [{
-      "sourceId": "aweniai",
-      "mode": "collector-export",
-      "snapshotSha256": "<sha256 of source snapshot or output array>",
-      "url": "https://x.com/AWENIAI/status/2105661058765770857",
-      "collectedAt": "2026-11-26T13:58:26.919Z"
-    }]
-  },
-  "rights": { "prompt": "unknown", "media": "unknown" },
-  "sourceMeta": {
-    "model": null,
-    "textReview": "appears-complete",
-    "visualReview": "pending",
-    "pairing": "same-post-reported",
-    "imageVerification": "source-reported-output; HTTP and visual match unchecked",
-    "review": {
-      "qualityStatus": "recommended",
-      "classificationConfidence": "medium",
-      "classificationMethod": "owner-directed-collector-import",
-      "inputMode": "reference-to-image",
-      "category": "posters"
-    }
+[
+  {
+    "title": {"en": "Example", "zh": null},
+    "category": "posters",
+    "type": "generation",
+    "inputMode": "reference-to-image",
+    "prompt": "Exact verbatim reusable prompt body from the source",
+    "images": [{"url": "https://pbs.twimg.com/media/Example.jpg", "role": "source-media"}],
+    "url": "https://x.com/example/status/123",
+    "postId": "123",
+    "promptPostUrl": "https://x.com/example/status/124",
+    "promptPostId": "124",
+    "textReview": "complete",
+    "utilityReview": "reusable",
+    "pairReview": {"status": "verified", "kind": "shared-series-identifier", "reviewer": "reviewer-id", "evidence": "Specific source evidence, not just time proximity"}
   }
-}
+]
 ```
 
-## Optional provenance extras
+Illustrative placeholders only. Do not ingest this sample. Pair fields omitted for same-post examples; pairReview needed if no explicit raw relation or link. Allowed manual kinds: shared-series-identifier, thread-and-topic, visual-semantic-match. Evidence must identify the actual relation. Text and image URLs are checked against the raw snapshot. Optional publishedAt, model, models, classificationConfidence. Taxonomy from data/taxonomy.json; restyle uses type editing, all image-conditioned prompts map to the reference gallery. All stored URLs must be HTTPS X status or pbs.twimg.com/media URLs respectively. No more than four explicitly selected distinct media per record; at least one possible output. Unknown role stays source-media pending review.
 
-When prompt text and example images are on different nearby posts:
+## Full record local queue
 
-- `originalSource.promptPostUrl`
-- `originalSource.promptPostId`
-- Prefer `originalSource.url` / `postId` = **image post** (gallery media)
-- `sourceMeta.pairing`: `same-post-reported` \| `prompt_post_paired_with_nearby_image_post`
+Matches schemas/prompt.schema.json, with stable ID <canonical-source-id>-<prompt-post-id> (same-post uses that post ID), title, type/category/inputMode, status index-only, prompt.original, empty media, sourcePreview (1–4 image URL/role pairs and <=100 Unicode character excerpt), provenance, rights and sourceMeta. Author handle underscores are encoded as hyphens (no X handle contains hyphens). Existing historical IDs are preserved by exact post/prompt matching, not rewritten. OriginalSource postId/url refers to the image post, paired promptPostId/Url refers to the text. collectedFrom contains sourceId, mode collector-export, raw snapshot SHA-256, URL and collection time. rights unknown/unknown until separate evidence is supplied. SourceMeta contains pairing and review state. Local queue is ignored by Git.
+
+## Publication evidence (local array; one record per case)
+
+```json
+[
+  {
+    "id": "example-124",
+    "promptHash": "<SHA-256 of NFKC/lowercase/whitespace-normalized full prompt>",
+    "reviewer": "reviewer-id",
+    "text": "complete",
+    "visual": {"status": "pass", "outputUrls": ["https://pbs.twimg.com/media/Example.jpg"], "evidence": "Actual visual inspection and source match"},
+    "reference": {"status": "verified", "evidence": "Required reference inputs verified; omit for text-to-image"},
+    "duplicate": {
+      "status": "cleared",
+      "evidence": "Reviewed the current similarity report",
+      "pairs": [{"id": "existing-case-id", "promptHash": "<normalized hash of the other prompt>", "status": "distinct", "evidence": "Explain substantive concept/style/composition difference"}],
+      "imageMatches": [{"url": "https://pbs.twimg.com/media/Example.jpg", "status": "distinct", "evidence": "Explain distinct reusable task despite media match"}]
+    },
+    "rights": {
+      "prompt": {"status": "cleared", "basis": "Applicable permission or license", "evidence": "Specific evidence"},
+      "media": [{"url": "https://pbs.twimg.com/media/Example.jpg", "status": "cleared", "basis": "Applicable permission or license", "evidence": "Specific evidence"}]
+    }
+  }
+]
+```
+
+Require real evidence, not the literal sample or an assertion that the post is public. Each included image, including input images, requires separate rights evidence. A non-input example must have confirmed output role. Each retrieved similarity or media-match pair must be resolved or excluded; do not apply unreviewed similarity. Staging reports blocked records, never overwrites old shards, and registers X authors generically. Build/check are deterministic checks, not substitutes for visual/rights review.

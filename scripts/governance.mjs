@@ -1,4 +1,5 @@
 import { exclusionMatches } from './review-exclusions.mjs';
+import { isXCollector,hasXPermission } from './x-source.mjs';
 // Deterministic content triage. Scores are metadata completeness, not aesthetic/model verification.
 const rules=[
  ['ui-mockups',/ui\/ux|landing page|website mockup|app interface|interface mockup|social media (?:feed|post|interface)|livestream interface|live.stream screenshot|wechat moments|screenshot of|社交.{0,5}截图|直播.{0,8}截图|朋友圈|界面|网页|应用样机|直播间|微博|抖音.*截图|小红书.*截图|网站设计|ui设计/i],
@@ -34,14 +35,14 @@ const transform=/\btransform\s+(?:only\s+)?(?:the|this|my|your|an|a)\b|\bconvert
 const style=/illustration|sketch|watercolor|anime|cartoon|doodle|chibi|painting|graphite|hand.drawn|pixel art|crochet|clay|collectible figure|插画|手绘|动漫|水彩|素描|涂鸦|重绘|黏土|玩偶|风格/i;
 const norm=s=>s.normalize('NFKC').toLowerCase().replace(/\s+/g,' ').trim();
 export function classifyContent(r){
- const title=r.title.en??r.title.zh??'',p=r.prompt?.original??'',head=p.replace(/^\s*\[(?:中文|English)\]\s*/i,'').slice(0,1100),path=r.provenance.collectedFrom[0].path;
+ const title=r.title.en??r.title.zh??'',p=r.prompt?.original??'',head=p.replace(/^\s*\[(?:中文|English)\]\s*/i,'').slice(0,1100),path=r.provenance.collectedFrom[0].path??'';
  const missing=/^\s*(?:原文未公开|提示词未公开|未提供提示词|prompt (?:not|was not) (?:provided|published|available)|no prompt (?:provided|available))/i.test(p);
  const reference=explicitRef.test(p)||/\b(?:same person|same face|use this character|use the first image)\b|同一个人|使用这个角色/i.test(head)||r.inputMode==='reference-to-image';
  const isEditPath=/\/editing\.md$/.test(path),specific=editObject.find(([,re])=>re.test(head));
  const preserve=/keep.{0,80}(?:background|everything else|all other|original pixels|unchanged)|preserv.{0,60}(?:exact pose|original background|composition|original pixels)|do not change anything else|原画的画素|元画の画素|其他.{0,12}不变|背景.{0,8}不变|保持原始.{0,12}(?:构图|背景)|保持.{0,8}原图/i.test(p);
  let type='generation',category='other',mode='unknown',confidence='medium',reason='prompt-category';
  if(r.provenance.collectedFrom[0].sourceId==='prompthero'&&r.sourceMeta?.review?.qualityStatus==='recommended'&&!missing){const confidence=r.sourceMeta.review.classificationConfidence;return {type:r.type,category:r.category,inputMode:r.inputMode,confidence:['high','medium','low'].includes(confidence)?confidence:'low',reason:'reviewed-collector-export'};}
- if(r.provenance.collectedFrom[0].sourceId==='aweniai'&&r.sourceMeta?.review?.qualityStatus==='recommended'&&!missing){const confidence=r.sourceMeta.review.classificationConfidence;return {type:r.type,category:r.category,inputMode:r.inputMode,confidence:['high','medium','low'].includes(confidence)?confidence:'low',reason:'reviewed-collector-export'};}
+ if((isXCollector(r)||r.provenance.collectedFrom[0].sourceId==='aweniai')&&r.sourceMeta?.review?.qualityStatus==='recommended'&&!missing){const confidence=r.sourceMeta.review.classificationConfidence;return {type:r.type,category:r.category,inputMode:r.inputMode,confidence:['high','medium','low'].includes(confidence)?confidence:'low',reason:'reviewed-collector-export'};}
  if(r.provenance.collectedFrom[0].sourceId==='vcl'&&r.inputMode==='text-to-image')return {type:'generation',category:r.category,inputMode:'text-to-image',confidence:'high',reason:'reviewed-source-recipe'};
  if(missing)return {type:'unclassified',category:'other',inputMode:'unknown',confidence:'low',reason:'prompt-unavailable'};
  const overrides={
@@ -116,7 +117,7 @@ export function govern(records,exclusions=[]){
  if(c.inputMode==='reference-to-image')tagList.push('reference-image');
  if(c.type==='editing')tagList.push('image-editing');
  const score=(visible?2:0)+(r.provenance.originalSource.url?1:0)+(c.confidence==='high'?1:0)+(c.inputMode!=='unknown'?1:0);
- const item={...c,tags:[...new Set(tagList)],quality:{status:manual.has(r.id)?'manual-excluded':visible?'metadata-complete':'needs-content-review',score,flags,imageAvailability:'unchecked',imagePromptMatch:'unchecked',reproduction:'untested',rights:r.rights.prompt==='CC-BY-4.0'&&r.rights.media==='CC-BY-4.0'&&r.rights.evidence?'license-documented':'pending-review'},visible};
+ const item={...c,tags:[...new Set(tagList)],quality:{status:manual.has(r.id)?'manual-excluded':visible?'metadata-complete':'needs-content-review',score,flags,imageAvailability:'unchecked',imagePromptMatch:'unchecked',reproduction:'untested',rights:r.rights.prompt==='CC-BY-4.0'&&r.rights.media==='CC-BY-4.0'&&r.rights.evidence?'license-documented':hasXPermission(r)?'permission-documented':'pending-review'},visible};
  metadata[r.id]=item;rows.push({...r,...c,tags:item.tags,quality:item.quality,visible});
  }
  const dedup=selectCanonical(rows,duplicates), removedById=new Map(dedup.removed.map(r=>[r.id,r]));

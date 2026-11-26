@@ -53,6 +53,8 @@
     "url": "https://x.com/AWENIAI",
     "mode": "manual-collector-export",
     "license": "Per creator / platform terms",
-    "snapshotSha256": "4271663685af66a064e2b11da4f503493dea775306f5d029e32902c3401c030c"
+    "snapshotSha256": "4271663685af66a064e2b11da4f503493dea775306f5d029e32902c3401c030c",
+    "platform": "x",
+    "username": "AWENIAI"
   }
 ]
