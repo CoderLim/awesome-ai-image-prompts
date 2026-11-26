@@ -1,6 +1,6 @@
 import {test} from 'node:test';
 import assert from 'node:assert/strict';
-import {classifyContent,govern,governanceFiles,selectCanonical} from './governance.mjs';
+import {classifyContent,govern,governanceFiles,selectCanonical,galleryView} from './governance.mjs';
 const make=(id,p,title='Generic')=>({id,title:{en:title},prompt:{original:p},inputMode:'unknown',sourcePreview:{images:[{url:'https://example.com/'+id+'.jpg'}]},provenance:{originalSource:{url:'https://x.com/test/status/123',postId:'123'},collectedFrom:[{path:'docs/gallery-part-1.md',url:'https://example.com/source'}]},rights:{prompt:'unknown',media:'unknown'}});
 test('actual prompt outranks misleading generic title',()=>{assert.equal(classifyContent(make('a','Create a UI/UX landing page mockup','Portrait')).category,'ui-mockups');});
 test('reference portraits are generation rather than local edits',()=>{const c=classifyContent(make('a','Create a fashion editorial portrait using the uploaded face reference image. Preserve the facial identity.'));assert.equal(c.type,'generation');assert.equal(c.inputMode,'reference-to-image');});
@@ -26,4 +26,11 @@ test('deduplicate both post and prompt transitively, prefer complete case, leave
 test('retained selection independent of source order',()=>{
  const a=make('a','Create a portrait'),b=make('b','Create a portrait');
  assert.deepEqual(govern([a,b]).dedup,govern([b,a]).dedup);
+});
+
+test('reference generation and editing share one gallery without losing operation metadata',()=>{
+ const rows=[{id:'text',type:'generation',inputMode:'text-to-image',category:'portraits',visible:true},{id:'ref',type:'generation',inputMode:'reference-to-image',category:'portraits',visible:true},{id:'edit',type:'editing',inputMode:'image-editing',category:'restyle',visible:true},{id:'unknown',type:'generation',inputMode:'unknown',category:'other',visible:true},{id:'hidden',type:'editing',inputMode:'image-editing',category:'restyle',visible:false}];
+ const view=galleryView(rows,{generation:['portraits','other'],editing:['restyle','other']});
+ assert.deepEqual(view.rows.map(r=>[r.id,r.type,r.operationType]),[['text','generation','generation'],['ref','reference','generation'],['edit','reference','editing'],['unknown','generation','generation']]);
+ assert.deepEqual(view.taxonomy.reference,['portraits','other','restyle']);
 });
