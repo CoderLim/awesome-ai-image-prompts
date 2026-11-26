@@ -4,21 +4,19 @@
 
 [1](posters.md) · [2](posters-2.md) · [3](posters-3.md) · [4](posters-4.md) · **5**
 
-Source images are externally hosted and creator-attributed; previews are not independently reproduced. Follow the case link for the full original prompt. Image roles are unverified unless identified by the source.
+Source examples are not independently reproduced. Long prompts link to their full text.
 
 <a id="freestylefly-case-531"></a>
 
 ## 水晶框国家旅行广告海报
 
-<a href="https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-531"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case531.jpg" width="520" alt="Source example"></a>
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case531.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case531.jpg" width="480" alt="Source example"></a>
 
-**Prompt preview**
+**Prompt**
 
 <blockquote>Create a luxurious, dreamy country travel-art collection in the exact visual language of an elegant …</blockquote>
 
-**[Read full original prompt →](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-531)**
-
-Creator: @Taaruk\_ · [Original post](https://x.com/Taaruk_/status/2091391283063361558) · Collected from: [freestylefly](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-531)
+By [@Taaruk\_](https://x.com/Taaruk_/status/2091391283063361558) · [Full prompt](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-531)
 
 ---
 
@@ -26,15 +24,13 @@ Creator: @Taaruk\_ · [Original post](https://x.com/Taaruk_/status/2091391283063
 
 ## 地下档案馆暗黑概念海报
 
-<a href="https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-537"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case537.jpg" width="520" alt="Source example"></a>
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case537.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case537.jpg" width="480" alt="Source example"></a>
 
-**Prompt preview**
+**Prompt**
 
 <blockquote>Use case: stylized-concept Asset type: vertical social-media artwork for the “Your Dark Side” theme …</blockquote>
 
-**[Read full original prompt →](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-537)**
-
-Creator: @PromptSin · [Original post](https://x.com/PromptSin/status/2092390329890849163) · Collected from: [freestylefly](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-537)
+By [@PromptSin](https://x.com/PromptSin/status/2092390329890849163) · [Full prompt](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-537)
 
 ---
 
@@ -42,15 +38,13 @@ Creator: @PromptSin · [Original post](https://x.com/PromptSin/status/2092390329
 
 ## 橡皮章旅行田野笔记海报
 
-<a href="https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-538"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case538.jpg" width="520" alt="Source example"></a>
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case538.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case538.jpg" width="480" alt="Source example"></a>
 
-**Prompt preview**
+**Prompt**
 
 <blockquote>Rubber Stamp Travel Field Notes Poster — Natural Realism Version Create a separate “Rubber Stamp Tra…</blockquote>
 
-**[Read full original prompt →](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-538)**
-
-Creator: @MahnoorAi12 · [Original post](https://x.com/MahnoorAi12/status/2092221482139349307) · Collected from: [freestylefly](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-538)
+By [@MahnoorAi12](https://x.com/MahnoorAi12/status/2092221482139349307) · [Full prompt](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-538)
 
 ---
 
@@ -58,15 +52,13 @@ Creator: @MahnoorAi12 · [Original post](https://x.com/MahnoorAi12/status/209222
 
 ## 粗粝手绘搭档肖像海报
 
-<a href="https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-539"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case539.jpg" width="520" alt="Source example"></a>
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case539.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case539.jpg" width="480" alt="Source example"></a>
 
-**Prompt preview**
+**Prompt**
 
 <blockquote>Raw sketchy graphic portrait poster of [HUMAN] wearing [CLOTHING], half-body and large in frame, acc…</blockquote>
 
-**[Read full original prompt →](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-539)**
-
-Creator: @kingofdairyque · [Original post](https://x.com/kingofdairyque/status/2093279729717780736) · Collected from: [freestylefly](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-539)
+By [@kingofdairyque](https://x.com/kingofdairyque/status/2093279729717780736) · [Full prompt](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-539)
 
 ---
 
@@ -74,15 +66,13 @@ Creator: @kingofdairyque · [Original post](https://x.com/kingofdairyque/status/
 
 ## 梦幻未来城市编辑艺术海报
 
-<a href="https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-540"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case540.jpg" width="520" alt="Source example"></a>
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case540.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case540.jpg" width="480" alt="Source example"></a>
 
-**Prompt preview**
+**Prompt**
 
 <blockquote>Create a visually unforgettable editorial art poster of a dreamlike futuristic world where familiar …</blockquote>
 
-**[Read full original prompt →](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-540)**
-
-Creator: @Naiknelofar788 · [Original post](https://x.com/Naiknelofar788/status/2093230701986672924) · Collected from: [freestylefly](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-540)
+By [@Naiknelofar788](https://x.com/Naiknelofar788/status/2093230701986672924) · [Full prompt](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-540)
 
 ---
 
@@ -90,15 +80,13 @@ Creator: @Naiknelofar788 · [Original post](https://x.com/Naiknelofar788/status/
 
 ## 黑白排版侧脸肖像海报
 
-<a href="https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-542"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case542.jpg" width="520" alt="Source example"></a>
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case542.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case542.jpg" width="480" alt="Source example"></a>
 
-**Prompt preview**
+**Prompt**
 
 <blockquote>High-contrast black and white typographic portrait poster of [HUMAN], shown in side profile with [FE…</blockquote>
 
-**[Read full original prompt →](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-542)**
-
-Creator: @HustleXR · [Original post](https://x.com/HustleXR/status/2093206386012230000) · Collected from: [freestylefly](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-542)
+By [@HustleXR](https://x.com/HustleXR/status/2093206386012230000) · [Full prompt](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-542)
 
 ---
 
@@ -106,15 +94,13 @@ Creator: @HustleXR · [Original post](https://x.com/HustleXR/status/209320638601
 
 ## 厚涂建筑地标艺术海报
 
-<a href="https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-545"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case545.jpg" width="520" alt="Source example"></a>
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case545.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case545.jpg" width="480" alt="Source example"></a>
 
-**Prompt preview**
+**Prompt**
 
 <blockquote>Create a sophisticated fine-art architectural painting of [STRUCTURE / LANDMARK], presented as a hig…</blockquote>
 
-**[Read full original prompt →](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-545)**
-
-Creator: @Naiknelofar788 · [Original post](https://x.com/Naiknelofar788/status/2093948869000495565) · Collected from: [freestylefly](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-545)
+By [@Naiknelofar788](https://x.com/Naiknelofar788/status/2093948869000495565) · [Full prompt](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-545)
 
 ---
 

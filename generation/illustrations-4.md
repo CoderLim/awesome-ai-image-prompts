@@ -4,21 +4,19 @@
 
 [1](illustrations.md) · [2](illustrations-2.md) · [3](illustrations-3.md) · **4**
 
-Source images are externally hosted and creator-attributed; previews are not independently reproduced. Follow the case link for the full original prompt. Image roles are unverified unless identified by the source.
+Source examples are not independently reproduced. Long prompts link to their full text.
 
 <a id="freestylefly-case-452"></a>
 
 ## 极简童话手绘儿童插画
 
-<a href="https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-452"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case452.jpg" width="520" alt="Source example"></a>
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case452.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case452.jpg" width="480" alt="Source example"></a>
 
-**Prompt preview**
+**Prompt**
 
 <blockquote>Transform the photo into a delicate minimalist hand-drawn children’s illustration with a soft whimsi…</blockquote>
 
-**[Read full original prompt →](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-452)**
-
-Creator: @MissDelulu9 · [Original post](https://x.com/MissDelulu9/status/2057073936295399551) · Collected from: [freestylefly](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-452)
+By [@MissDelulu9](https://x.com/MissDelulu9/status/2057073936295399551) · [Full prompt](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-452)
 
 ---
 
@@ -26,15 +24,13 @@ Creator: @MissDelulu9 · [Original post](https://x.com/MissDelulu9/status/205707
 
 ## 巴黎秋季时装插画
 
-<a href="https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-458"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case458.jpg" width="520" alt="Source example"></a>
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case458.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case458.jpg" width="480" alt="Source example"></a>
 
-**Prompt preview**
+**Prompt**
 
 <blockquote>Full-body fashion illustration of a young woman walking down a Parisian street in autumn, wearing a …</blockquote>
 
-**[Read full original prompt →](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-458)**
-
-Creator: @heyfatema · [Original post](https://x.com/heyfatema/status/2057745100365787170) · Collected from: [freestylefly](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-458)
+By [@heyfatema](https://x.com/heyfatema/status/2057745100365787170) · [Full prompt](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-458)
 
 ---
 
@@ -42,15 +38,13 @@ Creator: @heyfatema · [Original post](https://x.com/heyfatema/status/2057745100
 
 ## 巴黎街头故事书插画
 
-<a href="https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-495"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case495.jpg" width="520" alt="Source example"></a>
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case495.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case495.jpg" width="480" alt="Source example"></a>
 
-**Prompt preview**
+**Prompt**
 
 <blockquote>Portrait illustration in a storybook style featuring a young adult woman exploring the streets of Pa…</blockquote>
 
-**[Read full original prompt →](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-495)**
-
-Creator: @MissDelulu9 · [Original post](https://x.com/MissDelulu9/status/2062376738500526347) · Collected from: [freestylefly](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-495)
+By [@MissDelulu9](https://x.com/MissDelulu9/status/2062376738500526347) · [Full prompt](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-495)
 
 ---
 
@@ -58,15 +52,13 @@ Creator: @MissDelulu9 · [Original post](https://x.com/MissDelulu9/status/206237
 
 ## 单色点缀旅行手账插画
 
-<a href="https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-513"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case513.jpg" width="520" alt="Source example"></a>
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case513.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case513.jpg" width="480" alt="Source example"></a>
 
-**Prompt preview**
+**Prompt**
 
 <blockquote>Create a charming editorial travel illustration of {DESTINATION} in a simple hand-drawn doodled styl…</blockquote>
 
-**[Read full original prompt →](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-513)**
-
-Creator: @Sairah\_0 · [Original post](https://x.com/Sairah_0/status/2071779087396606433) · Collected from: [freestylefly](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-513)
+By [@Sairah\_0](https://x.com/Sairah_0/status/2071779087396606433) · [Full prompt](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-513)
 
 ---
 
@@ -74,15 +66,13 @@ Creator: @Sairah\_0 · [Original post](https://x.com/Sairah_0/status/20717790873
 
 ## 曼哈顿公园水彩旅行插画
 
-<a href="https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-523"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case523.jpg" width="520" alt="Source example"></a>
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case523.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case523.jpg" width="480" alt="Source example"></a>
 
-**Prompt preview**
+**Prompt**
 
 <blockquote>Create a vertical editorial travel illustration inspired by vintage European travel posters, featuri…</blockquote>
 
-**[Read full original prompt →](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-523)**
-
-Creator: @Taaruk\_ · [Original post](https://x.com/Taaruk_/status/2090307485374578755) · Collected from: [freestylefly](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-523)
+By [@Taaruk\_](https://x.com/Taaruk_/status/2090307485374578755) · [Full prompt](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-523)
 
 ---
 
@@ -90,15 +80,13 @@ Creator: @Taaruk\_ · [Original post](https://x.com/Taaruk_/status/2090307485374
 
 ## 手绘涂鸦时尚人物插画
 
-<a href="https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-533"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case533.jpg" width="520" alt="Source example"></a>
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case533.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case533.jpg" width="480" alt="Source example"></a>
 
-**Prompt preview**
+**Prompt**
 
 <blockquote>Transform the subject from the reference image into a cute, quirky hand-drawn doodle illustration. U…</blockquote>
 
-**[Read full original prompt →](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-533)**
-
-Creator: @Sairah\_0 · [Original post](https://x.com/Sairah_0/status/2092473965927334071) · Collected from: [freestylefly](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-533)
+By [@Sairah\_0](https://x.com/Sairah_0/status/2092473965927334071) · [Full prompt](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-533)
 
 ---
 
@@ -106,15 +94,13 @@ Creator: @Sairah\_0 · [Original post](https://x.com/Sairah_0/status/20924739659
 
 ## 日系 Chibi 互动小插画
 
-<a href="https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-547"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case547.jpg" width="520" alt="Source example"></a>
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case547.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case547.jpg" width="480" alt="Source example"></a>
 
-**Prompt preview**
+**Prompt**
 
 <blockquote>Create a cute hand-drawn Japanese chibi illustration of two characters interacting in a sweet, playf…</blockquote>
 
-**[Read full original prompt →](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-547)**
-
-Creator: @Sairah\_0 · [Original post](https://x.com/Sairah_0/status/2093929087010246754) · Collected from: [freestylefly](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-547)
+By [@Sairah\_0](https://x.com/Sairah_0/status/2093929087010246754) · [Full prompt](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-547)
 
 ---
 
@@ -122,15 +108,13 @@ Creator: @Sairah\_0 · [Original post](https://x.com/Sairah_0/status/20939290870
 
 ## 国家旅行涂鸦地图插画
 
-<a href="https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-549"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case549.jpg" width="520" alt="Source example"></a>
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case549.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case549.jpg" width="480" alt="Source example"></a>
 
-**Prompt preview**
+**Prompt**
 
 <blockquote>Doodle Country Illustration [COUNTRY NAME] Create a charming, highly detailed hand-drawn doodle illu…</blockquote>
 
-**[Read full original prompt →](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-549)**
-
-Creator: @Naiknelofar788 · [Original post](https://x.com/Naiknelofar788/status/2093679919473840378) · Collected from: [freestylefly](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-549)
+By [@Naiknelofar788](https://x.com/Naiknelofar788/status/2093679919473840378) · [Full prompt](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-549)
 
 ---
 
