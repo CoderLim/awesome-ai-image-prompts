@@ -1,42 +1,10 @@
 # portraits
 
-[← Home](../README.md) · Page 7 / 35
+[← Home](../README.md) · Page 7 / 34
 
-[1](portraits.md) · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · [5](portraits-5.md) · [6](portraits-6.md) · **7** · [8](portraits-8.md) · [9](portraits-9.md) · [10](portraits-10.md) · [11](portraits-11.md) · [12](portraits-12.md) · [13](portraits-13.md) · [14](portraits-14.md) · [15](portraits-15.md) · [16](portraits-16.md) · [17](portraits-17.md) · [18](portraits-18.md) · [19](portraits-19.md) · [20](portraits-20.md) · [21](portraits-21.md) · [22](portraits-22.md) · [23](portraits-23.md) · [24](portraits-24.md) · [25](portraits-25.md) · [26](portraits-26.md) · [27](portraits-27.md) · [28](portraits-28.md) · [29](portraits-29.md) · [30](portraits-30.md) · [31](portraits-31.md) · [32](portraits-32.md) · [33](portraits-33.md) · [34](portraits-34.md) · [35](portraits-35.md)
+[1](portraits.md) · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · [5](portraits-5.md) · [6](portraits-6.md) · **7** · [8](portraits-8.md) · [9](portraits-9.md) · [10](portraits-10.md) · [11](portraits-11.md) · [12](portraits-12.md) · [13](portraits-13.md) · [14](portraits-14.md) · [15](portraits-15.md) · [16](portraits-16.md) · [17](portraits-17.md) · [18](portraits-18.md) · [19](portraits-19.md) · [20](portraits-20.md) · [21](portraits-21.md) · [22](portraits-22.md) · [23](portraits-23.md) · [24](portraits-24.md) · [25](portraits-25.md) · [26](portraits-26.md) · [27](portraits-27.md) · [28](portraits-28.md) · [29](portraits-29.md) · [30](portraits-30.md) · [31](portraits-31.md) · [32](portraits-32.md) · [33](portraits-33.md) · [34](portraits-34.md)
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
-
-<a id="prompthero-2b2215c518b"></a>
-
-## \(1girl, full body\), action scene, dynamic pose, sp\.\.\.
-
-<a href="https://cdn.prompthero.com/zy8ofi6bmkij8vxtf4jcrwn9yo2g-stable-diffusion-15-1girl-full-body-action-scene-dynamic-pose-spider-gwen-white-hair-cute-loose-bob-hairstyle-red-lips-small-breasts-toned.png"><img src="https://cdn.prompthero.com/zy8ofi6bmkij8vxtf4jcrwn9yo2g-stable-diffusion-15-1girl-full-body-action-scene-dynamic-pose-spider-gwen-white-hair-cute-loose-bob-hairstyle-red-lips-small-breasts-toned.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-(1girl, full body), action scene, dynamic pose, spider gwen, white hair, Cute Loose Bob hairstyle, red lips, small breasts, toned, dramatic lighting, (photorealistic:1.4), (photorealism:1.5), (8k, RAW photo, highest quality, masterpiece), ultra-high resolution, physics-based rendering, <lora:add_detail:1>
-```
-
-[Source](https://prompthero.com/prompt/2b2215c518b-stable-diffusion-15-1girl-full-body-action-scene-dynamic-pose-spider-gwen-white-hair-cute-loose-bob-hairstyle-red-lips-small-breasts-toned)
-
----
-
-<a id="prompthero-2c15e56e2a7"></a>
-
-## masterpiece, ultra realistic, harley quinn inspire\.\.\.
-
-<a href="https://cdn.prompthero.com/0xvqzsm32w32aaji3yncbkrfs71u-stable-diffusion-35-large-masterpiece-ultra-realistic-harley-quinn-inspired-girl-glowing-pastel-lighting-photorealistic-face-manga-style-eyes-sparkly-sheer-outfit-translucent-glowing.jpg"><img src="https://cdn.prompthero.com/0xvqzsm32w32aaji3yncbkrfs71u-stable-diffusion-35-large-masterpiece-ultra-realistic-harley-quinn-inspired-girl-glowing-pastel-lighting-photorealistic-face-manga-style-eyes-sparkly-sheer-outfit-translucent-glowing.jpg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-masterpiece, ultra realistic, harley quinn inspired girl, glowing pastel lighting, photorealistic face, manga style eyes, sparkly sheer outfit, translucent glowing mini skirt, soft makeup, detailed facial features, double ponytails, glowing accessories, cinematic fog, dreamy background, crystal light, seductive pose, glossy lips, volumetric light, fairycore aesthetic, whimsical atmosphere, UHD, 8k
-```
-
-[Source](https://prompthero.com/prompt/2c15e56e2a7-stable-diffusion-35-large-masterpiece-ultra-realistic-harley-quinn-inspired-girl-glowing-pastel-lighting-photorealistic-face-manga-style-eyes-sparkly-sheer-outfit-translucent-glowing)
-
----
 
 <a id="prompthero-2c82b674cf4"></a>
 
@@ -326,6 +294,38 @@ A woman in a traditional Chinese Hanfu dress, white kimono with red and black pa
 
 ---
 
-[1](portraits.md) · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · [5](portraits-5.md) · [6](portraits-6.md) · **7** · [8](portraits-8.md) · [9](portraits-9.md) · [10](portraits-10.md) · [11](portraits-11.md) · [12](portraits-12.md) · [13](portraits-13.md) · [14](portraits-14.md) · [15](portraits-15.md) · [16](portraits-16.md) · [17](portraits-17.md) · [18](portraits-18.md) · [19](portraits-19.md) · [20](portraits-20.md) · [21](portraits-21.md) · [22](portraits-22.md) · [23](portraits-23.md) · [24](portraits-24.md) · [25](portraits-25.md) · [26](portraits-26.md) · [27](portraits-27.md) · [28](portraits-28.md) · [29](portraits-29.md) · [30](portraits-30.md) · [31](portraits-31.md) · [32](portraits-32.md) · [33](portraits-33.md) · [34](portraits-34.md) · [35](portraits-35.md)
+<a id="prompthero-3cd43e5b03b"></a>
+
+## HDR photo of beautiful woman, long dark-brunette h\.\.\.
+
+<a href="https://cdn.prompthero.com/djrg5tjgon7qrxcft1j7zu0e206t-stable-diffusion-xl-base-09-hdr-photo-of-beautiful-woman-long-dark-brunette-hair-light-blue-eyes-fair-complexion-full-lips-hair-pulled-back-into.png"><img src="https://cdn.prompthero.com/djrg5tjgon7qrxcft1j7zu0e206t-stable-diffusion-xl-base-09-hdr-photo-of-beautiful-woman-long-dark-brunette-hair-light-blue-eyes-fair-complexion-full-lips-hair-pulled-back-into.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+HDR photo of beautiful woman, long dark-brunette hair, light-blue eyes, fair complexion, full lips, hair pulled back into a ponytail, sleeveless gown, sequin gown, (gold gown:1.1), sitting in a wicker chair, leaning to one side of the chair, outside in a field of (purple flowers:1.1), partly cloudy day, sun shining through the clouds, god rays perfect eyes . High dynamic range, vivid, rich details, clear shadows and highlights, realistic, intense, enhanced contrast, highly detailed
+```
+
+[Source](https://prompthero.com/prompt/3cd43e5b03b-stable-diffusion-xl-base-09-hdr-photo-of-beautiful-woman-long-dark-brunette-hair-light-blue-eyes-fair-complexion-full-lips-hair-pulled-back-into)
+
+---
+
+<a id="prompthero-3cdbd434fd8"></a>
+
+## photography, front, gaze, portrait, contrast, prof\.\.\.
+
+<a href="https://cdn.prompthero.com/v502rp9v9v9q053ubnrgh5wfybeq-midjourney-6-photography-front-gaze-portrait-contrast-profile-silhouette-of-a-man-against-a-vibrant-deep-blue-backdrop-blue-lighting-accentuates-the.png"><img src="https://cdn.prompthero.com/v502rp9v9v9q053ubnrgh5wfybeq-midjourney-6-photography-front-gaze-portrait-contrast-profile-silhouette-of-a-man-against-a-vibrant-deep-blue-backdrop-blue-lighting-accentuates-the.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+photography, front, gaze, portrait, contrast, profile silhouette of a man against a vibrant deep blue backdrop, blue lighting accentuates the contours of the face and hair, creating an intriguing interplay of light and shadow, mirrors the bold simplicity of a color field painting, subject rendered in a deep blue that stands out sharply against the monochrome blue, visualize using a camera setup that mimics a large aperture, such as f/1.4, to achieve a shallow depth of field, focusing solely on the silhouette's edge, photorealistic, UHD--ar 9:16 --style raw --stylize 700
+```
+
+By [@Grayve](https://prompthero.com/prompt/3cdbd434fd8-midjourney-6-photography-front-gaze-portrait-contrast-profile-silhouette-of-a-man-against-a-vibrant-deep-blue-backdrop-blue-lighting-accentuates-the)
+
+---
+
+[1](portraits.md) · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · [5](portraits-5.md) · [6](portraits-6.md) · **7** · [8](portraits-8.md) · [9](portraits-9.md) · [10](portraits-10.md) · [11](portraits-11.md) · [12](portraits-12.md) · [13](portraits-13.md) · [14](portraits-14.md) · [15](portraits-15.md) · [16](portraits-16.md) · [17](portraits-17.md) · [18](portraits-18.md) · [19](portraits-19.md) · [20](portraits-20.md) · [21](portraits-21.md) · [22](portraits-22.md) · [23](portraits-23.md) · [24](portraits-24.md) · [25](portraits-25.md) · [26](portraits-26.md) · [27](portraits-27.md) · [28](portraits-28.md) · [29](portraits-29.md) · [30](portraits-30.md) · [31](portraits-31.md) · [32](portraits-32.md) · [33](portraits-33.md) · [34](portraits-34.md)
 
 [← Home](../README.md)

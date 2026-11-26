@@ -1,58 +1,10 @@
 # portraits
 
-[← Home](../README.md) · Page 14 / 35
+[← Home](../README.md) · Page 14 / 34
 
-[1](portraits.md) · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · [5](portraits-5.md) · [6](portraits-6.md) · [7](portraits-7.md) · [8](portraits-8.md) · [9](portraits-9.md) · [10](portraits-10.md) · [11](portraits-11.md) · [12](portraits-12.md) · [13](portraits-13.md) · **14** · [15](portraits-15.md) · [16](portraits-16.md) · [17](portraits-17.md) · [18](portraits-18.md) · [19](portraits-19.md) · [20](portraits-20.md) · [21](portraits-21.md) · [22](portraits-22.md) · [23](portraits-23.md) · [24](portraits-24.md) · [25](portraits-25.md) · [26](portraits-26.md) · [27](portraits-27.md) · [28](portraits-28.md) · [29](portraits-29.md) · [30](portraits-30.md) · [31](portraits-31.md) · [32](portraits-32.md) · [33](portraits-33.md) · [34](portraits-34.md) · [35](portraits-35.md)
+[1](portraits.md) · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · [5](portraits-5.md) · [6](portraits-6.md) · [7](portraits-7.md) · [8](portraits-8.md) · [9](portraits-9.md) · [10](portraits-10.md) · [11](portraits-11.md) · [12](portraits-12.md) · [13](portraits-13.md) · **14** · [15](portraits-15.md) · [16](portraits-16.md) · [17](portraits-17.md) · [18](portraits-18.md) · [19](portraits-19.md) · [20](portraits-20.md) · [21](portraits-21.md) · [22](portraits-22.md) · [23](portraits-23.md) · [24](portraits-24.md) · [25](portraits-25.md) · [26](portraits-26.md) · [27](portraits-27.md) · [28](portraits-28.md) · [29](portraits-29.md) · [30](portraits-30.md) · [31](portraits-31.md) · [32](portraits-32.md) · [33](portraits-33.md) · [34](portraits-34.md)
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
-
-<a id="prompthero-011d06b41b5"></a>
-
-## Highest quality, perfect masterpiece, perfect art,\.\.\.
-
-<a href="https://cdn.prompthero.com/fbn81h3r7a4afsycgg9nqnmtujug-openjourney-4-highest-quality-perfect-masterpiece-perfect-art-8k-young-and-energetic-girl-tennis-wearing-pink-blue-red-color-block-sneakers-urban.png"><img src="https://cdn.prompthero.com/fbn81h3r7a4afsycgg9nqnmtujug-openjourney-4-highest-quality-perfect-masterpiece-perfect-art-8k-young-and-energetic-girl-tennis-wearing-pink-blue-red-color-block-sneakers-urban.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-Highest quality, perfect masterpiece, perfect art, 8K, (young and energetic girl, tennis, wearing pink-blue-red color-block sneakers, urban tennis style dressing, top is clean babes white T-shirt, light blue pleated skirt, socks with white as the main color pink stripes, with tennis rackets, the environment is a tennis court; The weather is clear and cloudy; The overall color tone is bright; thick coating style; , delicate face, white hair girl, (white hair: 1.3), medium and short hair, (black background: 1.3), pearl illusion, cyberpunk, fashion trends, 3s material, HD, detail performance, c4d, 3D, octane rendering, ray tracing, complex details, animated lighting, OCrenderer, 8k,
-```
-
-By [@heeyrina](https://prompthero.com/prompt/011d06b41b5-openjourney-4-highest-quality-perfect-masterpiece-perfect-art-8k-young-and-energetic-girl-tennis-wearing-pink-blue-red-color-block-sneakers-urban)
-
----
-
-<a id="prompthero-012a4ee180a"></a>
-
-## The image depicts a dramatic and eerie scene, set \.\.\.
-
-<a href="https://cdn.prompthero.com/ruvc3znd0n64f3gkh7ff3smx2j0y-flux-flux-11-pro-ultra-the-image-depicts-a-dramatic-and-eerie-scene-set-against-a-wide-panoramic-backdrop-of-dark-and-foreboding-landscape-at.jpg"><img src="https://cdn.prompthero.com/ruvc3znd0n64f3gkh7ff3smx2j0y-flux-flux-11-pro-ultra-the-image-depicts-a-dramatic-and-eerie-scene-set-against-a-wide-panoramic-backdrop-of-dark-and-foreboding-landscape-at.jpg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-The image depicts a dramatic and eerie scene, set against a wide, panoramic backdrop of dark and foreboding landscape. At the center of the image, a female vampire emerges from a coffin, her eyes gleaming with an otherworldly intensity. Her skin is pale and wan, with a subtle, ethereal quality that suggests a supernatural origin. Her dark hair cascades down her back, with subtle, shimmering highlights that catch the light. She wears a long, flowing white gown with a delicate blue floral pattern embroidered along the hem and sleeves. The dress is torn and tattered in places, with subtle, shimmering threads that catch the light. Her lips are painted a deep, bold red, and they are slightly parted, revealing prominent, pointed incisors. A subtle, crimson-tinted glow is visible at the corners of her mouth, and her eyes gleam with a hungry, intense gaze. Behind her, a male vampire stands, his eyes gleaming with an otherworldly intensity. His skin is also pale and wan, with a subtle, ethereal quality that suggests a supernatural origin. His long hair is dark and flowing, with subtle, shimmering highlights that catch the light. He wears a long, flowing dark red cloak with a subtle, intricate pattern embroidered along the hem and sleeves. The cloak is torn and tattered in places, with subtle, shimmering threads that catch the light. His lips are painted a deep, bold red, and they are slightly parted, revealing sharp, pointed teeth. A subtle, crimson-tinted glow is visible at the corners of his mouth, and his eyes gleam with a hungry, intense gaze. To the left of the image, the dark and twisted trees loom in the distance, their branches reaching out like skeletal fingers towards the sky. The trees are silhouetted against the dark and stormy sky, with clouds that appear to be swirling and twisting in every direction. On the right side of the image, the coffin itself is positioned, with the lid open, revealing the dark, mysterious interior. The coffin is adorned with intricate, carved wooden decorations, and it is lined with a soft, white material that appears to be silk or satin. The overall atmosphere of the image is one of eerie, suspenseful foreboding, suggesting that something supernatural or mystical is about to occur.
-```
-
-[Source](https://prompthero.com/prompt/012a4ee180a-flux-flux-11-pro-ultra-the-image-depicts-a-dramatic-and-eerie-scene-set-against-a-wide-panoramic-backdrop-of-dark-and-foreboding-landscape-at)
-
----
-
-<a id="prompthero-012a815a8f9"></a>
-
-## architectural photography head shot photo of a 24-\.\.\.
-
-<a href="https://cdn.prompthero.com/qhtso4uee5tybvveyqr8lubsti7z-flux-dev-architectural-photography-head-shot-photo-of-a-24-year-old-tongan-kikuyu-female-graceful-swimmer-with-a-warm-and-inviting.png"><img src="https://cdn.prompthero.com/qhtso4uee5tybvveyqr8lubsti7z-flux-dev-architectural-photography-head-shot-photo-of-a-24-year-old-tongan-kikuyu-female-graceful-swimmer-with-a-warm-and-inviting.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-architectural photography head shot photo of a 24-year-old Tongan-Kikuyu female graceful swimmer with a warm and inviting expression. She has Caramel skin with a warm glow, reflecting light with a soft shimmer. She wears subtle makeup, with a hint of blush on her cheeks and a natural pink shade on her lips, the skin pores and texture are clearly visible and in focus. Her Thin crescent eyes, Twinkling, topaz eyes, framed by long, elegant eyelashes. Her Blunt bob with sleek edges. Her eyebrows are neatly shaped, complementing her delicate facial features. Button-Up Shirt, midriff, Biker shorts. She poses One hand adjusting a cap, other hand in pocket , rule of thirds, in the background Subway stations, lights Clamshell lighting for soft beauty look the model is lighted with Candlelight in the style of Miko Lagerstedt
-```
-
-By [@AkiraS](https://prompthero.com/prompt/012a815a8f9-flux-dev-architectural-photography-head-shot-photo-of-a-24-year-old-tongan-kikuyu-female-graceful-swimmer-with-a-warm-and-inviting)
-
----
 
 <a id="prompthero-012ce232b42"></a>
 
@@ -326,6 +278,54 @@ an ultra high definition professional high fashion portrait studio full length p
 
 ---
 
-[1](portraits.md) · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · [5](portraits-5.md) · [6](portraits-6.md) · [7](portraits-7.md) · [8](portraits-8.md) · [9](portraits-9.md) · [10](portraits-10.md) · [11](portraits-11.md) · [12](portraits-12.md) · [13](portraits-13.md) · **14** · [15](portraits-15.md) · [16](portraits-16.md) · [17](portraits-17.md) · [18](portraits-18.md) · [19](portraits-19.md) · [20](portraits-20.md) · [21](portraits-21.md) · [22](portraits-22.md) · [23](portraits-23.md) · [24](portraits-24.md) · [25](portraits-25.md) · [26](portraits-26.md) · [27](portraits-27.md) · [28](portraits-28.md) · [29](portraits-29.md) · [30](portraits-30.md) · [31](portraits-31.md) · [32](portraits-32.md) · [33](portraits-33.md) · [34](portraits-34.md) · [35](portraits-35.md)
+<a id="prompthero-28d9718f072"></a>
+
+## Mecha Wars: Angel Burn
+
+<a href="https://cdn.prompthero.com/sqscrrbt6xe2jyev40aqrhzyog0k-stable-diffusion-xl-base-09-mecha-wars-angel-burn.jpg"><img src="https://cdn.prompthero.com/sqscrrbt6xe2jyev40aqrhzyog0k-stable-diffusion-xl-base-09-mecha-wars-angel-burn.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+A close-up photo of a very beautiful mecha girl, with dark tips beige blonde hair, angelic face, seductive eyes, pouty thin lips, white-silver armor, head accessories, HDR, ultra high-detail, bokeh, light bloom, cinematic lighting, illumination, depth of field, concept art, unreal engine 5, RTX, photorealistic
+```
+
+By [@abyishot](https://prompthero.com/prompt/28d9718f072-stable-diffusion-xl-base-09-mecha-wars-angel-burn)
+
+---
+
+<a id="prompthero-28d808485b5"></a>
+
+## \(masterpiece:1\.2\), best quality, absurdres, high d\.\.\.
+
+<a href="https://cdn.prompthero.com/r2ds2414uh3fsj7mfhldsvigs0fg-dreamshaper-6-baked-vae-masterpiece12-best-quality-absurdres-high-detail-sharp-focus-highly-detailed-face-and-eyes-photorealistic12-full-body-shot05-high-school-girl.jpg"><img src="https://cdn.prompthero.com/r2ds2414uh3fsj7mfhldsvigs0fg-dreamshaper-6-baked-vae-masterpiece12-best-quality-absurdres-high-detail-sharp-focus-highly-detailed-face-and-eyes-photorealistic12-full-body-shot05-high-school-girl.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+(masterpiece:1.2), best quality, absurdres, high detail, sharp focus, highly detailed face and eyes, (photorealistic:1.2), (full body shot:0.5), high school girl, medium brown hair, detailed high school uniform, (miniskirt), shopping, detailed mall interior background, volumetric lighting, global illumination, vivid color, reflection, soft shadow, depth of field, (epic pose, epic composition, epic proportion), (ultra detailed, finest detail, intricate), professional work.
+```
+
+[Source](https://prompthero.com/prompt/28d808485b5-dreamshaper-6-baked-vae-masterpiece12-best-quality-absurdres-high-detail-sharp-focus-highly-detailed-face-and-eyes-photorealistic12-full-body-shot05-high-school-girl)
+
+---
+
+<a id="prompthero-28e125917f8"></a>
+
+## female,A woman in a black sports bra and grey leg\.\.\.
+
+<a href="https://cdn.prompthero.com/vlocl11mhgxbdrbxgp2yp6aegwmv-flux-flux-11-pro-femalea-woman-in-a-black-sports-bra-and-grey-leggings-performs-a-yoga-pose-indoors-in-a-low-lunge-position.jpg"><img src="https://cdn.prompthero.com/vlocl11mhgxbdrbxgp2yp6aegwmv-flux-flux-11-pro-femalea-woman-in-a-black-sports-bra-and-grey-leggings-performs-a-yoga-pose-indoors-in-a-low-lunge-position.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+female,A woman in a black sports bra and grey leggings performs a yoga pose indoors, in a low lunge position with her right leg bent forward and left leg extended back. Her right arm reaches back to hold her left foot, and her left arm extends upward, arching over her head. She looks upwards with a serene expression. Background features a modern interior with warm lighting.
+```
+
+[Source](https://prompthero.com/prompt/28e125917f8-flux-flux-11-pro-femalea-woman-in-a-black-sports-bra-and-grey-leggings-performs-a-yoga-pose-indoors-in-a-low-lunge-position)
+
+---
+
+[1](portraits.md) · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · [5](portraits-5.md) · [6](portraits-6.md) · [7](portraits-7.md) · [8](portraits-8.md) · [9](portraits-9.md) · [10](portraits-10.md) · [11](portraits-11.md) · [12](portraits-12.md) · [13](portraits-13.md) · **14** · [15](portraits-15.md) · [16](portraits-16.md) · [17](portraits-17.md) · [18](portraits-18.md) · [19](portraits-19.md) · [20](portraits-20.md) · [21](portraits-21.md) · [22](portraits-22.md) · [23](portraits-23.md) · [24](portraits-24.md) · [25](portraits-25.md) · [26](portraits-26.md) · [27](portraits-27.md) · [28](portraits-28.md) · [29](portraits-29.md) · [30](portraits-30.md) · [31](portraits-31.md) · [32](portraits-32.md) · [33](portraits-33.md) · [34](portraits-34.md)
 
 [← Home](../README.md)

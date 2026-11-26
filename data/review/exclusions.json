@@ -487,6 +487,28 @@
     ]
   },
   {
+    "id": "evolink-illustration-case-168",
+    "keys": [
+      "id:evolink-illustration-case-168",
+      "post:2099864465013629192",
+      "prompt:69bb27198e5395ae523a40476cef0c21aad075eb4d463fd03889302175e23683"
+    ],
+    "reason": "template-duplicate",
+    "keepId": "evolink-illustration-case-166",
+    "reviewSource": "catalog-trigram-review-2026-11-26"
+  },
+  {
+    "id": "evolink-portraits-case-39",
+    "keys": [
+      "id:evolink-portraits-case-39",
+      "post:2101997368866402391",
+      "prompt:abed816fa50986d6668e8ce2d4219df9f6e03fc460674ae3361e150900cb4175"
+    ],
+    "reason": "template-duplicate",
+    "keepId": "evolink-portraits-case-38",
+    "reviewSource": "catalog-trigram-review-2026-11-26"
+  },
+  {
     "id": "evolink-sequential-art-case-242",
     "keys": [
       "id:evolink-sequential-art-case-242",
@@ -541,6 +563,28 @@
       "post:2097959984265130436",
       "prompt:21233ae9e612e1876dbfb939408f5b291fdd6b640a3e5cb88ceb3b7b68bba460"
     ]
+  },
+  {
+    "id": "evolink-travel-journals-case-215",
+    "keys": [
+      "id:evolink-travel-journals-case-215",
+      "post:2103696199488520632",
+      "prompt:3daf9a56f32baefc92ae041833c0ba77b681d9cf7c61941a7df72157e1888ebc"
+    ],
+    "reason": "template-duplicate",
+    "keepId": "evolink-travel-journals-case-208",
+    "reviewSource": "catalog-trigram-review-2026-11-26"
+  },
+  {
+    "id": "evolink-travel-journals-case-217",
+    "keys": [
+      "id:evolink-travel-journals-case-217",
+      "post:2103635959153938466",
+      "prompt:ee68234f0e5ece6f3b218f3e43785a64c7fadd44e18871a5b8f85004f883502b"
+    ],
+    "reason": "template-duplicate",
+    "keepId": "evolink-travel-journals-case-212",
+    "reviewSource": "catalog-trigram-review-2026-11-26"
   },
   {
     "id": "evolink-travel-journals-case-230",
@@ -775,5 +819,1039 @@
       "id:freestylefly-case-97",
       "prompt:cb9fab3fc8ad65009650c9cd6854a5c649a1d2d235862b07f0c8e3431d91efcf"
     ]
+  },
+  {
+    "id": "prompthero-00378c9832c",
+    "keys": [
+      "id:prompthero-00378c9832c",
+      "post:00378c9832c",
+      "prompt:52fb29ea60e9b337db3880b6def0876400c1e7398bb20c40ddbf5b63993c78e8"
+    ],
+    "reason": "template-duplicate",
+    "keepId": "prompthero-4d67fd58767",
+    "reviewSource": "v3-pair-45"
+  },
+  {
+    "id": "prompthero-00e5d3ac69e",
+    "keys": [
+      "id:prompthero-00e5d3ac69e",
+      "post:00e5d3ac69e",
+      "prompt:223d9ebed7c204b2ed365d89b842ebad85ce21338de0806ab9779b310892b0aa"
+    ],
+    "reason": "template-duplicate",
+    "keepId": "prompthero-dd8310db9f2",
+    "reviewSource": "v3-pair-77"
+  },
+  {
+    "id": "prompthero-02b087a52fa",
+    "keys": [
+      "id:prompthero-02b087a52fa",
+      "post:02b087a52fa",
+      "prompt:8b16b7d13033719858a3c846f3c2cdb7a2b9ce1fe0738bf4cae2768c3897497d"
+    ],
+    "reason": "template-duplicate",
+    "keepId": "prompthero-558ae4eb664",
+    "reviewSource": "catalog-trigram-review-2026-11-26"
+  },
+  {
+    "id": "prompthero-0329ff3fd5b",
+    "keys": [
+      "id:prompthero-0329ff3fd5b",
+      "post:0329ff3fd5b",
+      "prompt:382926e2855bee9cee20352289e47d08b9dc8f3a80cc33ebce028b3d8bab3238"
+    ],
+    "reason": "template-duplicate",
+    "keepId": "prompthero-e11a8fcaf00",
+    "reviewSource": "catalog-trigram-review-2026-11-26"
+  },
+  {
+    "id": "prompthero-083bba40e58",
+    "keys": [
+      "id:prompthero-083bba40e58",
+      "post:083bba40e58",
+      "prompt:3328282121659c21467c8c64f9764d8a71a927ef6f6aee17172ac1135cce9d81"
+    ],
+    "reason": "template-duplicate",
+    "keepId": "prompthero-9b437b4f37d",
+    "reviewSource": "catalog-trigram-review-2026-11-26"
+  },
+  {
+    "id": "prompthero-0f71736e134",
+    "keys": [
+      "id:prompthero-0f71736e134",
+      "post:0f71736e134",
+      "prompt:c639a0aaee17ec875f2d1166b0aca39c103a78cf976e7f3b4d84ba412cece3fa"
+    ],
+    "reason": "template-duplicate",
+    "keepId": "prompthero-31bbc905388",
+    "reviewSource": "v3-pair-88"
+  },
+  {
+    "id": "prompthero-0fc33eef6c6",
+    "keys": [
+      "id:prompthero-0fc33eef6c6",
+      "post:0fc33eef6c6",
+      "prompt:e3db40934eb34440904b23846b6f9de508ec02c72f2c8d2378562df62a1fe12e"
+    ],
+    "reason": "template-duplicate",
+    "keepId": "prompthero-d7a09fc8b07",
+    "reviewSource": "v3-pair-89"
+  },
+  {
+    "id": "prompthero-10082477c96",
+    "keys": [
+      "id:prompthero-10082477c96",
+      "post:10082477c96",
+      "prompt:0041084e064032e976a0d78b4bf54f34d510552943f584b14a08175b6669e3eb"
+    ],
+    "reason": "template-duplicate",
+    "keepId": "prompthero-9090feb1232",
+    "reviewSource": "v3-pair-46"
+  },
+  {
+    "id": "prompthero-106c6a97791",
+    "keys": [
+      "id:prompthero-106c6a97791",
+      "post:106c6a97791",
+      "prompt:f21ac1796e3211cc6b29be9d75f28e946568d83f48f28068105ba19f568a59b9"
+    ],
+    "reason": "template-duplicate",
+    "keepId": "prompthero-79b2ae458be",
+    "reviewSource": "v3-pair-54"
+  },
+  {
+    "id": "prompthero-10b3f6579f6",
+    "keys": [
+      "id:prompthero-10b3f6579f6",
+      "post:10b3f6579f6",
+      "prompt:ef56c7de4ab338873e3c97ec3b9d364a2689c4eabe95f94e439769a2fadbf6ef"
+    ],
+    "reason": "template-duplicate",
+    "keepId": "prompthero-72dd84ffd42",
+    "reviewSource": "v3-pair-48"
+  },
+  {
+    "id": "prompthero-1144688ec62",
+    "keys": [
+      "id:prompthero-1144688ec62",
+      "post:1144688ec62",
+      "prompt:3ebb6bd86037f6f91273c0a4a7fbbcb09e1b6bcbd7585b0b5474a446fd7b8743"
+    ],
+    "reason": "template-duplicate",
+    "keepId": "prompthero-716fbc33406",
+    "reviewSource": "v3-pair-92"
+  },
+  {
+    "id": "prompthero-121e3844167",
+    "keys": [
+      "id:prompthero-121e3844167",
+      "post:121e3844167",
+      "prompt:98292198fb3a2e1d69bb442c57808064de22598dfc0c8964f1bb642dad6fde84"
+    ],
+    "reason": "template-duplicate",
+    "keepId": "prompthero-c855e76978a",
+    "reviewSource": "catalog-trigram-review-2026-11-26"
+  },
+  {
+    "id": "prompthero-12489ee83e1",
+    "keys": [
+      "id:prompthero-12489ee83e1",
+      "post:12489ee83e1",
+      "prompt:9fd4bc41ad25a5597131e7b896233af7c7246b601ea51f966b50d90b43203c37"
+    ],
+    "reason": "template-duplicate",
+    "keepId": "prompthero-1cfa58b7840",
+    "reviewSource": "v3-pair-36"
+  },
+  {
+    "id": "prompthero-13ebfb0bf78",
+    "keys": [
+      "id:prompthero-13ebfb0bf78",
+      "post:13ebfb0bf78",
+      "prompt:e348db96be30159c528b85b529fa3dd78eb85d319f546bb929b4d9a47e02988b"
+    ],
+    "reason": "template-duplicate",
+    "keepId": "prompthero-26fc1da943b",
+    "reviewSource": "catalog-trigram-review-2026-11-26"
+  },
+  {
+    "id": "prompthero-1da158ccf43",
+    "keys": [
+      "id:prompthero-1da158ccf43",
+      "post:1da158ccf43",
+      "prompt:d554a26377eb5944920f16ae571a1097b2848e6474c3ad5b8c453263c7c9e351"
+    ],
+    "reason": "template-duplicate",
+    "keepId": "prompthero-1b787270560",
+    "reviewSource": "v3-pair-75"
+  },
+  {
+    "id": "prompthero-221c8121a4f",
+    "keys": [
+      "id:prompthero-221c8121a4f",
+      "post:221c8121a4f",
+      "prompt:3dc5bf6f7067b19d590e214128f47fe0d50946a3a3cb0515ff0f06e1a682eb7b"
+    ],
+    "reason": "template-duplicate",
+    "keepId": "prompthero-8e361dcd578",
+    "reviewSource": "catalog-trigram-review-2026-11-26"
+  },
+  {
+    "id": "prompthero-231fbf23b35",
+    "keys": [
+      "id:prompthero-231fbf23b35",
+      "post:231fbf23b35",
+      "prompt:c46fd1bcfd7bed3c04973d1c1e6e93bf99a541dd54c07fce21d72ddd2daeb432"
+    ],
+    "reason": "template-duplicate",
+    "keepId": "prompthero-a11394df568",
+    "reviewSource": "v3-pair-57"
+  },
+  {
+    "id": "prompthero-27b935afced",
+    "keys": [
+      "id:prompthero-27b935afced",
+      "post:27b935afced",
+      "prompt:62d79c47ecaf5c496e10485023a358e1764fa5308e8e96be29f0342b9d6f105e"
+    ],
+    "reason": "template-duplicate",
+    "keepId": "prompthero-92fce837d3d",
+    "reviewSource": "v3-pair-23"
+  },
+  {
+    "id": "prompthero-2ab88abf161",
+    "keys": [
+      "id:prompthero-2ab88abf161",
+      "post:2ab88abf161",
+      "prompt:9ebac68af67ed1cdbe52f9e260ad224e4bef860d59ace101b9578460750bc7ad"
+    ],
+    "reason": "template-duplicate",
+    "keepId": "prompthero-093d644cfbb",
+    "reviewSource": "v3-pair-70"
+  },
+  {
+    "id": "prompthero-2c7973a4a8c",
+    "keys": [
+      "id:prompthero-2c7973a4a8c",
+      "post:2c7973a4a8c",
+      "prompt:83a69130fd9d656b0f8cce71ae6ab1704bb60410ef96be095384fa822c1ebc15"
+    ],
+    "reason": "template-duplicate",
+    "keepId": "prompthero-812dde8c057",
+    "reviewSource": "catalog-trigram-review-2026-11-26"
+  },
+  {
+    "id": "prompthero-304810840db",
+    "keys": [
+      "id:prompthero-304810840db",
+      "post:304810840db",
+      "prompt:8e8f61dc97b65f57f28b816082e877e511c03f2813dd219826f208c37913c9e4"
+    ],
+    "reason": "template-duplicate",
+    "keepId": "prompthero-26fc1da943b",
+    "reviewSource": "catalog-trigram-review-2026-11-26"
+  },
+  {
+    "id": "prompthero-3947bccd8c2",
+    "keys": [
+      "id:prompthero-3947bccd8c2",
+      "post:3947bccd8c2",
+      "prompt:60ac2b5de1d2c06ec155c57d621ae3b233edbbcb02bfd3fcf4133fca5c67c3f5"
+    ],
+    "reason": "template-duplicate",
+    "keepId": "prompthero-d864fb91e32",
+    "reviewSource": "v3-pair-7"
+  },
+  {
+    "id": "prompthero-39cdca169d1",
+    "keys": [
+      "id:prompthero-39cdca169d1",
+      "post:39cdca169d1",
+      "prompt:65e1f211da0049fd7b650c9d6c8ca2c804d1df8866775e438e50a215d8f6b885"
+    ],
+    "reason": "template-duplicate",
+    "keepId": "prompthero-0afc90760f5",
+    "reviewSource": "v3-pair-47"
+  },
+  {
+    "id": "prompthero-3d8d834076b",
+    "keys": [
+      "id:prompthero-3d8d834076b",
+      "post:3d8d834076b",
+      "prompt:84cf0b9c58d6e82feeb66bc91cd289c2bb3a5e338a3942c3ab54d301937a97f5"
+    ],
+    "reason": "template-duplicate",
+    "keepId": "prompthero-93ac0697241",
+    "reviewSource": "v3-pair-13"
+  },
+  {
+    "id": "prompthero-3dd85cc4e51",
+    "keys": [
+      "id:prompthero-3dd85cc4e51",
+      "post:3dd85cc4e51",
+      "prompt:16c4ed7b41a50678f06e7abf3f0180b63512e5c0223599aafec46c091eaa18cb"
+    ],
+    "reason": "template-duplicate",
+    "keepId": "prompthero-2c881805471",
+    "reviewSource": "catalog-trigram-review-2026-11-26"
+  },
+  {
+    "id": "prompthero-3e20f16cfe9",
+    "keys": [
+      "id:prompthero-3e20f16cfe9",
+      "post:3e20f16cfe9",
+      "prompt:fa72380c69f5fcc609ac532e34f92d8803900e620d1de9556e29e4fb4161b68b"
+    ],
+    "reason": "template-duplicate",
+    "keepId": "prompthero-997a94facac",
+    "reviewSource": "catalog-trigram-review-2026-11-26"
+  },
+  {
+    "id": "prompthero-4500233a013",
+    "keys": [
+      "id:prompthero-4500233a013",
+      "post:4500233a013",
+      "prompt:e4212fd1d2f1dae86007542a5b842b6f65bf8c8327c2d244c1cad605e0f31636"
+    ],
+    "reason": "template-duplicate",
+    "keepId": "prompthero-bd19d9b3b85",
+    "reviewSource": "catalog-trigram-review-2026-11-26"
+  },
+  {
+    "id": "prompthero-47f275a2c8e",
+    "keys": [
+      "id:prompthero-47f275a2c8e",
+      "post:47f275a2c8e",
+      "prompt:1ff328d9c00293558707b4f6b5282ceeb5f89b0c81591d4e98d83f1b3ca2efc6"
+    ],
+    "reason": "template-duplicate",
+    "keepId": "prompthero-d5de20b2423",
+    "reviewSource": "catalog-trigram-review-2026-11-26"
+  },
+  {
+    "id": "prompthero-488ea3a49b6",
+    "keys": [
+      "id:prompthero-488ea3a49b6",
+      "post:488ea3a49b6",
+      "prompt:3748bd5b79d29d77e631204365c689e7db910a3748f786874b18e4c3ea2048e2"
+    ],
+    "reason": "template-duplicate",
+    "keepId": "prompthero-2acd137d36c",
+    "reviewSource": "v3-pair-42"
+  },
+  {
+    "id": "prompthero-4c553a78e23",
+    "keys": [
+      "id:prompthero-4c553a78e23",
+      "post:4c553a78e23",
+      "prompt:c87f9bbf88a817de32eff781afe5e9e484f3fcbd31cf45590339f6260485d32b"
+    ],
+    "reason": "template-duplicate",
+    "keepId": "prompthero-0b7b879ba91",
+    "reviewSource": "v3-pair-66"
+  },
+  {
+    "id": "prompthero-4f1100feb03",
+    "keys": [
+      "id:prompthero-4f1100feb03",
+      "post:4f1100feb03",
+      "prompt:4fdb91afad34204312584b0dedeb848f5a69e99d2a8f60f60578daf31f560fcb"
+    ],
+    "reason": "template-duplicate",
+    "keepId": "prompthero-935b0975c3e",
+    "reviewSource": "v3-pair-61"
+  },
+  {
+    "id": "prompthero-5009403378a",
+    "keys": [
+      "id:prompthero-5009403378a",
+      "post:5009403378a",
+      "prompt:49cacd5ae1611d7cb83fc9ee21caacb89f7392083e2ee68209273083e0d697b5"
+    ],
+    "reason": "template-duplicate",
+    "keepId": "prompthero-db5e5a61eb2",
+    "reviewSource": "catalog-trigram-review-2026-11-26"
+  },
+  {
+    "id": "prompthero-5109f943425",
+    "keys": [
+      "id:prompthero-5109f943425",
+      "post:5109f943425",
+      "prompt:964a47f1b59778cdfecfa5009c7842857ca81c23d9a5df6e8b594902099322af"
+    ],
+    "reason": "template-duplicate",
+    "keepId": "prompthero-cbd7fca77f5",
+    "reviewSource": "v3-pair-15"
+  },
+  {
+    "id": "prompthero-53e0ca90fd5",
+    "keys": [
+      "id:prompthero-53e0ca90fd5",
+      "post:53e0ca90fd5",
+      "prompt:1d36c320b012839be0b7f73298dd627d399d738cc1c722819e92070267a4ea38"
+    ],
+    "reason": "template-duplicate",
+    "keepId": "prompthero-e1cf9ae6bb1",
+    "reviewSource": "v3-pair-65"
+  },
+  {
+    "id": "prompthero-53f29c4e0ac",
+    "keys": [
+      "id:prompthero-53f29c4e0ac",
+      "post:53f29c4e0ac",
+      "prompt:1d91e32065fddbb1b4424176228701ade5930bb05ec3755b7f1598f27018fdf8"
+    ],
+    "reason": "template-duplicate",
+    "keepId": "prompthero-36172e1ad2e",
+    "reviewSource": "catalog-trigram-review-2026-11-26"
+  },
+  {
+    "id": "prompthero-55463886eca",
+    "keys": [
+      "id:prompthero-55463886eca",
+      "post:55463886eca",
+      "prompt:aed824849b35bc6829186fc15c55c37d0b1248efa22313b86bc2419f6a8c9719"
+    ],
+    "reason": "template-duplicate",
+    "keepId": "prompthero-32777a01e62",
+    "reviewSource": "v3-pair-72"
+  },
+  {
+    "id": "prompthero-5567c3f7059",
+    "keys": [
+      "id:prompthero-5567c3f7059",
+      "post:5567c3f7059",
+      "prompt:fa36e6bf7afdb8517342adc7574525a6efe5d5609501f1d76fb16f856733a92d"
+    ],
+    "reason": "template-duplicate",
+    "keepId": "prompthero-937c6c925c1",
+    "reviewSource": "v3-pair-83"
+  },
+  {
+    "id": "prompthero-5d3115c6f0b",
+    "keys": [
+      "id:prompthero-5d3115c6f0b",
+      "post:5d3115c6f0b",
+      "prompt:0042aaf92c5094510392ab9b2d002bb8124121879750298d8fc348f0f770ef64"
+    ],
+    "reason": "template-duplicate",
+    "keepId": "prompthero-dcadf764f8a",
+    "reviewSource": "v3-pair-24"
+  },
+  {
+    "id": "prompthero-6335c7ddf3c",
+    "keys": [
+      "id:prompthero-6335c7ddf3c",
+      "post:6335c7ddf3c",
+      "prompt:8fcac3fee1ced53b5fde679b04921e61f6ecbf5b3a61705d32674006b05abed0"
+    ],
+    "reason": "template-duplicate",
+    "keepId": "prompthero-db626f9a2b8",
+    "reviewSource": "v3-pair-18"
+  },
+  {
+    "id": "prompthero-648c765748f",
+    "keys": [
+      "id:prompthero-648c765748f",
+      "post:648c765748f",
+      "prompt:05e51990c50af1526121bf36add9fffd7ebd2db4944a0741a83d971ac3b5827f"
+    ],
+    "reason": "template-duplicate",
+    "keepId": "prompthero-15871e84965",
+    "reviewSource": "v3-pair-35"
+  },
+  {
+    "id": "prompthero-656d3946030",
+    "keys": [
+      "id:prompthero-656d3946030",
+      "post:656d3946030",
+      "prompt:1535bd9dc8df98f5fd69b94791ed29aaf1eef4415509158ac9bff3713e3954c1"
+    ],
+    "reason": "template-duplicate",
+    "keepId": "prompthero-d7a09fc8b07",
+    "reviewSource": "v3-pair-87"
+  },
+  {
+    "id": "prompthero-66a2b65df89",
+    "keys": [
+      "id:prompthero-66a2b65df89",
+      "post:66a2b65df89",
+      "prompt:8b9b3b043834664bf9b9aa17eb87bab9cf80d204da27cae489faba040513ae86"
+    ],
+    "reason": "template-duplicate",
+    "keepId": "prompthero-025afb28307",
+    "reviewSource": "catalog-trigram-review-2026-11-26"
+  },
+  {
+    "id": "prompthero-66ba65c4058",
+    "keys": [
+      "id:prompthero-66ba65c4058",
+      "post:66ba65c4058",
+      "prompt:61a81b7a3a2cb30d39f6e5c8749fd12116ea69011cb1d5f934f50b5575ee250d"
+    ],
+    "reason": "template-duplicate",
+    "keepId": "prompthero-af7a50d39cd",
+    "reviewSource": "v3-pair-4"
+  },
+  {
+    "id": "prompthero-6f14ba1aa85",
+    "keys": [
+      "id:prompthero-6f14ba1aa85",
+      "post:6f14ba1aa85",
+      "prompt:0d25dc5140d49016dfbe086d8d5fbe6d9507eb269ce305b0d3719285f5b8385b"
+    ],
+    "reason": "template-duplicate",
+    "keepId": "prompthero-da00515e478",
+    "reviewSource": "v3-pair-32"
+  },
+  {
+    "id": "prompthero-71c2c37e09d",
+    "keys": [
+      "id:prompthero-71c2c37e09d",
+      "post:71c2c37e09d",
+      "prompt:d1e738cb7e2315b526b501ea52b7f2c3e2bb8333f38f9ebd72deb098c2745a50"
+    ],
+    "reason": "template-duplicate",
+    "keepId": "prompthero-3ca13bd7148",
+    "reviewSource": "v3-pair-17"
+  },
+  {
+    "id": "prompthero-7d23fe868a4",
+    "keys": [
+      "id:prompthero-7d23fe868a4",
+      "post:7d23fe868a4",
+      "prompt:0136b7c24efbca9d149bdb71ec87ba76526bf7c37461d90daaeeb59c3eee95b1"
+    ],
+    "reason": "template-duplicate",
+    "keepId": "prompthero-1e00201783c",
+    "reviewSource": "v3-pair-14"
+  },
+  {
+    "id": "prompthero-7dfec78858b",
+    "keys": [
+      "id:prompthero-7dfec78858b",
+      "post:7dfec78858b",
+      "prompt:15e1e15e5da985810e98a365d469e839e09d158bf3cc3a68b16fd17d45e8aa6c"
+    ],
+    "reason": "template-duplicate",
+    "keepId": "prompthero-5f6a67de4cf",
+    "reviewSource": "v3-pair-52"
+  },
+  {
+    "id": "prompthero-7e3574b18fd",
+    "keys": [
+      "id:prompthero-7e3574b18fd",
+      "post:7e3574b18fd",
+      "prompt:b9219f309df122f94fdad09dc04c048059587a8ab7d635d8b25b6e73ddaa8dc3"
+    ],
+    "reason": "template-duplicate",
+    "keepId": "prompthero-8887d8e2e22",
+    "reviewSource": "catalog-trigram-review-2026-11-26"
+  },
+  {
+    "id": "prompthero-863dbd8cfdb",
+    "keys": [
+      "id:prompthero-863dbd8cfdb",
+      "post:863dbd8cfdb",
+      "prompt:2167c4987358c19af74f7d3f182110717a39b74b53b681e75c2637fcd85aa6d3"
+    ],
+    "reason": "template-duplicate",
+    "keepId": "prompthero-32777a01e62",
+    "reviewSource": "v3-pair-68"
+  },
+  {
+    "id": "prompthero-86fb61a4173",
+    "keys": [
+      "id:prompthero-86fb61a4173",
+      "post:86fb61a4173",
+      "prompt:390ab43f9e0a8081b613e7f2e52be95a85fa2525f5b6cc58b2752f5b1ef2998a"
+    ],
+    "reason": "template-duplicate",
+    "keepId": "prompthero-f0cc63ce6b1",
+    "reviewSource": "v3-pair-21"
+  },
+  {
+    "id": "prompthero-89ce9997358",
+    "keys": [
+      "id:prompthero-89ce9997358",
+      "post:89ce9997358",
+      "prompt:cfa3c77ddfc0774c116cb17ae50d4a0f23608d116e5f72d5235499aa62ea8baf"
+    ],
+    "reason": "template-duplicate",
+    "keepId": "prompthero-dd8310db9f2",
+    "reviewSource": "v3-pair-73"
+  },
+  {
+    "id": "prompthero-8e959ac0002",
+    "keys": [
+      "id:prompthero-8e959ac0002",
+      "post:8e959ac0002",
+      "prompt:044f853e59a759f62b1098cac8b5db25a7d2275716e7d460e639a39014e7db70"
+    ],
+    "reason": "template-duplicate",
+    "keepId": "prompthero-49d61a37a0e",
+    "reviewSource": "v3-pair-63"
+  },
+  {
+    "id": "prompthero-902b71ea1dd",
+    "keys": [
+      "id:prompthero-902b71ea1dd",
+      "post:902b71ea1dd",
+      "prompt:2f33d309e11454f499ef3573386c755a4ae884ea0ecb36f4c0e0c92f85dfdb5d"
+    ],
+    "reason": "template-duplicate",
+    "keepId": "prompthero-513aafba2e1",
+    "reviewSource": "v3-pair-41"
+  },
+  {
+    "id": "prompthero-907c202d7d1",
+    "keys": [
+      "id:prompthero-907c202d7d1",
+      "post:907c202d7d1",
+      "prompt:d02f8f46629324a5ff933b066d189412c7b3e530f33c4428b242a04c1caba49b"
+    ],
+    "reason": "template-duplicate",
+    "keepId": "prompthero-213df9dc954",
+    "reviewSource": "catalog-trigram-review-2026-11-26"
+  },
+  {
+    "id": "prompthero-96ec4368edf",
+    "keys": [
+      "id:prompthero-96ec4368edf",
+      "post:96ec4368edf",
+      "prompt:aad9cd32ee18cb5627eb45d903e84c542020d3625873911ea25a3ba9db4b4b4e"
+    ],
+    "reason": "template-duplicate",
+    "keepId": "prompthero-958f3e65e4c",
+    "reviewSource": "catalog-trigram-review-2026-11-26"
+  },
+  {
+    "id": "prompthero-980d0b1aa16",
+    "keys": [
+      "id:prompthero-980d0b1aa16",
+      "post:980d0b1aa16",
+      "prompt:f86163ac32b1388955b727a13d0ae27f0e28a5a933f870cd33dce40527ba8232"
+    ],
+    "reason": "template-duplicate",
+    "keepId": "prompthero-af7a50d39cd",
+    "reviewSource": "v3-pair-3"
+  },
+  {
+    "id": "prompthero-98ea836b9cc",
+    "keys": [
+      "id:prompthero-98ea836b9cc",
+      "post:98ea836b9cc",
+      "prompt:9632fb9da36c1b2f58557638e5353c21543420f7c9f8aeefc610f0e049b2927d"
+    ],
+    "reason": "template-duplicate",
+    "keepId": "prompthero-9d2abdb1231",
+    "reviewSource": "v3-pair-8"
+  },
+  {
+    "id": "prompthero-99b54c0af88",
+    "keys": [
+      "id:prompthero-99b54c0af88",
+      "post:99b54c0af88",
+      "prompt:db348269c721dc0f85143028764f023aad1a29bb53d46e75176bf6de9e45b6bc"
+    ],
+    "reason": "template-duplicate",
+    "keepId": "prompthero-63b3dd4764c",
+    "reviewSource": "v3-pair-33"
+  },
+  {
+    "id": "prompthero-9b9ebf11f63",
+    "keys": [
+      "id:prompthero-9b9ebf11f63",
+      "post:9b9ebf11f63",
+      "prompt:90de236287e3a99364451eca4f28238a63bd469b91f6726cf77ef67d760d8f42"
+    ],
+    "reason": "template-duplicate",
+    "keepId": "prompthero-f0cc63ce6b1",
+    "reviewSource": "v3-pair-29"
+  },
+  {
+    "id": "prompthero-a285dcdc873",
+    "keys": [
+      "id:prompthero-a285dcdc873",
+      "post:a285dcdc873",
+      "prompt:dcb3f4eb328de219faf68b1173ca36c24e46dd944477cd18b2ef40c0ed5155bf"
+    ],
+    "reason": "template-duplicate",
+    "keepId": "prompthero-1dbc73e83f0",
+    "reviewSource": "catalog-trigram-review-2026-11-26"
+  },
+  {
+    "id": "prompthero-a7e59376ba2",
+    "keys": [
+      "id:prompthero-a7e59376ba2",
+      "post:a7e59376ba2",
+      "prompt:975417dc7b84775a380a87184731505a28aea66bd635e3055fb1cc798278d178"
+    ],
+    "reason": "template-duplicate",
+    "keepId": "prompthero-2c257f9cf57",
+    "reviewSource": "catalog-trigram-review-2026-11-26"
+  },
+  {
+    "id": "prompthero-ab0158d13f8",
+    "keys": [
+      "id:prompthero-ab0158d13f8",
+      "post:ab0158d13f8",
+      "prompt:1ec19762cd5871b40823570b300176264dec49363c8eb8471f9f0aa827450995"
+    ],
+    "reason": "template-duplicate",
+    "keepId": "prompthero-3e21bd9bb8e",
+    "reviewSource": "v3-pair-85"
+  },
+  {
+    "id": "prompthero-ac4734d636b",
+    "keys": [
+      "id:prompthero-ac4734d636b",
+      "post:ac4734d636b",
+      "prompt:e2e0d96b4ea36a38bf5ac825ec8074eaad1c4f08078dd9a6282e45f0b35a04c8"
+    ],
+    "reason": "template-duplicate",
+    "keepId": "prompthero-74997f783de",
+    "reviewSource": "v3-pair-50"
+  },
+  {
+    "id": "prompthero-b0e71920b52",
+    "keys": [
+      "id:prompthero-b0e71920b52",
+      "post:b0e71920b52",
+      "prompt:1f2985d0f765fd3b6fd54033c8f1003a8124a00d2ca5b1d2e95d6a5bc9e60543"
+    ],
+    "reason": "template-duplicate",
+    "keepId": "prompthero-87b7520efa1",
+    "reviewSource": "v3-pair-38"
+  },
+  {
+    "id": "prompthero-b4173e5811d",
+    "keys": [
+      "id:prompthero-b4173e5811d",
+      "post:b4173e5811d",
+      "prompt:8fdf2215929954a53c0581ec45b2786840bb09648cd983a49dd8d0f0f3a4371e"
+    ],
+    "reason": "template-duplicate",
+    "keepId": "prompthero-7f8b58e4cdf",
+    "reviewSource": "v3-pair-16"
+  },
+  {
+    "id": "prompthero-b5df224c20d",
+    "keys": [
+      "id:prompthero-b5df224c20d",
+      "post:b5df224c20d",
+      "prompt:f4a3d990e99d855d4683a36a4df029d28a2b4470ac2e843d7b29b8917a2e470c"
+    ],
+    "reason": "template-duplicate",
+    "keepId": "prompthero-cf21894a906",
+    "reviewSource": "v3-pair-30"
+  },
+  {
+    "id": "prompthero-b8aab110f7e",
+    "keys": [
+      "id:prompthero-b8aab110f7e",
+      "post:b8aab110f7e",
+      "prompt:2dd8b4be5e14dd0af0b6f585d5fbf581a017df8eae133616d1aba981a10d973d"
+    ],
+    "reason": "template-duplicate",
+    "keepId": "prompthero-571ddbfa0c4",
+    "reviewSource": "v3-pair-56"
+  },
+  {
+    "id": "prompthero-b91e4b308d6",
+    "keys": [
+      "id:prompthero-b91e4b308d6",
+      "post:b91e4b308d6",
+      "prompt:f128f5c2dd8ca483e7404bb5174a84bd0ec05121169900f27fb353e0a9e01948"
+    ],
+    "reason": "template-duplicate",
+    "keepId": "prompthero-23df2a7ff73",
+    "reviewSource": "catalog-trigram-review-2026-11-26"
+  },
+  {
+    "id": "prompthero-b98f69c311c",
+    "keys": [
+      "id:prompthero-b98f69c311c",
+      "post:b98f69c311c",
+      "prompt:c08a6da446c6d73ade8fff9367d2c6667d4a6482cd0f3a1d5f577ab573d21a04"
+    ],
+    "reason": "template-duplicate",
+    "keepId": "prompthero-268b10be29d",
+    "reviewSource": "v3-pair-79"
+  },
+  {
+    "id": "prompthero-c5006e67961",
+    "keys": [
+      "id:prompthero-c5006e67961",
+      "post:c5006e67961",
+      "prompt:8a911e4b45d77741a813b5e22d9e5080565c9c7d63c3f8cfff9eb1c54cb612a3"
+    ],
+    "reason": "template-duplicate",
+    "keepId": "prompthero-1cc0f793485",
+    "reviewSource": "v3-pair-74"
+  },
+  {
+    "id": "prompthero-cb9c7fcac70",
+    "keys": [
+      "id:prompthero-cb9c7fcac70",
+      "post:cb9c7fcac70",
+      "prompt:3800f4ba60cf0afdf4c8c22547a242b05710de2424038d8c55d38cacc4debc1d"
+    ],
+    "reason": "template-duplicate",
+    "keepId": "prompthero-dcadf764f8a",
+    "reviewSource": "v3-pair-53"
+  },
+  {
+    "id": "prompthero-cc6ba0f91ff",
+    "keys": [
+      "id:prompthero-cc6ba0f91ff",
+      "post:cc6ba0f91ff",
+      "prompt:c3a9f739828251fc802701136ace2e1015e9b3ae343187ab1c7166cc6b7ac8ca"
+    ],
+    "reason": "template-duplicate",
+    "keepId": "prompthero-66af2542298",
+    "reviewSource": "v3-pair-11"
+  },
+  {
+    "id": "prompthero-ce037fdb463",
+    "keys": [
+      "id:prompthero-ce037fdb463",
+      "post:ce037fdb463",
+      "prompt:3b75f15c43e617263a8c3e1426a787c95797ac6bef6c5a3c75d6688bafa86299"
+    ],
+    "reason": "template-duplicate",
+    "keepId": "prompthero-bd4aa8edaf6",
+    "reviewSource": "v3-pair-31"
+  },
+  {
+    "id": "prompthero-cfdd6ef42e3",
+    "keys": [
+      "id:prompthero-cfdd6ef42e3",
+      "post:cfdd6ef42e3",
+      "prompt:4b5eac0465e5d303014bd4e2225272e1a584b7934f7e23e32e06d71711287ca8"
+    ],
+    "reason": "template-duplicate",
+    "keepId": "prompthero-f314b7dcb31",
+    "reviewSource": "catalog-trigram-review-2026-11-26"
+  },
+  {
+    "id": "prompthero-d27a02b0e0d",
+    "keys": [
+      "id:prompthero-d27a02b0e0d",
+      "post:d27a02b0e0d",
+      "prompt:3a6637e5a0f9a6b6eb3e2fbf3d4938e63b72cabf748cfd6c4a72fa187976efd4"
+    ],
+    "reason": "template-duplicate",
+    "keepId": "prompthero-3b4d25f3a67",
+    "reviewSource": "catalog-trigram-review-2026-11-26"
+  },
+  {
+    "id": "prompthero-d58b375975e",
+    "keys": [
+      "id:prompthero-d58b375975e",
+      "post:d58b375975e",
+      "prompt:6ec89920861d89554321e7501bb973833609701f8319f4f2e8f704f25b015980"
+    ],
+    "reason": "template-duplicate",
+    "keepId": "prompthero-2130d69b8f3",
+    "reviewSource": "catalog-trigram-review-2026-11-26"
+  },
+  {
+    "id": "prompthero-d6b42afab22",
+    "keys": [
+      "id:prompthero-d6b42afab22",
+      "post:d6b42afab22",
+      "prompt:c63800f972ea2c12fd39557b97cdf957cb97857c8643bcfd28d5d9140b2b7dd8"
+    ],
+    "reason": "template-duplicate",
+    "keepId": "prompthero-891ce84337d",
+    "reviewSource": "catalog-trigram-review-2026-11-26"
+  },
+  {
+    "id": "prompthero-d86bd177e46",
+    "keys": [
+      "id:prompthero-d86bd177e46",
+      "post:d86bd177e46",
+      "prompt:3c1aaa0012d670f5e069c28b32a87a496dd7844617d4e226e1ad20fc7e75171c"
+    ],
+    "reason": "template-duplicate",
+    "keepId": "prompthero-1560ab05e03",
+    "reviewSource": "catalog-trigram-review-2026-11-26"
+  },
+  {
+    "id": "prompthero-d87745f6f23",
+    "keys": [
+      "id:prompthero-d87745f6f23",
+      "post:d87745f6f23",
+      "prompt:e645b41098a20ec31f30135556e3f88e0959962a3896fef8d89cd3ab24556e1d"
+    ],
+    "reason": "template-duplicate",
+    "keepId": "prompthero-e2bc62414f3",
+    "reviewSource": "v3-pair-55"
+  },
+  {
+    "id": "prompthero-d9446d1093c",
+    "keys": [
+      "id:prompthero-d9446d1093c",
+      "post:d9446d1093c",
+      "prompt:2718351bceeee4ef74baad26a0b83ce6e4250c97423d17255e254fae4fb4f4ec"
+    ],
+    "reason": "template-duplicate",
+    "keepId": "prompthero-9cec9f4de2d",
+    "reviewSource": "v3-pair-44"
+  },
+  {
+    "id": "prompthero-da4026631c5",
+    "keys": [
+      "id:prompthero-da4026631c5",
+      "post:da4026631c5",
+      "prompt:c19f4883c8b381674e80e51d273f063f56625fa9dc65a9200d3bb26fe8ab0c1a"
+    ],
+    "reason": "template-duplicate",
+    "keepId": "prompthero-7e6790663a2",
+    "reviewSource": "v3-pair-25"
+  },
+  {
+    "id": "prompthero-dac6f69ce98",
+    "keys": [
+      "id:prompthero-dac6f69ce98",
+      "post:dac6f69ce98",
+      "prompt:05d863228e73b7d5fec628cdaaa066f0037f9318618cedc243417624b76989c5"
+    ],
+    "reason": "template-duplicate",
+    "keepId": "prompthero-7f7c8b74d0b",
+    "reviewSource": "v3-pair-40"
+  },
+  {
+    "id": "prompthero-dc66f12f3cd",
+    "keys": [
+      "id:prompthero-dc66f12f3cd",
+      "post:dc66f12f3cd",
+      "prompt:0b1e2195b95e33c2f8b89a7cdae4841014f411856366a27c9f4ce526bd229f7a"
+    ],
+    "reason": "template-duplicate",
+    "keepId": "prompthero-36d4a0cca0f",
+    "reviewSource": "catalog-trigram-review-2026-11-26"
+  },
+  {
+    "id": "prompthero-e35522ac220",
+    "keys": [
+      "id:prompthero-e35522ac220",
+      "post:e35522ac220",
+      "prompt:a26b06e556bcec20133a742b92c6d8d664a2201df7475a63cf0f25fcd9e600cb"
+    ],
+    "reason": "template-duplicate",
+    "keepId": "prompthero-c5cde05631e",
+    "reviewSource": "catalog-trigram-review-2026-11-26"
+  },
+  {
+    "id": "prompthero-e5f7e49331e",
+    "keys": [
+      "id:prompthero-e5f7e49331e",
+      "post:e5f7e49331e",
+      "prompt:f4a7f430588e58c50d066ae1a5539c8991854edc303cf43622ef0b01054f07d5"
+    ],
+    "reason": "template-duplicate",
+    "keepId": "prompthero-1c2930d1911",
+    "reviewSource": "v3-pair-37"
+  },
+  {
+    "id": "prompthero-e6a9aca8998",
+    "keys": [
+      "id:prompthero-e6a9aca8998",
+      "post:e6a9aca8998",
+      "prompt:79e8eba00e865c81ba3580c6c01a1a1c9ecc2d0731a489638662d816b4ea078b"
+    ],
+    "reason": "template-duplicate",
+    "keepId": "prompthero-8f33d846c6a",
+    "reviewSource": "v3-pair-80"
+  },
+  {
+    "id": "prompthero-ed6fcad273e",
+    "keys": [
+      "id:prompthero-ed6fcad273e",
+      "post:ed6fcad273e",
+      "prompt:6468288e27b378f10d3af97efdd878ee108f1c13d913a0f9726f33c10c711d24"
+    ],
+    "reason": "template-duplicate",
+    "keepId": "prompthero-958f3e65e4c",
+    "reviewSource": "catalog-trigram-review-2026-11-26"
+  },
+  {
+    "id": "prompthero-ef18d37235b",
+    "keys": [
+      "id:prompthero-ef18d37235b",
+      "post:ef18d37235b",
+      "prompt:58cb62c5d205024e0f2f0b3611fcbbdf1a39715637229abb29c3389df279be82"
+    ],
+    "reason": "template-duplicate",
+    "keepId": "prompthero-de8453986d9",
+    "reviewSource": "v3-pair-22"
+  },
+  {
+    "id": "prompthero-ef853ecbd77",
+    "keys": [
+      "id:prompthero-ef853ecbd77",
+      "post:ef853ecbd77",
+      "prompt:6e3d766f9ff930a9f537f37d3bc2f088c1456b199737043ebeeb2cd76f958687"
+    ],
+    "reason": "template-duplicate",
+    "keepId": "prompthero-4577a444ffa",
+    "reviewSource": "v3-pair-20"
+  },
+  {
+    "id": "prompthero-f0c46c9ce69",
+    "keys": [
+      "id:prompthero-f0c46c9ce69",
+      "post:f0c46c9ce69",
+      "prompt:1c2a8557c02dc3cd7092c98bc2e598dffa715575307538c2ed3ae026f5fc1485"
+    ],
+    "reason": "template-duplicate",
+    "keepId": "prompthero-bb9e5b3bb0d",
+    "reviewSource": "catalog-trigram-review-2026-11-26"
+  },
+  {
+    "id": "prompthero-f0df2fdf530",
+    "keys": [
+      "id:prompthero-f0df2fdf530",
+      "post:f0df2fdf530",
+      "prompt:85e6f00114d60960ff265b9740bb48d58cec04fb9a7236d4c0a7f02fb1f10bf3"
+    ],
+    "reason": "template-duplicate",
+    "keepId": "prompthero-1560ab05e03",
+    "reviewSource": "catalog-trigram-review-2026-11-26"
+  },
+  {
+    "id": "prompthero-fa81f3cd4ad",
+    "keys": [
+      "id:prompthero-fa81f3cd4ad",
+      "post:fa81f3cd4ad",
+      "prompt:69a2f58908920c5851d85d141fdb141a38e5ac2ba8830c4f7cd76ff73599647f"
+    ],
+    "reason": "template-duplicate",
+    "keepId": "prompthero-1560ab05e03",
+    "reviewSource": "catalog-trigram-review-2026-11-26"
+  },
+  {
+    "id": "prompthero-fdd37d88c58",
+    "keys": [
+      "id:prompthero-fdd37d88c58",
+      "post:fdd37d88c58",
+      "prompt:721957b6cc3f07229a5c504029353f27c1760d8b8e665acefeab5fb310ab51cc"
+    ],
+    "reason": "template-duplicate",
+    "keepId": "prompthero-79b2ae458be",
+    "reviewSource": "v3-pair-28"
+  },
+  {
+    "id": "prompthero-fe5635afa15",
+    "keys": [
+      "id:prompthero-fe5635afa15",
+      "post:fe5635afa15",
+      "prompt:17de8ecf1641cd1084f422d8aeaabb46f44fb4e16092f8a8adae13189a3e700f"
+    ],
+    "reason": "template-duplicate",
+    "keepId": "prompthero-4577a444ffa",
+    "reviewSource": "v3-pair-49"
   }
 ]

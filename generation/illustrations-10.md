@@ -6,70 +6,6 @@
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
-<a id="prompthero-cd10dfb8254"></a>
-
-## a woman with long red hair in a gold painting, in \.\.\.
-
-<a href="https://cdn.prompthero.com/fhwspjkxptd3rd4i0iqtk7bcsi-seedream-4-seedream-45-a-woman-with-long-red-hair-in-a-gold-painting-in-the-style-of-charlie-bowater-dark-blue-and-dark.jpeg"><img src="https://cdn.prompthero.com/fhwspjkxptd3rd4i0iqtk7bcsi-seedream-4-seedream-45-a-woman-with-long-red-hair-in-a-gold-painting-in-the-style-of-charlie-bowater-dark-blue-and-dark.jpeg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-a woman with long red hair in a gold painting, in the style of charlie bowater, dark blue and dark black, michael garmash, comic art, realistic color palette, dark black and beige, soft-focused realism --ar 24:37 --stylize 750 --v 6
-```
-
-[Source](https://prompthero.com/prompt/cd10dfb8254-seedream-4-seedream-45-a-woman-with-long-red-hair-in-a-gold-painting-in-the-style-of-charlie-bowater-dark-blue-and-dark)
-
----
-
-<a id="prompthero-cfe30751643"></a>
-
-## stunning half body portrait of a beautiful young l\.\.\.
-
-<a href="https://cdn.prompthero.com/ckp6mo954wzq2q5hlw3xmb89vikb-stable-diffusion-xl-base-09-stunning-half-body-portrait-of-a-beautiful-young-lady-elegant-black-and-red-colors-minimalism-delicate-ink-lines-intricate-details.png"><img src="https://cdn.prompthero.com/ckp6mo954wzq2q5hlw3xmb89vikb-stable-diffusion-xl-base-09-stunning-half-body-portrait-of-a-beautiful-young-lady-elegant-black-and-red-colors-minimalism-delicate-ink-lines-intricate-details.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-stunning half body portrait of a beautiful young lady, elegant, black and red colors, minimalism, delicate ink lines, intricate details, 4k, absurdres, high resolution, high quality, oblique angle, by Milo Manara and Russ Mills, unforgettable, detailed illustration, 8k, very intricate
-```
-
-By [@ArtEnthusiast](https://prompthero.com/prompt/cfe30751643-stable-diffusion-xl-base-09-stunning-half-body-portrait-of-a-beautiful-young-lady-elegant-black-and-red-colors-minimalism-delicate-ink-lines-intricate-details)
-
----
-
-<a id="prompthero-d06c45ad838"></a>
-
-## Retro-Futuristic, Art Nouveau, Cyberpunk, double e\.\.\.
-
-<a href="https://cdn.prompthero.com/aet5brscouxh98arrr1vk6oi7byf-stable-diffusion-xl-base-09-retro-futuristic-art-nouveau-cyberpunk-double-exposure-two-parts-in-one-art-detailed-splatter-digital-painting-lines-art-acrylic-dynamic.jpg"><img src="https://cdn.prompthero.com/aet5brscouxh98arrr1vk6oi7byf-stable-diffusion-xl-base-09-retro-futuristic-art-nouveau-cyberpunk-double-exposure-two-parts-in-one-art-detailed-splatter-digital-painting-lines-art-acrylic-dynamic.jpg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-Retro-Futuristic, Art Nouveau, Cyberpunk, double exposure. Two parts in one art. Detailed splatter digital painting , lines art,  acrylic, dynamic on a cracked paper, close up. Cyberdemonic old male white-haired Santa and Snow maiden woman close together, portrait, detailed demon face, dynamic pose, light on face shadow play, perfect face, sharp  glowing eyes, in the style of James Jean, Craola, Andy Kehoe, Dorian Vallejo, Damian Lechoszest, Todd Lockwood, DamShelma, stained glass,  storybook illustration, unusual beautiful details, intricated, tiny details masterpiece, high quality, intricated lighting, luminism,
-```
-
-[Source](https://prompthero.com/prompt/d06c45ad838-stable-diffusion-xl-base-09-retro-futuristic-art-nouveau-cyberpunk-double-exposure-two-parts-in-one-art-detailed-splatter-digital-painting-lines-art-acrylic-dynamic)
-
----
-
-<a id="prompthero-d7f6a76861f"></a>
-
-## Santa with rudolph
-
-<a href="https://cdn.prompthero.com/x6yg5kyknjxegaep86vh1k6uzhvw-midjourney-6-santa-with-rudolph.png"><img src="https://cdn.prompthero.com/x6yg5kyknjxegaep86vh1k6uzhvw-midjourney-6-santa-with-rudolph.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-artistic illustration art piece, flat, featuring of gorgeous stained glass expression, santa with rudolph of christmas concept, golden ratio, perfection composition, simplify bold line, master piece, matte black with christmas mood background --ar 9:16 --quality 2 --style raw --personalize ue2yzjl --stylize 500 --v 6.1
-```
-
-By [@Grayve](https://prompthero.com/prompt/d7f6a76861f-midjourney-6-santa-with-rudolph)
-
----
-
 <a id="prompthero-d9fec3a2500"></a>
 
 ## \(masterpiece\), best quality, centered, 2D illustra\.\.\.
@@ -83,38 +19,6 @@ By [@Grayve](https://prompthero.com/prompt/d7f6a76861f-midjourney-6-santa-with-r
 ```
 
 [Source](https://prompthero.com/prompt/d9fec3a2500-dreamshaper-5-baked-vae-masterpiece-best-quality-centered-2d-illustration-anime-style-expressive-eyes-perfect-face-full-body-cinematic-shot-instagram-able-dynamic-pose)
-
----
-
-<a id="prompthero-d27a02b0e0d"></a>
-
-## Picture a dog portrayed with the artistic essence \.\.\.
-
-<a href="https://cdn.prompthero.com/qfby2iljmz3xy2xribaknf0rax-hero-10-picture-a-dog-portrayed-with-the-artistic-essence-of-qi-baishis-renowned-brushwork-the-dogs-form-is-captured-through-fluid.jpeg"><img src="https://cdn.prompthero.com/qfby2iljmz3xy2xribaknf0rax-hero-10-picture-a-dog-portrayed-with-the-artistic-essence-of-qi-baishis-renowned-brushwork-the-dogs-form-is-captured-through-fluid.jpeg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-Picture a dog portrayed with the artistic essence of Qi Baishi's renowned brushwork. The dog's form is captured through fluid, spontaneous lines that suggest its playful demeanor and agile nature. Using minimal strokes, Qi Baishi's signature style brings out the dog's character, emphasizing its curiosity and independence. The dog might be depicted in a simple yet evocative setting, surrounded by delicate depictions of flora or objects that offer a glimpse into its world. The overall scene carries a sense of whimsy and an appreciation for the beauty in everyday life, paying homage to the artistic legacy of Qi Baishi --ar 2:3 --v 5.2
-```
-
-[Source](https://prompthero.com/prompt/d27a02b0e0d-hero-10-picture-a-dog-portrayed-with-the-artistic-essence-of-qi-baishis-renowned-brushwork-the-dogs-form-is-captured-through-fluid)
-
----
-
-<a id="prompthero-d58b375975e"></a>
-
-## a silhouette design of a black panther, moonlight \.\.\.
-
-<a href="https://cdn.prompthero.com/9jcvw8obaipisdm0jw7d0ovt4edh-deliberate-11-a-silhouette-design-of-a-black-panther-moonlight-design-t-shirt-art-3d-vector-art-cute-and-quirky-bright-bold.jpg"><img src="https://cdn.prompthero.com/9jcvw8obaipisdm0jw7d0ovt4edh-deliberate-11-a-silhouette-design-of-a-black-panther-moonlight-design-t-shirt-art-3d-vector-art-cute-and-quirky-bright-bold.jpg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-a silhouette design of a black panther, moonlight design, t- shirt art, 3D vector art, cute and quirky, bright bold colorful., black background, watercolor effect, , digital painting, low-poly, soft lighting, bird's-eye view, isometric style, retro aesthetic, focused on the character, 4K resolution, photorealistic rendering, using Cinema 4D,front side
-```
-
-[Source](https://prompthero.com/prompt/d58b375975e-deliberate-11-a-silhouette-design-of-a-black-panther-moonlight-design-t-shirt-art-3d-vector-art-cute-and-quirky-bright-bold)
 
 ---
 
@@ -323,6 +227,102 @@ front view portrait photograph, negative contrast background,glowing sunshine, n
 ```
 
 [Source](https://prompthero.com/prompt/ea78f9c1c8c-dreamshaper-5-baked-vae-front-view-portrait-photograph-negative-contrast-backgroundglowing-sunshine-natural-light-very-strong-front-lightmasterpiece-best-quality-hyperdetailed-intricate-ultra-realistic)
+
+---
+
+<a id="prompthero-ed4dc40b629"></a>
+
+## Riva del Garda, North Italy III
+
+<a href="https://cdn.prompthero.com/nzatmdl740e4n63lkkw694qkmg68-stable-diffusion-xl-base-09-riva-del-garda-north-italy-iii.jpg"><img src="https://cdn.prompthero.com/nzatmdl740e4n63lkkw694qkmg68-stable-diffusion-xl-base-09-riva-del-garda-north-italy-iii.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+Wide angle view of Riva del Garda, mediteranian italian harbor scene, wet paper, watercolor vignette , dreamy, bright colors, intricate detail, soft lighting, master artist
+```
+
+[Source](https://prompthero.com/prompt/ed4dc40b629-stable-diffusion-xl-base-09-riva-del-garda-north-italy-iii)
+
+---
+
+<a id="prompthero-ee1678ced28"></a>
+
+## An incredible 3D illustration of depicting a garde\.\.\.
+
+<a href="https://cdn.prompthero.com/v3nz73232lqguv3ftfciqcul61l7-sd-xl-v10-refiner-vae-fix-take-care-ideogramphotoreal-v2glowwave-an-incredible-3d-illustration-of-depicting-a-gardener-standing-on-a-massive-globe-watering-the-globe-is-adorned-with-green.jpg"><img src="https://cdn.prompthero.com/v3nz73232lqguv3ftfciqcul61l7-sd-xl-v10-refiner-vae-fix-take-care-ideogramphotoreal-v2glowwave-an-incredible-3d-illustration-of-depicting-a-gardener-standing-on-a-massive-globe-watering-the-globe-is-adorned-with-green.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+An incredible 3D illustration of depicting a gardener standing on a massive globe, watering. The globe is adorned with green leaves and butterflies, symbolizing the planet's vitality and beauty. The background is a soft, serene beige hue, while the phrase "Take care of the Planet" is prominently displayed in 3D, crafted from green leaves and shadow, serving as a poignant reminder of our responsibility towards environmental conservation and appreciation.
+```
+
+By [@Atheist](https://prompthero.com/prompt/ee1678ced28-sd-xl-v10-refiner-vae-fix-take-care-ideogramphotoreal-v2glowwave-an-incredible-3d-illustration-of-depicting-a-gardener-standing-on-a-massive-globe-watering-the-globe-is-adorned-with-green)
+
+---
+
+<a id="prompthero-f0af471d952"></a>
+
+## cake happy new years 2024, close portrait , highly\.\.\.
+
+<a href="https://cdn.prompthero.com/3jjdyfw3ugmivn3lds4ubne73ajj-midjourney-52-cake-happy-new-years-2024-close-portrait-highly-realistic-standard-lens-35mm-85mm-natural-lighting-canon-sl3-dslr-white-background.png"><img src="https://cdn.prompthero.com/3jjdyfw3ugmivn3lds4ubne73ajj-midjourney-52-cake-happy-new-years-2024-close-portrait-highly-realistic-standard-lens-35mm-85mm-natural-lighting-canon-sl3-dslr-white-background.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+cake happy new years 2024, close portrait , highly realistic, standard lens 35mm-85mm, natural lighting, canon SL3 DSLR, white background, High quality, best quality, graphics, high resolution images,amazing quality, cinematic still, digital painting , highly detailed , 8k HD , 4k HD, dynamic lighting, intricate details, 32K HD, perfect composition, --c 25
+```
+
+By [@Dallas59](https://prompthero.com/prompt/f0af471d952-midjourney-52-cake-happy-new-years-2024-close-portrait-highly-realistic-standard-lens-35mm-85mm-natural-lighting-canon-sl3-dslr-white-background)
+
+---
+
+<a id="prompthero-f0fada82609"></a>
+
+## a character in kung pow, in the style of anime-ins\.\.\.
+
+<a href="https://cdn.prompthero.com/t2lhn2d4vgr7xx8ptt8x3lk8y1co-midjourney-6-a-character-in-kung-pow-in-the-style-of-anime-inspired-character-designs-bernardo-strozzi-grandeur-of-scale-light-navy.png"><img src="https://cdn.prompthero.com/t2lhn2d4vgr7xx8ptt8x3lk8y1co-midjourney-6-a-character-in-kung-pow-in-the-style-of-anime-inspired-character-designs-bernardo-strozzi-grandeur-of-scale-light-navy.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+a character in kung pow, in the style of anime-inspired character designs, bernardo strozzi, grandeur of scale, light navy and dark bronze, zen-inspired, ron embleton, realistic details --ar 19:25 --stylize 750 --v 6
+```
+
+By [@NorthmoorAI](https://prompthero.com/prompt/f0fada82609-midjourney-6-a-character-in-kung-pow-in-the-style-of-anime-inspired-character-designs-bernardo-strozzi-grandeur-of-scale-light-navy)
+
+---
+
+<a id="prompthero-f9bb07b6993"></a>
+
+## An extremely detailed and beautiful masterpiece of\.\.\.
+
+<a href="https://cdn.prompthero.com/gopqfn501l4rwyardq3zenu9o91n-counterfeit-v25-25-an-extremely-detailed-and-beautiful-masterpiece-of-socialist-realism-featuring-a-woman-with-a-pink-bandana-and-hat-inspired-by.png"><img src="https://cdn.prompthero.com/gopqfn501l4rwyardq3zenu9o91n-counterfeit-v25-25-an-extremely-detailed-and-beautiful-masterpiece-of-socialist-realism-featuring-a-woman-with-a-pink-bandana-and-hat-inspired-by.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+An extremely detailed and beautiful masterpiece of Socialist Realism, featuring a woman with a pink bandana and hat, inspired by Alexander Deyneka's Soviet painting style. Best quality and high resolution, with dynamic angles and lighting to bring the painting to life.
+```
+
+By [@heeyrina](https://prompthero.com/prompt/f9bb07b6993-counterfeit-v25-25-an-extremely-detailed-and-beautiful-masterpiece-of-socialist-realism-featuring-a-woman-with-a-pink-bandana-and-hat-inspired-by)
+
+---
+
+<a id="prompthero-f20ef0410c9"></a>
+
+## broken but ready to fight, gloomy background, epic\.\.\.
+
+<a href="https://cdn.prompthero.com/h1ktgtes2cyb5kmlt9ozpd9dqyuj-stable-diffusion-xl-base-09-broken-but-ready-to-fight-gloomy-background-epic-composition-brutal-cinematic-dramatic-digital-painting-expressionism-emotionally-profound-close-up-unforgettable.png"><img src="https://cdn.prompthero.com/h1ktgtes2cyb5kmlt9ozpd9dqyuj-stable-diffusion-xl-base-09-broken-but-ready-to-fight-gloomy-background-epic-composition-brutal-cinematic-dramatic-digital-painting-expressionism-emotionally-profound-close-up-unforgettable.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+broken but ready to fight, gloomy background, epic composition, brutal, cinematic, dramatic, digital painting, expressionism, emotionally profound, close up, unforgettable, high quality
+```
+
+By [@ArtEnthusiast](https://prompthero.com/prompt/f20ef0410c9-stable-diffusion-xl-base-09-broken-but-ready-to-fight-gloomy-background-epic-composition-brutal-cinematic-dramatic-digital-painting-expressionism-emotionally-profound-close-up-unforgettable)
 
 ---
 

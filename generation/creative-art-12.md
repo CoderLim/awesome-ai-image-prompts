@@ -1,106 +1,10 @@
 # creative art
 
-[← Home](../README.md) · Page 12 / 14
+[← Home](../README.md) · Page 12 / 13
 
-[1](creative-art.md) · [2](creative-art-2.md) · [3](creative-art-3.md) · [4](creative-art-4.md) · [5](creative-art-5.md) · [6](creative-art-6.md) · [7](creative-art-7.md) · [8](creative-art-8.md) · [9](creative-art-9.md) · [10](creative-art-10.md) · [11](creative-art-11.md) · **12** · [13](creative-art-13.md) · [14](creative-art-14.md)
+[1](creative-art.md) · [2](creative-art-2.md) · [3](creative-art-3.md) · [4](creative-art-4.md) · [5](creative-art-5.md) · [6](creative-art-6.md) · [7](creative-art-7.md) · [8](creative-art-8.md) · [9](creative-art-9.md) · [10](creative-art-10.md) · [11](creative-art-11.md) · **12** · [13](creative-art-13.md)
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
-
-<a id="prompthero-d30c0025bb7"></a>
-
-## Create an imaginative scene depicting a surreal be\.\.\.
-
-<a href="https://cdn.prompthero.com/hv3kpg3shknl52odmidx6umi5z2s-flux-flux-11-pro-create-an-imaginative-scene-depicting-a-surreal-beach-landscape-in-the-foreground-a-female-figure-with-delicate-features-is-seated.jpg"><img src="https://cdn.prompthero.com/hv3kpg3shknl52odmidx6umi5z2s-flux-flux-11-pro-create-an-imaginative-scene-depicting-a-surreal-beach-landscape-in-the-foreground-a-female-figure-with-delicate-features-is-seated.jpg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-Create an imaginative scene depicting a surreal beach landscape. In the foreground, a female figure with delicate features is seated on the sandy shore, elegantly playing a large cello. She has a pale skin tone and sharp, refined facial features, including striking eyes with a hint of curiosity. Her hair is styled in a vibrant orange color, featuring whimsical curls and a decorative horn-like shape on top, adorned with golden embellishments. Her outfit flows beautifully, consisting of a rich golden gown with intricate patterns, accentuated by a flowing red cloak that adds a dramatic touch to her appearance. The gown billows around her as she plays, merging with the golden sand. In the background, the ocean glistens under a moody sky filled with fluffy, pastel clouds that suggest an impending change in weather. To the right, a mythical white unicorn stands calmly on the shore, gazing towards the ocean, adding an element of fantasy to the scene. The overall atmosphere is dreamlike, blending elements of reality and imagination, with soft waves lapping at the shoreline and the gentle sound of music resonating through the environment. In the style of Michael Cheval, Michael Whelan, Alex Alemany, Renoir, Dali, surreal, vivid colors, masterpiece, best quality AI art, diffuse lighting, ambient occlusion, Polished, Masterful Surrealism, Photorealistic, unreal engine, 128K, UHD, crisp quality, light reflections, RHADS, atmospheric, 3D texture, 3D shading, ultra 3-dimensional effect, volumetric lighting, highest quality AI art, pencil sharp edges, rich texture and color, clear, ultra-real, soft glow, psychedelic
-```
-
-[Source](https://prompthero.com/prompt/d30c0025bb7-flux-flux-11-pro-create-an-imaginative-scene-depicting-a-surreal-beach-landscape-in-the-foreground-a-female-figure-with-delicate-features-is-seated)
-
----
-
-<a id="prompthero-d043bf22242"></a>
-
-## A close-up of a heavily rusted Iron Man helmet lyi\.\.\.
-
-<a href="https://cdn.prompthero.com/a39dqq4hm8a1l6jmcdm311ea8amr-flux-flux-11-pro-ultra-a-close-up-of-a-heavily-rusted-iron-man-helmet-lying-abandoned-on-the-ground-in-a-dense-overgrown-jungle.png"><img src="https://cdn.prompthero.com/a39dqq4hm8a1l6jmcdm311ea8amr-flux-flux-11-pro-ultra-a-close-up-of-a-heavily-rusted-iron-man-helmet-lying-abandoned-on-the-ground-in-a-dense-overgrown-jungle.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-A close-up of a heavily rusted Iron Man helmet lying abandoned on the ground in a dense, overgrown jungle. Vines and thick roots have wrapped around the suit, partially covering it with moss and foliage. The once-bright red and gold armor is now corroded, with chipped paint and deep rust marks. The arc reactor on the chest is barely glowing, flickering faintly, almost extinguished. The jungle floor is damp and covered in fallen leaves, with mist rising in the background. Soft, diffused lighting filters through the thick canopy, casting eerie shadows on the forgotten relic. cinematic, hyper realism, high detail, octane render, 8k
-```
-
-[Source](https://prompthero.com/prompt/d043bf22242-flux-flux-11-pro-ultra-a-close-up-of-a-heavily-rusted-iron-man-helmet-lying-abandoned-on-the-ground-in-a-dense-overgrown-jungle)
-
----
-
-<a id="prompthero-d86bd177e46"></a>
-
-## photography, portrait of contrast, profile silhoue\.\.\.
-
-<a href="https://cdn.prompthero.com/prcxxb5qegnfo8yk1gvz1viffc-seedream-5-seedream-5-pro-photography-portrait-of-contrast-profile-silhouette-of-a-bear-vibrant-hot-pink-backdrop-visualize-using-a-camera-setup-that-mimics.png"><img src="https://cdn.prompthero.com/prcxxb5qegnfo8yk1gvz1viffc-seedream-5-seedream-5-pro-photography-portrait-of-contrast-profile-silhouette-of-a-bear-vibrant-hot-pink-backdrop-visualize-using-a-camera-setup-that-mimics.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-photography, portrait of contrast, profile silhouette of a bear, vibrant hot pink backdrop, visualize using a camera setup that mimics a large aperture, focusing solely on the silhouette's edge, while a low ISO maintains the richness of color without grain, photorealistic, UHD --ar 9:16 --chaos 1.7 --style raw
-```
-
-[Source](https://prompthero.com/prompt/d86bd177e46-seedream-5-seedream-5-pro-photography-portrait-of-contrast-profile-silhouette-of-a-bear-vibrant-hot-pink-backdrop-visualize-using-a-camera-setup-that-mimics)
-
----
-
-<a id="prompthero-d92d09de6ff"></a>
-
-## A regal figure, adorned in a golden skull mask wit\.\.\.
-
-<a href="https://cdn.prompthero.com/c9j2apm9w1iv10xgr92szrbp9r-juggernaut-v15-chaos-born-from-the-void-of-nothing-a-regal-figure-adorned-in-a-golden-skull-mask-with-intricate-filigree-details-wearing-a-flowing-sheer-golden-gown-embellished.jpeg"><img src="https://cdn.prompthero.com/c9j2apm9w1iv10xgr92szrbp9r-juggernaut-v15-chaos-born-from-the-void-of-nothing-a-regal-figure-adorned-in-a-golden-skull-mask-with-intricate-filigree-details-wearing-a-flowing-sheer-golden-gown-embellished.jpeg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-A regal figure, adorned in a golden skull mask with intricate filigree details, wearing a flowing, sheer golden gown, embellished with delicate golden embroidery and accents. The mask is the focal point, with a skull design, adding an element of macabre beauty. The gown drapes elegantly, creating movement and highlighting the figure's form. The background is a soft, textured gray, providing a subtle contrast to the golden hues. The overall aesthetic is one of ethereal elegance and otherworldly charm, inspired by fantasy and gothic art, with a touch of Venetian masquerade. The image is rendered with a painterly style, utilizing soft lighting and careful attention to detail to create a visually stunning artwork, masterpiece, highly detailed, octane render, 8k.
-```
-
-[Source](https://prompthero.com/prompt/d92d09de6ff-juggernaut-v15-chaos-born-from-the-void-of-nothing-a-regal-figure-adorned-in-a-golden-skull-mask-with-intricate-filigree-details-wearing-a-flowing-sheer-golden-gown-embellished)
-
----
-
-<a id="prompthero-d5572a23f8c"></a>
-
-## gothic illuminated anthropomorphic creature, full \.\.\.
-
-<a href="https://cdn.prompthero.com/ti00noe7czkgl7oaix80mbbkx9xp-midjourney-52-gothic-illuminated-anthropomorphic-creature-full-body-in-a-bioluminescent-forest-surreal-atmosphere-epic-fluorescent-haunting-creepy-horror-dark-intricate-design.png"><img src="https://cdn.prompthero.com/ti00noe7czkgl7oaix80mbbkx9xp-midjourney-52-gothic-illuminated-anthropomorphic-creature-full-body-in-a-bioluminescent-forest-surreal-atmosphere-epic-fluorescent-haunting-creepy-horror-dark-intricate-design.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-gothic illuminated anthropomorphic creature, full body,  in a Bioluminescent Forest, surreal atmosphere, epic, fluorescent, haunting, creepy, horror, dark, intricate design and details, dramatic lighting, photorealistic, cinematic, 8k, --ar 9:16
-```
-
-[Source](https://prompthero.com/prompt/d5572a23f8c-midjourney-52-gothic-illuminated-anthropomorphic-creature-full-body-in-a-bioluminescent-forest-surreal-atmosphere-epic-fluorescent-haunting-creepy-horror-dark-intricate-design)
-
----
-
-<a id="prompthero-d28403c7b55"></a>
-
-## A hyperrealistic, exquisite photo of an unexpected\.\.\.
-
-<a href="https://cdn.prompthero.com/9hg2ho503e4cxwcx57abw3dh9tss-flux-flux-11-pro-a-hyperrealistic-exquisite-photo-of-an-unexpected-moment-caught-perfectly-along-the-sun-drenched-shores-of-santorini-where-pristine-white.jpg"><img src="https://cdn.prompthero.com/9hg2ho503e4cxwcx57abw3dh9tss-flux-flux-11-pro-a-hyperrealistic-exquisite-photo-of-an-unexpected-moment-caught-perfectly-along-the-sun-drenched-shores-of-santorini-where-pristine-white.jpg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-A hyperrealistic, exquisite photo of an unexpected moment caught perfectly: Along the sun-drenched shores of Santorini, where pristine white buildings and cobalt domes meet the endless Aegean Sea, a colossal hand appears against a clear blue sky flecked with soft, cottony clouds. This giant hand, with its lifelike texture and subtle shadows, holds an oversized ice cream cone piled high with pastel-hued scoops. In a moment of delightful absurdity, the hand tilts the cone, allowing a cascade of melting ice cream to flow gracefully over the terracotta rooftops of the picturesque village below. The sweet, slowly dripping cascade creates intricate patterns on the ancient walls, which shimmer under the gentle summer-spring light. Along the narrow cobblestone streets, locals and tourists alike--clad in breezy summer clothes--gawk in stunned amusement, their faces reflecting a blend of shock and childlike delight. Every element of the scene, from the delicate texture of the melting ice cream to the intricate details of the village architecture, is rendered in exquisite photorealistic detail, turning an ordinary Mediterranean day into a surreal celebration of whimsy and flavor.
-```
-
-By [@chorlo](https://prompthero.com/prompt/d28403c7b55-flux-flux-11-pro-a-hyperrealistic-exquisite-photo-of-an-unexpected-moment-caught-perfectly-along-the-sun-drenched-shores-of-santorini-where-pristine-white)
-
----
 
 <a id="prompthero-da08a62f0c6"></a>
 
@@ -179,22 +83,6 @@ photorealistic, detailed flying debris,a bulk female warrior in halo spartan arm
 ```
 
 [Source](https://prompthero.com/prompt/dc44e44d414-dalle-3-photorealistic-detailed-flying-debrisa-bulk-female-warrior-in-halo-spartan-armor-fighting-strongly-an-army-of-aliens-perfect-fit-body)
-
----
-
-<a id="prompthero-dc66f12f3cd"></a>
-
-## Cute Baby cat with huge eyes, sad eyes, holding a \.\.\.
-
-<a href="https://cdn.prompthero.com/n1v0bfba04d1300ivw673oafcrun-flux-flux1-dev-cute-baby-cat-with-huge-eyes-sad-eyes-holding-a-flat-lay-mockup-of-a-futuristic-metal-sign-with-text.png"><img src="https://cdn.prompthero.com/n1v0bfba04d1300ivw673oafcrun-flux-flux1-dev-cute-baby-cat-with-huge-eyes-sad-eyes-holding-a-flat-lay-mockup-of-a-futuristic-metal-sign-with-text.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-Cute Baby cat with huge eyes, sad eyes, holding a Flat lay mockup of [a futuristic metal sign] (with text "Promthero)" ,background with [strange geometric shapes and colors, glowing], flatlay photography style, minimalistic design, professional studio lighting, overhead shot from above, hyper-realistic, chibi animal, detailmaximizer
-```
-
-[Source](https://prompthero.com/prompt/dc66f12f3cd-flux-flux1-dev-cute-baby-cat-with-huge-eyes-sad-eyes-holding-a-flat-lay-mockup-of-a-futuristic-metal-sign-with-text)
 
 ---
 
@@ -326,6 +214,118 @@ Wide angle Environmental shot in a cluttered and messy shack , action shot, tatt
 
 ---
 
-[1](creative-art.md) · [2](creative-art-2.md) · [3](creative-art-3.md) · [4](creative-art-4.md) · [5](creative-art-5.md) · [6](creative-art-6.md) · [7](creative-art-7.md) · [8](creative-art-8.md) · [9](creative-art-9.md) · [10](creative-art-10.md) · [11](creative-art-11.md) · **12** · [13](creative-art-13.md) · [14](creative-art-14.md)
+<a id="prompthero-e3046b70c38"></a>
+
+## A photorealistic cinematic close-up portrait of a \.\.\.
+
+<a href="https://cdn.prompthero.com/v1_1d1de36d048d37903b2bb5266c-seedream-5-seedream-5-pro-a-photorealistic-cinematic-close-up-portrait-of-a-badass-tabby-cat-riding-a-classic-black-cruiser-motorcycle-on-an-open.jpg"><img src="https://cdn.prompthero.com/v1_1d1de36d048d37903b2bb5266c-seedream-5-seedream-5-pro-a-photorealistic-cinematic-close-up-portrait-of-a-badass-tabby-cat-riding-a-classic-black-cruiser-motorcycle-on-an-open.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+A photorealistic cinematic close-up portrait of a badass tabby cat riding a classic black cruiser motorcycle on an open mountain road, vertical 9:16 composition. The cat is the main subject, centered in frame, sitting naturally on the motorcycle and gripping the handlebars with both furry paws. It has realistic brown and black tabby fur, expressive golden-green eyes, detailed whiskers, a pink nose, natural feline facial anatomy, and highly detailed individual hairs. The cat wears vintage aviator motorcycle goggles with thick weathered metal frames and clear lenses, and a premium black leather biker jacket with realistic leather grain, stitching, metal zippers, brass snaps and subtle worn details. Motorcycle-patch style decorations on the jacket, rugged outlaw biker aesthetic. A large classic black cruiser motorcycle fills the lower foreground, with glossy black painted fuel tank, polished chrome handlebars, chrome engine components and realistic metallic reflections. The motorcycle should feel heavy, premium and mechanically detailed. The scene takes place on a winding mountain highway during golden hour, with distant mountains and pine trees in the background. Warm sunlight creates beautiful golden rim light around the cat's ears and fur. Soft natural cinematic lighting, warm highlights, subtle cool shadows, realistic atmospheric perspective. Shallow depth of field, professional automotive photography, 85mm portrait lens, f/2.0, sharp focus on the cat's eyes and face, beautifully blurred mountain background, realistic bokeh, subtle motion in the environment, cinematic composition, premium commercial photography, highly detailed fur, realistic leather and metal textures, natural reflections, physically accurate lighting, HDR, subtle film grain, rich but natural colors, warm golden-brown and deep charcoal color palette, photorealistic, ultra realistic, high micro-detail, dramatic but playful personality, visually striking social media cover image. Vertical composition, 9:16, subject fills most of the frame, strong foreground-to-background depth, clean visual hierarchy, no text, no watermark.
+```
+
+[Source](https://prompthero.com/prompt/e3046b70c38-seedream-5-seedream-5-pro-a-photorealistic-cinematic-close-up-portrait-of-a-badass-tabby-cat-riding-a-classic-black-cruiser-motorcycle-on-an-open)
+
+---
+
+<a id="prompthero-ea0cf262a0c"></a>
+
+## A surreal scene featuring a large, green, anthropo\.\.\.
+
+<a href="https://cdn.prompthero.com/8d3adwg23ndcwguhwp38p685mium-midjourney-6-a-surreal-scene-featuring-a-large-green-anthropomorphic-frog-with-a-calm-expression-sitting-on-a-pink-ball-covered-with.png"><img src="https://cdn.prompthero.com/8d3adwg23ndcwguhwp38p685mium-midjourney-6-a-surreal-scene-featuring-a-large-green-anthropomorphic-frog-with-a-calm-expression-sitting-on-a-pink-ball-covered-with.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+A surreal scene featuring a large, green, anthropomorphic frog with a calm expression, sitting on a pink ball covered with an orange cloth. The frog holds a yellow umbrella in one hand and a small spray bottle in the other. Surrounding the frog are floating, abstract shapes, including pink and yellow cone-shaped objects and a bowl filled with fluffy, cloud-like material. The background is a pastel sky with soft pink and blue clouds, and the ground has a swampy, mossy appearance with floating vegetation and small plants. The scene has a whimsical, dreamlike quality, with soft lighting and a playful, fantastical atmosphere. --v 6.1
+```
+
+By [@chorlo](https://prompthero.com/prompt/ea0cf262a0c-midjourney-6-a-surreal-scene-featuring-a-large-green-anthropomorphic-frog-with-a-calm-expression-sitting-on-a-pink-ball-covered-with)
+
+---
+
+<a id="prompthero-ea6b874a7e2"></a>
+
+## photography, surreal sculpture, anatomical heart i\.\.\.
+
+<a href="https://cdn.prompthero.com/dsrn2p20gxmpzfr3d3fvf440vq-midjourney-shatter-photography-surreal-sculpture-anatomical-heart-integrated-with-pipe-and-wire-flawless-glossy-white-porcelain-texture-glowing-red-froasted-acrylic-kintsugi.png"><img src="https://cdn.prompthero.com/dsrn2p20gxmpzfr3d3fvf440vq-midjourney-shatter-photography-surreal-sculpture-anatomical-heart-integrated-with-pipe-and-wire-flawless-glossy-white-porcelain-texture-glowing-red-froasted-acrylic-kintsugi.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+photography, surreal sculpture, anatomical heart integrated with pipe and wire, flawless glossy white porcelain texture, glowing red froasted acrylic kintsugi cracks, crimson color dramatic rim lighting, solid studio background, cinematic shadows, sharp focus, ultra detailed --ar 9:16 --raw --stylize 300
+```
+
+By [@Grayve](https://prompthero.com/prompt/ea6b874a7e2-midjourney-shatter-photography-surreal-sculpture-anatomical-heart-integrated-with-pipe-and-wire-flawless-glossy-white-porcelain-texture-glowing-red-froasted-acrylic-kintsugi)
+
+---
+
+<a id="prompthero-ebae168ef5c"></a>
+
+## photography, top view, lego creation art, F1 car, \.\.\.
+
+<a href="https://cdn.prompthero.com/l12enzc48h3it9zmb5z2utvsztch-midjourney-61-photography-top-view-lego-creation-art-f1-car-parts-real-scale-brick-details-perfection-composition-natural-lighting-with-soft-shadows.png"><img src="https://cdn.prompthero.com/l12enzc48h3it9zmb5z2utvsztch-midjourney-61-photography-top-view-lego-creation-art-f1-car-parts-real-scale-brick-details-perfection-composition-natural-lighting-with-soft-shadows.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+photography, top view, lego creation art, F1 car, parts, real-scale, brick details, perfection composition, natural lighting with soft shadows, photorealistic, rich detailing --ar 9:16 --style raw --stylize 700 --v 6.1
+```
+
+By [@Grayve](https://prompthero.com/prompt/ebae168ef5c-midjourney-61-photography-top-view-lego-creation-art-f1-car-parts-real-scale-brick-details-perfection-composition-natural-lighting-with-soft-shadows)
+
+---
+
+<a id="prompthero-ecbe3a32f2a"></a>
+
+## A realistic, usable transparent DnD dagger made of\.\.\.
+
+<a href="https://cdn.prompthero.com/onofs4a6tiw63cxvz4gepnyd3936-stable-diffusion-xl-base-09-a-realistic-usable-transparent-dnd-dagger-made-of-crystal-featuring-a-highly-deta-realistic-usable-transparent-dnd-dagger-made-of.png"><img src="https://cdn.prompthero.com/onofs4a6tiw63cxvz4gepnyd3936-stable-diffusion-xl-base-09-a-realistic-usable-transparent-dnd-dagger-made-of-crystal-featuring-a-highly-deta-realistic-usable-transparent-dnd-dagger-made-of.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+A realistic, usable transparent DnD dagger made of crystal, featuring a highly detA realistic, usable transparent DnD dagger made of crystal, featuring a highly detailed miniature jungle inside and resting on the branch of a dense tree in a jungle. The practical dagger has an elongated, sharp blade and sturdy handle, blending with the natural setting. Within the crystal, the miniature jungle is richly detailed with tiny trees and dense foliage, echoing the external dense tree branch. The background highlights the dense jungle foliage and the texture of the tree branch, enhancing the scene. The lighting highlights the practical design of the dagger and the vibrant internal and external jungle landscapes, creating a surreal and harmonious blend between the dagger and its environment.ailed miniature jungle inside and resting on the branch of a dense tree in a jungle. The practical dagger has an elongated, sharp blade and sturdy handle, blending with the natural setting. Within the crystal, the miniature jungle is richly detailed with tiny trees and dense foliage, echoing the external dense tree branch. The background highlights the dense jungle foliage and the texture of the tree branch, enhancing the scene. The lighting highlights the practical design of the dagger and the vibrant internal and external jungle landscapes, creating a surreal and harmonious blend between the dagger and its environment.
+```
+
+[Source](https://prompthero.com/prompt/ecbe3a32f2a-stable-diffusion-xl-base-09-a-realistic-usable-transparent-dnd-dagger-made-of-crystal-featuring-a-highly-deta-realistic-usable-transparent-dnd-dagger-made-of)
+
+---
+
+<a id="prompthero-ee0f814326d"></a>
+
+## Silver Surfer, 5D UHD Cinematic, sharp focus, rend\.\.\.
+
+<a href="https://cdn.prompthero.com/dcprr4xsn2w6ec5fui4ggw5jdwgx-midjourney-61-silver-surfer-5d-uhd-cinematic-sharp-focus-rendering-soft-lighting-balanced-detailed-comic-book-style-sunset-in-the-background-surfing.png"><img src="https://cdn.prompthero.com/dcprr4xsn2w6ec5fui4ggw5jdwgx-midjourney-61-silver-surfer-5d-uhd-cinematic-sharp-focus-rendering-soft-lighting-balanced-detailed-comic-book-style-sunset-in-the-background-surfing.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+Silver Surfer, 5D UHD Cinematic, sharp focus, rendering, soft lighting, balanced detailed comic book style, sunset in the background, surfing on sand dunes, full-body shot, highly detailed. --v 6.1
+```
+
+[Source](https://prompthero.com/prompt/ee0f814326d-midjourney-61-silver-surfer-5d-uhd-cinematic-sharp-focus-rendering-soft-lighting-balanced-detailed-comic-book-style-sunset-in-the-background-surfing)
+
+---
+
+<a id="prompthero-f2d3f6bdbee"></a>
+
+## A hyper-realistic, cinematic image of a lone ninj\.\.\.
+
+<a href="https://cdn.prompthero.com/ex1nm3eey80jvii5pqoswck2ju0b-flux-dev-a-hyper-realistic-cinematic-image-of-a-lone-ninja-sitting-in-deep-meditation-amidst-a-violent-blizzard-his-body-partially.png"><img src="https://cdn.prompthero.com/ex1nm3eey80jvii5pqoswck2ju0b-flux-dev-a-hyper-realistic-cinematic-image-of-a-lone-ninja-sitting-in-deep-meditation-amidst-a-violent-blizzard-his-body-partially.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+A hyper-realistic, cinematic image of a lone ninja sitting in deep meditation amidst a violent blizzard, his body partially covered by layers of snow. The ninja is dressed only in traditional Japanese fundoshi (minimal underwear), with his exposed skin covered in frost and snow (traditional fundoshi:1.5). His posture is calm and unyielding, sitting cross-legged with his hands resting on his knees. Despite the freezing conditions, the ninja appears completely at peace, his eyes closed in deep meditation. The snowfall is relentless, and the wind whips around him, yet the ninja's stillness allows the snow to pile up on his shoulders, arms, and legs, creating a visual contrast between his bare skin and the snow-covered surroundings (snow covering ninja:1.4). His exposed skin glistens with frost, as he radiates a quiet but immense inner strength, unbothered by the freezing conditions. The blizzard rages on, with snow and ice particles swirling wildly in the air, carried by fierce winds (swirling snow and ice:1.5). The white snow has begun to blend with the ninja’s fundoshi, while his exposed skin stands out against the snow-covered ground. His breath is barely visible in the icy air, further emphasizing his spiritual discipline and complete focus. Volumetric light beams break through the storm, casting soft, ethereal glows on the ninja and the snow beneath him (volumetric light in blizzard:1.4). The light interacts with the swirling snowflakes, creating a shimmering effect that adds to the surreal, almost dreamlike atmosphere of the scene. The blizzard, though harsh and chaotic, feels distant compared to the stillness of the meditating ninja. The overall color palette is dominated by cold tones of pale blues, whites, and icy grays, emphasizing the harshness of the environment. The ninja’s calm, minimal appearance in traditional fundoshi adds to the sense of serenity amidst the chaos, as though he has transcended the physical world and become one with the elements." Key Elements and Weights: Ninja in Traditional Fundoshi: The ninja is dressed only in traditional Japanese underwear (fundoshi), sitting in a meditative pose amidst the blizzard, with his body partially exposed to the cold (traditional fundoshi:1.5). Snow Covering Ninja: The snow has started to cover the ninja's shoulders, arms, and legs, symbolizing his stillness and deep focus (snow covering ninja:1.4). Blizzard with Swirling Snow: The blizzard rages on, with snow and ice particles swirling through the air, contrasting with the ninja’s calm posture (swirling snow and ice:1.5). Volumetric Light in Blizzard: Volumetric light beams cut through the storm, casting soft, ethereal glows on the ninja and the snow, adding depth and atmosphere (volumetric light in blizzard:1.4). Cold Color Palette: The scene is bathed in cold tones of pale blues, whites, and icy grays, enhancing the harshness of the environment and the sense of isolation (cold blue tones:1.4).
+```
+
+[Source](https://prompthero.com/prompt/f2d3f6bdbee-flux-dev-a-hyper-realistic-cinematic-image-of-a-lone-ninja-sitting-in-deep-meditation-amidst-a-violent-blizzard-his-body-partially)
+
+---
+
+[1](creative-art.md) · [2](creative-art-2.md) · [3](creative-art-3.md) · [4](creative-art-4.md) · [5](creative-art-5.md) · [6](creative-art-6.md) · [7](creative-art-7.md) · [8](creative-art-8.md) · [9](creative-art-9.md) · [10](creative-art-10.md) · [11](creative-art-11.md) · **12** · [13](creative-art-13.md)
 
 [← Home](../README.md)

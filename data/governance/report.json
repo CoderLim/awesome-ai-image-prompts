@@ -1,37 +1,37 @@
 {
   "total": 2103,
-  "visible": 1940,
-  "hidden": 163,
+  "visible": 1904,
+  "hidden": 199,
   "duplicateExcluded": 62,
   "duplicateExcludedFromGallery": 51,
   "uniqueCases": 2041,
   "galleryGroups": {
-    "reference": 195,
-    "generation": 1745
+    "reference": 194,
+    "generation": 1710
   },
   "types": {
-    "generation": 1903,
-    "editing": 37
+    "generation": 1868,
+    "editing": 36
   },
   "inputModes": {
     "reference-to-image": 158,
-    "text-to-image": 1541,
-    "unknown": 204,
-    "image-editing": 37
+    "text-to-image": 1507,
+    "unknown": 203,
+    "image-editing": 36
   },
   "categories": {
-    "generation/posters": 155,
-    "generation/creative-art": 274,
-    "generation/illustrations": 227,
+    "generation/posters": 154,
+    "generation/creative-art": 266,
+    "generation/illustrations": 221,
     "generation/logos": 28,
-    "generation/portraits": 751,
+    "generation/portraits": 734,
     "generation/products": 51,
     "generation/comics-storyboards": 24,
     "generation/travel": 59,
-    "generation/characters": 139,
-    "generation/architecture": 52,
+    "generation/characters": 138,
+    "generation/architecture": 50,
     "editing/composition": 6,
-    "editing/portrait-editing": 6,
+    "editing/portrait-editing": 5,
     "generation/other": 48,
     "editing/background-change": 2,
     "editing/object-replacement": 1,
@@ -50,7 +50,7 @@
   "flags": {
     "rights-review": 2091,
     "input-mode-review": 237,
-    "manual-excluded": 107,
+    "manual-excluded": 143,
     "duplicate-candidate:same-prompt-prefix": 51,
     "classification-review": 241,
     "missing-original-post-url": 180,
@@ -74,5 +74,5 @@
     "semanticEmbedding": "not-run",
     "rights": "not-cleared"
   },
-  "manualExcluded": 107
+  "manualExcluded": 143
 }

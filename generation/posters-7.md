@@ -6,22 +6,6 @@
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
-<a id="prompthero-727cf72983c"></a>
-
-## Create a hyper-realistic editorial advertising pho\.\.\.
-
-<a href="https://cdn.prompthero.com/jfx4djl3cksvj829okdtgjytjd-nano-banana-nano-banana-2-create-a-hyper-realistic-editorial-advertising-photograph-with-a-bold-theatrical-visual-language-use-intensely-saturated-colors-dramatic-studio-lighting.jpeg"><img src="https://cdn.prompthero.com/jfx4djl3cksvj829okdtgjytjd-nano-banana-nano-banana-2-create-a-hyper-realistic-editorial-advertising-photograph-with-a-bold-theatrical-visual-language-use-intensely-saturated-colors-dramatic-studio-lighting.jpeg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-Create a hyper-realistic editorial advertising photograph with a bold, theatrical visual language. Use intensely saturated colors, dramatic studio lighting, glossy surfaces, oversized props, playful visual symbolism, and an extravagant fashion-inspired aesthetic. The image should feel like a high-end international advertising campaign with cinematic storytelling and striking visual impact. The composition is split vertically into two contrasting worlds. Left side: A creative agency overwhelmed by complexity. The room explodes with vivid reds, hot pinks, oranges, electric yellows and neon accents. Hundreds of colorful sticky notes, sketches, diagrams and mood boards cover every wall. Five creatives enthusiastically point in different directions. Confetti, paint splashes, scattered markers and design materials create a sense of beautiful, controlled chaos. Every detail is visually stimulating. Right side: A visually calm but equally spectacular space. Dominated by brilliant white, deep cobalt blue and golden highlights. A single elegant concept sketch hangs on an otherwise clean wall. Two confident creatives quietly admire it. Behind them, the finished campaign appears across a billboard, premium packaging, magazine spreads, a smartphone and a large digital display. Every execution clearly grows from the same simple idea. The visual contrast should instantly communicate complexity versus clarity, noise versus focus, and many ideas versus one powerful idea, while both environments remain beautiful and aspirational. Use bold color blocking, dramatic contrast, sculptural lighting, glossy reflections, expressive body language, fashion-forward styling, luxurious production design and premium editorial photography. The image should feel energetic, imaginative and unforgettable rather than realistic office documentation. Ultra-realistic skin textures, cinematic depth of field, medium wide-angle lens, magazine cover quality, meticulous art direction, vibrant color harmony, surreal yet believable atmosphere, no logos, no readable text, no futuristic technology.
-```
-
-By [@p8258](https://prompthero.com/prompt/727cf72983c-nano-banana-nano-banana-2-create-a-hyper-realistic-editorial-advertising-photograph-with-a-bold-theatrical-visual-language-use-intensely-saturated-colors-dramatic-studio-lighting)
-
----
-
 <a id="prompthero-02437b6eeca"></a>
 
 ## A clean and modern landscape-format banner image d\.\.\.

@@ -1,58 +1,10 @@
 # portraits
 
-[← Home](../README.md) · Page 16 / 35
+[← Home](../README.md) · Page 16 / 34
 
-[1](portraits.md) · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · [5](portraits-5.md) · [6](portraits-6.md) · [7](portraits-7.md) · [8](portraits-8.md) · [9](portraits-9.md) · [10](portraits-10.md) · [11](portraits-11.md) · [12](portraits-12.md) · [13](portraits-13.md) · [14](portraits-14.md) · [15](portraits-15.md) · **16** · [17](portraits-17.md) · [18](portraits-18.md) · [19](portraits-19.md) · [20](portraits-20.md) · [21](portraits-21.md) · [22](portraits-22.md) · [23](portraits-23.md) · [24](portraits-24.md) · [25](portraits-25.md) · [26](portraits-26.md) · [27](portraits-27.md) · [28](portraits-28.md) · [29](portraits-29.md) · [30](portraits-30.md) · [31](portraits-31.md) · [32](portraits-32.md) · [33](portraits-33.md) · [34](portraits-34.md) · [35](portraits-35.md)
+[1](portraits.md) · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · [5](portraits-5.md) · [6](portraits-6.md) · [7](portraits-7.md) · [8](portraits-8.md) · [9](portraits-9.md) · [10](portraits-10.md) · [11](portraits-11.md) · [12](portraits-12.md) · [13](portraits-13.md) · [14](portraits-14.md) · [15](portraits-15.md) · **16** · [17](portraits-17.md) · [18](portraits-18.md) · [19](portraits-19.md) · [20](portraits-20.md) · [21](portraits-21.md) · [22](portraits-22.md) · [23](portraits-23.md) · [24](portraits-24.md) · [25](portraits-25.md) · [26](portraits-26.md) · [27](portraits-27.md) · [28](portraits-28.md) · [29](portraits-29.md) · [30](portraits-30.md) · [31](portraits-31.md) · [32](portraits-32.md) · [33](portraits-33.md) · [34](portraits-34.md)
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
-
-<a id="prompthero-49e49154381"></a>
-
-## woman in a high-tech cyberpunk helmet with a shin\.\.\.
-
-<a href="https://cdn.prompthero.com/hqqbkvb7acxu221qk4mlyno89rwn-midjourney-6-woman-in-a-high-tech-cyberpunk-helmet-with-a-shiny-black-finish-and-detailed-robotic-accents-her-face-is-illuminated.png"><img src="https://cdn.prompthero.com/hqqbkvb7acxu221qk4mlyno89rwn-midjourney-6-woman-in-a-high-tech-cyberpunk-helmet-with-a-shiny-black-finish-and-detailed-robotic-accents-her-face-is-illuminated.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-woman in a high-tech cyberpunk helmet with a shiny black finish and detailed robotic accents. Her face is illuminated by a reflection of radiant silver wires, intricately woven into a web of glowing patterns. The scene is portrayed in a hyper-realistic, editorial pose with photorealistic quality, highlighting the futuristic theme, rendered in 8k resolution for crisp, high-definition imagery , photorealistic, 8k, high render --v 6.0 --ar 9:16 --stylize 750
-```
-
-[Source](https://prompthero.com/prompt/49e49154381-midjourney-6-woman-in-a-high-tech-cyberpunk-helmet-with-a-shiny-black-finish-and-detailed-robotic-accents-her-face-is-illuminated)
-
----
-
-<a id="prompthero-50b8cd54682"></a>
-
-## photography, snap shot, male model, front pose, fu\.\.\.
-
-<a href="https://cdn.prompthero.com/cshxtd4wzzg9yg1jgg4edg3yxnhe-midjourney-61-photography-snap-shot-male-model-front-pose-full-body-surrounded-by-a-blurred-motion-wearing-camouflage-color-loose-fit-hoody.png"><img src="https://cdn.prompthero.com/cshxtd4wzzg9yg1jgg4edg3yxnhe-midjourney-61-photography-snap-shot-male-model-front-pose-full-body-surrounded-by-a-blurred-motion-wearing-camouflage-color-loose-fit-hoody.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-photography, snap shot, male model, front pose, full-body, surrounded by a blurred motion, wearing camouflage color loose fit hoody and denim cargo pants, Vans sneakers, Sony α9, minimalistic open space with soft, contrasting with the transient figures around him, plain wall background with a subtle texture to keep the attention on the motion effect, rich details --ar 9:16 --style raw --stylize 700 --v 6.1
-```
-
-By [@Grayve](https://prompthero.com/prompt/50b8cd54682-midjourney-61-photography-snap-shot-male-model-front-pose-full-body-surrounded-by-a-blurred-motion-wearing-camouflage-color-loose-fit-hoody)
-
----
-
-<a id="prompthero-50be690a936"></a>
-
-## black and white photography in style by Bruce Davi\.\.\.
-
-<a href="https://cdn.prompthero.com/5sf67ezdxl1mmjc01cror0gx9pem-stable-diffusion-2-base-black-and-white-photography-in-style-by-bruce-davidson-fashion-editorial-dark-haired-woman-of-long-exposure-photography-through-artistic.png"><img src="https://cdn.prompthero.com/5sf67ezdxl1mmjc01cror0gx9pem-stable-diffusion-2-base-black-and-white-photography-in-style-by-bruce-davidson-fashion-editorial-dark-haired-woman-of-long-exposure-photography-through-artistic.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-black and white photography in style by Bruce Davidson, fashion editorial, dark haired woman of long exposure photography through artistic lens,  highres, realistic photo, professional photography, cinematic angle, dynamic light back shining, bokeh,
-```
-
-[Source](https://prompthero.com/prompt/50be690a936-stable-diffusion-2-base-black-and-white-photography-in-style-by-bruce-davidson-fashion-editorial-dark-haired-woman-of-long-exposure-photography-through-artistic)
-
----
 
 <a id="prompthero-52a4a35de7c"></a>
 
@@ -131,22 +83,6 @@ Half-body photo of a female as Spider-Gwen, seductive and sexy pose, curvy body,
 ```
 
 By [@abyishot](https://prompthero.com/prompt/53b3344ec78-stable-diffusion-xl-base-09-your-unusual-superheroes-spider-jen)
-
----
-
-<a id="prompthero-53f29c4e0ac"></a>
-
-## \(Nano Banana Pro\) Full-length editorial fashion ph\.\.\.
-
-<a href="https://cdn.prompthero.com/ssvn90oy8pu5rhzvjqlr5t3218-flux-pro-nano-banana-pro-full-length-editorial-fashion-photograph-of-a-long-legged-woman-standing-against-a-minimalist-white-wall-she.jpeg"><img src="https://cdn.prompthero.com/ssvn90oy8pu5rhzvjqlr5t3218-flux-pro-nano-banana-pro-full-length-editorial-fashion-photograph-of-a-long-legged-woman-standing-against-a-minimalist-white-wall-she.jpeg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-(Nano Banana Pro) Full-length editorial fashion photograph of a long-legged woman standing against a minimalist white wall. She wears a stylish black-and-white gingham mini dress with a side slit and black strappy high heels. Her hands are posed gently against the wall with a wide stance. The background features two decorative, fan-shaped natural straw wall hangings mounted vertically. Modern indoor lighting, clean aesthetic, highly detailed, photorealistic.
-```
-
-[Source](https://prompthero.com/prompt/53f29c4e0ac-flux-pro-nano-banana-pro-full-length-editorial-fashion-photograph-of-a-long-legged-woman-standing-against-a-minimalist-white-wall-she)
 
 ---
 
@@ -294,22 +230,6 @@ close-up photograph of glossy purple, full lips slightly parted and twisted, rev
 
 ---
 
-<a id="prompthero-66a2b65df89"></a>
-
-## fashion photography, professional man model, shot \.\.\.
-
-<a href="https://cdn.prompthero.com/2h90js0hjq5f5z7df9r30llnfyzx-midjourney-6-fashion-photography-professional-man-model-shot-with-canon-eos-r3-50mm-f12-rf-lens-f28-settings-1160s-iso-1600-gradient.png"><img src="https://cdn.prompthero.com/2h90js0hjq5f5z7df9r30llnfyzx-midjourney-6-fashion-photography-professional-man-model-shot-with-canon-eos-r3-50mm-f12-rf-lens-f28-settings-1160s-iso-1600-gradient.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-fashion photography, professional man model, shot with Canon eos r3, 50mm f/1.2 rf lens, f/2.8 settings, 1/160s, iso 1600, gradient neon violet, streetwear style, holographic effect on wear, luminescent sneaker soles, dark backdrop with deep purple atmospheric lighting, professional studio setup with two led strip lights at floor level and one overhead softbox, cyberpunk aesthetic, side profile active pose with silhouette, dramatic contrast, ultra sharp details, photorealistic quality, rich detailing --ar 9:16 --quality 2 --style raw --personalize c84qxg1 --v 6.1
-```
-
-By [@Grayve](https://prompthero.com/prompt/66a2b65df89-midjourney-6-fashion-photography-professional-man-model-shot-with-canon-eos-r3-50mm-f12-rf-lens-f28-settings-1160s-iso-1600-gradient)
-
----
-
 <a id="prompthero-066e0e1f71b"></a>
 
 ## a girl wearing Chanel&\#39;s diamond-encrusted heels , \.\.\.
@@ -326,6 +246,88 @@ a girl wearing Chanel's diamond-encrusted heels ,  flat-chested, abs, thin, The 
 
 ---
 
-[1](portraits.md) · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · [5](portraits-5.md) · [6](portraits-6.md) · [7](portraits-7.md) · [8](portraits-8.md) · [9](portraits-9.md) · [10](portraits-10.md) · [11](portraits-11.md) · [12](portraits-12.md) · [13](portraits-13.md) · [14](portraits-14.md) · [15](portraits-15.md) · **16** · [17](portraits-17.md) · [18](portraits-18.md) · [19](portraits-19.md) · [20](portraits-20.md) · [21](portraits-21.md) · [22](portraits-22.md) · [23](portraits-23.md) · [24](portraits-24.md) · [25](portraits-25.md) · [26](portraits-26.md) · [27](portraits-27.md) · [28](portraits-28.md) · [29](portraits-29.md) · [30](portraits-30.md) · [31](portraits-31.md) · [32](portraits-32.md) · [33](portraits-33.md) · [34](portraits-34.md) · [35](portraits-35.md)
+<a id="prompthero-69ec18fd2ec"></a>
+
+## An illustration of a man walking through the stree\.\.\.
+
+<a href="https://cdn.prompthero.com/nuy67aam8zlru1lkstxhic49yil1-midjourney-61-an-illustration-of-a-man-walking-through-the-streets-with-people-in-ancient-rome-animals-are-carrying-stones-to-form.png"><img src="https://cdn.prompthero.com/nuy67aam8zlru1lkstxhic49yil1-midjourney-61-an-illustration-of-a-man-walking-through-the-streets-with-people-in-ancient-rome-animals-are-carrying-stones-to-form.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+An illustration of a man walking through the streets with people in ancient Rome, Animals are carrying stones to form a circle around him. The scene is set against a backdrop of Roman architecture and statues, in a realistic style. This is a concept art piece in the style of Greg Rutkowski, featuring cinematic lighting, intricate details, high resolution, high detail, sharp focus, super detailed, high quality, and high resolution. --ar 87:128 --style raw --stylize 750
+```
+
+By [@Dallas59](https://prompthero.com/prompt/69ec18fd2ec-midjourney-61-an-illustration-of-a-man-walking-through-the-streets-with-people-in-ancient-rome-animals-are-carrying-stones-to-form)
+
+---
+
+<a id="prompthero-70a3f39982c"></a>
+
+## \*\*Image Prompt:\*\*
+
+The background is a mesmerizing\.\.\.
+
+<a href="https://cdn.prompthero.com/05bykqxtplxm11wo0gcm54fjrotc-flux-flux-11-pro-image-prompt-the-background-is-a-mesmerizing-glowing-matrix-grid-in-a-vibrant-light-green-hue-with-cascading-streams-of.jpg"><img src="https://cdn.prompthero.com/05bykqxtplxm11wo0gcm54fjrotc-flux-flux-11-pro-image-prompt-the-background-is-a-mesmerizing-glowing-matrix-grid-in-a-vibrant-light-green-hue-with-cascading-streams-of.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+**Image Prompt:** The background is a mesmerizing, glowing matrix grid in a vibrant light green hue, with cascading streams of digital code flowing vertically and horizontally, creating a futuristic and cyberpunk atmosphere. At the center of the image stands a sleek, confident man wearing a sharp, tailored black suit with a crisp white shirt and a thin black tie. His face is partially obscured by stylish, opaque black sunglasses that reflect faint green lines of code, adding an air of mystery. The lighting is dramatic, with soft neon green highlights illuminating his silhouette, casting subtle shadows on the matrix background. The overall vibe is sleek, high-tech, and enigmatic, evoking a sense of power and sophistication.
+```
+
+[Source](https://prompthero.com/prompt/70a3f39982c-flux-flux-11-pro-image-prompt-the-background-is-a-mesmerizing-glowing-matrix-grid-in-a-vibrant-light-green-hue-with-cascading-streams-of)
+
+---
+
+<a id="prompthero-70f1982afa7"></a>
+
+## raw photo captured with Fujifilm GFX 100 II, Etern\.\.\.
+
+<a href="https://cdn.prompthero.com/n40f3034qe99kmlibqlpnv4nej-z-image-turbo-raw-photo-captured-with-fujifilm-gfx-100-ii-eterna-simulation-low-key-lighting-high-contrast-iso-100-with-gf-110mm.png"><img src="https://cdn.prompthero.com/n40f3034qe99kmlibqlpnv4nej-z-image-turbo-raw-photo-captured-with-fujifilm-gfx-100-ii-eterna-simulation-low-key-lighting-high-contrast-iso-100-with-gf-110mm.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+raw photo captured with Fujifilm GFX 100 II, Eterna simulation, low key lighting, high contrast, ISO 100, with GF 110mm f/2 R LM WR lens. Cinematic portrait of a young Turkic Hun warrior priestess in the style of Caravaggio and Rembrandt. The shaman is enveloped in rich earthy tones of deep umber and burnt sienna darkness. Her weathered leather armor, bone-and-feather headdress, and ancient jewelry catch the warm golden glow. Utilizes Natural Colour Solution to render hyper-realistic worn skin textures and life-like tones with a signature creamy bokeh that melts the deep shadows behind her. In those dark shadows, swirling ethereal incense smoke forms a faint, ghostly apparition of a wolf. High contrast, dramatic storytelling, evocative and mysterious mood.
+```
+
+[Source](https://prompthero.com/prompt/70f1982afa7-z-image-turbo-raw-photo-captured-with-fujifilm-gfx-100-ii-eterna-simulation-low-key-lighting-high-contrast-iso-100-with-gf-110mm)
+
+---
+
+<a id="prompthero-71ef3c6b89f"></a>
+
+## image of a person enveloped in a shroud-like mater\.\.\.
+
+<a href="https://cdn.prompthero.com/vr273qni0qn2q2agdryrzjx7se4z-midjourney-6-image-of-a-person-enveloped-in-a-shroud-like-material-appears-to-be-merging-with-the-air-around-them-high.png"><img src="https://cdn.prompthero.com/vr273qni0qn2q2agdryrzjx7se4z-midjourney-6-image-of-a-person-enveloped-in-a-shroud-like-material-appears-to-be-merging-with-the-air-around-them-high.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+image of a person enveloped in a shroud-like material, appears to be merging with the air around them, high contrast between the dark background and the bright, glowing texture of the material to give a feeling of emergence or transformation, monochrome shades to enhance the mysterious and intense atmosphere --ar 9:16 --style raw
+```
+
+By [@Grayve](https://prompthero.com/prompt/71ef3c6b89f-midjourney-6-image-of-a-person-enveloped-in-a-shroud-like-material-appears-to-be-merging-with-the-air-around-them-high)
+
+---
+
+<a id="prompthero-072d7fd3c00"></a>
+
+## photography, female model, bottom tilt shot, front\.\.\.
+
+<a href="https://cdn.prompthero.com/h2loy9s91cth3ouw6ht10r37om-midjourney-shatter-photography-female-model-bottom-tilt-shot-front-central-composition-full-body-profile-pose-gaze-used-camera-is-canon-eos-r3.png"><img src="https://cdn.prompthero.com/h2loy9s91cth3ouw6ht10r37om-midjourney-shatter-photography-female-model-bottom-tilt-shot-front-central-composition-full-body-profile-pose-gaze-used-camera-is-canon-eos-r3.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+photography, female model, bottom tilt shot, front central composition, full-body profile pose, gaze, used camera is Canon EOS R3, 50mm f/1.2 RF lens, f/2.8 set, 1/160s, iso 100, blue to yellow, street fashion, white short hair, white loose-fit t-shirt, cargo jogger pants, running sneakers, deep atmospheric lighting, low-key, urbanism aesthetic, dramatic contrast, ultra sharp details, photorealistic quality, rich detailing --ar 9:16 --raw --profile otwluoo
+```
+
+By [@Grayve](https://prompthero.com/prompt/072d7fd3c00-midjourney-shatter-photography-female-model-bottom-tilt-shot-front-central-composition-full-body-profile-pose-gaze-used-camera-is-canon-eos-r3)
+
+---
+
+[1](portraits.md) · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · [5](portraits-5.md) · [6](portraits-6.md) · [7](portraits-7.md) · [8](portraits-8.md) · [9](portraits-9.md) · [10](portraits-10.md) · [11](portraits-11.md) · [12](portraits-12.md) · [13](portraits-13.md) · [14](portraits-14.md) · [15](portraits-15.md) · **16** · [17](portraits-17.md) · [18](portraits-18.md) · [19](portraits-19.md) · [20](portraits-20.md) · [21](portraits-21.md) · [22](portraits-22.md) · [23](portraits-23.md) · [24](portraits-24.md) · [25](portraits-25.md) · [26](portraits-26.md) · [27](portraits-27.md) · [28](portraits-28.md) · [29](portraits-29.md) · [30](portraits-30.md) · [31](portraits-31.md) · [32](portraits-32.md) · [33](portraits-33.md) · [34](portraits-34.md)
 
 [← Home](../README.md)

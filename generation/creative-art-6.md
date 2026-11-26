@@ -1,26 +1,10 @@
 # creative art
 
-[← Home](../README.md) · Page 6 / 14
+[← Home](../README.md) · Page 6 / 13
 
-[1](creative-art.md) · [2](creative-art-2.md) · [3](creative-art-3.md) · [4](creative-art-4.md) · [5](creative-art-5.md) · **6** · [7](creative-art-7.md) · [8](creative-art-8.md) · [9](creative-art-9.md) · [10](creative-art-10.md) · [11](creative-art-11.md) · [12](creative-art-12.md) · [13](creative-art-13.md) · [14](creative-art-14.md)
+[1](creative-art.md) · [2](creative-art-2.md) · [3](creative-art-3.md) · [4](creative-art-4.md) · [5](creative-art-5.md) · **6** · [7](creative-art-7.md) · [8](creative-art-8.md) · [9](creative-art-9.md) · [10](creative-art-10.md) · [11](creative-art-11.md) · [12](creative-art-12.md) · [13](creative-art-13.md)
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
-
-<a id="prompthero-26fc1da943b"></a>
-
-## Codename: Destructo
-
-<a href="https://cdn.prompthero.com/5b2m1x8wyg6ibez43ij77j8aed8a-midjourney-51-codename-destructo.jpg"><img src="https://cdn.prompthero.com/5b2m1x8wyg6ibez43ij77j8aed8a-midjourney-51-codename-destructo.jpg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-Futuristic soldier with advanced armor, weaponry, and helmet, dark army green, street, overcast, reflection mapping, intricate design and details, dramatic lighting, hyperrealism, photorealistic, cinematic, 8k, unreal engine --ar 9:16 --s 750
-```
-
-By [@abyishot](https://prompthero.com/prompt/26fc1da943b-midjourney-51-codename-destructo)
-
----
 
 <a id="prompthero-27e141ad9e7"></a>
 
@@ -131,22 +115,6 @@ Photo of a ultra realistic missile on rote, bright light, cinematic lighting, ba
 ```
 
 [Source](https://prompthero.com/prompt/46c0af6e75f-epicrealism-pure-evolution-v3-photo-of-a-ultra-realistic-missile-on-rote-bright-light-cinematic-lighting-battered-low-angle-trending-on-artstation-8k-ultra)
-
----
-
-<a id="prompthero-47f275a2c8e"></a>
-
-## A moody, hyper realistic and, cinematic scene of a\.\.\.
-
-<a href="https://cdn.prompthero.com/ou3fnyglxco82b66vg9sfxa2p7sc-flux-dev-a-moody-hyper-realistic-and-cinematic-scene-of-a-woman-seated-on-a-wooden-floor-in-a-dimly-lit-room.jpeg"><img src="https://cdn.prompthero.com/ou3fnyglxco82b66vg9sfxa2p7sc-flux-dev-a-moody-hyper-realistic-and-cinematic-scene-of-a-woman-seated-on-a-wooden-floor-in-a-dimly-lit-room.jpeg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-A moody, hyper realistic and, cinematic scene of a woman seated on a wooden floor in a dimly lit room, she looks calm and relaxed. She wears dark, floral-patterned lingerie, her posture slightly slouched as she leans against the wall, holding an empty glass bottle in one hand. To her side, a small red lamp casts a soft, warm glow, creating dramatic shadows and highlighting her silhouette. The wallpaper behind her has a subtle floral pattern, adding texture to the otherwise minimal room. A colorful wall clock above hints at time passing, while small details—a burnt-out cigarette, a lighter nearby—enhance the sense of melancholy and solitude. The overall color palette is subdued, with muted tones, allowing the red light and shadows to add contrast and depth to the scene. A contemplative, fine art photograph capturing a moment of quiet introspection and urban solitude.
-```
-
-[Source](https://prompthero.com/prompt/47f275a2c8e-flux-dev-a-moody-hyper-realistic-and-cinematic-scene-of-a-woman-seated-on-a-wooden-floor-in-a-dimly-lit-room)
 
 ---
 
@@ -326,6 +294,38 @@ By [@chorlo](https://prompthero.com/prompt/77b8165e8e0-chatgpt-image-gpt-4o-a-hy
 
 ---
 
-[1](creative-art.md) · [2](creative-art-2.md) · [3](creative-art-3.md) · [4](creative-art-4.md) · [5](creative-art-5.md) · **6** · [7](creative-art-7.md) · [8](creative-art-8.md) · [9](creative-art-9.md) · [10](creative-art-10.md) · [11](creative-art-11.md) · [12](creative-art-12.md) · [13](creative-art-13.md) · [14](creative-art-14.md)
+<a id="prompthero-84fff235854"></a>
+
+## \(A hyper-realistic, masterpiece-level color photo\.\.\.
+
+<a href="https://cdn.prompthero.com/ciz3bx4lwgp9ygi1bem8gtomgels-flux-dev-a-hyper-realistic-masterpiece-level-color-photograph13-of-a-beautiful-woman-floating-underwater-at-night-nighttime14-her-body-suspended-in.png"><img src="https://cdn.prompthero.com/ciz3bx4lwgp9ygi1bem8gtomgels-flux-dev-a-hyper-realistic-masterpiece-level-color-photograph13-of-a-beautiful-woman-floating-underwater-at-night-nighttime14-her-body-suspended-in.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+(A hyper-realistic, masterpiece-level color photograph:1.3) of a beautiful woman floating underwater at night (nighttime:1.4), her body suspended in a serene, ethereal pose. She wears a long, flowing chiffon fabric (sheer, weightless chiffon:1.3), nearly transparent, fluttering around her. Her legs are slightly crossed, and her arms are extended gracefully, while her face is submerged two feet beneath the water’s surface. The environment feels cold and ghostly (cold, haunting atmosphere:1.4), with a chilling sense of stillness. Around her, dozens of small, glowing stars (small floating stars:1.5) float gently in the water, as if from a children’s book. These tiny stars emit a soft, magical light, illuminating the scene with a warm, delicate glow. The stars are scattered around her, gently swaying and drifting in the currents, creating a surreal, dreamlike atmosphere. Their soft, yellow-white light interacts with the dark, cold water, casting dynamic reflections and intricate patterns across her skin, the chiffon fabric, and the sandy bottom beneath her (light reflections:1.3). The floating stars give off a sense of magic, like constellations brought to life in the underwater world. The scene is further enhanced by volumetric beams of light (volumetric lighting:1.4) emanating from the stars, creating a soft, cinematic glow that dances with the water’s gentle ripples. Air bubbles rise from her clothing, adding realism and movement to the stillness of the water (realistic air bubbles:1.3). Her hair floats freely, moving with the gentle water currents, enhancing the weightless, ethereal feel. The lighting from the stars emphasizes the fine textures of her skin, the chiffon fabric, and the water, creating a timeless, cinematic look with medium format quality (medium format cinematic look:1.2).
+```
+
+[Source](https://prompthero.com/prompt/84fff235854-flux-dev-a-hyper-realistic-masterpiece-level-color-photograph13-of-a-beautiful-woman-floating-underwater-at-night-nighttime14-her-body-suspended-in)
+
+---
+
+<a id="prompthero-86c997a6f00"></a>
+
+## An adorable baby otter standing upright on a rusti\.\.\.
+
+<a href="https://cdn.prompthero.com/zt3oifa9pf20qhrhoiiow8xkdp-hero-10-an-adorable-baby-otter-standing-upright-on-a-rustic-wooden-kitchen-table-tiny-paws-resting-naturally-in-front-of-its.jpeg"><img src="https://cdn.prompthero.com/zt3oifa9pf20qhrhoiiow8xkdp-hero-10-an-adorable-baby-otter-standing-upright-on-a-rustic-wooden-kitchen-table-tiny-paws-resting-naturally-in-front-of-its.jpeg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+An adorable baby otter standing upright on a rustic wooden kitchen table, tiny paws resting naturally in front of its chest, fluffy brown fur with incredibly detailed texture, huge glossy innocent eyes, a tiny wet nose, cute and curious expression. The otter wears a homemade burglar mask crafted from a shiny black plastic trash bag, with only the eyes, nose, and mouth visible, creating a funny yet adorable look. On the left side of the table is a wooden crate filled with fresh ripe strawberries, while on the right sits a woven basket overflowing with blueberries, with a few berries naturally scattered across the tabletop. The background is a cozy modern kitchen with wooden cutting boards, cookware, white cabinets, and a retro kettle softly blurred. Warm morning sunlight streams through the window, cinematic lighting, ultra photorealistic, extremely detailed fur, DSLR photography, 85mm lens, f/1.8, shallow depth of field, soft bokeh, HDR, 8K, ultra realistic, centered composition, subject filling about 70% of the frame, award-winning wildlife portrait, viral cute animal photography, vertical 9:16.
+```
+
+[Source](https://prompthero.com/prompt/86c997a6f00-hero-10-an-adorable-baby-otter-standing-upright-on-a-rustic-wooden-kitchen-table-tiny-paws-resting-naturally-in-front-of-its)
+
+---
+
+[1](creative-art.md) · [2](creative-art-2.md) · [3](creative-art-3.md) · [4](creative-art-4.md) · [5](creative-art-5.md) · **6** · [7](creative-art-7.md) · [8](creative-art-8.md) · [9](creative-art-9.md) · [10](creative-art-10.md) · [11](creative-art-11.md) · [12](creative-art-12.md) · [13](creative-art-13.md)
 
 [← Home](../README.md)

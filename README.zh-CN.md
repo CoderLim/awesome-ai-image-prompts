@@ -2,7 +2,7 @@
 
 [English](README.md) · [来源](SOURCES.md)
 
-共 1940 个可浏览案例。参考图生成包含风格转换、换装等基于输入图的任务；普通图片生成暂含输入要求待确认的案例。每个案例默认展示一张原始效果图，仅来源明确的编辑前后对比保留两张。完整提示词以可复制的单行代码块展示，原始格式保留在 JSON 中。案例未独立复现。
+共 1904 个可浏览案例。参考图生成包含风格转换、换装等基于输入图的任务；普通图片生成暂含输入要求待确认的案例。每个案例默认展示一张原始效果图，仅来源明确的编辑前后对比保留两张。完整提示词以可复制的单行代码块展示，原始格式保留在 JSON 中。案例未独立复现。
 
 ## 图片生成
 
@@ -68,19 +68,19 @@
 
 ### 图片生成
 
-- [portraits](generation/portraits.md) (696)
+- [portraits](generation/portraits.md) (679)
 - [avatars](generation/avatars.md) (10)
-- [illustrations](generation/illustrations.md) (211)
+- [illustrations](generation/illustrations.md) (205)
 - [products](generation/products.md) (46)
-- [posters](generation/posters.md) (133)
-- [characters](generation/characters.md) (111)
-- [architecture](generation/architecture.md) (51)
+- [posters](generation/posters.md) (132)
+- [characters](generation/characters.md) (110)
+- [architecture](generation/architecture.md) (49)
 - [infographics](generation/infographics.md) (52)
 - [logos](generation/logos.md) (25)
 - [travel](generation/travel.md) (56)
 - [ui mockups](generation/ui-mockups.md) (28)
 - [comics storyboards](generation/comics-storyboards.md) (19)
-- [creative art](generation/creative-art.md) (265)
+- [creative art](generation/creative-art.md) (257)
 - [other](generation/other.md) (42)
 
 ### 参考图生成
@@ -100,7 +100,7 @@
 - [creative art](reference/creative-art.md) (9)
 - [other](reference/other.md) (6)
 - [restyle](reference/restyle.md) (18)
-- [portrait editing](reference/portrait-editing.md) (6)
+- [portrait editing](reference/portrait-editing.md) (5)
 - [outfit change](reference/outfit-change.md) (3)
 - [background change](reference/background-change.md) (2)
 - [object removal](reference/object-removal.md) (1)

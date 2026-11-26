@@ -6,22 +6,6 @@
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
-<a id="freestylefly-case-411"></a>
-
-## 极简建筑地标海报
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case411.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case411.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Design a luxury minimalist poster centered on a famous architectural landmark of your choice ([building name]). The focal element is an illustrated rendering of the building. Behind it, place one giant bold English word in a design-forward typeface whose character matches the building's identity, with smaller body copy nearby describing its design philosophy. The composition should read as an ultra high-end art poster. Use a restrained, low-key color palette where graphic elements interlock with the architecture, appearing as if they form part of its structural components or extend outward from its silhouette.
-```
-
-By [@iamaiistudio](https://x.com/iamaiistudio/status/2053084576520573269)
-
----
-
 <a id="freestylefly-case-417"></a>
 
 ## 复古印尼猫薄荷广告
@@ -323,6 +307,22 @@ By [@Goodmanprotocol](https://x.com/Goodmanprotocol/status/2071819124708438092)
 ```
 
 By [@MiMundoConIA](https://x.com/MiMundoConIA/status/2077046470335938826)
+
+---
+
+<a id="freestylefly-case-526"></a>
+
+## 体积激光黑场海报
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case526.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case526.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+从全黑剧场开始，像切标本一样用六片真实体积激光把空间分层。光面必须有明确起点、透视和薄雾中的厚度，人物站在交汇点，透明道具折射出一小束异色光扇。构图沿左下至右上的对角线推进，脸只用一道克制边光揭示；标题与其中一片光面共享透视，小字留在纯黑负空间。每次替换主题与角色时，不得退化成夜店模板、HUD、霓虹城市或无物理来源的光线。
+```
+
+By [@zhidawang219555](https://x.com/zhidawang219555/status/2090246237094310178)
 
 ---
 

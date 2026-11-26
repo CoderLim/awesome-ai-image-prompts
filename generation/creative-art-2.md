@@ -1,8 +1,8 @@
 # creative art
 
-[← Home](../README.md) · Page 2 / 14
+[← Home](../README.md) · Page 2 / 13
 
-[1](creative-art.md) · **2** · [3](creative-art-3.md) · [4](creative-art-4.md) · [5](creative-art-5.md) · [6](creative-art-6.md) · [7](creative-art-7.md) · [8](creative-art-8.md) · [9](creative-art-9.md) · [10](creative-art-10.md) · [11](creative-art-11.md) · [12](creative-art-12.md) · [13](creative-art-13.md) · [14](creative-art-14.md)
+[1](creative-art.md) · **2** · [3](creative-art-3.md) · [4](creative-art-4.md) · [5](creative-art-5.md) · [6](creative-art-6.md) · [7](creative-art-7.md) · [8](creative-art-8.md) · [9](creative-art-9.md) · [10](creative-art-10.md) · [11](creative-art-11.md) · [12](creative-art-12.md) · [13](creative-art-13.md)
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
@@ -326,6 +326,6 @@ Transform to extreme vivid fantasy realism style art, ultra-detailed masterpiece
 
 ---
 
-[1](creative-art.md) · **2** · [3](creative-art-3.md) · [4](creative-art-4.md) · [5](creative-art-5.md) · [6](creative-art-6.md) · [7](creative-art-7.md) · [8](creative-art-8.md) · [9](creative-art-9.md) · [10](creative-art-10.md) · [11](creative-art-11.md) · [12](creative-art-12.md) · [13](creative-art-13.md) · [14](creative-art-14.md)
+[1](creative-art.md) · **2** · [3](creative-art-3.md) · [4](creative-art-4.md) · [5](creative-art-5.md) · [6](creative-art-6.md) · [7](creative-art-7.md) · [8](creative-art-8.md) · [9](creative-art-9.md) · [10](creative-art-10.md) · [11](creative-art-11.md) · [12](creative-art-12.md) · [13](creative-art-13.md)
 
 [← Home](../README.md)

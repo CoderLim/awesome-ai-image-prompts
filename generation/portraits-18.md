@@ -1,122 +1,10 @@
 # portraits
 
-[← Home](../README.md) · Page 18 / 35
+[← Home](../README.md) · Page 18 / 34
 
-[1](portraits.md) · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · [5](portraits-5.md) · [6](portraits-6.md) · [7](portraits-7.md) · [8](portraits-8.md) · [9](portraits-9.md) · [10](portraits-10.md) · [11](portraits-11.md) · [12](portraits-12.md) · [13](portraits-13.md) · [14](portraits-14.md) · [15](portraits-15.md) · [16](portraits-16.md) · [17](portraits-17.md) · **18** · [19](portraits-19.md) · [20](portraits-20.md) · [21](portraits-21.md) · [22](portraits-22.md) · [23](portraits-23.md) · [24](portraits-24.md) · [25](portraits-25.md) · [26](portraits-26.md) · [27](portraits-27.md) · [28](portraits-28.md) · [29](portraits-29.md) · [30](portraits-30.md) · [31](portraits-31.md) · [32](portraits-32.md) · [33](portraits-33.md) · [34](portraits-34.md) · [35](portraits-35.md)
+[1](portraits.md) · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · [5](portraits-5.md) · [6](portraits-6.md) · [7](portraits-7.md) · [8](portraits-8.md) · [9](portraits-9.md) · [10](portraits-10.md) · [11](portraits-11.md) · [12](portraits-12.md) · [13](portraits-13.md) · [14](portraits-14.md) · [15](portraits-15.md) · [16](portraits-16.md) · [17](portraits-17.md) · **18** · [19](portraits-19.md) · [20](portraits-20.md) · [21](portraits-21.md) · [22](portraits-22.md) · [23](portraits-23.md) · [24](portraits-24.md) · [25](portraits-25.md) · [26](portraits-26.md) · [27](portraits-27.md) · [28](portraits-28.md) · [29](portraits-29.md) · [30](portraits-30.md) · [31](portraits-31.md) · [32](portraits-32.md) · [33](portraits-33.md) · [34](portraits-34.md)
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
-
-<a id="prompthero-96db0c5e224"></a>
-
-## Award winning illustration of a mature young man, \.\.\.
-
-<a href="https://cdn.prompthero.com/30l2yo6rbv3nd57oa0a5smaqejcd-dreamshaper-5-baked-vae-nobel-award-winning-illustration-of-a-mature-young-man-black-long-hair-black-eyes-aristocrat-uniform-handsome-stylish-22-perfect-quality.png"><img src="https://cdn.prompthero.com/30l2yo6rbv3nd57oa0a5smaqejcd-dreamshaper-5-baked-vae-nobel-award-winning-illustration-of-a-mature-young-man-black-long-hair-black-eyes-aristocrat-uniform-handsome-stylish-22-perfect-quality.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-Award winning illustration of a mature young man, Black long hair, black eyes, aristocrat, uniform, handsome, stylish, 22, perfect quality, masterpiece, best quality, perfect details, colorful details, animation, illustration, mansion background, 16k, UHD, HDR,(Masterpiece:1.5),(best quality:1.5)
-```
-
-By [@ScArecrow23](https://prompthero.com/prompt/96db0c5e224-dreamshaper-5-baked-vae-nobel-award-winning-illustration-of-a-mature-young-man-black-long-hair-black-eyes-aristocrat-uniform-handsome-stylish-22-perfect-quality)
-
----
-
-<a id="prompthero-96ec4368edf"></a>
-
-## the woman in the field is dressed for the camera, \.\.\.
-
-<a href="https://cdn.prompthero.com/8vzfiozqu9eu7regafbzq5gh5wvc-midjourney-6-the-woman-in-the-field-is-dressed-for-the-camera-in-the-style-of-daria-endresen-kris-knight-scottish-landscapes.png"><img src="https://cdn.prompthero.com/8vzfiozqu9eu7regafbzq5gh5wvc-midjourney-6-the-woman-in-the-field-is-dressed-for-the-camera-in-the-style-of-daria-endresen-kris-knight-scottish-landscapes.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-the woman in the field is dressed for the camera, in the style of daria endresen, kris knight, scottish landscapes, light navy and dark brown, georg jensen, intense close-ups, matte photo --ar 1:2 --stylize 750 --v 6
-```
-
-By [@NorthmoorAI](https://prompthero.com/prompt/96ec4368edf-midjourney-6-the-woman-in-the-field-is-dressed-for-the-camera-in-the-style-of-daria-endresen-kris-knight-scottish-landscapes)
-
----
-
-<a id="prompthero-98ca945015d"></a>
-
-## image of a woman with a thoughtful expression, cov\.\.\.
-
-<a href="https://cdn.prompthero.com/jhav0onbrpe68q648uc3kixvv1yy-midjourney-6-image-of-a-woman-with-a-thoughtful-expression-covering-half-of-her-face-with-her-hand-pure-red-background-to.png"><img src="https://cdn.prompthero.com/jhav0onbrpe68q648uc3kixvv1yy-midjourney-6-image-of-a-woman-with-a-thoughtful-expression-covering-half-of-her-face-with-her-hand-pure-red-background-to.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-image of a woman with a thoughtful expression, covering half of her face with her hand, pure red background to emphasize facial details and create a mysterious vibe, realistic, UHD, rich detail --ar 9:16 --v 6
-```
-
-By [@Grayve](https://prompthero.com/prompt/98ca945015d-midjourney-6-image-of-a-woman-with-a-thoughtful-expression-covering-half-of-her-face-with-her-hand-pure-red-background-to)
-
----
-
-<a id="prompthero-99bf100d134"></a>
-
-## Woman, Sith lord, red eyes, red light saber in rig\.\.\.
-
-<a href="https://cdn.prompthero.com/hmu092nphlzirs4cq225rclze84e-flux-flux-11-pro-woman-sith-lord-red-eyes-red-light-saber-in-right-hand-extend-at-a-45-degree-angle-black-cloak-standing.jpg"><img src="https://cdn.prompthero.com/hmu092nphlzirs4cq225rclze84e-flux-flux-11-pro-woman-sith-lord-red-eyes-red-light-saber-in-right-hand-extend-at-a-45-degree-angle-black-cloak-standing.jpg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-Woman, Sith lord, red eyes, red light saber in right hand extend at a 45 degree angle, black cloak, standing, angry, back to the camera, full body view, Dark spaceship hallway
-```
-
-[Source](https://prompthero.com/prompt/99bf100d134-flux-flux-11-pro-woman-sith-lord-red-eyes-red-light-saber-in-right-hand-extend-at-a-45-degree-angle-black-cloak-standing)
-
----
-
-<a id="prompthero-99c4106ae1c"></a>
-
-## portrait of a Lumberjack woman with huge beautiful\.\.\.
-
-<a href="https://cdn.prompthero.com/ufkmit2x12gxpn7zkcfamwgokztq-stable-diffusion-xl-base-09-portrait-of-a-lumberjack-woman-with-huge-beautiful-braid-wearing-tight-fitting-outfit-intricate-action-pose-oil-paint-ancient-illuminated.png"><img src="https://cdn.prompthero.com/ufkmit2x12gxpn7zkcfamwgokztq-stable-diffusion-xl-base-09-portrait-of-a-lumberjack-woman-with-huge-beautiful-braid-wearing-tight-fitting-outfit-intricate-action-pose-oil-paint-ancient-illuminated.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-portrait of a Lumberjack woman with huge beautiful braid, wearing tight-fitting outfit, intricate action pose, Oil paint, ancient, illuminated by the light of twilight, with a backdrop of a big oldest house and ancient forest., Mysterious, brilliant art by Allan Jabbar, Yann Dalon, Toni Infante, Amr Elshamy,
-```
-
-[Source](https://prompthero.com/prompt/99c4106ae1c-stable-diffusion-xl-base-09-portrait-of-a-lumberjack-woman-with-huge-beautiful-braid-wearing-tight-fitting-outfit-intricate-action-pose-oil-paint-ancient-illuminated)
-
----
-
-<a id="prompthero-99df324d537"></a>
-
-## artistic, oil painting, right face composition, po\.\.\.
-
-<a href="https://cdn.prompthero.com/zcvxef7zwaws8lhgq2z3mgawcfni-midjourney-6-artistic-oil-painting-right-face-composition-portrait-of-girl-empty-eyes-gaze-grainy-touch-minimalist-avant-garde-rich-detailing-style.png"><img src="https://cdn.prompthero.com/zcvxef7zwaws8lhgq2z3mgawcfni-midjourney-6-artistic-oil-painting-right-face-composition-portrait-of-girl-empty-eyes-gaze-grainy-touch-minimalist-avant-garde-rich-detailing-style.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-artistic, oil painting, right face composition, portrait of girl, empty eyes, gaze, grainy touch, minimalist avant-garde, rich detailing, style inpired by Diego Velazquez, many knives, rough --ar 9:16 --quality 2 --style raw --personalize ue2yzjl --v 6.1
-```
-
-By [@Grayve](https://prompthero.com/prompt/99df324d537-midjourney-6-artistic-oil-painting-right-face-composition-portrait-of-girl-empty-eyes-gaze-grainy-touch-minimalist-avant-garde-rich-detailing-style)
-
----
-
-<a id="prompthero-121e3844167"></a>
-
-## photo of Angel Gabriel, an exquisite portrait of A\.\.\.
-
-<a href="https://cdn.prompthero.com/cy6dacafpm78c5h6k6pp1f084evc-midjourney-52-photo-of-angel-gabriel-an-exquisite-portrait-of-angel-gabriel-in-his-celestial-form-the-image-capturing-his-flawless-skin.png"><img src="https://cdn.prompthero.com/cy6dacafpm78c5h6k6pp1f084evc-midjourney-52-photo-of-angel-gabriel-an-exquisite-portrait-of-angel-gabriel-in-his-celestial-form-the-image-capturing-his-flawless-skin.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-photo of Angel Gabriel, an exquisite portrait of Angel Gabriel in his celestial form, the image capturing his flawless skin pores and detailed textures, attired in traditional Arc-angel garb, perfect hands, the ambiance is peaceful and profoundly spiritual, the lighting casting an ethereal glow on his figure, photographic, the photograph is a stunning demonstration of photorealism, captured with a Sony Alpha 1 camera, 85mm lens, and f/1. 4 aperture, a shutter speed of 1/500, and ISO 100 film, the final image is in 8K UHD, with an array of muted and neutral tones
-```
-
-By [@Dallas59](https://prompthero.com/prompt/121e3844167-midjourney-52-photo-of-angel-gabriel-an-exquisite-portrait-of-angel-gabriel-in-his-celestial-form-the-image-capturing-his-flawless-skin)
-
----
 
 <a id="prompthero-122ae4fe279"></a>
 
@@ -230,22 +118,6 @@ By [@Grayve](https://prompthero.com/prompt/213df9dc954-midjourney-6-camouflage-c
 
 ---
 
-<a id="prompthero-221c8121a4f"></a>
-
-## general view of a man and a woman wearing futurist\.\.\.
-
-<a href="https://cdn.prompthero.com/1dy0tvaqy2hxciel8vgnxky4fftf-midjourney-52-general-view-of-a-man-and-a-woman-wearing-futuristic-uniforms-inside-the-interior-of-a-spaceship-with-some-windows.png"><img src="https://cdn.prompthero.com/1dy0tvaqy2hxciel8vgnxky4fftf-midjourney-52-general-view-of-a-man-and-a-woman-wearing-futuristic-uniforms-inside-the-interior-of-a-spaceship-with-some-windows.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-general view of a man and a woman wearing futuristic uniforms, inside the interior of a spaceship with some windows to observe the outside, orange and beige color, realistic hyper-detailed rendering, hyper-realistic details, 32k uhd, masterpiece, photo, digital art, science fiction --v 5.2
-```
-
-[Source](https://prompthero.com/prompt/221c8121a4f-midjourney-52-general-view-of-a-man-and-a-woman-wearing-futuristic-uniforms-inside-the-interior-of-a-spaceship-with-some-windows)
-
----
-
 <a id="prompthero-221cbcb0091"></a>
 
 ## venom suit spider man, New york street as backgrou\.\.\.
@@ -326,6 +198,134 @@ By [@Grayve](https://prompthero.com/prompt/294a9aab704-midjourney-7-photography-
 
 ---
 
-[1](portraits.md) · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · [5](portraits-5.md) · [6](portraits-6.md) · [7](portraits-7.md) · [8](portraits-8.md) · [9](portraits-9.md) · [10](portraits-10.md) · [11](portraits-11.md) · [12](portraits-12.md) · [13](portraits-13.md) · [14](portraits-14.md) · [15](portraits-15.md) · [16](portraits-16.md) · [17](portraits-17.md) · **18** · [19](portraits-19.md) · [20](portraits-20.md) · [21](portraits-21.md) · [22](portraits-22.md) · [23](portraits-23.md) · [24](portraits-24.md) · [25](portraits-25.md) · [26](portraits-26.md) · [27](portraits-27.md) · [28](portraits-28.md) · [29](portraits-29.md) · [30](portraits-30.md) · [31](portraits-31.md) · [32](portraits-32.md) · [33](portraits-33.md) · [34](portraits-34.md) · [35](portraits-35.md)
+<a id="prompthero-328eee6ead1"></a>
+
+## Ultra-realistic photo of an anthropomorphic chili \.\.\.
+
+<a href="https://cdn.prompthero.com/ncpcyh4vbb07r956s12xqbtde4pl-flux-pro-ultra-realistic-photo-of-an-anthropomorphic-chili-pepper-with-a-glossy-red-surface-smiling-with-human-teeth-and-wearing-black.jpg"><img src="https://cdn.prompthero.com/ncpcyh4vbb07r956s12xqbtde4pl-flux-pro-ultra-realistic-photo-of-an-anthropomorphic-chili-pepper-with-a-glossy-red-surface-smiling-with-human-teeth-and-wearing-black.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+Ultra-realistic photo of an anthropomorphic chili pepper with a glossy red surface, smiling with human teeth and wearing black sunglasses. Surrounded by realistic flames, the pepper is sharply in focus, while the fiery background is slightly blurred. Dramatic lighting, detailed textures, expressive and joyful face, professional studio photography style.
+```
+
+[Source](https://prompthero.com/prompt/328eee6ead1-flux-pro-ultra-realistic-photo-of-an-anthropomorphic-chili-pepper-with-a-glossy-red-surface-smiling-with-human-teeth-and-wearing-black)
+
+---
+
+<a id="prompthero-377f558fa96"></a>
+
+## modernist, Constructivist Fashion full body photo \.\.\.
+
+<a href="https://cdn.prompthero.com/lu6f6ylxodl107gqb8176dsr7a5n-flux-flux-11-pro-modernist-constructivist-fashion-full-body-photo-of-a-24-year-old-anuak-sinhalese-female-boho-chic-beauty-with-pensive-look.jpg"><img src="https://cdn.prompthero.com/lu6f6ylxodl107gqb8176dsr7a5n-flux-flux-11-pro-modernist-constructivist-fashion-full-body-photo-of-a-24-year-old-anuak-sinhalese-female-boho-chic-beauty-with-pensive-look.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+modernist, Constructivist Fashion full body photo of a 24-year-old Anuak-Sinhalese female boho chic beauty with Pensive look with fragmented features expression. She has Medium-tan skin with a hint of olive, evenly bronzed from regular sun exposure. The skin pores and texture are clearly visible and in focus. Her Eyes with scalloped edges, Soft, pale green eyes, framed by long, elegant eyelashes. Her haircut is Geometric afro with precise, angular shaping, haircolor is Revolutionary Green. Her eyebrows are Retro arch shaped, complementing her delicate facial features. Her body is Strong, rounded shoulders that create a powerful silhouette, bigger breast, toned abs. She is dressed with Cropped hoodie with graphic panels, midriff, Slim-fit jeans with geometric color-blocking. She is positioned in Fragmented body rotation inspired by Cubo-Futurism on the left side in the frame by the rule of thirds. In the background Civic plaza with towering, geometric buildings. The scene is lighted Geometric patterns with high-contrast color lighting. the model is lighted with soft natural lighting in the style of Sergei Senkin
+```
+
+[Source](https://prompthero.com/prompt/377f558fa96-flux-flux-11-pro-modernist-constructivist-fashion-full-body-photo-of-a-24-year-old-anuak-sinhalese-female-boho-chic-beauty-with-pensive-look)
+
+---
+
+<a id="prompthero-400a20c3a87"></a>
+
+## high resolution photography, front central profile\.\.\.
+
+<a href="https://cdn.prompthero.com/lapcjheub4irmicpdv5x8hykgs-midjourney-shatter-high-resolution-photography-front-central-profile-woman-facing-front-gaze-to-front-wearing-a-white-turtleneck-sweater-photographed-entirely-through.png"><img src="https://cdn.prompthero.com/lapcjheub4irmicpdv5x8hykgs-midjourney-shatter-high-resolution-photography-front-central-profile-woman-facing-front-gaze-to-front-wearing-a-white-turtleneck-sweater-photographed-entirely-through.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+high resolution photography, front central profile, woman facing front, gaze to front, wearing a white turtleneck sweater, photographed entirely through thick vertically reeded architectural glass, vertical grooves running top to bottom across the entire frame, parallel vertical lines clearly visible, full-frame optical distortion dominating the image, acrylic glass in the foreground textured, realistic physical light refraction warping the profile of the face and upper body into vertical repetitions, subtle light softly radiating from the clothing and gently bleeding into the glass ridges, faint light scattering through the vertical grooves, low-key studio background in pale off-white tones, cool neutral lighting, restrained and minimal, realistic physics --ar 9:16 --raw --stylize 400
+```
+
+By [@Grayve](https://prompthero.com/prompt/400a20c3a87-midjourney-shatter-high-resolution-photography-front-central-profile-woman-facing-front-gaze-to-front-wearing-a-white-turtleneck-sweater-photographed-entirely-through)
+
+---
+
+<a id="prompthero-431e83c61b9"></a>
+
+## futuristic surrealism, front portrait of a man, si\.\.\.
+
+<a href="https://cdn.prompthero.com/wokaa11b2jspl8iiz0xqf0rh4vkf-midjourney-61-futuristic-surrealism-front-portrait-of-a-man-side-shot-transparent-skin-revealing-her-bones-glowing-with-a-neon-blue-bio.png"><img src="https://cdn.prompthero.com/wokaa11b2jspl8iiz0xqf0rh4vkf-midjourney-61-futuristic-surrealism-front-portrait-of-a-man-side-shot-transparent-skin-revealing-her-bones-glowing-with-a-neon-blue-bio.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+futuristic surrealism, front portrait of a man, side shot, transparent skin revealing her bones, glowing with a neon-blue bio-luminescent effect, minimalist avant-garde style wearing, surrounded by a dark ambient that contrasts with the sharp details of his bones, background is surreal and sci-fi moody with deep fog, lighting is soft with a cool futuristic violet tone, illuminating the skeletal structure subtly, translucent textures, cinematic lighting, cyberpunk aesthetics, x-ray vision, futuristic materials, minimalism and realism --ar 9:16 --raw --v 7
+```
+
+By [@Grayve](https://prompthero.com/prompt/431e83c61b9-midjourney-61-futuristic-surrealism-front-portrait-of-a-man-side-shot-transparent-skin-revealing-her-bones-glowing-with-a-neon-blue-bio)
+
+---
+
+<a id="prompthero-454f80bd28f"></a>
+
+## In this stunning 8K scene, every element is render\.\.\.
+
+<a href="https://cdn.prompthero.com/ho8swmsgzpiukz2i3ea2telhzj2m-flux-flux1-dev-in-this-stunning-8k-scene-every-element-is-rendered-with-exquisite-realism-and-cinematic-depth-captured-through-a-wide-angle.png"><img src="https://cdn.prompthero.com/ho8swmsgzpiukz2i3ea2telhzj2m-flux-flux1-dev-in-this-stunning-8k-scene-every-element-is-rendered-with-exquisite-realism-and-cinematic-depth-captured-through-a-wide-angle.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+In this stunning 8K scene, every element is rendered with exquisite realism and cinematic depth, captured through a wide-angle lens that immerses the viewer in the bustling market of Tatooine. Volumetric sunlight filters through weathered fabric awnings, creating soft god rays that illuminate swirling dust particles, casting intricate patterns of light and shadow across the desert streets. At the center, a confident female Jedi commands attention, her athletic, poised figure moving with deliberate grace. Her long hair is intricately braided with delicate cultural adornments, cascading around her shoulders and framing her determined expression. She wears a layered ensemble blending flowing, weathered robes with practical, desert-ready garments, hinting at both heritage and survival instinct, while her lightsaber hilt gleams subtly at her side. Behind her, the market teems with alien species, vibrant stalls, and the rugged architectural textures of a desert world. The scene evokes cinematic realism with painterly influences reminiscent of Simon Stålenhag and Feng Zhu, blending sci-fi epicness with immersive detail.
+```
+
+[Source](https://prompthero.com/prompt/454f80bd28f-flux-flux1-dev-in-this-stunning-8k-scene-every-element-is-rendered-with-exquisite-realism-and-cinematic-depth-captured-through-a-wide-angle)
+
+---
+
+<a id="prompthero-458e40510fb"></a>
+
+## A girl in a blade runner environment
+
+<a href="https://cdn.prompthero.com/7hx5pat9ftayxv2afza7tgvi1cye-stable-diffusion-15-a-girl-in-a-blade-runner-environment.png"><img src="https://cdn.prompthero.com/7hx5pat9ftayxv2afza7tgvi1cye-stable-diffusion-15-a-girl-in-a-blade-runner-environment.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+Transport viewers to a rain-soaked dystopian future with an exquisitely detailed portrait of a young woman adorned in cyberpunk attire. Her flat chest and small breasts add to her unique beauty as she engages in an intriguing action amidst the atmospheric Blade Runner surroundings. Employ expert photographic lighting techniques to capture the realism of her features, bringing this composition to life in stunning 10k resolution.
+```
+
+By [@AkiraS](https://prompthero.com/prompt/458e40510fb-stable-diffusion-15-a-girl-in-a-blade-runner-environment)
+
+---
+
+<a id="prompthero-0463c341d05"></a>
+
+## disha patani, bollywood, beautiful, in the style o\.\.\.
+
+<a href="https://cdn.prompthero.com/mt2xldnkj950e8oncoi8axepfyks-midjourney-6-disha-patani-bollywood-beautiful-in-the-style-of-franz-west-close-up-guillaume-seignac-smooth-lines-webcam-photography-light-white.png"><img src="https://cdn.prompthero.com/mt2xldnkj950e8oncoi8axepfyks-midjourney-6-disha-patani-bollywood-beautiful-in-the-style-of-franz-west-close-up-guillaume-seignac-smooth-lines-webcam-photography-light-white.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+disha patani, bollywood, beautiful, in the style of franz west, close-up, guillaume seignac, smooth lines, webcam photography, light white and light black, double tone effect --ar 1:2 --stylize 750 --v 6
+```
+
+By [@NorthmoorAI](https://prompthero.com/prompt/0463c341d05-midjourney-6-disha-patani-bollywood-beautiful-in-the-style-of-franz-west-close-up-guillaume-seignac-smooth-lines-webcam-photography-light-white)
+
+---
+
+<a id="prompthero-486ddea5768"></a>
+
+## &quot;A professional, high-fashion photograph of a lith\.\.\.
+
+<a href="https://cdn.prompthero.com/ompbgbvvmbgm0c2anf0m0dara4tn-flux-flux-11-pro-ultra-a-professional-high-fashion-photograph-of-a-lithe-female-model-early-20s-with-platinum-blonde-hair-and-striking-blue-silver.jpg"><img src="https://cdn.prompthero.com/ompbgbvvmbgm0c2anf0m0dara4tn-flux-flux-11-pro-ultra-a-professional-high-fashion-photograph-of-a-lithe-female-model-early-20s-with-platinum-blonde-hair-and-striking-blue-silver.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+"A professional, high-fashion photograph of a lithe female model, early 20s, with platinum blonde hair and striking blue-silver-grey eyes, wearing a champagne yellow sequin jumpsuit and cape. The image features soft pastel colors, strong hard light, lens glow, and a dimly lit runway background. Style: bold, vibrant, luxurious, avant-garde. Soft contrast, soft saturation. Massive scale, heroic elements, Photo Of The Year style."
+```
+
+[Source](https://prompthero.com/prompt/486ddea5768-flux-flux-11-pro-ultra-a-professional-high-fashion-photograph-of-a-lithe-female-model-early-20s-with-platinum-blonde-hair-and-striking-blue-silver)
+
+---
+
+[1](portraits.md) · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · [5](portraits-5.md) · [6](portraits-6.md) · [7](portraits-7.md) · [8](portraits-8.md) · [9](portraits-9.md) · [10](portraits-10.md) · [11](portraits-11.md) · [12](portraits-12.md) · [13](portraits-13.md) · [14](portraits-14.md) · [15](portraits-15.md) · [16](portraits-16.md) · [17](portraits-17.md) · **18** · [19](portraits-19.md) · [20](portraits-20.md) · [21](portraits-21.md) · [22](portraits-22.md) · [23](portraits-23.md) · [24](portraits-24.md) · [25](portraits-25.md) · [26](portraits-26.md) · [27](portraits-27.md) · [28](portraits-28.md) · [29](portraits-29.md) · [30](portraits-30.md) · [31](portraits-31.md) · [32](portraits-32.md) · [33](portraits-33.md) · [34](portraits-34.md)
 
 [← Home](../README.md)

@@ -6,54 +6,6 @@
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
-<a id="prompthero-ab26b1eceb5"></a>
-
-## Full-body illustration of Al Pacino in a stylized \.\.\.
-
-<a href="https://cdn.prompthero.com/ov4c877dwde1rjv1qlm3nm9c5w-chatgpt-image-gpt-image-2-full-body-illustration-of-al-pacino-in-a-stylized-1980s-miami-setting-hes-wearing-a-pink-wide-collar-shirt-under.jpeg"><img src="https://cdn.prompthero.com/ov4c877dwde1rjv1qlm3nm9c5w-chatgpt-image-gpt-image-2-full-body-illustration-of-al-pacino-in-a-stylized-1980s-miami-setting-hes-wearing-a-pink-wide-collar-shirt-under.jpeg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-Full-body illustration of Al Pacino in a stylized 1980s Miami setting. He's wearing a pink wide-collar shirt under a white suit, with white loafers. In his right hand, he holds a lit cigar with smoke softly rising. The camera angle is slightly low, emphasizing his presence. The background features tall palm trees, a bright blue sky, and a vibrant atmosphere. The style should mimic the colorful, exaggerated aesthetic of GTA 5 artwork — bold lines, vivid colors, and a dynamic, stylized look
-```
-
-[Source](https://prompthero.com/prompt/ab26b1eceb5-chatgpt-image-gpt-image-2-full-body-illustration-of-al-pacino-in-a-stylized-1980s-miami-setting-hes-wearing-a-pink-wide-collar-shirt-under)
-
----
-
-<a id="prompthero-aba99292fad"></a>
-
-## a 1child standing, sadness, oil painting, a massiv\.\.\.
-
-<a href="https://cdn.prompthero.com/aui9ycuesrvznyfn80rl6zaumde3-dreamshaper-5-baked-vae-a-1child-standing-sadness-oil-painting-a-massive-swirling-tornado-swept-through-city-ultra-wide-shot-destructive-natural-disaster-cold.png"><img src="https://cdn.prompthero.com/aui9ycuesrvznyfn80rl6zaumde3-dreamshaper-5-baked-vae-a-1child-standing-sadness-oil-painting-a-massive-swirling-tornado-swept-through-city-ultra-wide-shot-destructive-natural-disaster-cold.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-a 1child standing, sadness, oil painting, a massive swirling tornado swept through city, ultra-wide shot, destructive, natural disaster, cold color, epic composition, epic proportion, masterpiece, award winning, HD, 64K,
-```
-
-[Source](https://prompthero.com/prompt/aba99292fad-dreamshaper-5-baked-vae-a-1child-standing-sadness-oil-painting-a-massive-swirling-tornado-swept-through-city-ultra-wide-shot-destructive-natural-disaster-cold)
-
----
-
-<a id="prompthero-acdf210cc03"></a>
-
-## Anime style, adult woman with long silver hair and\.\.\.
-
-<a href="https://cdn.prompthero.com/v1_f979a1d1479707d5186de6d1ae-seedream-5-v2-anime-style-adult-woman-with-long-silver-hair-and-violet-eyes-tall-and-athletic-leaning-against-a-balcony-railing-and.jpg"><img src="https://cdn.prompthero.com/v1_f979a1d1479707d5186de6d1ae-seedream-5-v2-anime-style-adult-woman-with-long-silver-hair-and-violet-eyes-tall-and-athletic-leaning-against-a-balcony-railing-and.jpg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-Anime style, adult woman with long silver hair and violet eyes, tall and athletic, leaning against a balcony railing and looking back over her shoulder, wearing a silk slip dress , on a rooftop above a neon city at night, pink and blue neon glow, full body, low angle”
-```
-
-By [@danivarga](https://prompthero.com/prompt/acdf210cc03-seedream-5-v2-anime-style-adult-woman-with-long-silver-hair-and-violet-eyes-tall-and-athletic-leaning-against-a-balcony-railing-and)
-
----
-
 <a id="prompthero-ade934bd51f"></a>
 
 ## a greek god, desperate, digital wallpaper portrait\.\.\.
@@ -131,22 +83,6 @@ tarot card with intricate detailed frame around the outside, portrait of cyberpu
 ```
 
 [Source](https://prompthero.com/prompt/b017b77247c-deliberate-v2-tarot-card-with-intricate-detailed-frame-around-the-outside-portrait-of-cyberpunk-head-with-jester-hat-cyberpunk-styled-in-art)
-
----
-
-<a id="prompthero-b91e4b308d6"></a>
-
-## Sub Zero from Mortal Kombat, skull face, cold whit\.\.\.
-
-<a href="https://cdn.prompthero.com/v1_3cc1266acb10b03c432a7a619a-stable-diffusion-35-large-sub-zero-from-mortal-kombat-skull-face-cold-white-dull-lifeless-eyes-very-scary-character-close-up-ink-artistic-conception.jpeg"><img src="https://cdn.prompthero.com/v1_3cc1266acb10b03c432a7a619a-stable-diffusion-35-large-sub-zero-from-mortal-kombat-skull-face-cold-white-dull-lifeless-eyes-very-scary-character-close-up-ink-artistic-conception.jpeg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-Sub Zero from Mortal Kombat, skull face, cold white dull lifeless eyes, very scary character, close-up, ink artistic conception, with typography elements, abstract, complementary colors, mosaic of characters, wallpaper style, simplicity, Chinese painting, white background
-```
-
-[Source](https://prompthero.com/prompt/b91e4b308d6-stable-diffusion-35-large-sub-zero-from-mortal-kombat-skull-face-cold-white-dull-lifeless-eyes-very-scary-character-close-up-ink-artistic-conception)
 
 ---
 
@@ -323,6 +259,70 @@ digital wallpaper portrait of a spartan warrior, no face, gloomy background, bru
 ```
 
 By [@ArtEnthusiast](https://prompthero.com/prompt/cd8da2f2364-stable-diffusion-xl-base-09-digital-wallpaper-portrait-of-a-spartan-warrior-no-face-gloomy-background-brutal-majestic-dramatic-digital-painting-expressionism-emotionally-profound-close)
+
+---
+
+<a id="prompthero-cd10dfb8254"></a>
+
+## a woman with long red hair in a gold painting, in \.\.\.
+
+<a href="https://cdn.prompthero.com/fhwspjkxptd3rd4i0iqtk7bcsi-seedream-4-seedream-45-a-woman-with-long-red-hair-in-a-gold-painting-in-the-style-of-charlie-bowater-dark-blue-and-dark.jpeg"><img src="https://cdn.prompthero.com/fhwspjkxptd3rd4i0iqtk7bcsi-seedream-4-seedream-45-a-woman-with-long-red-hair-in-a-gold-painting-in-the-style-of-charlie-bowater-dark-blue-and-dark.jpeg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+a woman with long red hair in a gold painting, in the style of charlie bowater, dark blue and dark black, michael garmash, comic art, realistic color palette, dark black and beige, soft-focused realism --ar 24:37 --stylize 750 --v 6
+```
+
+[Source](https://prompthero.com/prompt/cd10dfb8254-seedream-4-seedream-45-a-woman-with-long-red-hair-in-a-gold-painting-in-the-style-of-charlie-bowater-dark-blue-and-dark)
+
+---
+
+<a id="prompthero-cfe30751643"></a>
+
+## stunning half body portrait of a beautiful young l\.\.\.
+
+<a href="https://cdn.prompthero.com/ckp6mo954wzq2q5hlw3xmb89vikb-stable-diffusion-xl-base-09-stunning-half-body-portrait-of-a-beautiful-young-lady-elegant-black-and-red-colors-minimalism-delicate-ink-lines-intricate-details.png"><img src="https://cdn.prompthero.com/ckp6mo954wzq2q5hlw3xmb89vikb-stable-diffusion-xl-base-09-stunning-half-body-portrait-of-a-beautiful-young-lady-elegant-black-and-red-colors-minimalism-delicate-ink-lines-intricate-details.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+stunning half body portrait of a beautiful young lady, elegant, black and red colors, minimalism, delicate ink lines, intricate details, 4k, absurdres, high resolution, high quality, oblique angle, by Milo Manara and Russ Mills, unforgettable, detailed illustration, 8k, very intricate
+```
+
+By [@ArtEnthusiast](https://prompthero.com/prompt/cfe30751643-stable-diffusion-xl-base-09-stunning-half-body-portrait-of-a-beautiful-young-lady-elegant-black-and-red-colors-minimalism-delicate-ink-lines-intricate-details)
+
+---
+
+<a id="prompthero-d06c45ad838"></a>
+
+## Retro-Futuristic, Art Nouveau, Cyberpunk, double e\.\.\.
+
+<a href="https://cdn.prompthero.com/aet5brscouxh98arrr1vk6oi7byf-stable-diffusion-xl-base-09-retro-futuristic-art-nouveau-cyberpunk-double-exposure-two-parts-in-one-art-detailed-splatter-digital-painting-lines-art-acrylic-dynamic.jpg"><img src="https://cdn.prompthero.com/aet5brscouxh98arrr1vk6oi7byf-stable-diffusion-xl-base-09-retro-futuristic-art-nouveau-cyberpunk-double-exposure-two-parts-in-one-art-detailed-splatter-digital-painting-lines-art-acrylic-dynamic.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+Retro-Futuristic, Art Nouveau, Cyberpunk, double exposure. Two parts in one art. Detailed splatter digital painting , lines art,  acrylic, dynamic on a cracked paper, close up. Cyberdemonic old male white-haired Santa and Snow maiden woman close together, portrait, detailed demon face, dynamic pose, light on face shadow play, perfect face, sharp  glowing eyes, in the style of James Jean, Craola, Andy Kehoe, Dorian Vallejo, Damian Lechoszest, Todd Lockwood, DamShelma, stained glass,  storybook illustration, unusual beautiful details, intricated, tiny details masterpiece, high quality, intricated lighting, luminism,
+```
+
+[Source](https://prompthero.com/prompt/d06c45ad838-stable-diffusion-xl-base-09-retro-futuristic-art-nouveau-cyberpunk-double-exposure-two-parts-in-one-art-detailed-splatter-digital-painting-lines-art-acrylic-dynamic)
+
+---
+
+<a id="prompthero-d7f6a76861f"></a>
+
+## Santa with rudolph
+
+<a href="https://cdn.prompthero.com/x6yg5kyknjxegaep86vh1k6uzhvw-midjourney-6-santa-with-rudolph.png"><img src="https://cdn.prompthero.com/x6yg5kyknjxegaep86vh1k6uzhvw-midjourney-6-santa-with-rudolph.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+artistic illustration art piece, flat, featuring of gorgeous stained glass expression, santa with rudolph of christmas concept, golden ratio, perfection composition, simplify bold line, master piece, matte black with christmas mood background --ar 9:16 --quality 2 --style raw --personalize ue2yzjl --stylize 500 --v 6.1
+```
+
+By [@Grayve](https://prompthero.com/prompt/d7f6a76861f-midjourney-6-santa-with-rudolph)
 
 ---
 

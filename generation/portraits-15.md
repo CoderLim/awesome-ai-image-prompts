@@ -1,58 +1,10 @@
 # portraits
 
-[← Home](../README.md) · Page 15 / 35
+[← Home](../README.md) · Page 15 / 34
 
-[1](portraits.md) · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · [5](portraits-5.md) · [6](portraits-6.md) · [7](portraits-7.md) · [8](portraits-8.md) · [9](portraits-9.md) · [10](portraits-10.md) · [11](portraits-11.md) · [12](portraits-12.md) · [13](portraits-13.md) · [14](portraits-14.md) · **15** · [16](portraits-16.md) · [17](portraits-17.md) · [18](portraits-18.md) · [19](portraits-19.md) · [20](portraits-20.md) · [21](portraits-21.md) · [22](portraits-22.md) · [23](portraits-23.md) · [24](portraits-24.md) · [25](portraits-25.md) · [26](portraits-26.md) · [27](portraits-27.md) · [28](portraits-28.md) · [29](portraits-29.md) · [30](portraits-30.md) · [31](portraits-31.md) · [32](portraits-32.md) · [33](portraits-33.md) · [34](portraits-34.md) · [35](portraits-35.md)
+[1](portraits.md) · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · [5](portraits-5.md) · [6](portraits-6.md) · [7](portraits-7.md) · [8](portraits-8.md) · [9](portraits-9.md) · [10](portraits-10.md) · [11](portraits-11.md) · [12](portraits-12.md) · [13](portraits-13.md) · [14](portraits-14.md) · **15** · [16](portraits-16.md) · [17](portraits-17.md) · [18](portraits-18.md) · [19](portraits-19.md) · [20](portraits-20.md) · [21](portraits-21.md) · [22](portraits-22.md) · [23](portraits-23.md) · [24](portraits-24.md) · [25](portraits-25.md) · [26](portraits-26.md) · [27](portraits-27.md) · [28](portraits-28.md) · [29](portraits-29.md) · [30](portraits-30.md) · [31](portraits-31.md) · [32](portraits-32.md) · [33](portraits-33.md) · [34](portraits-34.md)
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
-
-<a id="prompthero-28d9718f072"></a>
-
-## Mecha Wars: Angel Burn
-
-<a href="https://cdn.prompthero.com/sqscrrbt6xe2jyev40aqrhzyog0k-stable-diffusion-xl-base-09-mecha-wars-angel-burn.jpg"><img src="https://cdn.prompthero.com/sqscrrbt6xe2jyev40aqrhzyog0k-stable-diffusion-xl-base-09-mecha-wars-angel-burn.jpg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-A close-up photo of a very beautiful mecha girl, with dark tips beige blonde hair, angelic face, seductive eyes, pouty thin lips, white-silver armor, head accessories, HDR, ultra high-detail, bokeh, light bloom, cinematic lighting, illumination, depth of field, concept art, unreal engine 5, RTX, photorealistic
-```
-
-By [@abyishot](https://prompthero.com/prompt/28d9718f072-stable-diffusion-xl-base-09-mecha-wars-angel-burn)
-
----
-
-<a id="prompthero-28d808485b5"></a>
-
-## \(masterpiece:1\.2\), best quality, absurdres, high d\.\.\.
-
-<a href="https://cdn.prompthero.com/r2ds2414uh3fsj7mfhldsvigs0fg-dreamshaper-6-baked-vae-masterpiece12-best-quality-absurdres-high-detail-sharp-focus-highly-detailed-face-and-eyes-photorealistic12-full-body-shot05-high-school-girl.jpg"><img src="https://cdn.prompthero.com/r2ds2414uh3fsj7mfhldsvigs0fg-dreamshaper-6-baked-vae-masterpiece12-best-quality-absurdres-high-detail-sharp-focus-highly-detailed-face-and-eyes-photorealistic12-full-body-shot05-high-school-girl.jpg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-(masterpiece:1.2), best quality, absurdres, high detail, sharp focus, highly detailed face and eyes, (photorealistic:1.2), (full body shot:0.5), high school girl, medium brown hair, detailed high school uniform, (miniskirt), shopping, detailed mall interior background, volumetric lighting, global illumination, vivid color, reflection, soft shadow, depth of field, (epic pose, epic composition, epic proportion), (ultra detailed, finest detail, intricate), professional work.
-```
-
-[Source](https://prompthero.com/prompt/28d808485b5-dreamshaper-6-baked-vae-masterpiece12-best-quality-absurdres-high-detail-sharp-focus-highly-detailed-face-and-eyes-photorealistic12-full-body-shot05-high-school-girl)
-
----
-
-<a id="prompthero-28e125917f8"></a>
-
-## female,A woman in a black sports bra and grey leg\.\.\.
-
-<a href="https://cdn.prompthero.com/vlocl11mhgxbdrbxgp2yp6aegwmv-flux-flux-11-pro-femalea-woman-in-a-black-sports-bra-and-grey-leggings-performs-a-yoga-pose-indoors-in-a-low-lunge-position.jpg"><img src="https://cdn.prompthero.com/vlocl11mhgxbdrbxgp2yp6aegwmv-flux-flux-11-pro-femalea-woman-in-a-black-sports-bra-and-grey-leggings-performs-a-yoga-pose-indoors-in-a-low-lunge-position.jpg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-female,A woman in a black sports bra and grey leggings performs a yoga pose indoors, in a low lunge position with her right leg bent forward and left leg extended back. Her right arm reaches back to hold her left foot, and her left arm extends upward, arching over her head. She looks upwards with a serene expression. Background features a modern interior with warm lighting.
-```
-
-[Source](https://prompthero.com/prompt/28e125917f8-flux-flux-11-pro-femalea-woman-in-a-black-sports-bra-and-grey-leggings-performs-a-yoga-pose-indoors-in-a-low-lunge-position)
-
----
 
 <a id="prompthero-29cd5ad6141"></a>
 
@@ -326,6 +278,54 @@ By [@chorlo](https://prompthero.com/prompt/49b9c4edabb-flux-flux-11-pro-a-futuri
 
 ---
 
-[1](portraits.md) · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · [5](portraits-5.md) · [6](portraits-6.md) · [7](portraits-7.md) · [8](portraits-8.md) · [9](portraits-9.md) · [10](portraits-10.md) · [11](portraits-11.md) · [12](portraits-12.md) · [13](portraits-13.md) · [14](portraits-14.md) · **15** · [16](portraits-16.md) · [17](portraits-17.md) · [18](portraits-18.md) · [19](portraits-19.md) · [20](portraits-20.md) · [21](portraits-21.md) · [22](portraits-22.md) · [23](portraits-23.md) · [24](portraits-24.md) · [25](portraits-25.md) · [26](portraits-26.md) · [27](portraits-27.md) · [28](portraits-28.md) · [29](portraits-29.md) · [30](portraits-30.md) · [31](portraits-31.md) · [32](portraits-32.md) · [33](portraits-33.md) · [34](portraits-34.md) · [35](portraits-35.md)
+<a id="prompthero-49e49154381"></a>
+
+## woman in a high-tech cyberpunk helmet with a shin\.\.\.
+
+<a href="https://cdn.prompthero.com/hqqbkvb7acxu221qk4mlyno89rwn-midjourney-6-woman-in-a-high-tech-cyberpunk-helmet-with-a-shiny-black-finish-and-detailed-robotic-accents-her-face-is-illuminated.png"><img src="https://cdn.prompthero.com/hqqbkvb7acxu221qk4mlyno89rwn-midjourney-6-woman-in-a-high-tech-cyberpunk-helmet-with-a-shiny-black-finish-and-detailed-robotic-accents-her-face-is-illuminated.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+woman in a high-tech cyberpunk helmet with a shiny black finish and detailed robotic accents. Her face is illuminated by a reflection of radiant silver wires, intricately woven into a web of glowing patterns. The scene is portrayed in a hyper-realistic, editorial pose with photorealistic quality, highlighting the futuristic theme, rendered in 8k resolution for crisp, high-definition imagery , photorealistic, 8k, high render --v 6.0 --ar 9:16 --stylize 750
+```
+
+[Source](https://prompthero.com/prompt/49e49154381-midjourney-6-woman-in-a-high-tech-cyberpunk-helmet-with-a-shiny-black-finish-and-detailed-robotic-accents-her-face-is-illuminated)
+
+---
+
+<a id="prompthero-50b8cd54682"></a>
+
+## photography, snap shot, male model, front pose, fu\.\.\.
+
+<a href="https://cdn.prompthero.com/cshxtd4wzzg9yg1jgg4edg3yxnhe-midjourney-61-photography-snap-shot-male-model-front-pose-full-body-surrounded-by-a-blurred-motion-wearing-camouflage-color-loose-fit-hoody.png"><img src="https://cdn.prompthero.com/cshxtd4wzzg9yg1jgg4edg3yxnhe-midjourney-61-photography-snap-shot-male-model-front-pose-full-body-surrounded-by-a-blurred-motion-wearing-camouflage-color-loose-fit-hoody.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+photography, snap shot, male model, front pose, full-body, surrounded by a blurred motion, wearing camouflage color loose fit hoody and denim cargo pants, Vans sneakers, Sony α9, minimalistic open space with soft, contrasting with the transient figures around him, plain wall background with a subtle texture to keep the attention on the motion effect, rich details --ar 9:16 --style raw --stylize 700 --v 6.1
+```
+
+By [@Grayve](https://prompthero.com/prompt/50b8cd54682-midjourney-61-photography-snap-shot-male-model-front-pose-full-body-surrounded-by-a-blurred-motion-wearing-camouflage-color-loose-fit-hoody)
+
+---
+
+<a id="prompthero-50be690a936"></a>
+
+## black and white photography in style by Bruce Davi\.\.\.
+
+<a href="https://cdn.prompthero.com/5sf67ezdxl1mmjc01cror0gx9pem-stable-diffusion-2-base-black-and-white-photography-in-style-by-bruce-davidson-fashion-editorial-dark-haired-woman-of-long-exposure-photography-through-artistic.png"><img src="https://cdn.prompthero.com/5sf67ezdxl1mmjc01cror0gx9pem-stable-diffusion-2-base-black-and-white-photography-in-style-by-bruce-davidson-fashion-editorial-dark-haired-woman-of-long-exposure-photography-through-artistic.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+black and white photography in style by Bruce Davidson, fashion editorial, dark haired woman of long exposure photography through artistic lens,  highres, realistic photo, professional photography, cinematic angle, dynamic light back shining, bokeh,
+```
+
+[Source](https://prompthero.com/prompt/50be690a936-stable-diffusion-2-base-black-and-white-photography-in-style-by-bruce-davidson-fashion-editorial-dark-haired-woman-of-long-exposure-photography-through-artistic)
+
+---
+
+[1](portraits.md) · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · [5](portraits-5.md) · [6](portraits-6.md) · [7](portraits-7.md) · [8](portraits-8.md) · [9](portraits-9.md) · [10](portraits-10.md) · [11](portraits-11.md) · [12](portraits-12.md) · [13](portraits-13.md) · [14](portraits-14.md) · **15** · [16](portraits-16.md) · [17](portraits-17.md) · [18](portraits-18.md) · [19](portraits-19.md) · [20](portraits-20.md) · [21](portraits-21.md) · [22](portraits-22.md) · [23](portraits-23.md) · [24](portraits-24.md) · [25](portraits-25.md) · [26](portraits-26.md) · [27](portraits-27.md) · [28](portraits-28.md) · [29](portraits-29.md) · [30](portraits-30.md) · [31](portraits-31.md) · [32](portraits-32.md) · [33](portraits-33.md) · [34](portraits-34.md)
 
 [← Home](../README.md)

@@ -294,22 +294,6 @@ By [@AiWithTariq](https://x.com/AiWithTariq/status/2100063691198669194)
 
 ---
 
-<a id="evolink-illustration-case-168"></a>
-
-## Rainy New York Female Watercolor Portrait
-
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2099864394255785984.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2099864394255785984.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-TITLE: New York Rainy Day — Female Character Watercolor Portrait ASPECT RATIO: 9:16 REFERENCE INPUTS: <<<FACE_REFERENCE>>> Use the uploaded female face reference as the exact facial identity reference. FACE REFERENCE RULES: Preserve the female character's exact facial identity, facial structure, eyes, eyebrows, nose, lips, jawline, skin tone, and overall recognizable appearance from <<<FACE_REFERENCE>>>. Do not redesign, replace, beautify into a different person, or alter her identity. Maintain consistent facial proportions throughout the image. SCENE: A beautiful cinematic urban watercolor illustration of the female character standing on a rain-soaked Manhattan street with the Empire State Building towering dramatically in the background. POSE: The woman is positioned in the foreground, slightly turned three-quarters toward the camera. She gently holds a black elegant umbrella with one hand while her other hand lightly adjusts a strand of hair near her face. Her face is clearly visible. She looks directly toward the viewer with a subtle confident smile and calm, sophisticated expression. Natural fashion-editorial pose, graceful posture, relaxed shoulders, elegant body language. The pose should feel like a trending cinematic Instagram/Pinterest portrait captured during a rainy New York evening. OUTFIT: Elegant modern city-fashion outfit, sophisticated neutral trench coat over a stylish fitted outfit, subtle accessories, natural flowing hair. Premium fashion editorial aesthetic without looking artificial. ENVIRONMENT: Rainy Manhattan street, Empire State Building as the dominant architectural form in the center background, tall Art Deco buildings on both sides, wet asphalt, pedestrians with umbrellas, classic yellow taxis and modern cars, glowing street lamps, reflections in puddles. ART STYLE: Watercolor style combined with loose architectural acrylic painting; fine ink sketching blended with soft watercolor washes; urban sketch illustration; expressive brushstrokes; ink splatter and bleeding effects; unfinished white borders; cold-pressed textured watercolor paper; highly detailed yet loose and airy. COLOR PALETTE: Warm earth tones—creamy beige, warm sand, burnt sienna, terracotta ochre, light umber, pale white, cool slate gray, soft Payne's gray-blue, touches of olive green and burnt orange. Subtle warm golden highlights from street lights. LIGHTING: Soft rainy afternoon transitioning into warm evening light; gentle glowing street lamps; luminous reflections on wet pavement; soft atmospheric perspective; delicate shadows; one dominant form—the Empire State Building—rendered sharp and bold. DETAILS: Intricate architectural details; fine cross-hatched ink work; wet-on-wet watercolor bleeding; visible paper texture; expressive loose shadow strokes; natural watercolor imperfections; subtle ink splatters; beautiful reflections of the woman, umbrella, buildings and lights in the wet street. COMPOSITION: Vertical 9:16 cinematic composition. Female character prominent in the foreground while the Empire State Building creates a powerful visual backdrop. Balanced leading lines from the street toward the building. Elegant negative space around the character. Fashion editorial + travel postcard + premium watercolor illustration. IMPORTANT: Photorealistic facial identity translated into watercolor illustration. Do not make the character cartoonish. No anime. No 3D render. No plastic-looking skin. No distorted hands. No extra fingers. No duplicated person. No distorted face. Keep the artwork painterly, sophisticated, loose, atmospheric and premium. --ar 9:16 --style raw --stylize 250
-```
-
-By [@Kubra\_286](https://x.com/Kubra_286/status/2099864465013629192)
-
----
-
 <a id="evolink-travel-journals-case-195"></a>
 
 ## Watercolor Travel Magazine Spread
@@ -323,6 +307,22 @@ Create a premium 4:5 vertical travel-editorial artwork for [COUNTRY / CITY / LOC
 ```
 
 By [@Goodmanprotocol](https://x.com/Goodmanprotocol/status/2108199004546933097)
+
+---
+
+<a id="evolink-travel-journals-case-203"></a>
+
+## Istanbul and Venice Watercolors
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2106326192421064704.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2106326192421064704.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+Create a single elegant vintage watercolor travel poster that beautifully combines the atmosphere of Istanbul, Turkey and Venice, Italy into one cohesive artistic scene. Blend Istanbul’s magnificent Ottoman mosques, elegant domes, tall slender minarets, Bosphorus waterfront, small ferries and sailboats with Venice’s historic Venetian buildings, Grand Canal, Rialto-style stone bridge, gondolas and romantic waterways. Use a refined hand-painted watercolor illustration style on textured warm ivory paper, with soft blue, muted teal, warm beige, dusty lavender and subtle terracotta tones. Add natural watercolor splashes, paint bleeds, delicate ink details and slightly imperfect hand-painted edges around the main composition. The architecture should be highly detailed yet artistic, with realistic reflections across the water, atmospheric distant buildings, gentle sunlight, elegant boats and a peaceful travel-diary feeling. Make Istanbul and Venice visually merge through the waterways so the whole artwork feels like one magical city where two historic worlds meet, not two separate pictures. Add sophisticated handwritten-style typography at the bottom: “ISTANBUL & VENICE” and underneath in smaller elegant script: “Where Worlds Meet • Cities on Water” Overall look: luxury vintage travel poster, European travel journal, premium watercolor artwork, nostalgic, artistic, sophisticated, highly detailed, cinematic composition, realistic watercolor texture, 8K quality.
+```
+
+By [@KrishnaBio1](https://x.com/KrishnaBio1/status/2106326234322059308)
 
 ---
 

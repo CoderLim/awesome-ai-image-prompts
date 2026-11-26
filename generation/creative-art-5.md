@@ -1,8 +1,8 @@
 # creative art
 
-[← Home](../README.md) · Page 5 / 14
+[← Home](../README.md) · Page 5 / 13
 
-[1](creative-art.md) · [2](creative-art-2.md) · [3](creative-art-3.md) · [4](creative-art-4.md) · **5** · [6](creative-art-6.md) · [7](creative-art-7.md) · [8](creative-art-8.md) · [9](creative-art-9.md) · [10](creative-art-10.md) · [11](creative-art-11.md) · [12](creative-art-12.md) · [13](creative-art-13.md) · [14](creative-art-14.md)
+[1](creative-art.md) · [2](creative-art-2.md) · [3](creative-art-3.md) · [4](creative-art-4.md) · **5** · [6](creative-art-6.md) · [7](creative-art-7.md) · [8](creative-art-8.md) · [9](creative-art-9.md) · [10](creative-art-10.md) · [11](creative-art-11.md) · [12](creative-art-12.md) · [13](creative-art-13.md)
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
@@ -310,22 +310,22 @@ a close-up dragon statue, made of marble, gold and white details, complicated pa
 
 ---
 
-<a id="prompthero-13ebfb0bf78"></a>
+<a id="prompthero-26fc1da943b"></a>
 
-## Codename: Necromancer
+## Codename: Destructo
 
-<a href="https://cdn.prompthero.com/vukdbmkd4ydb7paiysvvxjpv3xl8-midjourney-51-codename-necromancer.jpg"><img src="https://cdn.prompthero.com/vukdbmkd4ydb7paiysvvxjpv3xl8-midjourney-51-codename-necromancer.jpg" width="480" alt="After"></a>
+<a href="https://cdn.prompthero.com/5b2m1x8wyg6ibez43ij77j8aed8a-midjourney-51-codename-destructo.jpg"><img src="https://cdn.prompthero.com/5b2m1x8wyg6ibez43ij77j8aed8a-midjourney-51-codename-destructo.jpg" width="480" alt="After"></a>
 
 **Prompt**
 
 ```text
-Full battle armored futuristic soldier with advanced weapons and accessories, street, overcast, reflection mapping, intricate design and details, dramatic lighting, hyperrealism, photorealistic, cinematic, 8k, unreal engine --ar 9:16 --s 750
+Futuristic soldier with advanced armor, weaponry, and helmet, dark army green, street, overcast, reflection mapping, intricate design and details, dramatic lighting, hyperrealism, photorealistic, cinematic, 8k, unreal engine --ar 9:16 --s 750
 ```
 
-By [@abyishot](https://prompthero.com/prompt/13ebfb0bf78-midjourney-51-codename-necromancer)
+By [@abyishot](https://prompthero.com/prompt/26fc1da943b-midjourney-51-codename-destructo)
 
 ---
 
-[1](creative-art.md) · [2](creative-art-2.md) · [3](creative-art-3.md) · [4](creative-art-4.md) · **5** · [6](creative-art-6.md) · [7](creative-art-7.md) · [8](creative-art-8.md) · [9](creative-art-9.md) · [10](creative-art-10.md) · [11](creative-art-11.md) · [12](creative-art-12.md) · [13](creative-art-13.md) · [14](creative-art-14.md)
+[1](creative-art.md) · [2](creative-art-2.md) · [3](creative-art-3.md) · [4](creative-art-4.md) · **5** · [6](creative-art-6.md) · [7](creative-art-7.md) · [8](creative-art-8.md) · [9](creative-art-9.md) · [10](creative-art-10.md) · [11](creative-art-11.md) · [12](creative-art-12.md) · [13](creative-art-13.md)
 
 [← Home](../README.md)

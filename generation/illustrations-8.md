@@ -6,38 +6,6 @@
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
-<a id="prompthero-40027a6637d"></a>
-
-## stunning sketch portrait by Michelangelo, charcoal\.\.\.
-
-<a href="https://cdn.prompthero.com/oq93rt9bfrm51ze870nkaa0t0xyb-midjourney-52-stunning-sketch-portrait-by-michelangelo-charcoal-drawing-face-only-an-absolutely-gorgeous-woman-side-view-ultra-detailed-hint-of-a.png"><img src="https://cdn.prompthero.com/oq93rt9bfrm51ze870nkaa0t0xyb-midjourney-52-stunning-sketch-portrait-by-michelangelo-charcoal-drawing-face-only-an-absolutely-gorgeous-woman-side-view-ultra-detailed-hint-of-a.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-stunning sketch portrait by Michelangelo, charcoal drawing, face only, an absolutely gorgeous woman, side view, ultra-detailed, hint of a smile, no coloring, no color--quality 2 --s 750 --v 5.2
-```
-
-By [@NorthmoorAI](https://prompthero.com/prompt/40027a6637d-midjourney-52-stunning-sketch-portrait-by-michelangelo-charcoal-drawing-face-only-an-absolutely-gorgeous-woman-side-view-ultra-detailed-hint-of-a)
-
----
-
-<a id="prompthero-43904a9f706"></a>
-
-## a close up of a cartoon character with a bunch of \.\.\.
-
-<a href="https://cdn.prompthero.com/a3nur5key0kn01iz74gnxd5d5gho-rev-animated-v10-a-close-up-of-a-cartoon-character-with-a-bunch-of-skulls-lois-van-baarle-and-rossdraws-beeple-and-jeremiah.png"><img src="https://cdn.prompthero.com/a3nur5key0kn01iz74gnxd5d5gho-rev-animated-v10-a-close-up-of-a-cartoon-character-with-a-bunch-of-skulls-lois-van-baarle-and-rossdraws-beeple-and-jeremiah.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-a close up of a cartoon character with a bunch of skulls, lois van baarle and rossdraws, beeple and jeremiah ketner, artgerm and lois van baarle, adorable digital painting, cute detailed digital art, ross tran style, cute character, loish and ross tran, rossdraws global illumination, cute digital art, 3 d character art
-```
-
-By [@heeyrina](https://prompthero.com/prompt/43904a9f706-rev-animated-v10-a-close-up-of-a-cartoon-character-with-a-bunch-of-skulls-lois-van-baarle-and-rossdraws-beeple-and-jeremiah)
-
----
-
 <a id="prompthero-068833f3226"></a>
 
 ## an illustration of a girl walking down a street, i\.\.\.
@@ -278,22 +246,6 @@ A surreal oil painting of a person's face in extreme close-up, golden light illu
 
 ---
 
-<a id="prompthero-a7e59376ba2"></a>
-
-## dragon ball, portrait of goku, in the style of str\.\.\.
-
-<a href="https://cdn.prompthero.com/x4c44xm6de17z3j25yxpyjjvlnmj-midjourney-niji-v6-dragon-ball-portrait-of-goku-in-the-style-of-street-art-aesthetic-cute-cartoonish-designs-photo-realistic-techniques-dark-red.png"><img src="https://cdn.prompthero.com/x4c44xm6de17z3j25yxpyjjvlnmj-midjourney-niji-v6-dragon-ball-portrait-of-goku-in-the-style-of-street-art-aesthetic-cute-cartoonish-designs-photo-realistic-techniques-dark-red.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-dragon ball, portrait of goku, in the style of street art aesthetic, cute cartoonish designs, photo-realistic techniques, dark red, childhood arcadias, anime aesthetic, cartoon-like figures --ar 1:2 --stylize 750 --niji 6
-```
-
-By [@NorthmoorAI](https://prompthero.com/prompt/a7e59376ba2-midjourney-niji-v6-dragon-ball-portrait-of-goku-in-the-style-of-street-art-aesthetic-cute-cartoonish-designs-photo-realistic-techniques-dark-red)
-
----
-
 <a id="prompthero-a269cec95f6"></a>
 
 ## Heroes? Where?
@@ -323,6 +275,54 @@ Dramatic portrait of a masked mystic in a shadowy baroque chamber, wearing an in
 ```
 
 [Source](https://prompthero.com/prompt/a783bb790f8-flux-flux-11-pro-dramatic-portrait-of-a-masked-mystic-in-a-shadowy-baroque-chamber-wearing-an-intricate-dark-cape-pale-mask-with-sharp)
+
+---
+
+<a id="prompthero-ab26b1eceb5"></a>
+
+## Full-body illustration of Al Pacino in a stylized \.\.\.
+
+<a href="https://cdn.prompthero.com/ov4c877dwde1rjv1qlm3nm9c5w-chatgpt-image-gpt-image-2-full-body-illustration-of-al-pacino-in-a-stylized-1980s-miami-setting-hes-wearing-a-pink-wide-collar-shirt-under.jpeg"><img src="https://cdn.prompthero.com/ov4c877dwde1rjv1qlm3nm9c5w-chatgpt-image-gpt-image-2-full-body-illustration-of-al-pacino-in-a-stylized-1980s-miami-setting-hes-wearing-a-pink-wide-collar-shirt-under.jpeg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+Full-body illustration of Al Pacino in a stylized 1980s Miami setting. He's wearing a pink wide-collar shirt under a white suit, with white loafers. In his right hand, he holds a lit cigar with smoke softly rising. The camera angle is slightly low, emphasizing his presence. The background features tall palm trees, a bright blue sky, and a vibrant atmosphere. The style should mimic the colorful, exaggerated aesthetic of GTA 5 artwork — bold lines, vivid colors, and a dynamic, stylized look
+```
+
+[Source](https://prompthero.com/prompt/ab26b1eceb5-chatgpt-image-gpt-image-2-full-body-illustration-of-al-pacino-in-a-stylized-1980s-miami-setting-hes-wearing-a-pink-wide-collar-shirt-under)
+
+---
+
+<a id="prompthero-aba99292fad"></a>
+
+## a 1child standing, sadness, oil painting, a massiv\.\.\.
+
+<a href="https://cdn.prompthero.com/aui9ycuesrvznyfn80rl6zaumde3-dreamshaper-5-baked-vae-a-1child-standing-sadness-oil-painting-a-massive-swirling-tornado-swept-through-city-ultra-wide-shot-destructive-natural-disaster-cold.png"><img src="https://cdn.prompthero.com/aui9ycuesrvznyfn80rl6zaumde3-dreamshaper-5-baked-vae-a-1child-standing-sadness-oil-painting-a-massive-swirling-tornado-swept-through-city-ultra-wide-shot-destructive-natural-disaster-cold.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+a 1child standing, sadness, oil painting, a massive swirling tornado swept through city, ultra-wide shot, destructive, natural disaster, cold color, epic composition, epic proportion, masterpiece, award winning, HD, 64K,
+```
+
+[Source](https://prompthero.com/prompt/aba99292fad-dreamshaper-5-baked-vae-a-1child-standing-sadness-oil-painting-a-massive-swirling-tornado-swept-through-city-ultra-wide-shot-destructive-natural-disaster-cold)
+
+---
+
+<a id="prompthero-acdf210cc03"></a>
+
+## Anime style, adult woman with long silver hair and\.\.\.
+
+<a href="https://cdn.prompthero.com/v1_f979a1d1479707d5186de6d1ae-seedream-5-v2-anime-style-adult-woman-with-long-silver-hair-and-violet-eyes-tall-and-athletic-leaning-against-a-balcony-railing-and.jpg"><img src="https://cdn.prompthero.com/v1_f979a1d1479707d5186de6d1ae-seedream-5-v2-anime-style-adult-woman-with-long-silver-hair-and-violet-eyes-tall-and-athletic-leaning-against-a-balcony-railing-and.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+Anime style, adult woman with long silver hair and violet eyes, tall and athletic, leaning against a balcony railing and looking back over her shoulder, wearing a silk slip dress , on a rooftop above a neon city at night, pink and blue neon glow, full body, low angle”
+```
+
+By [@danivarga](https://prompthero.com/prompt/acdf210cc03-seedream-5-v2-anime-style-adult-woman-with-long-silver-hair-and-violet-eyes-tall-and-athletic-leaning-against-a-balcony-railing-and)
 
 ---
 

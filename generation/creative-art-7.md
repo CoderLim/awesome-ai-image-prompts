@@ -1,58 +1,10 @@
 # creative art
 
-[← Home](../README.md) · Page 7 / 14
+[← Home](../README.md) · Page 7 / 13
 
-[1](creative-art.md) · [2](creative-art-2.md) · [3](creative-art-3.md) · [4](creative-art-4.md) · [5](creative-art-5.md) · [6](creative-art-6.md) · **7** · [8](creative-art-8.md) · [9](creative-art-9.md) · [10](creative-art-10.md) · [11](creative-art-11.md) · [12](creative-art-12.md) · [13](creative-art-13.md) · [14](creative-art-14.md)
+[1](creative-art.md) · [2](creative-art-2.md) · [3](creative-art-3.md) · [4](creative-art-4.md) · [5](creative-art-5.md) · [6](creative-art-6.md) · **7** · [8](creative-art-8.md) · [9](creative-art-9.md) · [10](creative-art-10.md) · [11](creative-art-11.md) · [12](creative-art-12.md) · [13](creative-art-13.md)
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
-
-<a id="prompthero-083bba40e58"></a>
-
-## Digital artwork, concept art, a female ninja with \.\.\.
-
-<a href="https://cdn.prompthero.com/dncjl02f1cec5op55c75ctgw37i5-flux-flux1-dev-digital-artwork-concept-art-a-female-ninja-with-prompt-hero-logo-on-her-chest-standing-on-rooftop-with-a-dark.png"><img src="https://cdn.prompthero.com/dncjl02f1cec5op55c75ctgw37i5-flux-flux1-dev-digital-artwork-concept-art-a-female-ninja-with-prompt-hero-logo-on-her-chest-standing-on-rooftop-with-a-dark.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-Digital artwork, concept art, a female ninja with Prompt Hero logo on her chest, standing on rooftop with a dark dystopian city in the background, dynamic pose, fierce, comics style, extremely intricate, extremely detailed, ominous lighting, dramatic lighting, dark stormy night, shot with Hasselblad, long exposure
-```
-
-[Source](https://prompthero.com/prompt/083bba40e58-flux-flux1-dev-digital-artwork-concept-art-a-female-ninja-with-prompt-hero-logo-on-her-chest-standing-on-rooftop-with-a-dark)
-
----
-
-<a id="prompthero-84fff235854"></a>
-
-## \(A hyper-realistic, masterpiece-level color photo\.\.\.
-
-<a href="https://cdn.prompthero.com/ciz3bx4lwgp9ygi1bem8gtomgels-flux-dev-a-hyper-realistic-masterpiece-level-color-photograph13-of-a-beautiful-woman-floating-underwater-at-night-nighttime14-her-body-suspended-in.png"><img src="https://cdn.prompthero.com/ciz3bx4lwgp9ygi1bem8gtomgels-flux-dev-a-hyper-realistic-masterpiece-level-color-photograph13-of-a-beautiful-woman-floating-underwater-at-night-nighttime14-her-body-suspended-in.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-(A hyper-realistic, masterpiece-level color photograph:1.3) of a beautiful woman floating underwater at night (nighttime:1.4), her body suspended in a serene, ethereal pose. She wears a long, flowing chiffon fabric (sheer, weightless chiffon:1.3), nearly transparent, fluttering around her. Her legs are slightly crossed, and her arms are extended gracefully, while her face is submerged two feet beneath the water’s surface. The environment feels cold and ghostly (cold, haunting atmosphere:1.4), with a chilling sense of stillness. Around her, dozens of small, glowing stars (small floating stars:1.5) float gently in the water, as if from a children’s book. These tiny stars emit a soft, magical light, illuminating the scene with a warm, delicate glow. The stars are scattered around her, gently swaying and drifting in the currents, creating a surreal, dreamlike atmosphere. Their soft, yellow-white light interacts with the dark, cold water, casting dynamic reflections and intricate patterns across her skin, the chiffon fabric, and the sandy bottom beneath her (light reflections:1.3). The floating stars give off a sense of magic, like constellations brought to life in the underwater world. The scene is further enhanced by volumetric beams of light (volumetric lighting:1.4) emanating from the stars, creating a soft, cinematic glow that dances with the water’s gentle ripples. Air bubbles rise from her clothing, adding realism and movement to the stillness of the water (realistic air bubbles:1.3). Her hair floats freely, moving with the gentle water currents, enhancing the weightless, ethereal feel. The lighting from the stars emphasizes the fine textures of her skin, the chiffon fabric, and the water, creating a timeless, cinematic look with medium format quality (medium format cinematic look:1.2).
-```
-
-[Source](https://prompthero.com/prompt/84fff235854-flux-dev-a-hyper-realistic-masterpiece-level-color-photograph13-of-a-beautiful-woman-floating-underwater-at-night-nighttime14-her-body-suspended-in)
-
----
-
-<a id="prompthero-86c997a6f00"></a>
-
-## An adorable baby otter standing upright on a rusti\.\.\.
-
-<a href="https://cdn.prompthero.com/zt3oifa9pf20qhrhoiiow8xkdp-hero-10-an-adorable-baby-otter-standing-upright-on-a-rustic-wooden-kitchen-table-tiny-paws-resting-naturally-in-front-of-its.jpeg"><img src="https://cdn.prompthero.com/zt3oifa9pf20qhrhoiiow8xkdp-hero-10-an-adorable-baby-otter-standing-upright-on-a-rustic-wooden-kitchen-table-tiny-paws-resting-naturally-in-front-of-its.jpeg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-An adorable baby otter standing upright on a rustic wooden kitchen table, tiny paws resting naturally in front of its chest, fluffy brown fur with incredibly detailed texture, huge glossy innocent eyes, a tiny wet nose, cute and curious expression. The otter wears a homemade burglar mask crafted from a shiny black plastic trash bag, with only the eyes, nose, and mouth visible, creating a funny yet adorable look. On the left side of the table is a wooden crate filled with fresh ripe strawberries, while on the right sits a woven basket overflowing with blueberries, with a few berries naturally scattered across the tabletop. The background is a cozy modern kitchen with wooden cutting boards, cookware, white cabinets, and a retro kettle softly blurred. Warm morning sunlight streams through the window, cinematic lighting, ultra photorealistic, extremely detailed fur, DSLR photography, 85mm lens, f/1.8, shallow depth of field, soft bokeh, HDR, 8K, ultra realistic, centered composition, subject filling about 70% of the frame, award-winning wildlife portrait, viral cute animal photography, vertical 9:16.
-```
-
-[Source](https://prompthero.com/prompt/86c997a6f00-hero-10-an-adorable-baby-otter-standing-upright-on-a-rustic-wooden-kitchen-table-tiny-paws-resting-naturally-in-front-of-its)
-
----
 
 <a id="prompthero-90ad9d9b114"></a>
 
@@ -326,6 +278,54 @@ Close-up of a human face dissolving into a network of interconnected neurons and
 
 ---
 
-[1](creative-art.md) · [2](creative-art-2.md) · [3](creative-art-3.md) · [4](creative-art-4.md) · [5](creative-art-5.md) · [6](creative-art-6.md) · **7** · [8](creative-art-8.md) · [9](creative-art-9.md) · [10](creative-art-10.md) · [11](creative-art-11.md) · [12](creative-art-12.md) · [13](creative-art-13.md) · [14](creative-art-14.md)
+<a id="prompthero-895dd3a1fe7"></a>
+
+## the head and shoulders of an elderly man with a be\.\.\.
+
+<a href="https://cdn.prompthero.com/dx2sf92yscjlja2lf1n5ecg2jxbm-midjourney-6-the-head-and-shoulders-of-an-elderly-man-with-a-beard-in-the-style-of-nautical-surrealism-intricate-compositions-ink.png"><img src="https://cdn.prompthero.com/dx2sf92yscjlja2lf1n5ecg2jxbm-midjourney-6-the-head-and-shoulders-of-an-elderly-man-with-a-beard-in-the-style-of-nautical-surrealism-intricate-compositions-ink.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+the head and shoulders of an elderly man with a beard, in the style of nautical surrealism, intricate compositions, ink and wash, psychedelic dreamscape, celtic art, white and gray, cubist street art --ar 72:107 --stylize 750 --v 6
+```
+
+By [@NorthmoorAI](https://prompthero.com/prompt/895dd3a1fe7-midjourney-6-the-head-and-shoulders-of-an-elderly-man-with-a-beard-in-the-style-of-nautical-surrealism-intricate-compositions-ink)
+
+---
+
+<a id="prompthero-910d0f013fc"></a>
+
+## 8k pinup, a beautiful russian princess wearing a g\.\.\.
+
+<a href="https://cdn.prompthero.com/vy1nb6t09lg2j1cgp6ccob4f53tw-stable-diffusion-14-8k-pinup-a-beautiful-russian-princess-wearing-a-golden-crown-and-a-russian-cultural-dress-walking-on-the-beach-with.png"><img src="https://cdn.prompthero.com/vy1nb6t09lg2j1cgp6ccob4f53tw-stable-diffusion-14-8k-pinup-a-beautiful-russian-princess-wearing-a-golden-crown-and-a-russian-cultural-dress-walking-on-the-beach-with.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+8k pinup, a beautiful russian princess wearing a golden crown and a russian cultural dress walking on the beach with a blue sky and clouds in the background and a body of water, She should have long braided blonde, flowing hair, a captivating gaze, and an alluring expression. symmetrical eyes, symmetrical background, cinematic film still from 1980s movie, Kodak portra 800, extremely detailed, extremely detailed eyes, extremely detailed body, extremely detailed skin, extremely detailed clothes, Ultra realistic, symmetrical face , (35mm style:1. 1), foggy, ((best quality)), ((masterpiece)), ((realistic)), radiant light rays, highres, detailed facial features, analog style, digital painting, 3d render, artstation, matte, highly detailed, concept art, Exaggeration, light Aesthetic, magazine, Backlight, light rays magical lighting beams, dust in beam, light color, Exaggeration, instagram, 'light, exciting, enlightening, happy, misty, moody, heavenly, shadowy, Realism, octane render, unreal engine 5, Shaders, Denoise, De-Noise, Ambient Occlusion, Tone Mapping, Moonlight, highres, detailed facial features, high detail, sharp focus, octane render, photo_\(ultra\), realistic, post-processing, max detail, realistic shadows, roughness, natural skin texture, real life, ultra realistic, photorealism
+```
+
+[Source](https://prompthero.com/prompt/910d0f013fc-stable-diffusion-14-8k-pinup-a-beautiful-russian-princess-wearing-a-golden-crown-and-a-russian-cultural-dress-walking-on-the-beach-with)
+
+---
+
+<a id="prompthero-1073bb05add"></a>
+
+## hyperrealistic art Futuristic soldier with advance\.\.\.
+
+<a href="https://cdn.prompthero.com/vxailuzyjlbvlopnhhi74dgqtwaa-stable-diffusion-15-hyperrealistic-art-futuristic-soldier-with-advanced-armor-weaponry-and-helmet-neon-red-street-overcast-reflection-mapping-intricate-design-and-details.png"><img src="https://cdn.prompthero.com/vxailuzyjlbvlopnhhi74dgqtwaa-stable-diffusion-15-hyperrealistic-art-futuristic-soldier-with-advanced-armor-weaponry-and-helmet-neon-red-street-overcast-reflection-mapping-intricate-design-and-details.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+hyperrealistic art Futuristic soldier with advanced armor, weaponry, and helmet, neon red, street, overcast, reflection mapping, intricate design and details, dramatic lighting, hyperrealism, photorealistic, cinematic, 8k, unreal engine. extremely high-resolution details, photographic, realism pushed to extreme, fine texture, incredibly lifelike
+```
+
+[Source](https://prompthero.com/prompt/1073bb05add-stable-diffusion-15-hyperrealistic-art-futuristic-soldier-with-advanced-armor-weaponry-and-helmet-neon-red-street-overcast-reflection-mapping-intricate-design-and-details)
+
+---
+
+[1](creative-art.md) · [2](creative-art-2.md) · [3](creative-art-3.md) · [4](creative-art-4.md) · [5](creative-art-5.md) · [6](creative-art-6.md) · **7** · [8](creative-art-8.md) · [9](creative-art-9.md) · [10](creative-art-10.md) · [11](creative-art-11.md) · [12](creative-art-12.md) · [13](creative-art-13.md)
 
 [← Home](../README.md)

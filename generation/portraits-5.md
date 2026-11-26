@@ -1,26 +1,10 @@
 # portraits
 
-[← Home](../README.md) · Page 5 / 35
+[← Home](../README.md) · Page 5 / 34
 
-[1](portraits.md) · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · **5** · [6](portraits-6.md) · [7](portraits-7.md) · [8](portraits-8.md) · [9](portraits-9.md) · [10](portraits-10.md) · [11](portraits-11.md) · [12](portraits-12.md) · [13](portraits-13.md) · [14](portraits-14.md) · [15](portraits-15.md) · [16](portraits-16.md) · [17](portraits-17.md) · [18](portraits-18.md) · [19](portraits-19.md) · [20](portraits-20.md) · [21](portraits-21.md) · [22](portraits-22.md) · [23](portraits-23.md) · [24](portraits-24.md) · [25](portraits-25.md) · [26](portraits-26.md) · [27](portraits-27.md) · [28](portraits-28.md) · [29](portraits-29.md) · [30](portraits-30.md) · [31](portraits-31.md) · [32](portraits-32.md) · [33](portraits-33.md) · [34](portraits-34.md) · [35](portraits-35.md)
+[1](portraits.md) · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · **5** · [6](portraits-6.md) · [7](portraits-7.md) · [8](portraits-8.md) · [9](portraits-9.md) · [10](portraits-10.md) · [11](portraits-11.md) · [12](portraits-12.md) · [13](portraits-13.md) · [14](portraits-14.md) · [15](portraits-15.md) · [16](portraits-16.md) · [17](portraits-17.md) · [18](portraits-18.md) · [19](portraits-19.md) · [20](portraits-20.md) · [21](portraits-21.md) · [22](portraits-22.md) · [23](portraits-23.md) · [24](portraits-24.md) · [25](portraits-25.md) · [26](portraits-26.md) · [27](portraits-27.md) · [28](portraits-28.md) · [29](portraits-29.md) · [30](portraits-30.md) · [31](portraits-31.md) · [32](portraits-32.md) · [33](portraits-33.md) · [34](portraits-34.md)
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
-
-<a id="freestylefly-case-492"></a>
-
-## 黑色高定酒店套房写真
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case492.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case492.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Create a hyper-realistic luxury fashion portrait inspired by premium fashion-week editorials. IMPORTANT: Generate ONLY ONE SINGLE VERTICAL IMAGE. STYLE: Luxury fashion realism. Professional couture photography. Premium editorial atmosphere. MAIN CONCEPT: A beautiful adult Asian fashion model photographed inside a luxury hotel suite. OUTFIT: Elegant black couture mini dress. Luxury embroidered details. Premium designer fashion aesthetic. BACKGROUND: Luxury hotel interior. Soft neutral decor. Elegant cinematic depth blur. LIGHTING: Soft luxury window lighting. Professional fashion-editorial reflections. Natural skin texture. MOOD: Bold. Elegant. High-fashion energy. QUALITY: Ultra realistic native 4K HDR realism. Professional magazine quality. Vertical 9:16.
-```
-
-By [@xRahultripathi](https://x.com/xRahultripathi/status/2062100757923733617)
-
----
 
 <a id="freestylefly-case-493"></a>
 
@@ -326,6 +310,22 @@ Cinematic vertical video (9:16), single Korean female model posing in a studio. 
 
 ---
 
-[1](portraits.md) · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · **5** · [6](portraits-6.md) · [7](portraits-7.md) · [8](portraits-8.md) · [9](portraits-9.md) · [10](portraits-10.md) · [11](portraits-11.md) · [12](portraits-12.md) · [13](portraits-13.md) · [14](portraits-14.md) · [15](portraits-15.md) · [16](portraits-16.md) · [17](portraits-17.md) · [18](portraits-18.md) · [19](portraits-19.md) · [20](portraits-20.md) · [21](portraits-21.md) · [22](portraits-22.md) · [23](portraits-23.md) · [24](portraits-24.md) · [25](portraits-25.md) · [26](portraits-26.md) · [27](portraits-27.md) · [28](portraits-28.md) · [29](portraits-29.md) · [30](portraits-30.md) · [31](portraits-31.md) · [32](portraits-32.md) · [33](portraits-33.md) · [34](portraits-34.md) · [35](portraits-35.md)
+<a id="prompthero-0e0bd5b99bf"></a>
+
+## white sci-fi female armor with cybernetic helmet, \.\.\.
+
+<a href="https://cdn.prompthero.com/njognr53g3amxgze4uar0dtkq2pr-midjourney-52-white-sci-fi-female-armor-with-cybernetic-helmet-full-armor-insulated-armor-spacesuit-bald-head-lots-of-fine-detail-sci.jpg"><img src="https://cdn.prompthero.com/njognr53g3amxgze4uar0dtkq2pr-midjourney-52-white-sci-fi-female-armor-with-cybernetic-helmet-full-armor-insulated-armor-spacesuit-bald-head-lots-of-fine-detail-sci.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+white sci-fi female armor with cybernetic helmet, full armor, insulated armor, spacesuit, bald head, lots of fine detail, sci-fi movie style, outdoor photo, photography, natural light, photorealism, cinematic rendering, ray tracing, the highest quality, the highest detail, Cinematic, Third-Person Vi [...]
+```
+
+[Source](https://prompthero.com/prompt/0e0bd5b99bf-midjourney-52-white-sci-fi-female-armor-with-cybernetic-helmet-full-armor-insulated-armor-spacesuit-bald-head-lots-of-fine-detail-sci)
+
+---
+
+[1](portraits.md) · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · **5** · [6](portraits-6.md) · [7](portraits-7.md) · [8](portraits-8.md) · [9](portraits-9.md) · [10](portraits-10.md) · [11](portraits-11.md) · [12](portraits-12.md) · [13](portraits-13.md) · [14](portraits-14.md) · [15](portraits-15.md) · [16](portraits-16.md) · [17](portraits-17.md) · [18](portraits-18.md) · [19](portraits-19.md) · [20](portraits-20.md) · [21](portraits-21.md) · [22](portraits-22.md) · [23](portraits-23.md) · [24](portraits-24.md) · [25](portraits-25.md) · [26](portraits-26.md) · [27](portraits-27.md) · [28](portraits-28.md) · [29](portraits-29.md) · [30](portraits-30.md) · [31](portraits-31.md) · [32](portraits-32.md) · [33](portraits-33.md) · [34](portraits-34.md)
 
 [← Home](../README.md)

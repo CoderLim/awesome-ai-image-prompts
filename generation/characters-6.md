@@ -54,22 +54,6 @@ the photo shows a close-up of a humanoid robot or person in an advanced suit of 
 
 ---
 
-<a id="prompthero-f0c46c9ce69"></a>
-
-## epic digital wallpaper of a brutal cyborg samurai \.\.\.
-
-<a href="https://cdn.prompthero.com/oezfc3x2oy7r79p01cdo8ky6ro1w-stable-diffusion-xl-base-09-epic-digital-wallpaper-of-a-brutal-cyborg-samurai-in-black-tech-armor-alone-no-face-intricate-armor-night-rainy-epic.png"><img src="https://cdn.prompthero.com/oezfc3x2oy7r79p01cdo8ky6ro1w-stable-diffusion-xl-base-09-epic-digital-wallpaper-of-a-brutal-cyborg-samurai-in-black-tech-armor-alone-no-face-intricate-armor-night-rainy-epic.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-epic digital wallpaper of a brutal cyborg samurai in black tech armor, alone, no face, intricate armor, night, rainy, epic scene, proud pose, digital art, painting style, by Milo Manara and Russ Mills, dramatic lighting, emotionally profound, unforgettable, very intricate
-```
-
-By [@ArtEnthusiast](https://prompthero.com/prompt/f0c46c9ce69-stable-diffusion-xl-base-09-epic-digital-wallpaper-of-a-brutal-cyborg-samurai-in-black-tech-armor-alone-no-face-intricate-armor-night-rainy-epic)
-
----
-
 <a id="prompthero-f04e481f9a0"></a>
 
 ## Two plasticine figures of Deadpool and Wolverine, \.\.\.

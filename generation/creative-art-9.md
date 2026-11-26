@@ -1,58 +1,10 @@
 # creative art
 
-[← Home](../README.md) · Page 9 / 14
+[← Home](../README.md) · Page 9 / 13
 
-[1](creative-art.md) · [2](creative-art-2.md) · [3](creative-art-3.md) · [4](creative-art-4.md) · [5](creative-art-5.md) · [6](creative-art-6.md) · [7](creative-art-7.md) · [8](creative-art-8.md) · **9** · [10](creative-art-10.md) · [11](creative-art-11.md) · [12](creative-art-12.md) · [13](creative-art-13.md) · [14](creative-art-14.md)
+[1](creative-art.md) · [2](creative-art-2.md) · [3](creative-art-3.md) · [4](creative-art-4.md) · [5](creative-art-5.md) · [6](creative-art-6.md) · [7](creative-art-7.md) · [8](creative-art-8.md) · **9** · [10](creative-art-10.md) · [11](creative-art-11.md) · [12](creative-art-12.md) · [13](creative-art-13.md)
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
-
-<a id="prompthero-324685cb245"></a>
-
-## Elven Cleric
-
-<a href="https://cdn.prompthero.com/rh2lq094ymo8j1bt8yy9g1lvhxat-a-zovya-rpg-artist-tools-v2-elven-cleric.png"><img src="https://cdn.prompthero.com/rh2lq094ymo8j1bt8yy9g1lvhxat-a-zovya-rpg-artist-tools-v2-elven-cleric.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-(insanely detailed, masterpiece:1.2) , oil painting, D&D fantasy, (blue skinned female elf, blue skinned female:1.1) with freckles, slender, beautiful, short fiery red hair, wavy hair, smiling, pointed ears, looking at the viewer, cleric wearing intricate adventurer outfit, #3238 , 8k eyes, golden ratio, detailed face, big anime dreamy eyes, intricate details,  light on hair, complementary colors,  cover, top model, colorful glamourous hyperdetailed medieval city background, intricate hyperdetailed breathtaking colorful glamorous scenic view landscape,  cinematic lighting, octane render, volumetric lighting, artwork, concept art, ultra-fine details, hyper-focused, deep colors, dramatic lighting, ambient lighting,  god rays, flowers, garden [by sakimi chan, artgerm, wlop, pixiv, tumblr, instagram, deviantart], <lora:add_detail:0.8>
-```
-
-By [@ScArecrow23](https://prompthero.com/prompt/324685cb245-a-zovya-rpg-artist-tools-v2-elven-cleric)
-
----
-
-<a id="prompthero-668546b060e"></a>
-
-## A photorealistic, cinematic wide-angle shot from w\.\.\.
-
-<a href="https://cdn.prompthero.com/q0idvb504b17dr1y08zpbn7eyl-hero-10-a-photorealistic-cinematic-wide-angle-shot-from-within-a-dark-rugged-sea-cave-looking-out-through-a-natural-stone-archway.jpeg"><img src="https://cdn.prompthero.com/q0idvb504b17dr1y08zpbn7eyl-hero-10-a-photorealistic-cinematic-wide-angle-shot-from-within-a-dark-rugged-sea-cave-looking-out-through-a-natural-stone-archway.jpeg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-A photorealistic, cinematic wide-angle shot from within a dark, rugged sea cave, looking out through a natural stone archway to a vast, calm ocean at golden hour. The warm, low sunlight streams through the opening, casting a brilliant, ethereal glow across the water's surface and illuminating the misty spray of the waves. The cave walls are textured with rough, layered rock, dark and shadowed in the foreground, creating a strong contrast with the bright, luminous sea beyond. The water in the foreground is rendered with a smooth, silky motion blur, capturing the gentle movement of the tide. A dark, moss-covered rock sits in the lower left foreground. At the threshold of the cave's opening, a woman stands in a sensual pose, her body partially silhouetted against the radiant light. She is clad in a tiny triangle bikini, its dark fabric clinging to her form, saturated with seawater and glistening with droplets. Her skin is wet and smooth, catching the golden light that streams from behind, outlining her figure in a soft, luminous halo. Her head is tilted back slightly, eyes closed, face lifted toward the sun, as if absorbing the warmth and light. One hand rests lightly on the rough stone of the cave wall, her arm tensed, while the other hangs loosely at her side. Her posture is relaxed yet poised, her silhouette defined by the intense backlighting that creates a glowing aura around her, emphasizing the contours of her body. The scene is bathed in warm, directional light, with soft highlights and deep, moody shadows defining the textures and depth, creating a serene, intimate, and majestic atmosphere.
-```
-
-[Source](https://prompthero.com/prompt/668546b060e-hero-10-a-photorealistic-cinematic-wide-angle-shot-from-within-a-dark-rugged-sea-cave-looking-out-through-a-natural-stone-archway)
-
----
-
-<a id="prompthero-872900f88d1"></a>
-
-## In overgrown stone ruins where waterfalls spill be\.\.\.
-
-<a href="https://cdn.prompthero.com/v1_86b49d272a5aae22288e72398b-seedream-5-seedream-5-pro-in-overgrown-stone-ruins-where-waterfalls-spill-between-mossy-walls-2-savage-wolves-ravage-a-dead-carcass-nearby-a-pale.png"><img src="https://cdn.prompthero.com/v1_86b49d272a5aae22288e72398b-seedream-5-seedream-5-pro-in-overgrown-stone-ruins-where-waterfalls-spill-between-mossy-walls-2-savage-wolves-ravage-a-dead-carcass-nearby-a-pale.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-In overgrown stone ruins where waterfalls spill between mossy walls, 2 savage wolves ravage a dead carcass.  Nearby, a pale white-robed priestess glides past with masked tribal warriors carrying torches and spears, beneath feathered ropes leading to an eerie wooden throne ultra realistic photo with maximum attention to detail and realism. Shot with canon EOS wide angle lens to capute the full scene
-```
-
-By [@johns1670](https://prompthero.com/prompt/872900f88d1-seedream-5-seedream-5-pro-in-overgrown-stone-ruins-where-waterfalls-spill-between-mossy-walls-2-savage-wolves-ravage-a-dead-carcass-nearby-a-pale)
-
----
 
 <a id="prompthero-027115638da"></a>
 
@@ -67,22 +19,6 @@ A surreal and slightly humorous, realistic-style scene inspired by the famous Wi
 ```
 
 By [@chorlo](https://prompthero.com/prompt/027115638da-flux-flux-11-pro-a-surreal-and-slightly-humorous-realistic-style-scene-inspired-by-the-famous-windows-xp-bliss-background-the-landscape-features-lush)
-
----
-
-<a id="prompthero-304810840db"></a>
-
-## Crimson Soldier
-
-<a href="https://cdn.prompthero.com/61u762u3uqs9bhe44f4dqmka3b87-stable-diffusion-2-base-crimson-soldier.jpg"><img src="https://cdn.prompthero.com/61u762u3uqs9bhe44f4dqmka3b87-stable-diffusion-2-base-crimson-soldier.jpg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-Futuristic soldier with advanced armor, weaponry, and helmet, neon red, street, overcast, reflection mapping, intricate design and details, dramatic lighting, hyperrealism, photorealistic, cinematic, 8k, unreal engine --ar 9:16 --s 750
-```
-
-[Source](https://prompthero.com/prompt/304810840db-stable-diffusion-2-base-crimson-soldier)
 
 ---
 
@@ -326,6 +262,70 @@ Gothic style Gothic style 1woman, (full body image with nothing cropped out:1.2)
 
 ---
 
-[1](creative-art.md) · [2](creative-art-2.md) · [3](creative-art-3.md) · [4](creative-art-4.md) · [5](creative-art-5.md) · [6](creative-art-6.md) · [7](creative-art-7.md) · [8](creative-art-8.md) · **9** · [10](creative-art-10.md) · [11](creative-art-11.md) · [12](creative-art-12.md) · [13](creative-art-13.md) · [14](creative-art-14.md)
+<a id="prompthero-ac56ab79457"></a>
+
+## A Girl Shining silver short hair peeking from unde\.\.\.
+
+<a href="https://cdn.prompthero.com/u82i9kkvyj5bn01agk279dkk1bdy-flux-flux-11-pro-a-girl-shining-silver-short-hair-peeking-from-under-a-stylish-hooded-red-jacket-short-jeans-barefoot-battling-a-giant.jpg"><img src="https://cdn.prompthero.com/u82i9kkvyj5bn01agk279dkk1bdy-flux-flux-11-pro-a-girl-shining-silver-short-hair-peeking-from-under-a-stylish-hooded-red-jacket-short-jeans-barefoot-battling-a-giant.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+A Girl Shining silver short hair peeking from under a stylish hooded red jacket, short jeans, barefoot, battling a giant monster in a post-apocalyptic with strange energy emanating from girl hands world cover, hyperdetailed painting, luminism, octane render, Bar lighting, complex, 8k resolution concept art portrait by Martina Fačková and Prywinko Art, Artgerm, WLOP, Alphonse Mucha, Tony Taka, fractal isometrics details bioluminescence, hypereallistic cover photo awesome full color, hand drawn, bright, gritty, realistic, davinci, erte .12k, intricate. hit definition , cinematic,Rough sketch, mix of bold dark lines and loose lines, bold lines, on paper , real life human
+```
+
+[Source](https://prompthero.com/prompt/ac56ab79457-flux-flux-11-pro-a-girl-shining-silver-short-hair-peeking-from-under-a-stylish-hooded-red-jacket-short-jeans-barefoot-battling-a-giant)
+
+---
+
+<a id="prompthero-adbb3c136d7"></a>
+
+## Sci professional artwork, ultra-fine 3D details, f\.\.\.
+
+<a href="https://cdn.prompthero.com/z43dkl1yhi9nhxqwk73fu3bvvoav-flux-flux-11-pro-ultra-sci-professional-artwork-ultra-fine-3d-details-full-body-archangel-wings-open-pointing-totally-upward-in-the-sky-hyper-realistic.jpg"><img src="https://cdn.prompthero.com/z43dkl1yhi9nhxqwk73fu3bvvoav-flux-flux-11-pro-ultra-sci-professional-artwork-ultra-fine-3d-details-full-body-archangel-wings-open-pointing-totally-upward-in-the-sky-hyper-realistic.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+Sci professional artwork, ultra-fine 3D details, full body archangel wings open, pointing totally upward in the sky, hyper-realistic fully detailed in pure white   , sci-fi realism, airbrush art. A stunningly realistic 3D alcohol ink double exposure illustration, where the main image is a full-length facing of a beautiful futuristic woman, flowing silvery blonde hair, deep gray eyes, showing black parts with human body skin, with intricate details and a long exposure celestial backdrop that melds together in a softly blended double exposure effect. The interplay of colors and iridescent patterns creates a surreal optical illusion, with a turquoise angel female figure with flowing golden hair and feathery wings whose futuristic gem-ornamented detailed armor and extremely long, flowing hair blend seamlessly with the ethereal surroundings. The overall atmosphere exudes an air of fantasy andment that makes the piece a masterful artistry.
+```
+
+[Source](https://prompthero.com/prompt/adbb3c136d7-flux-flux-11-pro-ultra-sci-professional-artwork-ultra-fine-3d-details-full-body-archangel-wings-open-pointing-totally-upward-in-the-sky-hyper-realistic)
+
+---
+
+<a id="prompthero-ade84d9f7bc"></a>
+
+## dark haired woman is standing in front of orange l\.\.\.
+
+<a href="https://cdn.prompthero.com/d4chtedlq3da0i8guujuceqf8mye-stable-diffusion-2-base-dark-haired-woman-is-standing-in-front-of-orange-light-in-glossy-transparent-plastic-futuristic-raincoat-short-hair-volumetric-lighting.png"><img src="https://cdn.prompthero.com/d4chtedlq3da0i8guujuceqf8mye-stable-diffusion-2-base-dark-haired-woman-is-standing-in-front-of-orange-light-in-glossy-transparent-plastic-futuristic-raincoat-short-hair-volumetric-lighting.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+dark haired woman is standing in front of orange light, in glossy transparent plastic futuristic raincoat, short hair, volumetric lighting, cinematic angle, glamour vibrant,
+```
+
+[Source](https://prompthero.com/prompt/ade84d9f7bc-stable-diffusion-2-base-dark-haired-woman-is-standing-in-front-of-orange-light-in-glossy-transparent-plastic-futuristic-raincoat-short-hair-volumetric-lighting)
+
+---
+
+<a id="prompthero-af8b127ccfc"></a>
+
+## Japanese Oni Mask
+
+<a href="https://cdn.prompthero.com/4z0p2alxmw75kkujrkbx39yt5o9r-stable-diffusion-xl-base-09-japanese-oni-mask.jpg"><img src="https://cdn.prompthero.com/4z0p2alxmw75kkujrkbx39yt5o9r-stable-diffusion-xl-base-09-japanese-oni-mask.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+<lora:Battle Armor Weapons:1.0> <lora:Fantasia:1.0> a nightmarish appearance of the evil ((mask)), Japanese Oni culture , portrait view, highly detailed, 8k, Hyperrealistic, splash art, concept art, mid shot, intricately detailed, color depth, dramatic, 2/3 face angle, side light, colorful background
+```
+
+By [@Atheist](https://prompthero.com/prompt/af8b127ccfc-stable-diffusion-xl-base-09-japanese-oni-mask)
+
+---
+
+[1](creative-art.md) · [2](creative-art-2.md) · [3](creative-art-3.md) · [4](creative-art-4.md) · [5](creative-art-5.md) · [6](creative-art-6.md) · [7](creative-art-7.md) · [8](creative-art-8.md) · **9** · [10](creative-art-10.md) · [11](creative-art-11.md) · [12](creative-art-12.md) · [13](creative-art-13.md)
 
 [← Home](../README.md)

@@ -6,22 +6,6 @@
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
-<a id="freestylefly-case-526"></a>
-
-## 体积激光黑场海报
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case526.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case526.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-从全黑剧场开始，像切标本一样用六片真实体积激光把空间分层。光面必须有明确起点、透视和薄雾中的厚度，人物站在交汇点，透明道具折射出一小束异色光扇。构图沿左下至右上的对角线推进，脸只用一道克制边光揭示；标题与其中一片光面共享透视，小字留在纯黑负空间。每次替换主题与角色时，不得退化成夜店模板、HUD、霓虹城市或无物理来源的光线。
-```
-
-By [@zhidawang219555](https://x.com/zhidawang219555/status/2090246237094310178)
-
----
-
 <a id="freestylefly-case-527"></a>
 
 ## Rio 旅行票据纸雕立体海报
@@ -323,6 +307,22 @@ Ultra-cinematic superhero movie poster, Iron Man standing confidently in the cen
 ```
 
 [Source](https://prompthero.com/prompt/0650f53612c-hero-10-ultra-cinematic-superhero-movie-poster-iron-man-standing-confidently-in-the-center-wearing-a-sleek-red-and-gold-armored-suit)
+
+---
+
+<a id="prompthero-727cf72983c"></a>
+
+## Create a hyper-realistic editorial advertising pho\.\.\.
+
+<a href="https://cdn.prompthero.com/jfx4djl3cksvj829okdtgjytjd-nano-banana-nano-banana-2-create-a-hyper-realistic-editorial-advertising-photograph-with-a-bold-theatrical-visual-language-use-intensely-saturated-colors-dramatic-studio-lighting.jpeg"><img src="https://cdn.prompthero.com/jfx4djl3cksvj829okdtgjytjd-nano-banana-nano-banana-2-create-a-hyper-realistic-editorial-advertising-photograph-with-a-bold-theatrical-visual-language-use-intensely-saturated-colors-dramatic-studio-lighting.jpeg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+Create a hyper-realistic editorial advertising photograph with a bold, theatrical visual language. Use intensely saturated colors, dramatic studio lighting, glossy surfaces, oversized props, playful visual symbolism, and an extravagant fashion-inspired aesthetic. The image should feel like a high-end international advertising campaign with cinematic storytelling and striking visual impact. The composition is split vertically into two contrasting worlds. Left side: A creative agency overwhelmed by complexity. The room explodes with vivid reds, hot pinks, oranges, electric yellows and neon accents. Hundreds of colorful sticky notes, sketches, diagrams and mood boards cover every wall. Five creatives enthusiastically point in different directions. Confetti, paint splashes, scattered markers and design materials create a sense of beautiful, controlled chaos. Every detail is visually stimulating. Right side: A visually calm but equally spectacular space. Dominated by brilliant white, deep cobalt blue and golden highlights. A single elegant concept sketch hangs on an otherwise clean wall. Two confident creatives quietly admire it. Behind them, the finished campaign appears across a billboard, premium packaging, magazine spreads, a smartphone and a large digital display. Every execution clearly grows from the same simple idea. The visual contrast should instantly communicate complexity versus clarity, noise versus focus, and many ideas versus one powerful idea, while both environments remain beautiful and aspirational. Use bold color blocking, dramatic contrast, sculptural lighting, glossy reflections, expressive body language, fashion-forward styling, luxurious production design and premium editorial photography. The image should feel energetic, imaginative and unforgettable rather than realistic office documentation. Ultra-realistic skin textures, cinematic depth of field, medium wide-angle lens, magazine cover quality, meticulous art direction, vibrant color harmony, surreal yet believable atmosphere, no logos, no readable text, no futuristic technology.
+```
+
+By [@p8258](https://prompthero.com/prompt/727cf72983c-nano-banana-nano-banana-2-create-a-hyper-realistic-editorial-advertising-photograph-with-a-bold-theatrical-visual-language-use-intensely-saturated-colors-dramatic-studio-lighting)
 
 ---
 

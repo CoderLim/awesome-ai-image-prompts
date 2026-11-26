@@ -102,22 +102,6 @@ Still life with traditional Christmas stollen bread, black and gold color palett
 
 ---
 
-<a id="prompthero-2c7973a4a8c"></a>
-
-## mid-sized living room with a candid angle, dieter \.\.\.
-
-<a href="https://cdn.prompthero.com/d05ehe5c4rojidr304qn0gj9ug9z-midjourney-6-mid-sized-living-room-with-a-candid-angle-dieter-rams-620-chair-program-flos-arco-floor-lamp-nikon-z6-ii.png"><img src="https://cdn.prompthero.com/d05ehe5c4rojidr304qn0gj9ug9z-midjourney-6-mid-sized-living-room-with-a-candid-angle-dieter-rams-620-chair-program-flos-arco-floor-lamp-nikon-z6-ii.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-mid-sized living room with a candid angle, dieter Rams 620 chair program, flos Arco floor lamp, Nikon Z6 II, 35mm f/1.8 lens, dusk light streaming through sheer curtains
-```
-
-By [@Grayve](https://prompthero.com/prompt/2c7973a4a8c-midjourney-6-mid-sized-living-room-with-a-candid-angle-dieter-rams-620-chair-program-flos-arco-floor-lamp-nikon-z6-ii)
-
----
-
 <a id="prompthero-03ae753c662"></a>
 
 ## A realistic giant hamburger-shaped multi-level pop\.\.\.
@@ -147,22 +131,6 @@ architectural sketch, central composition, bauhaus style, two story contemporary
 ```
 
 By [@Grayve](https://prompthero.com/prompt/3e5c9b83434-midjourney-6-architectural-sketch-central-composition-bauhaus-style-two-story-contemporary-cafe-facade-design-modernism-allignment-line-simplified-gorgeous-rough-way-of)
-
----
-
-<a id="prompthero-3e20f16cfe9"></a>
-
-## Exterior scene
-
-<a href="https://cdn.prompthero.com/i79k1gl4p54pj6wsk2p0m2p7mjs3-midjourney-6-exterior-scene.png"><img src="https://cdn.prompthero.com/i79k1gl4p54pj6wsk2p0m2p7mjs3-midjourney-6-exterior-scene.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-photography, minimalist small building facade design, Canon EOS 5D Mark IV, depth of field that highlights architectural photography, design should blend different materials in a way that’s both innovative and aesthetically pleasing, focus on a clean composition, with sharp lines and a balanced interplay between light and shadow, archdaily style, hight contrast, emulating the approach of a professional architectural photographer, highlight the facade’s details and textures, to evoke a sense of depth and realism, with an emphasis on the facade as the focal point of the composition, dramatic light and foggy, realism sunlight, photorealistic --no unreal scale --ar 9:16 --style raw --stylize 750 --v 6
-```
-
-By [@Grayve](https://prompthero.com/prompt/3e20f16cfe9-midjourney-6-exterior-scene)
 
 ---
 
@@ -323,6 +291,38 @@ minimalist architecture, contemporary pavilion design, symmetrical curved struct
 ```
 
 By [@Grayve](https://prompthero.com/prompt/292bd13b2f8-midjourney-6-pavilion-wwwgraytheorystudiocom-minimalist-architecture-contemporary-pavilion-design-symmetrical-curved-structure-panoramic-view-architectural-photography-night-scene-canon-eos-r5-f28-long-exposure)
+
+---
+
+<a id="prompthero-414f5e53e57"></a>
+
+## visualize a modern luxury bathroom interior from a\.\.\.
+
+<a href="https://cdn.prompthero.com/3klm2gfeiqiqvk5dmegy6x5zd9et-midjourney-6-visualize-a-modern-luxury-bathroom-interior-from-a-front-view-perspective-features-an-elegant-white-marble-sink-accompanied-by-a.png"><img src="https://cdn.prompthero.com/3klm2gfeiqiqvk5dmegy6x5zd9et-midjourney-6-visualize-a-modern-luxury-bathroom-interior-from-a-front-view-perspective-features-an-elegant-white-marble-sink-accompanied-by-a.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+visualize a modern luxury bathroom interior from a front-view perspective, features an elegant white marble sink, accompanied by a matte gold faucet, a wall-mounted toilet in a sleek white ceramic enhances the room's luxurious, include a large mirror with a gold filigree frame that reflects the opulent decor of the room, the floor and walls are finished in large, white and grey veined marble tiles, adding to the lavish aesthetic, soft LED lighting is integrated into the ceiling and behind the mirror, casting a warm, glowing light across the space, creating a serene and opulent atmosphere, ensure the image captures the interplay of warm artificial light and natural daylight, emphasizing the polished surfaces and elegant lines typical of a luxury bathroom design --ar 9:16 --style raw
+```
+
+By [@Grayve](https://prompthero.com/prompt/414f5e53e57-midjourney-6-visualize-a-modern-luxury-bathroom-interior-from-a-front-view-perspective-features-an-elegant-white-marble-sink-accompanied-by-a)
+
+---
+
+<a id="prompthero-577c98de545"></a>
+
+## Haunted House
+
+<a href="https://cdn.prompthero.com/6hgbe6f2rle86cfov22m4roasq1m-midjourney-6-haunted-house.jpg"><img src="https://cdn.prompthero.com/6hgbe6f2rle86cfov22m4roasq1m-midjourney-6-haunted-house.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+black and white spooky haunted house image, with color glowing jack-o-lanterns, and bats and moon in a haunted forest during a storm --ar 9:11 --stylize 250 --v 6.1
+```
+
+[Source](https://prompthero.com/prompt/577c98de545-midjourney-6-haunted-house)
 
 ---
 

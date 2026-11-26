@@ -6,22 +6,6 @@
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
-<a id="freestylefly-case-174"></a>
-
-## 唐朝贵妇遛粉色马甲异形工笔画
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case174.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case174.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-[中文] 一幅细节丰富的工笔画，描绘了一位唐朝贵族女子在御花园中漫步。她看起来优雅而平静。 她手里拿着一根金色的牵引绳。牵引绳的尽头是一只可怕的**异形怪物（出自电影《异形》）**。然而，这只异形穿着一件**可爱的粉色丝绸马甲**，并且表现得像一只训练有素的狗。 背景有牡丹和蝴蝶。 **在右下角，有一个红色的竖排艺术家印章，写着“吴先生”（Mr. Wu），风格像水印一样。** --ar 3:4 [English] A finely detailed Gongbi painting of a noble Tang Dynasty lady taking a stroll in the imperial garden. She looks elegant and calm. She is holding a gold leash. At the end of the leash is a terrifying **Xenomorph monster (from the movie Alien)**. However, the Xenomorph is wearing a **cute pink silk vest** and is behaving like a well-trained dog. Background features peonies and butterflies. **In the bottom right corner, a single red vertical artist chop seal reads "吴先生" (Mr. Wu), stylized like a watermark.** --ar 3:4
-```
-
-By [@johnAGI168](https://x.com/johnAGI168/status/2046565555025367392)
-
----
-
 <a id="freestylefly-case-195"></a>
 
 ## 超写实与水墨的梦幻融合
@@ -323,6 +307,22 @@ Full-body fashion illustration of a young woman walking down a Parisian street i
 ```
 
 By [@heyfatema](https://x.com/heyfatema/status/2057745100365787170)
+
+---
+
+<a id="freestylefly-case-463"></a>
+
+## 黑色吊带袜单款图鉴展示
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case463.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case463.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+《黑色丝袜图鉴款式单图》提示词： 请基于同一套「黑色丝袜 / 吊带袜图鉴」系列风格，继续生成 8 张对应单款的独立展示图。 【系列要求】 - 这些图片必须和已完成的总览图鉴属于同一个系列 - 整体版式、字体、色调、背景、质感、排版逻辑保持一致 - 都是竖版、高完成度、暖白 / 浅灰白背景、轻奢女性向时尚图鉴风格 - 每一张都像同一个品牌或同一套视觉系统下的延展页面 【每张单图的共同结构】 1. 顶部标题区 - 英文系列标题：BLACK GARTER GUIDE - 中文主标题：黑色丝袜 / 吊带袜单款展示 - 当前款式名称：__________ - 一句简短副标题：突出该款式的核心特点 2. 中部主体区 - 以 1 位成人女性模特穿戴展示为主 - 重点展示对应款式的关键细节： - 经典蕾丝款：袜口蕾丝、优雅氛围 - 细网眼款：网格纹理、轻盈通透 - 波点款：波点图案、复古俏皮 - 后缝线款：背后缝线、线条感 - 竖条纹款：纵向条纹、修饰腿型 - 交叉绑带款：绑带结构、设计感 - 极简透肤款：透明感、基础百搭 - 花纹蕾丝款：花纹装饰、浪漫氛围 - 每张图的人物长相、发型、姿势、镜头角度要不同，但都要保持高级、真实、性感、写实 - 允许使用站姿、坐姿、交叉腿、倚靠、回眸等不同姿势 - 画面要有立体感、阴影层次和高级编辑感 3. 注释区 - 每张图都要保留 3 到 5 条手绘式标注 - 可以使用箭头、短线、圈注、手写风标签 - 标注内容要围绕该款式最关键的细节，比如： - 袜口结构 - 花纹纹理 - 透明度 - 缝线位置 - 绑带方式 - 腿部线条效果 - 标注文字简洁、清楚、统一风格 4. 底部信息区 - 加入简短的 “Style Notes / 风格速记” - 用 1 到 2 句说明该款适合的场景和氛围 - 保持简洁，不要抢主体 【统一视觉要求】 - 保持和总览图鉴完全统一的整体视觉系统 - 背景统一为暖白、浅灰白或奶白 - 风格统一为高级、干净、时尚图鉴感、轻奢女性视觉 - 模特必须真实、立体、写实、自然肤质 - 每张图都要突出产品，不要低俗，不要过度情色化 - 每张图都应像同一系列里的不同章节，避免呈现为彼此割裂的作品 【款式列表】 1. 经典蕾丝款 / Classic Lace 2. 细网眼款 / Fine Fishnet 3. 波点款 / Dot Sheer 4. 后缝线款 / Back Seam 5. 竖条纹款 / Stripe Sheer 6. 交叉绑带款 / Cross Strap 7. 极简透肤款 / Minimal Sheer 8. 花纹蕾丝袜 / Floral Lace 【输出目标】 按以上 8 个款式，分别生成 8 张独立展示图。 要求每张都保留统一系列感，同时人物造型、发型、姿势和镜头语言明显不同，确保整套看起来完整、专业、可收藏。
+```
+
+By [@MrLarus](https://x.com/MrLarus/status/2058175014168396245)
 
 ---
 

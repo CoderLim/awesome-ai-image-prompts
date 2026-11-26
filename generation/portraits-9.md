@@ -1,58 +1,10 @@
 # portraits
 
-[← Home](../README.md) · Page 9 / 35
+[← Home](../README.md) · Page 9 / 34
 
-[1](portraits.md) · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · [5](portraits-5.md) · [6](portraits-6.md) · [7](portraits-7.md) · [8](portraits-8.md) · **9** · [10](portraits-10.md) · [11](portraits-11.md) · [12](portraits-12.md) · [13](portraits-13.md) · [14](portraits-14.md) · [15](portraits-15.md) · [16](portraits-16.md) · [17](portraits-17.md) · [18](portraits-18.md) · [19](portraits-19.md) · [20](portraits-20.md) · [21](portraits-21.md) · [22](portraits-22.md) · [23](portraits-23.md) · [24](portraits-24.md) · [25](portraits-25.md) · [26](portraits-26.md) · [27](portraits-27.md) · [28](portraits-28.md) · [29](portraits-29.md) · [30](portraits-30.md) · [31](portraits-31.md) · [32](portraits-32.md) · [33](portraits-33.md) · [34](portraits-34.md) · [35](portraits-35.md)
+[1](portraits.md) · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · [5](portraits-5.md) · [6](portraits-6.md) · [7](portraits-7.md) · [8](portraits-8.md) · **9** · [10](portraits-10.md) · [11](portraits-11.md) · [12](portraits-12.md) · [13](portraits-13.md) · [14](portraits-14.md) · [15](portraits-15.md) · [16](portraits-16.md) · [17](portraits-17.md) · [18](portraits-18.md) · [19](portraits-19.md) · [20](portraits-20.md) · [21](portraits-21.md) · [22](portraits-22.md) · [23](portraits-23.md) · [24](portraits-24.md) · [25](portraits-25.md) · [26](portraits-26.md) · [27](portraits-27.md) · [28](portraits-28.md) · [29](portraits-29.md) · [30](portraits-30.md) · [31](portraits-31.md) · [32](portraits-32.md) · [33](portraits-33.md) · [34](portraits-34.md)
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
-
-<a id="prompthero-4e085fd13f2"></a>
-
-## a woman dressed as a clown with red hair, in the s\.\.\.
-
-<a href="https://cdn.prompthero.com/se2y4kn16kwigz19fd1qce67e1ub-midjourney-52-a-woman-dressed-as-a-clown-with-red-hair-in-the-style-of-magical-girl-colorful-moebius-light-yellow-and.png"><img src="https://cdn.prompthero.com/se2y4kn16kwigz19fd1qce67e1ub-midjourney-52-a-woman-dressed-as-a-clown-with-red-hair-in-the-style-of-magical-girl-colorful-moebius-light-yellow-and.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-a woman dressed as a clown with red hair, in the style of magical girl, colorful moebius, light yellow and dark crimson, pencilsteampunk, kintsukuroi, loose and fluid, stylish costume design --ar 68:128 --stylize 750 --v 5.2
-```
-
-By [@NorthmoorAI](https://prompthero.com/prompt/4e085fd13f2-midjourney-52-a-woman-dressed-as-a-clown-with-red-hair-in-the-style-of-magical-girl-colorful-moebius-light-yellow-and)
-
----
-
-<a id="prompthero-4edf1851b11"></a>
-
-## Full body view of Hyper realistic full body view o\.\.\.
-
-<a href="https://cdn.prompthero.com/qmvk6mxjh40s19li3zz1azgd8u2e-flux-flux-11-pro-full-body-view-of-hyper-realistic-full-body-view-of-beautiful-20yo-nun-long-legs-very-big-breast-wide-hips.jpg"><img src="https://cdn.prompthero.com/qmvk6mxjh40s19li3zz1azgd8u2e-flux-flux-11-pro-full-body-view-of-hyper-realistic-full-body-view-of-beautiful-20yo-nun-long-legs-very-big-breast-wide-hips.jpg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-Full body view of Hyper realistic full body view of beautiful 20yo nun,  long legs, very big breast, Wide hips, delicate hands with long slender fingers, a strange energy emanates from the hands and hovers in the air, young catholic nun, pretty, cute face, skirt, Black straps, Barefoot, frontal view, ray of light breaking the shadows of a church, 8k wallpaper, UHD, perfect lighting, masterpiece, dramatic, photorealistic, finely detailed, shadows, large, bug cross in background
-```
-
-[Source](https://prompthero.com/prompt/4edf1851b11-flux-flux-11-pro-full-body-view-of-hyper-realistic-full-body-view-of-beautiful-20yo-nun-long-legs-very-big-breast-wide-hips)
-
----
-
-<a id="prompthero-4ee785efa3d"></a>
-
-## masterpiece, mid shot, arafly dressed woman with o\.\.\.
-
-<a href="https://cdn.prompthero.com/jojn3bsfhk3a8okrwvqxj383alzd-stable-diffusion-21-768-masterpiece-mid-shot-arafly-dressed-woman-with-orange-hair-and-a-suitcase-a-portrait-inspired-by-harriet-powers-trending-on.png"><img src="https://cdn.prompthero.com/jojn3bsfhk3a8okrwvqxj383alzd-stable-diffusion-21-768-masterpiece-mid-shot-arafly-dressed-woman-with-orange-hair-and-a-suitcase-a-portrait-inspired-by-harriet-powers-trending-on.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-masterpiece, mid shot, arafly dressed woman with orange hair and a suitcase, a portrait inspired by Harriet Powers, trending on cg society, digital art, a hyperrealistic schoolgirl, hyperrealistic schoolgirl, dressed as schoolgirl, school girl, realistic schoolgirl, still from a live action movie, wearing skirt and high socks, promotional still, magical school student uniform, photo still, airport interior background,
-```
-
-[Source](https://prompthero.com/prompt/4ee785efa3d-stable-diffusion-21-768-masterpiece-mid-shot-arafly-dressed-woman-with-orange-hair-and-a-suitcase-a-portrait-inspired-by-harriet-powers-trending-on)
-
----
 
 <a id="prompthero-4f5a4e32e0b"></a>
 
@@ -326,6 +278,54 @@ A realistic, high-definition image of a baby and a white tiger standing together
 
 ---
 
-[1](portraits.md) · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · [5](portraits-5.md) · [6](portraits-6.md) · [7](portraits-7.md) · [8](portraits-8.md) · **9** · [10](portraits-10.md) · [11](portraits-11.md) · [12](portraits-12.md) · [13](portraits-13.md) · [14](portraits-14.md) · [15](portraits-15.md) · [16](portraits-16.md) · [17](portraits-17.md) · [18](portraits-18.md) · [19](portraits-19.md) · [20](portraits-20.md) · [21](portraits-21.md) · [22](portraits-22.md) · [23](portraits-23.md) · [24](portraits-24.md) · [25](portraits-25.md) · [26](portraits-26.md) · [27](portraits-27.md) · [28](portraits-28.md) · [29](portraits-29.md) · [30](portraits-30.md) · [31](portraits-31.md) · [32](portraits-32.md) · [33](portraits-33.md) · [34](portraits-34.md) · [35](portraits-35.md)
+<a id="prompthero-6b1b6ec2719"></a>
+
+## A woman reclines languidly on a plush sofa in her \.\.\.
+
+<a href="https://cdn.prompthero.com/ul8pglj148xelqwnwc01l20qh0gu-flux-flux1-dev-a-woman-reclines-languidly-on-a-plush-sofa-in-her-cozy-living-room-her-gaze-locking-onto-the-viewer-with.png"><img src="https://cdn.prompthero.com/ul8pglj148xelqwnwc01l20qh0gu-flux-flux1-dev-a-woman-reclines-languidly-on-a-plush-sofa-in-her-cozy-living-room-her-gaze-locking-onto-the-viewer-with.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+A woman reclines languidly on a plush sofa in her cozy living room, her gaze locking onto the viewer with an air of confidence and seduction. Her light blue eyes sparkle like diamonds in the soft, golden light that fills the space. She leans on one arm, her hand resting gently on her stomach as she relaxes into the cushions. The tight, thin fabric of her collared button-down shirt strains to contain her ample cleavage, which is tantalizingly revealed as the shirt lies slightly unbuttoned. A gold bracelet adorns her wrist, adding a touch of sophistication and glamour to the overall scene. As the late evening sun dips below the horizon, the room is bathed in a warm, intimate glow, making it feel like a private sanctuary shared only between the woman and the viewer. aidmarealisticpeoplephotograph
+```
+
+[Source](https://prompthero.com/prompt/6b1b6ec2719-flux-flux1-dev-a-woman-reclines-languidly-on-a-plush-sofa-in-her-cozy-living-room-her-gaze-locking-onto-the-viewer-with)
+
+---
+
+<a id="prompthero-6ba8586e789"></a>
+
+## A digital Portrait of a japanese woman, 20 years o\.\.\.
+
+<a href="https://cdn.prompthero.com/v1_cba6ba6e1d11a577e4c5f16e79-grok-image-grok-imagine-image-2-a-digital-portrait-of-a-japanese-woman-20-years-old-light-green-eyes-dark-black-hair-falling-on-her-waist.jpg"><img src="https://cdn.prompthero.com/v1_cba6ba6e1d11a577e4c5f16e79-grok-image-grok-imagine-image-2-a-digital-portrait-of-a-japanese-woman-20-years-old-light-green-eyes-dark-black-hair-falling-on-her-waist.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+A digital Portrait of a japanese woman, 20 years old, light green eyes, dark black hair falling on her waist, fair skin, highly detailed, smooth, cherry blossom background. The woman is wearing a white Kimono in warm light.
+```
+
+[Source](https://prompthero.com/prompt/6ba8586e789-grok-image-grok-imagine-image-2-a-digital-portrait-of-a-japanese-woman-20-years-old-light-green-eyes-dark-black-hair-falling-on-her-waist)
+
+---
+
+<a id="prompthero-6ca5facd510"></a>
+
+## &quot;A cinematic style fine art photograph, with gentl\.\.\.
+
+<a href="https://cdn.prompthero.com/0y26w1wfzc0nhy6h7y5rodlb5ij9-flux-flux-11-pro-ultra-a-cinematic-style-fine-art-photograph-with-gentle-soft-light-and-soft-pastel-colours-features-a-close-up-head-and.jpg"><img src="https://cdn.prompthero.com/0y26w1wfzc0nhy6h7y5rodlb5ij9-flux-flux-11-pro-ultra-a-cinematic-style-fine-art-photograph-with-gentle-soft-light-and-soft-pastel-colours-features-a-close-up-head-and.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+"A cinematic style fine art photograph, with gentle, soft light and soft pastel colours, features a close-up head and shoulders portrait of a supermodel in her early 20s. head tilted slightly left, Her luminous complexion is sculpted by Rembrandt lighting. She has raven black hair in a bun, vivid green-silver eyes turned to her right looking into camera, full parted pink lips. A navy blue silk backdrop offers harmony, with a muted golden rim light adding depth. The diffused shadows, subtle illumination, and soft contrast create a serene, confident mood. Photographed with a Sony A1 and 120mm lens for high resolution and an editorial style."
+```
+
+[Source](https://prompthero.com/prompt/6ca5facd510-flux-flux-11-pro-ultra-a-cinematic-style-fine-art-photograph-with-gentle-soft-light-and-soft-pastel-colours-features-a-close-up-head-and)
+
+---
+
+[1](portraits.md) · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · [5](portraits-5.md) · [6](portraits-6.md) · [7](portraits-7.md) · [8](portraits-8.md) · **9** · [10](portraits-10.md) · [11](portraits-11.md) · [12](portraits-12.md) · [13](portraits-13.md) · [14](portraits-14.md) · [15](portraits-15.md) · [16](portraits-16.md) · [17](portraits-17.md) · [18](portraits-18.md) · [19](portraits-19.md) · [20](portraits-20.md) · [21](portraits-21.md) · [22](portraits-22.md) · [23](portraits-23.md) · [24](portraits-24.md) · [25](portraits-25.md) · [26](portraits-26.md) · [27](portraits-27.md) · [28](portraits-28.md) · [29](portraits-29.md) · [30](portraits-30.md) · [31](portraits-31.md) · [32](portraits-32.md) · [33](portraits-33.md) · [34](portraits-34.md)
 
 [← Home](../README.md)

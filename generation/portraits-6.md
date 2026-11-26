@@ -1,26 +1,10 @@
 # portraits
 
-[← Home](../README.md) · Page 6 / 35
+[← Home](../README.md) · Page 6 / 34
 
-[1](portraits.md) · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · [5](portraits-5.md) · **6** · [7](portraits-7.md) · [8](portraits-8.md) · [9](portraits-9.md) · [10](portraits-10.md) · [11](portraits-11.md) · [12](portraits-12.md) · [13](portraits-13.md) · [14](portraits-14.md) · [15](portraits-15.md) · [16](portraits-16.md) · [17](portraits-17.md) · [18](portraits-18.md) · [19](portraits-19.md) · [20](portraits-20.md) · [21](portraits-21.md) · [22](portraits-22.md) · [23](portraits-23.md) · [24](portraits-24.md) · [25](portraits-25.md) · [26](portraits-26.md) · [27](portraits-27.md) · [28](portraits-28.md) · [29](portraits-29.md) · [30](portraits-30.md) · [31](portraits-31.md) · [32](portraits-32.md) · [33](portraits-33.md) · [34](portraits-34.md) · [35](portraits-35.md)
+[1](portraits.md) · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · [5](portraits-5.md) · **6** · [7](portraits-7.md) · [8](portraits-8.md) · [9](portraits-9.md) · [10](portraits-10.md) · [11](portraits-11.md) · [12](portraits-12.md) · [13](portraits-13.md) · [14](portraits-14.md) · [15](portraits-15.md) · [16](portraits-16.md) · [17](portraits-17.md) · [18](portraits-18.md) · [19](portraits-19.md) · [20](portraits-20.md) · [21](portraits-21.md) · [22](portraits-22.md) · [23](portraits-23.md) · [24](portraits-24.md) · [25](portraits-25.md) · [26](portraits-26.md) · [27](portraits-27.md) · [28](portraits-28.md) · [29](portraits-29.md) · [30](portraits-30.md) · [31](portraits-31.md) · [32](portraits-32.md) · [33](portraits-33.md) · [34](portraits-34.md)
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
-
-<a id="prompthero-0e0bd5b99bf"></a>
-
-## white sci-fi female armor with cybernetic helmet, \.\.\.
-
-<a href="https://cdn.prompthero.com/njognr53g3amxgze4uar0dtkq2pr-midjourney-52-white-sci-fi-female-armor-with-cybernetic-helmet-full-armor-insulated-armor-spacesuit-bald-head-lots-of-fine-detail-sci.jpg"><img src="https://cdn.prompthero.com/njognr53g3amxgze4uar0dtkq2pr-midjourney-52-white-sci-fi-female-armor-with-cybernetic-helmet-full-armor-insulated-armor-spacesuit-bald-head-lots-of-fine-detail-sci.jpg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-white sci-fi female armor with cybernetic helmet, full armor, insulated armor, spacesuit, bald head, lots of fine detail, sci-fi movie style, outdoor photo, photography, natural light, photorealism, cinematic rendering, ray tracing, the highest quality, the highest detail, Cinematic, Third-Person Vi [...]
-```
-
-[Source](https://prompthero.com/prompt/0e0bd5b99bf-midjourney-52-white-sci-fi-female-armor-with-cybernetic-helmet-full-armor-insulated-armor-spacesuit-bald-head-lots-of-fine-detail-sci)
-
----
 
 <a id="prompthero-0ebedbfc7c1"></a>
 
@@ -310,22 +294,38 @@ best quality, 4k, highres, masterpiece, ultra-detailed, realistic, highly detail
 
 ---
 
-<a id="prompthero-02b087a52fa"></a>
+<a id="prompthero-2b2215c518b"></a>
 
-## 1 girl, beautiful Korean girl, \(Cute Loose Bob hai\.\.\.
+## \(1girl, full body\), action scene, dynamic pose, sp\.\.\.
 
-<a href="https://cdn.prompthero.com/524gptvse9eebid7stn50when0gk-chilloutmix-chilloutmix-ni-pruned-fp32-fix-1-girl-beautiful-korean-girl-cute-loose-bob-hair-wearing-a-cropped-hoodie-capri-sweatpants-high-hills15-red-lips-small.png"><img src="https://cdn.prompthero.com/524gptvse9eebid7stn50when0gk-chilloutmix-chilloutmix-ni-pruned-fp32-fix-1-girl-beautiful-korean-girl-cute-loose-bob-hair-wearing-a-cropped-hoodie-capri-sweatpants-high-hills15-red-lips-small.png" width="480" alt="After"></a>
+<a href="https://cdn.prompthero.com/zy8ofi6bmkij8vxtf4jcrwn9yo2g-stable-diffusion-15-1girl-full-body-action-scene-dynamic-pose-spider-gwen-white-hair-cute-loose-bob-hairstyle-red-lips-small-breasts-toned.png"><img src="https://cdn.prompthero.com/zy8ofi6bmkij8vxtf4jcrwn9yo2g-stable-diffusion-15-1girl-full-body-action-scene-dynamic-pose-spider-gwen-white-hair-cute-loose-bob-hairstyle-red-lips-small-breasts-toned.png" width="480" alt="After"></a>
 
 **Prompt**
 
 ```text
-1 girl, beautiful Korean girl, (Cute Loose Bob hair), (wearing a cropped hoodie, capri sweatpants, high hills:1.5), (red lips), (small breasts), (toned stomach), (eyelashes:1.2), (aegyo sal:1.2), beautiful detailed eyes, symmetrical eyes, (detailed face), dramatic lighting, (photorealism:1.5), (photorealistic:1.4), (8k, RAW photo, masterpiece), High detail RAW color photo, professional photo, realistic, (highest quality), (best shadow), (best illustration), ultra high resolution, highly detailed CG unified 8K wallpapers, physics-based rendering, photo, realistic, realism, high contrast, hyperrealism, photography, f1.6 lens, rich colors, hyper-realistic lifelike texture, cinestill 800, ulzzang-6500-v1.1, <lora:koreanDollLikeness_v10:0.5>
+(1girl, full body), action scene, dynamic pose, spider gwen, white hair, Cute Loose Bob hairstyle, red lips, small breasts, toned, dramatic lighting, (photorealistic:1.4), (photorealism:1.5), (8k, RAW photo, highest quality, masterpiece), ultra-high resolution, physics-based rendering, <lora:add_detail:1>
 ```
 
-[Source](https://prompthero.com/prompt/02b087a52fa-chilloutmix-chilloutmix-ni-pruned-fp32-fix-1-girl-beautiful-korean-girl-cute-loose-bob-hair-wearing-a-cropped-hoodie-capri-sweatpants-high-hills15-red-lips-small)
+[Source](https://prompthero.com/prompt/2b2215c518b-stable-diffusion-15-1girl-full-body-action-scene-dynamic-pose-spider-gwen-white-hair-cute-loose-bob-hairstyle-red-lips-small-breasts-toned)
 
 ---
 
-[1](portraits.md) · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · [5](portraits-5.md) · **6** · [7](portraits-7.md) · [8](portraits-8.md) · [9](portraits-9.md) · [10](portraits-10.md) · [11](portraits-11.md) · [12](portraits-12.md) · [13](portraits-13.md) · [14](portraits-14.md) · [15](portraits-15.md) · [16](portraits-16.md) · [17](portraits-17.md) · [18](portraits-18.md) · [19](portraits-19.md) · [20](portraits-20.md) · [21](portraits-21.md) · [22](portraits-22.md) · [23](portraits-23.md) · [24](portraits-24.md) · [25](portraits-25.md) · [26](portraits-26.md) · [27](portraits-27.md) · [28](portraits-28.md) · [29](portraits-29.md) · [30](portraits-30.md) · [31](portraits-31.md) · [32](portraits-32.md) · [33](portraits-33.md) · [34](portraits-34.md) · [35](portraits-35.md)
+<a id="prompthero-2c15e56e2a7"></a>
+
+## masterpiece, ultra realistic, harley quinn inspire\.\.\.
+
+<a href="https://cdn.prompthero.com/0xvqzsm32w32aaji3yncbkrfs71u-stable-diffusion-35-large-masterpiece-ultra-realistic-harley-quinn-inspired-girl-glowing-pastel-lighting-photorealistic-face-manga-style-eyes-sparkly-sheer-outfit-translucent-glowing.jpg"><img src="https://cdn.prompthero.com/0xvqzsm32w32aaji3yncbkrfs71u-stable-diffusion-35-large-masterpiece-ultra-realistic-harley-quinn-inspired-girl-glowing-pastel-lighting-photorealistic-face-manga-style-eyes-sparkly-sheer-outfit-translucent-glowing.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+masterpiece, ultra realistic, harley quinn inspired girl, glowing pastel lighting, photorealistic face, manga style eyes, sparkly sheer outfit, translucent glowing mini skirt, soft makeup, detailed facial features, double ponytails, glowing accessories, cinematic fog, dreamy background, crystal light, seductive pose, glossy lips, volumetric light, fairycore aesthetic, whimsical atmosphere, UHD, 8k
+```
+
+[Source](https://prompthero.com/prompt/2c15e56e2a7-stable-diffusion-35-large-masterpiece-ultra-realistic-harley-quinn-inspired-girl-glowing-pastel-lighting-photorealistic-face-manga-style-eyes-sparkly-sheer-outfit-translucent-glowing)
+
+---
+
+[1](portraits.md) · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · [5](portraits-5.md) · **6** · [7](portraits-7.md) · [8](portraits-8.md) · [9](portraits-9.md) · [10](portraits-10.md) · [11](portraits-11.md) · [12](portraits-12.md) · [13](portraits-13.md) · [14](portraits-14.md) · [15](portraits-15.md) · [16](portraits-16.md) · [17](portraits-17.md) · [18](portraits-18.md) · [19](portraits-19.md) · [20](portraits-20.md) · [21](portraits-21.md) · [22](portraits-22.md) · [23](portraits-23.md) · [24](portraits-24.md) · [25](portraits-25.md) · [26](portraits-26.md) · [27](portraits-27.md) · [28](portraits-28.md) · [29](portraits-29.md) · [30](portraits-30.md) · [31](portraits-31.md) · [32](portraits-32.md) · [33](portraits-33.md) · [34](portraits-34.md)
 
 [← Home](../README.md)

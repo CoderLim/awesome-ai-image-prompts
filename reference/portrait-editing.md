@@ -54,22 +54,6 @@ By [@KrishnaBio1](https://x.com/KrishnaBio1/status/2103999062068355211)
 
 ---
 
-<a id="evolink-travel-journals-case-217"></a>
-
-## Rainy Bench and Dog Art Poster
-
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2103635686796763136.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2103635686796763136.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Use the uploaded image as the EXACT visual reference. Recreate the original scene faithfully and preserve the same composition, subjects, poses, clothing, facial features, dog, umbrella, bench, rainy street, architecture, camera angle, framing, lighting, colors, proportions, and overall atmosphere. Do NOT redesign, replace, add, remove, or reinterpret any major element. The result must look like the SAME original photograph, only refined into a premium editorial art-book poster. STRICT 3:4 vertical format. Divide the poster horizontally into two equal 50/50 sections. TOP HALF: Keep the uploaded photograph almost completely unchanged. Preserve the original image faithfully, including the man's appearance, dark coat and hat, umbrella, dog, wooden bench, wet pavement, rain, background buildings, reflections, textures, and exact spatial relationships. Apply only subtle cinematic editorial color grading, natural contrast, refined tonal balance, and premium film texture. Do not alter the identities, expressions, poses, objects, or composition. BOTTOM HALF: Create a small, centered minimalist handmade-paper illustration based ONLY on the most recognizable elements of the original image: the man, umbrella, dog, and bench. The illustration should occupy only 10–20% of the bottom section. Use delicate imperfect ink lines, simple bold flat shapes, organic handmade edges, subtle paper grain, and a restrained palette of no more than 4 colors extracted directly from the original photograph. Surround the illustration with generous warm ivory/off-white negative space. Keep it elegant, quiet, poetic, sophisticated, and museum-quality. Optional typography: very small refined editorial serif typography placed beneath the illustration. Keep the text minimal and understated. Overall aesthetic: independent art-book cover, premium editorial photography, quiet storytelling, poetic, sophisticated, timeless, handcrafted, minimal. Avoid: cartoon style, anime, watercolor, colored-pencil effect, 3D rendering, glossy graphics, excessive decoration, busy layout, oversaturated colors, artificial faces, altered identities, extra people, extra objects, distorted anatomy, or commercial advertising aesthetics. Most important requirement: The TOP HALF must remain an extremely faithful reproduction of the uploaded original image. Do not change the original scene.
-```
-
-By [@KrishnaBio1](https://x.com/KrishnaBio1/status/2103635959153938466)
-
----
-
 <a id="freestylefly-case-29"></a>
 
 ## 电影感叙事场景图

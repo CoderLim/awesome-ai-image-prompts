@@ -6,38 +6,6 @@
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
-<a id="prompthero-8dac2bfa681"></a>
-
-## A large 3D glossy Arabic letter &quot;أ&quot; \(Alif with ham\.\.\.
-
-<a href="https://cdn.prompthero.com/vnjp1kikr7o4xgmhm9pfdlbfg6-hero-10-a-large-3d-glossy-arabic-letter-alif-with-hamza-above-designed-in-a-soft-gummy-toy-style-the-letter-is.jpeg"><img src="https://cdn.prompthero.com/vnjp1kikr7o4xgmhm9pfdlbfg6-hero-10-a-large-3d-glossy-arabic-letter-alif-with-hamza-above-designed-in-a-soft-gummy-toy-style-the-letter-is.jpeg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-A large 3D glossy Arabic letter "أ" (Alif with hamza above), designed in a soft gummy toy style. The letter is smooth, rounded, and slightly inflated, with warm golden-orange color, shiny highlights, and soft reflections. Minimal cute design, centered composition, pastel background with soft star shapes, studio lighting, high detail, Pixar-style 3D render, clean and child-friendly educational illustration, 4k resolution.
-```
-
-[Source](https://prompthero.com/prompt/8dac2bfa681-hero-10-a-large-3d-glossy-arabic-letter-alif-with-hamza-above-designed-in-a-soft-gummy-toy-style-the-letter-is)
-
----
-
-<a id="prompthero-009c570f8a0"></a>
-
-## simple pencil sketch by Odilon Redon, face only, a\.\.\.
-
-<a href="https://cdn.prompthero.com/16feb40i33ujbmgg5vocisanweg2-midjourney-61-simple-pencil-sketch-by-odilon-redon-face-only-a-gorgeous-asian-woman-side-angle-hint-of-a-smile-noticeable-charcoal.png"><img src="https://cdn.prompthero.com/16feb40i33ujbmgg5vocisanweg2-midjourney-61-simple-pencil-sketch-by-odilon-redon-face-only-a-gorgeous-asian-woman-side-angle-hint-of-a-smile-noticeable-charcoal.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-simple pencil sketch by Odilon Redon, face only, a gorgeous Asian woman, side angle, hint of a smile, noticeable charcoal marks, white background, no coloring, no color --chaos 75 --ar 1:2 --stylize 750 --v 7
-```
-
-By [@NorthmoorAI](https://prompthero.com/prompt/009c570f8a0-midjourney-61-simple-pencil-sketch-by-odilon-redon-face-only-a-gorgeous-asian-woman-side-angle-hint-of-a-smile-noticeable-charcoal)
-
----
-
 <a id="prompthero-9e8eafba892"></a>
 
 ## Hawaiian artists, modern portrait series of Africa\.\.\.
@@ -323,6 +291,38 @@ Chinese ink wash art style, a ferocious tiger with flames engulfing its form, lu
 ```
 
 By [@chorlo](https://prompthero.com/prompt/191f49c40bd-chatgpt-image-gpt-image-2-chinese-ink-wash-art-style-a-ferocious-tiger-with-flames-engulfing-its-form-lunging-toward-the-viewer-glowing-eyes-bared)
+
+---
+
+<a id="prompthero-229b566d62e"></a>
+
+## acrylic painting, splatter and drip painting techn\.\.\.
+
+<a href="https://cdn.prompthero.com/m4ouoa7dx2o2p9qn2jgo32flpgsb-sd-xl-v10-acrylic-painting-splatter-and-drip-painting-technique-portrait-of-a-smoking-skeleton-side-view-gloomy-epic-composition-dramatic-digital-painting.png"><img src="https://cdn.prompthero.com/m4ouoa7dx2o2p9qn2jgo32flpgsb-sd-xl-v10-acrylic-painting-splatter-and-drip-painting-technique-portrait-of-a-smoking-skeleton-side-view-gloomy-epic-composition-dramatic-digital-painting.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+acrylic painting, splatter and drip painting technique, portrait of a smoking skeleton, side view, gloomy, epic composition, dramatic, digital painting, expressionism, emotionally profound, close up, by tanya shatseva
+```
+
+By [@ArtEnthusiast](https://prompthero.com/prompt/229b566d62e-sd-xl-v10-acrylic-painting-splatter-and-drip-painting-technique-portrait-of-a-smoking-skeleton-side-view-gloomy-epic-composition-dramatic-digital-painting)
+
+---
+
+<a id="prompthero-274ff4aa859"></a>
+
+## digital wallpaper portrait of an anonymous, no fac\.\.\.
+
+<a href="https://cdn.prompthero.com/hg6ogvxopndxmgmk1gbv972h6qwx-stable-diffusion-xl-base-09-digital-wallpaper-portrait-of-an-anonymous-no-face-gloomy-background-horror-brutal-majestic-cinematic-dramatic-digital-painting-expressionism-emotionally-profound.png"><img src="https://cdn.prompthero.com/hg6ogvxopndxmgmk1gbv972h6qwx-stable-diffusion-xl-base-09-digital-wallpaper-portrait-of-an-anonymous-no-face-gloomy-background-horror-brutal-majestic-cinematic-dramatic-digital-painting-expressionism-emotionally-profound.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+digital wallpaper portrait of an anonymous, no face, gloomy background, horror, brutal, majestic, cinematic, dramatic, digital painting, expressionism, emotionally profound, close up, unforgettable, high quality
+```
+
+By [@ArtEnthusiast](https://prompthero.com/prompt/274ff4aa859-stable-diffusion-xl-base-09-digital-wallpaper-portrait-of-an-anonymous-no-face-gloomy-background-horror-brutal-majestic-cinematic-dramatic-digital-painting-expressionism-emotionally-profound)
 
 ---
 

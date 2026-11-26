@@ -1,58 +1,10 @@
 # portraits
 
-[← Home](../README.md) · Page 11 / 35
+[← Home](../README.md) · Page 11 / 34
 
-[1](portraits.md) · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · [5](portraits-5.md) · [6](portraits-6.md) · [7](portraits-7.md) · [8](portraits-8.md) · [9](portraits-9.md) · [10](portraits-10.md) · **11** · [12](portraits-12.md) · [13](portraits-13.md) · [14](portraits-14.md) · [15](portraits-15.md) · [16](portraits-16.md) · [17](portraits-17.md) · [18](portraits-18.md) · [19](portraits-19.md) · [20](portraits-20.md) · [21](portraits-21.md) · [22](portraits-22.md) · [23](portraits-23.md) · [24](portraits-24.md) · [25](portraits-25.md) · [26](portraits-26.md) · [27](portraits-27.md) · [28](portraits-28.md) · [29](portraits-29.md) · [30](portraits-30.md) · [31](portraits-31.md) · [32](portraits-32.md) · [33](portraits-33.md) · [34](portraits-34.md) · [35](portraits-35.md)
+[1](portraits.md) · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · [5](portraits-5.md) · [6](portraits-6.md) · [7](portraits-7.md) · [8](portraits-8.md) · [9](portraits-9.md) · [10](portraits-10.md) · **11** · [12](portraits-12.md) · [13](portraits-13.md) · [14](portraits-14.md) · [15](portraits-15.md) · [16](portraits-16.md) · [17](portraits-17.md) · [18](portraits-18.md) · [19](portraits-19.md) · [20](portraits-20.md) · [21](portraits-21.md) · [22](portraits-22.md) · [23](portraits-23.md) · [24](portraits-24.md) · [25](portraits-25.md) · [26](portraits-26.md) · [27](portraits-27.md) · [28](portraits-28.md) · [29](portraits-29.md) · [30](portraits-30.md) · [31](portraits-31.md) · [32](portraits-32.md) · [33](portraits-33.md) · [34](portraits-34.md)
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
-
-<a id="prompthero-7bf6983c9f8"></a>
-
-## hyperrealistic photo, Asian beauty with portrait p\.\.\.
-
-<a href="https://cdn.prompthero.com/xinxb3uerbk1g2ut4ievp2hbyunb-midjourney-6-hyperrealistic-photo-asian-beauty-with-portrait-photography-in-a-symmetrical-composition-soft-lighting-delicate-skin-texture-natural-colors-high-saturation.png"><img src="https://cdn.prompthero.com/xinxb3uerbk1g2ut4ievp2hbyunb-midjourney-6-hyperrealistic-photo-asian-beauty-with-portrait-photography-in-a-symmetrical-composition-soft-lighting-delicate-skin-texture-natural-colors-high-saturation.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-hyperrealistic photo, Asian beauty with portrait photography in a symmetrical composition, soft lighting, delicate skin texture, natural colors, high saturation, bright eyes, flowing hair, Shot in the style of photographer David LaChapelle, using a Canon EOS R5 mirrorless lens --ar 1:2 --stylize 750 --weird 2500
-```
-
-By [@NorthmoorAI](https://prompthero.com/prompt/7bf6983c9f8-midjourney-6-hyperrealistic-photo-asian-beauty-with-portrait-photography-in-a-symmetrical-composition-soft-lighting-delicate-skin-texture-natural-colors-high-saturation)
-
----
-
-<a id="prompthero-7cf2ca7c81b"></a>
-
-## Creature Feature: Hybrid Merman
-
-<a href="https://cdn.prompthero.com/3pofndu5d4h4b4pvuoq7h1remekw-stable-diffusion-xl-base-09-creature-feature-hybrid-merman.jpg"><img src="https://cdn.prompthero.com/3pofndu5d4h4b4pvuoq7h1remekw-stable-diffusion-xl-base-09-creature-feature-hybrid-merman.jpg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-A photo of a demonic merman, with maniacal facial expression, humanoid, yellow eyes, human skin color, cinematic, melancholy, dynamic lighting, dark background, <lora:ClassipeintXL1. 9:1>
-```
-
-By [@abyishot](https://prompthero.com/prompt/7cf2ca7c81b-stable-diffusion-xl-base-09-creature-feature-hybrid-merman)
-
----
-
-<a id="prompthero-7cff699e0b1"></a>
-
-## An alluring svelte muscular stomached woman with w\.\.\.
-
-<a href="https://cdn.prompthero.com/g5g89flr5qyeiunn6486hy3yth56-dreamshaper-7-an-alluring-svelte-muscular-stomached-woman-with-waist-length-long-dusty-rose-hair-and-radiant-bright-blue-eyes-take-in.png"><img src="https://cdn.prompthero.com/g5g89flr5qyeiunn6486hy3yth56-dreamshaper-7-an-alluring-svelte-muscular-stomached-woman-with-waist-length-long-dusty-rose-hair-and-radiant-bright-blue-eyes-take-in.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-An alluring svelte muscular stomached woman with waist length long dusty rose hair and radiant bright blue eyes take in a moment of quiet confidence. She sways in the center of a sand dance pit. Her attire is intricate ornately embroidered and embellished, belly dancing top, paired with a deep dark blue intricate ornately embroidered and embellished deep dark blue belly dancing bottom. Her expression is sultry yet contemplative, her gaze directed at the viewer. The lighting casting gentle shadows and highlighting the textures of her beauty and her surroundings. Bright Sunlight filters through the canopy, casting dappled shadows and creating a silhouette. Her alluring stare meets the viewer's gaze. The scene is pulled back wide angle, with a low angle, emphasizing her allure, and the lighting is torchlight In the style of Luis Royo.
-```
-
-[Source](https://prompthero.com/prompt/7cff699e0b1-dreamshaper-7-an-alluring-svelte-muscular-stomached-woman-with-waist-length-long-dusty-rose-hair-and-radiant-bright-blue-eyes-take-in)
-
----
 
 <a id="prompthero-07d46887793"></a>
 
@@ -326,6 +278,54 @@ By [@jonessmith432](https://prompthero.com/prompt/8db6cdbfa3f-stable-diffusion-3
 
 ---
 
-[1](portraits.md) · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · [5](portraits-5.md) · [6](portraits-6.md) · [7](portraits-7.md) · [8](portraits-8.md) · [9](portraits-9.md) · [10](portraits-10.md) · **11** · [12](portraits-12.md) · [13](portraits-13.md) · [14](portraits-14.md) · [15](portraits-15.md) · [16](portraits-16.md) · [17](portraits-17.md) · [18](portraits-18.md) · [19](portraits-19.md) · [20](portraits-20.md) · [21](portraits-21.md) · [22](portraits-22.md) · [23](portraits-23.md) · [24](portraits-24.md) · [25](portraits-25.md) · [26](portraits-26.md) · [27](portraits-27.md) · [28](portraits-28.md) · [29](portraits-29.md) · [30](portraits-30.md) · [31](portraits-31.md) · [32](portraits-32.md) · [33](portraits-33.md) · [34](portraits-34.md) · [35](portraits-35.md)
+<a id="prompthero-8db75b91a6a"></a>
+
+## High-contrast colorful saturated cinematic image o\.\.\.
+
+<a href="https://cdn.prompthero.com/nyf7gicfshjutsurej8m7tkks8-seedream-5-seedream-5-pro-high-contrast-colorful-saturated-cinematic-image-of-a-blonde-woman-in-a-white-linen-dress-in-profile-mid-motion-with.png"><img src="https://cdn.prompthero.com/nyf7gicfshjutsurej8m7tkks8-seedream-5-seedream-5-pro-high-contrast-colorful-saturated-cinematic-image-of-a-blonde-woman-in-a-white-linen-dress-in-profile-mid-motion-with.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+High-contrast colorful saturated cinematic image of a blonde woman in a white linen dress in profile, mid-motion with arms extended slightly behind him, as if moving forward or surrendering to momentum. His body is sharply defined with dramatic lighting, while his face is turned away. A flock of butterflies rushes past her in chaotic motion, heavily motion-blurred, streaking across the frame in multiple directions. The birds appear ghostlike and distorted, creating a surreal, almost haunting atmosphere. Some are closer to the lens, cdepth and blur. Background is minimal and overcast, soft pink sky with no clear horizon, creating a sense of isolation and emptiness. Strong contrast between subject and background, with soft gradients and subtle vignetting. Shot with a slow shutter speed, pronounced motion blur, cinematic composition, slightly off-center framing. Fine art photography style, inspired by experimental film stills. Grainy texture, soft halation, slight haze. Mood is eerie, introspective, surreal
+```
+
+[Source](https://prompthero.com/prompt/8db75b91a6a-seedream-5-seedream-5-pro-high-contrast-colorful-saturated-cinematic-image-of-a-blonde-woman-in-a-white-linen-dress-in-profile-mid-motion-with)
+
+---
+
+<a id="prompthero-8dcc55f01c5"></a>
+
+## 8K, \(masterpiece\*high detailed\*highres\), \(portrait\.\.\.
+
+<a href="https://cdn.prompthero.com/09t4wxmfedj4cbhpm10jdwkgvxtf-rev-animated-v122-8k-masterpiecehigh-detailedhighres-portrait-shot-sharp-focus-soft-lighting-mechanical-skull-with-gears-gold-and-white-colors-gradiant-bacground-close.png"><img src="https://cdn.prompthero.com/09t4wxmfedj4cbhpm10jdwkgvxtf-rev-animated-v122-8k-masterpiecehigh-detailedhighres-portrait-shot-sharp-focus-soft-lighting-mechanical-skull-with-gears-gold-and-white-colors-gradiant-bacground-close.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+8K, (masterpiece*high detailed*highres), (portrait shot), sharp focus, soft lighting, ((mechanical skull with gears)), ((gold and white colors)), gradiant bacground, ((close-up face)), ((centered)), <lora:3DMM_V11:0. 8>
+```
+
+[Source](https://prompthero.com/prompt/8dcc55f01c5-rev-animated-v122-8k-masterpiecehigh-detailedhighres-portrait-shot-sharp-focus-soft-lighting-mechanical-skull-with-gears-gold-and-white-colors-gradiant-bacground-close)
+
+---
+
+<a id="prompthero-8e361dcd578"></a>
+
+## general view of the interior of a spaceship with s\.\.\.
+
+<a href="https://cdn.prompthero.com/s4twvbw740bslda125p2p1307gtg-midjourney-52-general-view-of-the-interior-of-a-spaceship-with-some-windows-to-observe-space-station-outside-inside-a-man-and.png"><img src="https://cdn.prompthero.com/s4twvbw740bslda125p2p1307gtg-midjourney-52-general-view-of-the-interior-of-a-spaceship-with-some-windows-to-observe-space-station-outside-inside-a-man-and.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+general view of the interior of a spaceship with some windows to observe, space station outside, inside a man and a woman wearing futuristic uniforms, orange and beige color, realistic hyper-detailed rendering, hyper-realistic details, 32k uhd, masterpiece, photo, digital art, science fiction --v 5.2
+```
+
+[Source](https://prompthero.com/prompt/8e361dcd578-midjourney-52-general-view-of-the-interior-of-a-spaceship-with-some-windows-to-observe-space-station-outside-inside-a-man-and)
+
+---
+
+[1](portraits.md) · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · [5](portraits-5.md) · [6](portraits-6.md) · [7](portraits-7.md) · [8](portraits-8.md) · [9](portraits-9.md) · [10](portraits-10.md) · **11** · [12](portraits-12.md) · [13](portraits-13.md) · [14](portraits-14.md) · [15](portraits-15.md) · [16](portraits-16.md) · [17](portraits-17.md) · [18](portraits-18.md) · [19](portraits-19.md) · [20](portraits-20.md) · [21](portraits-21.md) · [22](portraits-22.md) · [23](portraits-23.md) · [24](portraits-24.md) · [25](portraits-25.md) · [26](portraits-26.md) · [27](portraits-27.md) · [28](portraits-28.md) · [29](portraits-29.md) · [30](portraits-30.md) · [31](portraits-31.md) · [32](portraits-32.md) · [33](portraits-33.md) · [34](portraits-34.md)
 
 [← Home](../README.md)

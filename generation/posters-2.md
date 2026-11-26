@@ -6,22 +6,6 @@
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
-<a id="freestylefly-case-3"></a>
-
-## 足球主题电影海报
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case3.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case3.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-生成一张「足球主题电影海报」风格的高清写真海报：国际米兰后卫巴斯托尼站在圣西罗球场中央激情庆祝，双手高举并披着波黑国旗，神情热血、坚定、自信，现场灯光璀璨，球场看台座无虚席，背景有蓝黑色烟雾、聚光灯、飘扬的旗帜和飞舞的纸屑，营造欧冠之夜般的史诗氛围。人物为画面核心，半身到全身构图，突出脸部细节、肌肉张力与球衣质感。整体风格写实、震撼、富有戏剧性，海报级构图，电影感光影，高对比度，超清细节，8K，专业体育摄影，极具视觉冲击力。五根手指。
-```
-
-[Source](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-3)
-
----
-
 <a id="freestylefly-case-5"></a>
 
 ## 主题海报版式设计
@@ -323,6 +307,22 @@ By [@nakazakifam](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999c
 ```
 
 By [@AutoIntelliMode](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-140)
+
+---
+
+<a id="freestylefly-case-141"></a>
+
+## 电商商品展示设计
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case141.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case141.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+{ "type": "promotional banner design set", "theme": "strawberry advertisement campaign", "style": "anime illustration, bright, cheerful, commercial graphic design", "color_palette": "{argument name=\"primary color theme\" default=\"pastel pink and vibrant red\"}", "character": "{argument name=\"character description\" default=\"anime girl with brown side ponytail and bunny ears, wearing a pastel blue and pink jacket\"}", "product": "{argument name=\"product\" default=\"fresh red strawberries\"}", "layout": { "sections": [ { "type": "large landscape banner", "position": "top left", "visuals": "character winking and holding a strawberry next to a large basket of strawberries", "main_text": "{argument name=\"main headline\" default=\"いちごたっぷり\"}", "sub_text": ["笑顔あふれる、甘〜いひととき♪", "とびきりおいしい！", "ひと粒で、しあわせ広がる♡", "あまっ♡", "旬のおいしさをお届け！"], "badges": { "count": 3, "labels": ["あま〜くてジューシー！", "いろんなサイズを楽しめる♪", "新鮮朝採れ！"] } }, { "type": "vertical banner", "position": "right", "visuals": "character eating a strawberry with a pile of strawberries below", "main_text": "いちごたっぷり", "sub_text": ["旬のいちごをお届け！", "{argument name=\"secondary headline\" default=\"あま〜くて、ジューシー！\"}", "とろけるおいしさ〜♡"], "badges": { "count": 3, "labels": ["朝採れ新鮮！", "いろんなサイズを楽しめる♪", "甘くてジューシー！"] } }, { "type": "wide horizontal banner", "position": "middle", "visuals": "character with closed eyes eating a strawberry, flanked by strawberries", "main_text": "いちごたっぷり！", "sub_text": ["あまくて、ジューシーな幸せ♡", "旬の美味しさをお届けします！", "おいし〜っ♡"] }, { "type": "small square banner", "position": "bottom left", "visuals": "character smiling holding strawberry", "text": ["いちごたっぷり", "あま〜くてジューシー！"] }, { "type": "small square banner", "position": "bottom mid-left", "visuals": "pile of strawberries with one cut in half", "text": ["旬のいちご！", "あまくてとろけるおいしさ♡"] }, { "type": "small horizontal banner", "position": "bottom mid-right", "visuals": "character holding strawberry", "text": ["いちごたっぷり", "朝採れ新鮮！", "あまくてジューシー！"] }, { "type": "circular icons", "position": "bottom right", "count": 4, "items": [ { "visual": "basket of strawberries", "label": "朝採れ新鮮！" }, { "visual": "half strawberry", "label": "あまくてジューシー！" }, { "visual": "whole strawberry", "label": "いろんなサイズ！" }, { "visual": "character face", "label": "とろけるおいしさ♡" } ] } ] } }
+```
+
+By [@takadtmnu](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-141)
 
 ---
 

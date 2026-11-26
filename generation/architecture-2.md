@@ -6,38 +6,6 @@
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
-<a id="prompthero-414f5e53e57"></a>
-
-## visualize a modern luxury bathroom interior from a\.\.\.
-
-<a href="https://cdn.prompthero.com/3klm2gfeiqiqvk5dmegy6x5zd9et-midjourney-6-visualize-a-modern-luxury-bathroom-interior-from-a-front-view-perspective-features-an-elegant-white-marble-sink-accompanied-by-a.png"><img src="https://cdn.prompthero.com/3klm2gfeiqiqvk5dmegy6x5zd9et-midjourney-6-visualize-a-modern-luxury-bathroom-interior-from-a-front-view-perspective-features-an-elegant-white-marble-sink-accompanied-by-a.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-visualize a modern luxury bathroom interior from a front-view perspective, features an elegant white marble sink, accompanied by a matte gold faucet, a wall-mounted toilet in a sleek white ceramic enhances the room's luxurious, include a large mirror with a gold filigree frame that reflects the opulent decor of the room, the floor and walls are finished in large, white and grey veined marble tiles, adding to the lavish aesthetic, soft LED lighting is integrated into the ceiling and behind the mirror, casting a warm, glowing light across the space, creating a serene and opulent atmosphere, ensure the image captures the interplay of warm artificial light and natural daylight, emphasizing the polished surfaces and elegant lines typical of a luxury bathroom design --ar 9:16 --style raw
-```
-
-By [@Grayve](https://prompthero.com/prompt/414f5e53e57-midjourney-6-visualize-a-modern-luxury-bathroom-interior-from-a-front-view-perspective-features-an-elegant-white-marble-sink-accompanied-by-a)
-
----
-
-<a id="prompthero-577c98de545"></a>
-
-## Haunted House
-
-<a href="https://cdn.prompthero.com/6hgbe6f2rle86cfov22m4roasq1m-midjourney-6-haunted-house.jpg"><img src="https://cdn.prompthero.com/6hgbe6f2rle86cfov22m4roasq1m-midjourney-6-haunted-house.jpg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-black and white spooky haunted house image, with color glowing jack-o-lanterns, and bats and moon in a haunted forest during a storm --ar 9:11 --stylize 250 --v 6.1
-```
-
-[Source](https://prompthero.com/prompt/577c98de545-midjourney-6-haunted-house)
-
----
-
 <a id="prompthero-670f2ea860f"></a>
 
 ## Kitchen for small Minimalist apartment
@@ -323,6 +291,38 @@ architectural photography, commercial building with undulating black facade, sho
 ```
 
 By [@Grayve](https://prompthero.com/prompt/ab97df62939-midjourney-6-httpslittlygrayve-architectural-photography-commercial-building-with-undulating-black-facade-shot-on-canon-eos-r5-with-rf-16-35mm-f28l-usm-lens)
+
+---
+
+<a id="prompthero-d468b10e9da"></a>
+
+## photography, front view, focusing a show window, l\.\.\.
+
+<a href="https://cdn.prompthero.com/8xglre52tgd3czqxjoyenq6orrl4-midjourney-6-wwwgraytheorystudiocom-photography-front-view-focusing-a-show-window-luxury-handbag-balanced-on-a-thin-golden-rod-leather-texture-visible-minimalist-interior.png"><img src="https://cdn.prompthero.com/8xglre52tgd3czqxjoyenq6orrl4-midjourney-6-wwwgraytheorystudiocom-photography-front-view-focusing-a-show-window-luxury-handbag-balanced-on-a-thin-golden-rod-leather-texture-visible-minimalist-interior.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+photography, front view, focusing a show window, luxury handbag balanced on a thin golden rod, leather texture visible, minimalist interior with matte white epoxy floor, plain walls creating depth, soft overhead spotlights highlighting the product, 4K, rich detailing --ar 9:16 --quality 2 --style raw --personalize 3q55mu4 --v 6.1
+```
+
+By [@Grayve](https://prompthero.com/prompt/d468b10e9da-midjourney-6-wwwgraytheorystudiocom-photography-front-view-focusing-a-show-window-luxury-handbag-balanced-on-a-thin-golden-rod-leather-texture-visible-minimalist-interior)
+
+---
+
+<a id="prompthero-d2132428ab6"></a>
+
+## photorealistic, perspective view, minimalist co-wo\.\.\.
+
+<a href="https://cdn.prompthero.com/x1bateuj76q7ejyoqz5dwrnoy5ha-midjourney-6-more-info-wwwgraytheorystudiocom-admingraytheorystudiocom-wwwpromptbasecomprofilespacemakergrayve-wwwinstagramcomspacemakergrayve-photorealistic-perspective-view-minimalist-co-working-space-bright-finished-and-embient-elaborate-vertical-horizontality-minimalism-lighting-4500k-indirect-light-and.png"><img src="https://cdn.prompthero.com/x1bateuj76q7ejyoqz5dwrnoy5ha-midjourney-6-more-info-wwwgraytheorystudiocom-admingraytheorystudiocom-wwwpromptbasecomprofilespacemakergrayve-wwwinstagramcomspacemakergrayve-photorealistic-perspective-view-minimalist-co-working-space-bright-finished-and-embient-elaborate-vertical-horizontality-minimalism-lighting-4500k-indirect-light-and.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+photorealistic, perspective view, minimalist co-working space, bright finished and embient, elaborate vertical horizontality, minimalism lighting, 4500K indirect light and sleek spot lights ceiling, professional interior architecture photo --ar 9:16 --style raw --stylize 700 --v 6
+```
+
+By [@Grayve](https://prompthero.com/prompt/d2132428ab6-midjourney-6-more-info-wwwgraytheorystudiocom-admingraytheorystudiocom-wwwpromptbasecomprofilespacemakergrayve-wwwinstagramcomspacemakergrayve-photorealistic-perspective-view-minimalist-co-working-space-bright-finished-and-embient-elaborate-vertical-horizontality-minimalism-lighting-4500k-indirect-light-and)
 
 ---
 

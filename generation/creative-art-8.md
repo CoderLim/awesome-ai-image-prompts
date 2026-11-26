@@ -1,58 +1,10 @@
 # creative art
 
-[← Home](../README.md) · Page 8 / 14
+[← Home](../README.md) · Page 8 / 13
 
-[1](creative-art.md) · [2](creative-art-2.md) · [3](creative-art-3.md) · [4](creative-art-4.md) · [5](creative-art-5.md) · [6](creative-art-6.md) · [7](creative-art-7.md) · **8** · [9](creative-art-9.md) · [10](creative-art-10.md) · [11](creative-art-11.md) · [12](creative-art-12.md) · [13](creative-art-13.md) · [14](creative-art-14.md)
+[1](creative-art.md) · [2](creative-art-2.md) · [3](creative-art-3.md) · [4](creative-art-4.md) · [5](creative-art-5.md) · [6](creative-art-6.md) · [7](creative-art-7.md) · **8** · [9](creative-art-9.md) · [10](creative-art-10.md) · [11](creative-art-11.md) · [12](creative-art-12.md) · [13](creative-art-13.md)
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
-
-<a id="prompthero-895dd3a1fe7"></a>
-
-## the head and shoulders of an elderly man with a be\.\.\.
-
-<a href="https://cdn.prompthero.com/dx2sf92yscjlja2lf1n5ecg2jxbm-midjourney-6-the-head-and-shoulders-of-an-elderly-man-with-a-beard-in-the-style-of-nautical-surrealism-intricate-compositions-ink.png"><img src="https://cdn.prompthero.com/dx2sf92yscjlja2lf1n5ecg2jxbm-midjourney-6-the-head-and-shoulders-of-an-elderly-man-with-a-beard-in-the-style-of-nautical-surrealism-intricate-compositions-ink.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-the head and shoulders of an elderly man with a beard, in the style of nautical surrealism, intricate compositions, ink and wash, psychedelic dreamscape, celtic art, white and gray, cubist street art --ar 72:107 --stylize 750 --v 6
-```
-
-By [@NorthmoorAI](https://prompthero.com/prompt/895dd3a1fe7-midjourney-6-the-head-and-shoulders-of-an-elderly-man-with-a-beard-in-the-style-of-nautical-surrealism-intricate-compositions-ink)
-
----
-
-<a id="prompthero-910d0f013fc"></a>
-
-## 8k pinup, a beautiful russian princess wearing a g\.\.\.
-
-<a href="https://cdn.prompthero.com/vy1nb6t09lg2j1cgp6ccob4f53tw-stable-diffusion-14-8k-pinup-a-beautiful-russian-princess-wearing-a-golden-crown-and-a-russian-cultural-dress-walking-on-the-beach-with.png"><img src="https://cdn.prompthero.com/vy1nb6t09lg2j1cgp6ccob4f53tw-stable-diffusion-14-8k-pinup-a-beautiful-russian-princess-wearing-a-golden-crown-and-a-russian-cultural-dress-walking-on-the-beach-with.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-8k pinup, a beautiful russian princess wearing a golden crown and a russian cultural dress walking on the beach with a blue sky and clouds in the background and a body of water, She should have long braided blonde, flowing hair, a captivating gaze, and an alluring expression. symmetrical eyes, symmetrical background, cinematic film still from 1980s movie, Kodak portra 800, extremely detailed, extremely detailed eyes, extremely detailed body, extremely detailed skin, extremely detailed clothes, Ultra realistic, symmetrical face , (35mm style:1. 1), foggy, ((best quality)), ((masterpiece)), ((realistic)), radiant light rays, highres, detailed facial features, analog style, digital painting, 3d render, artstation, matte, highly detailed, concept art, Exaggeration, light Aesthetic, magazine, Backlight, light rays magical lighting beams, dust in beam, light color, Exaggeration, instagram, 'light, exciting, enlightening, happy, misty, moody, heavenly, shadowy, Realism, octane render, unreal engine 5, Shaders, Denoise, De-Noise, Ambient Occlusion, Tone Mapping, Moonlight, highres, detailed facial features, high detail, sharp focus, octane render, photo_\(ultra\), realistic, post-processing, max detail, realistic shadows, roughness, natural skin texture, real life, ultra realistic, photorealism
-```
-
-[Source](https://prompthero.com/prompt/910d0f013fc-stable-diffusion-14-8k-pinup-a-beautiful-russian-princess-wearing-a-golden-crown-and-a-russian-cultural-dress-walking-on-the-beach-with)
-
----
-
-<a id="prompthero-1073bb05add"></a>
-
-## hyperrealistic art Futuristic soldier with advance\.\.\.
-
-<a href="https://cdn.prompthero.com/vxailuzyjlbvlopnhhi74dgqtwaa-stable-diffusion-15-hyperrealistic-art-futuristic-soldier-with-advanced-armor-weaponry-and-helmet-neon-red-street-overcast-reflection-mapping-intricate-design-and-details.png"><img src="https://cdn.prompthero.com/vxailuzyjlbvlopnhhi74dgqtwaa-stable-diffusion-15-hyperrealistic-art-futuristic-soldier-with-advanced-armor-weaponry-and-helmet-neon-red-street-overcast-reflection-mapping-intricate-design-and-details.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-hyperrealistic art Futuristic soldier with advanced armor, weaponry, and helmet, neon red, street, overcast, reflection mapping, intricate design and details, dramatic lighting, hyperrealism, photorealistic, cinematic, 8k, unreal engine. extremely high-resolution details, photographic, realism pushed to extreme, fine texture, incredibly lifelike
-```
-
-[Source](https://prompthero.com/prompt/1073bb05add-stable-diffusion-15-hyperrealistic-art-futuristic-soldier-with-advanced-armor-weaponry-and-helmet-neon-red-street-overcast-reflection-mapping-intricate-design-and-details)
-
----
 
 <a id="prompthero-1255b332eec"></a>
 
@@ -326,6 +278,54 @@ Double exposure black and white photography of a woman’s face, solemn and ethe
 
 ---
 
-[1](creative-art.md) · [2](creative-art-2.md) · [3](creative-art-3.md) · [4](creative-art-4.md) · [5](creative-art-5.md) · [6](creative-art-6.md) · [7](creative-art-7.md) · **8** · [9](creative-art-9.md) · [10](creative-art-10.md) · [11](creative-art-11.md) · [12](creative-art-12.md) · [13](creative-art-13.md) · [14](creative-art-14.md)
+<a id="prompthero-324685cb245"></a>
+
+## Elven Cleric
+
+<a href="https://cdn.prompthero.com/rh2lq094ymo8j1bt8yy9g1lvhxat-a-zovya-rpg-artist-tools-v2-elven-cleric.png"><img src="https://cdn.prompthero.com/rh2lq094ymo8j1bt8yy9g1lvhxat-a-zovya-rpg-artist-tools-v2-elven-cleric.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+(insanely detailed, masterpiece:1.2) , oil painting, D&D fantasy, (blue skinned female elf, blue skinned female:1.1) with freckles, slender, beautiful, short fiery red hair, wavy hair, smiling, pointed ears, looking at the viewer, cleric wearing intricate adventurer outfit, #3238 , 8k eyes, golden ratio, detailed face, big anime dreamy eyes, intricate details,  light on hair, complementary colors,  cover, top model, colorful glamourous hyperdetailed medieval city background, intricate hyperdetailed breathtaking colorful glamorous scenic view landscape,  cinematic lighting, octane render, volumetric lighting, artwork, concept art, ultra-fine details, hyper-focused, deep colors, dramatic lighting, ambient lighting,  god rays, flowers, garden [by sakimi chan, artgerm, wlop, pixiv, tumblr, instagram, deviantart], <lora:add_detail:0.8>
+```
+
+By [@ScArecrow23](https://prompthero.com/prompt/324685cb245-a-zovya-rpg-artist-tools-v2-elven-cleric)
+
+---
+
+<a id="prompthero-668546b060e"></a>
+
+## A photorealistic, cinematic wide-angle shot from w\.\.\.
+
+<a href="https://cdn.prompthero.com/q0idvb504b17dr1y08zpbn7eyl-hero-10-a-photorealistic-cinematic-wide-angle-shot-from-within-a-dark-rugged-sea-cave-looking-out-through-a-natural-stone-archway.jpeg"><img src="https://cdn.prompthero.com/q0idvb504b17dr1y08zpbn7eyl-hero-10-a-photorealistic-cinematic-wide-angle-shot-from-within-a-dark-rugged-sea-cave-looking-out-through-a-natural-stone-archway.jpeg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+A photorealistic, cinematic wide-angle shot from within a dark, rugged sea cave, looking out through a natural stone archway to a vast, calm ocean at golden hour. The warm, low sunlight streams through the opening, casting a brilliant, ethereal glow across the water's surface and illuminating the misty spray of the waves. The cave walls are textured with rough, layered rock, dark and shadowed in the foreground, creating a strong contrast with the bright, luminous sea beyond. The water in the foreground is rendered with a smooth, silky motion blur, capturing the gentle movement of the tide. A dark, moss-covered rock sits in the lower left foreground. At the threshold of the cave's opening, a woman stands in a sensual pose, her body partially silhouetted against the radiant light. She is clad in a tiny triangle bikini, its dark fabric clinging to her form, saturated with seawater and glistening with droplets. Her skin is wet and smooth, catching the golden light that streams from behind, outlining her figure in a soft, luminous halo. Her head is tilted back slightly, eyes closed, face lifted toward the sun, as if absorbing the warmth and light. One hand rests lightly on the rough stone of the cave wall, her arm tensed, while the other hangs loosely at her side. Her posture is relaxed yet poised, her silhouette defined by the intense backlighting that creates a glowing aura around her, emphasizing the contours of her body. The scene is bathed in warm, directional light, with soft highlights and deep, moody shadows defining the textures and depth, creating a serene, intimate, and majestic atmosphere.
+```
+
+[Source](https://prompthero.com/prompt/668546b060e-hero-10-a-photorealistic-cinematic-wide-angle-shot-from-within-a-dark-rugged-sea-cave-looking-out-through-a-natural-stone-archway)
+
+---
+
+<a id="prompthero-872900f88d1"></a>
+
+## In overgrown stone ruins where waterfalls spill be\.\.\.
+
+<a href="https://cdn.prompthero.com/v1_86b49d272a5aae22288e72398b-seedream-5-seedream-5-pro-in-overgrown-stone-ruins-where-waterfalls-spill-between-mossy-walls-2-savage-wolves-ravage-a-dead-carcass-nearby-a-pale.png"><img src="https://cdn.prompthero.com/v1_86b49d272a5aae22288e72398b-seedream-5-seedream-5-pro-in-overgrown-stone-ruins-where-waterfalls-spill-between-mossy-walls-2-savage-wolves-ravage-a-dead-carcass-nearby-a-pale.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+In overgrown stone ruins where waterfalls spill between mossy walls, 2 savage wolves ravage a dead carcass.  Nearby, a pale white-robed priestess glides past with masked tribal warriors carrying torches and spears, beneath feathered ropes leading to an eerie wooden throne ultra realistic photo with maximum attention to detail and realism. Shot with canon EOS wide angle lens to capute the full scene
+```
+
+By [@johns1670](https://prompthero.com/prompt/872900f88d1-seedream-5-seedream-5-pro-in-overgrown-stone-ruins-where-waterfalls-spill-between-mossy-walls-2-savage-wolves-ravage-a-dead-carcass-nearby-a-pale)
+
+---
+
+[1](creative-art.md) · [2](creative-art-2.md) · [3](creative-art-3.md) · [4](creative-art-4.md) · [5](creative-art-5.md) · [6](creative-art-6.md) · [7](creative-art-7.md) · **8** · [9](creative-art-9.md) · [10](creative-art-10.md) · [11](creative-art-11.md) · [12](creative-art-12.md) · [13](creative-art-13.md)
 
 [← Home](../README.md)

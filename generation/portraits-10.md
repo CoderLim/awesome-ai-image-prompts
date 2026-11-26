@@ -1,58 +1,10 @@
 # portraits
 
-[← Home](../README.md) · Page 10 / 35
+[← Home](../README.md) · Page 10 / 34
 
-[1](portraits.md) · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · [5](portraits-5.md) · [6](portraits-6.md) · [7](portraits-7.md) · [8](portraits-8.md) · [9](portraits-9.md) · **10** · [11](portraits-11.md) · [12](portraits-12.md) · [13](portraits-13.md) · [14](portraits-14.md) · [15](portraits-15.md) · [16](portraits-16.md) · [17](portraits-17.md) · [18](portraits-18.md) · [19](portraits-19.md) · [20](portraits-20.md) · [21](portraits-21.md) · [22](portraits-22.md) · [23](portraits-23.md) · [24](portraits-24.md) · [25](portraits-25.md) · [26](portraits-26.md) · [27](portraits-27.md) · [28](portraits-28.md) · [29](portraits-29.md) · [30](portraits-30.md) · [31](portraits-31.md) · [32](portraits-32.md) · [33](portraits-33.md) · [34](portraits-34.md) · [35](portraits-35.md)
+[1](portraits.md) · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · [5](portraits-5.md) · [6](portraits-6.md) · [7](portraits-7.md) · [8](portraits-8.md) · [9](portraits-9.md) · **10** · [11](portraits-11.md) · [12](portraits-12.md) · [13](portraits-13.md) · [14](portraits-14.md) · [15](portraits-15.md) · [16](portraits-16.md) · [17](portraits-17.md) · [18](portraits-18.md) · [19](portraits-19.md) · [20](portraits-20.md) · [21](portraits-21.md) · [22](portraits-22.md) · [23](portraits-23.md) · [24](portraits-24.md) · [25](portraits-25.md) · [26](portraits-26.md) · [27](portraits-27.md) · [28](portraits-28.md) · [29](portraits-29.md) · [30](portraits-30.md) · [31](portraits-31.md) · [32](portraits-32.md) · [33](portraits-33.md) · [34](portraits-34.md)
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
-
-<a id="prompthero-6b1b6ec2719"></a>
-
-## A woman reclines languidly on a plush sofa in her \.\.\.
-
-<a href="https://cdn.prompthero.com/ul8pglj148xelqwnwc01l20qh0gu-flux-flux1-dev-a-woman-reclines-languidly-on-a-plush-sofa-in-her-cozy-living-room-her-gaze-locking-onto-the-viewer-with.png"><img src="https://cdn.prompthero.com/ul8pglj148xelqwnwc01l20qh0gu-flux-flux1-dev-a-woman-reclines-languidly-on-a-plush-sofa-in-her-cozy-living-room-her-gaze-locking-onto-the-viewer-with.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-A woman reclines languidly on a plush sofa in her cozy living room, her gaze locking onto the viewer with an air of confidence and seduction. Her light blue eyes sparkle like diamonds in the soft, golden light that fills the space. She leans on one arm, her hand resting gently on her stomach as she relaxes into the cushions. The tight, thin fabric of her collared button-down shirt strains to contain her ample cleavage, which is tantalizingly revealed as the shirt lies slightly unbuttoned. A gold bracelet adorns her wrist, adding a touch of sophistication and glamour to the overall scene. As the late evening sun dips below the horizon, the room is bathed in a warm, intimate glow, making it feel like a private sanctuary shared only between the woman and the viewer. aidmarealisticpeoplephotograph
-```
-
-[Source](https://prompthero.com/prompt/6b1b6ec2719-flux-flux1-dev-a-woman-reclines-languidly-on-a-plush-sofa-in-her-cozy-living-room-her-gaze-locking-onto-the-viewer-with)
-
----
-
-<a id="prompthero-6ba8586e789"></a>
-
-## A digital Portrait of a japanese woman, 20 years o\.\.\.
-
-<a href="https://cdn.prompthero.com/v1_cba6ba6e1d11a577e4c5f16e79-grok-image-grok-imagine-image-2-a-digital-portrait-of-a-japanese-woman-20-years-old-light-green-eyes-dark-black-hair-falling-on-her-waist.jpg"><img src="https://cdn.prompthero.com/v1_cba6ba6e1d11a577e4c5f16e79-grok-image-grok-imagine-image-2-a-digital-portrait-of-a-japanese-woman-20-years-old-light-green-eyes-dark-black-hair-falling-on-her-waist.jpg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-A digital Portrait of a japanese woman, 20 years old, light green eyes, dark black hair falling on her waist, fair skin, highly detailed, smooth, cherry blossom background. The woman is wearing a white Kimono in warm light.
-```
-
-[Source](https://prompthero.com/prompt/6ba8586e789-grok-image-grok-imagine-image-2-a-digital-portrait-of-a-japanese-woman-20-years-old-light-green-eyes-dark-black-hair-falling-on-her-waist)
-
----
-
-<a id="prompthero-6ca5facd510"></a>
-
-## &quot;A cinematic style fine art photograph, with gentl\.\.\.
-
-<a href="https://cdn.prompthero.com/0y26w1wfzc0nhy6h7y5rodlb5ij9-flux-flux-11-pro-ultra-a-cinematic-style-fine-art-photograph-with-gentle-soft-light-and-soft-pastel-colours-features-a-close-up-head-and.jpg"><img src="https://cdn.prompthero.com/0y26w1wfzc0nhy6h7y5rodlb5ij9-flux-flux-11-pro-ultra-a-cinematic-style-fine-art-photograph-with-gentle-soft-light-and-soft-pastel-colours-features-a-close-up-head-and.jpg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-"A cinematic style fine art photograph, with gentle, soft light and soft pastel colours, features a close-up head and shoulders portrait of a supermodel in her early 20s. head tilted slightly left, Her luminous complexion is sculpted by Rembrandt lighting. She has raven black hair in a bun, vivid green-silver eyes turned to her right looking into camera, full parted pink lips. A navy blue silk backdrop offers harmony, with a muted golden rim light adding depth. The diffused shadows, subtle illumination, and soft contrast create a serene, confident mood. Photographed with a Sony A1 and 120mm lens for high resolution and an editorial style."
-```
-
-[Source](https://prompthero.com/prompt/6ca5facd510-flux-flux-11-pro-ultra-a-cinematic-style-fine-art-photograph-with-gentle-soft-light-and-soft-pastel-colours-features-a-close-up-head-and)
-
----
 
 <a id="prompthero-6dbec9d7047"></a>
 
@@ -326,6 +278,54 @@ By [@NorthmoorAI](https://prompthero.com/prompt/7bdbc7468b1-midjourney-6-the-fac
 
 ---
 
-[1](portraits.md) · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · [5](portraits-5.md) · [6](portraits-6.md) · [7](portraits-7.md) · [8](portraits-8.md) · [9](portraits-9.md) · **10** · [11](portraits-11.md) · [12](portraits-12.md) · [13](portraits-13.md) · [14](portraits-14.md) · [15](portraits-15.md) · [16](portraits-16.md) · [17](portraits-17.md) · [18](portraits-18.md) · [19](portraits-19.md) · [20](portraits-20.md) · [21](portraits-21.md) · [22](portraits-22.md) · [23](portraits-23.md) · [24](portraits-24.md) · [25](portraits-25.md) · [26](portraits-26.md) · [27](portraits-27.md) · [28](portraits-28.md) · [29](portraits-29.md) · [30](portraits-30.md) · [31](portraits-31.md) · [32](portraits-32.md) · [33](portraits-33.md) · [34](portraits-34.md) · [35](portraits-35.md)
+<a id="prompthero-7bf6983c9f8"></a>
+
+## hyperrealistic photo, Asian beauty with portrait p\.\.\.
+
+<a href="https://cdn.prompthero.com/xinxb3uerbk1g2ut4ievp2hbyunb-midjourney-6-hyperrealistic-photo-asian-beauty-with-portrait-photography-in-a-symmetrical-composition-soft-lighting-delicate-skin-texture-natural-colors-high-saturation.png"><img src="https://cdn.prompthero.com/xinxb3uerbk1g2ut4ievp2hbyunb-midjourney-6-hyperrealistic-photo-asian-beauty-with-portrait-photography-in-a-symmetrical-composition-soft-lighting-delicate-skin-texture-natural-colors-high-saturation.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+hyperrealistic photo, Asian beauty with portrait photography in a symmetrical composition, soft lighting, delicate skin texture, natural colors, high saturation, bright eyes, flowing hair, Shot in the style of photographer David LaChapelle, using a Canon EOS R5 mirrorless lens --ar 1:2 --stylize 750 --weird 2500
+```
+
+By [@NorthmoorAI](https://prompthero.com/prompt/7bf6983c9f8-midjourney-6-hyperrealistic-photo-asian-beauty-with-portrait-photography-in-a-symmetrical-composition-soft-lighting-delicate-skin-texture-natural-colors-high-saturation)
+
+---
+
+<a id="prompthero-7cf2ca7c81b"></a>
+
+## Creature Feature: Hybrid Merman
+
+<a href="https://cdn.prompthero.com/3pofndu5d4h4b4pvuoq7h1remekw-stable-diffusion-xl-base-09-creature-feature-hybrid-merman.jpg"><img src="https://cdn.prompthero.com/3pofndu5d4h4b4pvuoq7h1remekw-stable-diffusion-xl-base-09-creature-feature-hybrid-merman.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+A photo of a demonic merman, with maniacal facial expression, humanoid, yellow eyes, human skin color, cinematic, melancholy, dynamic lighting, dark background, <lora:ClassipeintXL1. 9:1>
+```
+
+By [@abyishot](https://prompthero.com/prompt/7cf2ca7c81b-stable-diffusion-xl-base-09-creature-feature-hybrid-merman)
+
+---
+
+<a id="prompthero-7cff699e0b1"></a>
+
+## An alluring svelte muscular stomached woman with w\.\.\.
+
+<a href="https://cdn.prompthero.com/g5g89flr5qyeiunn6486hy3yth56-dreamshaper-7-an-alluring-svelte-muscular-stomached-woman-with-waist-length-long-dusty-rose-hair-and-radiant-bright-blue-eyes-take-in.png"><img src="https://cdn.prompthero.com/g5g89flr5qyeiunn6486hy3yth56-dreamshaper-7-an-alluring-svelte-muscular-stomached-woman-with-waist-length-long-dusty-rose-hair-and-radiant-bright-blue-eyes-take-in.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+An alluring svelte muscular stomached woman with waist length long dusty rose hair and radiant bright blue eyes take in a moment of quiet confidence. She sways in the center of a sand dance pit. Her attire is intricate ornately embroidered and embellished, belly dancing top, paired with a deep dark blue intricate ornately embroidered and embellished deep dark blue belly dancing bottom. Her expression is sultry yet contemplative, her gaze directed at the viewer. The lighting casting gentle shadows and highlighting the textures of her beauty and her surroundings. Bright Sunlight filters through the canopy, casting dappled shadows and creating a silhouette. Her alluring stare meets the viewer's gaze. The scene is pulled back wide angle, with a low angle, emphasizing her allure, and the lighting is torchlight In the style of Luis Royo.
+```
+
+[Source](https://prompthero.com/prompt/7cff699e0b1-dreamshaper-7-an-alluring-svelte-muscular-stomached-woman-with-waist-length-long-dusty-rose-hair-and-radiant-bright-blue-eyes-take-in)
+
+---
+
+[1](portraits.md) · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · [5](portraits-5.md) · [6](portraits-6.md) · [7](portraits-7.md) · [8](portraits-8.md) · [9](portraits-9.md) · **10** · [11](portraits-11.md) · [12](portraits-12.md) · [13](portraits-13.md) · [14](portraits-14.md) · [15](portraits-15.md) · [16](portraits-16.md) · [17](portraits-17.md) · [18](portraits-18.md) · [19](portraits-19.md) · [20](portraits-20.md) · [21](portraits-21.md) · [22](portraits-22.md) · [23](portraits-23.md) · [24](portraits-24.md) · [25](portraits-25.md) · [26](portraits-26.md) · [27](portraits-27.md) · [28](portraits-28.md) · [29](portraits-29.md) · [30](portraits-30.md) · [31](portraits-31.md) · [32](portraits-32.md) · [33](portraits-33.md) · [34](portraits-34.md)
 
 [← Home](../README.md)

@@ -1,58 +1,10 @@
 # portraits
 
-[← Home](../README.md) · Page 12 / 35
+[← Home](../README.md) · Page 12 / 34
 
-[1](portraits.md) · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · [5](portraits-5.md) · [6](portraits-6.md) · [7](portraits-7.md) · [8](portraits-8.md) · [9](portraits-9.md) · [10](portraits-10.md) · [11](portraits-11.md) · **12** · [13](portraits-13.md) · [14](portraits-14.md) · [15](portraits-15.md) · [16](portraits-16.md) · [17](portraits-17.md) · [18](portraits-18.md) · [19](portraits-19.md) · [20](portraits-20.md) · [21](portraits-21.md) · [22](portraits-22.md) · [23](portraits-23.md) · [24](portraits-24.md) · [25](portraits-25.md) · [26](portraits-26.md) · [27](portraits-27.md) · [28](portraits-28.md) · [29](portraits-29.md) · [30](portraits-30.md) · [31](portraits-31.md) · [32](portraits-32.md) · [33](portraits-33.md) · [34](portraits-34.md) · [35](portraits-35.md)
+[1](portraits.md) · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · [5](portraits-5.md) · [6](portraits-6.md) · [7](portraits-7.md) · [8](portraits-8.md) · [9](portraits-9.md) · [10](portraits-10.md) · [11](portraits-11.md) · **12** · [13](portraits-13.md) · [14](portraits-14.md) · [15](portraits-15.md) · [16](portraits-16.md) · [17](portraits-17.md) · [18](portraits-18.md) · [19](portraits-19.md) · [20](portraits-20.md) · [21](portraits-21.md) · [22](portraits-22.md) · [23](portraits-23.md) · [24](portraits-24.md) · [25](portraits-25.md) · [26](portraits-26.md) · [27](portraits-27.md) · [28](portraits-28.md) · [29](portraits-29.md) · [30](portraits-30.md) · [31](portraits-31.md) · [32](portraits-32.md) · [33](portraits-33.md) · [34](portraits-34.md)
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
-
-<a id="prompthero-8db75b91a6a"></a>
-
-## High-contrast colorful saturated cinematic image o\.\.\.
-
-<a href="https://cdn.prompthero.com/nyf7gicfshjutsurej8m7tkks8-seedream-5-seedream-5-pro-high-contrast-colorful-saturated-cinematic-image-of-a-blonde-woman-in-a-white-linen-dress-in-profile-mid-motion-with.png"><img src="https://cdn.prompthero.com/nyf7gicfshjutsurej8m7tkks8-seedream-5-seedream-5-pro-high-contrast-colorful-saturated-cinematic-image-of-a-blonde-woman-in-a-white-linen-dress-in-profile-mid-motion-with.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-High-contrast colorful saturated cinematic image of a blonde woman in a white linen dress in profile, mid-motion with arms extended slightly behind him, as if moving forward or surrendering to momentum. His body is sharply defined with dramatic lighting, while his face is turned away. A flock of butterflies rushes past her in chaotic motion, heavily motion-blurred, streaking across the frame in multiple directions. The birds appear ghostlike and distorted, creating a surreal, almost haunting atmosphere. Some are closer to the lens, cdepth and blur. Background is minimal and overcast, soft pink sky with no clear horizon, creating a sense of isolation and emptiness. Strong contrast between subject and background, with soft gradients and subtle vignetting. Shot with a slow shutter speed, pronounced motion blur, cinematic composition, slightly off-center framing. Fine art photography style, inspired by experimental film stills. Grainy texture, soft halation, slight haze. Mood is eerie, introspective, surreal
-```
-
-[Source](https://prompthero.com/prompt/8db75b91a6a-seedream-5-seedream-5-pro-high-contrast-colorful-saturated-cinematic-image-of-a-blonde-woman-in-a-white-linen-dress-in-profile-mid-motion-with)
-
----
-
-<a id="prompthero-8dcc55f01c5"></a>
-
-## 8K, \(masterpiece\*high detailed\*highres\), \(portrait\.\.\.
-
-<a href="https://cdn.prompthero.com/09t4wxmfedj4cbhpm10jdwkgvxtf-rev-animated-v122-8k-masterpiecehigh-detailedhighres-portrait-shot-sharp-focus-soft-lighting-mechanical-skull-with-gears-gold-and-white-colors-gradiant-bacground-close.png"><img src="https://cdn.prompthero.com/09t4wxmfedj4cbhpm10jdwkgvxtf-rev-animated-v122-8k-masterpiecehigh-detailedhighres-portrait-shot-sharp-focus-soft-lighting-mechanical-skull-with-gears-gold-and-white-colors-gradiant-bacground-close.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-8K, (masterpiece*high detailed*highres), (portrait shot), sharp focus, soft lighting, ((mechanical skull with gears)), ((gold and white colors)), gradiant bacground, ((close-up face)), ((centered)), <lora:3DMM_V11:0. 8>
-```
-
-[Source](https://prompthero.com/prompt/8dcc55f01c5-rev-animated-v122-8k-masterpiecehigh-detailedhighres-portrait-shot-sharp-focus-soft-lighting-mechanical-skull-with-gears-gold-and-white-colors-gradiant-bacground-close)
-
----
-
-<a id="prompthero-8e361dcd578"></a>
-
-## general view of the interior of a spaceship with s\.\.\.
-
-<a href="https://cdn.prompthero.com/s4twvbw740bslda125p2p1307gtg-midjourney-52-general-view-of-the-interior-of-a-spaceship-with-some-windows-to-observe-space-station-outside-inside-a-man-and.png"><img src="https://cdn.prompthero.com/s4twvbw740bslda125p2p1307gtg-midjourney-52-general-view-of-the-interior-of-a-spaceship-with-some-windows-to-observe-space-station-outside-inside-a-man-and.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-general view of the interior of a spaceship with some windows to observe, space station outside, inside a man and a woman wearing futuristic uniforms, orange and beige color, realistic hyper-detailed rendering, hyper-realistic details, 32k uhd, masterpiece, photo, digital art, science fiction --v 5.2
-```
-
-[Source](https://prompthero.com/prompt/8e361dcd578-midjourney-52-general-view-of-the-interior-of-a-spaceship-with-some-windows-to-observe-space-station-outside-inside-a-man-and)
-
----
 
 <a id="prompthero-8ecb0c67a8c"></a>
 
@@ -326,6 +278,54 @@ black and white photography, young girl in old train cabin sadly looks on camera
 
 ---
 
-[1](portraits.md) · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · [5](portraits-5.md) · [6](portraits-6.md) · [7](portraits-7.md) · [8](portraits-8.md) · [9](portraits-9.md) · [10](portraits-10.md) · [11](portraits-11.md) · **12** · [13](portraits-13.md) · [14](portraits-14.md) · [15](portraits-15.md) · [16](portraits-16.md) · [17](portraits-17.md) · [18](portraits-18.md) · [19](portraits-19.md) · [20](portraits-20.md) · [21](portraits-21.md) · [22](portraits-22.md) · [23](portraits-23.md) · [24](portraits-24.md) · [25](portraits-25.md) · [26](portraits-26.md) · [27](portraits-27.md) · [28](portraits-28.md) · [29](portraits-29.md) · [30](portraits-30.md) · [31](portraits-31.md) · [32](portraits-32.md) · [33](portraits-33.md) · [34](portraits-34.md) · [35](portraits-35.md)
+<a id="prompthero-9c4ce975ed0"></a>
+
+## Ms\. China: Chen Mei
+
+<a href="https://cdn.prompthero.com/ppvu29f2mlcobzjhxuk8upuh4u4x-stable-diffusion-xl-base-09-ms-china-chen-mei.jpg"><img src="https://cdn.prompthero.com/ppvu29f2mlcobzjhxuk8upuh4u4x-stable-diffusion-xl-base-09-ms-china-chen-mei.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+Good looking young Chinese lady wearing formal military attire, looking upward, curious facial expression, indoor, studio shot, dramatic lighting, concept art, unreal engine 5, RTX, ray tracing, photorealistic
+```
+
+By [@abyishot](https://prompthero.com/prompt/9c4ce975ed0-stable-diffusion-xl-base-09-ms-china-chen-mei)
+
+---
+
+<a id="prompthero-9c5a92867e4"></a>
+
+## Ms\. China: Xīn Yí
+
+<a href="https://cdn.prompthero.com/005nz9r6wge4qcq594h3g9wrjl5r-stable-diffusion-xl-base-09-ms-china-xin-yi.jpg"><img src="https://cdn.prompthero.com/005nz9r6wge4qcq594h3g9wrjl5r-stable-diffusion-xl-base-09-ms-china-xin-yi.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+A very delicately lovely and beautiful Chinese lady at a prestige gathering, wearing an elegant black dress,  posh, indoor, glam shot, dramatic lighting, concept art, unreal engine 5, RTX, ray tracing, photorealistic
+```
+
+By [@abyishot](https://prompthero.com/prompt/9c5a92867e4-stable-diffusion-xl-base-09-ms-china-xin-yi)
+
+---
+
+<a id="prompthero-9c17f4e18e9"></a>
+
+## erjie, &lt;lora:Threesister-erjiev2:0\.2&gt;,girl in a fl\.\.\.
+
+<a href="https://cdn.prompthero.com/lnz3j5fozqfpxqwow7qmfpxltts6-dreamshaper-33-erjie-lorathreesister-erjiev202girl-in-a-fluid-and-dynamic-pose-wearing-a-loose-flowing-pink-dress-mysterious-expression-curly-black-and.jpeg"><img src="https://cdn.prompthero.com/lnz3j5fozqfpxqwow7qmfpxltts6-dreamshaper-33-erjie-lorathreesister-erjiev202girl-in-a-fluid-and-dynamic-pose-wearing-a-loose-flowing-pink-dress-mysterious-expression-curly-black-and.jpeg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+erjie, <lora:Threesister-erjiev2:0.2>,girl in a fluid and dynamic pose, wearing a loose, flowing pink dress, mysterious expression, curly black and pink hair, [Zhang Ziyi|Aishwarya Rai], in a modern and abstract setting, with bold and colorful abstract art, blurred background, bright lighting, official art, unity 8k wallpaper, (zentangle, mandala, tangle, entangle), intricate clothes,zhongfenghua <lora:zhongfenghua:0.2> <lora:oc_v10:0.1><lora:lowra_v10:0.2> <lyco:gpts4 lite dreamwave_278580:0.3> (full body,from everywhere,masterpiece, top quality, best quality, official art, beautiful and aesthetic:1.2), extremely detailed,(fractal art:1.1),(colorful:1.1)(flowers:1.3),highest detailed,(zentangle:1.2), (dynamic pose), (abstract background:1.3), (shiny skin), (many colors:1.4), (feathers:1.5),  dynamic angle, the most beautiful form of chaos, elegant, a brutalist designed, vivid colours, romanticism,
+```
+
+By [@heeyrina](https://prompthero.com/prompt/9c17f4e18e9-dreamshaper-33-erjie-lorathreesister-erjiev202girl-in-a-fluid-and-dynamic-pose-wearing-a-loose-flowing-pink-dress-mysterious-expression-curly-black-and)
+
+---
+
+[1](portraits.md) · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · [5](portraits-5.md) · [6](portraits-6.md) · [7](portraits-7.md) · [8](portraits-8.md) · [9](portraits-9.md) · [10](portraits-10.md) · [11](portraits-11.md) · **12** · [13](portraits-13.md) · [14](portraits-14.md) · [15](portraits-15.md) · [16](portraits-16.md) · [17](portraits-17.md) · [18](portraits-18.md) · [19](portraits-19.md) · [20](portraits-20.md) · [21](portraits-21.md) · [22](portraits-22.md) · [23](portraits-23.md) · [24](portraits-24.md) · [25](portraits-25.md) · [26](portraits-26.md) · [27](portraits-27.md) · [28](portraits-28.md) · [29](portraits-29.md) · [30](portraits-30.md) · [31](portraits-31.md) · [32](portraits-32.md) · [33](portraits-33.md) · [34](portraits-34.md)
 
 [← Home](../README.md)

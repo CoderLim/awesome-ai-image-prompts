@@ -6,22 +6,6 @@
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
-<a id="evolink-travel-journals-case-203"></a>
-
-## Istanbul and Venice Watercolors
-
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2106326192421064704.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2106326192421064704.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Create a single elegant vintage watercolor travel poster that beautifully combines the atmosphere of Istanbul, Turkey and Venice, Italy into one cohesive artistic scene. Blend Istanbul’s magnificent Ottoman mosques, elegant domes, tall slender minarets, Bosphorus waterfront, small ferries and sailboats with Venice’s historic Venetian buildings, Grand Canal, Rialto-style stone bridge, gondolas and romantic waterways. Use a refined hand-painted watercolor illustration style on textured warm ivory paper, with soft blue, muted teal, warm beige, dusty lavender and subtle terracotta tones. Add natural watercolor splashes, paint bleeds, delicate ink details and slightly imperfect hand-painted edges around the main composition. The architecture should be highly detailed yet artistic, with realistic reflections across the water, atmospheric distant buildings, gentle sunlight, elegant boats and a peaceful travel-diary feeling. Make Istanbul and Venice visually merge through the waterways so the whole artwork feels like one magical city where two historic worlds meet, not two separate pictures. Add sophisticated handwritten-style typography at the bottom: “ISTANBUL & VENICE” and underneath in smaller elegant script: “Where Worlds Meet • Cities on Water” Overall look: luxury vintage travel poster, European travel journal, premium watercolor artwork, nostalgic, artistic, sophisticated, highly detailed, cinematic composition, realistic watercolor texture, 8K quality.
-```
-
-By [@KrishnaBio1](https://x.com/KrishnaBio1/status/2106326234322059308)
-
----
-
 <a id="evolink-travel-journals-case-214"></a>
 
 ## Travel Photo and Watercolor Poster
@@ -323,6 +307,22 @@ By [@taira\_renta](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999
 ```
 
 By [@SSSS\_CRYPTOMAN](https://x.com/SSSS_CRYPTOMAN/status/2046575354555617761)
+
+---
+
+<a id="freestylefly-case-174"></a>
+
+## 唐朝贵妇遛粉色马甲异形工笔画
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case174.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case174.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+[中文] 一幅细节丰富的工笔画，描绘了一位唐朝贵族女子在御花园中漫步。她看起来优雅而平静。 她手里拿着一根金色的牵引绳。牵引绳的尽头是一只可怕的**异形怪物（出自电影《异形》）**。然而，这只异形穿着一件**可爱的粉色丝绸马甲**，并且表现得像一只训练有素的狗。 背景有牡丹和蝴蝶。 **在右下角，有一个红色的竖排艺术家印章，写着“吴先生”（Mr. Wu），风格像水印一样。** --ar 3:4 [English] A finely detailed Gongbi painting of a noble Tang Dynasty lady taking a stroll in the imperial garden. She looks elegant and calm. She is holding a gold leash. At the end of the leash is a terrifying **Xenomorph monster (from the movie Alien)**. However, the Xenomorph is wearing a **cute pink silk vest** and is behaving like a well-trained dog. Background features peonies and butterflies. **In the bottom right corner, a single red vertical artist chop seal reads "吴先生" (Mr. Wu), stylized like a watermark.** --ar 3:4
+```
+
+By [@johnAGI168](https://x.com/johnAGI168/status/2046565555025367392)
 
 ---
 

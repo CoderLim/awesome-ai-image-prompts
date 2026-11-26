@@ -4062,18 +4062,19 @@
       "identity-preserving"
     ],
     "quality": {
-      "status": "metadata-complete",
-      "score": 3,
+      "status": "manual-excluded",
+      "score": 1,
       "flags": [
         "input-mode-review",
-        "rights-review"
+        "rights-review",
+        "manual-excluded"
       ],
       "imageAvailability": "unchecked",
       "imagePromptMatch": "unchecked",
       "reproduction": "untested",
       "rights": "pending-review"
     },
-    "visible": true
+    "visible": false
   },
   "evolink-illustration-case-169": {
     "type": "generation",
@@ -5085,17 +5086,18 @@
       "editorial"
     ],
     "quality": {
-      "status": "metadata-complete",
-      "score": 5,
+      "status": "manual-excluded",
+      "score": 3,
       "flags": [
-        "rights-review"
+        "rights-review",
+        "manual-excluded"
       ],
       "imageAvailability": "unchecked",
       "imagePromptMatch": "unchecked",
       "reproduction": "untested",
       "rights": "pending-review"
     },
-    "visible": true
+    "visible": false
   },
   "evolink-portraits-case-40": {
     "type": "generation",
@@ -6223,17 +6225,18 @@
       "editorial"
     ],
     "quality": {
-      "status": "metadata-complete",
-      "score": 5,
+      "status": "manual-excluded",
+      "score": 3,
       "flags": [
-        "rights-review"
+        "rights-review",
+        "manual-excluded"
       ],
       "imageAvailability": "unchecked",
       "imagePromptMatch": "unchecked",
       "reproduction": "untested",
       "rights": "pending-review"
     },
-    "visible": true
+    "visible": false
   },
   "evolink-travel-journals-case-216": {
     "type": "generation",
@@ -6276,17 +6279,18 @@
       "image-editing"
     ],
     "quality": {
-      "status": "metadata-complete",
-      "score": 4,
+      "status": "manual-excluded",
+      "score": 2,
       "flags": [
-        "rights-review"
+        "rights-review",
+        "manual-excluded"
       ],
       "imageAvailability": "unchecked",
       "imagePromptMatch": "unchecked",
       "reproduction": "untested",
       "rights": "pending-review"
     },
-    "visible": true
+    "visible": false
   },
   "evolink-travel-journals-case-218": {
     "type": "generation",
@@ -21475,17 +21479,18 @@
       "photorealistic"
     ],
     "quality": {
-      "status": "metadata-complete",
-      "score": 5,
+      "status": "manual-excluded",
+      "score": 3,
       "flags": [
-        "rights-review"
+        "rights-review",
+        "manual-excluded"
       ],
       "imageAvailability": "unchecked",
       "imagePromptMatch": "unchecked",
       "reproduction": "untested",
       "rights": "pending-review"
     },
-    "visible": true
+    "visible": false
   },
   "prompthero-2b2215c518b": {
     "type": "generation",
@@ -21760,17 +21765,18 @@
       "film"
     ],
     "quality": {
-      "status": "metadata-complete",
-      "score": 4,
+      "status": "manual-excluded",
+      "score": 2,
       "flags": [
-        "rights-review"
+        "rights-review",
+        "manual-excluded"
       ],
       "imageAvailability": "unchecked",
       "imagePromptMatch": "unchecked",
       "reproduction": "untested",
       "rights": "pending-review"
     },
-    "visible": true
+    "visible": false
   },
   "prompthero-2c9106f9180": {
     "type": "generation",
@@ -22696,18 +22702,19 @@
       "editorial"
     ],
     "quality": {
-      "status": "metadata-complete",
-      "score": 5,
+      "status": "manual-excluded",
+      "score": 3,
       "flags": [
         "rights-review",
-        "duplicate-candidate:same-prompt-prefix"
+        "duplicate-candidate:same-prompt-prefix",
+        "manual-excluded"
       ],
       "imageAvailability": "unchecked",
       "imagePromptMatch": "unchecked",
       "reproduction": "untested",
       "rights": "pending-review"
     },
-    "visible": true
+    "visible": false
   },
   "prompthero-3e1f1736874": {
     "type": "generation",
@@ -22761,17 +22768,18 @@
       "minimalist"
     ],
     "quality": {
-      "status": "metadata-complete",
-      "score": 5,
+      "status": "manual-excluded",
+      "score": 3,
       "flags": [
-        "rights-review"
+        "rights-review",
+        "manual-excluded"
       ],
       "imageAvailability": "unchecked",
       "imagePromptMatch": "unchecked",
       "reproduction": "untested",
       "rights": "pending-review"
     },
-    "visible": true
+    "visible": false
   },
   "prompthero-3e98e6635d5": {
     "type": "generation",
@@ -25552,18 +25560,19 @@
     "reason": "reviewed-collector-export",
     "tags": [],
     "quality": {
-      "status": "metadata-complete",
-      "score": 4,
+      "status": "manual-excluded",
+      "score": 2,
       "flags": [
         "rights-review",
-        "duplicate-candidate:same-prompt-prefix"
+        "duplicate-candidate:same-prompt-prefix",
+        "manual-excluded"
       ],
       "imageAvailability": "unchecked",
       "imagePromptMatch": "unchecked",
       "reproduction": "untested",
       "rights": "pending-review"
     },
-    "visible": true
+    "visible": false
   },
   "prompthero-07e605642e1": {
     "type": "generation",
@@ -27805,17 +27814,18 @@
       "photorealistic"
     ],
     "quality": {
-      "status": "metadata-complete",
-      "score": 5,
+      "status": "manual-excluded",
+      "score": 3,
       "flags": [
-        "rights-review"
+        "rights-review",
+        "manual-excluded"
       ],
       "imageAvailability": "unchecked",
       "imagePromptMatch": "unchecked",
       "reproduction": "untested",
       "rights": "pending-review"
     },
-    "visible": true
+    "visible": false
   },
   "prompthero-13fb54d3bda": {
     "type": "generation",
@@ -29294,18 +29304,19 @@
       "photorealistic"
     ],
     "quality": {
-      "status": "metadata-complete",
-      "score": 4,
+      "status": "manual-excluded",
+      "score": 2,
       "flags": [
         "classification-review",
-        "rights-review"
+        "rights-review",
+        "manual-excluded"
       ],
       "imageAvailability": "unchecked",
       "imagePromptMatch": "unchecked",
       "reproduction": "untested",
       "rights": "pending-review"
     },
-    "visible": true
+    "visible": false
   },
   "prompthero-48f8fd979cc": {
     "type": "generation",
@@ -29659,17 +29670,18 @@
       "editorial"
     ],
     "quality": {
-      "status": "metadata-complete",
-      "score": 5,
+      "status": "manual-excluded",
+      "score": 3,
       "flags": [
-        "rights-review"
+        "rights-review",
+        "manual-excluded"
       ],
       "imageAvailability": "unchecked",
       "imagePromptMatch": "unchecked",
       "reproduction": "untested",
       "rights": "pending-review"
     },
-    "visible": true
+    "visible": false
   },
   "prompthero-54b61f7ebc5": {
     "type": "generation",
@@ -30054,18 +30066,19 @@
       "photorealistic"
     ],
     "quality": {
-      "status": "metadata-complete",
-      "score": 5,
+      "status": "manual-excluded",
+      "score": 3,
       "flags": [
         "rights-review",
-        "duplicate-candidate:same-prompt-prefix"
+        "duplicate-candidate:same-prompt-prefix",
+        "manual-excluded"
       ],
       "imageAvailability": "unchecked",
       "imagePromptMatch": "unchecked",
       "reproduction": "untested",
       "rights": "pending-review"
     },
-    "visible": true
+    "visible": false
   },
   "prompthero-066e0e1f71b": {
     "type": "generation",
@@ -30519,17 +30532,18 @@
     "reason": "reviewed-collector-export",
     "tags": [],
     "quality": {
-      "status": "metadata-complete",
-      "score": 5,
+      "status": "manual-excluded",
+      "score": 3,
       "flags": [
-        "rights-review"
+        "rights-review",
+        "manual-excluded"
       ],
       "imageAvailability": "unchecked",
       "imagePromptMatch": "unchecked",
       "reproduction": "untested",
       "rights": "pending-review"
     },
-    "visible": true
+    "visible": false
   },
   "prompthero-84ba9c7db3d": {
     "type": "generation",
@@ -31019,18 +31033,19 @@
     "reason": "reviewed-collector-export",
     "tags": [],
     "quality": {
-      "status": "metadata-complete",
-      "score": 5,
+      "status": "manual-excluded",
+      "score": 3,
       "flags": [
         "rights-review",
-        "duplicate-candidate:same-prompt-prefix"
+        "duplicate-candidate:same-prompt-prefix",
+        "manual-excluded"
       ],
       "imageAvailability": "unchecked",
       "imagePromptMatch": "unchecked",
       "reproduction": "untested",
       "rights": "pending-review"
     },
-    "visible": true
+    "visible": false
   },
   "prompthero-97a875bb919": {
     "type": "generation",
@@ -31242,18 +31257,19 @@
       "photorealistic"
     ],
     "quality": {
-      "status": "metadata-complete",
-      "score": 5,
+      "status": "manual-excluded",
+      "score": 3,
       "flags": [
         "rights-review",
-        "duplicate-candidate:same-prompt-prefix"
+        "duplicate-candidate:same-prompt-prefix",
+        "manual-excluded"
       ],
       "imageAvailability": "unchecked",
       "imagePromptMatch": "unchecked",
       "reproduction": "untested",
       "rights": "pending-review"
     },
-    "visible": true
+    "visible": false
   },
   "prompthero-122ae4fe279": {
     "type": "generation",
@@ -31526,17 +31542,18 @@
       "photorealistic"
     ],
     "quality": {
-      "status": "metadata-complete",
-      "score": 5,
+      "status": "manual-excluded",
+      "score": 3,
       "flags": [
-        "rights-review"
+        "rights-review",
+        "manual-excluded"
       ],
       "imageAvailability": "unchecked",
       "imagePromptMatch": "unchecked",
       "reproduction": "untested",
       "rights": "pending-review"
     },
-    "visible": true
+    "visible": false
   },
   "prompthero-221cbcb0091": {
     "type": "generation",
@@ -31889,17 +31906,18 @@
       "photorealistic"
     ],
     "quality": {
-      "status": "metadata-complete",
-      "score": 5,
+      "status": "manual-excluded",
+      "score": 3,
       "flags": [
-        "rights-review"
+        "rights-review",
+        "manual-excluded"
       ],
       "imageAvailability": "unchecked",
       "imagePromptMatch": "unchecked",
       "reproduction": "untested",
       "rights": "pending-review"
     },
-    "visible": true
+    "visible": false
   },
   "prompthero-336e3c5bbfa": {
     "type": "generation",
@@ -33577,18 +33595,19 @@
       "product"
     ],
     "quality": {
-      "status": "metadata-complete",
-      "score": 4,
+      "status": "manual-excluded",
+      "score": 2,
       "flags": [
         "classification-review",
-        "rights-review"
+        "rights-review",
+        "manual-excluded"
       ],
       "imageAvailability": "unchecked",
       "imagePromptMatch": "unchecked",
       "reproduction": "untested",
       "rights": "pending-review"
     },
-    "visible": true
+    "visible": false
   },
   "prompthero-910d0f013fc": {
     "type": "generation",
@@ -37106,17 +37125,18 @@
       "photorealistic"
     ],
     "quality": {
-      "status": "metadata-complete",
-      "score": 4,
+      "status": "manual-excluded",
+      "score": 2,
       "flags": [
-        "rights-review"
+        "rights-review",
+        "manual-excluded"
       ],
       "imageAvailability": "unchecked",
       "imagePromptMatch": "unchecked",
       "reproduction": "untested",
       "rights": "pending-review"
     },
-    "visible": true
+    "visible": false
   },
   "prompthero-5807596c822": {
     "type": "generation",
@@ -37583,17 +37603,18 @@
       "photorealistic"
     ],
     "quality": {
-      "status": "metadata-complete",
-      "score": 5,
+      "status": "manual-excluded",
+      "score": 3,
       "flags": [
-        "rights-review"
+        "rights-review",
+        "manual-excluded"
       ],
       "imageAvailability": "unchecked",
       "imagePromptMatch": "unchecked",
       "reproduction": "untested",
       "rights": "pending-review"
     },
-    "visible": true
+    "visible": false
   },
   "prompthero-334682387fa": {
     "type": "generation",
@@ -37713,17 +37734,18 @@
     "reason": "reviewed-collector-export",
     "tags": [],
     "quality": {
-      "status": "metadata-complete",
-      "score": 4,
+      "status": "manual-excluded",
+      "score": 2,
       "flags": [
-        "rights-review"
+        "rights-review",
+        "manual-excluded"
       ],
       "imageAvailability": "unchecked",
       "imagePromptMatch": "unchecked",
       "reproduction": "untested",
       "rights": "pending-review"
     },
-    "visible": true
+    "visible": false
   },
   "prompthero-35859341517": {
     "type": "generation",
@@ -38150,17 +38172,18 @@
       "anime"
     ],
     "quality": {
-      "status": "metadata-complete",
-      "score": 5,
+      "status": "manual-excluded",
+      "score": 3,
       "flags": [
-        "rights-review"
+        "rights-review",
+        "manual-excluded"
       ],
       "imageAvailability": "unchecked",
       "imagePromptMatch": "unchecked",
       "reproduction": "untested",
       "rights": "pending-review"
     },
-    "visible": true
+    "visible": false
   },
   "prompthero-a8c5dc5b05b": {
     "type": "generation",
@@ -38449,17 +38472,18 @@
     "reason": "reviewed-collector-export",
     "tags": [],
     "quality": {
-      "status": "metadata-complete",
-      "score": 4,
+      "status": "manual-excluded",
+      "score": 2,
       "flags": [
-        "rights-review"
+        "rights-review",
+        "manual-excluded"
       ],
       "imageAvailability": "unchecked",
       "imagePromptMatch": "unchecked",
       "reproduction": "untested",
       "rights": "pending-review"
     },
-    "visible": true
+    "visible": false
   },
   "prompthero-a322fa7bed2": {
     "type": "generation",
@@ -40320,17 +40344,18 @@
       "typography"
     ],
     "quality": {
-      "status": "metadata-complete",
-      "score": 5,
+      "status": "manual-excluded",
+      "score": 3,
       "flags": [
-        "rights-review"
+        "rights-review",
+        "manual-excluded"
       ],
       "imageAvailability": "unchecked",
       "imagePromptMatch": "unchecked",
       "reproduction": "untested",
       "rights": "pending-review"
     },
-    "visible": true
+    "visible": false
   },
   "prompthero-b94c0f7bf49": {
     "type": "generation",
@@ -42947,18 +42972,19 @@
       "cinematic"
     ],
     "quality": {
-      "status": "metadata-complete",
-      "score": 4,
+      "status": "manual-excluded",
+      "score": 2,
       "flags": [
         "classification-review",
-        "rights-review"
+        "rights-review",
+        "manual-excluded"
       ],
       "imageAvailability": "unchecked",
       "imagePromptMatch": "unchecked",
       "reproduction": "untested",
       "rights": "pending-review"
     },
-    "visible": true
+    "visible": false
   },
   "prompthero-cfe30751643": {
     "type": "generation",
@@ -43215,17 +43241,18 @@
       "editorial"
     ],
     "quality": {
-      "status": "metadata-complete",
-      "score": 5,
+      "status": "manual-excluded",
+      "score": 3,
       "flags": [
-        "rights-review"
+        "rights-review",
+        "manual-excluded"
       ],
       "imageAvailability": "unchecked",
       "imagePromptMatch": "unchecked",
       "reproduction": "untested",
       "rights": "pending-review"
     },
-    "visible": true
+    "visible": false
   },
   "prompthero-d06c45ad838": {
     "type": "generation",
@@ -43434,17 +43461,18 @@
     "reason": "reviewed-collector-export",
     "tags": [],
     "quality": {
-      "status": "metadata-complete",
-      "score": 4,
+      "status": "manual-excluded",
+      "score": 2,
       "flags": [
-        "rights-review"
+        "rights-review",
+        "manual-excluded"
       ],
       "imageAvailability": "unchecked",
       "imagePromptMatch": "unchecked",
       "reproduction": "untested",
       "rights": "pending-review"
     },
-    "visible": true
+    "visible": false
   },
   "prompthero-d29cd3e6c3e": {
     "type": "generation",
@@ -43593,17 +43621,18 @@
       "vintage"
     ],
     "quality": {
-      "status": "metadata-complete",
-      "score": 5,
+      "status": "manual-excluded",
+      "score": 3,
       "flags": [
-        "rights-review"
+        "rights-review",
+        "manual-excluded"
       ],
       "imageAvailability": "unchecked",
       "imagePromptMatch": "unchecked",
       "reproduction": "untested",
       "rights": "pending-review"
     },
-    "visible": true
+    "visible": false
   },
   "prompthero-d59d6eb1ec8": {
     "type": "generation",
@@ -43695,17 +43724,18 @@
       "photorealistic"
     ],
     "quality": {
-      "status": "metadata-complete",
-      "score": 4,
+      "status": "manual-excluded",
+      "score": 2,
       "flags": [
-        "rights-review"
+        "rights-review",
+        "manual-excluded"
       ],
       "imageAvailability": "unchecked",
       "imagePromptMatch": "unchecked",
       "reproduction": "untested",
       "rights": "pending-review"
     },
-    "visible": true
+    "visible": false
   },
   "prompthero-d086fde79c7": {
     "type": "generation",
@@ -44362,17 +44392,18 @@
       "minimalist"
     ],
     "quality": {
-      "status": "metadata-complete",
-      "score": 5,
+      "status": "manual-excluded",
+      "score": 3,
       "flags": [
-        "rights-review"
+        "rights-review",
+        "manual-excluded"
       ],
       "imageAvailability": "unchecked",
       "imagePromptMatch": "unchecked",
       "reproduction": "untested",
       "rights": "pending-review"
     },
-    "visible": true
+    "visible": false
   },
   "prompthero-dc3509e86fb": {
     "type": "generation",
@@ -45592,18 +45623,19 @@
       "cinematic"
     ],
     "quality": {
-      "status": "metadata-complete",
-      "score": 5,
+      "status": "manual-excluded",
+      "score": 3,
       "flags": [
         "rights-review",
-        "duplicate-candidate:same-prompt-prefix"
+        "duplicate-candidate:same-prompt-prefix",
+        "manual-excluded"
       ],
       "imageAvailability": "unchecked",
       "imagePromptMatch": "unchecked",
       "reproduction": "untested",
       "rights": "pending-review"
     },
-    "visible": true
+    "visible": false
   },
   "prompthero-e39121a6a96": {
     "type": "generation",
@@ -46073,17 +46105,18 @@
     "reason": "reviewed-collector-export",
     "tags": [],
     "quality": {
-      "status": "metadata-complete",
-      "score": 5,
+      "status": "manual-excluded",
+      "score": 3,
       "flags": [
-        "rights-review"
+        "rights-review",
+        "manual-excluded"
       ],
       "imageAvailability": "unchecked",
       "imagePromptMatch": "unchecked",
       "reproduction": "untested",
       "rights": "pending-review"
     },
-    "visible": true
+    "visible": false
   },
   "prompthero-eda5ba8eeba": {
     "type": "generation",
@@ -46413,17 +46446,18 @@
     "reason": "reviewed-collector-export",
     "tags": [],
     "quality": {
-      "status": "metadata-complete",
-      "score": 5,
+      "status": "manual-excluded",
+      "score": 3,
       "flags": [
-        "rights-review"
+        "rights-review",
+        "manual-excluded"
       ],
       "imageAvailability": "unchecked",
       "imagePromptMatch": "unchecked",
       "reproduction": "untested",
       "rights": "pending-review"
     },
-    "visible": true
+    "visible": false
   },
   "prompthero-f0df2fdf530": {
     "type": "generation",
@@ -46435,17 +46469,18 @@
       "photorealistic"
     ],
     "quality": {
-      "status": "metadata-complete",
-      "score": 5,
+      "status": "manual-excluded",
+      "score": 3,
       "flags": [
-        "rights-review"
+        "rights-review",
+        "manual-excluded"
       ],
       "imageAvailability": "unchecked",
       "imagePromptMatch": "unchecked",
       "reproduction": "untested",
       "rights": "pending-review"
     },
-    "visible": true
+    "visible": false
   },
   "prompthero-f0df67413c5": {
     "type": "generation",
@@ -47654,17 +47689,18 @@
       "photorealistic"
     ],
     "quality": {
-      "status": "metadata-complete",
-      "score": 5,
+      "status": "manual-excluded",
+      "score": 3,
       "flags": [
-        "rights-review"
+        "rights-review",
+        "manual-excluded"
       ],
       "imageAvailability": "unchecked",
       "imagePromptMatch": "unchecked",
       "reproduction": "untested",
       "rights": "pending-review"
     },
-    "visible": true
+    "visible": false
   },
   "prompthero-fa95a31df8b": {
     "type": "generation",

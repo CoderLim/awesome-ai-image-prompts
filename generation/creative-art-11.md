@@ -1,74 +1,10 @@
 # creative art
 
-[← Home](../README.md) · Page 11 / 14
+[← Home](../README.md) · Page 11 / 13
 
-[1](creative-art.md) · [2](creative-art-2.md) · [3](creative-art-3.md) · [4](creative-art-4.md) · [5](creative-art-5.md) · [6](creative-art-6.md) · [7](creative-art-7.md) · [8](creative-art-8.md) · [9](creative-art-9.md) · [10](creative-art-10.md) · **11** · [12](creative-art-12.md) · [13](creative-art-13.md) · [14](creative-art-14.md)
+[1](creative-art.md) · [2](creative-art-2.md) · [3](creative-art-3.md) · [4](creative-art-4.md) · [5](creative-art-5.md) · [6](creative-art-6.md) · [7](creative-art-7.md) · [8](creative-art-8.md) · [9](creative-art-9.md) · [10](creative-art-10.md) · **11** · [12](creative-art-12.md) · [13](creative-art-13.md)
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
-
-<a id="prompthero-bc89d63da26"></a>
-
-## Image is a digital fantasy artwork featuring a wit\.\.\.
-
-<a href="https://cdn.prompthero.com/gohtioez7lzqtijaka754ho7487s-stable-diffusion-xl-base-09-image-is-a-digital-fantasy-artwork-featuring-a-witch-with-striking-features-the-subject-is-a-woman-with-pale-skin.jpg"><img src="https://cdn.prompthero.com/gohtioez7lzqtijaka754ho7487s-stable-diffusion-xl-base-09-image-is-a-digital-fantasy-artwork-featuring-a-witch-with-striking-features-the-subject-is-a-woman-with-pale-skin.jpg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-Image is a digital fantasy artwork featuring a witch with striking features. The subject is a woman with pale skin and vibrant red hair styled in loose curls. She wears a classic black witch's hat and a dark, lace-trimmed cloak. Her eyes are a vivid, glowing blue, and she has sharp, elongated fangs visible in her wide smile. She holds a wand emitting a red, magical glow in her right hand. Around her neck is an ornate, black choker with a red gemstone pendant. The background is a dark, misty forest with silhouettes of bats flying, adding to the mystical and eerie atmosphere. The overall color palette is dominated by dark tones with red accents, enhancing the supernatural theme of the image.
-```
-
-[Source](https://prompthero.com/prompt/bc89d63da26-stable-diffusion-xl-base-09-image-is-a-digital-fantasy-artwork-featuring-a-witch-with-striking-features-the-subject-is-a-woman-with-pale-skin)
-
----
-
-<a id="prompthero-be48d1236d0"></a>
-
-## \(masterpiece, digital art:1\.3\), highly intricate d\.\.\.
-
-<a href="https://cdn.prompthero.com/kou7twmewsxz8pcnp665s0ukqel9-flux-flux-11-pro-ultra-masterpiece-digital-art13-highly-intricate-double-exposure-art-inspired-by-yuumei-close-up-of-a-persons-eye12-superimposed-on-a.jpg"><img src="https://cdn.prompthero.com/kou7twmewsxz8pcnp665s0ukqel9-flux-flux-11-pro-ultra-masterpiece-digital-art13-highly-intricate-double-exposure-art-inspired-by-yuumei-close-up-of-a-persons-eye12-superimposed-on-a.jpg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-(masterpiece, digital art:1.3), highly intricate double exposure art inspired by Yuumei, (close-up of a person's eye:1.2) superimposed on a bustling city street, cyberpunk aesthetic, trending on CGSociety, multiple exposure technique, overlaying textures with glowing holographic elements, technicolour palette, bright city lights illuminating the scene, reminiscent of "The Matrix" film's Pinterest colour scheme, high definition rendering, colourful dream-like atmosphere, elaborate details in the digital art, futuristic and vibrant, captivating visual narrative.
-```
-
-[Source](https://prompthero.com/prompt/be48d1236d0-flux-flux-11-pro-ultra-masterpiece-digital-art13-highly-intricate-double-exposure-art-inspired-by-yuumei-close-up-of-a-persons-eye12-superimposed-on-a)
-
----
-
-<a id="prompthero-be94a3d25e9"></a>
-
-## The Vengeance Of Forgotten
-
-<a href="https://cdn.prompthero.com/78pioeiga0907150bm8k10kofr0z-stable-diffusion-xl-base-09-the-vengeance-of-forgotten.png"><img src="https://cdn.prompthero.com/78pioeiga0907150bm8k10kofr0z-stable-diffusion-xl-base-09-the-vengeance-of-forgotten.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-A dark, imposing figure, partially shrouded in shadow, stands against a vibrant red background. The figure appears to be wearing some form of armor, possibly samurai-inspired, with segmented plates visible on the shoulder and upper arm. The most striking feature is a grotesque mask with small horns or protrusions and empty eye sockets, giving the figure a demonic or otherworldly appearance. The mask and armor are rendered in dark grays and blacks, contrasting sharply with the red background. The overall impression is one of menace and mystery.] [Dark fantasy, horror, concept art] [In the style of artists like Wayne Barlowe or Brom, known for their depictions of dark, fantastical creatures and characters.] [Painting, possibly acrylic or gouache on paper or board. Visible brushstrokes and textured application of paint, especially in the red background. Dark, dramatic lighting with the red background providing a strong contrast to the dark figure. The composition is close-cropped and focused on the figure's upper body, enhancing the sense of imposing presence.
-```
-
-[Source](https://prompthero.com/prompt/be94a3d25e9-stable-diffusion-xl-base-09-the-vengeance-of-forgotten)
-
----
-
-<a id="prompthero-be786c542ab"></a>
-
-## Raged out Magician
-
-<a href="https://cdn.prompthero.com/knnjuh7u2amir576z8e0q2m51peh-stable-diffusion-xl-base-09-raged-out-magician.jpg"><img src="https://cdn.prompthero.com/knnjuh7u2amir576z8e0q2m51peh-stable-diffusion-xl-base-09-raged-out-magician.jpg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-Dark fantasy, shadow knights, (( white and gold plug suit, black smoke in plug suit) ), (burning eyes:1) , (white, gold hooded cloak of leather material) , (fractal art:1.2) , cave background, transparency, caustics, optics, surreal, magic, masterpiece, perfect anatomy, 32k UHD resolution, best quality, highly detailed, photorealistic portrait, professional photography, cinematic angle, reflection lights, 8k sharp focus
-```
-
-By [@Atheist](https://prompthero.com/prompt/be786c542ab-stable-diffusion-xl-base-09-raged-out-magician)
-
----
 
 <a id="prompthero-bf61311dfdf"></a>
 
@@ -262,22 +198,6 @@ A Renaissance-style painting influenced by Caravaggio and Banksy with subtle ele
 
 ---
 
-<a id="prompthero-cfdd6ef42e3"></a>
-
-## Lord Shiva, Indian mythology, one piece character,\.\.\.
-
-<a href="https://cdn.prompthero.com/q38crmtmajza7v1p09ngxf1v7zdi-midjourney-51-lord-shiva-indian-mythology-one-piece-character-symmetric-body-wielding-a-trishula-full-body-extremely-detailed-cinematic-lighting-high-contrast.png"><img src="https://cdn.prompthero.com/q38crmtmajza7v1p09ngxf1v7zdi-midjourney-51-lord-shiva-indian-mythology-one-piece-character-symmetric-body-wielding-a-trishula-full-body-extremely-detailed-cinematic-lighting-high-contrast.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-Lord Shiva, Indian mythology, one piece character, symmetric body, wielding a trishula, full body, extremely detailed, cinematic lighting, high contrast, artstation, character concept art, 8K:: background flames --q 2 --v 4 --stylize 600 --ar 9:16 --s 750 --v 5.1
-```
-
-By [@NorthmoorAI](https://prompthero.com/prompt/cfdd6ef42e3-midjourney-51-lord-shiva-indian-mythology-one-piece-character-symmetric-body-wielding-a-trishula-full-body-extremely-detailed-cinematic-lighting-high-contrast)
-
----
-
 <a id="prompthero-d1a18e7e9c9"></a>
 
 ## full body view of Young Samurai with long black ha\.\.\.
@@ -326,6 +246,86 @@ A moody, hyper realistic and, cinematic scene of (((young))) woman sitting on a 
 
 ---
 
-[1](creative-art.md) · [2](creative-art-2.md) · [3](creative-art-3.md) · [4](creative-art-4.md) · [5](creative-art-5.md) · [6](creative-art-6.md) · [7](creative-art-7.md) · [8](creative-art-8.md) · [9](creative-art-9.md) · [10](creative-art-10.md) · **11** · [12](creative-art-12.md) · [13](creative-art-13.md) · [14](creative-art-14.md)
+<a id="prompthero-d30c0025bb7"></a>
+
+## Create an imaginative scene depicting a surreal be\.\.\.
+
+<a href="https://cdn.prompthero.com/hv3kpg3shknl52odmidx6umi5z2s-flux-flux-11-pro-create-an-imaginative-scene-depicting-a-surreal-beach-landscape-in-the-foreground-a-female-figure-with-delicate-features-is-seated.jpg"><img src="https://cdn.prompthero.com/hv3kpg3shknl52odmidx6umi5z2s-flux-flux-11-pro-create-an-imaginative-scene-depicting-a-surreal-beach-landscape-in-the-foreground-a-female-figure-with-delicate-features-is-seated.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+Create an imaginative scene depicting a surreal beach landscape. In the foreground, a female figure with delicate features is seated on the sandy shore, elegantly playing a large cello. She has a pale skin tone and sharp, refined facial features, including striking eyes with a hint of curiosity. Her hair is styled in a vibrant orange color, featuring whimsical curls and a decorative horn-like shape on top, adorned with golden embellishments. Her outfit flows beautifully, consisting of a rich golden gown with intricate patterns, accentuated by a flowing red cloak that adds a dramatic touch to her appearance. The gown billows around her as she plays, merging with the golden sand. In the background, the ocean glistens under a moody sky filled with fluffy, pastel clouds that suggest an impending change in weather. To the right, a mythical white unicorn stands calmly on the shore, gazing towards the ocean, adding an element of fantasy to the scene. The overall atmosphere is dreamlike, blending elements of reality and imagination, with soft waves lapping at the shoreline and the gentle sound of music resonating through the environment. In the style of Michael Cheval, Michael Whelan, Alex Alemany, Renoir, Dali, surreal, vivid colors, masterpiece, best quality AI art, diffuse lighting, ambient occlusion, Polished, Masterful Surrealism, Photorealistic, unreal engine, 128K, UHD, crisp quality, light reflections, RHADS, atmospheric, 3D texture, 3D shading, ultra 3-dimensional effect, volumetric lighting, highest quality AI art, pencil sharp edges, rich texture and color, clear, ultra-real, soft glow, psychedelic
+```
+
+[Source](https://prompthero.com/prompt/d30c0025bb7-flux-flux-11-pro-create-an-imaginative-scene-depicting-a-surreal-beach-landscape-in-the-foreground-a-female-figure-with-delicate-features-is-seated)
+
+---
+
+<a id="prompthero-d043bf22242"></a>
+
+## A close-up of a heavily rusted Iron Man helmet lyi\.\.\.
+
+<a href="https://cdn.prompthero.com/a39dqq4hm8a1l6jmcdm311ea8amr-flux-flux-11-pro-ultra-a-close-up-of-a-heavily-rusted-iron-man-helmet-lying-abandoned-on-the-ground-in-a-dense-overgrown-jungle.png"><img src="https://cdn.prompthero.com/a39dqq4hm8a1l6jmcdm311ea8amr-flux-flux-11-pro-ultra-a-close-up-of-a-heavily-rusted-iron-man-helmet-lying-abandoned-on-the-ground-in-a-dense-overgrown-jungle.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+A close-up of a heavily rusted Iron Man helmet lying abandoned on the ground in a dense, overgrown jungle. Vines and thick roots have wrapped around the suit, partially covering it with moss and foliage. The once-bright red and gold armor is now corroded, with chipped paint and deep rust marks. The arc reactor on the chest is barely glowing, flickering faintly, almost extinguished. The jungle floor is damp and covered in fallen leaves, with mist rising in the background. Soft, diffused lighting filters through the thick canopy, casting eerie shadows on the forgotten relic. cinematic, hyper realism, high detail, octane render, 8k
+```
+
+[Source](https://prompthero.com/prompt/d043bf22242-flux-flux-11-pro-ultra-a-close-up-of-a-heavily-rusted-iron-man-helmet-lying-abandoned-on-the-ground-in-a-dense-overgrown-jungle)
+
+---
+
+<a id="prompthero-d92d09de6ff"></a>
+
+## A regal figure, adorned in a golden skull mask wit\.\.\.
+
+<a href="https://cdn.prompthero.com/c9j2apm9w1iv10xgr92szrbp9r-juggernaut-v15-chaos-born-from-the-void-of-nothing-a-regal-figure-adorned-in-a-golden-skull-mask-with-intricate-filigree-details-wearing-a-flowing-sheer-golden-gown-embellished.jpeg"><img src="https://cdn.prompthero.com/c9j2apm9w1iv10xgr92szrbp9r-juggernaut-v15-chaos-born-from-the-void-of-nothing-a-regal-figure-adorned-in-a-golden-skull-mask-with-intricate-filigree-details-wearing-a-flowing-sheer-golden-gown-embellished.jpeg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+A regal figure, adorned in a golden skull mask with intricate filigree details, wearing a flowing, sheer golden gown, embellished with delicate golden embroidery and accents. The mask is the focal point, with a skull design, adding an element of macabre beauty. The gown drapes elegantly, creating movement and highlighting the figure's form. The background is a soft, textured gray, providing a subtle contrast to the golden hues. The overall aesthetic is one of ethereal elegance and otherworldly charm, inspired by fantasy and gothic art, with a touch of Venetian masquerade. The image is rendered with a painterly style, utilizing soft lighting and careful attention to detail to create a visually stunning artwork, masterpiece, highly detailed, octane render, 8k.
+```
+
+[Source](https://prompthero.com/prompt/d92d09de6ff-juggernaut-v15-chaos-born-from-the-void-of-nothing-a-regal-figure-adorned-in-a-golden-skull-mask-with-intricate-filigree-details-wearing-a-flowing-sheer-golden-gown-embellished)
+
+---
+
+<a id="prompthero-d5572a23f8c"></a>
+
+## gothic illuminated anthropomorphic creature, full \.\.\.
+
+<a href="https://cdn.prompthero.com/ti00noe7czkgl7oaix80mbbkx9xp-midjourney-52-gothic-illuminated-anthropomorphic-creature-full-body-in-a-bioluminescent-forest-surreal-atmosphere-epic-fluorescent-haunting-creepy-horror-dark-intricate-design.png"><img src="https://cdn.prompthero.com/ti00noe7czkgl7oaix80mbbkx9xp-midjourney-52-gothic-illuminated-anthropomorphic-creature-full-body-in-a-bioluminescent-forest-surreal-atmosphere-epic-fluorescent-haunting-creepy-horror-dark-intricate-design.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+gothic illuminated anthropomorphic creature, full body,  in a Bioluminescent Forest, surreal atmosphere, epic, fluorescent, haunting, creepy, horror, dark, intricate design and details, dramatic lighting, photorealistic, cinematic, 8k, --ar 9:16
+```
+
+[Source](https://prompthero.com/prompt/d5572a23f8c-midjourney-52-gothic-illuminated-anthropomorphic-creature-full-body-in-a-bioluminescent-forest-surreal-atmosphere-epic-fluorescent-haunting-creepy-horror-dark-intricate-design)
+
+---
+
+<a id="prompthero-d28403c7b55"></a>
+
+## A hyperrealistic, exquisite photo of an unexpected\.\.\.
+
+<a href="https://cdn.prompthero.com/9hg2ho503e4cxwcx57abw3dh9tss-flux-flux-11-pro-a-hyperrealistic-exquisite-photo-of-an-unexpected-moment-caught-perfectly-along-the-sun-drenched-shores-of-santorini-where-pristine-white.jpg"><img src="https://cdn.prompthero.com/9hg2ho503e4cxwcx57abw3dh9tss-flux-flux-11-pro-a-hyperrealistic-exquisite-photo-of-an-unexpected-moment-caught-perfectly-along-the-sun-drenched-shores-of-santorini-where-pristine-white.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+A hyperrealistic, exquisite photo of an unexpected moment caught perfectly: Along the sun-drenched shores of Santorini, where pristine white buildings and cobalt domes meet the endless Aegean Sea, a colossal hand appears against a clear blue sky flecked with soft, cottony clouds. This giant hand, with its lifelike texture and subtle shadows, holds an oversized ice cream cone piled high with pastel-hued scoops. In a moment of delightful absurdity, the hand tilts the cone, allowing a cascade of melting ice cream to flow gracefully over the terracotta rooftops of the picturesque village below. The sweet, slowly dripping cascade creates intricate patterns on the ancient walls, which shimmer under the gentle summer-spring light. Along the narrow cobblestone streets, locals and tourists alike--clad in breezy summer clothes--gawk in stunned amusement, their faces reflecting a blend of shock and childlike delight. Every element of the scene, from the delicate texture of the melting ice cream to the intricate details of the village architecture, is rendered in exquisite photorealistic detail, turning an ordinary Mediterranean day into a surreal celebration of whimsy and flavor.
+```
+
+By [@chorlo](https://prompthero.com/prompt/d28403c7b55-flux-flux-11-pro-a-hyperrealistic-exquisite-photo-of-an-unexpected-moment-caught-perfectly-along-the-sun-drenched-shores-of-santorini-where-pristine-white)
+
+---
+
+[1](creative-art.md) · [2](creative-art-2.md) · [3](creative-art-3.md) · [4](creative-art-4.md) · [5](creative-art-5.md) · [6](creative-art-6.md) · [7](creative-art-7.md) · [8](creative-art-8.md) · [9](creative-art-9.md) · [10](creative-art-10.md) · **11** · [12](creative-art-12.md) · [13](creative-art-13.md)
 
 [← Home](../README.md)

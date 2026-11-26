@@ -4,16 +4,16 @@ Generated from source JSON. Classification is heuristic and provisional; complet
 
 - Source cases: 2103
 - Unique cases: 2041
-- Gallery cases: 1940
+- Gallery cases: 1904
 - Duplicate records excluded: 62 (51 previously visible)
-- Unique cases withheld for missing content: 101 (includes manual exclusions)
-- Manually excluded source records: 107
+- Unique cases withheld for missing content: 137 (includes manual exclusions)
+- Manually excluded source records: 143
 - Rights pending: 2091
 
 ## Gallery groups
 
-- reference: 195
-- generation: 1745
+- reference: 194
+- generation: 1710
 
 ## Internal operation classification
 
@@ -24,19 +24,19 @@ Generated from source JSON. Classification is heuristic and provisional; complet
 | editing/object-removal | 1 |
 | editing/object-replacement | 1 |
 | editing/outfit-change | 3 |
-| editing/portrait-editing | 6 |
+| editing/portrait-editing | 5 |
 | editing/restyle | 18 |
-| generation/architecture | 52 |
+| generation/architecture | 50 |
 | generation/avatars | 11 |
-| generation/characters | 139 |
+| generation/characters | 138 |
 | generation/comics-storyboards | 24 |
-| generation/creative-art | 274 |
-| generation/illustrations | 227 |
+| generation/creative-art | 266 |
+| generation/illustrations | 221 |
 | generation/infographics | 55 |
 | generation/logos | 28 |
 | generation/other | 48 |
-| generation/portraits | 751 |
-| generation/posters | 155 |
+| generation/portraits | 734 |
+| generation/posters | 154 |
 | generation/products | 51 |
 | generation/travel | 59 |
 | generation/ui-mockups | 29 |
@@ -44,9 +44,9 @@ Generated from source JSON. Classification is heuristic and provisional; complet
 ## Input modes
 
 - reference-to-image: 158
-- text-to-image: 1541
-- unknown: 204
-- image-editing: 37
+- text-to-image: 1507
+- unknown: 203
+- image-editing: 36
 
 ## Review flags
 
@@ -57,7 +57,7 @@ Generated from source JSON. Classification is heuristic and provisional; complet
 - duplicate-excluded: 62
 - generic-title-review: 98
 - input-mode-review: 237
-- manual-excluded: 107
+- manual-excluded: 143
 - missing-image-url: 3
 - missing-original-post-url: 180
 - missing-original-prompt: 2
@@ -126,6 +126,8 @@ Generated from source JSON. Classification is heuristic and provisional; complet
 - [evolink-illustration-case-153](https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/illustration.md#illustration-case-153): manual-excluded
 - [evolink-illustration-case-159](https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/illustration.md#illustration-case-159): manual-excluded
 - [evolink-illustration-case-160](https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/illustration.md#illustration-case-160): manual-excluded
+- [evolink-illustration-case-168](https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/illustration.md#illustration-case-168): manual-excluded
+- [evolink-portraits-case-39](https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/portraits.md#portraits-case-39): manual-excluded
 - [evolink-sequential-art-case-242](https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/sequential-art.md#sequential-art-case-242): manual-excluded
 - [evolink-sequential-art-case-244](https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/sequential-art.md#sequential-art-case-244): manual-excluded
 - [evolink-sequential-art-case-246](https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/sequential-art.md#sequential-art-case-246): manual-excluded
@@ -133,6 +135,8 @@ Generated from source JSON. Classification is heuristic and provisional; complet
 - [evolink-sequential-art-case-248](https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/sequential-art.md#sequential-art-case-248): manual-excluded
 - [evolink-sequential-art-case-249](https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/sequential-art.md#sequential-art-case-249): manual-excluded
 - [evolink-sequential-art-case-250](https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/sequential-art.md#sequential-art-case-250): manual-excluded
+- [evolink-travel-journals-case-215](https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/travel-journals.md#travel-journals-case-215): manual-excluded
+- [evolink-travel-journals-case-217](https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/travel-journals.md#travel-journals-case-217): manual-excluded
 - [evolink-travel-journals-case-230](https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/travel-journals.md#travel-journals-case-230): manual-excluded
 - [freestylefly-case-2](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-2): missing-original-post-url, manual-excluded
 - [freestylefly-case-13](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-13): missing-original-post-url, manual-excluded
@@ -166,6 +170,38 @@ Generated from source JSON. Classification is heuristic and provisional; complet
 - [freestylefly-case-280](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-280): missing-original-post-url, manual-excluded
 - [freestylefly-case-335](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-335): missing-original-prompt, missing-original-post-url
 - [freestylefly-case-336](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-336): missing-original-prompt, missing-original-post-url
+- [prompthero-02b087a52fa](https://prompthero.com/prompt/02b087a52fa-chilloutmix-chilloutmix-ni-pruned-fp32-fix-1-girl-beautiful-korean-girl-cute-loose-bob-hair-wearing-a-cropped-hoodie-capri-sweatpants-high-hills15-red-lips-small): manual-excluded
+- [prompthero-2c7973a4a8c](https://prompthero.com/prompt/2c7973a4a8c-midjourney-6-mid-sized-living-room-with-a-candid-angle-dieter-rams-620-chair-program-flos-arco-floor-lamp-nikon-z6-ii): manual-excluded
+- [prompthero-3dd85cc4e51](https://prompthero.com/prompt/3dd85cc4e51-flux-flux-11-pro-photo-portrait-of-a-woman-wearing-a-skull-and-bone-mask-in-the-style-of-rose-gold-and-white-looking): manual-excluded
+- [prompthero-3e20f16cfe9](https://prompthero.com/prompt/3e20f16cfe9-midjourney-6-exterior-scene): manual-excluded
+- [prompthero-7e3574b18fd](https://prompthero.com/prompt/7e3574b18fd-stable-diffusion-15-1-girl-beautiful-korean-girl-cute-loose-bob-hair-wearing-a-cropped-hoodie-capri-sweatpants15-hands-in-pockets15-red-lips13): manual-excluded
+- [prompthero-13ebfb0bf78](https://prompthero.com/prompt/13ebfb0bf78-midjourney-51-codename-necromancer): manual-excluded
+- [prompthero-47f275a2c8e](https://prompthero.com/prompt/47f275a2c8e-flux-dev-a-moody-hyper-realistic-and-cinematic-scene-of-a-woman-seated-on-a-wooden-floor-in-a-dimly-lit-room): manual-excluded
+- [prompthero-53f29c4e0ac](https://prompthero.com/prompt/53f29c4e0ac-flux-pro-nano-banana-pro-full-length-editorial-fashion-photograph-of-a-long-legged-woman-standing-against-a-minimalist-white-wall-she): manual-excluded
+- [prompthero-66a2b65df89](https://prompthero.com/prompt/66a2b65df89-midjourney-6-fashion-photography-professional-man-model-shot-with-canon-eos-r3-50mm-f12-rf-lens-f28-settings-1160s-iso-1600-gradient): manual-excluded
+- [prompthero-083bba40e58](https://prompthero.com/prompt/083bba40e58-flux-flux1-dev-digital-artwork-concept-art-a-female-ninja-with-prompt-hero-logo-on-her-chest-standing-on-rooftop-with-a-dark): manual-excluded
+- [prompthero-96ec4368edf](https://prompthero.com/prompt/96ec4368edf-midjourney-6-the-woman-in-the-field-is-dressed-for-the-camera-in-the-style-of-daria-endresen-kris-knight-scottish-landscapes): manual-excluded
+- [prompthero-121e3844167](https://prompthero.com/prompt/121e3844167-midjourney-52-photo-of-angel-gabriel-an-exquisite-portrait-of-angel-gabriel-in-his-celestial-form-the-image-capturing-his-flawless-skin): manual-excluded
+- [prompthero-221c8121a4f](https://prompthero.com/prompt/221c8121a4f-midjourney-52-general-view-of-a-man-and-a-woman-wearing-futuristic-uniforms-inside-the-interior-of-a-spaceship-with-some-windows): manual-excluded
+- [prompthero-0329ff3fd5b](https://prompthero.com/prompt/0329ff3fd5b-midjourney-51-sugar-sprinkles-graham): manual-excluded
+- [prompthero-907c202d7d1](https://prompthero.com/prompt/907c202d7d1-midjourney-6-camouflage-couch): manual-excluded
+- [prompthero-4500233a013](https://prompthero.com/prompt/4500233a013-midjourney-niji-v6-in-this-fantastic-scene-a-full-body-taylor-swift-american-footballer-toddler-is-wearing-red-and-gold-kansa-city-uniform): manual-excluded
+- [prompthero-304810840db](https://prompthero.com/prompt/304810840db-stable-diffusion-2-base-crimson-soldier): manual-excluded
+- [prompthero-5009403378a](https://prompthero.com/prompt/5009403378a-midjourney-61-glitch-art-with-linear-distortion-horizontal-scan-lines-and-digital-interference-vertical-portrait-of-single-human-silhouette-minimal-grey-background): manual-excluded
+- [prompthero-a7e59376ba2](https://prompthero.com/prompt/a7e59376ba2-midjourney-niji-v6-dragon-ball-portrait-of-goku-in-the-style-of-street-art-aesthetic-cute-cartoonish-designs-photo-realistic-techniques-dark-red): manual-excluded
+- [prompthero-a285dcdc873](https://prompthero.com/prompt/a285dcdc873-flux-flux1-schnell-fine-art-photograph-a-supermodel-woman-in-her-early-twenties-refined-facial-features-graceful-and-elegant-amidst-thick-fog-soft): manual-excluded
+- [prompthero-b91e4b308d6](https://prompthero.com/prompt/b91e4b308d6-stable-diffusion-35-large-sub-zero-from-mortal-kombat-skull-face-cold-white-dull-lifeless-eyes-very-scary-character-close-up-ink-artistic-conception): manual-excluded
+- [prompthero-cfdd6ef42e3](https://prompthero.com/prompt/cfdd6ef42e3-midjourney-51-lord-shiva-indian-mythology-one-piece-character-symmetric-body-wielding-a-trishula-full-body-extremely-detailed-cinematic-lighting-high-contrast): manual-excluded
+- [prompthero-d6b42afab22](https://prompthero.com/prompt/d6b42afab22-midjourney-6-model-portrait): manual-excluded
+- [prompthero-d27a02b0e0d](https://prompthero.com/prompt/d27a02b0e0d-hero-10-picture-a-dog-portrayed-with-the-artistic-essence-of-qi-baishis-renowned-brushwork-the-dogs-form-is-captured-through-fluid): manual-excluded
+- [prompthero-d58b375975e](https://prompthero.com/prompt/d58b375975e-deliberate-11-a-silhouette-design-of-a-black-panther-moonlight-design-t-shirt-art-3d-vector-art-cute-and-quirky-bright-bold): manual-excluded
+- [prompthero-d86bd177e46](https://prompthero.com/prompt/d86bd177e46-seedream-5-seedream-5-pro-photography-portrait-of-contrast-profile-silhouette-of-a-bear-vibrant-hot-pink-backdrop-visualize-using-a-camera-setup-that-mimics): manual-excluded
+- [prompthero-dc66f12f3cd](https://prompthero.com/prompt/dc66f12f3cd-flux-flux1-dev-cute-baby-cat-with-huge-eyes-sad-eyes-holding-a-flat-lay-mockup-of-a-futuristic-metal-sign-with-text): manual-excluded
+- [prompthero-e35522ac220](https://prompthero.com/prompt/e35522ac220-midjourney-6-a-high-resolution-image-that-captures-the-essence-of-a-dynamic-character-in-a-futuristic-setting-she-is-an-shining): manual-excluded
+- [prompthero-ed6fcad273e](https://prompthero.com/prompt/ed6fcad273e-midjourney-52-the-man-in-the-field-is-dressed-for-the-camera-in-the-style-of-daria-endresen-kris-knight-scottish-landscapes): manual-excluded
+- [prompthero-f0c46c9ce69](https://prompthero.com/prompt/f0c46c9ce69-stable-diffusion-xl-base-09-epic-digital-wallpaper-of-a-brutal-cyborg-samurai-in-black-tech-armor-alone-no-face-intricate-armor-night-rainy-epic): manual-excluded
+- [prompthero-f0df2fdf530](https://prompthero.com/prompt/f0df2fdf530-midjourney-6-chroma-portrait): manual-excluded
+- [prompthero-fa81f3cd4ad](https://prompthero.com/prompt/fa81f3cd4ad-midjourney-6-full-prompt-httpspromptbasecompromptchroma-portraits-photography-portrait-of-contrast-profile-silhouette-of-a-man-vibrant-yellow-backdrop-visualize-using-a-camera-setup-that-mimics-a): manual-excluded
 
 ## Duplicate candidates
 

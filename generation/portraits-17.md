@@ -1,92 +1,10 @@
 # portraits
 
-[← Home](../README.md) · Page 17 / 35
+[← Home](../README.md) · Page 17 / 34
 
-[1](portraits.md) · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · [5](portraits-5.md) · [6](portraits-6.md) · [7](portraits-7.md) · [8](portraits-8.md) · [9](portraits-9.md) · [10](portraits-10.md) · [11](portraits-11.md) · [12](portraits-12.md) · [13](portraits-13.md) · [14](portraits-14.md) · [15](portraits-15.md) · [16](portraits-16.md) · **17** · [18](portraits-18.md) · [19](portraits-19.md) · [20](portraits-20.md) · [21](portraits-21.md) · [22](portraits-22.md) · [23](portraits-23.md) · [24](portraits-24.md) · [25](portraits-25.md) · [26](portraits-26.md) · [27](portraits-27.md) · [28](portraits-28.md) · [29](portraits-29.md) · [30](portraits-30.md) · [31](portraits-31.md) · [32](portraits-32.md) · [33](portraits-33.md) · [34](portraits-34.md) · [35](portraits-35.md)
+[1](portraits.md) · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · [5](portraits-5.md) · [6](portraits-6.md) · [7](portraits-7.md) · [8](portraits-8.md) · [9](portraits-9.md) · [10](portraits-10.md) · [11](portraits-11.md) · [12](portraits-12.md) · [13](portraits-13.md) · [14](portraits-14.md) · [15](portraits-15.md) · [16](portraits-16.md) · **17** · [18](portraits-18.md) · [19](portraits-19.md) · [20](portraits-20.md) · [21](portraits-21.md) · [22](portraits-22.md) · [23](portraits-23.md) · [24](portraits-24.md) · [25](portraits-25.md) · [26](portraits-26.md) · [27](portraits-27.md) · [28](portraits-28.md) · [29](portraits-29.md) · [30](portraits-30.md) · [31](portraits-31.md) · [32](portraits-32.md) · [33](portraits-33.md) · [34](portraits-34.md)
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
-
-<a id="prompthero-69ec18fd2ec"></a>
-
-## An illustration of a man walking through the stree\.\.\.
-
-<a href="https://cdn.prompthero.com/nuy67aam8zlru1lkstxhic49yil1-midjourney-61-an-illustration-of-a-man-walking-through-the-streets-with-people-in-ancient-rome-animals-are-carrying-stones-to-form.png"><img src="https://cdn.prompthero.com/nuy67aam8zlru1lkstxhic49yil1-midjourney-61-an-illustration-of-a-man-walking-through-the-streets-with-people-in-ancient-rome-animals-are-carrying-stones-to-form.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-An illustration of a man walking through the streets with people in ancient Rome, Animals are carrying stones to form a circle around him. The scene is set against a backdrop of Roman architecture and statues, in a realistic style. This is a concept art piece in the style of Greg Rutkowski, featuring cinematic lighting, intricate details, high resolution, high detail, sharp focus, super detailed, high quality, and high resolution. --ar 87:128 --style raw --stylize 750
-```
-
-By [@Dallas59](https://prompthero.com/prompt/69ec18fd2ec-midjourney-61-an-illustration-of-a-man-walking-through-the-streets-with-people-in-ancient-rome-animals-are-carrying-stones-to-form)
-
----
-
-<a id="prompthero-70a3f39982c"></a>
-
-## \*\*Image Prompt:\*\*
-
-The background is a mesmerizing\.\.\.
-
-<a href="https://cdn.prompthero.com/05bykqxtplxm11wo0gcm54fjrotc-flux-flux-11-pro-image-prompt-the-background-is-a-mesmerizing-glowing-matrix-grid-in-a-vibrant-light-green-hue-with-cascading-streams-of.jpg"><img src="https://cdn.prompthero.com/05bykqxtplxm11wo0gcm54fjrotc-flux-flux-11-pro-image-prompt-the-background-is-a-mesmerizing-glowing-matrix-grid-in-a-vibrant-light-green-hue-with-cascading-streams-of.jpg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-**Image Prompt:** The background is a mesmerizing, glowing matrix grid in a vibrant light green hue, with cascading streams of digital code flowing vertically and horizontally, creating a futuristic and cyberpunk atmosphere. At the center of the image stands a sleek, confident man wearing a sharp, tailored black suit with a crisp white shirt and a thin black tie. His face is partially obscured by stylish, opaque black sunglasses that reflect faint green lines of code, adding an air of mystery. The lighting is dramatic, with soft neon green highlights illuminating his silhouette, casting subtle shadows on the matrix background. The overall vibe is sleek, high-tech, and enigmatic, evoking a sense of power and sophistication.
-```
-
-[Source](https://prompthero.com/prompt/70a3f39982c-flux-flux-11-pro-image-prompt-the-background-is-a-mesmerizing-glowing-matrix-grid-in-a-vibrant-light-green-hue-with-cascading-streams-of)
-
----
-
-<a id="prompthero-70f1982afa7"></a>
-
-## raw photo captured with Fujifilm GFX 100 II, Etern\.\.\.
-
-<a href="https://cdn.prompthero.com/n40f3034qe99kmlibqlpnv4nej-z-image-turbo-raw-photo-captured-with-fujifilm-gfx-100-ii-eterna-simulation-low-key-lighting-high-contrast-iso-100-with-gf-110mm.png"><img src="https://cdn.prompthero.com/n40f3034qe99kmlibqlpnv4nej-z-image-turbo-raw-photo-captured-with-fujifilm-gfx-100-ii-eterna-simulation-low-key-lighting-high-contrast-iso-100-with-gf-110mm.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-raw photo captured with Fujifilm GFX 100 II, Eterna simulation, low key lighting, high contrast, ISO 100, with GF 110mm f/2 R LM WR lens. Cinematic portrait of a young Turkic Hun warrior priestess in the style of Caravaggio and Rembrandt. The shaman is enveloped in rich earthy tones of deep umber and burnt sienna darkness. Her weathered leather armor, bone-and-feather headdress, and ancient jewelry catch the warm golden glow. Utilizes Natural Colour Solution to render hyper-realistic worn skin textures and life-like tones with a signature creamy bokeh that melts the deep shadows behind her. In those dark shadows, swirling ethereal incense smoke forms a faint, ghostly apparition of a wolf. High contrast, dramatic storytelling, evocative and mysterious mood.
-```
-
-[Source](https://prompthero.com/prompt/70f1982afa7-z-image-turbo-raw-photo-captured-with-fujifilm-gfx-100-ii-eterna-simulation-low-key-lighting-high-contrast-iso-100-with-gf-110mm)
-
----
-
-<a id="prompthero-71ef3c6b89f"></a>
-
-## image of a person enveloped in a shroud-like mater\.\.\.
-
-<a href="https://cdn.prompthero.com/vr273qni0qn2q2agdryrzjx7se4z-midjourney-6-image-of-a-person-enveloped-in-a-shroud-like-material-appears-to-be-merging-with-the-air-around-them-high.png"><img src="https://cdn.prompthero.com/vr273qni0qn2q2agdryrzjx7se4z-midjourney-6-image-of-a-person-enveloped-in-a-shroud-like-material-appears-to-be-merging-with-the-air-around-them-high.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-image of a person enveloped in a shroud-like material, appears to be merging with the air around them, high contrast between the dark background and the bright, glowing texture of the material to give a feeling of emergence or transformation, monochrome shades to enhance the mysterious and intense atmosphere --ar 9:16 --style raw
-```
-
-By [@Grayve](https://prompthero.com/prompt/71ef3c6b89f-midjourney-6-image-of-a-person-enveloped-in-a-shroud-like-material-appears-to-be-merging-with-the-air-around-them-high)
-
----
-
-<a id="prompthero-072d7fd3c00"></a>
-
-## photography, female model, bottom tilt shot, front\.\.\.
-
-<a href="https://cdn.prompthero.com/h2loy9s91cth3ouw6ht10r37om-midjourney-shatter-photography-female-model-bottom-tilt-shot-front-central-composition-full-body-profile-pose-gaze-used-camera-is-canon-eos-r3.png"><img src="https://cdn.prompthero.com/h2loy9s91cth3ouw6ht10r37om-midjourney-shatter-photography-female-model-bottom-tilt-shot-front-central-composition-full-body-profile-pose-gaze-used-camera-is-canon-eos-r3.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-photography, female model, bottom tilt shot, front central composition, full-body profile pose, gaze, used camera is Canon EOS R3, 50mm f/1.2 RF lens, f/2.8 set, 1/160s, iso 100, blue to yellow, street fashion, white short hair, white loose-fit t-shirt, cargo jogger pants, running sneakers, deep atmospheric lighting, low-key, urbanism aesthetic, dramatic contrast, ultra sharp details, photorealistic quality, rich detailing --ar 9:16 --raw --profile otwluoo
-```
-
-By [@Grayve](https://prompthero.com/prompt/072d7fd3c00-midjourney-shatter-photography-female-model-bottom-tilt-shot-front-central-composition-full-body-profile-pose-gaze-used-camera-is-canon-eos-r3)
-
----
 
 <a id="prompthero-73fd92dfc20"></a>
 
@@ -328,6 +246,86 @@ FlorencePugh3 Half-Up Half-Down: black hair This versatile hairstyle allows you 
 
 ---
 
-[1](portraits.md) · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · [5](portraits-5.md) · [6](portraits-6.md) · [7](portraits-7.md) · [8](portraits-8.md) · [9](portraits-9.md) · [10](portraits-10.md) · [11](portraits-11.md) · [12](portraits-12.md) · [13](portraits-13.md) · [14](portraits-14.md) · [15](portraits-15.md) · [16](portraits-16.md) · **17** · [18](portraits-18.md) · [19](portraits-19.md) · [20](portraits-20.md) · [21](portraits-21.md) · [22](portraits-22.md) · [23](portraits-23.md) · [24](portraits-24.md) · [25](portraits-25.md) · [26](portraits-26.md) · [27](portraits-27.md) · [28](portraits-28.md) · [29](portraits-29.md) · [30](portraits-30.md) · [31](portraits-31.md) · [32](portraits-32.md) · [33](portraits-33.md) · [34](portraits-34.md) · [35](portraits-35.md)
+<a id="prompthero-96db0c5e224"></a>
+
+## Award winning illustration of a mature young man, \.\.\.
+
+<a href="https://cdn.prompthero.com/30l2yo6rbv3nd57oa0a5smaqejcd-dreamshaper-5-baked-vae-nobel-award-winning-illustration-of-a-mature-young-man-black-long-hair-black-eyes-aristocrat-uniform-handsome-stylish-22-perfect-quality.png"><img src="https://cdn.prompthero.com/30l2yo6rbv3nd57oa0a5smaqejcd-dreamshaper-5-baked-vae-nobel-award-winning-illustration-of-a-mature-young-man-black-long-hair-black-eyes-aristocrat-uniform-handsome-stylish-22-perfect-quality.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+Award winning illustration of a mature young man, Black long hair, black eyes, aristocrat, uniform, handsome, stylish, 22, perfect quality, masterpiece, best quality, perfect details, colorful details, animation, illustration, mansion background, 16k, UHD, HDR,(Masterpiece:1.5),(best quality:1.5)
+```
+
+By [@ScArecrow23](https://prompthero.com/prompt/96db0c5e224-dreamshaper-5-baked-vae-nobel-award-winning-illustration-of-a-mature-young-man-black-long-hair-black-eyes-aristocrat-uniform-handsome-stylish-22-perfect-quality)
+
+---
+
+<a id="prompthero-98ca945015d"></a>
+
+## image of a woman with a thoughtful expression, cov\.\.\.
+
+<a href="https://cdn.prompthero.com/jhav0onbrpe68q648uc3kixvv1yy-midjourney-6-image-of-a-woman-with-a-thoughtful-expression-covering-half-of-her-face-with-her-hand-pure-red-background-to.png"><img src="https://cdn.prompthero.com/jhav0onbrpe68q648uc3kixvv1yy-midjourney-6-image-of-a-woman-with-a-thoughtful-expression-covering-half-of-her-face-with-her-hand-pure-red-background-to.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+image of a woman with a thoughtful expression, covering half of her face with her hand, pure red background to emphasize facial details and create a mysterious vibe, realistic, UHD, rich detail --ar 9:16 --v 6
+```
+
+By [@Grayve](https://prompthero.com/prompt/98ca945015d-midjourney-6-image-of-a-woman-with-a-thoughtful-expression-covering-half-of-her-face-with-her-hand-pure-red-background-to)
+
+---
+
+<a id="prompthero-99bf100d134"></a>
+
+## Woman, Sith lord, red eyes, red light saber in rig\.\.\.
+
+<a href="https://cdn.prompthero.com/hmu092nphlzirs4cq225rclze84e-flux-flux-11-pro-woman-sith-lord-red-eyes-red-light-saber-in-right-hand-extend-at-a-45-degree-angle-black-cloak-standing.jpg"><img src="https://cdn.prompthero.com/hmu092nphlzirs4cq225rclze84e-flux-flux-11-pro-woman-sith-lord-red-eyes-red-light-saber-in-right-hand-extend-at-a-45-degree-angle-black-cloak-standing.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+Woman, Sith lord, red eyes, red light saber in right hand extend at a 45 degree angle, black cloak, standing, angry, back to the camera, full body view, Dark spaceship hallway
+```
+
+[Source](https://prompthero.com/prompt/99bf100d134-flux-flux-11-pro-woman-sith-lord-red-eyes-red-light-saber-in-right-hand-extend-at-a-45-degree-angle-black-cloak-standing)
+
+---
+
+<a id="prompthero-99c4106ae1c"></a>
+
+## portrait of a Lumberjack woman with huge beautiful\.\.\.
+
+<a href="https://cdn.prompthero.com/ufkmit2x12gxpn7zkcfamwgokztq-stable-diffusion-xl-base-09-portrait-of-a-lumberjack-woman-with-huge-beautiful-braid-wearing-tight-fitting-outfit-intricate-action-pose-oil-paint-ancient-illuminated.png"><img src="https://cdn.prompthero.com/ufkmit2x12gxpn7zkcfamwgokztq-stable-diffusion-xl-base-09-portrait-of-a-lumberjack-woman-with-huge-beautiful-braid-wearing-tight-fitting-outfit-intricate-action-pose-oil-paint-ancient-illuminated.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+portrait of a Lumberjack woman with huge beautiful braid, wearing tight-fitting outfit, intricate action pose, Oil paint, ancient, illuminated by the light of twilight, with a backdrop of a big oldest house and ancient forest., Mysterious, brilliant art by Allan Jabbar, Yann Dalon, Toni Infante, Amr Elshamy,
+```
+
+[Source](https://prompthero.com/prompt/99c4106ae1c-stable-diffusion-xl-base-09-portrait-of-a-lumberjack-woman-with-huge-beautiful-braid-wearing-tight-fitting-outfit-intricate-action-pose-oil-paint-ancient-illuminated)
+
+---
+
+<a id="prompthero-99df324d537"></a>
+
+## artistic, oil painting, right face composition, po\.\.\.
+
+<a href="https://cdn.prompthero.com/zcvxef7zwaws8lhgq2z3mgawcfni-midjourney-6-artistic-oil-painting-right-face-composition-portrait-of-girl-empty-eyes-gaze-grainy-touch-minimalist-avant-garde-rich-detailing-style.png"><img src="https://cdn.prompthero.com/zcvxef7zwaws8lhgq2z3mgawcfni-midjourney-6-artistic-oil-painting-right-face-composition-portrait-of-girl-empty-eyes-gaze-grainy-touch-minimalist-avant-garde-rich-detailing-style.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+artistic, oil painting, right face composition, portrait of girl, empty eyes, gaze, grainy touch, minimalist avant-garde, rich detailing, style inpired by Diego Velazquez, many knives, rough --ar 9:16 --quality 2 --style raw --personalize ue2yzjl --v 6.1
+```
+
+By [@Grayve](https://prompthero.com/prompt/99df324d537-midjourney-6-artistic-oil-painting-right-face-composition-portrait-of-girl-empty-eyes-gaze-grainy-touch-minimalist-avant-garde-rich-detailing-style)
+
+---
+
+[1](portraits.md) · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · [5](portraits-5.md) · [6](portraits-6.md) · [7](portraits-7.md) · [8](portraits-8.md) · [9](portraits-9.md) · [10](portraits-10.md) · [11](portraits-11.md) · [12](portraits-12.md) · [13](portraits-13.md) · [14](portraits-14.md) · [15](portraits-15.md) · [16](portraits-16.md) · **17** · [18](portraits-18.md) · [19](portraits-19.md) · [20](portraits-20.md) · [21](portraits-21.md) · [22](portraits-22.md) · [23](portraits-23.md) · [24](portraits-24.md) · [25](portraits-25.md) · [26](portraits-26.md) · [27](portraits-27.md) · [28](portraits-28.md) · [29](portraits-29.md) · [30](portraits-30.md) · [31](portraits-31.md) · [32](portraits-32.md) · [33](portraits-33.md) · [34](portraits-34.md)
 
 [← Home](../README.md)

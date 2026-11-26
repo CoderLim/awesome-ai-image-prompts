@@ -6,38 +6,6 @@
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
-<a id="prompthero-229b566d62e"></a>
-
-## acrylic painting, splatter and drip painting techn\.\.\.
-
-<a href="https://cdn.prompthero.com/m4ouoa7dx2o2p9qn2jgo32flpgsb-sd-xl-v10-acrylic-painting-splatter-and-drip-painting-technique-portrait-of-a-smoking-skeleton-side-view-gloomy-epic-composition-dramatic-digital-painting.png"><img src="https://cdn.prompthero.com/m4ouoa7dx2o2p9qn2jgo32flpgsb-sd-xl-v10-acrylic-painting-splatter-and-drip-painting-technique-portrait-of-a-smoking-skeleton-side-view-gloomy-epic-composition-dramatic-digital-painting.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-acrylic painting, splatter and drip painting technique, portrait of a smoking skeleton, side view, gloomy, epic composition, dramatic, digital painting, expressionism, emotionally profound, close up, by tanya shatseva
-```
-
-By [@ArtEnthusiast](https://prompthero.com/prompt/229b566d62e-sd-xl-v10-acrylic-painting-splatter-and-drip-painting-technique-portrait-of-a-smoking-skeleton-side-view-gloomy-epic-composition-dramatic-digital-painting)
-
----
-
-<a id="prompthero-274ff4aa859"></a>
-
-## digital wallpaper portrait of an anonymous, no fac\.\.\.
-
-<a href="https://cdn.prompthero.com/hg6ogvxopndxmgmk1gbv972h6qwx-stable-diffusion-xl-base-09-digital-wallpaper-portrait-of-an-anonymous-no-face-gloomy-background-horror-brutal-majestic-cinematic-dramatic-digital-painting-expressionism-emotionally-profound.png"><img src="https://cdn.prompthero.com/hg6ogvxopndxmgmk1gbv972h6qwx-stable-diffusion-xl-base-09-digital-wallpaper-portrait-of-an-anonymous-no-face-gloomy-background-horror-brutal-majestic-cinematic-dramatic-digital-painting-expressionism-emotionally-profound.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-digital wallpaper portrait of an anonymous, no face, gloomy background, horror, brutal, majestic, cinematic, dramatic, digital painting, expressionism, emotionally profound, close up, unforgettable, high quality
-```
-
-By [@ArtEnthusiast](https://prompthero.com/prompt/274ff4aa859-stable-diffusion-xl-base-09-digital-wallpaper-portrait-of-an-anonymous-no-face-gloomy-background-horror-brutal-majestic-cinematic-dramatic-digital-painting-expressionism-emotionally-profound)
-
----
-
 <a id="prompthero-346de981919"></a>
 
 ## anime character dressed in white and orange jacket\.\.\.
@@ -323,6 +291,38 @@ far view wide angle shot of an uniform astronaut girl, inside spaceship command 
 ```
 
 [Source](https://prompthero.com/prompt/31602a0be0f-stable-diffusion-15-far-view-wide-angle-shot-of-an-uniform-astronaut-girl-inside-spaceship-command-room-viewing-galaxyfar-view-shot-ssci-fi)
+
+---
+
+<a id="prompthero-40027a6637d"></a>
+
+## stunning sketch portrait by Michelangelo, charcoal\.\.\.
+
+<a href="https://cdn.prompthero.com/oq93rt9bfrm51ze870nkaa0t0xyb-midjourney-52-stunning-sketch-portrait-by-michelangelo-charcoal-drawing-face-only-an-absolutely-gorgeous-woman-side-view-ultra-detailed-hint-of-a.png"><img src="https://cdn.prompthero.com/oq93rt9bfrm51ze870nkaa0t0xyb-midjourney-52-stunning-sketch-portrait-by-michelangelo-charcoal-drawing-face-only-an-absolutely-gorgeous-woman-side-view-ultra-detailed-hint-of-a.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+stunning sketch portrait by Michelangelo, charcoal drawing, face only, an absolutely gorgeous woman, side view, ultra-detailed, hint of a smile, no coloring, no color--quality 2 --s 750 --v 5.2
+```
+
+By [@NorthmoorAI](https://prompthero.com/prompt/40027a6637d-midjourney-52-stunning-sketch-portrait-by-michelangelo-charcoal-drawing-face-only-an-absolutely-gorgeous-woman-side-view-ultra-detailed-hint-of-a)
+
+---
+
+<a id="prompthero-43904a9f706"></a>
+
+## a close up of a cartoon character with a bunch of \.\.\.
+
+<a href="https://cdn.prompthero.com/a3nur5key0kn01iz74gnxd5d5gho-rev-animated-v10-a-close-up-of-a-cartoon-character-with-a-bunch-of-skulls-lois-van-baarle-and-rossdraws-beeple-and-jeremiah.png"><img src="https://cdn.prompthero.com/a3nur5key0kn01iz74gnxd5d5gho-rev-animated-v10-a-close-up-of-a-cartoon-character-with-a-bunch-of-skulls-lois-van-baarle-and-rossdraws-beeple-and-jeremiah.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+a close up of a cartoon character with a bunch of skulls, lois van baarle and rossdraws, beeple and jeremiah ketner, artgerm and lois van baarle, adorable digital painting, cute detailed digital art, ross tran style, cute character, loish and ross tran, rossdraws global illumination, cute digital art, 3 d character art
+```
+
+By [@heeyrina](https://prompthero.com/prompt/43904a9f706-rev-animated-v10-a-close-up-of-a-cartoon-character-with-a-bunch-of-skulls-lois-van-baarle-and-rossdraws-beeple-and-jeremiah)
 
 ---
 

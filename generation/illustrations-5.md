@@ -6,22 +6,6 @@
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
-<a id="prompthero-03bd5e77f6c"></a>
-
-## A hyper-realistic digital portrait of a sheep tryi\.\.\.
-
-<a href="https://cdn.prompthero.com/h4cl5vor50q686em2gh8y0lda4x0-flux-flux-kontext-pro-a-hyper-realistic-digital-portrait-of-a-sheep-trying-to-go-to-sleep-in-front-of-the-sheep-are-mini.png"><img src="https://cdn.prompthero.com/h4cl5vor50q686em2gh8y0lda4x0-flux-flux-kontext-pro-a-hyper-realistic-digital-portrait-of-a-sheep-trying-to-go-to-sleep-in-front-of-the-sheep-are-mini.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-A hyper-realistic digital portrait of a sheep trying to go to sleep. In front of the sheep are mini humans jumping a fence while the sheep looks at it trying to goto sleep. The background is a bed on which the sheep is trying to sleep on. The lighting is soft but directional. The style is reminiscent of classical oil painting with meticulous detail and smooth brushwork, but created with digital tools.
-```
-
-[Source](https://prompthero.com/prompt/03bd5e77f6c-flux-flux-kontext-pro-a-hyper-realistic-digital-portrait-of-a-sheep-trying-to-go-to-sleep-in-front-of-the-sheep-are-mini)
-
----
-
 <a id="prompthero-3c7b6305b5b"></a>
 
 ## A breathtaking photorealistic digital painting of \.\.\.
@@ -246,22 +230,6 @@ Gen z man and woman , walking in different directions, wearing street style clot
 
 ---
 
-<a id="prompthero-7e3574b18fd"></a>
-
-## 1 girl, beautiful Korean girl, \(Cute Loose Bob hai\.\.\.
-
-<a href="https://cdn.prompthero.com/8oxlrjoepy2lk8he0nx972rgw020-stable-diffusion-15-1-girl-beautiful-korean-girl-cute-loose-bob-hair-wearing-a-cropped-hoodie-capri-sweatpants15-hands-in-pockets15-red-lips13.png"><img src="https://cdn.prompthero.com/8oxlrjoepy2lk8he0nx972rgw020-stable-diffusion-15-1-girl-beautiful-korean-girl-cute-loose-bob-hair-wearing-a-cropped-hoodie-capri-sweatpants15-hands-in-pockets15-red-lips13.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-1 girl, beautiful Korean girl, (Cute Loose Bob hair), (wearing a cropped hoodie, capri sweatpants:1.5), (hands in pockets:1.5), (red lips:1.3), (small breasts:1.3), (toned stomach:1.3), (eyelashes:1.2), (aegyo sal:1.2), beautiful detailed eyes, symmetrical eyes, (detailed face), immersive background, volumetric haze, global illumination, soft lighting, (flowing hair), (bright smile), natural lighting, (realistic:1.5), (lifelike:1.4), (4k, digital art, masterpiece), High detail digital painting, realistic, (top quality), (soft shadows), (best character art), ultra-high resolution, highly detailed digital artwork, physically-based rendering, realism with an artistic touch, vibrant colors, f2.2 lens, soft palette, natural beauty.
-```
-
-[Source](https://prompthero.com/prompt/7e3574b18fd-stable-diffusion-15-1-girl-beautiful-korean-girl-cute-loose-bob-hair-wearing-a-cropped-hoodie-capri-sweatpants15-hands-in-pockets15-red-lips13)
-
----
-
 <a id="prompthero-8a3f7dafc88"></a>
 
 ## anime full body Symbolist ink wash painting of a 2\.\.\.
@@ -323,6 +291,38 @@ An illustration , character detailed, decor detailed, which has several characte
 ```
 
 [Source](https://prompthero.com/prompt/8d7cc7f2810-anything-40-an-illustration-character-detailed-decor-detailed-which-has-several-characters-on-the-cover-kitsune-nekomata-tengu-oni-tanuki-yuki-onna)
+
+---
+
+<a id="prompthero-8dac2bfa681"></a>
+
+## A large 3D glossy Arabic letter &quot;أ&quot; \(Alif with ham\.\.\.
+
+<a href="https://cdn.prompthero.com/vnjp1kikr7o4xgmhm9pfdlbfg6-hero-10-a-large-3d-glossy-arabic-letter-alif-with-hamza-above-designed-in-a-soft-gummy-toy-style-the-letter-is.jpeg"><img src="https://cdn.prompthero.com/vnjp1kikr7o4xgmhm9pfdlbfg6-hero-10-a-large-3d-glossy-arabic-letter-alif-with-hamza-above-designed-in-a-soft-gummy-toy-style-the-letter-is.jpeg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+A large 3D glossy Arabic letter "أ" (Alif with hamza above), designed in a soft gummy toy style. The letter is smooth, rounded, and slightly inflated, with warm golden-orange color, shiny highlights, and soft reflections. Minimal cute design, centered composition, pastel background with soft star shapes, studio lighting, high detail, Pixar-style 3D render, clean and child-friendly educational illustration, 4k resolution.
+```
+
+[Source](https://prompthero.com/prompt/8dac2bfa681-hero-10-a-large-3d-glossy-arabic-letter-alif-with-hamza-above-designed-in-a-soft-gummy-toy-style-the-letter-is)
+
+---
+
+<a id="prompthero-009c570f8a0"></a>
+
+## simple pencil sketch by Odilon Redon, face only, a\.\.\.
+
+<a href="https://cdn.prompthero.com/16feb40i33ujbmgg5vocisanweg2-midjourney-61-simple-pencil-sketch-by-odilon-redon-face-only-a-gorgeous-asian-woman-side-angle-hint-of-a-smile-noticeable-charcoal.png"><img src="https://cdn.prompthero.com/16feb40i33ujbmgg5vocisanweg2-midjourney-61-simple-pencil-sketch-by-odilon-redon-face-only-a-gorgeous-asian-woman-side-angle-hint-of-a-smile-noticeable-charcoal.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+simple pencil sketch by Odilon Redon, face only, a gorgeous Asian woman, side angle, hint of a smile, noticeable charcoal marks, white background, no coloring, no color --chaos 75 --ar 1:2 --stylize 750 --v 7
+```
+
+By [@NorthmoorAI](https://prompthero.com/prompt/009c570f8a0-midjourney-61-simple-pencil-sketch-by-odilon-redon-face-only-a-gorgeous-asian-woman-side-angle-hint-of-a-smile-noticeable-charcoal)
 
 ---
 

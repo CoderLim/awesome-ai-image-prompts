@@ -1,74 +1,10 @@
 # creative art
 
-[← Home](../README.md) · Page 10 / 14
+[← Home](../README.md) · Page 10 / 13
 
-[1](creative-art.md) · [2](creative-art-2.md) · [3](creative-art-3.md) · [4](creative-art-4.md) · [5](creative-art-5.md) · [6](creative-art-6.md) · [7](creative-art-7.md) · [8](creative-art-8.md) · [9](creative-art-9.md) · **10** · [11](creative-art-11.md) · [12](creative-art-12.md) · [13](creative-art-13.md) · [14](creative-art-14.md)
+[1](creative-art.md) · [2](creative-art-2.md) · [3](creative-art-3.md) · [4](creative-art-4.md) · [5](creative-art-5.md) · [6](creative-art-6.md) · [7](creative-art-7.md) · [8](creative-art-8.md) · [9](creative-art-9.md) · **10** · [11](creative-art-11.md) · [12](creative-art-12.md) · [13](creative-art-13.md)
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
-
-<a id="prompthero-ac56ab79457"></a>
-
-## A Girl Shining silver short hair peeking from unde\.\.\.
-
-<a href="https://cdn.prompthero.com/u82i9kkvyj5bn01agk279dkk1bdy-flux-flux-11-pro-a-girl-shining-silver-short-hair-peeking-from-under-a-stylish-hooded-red-jacket-short-jeans-barefoot-battling-a-giant.jpg"><img src="https://cdn.prompthero.com/u82i9kkvyj5bn01agk279dkk1bdy-flux-flux-11-pro-a-girl-shining-silver-short-hair-peeking-from-under-a-stylish-hooded-red-jacket-short-jeans-barefoot-battling-a-giant.jpg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-A Girl Shining silver short hair peeking from under a stylish hooded red jacket, short jeans, barefoot, battling a giant monster in a post-apocalyptic with strange energy emanating from girl hands world cover, hyperdetailed painting, luminism, octane render, Bar lighting, complex, 8k resolution concept art portrait by Martina Fačková and Prywinko Art, Artgerm, WLOP, Alphonse Mucha, Tony Taka, fractal isometrics details bioluminescence, hypereallistic cover photo awesome full color, hand drawn, bright, gritty, realistic, davinci, erte .12k, intricate. hit definition , cinematic,Rough sketch, mix of bold dark lines and loose lines, bold lines, on paper , real life human
-```
-
-[Source](https://prompthero.com/prompt/ac56ab79457-flux-flux-11-pro-a-girl-shining-silver-short-hair-peeking-from-under-a-stylish-hooded-red-jacket-short-jeans-barefoot-battling-a-giant)
-
----
-
-<a id="prompthero-adbb3c136d7"></a>
-
-## Sci professional artwork, ultra-fine 3D details, f\.\.\.
-
-<a href="https://cdn.prompthero.com/z43dkl1yhi9nhxqwk73fu3bvvoav-flux-flux-11-pro-ultra-sci-professional-artwork-ultra-fine-3d-details-full-body-archangel-wings-open-pointing-totally-upward-in-the-sky-hyper-realistic.jpg"><img src="https://cdn.prompthero.com/z43dkl1yhi9nhxqwk73fu3bvvoav-flux-flux-11-pro-ultra-sci-professional-artwork-ultra-fine-3d-details-full-body-archangel-wings-open-pointing-totally-upward-in-the-sky-hyper-realistic.jpg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-Sci professional artwork, ultra-fine 3D details, full body archangel wings open, pointing totally upward in the sky, hyper-realistic fully detailed in pure white   , sci-fi realism, airbrush art. A stunningly realistic 3D alcohol ink double exposure illustration, where the main image is a full-length facing of a beautiful futuristic woman, flowing silvery blonde hair, deep gray eyes, showing black parts with human body skin, with intricate details and a long exposure celestial backdrop that melds together in a softly blended double exposure effect. The interplay of colors and iridescent patterns creates a surreal optical illusion, with a turquoise angel female figure with flowing golden hair and feathery wings whose futuristic gem-ornamented detailed armor and extremely long, flowing hair blend seamlessly with the ethereal surroundings. The overall atmosphere exudes an air of fantasy andment that makes the piece a masterful artistry.
-```
-
-[Source](https://prompthero.com/prompt/adbb3c136d7-flux-flux-11-pro-ultra-sci-professional-artwork-ultra-fine-3d-details-full-body-archangel-wings-open-pointing-totally-upward-in-the-sky-hyper-realistic)
-
----
-
-<a id="prompthero-ade84d9f7bc"></a>
-
-## dark haired woman is standing in front of orange l\.\.\.
-
-<a href="https://cdn.prompthero.com/d4chtedlq3da0i8guujuceqf8mye-stable-diffusion-2-base-dark-haired-woman-is-standing-in-front-of-orange-light-in-glossy-transparent-plastic-futuristic-raincoat-short-hair-volumetric-lighting.png"><img src="https://cdn.prompthero.com/d4chtedlq3da0i8guujuceqf8mye-stable-diffusion-2-base-dark-haired-woman-is-standing-in-front-of-orange-light-in-glossy-transparent-plastic-futuristic-raincoat-short-hair-volumetric-lighting.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-dark haired woman is standing in front of orange light, in glossy transparent plastic futuristic raincoat, short hair, volumetric lighting, cinematic angle, glamour vibrant,
-```
-
-[Source](https://prompthero.com/prompt/ade84d9f7bc-stable-diffusion-2-base-dark-haired-woman-is-standing-in-front-of-orange-light-in-glossy-transparent-plastic-futuristic-raincoat-short-hair-volumetric-lighting)
-
----
-
-<a id="prompthero-af8b127ccfc"></a>
-
-## Japanese Oni Mask
-
-<a href="https://cdn.prompthero.com/4z0p2alxmw75kkujrkbx39yt5o9r-stable-diffusion-xl-base-09-japanese-oni-mask.jpg"><img src="https://cdn.prompthero.com/4z0p2alxmw75kkujrkbx39yt5o9r-stable-diffusion-xl-base-09-japanese-oni-mask.jpg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-<lora:Battle Armor Weapons:1.0> <lora:Fantasia:1.0> a nightmarish appearance of the evil ((mask)), Japanese Oni culture , portrait view, highly detailed, 8k, Hyperrealistic, splash art, concept art, mid shot, intricately detailed, color depth, dramatic, 2/3 face angle, side light, colorful background
-```
-
-By [@Atheist](https://prompthero.com/prompt/af8b127ccfc-stable-diffusion-xl-base-09-japanese-oni-mask)
-
----
 
 <a id="prompthero-afc0343e9c8"></a>
 
@@ -326,6 +262,70 @@ sci-fi, digital art, robotic head of a Deer, wearing cybernetics, its cybernetic
 
 ---
 
-[1](creative-art.md) · [2](creative-art-2.md) · [3](creative-art-3.md) · [4](creative-art-4.md) · [5](creative-art-5.md) · [6](creative-art-6.md) · [7](creative-art-7.md) · [8](creative-art-8.md) · [9](creative-art-9.md) · **10** · [11](creative-art-11.md) · [12](creative-art-12.md) · [13](creative-art-13.md) · [14](creative-art-14.md)
+<a id="prompthero-bc89d63da26"></a>
+
+## Image is a digital fantasy artwork featuring a wit\.\.\.
+
+<a href="https://cdn.prompthero.com/gohtioez7lzqtijaka754ho7487s-stable-diffusion-xl-base-09-image-is-a-digital-fantasy-artwork-featuring-a-witch-with-striking-features-the-subject-is-a-woman-with-pale-skin.jpg"><img src="https://cdn.prompthero.com/gohtioez7lzqtijaka754ho7487s-stable-diffusion-xl-base-09-image-is-a-digital-fantasy-artwork-featuring-a-witch-with-striking-features-the-subject-is-a-woman-with-pale-skin.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+Image is a digital fantasy artwork featuring a witch with striking features. The subject is a woman with pale skin and vibrant red hair styled in loose curls. She wears a classic black witch's hat and a dark, lace-trimmed cloak. Her eyes are a vivid, glowing blue, and she has sharp, elongated fangs visible in her wide smile. She holds a wand emitting a red, magical glow in her right hand. Around her neck is an ornate, black choker with a red gemstone pendant. The background is a dark, misty forest with silhouettes of bats flying, adding to the mystical and eerie atmosphere. The overall color palette is dominated by dark tones with red accents, enhancing the supernatural theme of the image.
+```
+
+[Source](https://prompthero.com/prompt/bc89d63da26-stable-diffusion-xl-base-09-image-is-a-digital-fantasy-artwork-featuring-a-witch-with-striking-features-the-subject-is-a-woman-with-pale-skin)
+
+---
+
+<a id="prompthero-be48d1236d0"></a>
+
+## \(masterpiece, digital art:1\.3\), highly intricate d\.\.\.
+
+<a href="https://cdn.prompthero.com/kou7twmewsxz8pcnp665s0ukqel9-flux-flux-11-pro-ultra-masterpiece-digital-art13-highly-intricate-double-exposure-art-inspired-by-yuumei-close-up-of-a-persons-eye12-superimposed-on-a.jpg"><img src="https://cdn.prompthero.com/kou7twmewsxz8pcnp665s0ukqel9-flux-flux-11-pro-ultra-masterpiece-digital-art13-highly-intricate-double-exposure-art-inspired-by-yuumei-close-up-of-a-persons-eye12-superimposed-on-a.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+(masterpiece, digital art:1.3), highly intricate double exposure art inspired by Yuumei, (close-up of a person's eye:1.2) superimposed on a bustling city street, cyberpunk aesthetic, trending on CGSociety, multiple exposure technique, overlaying textures with glowing holographic elements, technicolour palette, bright city lights illuminating the scene, reminiscent of "The Matrix" film's Pinterest colour scheme, high definition rendering, colourful dream-like atmosphere, elaborate details in the digital art, futuristic and vibrant, captivating visual narrative.
+```
+
+[Source](https://prompthero.com/prompt/be48d1236d0-flux-flux-11-pro-ultra-masterpiece-digital-art13-highly-intricate-double-exposure-art-inspired-by-yuumei-close-up-of-a-persons-eye12-superimposed-on-a)
+
+---
+
+<a id="prompthero-be94a3d25e9"></a>
+
+## The Vengeance Of Forgotten
+
+<a href="https://cdn.prompthero.com/78pioeiga0907150bm8k10kofr0z-stable-diffusion-xl-base-09-the-vengeance-of-forgotten.png"><img src="https://cdn.prompthero.com/78pioeiga0907150bm8k10kofr0z-stable-diffusion-xl-base-09-the-vengeance-of-forgotten.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+A dark, imposing figure, partially shrouded in shadow, stands against a vibrant red background. The figure appears to be wearing some form of armor, possibly samurai-inspired, with segmented plates visible on the shoulder and upper arm. The most striking feature is a grotesque mask with small horns or protrusions and empty eye sockets, giving the figure a demonic or otherworldly appearance. The mask and armor are rendered in dark grays and blacks, contrasting sharply with the red background. The overall impression is one of menace and mystery.] [Dark fantasy, horror, concept art] [In the style of artists like Wayne Barlowe or Brom, known for their depictions of dark, fantastical creatures and characters.] [Painting, possibly acrylic or gouache on paper or board. Visible brushstrokes and textured application of paint, especially in the red background. Dark, dramatic lighting with the red background providing a strong contrast to the dark figure. The composition is close-cropped and focused on the figure's upper body, enhancing the sense of imposing presence.
+```
+
+[Source](https://prompthero.com/prompt/be94a3d25e9-stable-diffusion-xl-base-09-the-vengeance-of-forgotten)
+
+---
+
+<a id="prompthero-be786c542ab"></a>
+
+## Raged out Magician
+
+<a href="https://cdn.prompthero.com/knnjuh7u2amir576z8e0q2m51peh-stable-diffusion-xl-base-09-raged-out-magician.jpg"><img src="https://cdn.prompthero.com/knnjuh7u2amir576z8e0q2m51peh-stable-diffusion-xl-base-09-raged-out-magician.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+Dark fantasy, shadow knights, (( white and gold plug suit, black smoke in plug suit) ), (burning eyes:1) , (white, gold hooded cloak of leather material) , (fractal art:1.2) , cave background, transparency, caustics, optics, surreal, magic, masterpiece, perfect anatomy, 32k UHD resolution, best quality, highly detailed, photorealistic portrait, professional photography, cinematic angle, reflection lights, 8k sharp focus
+```
+
+By [@Atheist](https://prompthero.com/prompt/be786c542ab-stable-diffusion-xl-base-09-raged-out-magician)
+
+---
+
+[1](creative-art.md) · [2](creative-art-2.md) · [3](creative-art-3.md) · [4](creative-art-4.md) · [5](creative-art-5.md) · [6](creative-art-6.md) · [7](creative-art-7.md) · [8](creative-art-8.md) · [9](creative-art-9.md) · **10** · [11](creative-art-11.md) · [12](creative-art-12.md) · [13](creative-art-13.md)
 
 [← Home](../README.md)

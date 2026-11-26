@@ -6,38 +6,6 @@
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
-<a id="prompthero-d468b10e9da"></a>
-
-## photography, front view, focusing a show window, l\.\.\.
-
-<a href="https://cdn.prompthero.com/8xglre52tgd3czqxjoyenq6orrl4-midjourney-6-wwwgraytheorystudiocom-photography-front-view-focusing-a-show-window-luxury-handbag-balanced-on-a-thin-golden-rod-leather-texture-visible-minimalist-interior.png"><img src="https://cdn.prompthero.com/8xglre52tgd3czqxjoyenq6orrl4-midjourney-6-wwwgraytheorystudiocom-photography-front-view-focusing-a-show-window-luxury-handbag-balanced-on-a-thin-golden-rod-leather-texture-visible-minimalist-interior.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-photography, front view, focusing a show window, luxury handbag balanced on a thin golden rod, leather texture visible, minimalist interior with matte white epoxy floor, plain walls creating depth, soft overhead spotlights highlighting the product, 4K, rich detailing --ar 9:16 --quality 2 --style raw --personalize 3q55mu4 --v 6.1
-```
-
-By [@Grayve](https://prompthero.com/prompt/d468b10e9da-midjourney-6-wwwgraytheorystudiocom-photography-front-view-focusing-a-show-window-luxury-handbag-balanced-on-a-thin-golden-rod-leather-texture-visible-minimalist-interior)
-
----
-
-<a id="prompthero-d2132428ab6"></a>
-
-## photorealistic, perspective view, minimalist co-wo\.\.\.
-
-<a href="https://cdn.prompthero.com/x1bateuj76q7ejyoqz5dwrnoy5ha-midjourney-6-more-info-wwwgraytheorystudiocom-admingraytheorystudiocom-wwwpromptbasecomprofilespacemakergrayve-wwwinstagramcomspacemakergrayve-photorealistic-perspective-view-minimalist-co-working-space-bright-finished-and-embient-elaborate-vertical-horizontality-minimalism-lighting-4500k-indirect-light-and.png"><img src="https://cdn.prompthero.com/x1bateuj76q7ejyoqz5dwrnoy5ha-midjourney-6-more-info-wwwgraytheorystudiocom-admingraytheorystudiocom-wwwpromptbasecomprofilespacemakergrayve-wwwinstagramcomspacemakergrayve-photorealistic-perspective-view-minimalist-co-working-space-bright-finished-and-embient-elaborate-vertical-horizontality-minimalism-lighting-4500k-indirect-light-and.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-photorealistic, perspective view, minimalist co-working space, bright finished and embient, elaborate vertical horizontality, minimalism lighting, 4500K indirect light and sleek spot lights ceiling, professional interior architecture photo --ar 9:16 --style raw --stylize 700 --v 6
-```
-
-By [@Grayve](https://prompthero.com/prompt/d2132428ab6-midjourney-6-more-info-wwwgraytheorystudiocom-admingraytheorystudiocom-wwwpromptbasecomprofilespacemakergrayve-wwwinstagramcomspacemakergrayve-photorealistic-perspective-view-minimalist-co-working-space-bright-finished-and-embient-elaborate-vertical-horizontality-minimalism-lighting-4500k-indirect-light-and)
-
----
-
 <a id="prompthero-dc660565919"></a>
 
 ## create a photorealistic image showcasing the timel\.\.\.
