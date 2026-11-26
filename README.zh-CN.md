@@ -2,7 +2,7 @@
 
 [English](README.md) · [来源](SOURCES.md)
 
-共 1904 个可浏览案例。参考图生成包含风格转换、换装等基于输入图的任务；普通图片生成暂含输入要求待确认的案例。每个案例默认展示一张原始效果图，仅来源明确的编辑前后对比保留两张。完整提示词以可复制的单行代码块展示，原始格式保留在 JSON 中。案例未独立复现。
+共 1933 个可浏览案例。参考图生成包含风格转换、换装等基于输入图的任务；普通图片生成暂含输入要求待确认的案例。每个案例默认展示一张原始效果图，仅来源明确的编辑前后对比保留两张。完整提示词以可复制的单行代码块展示，原始格式保留在 JSON 中。案例未独立复现。
 
 ## 图片生成
 
@@ -64,6 +64,19 @@
 
 <table><tr>
 <td width="33%" valign="top" align="center"><a href="reference/portraits-2.md#evolink-travel-journals-case-226"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2102550022717952002.jpg" width="230" alt="Source example"></a><br><a href="reference/portraits-2.md#evolink-travel-journals-case-226"><strong>Identity-Preserving Travel Collage</strong></a></td>
+<td width="33%" valign="top" align="center"><a href="reference/creative-art.md#aweniai-2107854564477358562"><img src="https://pbs.twimg.com/media/HUCaEzdaQAAFvh-.jpg" width="230" alt="Source example"></a><br><a href="reference/creative-art.md#aweniai-2107854564477358562"><strong>连续场景第二世界</strong></a></td>
+<td width="33%" valign="top" align="center"><a href="reference/posters.md#aweniai-2105661058765770857"><img src="https://pbs.twimg.com/media/HTjPb2taEAAu2oX.jpg" width="230" alt="Source example"></a><br><a href="reference/posters.md#aweniai-2105661058765770857"><strong>橡胶印章旅行海报</strong></a></td>
+</tr></table>
+
+<table><tr>
+<td width="33%" valign="top" align="center"><a href="reference/illustrations.md#aweniai-2108180883320823867"><img src="https://pbs.twimg.com/media/HUHDLSBbgAALbmc.jpg" width="230" alt="Source example"></a><br><a href="reference/illustrations.md#aweniai-2108180883320823867"><strong>超大物件扁平几何插画</strong></a></td>
+<td width="33%" valign="top" align="center"><a href="reference/posters.md#aweniai-2107487152556966350"><img src="https://pbs.twimg.com/media/HT9MGbIaYAAMvvF.jpg" width="230" alt="Source example"></a><br><a href="reference/posters.md#aweniai-2107487152556966350"><strong>丝网印刷旅行海报</strong></a></td>
+<td width="33%" valign="top" align="center"><a href="reference/illustrations.md#aweniai-2109252177084711016"><img src="https://pbs.twimg.com/media/HUWPmf5aEAAyh_f.jpg" width="230" alt="Source example"></a><br><a href="reference/illustrations.md#aweniai-2109252177084711016"><strong>俏皮手绘批注</strong></a></td>
+</tr></table>
+
+<table><tr>
+<td width="33%" valign="top" align="center"><a href="reference/creative-art.md#aweniai-2108878248201572733"><img src="https://pbs.twimg.com/media/HUQ9by_bAAEvtt1.jpg" width="230" alt="Source example"></a><br><a href="reference/creative-art.md#aweniai-2108878248201572733"><strong>机绣任务徽章</strong></a></td>
+<td width="33%" valign="top" align="center"><a href="reference/illustrations.md#aweniai-2111074761078133187"><img src="https://pbs.twimg.com/media/HUwLA3FbYAAO4yX.jpg" width="230" alt="Source example"></a><br><a href="reference/illustrations.md#aweniai-2111074761078133187"><strong>包豪斯北欧几何插画</strong></a></td>
 </tr></table>
 
 ## 分类浏览
@@ -89,19 +102,19 @@
 
 - [portraits](reference/portraits.md) (55)
 - [avatars](reference/avatars.md) (1)
-- [illustrations](reference/illustrations.md) (16)
+- [illustrations](reference/illustrations.md) (24)
 - [products](reference/products.md) (5)
-- [posters](reference/posters.md) (22)
-- [characters](reference/characters.md) (28)
+- [posters](reference/posters.md) (28)
+- [characters](reference/characters.md) (29)
 - [architecture](reference/architecture.md) (1)
 - [infographics](reference/infographics.md) (3)
 - [logos](reference/logos.md) (3)
 - [travel](reference/travel.md) (3)
 - [ui mockups](reference/ui-mockups.md) (1)
 - [comics storyboards](reference/comics-storyboards.md) (5)
-- [creative art](reference/creative-art.md) (9)
+- [creative art](reference/creative-art.md) (20)
 - [other](reference/other.md) (6)
-- [restyle](reference/restyle.md) (18)
+- [restyle](reference/restyle.md) (21)
 - [portrait editing](reference/portrait-editing.md) (5)
 - [outfit change](reference/outfit-change.md) (3)
 - [background change](reference/background-change.md) (2)

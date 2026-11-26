@@ -1,4 +1,759 @@
 {
+  "aweniai-2105661058765770857": {
+    "type": "generation",
+    "category": "posters",
+    "inputMode": "reference-to-image",
+    "confidence": "medium",
+    "reason": "reviewed-collector-export",
+    "tags": [
+      "film",
+      "vintage",
+      "identity-preserving",
+      "multi-panel",
+      "reference-image"
+    ],
+    "quality": {
+      "status": "metadata-complete",
+      "score": 4,
+      "flags": [
+        "rights-review"
+      ],
+      "imageAvailability": "unchecked",
+      "imagePromptMatch": "unchecked",
+      "reproduction": "untested",
+      "rights": "pending-review"
+    },
+    "visible": true
+  },
+  "aweniai-2106024170576629928": {
+    "type": "generation",
+    "category": "illustrations",
+    "inputMode": "reference-to-image",
+    "confidence": "medium",
+    "reason": "reviewed-collector-export",
+    "tags": [
+      "photorealistic",
+      "watercolor",
+      "3d",
+      "editorial",
+      "typography",
+      "reference-image"
+    ],
+    "quality": {
+      "status": "metadata-complete",
+      "score": 4,
+      "flags": [
+        "rights-review"
+      ],
+      "imageAvailability": "unchecked",
+      "imagePromptMatch": "unchecked",
+      "reproduction": "untested",
+      "rights": "pending-review"
+    },
+    "visible": true
+  },
+  "aweniai-2106390291381170312": {
+    "type": "editing",
+    "category": "restyle",
+    "inputMode": "reference-to-image",
+    "confidence": "medium",
+    "reason": "reviewed-collector-export",
+    "tags": [
+      "3d",
+      "minimalist",
+      "editorial",
+      "identity-preserving",
+      "reference-image",
+      "image-editing"
+    ],
+    "quality": {
+      "status": "metadata-complete",
+      "score": 4,
+      "flags": [
+        "rights-review"
+      ],
+      "imageAvailability": "unchecked",
+      "imagePromptMatch": "unchecked",
+      "reproduction": "untested",
+      "rights": "pending-review"
+    },
+    "visible": true
+  },
+  "aweniai-2106686269334159789": {
+    "type": "editing",
+    "category": "restyle",
+    "inputMode": "reference-to-image",
+    "confidence": "medium",
+    "reason": "reviewed-collector-export",
+    "tags": [
+      "photorealistic",
+      "minimalist",
+      "editorial",
+      "identity-preserving",
+      "reference-image",
+      "image-editing"
+    ],
+    "quality": {
+      "status": "metadata-complete",
+      "score": 4,
+      "flags": [
+        "rights-review"
+      ],
+      "imageAvailability": "unchecked",
+      "imagePromptMatch": "unchecked",
+      "reproduction": "untested",
+      "rights": "pending-review"
+    },
+    "visible": true
+  },
+  "aweniai-2107120604998676599": {
+    "type": "generation",
+    "category": "illustrations",
+    "inputMode": "reference-to-image",
+    "confidence": "medium",
+    "reason": "reviewed-collector-export",
+    "tags": [
+      "photorealistic",
+      "3d",
+      "editorial",
+      "identity-preserving",
+      "multi-panel",
+      "reference-image"
+    ],
+    "quality": {
+      "status": "metadata-complete",
+      "score": 4,
+      "flags": [
+        "rights-review"
+      ],
+      "imageAvailability": "unchecked",
+      "imagePromptMatch": "unchecked",
+      "reproduction": "untested",
+      "rights": "pending-review"
+    },
+    "visible": true
+  },
+  "aweniai-2107487152556966350": {
+    "type": "generation",
+    "category": "posters",
+    "inputMode": "reference-to-image",
+    "confidence": "medium",
+    "reason": "reviewed-collector-export",
+    "tags": [
+      "3d",
+      "editorial",
+      "typography",
+      "reference-image"
+    ],
+    "quality": {
+      "status": "metadata-complete",
+      "score": 4,
+      "flags": [
+        "rights-review"
+      ],
+      "imageAvailability": "unchecked",
+      "imagePromptMatch": "unchecked",
+      "reproduction": "untested",
+      "rights": "pending-review"
+    },
+    "visible": true
+  },
+  "aweniai-2107854564477358562": {
+    "type": "generation",
+    "category": "creative-art",
+    "inputMode": "reference-to-image",
+    "confidence": "medium",
+    "reason": "reviewed-collector-export",
+    "tags": [
+      "3d",
+      "editorial",
+      "identity-preserving",
+      "multi-panel",
+      "reference-image"
+    ],
+    "quality": {
+      "status": "metadata-complete",
+      "score": 4,
+      "flags": [
+        "rights-review"
+      ],
+      "imageAvailability": "unchecked",
+      "imagePromptMatch": "unchecked",
+      "reproduction": "untested",
+      "rights": "pending-review"
+    },
+    "visible": true
+  },
+  "aweniai-2108180883320823867": {
+    "type": "generation",
+    "category": "illustrations",
+    "inputMode": "reference-to-image",
+    "confidence": "medium",
+    "reason": "reviewed-collector-export",
+    "tags": [
+      "photorealistic",
+      "3d",
+      "minimalist",
+      "editorial",
+      "typography",
+      "identity-preserving",
+      "multi-panel",
+      "reference-image"
+    ],
+    "quality": {
+      "status": "metadata-complete",
+      "score": 4,
+      "flags": [
+        "rights-review"
+      ],
+      "imageAvailability": "unchecked",
+      "imagePromptMatch": "unchecked",
+      "reproduction": "untested",
+      "rights": "pending-review"
+    },
+    "visible": true
+  },
+  "aweniai-2108502210913136696": {
+    "type": "generation",
+    "category": "creative-art",
+    "inputMode": "reference-to-image",
+    "confidence": "medium",
+    "reason": "reviewed-collector-export",
+    "tags": [
+      "photorealistic",
+      "3d",
+      "editorial",
+      "typography",
+      "identity-preserving",
+      "multi-panel",
+      "reference-image"
+    ],
+    "quality": {
+      "status": "metadata-complete",
+      "score": 4,
+      "flags": [
+        "rights-review"
+      ],
+      "imageAvailability": "unchecked",
+      "imagePromptMatch": "unchecked",
+      "reproduction": "untested",
+      "rights": "pending-review"
+    },
+    "visible": true
+  },
+  "aweniai-2108878248201572733": {
+    "type": "generation",
+    "category": "creative-art",
+    "inputMode": "reference-to-image",
+    "confidence": "medium",
+    "reason": "reviewed-collector-export",
+    "tags": [
+      "3d",
+      "vintage",
+      "product",
+      "identity-preserving",
+      "multi-panel",
+      "reference-image"
+    ],
+    "quality": {
+      "status": "metadata-complete",
+      "score": 4,
+      "flags": [
+        "rights-review"
+      ],
+      "imageAvailability": "unchecked",
+      "imagePromptMatch": "unchecked",
+      "reproduction": "untested",
+      "rights": "pending-review"
+    },
+    "visible": true
+  },
+  "aweniai-2109252177084711016": {
+    "type": "generation",
+    "category": "illustrations",
+    "inputMode": "reference-to-image",
+    "confidence": "medium",
+    "reason": "reviewed-collector-export",
+    "tags": [
+      "film",
+      "editorial",
+      "reference-image"
+    ],
+    "quality": {
+      "status": "metadata-complete",
+      "score": 4,
+      "flags": [
+        "rights-review"
+      ],
+      "imageAvailability": "unchecked",
+      "imagePromptMatch": "unchecked",
+      "reproduction": "untested",
+      "rights": "pending-review"
+    },
+    "visible": true
+  },
+  "aweniai-2111074761078133187": {
+    "type": "generation",
+    "category": "illustrations",
+    "inputMode": "reference-to-image",
+    "confidence": "medium",
+    "reason": "reviewed-collector-export",
+    "tags": [
+      "photorealistic",
+      "3d",
+      "minimalist",
+      "vintage",
+      "typography",
+      "identity-preserving",
+      "multi-panel",
+      "reference-image"
+    ],
+    "quality": {
+      "status": "metadata-complete",
+      "score": 4,
+      "flags": [
+        "rights-review"
+      ],
+      "imageAvailability": "unchecked",
+      "imagePromptMatch": "unchecked",
+      "reproduction": "untested",
+      "rights": "pending-review"
+    },
+    "visible": true
+  },
+  "aweniai-2111443266646483238": {
+    "type": "generation",
+    "category": "creative-art",
+    "inputMode": "reference-to-image",
+    "confidence": "medium",
+    "reason": "reviewed-collector-export",
+    "tags": [
+      "photorealistic",
+      "editorial",
+      "vintage",
+      "typography",
+      "identity-preserving",
+      "multi-panel",
+      "reference-image"
+    ],
+    "quality": {
+      "status": "metadata-complete",
+      "score": 4,
+      "flags": [
+        "rights-review"
+      ],
+      "imageAvailability": "unchecked",
+      "imagePromptMatch": "unchecked",
+      "reproduction": "untested",
+      "rights": "pending-review"
+    },
+    "visible": true
+  },
+  "aweniai-2111812048715960710": {
+    "type": "generation",
+    "category": "creative-art",
+    "inputMode": "reference-to-image",
+    "confidence": "medium",
+    "reason": "reviewed-collector-export",
+    "tags": [
+      "minimalist",
+      "editorial",
+      "typography",
+      "identity-preserving",
+      "multi-panel",
+      "reference-image"
+    ],
+    "quality": {
+      "status": "metadata-complete",
+      "score": 4,
+      "flags": [
+        "rights-review"
+      ],
+      "imageAvailability": "unchecked",
+      "imagePromptMatch": "unchecked",
+      "reproduction": "untested",
+      "rights": "pending-review"
+    },
+    "visible": true
+  },
+  "aweniai-2112148479137255603": {
+    "type": "generation",
+    "category": "creative-art",
+    "inputMode": "reference-to-image",
+    "confidence": "medium",
+    "reason": "reviewed-collector-export",
+    "tags": [
+      "photorealistic",
+      "3d",
+      "minimalist",
+      "editorial",
+      "vintage",
+      "typography",
+      "multi-panel",
+      "reference-image"
+    ],
+    "quality": {
+      "status": "metadata-complete",
+      "score": 4,
+      "flags": [
+        "rights-review"
+      ],
+      "imageAvailability": "unchecked",
+      "imagePromptMatch": "unchecked",
+      "reproduction": "untested",
+      "rights": "pending-review"
+    },
+    "visible": true
+  },
+  "aweniai-2112514492647268613": {
+    "type": "generation",
+    "category": "posters",
+    "inputMode": "reference-to-image",
+    "confidence": "medium",
+    "reason": "reviewed-collector-export",
+    "tags": [
+      "minimalist",
+      "vintage",
+      "typography",
+      "multi-panel",
+      "reference-image"
+    ],
+    "quality": {
+      "status": "metadata-complete",
+      "score": 4,
+      "flags": [
+        "rights-review"
+      ],
+      "imageAvailability": "unchecked",
+      "imagePromptMatch": "unchecked",
+      "reproduction": "untested",
+      "rights": "pending-review"
+    },
+    "visible": true
+  },
+  "aweniai-2113247205004128437": {
+    "type": "generation",
+    "category": "creative-art",
+    "inputMode": "reference-to-image",
+    "confidence": "medium",
+    "reason": "reviewed-collector-export",
+    "tags": [
+      "minimalist",
+      "typography",
+      "identity-preserving",
+      "multi-panel",
+      "reference-image"
+    ],
+    "quality": {
+      "status": "metadata-complete",
+      "score": 4,
+      "flags": [
+        "rights-review"
+      ],
+      "imageAvailability": "unchecked",
+      "imagePromptMatch": "unchecked",
+      "reproduction": "untested",
+      "rights": "pending-review"
+    },
+    "visible": true
+  },
+  "aweniai-2113604120049565713": {
+    "type": "generation",
+    "category": "creative-art",
+    "inputMode": "reference-to-image",
+    "confidence": "medium",
+    "reason": "reviewed-collector-export",
+    "tags": [
+      "minimalist",
+      "typography",
+      "identity-preserving",
+      "multi-panel",
+      "reference-image"
+    ],
+    "quality": {
+      "status": "metadata-complete",
+      "score": 4,
+      "flags": [
+        "rights-review"
+      ],
+      "imageAvailability": "unchecked",
+      "imagePromptMatch": "unchecked",
+      "reproduction": "untested",
+      "rights": "pending-review"
+    },
+    "visible": true
+  },
+  "aweniai-2113996963138134406": {
+    "type": "generation",
+    "category": "illustrations",
+    "inputMode": "reference-to-image",
+    "confidence": "medium",
+    "reason": "reviewed-collector-export",
+    "tags": [
+      "watercolor",
+      "3d",
+      "minimalist",
+      "vintage",
+      "typography",
+      "identity-preserving",
+      "multi-panel",
+      "reference-image"
+    ],
+    "quality": {
+      "status": "metadata-complete",
+      "score": 4,
+      "flags": [
+        "rights-review"
+      ],
+      "imageAvailability": "unchecked",
+      "imagePromptMatch": "unchecked",
+      "reproduction": "untested",
+      "rights": "pending-review"
+    },
+    "visible": true
+  },
+  "aweniai-2114334580409000429": {
+    "type": "generation",
+    "category": "creative-art",
+    "inputMode": "reference-to-image",
+    "confidence": "medium",
+    "reason": "reviewed-collector-export",
+    "tags": [
+      "typography",
+      "identity-preserving",
+      "multi-panel",
+      "reference-image"
+    ],
+    "quality": {
+      "status": "metadata-complete",
+      "score": 4,
+      "flags": [
+        "rights-review"
+      ],
+      "imageAvailability": "unchecked",
+      "imagePromptMatch": "unchecked",
+      "reproduction": "untested",
+      "rights": "pending-review"
+    },
+    "visible": true
+  },
+  "aweniai-2114697303340818899": {
+    "type": "generation",
+    "category": "creative-art",
+    "inputMode": "reference-to-image",
+    "confidence": "medium",
+    "reason": "reviewed-collector-export",
+    "tags": [
+      "typography",
+      "identity-preserving",
+      "reference-image"
+    ],
+    "quality": {
+      "status": "metadata-complete",
+      "score": 4,
+      "flags": [
+        "rights-review"
+      ],
+      "imageAvailability": "unchecked",
+      "imagePromptMatch": "unchecked",
+      "reproduction": "untested",
+      "rights": "pending-review"
+    },
+    "visible": true
+  },
+  "aweniai-2115771866216595564": {
+    "type": "generation",
+    "category": "posters",
+    "inputMode": "reference-to-image",
+    "confidence": "medium",
+    "reason": "reviewed-collector-export",
+    "tags": [
+      "cinematic",
+      "minimalist",
+      "vintage",
+      "typography",
+      "reference-image"
+    ],
+    "quality": {
+      "status": "metadata-complete",
+      "score": 4,
+      "flags": [
+        "rights-review"
+      ],
+      "imageAvailability": "unchecked",
+      "imagePromptMatch": "unchecked",
+      "reproduction": "untested",
+      "rights": "pending-review"
+    },
+    "visible": true
+  },
+  "aweniai-2116150978500260173": {
+    "type": "generation",
+    "category": "creative-art",
+    "inputMode": "reference-to-image",
+    "confidence": "medium",
+    "reason": "reviewed-collector-export",
+    "tags": [
+      "typography",
+      "reference-image"
+    ],
+    "quality": {
+      "status": "metadata-complete",
+      "score": 4,
+      "flags": [
+        "rights-review"
+      ],
+      "imageAvailability": "unchecked",
+      "imagePromptMatch": "unchecked",
+      "reproduction": "untested",
+      "rights": "pending-review"
+    },
+    "visible": true
+  },
+  "aweniai-2116872128855220686": {
+    "type": "generation",
+    "category": "characters",
+    "inputMode": "reference-to-image",
+    "confidence": "medium",
+    "reason": "reviewed-collector-export",
+    "tags": [
+      "3d",
+      "typography",
+      "multi-panel",
+      "reference-image"
+    ],
+    "quality": {
+      "status": "metadata-complete",
+      "score": 4,
+      "flags": [
+        "rights-review"
+      ],
+      "imageAvailability": "unchecked",
+      "imagePromptMatch": "unchecked",
+      "reproduction": "untested",
+      "rights": "pending-review"
+    },
+    "visible": true
+  },
+  "aweniai-2117578860594081973": {
+    "type": "generation",
+    "category": "illustrations",
+    "inputMode": "reference-to-image",
+    "confidence": "medium",
+    "reason": "reviewed-collector-export",
+    "tags": [
+      "minimalist",
+      "typography",
+      "multi-panel",
+      "reference-image"
+    ],
+    "quality": {
+      "status": "metadata-complete",
+      "score": 4,
+      "flags": [
+        "rights-review"
+      ],
+      "imageAvailability": "unchecked",
+      "imagePromptMatch": "unchecked",
+      "reproduction": "untested",
+      "rights": "pending-review"
+    },
+    "visible": true
+  },
+  "aweniai-2117940234256023740": {
+    "type": "editing",
+    "category": "restyle",
+    "inputMode": "reference-to-image",
+    "confidence": "medium",
+    "reason": "reviewed-collector-export",
+    "tags": [
+      "3d",
+      "minimalist",
+      "reference-image",
+      "image-editing"
+    ],
+    "quality": {
+      "status": "metadata-complete",
+      "score": 4,
+      "flags": [
+        "rights-review"
+      ],
+      "imageAvailability": "unchecked",
+      "imagePromptMatch": "unchecked",
+      "reproduction": "untested",
+      "rights": "pending-review"
+    },
+    "visible": true
+  },
+  "aweniai-2118691301764063411": {
+    "type": "generation",
+    "category": "illustrations",
+    "inputMode": "reference-to-image",
+    "confidence": "medium",
+    "reason": "reviewed-collector-export",
+    "tags": [
+      "vintage",
+      "reference-image"
+    ],
+    "quality": {
+      "status": "metadata-complete",
+      "score": 4,
+      "flags": [
+        "rights-review"
+      ],
+      "imageAvailability": "unchecked",
+      "imagePromptMatch": "unchecked",
+      "reproduction": "untested",
+      "rights": "pending-review"
+    },
+    "visible": true
+  },
+  "aweniai-2119065411748811072": {
+    "type": "generation",
+    "category": "posters",
+    "inputMode": "reference-to-image",
+    "confidence": "medium",
+    "reason": "reviewed-collector-export",
+    "tags": [
+      "typography",
+      "reference-image"
+    ],
+    "quality": {
+      "status": "metadata-complete",
+      "score": 4,
+      "flags": [
+        "rights-review"
+      ],
+      "imageAvailability": "unchecked",
+      "imagePromptMatch": "unchecked",
+      "reproduction": "untested",
+      "rights": "pending-review"
+    },
+    "visible": true
+  },
+  "aweniai-2119795416007118889": {
+    "type": "generation",
+    "category": "posters",
+    "inputMode": "reference-to-image",
+    "confidence": "medium",
+    "reason": "reviewed-collector-export",
+    "tags": [
+      "typography",
+      "reference-image"
+    ],
+    "quality": {
+      "status": "metadata-complete",
+      "score": 4,
+      "flags": [
+        "rights-review"
+      ],
+      "imageAvailability": "unchecked",
+      "imagePromptMatch": "unchecked",
+      "reproduction": "untested",
+      "rights": "pending-review"
+    },
+    "visible": true
+  },
   "evolink-advertising-case-171": {
     "type": "generation",
     "category": "posters",

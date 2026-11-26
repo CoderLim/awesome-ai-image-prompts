@@ -44,6 +44,14 @@ test('PromptHero reviewed export preserves approved provisional classification',
  assert.equal(govern([r]).metadata[r.id].quality.rights,'pending-review');
 });
 
+test('AWENIAI reviewed collector export preserves approved provisional classification',()=>{
+ const r=make('aweniai-123','Transform the uploaded photo into a 3:4 diptych poster with giant typography.');
+ r.type='generation';r.category='posters';r.inputMode='reference-to-image';
+ r.provenance.collectedFrom=[{sourceId:'aweniai',url:'https://x.com/AWENIAI/status/123'}];
+ r.sourceMeta={review:{qualityStatus:'recommended',classificationConfidence:'medium'}};
+ assert.deepEqual(classifyContent(r),{type:'generation',category:'posters',inputMode:'reference-to-image',confidence:'medium',reason:'reviewed-collector-export'});
+});
+
 test('manual exclusion withholds the entire duplicate component from canonical gallery',()=>{
  const a=make('a','Create a cinematic portrait'),b=make('b','Create a cinematic portrait');
  const result=govern([a,b],[{id:'a',keys:['id:a']}]);

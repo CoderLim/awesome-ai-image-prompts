@@ -1,0 +1,2231 @@
+[
+  {
+    "id": "aweniai-2105661058765770857",
+    "title": {
+      "en": null,
+      "zh": "橡胶印章旅行海报"
+    },
+    "type": "generation",
+    "category": "posters",
+    "inputMode": "reference-to-image",
+    "status": "index-only",
+    "prompt": {
+      "original": "为每张上传照片分别生成一张独立的“橡胶印章旅行记录海报”，每张照片只输出一张成品，不拼贴、不合成多图、不共享同一套文字。整体为3:4竖版构图，上下严格1:1，各占画面50%，不画明显分隔线。上半区完整保留对应原始照片：主体身份、人物或物体比例、地形、建筑、植物、空间关系、姿态、透视、自然光线、阴影、景深、真实纹理和原始色彩氛围保持不变；只允许轻微的艺术出版级照片调色和极其细腻的胶片颗粒。为适配竖版，可做自然裁切和背景轻微延展，但不得拉伸、扭曲、移动、替换、重绘主体，也不得新增无关元素。清理原图中所有可见英文、logo、品牌标识、水印、角标和平台痕迹，去除后保持背景材质与光影自然连续。下半区以同一张照片为唯一视觉依据，转化为旅行记录感的橡胶印章海报画面：保留原照的主要轮廓、场景结构、视觉中心、空间走势、代表性细节、固有色和情绪，但以手工橡胶章拓印、复古旅行纪念章、独立出版物版画的方式重新组织；边缘略有压印不均、油墨轻微渗化、纸张纤维可见，质感克制精致。下半区必须根据每张照片单独提取画面信息生成英文短文案，例如地点感、建筑特征、自然景观、人物状态、季节光线或旅行记忆，不得所有画面使用相同内容，不得直接复刻原图里的英文、logo或水印。英文文字应自然融入印章结构，可包含短标题、日期感编号、地点感短语或纪念戳记，但内容必须来自该照片的视觉线索并重新改写。提示词本身保持中文描述，画面内文字使用英文。整体上下形成明确对照：上半区是真实原照，下半区是同一照片的橡胶印章旅行记录转译，主题一致但不能简单复制。"
+    },
+    "media": [],
+    "models": [],
+    "sourcePreview": {
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HTjPb2taEAAu2oX.jpg",
+          "role": "source-media"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HTjPb26a0AE8FEc.jpg",
+          "role": "source-media"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HTjPb2UbgAA4a0m.jpg",
+          "role": "source-media"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HTjPb2TacAAPj9V.jpg",
+          "role": "source-media"
+        }
+      ],
+      "promptExcerpt": "为每张上传照片分别生成一张独立的“橡胶印章旅行记录海报”，每张照片只输出一张成品，不拼贴、不合成多图、不共享同一套文字。整体为3:4竖版构图，上下严格1:1，各占画面50%，不画明显分隔线。上半区完整",
+      "excerptTruncated": true
+    },
+    "provenance": {
+      "originalSource": {
+        "platform": "x",
+        "author": "@AWENIAI",
+        "url": "https://x.com/AWENIAI/status/2105661031980896733",
+        "postId": "2105661031980896733",
+        "publishedAt": "2026-10-01T14:08:05.000Z",
+        "verification": "reported-by-collector",
+        "promptPostUrl": "https://x.com/AWENIAI/status/2105661058765770857",
+        "promptPostId": "2105661058765770857"
+      },
+      "collectedFrom": [
+        {
+          "sourceId": "aweniai",
+          "mode": "collector-export",
+          "snapshotSha256": "4271663685af66a064e2b11da4f503493dea775306f5d029e32902c3401c030c",
+          "url": "https://x.com/AWENIAI/status/2105661031980896733",
+          "collectedAt": "2026-11-26T13:58:26.919Z"
+        }
+      ]
+    },
+    "rights": {
+      "prompt": "unknown",
+      "media": "unknown"
+    },
+    "sourceMeta": {
+      "model": null,
+      "textReview": "appears-complete",
+      "visualReview": "pending",
+      "pairing": "prompt_post_paired_with_nearby_image_post",
+      "imageVerification": "source-reported-output; HTTP and visual match unchecked",
+      "review": {
+        "qualityStatus": "recommended",
+        "classificationConfidence": "medium",
+        "classificationMethod": "owner-directed-collector-import",
+        "inputMode": "reference-to-image",
+        "category": "posters"
+      }
+    }
+  },
+  {
+    "id": "aweniai-2106024170576629928",
+    "title": {
+      "en": null,
+      "zh": "儿童黑色蜡笔速写"
+    },
+    "type": "generation",
+    "category": "illustrations",
+    "inputMode": "reference-to-image",
+    "status": "index-only",
+    "prompt": {
+      "original": "生成一张独立的3:4竖版海报，每张上传照片只生成一张作品，不拼接、不合并。画面上下严格1:1分区，各占50%，形成明确对照。上半区完整保留对应原照，人物、动物、风景、建筑、食物、植物、静物、街景、室内空间或其他主体的类别、数量、身份、轮廓、姿态、比例、构图、视角、空间关系、前后层次、材质、自然光影、景深、固有色和核心情绪都不改变；背景可自然延展以适配竖版画幅，但不得拉伸、扭曲、裁掉关键主体、改变动作或增加无关元素。上半区仅允许轻微高级摄影调色，使照片呈现艺术杂志、独立出版物或展览摄影质感，仍保持真实照片属性。下半区以同一张原照为唯一视觉依据，处理类型为重新绘制与风格重构：把上半区照片完整转译为儿童手绘黑色蜡笔速写风格。无论原图内容是什么，都保留原主体类别、数量、视觉中心、姿态、轮廓、结构、透视、空间走势、代表性细节和叙事关系，不替换对象，不新增装饰，不改变场景逻辑。下半区使用白色纸面背景，粗糙黑色蜡笔或油性笔线条，线条断续、歪斜、重复描边，带手部抖动、摩擦颗粒、扫描纸面纹理和不均匀黑色填涂；复杂细节简化为基础轮廓，明暗关系转化为黑色涂抹、交叉排线与留白，边缘不必精准，比例可轻微失衡，但主体必须清楚可辨。整体保持黑白高反差，仅允许在最能表达温度、生命感或情绪的位置加入极少量淡粉色蜡笔点缀，例如脸颊、花朵、食物高光、小动物耳部或局部情绪色，不得发展成彩色插画。下半区气质像儿童在白纸上快速画下眼前照片的记忆：朴素、安静、天真、略笨拙，可爱但不卖萌，有真实随手涂鸦感和未经修饰的亲密感。禁止写实摄影、3D、精致漫画、矢量线稿、水彩、油画、厚涂、复杂背景重构、渐变、真实阴影建模、过度美化、商业插画质感、文字排版和任何无关新增元素。"
+    },
+    "media": [],
+    "models": [],
+    "sourcePreview": {
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HToZq9absAAbR26.jpg",
+          "role": "source-media"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HToZq9daYAEkUrm.jpg",
+          "role": "source-media"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HToZq9baUAAMXiE.jpg",
+          "role": "source-media"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HToZq-JbgAAarNh.jpg",
+          "role": "source-media"
+        }
+      ],
+      "promptExcerpt": "生成一张独立的3:4竖版海报，每张上传照片只生成一张作品，不拼接、不合并。画面上下严格1:1分区，各占50%，形成明确对照。上半区完整保留对应原照，人物、动物、风景、建筑、食物、植物、静物、街景、室内",
+      "excerptTruncated": true
+    },
+    "provenance": {
+      "originalSource": {
+        "platform": "x",
+        "author": "@AWENIAI",
+        "url": "https://x.com/AWENIAI/status/2106024089311945060",
+        "postId": "2106024089311945060",
+        "publishedAt": "2026-10-02T14:10:45.000Z",
+        "verification": "reported-by-collector",
+        "promptPostUrl": "https://x.com/AWENIAI/status/2106024170576629928",
+        "promptPostId": "2106024170576629928"
+      },
+      "collectedFrom": [
+        {
+          "sourceId": "aweniai",
+          "mode": "collector-export",
+          "snapshotSha256": "4271663685af66a064e2b11da4f503493dea775306f5d029e32902c3401c030c",
+          "url": "https://x.com/AWENIAI/status/2106024089311945060",
+          "collectedAt": "2026-11-26T13:58:26.919Z"
+        }
+      ]
+    },
+    "rights": {
+      "prompt": "unknown",
+      "media": "unknown"
+    },
+    "sourceMeta": {
+      "model": null,
+      "textReview": "appears-complete",
+      "visualReview": "pending",
+      "pairing": "prompt_post_paired_with_nearby_image_post",
+      "imageVerification": "source-reported-output; HTTP and visual match unchecked",
+      "review": {
+        "qualityStatus": "recommended",
+        "classificationConfidence": "medium",
+        "classificationMethod": "owner-directed-collector-import",
+        "inputMode": "reference-to-image",
+        "category": "illustrations"
+      }
+    }
+  },
+  {
+    "id": "aweniai-2106390291381170312",
+    "title": {
+      "en": null,
+      "zh": "针毡羊毛贴绣"
+    },
+    "type": "editing",
+    "category": "restyle",
+    "inputMode": "reference-to-image",
+    "status": "index-only",
+    "prompt": {
+      "original": "使用上传的单张照片作为唯一视觉依据，为每张照片分别生成一张独立3:4竖版海报，不拼接不同照片。画面上下严格1:1分区，各占50%。上半区完整呈现原始照片本身：保留人物与动物数量、主体比例、从左到右顺序、姿态、手势、视线、身体朝向、互动、重叠、间距、情绪、服装、发型、帽子、鞋履、配饰、手持物、临时物体、环境、构图、透视、材质、自然光影、景深和色彩关系；仅允许轻微高级摄影调色，使其具有艺术杂志、独立出版物或展览摄影质感。背景可自然延展以适配竖版上半区，但不得拉伸、扭曲、改写主体身份或动作，不得添加无关元素。下半区与上半区形成明确对照：以同一张原照为唯一依据，将主要主体及其动作所需物体整体转化为手工针毡羊毛贴绣角色，保持原照的主体排列、构图重心、相对几何关系、姿势、遮挡、互动和情感含义。人物简化为温暖微型羊毛娃娃，保留年龄类别、表情差异和可识别身份线索；使用柔和圆润比例、略大头部、紧凑身体、小黑缝线眼、极简眉嘴、微粉脸颊和自然小手小脚。面部若被帽子、头发、手、篮子、网或其他物体遮挡，必须保留相同遮挡，不虚构完整脸。动物按正确物种、数量、大小顺序、姿态、颜色、喙、耳朵、尾巴和注意方向呈现。服装以分层毡片和细缝线轮廓复现，保留关键颜色、图案、接缝和标志性对比；杆子、网、篮子、玩具、工具等互动道具须保留连接、覆盖和受力关系，长形道具做成卷紧或刺绣纱线，开放格状物用交织毡绳表现。下半区移除不必要环境，把转换后的主体置于柔和白色或暖象牙织物背景上；只有影响互动理解的环境元素可保留为极简羊毛化提示。每个连贯主体群组下方有窄白色毡底，形成高端手工贴纸或贴绣外观；轮廓干净模切，边缘微微凸起，阴影轻柔向右下。使用针毡、柔软纱线刺绣、毛茸毡布和密集针脚构建可见互锁纤维、手作不均匀表面、纤维方向变化、圆润填充体积和克制浮雕。色彩从原照采样并降低饱和，左上方明亮漫射棚拍光，高调、低对比、细腻接触阴影，整体温馨、俏皮、可收藏、俯拍手工质感。避免文字、标题、标志、签名、水印、边框、额外风景、虚构道具、缺失或重复主体、错误动物数量、畸形肢体、通用服装、过度面部细节、硬阴影、过饱和颜色、照片级皮肤、光滑数字绘画、塑料、粘土、钩针、平面矢量和硬质3D渲染。"
+    },
+    "media": [],
+    "models": [],
+    "sourcePreview": {
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HTtmoWOa0AAd4q7.jpg",
+          "role": "source-media"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HTtmoVjbQAIzWxn.jpg",
+          "role": "source-media"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HTtmoWMbYAAQtLr.jpg",
+          "role": "source-media"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HTtmoWEbMAEIF9W.jpg",
+          "role": "source-media"
+        }
+      ],
+      "promptExcerpt": "使用上传的单张照片作为唯一视觉依据，为每张照片分别生成一张独立3:4竖版海报，不拼接不同照片。画面上下严格1:1分区，各占50%。上半区完整呈现原始照片本身：保留人物与动物数量、主体比例、从左到右顺序",
+      "excerptTruncated": true
+    },
+    "provenance": {
+      "originalSource": {
+        "platform": "x",
+        "author": "@AWENIAI",
+        "url": "https://x.com/AWENIAI/status/2106390125760671998",
+        "postId": "2106390125760671998",
+        "publishedAt": "2026-10-03T14:25:15.000Z",
+        "verification": "reported-by-collector",
+        "promptPostUrl": "https://x.com/AWENIAI/status/2106390291381170312",
+        "promptPostId": "2106390291381170312"
+      },
+      "collectedFrom": [
+        {
+          "sourceId": "aweniai",
+          "mode": "collector-export",
+          "snapshotSha256": "4271663685af66a064e2b11da4f503493dea775306f5d029e32902c3401c030c",
+          "url": "https://x.com/AWENIAI/status/2106390125760671998",
+          "collectedAt": "2026-11-26T13:58:26.919Z"
+        }
+      ]
+    },
+    "rights": {
+      "prompt": "unknown",
+      "media": "unknown"
+    },
+    "sourceMeta": {
+      "model": null,
+      "textReview": "appears-complete",
+      "visualReview": "pending",
+      "pairing": "prompt_post_paired_with_nearby_image_post",
+      "imageVerification": "source-reported-output; HTTP and visual match unchecked",
+      "review": {
+        "qualityStatus": "recommended",
+        "classificationConfidence": "medium",
+        "classificationMethod": "owner-directed-collector-import",
+        "inputMode": "reference-to-image",
+        "category": "restyle"
+      }
+    }
+  },
+  {
+    "id": "aweniai-2106686269334159789",
+    "title": {
+      "en": null,
+      "zh": "极简十字绣"
+    },
+    "type": "editing",
+    "category": "restyle",
+    "inputMode": "reference-to-image",
+    "status": "index-only",
+    "prompt": {
+      "original": "生成一张3:4竖版双区海报，每张上传照片分别生成一张独立作品，不拼接、不合并。画面上下严格1:1分区，各占50%。上半区完整保留对应原始照片：人物身份、主体轮廓、发型、表情倾向、姿态、服装、配饰、随身物体、环境、构图、比例、透视、材质、自然光影、景深与原有色彩关系都保持不变，只允许轻微高级摄影调色，使其呈现艺术杂志、独立出版物或展览摄影的克制质感；背景可自然延展以适配竖版画幅，但不得拉伸、扭曲、改变人物动作、替换服装、重塑五官或增加无关元素。下半区以同一张原照为唯一视觉依据，将照片转译为极度简化的手工十字绣作品，仿佛一位韩国刺绣艺术家在天然亚麻或棉布上，用细小彩线重新绣出这张照片。不要做精细像素画复刻，而是大幅删繁就简，只保留最必要的视觉信息：人物或主体剪影、发型轮廓、姿势走势、服装大形、少量关键物件和最能识别照片关系的结构。面部只用极少数细小十字针点示意，不形成真实肖像。绣线呈现轻微不完美的手工感，针脚大小、线张力和间距有细微变化，边缘柔和但仍能看出十字绣材质。色彩限制为温暖象牙白、奶油色、米色、燕麦色、灰粉、低饱和鼠尾草绿、浅淡蓝和柔软棕色，避免鲜艳色、高对比和厚重阴影。刺绣图案应小而安静，位于画面中心或轻微偏离中心，周围保留大量未被刺绣覆盖的天然布面，约70%至85%的下半区保持空白织物，让布料纹理、纤维和轻微褶皱成为主要留白。整体像一张精致、安静、柔软、怀旧的韩国手工刺绣明信片。下半区必须与上半区形成清晰对照：上方是真实原照，下方是同一照片被极简手作刺绣转译后的结果，主体关系一致但不能简单复制。全图无文字、无真实肖像、无密集针脚、无照片写实、无复杂背景、无额外装饰元素。"
+    },
+    "media": [],
+    "models": [],
+    "sourcePreview": {
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HTxz3QMa4AEU6Ez.jpg",
+          "role": "source-media"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HTxz3QeboAEOWDi.jpg",
+          "role": "source-media"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HTxz3QPbEAAg50F.jpg",
+          "role": "source-media"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HTxz3QObkAAKujf.jpg",
+          "role": "source-media"
+        }
+      ],
+      "promptExcerpt": "生成一张3:4竖版双区海报，每张上传照片分别生成一张独立作品，不拼接、不合并。画面上下严格1:1分区，各占50%。上半区完整保留对应原始照片：人物身份、主体轮廓、发型、表情倾向、姿态、服装、配饰、随身",
+      "excerptTruncated": true
+    },
+    "provenance": {
+      "originalSource": {
+        "platform": "x",
+        "author": "@AWENIAI",
+        "url": "https://x.com/AWENIAI/status/2106686194029580708",
+        "postId": "2106686194029580708",
+        "publishedAt": "2026-10-04T10:01:43.000Z",
+        "verification": "reported-by-collector",
+        "promptPostUrl": "https://x.com/AWENIAI/status/2106686269334159789",
+        "promptPostId": "2106686269334159789"
+      },
+      "collectedFrom": [
+        {
+          "sourceId": "aweniai",
+          "mode": "collector-export",
+          "snapshotSha256": "4271663685af66a064e2b11da4f503493dea775306f5d029e32902c3401c030c",
+          "url": "https://x.com/AWENIAI/status/2106686194029580708",
+          "collectedAt": "2026-11-26T13:58:26.919Z"
+        }
+      ]
+    },
+    "rights": {
+      "prompt": "unknown",
+      "media": "unknown"
+    },
+    "sourceMeta": {
+      "model": null,
+      "textReview": "appears-complete",
+      "visualReview": "pending",
+      "pairing": "prompt_post_paired_with_nearby_image_post",
+      "imageVerification": "source-reported-output; HTTP and visual match unchecked",
+      "review": {
+        "qualityStatus": "recommended",
+        "classificationConfidence": "medium",
+        "classificationMethod": "owner-directed-collector-import",
+        "inputMode": "reference-to-image",
+        "category": "restyle"
+      }
+    }
+  },
+  {
+    "id": "aweniai-2107120604998676599",
+    "title": {
+      "en": null,
+      "zh": "新民艺剪纸拼贴"
+    },
+    "type": "generation",
+    "category": "illustrations",
+    "inputMode": "reference-to-image",
+    "status": "index-only",
+    "prompt": {
+      "original": "请将我上传的每一张照片分别生成一张独立的3:4竖版高级设计海报，不拼接、不合并。整体上下严格1:1分区，各占画面50%，形成真实原照与风格转译的清晰对照。上半区完整保留对应原始照片：主体身份、人物或物体结构、服装配饰、姿态动作、场景环境、构图比例、透视关系、材质细节、自然光影、景深和原有色彩氛围均保持不变；只允许轻微高级摄影调色，使画面具有艺术杂志、独立出版物和展览图像的克制质感。为适配竖版画幅，背景可顺应原场景自然延展，但不得拉伸、扭曲、改换主体、改变姿态或添加无关元素。下半区以同一张原照为唯一视觉依据，将照片中最具识别性的主体、轮廓、姿态、空间走势和叙事关系重构为新民艺剪纸拼贴风的扁平化插画。不要完整复制照片，也不要写实再现，删除无关细节，只保留一眼可识别的结构、方向、比例、视觉记忆点和上下对应关系；人物、植物、建筑、动物、器物或环境元素都像独立彩纸被重新剪裁、叠放、组合，可适度稚拙、符号化、几何化，通过剪影、色块、刻线、正负形和少量层叠概括主体。构图采用小尺度主体、章印感主视觉与大面积留白的关系，根据原照主体方向、重心和比例自由放置，可偏心、贴边或局部裁切，但必须保持清晰主次、疏密节奏和编辑式平衡；主体可集中在一侧或下方形成视觉落点，周围只保留极少辅助元素，不制造多个同等焦点。下半区材质呈现剪纸拼贴与版画印刷感：色块边缘带轻微手工剪切痕迹，可有温和套印偏差、掉墨感、纸张纤维和艺术纸底纹，避免光滑矢量、3D渲染、照片滤镜、过度精修和复杂透视。背景以米白、暖白或浅纸色为主，保留安静充足的空白。配色从上半区照片提取2至4种最有辨识度的颜色，转化为鲜明但克制、明快但不刺眼的扁平色块系统，可适度提纯、提亮和整理，形成主色、辅助色与少量点睛色层级，既保留原图情绪和身份，又呈现民艺拼贴的当代高级感，避免灰脏、沉闷、廉价糖果感、杂乱配色和未要求文字。"
+    },
+    "media": [],
+    "models": [],
+    "sourcePreview": {
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HT3-zYhagAI3aYv.jpg",
+          "role": "source-media"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HT3-zYiaMAAd-L6.jpg",
+          "role": "source-media"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HT3-zYga4AAjjeC.jpg",
+          "role": "source-media"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HT3-zYtb0AA-S-I.jpg",
+          "role": "source-media"
+        }
+      ],
+      "promptExcerpt": "请将我上传的每一张照片分别生成一张独立的3:4竖版高级设计海报，不拼接、不合并。整体上下严格1:1分区，各占画面50%，形成真实原照与风格转译的清晰对照。上半区完整保留对应原始照片：主体身份、人物或物",
+      "excerptTruncated": true
+    },
+    "provenance": {
+      "originalSource": {
+        "platform": "x",
+        "author": "@AWENIAI",
+        "url": "https://x.com/AWENIAI/status/2107120458911150282",
+        "postId": "2107120458911150282",
+        "publishedAt": "2026-10-05T14:47:20.000Z",
+        "verification": "reported-by-collector",
+        "promptPostUrl": "https://x.com/AWENIAI/status/2107120604998676599",
+        "promptPostId": "2107120604998676599"
+      },
+      "collectedFrom": [
+        {
+          "sourceId": "aweniai",
+          "mode": "collector-export",
+          "snapshotSha256": "4271663685af66a064e2b11da4f503493dea775306f5d029e32902c3401c030c",
+          "url": "https://x.com/AWENIAI/status/2107120458911150282",
+          "collectedAt": "2026-11-26T13:58:26.919Z"
+        }
+      ]
+    },
+    "rights": {
+      "prompt": "unknown",
+      "media": "unknown"
+    },
+    "sourceMeta": {
+      "model": null,
+      "textReview": "appears-complete",
+      "visualReview": "pending",
+      "pairing": "prompt_post_paired_with_nearby_image_post",
+      "imageVerification": "source-reported-output; HTTP and visual match unchecked",
+      "review": {
+        "qualityStatus": "recommended",
+        "classificationConfidence": "medium",
+        "classificationMethod": "owner-directed-collector-import",
+        "inputMode": "reference-to-image",
+        "category": "illustrations"
+      }
+    }
+  },
+  {
+    "id": "aweniai-2107487152556966350",
+    "title": {
+      "en": null,
+      "zh": "丝网印刷旅行海报"
+    },
+    "type": "generation",
+    "category": "posters",
+    "inputMode": "reference-to-image",
+    "status": "index-only",
+    "prompt": {
+      "original": "请将我上传的每一张照片分别生成一张独立作品，不拼接、不合并。整体为3:4竖版高级旅行视觉海报，上下严格1:1分区，各占画面高度50%，形成真实摄影与丝网印刷海报的明确对照。上半区完整保留对应上传照片，作为明亮、真实、干净的摄影场景；若照片对应地点为[LUGAR]，必须保持该地点的真实空间特征、建筑或自然地貌、街道、天空、植被、人物、物体、构图、比例、透视、材质、自然光影、景深和原有色彩关系不变。仅允许轻微高级摄影调色，使画面更通透、明亮，具有艺术杂志、独立出版物与展览摄影质感；背景可顺应原场景自然延展以适配画幅，但不得拉伸、扭曲、改变主体位置、替换地点特征或新增无关元素。上半区必须仍是可信的 fotorrealista luminosa 摄影画面，不要变成插画、绘画或滤镜海报。下半区以同一张照片和同一地点视角为唯一视觉依据，将上方场景重新转译为精致的 serigrafía póster 丝网印刷旅行海报。保留地点最具识别度的主体轮廓、空间走势、建筑剪影、山海天际线、街景关系、植物形态、代表性物件、光影情绪和画面叙事，但不要机械复制照片细节；用细线条、清晰轮廓、平面色块和克制构图概括场景，使观者能一眼看出它与上半区照片来自同一地点。下半区背景使用温暖象牙白或浅米白纸色，加入一块大型几何形作为主视觉结构，可根据照片空间关系设置为圆形、拱形、矩形或斜切色面，但不得遮挡主要识别信息。色彩从上方照片提取并整理为有限调色板，保留2至5种最具代表性的颜色，转化为鲜明但克制的平面色，避免复杂渐变、荧光色、廉价旅游海报感和杂乱配色。丝网印刷质感应包含轻微套印偏差、细小油墨颗粒、纸张纤维、温和掉墨和手工印刷的不完美边缘，但整体仍需干净、现代、平衡。下半区加入地点名称[LUGAR]，并配一行简短西班牙语短句，文字根据地点气质重新生成，简洁、诗意，像旅行海报或摄影日记中的注记；字体清晰、优雅、有出版物感，文字与几何图形和场景主体形成编辑式排版关系。禁止添加logo、品牌、水印、二维码、无关标志、过量文字、假字母、杂乱装饰、厚重阴影、3D效果、照片滤镜感和与原地点无关的元素。整张作品应安静、明亮、克制，像高级独立旅行摄影出版物中的双区实验海报。"
+    },
+    "media": [],
+    "models": [],
+    "sourcePreview": {
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HT9MGbIaYAAMvvF.jpg",
+          "role": "source-media"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HT9MGbJaAAA2lVr.jpg",
+          "role": "source-media"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HT9MGbTbQAAWeF9.jpg",
+          "role": "source-media"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HT9MGbHbAAAKvHv.jpg",
+          "role": "source-media"
+        }
+      ],
+      "promptExcerpt": "请将我上传的每一张照片分别生成一张独立作品，不拼接、不合并。整体为3:4竖版高级旅行视觉海报，上下严格1:1分区，各占画面高度50%，形成真实摄影与丝网印刷海报的明确对照。上半区完整保留对应上传照片，",
+      "excerptTruncated": true
+    },
+    "provenance": {
+      "originalSource": {
+        "platform": "x",
+        "author": "@AWENIAI",
+        "url": "https://x.com/AWENIAI/status/2107486887963422819",
+        "postId": "2107486887963422819",
+        "publishedAt": "2026-10-06T15:03:23.000Z",
+        "verification": "reported-by-collector",
+        "promptPostUrl": "https://x.com/AWENIAI/status/2107487152556966350",
+        "promptPostId": "2107487152556966350"
+      },
+      "collectedFrom": [
+        {
+          "sourceId": "aweniai",
+          "mode": "collector-export",
+          "snapshotSha256": "4271663685af66a064e2b11da4f503493dea775306f5d029e32902c3401c030c",
+          "url": "https://x.com/AWENIAI/status/2107486887963422819",
+          "collectedAt": "2026-11-26T13:58:26.919Z"
+        }
+      ]
+    },
+    "rights": {
+      "prompt": "unknown",
+      "media": "unknown"
+    },
+    "sourceMeta": {
+      "model": null,
+      "textReview": "appears-complete",
+      "visualReview": "pending",
+      "pairing": "prompt_post_paired_with_nearby_image_post",
+      "imageVerification": "source-reported-output; HTTP and visual match unchecked",
+      "review": {
+        "qualityStatus": "recommended",
+        "classificationConfidence": "medium",
+        "classificationMethod": "owner-directed-collector-import",
+        "inputMode": "reference-to-image",
+        "category": "posters"
+      }
+    }
+  },
+  {
+    "id": "aweniai-2107854564477358562",
+    "title": {
+      "en": null,
+      "zh": "连续场景第二世界"
+    },
+    "type": "generation",
+    "category": "creative-art",
+    "inputMode": "reference-to-image",
+    "status": "index-only",
+    "prompt": {
+      "original": "每张上传照片各生成一张独立海报，不拼接、不合并。垂直3:4画布，上下严格各占50%，构成连续场景：上半区是真实摄影，下半区是从原照内部自然生长出的“第二世界”。上半区忠实保留原照的人物身份、主体、服装配饰、物体、环境、构图、姿态、比例、空间关系、透视、材质、景深、自然光影及色彩氛围，不重绘、不替换、不重新布置，不添加无关元素；仅可轻微裁切、延展背景及极轻调色以适配画幅，禁止拉伸、扭曲或改变人物动作。上下连续性为最高优先级：为每张照片识别一个抵达中线的自然结构，如道路、水面、树枝、光束、建筑或身体动作；该结构必须在接缝处精确相接并跨界延续至下半区，让同一场景过缝后改变物理规则。中央可用顺应源结构与空间走势的不规则撕纸边缘，不能成为装饰或固定模板；撕口须完全平贴、无投影、无卷边、无翘起、无立体厚度，允许源元素触碰或突破。下半区以带细微纤维、温暖质感和丰富留白的象牙色纸为基础，从源结构与分界相遇处继续向下发展，保留原照的视觉中心、主体轮廓、姿态、透视、固有色、光影、情绪与叙事，再用克制的照片碎片、剪纸形态和极少黑色手绘线条转译。它必须与上方保持清晰物理连接，不得成为独立入口、窗户、舞台、平台或漂浮插画，除非确由原照自然生成。逐图判断第二世界的用途：设想这条结构若变得可触摸、可使用、可进入或可改变，会自然转化为何物，并只设计一种具体互动；例如水面可在保持连接时被拉伸，道路可化为可行走的手绘路径，光线可成为被握住的实体，但不得机械复用示例或动作。仅在叙事确有需要时加入0至3个微小黑色线条人物，并让其真实触碰、拉动、攀爬、行走或使用延续结构；若原照已有强烈的人物动作，则不新增人物，绝不把人物当装饰。依据互动动作加入一句简短、自然、轻松、略带机智的手写英文标题，文字内容与位置随画面自适应，不写励志金句，不固定使用“Same…Different…”句式，不生成乱码。整体风格为上方真实摄影、下方温暖纸张，配合最少黑色线稿、细微手工拼贴纹理与充足负空间，明亮、通透、克制，呈现独立杂志质感；结果应像第二世界一直隐藏在照片里，只是沿原有结构向下显现。禁止上下断裂、孤立下半区、通用撕纸形状、无关小插图、密集插画、随机装饰、人群、改变原照颜色、重设计上层、光泽3D、剪贴簿杂乱。"
+    },
+    "media": [],
+    "models": [],
+    "sourcePreview": {
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HUCaEzdaQAAFvh-.jpg",
+          "role": "source-media"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HUCaEzIaoAAFjvH.jpg",
+          "role": "source-media"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HUCaEzIaMAAG7Jd.jpg",
+          "role": "source-media"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HUCaEzKaEAEfhne.jpg",
+          "role": "source-media"
+        }
+      ],
+      "promptExcerpt": "每张上传照片各生成一张独立海报，不拼接、不合并。垂直3:4画布，上下严格各占50%，构成连续场景：上半区是真实摄影，下半区是从原照内部自然生长出的“第二世界”。上半区忠实保留原照的人物身份、主体、服装",
+      "excerptTruncated": true
+    },
+    "provenance": {
+      "originalSource": {
+        "platform": "x",
+        "author": "@AWENIAI",
+        "url": "https://x.com/AWENIAI/status/2107854367298908243",
+        "postId": "2107854367298908243",
+        "publishedAt": "2026-10-07T15:23:37.000Z",
+        "verification": "reported-by-collector",
+        "promptPostUrl": "https://x.com/AWENIAI/status/2107854564477358562",
+        "promptPostId": "2107854564477358562"
+      },
+      "collectedFrom": [
+        {
+          "sourceId": "aweniai",
+          "mode": "collector-export",
+          "snapshotSha256": "4271663685af66a064e2b11da4f503493dea775306f5d029e32902c3401c030c",
+          "url": "https://x.com/AWENIAI/status/2107854367298908243",
+          "collectedAt": "2026-11-26T13:58:26.919Z"
+        }
+      ]
+    },
+    "rights": {
+      "prompt": "unknown",
+      "media": "unknown"
+    },
+    "sourceMeta": {
+      "model": null,
+      "textReview": "appears-complete",
+      "visualReview": "pending",
+      "pairing": "prompt_post_paired_with_nearby_image_post",
+      "imageVerification": "source-reported-output; HTTP and visual match unchecked",
+      "review": {
+        "qualityStatus": "recommended",
+        "classificationConfidence": "medium",
+        "classificationMethod": "owner-directed-collector-import",
+        "inputMode": "reference-to-image",
+        "category": "creative-art"
+      }
+    }
+  },
+  {
+    "id": "aweniai-2108180883320823867",
+    "title": {
+      "en": null,
+      "zh": "超大物件扁平几何插画"
+    },
+    "type": "generation",
+    "category": "illustrations",
+    "inputMode": "reference-to-image",
+    "status": "index-only",
+    "prompt": {
+      "original": "为每张上传照片单独生成一张完整海报，绝不拼接或合并多张照片。成品为3:4竖版单页，画面上下严格1:1分区，各占画幅50%，边缘延展为暖灰白纸张底色，干净克制的当代编辑设计版式，无任何额外文字、logo或水印。上半区完整保留对应原始照片，人物身份、发型、服装细节、配饰、姿态、物体、环境、构图、比例、透视、材质、自然光影、景深与色彩关系均不得改变；背景可自然延展以适配纵幅，不得拉伸、变形、改换身份或动作，不增加无关物件。人物须位于原有空间位置，保留边缘裁切、观看方向、视觉重心，以及人物与环境的距离关系，不能用居中肖像替代真实场景。只允许轻微高级摄影调色，使其具有艺术杂志、独立出版物的精致摄影质感。\n下半区以同一原照为唯一依据，执行“保留人物可识别身份与重要视觉特征，将人物与关键大物件重新绘制为高级扁平几何插画”的处理逻辑，而非在照片上随意叠加元素。提炼原照中的发型、服装特征、姿势、人物轮廓、代表性色彩和人物与物件的关系，转译为少量超大、不对称的几何色块；人物略夸张，小头、修长胶囊状四肢、简化连指手，且一个来自原照或与姿态语义一致的超大物件必须自然嵌入动作与轮廓，显著改变整体剪影并保持视觉中心。人物面部仅用近黑剪纸感的新月眼和极简嘴部，情绪主要由全身姿势、动作张力与剪影传达，禁止细致五官。\n下半区采用清晰平面色块、不对称比例、硬朗边缘、重叠处可控的柔和喷枪暗到彩色渐变、细腻印刷颗粒和主要分布于深色区域的轻微点描；整体是精致、现代、具有出版感的编辑插画，而非描边卡通。主色限定暖灰白、近黑、亮粉、暖红、钴蓝、祖母绿，保持图形化纯色，只在形状相交处使用克制软渐变。上下分界必须清晰但不加边框，色彩、留白与视觉节奏彼此呼应，插画区不得残留照片纹理、真实阴影或摄影背景。人物和超大物件始终是焦点，以充足留白和均衡排版组织下半区；其与上半区必须呈现同一人物、同一姿态和主题的真实摄影与几何重绘对照，不能成为简单复制。禁止描边漫画风、亮面3D、真实皮肤、照片写实、粗糙画布、杂乱背景、多余肢体、畸形解剖、过度脸部细节、写实光影、随机物件、堆砌、拼贴感和水印。"
+    },
+    "media": [],
+    "models": [],
+    "sourcePreview": {
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HUHDLSBbgAALbmc.jpg",
+          "role": "source-media"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HUHDLRYbUAA8dhO.jpg",
+          "role": "source-media"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HUHDLRdaYAAPL5M.jpg",
+          "role": "source-media"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HUHDLRca4AELqX2.jpg",
+          "role": "source-media"
+        }
+      ],
+      "promptExcerpt": "为每张上传照片单独生成一张完整海报，绝不拼接或合并多张照片。成品为3:4竖版单页，画面上下严格1:1分区，各占画幅50%，边缘延展为暖灰白纸张底色，干净克制的当代编辑设计版式，无任何额外文字、logo",
+      "excerptTruncated": true
+    },
+    "provenance": {
+      "originalSource": {
+        "platform": "x",
+        "author": "@AWENIAI",
+        "url": "https://x.com/AWENIAI/status/2108180731377922250",
+        "postId": "2108180731377922250",
+        "publishedAt": "2026-10-08T13:00:29.000Z",
+        "verification": "reported-by-collector",
+        "promptPostUrl": "https://x.com/AWENIAI/status/2108180883320823867",
+        "promptPostId": "2108180883320823867"
+      },
+      "collectedFrom": [
+        {
+          "sourceId": "aweniai",
+          "mode": "collector-export",
+          "snapshotSha256": "4271663685af66a064e2b11da4f503493dea775306f5d029e32902c3401c030c",
+          "url": "https://x.com/AWENIAI/status/2108180731377922250",
+          "collectedAt": "2026-11-26T13:58:26.919Z"
+        }
+      ]
+    },
+    "rights": {
+      "prompt": "unknown",
+      "media": "unknown"
+    },
+    "sourceMeta": {
+      "model": null,
+      "textReview": "appears-complete",
+      "visualReview": "pending",
+      "pairing": "prompt_post_paired_with_nearby_image_post",
+      "imageVerification": "source-reported-output; HTTP and visual match unchecked",
+      "review": {
+        "qualityStatus": "recommended",
+        "classificationConfidence": "medium",
+        "classificationMethod": "owner-directed-collector-import",
+        "inputMode": "reference-to-image",
+        "category": "illustrations"
+      }
+    }
+  },
+  {
+    "id": "aweniai-2108502210913136696",
+    "title": {
+      "en": null,
+      "zh": "几何记忆马赛克"
+    },
+    "type": "generation",
+    "category": "creative-art",
+    "inputMode": "reference-to-image",
+    "status": "index-only",
+    "prompt": {
+      "original": "将每张上传照片分别制作成一张独立的设计海报，绝不拼接或合并多张照片。3:4竖版单页，上下严格1:1双区，各占画幅50%，以真实摄影与记忆化几何重构相互呼应。上半区完整保留对应原照的人物或主体身份、服装配饰、物体、环境、构图、姿态、比例、透视、材质、自然光影、景深与原有色彩氛围；仅允许轻微高级摄影调色，呈现艺术杂志、展览摄影质感。背景可自然延展适配画幅，但不得拉伸、扭曲、移动或改变主体、姿态和场景关系，亦不得增加无关元素。\n下半区以同一原照为唯一依据，进行核心意象的几何化重构，不复刻完整场景、不逐一转绘所有物体，也不作写实描摹。先判断照片主题、视觉隐喻或审美关系，只保留最值得被记住的一个核心主体及极少数参与叙事的关系；提取主体、轮廓、姿态、空间走势、尺度、视觉中心与代表性色彩，使下方仍可一眼识别原始主题。若动人之处是人与建筑的尺度、物与环境的并置或局部结构呼应，必须优先保留并强化这种关系。删除无关环境和碎细信息，上下形成同一主题的现实与记忆对照，不能成为简单复制。\n采用几何构成加智能马赛克重组：将主体与空间压缩为块面、矩形单元、细线框架、层叠网格、格点、切片与台阶状边缘；依据主体结构有秩序地归纳，大形体轮廓明确，小细节转为克制色块与局部拼接，绝非随机像素化。少量加入轴线、对齐线、边界框、留白分区与装饰几何，营造高级编辑设计和建筑图解感。下半区用按原照综合色温匹配的近白极浅背景，可微暖、微冷或带极轻色相，以大面积净白留出空气、距离与呼吸感。\n构图强调视觉重心、比例、负空间、模块节奏、对齐秩序与不完全对称；主体可偏置、悬置、低重心落位，或由几何层级向中心聚合，禁止平均铺满。配色从原照提炼，以奶油黄、杏色、粉橘、珊瑚粉、旧玫瑰等暖色与天空蓝、浅青绿、薄荷绿、灰绿等冷色松弛碰撞，极少量砖红、橙红、深绿、土褐或黑色作锚点；允许局部换色、错色、跳色，色块必须平涂、干净、和谐，避免脏灰、统一滤镜和高饱和数字色。文字不预设内容，依原图主题、动作、环境、情绪或隐喻生成极少量有意义的文字，以细瘦、疏朗、小而安静的排版置于留白、底部、边角或几何分区。整体融合建筑图解、艺术地图、现代拼贴海报与高级编辑设计，安静理性而有色彩温度；禁止贴纸逻辑、繁复纹理、光滑3D、卡通模板感及无意义元素。"
+    },
+    "media": [],
+    "models": [],
+    "sourcePreview": {
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HULnc-jbAAAbw4I.jpg",
+          "role": "source-media"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HULnc-lacAAMoJm.jpg",
+          "role": "source-media"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HULngD3akAA6qQz.jpg",
+          "role": "source-media"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HULngDmbYAEgb7I.jpg",
+          "role": "source-media"
+        }
+      ],
+      "promptExcerpt": "将每张上传照片分别制作成一张独立的设计海报，绝不拼接或合并多张照片。3:4竖版单页，上下严格1:1双区，各占画幅50%，以真实摄影与记忆化几何重构相互呼应。上半区完整保留对应原照的人物或主体身份、服装",
+      "excerptTruncated": true
+    },
+    "provenance": {
+      "originalSource": {
+        "platform": "x",
+        "author": "@AWENIAI",
+        "url": "https://x.com/AWENIAI/status/2108502134983659636",
+        "postId": "2108502134983659636",
+        "publishedAt": "2026-10-09T10:17:37.000Z",
+        "verification": "reported-by-collector",
+        "promptPostUrl": "https://x.com/AWENIAI/status/2108502210913136696",
+        "promptPostId": "2108502210913136696"
+      },
+      "collectedFrom": [
+        {
+          "sourceId": "aweniai",
+          "mode": "collector-export",
+          "snapshotSha256": "4271663685af66a064e2b11da4f503493dea775306f5d029e32902c3401c030c",
+          "url": "https://x.com/AWENIAI/status/2108502134983659636",
+          "collectedAt": "2026-11-26T13:58:26.919Z"
+        }
+      ]
+    },
+    "rights": {
+      "prompt": "unknown",
+      "media": "unknown"
+    },
+    "sourceMeta": {
+      "model": null,
+      "textReview": "appears-complete",
+      "visualReview": "pending",
+      "pairing": "prompt_post_paired_with_nearby_image_post",
+      "imageVerification": "source-reported-output; HTTP and visual match unchecked",
+      "review": {
+        "qualityStatus": "recommended",
+        "classificationConfidence": "medium",
+        "classificationMethod": "owner-directed-collector-import",
+        "inputMode": "reference-to-image",
+        "category": "creative-art"
+      }
+    }
+  },
+  {
+    "id": "aweniai-2108878248201572733",
+    "title": {
+      "en": null,
+      "zh": "机绣任务徽章"
+    },
+    "type": "generation",
+    "category": "creative-art",
+    "inputMode": "reference-to-image",
+    "status": "index-only",
+    "prompt": {
+      "original": "每张上传照片独立生成一张3:4竖版艺术海报，禁止拼接或九宫格。画面上下严格1:1，各占50%；上半为真实原照，下半为同一核心意象重构的真实机绣任务徽章，融合探索档案、复古标识与瑞士编辑设计，精致、克制且有呼吸感。\n上半区由对应原照满版铺至画布边缘及中央分界线，无白边、相框、卡片、胶带或阴影。保留主体身份、数量、姿态、服装、环境、构图、比例、透视、光影、景深、色彩及可识别细节；仅可等比例裁切、背景自然延展、轻微调色，不得拉伸、扭曲、移动、替换主体或场景、改变动作或增添无关元素。\n下半区以原照为唯一依据，将核心主体、轮廓、动作、色彩、情绪和视觉重心转译为一枚主刺绣任务章，确保与上方同源。保留人物或群像的身份、数量与互动，动物品种与姿态，植物季节形态，风景地形，建筑静物轮廓和空间关系。仅提炼少量背景，删除次要信息，不复刻整张照片或加入装饰。外形按主题在圆、椭圆、盾、五或六边、拱、圆角方或梯、山峰三角、路牌、旗标、臂章、五角星或柔和异形中自由选择；外轮廓完整自然、可制作，不能只是拉伸圆形或为异形牺牲识别度，每张仅一枚主章。\n下半区满铺暖米白亚麻布，具细密平纹、天然纤维、轻微起伏和柔和光影。徽章居中，宽占整幅38%至45%，四周暖白留白充足，不接触分界或边缘。真实呈现织物基底、棉质或丝光绣线、填充针脚、凸起缎面线、走线方向、材质厚度与锁边；针迹随花、毛、衣物、天空改变方向密度。颜色取自原照并优化明度纯净度，有接触微阴影；禁止矢量、塑料、3D、数码绘画、油画、贴纸或商品渲染。\n下半区按顶部标题、中央徽章、左右档案、底部情绪标语四级编排。英文据照片主题独立创作，语义自然、拼写准确，无品牌乱码：顶部为2至4词、深海军蓝或炭灰的醒目无衬线标题，配全大写任务副标题；左右以少量线性图标、FIELD PATCH编号、关键词、SIGNAL名称或虚构任务分类形成不对称平衡，未知地点时间不得伪造坐标；徽章下方设置两行温暖有故事感的英文短句，可配细线、星芒或主题线稿。文字清晰偏大、统一对齐、字距行距舒展，以深色为主、少量主题色点缀，不能挤压徽章。上下材质反差明确而由主体、色彩和情绪统一；禁止徽章固定圆形、过大偏移、重复图案标题编号、复杂背景、密集装饰、假字母、logo、水印及破坏1:1结构。"
+    },
+    "media": [],
+    "models": [],
+    "sourcePreview": {
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HUQ9by_bAAEvtt1.jpg",
+          "role": "source-media"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HUQ9bzGaYAAi2c4.jpg",
+          "role": "source-media"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HUQ9bzUbQAAqeeL.jpg",
+          "role": "source-media"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HUQ9b0LaEAAF0tj.jpg",
+          "role": "source-media"
+        }
+      ],
+      "promptExcerpt": "每张上传照片独立生成一张3:4竖版艺术海报，禁止拼接或九宫格。画面上下严格1:1，各占50%；上半为真实原照，下半为同一核心意象重构的真实机绣任务徽章，融合探索档案、复古标识与瑞士编辑设计，精致、克制",
+      "excerptTruncated": true
+    },
+    "provenance": {
+      "originalSource": {
+        "platform": "x",
+        "author": "@AWENIAI",
+        "url": "https://x.com/AWENIAI/status/2108878096548221215",
+        "postId": "2108878096548221215",
+        "publishedAt": "2026-10-10T11:11:33.000Z",
+        "verification": "reported-by-collector",
+        "promptPostUrl": "https://x.com/AWENIAI/status/2108878248201572733",
+        "promptPostId": "2108878248201572733"
+      },
+      "collectedFrom": [
+        {
+          "sourceId": "aweniai",
+          "mode": "collector-export",
+          "snapshotSha256": "4271663685af66a064e2b11da4f503493dea775306f5d029e32902c3401c030c",
+          "url": "https://x.com/AWENIAI/status/2108878096548221215",
+          "collectedAt": "2026-11-26T13:58:26.919Z"
+        }
+      ]
+    },
+    "rights": {
+      "prompt": "unknown",
+      "media": "unknown"
+    },
+    "sourceMeta": {
+      "model": null,
+      "textReview": "appears-complete",
+      "visualReview": "pending",
+      "pairing": "prompt_post_paired_with_nearby_image_post",
+      "imageVerification": "source-reported-output; HTTP and visual match unchecked",
+      "review": {
+        "qualityStatus": "recommended",
+        "classificationConfidence": "medium",
+        "classificationMethod": "owner-directed-collector-import",
+        "inputMode": "reference-to-image",
+        "category": "creative-art"
+      }
+    }
+  },
+  {
+    "id": "aweniai-2109252177084711016",
+    "title": {
+      "en": null,
+      "zh": "俏皮手绘批注"
+    },
+    "type": "generation",
+    "category": "illustrations",
+    "inputMode": "reference-to-image",
+    "status": "index-only",
+    "prompt": {
+      "original": "为每一张上传照片分别生成一张独立的3:4竖版对照海报，绝不拼接不同照片。画面上下严格1:1，各占50%。上半区完整保留对应真实原照：人物、手脚、服装、物体、场景、构图、拍摄角度、透视、比例、材质、自然光影、景深与色彩关系均不得改变；只允许轻微胶片级调色，令它像一本独立视觉杂志中的原始照片，背景可自然延展至竖幅但不可拉伸主体或添加无关物。\n下半区仍以同一张原照为完整底图，将它转译成“照片上长出一层顽皮手绘批注”的趣味涂鸦作品：不是重画、不是滤镜、不是贴纸堆砌。先识别画面的主角、姿态、轮廓、视觉动线、可书写的留白、情绪与季节线索；以主体轮廓为边界加入一圈不闭合、略有抖动的细白色或高对比描边，像蜡笔和马克笔刚画完。根据照片本身决定涂鸦：叶片、树、云、建筑、食物、鞋、手或动物可被轻度拟人化，加入不规则椭圆眼睛、短弧微笑、腮红、毛线状四肢或小表情；场景空隙配少量蜡笔波浪线、箭头、星号、圆圈、太阳、火花、叶片、飞虫或表情符号，元素必须顺着真实物体的方向、尺度和遮挡关系生长，稀疏而有节奏。\n文字是画面叙事的一部分，而不是固定文案：自动从主体、天气、动作、地点气氛和色彩中提炼一句6—14字的俏皮短句，可使用中文、英文或中英混搭，例如只在画面确有秋叶时写“叶的假期 / leaf mode”，晴空与树时写“木头天气 / hello sunshine”；每次重新生成，不复用示例。主标题用粗厚、边缘毛糙的手写蜡笔字，放在天空、地面或留白；次级细字可沿主体轮廓、鞋边、树冠或物体周围绕行，必须可读且不遮住脸、手或关键主体。配色从原照抽取2—4种高辨识色，再用白色、橙黄、草绿或珊瑚红点亮；保留真实照片颗粒、阴影与触感，笔触为半透明蜡笔、粉笔和马克笔混合，线宽、手写字距与小图标都要不完美而有生命力。上下对应同一主题：上半区是未经篡改的真实瞬间，下半区是同一瞬间被想象力轻轻接管。禁止AI塑料感、矢量化整齐线条、模板化构图、密集文字、错误字符、随机英文、遮挡主体、改变原照人物身份姿态或虚构与场景无关的大元素。"
+    },
+    "media": [],
+    "models": [],
+    "sourcePreview": {
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HUWPmf5aEAAyh_f.jpg",
+          "role": "source-media"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HUWPmg2bsAEk1xi.jpg",
+          "role": "source-media"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HUWPmg1bUAAJyk0.jpg",
+          "role": "source-media"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HUWPmgIaMAA3A8y.jpg",
+          "role": "source-media"
+        }
+      ],
+      "promptExcerpt": "为每一张上传照片分别生成一张独立的3:4竖版对照海报，绝不拼接不同照片。画面上下严格1:1，各占50%。上半区完整保留对应真实原照：人物、手脚、服装、物体、场景、构图、拍摄角度、透视、比例、材质、自然",
+      "excerptTruncated": true
+    },
+    "provenance": {
+      "originalSource": {
+        "platform": "x",
+        "author": "@AWENIAI",
+        "url": "https://x.com/AWENIAI/status/2109252012089258236",
+        "postId": "2109252012089258236",
+        "publishedAt": "2026-10-11T11:57:22.000Z",
+        "verification": "reported-by-collector",
+        "promptPostUrl": "https://x.com/AWENIAI/status/2109252177084711016",
+        "promptPostId": "2109252177084711016"
+      },
+      "collectedFrom": [
+        {
+          "sourceId": "aweniai",
+          "mode": "collector-export",
+          "snapshotSha256": "4271663685af66a064e2b11da4f503493dea775306f5d029e32902c3401c030c",
+          "url": "https://x.com/AWENIAI/status/2109252012089258236",
+          "collectedAt": "2026-11-26T13:58:26.919Z"
+        }
+      ]
+    },
+    "rights": {
+      "prompt": "unknown",
+      "media": "unknown"
+    },
+    "sourceMeta": {
+      "model": null,
+      "textReview": "appears-complete",
+      "visualReview": "pending",
+      "pairing": "prompt_post_paired_with_nearby_image_post",
+      "imageVerification": "source-reported-output; HTTP and visual match unchecked",
+      "review": {
+        "qualityStatus": "recommended",
+        "classificationConfidence": "medium",
+        "classificationMethod": "owner-directed-collector-import",
+        "inputMode": "reference-to-image",
+        "category": "illustrations"
+      }
+    }
+  },
+  {
+    "id": "aweniai-2111074761078133187",
+    "title": {
+      "en": null,
+      "zh": "包豪斯北欧几何插画"
+    },
+    "type": "generation",
+    "category": "illustrations",
+    "inputMode": "reference-to-image",
+    "status": "index-only",
+    "prompt": {
+      "original": "每张上传照片独立生成一张高级极简双联海报，不拼接、不合并。整体3:4竖版，上下严格1:1各占50%；上半真实摄影，下半为同一场景的现代几何艺术，融合包豪斯与北欧极简美学。\n上半区忠实保留原照身份五官、服饰动作，动植物、建筑、环境、构图比例、透视空间、材质景深、自然光影与色彩。不得重绘、移动、替换主体或改变场景；仅可轻微裁切、背景自然延展、克制调色。照片满版至顶部和中央分界线，禁止白边、相框及阴影。\n分界干净平直：摄影接暖色纸面，禁止撕纸、卷边与拼贴。下半区保持原照主体、动作方向、关键环境和叙事一致，可简化结构、增加留白。\n下半区以象牙白满版铺底，带细腻纸张纤维及轻微印刷颗粒。将原照人物、动植物、建筑、道路、水面、天空、交通工具及道具统一重构为扁平几何形体，绝非只对主体加滤镜。采用圆形、椭圆、半圆、胶囊形、矩形、三角形、梯形、弧形及多边形组合。人物保留发型、五官、服饰、姿态和情绪；动物保留耳鼻、毛色及轮廓；建筑保留结构透视；自然景物化为简洁色块。所有元素抽象程度一致，不得虚构额外人物或改变场景关系；禁止写实背景、传统卡通、绘本笔触和复杂线稿。\n构图优先：下半区整组几何插画缩至80%，不可铺满；插画、主标题、副标题及可选极细短线构成紧凑模块。模块水平居中，整体向下移动约下半区高度20%，视觉中心位于下半区55%—60%处。插画在上、文字在下，顶部大面积留白，左右均衡，底部保留安全边距。插画占下半区约45%—55%视觉面积，不用装饰填空。\n依据原照选择3—5种柔和复古色，参考深海军蓝、赭石橙、奶油黄、橄榄绿、灰蓝。使用平面色块、轻微叠色、渐晕与油墨网点；禁止厚重油画、强写实阴影、塑料高光、3D及复杂渐变。\n文字依据照片动态生成，全部英文且与场景相关。主标题2—4词、全大写，采用Helvetica Neue UltraLight、Avenir Light式极细无衬线字体，扩大字距；副标题更小更细，简短描述环境、动作或情绪。文字居中位于插画下方，可加极细短线；禁止粗体、乱码、固定口号和虚构地点日期。\n\n最终呈现安静通透、精致温暖的现代艺术海报。"
+    },
+    "media": [],
+    "models": [],
+    "sourcePreview": {
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HUwLA3FbYAAO4yX.jpg",
+          "role": "source-media"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HUwLAzAb0AAEvkX.jpg",
+          "role": "source-media"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HUwLAy0aUAAHjDd.jpg",
+          "role": "source-media"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HUwLAyXaMAAd3gT.jpg",
+          "role": "source-media"
+        }
+      ],
+      "promptExcerpt": "每张上传照片独立生成一张高级极简双联海报，不拼接、不合并。整体3:4竖版，上下严格1:1各占50%；上半真实摄影，下半为同一场景的现代几何艺术，融合包豪斯与北欧极简美学。 上半区忠实保留原照身份五官、",
+      "excerptTruncated": true
+    },
+    "provenance": {
+      "originalSource": {
+        "platform": "x",
+        "author": "@AWENIAI",
+        "url": "https://x.com/AWENIAI/status/2111074626545778796",
+        "postId": "2111074626545778796",
+        "publishedAt": "2026-10-16T12:39:47.000Z",
+        "verification": "reported-by-collector",
+        "promptPostUrl": "https://x.com/AWENIAI/status/2111074761078133187",
+        "promptPostId": "2111074761078133187"
+      },
+      "collectedFrom": [
+        {
+          "sourceId": "aweniai",
+          "mode": "collector-export",
+          "snapshotSha256": "4271663685af66a064e2b11da4f503493dea775306f5d029e32902c3401c030c",
+          "url": "https://x.com/AWENIAI/status/2111074626545778796",
+          "collectedAt": "2026-11-26T13:58:26.919Z"
+        }
+      ]
+    },
+    "rights": {
+      "prompt": "unknown",
+      "media": "unknown"
+    },
+    "sourceMeta": {
+      "model": null,
+      "textReview": "appears-complete",
+      "visualReview": "pending",
+      "pairing": "prompt_post_paired_with_nearby_image_post",
+      "imageVerification": "source-reported-output; HTTP and visual match unchecked",
+      "review": {
+        "qualityStatus": "recommended",
+        "classificationConfidence": "medium",
+        "classificationMethod": "owner-directed-collector-import",
+        "inputMode": "reference-to-image",
+        "category": "illustrations"
+      }
+    }
+  },
+  {
+    "id": "aweniai-2111443266646483238",
+    "title": {
+      "en": null,
+      "zh": "非矩形抽象几何艺术"
+    },
+    "type": "generation",
+    "category": "creative-art",
+    "inputMode": "reference-to-image",
+    "status": "index-only",
+    "prompt": {
+      "original": "每张上传照片分别生成一张独立海报，不拼接、不混合。3:4竖版画布，上下严格1:1，各占50%，以干净平直水平线分界，无边框、卡片、胶带、撕纸、卷边或拼贴阴影。上半区完整保留对应原始照片，主体、人物身份五官、发型服饰、动作表情、物体、环境、构图、比例、透视、材质、景深、自然光影与色彩关系均不得改变；仅允许轻微高级调色、曝光优化与背景自然延展，满版覆盖顶部、左右及分界线，清除水印、Logo和非场景文字，不增加无关元素。\n下半区以同一原照为唯一依据，将照片主体、轮廓、姿态、空间走势、环境、色彩、光影和视觉重心彻底拆解并重构为现代抽象几何艺术，保留原照的构图记忆与情绪联系，但不残留任何写实摄影区域，不是滤镜或几何覆盖照片。采用包豪斯、瑞士实验平面设计、复古独立艺术杂志与Risograph孔版印刷气质。核心几何组合整体缩小约70%，以约30%常规尺度形成精致集中的视觉中心，可依原照重心自由偏移；主体内部保持丰富的大中小层级结构，主体外部保留大面积暖白、米白或象牙白纸面留白。\n严格禁止矩形、正方形、方块拼贴、棋盘格、矩形网格及由线条围合出的直角框架。仅使用圆形、半圆、圆环、圆弧、扇形、椭圆、三角形、楔形、锥形、弯月形、不规则曲面、开放轮廓、缺口、细直线、虚线、曲线、节点、圆点、轨迹与负空间；所有形体、方向和细节必须源自原照，不添加无关图案。颜色从原照提取，以同色系明度变化建立层次，避免廉价渐变、霓虹色和杂乱高饱和配色。\n下半区加入与照片内容相关、具有真实含义的1—4词英文艺术标题，以及少量英文辅助文字、索引或编号；使用Didot、Bodoni、Didone式纤细修长、高对比度衬线字体，自由非对称排版，可横向、纵向、错位或局部斜体，不固定模板，不出现乱码、伪英文、水印或商业Logo。以少量细线、开放圆弧、点阵和结构节点连接主体与留白。纸面具有细腻温暖纤维、轻微Risograph颗粒、丝网印刷套印偏差与自然不规则边缘，文字线条保持清晰。最终只输出一张高清艺术海报。"
+    },
+    "media": [],
+    "models": [],
+    "sourcePreview": {
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HU1aNbvacAASWsV.jpg",
+          "role": "source-media"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HU1aNa8aIAAGWUF.jpg",
+          "role": "source-media"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HU1aNa9aoAALfNi.jpg",
+          "role": "source-media"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HU1aNa7acAAmKtv.jpg",
+          "role": "source-media"
+        }
+      ],
+      "promptExcerpt": "每张上传照片分别生成一张独立海报，不拼接、不混合。3:4竖版画布，上下严格1:1，各占50%，以干净平直水平线分界，无边框、卡片、胶带、撕纸、卷边或拼贴阴影。上半区完整保留对应原始照片，主体、人物身份",
+      "excerptTruncated": true
+    },
+    "provenance": {
+      "originalSource": {
+        "platform": "x",
+        "author": "@AWENIAI",
+        "url": "https://x.com/AWENIAI/status/2111443124878991796",
+        "postId": "2111443124878991796",
+        "publishedAt": "2026-10-17T13:04:04.000Z",
+        "verification": "reported-by-collector",
+        "promptPostUrl": "https://x.com/AWENIAI/status/2111443266646483238",
+        "promptPostId": "2111443266646483238"
+      },
+      "collectedFrom": [
+        {
+          "sourceId": "aweniai",
+          "mode": "collector-export",
+          "snapshotSha256": "4271663685af66a064e2b11da4f503493dea775306f5d029e32902c3401c030c",
+          "url": "https://x.com/AWENIAI/status/2111443124878991796",
+          "collectedAt": "2026-11-26T13:58:26.919Z"
+        }
+      ]
+    },
+    "rights": {
+      "prompt": "unknown",
+      "media": "unknown"
+    },
+    "sourceMeta": {
+      "model": null,
+      "textReview": "appears-complete",
+      "visualReview": "pending",
+      "pairing": "prompt_post_paired_with_nearby_image_post",
+      "imageVerification": "source-reported-output; HTTP and visual match unchecked",
+      "review": {
+        "qualityStatus": "recommended",
+        "classificationConfidence": "medium",
+        "classificationMethod": "owner-directed-collector-import",
+        "inputMode": "reference-to-image",
+        "category": "creative-art"
+      }
+    }
+  },
+  {
+    "id": "aweniai-2111812048715960710",
+    "title": {
+      "en": null,
+      "zh": "满版长虹玻璃渐变折射"
+    },
+    "type": "generation",
+    "category": "creative-art",
+    "inputMode": "reference-to-image",
+    "status": "index-only",
+    "prompt": {
+      "original": "每张上传照片分别生成一张独立的高级艺术双联海报，不拼接、不混合、不合并不同照片。画布严格为3:4竖版，上下两个区域各占50%，以干净平直的水平线自然分界，不使用相框、卡片、胶带、撕纸、卷边、拼贴阴影或装饰边界。整体融合真实摄影、奢侈品广告、实验摄影、现代光学艺术、极简主义与高级编辑设计。\n上半区完整保留对应原始照片，人物或动物的身份、五官、眼睛、神态、毛发、服饰、动作与姿态保持一致；花卉、植物、建筑、风景、交通工具及静物的轮廓、结构、位置、材质、透视、环境、景深、自然光影与色彩关系不得改变。仅允许轻微高级调色、曝光优化及背景自然延展，不得拉伸、扭曲、替换主体或增加无关元素。原照满版覆盖上半区，直达顶部、左右边缘及中央分界线，呈现真实、细腻的艺术杂志摄影质感。\n下半区以同一张原照为唯一视觉依据，保留主体身份、关键结构、姿态、空间关系与原有色彩，在整个区域前方覆盖一整块100%满版的超密、超细、连续纵向长虹玻璃，玻璃从下半区顶部延伸至底部并覆盖左右边缘。纹理方向严格纵向，密度约为普通长虹玻璃的3—5倍，形成极细连续的微型光学光栅；玻璃必须具有真实透明度变化、柔和高光、边缘反射、光线透射与折射层次，不得表现为条纹贴纸、普通百叶窗、雨水玻璃、运动模糊或简单数字滤镜。主体与背景经过纵向波纹扭曲、错位、拉伸、棱镜分裂与细长色带折射，但主体物理结构不可被错误改变。\n根据原照自动识别视觉中心：人物或动物的眼睛与面部、花卉花心、建筑标志结构、风景焦点或静物核心细节。中心区域玻璃仍然存在，但保持约85%—95%的视觉通透度与较弱折射，让关键识别特征清晰可辨；从中心向四周平滑增强折射，避免圆形、矩形或生硬蒙版边界；外围形成约75%—95%强度的密集纵向光带、形态分裂与抽象光影，同时保留原照整体构图与色彩记忆。禁止主体消失、重复、断裂、五官错位或肢体变形。\n背景和折射色彩从原照提取，可使用低对比度环境、奶油白、暖米色、浅灰或柔和渐变。采用柔和商业摄影布光，突出真实玻璃质感，避免过曝反光、霓虹色、杂乱光斑与廉价特效。加入少量有真实含义的英文标题、简短副标题或编号，使用纤细高对比度Serif衬线字体与简洁Sans-serif小字，自由非对称排版，不遮挡主体焦点，不出现乱码、伪英文、水印或Logo。最终只输出一张高清3:4竖版海报。"
+    },
+    "media": [],
+    "models": [],
+    "sourcePreview": {
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HU6puPAbMAAjn_N.jpg",
+          "role": "source-media"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HU6puNtaMAAkYRI.jpg",
+          "role": "source-media"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HU6puVrbEAAu4HV.jpg",
+          "role": "source-media"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HU6puU7aoAAasw4.jpg",
+          "role": "source-media"
+        }
+      ],
+      "promptExcerpt": "每张上传照片分别生成一张独立的高级艺术双联海报，不拼接、不混合、不合并不同照片。画布严格为3:4竖版，上下两个区域各占50%，以干净平直的水平线自然分界，不使用相框、卡片、胶带、撕纸、卷边、拼贴阴影或",
+      "excerptTruncated": true
+    },
+    "provenance": {
+      "originalSource": {
+        "platform": "x",
+        "author": "@AWENIAI",
+        "url": "https://x.com/AWENIAI/status/2111812048715960710",
+        "postId": "2111812048715960710",
+        "publishedAt": "2026-10-18T13:30:02.000Z",
+        "verification": "reported-by-collector",
+        "promptPostUrl": "https://x.com/AWENIAI/status/2111812048715960710",
+        "promptPostId": "2111812048715960710"
+      },
+      "collectedFrom": [
+        {
+          "sourceId": "aweniai",
+          "mode": "collector-export",
+          "snapshotSha256": "4271663685af66a064e2b11da4f503493dea775306f5d029e32902c3401c030c",
+          "url": "https://x.com/AWENIAI/status/2111812048715960710",
+          "collectedAt": "2026-11-26T13:58:26.919Z"
+        }
+      ]
+    },
+    "rights": {
+      "prompt": "unknown",
+      "media": "unknown"
+    },
+    "sourceMeta": {
+      "model": null,
+      "textReview": "appears-complete",
+      "visualReview": "pending",
+      "pairing": "prompt_and_images_same_post",
+      "imageVerification": "source-reported-output; HTTP and visual match unchecked",
+      "review": {
+        "qualityStatus": "recommended",
+        "classificationConfidence": "medium",
+        "classificationMethod": "owner-directed-collector-import",
+        "inputMode": "reference-to-image",
+        "category": "creative-art"
+      }
+    }
+  },
+  {
+    "id": "aweniai-2112148479137255603",
+    "title": {
+      "en": null,
+      "zh": "流体光栅线条雕塑"
+    },
+    "type": "generation",
+    "category": "creative-art",
+    "inputMode": "reference-to-image",
+    "status": "index-only",
+    "prompt": {
+      "original": "每张上传照片分别生成一张独立高级实验艺术双联海报，不拼接、不混合、不合并。画布严格为3:4竖版，上下1:1，各占50%，以干净平直的水平线自然分界，不使用边框、卡片、胶带、撕纸、卷边或拼贴阴影。整体融合独立艺术杂志、实验平面设计、现代生成式艺术、复古版画与极简编辑美学，呈现安静、轻盈、克制且富有空间感的收藏级作品。\n\n上半区完整保留对应原始照片。人物、动物、植物、花卉、建筑、风景、交通工具或静物的身份、数量、轮廓、结构、位置、服饰配饰、动作姿态、环境、构图、比例、透视、材质、景深、自然光影和色彩氛围均不得改变。仅允许轻微高级摄影调色、曝光优化和背景自然延展；不得拉伸、扭曲、移动、替换、重绘主体或添加无关元素。原照满版覆盖上半区，直达顶部、左右边缘及中央分界线，具有真实细腻的艺术杂志摄影质感。\n\n下半区以同一原照为唯一视觉依据，提取主体最具识别度的轮廓、姿态、空间关系、色彩和视觉重心，完全重构为流体光栅线条雕塑。主体不是被线条描边或填充，而是从一组连续、平行、极细的柔性曲线中自然生长：线条接近主体时平滑弯曲、聚拢、疏密变化与轻微扩张，形成隐藏的浮雕式体积起伏；离开主体后逐渐恢复笔直、平行、均匀的安静线场。主体、背景与负空间必须属于同一套连续结构，不得出现独立勾边、封闭轮廓、色块、线框模型、真实三维物体或在物体表面贴线。\n\n所有线条采用两头极细、中间略粗的连续渐变宽度，像精密版画刻线；粗细变化柔和克制，不得突然跳变、形成粗重条纹或机械纹理。线条通过连续曲率、贝塞尔式流体弧线形成全部体积，经过边缘、隆起与凹陷时自然转向。禁止锐角、直角、折线、锯齿、硬性拐点、复杂交叉、断裂、随机涟漪和无意义形变；即使原主体具有尖锐结构，也转译为圆润柔和的曲线起伏。\n\n将下半区完整线条雕塑整体缩小约70%，仅占区域约20%—35%，置于中央或依原照重心适度偏移，四周保留大面积暖白、奶油白、象牙白或浅暖灰纸面留白。线条从原照提取1—2种低饱和主色，以密度、间距、宽度和浓淡表达明暗，不使用写实光照、硬阴影、金属、塑料、石膏或真实浮雕质感；加入极轻微的版画颗粒、纸张纤维与自然油墨感，但不得掩盖线条精度。\n\n在留白处加入少量真实、可读且与照片主题相关的英文标题、简短副标题和微型辅助文字，不使用编号、乱码、伪英文、水印或品牌标识。主标题采用纤细高对比度Didot、Bodoni或Didone式Serif衬线字体，辅助文字使用简洁Sans-serif小字，自由非对称排版，不遮挡线条雕塑焦点。最终只输出一张高清3:4竖版海报。"
+    },
+    "media": [],
+    "models": [],
+    "sourcePreview": {
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HU_by53aYAAtdtC.jpg",
+          "role": "source-media"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HU_by5YbYAAyJHP.jpg",
+          "role": "source-media"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HU_by5Xa8AALgTi.jpg",
+          "role": "source-media"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HU_by5NaIAAC5HQ.jpg",
+          "role": "source-media"
+        }
+      ],
+      "promptExcerpt": "每张上传照片分别生成一张独立高级实验艺术双联海报，不拼接、不混合、不合并。画布严格为3:4竖版，上下1:1，各占50%，以干净平直的水平线自然分界，不使用边框、卡片、胶带、撕纸、卷边或拼贴阴影。整体融",
+      "excerptTruncated": true
+    },
+    "provenance": {
+      "originalSource": {
+        "platform": "x",
+        "author": "@AWENIAI",
+        "url": "https://x.com/AWENIAI/status/2112148479137255603",
+        "postId": "2112148479137255603",
+        "publishedAt": "2026-10-19T11:46:53.000Z",
+        "verification": "reported-by-collector",
+        "promptPostUrl": "https://x.com/AWENIAI/status/2112148479137255603",
+        "promptPostId": "2112148479137255603"
+      },
+      "collectedFrom": [
+        {
+          "sourceId": "aweniai",
+          "mode": "collector-export",
+          "snapshotSha256": "4271663685af66a064e2b11da4f503493dea775306f5d029e32902c3401c030c",
+          "url": "https://x.com/AWENIAI/status/2112148479137255603",
+          "collectedAt": "2026-11-26T13:58:26.919Z"
+        }
+      ]
+    },
+    "rights": {
+      "prompt": "unknown",
+      "media": "unknown"
+    },
+    "sourceMeta": {
+      "model": null,
+      "textReview": "appears-complete",
+      "visualReview": "pending",
+      "pairing": "prompt_and_images_same_post",
+      "imageVerification": "source-reported-output; HTTP and visual match unchecked",
+      "review": {
+        "qualityStatus": "recommended",
+        "classificationConfidence": "medium",
+        "classificationMethod": "owner-directed-collector-import",
+        "inputMode": "reference-to-image",
+        "category": "creative-art"
+      }
+    }
+  },
+  {
+    "id": "aweniai-2112514492647268613",
+    "title": {
+      "en": null,
+      "zh": "七种光学印刷效果图鉴"
+    },
+    "type": "generation",
+    "category": "posters",
+    "inputMode": "reference-to-image",
+    "status": "index-only",
+    "prompt": {
+      "original": "每张上传照片分别生成一张独立高级实验艺术双联图鉴海报，不拼接、不混合。画布严格为3:4竖版，上下1:1各占50%，以自然平直的水平边界衔接，无分割线、相框、卡片、胶带、撕纸、卷边或拼贴阴影。整体融合国际平面设计、实验摄影、瑞士编辑设计、复古印刷与极简艺术出版物美学。\n\n上半区完整保留对应原始照片，人物、动物、植物、花卉、建筑、风景、交通工具或静物的身份、数量、轮廓、结构、位置、服饰、动作、环境、构图、比例、透视、材质、景深、自然光影与色彩关系均不得改变。仅允许轻微高级调色、曝光优化和背景自然延展，满版覆盖顶部、左右及分界线；禁止出现实验窗口、文字或装饰。\n\n下半区先完整重现同一原始摄影，保持主体、场景、透视、色彩与视觉中心连续清晰，再在其真实像素上原位叠加七个大小不同、非对称的矩形处理选区。窗口必须直接穿过主体非关键局部，如花瓣、发丝、服装、皮毛、建筑表面或自然纹理；窗口内外的轮廓、比例、连接、透视与位置精确连续，绝不裁剪、放大、移动、复制或重绘内容。保留至少一处完整醒目的真实主体核心，窗口不可完全遮盖面部、眼睛、主花或其他焦点。\n\n七个窗口按真实局部依次转换为：01长虹玻璃Reeded Glass，极细纵向光栅与折射；02黑白雕刻Engraving Print，铜版刻线与交叉排线；03美式点描Stipple Illustration，黑白微点塑形；04复古半调Retro Halftone，CMYK网点与轻微套印偏差；05像素马赛克Pixel Mosaic，统一方形像素；06透明叠印Transparent Overlay，2—4层半透明色片；07双色丝印Duotone Screenprint，提取两种原图色彩的网点油墨。效果必须材质鲜明不同，却只改变窗口内对应原图像素。\n\n每个窗口配极细白色、浅灰或自适应边框、四角微型实心方块控制点，细定位线和圆点，禁止厚框、阴影、悬浮卡片或贴纸。窗口附近完整标注准确序号、中文名与英文名，使用纤细现代Sans-serif字体，自由排版并以细线对应窗口，文字清晰、不乱码、不遮挡焦点。下半区其余区域始终保留真实摄影背景。禁止七张独立小图、空白背景窗口、主体断裂错位、抽象底图、Logo、水印与无关元素。最终只输出一张高清3:4竖版海报。"
+    },
+    "media": [],
+    "models": [],
+    "sourcePreview": {
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HVEoqbEaUAA8gBL.jpg",
+          "role": "source-media"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HVEoqY9bgAA3JOa.jpg",
+          "role": "source-media"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HVEoqarawAApYRq.jpg",
+          "role": "source-media"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HVEoqajagAAhQIH.jpg",
+          "role": "source-media"
+        }
+      ],
+      "promptExcerpt": "每张上传照片分别生成一张独立高级实验艺术双联图鉴海报，不拼接、不混合。画布严格为3:4竖版，上下1:1各占50%，以自然平直的水平边界衔接，无分割线、相框、卡片、胶带、撕纸、卷边或拼贴阴影。整体融合国",
+      "excerptTruncated": true
+    },
+    "provenance": {
+      "originalSource": {
+        "platform": "x",
+        "author": "@AWENIAI",
+        "url": "https://x.com/AWENIAI/status/2112514492647268613",
+        "postId": "2112514492647268613",
+        "publishedAt": "2026-10-20T12:01:18.000Z",
+        "verification": "reported-by-collector",
+        "promptPostUrl": "https://x.com/AWENIAI/status/2112514492647268613",
+        "promptPostId": "2112514492647268613"
+      },
+      "collectedFrom": [
+        {
+          "sourceId": "aweniai",
+          "mode": "collector-export",
+          "snapshotSha256": "4271663685af66a064e2b11da4f503493dea775306f5d029e32902c3401c030c",
+          "url": "https://x.com/AWENIAI/status/2112514492647268613",
+          "collectedAt": "2026-11-26T13:58:26.919Z"
+        }
+      ]
+    },
+    "rights": {
+      "prompt": "unknown",
+      "media": "unknown"
+    },
+    "sourceMeta": {
+      "model": null,
+      "textReview": "appears-complete",
+      "visualReview": "pending",
+      "pairing": "prompt_and_images_same_post",
+      "imageVerification": "source-reported-output; HTTP and visual match unchecked",
+      "review": {
+        "qualityStatus": "recommended",
+        "classificationConfidence": "medium",
+        "classificationMethod": "owner-directed-collector-import",
+        "inputMode": "reference-to-image",
+        "category": "posters"
+      }
+    }
+  },
+  {
+    "id": "aweniai-2113247205004128437",
+    "title": {
+      "en": null,
+      "zh": "折叠晶面光学艺术"
+    },
+    "type": "generation",
+    "category": "creative-art",
+    "inputMode": "reference-to-image",
+    "status": "index-only",
+    "prompt": {
+      "original": "每张上传照片分别生成一张独立3:4竖版高级光学艺术双联海报，不拼接、不混合。画布上下严格1:1，以平直水平线自然分界，无相框、卡片、胶带、撕纸、卷边或拼贴阴影。融合真实摄影、现代光学艺术、微棱镜折射与极简高级编辑设计。\n\n上半区完整保留原照，人物或动物身份、五官、神态、毛发、服饰、动作，以及植物、建筑、风景、静物等主体的轮廓、结构、位置、材质、透视、环境、景深、自然光影和色彩关系均不得改变。仅允许轻微高级调色、曝光优化与背景自然延展；原照满版覆盖顶部、左右边缘及分界线。\n\n下半区以同一原照为唯一依据，保留主体身份、姿态、空间关系、视觉重心与原图色彩，将整个区域重构为高密度规则交错的微型折叠晶面。每个单元由细小菱形、对向三角锥、四面折镜和蝶翼状双三角结构组成，具有真实凸起、内凹、中心折脊及左右斜面，像精密压纹玻璃、微型金字塔镜片与立体折纸。单元按连续点阵排列，间有细小菱形负空间，局部可轻微旋转、倾斜、错位，但不得变成平面马赛克或几何贴图。\n\n主体须由晶面内部的原始色彩、明暗、透明折射和局部形变共同显现，不能简单覆盖纹理或用纯色剪影。中心晶面紧密、色彩饱满，眼睛、面部、花心或建筑核心保持连续可辨，但不设完全透明的清晰窗口；相邻斜面呈现细密色差、三角明暗切换和微弱视差，主体体积由成千上万个晶面共同建立，不勾画明显外轮廓。边缘晶面逐渐位移、旋转、分离、透明化，最外侧碎成三角形、半菱形及微型晶体，沿真实轮廓自然消散；不得用均匀模糊、光晕或羽化蒙版。主体必须完整，不得断裂、错位、增加肢体或错误五官。\n\n背景延续低对比度半透明菱形透镜、椭圆光点与交错点阵，颜色从原照提取奶油白、浅灰或低饱和主色，排列整齐、若隐若现。晶面材质介于半透明树脂、压纹光学玻璃与微型晶体之间，具有柔和折棱、微弱高光、折射阴影和环境透射；采用柔和漫射及侧向商业摄影光。禁止塑料、水滴、鳞片、蜂窝、金属铆钉、尖锐水晶、彩虹霓虹、普通滤镜、长虹玻璃或纵向光栅。可加入极少量真实英文标题、副标题或编号，使用纤细高对比Serif与简洁Sans-serif字体，自由非对称排版，不遮挡焦点，不出现乱码、伪英文、水印或Logo。最终只输出一张高清3:4竖版海报。"
+    },
+    "media": [],
+    "models": [],
+    "sourcePreview": {
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HVPDE-baQAAv8A9.jpg",
+          "role": "source-media"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HVPDE-ea4AAy0q2.jpg",
+          "role": "source-media"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HVPDE-ebkAAEDxt.jpg",
+          "role": "source-media"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HVPDE-daYAE5J-h.jpg",
+          "role": "source-media"
+        }
+      ],
+      "promptExcerpt": "每张上传照片分别生成一张独立3:4竖版高级光学艺术双联海报，不拼接、不混合。画布上下严格1:1，以平直水平线自然分界，无相框、卡片、胶带、撕纸、卷边或拼贴阴影。融合真实摄影、现代光学艺术、微棱镜折射与",
+      "excerptTruncated": true
+    },
+    "provenance": {
+      "originalSource": {
+        "platform": "x",
+        "author": "@AWENIAI",
+        "url": "https://x.com/AWENIAI/status/2113247205004128437",
+        "postId": "2113247205004128437",
+        "publishedAt": "2026-10-22T12:32:50.000Z",
+        "verification": "reported-by-collector",
+        "promptPostUrl": "https://x.com/AWENIAI/status/2113247205004128437",
+        "promptPostId": "2113247205004128437"
+      },
+      "collectedFrom": [
+        {
+          "sourceId": "aweniai",
+          "mode": "collector-export",
+          "snapshotSha256": "4271663685af66a064e2b11da4f503493dea775306f5d029e32902c3401c030c",
+          "url": "https://x.com/AWENIAI/status/2113247205004128437",
+          "collectedAt": "2026-11-26T13:58:26.919Z"
+        }
+      ]
+    },
+    "rights": {
+      "prompt": "unknown",
+      "media": "unknown"
+    },
+    "sourceMeta": {
+      "model": null,
+      "textReview": "appears-complete",
+      "visualReview": "pending",
+      "pairing": "prompt_and_images_same_post",
+      "imageVerification": "source-reported-output; HTTP and visual match unchecked",
+      "review": {
+        "qualityStatus": "recommended",
+        "classificationConfidence": "medium",
+        "classificationMethod": "owner-directed-collector-import",
+        "inputMode": "reference-to-image",
+        "category": "creative-art"
+      }
+    }
+  },
+  {
+    "id": "aweniai-2113604120049565713",
+    "title": {
+      "en": null,
+      "zh": "局部长虹玻璃折射"
+    },
+    "type": "generation",
+    "category": "creative-art",
+    "inputMode": "reference-to-image",
+    "status": "index-only",
+    "prompt": {
+      "original": "每张上传照片分别生成一张独立3:4竖版实验光学艺术双联海报，不拼接、不混合。画布上下严格1:1，以平直水平线衔接，无相框、卡片、撕纸、卷边或拼贴阴影。融合真实摄影、精密长虹玻璃、当代光学艺术、几何雕塑、奢侈品广告与瑞士极简编辑设计。玻璃的形状、数量、方向、透视与排列必须由原照主体、运动、空间、光影和视觉重心推导，禁止固定模板。\n上半区完整保留原照，主体身份、五官、神态、动作、服饰、轮廓、结构、材质、位置、比例、视角、透视、色彩，以及原有景深、颗粒、运动模糊和光影均不得改变。仅允许轻微高级调色、曝光优化与背景自然延展；原照满版覆盖顶部、左右边缘及分界线，不添加玻璃、文字或装饰。\n下半区以同一原照为唯一依据，保留主体身份、五官、姿态、结构、比例、原图色彩和空间氛围。允许等比例缩放、合理裁切与位置调整，但不能改变身份或核心形态。在原照前方加入自适应透明长虹玻璃，以局部遮挡、真实折射、透视交叠和方向延伸融入主体；玻璃外仍保持清晰摄影，禁止替换背景或让玻璃成为漂浮贴片。\n玻璃可为整块大面、修长条带、弧片、环形、三角、梯形、异形切片或分段放射结构，数量与尺度由构图决定。运动照片使用倾斜递进、错位收束的条带；肖像使用柔和弧面与克制包围；建筑顺透视轴排列；自然花卉呼应曲线；静物采用精密极简切片。建立主玻璃、辅助玻璃与必要节奏层级，不得随机堆叠。\n玻璃内部由连续、均匀、超细密的透明微棱柱组成，密度约为普通长虹玻璃3—5倍，光栅可垂直、水平、斜向、径向或随曲面弯曲。具有真实厚度、倒角、菲涅耳反射、自然透射、柔和高光和折射；局部放大、压缩、错位、条状镜像与纹理扭曲必须来自原图。避免粗棱柱、金属百叶窗、塑料纹理、纯条纹滤镜、霓虹描边与强烈彩虹色散。\n玻璃须与主体有目的交叠，关键五官保留约60%—70%清晰度，禁止重复遮挡。边缘可延伸出主体或画布，但空间层次必须可信。\n下半区采用非对称平衡、疏密节奏与充足留白，留白保留原照背景色。加入2—5词真实英文标题、短副标题或编号，使用纤细高对比Didot、Bodoni、Canela式Serif与极简Sans-serif，随主体和动线自由排版，不遮挡焦点，不出现乱码、伪英文、Logo或水印。最终只输出一张高清3:4竖版海报。"
+    },
+    "media": [],
+    "models": [],
+    "sourcePreview": {
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HVUHnonbIAAeoBU.jpg",
+          "role": "source-media"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HVUHnonacAAG5JP.jpg",
+          "role": "source-media"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HVUHno6a0AARaB0.jpg",
+          "role": "source-media"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HVUHnoibQAAqCQ8.jpg",
+          "role": "source-media"
+        }
+      ],
+      "promptExcerpt": "每张上传照片分别生成一张独立3:4竖版实验光学艺术双联海报，不拼接、不混合。画布上下严格1:1，以平直水平线衔接，无相框、卡片、撕纸、卷边或拼贴阴影。融合真实摄影、精密长虹玻璃、当代光学艺术、几何雕塑",
+      "excerptTruncated": true
+    },
+    "provenance": {
+      "originalSource": {
+        "platform": "x",
+        "author": "@AWENIAI",
+        "url": "https://x.com/AWENIAI/status/2113604120049565713",
+        "postId": "2113604120049565713",
+        "publishedAt": "2026-10-23T12:11:05.000Z",
+        "verification": "reported-by-collector",
+        "promptPostUrl": "https://x.com/AWENIAI/status/2113604120049565713",
+        "promptPostId": "2113604120049565713"
+      },
+      "collectedFrom": [
+        {
+          "sourceId": "aweniai",
+          "mode": "collector-export",
+          "snapshotSha256": "4271663685af66a064e2b11da4f503493dea775306f5d029e32902c3401c030c",
+          "url": "https://x.com/AWENIAI/status/2113604120049565713",
+          "collectedAt": "2026-11-26T13:58:26.919Z"
+        }
+      ]
+    },
+    "rights": {
+      "prompt": "unknown",
+      "media": "unknown"
+    },
+    "sourceMeta": {
+      "model": null,
+      "textReview": "appears-complete",
+      "visualReview": "pending",
+      "pairing": "prompt_and_images_same_post",
+      "imageVerification": "source-reported-output; HTTP and visual match unchecked",
+      "review": {
+        "qualityStatus": "recommended",
+        "classificationConfidence": "medium",
+        "classificationMethod": "owner-directed-collector-import",
+        "inputMode": "reference-to-image",
+        "category": "creative-art"
+      }
+    }
+  },
+  {
+    "id": "aweniai-2113996963138134406",
+    "title": {
+      "en": null,
+      "zh": "有机微点描版画"
+    },
+    "type": "generation",
+    "category": "illustrations",
+    "inputMode": "reference-to-image",
+    "status": "index-only",
+    "prompt": {
+      "original": "请将每张上传真实照片分别制作成一张3:4竖版艺术双联海报，绝不拼接、混合或合并不同照片。画布上下严格1:1，各占50%；上半区为真实摄影，下半区为同一场景的超高密度有机微点描艺术版画与极简艺术档案排版。融合手工版画、现代东方绘本、天然艺术纸、复古档案与瑞士实验编辑设计。\n\n上半区完整保留原照所有主体、环境、身份特征、服饰、姿态、构图、比例透视、材质光影、景深和色彩关系；仅允许极轻微高级摄影调色。可按原环境自然延展背景适配画幅，但不得裁切关键主体、拉伸、扭曲、移动、替换、重绘或增加主体。原片满版铺至顶部、左右边缘和中央分界线，禁止白边、相框、卡片、纸胶带、文字、图形、点描或任何艺术重绘。\n\n下半区仅以同一原照为唯一依据，保留主体、结构、姿态、空间关系、场景元素和色彩叙事，将其转译为下半区中央唯一的微点描插画核心。插画几何中心对齐下半区中心，可微调视觉重心；宽度控制在下半区55%—65%，高度55%—70%以内，宁小勿满，四周保留宽阔的奶油白留白。背景为暖奶油白纤维纸，细腻不泛黄、不过度做旧。\n\n主体、环境、光影和体积必须直接由成千上万极小、不规则的米粒状、柳叶状、椭圆短痕、纺锤微点、细弯刻线和方向性短线构成；不能先画普通插画再叠颗粒。微点尺寸统一微小、彼此独立，按物体生长、曲率、透视和表面方向排列；以密度、方向、颜色和间隙形成轮廓、材质、明暗与空间，避免粗黑勾边、规则圆点、网格、半色调、数字噪点或随机覆盖。近看可辨独立笔触，远看融合为完整主体；边缘仅轻微自然消散至纸面，不得粒子爆炸或碎片飞散。\n\n颜色忠实取自原照，采用低对比、自然清透的版画色彩：浅色微点和纸底形成光照，深色密点形成阴影，禁止过艳、塑料、3D、油画、数字水彩和渐变。插画四角附近加入2—4段极小、半透明、浅米或浅茶色真实和纸胶带，可轻微倾斜、只固定边角且不遮挡关键主体，无厚重投影或拼贴感。围绕插画留白稀疏添加自动生成、拼写正确的微型英文标题、短诗意描述和档案信息：标题2—4词，极细高对比衬线；副文8—18词，细小斜体衬线或轻量无衬线，低对比深灰绿、灰棕或蓝灰色。文字总面积远小于插画，不能抢焦点、遮挡插画、使用大标题、乱码、虚构品牌、日期、Logo或水印。上下主题严格对应：上方是真实瞬间，下方是被精密微点保存的艺术记忆。"
+    },
+    "media": [],
+    "models": [],
+    "sourcePreview": {
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HVZslcZacAEfQYR.jpg",
+          "role": "source-media"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HVZslcrbgAEfvZs.jpg",
+          "role": "source-media"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HVZslcVa8AA1Qnx.jpg",
+          "role": "source-media"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HVZslciaQAA2RqD.jpg",
+          "role": "source-media"
+        }
+      ],
+      "promptExcerpt": "请将每张上传真实照片分别制作成一张3:4竖版艺术双联海报，绝不拼接、混合或合并不同照片。画布上下严格1:1，各占50%；上半区为真实摄影，下半区为同一场景的超高密度有机微点描艺术版画与极简艺术档案排版",
+      "excerptTruncated": true
+    },
+    "provenance": {
+      "originalSource": {
+        "platform": "x",
+        "author": "@AWENIAI",
+        "url": "https://x.com/AWENIAI/status/2113996643213426808",
+        "postId": "2113996643213426808",
+        "publishedAt": "2026-10-24T14:10:50.000Z",
+        "verification": "reported-by-collector",
+        "promptPostUrl": "https://x.com/AWENIAI/status/2113996963138134406",
+        "promptPostId": "2113996963138134406"
+      },
+      "collectedFrom": [
+        {
+          "sourceId": "aweniai",
+          "mode": "collector-export",
+          "snapshotSha256": "4271663685af66a064e2b11da4f503493dea775306f5d029e32902c3401c030c",
+          "url": "https://x.com/AWENIAI/status/2113996643213426808",
+          "collectedAt": "2026-11-26T13:58:26.919Z"
+        }
+      ]
+    },
+    "rights": {
+      "prompt": "unknown",
+      "media": "unknown"
+    },
+    "sourceMeta": {
+      "model": null,
+      "textReview": "appears-complete",
+      "visualReview": "pending",
+      "pairing": "prompt_post_paired_with_nearby_image_post",
+      "imageVerification": "source-reported-output; HTTP and visual match unchecked",
+      "review": {
+        "qualityStatus": "recommended",
+        "classificationConfidence": "medium",
+        "classificationMethod": "owner-directed-collector-import",
+        "inputMode": "reference-to-image",
+        "category": "illustrations"
+      }
+    }
+  },
+  {
+    "id": "aweniai-2114334580409000429",
+    "title": {
+      "en": null,
+      "zh": "超现实实体膨胀"
+    },
+    "type": "generation",
+    "category": "creative-art",
+    "inputMode": "reference-to-image",
+    "status": "index-only",
+    "prompt": {
+      "original": "请将每张上传真实照片分别制作成一张独立的3:4竖版实验艺术双联海报，绝不拼接、混合不同照片。画布沿水平中线严格分为上下两个等高区域，各占50%，膨胀、文字、图形与排版只能出现在下半区，不得越界、改变比例或增加过渡带、相框、拼贴、卡片和阴影。\n上半区为真实原片，完整保留原照人物、动物、植物、物品、建筑与环境的身份、外形、数量、服装配饰、姿态动作、位置、颜色、材质、构图、透视、光影和关系。仅允许轻微摄影调色与原背景自然延展适配画幅；不得拉伸、重绘、替换、移动、复制或裁切关键主体。真实照片必须满版直达顶部、左右边缘和中央分界线，上半区无文字、符号、图形和风格化效果。\n下半区仅以同一原照为依据，分析主体、空间与动作；若有人物，选择与其手持、骑乘、倚靠、拥抱、坐卧或使用关系最紧密、轮廓最清晰的一件物品作为膨胀对象；无人物时选择最有辨识度且适合膨胀的非人物主体或局部。根据当前照片独立提炼艺术概念、构图、色彩、字体、留白和排版，禁止套用模板。\n下半区将选定对象或其局部转化为Organic Sculptural Swelling与Solid Volume Expansion：沿原有几何结构、受力方向和功能部件进行圆润、丰满、厚实的实体体积夸张，允许明显超现实但必须保持物品用途、品牌标识、原色、关键结构与连续连接。薄结构变厚、硬边柔化、平面形成连续曲面，不把所有物体替代成圆球；人物本人保持身份、五官、骨架、比例、服装和动作，只膨胀互动物品，手指、肢体、接触、遮挡、承重、透视与接触阴影必须自然可信。\n膨胀是原生实体材料的变化：皮革仍是皮革、织物仍有纤维、金属保留反射、陶瓷保留釉面、植物保留脉络、水果保留表皮；呈现真实密度、厚度、重量、曲面明暗与环境反射。绝对禁止气球、充气玩具、空气囊、PVC、乳胶、橡胶薄膜、气嘴、阀门、热封边、接缝、空心感、气球高光和充气褶皱。下半区采用与原图情绪匹配的艺术化环境、真实摄影光线与独立实验排版；自动生成相关英文标题和少量副文，可沿物体曲线、动作方向或负空间进行创意排列，但不得遮挡人物五官、膨胀物关键结构或互动关系。禁止漂浮、穿模、错误接触、无关主体、乱码、虚构品牌、Logo和水印。最终上方是真实瞬间，下方是同一场景中原物实体膨胀后的超现实艺术海报。"
+    },
+    "media": [],
+    "models": [],
+    "sourcePreview": {
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HVedsFZbAAAqHsb.jpg",
+          "role": "source-media"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HVedsFUaQAIF9K1.jpg",
+          "role": "source-media"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HVedsFSawAEk2wD.jpg",
+          "role": "source-media"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HVedsF0bAAA8sq6.jpg",
+          "role": "source-media"
+        }
+      ],
+      "promptExcerpt": "请将每张上传真实照片分别制作成一张独立的3:4竖版实验艺术双联海报，绝不拼接、混合不同照片。画布沿水平中线严格分为上下两个等高区域，各占50%，膨胀、文字、图形与排版只能出现在下半区，不得越界、改变比",
+      "excerptTruncated": true
+    },
+    "provenance": {
+      "originalSource": {
+        "platform": "x",
+        "author": "@AWENIAI",
+        "url": "https://x.com/AWENIAI/status/2114334256969510988",
+        "postId": "2114334256969510988",
+        "publishedAt": "2026-10-25T12:32:23.000Z",
+        "verification": "reported-by-collector",
+        "promptPostUrl": "https://x.com/AWENIAI/status/2114334580409000429",
+        "promptPostId": "2114334580409000429"
+      },
+      "collectedFrom": [
+        {
+          "sourceId": "aweniai",
+          "mode": "collector-export",
+          "snapshotSha256": "4271663685af66a064e2b11da4f503493dea775306f5d029e32902c3401c030c",
+          "url": "https://x.com/AWENIAI/status/2114334256969510988",
+          "collectedAt": "2026-11-26T13:58:26.919Z"
+        }
+      ]
+    },
+    "rights": {
+      "prompt": "unknown",
+      "media": "unknown"
+    },
+    "sourceMeta": {
+      "model": null,
+      "textReview": "appears-complete",
+      "visualReview": "pending",
+      "pairing": "prompt_post_paired_with_nearby_image_post",
+      "imageVerification": "source-reported-output; HTTP and visual match unchecked",
+      "review": {
+        "qualityStatus": "recommended",
+        "classificationConfidence": "medium",
+        "classificationMethod": "owner-directed-collector-import",
+        "inputMode": "reference-to-image",
+        "category": "creative-art"
+      }
+    }
+  },
+  {
+    "id": "aweniai-2114697303340818899",
+    "title": {
+      "en": null,
+      "zh": "语义字体雕塑"
+    },
+    "type": "generation",
+    "category": "creative-art",
+    "inputMode": "reference-to-image",
+    "status": "index-only",
+    "prompt": {
+      "original": "将用户上传的每张真实照片分别制作成一张独立的3:4竖版实验字体艺术双联海报，适用任何摄影主体，不混图。画布沿水平中线严格上下1:1分区，各占50%，无边框、卡片和过渡带；新增设计不得进入上半区。\n上半区｜真实摄影：完整保留原图主体身份、数量、轮廓、五官、姿态、动作、材质、构图、透视、背景、原色及光影。仅允许轻微摄影调色与依据原场景自然延展背景；禁止裁切关键主体、重绘或新增物体。照片必须满版覆盖顶部、左右边缘及中央分界线，绝不添加文字。\n下半区｜语义字体雕塑：复制同一场景，严格对应上方主体位置、姿态、比例、空间关系与原有背景。分析主体结构与负空间，选择合适部位，真实移除约25%—60%的主体摄影实体，让原背景从缺口显露，再以与照片主题相关的英文单词、短句、字母补全缺失轮廓。文字必须成为物体本身，而非印在未删除的物体表面。如人物衣物、动物毛发、花叶、山坡、建筑立面、杯壁或车身；根据实际照片自由判断，不套固定模板。保留关键识别特征和自然连接关系。\n字体沿原形体曲率与透视塑形，以大小字、粗细、疏密、弯曲、旋转、层叠与局部遮挡建立真实体积；字体笔画为实体，字间留白透出原背景。使用2—3种协调的纤细高对比衬线、压缩无衬线或优雅斜体，核心单词准确、清晰、可辨。背景继续保留摄影质感，仅允许轻微背景柔化；文字配色提取原图主色系并确保对比，避免塑料立体字、霓虹、厚重阴影和乱码。\n艺术指导｜仅在下半区依据主体及留白设计大师级瑞士实验编辑排版，以非对称网格呈现五级视觉层次：主体雕塑为第一焦点，另有醒目的英文艺术标题、1—2句诗意说明、微型档案编号及精致装饰。可运用超细线、圆点、十字定位符、微型箭头、竖排文字和克制的几何符号，强调大胆构成与清晰阅读，保留充足呼吸感，不遮挡主体。下半区底部或边缘仅出现一次精确署名“Prompt  by AWENIAI  ”，细小但可读。\n最终检查：严格3:4及上下各50%；上方原图完全保真且无排版；下方仍为同一摄影场景，真实缺失的主体部分由语义字体取代；轮廓、透视及前后关系成立；标题、说明、符号与署名不越界。绝不生成独立新场景、整幅插画、随机文字堆砌或右下角缩略原图。"
+    },
+    "media": [],
+    "models": [],
+    "sourcePreview": {
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HVjphSTbcAAoIOf.jpg",
+          "role": "source-media"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HVjphSJbUAAZZEa.jpg",
+          "role": "source-media"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HVjphSGaUAA0JGt.jpg",
+          "role": "source-media"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HVjphSJbsAErl9p.jpg",
+          "role": "source-media"
+        }
+      ],
+      "promptExcerpt": "将用户上传的每张真实照片分别制作成一张独立的3:4竖版实验字体艺术双联海报，适用任何摄影主体，不混图。画布沿水平中线严格上下1:1分区，各占50%，无边框、卡片和过渡带；新增设计不得进入上半区。 上半",
+      "excerptTruncated": true
+    },
+    "provenance": {
+      "originalSource": {
+        "platform": "x",
+        "author": "@AWENIAI",
+        "url": "https://x.com/AWENIAI/status/2114696811516723530",
+        "postId": "2114696811516723530",
+        "publishedAt": "2026-10-26T12:33:03.000Z",
+        "verification": "reported-by-collector",
+        "promptPostUrl": "https://x.com/AWENIAI/status/2114697303340818899",
+        "promptPostId": "2114697303340818899"
+      },
+      "collectedFrom": [
+        {
+          "sourceId": "aweniai",
+          "mode": "collector-export",
+          "snapshotSha256": "4271663685af66a064e2b11da4f503493dea775306f5d029e32902c3401c030c",
+          "url": "https://x.com/AWENIAI/status/2114696811516723530",
+          "collectedAt": "2026-11-26T13:58:26.919Z"
+        }
+      ]
+    },
+    "rights": {
+      "prompt": "unknown",
+      "media": "unknown"
+    },
+    "sourceMeta": {
+      "model": null,
+      "textReview": "appears-complete",
+      "visualReview": "pending",
+      "pairing": "prompt_post_paired_with_nearby_image_post",
+      "imageVerification": "source-reported-output; HTTP and visual match unchecked",
+      "review": {
+        "qualityStatus": "recommended",
+        "classificationConfidence": "medium",
+        "classificationMethod": "owner-directed-collector-import",
+        "inputMode": "reference-to-image",
+        "category": "creative-art"
+      }
+    }
+  },
+  {
+    "id": "aweniai-2115771866216595564",
+    "title": {
+      "en": null,
+      "zh": "复古电影字体镂空"
+    },
+    "type": "generation",
+    "category": "posters",
+    "inputMode": "reference-to-image",
+    "status": "index-only",
+    "prompt": {
+      "original": "复古电影字体 × 摄影镂空 × 极简双联海报 将上传照片转化为3:4竖版艺术双联海报，上下采用1:1动态视觉分区。上半保留原图主体、环境与光影，允许局部结构自适应重组，不添加文字。下半提炼原图3–5种环境色，通过逆向色相平衡生成复古有彩背景。 自动生成3–6字母英文标题，采用超粗窄体字形，执行70%非线性缩放与中心偏移补偿。将摄影内容通过多层动态蒙版嵌入字母，使用交错景深映射实现主体破框，局部允许非连续轮廓融合。 主视觉居中，四周保留15%–20%动态留白，按视觉密度适当延展。加入少量主题剪纸、手写笔触、丝网印刷颗粒与微型编辑文字。水印：Prompt by @阿文AI实战笔记。 整体强调电影质感、实验字体、空间错位与大师级编辑排版。根据主体情绪自动调整细节，仅输出一张成品。\n\n生图工具："
+    },
+    "media": [],
+    "models": [],
+    "sourcePreview": {
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HVy5SEFa4AA4NxD.jpg",
+          "role": "source-media"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HVy5SEDaIAAbcG-.jpg",
+          "role": "source-media"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HVy5SETa8AAVlGD.jpg",
+          "role": "source-media"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HVy5SEGboAA71WN.jpg",
+          "role": "source-media"
+        }
+      ],
+      "promptExcerpt": "复古电影字体 × 摄影镂空 × 极简双联海报 将上传照片转化为3:4竖版艺术双联海报，上下采用1:1动态视觉分区。上半保留原图主体、环境与光影，允许局部结构自适应重组，不添加文字。下半提炼原图3–5种",
+      "excerptTruncated": true
+    },
+    "provenance": {
+      "originalSource": {
+        "platform": "x",
+        "author": "@AWENIAI",
+        "url": "https://x.com/AWENIAI/status/2115771304179908868",
+        "postId": "2115771304179908868",
+        "publishedAt": "2026-10-29T11:42:42.000Z",
+        "verification": "reported-by-collector",
+        "promptPostUrl": "https://x.com/AWENIAI/status/2115771866216595564",
+        "promptPostId": "2115771866216595564"
+      },
+      "collectedFrom": [
+        {
+          "sourceId": "aweniai",
+          "mode": "collector-export",
+          "snapshotSha256": "4271663685af66a064e2b11da4f503493dea775306f5d029e32902c3401c030c",
+          "url": "https://x.com/AWENIAI/status/2115771304179908868",
+          "collectedAt": "2026-11-26T13:58:26.919Z"
+        }
+      ]
+    },
+    "rights": {
+      "prompt": "unknown",
+      "media": "unknown"
+    },
+    "sourceMeta": {
+      "model": null,
+      "textReview": "boundary-review",
+      "visualReview": "pending",
+      "pairing": "prompt_text_appears_truncated",
+      "imageVerification": "source-reported-output; HTTP and visual match unchecked",
+      "review": {
+        "qualityStatus": "recommended",
+        "classificationConfidence": "medium",
+        "classificationMethod": "owner-directed-collector-import",
+        "inputMode": "reference-to-image",
+        "category": "posters"
+      }
+    }
+  },
+  {
+    "id": "aweniai-2116150978500260173",
+    "title": {
+      "en": null,
+      "zh": "破碎摄影艺术"
+    },
+    "type": "generation",
+    "category": "creative-art",
+    "inputMode": "reference-to-image",
+    "status": "index-only",
+    "prompt": {
+      "original": "将上传照片独立转化为3:4竖版实验摄影双联海报，沿水平中线严格划分上下等高区域，各占50%，无缝拼接，不出现白线、边框或过渡。\n上半区高度保留原始摄影，主体、背景、色彩、比例与自然光影保持真实，仅允许轻微调色及背景自然延展，不添加文字。\n下半区延续原照片的环境、色彩与摄影质感，以不规则矩形切片、错位块面及纤细线条重新组织视觉主体。通过局部抽离、空间交错、尺度反差与非连续结构，呈现介于具象与抽象之间的摄影解构效果。主体保持大致可辨，碎片疏密有致，整体构成紧凑，四周保留大量自然留白。避免规则网格、密集马赛克、夸张立体效果及无关装饰。\n根据照片气质自适应生成2–4词英文艺术标题，搭配简短副标题与少量编辑微字，融合Didone衬线、现代无衬线及瑞士实验排版，强调非对称平衡、空间节奏与视觉张力。\n固定水印：Prompt by @阿文AI实战笔记，极小字号，靠近主字群，不置于边角。整体呈现高级、克制、富有艺术感的国际摄影展览海报，仅输出一张完整作品。"
+    },
+    "media": [],
+    "models": [],
+    "sourcePreview": {
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HV4SCwEbUAAb6xf.jpg",
+          "role": "source-media"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HV4SCwDaMAA8_bb.jpg",
+          "role": "source-media"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HV4SCwCasAAau5Y.jpg",
+          "role": "source-media"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HV4SCwKa8AAiXJn.jpg",
+          "role": "source-media"
+        }
+      ],
+      "promptExcerpt": "将上传照片独立转化为3:4竖版实验摄影双联海报，沿水平中线严格划分上下等高区域，各占50%，无缝拼接，不出现白线、边框或过渡。 上半区高度保留原始摄影，主体、背景、色彩、比例与自然光影保持真实，仅允许",
+      "excerptTruncated": true
+    },
+    "provenance": {
+      "originalSource": {
+        "platform": "x",
+        "author": "@AWENIAI",
+        "url": "https://x.com/AWENIAI/status/2116150659536015761",
+        "postId": "2116150659536015761",
+        "publishedAt": "2026-10-30T12:50:08.000Z",
+        "verification": "reported-by-collector",
+        "promptPostUrl": "https://x.com/AWENIAI/status/2116150978500260173",
+        "promptPostId": "2116150978500260173"
+      },
+      "collectedFrom": [
+        {
+          "sourceId": "aweniai",
+          "mode": "collector-export",
+          "snapshotSha256": "4271663685af66a064e2b11da4f503493dea775306f5d029e32902c3401c030c",
+          "url": "https://x.com/AWENIAI/status/2116150659536015761",
+          "collectedAt": "2026-11-26T13:58:26.919Z"
+        }
+      ]
+    },
+    "rights": {
+      "prompt": "unknown",
+      "media": "unknown"
+    },
+    "sourceMeta": {
+      "model": null,
+      "textReview": "appears-complete",
+      "visualReview": "pending",
+      "pairing": "prompt_post_paired_with_nearby_image_post",
+      "imageVerification": "source-reported-output; HTTP and visual match unchecked",
+      "review": {
+        "qualityStatus": "recommended",
+        "classificationConfidence": "medium",
+        "classificationMethod": "owner-directed-collector-import",
+        "inputMode": "reference-to-image",
+        "category": "creative-art"
+      }
+    }
+  },
+  {
+    "id": "aweniai-2116872128855220686",
+    "title": {
+      "en": null,
+      "zh": "日系游戏立绘"
+    },
+    "type": "generation",
+    "category": "characters",
+    "inputMode": "reference-to-image",
+    "status": "index-only",
+    "prompt": {
+      "original": "将上传照片制作成3:4竖版日系游戏立绘双联海报。沿水平中线严格划分上下等高两区，各占50%，无缝相接，无白线或边框。\n上半区保留原始摄影的主体、表情、动作、服装、配饰、背景和光影，仅允许轻微调色与自然延展，不添加文字。\n下半区以原照片为唯一依据，将主体转换为高精度二维日系游戏立绘：精密彩色线稿、清透赛璐璐阴影、细腻发束、自然五官与材质高光。严格保持原图的镜头角度、视线、姿态、朝向、景别与关键特征；只呈现一张完整插画，禁止分栏、拼贴、多角度、重复人物或新增角色。\n从原图提炼3—5种颜色，自适应设计协调且有冲击力的背景与少量几何装饰，禁止固定配色。利用负空间生成1—4词英文主标题、简短副标题及编辑微字，采用大师级潮流排版，不遮挡面部。仅在下半区主字群附近以极小字号添加“Prompt by @阿文AI实战笔记”。整体保持原图辨识度，避免廉价卡通、塑料3D、杂乱装饰和无意义文字。\n\n提示词地址："
+    },
+    "media": [],
+    "models": [],
+    "sourcePreview": {
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HWCjafBbIAAGFE1.jpg",
+          "role": "source-media"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HWCjafcbEAElzzN.jpg",
+          "role": "source-media"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HWCjafMbQAAHgZH.jpg",
+          "role": "source-media"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HWCjafVaYAECsd7.jpg",
+          "role": "source-media"
+        }
+      ],
+      "promptExcerpt": "将上传照片制作成3:4竖版日系游戏立绘双联海报。沿水平中线严格划分上下等高两区，各占50%，无缝相接，无白线或边框。 上半区保留原始摄影的主体、表情、动作、服装、配饰、背景和光影，仅允许轻微调色与自然",
+      "excerptTruncated": true
+    },
+    "provenance": {
+      "originalSource": {
+        "platform": "x",
+        "author": "@AWENIAI",
+        "url": "https://x.com/AWENIAI/status/2116871807479464142",
+        "postId": "2116871807479464142",
+        "publishedAt": "2026-11-01T12:35:43.000Z",
+        "verification": "reported-by-collector",
+        "promptPostUrl": "https://x.com/AWENIAI/status/2116872128855220686",
+        "promptPostId": "2116872128855220686"
+      },
+      "collectedFrom": [
+        {
+          "sourceId": "aweniai",
+          "mode": "collector-export",
+          "snapshotSha256": "4271663685af66a064e2b11da4f503493dea775306f5d029e32902c3401c030c",
+          "url": "https://x.com/AWENIAI/status/2116871807479464142",
+          "collectedAt": "2026-11-26T13:58:26.919Z"
+        }
+      ]
+    },
+    "rights": {
+      "prompt": "unknown",
+      "media": "unknown"
+    },
+    "sourceMeta": {
+      "model": null,
+      "textReview": "boundary-review",
+      "visualReview": "pending",
+      "pairing": "prompt_text_appears_truncated",
+      "imageVerification": "source-reported-output; HTTP and visual match unchecked",
+      "review": {
+        "qualityStatus": "recommended",
+        "classificationConfidence": "medium",
+        "classificationMethod": "owner-directed-collector-import",
+        "inputMode": "reference-to-image",
+        "category": "characters"
+      }
+    }
+  },
+  {
+    "id": "aweniai-2117578860594081973",
+    "title": {
+      "en": null,
+      "zh": "日系自由线描"
+    },
+    "type": "generation",
+    "category": "illustrations",
+    "inputMode": "reference-to-image",
+    "status": "index-only",
+    "prompt": {
+      "original": "将上传照片创作成3:4竖版日系手绘艺术双联海报，沿水平中线划分上下等高区域，无缝衔接。上半保留原始摄影的主体、背景、姿态与自然光影，不添加文字。\n下半采用奶油白艺术纸背景，将照片主体转化为日系自由线描插画，保留主要形态、表情及识别特征。结合粗细交错的黑色墨线、自然断笔、局部浓墨、淡彩晕染与轻微铅笔痕迹，呈现松弛童趣的手绘质感。\n根据原照片提炼柔和配色，围绕主体加入不规则手绘色面、细腻纸张颗粒及少量自由涂鸦笔触。主体以小巧姿态居中展示，适当调整视觉比例与空间层次，四周保留充足留白，营造轻盈的画册氛围。\n下方自适应生成简短英文艺术标题、精细副标题及固定水印“Prompt by @阿文AI实战笔记”。\n整体融合独立漫画、自由速写与极简编辑设计，强调自然笔触、柔和色彩和舒适留白，避免复杂拼贴、厚重渲染与拥挤排版。"
+    },
+    "media": [],
+    "models": [],
+    "sourcePreview": {
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HWMlaNNaYAASMAE.jpg",
+          "role": "source-media"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HWMl13Sa0AAu8ST.jpg",
+          "role": "source-media"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HWMl3IOagAAvJAV.jpg",
+          "role": "source-media"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HWMl3I5aEAANZZu.jpg",
+          "role": "source-media"
+        }
+      ],
+      "promptExcerpt": "将上传照片创作成3:4竖版日系手绘艺术双联海报，沿水平中线划分上下等高区域，无缝衔接。上半保留原始摄影的主体、背景、姿态与自然光影，不添加文字。 下半采用奶油白艺术纸背景，将照片主体转化为日系自由线描",
+      "excerptTruncated": true
+    },
+    "provenance": {
+      "originalSource": {
+        "platform": "x",
+        "author": "@AWENIAI",
+        "url": "https://x.com/AWENIAI/status/2117578125039251649",
+        "postId": "2117578125039251649",
+        "publishedAt": "2026-11-03T11:22:22.000Z",
+        "verification": "reported-by-collector",
+        "promptPostUrl": "https://x.com/AWENIAI/status/2117578860594081973",
+        "promptPostId": "2117578860594081973"
+      },
+      "collectedFrom": [
+        {
+          "sourceId": "aweniai",
+          "mode": "collector-export",
+          "snapshotSha256": "4271663685af66a064e2b11da4f503493dea775306f5d029e32902c3401c030c",
+          "url": "https://x.com/AWENIAI/status/2117578125039251649",
+          "collectedAt": "2026-11-26T13:58:26.919Z"
+        }
+      ]
+    },
+    "rights": {
+      "prompt": "unknown",
+      "media": "unknown"
+    },
+    "sourceMeta": {
+      "model": null,
+      "textReview": "appears-complete",
+      "visualReview": "pending",
+      "pairing": "prompt_post_paired_with_nearby_image_post",
+      "imageVerification": "source-reported-output; HTTP and visual match unchecked",
+      "review": {
+        "qualityStatus": "recommended",
+        "classificationConfidence": "medium",
+        "classificationMethod": "owner-directed-collector-import",
+        "inputMode": "reference-to-image",
+        "category": "illustrations"
+      }
+    }
+  },
+  {
+    "id": "aweniai-2117940234256023740",
+    "title": {
+      "en": null,
+      "zh": "靛蓝铜版蚀刻"
+    },
+    "type": "editing",
+    "category": "restyle",
+    "inputMode": "reference-to-image",
+    "status": "index-only",
+    "prompt": {
+      "original": "将上传照片制作成3:4竖版艺术双联海报，沿水平中线严格上下等高各50%，无缝拼接。\n上半完整保留原始摄影的主体、背景、姿态、色彩与自然光影，不添加文字。\n下半提取原图核心主体及必要环境，以深靛蓝精密铜版蚀刻排线重构，保留原始轮廓、数量、姿态与空间关系。选取一个完整视觉焦点，以古典金色或铜色油墨绘制整个主体，而非局部高光，其余元素保持深靛蓝。\n整组版画缩小70%，中央紧凑排列，置于纯白艺术纸上，四周保留超大自然留白。通过细密交叉排线、清晰轮廓和疏密阴影呈现收藏级手工印刷质感。\n版画上方添加1–3词优雅大写英文衬线标题，下方以极小字号添加水印“Prompt by @阿文AI实战笔记”。\n禁止主体过大、渐变、3D、额外文字及无关装饰。整体极简、精致、高级。"
+    },
+    "media": [],
+    "models": [],
+    "sourcePreview": {
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HWRvJo7bQAAIbzK.jpg",
+          "role": "source-media"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HWRvJpZacAAoQ6S.jpg",
+          "role": "source-media"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HWRvJroa0AA7_eW.jpg",
+          "role": "source-media"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HWRvJptaIAAohPN.jpg",
+          "role": "source-media"
+        }
+      ],
+      "promptExcerpt": "将上传照片制作成3:4竖版艺术双联海报，沿水平中线严格上下等高各50%，无缝拼接。 上半完整保留原始摄影的主体、背景、姿态、色彩与自然光影，不添加文字。 下半提取原图核心主体及必要环境，以深靛蓝精密铜",
+      "excerptTruncated": true
+    },
+    "provenance": {
+      "originalSource": {
+        "platform": "x",
+        "author": "@AWENIAI",
+        "url": "https://x.com/AWENIAI/status/2117939953183433160",
+        "postId": "2117939953183433160",
+        "publishedAt": "2026-11-04T11:20:08.000Z",
+        "verification": "reported-by-collector",
+        "promptPostUrl": "https://x.com/AWENIAI/status/2117940234256023740",
+        "promptPostId": "2117940234256023740"
+      },
+      "collectedFrom": [
+        {
+          "sourceId": "aweniai",
+          "mode": "collector-export",
+          "snapshotSha256": "4271663685af66a064e2b11da4f503493dea775306f5d029e32902c3401c030c",
+          "url": "https://x.com/AWENIAI/status/2117939953183433160",
+          "collectedAt": "2026-11-26T13:58:26.919Z"
+        }
+      ]
+    },
+    "rights": {
+      "prompt": "unknown",
+      "media": "unknown"
+    },
+    "sourceMeta": {
+      "model": null,
+      "textReview": "appears-complete",
+      "visualReview": "pending",
+      "pairing": "prompt_post_paired_with_nearby_image_post",
+      "imageVerification": "source-reported-output; HTTP and visual match unchecked",
+      "review": {
+        "qualityStatus": "recommended",
+        "classificationConfidence": "medium",
+        "classificationMethod": "owner-directed-collector-import",
+        "inputMode": "reference-to-image",
+        "category": "restyle"
+      }
+    }
+  },
+  {
+    "id": "aweniai-2118691301764063411",
+    "title": {
+      "en": null,
+      "zh": "彩色精密排线插画"
+    },
+    "type": "generation",
+    "category": "illustrations",
+    "inputMode": "reference-to-image",
+    "status": "index-only",
+    "prompt": {
+      "original": "将上传照片创作成3:4竖版艺术双联海报，上下严格各占50%，无分割线。上半保留原始摄影的主体、姿态、背景与光影，去除原有文字和标识。\n\n下半采用暖白艺术纸，将人物及完整场景背景转化为彩色精密排线插画。使用平行细线、交叉网纹和疏密变化表现形体、明暗及空间层次。所有颜色由线条构成，禁止实心填色。自适应提取4–6种鲜明油墨色，确保线条清晰。\n\n主体缩小约70%，保留原始姿态及细节，完整呈现对应环境，居中构图，四周大量留白。\n\n插画左上、右下对角添加半透明二维卡通纸胶带，配简洁条纹或波点。\n\n底部生成2–4词英文标题，使用极细修长非衬线体，字距舒展，无背景色块。下方固定水印“Prompt by @阿文AI实战笔记”。\n\n整体呈现清爽、精致的复古手绘印刷艺术感。"
+    },
+    "media": [],
+    "models": [],
+    "sourcePreview": {
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HWcX14JbMAATtCz.jpg",
+          "role": "source-media"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HWcX14RbYAAe1bF.jpg",
+          "role": "source-media"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HWcX14MbQAEgZIp.jpg",
+          "role": "source-media"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HWcX14TaAAAiJzl.jpg",
+          "role": "source-media"
+        }
+      ],
+      "promptExcerpt": "将上传照片创作成3:4竖版艺术双联海报，上下严格各占50%，无分割线。上半保留原始摄影的主体、姿态、背景与光影，去除原有文字和标识。 下半采用暖白艺术纸，将人物及完整场景背景转化为彩色精密排线插画。使",
+      "excerptTruncated": true
+    },
+    "provenance": {
+      "originalSource": {
+        "platform": "x",
+        "author": "@AWENIAI",
+        "url": "https://x.com/AWENIAI/status/2118690763962003864",
+        "postId": "2118690763962003864",
+        "publishedAt": "2026-11-06T13:03:36.000Z",
+        "verification": "reported-by-collector",
+        "promptPostUrl": "https://x.com/AWENIAI/status/2118691301764063411",
+        "promptPostId": "2118691301764063411"
+      },
+      "collectedFrom": [
+        {
+          "sourceId": "aweniai",
+          "mode": "collector-export",
+          "snapshotSha256": "4271663685af66a064e2b11da4f503493dea775306f5d029e32902c3401c030c",
+          "url": "https://x.com/AWENIAI/status/2118690763962003864",
+          "collectedAt": "2026-11-26T13:58:26.919Z"
+        }
+      ]
+    },
+    "rights": {
+      "prompt": "unknown",
+      "media": "unknown"
+    },
+    "sourceMeta": {
+      "model": null,
+      "textReview": "appears-complete",
+      "visualReview": "pending",
+      "pairing": "prompt_post_paired_with_nearby_image_post",
+      "imageVerification": "source-reported-output; HTTP and visual match unchecked",
+      "review": {
+        "qualityStatus": "recommended",
+        "classificationConfidence": "medium",
+        "classificationMethod": "owner-directed-collector-import",
+        "inputMode": "reference-to-image",
+        "category": "illustrations"
+      }
+    }
+  },
+  {
+    "id": "aweniai-2119065411748811072",
+    "title": {
+      "en": null,
+      "zh": "巨型字体破框海报"
+    },
+    "type": "generation",
+    "category": "posters",
+    "inputMode": "reference-to-image",
+    "status": "index-only",
+    "prompt": {
+      "original": "真实摄影 × 巨型字体破框双联海报\n\n将上传照片创作成3:4竖版艺术双联海报，上下严格各占50%，无边框、分割线。\n\n上半区： 完整保留原始摄影的主体、背景、姿态、视角、色彩与自然光影，不添加文字。\n\n下半区： 保留同一张照片的完整真实背景，精准提取原主体，将巨型英文标题置于主体背后，形成自然遮挡与空间破框。人物、服装、动作、环境及透视必须与原图一致。\n\n标题根据主体自动生成1–2个英文词，采用超粗、高长、窄体无衬线字体，宽度占80%–110%，色彩自适应原图。排版随主体方向、动作及透视独立设计。\n\n加入少量极细英文编辑微字，将水印 “Prompt by @阿文AI实战笔记” 自然融入辅助文字群组，不刻意突出。\n\n禁止： 替换原背景、改变主体、错误遮挡、固定模板及过度装饰。\n\n最终输出一张高分辨率、真实摄影与巨型字体自然融合的高级艺术双联海报。"
+    },
+    "media": [],
+    "models": [],
+    "sourcePreview": {
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HWhrp1baQAAmslK.jpg",
+          "role": "source-media"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HWhrp1ZbcAAS08h.jpg",
+          "role": "source-media"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HWhrp1cbMAA2PaU.jpg",
+          "role": "source-media"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HWhrp1XaoAARDFS.jpg",
+          "role": "source-media"
+        }
+      ],
+      "promptExcerpt": "真实摄影 × 巨型字体破框双联海报 将上传照片创作成3:4竖版艺术双联海报，上下严格各占50%，无边框、分割线。 上半区： 完整保留原始摄影的主体、背景、姿态、视角、色彩与自然光影，不添加文字。 下半",
+      "excerptTruncated": true
+    },
+    "provenance": {
+      "originalSource": {
+        "platform": "x",
+        "author": "@AWENIAI",
+        "url": "https://x.com/AWENIAI/status/2119065040217403756",
+        "postId": "2119065040217403756",
+        "publishedAt": "2026-11-07T13:50:50.000Z",
+        "verification": "reported-by-collector",
+        "promptPostUrl": "https://x.com/AWENIAI/status/2119065411748811072",
+        "promptPostId": "2119065411748811072"
+      },
+      "collectedFrom": [
+        {
+          "sourceId": "aweniai",
+          "mode": "collector-export",
+          "snapshotSha256": "4271663685af66a064e2b11da4f503493dea775306f5d029e32902c3401c030c",
+          "url": "https://x.com/AWENIAI/status/2119065040217403756",
+          "collectedAt": "2026-11-26T13:58:26.919Z"
+        }
+      ]
+    },
+    "rights": {
+      "prompt": "unknown",
+      "media": "unknown"
+    },
+    "sourceMeta": {
+      "model": null,
+      "textReview": "appears-complete",
+      "visualReview": "pending",
+      "pairing": "prompt_post_paired_with_nearby_image_post",
+      "imageVerification": "source-reported-output; HTTP and visual match unchecked",
+      "review": {
+        "qualityStatus": "recommended",
+        "classificationConfidence": "medium",
+        "classificationMethod": "owner-directed-collector-import",
+        "inputMode": "reference-to-image",
+        "category": "posters"
+      }
+    }
+  },
+  {
+    "id": "aweniai-2119795416007118889",
+    "title": {
+      "en": null,
+      "zh": "双道撕纸错位海报"
+    },
+    "type": "generation",
+    "category": "posters",
+    "inputMode": "reference-to-image",
+    "status": "index-only",
+    "prompt": {
+      "original": "双道撕纸错位艺术双联海报\n\n将上传照片生成3:4竖版双联海报，上下严格等高各50%。上半完整保留原始摄影、主体、背景及光影，不加文字。\n\n下半保留同源照片及原始背景，仅插入一条局部放大105%—120%、横向错位5%—10%的摄影带，以两道真实纤维撕纸毛边分隔。撕纸焦点根据主体、姿态和视觉重心自适应选择，可位于面部、发丝、服饰、建筑或景观，不固定位置。上下底图连续对齐，错位精致自然。\n\n采用大师级非对称排版，自适应生成诗意中文标题、英文副标题、艺术微字及流动曲线。配色提取原图，保持高级留白。\n\n仅下半将水印“Prompt by @阿文AI实战笔记”融入辅助文字。禁止额外裂口、主体变形及模板化设计。"
+    },
+    "media": [],
+    "models": [],
+    "sourcePreview": {
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HWr963RbkAAG9IX.jpg",
+          "role": "source-media"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HWr963PagAEVyuT.jpg",
+          "role": "source-media"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HWr963sbUAA_Sos.jpg",
+          "role": "source-media"
+        }
+      ],
+      "promptExcerpt": "双道撕纸错位艺术双联海报 将上传照片生成3:4竖版双联海报，上下严格等高各50%。上半完整保留原始摄影、主体、背景及光影，不加文字。 下半保留同源照片及原始背景，仅插入一条局部放大105%—120%、",
+      "excerptTruncated": true
+    },
+    "provenance": {
+      "originalSource": {
+        "platform": "x",
+        "author": "@AWENIAI",
+        "url": "https://x.com/AWENIAI/status/2119792401560793202",
+        "postId": "2119792401560793202",
+        "publishedAt": "2026-11-09T14:01:07.000Z",
+        "verification": "reported-by-collector",
+        "promptPostUrl": "https://x.com/AWENIAI/status/2119795416007118889",
+        "promptPostId": "2119795416007118889"
+      },
+      "collectedFrom": [
+        {
+          "sourceId": "aweniai",
+          "mode": "collector-export",
+          "snapshotSha256": "4271663685af66a064e2b11da4f503493dea775306f5d029e32902c3401c030c",
+          "url": "https://x.com/AWENIAI/status/2119792401560793202",
+          "collectedAt": "2026-11-26T13:58:26.919Z"
+        }
+      ]
+    },
+    "rights": {
+      "prompt": "unknown",
+      "media": "unknown"
+    },
+    "sourceMeta": {
+      "model": null,
+      "textReview": "appears-complete",
+      "visualReview": "pending",
+      "pairing": "prompt_post_paired_with_nearby_image_post",
+      "imageVerification": "source-reported-output; HTTP and visual match unchecked",
+      "review": {
+        "qualityStatus": "recommended",
+        "classificationConfidence": "medium",
+        "classificationMethod": "owner-directed-collector-import",
+        "inputMode": "reference-to-image",
+        "category": "posters"
+      }
+    }
+  }
+]

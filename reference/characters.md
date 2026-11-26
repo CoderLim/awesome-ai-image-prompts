@@ -6,6 +6,22 @@
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
+<a id="aweniai-2116872128855220686"></a>
+
+## 日系游戏立绘
+
+<a href="https://pbs.twimg.com/media/HWCjafBbIAAGFE1.jpg"><img src="https://pbs.twimg.com/media/HWCjafBbIAAGFE1.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+将上传照片制作成3:4竖版日系游戏立绘双联海报。沿水平中线严格划分上下等高两区，各占50%，无缝相接，无白线或边框。 上半区保留原始摄影的主体、表情、动作、服装、配饰、背景和光影，仅允许轻微调色与自然延展，不添加文字。 下半区以原照片为唯一依据，将主体转换为高精度二维日系游戏立绘：精密彩色线稿、清透赛璐璐阴影、细腻发束、自然五官与材质高光。严格保持原图的镜头角度、视线、姿态、朝向、景别与关键特征；只呈现一张完整插画，禁止分栏、拼贴、多角度、重复人物或新增角色。 从原图提炼3—5种颜色，自适应设计协调且有冲击力的背景与少量几何装饰，禁止固定配色。利用负空间生成1—4词英文主标题、简短副标题及编辑微字，采用大师级潮流排版，不遮挡面部。仅在下半区主字群附近以极小字号添加“Prompt by @阿文AI实战笔记”。整体保持原图辨识度，避免廉价卡通、塑料3D、杂乱装饰和无意义文字。 提示词地址：
+```
+
+By [@AWENIAI](https://x.com/AWENIAI/status/2116871807479464142)
+
+---
+
 <a id="evolink-character-sheets-case-54"></a>
 
 ## Mira Character Sheet
@@ -307,22 +323,6 @@ Ultra-detailed cyberpunk anime character design sheet of a teenage genius hacker
 ```
 
 By [@Kashberg\_0](https://x.com/Kashberg_0/status/2055865126335762902)
-
----
-
-<a id="freestylefly-case-487"></a>
-
-## 法式药妆商业分镜封面
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case487.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case487.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-35mm anamorphic, 2.39:1, no flares. Ultra-realistic international French pharmacy skincare commercial for La Roche-Posay Anthelios UVMune 400 Hydrating Cream SPF50+. Soft premium music plus tactile realistic sound effects throughout. Rich warm natural grain, premium but not over-polished. Palette: warm ivory whites, soft stone neutrals, signature La Roche-Posay orange, subtle clinical cyan-blue, sunlit beige, realistic warm skin tones. The tube is iconic. The skin is the proof. Every shot builds toward the moment the product disappears into real skin and protection becomes confidence. Fast cuts, macro intimacy, tactile realism, one quiet transformation that feels earned: sunscreen that looks invisible, breathable, and real. MODEL / WARDROBE Use the same female model consistently across all shots, matching the approved character sheet: slim natural model proportions, warm medium skin tone, dark brown hair in a clean low bun, refined oval face, natural brows, realistic under-eye detail, subtle lips, minimal makeup. Same face, same hairstyle, same body structure, same skin tone, same wardrobe continuity throughout. Wardrobe must be modest, elegant, and fully covered. No exposed body, no tank top, no fitted clothing, no cleavage, no bare shoulders, no body-hugging silhouette. Wardrobe: loose cream linen button-up shirt, full sleeves, fully buttoned or layered over a high-neck white inner top, soft beige trousers only if visible, minimal jewelry, refined French pharmacy skincare styling. Clothing should feel premium, breathable, clean, and international, never sensual, revealing, or fashion-body-focused. The camera may show hands, face, neck-up portrait, shoulders, waist-up, mirror shots, bathroom ritual shots, and outdoor walking lifestyle shots, but the body must not be emphasized. Keep attention on skin texture, hands applying sunscreen, product packaging, morning ritual, and confident protected face. SKIN REALISM Skin must look human and unfiltered: visible pores, peach fuzz, tiny fine lines, slight under-eye texture, natural skin tone variation, realistic facial micro texture, matte-hydrated finish. No glossy skin, no oily shine, no wet-look face, no waxy AI skin, no porcelain smoothing, no glam beauty filter, no fake glow. PRODUCT REFERENCE Use the exact La Roche-Posay Anthelios UVMune 400 Hydrating Cream SPF50+ product reference: white tube, orange square logo, black La Roche-Posay typography, orange SPF50+ panel, light blue hydrating cream band, orange lower panel, white pump-cap base. Product shape and color blocking must remain consistent. MUSIC DIRECTION Soft elegant premium skincare music throughout: gentle piano, airy ambient pads, subtle low-end warmth, very light modern electronic pulse, calm emotional lift. Music should feel expensive, dermatological, trustworthy, and international. Never loud, never dramatic, never trailer-like, never distracting. The music should support the tactile sound design without overpowering it.
-```
-
-By [@AIwithSynthia](https://x.com/AIwithSynthia/status/2061300623530942922)
 
 ---
 

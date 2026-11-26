@@ -6,6 +6,102 @@
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
+<a id="aweniai-2105661058765770857"></a>
+
+## 橡胶印章旅行海报
+
+<a href="https://pbs.twimg.com/media/HTjPb2taEAAu2oX.jpg"><img src="https://pbs.twimg.com/media/HTjPb2taEAAu2oX.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+为每张上传照片分别生成一张独立的“橡胶印章旅行记录海报”，每张照片只输出一张成品，不拼贴、不合成多图、不共享同一套文字。整体为3:4竖版构图，上下严格1:1，各占画面50%，不画明显分隔线。上半区完整保留对应原始照片：主体身份、人物或物体比例、地形、建筑、植物、空间关系、姿态、透视、自然光线、阴影、景深、真实纹理和原始色彩氛围保持不变；只允许轻微的艺术出版级照片调色和极其细腻的胶片颗粒。为适配竖版，可做自然裁切和背景轻微延展，但不得拉伸、扭曲、移动、替换、重绘主体，也不得新增无关元素。清理原图中所有可见英文、logo、品牌标识、水印、角标和平台痕迹，去除后保持背景材质与光影自然连续。下半区以同一张照片为唯一视觉依据，转化为旅行记录感的橡胶印章海报画面：保留原照的主要轮廓、场景结构、视觉中心、空间走势、代表性细节、固有色和情绪，但以手工橡胶章拓印、复古旅行纪念章、独立出版物版画的方式重新组织；边缘略有压印不均、油墨轻微渗化、纸张纤维可见，质感克制精致。下半区必须根据每张照片单独提取画面信息生成英文短文案，例如地点感、建筑特征、自然景观、人物状态、季节光线或旅行记忆，不得所有画面使用相同内容，不得直接复刻原图里的英文、logo或水印。英文文字应自然融入印章结构，可包含短标题、日期感编号、地点感短语或纪念戳记，但内容必须来自该照片的视觉线索并重新改写。提示词本身保持中文描述，画面内文字使用英文。整体上下形成明确对照：上半区是真实原照，下半区是同一照片的橡胶印章旅行记录转译，主题一致但不能简单复制。
+```
+
+By [@AWENIAI](https://x.com/AWENIAI/status/2105661031980896733)
+
+---
+
+<a id="aweniai-2107487152556966350"></a>
+
+## 丝网印刷旅行海报
+
+<a href="https://pbs.twimg.com/media/HT9MGbIaYAAMvvF.jpg"><img src="https://pbs.twimg.com/media/HT9MGbIaYAAMvvF.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+请将我上传的每一张照片分别生成一张独立作品，不拼接、不合并。整体为3:4竖版高级旅行视觉海报，上下严格1:1分区，各占画面高度50%，形成真实摄影与丝网印刷海报的明确对照。上半区完整保留对应上传照片，作为明亮、真实、干净的摄影场景；若照片对应地点为[LUGAR]，必须保持该地点的真实空间特征、建筑或自然地貌、街道、天空、植被、人物、物体、构图、比例、透视、材质、自然光影、景深和原有色彩关系不变。仅允许轻微高级摄影调色，使画面更通透、明亮，具有艺术杂志、独立出版物与展览摄影质感；背景可顺应原场景自然延展以适配画幅，但不得拉伸、扭曲、改变主体位置、替换地点特征或新增无关元素。上半区必须仍是可信的 fotorrealista luminosa 摄影画面，不要变成插画、绘画或滤镜海报。下半区以同一张照片和同一地点视角为唯一视觉依据，将上方场景重新转译为精致的 serigrafía póster 丝网印刷旅行海报。保留地点最具识别度的主体轮廓、空间走势、建筑剪影、山海天际线、街景关系、植物形态、代表性物件、光影情绪和画面叙事，但不要机械复制照片细节；用细线条、清晰轮廓、平面色块和克制构图概括场景，使观者能一眼看出它与上半区照片来自同一地点。下半区背景使用温暖象牙白或浅米白纸色，加入一块大型几何形作为主视觉结构，可根据照片空间关系设置为圆形、拱形、矩形或斜切色面，但不得遮挡主要识别信息。色彩从上方照片提取并整理为有限调色板，保留2至5种最具代表性的颜色，转化为鲜明但克制的平面色，避免复杂渐变、荧光色、廉价旅游海报感和杂乱配色。丝网印刷质感应包含轻微套印偏差、细小油墨颗粒、纸张纤维、温和掉墨和手工印刷的不完美边缘，但整体仍需干净、现代、平衡。下半区加入地点名称[LUGAR]，并配一行简短西班牙语短句，文字根据地点气质重新生成，简洁、诗意，像旅行海报或摄影日记中的注记；字体清晰、优雅、有出版物感，文字与几何图形和场景主体形成编辑式排版关系。禁止添加logo、品牌、水印、二维码、无关标志、过量文字、假字母、杂乱装饰、厚重阴影、3D效果、照片滤镜感和与原地点无关的元素。整张作品应安静、明亮、克制，像高级独立旅行摄影出版物中的双区实验海报。
+```
+
+By [@AWENIAI](https://x.com/AWENIAI/status/2107486887963422819)
+
+---
+
+<a id="aweniai-2112514492647268613"></a>
+
+## 七种光学印刷效果图鉴
+
+<a href="https://pbs.twimg.com/media/HVEoqbEaUAA8gBL.jpg"><img src="https://pbs.twimg.com/media/HVEoqbEaUAA8gBL.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+每张上传照片分别生成一张独立高级实验艺术双联图鉴海报，不拼接、不混合。画布严格为3:4竖版，上下1:1各占50%，以自然平直的水平边界衔接，无分割线、相框、卡片、胶带、撕纸、卷边或拼贴阴影。整体融合国际平面设计、实验摄影、瑞士编辑设计、复古印刷与极简艺术出版物美学。 上半区完整保留对应原始照片，人物、动物、植物、花卉、建筑、风景、交通工具或静物的身份、数量、轮廓、结构、位置、服饰、动作、环境、构图、比例、透视、材质、景深、自然光影与色彩关系均不得改变。仅允许轻微高级调色、曝光优化和背景自然延展，满版覆盖顶部、左右及分界线；禁止出现实验窗口、文字或装饰。 下半区先完整重现同一原始摄影，保持主体、场景、透视、色彩与视觉中心连续清晰，再在其真实像素上原位叠加七个大小不同、非对称的矩形处理选区。窗口必须直接穿过主体非关键局部，如花瓣、发丝、服装、皮毛、建筑表面或自然纹理；窗口内外的轮廓、比例、连接、透视与位置精确连续，绝不裁剪、放大、移动、复制或重绘内容。保留至少一处完整醒目的真实主体核心，窗口不可完全遮盖面部、眼睛、主花或其他焦点。 七个窗口按真实局部依次转换为：01长虹玻璃Reeded Glass，极细纵向光栅与折射；02黑白雕刻Engraving Print，铜版刻线与交叉排线；03美式点描Stipple Illustration，黑白微点塑形；04复古半调Retro Halftone，CMYK网点与轻微套印偏差；05像素马赛克Pixel Mosaic，统一方形像素；06透明叠印Transparent Overlay，2—4层半透明色片；07双色丝印Duotone Screenprint，提取两种原图色彩的网点油墨。效果必须材质鲜明不同，却只改变窗口内对应原图像素。 每个窗口配极细白色、浅灰或自适应边框、四角微型实心方块控制点，细定位线和圆点，禁止厚框、阴影、悬浮卡片或贴纸。窗口附近完整标注准确序号、中文名与英文名，使用纤细现代Sans-serif字体，自由排版并以细线对应窗口，文字清晰、不乱码、不遮挡焦点。下半区其余区域始终保留真实摄影背景。禁止七张独立小图、空白背景窗口、主体断裂错位、抽象底图、Logo、水印与无关元素。最终只输出一张高清3:4竖版海报。
+```
+
+By [@AWENIAI](https://x.com/AWENIAI/status/2112514492647268613)
+
+---
+
+<a id="aweniai-2115771866216595564"></a>
+
+## 复古电影字体镂空
+
+<a href="https://pbs.twimg.com/media/HVy5SEFa4AA4NxD.jpg"><img src="https://pbs.twimg.com/media/HVy5SEFa4AA4NxD.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+复古电影字体 × 摄影镂空 × 极简双联海报 将上传照片转化为3:4竖版艺术双联海报，上下采用1:1动态视觉分区。上半保留原图主体、环境与光影，允许局部结构自适应重组，不添加文字。下半提炼原图3–5种环境色，通过逆向色相平衡生成复古有彩背景。 自动生成3–6字母英文标题，采用超粗窄体字形，执行70%非线性缩放与中心偏移补偿。将摄影内容通过多层动态蒙版嵌入字母，使用交错景深映射实现主体破框，局部允许非连续轮廓融合。 主视觉居中，四周保留15%–20%动态留白，按视觉密度适当延展。加入少量主题剪纸、手写笔触、丝网印刷颗粒与微型编辑文字。水印：Prompt by @阿文AI实战笔记。 整体强调电影质感、实验字体、空间错位与大师级编辑排版。根据主体情绪自动调整细节，仅输出一张成品。 生图工具：
+```
+
+By [@AWENIAI](https://x.com/AWENIAI/status/2115771304179908868)
+
+---
+
+<a id="aweniai-2119065411748811072"></a>
+
+## 巨型字体破框海报
+
+<a href="https://pbs.twimg.com/media/HWhrp1baQAAmslK.jpg"><img src="https://pbs.twimg.com/media/HWhrp1baQAAmslK.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+真实摄影 × 巨型字体破框双联海报 将上传照片创作成3:4竖版艺术双联海报，上下严格各占50%，无边框、分割线。 上半区： 完整保留原始摄影的主体、背景、姿态、视角、色彩与自然光影，不添加文字。 下半区： 保留同一张照片的完整真实背景，精准提取原主体，将巨型英文标题置于主体背后，形成自然遮挡与空间破框。人物、服装、动作、环境及透视必须与原图一致。 标题根据主体自动生成1–2个英文词，采用超粗、高长、窄体无衬线字体，宽度占80%–110%，色彩自适应原图。排版随主体方向、动作及透视独立设计。 加入少量极细英文编辑微字，将水印 “Prompt by @阿文AI实战笔记” 自然融入辅助文字群组，不刻意突出。 禁止： 替换原背景、改变主体、错误遮挡、固定模板及过度装饰。 最终输出一张高分辨率、真实摄影与巨型字体自然融合的高级艺术双联海报。
+```
+
+By [@AWENIAI](https://x.com/AWENIAI/status/2119065040217403756)
+
+---
+
+<a id="aweniai-2119795416007118889"></a>
+
+## 双道撕纸错位海报
+
+<a href="https://pbs.twimg.com/media/HWr963RbkAAG9IX.jpg"><img src="https://pbs.twimg.com/media/HWr963RbkAAG9IX.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+双道撕纸错位艺术双联海报 将上传照片生成3:4竖版双联海报，上下严格等高各50%。上半完整保留原始摄影、主体、背景及光影，不加文字。 下半保留同源照片及原始背景，仅插入一条局部放大105%—120%、横向错位5%—10%的摄影带，以两道真实纤维撕纸毛边分隔。撕纸焦点根据主体、姿态和视觉重心自适应选择，可位于面部、发丝、服饰、建筑或景观，不固定位置。上下底图连续对齐，错位精致自然。 采用大师级非对称排版，自适应生成诗意中文标题、英文副标题、艺术微字及流动曲线。配色提取原图，保持高级留白。 仅下半将水印“Prompt by @阿文AI实战笔记”融入辅助文字。禁止额外裂口、主体变形及模板化设计。
+```
+
+By [@AWENIAI](https://x.com/AWENIAI/status/2119792401560793202)
+
+---
+
 <a id="evolink-advertising-case-171"></a>
 
 ## Food Photography and Ingredient Journal
@@ -227,102 +323,6 @@ Please create a separate "Rubber Stamp Travel Field Notes Poster" for each photo
 ```
 
 By [@MahnoorAi12](https://x.com/MahnoorAi12/status/2101546101228646430)
-
----
-
-<a id="evolink-travel-journals-case-232"></a>
-
-## Seated Traveler Watercolor Poster
-
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2101254024343556096.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2101254024343556096.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Create a sophisticated vertical editorial watercolor poster using the uploaded reference photo as the exact visual reference for the woman’s facial features, identity, hairstyle, skin tone, and overall appearance. IMPORTANT: This must be visually different from the first poster. Do NOT use a waving pose. Do NOT place the subject standing in the same pose. Create a completely different composition and body position. Show the woman seated elegantly on a low stone terrace or architectural ledge, wearing a tailored black blazer with matching wide-leg trousers and a crisp white collared shirt. One elbow is resting naturally on her knee, with her hand gently supporting her cheek in a relaxed, thoughtful pose. Her other hand rests naturally on her lap. A simple elegant wristwatch is visible. Her expression should be soft, confident, calm, and slightly smiling. Keep her facial identity and recognizable features consistent with the reference image. STYLE: Luxury hand-painted watercolor and fine-ink editorial illustration, realistic but artistic facial rendering, delicate brush strokes, subtle ink outlines, natural skin tones, soft watercolor bleeding, sophisticated muted beige, warm brown, ivory and charcoal palette, visible handmade watercolor paper texture, premium fashion magazine aesthetic. COMPOSITION: Vertical poster layout. Place the woman in the lower-middle portion of the composition. Leave generous clean negative space around the subject. Create a different visual balance from the first poster by using a seated pose and a slightly asymmetrical composition. BACKGROUND: Warm ivory handmade textured paper. Behind the woman, add very subtle watercolor sketches of elegant Mediterranean-style architecture, distant trees, delicate branches and soft beige architectural brush marks. Keep the background extremely light and artistic so the woman remains the main focus. No photographic background. TYPOGRAPHY: At the upper center, add elegant handwritten/script-style text: “Alina Ai” Directly underneath, add a thin minimal horizontal line. Below the line, add small widely spaced uppercase typography: “PEOPLE ALWAYS STAY” Add very subtle small editorial text elements around the composition: “SAME GIRL DIFFERENT DREAMS” “A KINDER BRIGHTER ME” “GOOD IDEAS BRIGHTER DAYS” Keep all typography refined, minimal, balanced, and premium. OVERALL LOOK: Luxury editorial watercolor poster, sophisticated fashion illustration, handmade art print, soft cinematic lighting translated into watercolor, realistic proportions, elegant feminine aesthetic, premium magazine cover composition, clean negative space, highly detailed face and hair, natural hands and anatomy. NEGATIVE PROMPT: Do not copy the first poster’s pose, no waving hand, no standing pose, no raised arm, no photorealistic background, no 3D CGI, no cartoon appearance, no excessive colors, no clutter, no extra people, no distorted face, no extra fingers, no malformed hands, no duplicated limbs, no unnatural anatomy, no harsh outlines, no plastic skin, no AI-looking facial features, no incorrect text, no random logos.
-```
-
-By [@Alina\_with\_Ai](https://x.com/Alina_with_Ai/status/2101255289333031047)
-
----
-
-<a id="freestylefly-case-119"></a>
-
-## 主题海报版式设计
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case119.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case119.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-{ "type": "anime movie production pitch document", "overall_layout": "split layout with a large cinematic movie poster on the top half and a grid of 5 detailed reference sheets on the bottom half", "top_section": { "type": "movie poster", "visual": "A man, a woman, and a dog standing on a ruined city street, facing away from the viewer, looking towards a colossal, porous, web-like alien structure dominating the sky. A rusty 'RESTRICTED AREA' sign is on the right.", "typography": { "title": "{argument name=\"movie title\" default=\"劇場版 巨骸の向こう側 Fallen Colossus\"}", "release_date": "{argument name=\"release date\" default=\"2027.11.28 ROADSHOW\"}", "tagline": "そこにあるのは、まだ「説明」されていないもの。", "credits_studio": "{argument name=\"studio name\" default=\"WIT STUDIO\"}" } }, "bottom_sections": [ { "title": "{argument name=\"male character name\" default=\"来栖 武 / Kurusu Takeru\"}", "type": "character reference sheet", "elements": { "full_body_poses": 3, "expressions": 3, "detail_shots": 8, "description": "Male protagonist in dark tactical jacket and cargo pants. Includes front, back, and side full-body views, headshots, and detailed callouts for gloves, boots, backpack, and radio." } }, { "title": "{argument name=\"female character name\" default=\"大城 真那 / Oshiro Mana\"}", "type": "character reference sheet", "elements": { "full_body_poses": 3, "expressions": 3, "detail_shots": 6, "description": "Female protagonist in grey tactical uniform. Includes front, back, and side full-body views, headshots, and detailed callouts for jacket, boots, ID badge, and pouch." } }, { "title": "カゲ (Kage) 設定画", "type": "animal character reference sheet", "elements": { "full_body_poses": 4, "expressions": 4, "detail_shots": 5, "description": "Dog companion. Includes side, front, back, and angled full-body views, headshots, and detailed callouts for fur texture, paws, and a motorcycle sidecar." } }, { "title": "第7巨骸 (Remnant-7) 内部区画 設定画", "type": "environment and vehicle reference sheet", "elements": { "large_diagrams": 1, "environment_thumbnails": 4, "vehicle_designs": 1, "description": "Cross-section of the porous alien structure, smaller environment thumbnails, and a motorcycle design featuring the characters." } }, { "title": "Concept Art", "type": "scene illustration", "elements": { "characters": 3, "vehicles": 1, "description": "The male character, female character, and dog with a motorcycle sidecar parked in front of the glowing, porous alien structure." } } ] }
-```
-
-By [@old\_pgmrs\_will](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-119)
-
----
-
-<a id="freestylefly-case-348"></a>
-
-## 胡须风格分析海报
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case348.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case348.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Create a premium “BEARD STYLE ANALYSIS” poster featuring the same man from the reference image. Show face shape, beard density, jawline definition, beard growth pattern, and beard suitability score. Include different beard styles comparison such as Stubble, Short Boxed Beard, Full Beard, Goatee, Van Dyke, Clean Shave. Add side profile and front profile views. Modern dark blue luxury background, professional grooming infographic style, high detail, realistic face consistency, stylish typography, premium male grooming poster.
-```
-
-By [@RizwanAly07](https://x.com/RizwanAly07/status/2048610196302250019)
-
----
-
-<a id="freestylefly-case-381"></a>
-
-## 90 年代公寓场景参考板
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case381.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case381.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-{ "type": "scene reference board — 90s apartment living room, cinematic night", "style": "cinematic film photography, 35mm grain, warm amber shadow fill, deep chiaroscuro lighting, hyper-detailed interior, production design reference quality", "layout": { "main_panel_center_left": { "label": "CAMERA A — FRONT VIEW", "scene": "Wide shot, L-shaped tan sectional sofa, grey knit throw blanket, wooden coffee table (remote, mug, ashtray, Rolling Stone stack), lava lamp left, table lamp right, rain-streaked city window behind, Nirvana poster left wall. 35mm grain." }, "main_panel_center_right": { "label": "CAMERA B — REVERSE VIEW", "scene": "Wide reverse from behind sofa. CRT TV prominent right, grey static screen. Tall bookshelf, VHS tapes. Cool blue backlight from window behind camera. Deep shadow." }, "prop_strip_bottom": "6 close-up tiles: 1. LAVA LAMP — chrome base, blue-green wax blobs; 2. COFFEE TABLE — remote, mug, ashtray, magazines; 3. NIRVANA POSTER — black smiley face, wall texture; 4. CRT TELEVISION — static screen, VHS stack; 5. WINDOW/RAIN — city bokeh, water streaks; 6. THROW BLANKET — sofa corner, worn upholstery", "top_right_inset": "SOURCE REF thumbnail — original photo", "footer": "2700K PRACTICAL · 4100K CITY NIGHT · 24mm · 35MM" }, "background": "deep charcoal #1a1a1a, thin white separators", "dimensions": "wide landscape 3:1, high resolution" }
-```
-
-By [@Iancu\_ai](https://x.com/Iancu_ai/status/2051287273581203888)
-
----
-
-<a id="freestylefly-case-389"></a>
-
-## Transparent Labs Hydrate 健身补剂 Campaign
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case389.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case389.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Create a striking campaign poster that stops people mid-scroll for Transparent Labs Hydrate. Bold high-impact supplement advertisement with dramatic black and deep electric blue color palette, gritty premium fitness aesthetic, sharp cinematic lighting, glossy reflections, light smoke atmosphere, intense contrast. Giant headline typography at top reading “TRANSPARENT LABS HYDRATE” in oversized distressed white and electric blue text. Center composition features the exact woman from the attached reference image as a fit athletic female model seated confidently on a studio floor, holding a shaker bottle, with a focused and powerful expression. Change her clothes into sleek black fitness gym outfit: a black sports bra / tank top and high-waisted black leggings with chunky white sneakers. Large glowing “1%” graphic behind the subject symbolizing daily progress. Front left foreground shows a matte black Transparent Labs Hydrate tub with modern luxury label reading “HYDRATE”, scoop of electrolyte powder spilled beside the container. Surround the poster with clean icon-based benefit callouts: replenishes electrolytes, supports hydration, boosts recovery, improves endurance, enhances performance, zero sugar, lab tested, premium quality, no fillers. Strong motivational copy such as “Daily Hydration. Peak Performance.” Hyper realistic textures, polished commercial retouching, premium sports nutrition branding, modern typography layout, social media ad format, ultra detailed, high resolution.
-```
-
-By [@amynys](https://x.com/amynys/status/2051409591137972606)
-
----
-
-<a id="freestylefly-case-441"></a>
-
-## WILDCAMP 巨型帐篷广告海报
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case441.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case441.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-An outdoor adventure advertisement poster featuring a rugged bearded man in full hiking gear standing confidently beside a massive orange camping tent three times taller than him, fully pitched in a dramatic forest clearing surrounded by towering pine trees beneath a deep starry night sky. The tent features a bold white “WILDCAMP” logo stitched onto the rainfly. Warm cinematic campfire lighting illuminates the scene with realistic shadows and rich outdoor textures, creating a premium adventure-commercial aesthetic. Large rugged serif typography reading “WILDCAMP” dominates the dark sky area in bold orange lettering, while the tagline “Sleep under the stars.” appears elegantly at the bottom. Small grey text in the top-right corner reads “Designed with GPT Image 2.” Photorealistic, ultra-detailed, cinematic outdoor advertising style with dramatic atmosphere and high-end commercial composition.
-```
-
-By [@Strength04\_X](https://x.com/Strength04_X/status/2056258909334306897)
 
 ---
 
