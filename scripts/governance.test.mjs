@@ -43,3 +43,14 @@ test('PromptHero reviewed export preserves approved provisional classification',
  assert.deepEqual(classifyContent(r),{type:'generation',category:'posters',inputMode:'text-to-image',confidence:'medium',reason:'reviewed-collector-export'});
  assert.equal(govern([r]).metadata[r.id].quality.rights,'pending-review');
 });
+
+test('manual exclusion withholds the entire duplicate component from canonical gallery',()=>{
+ const a=make('a','Create a cinematic portrait'),b=make('b','Create a cinematic portrait');
+ const result=govern([a,b],[{id:'a',keys:['id:a']}]);
+ assert.equal(result.rows.filter(r=>r.visible).length,0);
+ assert.equal(result.metadata.a.quality.status,'manual-excluded');
+ assert.equal(result.metadata.b.quality.status,'manual-excluded');
+ assert.deepEqual(JSON.parse(governanceFiles(result)['data/governance/canonical.json']),[]);
+ assert.equal(JSON.parse(governanceFiles(result)['data/governance/report.json']).manualExcluded,2);
+ assert.equal(govern([a,b]).rows.filter(r=>r.visible).length,1);
+});

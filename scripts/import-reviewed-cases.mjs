@@ -6,12 +6,14 @@ import { pathToFileURL } from 'node:url';
 import { readQueue, readCatalog } from './audit-prompt-similarity.mjs';
 import { normalize } from './prompthero-preflight.mjs';
 
+import { readExclusions, exclusionMatches } from './review-exclusions.mjs';
 const hash=p=>createHash('sha256').update(normalize(p)).digest('hex');
 const evidence=x=>x&&typeof x.evidence==='string'&&x.evidence.trim()&&typeof x.reviewer==='string'&&x.reviewer.trim();
 const right=x=>evidence(x)&&x.status==='cleared'&&typeof x.basis==='string'&&x.basis.trim();
 const simpleUtility=p=>/^(?:(?:please\s+)?(?:remove|erase|delete)\s+(?:the\s+)?(?:background|watermark|person|object|logo)|(?:upscale|resize|denoise|crop)(?:\s+(?:the\s+)?(?:image|photo))?|(?:去除|移除|删除)(?:背景|水印|人物)|抠图|图片放大)[.!。！\s]*$/i.test(p.trim());
 
-export function stage(queue,catalog,discovery=[],decisions=[]){
+export function stage(queue,catalog,discovery=[],decisions=[],exclusions=[]){
+  const manual=exclusionMatches([...catalog,...queue.map(r=>({id:'prompthero-'+r.case_id,prompt:{original:r.prompt},provenance:{originalSource:{postId:r.case_id}}}))],exclusions);
   const existingIds=new Set(catalog.map(r=>r.id));
   const posts=new Set(catalog.map(r=>r.provenance.originalSource.postId).filter(Boolean));
   const prompts=new Set(catalog.map(r=>normalize(r.prompt.original)));
@@ -20,6 +22,7 @@ export function stage(queue,catalog,discovery=[],decisions=[]){
   for(const r of queue){
     const id='prompthero-'+r.case_id, reasons=[];
     if(r.next_action!=='visual_review'||r.text_status!=='advance')continue;
+    if(manual.has(id)){audit.push({id,status:'excluded',reasons:['manual_exclusion']});continue;}
     const url=new URL(r.source_url);
     if(!/^[a-f0-9]{11}$/.test(r.case_id)||url.origin!=='https://prompthero.com'||url.username||url.password||!new RegExp('^/prompt/'+r.case_id+'(?:-|/|$)').test(url.pathname))throw Error('Invalid source URL: '+id);
     if(!/^[a-z0-9-]+$/.test(r.category)||!['text-to-image','reference-to-image','image-editing'].includes(r.input_mode))throw Error('Invalid classification: '+id);
@@ -45,7 +48,7 @@ if(process.argv[1]&&import.meta.url===pathToFileURL(path.resolve(process.argv[1]
   const [queue,output,reviewEvidence]=process.argv.slice(2);
   if(!queue||!output)throw Error('Usage: node scripts/import-reviewed-cases.mjs QUEUE.jsonl NEW_OUTPUT.json [REVIEW_EVIDENCE.jsonl]');
   const discovery=JSON.parse(fs.readFileSync('data/discovery/prompthero.json','utf8'));
-  const result=stage(readQueue(queue),readCatalog(),discovery,reviewEvidence?readQueue(reviewEvidence):[]);
+  const result=stage(readQueue(queue),readCatalog(),discovery,reviewEvidence?readQueue(reviewEvidence):[],readExclusions());
   fs.writeFileSync(output,JSON.stringify(result,null,2)+'\n',{flag:'wx'});
   console.log(JSON.stringify({newLinks:result.added.length,eligible:result.eligible,checked:result.audit.length}));
 }
