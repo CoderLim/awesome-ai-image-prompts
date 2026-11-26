@@ -1,0 +1,1393 @@
+[
+  {
+    "id": "evolink-travel-journals-case-212",
+    "title": {
+      "en": "Galata Tower Art Book Poster",
+      "zh": null
+    },
+    "type": "generation",
+    "category": "posters",
+    "inputMode": "reference-to-image",
+    "status": "index-only",
+    "prompt": {
+      "original": "Use the uploaded image as the EXACT visual reference. Recreate the original scene faithfully and preserve the same composition, subjects, architecture, people, cats, Galata Tower, narrow cobblestone street, storefronts, balconies, clothing, poses, camera angle, framing, lighting, colors, proportions, and overall atmosphere.\n\nDo NOT redesign, replace, add, remove, or reinterpret any major element. The result must look like the SAME original photograph and artwork composition, only refined into a premium editorial art-book poster.\n\nSTRICT 3:4 vertical format.\n\nDivide the poster horizontally into two equal 50/50 sections.\n\nTOP HALF:\nKeep the uploaded photograph almost completely unchanged. Preserve the original Istanbul street scene faithfully, including the tall Galata Tower perfectly centered at the end of the street, the historic buildings and weathered façades on both sides, the pedestrians walking through the street, the central man in the blue jacket and brown trousers, the woman walking on the left, the couple on the right, the black-and-white cat in the foreground, the orange cat resting on the left pavement, the gray cat sitting on the right ledge, shopfronts, awnings, balconies, potted plants, cobblestone road, natural shadows, and exact perspective. Apply only subtle cinematic editorial color grading, natural contrast, refined tonal balance, realistic textures, and premium film texture. Do not alter identities, expressions, poses, architecture, animals, objects, or composition.\n\nBOTTOM HALF:\nCreate a small, centered minimalist handmade-paper illustration based ONLY on the most recognizable elements of the original scene: the Galata Tower, historic Istanbul buildings, cobblestone street, walking pedestrians, the foreground cats, storefronts, and architectural details. The illustration should occupy only 10–20% of the bottom section. Use delicate imperfect ink lines, simple refined flat shapes, organic handmade edges, subtle paper grain, and a restrained palette of no more than 4 colors extracted directly from the original photograph.\n\nSurround the illustration with generous warm ivory/off-white negative space. Keep it elegant, quiet, poetic, sophisticated, and museum-quality.\n\nOptional typography: very small refined editorial serif or delicate handwritten-style typography placed beneath the illustration, reading “istanbul - timeless streets”. Keep the text minimal and understated.\n\nOverall aesthetic:\nindependent art-book cover, premium editorial photography, quiet storytelling, poetic, sophisticated, timeless, handcrafted, minimal.\n\nAvoid:\ncartoon style, anime, watercolor-heavy appearance, colored-pencil effect, 3D rendering, glossy graphics, excessive decoration, busy layout, oversaturated colors, artificial faces, altered identities, extra people, extra animals, extra buildings, distorted architecture, distorted anatomy, or commercial advertising aesthetics.\n\nMost important requirement:\nThe TOP HALF must remain an extremely faithful reproduction of the uploaded original photograph. Do not change the original Istanbul street scene, Galata Tower, people, cats, architecture, perspective, or spatial arrangement."
+    },
+    "media": [],
+    "models": [],
+    "sourcePreview": {
+      "images": [
+        {
+          "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2103998879905566720.jpg",
+          "role": "source-media"
+        },
+        {
+          "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2103998879653871616.jpg",
+          "role": "source-media"
+        }
+      ],
+      "promptExcerpt": "Use the uploaded image as the EXACT visual reference. Recreate the original scene faithfully and pre",
+      "excerptTruncated": true
+    },
+    "provenance": {
+      "originalSource": {
+        "platform": "x",
+        "author": "@KrishnaBio1",
+        "url": "https://x.com/KrishnaBio1/status/2103999062068355211",
+        "postId": "2103999062068355211",
+        "publishedAt": null,
+        "verification": "reported-by-collector"
+      },
+      "collectedFrom": [
+        {
+          "sourceId": "evolink",
+          "repository": "Evolink-AI/awesome-gpt-image-2-6-prompts-and-api",
+          "ref": "codex/gpt-image-2-5-prompts",
+          "commitSha": "7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b",
+          "path": "cases/travel-journals.md",
+          "anchor": "travel-journals-case-212",
+          "url": "https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/travel-journals.md#travel-journals-case-212"
+        }
+      ]
+    },
+    "rights": {
+      "prompt": "unknown",
+      "media": "unknown"
+    }
+  },
+  {
+    "id": "evolink-travel-journals-case-213",
+    "title": {
+      "en": "Three-Scene Watercolor Travel Journal",
+      "zh": null
+    },
+    "type": "generation",
+    "category": "travel",
+    "inputMode": "unknown",
+    "status": "index-only",
+    "prompt": {
+      "original": "Create a refined luxury editorial travel-journal composition based on all three uploaded reference images, combining three distinct travel moments into one cohesive artwork: a tropical Maldives beach seen from an aerial perspective, a crystal-clear rocky Mediterranean-style swimming cove with four swimmers, and an elegant London city street featuring a classic red double-decker bus surrounded by historic architecture and pedestrians.\n\nUpper section: create a realistic cinematic travel-photography composition that seamlessly brings these three destinations together as a sophisticated visual travel story. Preserve the recognizable details from each reference: the Maldives scene with brilliant turquoise shallow water, white sandy beach, lush coconut palms and several swimmers including a person relaxing on a yellow/orange float; the rocky blue-water cove with four swimmers positioned naturally in the water, surrounded by rugged sunlit rocks and visible underwater textures; and the London street with the iconic red double-decker bus, historic cream-stone buildings, shopfronts, pedestrians, street lamps and authentic urban atmosphere. Use natural daylight, realistic water reflections, detailed textures, subtle film grain, authentic candid activity, elegant muted color grading and high-end travel magazine photography.\n\nLower section: transform the same combined travel scenes into delicate handmade watercolor illustrations while preserving the recognizable composition and major visual elements from all three references. Keep the Maldives beach, palm trees, turquoise water and swimmers; the rocky swimming cove, four swimmers and surrounding rocks; and the London double-decker bus, historic buildings, pedestrians and street details clearly recognizable. Use loose translucent watercolor washes, delicate ink details, soft edges, imperfect hand-painted brushwork, subtle pigment bleeding, visible handmade paper texture, airy negative space and sophisticated pastel tones. The watercolor must look like a faithful artistic recreation of the photographic scenes, not a completely different interpretation.\n\nArrange the three destinations harmoniously as one elegant travel story with smooth visual transitions, balanced proportions and a premium editorial layout. Surround the watercolor artwork with generous warm ivory/off-white textured paper. Add a small elegant handwritten caption near the bottom reading “summer days — destinations” with a thin minimalist horizontal line underneath.\n\nOverall aesthetic: luxury travel journal, fine-art watercolor postcard, contemporary editorial design, sophisticated wanderlust, nostalgic summer travel, tactile handmade paper, serene and premium art direction, realistic photography transitioning into delicate watercolor illustration, clean composition, natural proportions, no clutter, no unnecessary borders.\n\nPortrait orientation, high-end travel magazine quality, cinematic realism, detailed watercolor rendering, cohesive storytelling, balanced vertical composition, preserve the exact major elements and relative placement of the three reference scenes, no duplicated people"
+    },
+    "media": [],
+    "models": [],
+    "sourcePreview": {
+      "images": [
+        {
+          "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2103772070840860672.jpg",
+          "role": "source-media"
+        },
+        {
+          "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2103772070865993728.jpg",
+          "role": "source-media"
+        },
+        {
+          "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2103772070849220608.jpg",
+          "role": "source-media"
+        }
+      ],
+      "promptExcerpt": "Create a refined luxury editorial travel-journal composition based on all three uploaded reference i",
+      "excerptTruncated": true
+    },
+    "provenance": {
+      "originalSource": {
+        "platform": "x",
+        "author": "@KrishnaBio1",
+        "url": "https://x.com/KrishnaBio1/status/2103772396486308259",
+        "postId": "2103772396486308259",
+        "publishedAt": null,
+        "verification": "reported-by-collector"
+      },
+      "collectedFrom": [
+        {
+          "sourceId": "evolink",
+          "repository": "Evolink-AI/awesome-gpt-image-2-6-prompts-and-api",
+          "ref": "codex/gpt-image-2-5-prompts",
+          "commitSha": "7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b",
+          "path": "cases/travel-journals.md",
+          "anchor": "travel-journals-case-213",
+          "url": "https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/travel-journals.md#travel-journals-case-213"
+        }
+      ]
+    },
+    "rights": {
+      "prompt": "unknown",
+      "media": "unknown"
+    }
+  },
+  {
+    "id": "evolink-travel-journals-case-214",
+    "title": {
+      "en": "Travel Photo and Watercolor Poster",
+      "zh": null
+    },
+    "type": "generation",
+    "category": "posters",
+    "inputMode": "unknown",
+    "status": "index-only",
+    "prompt": {
+      "original": "Create a refined editorial travel-art composition based on a reference photograph. The image is divided vertically into two parts: the upper section is a realistic cinematic travel photograph, while the lower section transforms the exact same scene into a delicate hand-painted watercolor illustration.\nUpper section: authentic candid travel photography, natural daylight, soft shadows, subtle film grain, realistic textures, sophisticated European atmosphere, documentary-style composition, people naturally walking through the scene, beautiful architectural details, slightly muted elegant colors, high-end travel magazine photography.\nLower section: a minimalist handmade watercolor painting of the exact same scene, preserving the recognizable composition, architecture, people, poses, perspective and major visual elements from the photograph. Loose translucent watercolor washes, delicate ink details, visible paper texture, soft edges, imperfect brushwork, subtle pigment bleeding, airy negative space, understated pastel tones, artistic but realistic.\nLeave generous warm ivory/off-white textured paper space surrounding the watercolor illustration. Add a small elegant handwritten caption near the bottom, such as “summer days” or “a quiet afternoon”, with a thin minimalist horizontal line underneath.\nOverall aesthetic: luxury travel journal, fine-art watercolor postcard, contemporary editorial design, nostalgic European summer, understated elegance, tactile handmade paper, sophisticated and serene.\nPortrait orientation, clean composition, premium art direction, no clutter, no borders, natural proportions, highly detailed photograph transitioning into an airy watercolor illustration."
+    },
+    "media": [],
+    "models": [],
+    "sourcePreview": {
+      "images": [
+        {
+          "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2103717888377176064.jpg",
+          "role": "source-media"
+        },
+        {
+          "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2103717904567132160.jpg",
+          "role": "source-media"
+        }
+      ],
+      "promptExcerpt": "Create a refined editorial travel-art composition based on a reference photograph. The image is divi",
+      "excerptTruncated": true
+    },
+    "provenance": {
+      "originalSource": {
+        "platform": "x",
+        "author": "@novaXsignals",
+        "url": "https://x.com/novaXsignals/status/2103717928634122598",
+        "postId": "2103717928634122598",
+        "publishedAt": null,
+        "verification": "reported-by-collector"
+      },
+      "collectedFrom": [
+        {
+          "sourceId": "evolink",
+          "repository": "Evolink-AI/awesome-gpt-image-2-6-prompts-and-api",
+          "ref": "codex/gpt-image-2-5-prompts",
+          "commitSha": "7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b",
+          "path": "cases/travel-journals.md",
+          "anchor": "travel-journals-case-214",
+          "url": "https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/travel-journals.md#travel-journals-case-214"
+        }
+      ]
+    },
+    "rights": {
+      "prompt": "unknown",
+      "media": "unknown"
+    }
+  },
+  {
+    "id": "evolink-travel-journals-case-215",
+    "title": {
+      "en": "Female Traveler Double Exposure",
+      "zh": null
+    },
+    "type": "generation",
+    "category": "travel",
+    "inputMode": "text-to-image",
+    "status": "index-only",
+    "prompt": {
+      "original": "Create a premium travel-themed double-exposure silhouette poster on a clean warm-white background.\n\nA young female traveler is shown in a full-body side-profile walking pose, facing right. She wears a burgundy baseball cap, dark sunglasses, burgundy open shirt over a plain white T-shirt, fitted blue jeans, white sneakers, and a black backpack. Natural confident walking posture, realistic anatomy, photorealistic face and clothing details.\n\nBehind and around the woman, create a large artistic silhouette of a female traveler wearing a baseball cap, filled with a breathtaking travel photograph. Inside the silhouette, show an Indian riverside temple at golden sunset, with a tall detailed historic temple, warm orange sunlight, river reflections, boats, riverside architecture and atmospheric evening light.\n\nThe travel photograph should be perfectly contained inside the silhouette, creating a sophisticated double-exposure / photo-within-silhouette effect. Add expressive burgundy, navy-blue and pale watercolor ink splashes spreading naturally from the bottom edges of the composition, blending with the silhouette and travel scene.\n\nComposition: centered vertical poster, full-body traveler in foreground, oversized cap-and-head silhouette behind her, strong visual hierarchy, generous white negative space, balanced professional graphic-design composition.\n\nStyle: luxury travel advertisement, editorial poster design, cinematic photography, photorealistic, high detail, warm golden-hour lighting, realistic water reflections, subtle watercolor texture, premium commercial artwork, clean edges, sophisticated double exposure.\n\nTechnical: ultra-detailed, sharp subject, realistic skin texture, realistic fabric, natural shadows, high dynamic range, professional color grading, 4K, polished advertising artwork.\n\nNegative Prompt:\nblurry, low resolution, distorted face, extra fingers, extra limbs, bad anatomy, duplicate person, warped body, cartoon, anime, 3D render, oversaturated colors, messy composition, excessive text, watermark, logo, artificial-looking skin."
+    },
+    "media": [],
+    "models": [],
+    "sourcePreview": {
+      "images": [
+        {
+          "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2103696129615683584.jpg",
+          "role": "source-media"
+        }
+      ],
+      "promptExcerpt": "Create a premium travel-themed double-exposure silhouette poster on a clean warm-white background. A",
+      "excerptTruncated": true
+    },
+    "provenance": {
+      "originalSource": {
+        "platform": "x",
+        "author": "@Arina_hoqe",
+        "url": "https://x.com/Arina_hoqe/status/2103696199488520632",
+        "postId": "2103696199488520632",
+        "publishedAt": null,
+        "verification": "reported-by-collector"
+      },
+      "collectedFrom": [
+        {
+          "sourceId": "evolink",
+          "repository": "Evolink-AI/awesome-gpt-image-2-6-prompts-and-api",
+          "ref": "codex/gpt-image-2-5-prompts",
+          "commitSha": "7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b",
+          "path": "cases/travel-journals.md",
+          "anchor": "travel-journals-case-215",
+          "url": "https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/travel-journals.md#travel-journals-case-215"
+        }
+      ]
+    },
+    "rights": {
+      "prompt": "unknown",
+      "media": "unknown"
+    }
+  },
+  {
+    "id": "evolink-travel-journals-case-216",
+    "title": {
+      "en": "Skyward Travel Double Exposure",
+      "zh": null
+    },
+    "type": "generation",
+    "category": "travel",
+    "inputMode": "unknown",
+    "status": "index-only",
+    "prompt": {
+      "original": "A breathtaking surreal double-exposure fine-art photograph and masterwork cinematic composite featuring an adventurous, reflective traveler with the uploaded face as reference, depicted in a dramatic low-angle three-quarter profile with their neck gently extended and gaze cast reverently upward toward the sky. The character is dressed in a travel-worn, dusty khaki button-down utility shirt with rolled sleeves and textured denim trousers, carrying a heavy weathered expedition backpack. Seamlessly integrated and blending directly into the wanderer’s torso, jacket, and pack is an enchanting, luminous miniature landscape centered around a colossal, incandescent golden sunset that bathes the scene in warm radiant amber brilliance. Within this surreal chest portal, a winding path of stone steps ascends toward the blazing horizon, flanked by the dark silhouette of an ancient acacia tree and fiery autumn groves of deep orange and crimson foliage that disintegrate into floating embers, billowing dust clouds, and miniature flying bird silhouettes drifting into the open air. Soaring through the surrounding atmosphere are two photorealistic, glossy black ravens with meticulously rendered wing feathers and sharp talons, one carving dynamically across the left foreground and the other descending from the upper right amid ethereal tendrils of gray smoke. The backdrop consists of expansive, muted slate-blue overcast clouds with soft diffused daylight, establishing a poignant color temperature juxtaposition between the cool, cinematic ambient exterior and the molten, hyper-saturated warm glow emanating from the core. Captured from a low-angle medium shot with a prime 85mm portrait lens, deep depth of field rendering crisp tactile details from the rugged cotton weave and feathered edges to the dynamic particulate clouds, featuring high-contrast cinematic color grading, balanced chiaroscuro lighting, and poetic surrealist visual storytelling."
+    },
+    "media": [],
+    "models": [],
+    "sourcePreview": {
+      "images": [
+        {
+          "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2103694972910456832.jpg",
+          "role": "source-media"
+        },
+        {
+          "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2103695188237709312.jpg",
+          "role": "source-media"
+        }
+      ],
+      "promptExcerpt": "A breathtaking surreal double-exposure fine-art photograph and masterwork cinematic composite featur",
+      "excerptTruncated": true
+    },
+    "provenance": {
+      "originalSource": {
+        "platform": "x",
+        "author": "@AiWithTariq",
+        "url": "https://x.com/AiWithTariq/status/2103695262522696075",
+        "postId": "2103695262522696075",
+        "publishedAt": null,
+        "verification": "reported-by-collector"
+      },
+      "collectedFrom": [
+        {
+          "sourceId": "evolink",
+          "repository": "Evolink-AI/awesome-gpt-image-2-6-prompts-and-api",
+          "ref": "codex/gpt-image-2-5-prompts",
+          "commitSha": "7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b",
+          "path": "cases/travel-journals.md",
+          "anchor": "travel-journals-case-216",
+          "url": "https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/travel-journals.md#travel-journals-case-216"
+        }
+      ]
+    },
+    "rights": {
+      "prompt": "unknown",
+      "media": "unknown"
+    }
+  },
+  {
+    "id": "evolink-travel-journals-case-217",
+    "title": {
+      "en": "Rainy Bench and Dog Art Poster",
+      "zh": null
+    },
+    "type": "generation",
+    "category": "posters",
+    "inputMode": "reference-to-image",
+    "status": "index-only",
+    "prompt": {
+      "original": "Use the uploaded image as the EXACT visual reference. Recreate the original scene faithfully and preserve the same composition, subjects, poses, clothing, facial features, dog, umbrella, bench, rainy street, architecture, camera angle, framing, lighting, colors, proportions, and overall atmosphere.\n\nDo NOT redesign, replace, add, remove, or reinterpret any major element. The result must look like the SAME original photograph, only refined into a premium editorial art-book poster.\n\nSTRICT 3:4 vertical format.\n\nDivide the poster horizontally into two equal 50/50 sections.\n\nTOP HALF:\nKeep the uploaded photograph almost completely unchanged. Preserve the original image faithfully, including the man's appearance, dark coat and hat, umbrella, dog, wooden bench, wet pavement, rain, background buildings, reflections, textures, and exact spatial relationships. Apply only subtle cinematic editorial color grading, natural contrast, refined tonal balance, and premium film texture. Do not alter the identities, expressions, poses, objects, or composition.\n\nBOTTOM HALF:\nCreate a small, centered minimalist handmade-paper illustration based ONLY on the most recognizable elements of the original image: the man, umbrella, dog, and bench. The illustration should occupy only 10–20% of the bottom section. Use delicate imperfect ink lines, simple bold flat shapes, organic handmade edges, subtle paper grain, and a restrained palette of no more than 4 colors extracted directly from the original photograph.\n\nSurround the illustration with generous warm ivory/off-white negative space. Keep it elegant, quiet, poetic, sophisticated, and museum-quality.\n\nOptional typography: very small refined editorial serif typography placed beneath the illustration. Keep the text minimal and understated.\n\nOverall aesthetic:\nindependent art-book cover, premium editorial photography, quiet storytelling, poetic, sophisticated, timeless, handcrafted, minimal.\n\nAvoid:\ncartoon style, anime, watercolor, colored-pencil effect, 3D rendering, glossy graphics, excessive decoration, busy layout, oversaturated colors, artificial faces, altered identities, extra people, extra objects, distorted anatomy, or commercial advertising aesthetics.\n\nMost important requirement:\nThe TOP HALF must remain an extremely faithful reproduction of the uploaded original image. Do not change the original scene."
+    },
+    "media": [],
+    "models": [],
+    "sourcePreview": {
+      "images": [
+        {
+          "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2103635686796763136.jpg",
+          "role": "source-media"
+        },
+        {
+          "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2103635686830280704.jpg",
+          "role": "source-media"
+        }
+      ],
+      "promptExcerpt": "Use the uploaded image as the EXACT visual reference. Recreate the original scene faithfully and pre",
+      "excerptTruncated": true
+    },
+    "provenance": {
+      "originalSource": {
+        "platform": "x",
+        "author": "@KrishnaBio1",
+        "url": "https://x.com/KrishnaBio1/status/2103635959153938466",
+        "postId": "2103635959153938466",
+        "publishedAt": null,
+        "verification": "reported-by-collector"
+      },
+      "collectedFrom": [
+        {
+          "sourceId": "evolink",
+          "repository": "Evolink-AI/awesome-gpt-image-2-6-prompts-and-api",
+          "ref": "codex/gpt-image-2-5-prompts",
+          "commitSha": "7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b",
+          "path": "cases/travel-journals.md",
+          "anchor": "travel-journals-case-217",
+          "url": "https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/travel-journals.md#travel-journals-case-217"
+        }
+      ]
+    },
+    "rights": {
+      "prompt": "unknown",
+      "media": "unknown"
+    }
+  },
+  {
+    "id": "evolink-travel-journals-case-218",
+    "title": {
+      "en": "Clear Pool Travel Journal",
+      "zh": null
+    },
+    "type": "generation",
+    "category": "travel",
+    "inputMode": "unknown",
+    "status": "index-only",
+    "prompt": {
+      "original": "Create a refined editorial travel-art composition based on the uploaded reference images. Combine the two references into one cohesive summer travel-journal artwork featuring a crystal-clear turquoise natural swimming lagoon viewed from above, surrounded by rugged pale limestone rocks and shallow transparent water. Preserve the exact arrangement and natural positions of the five swimmers: one woman relaxing in a circular float near the upper-left, one swimmer moving through the center, one swimmer in a pink swimsuit below center, one person swimming toward the lower-right, and one person standing/wading near the lower-left. Keep their relative positions, poses, scale, swimwear, water ripples, rocks and overall aerial perspective recognizable.\n\nUpper section: realistic cinematic overhead travel photography of the entire scene, brilliant transparent turquoise water, visible stones beneath the surface, natural sunlight creating detailed water reflections and caustic patterns, realistic swimmers and natural candid summer activity, rugged rocky shoreline, subtle film grain, authentic textures, sophisticated high-end travel magazine photography, soft natural color grading, bright but elegant summer atmosphere.\n\nLower section: transform the exact same swimming scene into a delicate handmade watercolor illustration while preserving the same aerial composition, five people, their positions and poses, rocky formations, water movement and major visual details. Use loose translucent watercolor washes, delicate ink details, soft blue and aqua pigments, subtle green and beige tones, visible handmade paper texture, imperfect brushwork, gentle pigment bleeding, soft edges, natural watercolor splashes and airy negative space. The watercolor should clearly feel like a hand-painted artistic recreation of the photograph, not a different scene.\n\nSurround the watercolor artwork with generous warm ivory/off-white textured paper. Keep the transition between the realistic photograph and watercolor clean and elegant. Add a small minimalist handwritten caption near the bottom reading “summer days”, followed by a thin delicate horizontal line underneath.\n\nOverall aesthetic: luxury summer travel journal, fine-art watercolor postcard, contemporary editorial design, nostalgic vacation atmosphere, sophisticated yet relaxed, tactile handmade paper, premium art direction, serene natural beauty, clean composition, no clutter, no unnecessary borders, no extra people, no duplicated swimmers, no distorted bodies.\n\nPortrait orientation, balanced vertical layout, realistic-to-watercolor transformation, highly detailed photography, delicate artistic watercolor rendering, natural proportions, premium travel magazine quality."
+    },
+    "media": [],
+    "models": [],
+    "sourcePreview": {
+      "images": [
+        {
+          "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2103514824810360832.jpg",
+          "role": "source-media"
+        },
+        {
+          "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2103514824793587712.jpg",
+          "role": "source-media"
+        }
+      ],
+      "promptExcerpt": "Create a refined editorial travel-art composition based on the uploaded reference images. Combine th",
+      "excerptTruncated": true
+    },
+    "provenance": {
+      "originalSource": {
+        "platform": "x",
+        "author": "@KrishnaBio1",
+        "url": "https://x.com/KrishnaBio1/status/2103515142495551767",
+        "postId": "2103515142495551767",
+        "publishedAt": null,
+        "verification": "reported-by-collector"
+      },
+      "collectedFrom": [
+        {
+          "sourceId": "evolink",
+          "repository": "Evolink-AI/awesome-gpt-image-2-6-prompts-and-api",
+          "ref": "codex/gpt-image-2-5-prompts",
+          "commitSha": "7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b",
+          "path": "cases/travel-journals.md",
+          "anchor": "travel-journals-case-218",
+          "url": "https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/travel-journals.md#travel-journals-case-218"
+        }
+      ]
+    },
+    "rights": {
+      "prompt": "unknown",
+      "media": "unknown"
+    }
+  },
+  {
+    "id": "evolink-travel-journals-case-219",
+    "title": {
+      "en": "Photo and Handmade Paper Art Book",
+      "zh": null
+    },
+    "type": "generation",
+    "category": "travel",
+    "inputMode": "unknown",
+    "status": "index-only",
+    "prompt": {
+      "original": "Create a high-end independent art-book editorial poster using the uploaded photo as the EXACT visual reference.\n\nSTRICT FORMAT:\n- Vertical 3:4 canvas\n- Divide the composition horizontally into two equal 50/50 sections\n- Top half = original photograph\n- Bottom half = minimalist handmade-paper illustration\n\nTOP HALF — PHOTOGRAPH:\nPreserve the uploaded photograph faithfully and naturally.\nKeep the exact subject identity, facial features, pose, clothing, hairstyle, body position, objects, environment, composition, perspective, lighting and recognizable details.\nDo not redesign or replace the subject.\nDo not change the scene.\nApply only subtle premium editorial color grading with soft natural contrast, refined tones and realistic photographic texture.\nThe photograph should remain photographic and occupy exactly the entire top 50%.\n\nBOTTOM HALF — MINIMALIST ILLUSTRATION:\nReinterpret only the most recognizable elements from the original photo as a small centered handmade paper illustration.\n\nThe illustration must:\n- occupy only around 10–20% of the bottom section\n- remain clearly recognizable from the original photo\n- use delicate imperfect hand-drawn lines\n- use bold flat acrylic-like color shapes\n- have subtle handmade paper grain\n- have slightly organic imperfect edges\n- feel handcrafted rather than digitally perfect\n- use no more than 4 colors extracted from the original photograph\n- maintain generous warm off-white negative space around the illustration\n\nKeep the illustration small and understated.\nDo not let it dominate the bottom half.\n\nEDITORIAL DESIGN:\nCreate a quiet, poetic, refined independent art-book aesthetic.\nUse a warm off-white paper background in the bottom half.\nOptional: add extremely minimal editorial typography beneath the illustration using small elegant uppercase serif lettering with generous letter spacing.\nTypography must be subtle and secondary.\n\nVISUAL MOOD:\nquiet\npoetic\nminimal\nrefined\nartistic\npremium\nmuseum-catalogue / independent art-book aesthetic\nnatural\ntimeless\n\nSTRICTLY AVOID:\ncartoon style\nanime\nwatercolor\ncolored-pencil rendering\n3D rendering\nglossy effects\nphotorealistic illustration\nbusy composition\nlarge illustration\ncommercial advertising aesthetic\noversaturated colors\nheavy shadows\nexcessive typography\nextra objects\naltered identity\nchanged clothing\nchanged pose\nchanged facial features\n\nThe final image should look like a carefully designed contemporary art-book cover where the original photograph and its tiny handmade interpretation coexist in a restrained 50/50 editorial composition."
+    },
+    "media": [],
+    "models": [],
+    "sourcePreview": {
+      "images": [
+        {
+          "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2103154297316012032.jpg",
+          "role": "source-media"
+        },
+        {
+          "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2103154297295011841.jpg",
+          "role": "source-media"
+        }
+      ],
+      "promptExcerpt": "Create a high-end independent art-book editorial poster using the uploaded photo as the EXACT visual",
+      "excerptTruncated": true
+    },
+    "provenance": {
+      "originalSource": {
+        "platform": "x",
+        "author": "@KrishnaBio1",
+        "url": "https://x.com/KrishnaBio1/status/2103154458876162236",
+        "postId": "2103154458876162236",
+        "publishedAt": null,
+        "verification": "reported-by-collector"
+      },
+      "collectedFrom": [
+        {
+          "sourceId": "evolink",
+          "repository": "Evolink-AI/awesome-gpt-image-2-6-prompts-and-api",
+          "ref": "codex/gpt-image-2-5-prompts",
+          "commitSha": "7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b",
+          "path": "cases/travel-journals.md",
+          "anchor": "travel-journals-case-219",
+          "url": "https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/travel-journals.md#travel-journals-case-219"
+        }
+      ]
+    },
+    "rights": {
+      "prompt": "unknown",
+      "media": "unknown"
+    }
+  },
+  {
+    "id": "evolink-travel-journals-case-220",
+    "title": {
+      "en": "Sunny and Rainy Tropical Beach",
+      "zh": null
+    },
+    "type": "generation",
+    "category": "travel",
+    "inputMode": "text-to-image",
+    "status": "index-only",
+    "prompt": {
+      "original": "A breathtaking tropical beach at sunset, with a dramatic split-weather sky. On the left, a warm golden sunset glows over the horizon, casting shimmering reflections across the calm turquoise ocean, with a small sailboat silhouetted near the sun. On the right, enormous dark storm clouds build over the ocean, with heavy rain falling in the distance and bright lightning striking beneath the clouds. Powerful ocean waves crash onto a sandy tropical beach, creating detailed white foam and reflections. Tall coconut palm trees frame both sides of the composition, with tropical vegetation, scattered rocks, driftwood, and a colorful beach kite on the right shoreline. Cinematic lighting, dramatic contrast between warm sunset and cool storm, ultra-realistic, highly detailed, photorealistic, vibrant colors, atmospheric depth, 8K.\nBelow, recreate the exact same beach scene as a beautiful hand-painted watercolor and ink artwork on warm off-white textured paper. Preserve the same composition, sunset, storm clouds, lightning, ocean waves, palm trees, sailboat, beach, rocks, driftwood, and kite. Use delicate watercolor washes, expressive brush strokes, subtle ink outlines, natural color blending, visible paper texture, and irregular watercolor edges with artistic paint splashes around the border. Elegant traditional watercolor aesthetic, highly detailed, no text, no watermark."
+    },
+    "media": [],
+    "models": [],
+    "sourcePreview": {
+      "images": [
+        {
+          "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2103099902935126016.jpg",
+          "role": "source-media"
+        },
+        {
+          "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2103099902989643776.jpg",
+          "role": "source-media"
+        }
+      ],
+      "promptExcerpt": "A breathtaking tropical beach at sunset, with a dramatic split-weather sky. On the left, a warm gold",
+      "excerptTruncated": true
+    },
+    "provenance": {
+      "originalSource": {
+        "platform": "x",
+        "author": "@mehwishkiran07",
+        "url": "https://x.com/mehwishkiran07/status/2103100544957223253",
+        "postId": "2103100544957223253",
+        "publishedAt": null,
+        "verification": "reported-by-collector"
+      },
+      "collectedFrom": [
+        {
+          "sourceId": "evolink",
+          "repository": "Evolink-AI/awesome-gpt-image-2-6-prompts-and-api",
+          "ref": "codex/gpt-image-2-5-prompts",
+          "commitSha": "7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b",
+          "path": "cases/travel-journals.md",
+          "anchor": "travel-journals-case-220",
+          "url": "https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/travel-journals.md#travel-journals-case-220"
+        }
+      ]
+    },
+    "rights": {
+      "prompt": "unknown",
+      "media": "unknown"
+    }
+  },
+  {
+    "id": "evolink-travel-journals-case-221",
+    "title": {
+      "en": "Editorial Photo Scrapbook",
+      "zh": null
+    },
+    "type": "generation",
+    "category": "travel",
+    "inputMode": "reference-to-image",
+    "status": "index-only",
+    "prompt": {
+      "original": "Create a vertical editorial scrapbook-style photo composition using the uploaded image as the main subject and preserve the woman’s exact facial identity, hairstyle, black outfit, pose, and overall appearance.\n\nPlace the original photorealistic image in the upper section on textured cream paper with slightly torn, irregular edges. Below it, create a second version of the exact same scene as a beautiful hand-painted watercolor and ink artwork, keeping the woman, pose, sunset, stone wall, wet pathway, glowing lanterns, lake, mountains, city, trees, and dramatic orange clouds recognizable and consistent.\n\nThe lower watercolor version should have natural watercolor washes, visible paper texture, soft ink outlines, artistic paint bleeding, irregular colorful watercolor splashes around the edges, and a handcrafted premium art-journal aesthetic. Keep the composition elegant and balanced with generous cream-paper space around both images.\n\nAt the bottom, add tasteful handwritten-style text reading “Fiery Sunset”, with a thin horizontal line on each side and a small heart underneath. Warm cinematic lighting, highly detailed, realistic upper photo, artistic watercolor lower image, sophisticated Instagram editorial design, vertical 4:5 composition."
+    },
+    "media": [],
+    "models": [],
+    "sourcePreview": {
+      "images": [
+        {
+          "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2103079736297881600.jpg",
+          "role": "source-media"
+        },
+        {
+          "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2103079736335626240.jpg",
+          "role": "source-media"
+        }
+      ],
+      "promptExcerpt": "Create a vertical editorial scrapbook-style photo composition using the uploaded image as the main s",
+      "excerptTruncated": true
+    },
+    "provenance": {
+      "originalSource": {
+        "platform": "x",
+        "author": "@Alina_with_Ai",
+        "url": "https://x.com/Alina_with_Ai/status/2103079961490075859",
+        "postId": "2103079961490075859",
+        "publishedAt": null,
+        "verification": "reported-by-collector"
+      },
+      "collectedFrom": [
+        {
+          "sourceId": "evolink",
+          "repository": "Evolink-AI/awesome-gpt-image-2-6-prompts-and-api",
+          "ref": "codex/gpt-image-2-5-prompts",
+          "commitSha": "7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b",
+          "path": "cases/travel-journals.md",
+          "anchor": "travel-journals-case-221",
+          "url": "https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/travel-journals.md#travel-journals-case-221"
+        }
+      ]
+    },
+    "rights": {
+      "prompt": "unknown",
+      "media": "unknown"
+    }
+  },
+  {
+    "id": "evolink-travel-journals-case-222",
+    "title": {
+      "en": "Japanese Cafe Memory Journal",
+      "zh": null
+    },
+    "type": "generation",
+    "category": "travel",
+    "inputMode": "text-to-image",
+    "status": "index-only",
+    "prompt": {
+      "original": "Create a premium editorial “memory journal” page combining a real lifestyle photograph with a hand-drawn illustrated interpretation of the same moment. Use a vertical 4:5 composition divided diagonally/vertically into two complementary sections: the left side is a warm, natural, slightly film-grainy photograph of a Japanese café scene, showing beautifully plated food or dessert and coffee on a wooden table, with realistic ambient café details, soft window light, shallow depth of field, and subtle nostalgic tones; the right side is a minimalist hand-painted watercolor/colored-pencil illustration recreating the same food and drink with delicate imperfect ink outlines, muted earthy colors, visible paper texture, and an artistic handmade feel. Keep the right side mostly warm ivory textured paper with generous negative space. Beneath the illustration, add small typewriter-style archival text containing the location, item number, short memory keywords, and year, such as “Tokyo, Japan / No. 0018 / coffee / toast / quiet time / 2026”. The design should feel like a curated Japanese travel diary, café memory archive, contemporary scrapbook, and vintage lifestyle magazine, with sophisticated editorial composition, warm cream paper, muted teal, brown, beige and dusty colors, subtle grain, imperfect printing, understated typography, authentic tactile paper texture, elegant minimalism, photorealistic photography seamlessly paired with handmade illustration, high detail, cohesive visual storytelling, no logos, no watermark."
+    },
+    "media": [],
+    "models": [],
+    "sourcePreview": {
+      "images": [
+        {
+          "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2103047734710145024.jpg",
+          "role": "source-media"
+        },
+        {
+          "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2103047734710108160.jpg",
+          "role": "source-media"
+        }
+      ],
+      "promptExcerpt": "Create a premium editorial “memory journal” page combining a real lifestyle photograph with a hand-d",
+      "excerptTruncated": true
+    },
+    "provenance": {
+      "originalSource": {
+        "platform": "x",
+        "author": "@KrishnaBio1",
+        "url": "https://x.com/KrishnaBio1/status/2103047859281019130",
+        "postId": "2103047859281019130",
+        "publishedAt": null,
+        "verification": "reported-by-collector"
+      },
+      "collectedFrom": [
+        {
+          "sourceId": "evolink",
+          "repository": "Evolink-AI/awesome-gpt-image-2-6-prompts-and-api",
+          "ref": "codex/gpt-image-2-5-prompts",
+          "commitSha": "7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b",
+          "path": "cases/travel-journals.md",
+          "anchor": "travel-journals-case-222",
+          "url": "https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/travel-journals.md#travel-journals-case-222"
+        }
+      ]
+    },
+    "rights": {
+      "prompt": "unknown",
+      "media": "unknown"
+    }
+  },
+  {
+    "id": "evolink-travel-journals-case-223",
+    "title": {
+      "en": "Four-Part Watercolor Travel Journal",
+      "zh": null
+    },
+    "type": "generation",
+    "category": "travel",
+    "inputMode": "unknown",
+    "status": "index-only",
+    "prompt": {
+      "original": "Create a refined luxury editorial travel-art composition inspired by all four reference photographs, seamlessly combining four distinct travel moments into one sophisticated vertical travel journal artwork: Dubai coastline with the iconic sail-shaped Burj Al Arab and a stylish woman in a beige trench coat during golden hour; Icelandic snowy mountains beneath a dramatic glowing green and violet Northern Lights sky, with the woman wearing a warm beige knit beanie, turtleneck and coat; lush tropical Bali rice terraces surrounded by palm trees and misty green mountains, with the woman in a beige trench coat and soft cream knitwear; and a dreamy tropical island setting with turquoise ocean, traditional overwater thatched villas, palm trees and a dramatic volcanic mountain in the background, with the woman wearing a beige trench coat over a black top.\n\nUpper section: create a sophisticated realistic cinematic travel photography sequence that naturally blends these four destinations while keeping each environment visually recognizable and beautifully composed. Preserve the woman’s facial identity, facial proportions, hairstyle, skin tone, expression and overall appearance consistently across the different scenes. Authentic candid travel photography, natural realistic lighting appropriate to each destination, subtle film grain, detailed textures, realistic skin and clothing, atmospheric depth, elegant muted color grading, premium high-end travel magazine photography, cinematic composition, refined European-editorial travel aesthetic.\n\nLower section: transform the exact same four travel scenes into delicate handmade watercolor illustrations, maintaining the recognizable landscapes, architecture, mountains, ocean, rice terraces, Burj Al Arab, Northern Lights, overwater villas, palm trees, clothing, poses and overall composition from the photographic scenes. Use loose translucent watercolor washes, delicate ink outlines, soft pigment bleeding, imperfect hand-painted brushwork, visible paper texture, airy negative space, subtle pastel tones and naturally faded watercolor edges. Keep the woman recognizable and consistent across all four illustrated scenes.\n\nArrange the four destinations as one harmonious artistic travel story rather than four unrelated images, with smooth visual transitions and balanced spacing. Surround the artwork with generous warm ivory/off-white textured handmade paper. Add a small elegant handwritten travel-journal caption near the bottom, such as “Four Places, One Journey” or “Wander Beyond the Ordinary”, followed by a thin minimalist horizontal line.\n\nOverall aesthetic: luxury travel journal, fine-art watercolor postcard, cinematic travel photography, nostalgic wanderlust, contemporary editorial design, sophisticated and serene, tactile handmade paper, premium art direction, elegant natural proportions, highly detailed realistic photography transitioning beautifully into airy watercolor artwork, clean composition, no clutter, no heavy borders, no unnecessary graphic elements.\n\nPortrait orientation, premium editorial layout, cohesive visual storytelling, realistic-to-watercolor transformation, sophisticated travel magazine quality, high detail."
+    },
+    "media": [],
+    "models": [],
+    "sourcePreview": {
+      "images": [
+        {
+          "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2102792836559122432.jpg",
+          "role": "source-media"
+        },
+        {
+          "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2102792836575870976.jpg",
+          "role": "source-media"
+        },
+        {
+          "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2102792836525563908.jpg",
+          "role": "source-media"
+        }
+      ],
+      "promptExcerpt": "Create a refined luxury editorial travel-art composition inspired by all four reference photographs,",
+      "excerptTruncated": true
+    },
+    "provenance": {
+      "originalSource": {
+        "platform": "x",
+        "author": "@KrishnaBio1",
+        "url": "https://x.com/KrishnaBio1/status/2102793013143412829",
+        "postId": "2102793013143412829",
+        "publishedAt": null,
+        "verification": "reported-by-collector"
+      },
+      "collectedFrom": [
+        {
+          "sourceId": "evolink",
+          "repository": "Evolink-AI/awesome-gpt-image-2-6-prompts-and-api",
+          "ref": "codex/gpt-image-2-5-prompts",
+          "commitSha": "7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b",
+          "path": "cases/travel-journals.md",
+          "anchor": "travel-journals-case-223",
+          "url": "https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/travel-journals.md#travel-journals-case-223"
+        }
+      ]
+    },
+    "rights": {
+      "prompt": "unknown",
+      "media": "unknown"
+    }
+  },
+  {
+    "id": "evolink-travel-journals-case-224",
+    "title": {
+      "en": "Original Photo and Watercolor Journal",
+      "zh": null
+    },
+    "type": "generation",
+    "category": "travel",
+    "inputMode": "unknown",
+    "status": "index-only",
+    "prompt": {
+      "original": "Create the image in the exact same style and layout as the previous reference poster. Do NOT remove or crop the original photo. Keep the complete original photo visible in the top section, preserving the woman’s face, identity, pose, outfit, hairstyle, coffee cup, stairs, plant, black door, lighting, and all original details exactly as they appear.\n\nUse the original photo as the main reference. Underneath it, create a watercolor-painted version of the same exact photo, matching the same composition, pose, clothing, background, objects, and facial features. The watercolor version should look like a hand-painted artistic copy of the original, with realistic watercolor brushwork, soft pigment bleeding, paper texture, subtle paint splashes, and naturally irregular watercolor edges.\n\nPlace both versions vertically on a warm ivory textured watercolor-paper background, with the original photo on top and the watercolor version directly underneath, just like a premium handmade scrapbook/art print.\n\nKeep the original image uncropped and fully visible. Do not zoom in, do not change the framing, do not remove any objects, and do not alter the woman’s appearance.\n\nAdd elegant handwritten text at the bottom: “slow mornings”, followed by a thin horizontal decorative line and a tiny heart.\n\nCozy editorial scrapbook aesthetic, premium travel-journal design, realistic photograph + matching watercolor illustration, soft natural tones, authentic handmade paper texture, subtle watercolor splatters, clean composition, vertical 4:5 poster."
+    },
+    "media": [],
+    "models": [],
+    "sourcePreview": {
+      "images": [
+        {
+          "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2102713940128247808.jpg",
+          "role": "source-media"
+        },
+        {
+          "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2102713955542269952.jpg",
+          "role": "source-media"
+        }
+      ],
+      "promptExcerpt": "Create the image in the exact same style and layout as the previous reference poster. Do NOT remove ",
+      "excerptTruncated": true
+    },
+    "provenance": {
+      "originalSource": {
+        "platform": "x",
+        "author": "@Alina_with_Ai",
+        "url": "https://x.com/Alina_with_Ai/status/2102714822030934488",
+        "postId": "2102714822030934488",
+        "publishedAt": null,
+        "verification": "reported-by-collector"
+      },
+      "collectedFrom": [
+        {
+          "sourceId": "evolink",
+          "repository": "Evolink-AI/awesome-gpt-image-2-6-prompts-and-api",
+          "ref": "codex/gpt-image-2-5-prompts",
+          "commitSha": "7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b",
+          "path": "cases/travel-journals.md",
+          "anchor": "travel-journals-case-224",
+          "url": "https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/travel-journals.md#travel-journals-case-224"
+        }
+      ]
+    },
+    "rights": {
+      "prompt": "unknown",
+      "media": "unknown"
+    }
+  },
+  {
+    "id": "evolink-travel-journals-case-225",
+    "title": {
+      "en": "Three-City Travel Story",
+      "zh": null
+    },
+    "type": "generation",
+    "category": "travel",
+    "inputMode": "unknown",
+    "status": "index-only",
+    "prompt": {
+      "original": "Create a premium vertical 9:16 luxury travel artwork by seamlessly combining all three uploaded reference images into one cohesive visual story.\n\nShow the same stylish woman traveling through three iconic destinations:\n1. Paris — elegant Parisian streets with the Eiffel Tower, beige sophisticated outfit, black sunglasses and luxury city-walk atmosphere.\n2. Dubai — modern waterfront promenade with Burj Khalifa, soft neutral modest outfit with a flowing scarf, warm upscale atmosphere.\n3. Sydney — Sydney Opera House beside the waterfront, casual white top, light blue jeans, sneakers and relaxed summer-travel mood.\n\nBlend all three destinations together with elegant watercolor splash transitions, soft artistic paint textures, subtle paper details and realistic photographic elements. Keep the woman’s appearance, facial identity, proportions and styling natural and consistent throughout the three scenes.\n\nLuxury travel editorial aesthetic, cinematic natural lighting, premium composition, soft pastel tones, realistic details mixed with artistic watercolor, clean elegant background, sophisticated lifestyle photography, high-end travel magazine design, ultra-detailed, sharp subject, balanced composition, 8K quality.\n\nAdd a tasteful handwritten-style title near the bottom:\n“WANDER • DREAM • DISCOVER”\n\nMake the final image feel like one beautiful international travel story rather than three unrelated pictures."
+    },
+    "media": [],
+    "models": [],
+    "sourcePreview": {
+      "images": [
+        {
+          "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2102691065195282432.jpg",
+          "role": "source-media"
+        },
+        {
+          "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2102691065140744193.jpg",
+          "role": "source-media"
+        },
+        {
+          "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2102691065165922304.jpg",
+          "role": "source-media"
+        }
+      ],
+      "promptExcerpt": "Create a premium vertical 9:16 luxury travel artwork by seamlessly combining all three uploaded refe",
+      "excerptTruncated": true
+    },
+    "provenance": {
+      "originalSource": {
+        "platform": "x",
+        "author": "@KrishnaBio1",
+        "url": "https://x.com/KrishnaBio1/status/2102691226902552591",
+        "postId": "2102691226902552591",
+        "publishedAt": null,
+        "verification": "reported-by-collector"
+      },
+      "collectedFrom": [
+        {
+          "sourceId": "evolink",
+          "repository": "Evolink-AI/awesome-gpt-image-2-6-prompts-and-api",
+          "ref": "codex/gpt-image-2-5-prompts",
+          "commitSha": "7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b",
+          "path": "cases/travel-journals.md",
+          "anchor": "travel-journals-case-225",
+          "url": "https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/travel-journals.md#travel-journals-case-225"
+        }
+      ]
+    },
+    "rights": {
+      "prompt": "unknown",
+      "media": "unknown"
+    }
+  },
+  {
+    "id": "evolink-travel-journals-case-226",
+    "title": {
+      "en": "Identity-Preserving Travel Collage",
+      "zh": null
+    },
+    "type": "generation",
+    "category": "travel",
+    "inputMode": "unknown",
+    "status": "index-only",
+    "prompt": {
+      "original": "Use the uploaded face reference image ONLY as the identity reference for the woman.\nSTRICT FACE IDENTITY LOCK:\nPreserve her recognizable facial identity exactly from the face reference. Keep the same facial structure, face shape, eyes, eyebrows, nose, lips, jawline, cheek structure, skin tone, and natural facial proportions. Do not beautify, redesign, age, de-age, or replace her face. Do not create a different person.\nUse the provided images ONLY as visual inspiration for the overall composition, lifestyle concept, outfit styling, café atmosphere, photography angle, color palette, scrapbook layout, and editorial aesthetic. Do not copy another person's facial identity.\nCreate a premium ultra-photorealistic lifestyle editorial photograph of the woman enjoying an elegant café moment in a sophisticated outdoor European-style café.\nSubject & Face:\nThe woman has the exact recognizable face from the reference image, with natural elegant makeup, realistic skin texture, expressive eyes, and a soft relaxed expression. Keep her identity completely consistent and authentic.\nHair:\nLong, thick, naturally flowing dark hair with soft waves, realistic individual strands, subtle natural shine, and an effortless feminine appearance.\nOutfit:\nElegant ivory/cream-white feminine outfit with delicate lace and embroidered details, sheer textured fabric, refined sleeves, and sophisticated styling. Add tasteful gold jewelry, an elegant watch, delicate rings, and cream pointed-toe heels. Include a refined luxury handbag placed naturally beside her.\nScene & Pose:\nCreate two complementary lifestyle moments within the same visual concept:\nA beautiful overhead café photograph showing the woman seated at a marble café table, her elegant lace outfit visible, one hand naturally holding a ceramic coffee cup with beautiful heart-shaped latte art. A slice of berry cheesecake sits on a delicate white plate beside the coffee.\nA softly framed portrait moment of the same woman sitting at the café, resting one hand gently against her cheek while looking naturally toward the side with a calm, subtle smile. Coffee, dessert, flowers, and her handbag remain naturally arranged on the table.\nEnvironment:\nA beautiful upscale outdoor European café with marble tables, elegant chairs, soft greenery, small white flowers, warm natural sunlight, and a softly blurred sophisticated street in the background. The environment should feel authentic, peaceful, luxurious, and naturally photographed.\nScrapbook Editorial Design:\nPresent the final composition as a refined vintage scrapbook-style editorial poster on warm ivory textured paper. Use softly painted/watercolor edges around the main photograph, an organic imperfect cutout effect, subtle paper grain, delicate botanical illustrations, tiny vintage postal elements, and elegant minimal decorative lines.\nAdd tasteful typography with a sophisticated editorial feel, such as:\n“A MOMENT OF PURE BLISS”\nand underneath:\n“Good Coffee, Better Days”\nwith a small elegant heart or botanical ornament. Keep the typography minimal, refined, and beautifully integrated into the paper layout.\nColor & Lighting:\nWarm ivory, cream, beige, soft brown, muted green, and subtle golden tones. Natural afternoon sunlight, gentle highlights, realistic shadows, soft cinematic glow, subtle analog film grain, delicate depth of field, and premium editorial color grading.\nOverall Style:\nUltra-photorealistic, high-end lifestyle photography, luxury café editorial, sophisticated feminine aesthetic, realistic skin and fabric texture, authentic hands and fingers, natural body proportions, realistic coffee and dessert details, cinematic photography, premium magazine quality, 8K detail, crisp but soft natural image quality, elegant nostalgic atmosphere, sophisticated Pinterest/editorial scrapbook aesthetic.\nIMPORTANT:\nThe face reference controls ONLY the woman's identity. The uploaded inspiration images control the visual concept, composition, styling, café atmosphere, colors, and scrapbook presentation. Do not merge another person's face into the subject. Keep the woman's identity recognizable and consistent throughout the entire composition.\nNegative Prompt:\ndifferent face, altered identity, face swap, beautified face, distorted facial features, extra fingers, malformed hands, unrealistic skin, plastic skin, cartoon, 3D render, CGI look, blurry face, low resolution, oversaturated colors, artificial lighting, duplicate objects, distorted coffee cup, malformed dessert, excessive text, watermark, logo, messy composition, unnatural pose, unrealistic body proportions."
+    },
+    "media": [],
+    "models": [],
+    "sourcePreview": {
+      "images": [
+        {
+          "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2102550022717952002.jpg",
+          "role": "source-media"
+        },
+        {
+          "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2102550023070171136.jpg",
+          "role": "source-media"
+        },
+        {
+          "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2102550022730522625.jpg",
+          "role": "source-media"
+        },
+        {
+          "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2102550022726307841.jpg",
+          "role": "source-media"
+        }
+      ],
+      "promptExcerpt": "Use the uploaded face reference image ONLY as the identity reference for the woman. STRICT FACE IDEN",
+      "excerptTruncated": true
+    },
+    "provenance": {
+      "originalSource": {
+        "platform": "x",
+        "author": "@KrishnaBio1",
+        "url": "https://x.com/KrishnaBio1/status/2102550128985002216",
+        "postId": "2102550128985002216",
+        "publishedAt": null,
+        "verification": "reported-by-collector"
+      },
+      "collectedFrom": [
+        {
+          "sourceId": "evolink",
+          "repository": "Evolink-AI/awesome-gpt-image-2-6-prompts-and-api",
+          "ref": "codex/gpt-image-2-5-prompts",
+          "commitSha": "7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b",
+          "path": "cases/travel-journals.md",
+          "anchor": "travel-journals-case-226",
+          "url": "https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/travel-journals.md#travel-journals-case-226"
+        }
+      ]
+    },
+    "rights": {
+      "prompt": "unknown",
+      "media": "unknown"
+    }
+  },
+  {
+    "id": "evolink-travel-journals-case-227",
+    "title": {
+      "en": "Person and Alpaca Vintage Travel Art",
+      "zh": null
+    },
+    "type": "generation",
+    "category": "travel",
+    "inputMode": "unknown",
+    "status": "index-only",
+    "prompt": {
+      "original": "Transform the uploaded photo into a sophisticated vintage travel-art poster while keeping the main subjects recognizable and preserving their original pose, expression, hairstyle, clothing, and overall composition.\n\nCreate a hand-drawn editorial illustration with delicate ink outlines, fine sketch details, subtle cross-hatching, vintage screen-print texture, soft watercolor washes, and realistic paper grain.\n\nKeep the girl and alpaca as the main focal points. Simplify the surrounding mountains, green fields, clouds, fences, and sky into elegant illustrated shapes while maintaining the feeling of the original location.\n\nUse a refined muted palette of warm beige, cream, dusty green, soft brown, terracotta, and faded blue on an ivory paper background. Add subtle halftone texture, slightly faded ink, imperfect printing, and handcrafted poster details.\n\nAdd tasteful minimalist travel typography around the composition, such as:\n“NEW ZEALAND”\n“ALPACA MOMENT”\n“GOOD PEOPLE, BRIGHTER PLACES”\n\nInclude small decorative lines, circles, birds, botanical elements, and subtle geometric shapes for an artistic travel-magazine aesthetic.\n\nThe final image should feel premium, nostalgic, elegant, artistic, and collectible — like a vintage European travel poster mixed with a modern lifestyle editorial illustration.\n\n4:5 vertical composition, balanced layout, generous negative space, sophisticated typography, detailed hand illustration, warm natural lighting, no photorealistic background, no excessive visual clutter."
+    },
+    "media": [],
+    "models": [],
+    "sourcePreview": {
+      "images": [
+        {
+          "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2101611323213934592.jpg",
+          "role": "source-media"
+        },
+        {
+          "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2101611323188711424.jpg",
+          "role": "source-media"
+        },
+        {
+          "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2101611323243274240.jpg",
+          "role": "source-media"
+        },
+        {
+          "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2101611323209682944.jpg",
+          "role": "source-media"
+        }
+      ],
+      "promptExcerpt": "Transform the uploaded photo into a sophisticated vintage travel-art poster while keeping the main s",
+      "excerptTruncated": true
+    },
+    "provenance": {
+      "originalSource": {
+        "platform": "x",
+        "author": "@MahnoorAi12",
+        "url": "https://x.com/MahnoorAi12/status/2101634984020750560",
+        "postId": "2101634984020750560",
+        "publishedAt": null,
+        "verification": "reported-by-collector"
+      },
+      "collectedFrom": [
+        {
+          "sourceId": "evolink",
+          "repository": "Evolink-AI/awesome-gpt-image-2-6-prompts-and-api",
+          "ref": "codex/gpt-image-2-5-prompts",
+          "commitSha": "7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b",
+          "path": "cases/travel-journals.md",
+          "anchor": "travel-journals-case-227",
+          "url": "https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/travel-journals.md#travel-journals-case-227"
+        }
+      ]
+    },
+    "rights": {
+      "prompt": "unknown",
+      "media": "unknown"
+    }
+  },
+  {
+    "id": "evolink-travel-journals-case-228",
+    "title": {
+      "en": "Rubber Stamp Travel Observation Journal",
+      "zh": null
+    },
+    "type": "generation",
+    "category": "travel",
+    "inputMode": "unknown",
+    "status": "index-only",
+    "prompt": {
+      "original": "Please create a separate \"Rubber Stamp Travel Field Notes Poster\" for each photo I upload, outputting each photo individually without collage or multi-image combinations.\n\nOverall, use a 4:3 landscape composition, dividing the frame into left and right regions, but without drawing an obvious dividing line.\n\nThe left side takes up about 58% of the frame, faithfully preserving the original photo. Accurately maintain the main subject identity, terrain, architecture, plants, people, spatial relationships, natural lighting and shadows, authentic textures, and the original color atmosphere; apply only restrained art publication-level photo color grading, and add extremely subtle, fine-grained film noise. For layout adaptation, natural cropping is allowed, but do not stretch, distort, shift, replace, or redraw the main subject.\n\nThe right side takes up about 42% of the frame, using a warm off-white aged paper as the background. The paper features subtle fibers, natural grain, light usage marks, and a matte texture, while preserving large areas of unprinted paper whitespace, making the blank space an essential part of the layout.\n\nAnalyze the original photo and extract the most location-distinctive subject outlines, architectural structures, terrain contours, plant forms, roads, shorelines, or other key visual relationships, compressing them into a small multi-color rubber stamp image.\n\nDo not replicate every single element from the photo item by item. Retain only the minimal information necessary to instantly recognize the original location, subject, and scene relationships. Remove crowds, vehicles, dense windows, repetitive buildings, fragmented vegetation, decorative elements, and irrelevant backgrounds.\n\nThe stamp is positioned in the lower-middle of the right-side paper area, occupying only about 30%–38% of the right region's height, with ample whitespace preserved around it. The stamp must not be enlarged into a standard illustration, full landscape painting, or brand logo.\n\nDetermine the stamp's organization based on the original photo's composition:\n\n- Iconic architecture: Retain the most distinctive outer contours, roofs, domes, arches, towers, or main structures.\n- Mountain settlements: Compress buildings into a few terraced color blocks aligned along the terrain.\n- Coastal scenery: Retain mountain contours, settlement layers, shorelines, and sparse intermittent water ripples.\n- City panoramas: Retain the main skyline, one iconic building, and one or two layers of distant mountains.\n- Natural landscapes: Retain primary mountain forms, trees, shorelines, or road orientations.\n- Foreground occlusions: If narratively important in the original photo, retain as foreground stamp outlines.\n\nExtract 2–4 spot inks from the original photo. Prioritize desaturated colors like carbon black, deep green, brick red, ochre yellow, slate blue, or taupe brown, but do not force a fixed palette. Preserve the most distinctive color character from the original photo, allowing only a small area of color for visual emphasis.\n\nRender each color as a separately hand-stamped effect:\n\nAuthentic rubber stamp carving texture, hand-engraved marks, uneven line widths, contour notches, fractured edges, dry ink shortages, paper show-through, granular ink, uneven pressure, partial ghosting, and about 1–2 mm of subtle misregistration.\n\nAllow natural misalignment between color layers; edges must not be digitally smoothed. The print should resemble a real carved stamp pressed onto aged paper, not a filtered photo, smooth vector illustration, or line-art logo.\n\nGenerate text based on the photo's location, theme, and visual imagery:\n\nLocation English name  \nNo. Number  \nThree short English keywords  \nGregorian calendar year  \n\nPlace the text below or adjacent to the stamp in the whitespace, using a small, restrained, slightly mechanically imperfect typewriter font. The typography should evoke a traveler's field record, not an ad headline. Ensure all text is spelled accurately, without adding irrelevant slogans, brands, or decorative copy.\n\nThe overall vibe is like field notes kept by an architect, travel writer, or natural observer: quiet, restrained, tactilely real, regionally specific, with handmade imperfections and a collectible feel. The photo handles the on-site record; the stamp captures the most recognizable fragments of memory.\n\nAvoid: Obvious central dividing lines, circular seals, Chinese red stamps, postage stamp perforations, wax seals, sticker collages, tourist souvenir templates, smooth vector logos, generic city icons, full replication of all architecture, dense detailing, childlike craftiness, cartoon style, 3D rendering, plastic textures, glossy digital gradients, oversaturation, excessive text, decorative clutter, and redrawing or altering the left-side original photo."
+    },
+    "media": [],
+    "models": [],
+    "sourcePreview": {
+      "images": [
+        {
+          "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2101546017497993216.jpg",
+          "role": "source-media"
+        },
+        {
+          "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2101546017485414401.jpg",
+          "role": "source-media"
+        },
+        {
+          "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2101546017288273920.jpg",
+          "role": "source-media"
+        },
+        {
+          "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2101546017539903488.jpg",
+          "role": "source-media"
+        }
+      ],
+      "promptExcerpt": "Please create a separate \"Rubber Stamp Travel Field Notes Poster\" for each photo I upload, outputtin",
+      "excerptTruncated": true
+    },
+    "provenance": {
+      "originalSource": {
+        "platform": "x",
+        "author": "@MahnoorAi12",
+        "url": "https://x.com/MahnoorAi12/status/2101546101228646430",
+        "postId": "2101546101228646430",
+        "publishedAt": null,
+        "verification": "reported-by-collector"
+      },
+      "collectedFrom": [
+        {
+          "sourceId": "evolink",
+          "repository": "Evolink-AI/awesome-gpt-image-2-6-prompts-and-api",
+          "ref": "codex/gpt-image-2-5-prompts",
+          "commitSha": "7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b",
+          "path": "cases/travel-journals.md",
+          "anchor": "travel-journals-case-228",
+          "url": "https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/travel-journals.md#travel-journals-case-228"
+        }
+      ]
+    },
+    "rights": {
+      "prompt": "unknown",
+      "media": "unknown"
+    }
+  },
+  {
+    "id": "evolink-travel-journals-case-229",
+    "title": {
+      "en": "Paris Watercolor Travel Journal",
+      "zh": null
+    },
+    "type": "generation",
+    "category": "travel",
+    "inputMode": "text-to-image",
+    "status": "index-only",
+    "prompt": {
+      "original": "Create a beautiful Paris, France 2025 vintage watercolor travel scrapbook poster with the same elegant composition and artistic style. On the left side, feature the Eiffel Tower prominently beside the Seine River, classic Parisian buildings, stone bridges, river boats, trees and a soft atmospheric Paris skyline. The landmark and surroundings should look recognizable, detailed and beautifully painted in realistic watercolor.\nOn the right side, place the same beautiful young woman with long, thick, naturally wavy dark-brown hair, wearing a light powder-blue knitted cardigan, cream/white top and flowing beige pleated skirt. She has a gentle natural smile, elegant minimal makeup, realistic facial details and a relaxed travel pose, looking slightly toward the Paris scenery. Keep her appearance natural and seamlessly blended into the watercolor travel-poster aesthetic.\nUse a warm aged-paper background with pastel blue, cream, beige and subtle pink watercolor washes. Decorate the edges with hand-painted flowers, leaves, small hearts, stars, birds, paper tape, clouds, a paper airplane, compass and delicate travel doodles. At the top center write “Paris • 2025” in elegant handwritten calligraphy. Bottom text should include “Eiffel Tower • Paris • 2025”, “Dreamy Paris afternoon”, “posing by the Seine”, “soft cozy day”, and “memories made”. Add a vintage postage-stamp label in the lower-right reading “PARIS • FRANCE • 2025”. Premium travel scrapbook, nostalgic handmade postcard, soft dreamy watercolor, realistic woman, detailed landmarks, elegant composition, high-resolution, 16:9 landscape."
+    },
+    "media": [],
+    "models": [],
+    "sourcePreview": {
+      "images": [
+        {
+          "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2101465756567232512.jpg",
+          "role": "source-media"
+        }
+      ],
+      "promptExcerpt": "Create a beautiful Paris, France 2025 vintage watercolor travel scrapbook poster with the same elega",
+      "excerptTruncated": true
+    },
+    "provenance": {
+      "originalSource": {
+        "platform": "x",
+        "author": "@KrishnaBio1",
+        "url": "https://x.com/KrishnaBio1/status/2101465897814962381",
+        "postId": "2101465897814962381",
+        "publishedAt": null,
+        "verification": "reported-by-collector"
+      },
+      "collectedFrom": [
+        {
+          "sourceId": "evolink",
+          "repository": "Evolink-AI/awesome-gpt-image-2-6-prompts-and-api",
+          "ref": "codex/gpt-image-2-5-prompts",
+          "commitSha": "7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b",
+          "path": "cases/travel-journals.md",
+          "anchor": "travel-journals-case-229",
+          "url": "https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/travel-journals.md#travel-journals-case-229"
+        }
+      ]
+    },
+    "rights": {
+      "prompt": "unknown",
+      "media": "unknown"
+    }
+  },
+  {
+    "id": "evolink-travel-journals-case-230",
+    "title": {
+      "en": "Dubai Watercolor Travel Journal",
+      "zh": null
+    },
+    "type": "generation",
+    "category": "travel",
+    "inputMode": "text-to-image",
+    "status": "index-only",
+    "prompt": {
+      "original": "Create a high-quality vintage watercolor travel scrapbook poster for Dubai, UAE, 2025, in a soft dreamy luxury travel-journal aesthetic. On the left side, show a beautiful detailed Dubai skyline featuring the Burj Khalifa, surrounding modern skyscrapers, Dubai Mall area, elegant architecture, turquoise fountain/water canal and palm trees, painted with realistic yet artistic watercolor textures. On the right side, place a beautiful young woman with long, thick, naturally wavy dark-brown hair, wearing a light powder-blue knitted cardigan over a cream/white top and a flowing beige pleated skirt. She has a soft natural smile, delicate facial features, minimal elegant makeup and a relaxed travel-photo pose, looking slightly toward the left. Keep her realistic and naturally integrated with the watercolor artwork.\nUse an aged cream paper background with subtle paper texture, pastel blue and warm beige watercolor washes, hand-painted flowers, leaves, tiny stars, hearts, birds, clouds, paper-tape elements, compass and small travel scrapbook decorations around the borders. At the top center write “Dubai • 2025” in elegant handwritten calligraphy. At the bottom include tasteful travel-journal text such as “Burj Khalifa • Dubai • 2025”, “Dreamy desert afternoon”, “golden city lights”, “unforgettable memories”, and “posing by the fountain”. Add a small vintage postage-stamp style label reading “DUBAI • UAE • 2025” in the bottom-right corner. Balanced composition, premium travel postcard, soft pastel colors, detailed watercolor illustration mixed with realistic portrait photography, elegant feminine aesthetic, nostalgic handmade scrapbook look, high detail, clean typography, 16:9 landscape."
+    },
+    "media": [],
+    "models": [],
+    "sourcePreview": {
+      "images": [
+        {
+          "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2101465756118532096.jpg",
+          "role": "source-media"
+        }
+      ],
+      "promptExcerpt": "Create a high-quality vintage watercolor travel scrapbook poster for Dubai, UAE, 2025, in a soft dre",
+      "excerptTruncated": true
+    },
+    "provenance": {
+      "originalSource": {
+        "platform": "x",
+        "author": "@KrishnaBio1",
+        "url": "https://x.com/KrishnaBio1/status/2101465893293392100",
+        "postId": "2101465893293392100",
+        "publishedAt": null,
+        "verification": "reported-by-collector"
+      },
+      "collectedFrom": [
+        {
+          "sourceId": "evolink",
+          "repository": "Evolink-AI/awesome-gpt-image-2-6-prompts-and-api",
+          "ref": "codex/gpt-image-2-5-prompts",
+          "commitSha": "7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b",
+          "path": "cases/travel-journals.md",
+          "anchor": "travel-journals-case-230",
+          "url": "https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/travel-journals.md#travel-journals-case-230"
+        }
+      ]
+    },
+    "rights": {
+      "prompt": "unknown",
+      "media": "unknown"
+    }
+  },
+  {
+    "id": "evolink-travel-journals-case-231",
+    "title": {
+      "en": "Sunset Waterside Reflection",
+      "zh": null
+    },
+    "type": "generation",
+    "category": "travel",
+    "inputMode": "text-to-image",
+    "status": "index-only",
+    "prompt": {
+      "original": "Create a single unified ultra-realistic cinematic scene, NOT a split image, NOT a collage, and NOT two separate images.\n\nA young woman is sitting calmly on a massive dark rocky structure beside the water during a dramatic golden sunset. She has long flowing dark brown hair, an olive-green oversized jacket, a simple light-colored shirt, wide-leg faded blue jeans, and white sneakers. She sits naturally with one hand resting against her cheek, looking slightly upward toward the sunset with a soft, peaceful and hopeful expression.\n\nBehind her, create a huge broken circular portal made of dark ancient stone and glowing molten-golden energy. The circular ring is partially shattered, with realistic chunks of stone, dust, sparks, and debris floating around the broken sections. The glowing golden energy illuminates the woman from behind and creates beautiful cinematic rim lighting around her hair and body.\n\nOn the left side, a large cracked dark stone wall contains elegant handwritten glowing text:\n“A Stronger Me Ahead”\nwith a small glowing heart underneath.\n\nIn the same single composition, the foreground continues naturally into shallow reflective water. The entire scene — the woman, rocky structure, broken glowing portal, sunset, clouds, and distant city skyline — creates a realistic reflection in the water below. The reflection should be visible directly beneath the main scene, slightly softer, dreamy, and naturally distorted by gentle water ripples, while remaining clearly recognizable.\n\nThe background features a distant modern city skyline beside the water, silhouetted against dramatic orange, golden, and dark-gray clouds. The sun is low on the horizon and creates a beautiful long golden reflection across the water.\n\nIMPORTANT COMPOSITION:\nEverything must exist inside ONE continuous physical environment and ONE cohesive image. The woman, broken golden portal, rocky structure, city, sunset, and their reflection must all connect naturally. The lower reflection must NOT look like a separate photograph, second image, collage, split screen, or duplicated scene. It must look like a real cinematic reflection in the water.\n\nMake the main woman and environment extremely sharp and detailed, while the reflection below is naturally softer and slightly blurred because of the moving water. Maintain realistic perspective, lighting, reflections, and depth.\n\nUltra-photorealistic cinematic photography, realistic human anatomy, natural skin texture, detailed individual hair strands, realistic fabric folds, authentic facial proportions, physically accurate lighting, volumetric golden sunlight, atmospheric depth, realistic water reflections, subtle water ripples, floating dust and debris, dramatic clouds, HDR, cinematic depth of field, warm golden color grading, deep contrast, subtle film grain, highly detailed textures, 8K quality, masterpiece, realistic photography.\n\nAvoid all unwanted elements: no split image, no collage, no two separate scenes, no stacked panels, no duplicated woman, no second woman, no duplicated portal, no multiple bodies, no distorted reflection, no deformed face, no distorted anatomy, no extra fingers, no extra hands, no extra limbs, no unnatural pose, no plastic skin, no artificial-looking face, no cartoon, no anime, no illustration, no low resolution, no flat lighting, no unrealistic water, no excessive blur on the main subject, no warped clothing, no malformed shoes, no incorrect perspective, no random objects, no misspelled text, no garbled letters.\n\nThe final result must look like a high-budget cinematic photograph captured at golden hour, with the woman and the broken glowing portal as the main visual focus and their natural reflection seamlessly integrated into the same scene."
+    },
+    "media": [],
+    "models": [],
+    "sourcePreview": {
+      "images": [
+        {
+          "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2101257558061379584.jpg",
+          "role": "source-media"
+        },
+        {
+          "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2101257558610829313.jpg",
+          "role": "source-media"
+        }
+      ],
+      "promptExcerpt": "Create a single unified ultra-realistic cinematic scene, NOT a split image, NOT a collage, and NOT t",
+      "excerptTruncated": true
+    },
+    "provenance": {
+      "originalSource": {
+        "platform": "x",
+        "author": "@mehwishkiran07",
+        "url": "https://x.com/mehwishkiran07/status/2101257730472419754",
+        "postId": "2101257730472419754",
+        "publishedAt": null,
+        "verification": "reported-by-collector"
+      },
+      "collectedFrom": [
+        {
+          "sourceId": "evolink",
+          "repository": "Evolink-AI/awesome-gpt-image-2-6-prompts-and-api",
+          "ref": "codex/gpt-image-2-5-prompts",
+          "commitSha": "7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b",
+          "path": "cases/travel-journals.md",
+          "anchor": "travel-journals-case-231",
+          "url": "https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/travel-journals.md#travel-journals-case-231"
+        }
+      ]
+    },
+    "rights": {
+      "prompt": "unknown",
+      "media": "unknown"
+    }
+  },
+  {
+    "id": "evolink-travel-journals-case-232",
+    "title": {
+      "en": "Seated Traveler Watercolor Poster",
+      "zh": null
+    },
+    "type": "generation",
+    "category": "posters",
+    "inputMode": "unknown",
+    "status": "index-only",
+    "prompt": {
+      "original": "Create a sophisticated vertical editorial watercolor poster using the uploaded reference photo as the exact visual reference for the woman’s facial features, identity, hairstyle, skin tone, and overall appearance.\n\nIMPORTANT: This must be visually different from the first poster. Do NOT use a waving pose. Do NOT place the subject standing in the same pose. Create a completely different composition and body position.\n\nShow the woman seated elegantly on a low stone terrace or architectural ledge, wearing a tailored black blazer with matching wide-leg trousers and a crisp white collared shirt. One elbow is resting naturally on her knee, with her hand gently supporting her cheek in a relaxed, thoughtful pose. Her other hand rests naturally on her lap. A simple elegant wristwatch is visible.\n\nHer expression should be soft, confident, calm, and slightly smiling. Keep her facial identity and recognizable features consistent with the reference image.\n\nSTYLE:\nLuxury hand-painted watercolor and fine-ink editorial illustration, realistic but artistic facial rendering, delicate brush strokes, subtle ink outlines, natural skin tones, soft watercolor bleeding, sophisticated muted beige, warm brown, ivory and charcoal palette, visible handmade watercolor paper texture, premium fashion magazine aesthetic.\n\nCOMPOSITION:\nVertical poster layout.\nPlace the woman in the lower-middle portion of the composition.\nLeave generous clean negative space around the subject.\nCreate a different visual balance from the first poster by using a seated pose and a slightly asymmetrical composition.\n\nBACKGROUND:\nWarm ivory handmade textured paper.\nBehind the woman, add very subtle watercolor sketches of elegant Mediterranean-style architecture, distant trees, delicate branches and soft beige architectural brush marks.\nKeep the background extremely light and artistic so the woman remains the main focus.\nNo photographic background.\n\nTYPOGRAPHY:\nAt the upper center, add elegant handwritten/script-style text:\n\n“Alina Ai”\n\nDirectly underneath, add a thin minimal horizontal line.\n\nBelow the line, add small widely spaced uppercase typography:\n\n“PEOPLE ALWAYS STAY”\n\nAdd very subtle small editorial text elements around the composition:\n\n“SAME GIRL DIFFERENT DREAMS”\n\n“A KINDER BRIGHTER ME”\n\n“GOOD IDEAS BRIGHTER DAYS”\n\nKeep all typography refined, minimal, balanced, and premium.\n\nOVERALL LOOK:\nLuxury editorial watercolor poster, sophisticated fashion illustration, handmade art print, soft cinematic lighting translated into watercolor, realistic proportions, elegant feminine aesthetic, premium magazine cover composition, clean negative space, highly detailed face and hair, natural hands and anatomy.\n\nNEGATIVE PROMPT:\nDo not copy the first poster’s pose, no waving hand, no standing pose, no raised arm, no photorealistic background, no 3D CGI, no cartoon appearance, no excessive colors, no clutter, no extra people, no distorted face, no extra fingers, no malformed hands, no duplicated limbs, no unnatural anatomy, no harsh outlines, no plastic skin, no AI-looking facial features, no incorrect text, no random logos."
+    },
+    "media": [],
+    "models": [],
+    "sourcePreview": {
+      "images": [
+        {
+          "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2101254024343556096.jpg",
+          "role": "source-media"
+        },
+        {
+          "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2101254020241506304.jpg",
+          "role": "source-media"
+        }
+      ],
+      "promptExcerpt": "Create a sophisticated vertical editorial watercolor poster using the uploaded reference photo as th",
+      "excerptTruncated": true
+    },
+    "provenance": {
+      "originalSource": {
+        "platform": "x",
+        "author": "@Alina_with_Ai",
+        "url": "https://x.com/Alina_with_Ai/status/2101255289333031047",
+        "postId": "2101255289333031047",
+        "publishedAt": null,
+        "verification": "reported-by-collector"
+      },
+      "collectedFrom": [
+        {
+          "sourceId": "evolink",
+          "repository": "Evolink-AI/awesome-gpt-image-2-6-prompts-and-api",
+          "ref": "codex/gpt-image-2-5-prompts",
+          "commitSha": "7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b",
+          "path": "cases/travel-journals.md",
+          "anchor": "travel-journals-case-232",
+          "url": "https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/travel-journals.md#travel-journals-case-232"
+        }
+      ]
+    },
+    "rights": {
+      "prompt": "unknown",
+      "media": "unknown"
+    }
+  },
+  {
+    "id": "evolink-travel-journals-case-233",
+    "title": {
+      "en": "Travel Photography Scrapbook",
+      "zh": null
+    },
+    "type": "generation",
+    "category": "portraits",
+    "inputMode": "text-to-image",
+    "status": "index-only",
+    "prompt": {
+      "original": "Create a highly detailed, ultra-realistic cinematic travel photography scrapbook collage in a vertical 3:4 composition.\n\nThe main subject is a beautiful young adult woman with warm fair-to-medium skin, soft natural facial features, dark brown eyes, and long dark brown hair styled in a messy high bun with loose wispy strands framing her face. She wears a cozy cream-colored teddy-fleece jacket with dark green and black abstract patches over a simple black top, dark olive/gray pants, and a black backpack.\n\nCreate a vintage European lakeside travel setting inspired by a beautiful Mediterranean mountain town. The background features a peaceful blue lake, charming hillside houses, lush green mountains, warm golden sunlight, and a dreamy sunset atmosphere.\n\nThe composition should look like a carefully arranged physical travel scrapbook made from multiple torn-edge photographs and handwritten journal cards layered over an old vintage map.\n\nCENTER PHOTO:\nA large dominant portrait of the woman sitting outdoors on a stone or wooden surface, resting her cheek gently on her hand with her eyes softly closed and a peaceful subtle smile. Warm golden-hour sunlight illuminates her face and hair. Add shallow depth of field, realistic skin texture, natural pores, detailed hair strands, cinematic bokeh, and professional travel photography quality.\n\nTOP LEFT PHOTO:\nThe same woman sitting against the beautiful mountain-lake landscape, resting her face on her hand with a calm expression. She is looking downward peacefully.\n\nTOP RIGHT PHOTO:\nThe woman holding a professional DSLR camera to her eye while photographing the scenic mountain lake. Capture her in profile with a natural smile and warm sunlight on her face.\n\nBOTTOM LEFT PHOTO:\nThe woman sitting casually near the lakeside, touching her hair with one hand and resting her cheek with the other, smiling gently toward the side.\n\nBOTTOM RIGHT PHOTO:\nThe woman sitting outdoors during sunset, looking toward the glowing horizon. A beautiful orange sun is setting over the lake, creating warm reflections across the water.\n\nInclude a small vertical vintage film strip on the right side containing several black-and-white portrait frames of the same woman in different natural poses.\n\nScatter realistic vintage photographs around the composition, including landscape prints, travel snapshots, a classic analog camera, camera straps, dried wildflowers, leaves, and small pieces of aged masking tape.\n\nAdd several cream-colored torn paper journal cards with elegant handwritten-style typography. The visible text should read:\n\n“Different Views\nSame Mindset…”\n\n“Good People\nBrighter Days…”\n\n“Be your\nown kind\nof beautiful ♡”\n\n“Moments\nPeople\nPlaces\nYou…”\n\n“Focus on\nthe good”\n\n“Collect\nmemories\nnot things ♡”\n\n“Same\nDreams\nBigger\nMoves ♡”\n\n“A better\nMe\nis coming ♡”\n\nMake the handwritten text look naturally written with dark brown ink on textured beige paper.\n\nAt the bottom, include a vintage wooden/rustic table covered with an old travel map. Place a retro analog camera with a lens, several printed photographs, a brown leather travel journal/notebook, a black fountain pen, dried flowers, and a ceramic coffee cup. Write “Same Dreams Bigger Moves ♡” on the coffee cup.\n\nUse torn paper edges, subtle paper wrinkles, realistic tape strips, slightly overlapping photographs, imperfect scrapbook layering, vintage travel aesthetics, warm earthy beige and brown tones, soft golden-hour lighting, natural shadows, realistic depth, subtle film grain, and authentic analog photography texture.\n\nThe final image should feel like a luxurious nostalgic travel journal / Pinterest-style aesthetic scrapbook, highly photorealistic, editorial-quality photography, realistic materials, natural skin and hair, cinematic composition, soft depth of field, warm atmospheric lighting, extremely detailed, 8K quality.\n\nImportant: Keep the woman’s appearance consistent across every photograph. Maintain the same hairstyle, facial features, clothing, and overall identity in all frames. No distorted hands, no extra fingers, no duplicate body parts, no unnatural facial features, no cartoon appearance, no plastic skin."
+    },
+    "media": [],
+    "models": [],
+    "sourcePreview": {
+      "images": [
+        {
+          "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2101138653351407616.jpg",
+          "role": "source-media"
+        }
+      ],
+      "promptExcerpt": "Create a highly detailed, ultra-realistic cinematic travel photography scrapbook collage in a vertic",
+      "excerptTruncated": true
+    },
+    "provenance": {
+      "originalSource": {
+        "platform": "x",
+        "author": "@mehwishkiran07",
+        "url": "https://x.com/mehwishkiran07/status/2101138725820588393",
+        "postId": "2101138725820588393",
+        "publishedAt": null,
+        "verification": "reported-by-collector"
+      },
+      "collectedFrom": [
+        {
+          "sourceId": "evolink",
+          "repository": "Evolink-AI/awesome-gpt-image-2-6-prompts-and-api",
+          "ref": "codex/gpt-image-2-5-prompts",
+          "commitSha": "7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b",
+          "path": "cases/travel-journals.md",
+          "anchor": "travel-journals-case-233",
+          "url": "https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/travel-journals.md#travel-journals-case-233"
+        }
+      ]
+    },
+    "rights": {
+      "prompt": "unknown",
+      "media": "unknown"
+    }
+  },
+  {
+    "id": "evolink-travel-journals-case-234",
+    "title": {
+      "en": "Mountain Hiking Dissolve Poster",
+      "zh": null
+    },
+    "type": "generation",
+    "category": "posters",
+    "inputMode": "text-to-image",
+    "status": "index-only",
+    "prompt": {
+      "original": "Create a cinematic, ultra-realistic motivational poster of a young woman hiking on a rocky mountain trail at golden hour, with a breathtaking lake, mountains, and warm sunset in the background. She wears a cozy beige fleece jacket over a black top, olive cargo pants, hiking boots, and a backpack. Her hair is tied in a messy bun, with a natural, confident expression.\nCreate a dramatic disintegration effect on the right side of her body, where her figure transforms into flying autumn leaves, dust particles, and small fragments carried into the sky. Add several black birds flying among the leaves. Include ancient stone ruins on the right side and a large rock with the text “SAME HUSTLE BIGGER TOMORROW.”\nOn the left side, add elegant typography: “Progress” in stylish handwritten script, followed by “LOOKS GOOD ON YOU” in clean uppercase serif lettering. Use warm orange, brown, and golden tones, cinematic lighting, shallow depth of field, realistic textures, atmospheric perspective, high detail, professional advertising photography, 8K quality.\nCreate a second framed version below with a white artistic torn-paper/paint-splatter border and autumn leaves around the edges. At the bottom add the handwritten text “Same Girl… Bigger Dreams ♡” and below it: “REAL MOMENTS • BRIGHTER DAYS • A KINDER ME."
+    },
+    "media": [],
+    "models": [],
+    "sourcePreview": {
+      "images": [
+        {
+          "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2100784522908594176.jpg",
+          "role": "source-media"
+        }
+      ],
+      "promptExcerpt": "Create a cinematic, ultra-realistic motivational poster of a young woman hiking on a rocky mountain ",
+      "excerptTruncated": true
+    },
+    "provenance": {
+      "originalSource": {
+        "platform": "x",
+        "author": "@mehwishkiran07",
+        "url": "https://x.com/mehwishkiran07/status/2100787012529975424",
+        "postId": "2100787012529975424",
+        "publishedAt": null,
+        "verification": "reported-by-collector"
+      },
+      "collectedFrom": [
+        {
+          "sourceId": "evolink",
+          "repository": "Evolink-AI/awesome-gpt-image-2-6-prompts-and-api",
+          "ref": "codex/gpt-image-2-5-prompts",
+          "commitSha": "7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b",
+          "path": "cases/travel-journals.md",
+          "anchor": "travel-journals-case-234",
+          "url": "https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/travel-journals.md#travel-journals-case-234"
+        }
+      ]
+    },
+    "rights": {
+      "prompt": "unknown",
+      "media": "unknown"
+    }
+  },
+  {
+    "id": "evolink-travel-journals-case-235",
+    "title": {
+      "en": "Paris Art Travel Portrait",
+      "zh": null
+    },
+    "type": "generation",
+    "category": "portraits",
+    "inputMode": "unknown",
+    "status": "index-only",
+    "prompt": {
+      "original": "Use the same uploaded woman as the character reference and preserve her identity, hairstyle, and overall appearance.\n\nCreate a completely different artistic interpretation of Paris, France, inspired by a premium travel magazine illustration. Show the same woman from behind, sitting peacefully on a beautiful stone terrace overlooking Paris at sunset, with the Eiffel Tower, Seine River, bridges, classic Parisian rooftops, boats, trees, and warm evening light.\n\nTransform the entire scene into a sophisticated hand-painted watercolor and editorial travel illustration while keeping the woman recognizable. Use delicate paper texture, soft watercolor washes, elegant architectural details, subtle brush strokes, dreamy pastel skies, and a refined luxury travel-poster aesthetic.\n\nAdd tasteful minimal typography such as:\n“PARIS”\n“FRANCE”\n“Different Views, Same Dreams”\n“Travel • Explore • Discover • Grow”\n\nThe lower scene should feel artistic and motivational rather than photorealistic, clearly different from the realistic photograph above. Premium editorial composition, balanced layout, beautiful visual storytelling, vertical poster format, no watermark."
+    },
+    "media": [],
+    "models": [],
+    "sourcePreview": {
+      "images": [
+        {
+          "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2100057099766214656.jpg",
+          "role": "source-media"
+        },
+        {
+          "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2100057099086843904.jpg",
+          "role": "source-media"
+        }
+      ],
+      "promptExcerpt": "Use the same uploaded woman as the character reference and preserve her identity, hairstyle, and ove",
+      "excerptTruncated": true
+    },
+    "provenance": {
+      "originalSource": {
+        "platform": "x",
+        "author": "@Alina_with_Ai",
+        "url": "https://x.com/Alina_with_Ai/status/2100057357376192992",
+        "postId": "2100057357376192992",
+        "publishedAt": null,
+        "verification": "reported-by-collector"
+      },
+      "collectedFrom": [
+        {
+          "sourceId": "evolink",
+          "repository": "Evolink-AI/awesome-gpt-image-2-6-prompts-and-api",
+          "ref": "codex/gpt-image-2-5-prompts",
+          "commitSha": "7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b",
+          "path": "cases/travel-journals.md",
+          "anchor": "travel-journals-case-235",
+          "url": "https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/travel-journals.md#travel-journals-case-235"
+        }
+      ]
+    },
+    "rights": {
+      "prompt": "unknown",
+      "media": "unknown"
+    }
+  },
+  {
+    "id": "evolink-travel-journals-case-236",
+    "title": {
+      "en": "New York Photo and Travel Postcard",
+      "zh": null
+    },
+    "type": "generation",
+    "category": "travel",
+    "inputMode": "text-to-image",
+    "status": "index-only",
+    "prompt": {
+      "original": "Create a premium vertical 4:5 travel postcard-style composition with two sections.\n\nTOP SECTION — PHOTOREALISTIC TRAVEL PHOTOGRAPH:\nShow a breathtaking cinematic view of New York City, United States, from a charming riverside café terrace during golden hour. The Brooklyn Bridge stretches across the river, with the Manhattan skyline and One World Trade Center clearly visible in the background. A large American flag 🇺🇸 hangs naturally from a historic building in the foreground. Include beautiful flower planters, wooden café tables and chairs, warm vintage lanterns, small candles, lush greenery, riverboats, and realistic reflections on the water.\n\nThe sky has dramatic orange, peach, pink and soft blue clouds with the sun low near the horizon. Warm cinematic lighting, realistic architecture, rich details, professional travel photography, luxury tourism magazine aesthetic, natural depth of field, highly realistic.\n\nAdd a small elegant black hanging sign on the left with tasteful decorative text.\n\nBOTTOM SECTION — WATERCOLOR POSTCARD:\nRecreate the same scene as a beautiful hand-painted watercolor illustration on premium textured ivory/cream paper. Preserve the Brooklyn Bridge, Manhattan skyline, American flag, café terrace, flowers, river and major architectural elements, but transform everything into delicate watercolor brushwork with soft artistic edges.\n\nUse a sophisticated travel-journal/postcard aesthetic with subtle paper texture and elegant negative space.\n\nAt the bottom center, add refined handwritten typography:\n\n“New York City”\n\nBelow it:\n\n“UNITED STATES”\n\nThen a small American flag 🇺🇸\n\nThen:\n\n“2025”\n\nOVERALL STYLE:\nLuxury travel postcard, editorial tourism campaign, cinematic photography combined with watercolor illustration, sophisticated composition, premium paper texture, warm romantic atmosphere, highly detailed, visually polished, elegant typography.\n\nIMPORTANT:\nKeep the overall two-section layout: realistic photograph on top + watercolor interpretation underneath.\nThe watercolor should clearly correspond to the photograph.\nUse a vertical 4:5 composition.\nNo people as the main subject."
+    },
+    "media": [],
+    "models": [],
+    "sourcePreview": {
+      "images": [
+        {
+          "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2098961132820258816.jpg",
+          "role": "source-media"
+        },
+        {
+          "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2098961132837052416.jpg",
+          "role": "source-media"
+        }
+      ],
+      "promptExcerpt": "Create a premium vertical 4:5 travel postcard-style composition with two sections. TOP SECTION — PHO",
+      "excerptTruncated": true
+    },
+    "provenance": {
+      "originalSource": {
+        "platform": "x",
+        "author": "@Alina_with_Ai",
+        "url": "https://x.com/Alina_with_Ai/status/2098962796893651067",
+        "postId": "2098962796893651067",
+        "publishedAt": null,
+        "verification": "reported-by-collector"
+      },
+      "collectedFrom": [
+        {
+          "sourceId": "evolink",
+          "repository": "Evolink-AI/awesome-gpt-image-2-6-prompts-and-api",
+          "ref": "codex/gpt-image-2-5-prompts",
+          "commitSha": "7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b",
+          "path": "cases/travel-journals.md",
+          "anchor": "travel-journals-case-236",
+          "url": "https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/travel-journals.md#travel-journals-case-236"
+        }
+      ]
+    },
+    "rights": {
+      "prompt": "unknown",
+      "media": "unknown"
+    }
+  }
+]
