@@ -1,58 +1,10 @@
 # posters
 
-[← Home](../README.md) · Page 4 / 8
+[← Home](../README.md) · Page 4 / 7
 
-[1](posters.md) · [2](posters-2.md) · [3](posters-3.md) · **4** · [5](posters-5.md) · [6](posters-6.md) · [7](posters-7.md) · [8](posters-8.md)
+[1](posters.md) · [2](posters-2.md) · [3](posters-3.md) · **4** · [5](posters-5.md) · [6](posters-6.md) · [7](posters-7.md)
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
-
-<a id="freestylefly-case-140"></a>
-
-## 主题海报版式设计
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case140.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case140.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-{"type": "promotional advertisement poster for a bottled green tea beverage", "product": {"type": "clear plastic PET bottle filled with yellow-green tea", "label": "white label with green typography, featuring the product name '{argument name=\"product name\" default=\"清風茶\"}', subtitle '緑茶 Seifucha', and vertical text '国産茶葉使用' and '香り豊か、後味さわやか'"}, "background": "bright, fresh, sunlit outdoor atmosphere with dynamic water splashes wrapping around the bottle and vibrant green tea leaves", "layout": {"sections": [{"title": "headline", "position": "top-left", "text": "{argument name=\"main headline\" default=\"新発売\"}", "style": "large red text with a gold underline and a small green leaf accent"}, {"title": "catchphrase", "position": "mid-left", "text": "{argument name=\"catchphrase\" default=\"毎日に、すっきり。\"}", "style": "dark green text"}, {"title": "features", "position": "lower-left", "count": 2, "labels": ["国産茶葉使用", "香り豊か、後味さわやか"], "style": "white pill-shaped banners with green leaf icons"}, {"title": "price_badge", "position": "top-right", "text": "今だけ!! 特別価格 {argument name=\"price\" default=\"128円\"} (税込)", "style": "red circular sticker with white and yellow text"}, {"title": "promo_banner", "position": "bottom-left", "text": "期間限定のお得価格!", "style": "angled red ribbon with yellow and white text"}, {"title": "footer", "position": "bottom-edge", "text": "{argument name=\"footer text\" default=\"全国のコンビニ・スーパーで発売中\"}", "style": "solid green horizontal bar with a white shopping cart icon"}]}}
-```
-
-By [@AutoIntelliMode](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-140)
-
----
-
-<a id="freestylefly-case-141"></a>
-
-## 电商商品展示设计
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case141.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case141.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-{ "type": "promotional banner design set", "theme": "strawberry advertisement campaign", "style": "anime illustration, bright, cheerful, commercial graphic design", "color_palette": "{argument name=\"primary color theme\" default=\"pastel pink and vibrant red\"}", "character": "{argument name=\"character description\" default=\"anime girl with brown side ponytail and bunny ears, wearing a pastel blue and pink jacket\"}", "product": "{argument name=\"product\" default=\"fresh red strawberries\"}", "layout": { "sections": [ { "type": "large landscape banner", "position": "top left", "visuals": "character winking and holding a strawberry next to a large basket of strawberries", "main_text": "{argument name=\"main headline\" default=\"いちごたっぷり\"}", "sub_text": ["笑顔あふれる、甘〜いひととき♪", "とびきりおいしい！", "ひと粒で、しあわせ広がる♡", "あまっ♡", "旬のおいしさをお届け！"], "badges": { "count": 3, "labels": ["あま〜くてジューシー！", "いろんなサイズを楽しめる♪", "新鮮朝採れ！"] } }, { "type": "vertical banner", "position": "right", "visuals": "character eating a strawberry with a pile of strawberries below", "main_text": "いちごたっぷり", "sub_text": ["旬のいちごをお届け！", "{argument name=\"secondary headline\" default=\"あま〜くて、ジューシー！\"}", "とろけるおいしさ〜♡"], "badges": { "count": 3, "labels": ["朝採れ新鮮！", "いろんなサイズを楽しめる♪", "甘くてジューシー！"] } }, { "type": "wide horizontal banner", "position": "middle", "visuals": "character with closed eyes eating a strawberry, flanked by strawberries", "main_text": "いちごたっぷり！", "sub_text": ["あまくて、ジューシーな幸せ♡", "旬の美味しさをお届けします！", "おいし〜っ♡"] }, { "type": "small square banner", "position": "bottom left", "visuals": "character smiling holding strawberry", "text": ["いちごたっぷり", "あま〜くてジューシー！"] }, { "type": "small square banner", "position": "bottom mid-left", "visuals": "pile of strawberries with one cut in half", "text": ["旬のいちご！", "あまくてとろけるおいしさ♡"] }, { "type": "small horizontal banner", "position": "bottom mid-right", "visuals": "character holding strawberry", "text": ["いちごたっぷり", "朝採れ新鮮！", "あまくてジューシー！"] }, { "type": "circular icons", "position": "bottom right", "count": 4, "items": [ { "visual": "basket of strawberries", "label": "朝採れ新鮮！" }, { "visual": "half strawberry", "label": "あまくてジューシー！" }, { "visual": "whole strawberry", "label": "いろんなサイズ！" }, { "visual": "character face", "label": "とろけるおいしさ♡" } ] } ] } }
-```
-
-By [@takadtmnu](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-141)
-
----
-
-<a id="freestylefly-case-142"></a>
-
-## 写实摄影风格创作
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case142.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case142.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-{ "type": "anime idol merchandise catalog flyer", "theme_colors": "{argument name=\"theme color\" default=\"pastel blue and pink\"}", "character": { "name": "{argument name=\"character name\" default=\"ななし\"}", "appearance": "anime girl, long {argument name=\"hair color\" default=\"pink\"} hair, blue eyes", "attire": "{argument name=\"outfit\" default=\"black and white maid outfit with a red bow tie\"} and blue hair ribbons" }, "layout": { "header": { "left": "upper body portrait of the character looking slightly to the side", "center": { "top_banner": "ななし 2nd EP リリース記念ライブ", "main_title": "{argument name=\"event title\" default=\"おしごと☆メイド奮闘中！\"}", "subtitle": "~ Oshigoto Maid Funtouchu! ~", "section_header": "OFFICIAL GOODS" }, "right": "purchase bonus info box containing 3 small rectangular photo prints" }, "merchandise_grid": [ { "id": "01", "name": "アクリルスタンド", "description": "full body acrylic stand of the character" }, { "id": "02", "name": "缶バッジ", "description": "set of 6 circular can badges featuring different facial expressions" }, { "id": "03", "name": "ビッグタオル", "description": "large rectangular towel showing the character holding a heart pillow" }, { "id": "04", "name": "Tシャツ", "description": "white t-shirt showing FRONT with character graphic and BACK with small logo" }, { "id": "05", "name": "マフラータオル", "description": "long narrow muffler towel with character art and logo" }, { "id": "06", "name": "トートバッグ", "description": "canvas tote bag with blue logo" }, { "id": "07", "name": "アクリルキーホルダー", "description": "chibi character acrylic keychain with a star-shaped clasp" }, { "id": "08", "name": "ラバーバンド", "description": "blue silicone wristband with logo" }, { "id": "09", "name": "ステッカーセット", "description": "set of 4 visible stickers: chibi character, heart, ribbon bow, and logo" }, { "id": "10", "name": "ペンライト", "description": "blue glowing concert penlight" } ], "footer": { "left": "purchase notes and guidelines box", "center": "character signature 'Nanashi' with hand-drawn hearts and stars", "right": "payment methods box" } } }
-```
-
-By [@anemone\_sd](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-142)
-
----
 
 <a id="freestylefly-case-144"></a>
 
@@ -278,54 +230,102 @@ By [@old\_pgmrs\_will](https://x.com/old_pgmrs_will/status/2045852114673635507)
 
 ---
 
-<a id="freestylefly-case-244"></a>
+<a id="freestylefly-case-264"></a>
 
-## 杜蕾斯茶颜悦色联名海报设计
+## 美妆产品广告图
 
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case244.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case244.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-[中文] 设计一套杜蕾斯和茶颜悦色联名的宣传物料 [English] Design a set of promotional materials for a Durex and Chayan Yuese co-branding campaign.
-```
-
-By [@akokoi1](https://x.com/akokoi1/status/2045693939584516441)
-
----
-
-<a id="freestylefly-case-253"></a>
-
-## 2026谷雨节气唯美海报设计
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case253.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case253.jpg" width="480" alt="Source example"></a>
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case264.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case264.jpg" width="480" alt="Source example"></a>
 
 **Prompt**
 
 ```text
-[中文] 生成一张2026年谷雨节气的海报 [English] Generate a poster for the Guyu solar term in 2026
+[中文] 为Z世代设计的可爱Y2K风格的平价化妆品广告图像。使用鲜艳的配色，包括荧光色。纵横比为3:4。 [English] Cute Y2K style affordable cosmetics advertising image designed for Gen Z. Using vibrant color schemes, including neon colors. Aspect ratio is 3:4.
 ```
 
-By [@akokoi1](https://x.com/akokoi1/status/2045693939584516441)
+By [@midori\_tatsuta](https://x.com/midori_tatsuta/status/2045378877363798279)
 
 ---
 
-<a id="freestylefly-case-254"></a>
+<a id="freestylefly-case-265"></a>
 
-## 奔赴山海胶片感海报
+## 日式潮流广告四联画
 
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case254.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case254.jpg" width="480" alt="Source example"></a>
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case265.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case265.jpg" width="480" alt="Source example"></a>
 
 **Prompt**
 
 ```text
-[中文] 设计一张主题是”奔赴山海”的胶片感摄影风格的海报 [English] Design a poster with the theme of "running towards the mountains and seas" in a film photography style
+[中文] 生成四张虚构的日式广告图片，涵盖不同类型并排排列。采用专业设计师创作的潮流设计。宽高比为1:1 [English] Generate four fictional Japanese advertisement images, covering different types arranged side by side. Trendy design created by professional designers. Aspect ratio 1:1
 ```
 
-By [@akokoi1](https://x.com/akokoi1/status/2045693939584516441)
+By [@midori\_tatsuta](https://x.com/midori_tatsuta/status/2045253072289767815)
 
 ---
 
-[1](posters.md) · [2](posters-2.md) · [3](posters-3.md) · **4** · [5](posters-5.md) · [6](posters-6.md) · [7](posters-7.md) · [8](posters-8.md)
+<a id="freestylefly-case-275"></a>
+
+## 一张采用分层蒙太奇构图的电影海报
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case275.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case275.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+[中文] “一张采用分层蒙太奇构图的电影海报。背景为日落时分的海滨小镇，平静的海面倒映着耀眼的日光眩光，薄雾笼罩的天空中有远处飞鸟，沿海公路旁立着电线杆剪影。左侧中景处，一位身着深灰色外套、留着深色卷发的中年男子站在混凝土海堤边，神情忧郁地低头凝视，被傍晚的阳光逆光勾勒轮廓。右侧前景主体为一张大幅特写年轻女子侧脸肖像，她望向右侧，身穿带白色条纹的深色水手校服，湿润的黑发贴在脸颊，柔和漫射光线下，一滴泪珠从她脸颊滑落。画面下方中央前景处，一只柴犬抬头朝右侧望去，红棕色毛发被温暖的轮廓光点亮。画面最底端为一条横向电影胶片，内含五幅独立矩形场景缩略图：女孩与柴犬在海滩、女孩骑车望向海面、女孩与男子坐在室内桌前、男子与女孩在海滩面对面站立、女孩拥抱柴犬的特写。画面叠加指定文字：左上角为深青绿色大号衬线字体标题《风间静语》，下方副标题为「—— 致那日的你 ——」；标题下方为小号深色衬线正文：“逝去之物，不复归来。然而，只要心灵稍稍相连，我们便能再度直面明日。” 画面右侧中部为深色衬线字体文字：“曾有一段时光，是你教会我如何生活。我永不会忘。” 左下角为大号白色文字：“10 月 31 日 周五 影院上映”。右下角为小号白色无衬线字体演职人员表：“主演：福波真子 / 桐嶋秀作 原作与剧本：柴野麻吕 导演：今仓七海 主题曲：SyVa《看得见海的地方》（Dogstar★唱片） 制作：《夕凪之尾》影视伙伴 制作公司：DABUSHIBANU-NU 发行：GOODSHIBALERS ©2026《夕凪之尾》影视伙伴”。 分段提示词： 图层索引：0 片段：“背景为日落时分的海滨小镇，平静海面倒映耀眼日光眩光，薄雾天空中有远处飞鸟，沿海公路旁有电线杆剪影。” 图层索引：1 片段：“左侧中景处，身着深灰色外套、留深色卷发的中年男子站在混凝土海堤边，神情忧郁低头，被傍晚阳光逆光照射。” 图层索引：2 片段：“右侧前景主体为大幅特写年轻女子侧脸肖像，她望向右侧，身穿带白条纹的深色水手校服，湿润黑发贴脸，柔和漫射光下一滴泪珠滑落脸颊。” 图层索引：3 片段：“画面下方中央前景处，一只柴犬抬头望向右侧，红棕色毛发被温暖轮廓光点亮。” 图层索引：4 片段：“画面最底端为横向电影胶片，内含五幅独立矩形场景缩略图：女孩与柴犬在海滩、女孩骑车望向水面、女孩与男子坐在室内桌前、男子与女孩在海滩面对面、女孩拥抱柴犬特写。” 图层索引：[5,6,7,8] 片段：“画面叠加指定文字：左上角为深青绿色大号衬线字体《风间静语》，下方副标题「—— 致那日的你 ——」；其下小号深色衬线正文：“逝去之物，不复归来。然而，只要心灵稍稍相连，我们便能再度直面明日。” 右侧中部深色衬线文字：“曾有一段时光，是你教会我如何生活。我永不会忘。” 左下角大号白色文字：“10 月 31 日 周五 影院上映”。右下角小号白色无衬线字体演职信息：“主演：福波真子 / 桐嶋秀作 原作与剧本：柴野麻吕 导演：今仓七海 主题曲：SyVa《看得见海的地方》（Dogstar★唱片） 制作：《夕凪之尾》影视伙伴 制作公司：DABUSHIBANU-NU 发行：GOODSHIBALERS ©2026《夕凪之尾》影视伙伴”。 负面提示词： “平光照明，无质感表面，对称构图，底部留白空荡，文字缺失，翻译文字，改写文字，3D 渲染，卡通风格，高对比生硬阴影，干涩头发，明亮欢快表情” [English] A cinematic movie poster utilizing a layered montage composition. In the background, a coastal town at sunset with calm ocean water reflecting a glowing sun glare, distant birds in a hazy sky, and the silhouette of utility poles along a coastal road. In the left midground, a middle-aged man with dark wavy hair in a dark grey jacket stands near a concrete sea wall, looking downward with a melancholic expression, backlit by the late afternoon sun. Dominating the right foreground is a large, closely cropped profile portrait of a young woman looking right; she wears a dark school sailor uniform with white stripes, has wet dark hair clinging to her face, and a single tear rolls down her cheek under soft, diffuse lighting. In the lower center foreground, a Shiba Inu dog looks upwards toward the right, its reddish-brown fur catching warm rim lighting. Along the very bottom edge is a horizontal film strip of five distinct rectangular scene thumbnails: a dog and girl on a beach, a girl on a bicycle looking at the water, a girl and man sitting at an indoor table, a man and girl standing facing each other on a beach, and a close-up of a girl hugging a Shiba Inu. Overlaid on the image is specific text. In the top left, large dark teal serif text reads 'The Quiet Between Winds' with a subtitle below reading '— To You, That Day —'. Below that, smaller dark serif body text reads 'What is lost will not return. And yet, when hearts connect, even just a little, we can face tomorrow again.'. On the mid-right side, dark serif text reads 'There was a time when you taught me how to live. I won't forget it.'. In the bottom left, large white text reads 'OCTOBER 31 FRI. IN THEATERS'. In the lower right corner, small white sans-serif credit text reads 'Starring: Mako Fukunami / Shusaku Kirimine Original Story & Screenplay: Shibano Maruo Director: Nanami Imakura Theme Song: SyVa \"Umi no Mieru de\" (Dogstar★RECORDS) Production: \"Yūnagi no Shippo\" Film Partners Production Company: DABUSHIBANU-NU Distribution: GOODSHIBALERS ©2026 \"Yūnagi no Shippo\" Film Partners'." segmented: - layer_index: 0 segment: "In the background, a coastal town at sunset with calm ocean water reflecting a glowing sun glare, distant birds in a hazy sky, and the silhouette of utility poles along a coastal road." - layer_index: 1 segment: "In the left midground, a middle-aged man with dark wavy hair in a dark grey jacket stands near a concrete sea wall, looking downward with a melancholic expression, backlit by the late afternoon sun." - layer_index: 2 segment: "Dominating the right foreground is a large, closely cropped profile portrait of a young woman looking right; she wears a dark school sailor uniform with white stripes, has wet dark hair clinging to her face, and a single tear rolls down her cheek under soft, diffuse lighting." - layer_index: 3 segment: "In the lower center foreground, a Shiba Inu dog looks upwards toward the right, its reddish-brown fur catching warm rim lighting." - layer_index: 4 segment: "Along the very bottom edge is a horizontal film strip of five distinct rectangular scene thumbnails: a dog and girl on a beach, a girl on a bicycle looking at the water, a girl and man sitting at an indoor table, a man and girl standing facing each other on a beach, and a close-up of a girl hugging a Shiba Inu." - layer_indices: [5, 6, 7, 8] segment: "Overlaid on the image is specific text. In the top left, large dark teal serif text reads 'The Quiet Between Winds' with a subtitle below reading '— To You, That Day —'. Below that, smaller dark serif body text reads 'What is lost will not return. And yet, when hearts connect, even just a little, we can face tomorrow again.'. On the mid-right side, dark serif text reads 'There was a time when you taught me how to live. I won't forget it.'. In the bottom left, large white text reads 'OCTOBER 31 FRI. IN THEATERS'. In the lower right corner, small white sans-serif credit text reads 'Starring: Mako Fukunami / Shusaku Kirimine Original Story & Screenplay: Shibano Maruo Director: Nanami Imakura Theme Song: SyVa \"Umi no Mieru de\" (Dogstar★RECORDS) Production: \"Yūnagi no Shippo\" Film Partners Production Company: DABUSHIBANU-NU Distribution: GOODSHIBALERS ©2026 \"Yūnagi no Shippo\" Film Partners'." negative: "flat lighting, untextured surfaces, symmetrical composition, empty bottom margin, missing text, translated text, paraphrased text, 3D render, cartoon, high-contrast harsh shadows, dry hair, bright cheerful expressions
+```
+
+By [@old\_pgmrs\_will](https://x.com/old_pgmrs_will/status/2045440101359198302)
+
+---
+
+<a id="freestylefly-case-276"></a>
+
+## 红绸幻化壮阔国潮羊城
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case276.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case276.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+[中文] 一张充满新春喜庆氛围但不失高雅格调的 2026 城市宣传海报。 双重曝光，构图延续了S型的流动感； 在纯白的纹理背景右下角，一个身穿中国传统服饰的微缩人物正在挥舞着一条长长的红色丝绸舞带，这条红绸在空中舞动，不仅展现出丝绸的柔顺质感，更在向左上方飘动的过程中，奇幻地变形成了一条壮丽的山脉河流。 在这条"河流"中，叠加了一个有山有海河的广州城市手绘图，国潮，景色尽在眼底，壮阔雄伟，令人震撼。 广州的地标建筑(广州塔，珠江新城建筑群，珠江, 广州城里古建筑，游轮，白云山）。 云雾环绕，仙气缥缈，色彩丰富，结构复杂，细节丰富，但因为大面积的留白，画面依然显得清新脱俗，左下角排版着"SPRING 2026"和竖排的宣传语，整体寓意"千年商都，魅力广州"。 文字排版优美，大方，字迹清晰完整，尺寸9:16。 [English] A 2026 city promotional poster full of a festive Chinese New Year atmosphere yet maintaining an elegant style. Double exposure, the composition continues the flowing sense of an S-shape; In the lower right corner of the pure white textured background, a miniature figure wearing traditional Chinese clothing is waving a long red silk dance ribbon, this red silk dances in the air, not only showing the smooth texture of the silk, but also in the process of drifting to the upper left, magically transforming into a magnificent mountain range and river. In this "river", a hand-drawn map of Guangzhou city with mountains, sea, and rivers is superimposed, Guochao, the scenery is fully in view, magnificent and majestic, breathtaking. Guangzhou's landmark buildings (Canton Tower, Pearl River New City building complex, Pearl River, ancient buildings in Guangzhou city, cruise ships, Baiyun Mountain). Surrounded by clouds and mist, ethereal and misty, rich in colors, complex in structure, rich in details, but because of a large area of negative space, the picture still appears fresh and refined, the lower left corner is typeset with "SPRING 2026" and vertical promotional slogans, the overall implication is "Millennium Commercial Capital, Charming Guangzhou". Beautiful and generous typography, clear and complete handwriting, aspect ratio 9:16.
+```
+
+By [@liyue\_ai](https://x.com/liyue_ai/status/2045332620352119274)
+
+---
+
+<a id="freestylefly-case-278"></a>
+
+## 阿马尔菲海岸复古旅行海报
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case278.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case278.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+[中文] 现代铅笔插画，意大利阿马尔菲海岸复古旅行海报插画，全景海岸悬崖公路场景，经典1960年代白色汽车沿着弯曲的海滨公路行驶，带有小帆船的深蓝色地中海，色彩缤纷的粉彩山腰村庄，带有柔软云朵的明亮蓝天，带有鲜艳黄色柠檬的柠檬树枝框定前景，温暖的夏日阳光，大胆鲜艳的色彩，复古1950年代旅行海报风格，电影级构图，高细节，丝网印刷质感，图形插画。手绘风格，带有松散笔触和清晰轮廓的插画。高对比度调色板，保持背景与元素之间的色彩和谐。现代与装饰性美学。 [English] Modern pencil illustration of Vintage travel poster illustration of the Amalfi Coast, Italy, panoramic coastal cliff road scene, classic 1960s white car driving along a curved seaside road, deep blue Mediterranean sea with small sailboats, colorful pastel hillside village, bright blue sky with soft clouds, lemon tree branches with vibrant yellow lemons framing the foreground, warm summer sunlight, bold vibrant colors, retro 1950s travel poster style, cinematic composition, high detail, screen print texture, graphic illustration. Hand-drawn style, illustration with loose strokes and defined contours. High-contrast color palette, maintaining chromatic harmony between background and elements. Contemporary and decorative aesthetic.
+```
+
+By [@WolfRiccardo](https://x.com/WolfRiccardo/status/2044562722491121718)
+
+---
+
+<a id="freestylefly-case-283"></a>
+
+## 小恶魔莉莉香超任游戏海报
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case283.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case283.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+[中文] が「小悪魔リリムリリィちゃんが　スーパーファミコンのゲームだったときのポスターを考えて」に　画像数枚だけで このクオリティ　細かい説明呪文なし　すごいぜ！ [English] that "Think of a poster when the little devil Lilim Lily-chan was a Super Famicom game" with just a few images this quality without any detailed explanation spells is amazing!
+```
+
+By [@lilimliliychan](https://x.com/lilimliliychan/status/2045114760937804187)
+
+---
+
+[1](posters.md) · [2](posters-2.md) · [3](posters-3.md) · **4** · [5](posters-5.md) · [6](posters-6.md) · [7](posters-7.md)
 
 [← Home](../README.md)

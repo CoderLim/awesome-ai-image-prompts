@@ -1,8 +1,8 @@
 # posters
 
-[← Home](../README.md) · Page 3 / 8
+[← Home](../README.md) · Page 3 / 7
 
-[1](posters.md) · [2](posters-2.md) · **3** · [4](posters-4.md) · [5](posters-5.md) · [6](posters-6.md) · [7](posters-7.md) · [8](posters-8.md)
+[1](posters.md) · [2](posters-2.md) · **3** · [4](posters-4.md) · [5](posters-5.md) · [6](posters-6.md) · [7](posters-7.md)
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
@@ -150,54 +150,6 @@ By [@MrLarus](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1
 
 ---
 
-<a id="freestylefly-case-85"></a>
-
-## 关系图谱信息图
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case85.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case85.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Please generate a high-design character relationship map poster based on {argument name="theme" default="Demon Slayer"}. This image should not be a simple illustration, but a character relationship map that combines information visualization, narrative structure, poster design sense, and stylistic fidelity. Please automatically complete the following: - Identify the work and core settings corresponding to the theme - Extract the most representative 6–12 key characters, not exceeding 15 if necessary - Identify and display key character relationships, including blood ties, romance, friendship, alliances, hostility, master-disciple, etc. - Automatically choose a composition method based on the work's characteristics, such as protagonist-centered, dual-core confrontation, faction-based, family tree, or chronological evolution - Automatically refine the work's style DNA, including color, worldview symbols, textures, mood, typography, and representative elements - Transform these stylistic elements into an overall visual design for the relationship map, rather than simply copying an official poster - Use different colors, line types, and arrows to distinguish different relationships, ensuring clear lines and layers without clutter - Make core characters most prominent, followed by important characters, and subordinate characters weakened to form a clear visual hierarchy - Ensure every character name is legible, with identity or faction labels if necessary The final product should satisfy: - Immediate understanding of character hierarchy and key relationships - Obvious alignment with the original work's temperament and setting - Combines the clarity of an infographic with the premium design of a poster - Unified, exquisite, complete, and suitable for social media sharing or poster display - Avoids a cheap flowchart feel, messy piling, and information overload.
-```
-
-By [@MrLarus](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-85)
-
----
-
-<a id="freestylefly-case-86"></a>
-
-## 关系图谱信息图
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case86.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case86.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Please generate a high-design character relationship map poster based on {argument name="theme" default="Demon Slayer"}. This image should not be a simple illustration, but a character relationship map that combines information visualization, narrative structure, poster design sense, and stylistic fidelity. Please automatically complete the following: - Identify the work and core settings corresponding to the theme - Extract the most representative 6–12 key characters, not exceeding 15 if necessary - Identify and display key character relationships, including blood ties, romance, friendship, alliances, hostility, master-disciple, etc. - Automatically choose a composition method based on the work's characteristics, such as protagonist-centered, dual-core confrontation, faction-based, family tree, or chronological evolution - Automatically refine the work's style DNA, including color, worldview symbols, textures, mood, typography, and representative elements - Transform these stylistic elements into an overall visual design for the relationship map, rather than simply copying an official poster - Use different colors, line types, and arrows to distinguish different relationships, ensuring clear lines and layers without clutter - Make core characters most prominent, followed by important characters, and subordinate characters weakened to form a clear visual hierarchy - Ensure every character name is legible, with identity or faction labels if necessary The final product should satisfy: - Immediate understanding of character hierarchy and key relationships - Obvious alignment with the original work's temperament and setting - Combines the clarity of an infographic with the premium design of a poster - Unified, exquisite, complete, and suitable for social media sharing or poster display - Avoids a cheap flowchart feel, messy piling, and information overload.
-```
-
-By [@MrLarus](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-86)
-
----
-
-<a id="freestylefly-case-87"></a>
-
-## 关系图谱信息图
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case87.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case87.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Please generate a high-design character relationship map poster based on {argument name="theme" default="Demon Slayer"}. This image should not be a simple illustration, but a character relationship map that combines information visualization, narrative structure, poster design sense, and stylistic fidelity. Please automatically complete the following: - Identify the work and core settings corresponding to the theme - Extract the most representative 6–12 key characters, not exceeding 15 if necessary - Identify and display key character relationships, including blood ties, romance, friendship, alliances, hostility, master-disciple, etc. - Automatically choose a composition method based on the work's characteristics, such as protagonist-centered, dual-core confrontation, faction-based, family tree, or chronological evolution - Automatically refine the work's style DNA, including color, worldview symbols, textures, mood, typography, and representative elements - Transform these stylistic elements into an overall visual design for the relationship map, rather than simply copying an official poster - Use different colors, line types, and arrows to distinguish different relationships, ensuring clear lines and layers without clutter - Make core characters most prominent, followed by important characters, and subordinate characters weakened to form a clear visual hierarchy - Ensure every character name is legible, with identity or faction labels if necessary The final product should satisfy: - Immediate understanding of character hierarchy and key relationships - Obvious alignment with the original work's temperament and setting - Combines the clarity of an infographic with the premium design of a poster - Unified, exquisite, complete, and suitable for social media sharing or poster display - Avoids a cheap flowchart feel, messy piling, and information overload.
-```
-
-By [@MrLarus](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-87)
-
----
-
 <a id="freestylefly-case-96"></a>
 
 ## 主题海报版式设计
@@ -326,6 +278,54 @@ By [@nakazakifam](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999c
 
 ---
 
-[1](posters.md) · [2](posters-2.md) · **3** · [4](posters-4.md) · [5](posters-5.md) · [6](posters-6.md) · [7](posters-7.md) · [8](posters-8.md)
+<a id="freestylefly-case-140"></a>
+
+## 主题海报版式设计
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case140.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case140.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+{"type": "promotional advertisement poster for a bottled green tea beverage", "product": {"type": "clear plastic PET bottle filled with yellow-green tea", "label": "white label with green typography, featuring the product name '{argument name=\"product name\" default=\"清風茶\"}', subtitle '緑茶 Seifucha', and vertical text '国産茶葉使用' and '香り豊か、後味さわやか'"}, "background": "bright, fresh, sunlit outdoor atmosphere with dynamic water splashes wrapping around the bottle and vibrant green tea leaves", "layout": {"sections": [{"title": "headline", "position": "top-left", "text": "{argument name=\"main headline\" default=\"新発売\"}", "style": "large red text with a gold underline and a small green leaf accent"}, {"title": "catchphrase", "position": "mid-left", "text": "{argument name=\"catchphrase\" default=\"毎日に、すっきり。\"}", "style": "dark green text"}, {"title": "features", "position": "lower-left", "count": 2, "labels": ["国産茶葉使用", "香り豊か、後味さわやか"], "style": "white pill-shaped banners with green leaf icons"}, {"title": "price_badge", "position": "top-right", "text": "今だけ!! 特別価格 {argument name=\"price\" default=\"128円\"} (税込)", "style": "red circular sticker with white and yellow text"}, {"title": "promo_banner", "position": "bottom-left", "text": "期間限定のお得価格!", "style": "angled red ribbon with yellow and white text"}, {"title": "footer", "position": "bottom-edge", "text": "{argument name=\"footer text\" default=\"全国のコンビニ・スーパーで発売中\"}", "style": "solid green horizontal bar with a white shopping cart icon"}]}}
+```
+
+By [@AutoIntelliMode](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-140)
+
+---
+
+<a id="freestylefly-case-141"></a>
+
+## 电商商品展示设计
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case141.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case141.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+{ "type": "promotional banner design set", "theme": "strawberry advertisement campaign", "style": "anime illustration, bright, cheerful, commercial graphic design", "color_palette": "{argument name=\"primary color theme\" default=\"pastel pink and vibrant red\"}", "character": "{argument name=\"character description\" default=\"anime girl with brown side ponytail and bunny ears, wearing a pastel blue and pink jacket\"}", "product": "{argument name=\"product\" default=\"fresh red strawberries\"}", "layout": { "sections": [ { "type": "large landscape banner", "position": "top left", "visuals": "character winking and holding a strawberry next to a large basket of strawberries", "main_text": "{argument name=\"main headline\" default=\"いちごたっぷり\"}", "sub_text": ["笑顔あふれる、甘〜いひととき♪", "とびきりおいしい！", "ひと粒で、しあわせ広がる♡", "あまっ♡", "旬のおいしさをお届け！"], "badges": { "count": 3, "labels": ["あま〜くてジューシー！", "いろんなサイズを楽しめる♪", "新鮮朝採れ！"] } }, { "type": "vertical banner", "position": "right", "visuals": "character eating a strawberry with a pile of strawberries below", "main_text": "いちごたっぷり", "sub_text": ["旬のいちごをお届け！", "{argument name=\"secondary headline\" default=\"あま〜くて、ジューシー！\"}", "とろけるおいしさ〜♡"], "badges": { "count": 3, "labels": ["朝採れ新鮮！", "いろんなサイズを楽しめる♪", "甘くてジューシー！"] } }, { "type": "wide horizontal banner", "position": "middle", "visuals": "character with closed eyes eating a strawberry, flanked by strawberries", "main_text": "いちごたっぷり！", "sub_text": ["あまくて、ジューシーな幸せ♡", "旬の美味しさをお届けします！", "おいし〜っ♡"] }, { "type": "small square banner", "position": "bottom left", "visuals": "character smiling holding strawberry", "text": ["いちごたっぷり", "あま〜くてジューシー！"] }, { "type": "small square banner", "position": "bottom mid-left", "visuals": "pile of strawberries with one cut in half", "text": ["旬のいちご！", "あまくてとろけるおいしさ♡"] }, { "type": "small horizontal banner", "position": "bottom mid-right", "visuals": "character holding strawberry", "text": ["いちごたっぷり", "朝採れ新鮮！", "あまくてジューシー！"] }, { "type": "circular icons", "position": "bottom right", "count": 4, "items": [ { "visual": "basket of strawberries", "label": "朝採れ新鮮！" }, { "visual": "half strawberry", "label": "あまくてジューシー！" }, { "visual": "whole strawberry", "label": "いろんなサイズ！" }, { "visual": "character face", "label": "とろけるおいしさ♡" } ] } ] } }
+```
+
+By [@takadtmnu](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-141)
+
+---
+
+<a id="freestylefly-case-142"></a>
+
+## 写实摄影风格创作
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case142.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case142.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+{ "type": "anime idol merchandise catalog flyer", "theme_colors": "{argument name=\"theme color\" default=\"pastel blue and pink\"}", "character": { "name": "{argument name=\"character name\" default=\"ななし\"}", "appearance": "anime girl, long {argument name=\"hair color\" default=\"pink\"} hair, blue eyes", "attire": "{argument name=\"outfit\" default=\"black and white maid outfit with a red bow tie\"} and blue hair ribbons" }, "layout": { "header": { "left": "upper body portrait of the character looking slightly to the side", "center": { "top_banner": "ななし 2nd EP リリース記念ライブ", "main_title": "{argument name=\"event title\" default=\"おしごと☆メイド奮闘中！\"}", "subtitle": "~ Oshigoto Maid Funtouchu! ~", "section_header": "OFFICIAL GOODS" }, "right": "purchase bonus info box containing 3 small rectangular photo prints" }, "merchandise_grid": [ { "id": "01", "name": "アクリルスタンド", "description": "full body acrylic stand of the character" }, { "id": "02", "name": "缶バッジ", "description": "set of 6 circular can badges featuring different facial expressions" }, { "id": "03", "name": "ビッグタオル", "description": "large rectangular towel showing the character holding a heart pillow" }, { "id": "04", "name": "Tシャツ", "description": "white t-shirt showing FRONT with character graphic and BACK with small logo" }, { "id": "05", "name": "マフラータオル", "description": "long narrow muffler towel with character art and logo" }, { "id": "06", "name": "トートバッグ", "description": "canvas tote bag with blue logo" }, { "id": "07", "name": "アクリルキーホルダー", "description": "chibi character acrylic keychain with a star-shaped clasp" }, { "id": "08", "name": "ラバーバンド", "description": "blue silicone wristband with logo" }, { "id": "09", "name": "ステッカーセット", "description": "set of 4 visible stickers: chibi character, heart, ribbon bow, and logo" }, { "id": "10", "name": "ペンライト", "description": "blue glowing concert penlight" } ], "footer": { "left": "purchase notes and guidelines box", "center": "character signature 'Nanashi' with hand-drawn hearts and stars", "right": "payment methods box" } } }
+```
+
+By [@anemone\_sd](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-142)
+
+---
+
+[1](posters.md) · [2](posters-2.md) · **3** · [4](posters-4.md) · [5](posters-5.md) · [6](posters-6.md) · [7](posters-7.md)
 
 [← Home](../README.md)

@@ -6,38 +6,6 @@
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
-<a id="evolink-portraits-case-10"></a>
-
-## Japanese Night Street Phone Portrait
-
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2107464646836027392.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2107464646836027392.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Candid cinematic iPhone night street portrait of a young woman in Japan, long wavy dark-brown hair with a thin side braid, natural makeup and a subtle smile. She wears a fitted burgundy sleeveless tank top, light-wash loose straight-leg jeans, and a black leather shoulder bag. Quiet Japanese city street with tiled walls, crosswalks, utility poles, glowing signs, apartment buildings, and soft streetlights. Warm ambient lighting mixed with cool city lights, natural skin texture and realistic pores, shallow depth of field, soft bokeh, realistic shadows, slight digital grain, authentic low-light smartphone photography, documentary lifestyle aesthetic, spontaneous candid feeling, natural proportions, realistic hair strands, 35mm equivalent look, ultra-realistic, vertical 9:16.
-```
-
-By [@MissDelulu9](https://x.com/MissDelulu9/status/2107464677978726696)
-
----
-
-<a id="evolink-portraits-case-11"></a>
-
-## Natural Country Ranch Portrait
-
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2107384576226271232.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2107384576226271232.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Create a highly realistic autumn countryside photograph featuring the girl from the attached reference image. Preserve her identity exactly, including her facial structure, distinctive features, natural proportions, hairstyle, and overall appearance. She is standing beside a weathered wooden fence in an open rural pasture, casually resting one hand on the fence while keeping one leg slightly bent in a relaxed pose. In her other hand, she carries a small black leather handbag. Her outfit consists of a warm brown jacket layered over a black knitted sweater and a visible white shirt underneath, paired with a short plaid skirt, clean white socks, and tall black leather boots. Keep the clothing realistic with natural folds, stitching, material texture, and subtle signs of everyday wear. Behind her is a wide autumn meadow with several black cows grazing naturally in the distance. Surround the pasture with a mixture of evergreen conifers and deciduous trees covered in rich yellow, amber, and muted orange foliage. An overcast sky provides soft, diffused daylight across the entire scene. Aim for the look of an authentic professional outdoor photograph rather than an AI-generated image. Show realistic skin pores, fine facial details, individual strands of hair, natural imperfections, detailed fabric fibers, aged wood grain, grass texture, and believable environmental details. Use physically accurate lighting, shadows, reflections, perspective, and depth of field with natural optical characteristics. Muted seasonal colors, subtle contrast, realistic exposure, authentic photographic depth, and a slightly editorial countryside aesthetic. Absolutely no artificial skin smoothing, waxy or plastic appearance, excessive sharpening, CGI look, 3D rendering, painterly effects, or blurry/mushy details.
-```
-
-By [@j\_smeaton99](https://x.com/j_smeaton99/status/2107384596837158947)
-
----
-
 <a id="evolink-portraits-case-12"></a>
 
 ## Vintage Car Mirror Fashion Photo
@@ -323,6 +291,38 @@ A cheerful and radiant Southeast Asian woman with short chestnut-brown hair styl
 ```
 
 By [@HaniaAi12](https://x.com/HaniaAi12/status/2103789243500027917)
+
+---
+
+<a id="evolink-portraits-case-32"></a>
+
+## Golden Hour Old Room Portrait
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2103456241838415872.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2103456241838415872.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+Create an ultra-realistic cinematic golden-hour portrait of a young woman sitting alone at a rustic wooden table inside an old, weathered room. She has naturally beautiful features, warm medium skin, long dark slightly messy hair falling loosely around her shoulders, with soft strands framing her face. She wears an oversized black/dark charcoal knit sweater. Her pose is relaxed and introspective: one elbow rests on the table, her hand gently supports her cheek, and she gazes toward the side with a quiet, dreamy, slightly melancholic expression. Warm late-afternoon sunlight streams through an unseen window, creating soft golden illumination and subtle rectangular window shadows across the aged, textured plaster wall behind her. The sunlight gently highlights her cheekbones, nose, lips, and loose strands of hair while the rest of the room remains deep and atmospheric. The environment is an old vintage interior with cracked plaster walls, faded artwork and small photographs pinned casually to the wall, an aged wooden doorframe, worn wooden furniture, a stack of old books on the table, and a simple vintage ceramic coffee cup in the foreground. Composition: intimate medium portrait, woman positioned slightly off-center, camera at eye level, natural candid photography, shallow depth of field, softly blurred background and foreground. Strong cinematic light and shadow, warm amber and brown color palette, subtle underexposure, realistic skin pores and texture, individual hair strands, natural facial imperfections. Shot on a 35mm film camera, vintage analog photography, soft Kodak film grain, cinematic color grading, natural lens imperfections, gentle bloom, realistic volumetric sunlight, atmospheric shadows, high dynamic range, editorial photography, photorealistic, ultra-detailed, 8K quality, vertical 4:5 composition. No text, no watermark, no logo, no artificial-looking skin, no excessive makeup, no CGI appearance.
+```
+
+By [@Alina\_with\_Ai](https://x.com/Alina_with_Ai/status/2103456509745340476)
+
+---
+
+<a id="evolink-portraits-case-33"></a>
+
+## Quiet Street Corner Fashion Portrait
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2103326475567169536.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2103326475567169536.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+Create a photorealistic cinematic street portrait of a young South Asian woman sitting casually on a quiet urban street. She has dark brown hair tied in a neat high bun, natural makeup, soft brown eyes, a gentle confident smile, and delicate hoop earrings with layered necklaces. She wears a white fitted graphic T-shirt layered under a stylish burgundy pinafore-style wide-leg outfit, paired with clean white chunky sneakers. She sits relaxed on the pavement with one knee raised and one leg extended toward the camera, creating a dramatic foreground perspective. Behind her is a beautiful hand-painted mural of a woman’s face surrounded by large vintage roses, green leaves, and climbing ivy on an aged cream-colored wall. Natural daylight, realistic skin texture, shallow depth of field, cinematic composition, detailed fabric, authentic street atmosphere, slightly low camera angle, ultra-realistic photography, 4K, professional fashion editorial look. Negative prompt: cartoon, anime, illustration, 3D render, plastic skin, blurry face, distorted anatomy, extra fingers, malformed hands, duplicate person, bad shoes, unnatural pose, oversaturated colors, low quality.
+```
+
+By [@AiWithTariq](https://x.com/AiWithTariq/status/2103326654290698454)
 
 ---
 

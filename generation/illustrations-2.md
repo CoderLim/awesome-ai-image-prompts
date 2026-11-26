@@ -6,70 +6,6 @@
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
-<a id="evolink-illustration-case-153"></a>
-
-## Raised-Arms Watercolor Portrait
-
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2103714767756259328.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2103714767756259328.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Use the uploaded image ONLY as the FACE REFERENCE. Preserve the exact facial identity from the reference image, including facial structure, eyes, eyebrows, nose, lips, jawline, cheekbones, skin tone, hairline, and overall recognizable appearance. POSE: A young woman leaning slightly forward toward the camera, her upper body angled naturally, both arms raised above and around her head, shoulders lifted, head slightly tilted toward the camera, face turned directly toward the viewer, eyes looking into the camera. One hand is positioned behind the head while the other arm is raised beside the head. Maintain a relaxed yet elegant fashion pose with natural body proportions and realistic anatomy. CAMERA: Close-up portrait, slightly low camera angle, intimate framing, upper body filling most of the frame, cinematic perspective. STYLE: Elegant hand-painted watercolor and fine ink illustration, expressive brush strokes, soft watercolor washes, textured cold-pressed watercolor paper, delicate ink outlines, subtle paint bleeding, warm Mediterranean travel aesthetic, sophisticated editorial fashion illustration, highly detailed face, natural skin shading, artistic handmade texture. IMPORTANT: The uploaded image is ONLY for facial identity. Do not copy its pose, clothing, background, composition, or body position. Create a completely new composition using the pose described above. NEGATIVE PROMPT: different face, altered facial identity, face distortion, face swap artifacts, different pose, stiff posture, unnatural anatomy, extra fingers, missing fingers, deformed hands, 3D render, anime, cartoon, photorealistic photography.
-```
-
-By [@Arina\_hoqe](https://x.com/Arina_hoqe/status/2103714798324125892)
-
----
-
-<a id="evolink-illustration-case-154"></a>
-
-## Person and 3D Character Composite
-
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2103672336205643777.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2103672336205643777.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Create a high-resolution vertical 3D CGI character composition on a clean light gray/white studio background. In the center, place a beautiful young adult woman standing full-body, wearing an all-black oversized sweatshirt, black cargo pants, white chunky sneakers, and a small black crossbody sling bag. She has long, straight-to-wavy brown hair and a friendly natural smile. Her pose is relaxed with both hands inside her pants pockets. Around the central woman, place six cute chibi 3D cartoon versions of the same woman, matching her hairstyle, black outfit, white sneakers, and crossbody bag. Each chibi character should have a different playful pose: - top left giving a thumbs-up - top right waving - middle left sitting/crouching with one hand on her cheek - middle right crouching and making a peace sign - bottom left pointing toward the center - bottom right sitting cross-legged with arms crossed Add floating social-media-style 3D icons around the characters: blue thumbs-up, pink/purple heart, blue chat bubble, blue share symbol, and blue paper-plane icon. Use polished Pixar-like 3D cartoon aesthetics, expressive large eyes on the chibi characters, realistic hair and clothing textures, soft studio lighting, subtle floor shadows, clean composition, balanced spacing, sharp details, professional character-poster look. No text, no extra objects, no props in the woman's hands. Aspect ratio 4:5.
-```
-
-By [@Arzoo12sh](https://x.com/Arzoo12sh/status/2103672438798360854)
-
----
-
-<a id="evolink-illustration-case-156"></a>
-
-## Charcoal Background and Color Figure
-
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2102597019475091456.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2102597019475091456.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Create a layered composite portrait of the SAME FEMALE PERSON from the uploaded face reference image. CONCEPT: A massive, highly detailed charcoal/pencil sketch portrait fills the background like a hand-drawn wall mural, while a sharp full-color photorealistic seated portrait of the same woman appears in the foreground on a dark reflective floor. BACKGROUND SKETCH PORTRAIT: Large detailed black-and-white pencil and charcoal sketch of the same woman, head turned slightly to the side. Preserve her exact hairstyle and hair texture, facial features, eyebrows, eyes, nose, lips, jawline and natural facial proportions. The sketch should have visible pencil hatch strokes, charcoal shading, fine facial linework and realistic hand-drawn texture. Add rough torn-paper edges, ink-splatter marks and charcoal dust surrounding the sketch, blending naturally into a warm sepia-grey textured wall. FOREGROUND FEMALE SUBJECT: The same woman is seated casually on the floor. One leg is bent with the knee raised and one forearm resting naturally on the knee; the other leg extends outward to the side. Her torso is slightly turned, head tilted while looking off to the side, with a calm, thoughtful and natural expression. IDENTITY LOCK — HIGHEST PRIORITY: Use ONLY the uploaded female face reference image for facial identity and facial structure in BOTH the background sketch and the foreground photorealistic woman. The foreground woman and background sketch must represent EXACTLY the same real person. Preserve the exact: - Face shape - Jawline and jaw width - Cheek structure - Forehead shape - Exact hairline - Hairstyle and hair texture - Eyebrow shape - Eye shape, size and spacing - Nose structure - Lip shape and proportions - Natural facial features - Skin tone - Skin texture - Natural facial imperfections - Overall feminine facial proportions ZERO identity change. Do NOT beautify or alter the face. Do NOT change her age or facial structure. Do NOT feminize or masculinize the face. Do NOT smooth away natural skin texture. Do NOT make her look like a celebrity or model. Do NOT use a generic female face. Do NOT introduce facial morphing. Do NOT change her hairstyle or hairline unless required by the reference. Do NOT create a different person. The uploaded reference image is the ONLY source of facial identity. BODY: Natural feminine body proportions, realistic physique, natural skin tone and relaxed seated posture. OUTFIT: Black hooded sweatshirt with visible drawstrings, light grey jogger sweatpants and clean white-and-grey sneakers. ENVIRONMENT: Warm sepia-grey textured wall covered by the giant detailed pencil/charcoal portrait. Rough ink-splatter, charcoal dust and expressive pencil marks spread naturally around the sketch. Dark polished reflective floor beneath the seated woman, creating a subtle soft mirror reflection. COMPOSITION: Vertical editorial poster composition. The large background sketch dominates the frame while the full-color seated woman is clearly separated in the foreground. Strong visual depth between the hand-drawn portrait and realistic subject. Balanced negative space. Premium fashion-editorial composition. LIGHTING: Soft, even studio lighting from the front. Minimal harsh shadows. Warm neutral illumination. Natural skin highlights. Subtle controlled reflections on the dark floor. COLOR GRADING: Background: sepia-grey monochrome charcoal/pencil aesthetic. Foreground: natural full-color female subject with realistic warm skin tones. Strong but elegant contrast between the monochrome sketch and realistic woman. Clean high-contrast editorial poster color grading. CAMERA / QUALITY: Sony A7R IV 50mm lens f/1.8 Foreground subject tack sharp. Extremely detailed skin texture, individual hair strands and clothing fabric. Background pencil strokes, charcoal shading and ink-splatter texture highly detailed. Ultra-photorealistic. Premium editorial photography. Natural depth of field. Realistic materials and reflections. 4K-level detail. Zero AI-looking artifacts. NEGATIVE PROMPT: No identity change, no different face, no generic female face, no celebrity resemblance, no face-swap artifacts, no facial distortion, no asymmetrical eyes, no extra fingers, no extra limbs, no malformed hands, no duplicated body parts, no plastic skin, no excessive skin smoothing, no beauty filter, no cartoon, no anime, no unrealistic body proportions, no blurry face, no low resolution, no watermark, no text, no logo. OUTPUT: Aspect Ratio: 3:4 Photorealistic female portrait Identity preservation is the absolute highest priority.
-```
-
-By [@Kubra\_286](https://x.com/Kubra_286/status/2102597096545071243)
-
----
-
-<a id="evolink-illustration-case-158"></a>
-
-## Two-Person Watercolor Fashion Illustration
-
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2102244364030488576.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2102244364030488576.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Create a cohesive editorial watercolor portrait featuring the same young woman and young man from the provided reference images together in one elegant composition. The woman has long dark brown wavy hair, soft natural facial features and a gentle confident smile. The man has thick, naturally wavy dark brown hair, defined facial features and a calm subtle expression. Preserve their facial identity and recognizable features accurately from the reference images. Dress both subjects in coordinated olive-green outfits with natural fabric texture. The woman wears an olive-green rolled-sleeve button-up shirt over a simple white inner top, while the man wears an olive-green rolled-sleeve button-up shirt over a white T-shirt. Both wear simple dark smartwatches. Place them together in a cozy modern creative workspace, seated naturally near the same wooden desk, with a silver laptop, notebooks, books, pens, a ceramic mug, indoor plants, wooden shelves, framed travel photographs and a warm glowing table lamp in the background. Use a sophisticated warm beige, cream, olive and muted brown color palette. Surround the composition with artistic watercolor brush strokes, subtle ink splashes and textured handmade paper edges. Keep the subjects photorealistic while blending the environment with delicate watercolor and painterly textures. Natural warm cinematic lighting, soft shadows, shallow depth of field, realistic skin texture, detailed hair strands, authentic clothing folds, harmonious composition, premium editorial photography mixed with watercolor illustration, elegant and modern aesthetic, high detail, vertical portrait composition. IMPORTANT: No names, no logos, no captions, no typography, no watermark, no duplicated people, no distorted faces, no extra fingers or limbs. Both subjects should look naturally integrated into the same scene, not pasted together.
-```
-
-By [@mehwishkiran07](https://x.com/mehwishkiran07/status/2102244437032354046)
-
----
-
 <a id="evolink-illustration-case-164"></a>
 
 ## Reference Portrait Watercolor Fashion Art
@@ -323,6 +259,70 @@ By [@Alina\_with\_Ai](https://x.com/Alina_with_Ai/status/2098962796893651067)
 ```
 
 By [小红书号yi\_xiao\_jiu](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-6)
+
+---
+
+<a id="freestylefly-case-22"></a>
+
+## 插画艺术风格创作
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case22.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case22.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+An anime-style illustration of a {argument name="action type" default="high-impact martial arts battle"} between two young female fighters in a {argument name="setting" default="traditional wooden martial arts dojo"}. In the foreground, a girl with black hair in a high bun wears a {argument name="character 1 color theme" default="red and white"} Chinese-style martial arts outfit with baggy pants. She is in a dynamic, low, forward-thrusting stance, surrounded by swirling red energy and water splashes. In the background to the right, a girl with light purple hair in twin buns wears a {argument name="character 2 color theme" default="green and purple"} Chinese dress with gold embroidery and black tights. She is leaping through the air in a flying kick pose, surrounded by swirling blue energy. The wooden floorboards are splintering from the intense impact, with debris and dust flying through the air. Above them hangs a weathered wooden sign with the text "{argument name="sign text" default="武術会"}". The scene features dramatic lighting, a low-angle dynamic perspective, and intense action effects.
+```
+
+By [@Tanemomi\_Ver2](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-22)
+
+---
+
+<a id="freestylefly-case-30"></a>
+
+## 写实摄影风格图
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case30.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case30.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+Express [{argument name="subject" default="a powerful AI builder"}] in a graffiti sketch style, presenting an overall visual effect of rapid sketching, free transformation, improvised hand-drawing, and draft-like qualities. Lines are casual, exaggerated, varied in thickness, slightly messy but rhythmic and expressive, emphasizing generalization, exaggeration, fun, and spontaneity rather than rigorous realism or fine detail. Colors use rough, dry-brush block expressions, retaining uneven smears, brush marks, flying whites, and overlapping feelings. Colors automatically adapt to the [theme/subject], but the overall expression remains graffiti-like, sketch-like, and generalized. No transparent watercolor smudging, no delicate watercolor transitions, no paper textures, no soft atomization, and no dreamlike quality. The background is mainly white space, remaining simple, relaxed, unfinished, and design-oriented. A small amount of auxiliary symbols, arrows, marks, circles, repeated lines, handwritten text, or other graffiti elements can be added to enhance the sketchbook or essay-like visual language, but should not be too crowded or destroy the subject and atmosphere of the white space. The image content does not need to be written in advance; the [{argument name="subject" default="a powerful AI builder"}] will automatically deduce and generate the most suitable main image, actions, related elements, symbols, or simplified scenes. The whole maintains a unified graffiti sketch style and exaggerated generalized expression, avoiding complex realistic backgrounds and over-elaboration. Naturally add a unique signature "{argument name="signature" default="BlanPlan"}" as part of the image, placed discreetly but clearly in the lower-left, lower-right, or near the title. The style should be unified with the overall layout, like an artist's signature or design inscription; the signature font should be refined, restrained, and high-end, not too large, not destructive to the main composition, and not appearing abrupt or cheap.
+```
+
+By [@opc\_8838](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-30)
+
+---
+
+<a id="freestylefly-case-32"></a>
+
+## 插画艺术创作图
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case32.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case32.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+{ "type": "3x3 character expression grid", "style": "{argument name=\"art style\" default=\"3D animation, Pixar style\"}", "character_base": "{argument name=\"character description\" default=\"young woman with voluminous dark wavy hair and round wire-rimmed glasses\"}", "common_theme": "{argument name=\"framing concept\" default=\"peeking through a torn hole in white paper\"}", "layout": { "rows": 3, "columns": 3, "total_panels": 9, "panels": [ {"position": "top-left", "expression": "winking", "action": "adjusting glasses", "outfit": "green sweater"}, {"position": "top-center", "expression": "smirking", "action": "lowering dark sunglasses", "outfit": "red leather jacket"}, {"position": "top-right", "expression": "thinking", "action": "finger on chin", "outfit": "yellow hoodie"}, {"position": "middle-left", "expression": "big smile", "action": "arms resting on edge", "outfit": "black and white striped shirt"}, {"position": "middle-center", "expression": "smiling", "action": "thumbs up", "outfit": "orange button-up shirt"}, {"position": "middle-right", "expression": "neutral", "action": "drinking boba tea", "outfit": "blue sweater"}, {"position": "bottom-left", "expression": "happy", "action": "waving", "outfit": "purple sweater vest over white shirt"}, {"position": "bottom-center", "expression": "laughing with eyes closed", "action": "arms crossed", "outfit": "pink cardigan"}, {"position": "bottom-right", "expression": "silly", "action": "poking cheeks", "outfit": "teal sweater"} ] } }
+```
+
+By [@austinit](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-32)
+
+---
+
+<a id="freestylefly-case-42"></a>
+
+## 写实摄影风格图
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case42.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case42.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+Express {argument name="subject" default="a powerful AI builder"} in a graffiti sketch style, presenting an overall visual effect of quick outlines, free deformation, improvised hand-drawing, and draft-like sketches. The lines are casual, exaggerated, varying in thickness, and slightly messy but rhythmic and expressive, emphasizing generalization, exaggeration, fun, and spontaneity rather than rigorous realism or fine detail. The colors are expressed in rough blocks with a distinct dry-brush feel, retaining uneven smears, brush marks, fly-white, and layering. Colors automatically adapt to the {argument name="theme" default="powerful AI builder"}, but the overall expression remains graffiti-like, sketch-like, and generalized. No transparent watercolor smudging effects, no delicate watercolor transitions, no paper textures, no soft atomization, and no dreamy textures. The background is mainly white space, maintaining a sense of simplicity, ease, unfinishedness, and design. Small amounts of auxiliary symbols, arrows, marks, circles, repeated lines, handwritten text, or other graffiti elements can be added to enhance the sketchbook or essay-like visual language, but they should not be too crowded or destroy the subject and the white space atmosphere. The content of the picture does not need to be written in advance; {argument name="character image" default="a powerful AI builder"} will automatically deduce and generate the most suitable main image, actions, related elements, symbols, or simplified scenes. The overall style remains a unified graffiti sketch style and an exaggerated, generalized expression, avoiding complex realistic backgrounds and excessive detail. A special signature 'BlanPlan' should be naturally added as part of the picture, in a low-key but clear position such as the bottom left, bottom right, or near the title. The style should be unified with the overall layout, like an artist's signature or a design mark; the signature font should be exquisite, restrained, and high-end, not too large, and should not destroy the main composition or appear abrupt or cheap.
+```
+
+By [@blanplan](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-42)
 
 ---
 

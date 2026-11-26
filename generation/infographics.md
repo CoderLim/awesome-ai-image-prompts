@@ -118,22 +118,6 @@ By [@yammamon](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa
 
 ---
 
-<a id="freestylefly-case-20"></a>
-
-## 信息图可视化设计
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case20.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case20.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Create an explanatory slide ({argument name="format" default="ponchi-e diagram"}) for {argument name="theme" default="Momotaro"} that fuses the gentle atmosphere of "Irasutoya" with the overwhelming information density of "Kasumigaseki slides".
-```
-
-By [@yammamon](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-20)
-
----
-
 <a id="freestylefly-case-23"></a>
 
 ## 信息图可视化设计
@@ -262,22 +246,6 @@ By [@hx831126](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa
 
 ---
 
-<a id="freestylefly-case-69"></a>
-
-## 信息图可视化设计
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case69.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case69.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-{ "type": "comprehensive medical infographic", "style": "highly detailed 3D medical illustration, clinical white background, clean typography", "header": { "title_cn": "{argument name=\"main title\" default=\"痛风诞生的因果链\"}", "title_en": "{argument name=\"english title\" default=\"THE CAUSAL CHAIN OF GOUT\"}", "subtitle": "Pain is not the beginning. Metabolic imbalance is.", "top_right_sequence": { "count": 6, "labels": ["Metabolism", "Transport", "Crystallization", "Immunity", "Inflammation", "Damage"] } }, "centerpiece": { "description": "{argument name=\"central figure\" default=\"transparent anatomical human body showing liver, kidneys, and vascular system\"}", "details": "pathway highlighted in {argument name=\"highlight color\" default=\"glowing red\"} descending to the foot" }, "layout": { "left_column": [ { "id": "01", "title": "Purine Sources", "elements": 6, "labels": ["Red meat", "Organ meats", "Seafood", "Beer", "Endogenous", "Fructose"] }, { "id": "02", "title": "Uric Acid Production", "elements": 2, "labels": ["Chemical pathway", "Liver"] }, { "id": "03", "title": "Renal & Intestinal Excretion", "elements": 2, "labels": ["Kidney nephron", "Intestines"] }, { "id": "04", "title": "Hyperuricemia", "elements": 2, "labels": ["Blood vial", "Solubility graph"] } ], "center_overlay": [ { "id": "05", "title": "Crystal Physics", "elements": 3, "labels": ["Supersaturation beaker", "Precipitation beaker", "Molecular structure"] }, { "id": "06", "title": "Joint Deposition & Local Environment", "elements": 1, "labels": ["First MTP joint cross-section"] } ], "right_column": [ { "id": "07", "title": "Immune Inflammatory Cascade", "elements": 4, "labels": ["Macrophage", "Inflammasome", "Neutrophil", "Cytokines"] }, { "id": "08", "title": "Acute Gout Flare", "elements": 1, "labels": ["Inflamed foot"] }, { "id": "09", "title": "Chronic Structural Damage", "elements": 1, "labels": ["Bone erosion joint"] }, { "id": "10", "title": "Tophus Formation", "elements": 2, "labels": ["Hand tophi", "Foot tophi"] }, { "id": "11", "title": "Beyond the Joint", "elements": 2, "labels": ["Kidney stones", "Systemic burden"] } ], "bottom_row": [ { "id": "12", "title": "Pain Is the Final Signal", "elements": 7, "labels": ["Increased Purine", "Overproduction", "Reduced Excretion", "Hyperuricemia", "Crystal Formation", "Immune Activation", "Man in pain"] } ] }, "theme": "{argument name=\"disease focus\" default=\"gout and uric acid crystallization\"}" }
-```
-
-By [@hx831126](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-69)
-
----
-
 <a id="freestylefly-case-70"></a>
 
 ## 信息图可视化设计
@@ -323,6 +291,38 @@ By [@hx831126](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa
 ```
 
 By [@hx831126](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-72)
+
+---
+
+<a id="freestylefly-case-73"></a>
+
+## 信息图可视化设计
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case73.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case73.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+{ "type": "complex urban systems atlas infographic", "style": "{argument name=\"color palette\" default=\"dark background with glowing blue, gold, and purple accents\"}, highly detailed technical illustration, 3D isometric cutaway", "header": { "title": "{argument name=\"chinese city name\" default=\"上海\"}城市系统剖面 {argument name=\"english city name\" default=\"SHANGHAI\"} URBAN SYSTEMS ATLAS", "subtitles": [ "地表之上，是城市；地表之下，是秩序 {argument name=\"english subtitle\" default=\"Beneath the skyline lies the machine.\"}", "一座城市如何运转 How a Megacity Actually Works" ] }, "layout": { "top_left": "Compass rose and city map labeled '上海市域位置 SHANGHAI LOCATION'", "top_right": "Data table titled '城市数据 CITY DATA' with 7 rows of statistics", "centerpiece": { "description": "{argument name=\"centerpiece style\" default=\"highly detailed 3D isometric cutaway render\"} of a megacity river landscape", "layers": [ "地面层 SURFACE", "排水层 DRAINAGE LAYER", "电力层 POWER LAYER", "通信层 COMMUNICATION LAYER", "轨道交通层 METRO LAYER", "道路隧道层 ROAD TUNNEL LAYER", "管廊综合层 UTILITY CORRIDOR LAYER" ] }, "side_panels": [ { "id": "01", "title": "城市主骨架 URBAN SKELETON", "elements": "Map with 8 legend items" }, { "id": "02", "title": "排水与地下水网 DRAINAGE + STORMWATER", "elements": "Cross-section diagram '典型排水剖面 DRAINAGE SECTION' with 5 legend items" }, { "id": "03", "title": "电网与能源分配 POWER GRID + ENERGY", "elements": "Cross-section diagram '典型变电站剖面 SUBSTATION SECTION' with 6 legend items" }, { "id": "04", "title": "通信与网络骨干 TELECOM + INTERNET", "elements": "Cross-section diagram '数据中心剖面 DATA CENTER SECTION' with 6 legend items" }, { "id": "05", "title": "地铁与地下交通 METRO + SUBSURFACE MOBILITY", "elements": "Cross-section diagram '人民广场站剖面 PEOPLE'S SQUARE STATION' with 6 legend items" }, { "id": "06", "title": "道路、高架与循环 ROADS + ELEVATED MOBILITY", "elements": "Cross-section diagram '南浦大桥剖面 NANPU BRIDGE SECTION' with 6 legend items" }, { "id": "07", "title": "管廊与地下设施 UTILITY CORRIDORS + PLUMBING", "elements": "Cross-section diagram '综合管廊 UTILITY CORRIDOR' with 8 legend items" }, { "id": "08", "title": "城市流量与系统协同 URBAN FLOWS + COORDINATION", "elements": "Map diagram '城市运行指挥中心 CITY OPERATIONS CENTER' with 6 legend items" } ], "bottom_panels": { "system_logic": { "title": "城市系统协同逻辑 SYSTEM COORDINATION LOGIC", "steps": 4, "labels": ["感知层 SENSING LAYER", "网络层 NETWORK LAYER", "平台层 PLATFORM LAYER", "应用层 APPLICATION LAYER"] }, "city_brain": { "title": "城市大脑 CITY BRAIN", "central_node": 1, "peripheral_nodes": 8 }, "references": { "depth_scale": { "title": "深度与尺度 DEPTH & SCALE REFERENCE", "icons": 5 }, "map_scale": { "title": "比例尺 SCALE", "markers": 4 } } } } }
+```
+
+By [@hx831126](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-73)
+
+---
+
+<a id="freestylefly-case-74"></a>
+
+## 关系图谱信息图
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case74.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case74.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+Please generate a high-quality vertical "Popular Science Encyclopedia Image" based on {argument name="theme" default="animals"}. This image is not a regular poster or a simple illustration, but a modular popular science infographic that possesses a sense of "illustration book, encyclopedia, information structure, and collectability." The overall style should reference a combination of high-end natural history illustrations, modern encyclopedia pages, lifestyle knowledge cards, and highly shareable social media infographics. Please include in the frame: - A clear and beautiful main visual of the subject - Several magnified details of local characteristics - Multiple rounded modular information sections - Clear title hierarchies and key labels - Concise yet rich encyclopedic content - Visual ratings, key point summaries, or Top 5 modules Content columns should be automatically adapted based on the theme, prioritized from these directions: basic profile, classification information, appearance characteristics, habits/ecology, formation mechanism/structure, growth or use conditions, care or maintenance suggestions, risks and precautions, suitable audience or scenarios, pros and cons comparison, and quick rating cards. Visual requirements: Light-colored clean background, soft color palette, light shadows, exquisite small icons, rounded information boxes, neat layout, high information density but not crowded, good reading experience. The overall result must look like a real science encyclopedia card suitable for publishing, reading, collecting, and serialized production, rather than an advertisement. Please do not make it a regular commercial promotional poster. Highlight the features of "knowledge organization + modular information + illustration-style display."
+```
+
+By [@alanlovelq](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-74)
 
 ---
 

@@ -6,102 +6,6 @@
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
-<a id="freestylefly-case-202"></a>
-
-## 宅男必看绝美二次元少女
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case202.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case202.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-[中文] 生成高质量美女（宅男必备） [English] Generate high-quality beautiful girl (otaku must-have)
-```
-
-By [@joshesye](https://x.com/joshesye/status/2046596222505361866)
-
----
-
-<a id="freestylefly-case-206"></a>
-
-## 国风工笔八仙长卷插画
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case206.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case206.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-[中文] （国风卷轴插画师）你是一位顶尖的中国传统工笔人物画师，擅长将经典人物群像绘制成长卷式百科海报。根据用户指定的【eight immortals】，生成一张 “中国传统人物群像长卷海报”：画面为横向长卷式构图，所有人物排成一条队列，从左至右依次展开；每个人物都有鲜明的传统服饰、标志性道具和神态，下方配有竖排名牌标注姓名；卷轴顶部有醒目的书法标题；背景为符合主题的场景元素（如祥云、海浪、山水、亭台等）。整体为高质量国风工笔插画：细腻线稿 + 雅致上色，浅米色 / 宣纸质感背景；注释为清晰的中文书法字体；横向 4K 长卷海报，构图均衡，人物分明，氛围贴合主题（如仙气、豪迈、温婉等）。直接出图，人物群像为【eight immortals】。 [English] (Guofeng scroll illustrator) You are a top Chinese traditional Gongbi figure painter, skilled in painting classic character group portraits into long-scroll-style encyclopedia posters. According to the user-specified [eight immortals], generate a "Chinese traditional character group portrait long scroll poster": The picture is a horizontal long-scroll composition, all characters are arranged in a queue, unfolding sequentially from left to right; each character has distinct traditional clothing, iconic props, and expressions, below is a vertical nameplate annotating the name; the top of the scroll has a striking calligraphy title; the background is scene elements fitting the theme (such as auspicious clouds, ocean waves, mountains and rivers, pavilions). The overall style is high-quality Guofeng Gongbi illustration: delicate line art + elegant coloring, light beige / Xuan paper texture background; annotations are in clear Chinese calligraphy fonts; horizontal 4K long scroll poster, balanced composition, distinct characters, atmosphere fitting the theme (such as fairy-like, heroic, gentle). Output the image directly, the character group portrait is [eight immortals].
-```
-
-By [@GeekCatX](https://x.com/GeekCatX/status/2046559605074076112)
-
----
-
-<a id="freestylefly-case-233"></a>
-
-## 蒙娜丽莎畅饮可乐的趣味油画
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case233.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case233.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-[中文] 生成一张蒙娜丽莎喝可乐的油画。 [English] Generate an oil painting of Mona Lisa drinking cola.
-```
-
-By [@liyue\_ai](https://x.com/liyue_ai/status/2045058142858555733)
-
----
-
-<a id="freestylefly-case-238"></a>
-
-## 星云巨鲤与小人的奇幻对话
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case238.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case238.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-[中文] 一幅超现实主义数字插画风格，采用低角度仰拍视角。画面描绘了一条巨型彩色锦鲤遨游在梦幻般的星云中，四周环绕着色彩鲜艳的星云与气泡。 画面中央还站着一个小人，背对观众，神情平静地仰望空中这条巨大的锦鲤，锦鲤头向下看着小人。 整体画面呈现出强烈的大小对比，氛围空灵又梦幻。比例9:16 [English] A surrealist digital illustration style, adopting a low-angle upward perspective. The picture depicts a giant colorful koi swimming in a dreamy nebula, surrounded by colorful nebulae and bubbles. In the center of the picture stands a small figure, with their back to the audience, calmly looking up at this huge koi in the air, and the koi is looking down at the small figure. The overall picture presents a strong size contrast, and the atmosphere is ethereal and dreamy. Aspect ratio 9:16
-```
-
-By [@liyue\_ai](https://x.com/liyue_ai/status/2045875219307655337)
-
----
-
-<a id="freestylefly-case-242"></a>
-
-## 绝美国风工笔画书签设计
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case242.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case242.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-[中文] 生成一系列工笔画书签的设计稿 [English] Generate a series of design drafts for Gongbi painting bookmarks.
-```
-
-By [@akokoi1](https://x.com/akokoi1/status/2045693939584516441)
-
----
-
-<a id="freestylefly-case-263"></a>
-
-## 唯美二次元角色介绍网页
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case263.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case263.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-[中文] 埋まってないところはパートナーさんかご自身で埋めてあげてください #観測塔朝お題  #観測塔おはようお題 最新モデルの画像生成ツールを使用して、 このちびキャライラストと立ち絵を使って本物のサイトページのようにキャラクター紹介ページ風イラストを作ってください。 （紹介ページとして使ってもおかしくないもの） ギャルゲーのキャラクター紹介ページをイメージした高品質なもの。 顔の差分なども乗っている、CGイラストが存在する。ちびキャラが存在する。 「ここに自己紹介」 名前:（ここに名前） イメージカラー:（ここに色） 身長:（ここに身長）cm 体重:（ここに体重）kg キャッチコピー:"「ここにセリフ」" [English] Please fill in the unfilled parts by your partner or yourself #ObservatoryTowerMorningTheme  #ObservatoryTowerGoodMorningTheme Using the latest model image generation tool, Using this chibi character illustration and standing picture, create a character introduction page style illustration like a real website page. (Something that would not be strange to use as an introduction page) A high-quality item imagining a gal game character introduction page. Facial variations etc. are also included, CG illustrations exist. A chibi character exists. "Self-introduction here" Name: (Name here) Image color: (Color here) Height: (Height here)cm Weight: (Weight here)kg Catchphrase: "Dialogue here"
-```
-
-By [@09lyco](https://x.com/09lyco/status/2045281845391323175)
-
----
-
 <a id="freestylefly-case-280"></a>
 
 ## 封面排版设计图
@@ -323,6 +227,102 @@ Transform the photo into a delicate minimalist hand-drawn children’s illustrat
 ```
 
 By [@MissDelulu9](https://x.com/MissDelulu9/status/2057073936295399551)
+
+---
+
+<a id="freestylefly-case-458"></a>
+
+## 巴黎秋季时装插画
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case458.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case458.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+Full-body fashion illustration of a young woman walking down a Parisian street in autumn, wearing a long camel wool coat draped open over a black ribbed turtleneck sweater and high-waisted wide-leg cream trousers, holding a quilted tan leather shoulder bag with interlocking CC logo and chain strap in her left hand while her right hand slides into a pocket, short dark brown wavy hair gently lifted by a breeze, pearl stud earrings, natural fresh makeup and a confident serene expression; cinematic shallow depth of field with soft warm golden-hour light, subtle bokeh on Haussmann-style buildings and slow-moving cars in the blurred background, scattered fallen leaves on the pavement; semi-realistic digital painting / fashion illustration style with clean linework, soft gradients, high-detail fabric textures and realistic folds, emphasis on elegant silhouettes and tactile materials, muted autumn palette (camel, cream, black, warm ochre), vertical composition, crisp foreground, gentle film grain and polished finishing.
+```
+
+By [@heyfatema](https://x.com/heyfatema/status/2057745100365787170)
+
+---
+
+<a id="freestylefly-case-463"></a>
+
+## 黑色吊带袜单款图鉴展示
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case463.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case463.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+《黑色丝袜图鉴款式单图》提示词： 请基于同一套「黑色丝袜 / 吊带袜图鉴」系列风格，继续生成 8 张对应单款的独立展示图。 【系列要求】 - 这些图片必须和已完成的总览图鉴属于同一个系列 - 整体版式、字体、色调、背景、质感、排版逻辑保持一致 - 都是竖版、高完成度、暖白 / 浅灰白背景、轻奢女性向时尚图鉴风格 - 每一张都像同一个品牌或同一套视觉系统下的延展页面 【每张单图的共同结构】 1. 顶部标题区 - 英文系列标题：BLACK GARTER GUIDE - 中文主标题：黑色丝袜 / 吊带袜单款展示 - 当前款式名称：__________ - 一句简短副标题：突出该款式的核心特点 2. 中部主体区 - 以 1 位成人女性模特穿戴展示为主 - 重点展示对应款式的关键细节： - 经典蕾丝款：袜口蕾丝、优雅氛围 - 细网眼款：网格纹理、轻盈通透 - 波点款：波点图案、复古俏皮 - 后缝线款：背后缝线、线条感 - 竖条纹款：纵向条纹、修饰腿型 - 交叉绑带款：绑带结构、设计感 - 极简透肤款：透明感、基础百搭 - 花纹蕾丝款：花纹装饰、浪漫氛围 - 每张图的人物长相、发型、姿势、镜头角度要不同，但都要保持高级、真实、性感、写实 - 允许使用站姿、坐姿、交叉腿、倚靠、回眸等不同姿势 - 画面要有立体感、阴影层次和高级编辑感 3. 注释区 - 每张图都要保留 3 到 5 条手绘式标注 - 可以使用箭头、短线、圈注、手写风标签 - 标注内容要围绕该款式最关键的细节，比如： - 袜口结构 - 花纹纹理 - 透明度 - 缝线位置 - 绑带方式 - 腿部线条效果 - 标注文字简洁、清楚、统一风格 4. 底部信息区 - 加入简短的 “Style Notes / 风格速记” - 用 1 到 2 句说明该款适合的场景和氛围 - 保持简洁，不要抢主体 【统一视觉要求】 - 保持和总览图鉴完全统一的整体视觉系统 - 背景统一为暖白、浅灰白或奶白 - 风格统一为高级、干净、时尚图鉴感、轻奢女性视觉 - 模特必须真实、立体、写实、自然肤质 - 每张图都要突出产品，不要低俗，不要过度情色化 - 每张图都应像同一系列里的不同章节，避免呈现为彼此割裂的作品 【款式列表】 1. 经典蕾丝款 / Classic Lace 2. 细网眼款 / Fine Fishnet 3. 波点款 / Dot Sheer 4. 后缝线款 / Back Seam 5. 竖条纹款 / Stripe Sheer 6. 交叉绑带款 / Cross Strap 7. 极简透肤款 / Minimal Sheer 8. 花纹蕾丝袜 / Floral Lace 【输出目标】 按以上 8 个款式，分别生成 8 张独立展示图。 要求每张都保留统一系列感，同时人物造型、发型、姿势和镜头语言明显不同，确保整套看起来完整、专业、可收藏。
+```
+
+By [@MrLarus](https://x.com/MrLarus/status/2058175014168396245)
+
+---
+
+<a id="freestylefly-case-468"></a>
+
+## 霓虹涂鸦展会自拍
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case468.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case468.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+生成一张写实感合照，9:16构图，真实手机摄影质感。 画面中是一位20岁成年东方女性模特，站在室内展会现场，靠近镜头自然拍照。人物妆造精致，五官清秀，皮肤清透，眼神自然看向镜头，整体气质甜美。 人物姿态自然端正，身体略微前倾，肩颈柔和舒展，腰部自然收束，整体体态呈现成熟柔美的女性S型曲线。人物体态为成熟丰腴型，肩部圆润柔和，胸部饱满自然，腰线清晰但不过度纤细，臀腿曲线圆润匀称，大腿与手臂带有柔软健康的肉感，整体呈现温柔、甜美、丰腴、优雅的女性美。 人物服装为“霓虹手绘线条构成的艺术涂鸦”，笔触故意粗糙随意，带明显蜡笔与 marker 手绘质感。画面中的 doodle graphics 形成若隐若现的视觉错觉感，突出身体线条和优美轮廓，让人物看起来像穿着由霓虹线条构成的 cosplay outfit，避免呈现为真实布料服装。整体偏日本互联网自拍文化中的 playful sticker aesthetic，避免直白裸露风格。 人物发型为精致古风高马尾，搭配白色花朵头饰、水晶发簪、流苏耳饰、额间水晶装饰。妆容清透，带有淡粉色眼影、自然腮红和柔和唇色。 场景为大型室内展会现场，背景有人群和展台但轻微虚化，顶部有真实展馆灯光。画面采用近景合照构图，人物面部和服装细节清晰，背景虚化自然，有真实手机自拍感。 整体风格：写实、清透、明亮、梦幻。
+```
+
+By [@drmrzhong](https://x.com/drmrzhong/status/2058774378960257437)
+
+---
+
+<a id="freestylefly-case-471"></a>
+
+## 花簪和服动漫肖像
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case471.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case471.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+Ultra-detailed anime-style portrait of a young girl with large expressive eyes, soft blush cheeks, and delicate facial features. She wears a vibrant floral kimono with intricate colorful patterns. Large blooming flowers are placed in her hair like accessories. Smooth gradient warm background in coral and peach tones. Soft cinematic lighting, dreamy atmosphere, high-end digital illustration
+```
+
+By [@Mind\_Boticni](https://x.com/Mind_Boticni/status/2059133066694779343)
+
+---
+
+<a id="freestylefly-case-475"></a>
+
+## 企鹅造型包装结构板
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case475.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case475.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+Using the attached image, create an illustration sheet of professional industrial design packaging for the package (PACKAGE TYPE). A centered heroic 3D rendering with realistic materials, soft studio lighting and commercial quality finishes. Surrounded by technical views: front, side, top, bottom, oblique perspective and flat position. Include sketches of the frame structure, crease lines, seam details, and size arrows in millimeters. Show materials and finishes (matte, glossy print, plastic, paper, glass, etc.) in handwritten annotations. Add color swatches, realistic product illustrations, and subtle shadows. Clean sketchbook background, realistic rendering + pencil sketch style, modern design design, ultra-detailed, portfolio ready.
+```
+
+By [@iamaiistudio](https://x.com/iamaiistudio/status/2059305097897914664)
+
+---
+
+<a id="freestylefly-case-495"></a>
+
+## 巴黎街头故事书插画
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case495.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case495.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+Portrait illustration in a storybook style featuring a young adult woman exploring the streets of Paris. She is laughing happily with her eyes closed, holding a coffee cup in her hand. She has long, wavy hair and wears a beret hat. The scene is set near a Parisian café in a peaceful morning atmosphere. The woman has a sweet, charming smile. Soft, dreamy mood, romantic Paris street vibe, gentle lighting, and highly detailed artwork.
+```
+
+By [@MissDelulu9](https://x.com/MissDelulu9/status/2062376738500526347)
 
 ---
 

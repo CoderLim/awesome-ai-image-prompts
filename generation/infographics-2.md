@@ -6,86 +6,6 @@
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
-<a id="freestylefly-case-73"></a>
-
-## 信息图可视化设计
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case73.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case73.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-{ "type": "complex urban systems atlas infographic", "style": "{argument name=\"color palette\" default=\"dark background with glowing blue, gold, and purple accents\"}, highly detailed technical illustration, 3D isometric cutaway", "header": { "title": "{argument name=\"chinese city name\" default=\"上海\"}城市系统剖面 {argument name=\"english city name\" default=\"SHANGHAI\"} URBAN SYSTEMS ATLAS", "subtitles": [ "地表之上，是城市；地表之下，是秩序 {argument name=\"english subtitle\" default=\"Beneath the skyline lies the machine.\"}", "一座城市如何运转 How a Megacity Actually Works" ] }, "layout": { "top_left": "Compass rose and city map labeled '上海市域位置 SHANGHAI LOCATION'", "top_right": "Data table titled '城市数据 CITY DATA' with 7 rows of statistics", "centerpiece": { "description": "{argument name=\"centerpiece style\" default=\"highly detailed 3D isometric cutaway render\"} of a megacity river landscape", "layers": [ "地面层 SURFACE", "排水层 DRAINAGE LAYER", "电力层 POWER LAYER", "通信层 COMMUNICATION LAYER", "轨道交通层 METRO LAYER", "道路隧道层 ROAD TUNNEL LAYER", "管廊综合层 UTILITY CORRIDOR LAYER" ] }, "side_panels": [ { "id": "01", "title": "城市主骨架 URBAN SKELETON", "elements": "Map with 8 legend items" }, { "id": "02", "title": "排水与地下水网 DRAINAGE + STORMWATER", "elements": "Cross-section diagram '典型排水剖面 DRAINAGE SECTION' with 5 legend items" }, { "id": "03", "title": "电网与能源分配 POWER GRID + ENERGY", "elements": "Cross-section diagram '典型变电站剖面 SUBSTATION SECTION' with 6 legend items" }, { "id": "04", "title": "通信与网络骨干 TELECOM + INTERNET", "elements": "Cross-section diagram '数据中心剖面 DATA CENTER SECTION' with 6 legend items" }, { "id": "05", "title": "地铁与地下交通 METRO + SUBSURFACE MOBILITY", "elements": "Cross-section diagram '人民广场站剖面 PEOPLE'S SQUARE STATION' with 6 legend items" }, { "id": "06", "title": "道路、高架与循环 ROADS + ELEVATED MOBILITY", "elements": "Cross-section diagram '南浦大桥剖面 NANPU BRIDGE SECTION' with 6 legend items" }, { "id": "07", "title": "管廊与地下设施 UTILITY CORRIDORS + PLUMBING", "elements": "Cross-section diagram '综合管廊 UTILITY CORRIDOR' with 8 legend items" }, { "id": "08", "title": "城市流量与系统协同 URBAN FLOWS + COORDINATION", "elements": "Map diagram '城市运行指挥中心 CITY OPERATIONS CENTER' with 6 legend items" } ], "bottom_panels": { "system_logic": { "title": "城市系统协同逻辑 SYSTEM COORDINATION LOGIC", "steps": 4, "labels": ["感知层 SENSING LAYER", "网络层 NETWORK LAYER", "平台层 PLATFORM LAYER", "应用层 APPLICATION LAYER"] }, "city_brain": { "title": "城市大脑 CITY BRAIN", "central_node": 1, "peripheral_nodes": 8 }, "references": { "depth_scale": { "title": "深度与尺度 DEPTH & SCALE REFERENCE", "icons": 5 }, "map_scale": { "title": "比例尺 SCALE", "markers": 4 } } } } }
-```
-
-By [@hx831126](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-73)
-
----
-
-<a id="freestylefly-case-74"></a>
-
-## 关系图谱信息图
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case74.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case74.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Please generate a high-quality vertical "Popular Science Encyclopedia Image" based on {argument name="theme" default="animals"}. This image is not a regular poster or a simple illustration, but a modular popular science infographic that possesses a sense of "illustration book, encyclopedia, information structure, and collectability." The overall style should reference a combination of high-end natural history illustrations, modern encyclopedia pages, lifestyle knowledge cards, and highly shareable social media infographics. Please include in the frame: - A clear and beautiful main visual of the subject - Several magnified details of local characteristics - Multiple rounded modular information sections - Clear title hierarchies and key labels - Concise yet rich encyclopedic content - Visual ratings, key point summaries, or Top 5 modules Content columns should be automatically adapted based on the theme, prioritized from these directions: basic profile, classification information, appearance characteristics, habits/ecology, formation mechanism/structure, growth or use conditions, care or maintenance suggestions, risks and precautions, suitable audience or scenarios, pros and cons comparison, and quick rating cards. Visual requirements: Light-colored clean background, soft color palette, light shadows, exquisite small icons, rounded information boxes, neat layout, high information density but not crowded, good reading experience. The overall result must look like a real science encyclopedia card suitable for publishing, reading, collecting, and serialized production, rather than an advertisement. Please do not make it a regular commercial promotional poster. Highlight the features of "knowledge organization + modular information + illustration-style display."
-```
-
-By [@alanlovelq](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-74)
-
----
-
-<a id="freestylefly-case-75"></a>
-
-## 关系图谱信息图
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case75.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case75.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Please generate a high-quality vertical "Popular Science Encyclopedia Image" based on {argument name="theme" default="animals"}. This image is not a regular poster or a simple illustration, but a modular popular science infographic that possesses a sense of "illustration book, encyclopedia, information structure, and collectability." The overall style should reference a combination of high-end natural history illustrations, modern encyclopedia pages, lifestyle knowledge cards, and highly shareable social media infographics. Please include in the frame: - A clear and beautiful main visual of the subject - Several magnified details of local characteristics - Multiple rounded modular information sections - Clear title hierarchies and key labels - Concise yet rich encyclopedic content - Visual ratings, key point summaries, or Top 5 modules Content columns should be automatically adapted based on the theme, prioritized from these directions: basic profile, classification information, appearance characteristics, habits/ecology, formation mechanism/structure, growth or use conditions, care or maintenance suggestions, risks and precautions, suitable audience or scenarios, pros and cons comparison, and quick rating cards. Visual requirements: Light-colored clean background, soft color palette, light shadows, exquisite small icons, rounded information boxes, neat layout, high information density but not crowded, good reading experience. The overall result must look like a real science encyclopedia card suitable for publishing, reading, collecting, and serialized production, rather than an advertisement. Please do not make it a regular commercial promotional poster. Highlight the features of "knowledge organization + modular information + illustration-style display."
-```
-
-By [@alanlovelq](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-75)
-
----
-
-<a id="freestylefly-case-76"></a>
-
-## 关系图谱信息图
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case76.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case76.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Please generate a high-quality vertical "Popular Science Encyclopedia Image" based on {argument name="theme" default="animals"}. This image is not a regular poster or a simple illustration, but a modular popular science infographic that possesses a sense of "illustration book, encyclopedia, information structure, and collectability." The overall style should reference a combination of high-end natural history illustrations, modern encyclopedia pages, lifestyle knowledge cards, and highly shareable social media infographics. Please include in the frame: - A clear and beautiful main visual of the subject - Several magnified details of local characteristics - Multiple rounded modular information sections - Clear title hierarchies and key labels - Concise yet rich encyclopedic content - Visual ratings, key point summaries, or Top 5 modules Content columns should be automatically adapted based on the theme, prioritized from these directions: basic profile, classification information, appearance characteristics, habits/ecology, formation mechanism/structure, growth or use conditions, care or maintenance suggestions, risks and precautions, suitable audience or scenarios, pros and cons comparison, and quick rating cards. Visual requirements: Light-colored clean background, soft color palette, light shadows, exquisite small icons, rounded information boxes, neat layout, high information density but not crowded, good reading experience. The overall result must look like a real science encyclopedia card suitable for publishing, reading, collecting, and serialized production, rather than an advertisement. Please do not make it a regular commercial promotional poster. Highlight the features of "knowledge organization + modular information + illustration-style display."
-```
-
-By [@alanlovelq](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-76)
-
----
-
-<a id="freestylefly-case-77"></a>
-
-## 关系图谱信息图
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case77.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case77.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Please generate a high-quality vertical "Popular Science Encyclopedia Image" based on {argument name="theme" default="animals"}. This image is not a regular poster or a simple illustration, but a modular popular science infographic that possesses a sense of "illustration book, encyclopedia, information structure, and collectability." The overall style should reference a combination of high-end natural history illustrations, modern encyclopedia pages, lifestyle knowledge cards, and highly shareable social media infographics. Please include in the frame: - A clear and beautiful main visual of the subject - Several magnified details of local characteristics - Multiple rounded modular information sections - Clear title hierarchies and key labels - Concise yet rich encyclopedic content - Visual ratings, key point summaries, or Top 5 modules Content columns should be automatically adapted based on the theme, prioritized from these directions: basic profile, classification information, appearance characteristics, habits/ecology, formation mechanism/structure, growth or use conditions, care or maintenance suggestions, risks and precautions, suitable audience or scenarios, pros and cons comparison, and quick rating cards. Visual requirements: Light-colored clean background, soft color palette, light shadows, exquisite small icons, rounded information boxes, neat layout, high information density but not crowded, good reading experience. The overall result must look like a real science encyclopedia card suitable for publishing, reading, collecting, and serialized production, rather than an advertisement. Please do not make it a regular commercial promotional poster. Highlight the features of "knowledge organization + modular information + illustration-style display."
-```
-
-By [@alanlovelq](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-77)
-
----
-
 <a id="freestylefly-case-82"></a>
 
 ## 信息图可视化设计
@@ -131,38 +51,6 @@ GPT-Image-2 prompt: please automatically generate a top-tier concept poster / in
 ```
 
 By [@A9Quant](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-88)
-
----
-
-<a id="freestylefly-case-89"></a>
-
-## 信息图可视化设计
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case89.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case89.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-GPT-Image-2 prompt: please automatically generate a top-tier concept poster / infographic-style movie poster centered around {argument name="theme" default="ranking of emperors in Chinese history"}. Require the AI to automatically derive and uniformly design the entire following visual system based on this theme, without my extra specification: - Core subject (automatically judge suitability for people, products, architecture, artifacts, symbols, scenes, or abstract imagery) - Bottom supporting structure - Hovering symbols or spiritual symbols above - Scene wrapping elements - Metaphor system - Color hierarchy - Material contrast - Lighting logic - Title, subtitle, and auxiliary copy - Brand sense and high-end expression The final frame must be: a shocking, precise, unified, cinematic, ultra-high detail conceptual key visual poster suitable for high-end printing. [Overall Style] Ultra-realistic 3D commercial CGI rendering, merging cinematic lighting, luxury visual language, futuristic concept design, and epic composition. The image must have a "single main visual core," not messy, not like a collage, and not like a regular e-commerce poster. [Automatic Derivation Rules] AI must automatically decide based on the [theme]: 1. Core visual metaphor 2. Subject type and posture 3. Form of supporting structure 4. Form of suspended elements 5. Scene shell and spatial atmosphere 6. Main, auxiliary, and emphasis colors 7. Material combinations 8. Text temperament and layout style [Composition Rules] - Absolute sense of premium quality - Strong central order, overall unity - Allows for axial symmetry or epic composition near the central axis - Clear visual gravity, forming clear levels from top to bottom - Edge negative space is clean, restrained, and has room to breathe [Visual Quality] - Ultra-high detail - Clear volumetric light - Authentic materials - Natural reflection, refraction, shadows, fog, and depth of field - Overall standard of high-end brand campaign key visual / luxury invitation poster / conceptual editorial poster [Typography System] - Overall 90% visual, 10% text - AI automatically generates the most matching main title and subtitle based on the [theme] - Title must be concise, sharp, and powerful - Text should be as minimal and accurate as possible; do not stack words [Signature Requirement] Naturally add the author signature in the bottom corner: @a9quant
-```
-
-By [@A9Quant](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-89)
-
----
-
-<a id="freestylefly-case-90"></a>
-
-## 信息图可视化设计
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case90.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case90.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-GPT-Image-2 prompt: please automatically generate a top-tier concept poster / infographic-style movie poster centered around {argument name="theme" default="ranking of emperors in Chinese history"}. Require the AI to automatically derive and uniformly design the entire following visual system based on this theme, without my extra specification: - Core subject (automatically judge suitability for people, products, architecture, artifacts, symbols, scenes, or abstract imagery) - Bottom supporting structure - Hovering symbols or spiritual symbols above - Scene wrapping elements - Metaphor system - Color hierarchy - Material contrast - Lighting logic - Title, subtitle, and auxiliary copy - Brand sense and high-end expression The final frame must be: a shocking, precise, unified, cinematic, ultra-high detail conceptual key visual poster suitable for high-end printing. [Overall Style] Ultra-realistic 3D commercial CGI rendering, merging cinematic lighting, luxury visual language, futuristic concept design, and epic composition. The image must have a "single main visual core," not messy, not like a collage, and not like a regular e-commerce poster. [Automatic Derivation Rules] AI must automatically decide based on the [theme]: 1. Core visual metaphor 2. Subject type and posture 3. Form of supporting structure 4. Form of suspended elements 5. Scene shell and spatial atmosphere 6. Main, auxiliary, and emphasis colors 7. Material combinations 8. Text temperament and layout style [Composition Rules] - Absolute sense of premium quality - Strong central order, overall unity - Allows for axial symmetry or epic composition near the central axis - Clear visual gravity, forming clear levels from top to bottom - Edge negative space is clean, restrained, and has room to breathe [Visual Quality] - Ultra-high detail - Clear volumetric light - Authentic materials - Natural reflection, refraction, shadows, fog, and depth of field - Overall standard of high-end brand campaign key visual / luxury invitation poster / conceptual editorial poster [Typography System] - Overall 90% visual, 10% text - AI automatically generates the most matching main title and subtitle based on the [theme] - Title must be concise, sharp, and powerful - Text should be as minimal and accurate as possible; do not stack words [Signature Requirement] Naturally add the author signature in the bottom corner: @a9quant
-```
-
-By [@A9Quant](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-90)
 
 ---
 
@@ -323,6 +211,118 @@ By [@GeekCatX](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa
 ```
 
 By [@MrLarus](https://x.com/MrLarus/status/2046231542817497392)
+
+---
+
+<a id="freestylefly-case-241"></a>
+
+## 关键人物关系图谱
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case241.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case241.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+[中文] 请你生成 《XXX》 的关键人物关系图。 [English] Please generate a key character relationship diagram for "XXX".
+```
+
+By [@yihui\_indie](https://x.com/yihui_indie/status/2045179926270361890)
+
+---
+
+<a id="freestylefly-case-248"></a>
+
+## 景德镇青花瓷全景解说图谱
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case248.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case248.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+[中文] 为我生成景德镇青花瓷的详细解说图，配上详细的中文知识解析 [English] Generate a detailed explanatory diagram of Jingdezhen blue and white porcelain, accompanied by detailed Chinese knowledge analysis.
+```
+
+By [@joshesye](https://x.com/joshesye/status/2045764695827562686)
+
+---
+
+<a id="freestylefly-case-296"></a>
+
+## 博物馆级中文拆解信息图鉴
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case296.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case296.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+[中文] 请根据【主题】自动生成一张“博物馆图鉴式中文拆解信息图”。 要求整张图兼具真实写实主视觉、结构拆解、中文标注、材质说明、纹样寓意、色彩含义和核心特征总结。你需要根据【主题】自动判断最合适的主体对象、服饰体系、器物结构、时代风格、关键部件、材质工艺、颜色方案与版式结构，用户无需再提供其他信息。 整体风格应为：国家博物馆展板、历史服饰图鉴、文博专题信息图，而不是普通海报、古风写真、电商详情页或动漫插画。背景采用米白、绢纸白、浅茶色等纸张质感，整体高级、克制、专业、可收藏。 版式固定为： - 顶部：中文主标题 + 副标题 + 导语 - 左侧：结构拆解区，中文引线标注关键部件，并配局部特写 - 右上：材质 / 工艺 / 质感区，展示真实纹理小样并附说明 - 右中：纹样 / 色彩 / 寓意区，展示主色板、纹样样本和文化解释 - 底部：穿着顺序 / 构成流程图 + 核心特征总结 若主题适合人物展示，则以真实人物全身站姿为中央主体；若更适合器物或单体结构，则改为中心主体拆解图，但整体仍保持完整中文信息图形式。所有文字必须为简体中文，清晰、规整、可读，不要乱码、错字、英文或拼音。重点突出真实结构、材质差异、文化说明与图鉴气质。 避免：海报感、影楼感、电商感、动漫感、cosplay感、乱标注、错结构、糊字、假材质、过度装饰。 [English] Please automatically generate a "museum catalog-style Chinese disassembly infographic" based on the [Subject]. The entire image is required to combine a realistic main visual, structural disassembly, Chinese annotations, material descriptions, pattern meanings, color meanings, and core feature summaries. You need to automatically determine the most appropriate main subject, clothing system, artifact structure, era style, key components, material craftsmanship, color scheme, and layout structure based on the [Subject], and the user does not need to provide any other information. The overall style should be: national museum exhibition boards, historical clothing catalogs, and cultural/museum thematic infographics, rather than ordinary posters, ancient-style portraits, e-commerce detail pages, or anime illustrations. The background uses paper textures such as off-white, silk white, and light tea color, making the overall look premium, restrained, professional, and collectible. The layout is fixed as: - Top: Chinese main title + subtitle + introduction - Left: Structural disassembly area, with Chinese lead lines annotating key components, accompanied by close-up details - Upper right: Material / craftsmanship / texture area, displaying real texture samples with descriptions - Middle right: Pattern / color / meaning area, displaying the main color palette, pattern samples, and cultural explanations - Bottom: Dressing order / composition flowchart + core feature summary If the subject is suitable for character display, use a full-body standing posture of a real person as the central subject; if it is more suitable for artifacts or single structures, change it to a central subject disassembly diagram, but the overall form remains a complete Chinese infographic. All text must be in Simplified Chinese, clear, neat, and readable, without garbled characters, typos, English, or pinyin. The focus is on highlighting real structures, material differences, cultural explanations, and a catalog atmosphere. Avoid: poster feel, studio portrait feel, e-commerce feel, anime feel, cosplay feel, random annotations, incorrect structures, blurry text, fake materials, excessive decoration.
+```
+
+By [@MrLarus](https://x.com/MrLarus/status/2045504669401653414)
+
+---
+
+<a id="freestylefly-case-310"></a>
+
+## 零食品牌技术分解图
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case310.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case310.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+[中文] 创建一个 [SNACK] 的品牌技术信息图，结合产品的真实照片或照片级真实渲染，并将技术注释覆盖层直接置于其上。在纯白摄影棚背景上使用带有策略性 [BRAND COLOR] 点缀的黑色墨水风格线条画（建筑草图外观），包括： • 关键组件标签 • 显示结构、分层或内部设计的内部截面图 • 测量数据、尺寸和规格 • 带有成分和数量的材料标注 • 指示主要功能和结构完整性的箭头 • 显示关键机械或设计元素的简单示意图或剖面图 • 可持续性标注 标题位置：位于手绘技术注释框内，带有强调色边框，粗体字显示产品名称，置于上角。 风格与布局规则： • 真实产品保持清晰可见 • 注释具有素描感、技术感和建筑感 • 强调色用于高光（占线条工作的 20-30%），黑色用于主要技术线条（70-80%） • 构图整洁，负空间平衡 • 具有教育意义、食品工程氛围和高端品牌感 • 在角落包含微妙的品牌标志 视觉风格：极简技术插画美学，黑色线条在真实图像上带有点缀，精确但略带手绘感。 调色板：白色背景，黑色注释线/文本，[BRAND COLOR] 仅用于点缀和关键标注。 输出：1080×1080，超清晰，社交媒体动态优化，无水印。 [English] Create a branded technical infographic of a [SNACK], combining a realistic photograph or photoreal render of the product with technical annotation overlays placed directly on top. Use black ink–style line drawings with strategic [BRAND COLOR] accents (architectural sketch look) on a pure white studio background, including: • Key component labels • Internal cross-section showing structure, layering, or internal design • Measurements, dimensions, and specifications • Material callouts with composition and quantities • Arrows indicating function for primary features and structural integrity • Simple schematic or sectional diagram showing key mechanical or design elements • Sustainability callouts Title placement: Inside a hand-drawn technical annotation box with accent border reading the product name in bold font, positioned in upper corner. Style & layout rules: • The realistic product remains clearly visible • Annotations feel sketched, technical, and architectural • Accents used for highlight (20-30% of linework), black for primary technical lines (70-80%) • Clean composition with balanced negative space • Educational, food-engineering vibe with premium branding • Include subtle brand logo mark in corner Visual style: Minimal technical illustration aesthetic, black linework with accents over realistic imagery, precise but slightly hand-drawn feel. Color palette: White background, black annotation lines/text, [BRAND COLOR] for accents and key callouts only. Output: 1080×1080, ultra-crisp, social-feed optimized, no watermark.​​​​​​​​​​​​​​​​
+```
+
+By [@TechieBySA](https://x.com/TechieBySA/status/2031795709243019280)
+
+---
+
+<a id="freestylefly-case-333"></a>
+
+## AI 眼镜爆炸拆解图
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case333.png"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case333.png" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+生成一张AI眼镜的爆炸视图，包含每个组件的名称以及这款产品的几大核心卖点。
+```
+
+By [苍何原创实测（公众号文章《我逆向了 329 条 GPT-Image2 提示词模板，全部开源！》）](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-333)
+
+---
+
+<a id="freestylefly-case-339"></a>
+
+## Apple 风格自然科普海报
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case339.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case339.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+你是一个高端自然科普海报生成系统，目标是为稀有动物、昆虫、爬行动物、哺乳动物或其他小众生物生成 Apple keynote 风格的高级科普视觉海报。 整体视觉方向： 生成一张 9:16 竖版高级科普海报，画面采用极简、纯白、干净、现代、Apple 式产品发布海报语言。背景应为纯白或极浅灰白渐变，保持大量留白。整体设计应具备高级感、克制感、视觉冲击力和科学展示感。 核心设计原则： 1. 主体动物必须被极度放大，成为画面最强视觉中心。 2. 主体应具有强烈立体感、真实质感、高清细节和柔和棚拍光影。 3. 海报信息要少而准，避免拥挤。 4. 不使用传统信息图的卡片、圆角框、复杂底纹、淡黄色纸张质感或装饰性边框。 5. 底部信息区只使用四列极简 icon + 标题 + 短说明，通过细竖线分隔。 6. 文字排版要像高端发布会视觉，标题巨大，副标题克制，正文小而清晰。 7. 风格关键词：Apple-inspired, premium editorial, pure white background, hero subject, clean typography, minimal infographic, high-end science poster. 画面结构： 顶部左侧为标题区： 中文大标题：{中文物种名} 中文副标题：{一句有吸引力的物种定位} 细短横线 英文名：{英文物种名} 分布信息：主要分布：{分布区域} 中部与下中部为主体视觉： 生成一个超高清、真实、具有强烈立体感的 {中文物种名}。 主体应占据画面 50% 到 70% 的视觉面积。 主体姿态应具有展示性、力量感或识别度。 保持白色背景，不添加复杂自然环境。 可以保留少量必要承托物，例如树枝、岩石、雪地、沙土或木皮，但必须简洁。 主体要有真实阴影，使其像高级产品摄影一样立在画面中。 底部信息区： 用四个极简信息栏目展示科普信息。 每个栏目包含： 一个细线 icon 一个彩色小标题 一段 1 到 3 行短文字 栏目之间用极细浅灰竖线分隔。 不使用卡片框，不使用圆角背景，不使用大面积色块。 四个信息栏目： 栏目 1： 标题：{重点特征1标题} 说明：{重点特征1短说明} 栏目 2： 标题：{重点特征2标题} 说明：{重点特征2短说明} 栏目 3： 标题：{重点特征3标题} 说明：{重点特征3短说明} 栏目 4： 标题：{重点特征4标题} 说明：{重点特征4短说明} 底部总结句： 在最底部居中放置一句灰色小字总结： {一句高级、克制、有记忆点的科普总结} 字体与排版： 中文标题使用大号黑色、高级、稳重、有力量感的字体。 副标题使用灰色，中等字号，字距略宽。 英文名使用小号灰色，简洁现代。 正文使用清晰现代中文字体，保持可读。 所有文字必须留有足够呼吸感。 色彩规范： 背景：纯白、极浅灰、轻微柔光渐变。 主标题：黑色或深石墨色。 副标题与正文：中性灰。 底部四个信息标题可使用低饱和强调色： 暖棕、冷蓝、松石绿、紫色、橙色。 颜色只用于 icon 和小标题，不要大面积铺色。 图像质量： 2K 高清质感，细节清晰，主体锐利，光影真实。 主体纹理必须可信，例如毛发、鳞片、甲壳、皮肤褶皱、羽毛或斑纹。 避免变形、错误肢体、错误解剖结构、模糊主体、低质贴图、塑料感、卡通感。 禁止项： 不要使用淡黄色旧纸背景。 不要使用复杂信息图网格。 不要使用圆角卡片。 不要使用厚边框。 不要使用大面积装饰图形。 不要添加无关 logo。 不要添加多余小字。 不要让主体太小。 不要让文字压住主体。 不要让底部信息区过度拥挤。 不要出现儿童科普风、卡通风、低端展板风。 最终输出： 生成一张 9:16 竖版、高级、干净、强视觉冲击的 Apple 风自然科普海报。
+```
+
+By [@berryxia](https://x.com/berryxia/status/2048251413147644100)
+
+---
+
+<a id="freestylefly-case-341"></a>
+
+## AP Calculus 学习表信息图
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case341.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case341.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+Please create a mathematical visualization infographic about "[math concept / topic]." The goal is to help the viewer intuitively understand what it is, why it works, its geometric or structural intuition, and how it behaves in different contexts. The visual should feel like a high-quality math lecture handout combined with a hand-drawn educational poster. It should be elegant, clear, and information-rich, but not cluttered. Visual style: either portrait or landscape is fine. Use a clean, light paper-like background, with a deep blue title and black or dark gray lines for the main content. Add a small number of refined accent colors such as blue, teal, gold, and red. Incorporate rounded-corner cards, thin borders, numbered labels, hand-drawn arrows, zoom-in callout boxes, and a summary section. The overall design should be aesthetically pleasing, balanced, and academic, allowing the viewer to grasp the structure of the concept and why it works at a glance.
+```
+
+By [@hqmank](https://x.com/hqmank/status/2048587150544028084)
 
 ---
 

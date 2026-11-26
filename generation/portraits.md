@@ -294,35 +294,35 @@ By [@john\_my07](https://x.com/john_my07/status/2107801411711123546)
 
 ---
 
-<a id="evolink-portraits-case-8"></a>
+<a id="evolink-portraits-case-10"></a>
 
-## Sumo Salt Throw Documentary Photo
+## Japanese Night Street Phone Portrait
 
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2107592681304010752.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2107592681304010752.jpg" width="480" alt="Source example"></a>
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2107464646836027392.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2107464646836027392.jpg" width="480" alt="Source example"></a>
 
 **Prompt**
 
 ```text
-a sumo wrestler throwing a big handful of salt high into the air before his bout, the salt cloud glowing in the lights, his face calm and focused, inside a sumo tournament arena in Tokyo, raised clay ring with straw bales under a suspended shrine-style roof, hard overhead lights, dark crowd behind, documentary photograph, 35mm color film, grain
+Candid cinematic iPhone night street portrait of a young woman in Japan, long wavy dark-brown hair with a thin side braid, natural makeup and a subtle smile. She wears a fitted burgundy sleeveless tank top, light-wash loose straight-leg jeans, and a black leather shoulder bag. Quiet Japanese city street with tiled walls, crosswalks, utility poles, glowing signs, apartment buildings, and soft streetlights. Warm ambient lighting mixed with cool city lights, natural skin texture and realistic pores, shallow depth of field, soft bokeh, realistic shadows, slight digital grain, authentic low-light smartphone photography, documentary lifestyle aesthetic, spontaneous candid feeling, natural proportions, realistic hair strands, 35mm equivalent look, ultra-realistic, vertical 9:16.
 ```
 
-By [@techhalla](https://x.com/techhalla/status/2107599021976285395)
+By [@MissDelulu9](https://x.com/MissDelulu9/status/2107464677978726696)
 
 ---
 
-<a id="evolink-portraits-case-9"></a>
+<a id="evolink-portraits-case-11"></a>
 
-## Manhattan Period Costume Film Portrait
+## Natural Country Ranch Portrait
 
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2107592641042862080.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2107592641042862080.jpg" width="480" alt="Source example"></a>
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2107384576226271232.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2107384576226271232.jpg" width="480" alt="Source example"></a>
 
 **Prompt**
 
 ```text
-a woman wearing an extravagant eighteenth-century inspired silk gown and a tall powdered wig standing still in front of an ornate cast-iron facade in old Manhattan, full-length, 1970s color photograph, soft daylight, grain, slightly faded colors
+Create a highly realistic autumn countryside photograph featuring the girl from the attached reference image. Preserve her identity exactly, including her facial structure, distinctive features, natural proportions, hairstyle, and overall appearance. She is standing beside a weathered wooden fence in an open rural pasture, casually resting one hand on the fence while keeping one leg slightly bent in a relaxed pose. In her other hand, she carries a small black leather handbag. Her outfit consists of a warm brown jacket layered over a black knitted sweater and a visible white shirt underneath, paired with a short plaid skirt, clean white socks, and tall black leather boots. Keep the clothing realistic with natural folds, stitching, material texture, and subtle signs of everyday wear. Behind her is a wide autumn meadow with several black cows grazing naturally in the distance. Surround the pasture with a mixture of evergreen conifers and deciduous trees covered in rich yellow, amber, and muted orange foliage. An overcast sky provides soft, diffused daylight across the entire scene. Aim for the look of an authentic professional outdoor photograph rather than an AI-generated image. Show realistic skin pores, fine facial details, individual strands of hair, natural imperfections, detailed fabric fibers, aged wood grain, grass texture, and believable environmental details. Use physically accurate lighting, shadows, reflections, perspective, and depth of field with natural optical characteristics. Muted seasonal colors, subtle contrast, realistic exposure, authentic photographic depth, and a slightly editorial countryside aesthetic. Absolutely no artificial skin smoothing, waxy or plastic appearance, excessive sharpening, CGI look, 3D rendering, painterly effects, or blurry/mushy details.
 ```
 
-By [@techhalla](https://x.com/techhalla/status/2107599021976285395)
+By [@j\_smeaton99](https://x.com/j_smeaton99/status/2107384596837158947)
 
 ---
 

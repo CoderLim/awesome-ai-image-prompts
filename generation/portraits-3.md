@@ -6,38 +6,6 @@
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
-<a id="evolink-portraits-case-32"></a>
-
-## Golden Hour Old Room Portrait
-
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2103456241838415872.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2103456241838415872.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Create an ultra-realistic cinematic golden-hour portrait of a young woman sitting alone at a rustic wooden table inside an old, weathered room. She has naturally beautiful features, warm medium skin, long dark slightly messy hair falling loosely around her shoulders, with soft strands framing her face. She wears an oversized black/dark charcoal knit sweater. Her pose is relaxed and introspective: one elbow rests on the table, her hand gently supports her cheek, and she gazes toward the side with a quiet, dreamy, slightly melancholic expression. Warm late-afternoon sunlight streams through an unseen window, creating soft golden illumination and subtle rectangular window shadows across the aged, textured plaster wall behind her. The sunlight gently highlights her cheekbones, nose, lips, and loose strands of hair while the rest of the room remains deep and atmospheric. The environment is an old vintage interior with cracked plaster walls, faded artwork and small photographs pinned casually to the wall, an aged wooden doorframe, worn wooden furniture, a stack of old books on the table, and a simple vintage ceramic coffee cup in the foreground. Composition: intimate medium portrait, woman positioned slightly off-center, camera at eye level, natural candid photography, shallow depth of field, softly blurred background and foreground. Strong cinematic light and shadow, warm amber and brown color palette, subtle underexposure, realistic skin pores and texture, individual hair strands, natural facial imperfections. Shot on a 35mm film camera, vintage analog photography, soft Kodak film grain, cinematic color grading, natural lens imperfections, gentle bloom, realistic volumetric sunlight, atmospheric shadows, high dynamic range, editorial photography, photorealistic, ultra-detailed, 8K quality, vertical 4:5 composition. No text, no watermark, no logo, no artificial-looking skin, no excessive makeup, no CGI appearance.
-```
-
-By [@Alina\_with\_Ai](https://x.com/Alina_with_Ai/status/2103456509745340476)
-
----
-
-<a id="evolink-portraits-case-33"></a>
-
-## Quiet Street Corner Fashion Portrait
-
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2103326475567169536.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2103326475567169536.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Create a photorealistic cinematic street portrait of a young South Asian woman sitting casually on a quiet urban street. She has dark brown hair tied in a neat high bun, natural makeup, soft brown eyes, a gentle confident smile, and delicate hoop earrings with layered necklaces. She wears a white fitted graphic T-shirt layered under a stylish burgundy pinafore-style wide-leg outfit, paired with clean white chunky sneakers. She sits relaxed on the pavement with one knee raised and one leg extended toward the camera, creating a dramatic foreground perspective. Behind her is a beautiful hand-painted mural of a woman’s face surrounded by large vintage roses, green leaves, and climbing ivy on an aged cream-colored wall. Natural daylight, realistic skin texture, shallow depth of field, cinematic composition, detailed fabric, authentic street atmosphere, slightly low camera angle, ultra-realistic photography, 4K, professional fashion editorial look. Negative prompt: cartoon, anime, illustration, 3D render, plastic skin, blurry face, distorted anatomy, extra fingers, malformed hands, duplicate person, bad shoes, unnatural pose, oversaturated colors, low quality.
-```
-
-By [@AiWithTariq](https://x.com/AiWithTariq/status/2103326654290698454)
-
----
-
 <a id="evolink-portraits-case-34"></a>
 
 ## Neon Letters and Leather Chair Portrait
@@ -323,6 +291,38 @@ By [@KrishnaBio1](https://x.com/KrishnaBio1/status/2102550128985002216)
 ```
 
 By [@sjbbxhz](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-21)
+
+---
+
+<a id="freestylefly-case-24"></a>
+
+## 漫画分镜叙事设计
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case24.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case24.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+Genshin Impact {argument name="character" default="Raiden Shogun"} cosplay selfies at the {argument name="event" default="Shanghai Comic Con"}
+```
+
+By [@wewe50770964683](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-24)
+
+---
+
+<a id="freestylefly-case-28"></a>
+
+## 写实摄影风格创作
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case28.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case28.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+{ "type": "2x2 portrait grid", "subject": "{argument name=\"subject description\" default=\"young adult East Asian male with short black hair and a slight smile\"}", "style": "photorealistic, high-resolution, professional lighting, consistent facial identity across all panels", "layout": { "format": "2x2 grid", "panel_count": 4, "panels": [ { "position": "top-left", "description": "{argument name=\"profession 1\" default=\"Corporate professional wearing a dark navy suit, white shirt, and blue tie against a gray textured background\"}" }, { "position": "top-right", "description": "{argument name=\"profession 2\" default=\"Casual attire wearing a dark blue crew neck t-shirt against a blurred outdoor park background\"}" }, { "position": "bottom-left", "description": "{argument name=\"profession 3\" default=\"Construction worker wearing a yellow hard hat, navy blue work shirt, and bright orange high-visibility vest against a blurred warehouse background\"}" }, { "position": "bottom-right", "description": "{argument name=\"profession 4\" default=\"Medical professional wearing a white lab coat over a light blue collared shirt against a blurred laboratory background\"}" } ] } }
+```
+
+By [@frankfu1688](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-28)
 
 ---
 

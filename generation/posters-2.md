@@ -1,8 +1,8 @@
 # posters
 
-[← Home](../README.md) · Page 2 / 8
+[← Home](../README.md) · Page 2 / 7
 
-[1](posters.md) · **2** · [3](posters-3.md) · [4](posters-4.md) · [5](posters-5.md) · [6](posters-6.md) · [7](posters-7.md) · [8](posters-8.md)
+[1](posters.md) · **2** · [3](posters-3.md) · [4](posters-4.md) · [5](posters-5.md) · [6](posters-6.md) · [7](posters-7.md)
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
@@ -326,6 +326,6 @@ By [小红书号2202716350](https://github.com/freestylefly/awesome-gpt-image-2/
 
 ---
 
-[1](posters.md) · **2** · [3](posters-3.md) · [4](posters-4.md) · [5](posters-5.md) · [6](posters-6.md) · [7](posters-7.md) · [8](posters-8.md)
+[1](posters.md) · **2** · [3](posters-3.md) · [4](posters-4.md) · [5](posters-5.md) · [6](posters-6.md) · [7](posters-7.md)
 
 [← Home](../README.md)

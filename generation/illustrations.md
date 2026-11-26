@@ -150,38 +150,6 @@ By [@SSSS\_CRYPTOMAN](https://x.com/SSSS_CRYPTOMAN/status/2107617855906975865)
 
 ---
 
-<a id="evolink-illustration-case-135"></a>
-
-## School Rooftop After the Rain
-
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2107597839127789568.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2107597839127789568.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Hand-painted anime film background art of a school rooftop at dusk after rain. Wire fence in the foreground with water drops, a water tower, a lone schoolgirl in a sailor uniform seen from behind leaning on the railing, a sprawling city below with lights turning on, huge towering cumulus clouds lit pink and orange, a thin crescent moon, power lines crossing the sky. Painterly gouache textures, saturated cinematic colour, wide establishing shot, no text.
-```
-
-By [@techhalla](https://x.com/techhalla/status/2107599049348309273)
-
----
-
-<a id="evolink-illustration-case-136"></a>
-
-## Colorful Salt Flats Aerial View
-
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2107597798644326400.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2107597798644326400.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-colorful salt evaporation ponds in pink, turquoise and ochre rectangles divided by thin white paths, no people, perfectly top-down aerial photograph shot from directly overhead, flattened graphic composition, repeating patterns, people as tiny pattern elements, crisp large-format detail, even bright daylight, bold flat color fields
-```
-
-By [@techhalla](https://x.com/techhalla/status/2107599049348309273)
-
----
-
 <a id="evolink-illustration-case-137"></a>
 
 ## Little Fox in a Raincoat
@@ -198,22 +166,6 @@ By [@techhalla](https://x.com/techhalla/status/2107599049348309273)
 
 ---
 
-<a id="evolink-illustration-case-138"></a>
-
-## Spanish Red Kitchen Film Still
-
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2107598269324947456.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2107598269324947456.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-a small kitchen with red and white patterned tiles, a glass jug of red gazpacho, a bowl of ripe tomatoes and a red pepper on the counter, a woman in an apron chopping with her back to us, Spanish melodrama film still, saturated red dominating the frame against blue-grey, ash green and apricot, a carefully designed set where every object is chosen, soft warm key light, clean 35mm film look, glossy pop colors
-```
-
-By [@techhalla](https://x.com/techhalla/status/2107599049348309273)
-
----
-
 <a id="evolink-illustration-case-139"></a>
 
 ## Memphis Design Still Life
@@ -224,22 +176,6 @@ By [@techhalla](https://x.com/techhalla/status/2107599049348309273)
 
 ```text
 a still life of playful objects on a terrazzo table: a ceramic teapot with geometric handles, a cone lamp, a fruit bowl on a cylinder base, a striped glass vase, 1980s Memphis design interior, sculptural furniture in colorful plastic laminate and terrazzo, bold primary and pastel colors, black and white squiggle and grid patterns, asymmetric geometric shapes, flat bright light, crisp 1980s color magazine photograph, medium format
-```
-
-By [@techhalla](https://x.com/techhalla/status/2107599021976285395)
-
----
-
-<a id="evolink-illustration-case-140"></a>
-
-## Vintage Sports Car on Tokyo Expressway
-
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2107593163758047233.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2107593163758047233.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-a white 1980s Japanese sports coupe with pop-up headlights driving on an elevated Tokyo expressway at night, long streaks of red taillights, skyscraper lights, shot from a following car, slight motion blur, 1980s Japanese photograph shot on Fujicolor 35mm film, soft pastel palette of pink, turquoise and sunset orange, gentle grain, slight halation around lights
 ```
 
 By [@techhalla](https://x.com/techhalla/status/2107599021976285395)
@@ -323,6 +259,70 @@ By [@DeepBlueX0](https://x.com/DeepBlueX0/status/2106765651952140743)
 ```
 
 By [@hey\_am\_cherry](https://x.com/hey_am_cherry/status/2106245541508382774)
+
+---
+
+<a id="evolink-illustration-case-153"></a>
+
+## Raised-Arms Watercolor Portrait
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2103714767756259328.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2103714767756259328.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+Use the uploaded image ONLY as the FACE REFERENCE. Preserve the exact facial identity from the reference image, including facial structure, eyes, eyebrows, nose, lips, jawline, cheekbones, skin tone, hairline, and overall recognizable appearance. POSE: A young woman leaning slightly forward toward the camera, her upper body angled naturally, both arms raised above and around her head, shoulders lifted, head slightly tilted toward the camera, face turned directly toward the viewer, eyes looking into the camera. One hand is positioned behind the head while the other arm is raised beside the head. Maintain a relaxed yet elegant fashion pose with natural body proportions and realistic anatomy. CAMERA: Close-up portrait, slightly low camera angle, intimate framing, upper body filling most of the frame, cinematic perspective. STYLE: Elegant hand-painted watercolor and fine ink illustration, expressive brush strokes, soft watercolor washes, textured cold-pressed watercolor paper, delicate ink outlines, subtle paint bleeding, warm Mediterranean travel aesthetic, sophisticated editorial fashion illustration, highly detailed face, natural skin shading, artistic handmade texture. IMPORTANT: The uploaded image is ONLY for facial identity. Do not copy its pose, clothing, background, composition, or body position. Create a completely new composition using the pose described above. NEGATIVE PROMPT: different face, altered facial identity, face distortion, face swap artifacts, different pose, stiff posture, unnatural anatomy, extra fingers, missing fingers, deformed hands, 3D render, anime, cartoon, photorealistic photography.
+```
+
+By [@Arina\_hoqe](https://x.com/Arina_hoqe/status/2103714798324125892)
+
+---
+
+<a id="evolink-illustration-case-154"></a>
+
+## Person and 3D Character Composite
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2103672336205643777.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2103672336205643777.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+Create a high-resolution vertical 3D CGI character composition on a clean light gray/white studio background. In the center, place a beautiful young adult woman standing full-body, wearing an all-black oversized sweatshirt, black cargo pants, white chunky sneakers, and a small black crossbody sling bag. She has long, straight-to-wavy brown hair and a friendly natural smile. Her pose is relaxed with both hands inside her pants pockets. Around the central woman, place six cute chibi 3D cartoon versions of the same woman, matching her hairstyle, black outfit, white sneakers, and crossbody bag. Each chibi character should have a different playful pose: - top left giving a thumbs-up - top right waving - middle left sitting/crouching with one hand on her cheek - middle right crouching and making a peace sign - bottom left pointing toward the center - bottom right sitting cross-legged with arms crossed Add floating social-media-style 3D icons around the characters: blue thumbs-up, pink/purple heart, blue chat bubble, blue share symbol, and blue paper-plane icon. Use polished Pixar-like 3D cartoon aesthetics, expressive large eyes on the chibi characters, realistic hair and clothing textures, soft studio lighting, subtle floor shadows, clean composition, balanced spacing, sharp details, professional character-poster look. No text, no extra objects, no props in the woman's hands. Aspect ratio 4:5.
+```
+
+By [@Arzoo12sh](https://x.com/Arzoo12sh/status/2103672438798360854)
+
+---
+
+<a id="evolink-illustration-case-156"></a>
+
+## Charcoal Background and Color Figure
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2102597019475091456.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2102597019475091456.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+Create a layered composite portrait of the SAME FEMALE PERSON from the uploaded face reference image. CONCEPT: A massive, highly detailed charcoal/pencil sketch portrait fills the background like a hand-drawn wall mural, while a sharp full-color photorealistic seated portrait of the same woman appears in the foreground on a dark reflective floor. BACKGROUND SKETCH PORTRAIT: Large detailed black-and-white pencil and charcoal sketch of the same woman, head turned slightly to the side. Preserve her exact hairstyle and hair texture, facial features, eyebrows, eyes, nose, lips, jawline and natural facial proportions. The sketch should have visible pencil hatch strokes, charcoal shading, fine facial linework and realistic hand-drawn texture. Add rough torn-paper edges, ink-splatter marks and charcoal dust surrounding the sketch, blending naturally into a warm sepia-grey textured wall. FOREGROUND FEMALE SUBJECT: The same woman is seated casually on the floor. One leg is bent with the knee raised and one forearm resting naturally on the knee; the other leg extends outward to the side. Her torso is slightly turned, head tilted while looking off to the side, with a calm, thoughtful and natural expression. IDENTITY LOCK — HIGHEST PRIORITY: Use ONLY the uploaded female face reference image for facial identity and facial structure in BOTH the background sketch and the foreground photorealistic woman. The foreground woman and background sketch must represent EXACTLY the same real person. Preserve the exact: - Face shape - Jawline and jaw width - Cheek structure - Forehead shape - Exact hairline - Hairstyle and hair texture - Eyebrow shape - Eye shape, size and spacing - Nose structure - Lip shape and proportions - Natural facial features - Skin tone - Skin texture - Natural facial imperfections - Overall feminine facial proportions ZERO identity change. Do NOT beautify or alter the face. Do NOT change her age or facial structure. Do NOT feminize or masculinize the face. Do NOT smooth away natural skin texture. Do NOT make her look like a celebrity or model. Do NOT use a generic female face. Do NOT introduce facial morphing. Do NOT change her hairstyle or hairline unless required by the reference. Do NOT create a different person. The uploaded reference image is the ONLY source of facial identity. BODY: Natural feminine body proportions, realistic physique, natural skin tone and relaxed seated posture. OUTFIT: Black hooded sweatshirt with visible drawstrings, light grey jogger sweatpants and clean white-and-grey sneakers. ENVIRONMENT: Warm sepia-grey textured wall covered by the giant detailed pencil/charcoal portrait. Rough ink-splatter, charcoal dust and expressive pencil marks spread naturally around the sketch. Dark polished reflective floor beneath the seated woman, creating a subtle soft mirror reflection. COMPOSITION: Vertical editorial poster composition. The large background sketch dominates the frame while the full-color seated woman is clearly separated in the foreground. Strong visual depth between the hand-drawn portrait and realistic subject. Balanced negative space. Premium fashion-editorial composition. LIGHTING: Soft, even studio lighting from the front. Minimal harsh shadows. Warm neutral illumination. Natural skin highlights. Subtle controlled reflections on the dark floor. COLOR GRADING: Background: sepia-grey monochrome charcoal/pencil aesthetic. Foreground: natural full-color female subject with realistic warm skin tones. Strong but elegant contrast between the monochrome sketch and realistic woman. Clean high-contrast editorial poster color grading. CAMERA / QUALITY: Sony A7R IV 50mm lens f/1.8 Foreground subject tack sharp. Extremely detailed skin texture, individual hair strands and clothing fabric. Background pencil strokes, charcoal shading and ink-splatter texture highly detailed. Ultra-photorealistic. Premium editorial photography. Natural depth of field. Realistic materials and reflections. 4K-level detail. Zero AI-looking artifacts. NEGATIVE PROMPT: No identity change, no different face, no generic female face, no celebrity resemblance, no face-swap artifacts, no facial distortion, no asymmetrical eyes, no extra fingers, no extra limbs, no malformed hands, no duplicated body parts, no plastic skin, no excessive skin smoothing, no beauty filter, no cartoon, no anime, no unrealistic body proportions, no blurry face, no low resolution, no watermark, no text, no logo. OUTPUT: Aspect Ratio: 3:4 Photorealistic female portrait Identity preservation is the absolute highest priority.
+```
+
+By [@Kubra\_286](https://x.com/Kubra_286/status/2102597096545071243)
+
+---
+
+<a id="evolink-illustration-case-158"></a>
+
+## Two-Person Watercolor Fashion Illustration
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2102244364030488576.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2102244364030488576.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+Create a cohesive editorial watercolor portrait featuring the same young woman and young man from the provided reference images together in one elegant composition. The woman has long dark brown wavy hair, soft natural facial features and a gentle confident smile. The man has thick, naturally wavy dark brown hair, defined facial features and a calm subtle expression. Preserve their facial identity and recognizable features accurately from the reference images. Dress both subjects in coordinated olive-green outfits with natural fabric texture. The woman wears an olive-green rolled-sleeve button-up shirt over a simple white inner top, while the man wears an olive-green rolled-sleeve button-up shirt over a white T-shirt. Both wear simple dark smartwatches. Place them together in a cozy modern creative workspace, seated naturally near the same wooden desk, with a silver laptop, notebooks, books, pens, a ceramic mug, indoor plants, wooden shelves, framed travel photographs and a warm glowing table lamp in the background. Use a sophisticated warm beige, cream, olive and muted brown color palette. Surround the composition with artistic watercolor brush strokes, subtle ink splashes and textured handmade paper edges. Keep the subjects photorealistic while blending the environment with delicate watercolor and painterly textures. Natural warm cinematic lighting, soft shadows, shallow depth of field, realistic skin texture, detailed hair strands, authentic clothing folds, harmonious composition, premium editorial photography mixed with watercolor illustration, elegant and modern aesthetic, high detail, vertical portrait composition. IMPORTANT: No names, no logos, no captions, no typography, no watermark, no duplicated people, no distorted faces, no extra fingers or limbs. Both subjects should look naturally integrated into the same scene, not pasted together.
+```
+
+By [@mehwishkiran07](https://x.com/mehwishkiran07/status/2102244437032354046)
 
 ---
 

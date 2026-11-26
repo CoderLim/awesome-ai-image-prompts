@@ -1,106 +1,10 @@
 # posters
 
-[← Home](../README.md) · Page 5 / 8
+[← Home](../README.md) · Page 5 / 7
 
-[1](posters.md) · [2](posters-2.md) · [3](posters-3.md) · [4](posters-4.md) · **5** · [6](posters-6.md) · [7](posters-7.md) · [8](posters-8.md)
+[1](posters.md) · [2](posters-2.md) · [3](posters-3.md) · [4](posters-4.md) · **5** · [6](posters-6.md) · [7](posters-7.md)
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
-
-<a id="freestylefly-case-264"></a>
-
-## 美妆产品广告图
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case264.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case264.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-[中文] 为Z世代设计的可爱Y2K风格的平价化妆品广告图像。使用鲜艳的配色，包括荧光色。纵横比为3:4。 [English] Cute Y2K style affordable cosmetics advertising image designed for Gen Z. Using vibrant color schemes, including neon colors. Aspect ratio is 3:4.
-```
-
-By [@midori\_tatsuta](https://x.com/midori_tatsuta/status/2045378877363798279)
-
----
-
-<a id="freestylefly-case-265"></a>
-
-## 日式潮流广告四联画
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case265.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case265.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-[中文] 生成四张虚构的日式广告图片，涵盖不同类型并排排列。采用专业设计师创作的潮流设计。宽高比为1:1 [English] Generate four fictional Japanese advertisement images, covering different types arranged side by side. Trendy design created by professional designers. Aspect ratio 1:1
-```
-
-By [@midori\_tatsuta](https://x.com/midori_tatsuta/status/2045253072289767815)
-
----
-
-<a id="freestylefly-case-275"></a>
-
-## 一张采用分层蒙太奇构图的电影海报
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case275.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case275.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-[中文] “一张采用分层蒙太奇构图的电影海报。背景为日落时分的海滨小镇，平静的海面倒映着耀眼的日光眩光，薄雾笼罩的天空中有远处飞鸟，沿海公路旁立着电线杆剪影。左侧中景处，一位身着深灰色外套、留着深色卷发的中年男子站在混凝土海堤边，神情忧郁地低头凝视，被傍晚的阳光逆光勾勒轮廓。右侧前景主体为一张大幅特写年轻女子侧脸肖像，她望向右侧，身穿带白色条纹的深色水手校服，湿润的黑发贴在脸颊，柔和漫射光线下，一滴泪珠从她脸颊滑落。画面下方中央前景处，一只柴犬抬头朝右侧望去，红棕色毛发被温暖的轮廓光点亮。画面最底端为一条横向电影胶片，内含五幅独立矩形场景缩略图：女孩与柴犬在海滩、女孩骑车望向海面、女孩与男子坐在室内桌前、男子与女孩在海滩面对面站立、女孩拥抱柴犬的特写。画面叠加指定文字：左上角为深青绿色大号衬线字体标题《风间静语》，下方副标题为「—— 致那日的你 ——」；标题下方为小号深色衬线正文：“逝去之物，不复归来。然而，只要心灵稍稍相连，我们便能再度直面明日。” 画面右侧中部为深色衬线字体文字：“曾有一段时光，是你教会我如何生活。我永不会忘。” 左下角为大号白色文字：“10 月 31 日 周五 影院上映”。右下角为小号白色无衬线字体演职人员表：“主演：福波真子 / 桐嶋秀作 原作与剧本：柴野麻吕 导演：今仓七海 主题曲：SyVa《看得见海的地方》（Dogstar★唱片） 制作：《夕凪之尾》影视伙伴 制作公司：DABUSHIBANU-NU 发行：GOODSHIBALERS ©2026《夕凪之尾》影视伙伴”。 分段提示词： 图层索引：0 片段：“背景为日落时分的海滨小镇，平静海面倒映耀眼日光眩光，薄雾天空中有远处飞鸟，沿海公路旁有电线杆剪影。” 图层索引：1 片段：“左侧中景处，身着深灰色外套、留深色卷发的中年男子站在混凝土海堤边，神情忧郁低头，被傍晚阳光逆光照射。” 图层索引：2 片段：“右侧前景主体为大幅特写年轻女子侧脸肖像，她望向右侧，身穿带白条纹的深色水手校服，湿润黑发贴脸，柔和漫射光下一滴泪珠滑落脸颊。” 图层索引：3 片段：“画面下方中央前景处，一只柴犬抬头望向右侧，红棕色毛发被温暖轮廓光点亮。” 图层索引：4 片段：“画面最底端为横向电影胶片，内含五幅独立矩形场景缩略图：女孩与柴犬在海滩、女孩骑车望向水面、女孩与男子坐在室内桌前、男子与女孩在海滩面对面、女孩拥抱柴犬特写。” 图层索引：[5,6,7,8] 片段：“画面叠加指定文字：左上角为深青绿色大号衬线字体《风间静语》，下方副标题「—— 致那日的你 ——」；其下小号深色衬线正文：“逝去之物，不复归来。然而，只要心灵稍稍相连，我们便能再度直面明日。” 右侧中部深色衬线文字：“曾有一段时光，是你教会我如何生活。我永不会忘。” 左下角大号白色文字：“10 月 31 日 周五 影院上映”。右下角小号白色无衬线字体演职信息：“主演：福波真子 / 桐嶋秀作 原作与剧本：柴野麻吕 导演：今仓七海 主题曲：SyVa《看得见海的地方》（Dogstar★唱片） 制作：《夕凪之尾》影视伙伴 制作公司：DABUSHIBANU-NU 发行：GOODSHIBALERS ©2026《夕凪之尾》影视伙伴”。 负面提示词： “平光照明，无质感表面，对称构图，底部留白空荡，文字缺失，翻译文字，改写文字，3D 渲染，卡通风格，高对比生硬阴影，干涩头发，明亮欢快表情” [English] A cinematic movie poster utilizing a layered montage composition. In the background, a coastal town at sunset with calm ocean water reflecting a glowing sun glare, distant birds in a hazy sky, and the silhouette of utility poles along a coastal road. In the left midground, a middle-aged man with dark wavy hair in a dark grey jacket stands near a concrete sea wall, looking downward with a melancholic expression, backlit by the late afternoon sun. Dominating the right foreground is a large, closely cropped profile portrait of a young woman looking right; she wears a dark school sailor uniform with white stripes, has wet dark hair clinging to her face, and a single tear rolls down her cheek under soft, diffuse lighting. In the lower center foreground, a Shiba Inu dog looks upwards toward the right, its reddish-brown fur catching warm rim lighting. Along the very bottom edge is a horizontal film strip of five distinct rectangular scene thumbnails: a dog and girl on a beach, a girl on a bicycle looking at the water, a girl and man sitting at an indoor table, a man and girl standing facing each other on a beach, and a close-up of a girl hugging a Shiba Inu. Overlaid on the image is specific text. In the top left, large dark teal serif text reads 'The Quiet Between Winds' with a subtitle below reading '— To You, That Day —'. Below that, smaller dark serif body text reads 'What is lost will not return. And yet, when hearts connect, even just a little, we can face tomorrow again.'. On the mid-right side, dark serif text reads 'There was a time when you taught me how to live. I won't forget it.'. In the bottom left, large white text reads 'OCTOBER 31 FRI. IN THEATERS'. In the lower right corner, small white sans-serif credit text reads 'Starring: Mako Fukunami / Shusaku Kirimine Original Story & Screenplay: Shibano Maruo Director: Nanami Imakura Theme Song: SyVa \"Umi no Mieru de\" (Dogstar★RECORDS) Production: \"Yūnagi no Shippo\" Film Partners Production Company: DABUSHIBANU-NU Distribution: GOODSHIBALERS ©2026 \"Yūnagi no Shippo\" Film Partners'." segmented: - layer_index: 0 segment: "In the background, a coastal town at sunset with calm ocean water reflecting a glowing sun glare, distant birds in a hazy sky, and the silhouette of utility poles along a coastal road." - layer_index: 1 segment: "In the left midground, a middle-aged man with dark wavy hair in a dark grey jacket stands near a concrete sea wall, looking downward with a melancholic expression, backlit by the late afternoon sun." - layer_index: 2 segment: "Dominating the right foreground is a large, closely cropped profile portrait of a young woman looking right; she wears a dark school sailor uniform with white stripes, has wet dark hair clinging to her face, and a single tear rolls down her cheek under soft, diffuse lighting." - layer_index: 3 segment: "In the lower center foreground, a Shiba Inu dog looks upwards toward the right, its reddish-brown fur catching warm rim lighting." - layer_index: 4 segment: "Along the very bottom edge is a horizontal film strip of five distinct rectangular scene thumbnails: a dog and girl on a beach, a girl on a bicycle looking at the water, a girl and man sitting at an indoor table, a man and girl standing facing each other on a beach, and a close-up of a girl hugging a Shiba Inu." - layer_indices: [5, 6, 7, 8] segment: "Overlaid on the image is specific text. In the top left, large dark teal serif text reads 'The Quiet Between Winds' with a subtitle below reading '— To You, That Day —'. Below that, smaller dark serif body text reads 'What is lost will not return. And yet, when hearts connect, even just a little, we can face tomorrow again.'. On the mid-right side, dark serif text reads 'There was a time when you taught me how to live. I won't forget it.'. In the bottom left, large white text reads 'OCTOBER 31 FRI. IN THEATERS'. In the lower right corner, small white sans-serif credit text reads 'Starring: Mako Fukunami / Shusaku Kirimine Original Story & Screenplay: Shibano Maruo Director: Nanami Imakura Theme Song: SyVa \"Umi no Mieru de\" (Dogstar★RECORDS) Production: \"Yūnagi no Shippo\" Film Partners Production Company: DABUSHIBANU-NU Distribution: GOODSHIBALERS ©2026 \"Yūnagi no Shippo\" Film Partners'." negative: "flat lighting, untextured surfaces, symmetrical composition, empty bottom margin, missing text, translated text, paraphrased text, 3D render, cartoon, high-contrast harsh shadows, dry hair, bright cheerful expressions
-```
-
-By [@old\_pgmrs\_will](https://x.com/old_pgmrs_will/status/2045440101359198302)
-
----
-
-<a id="freestylefly-case-276"></a>
-
-## 红绸幻化壮阔国潮羊城
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case276.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case276.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-[中文] 一张充满新春喜庆氛围但不失高雅格调的 2026 城市宣传海报。 双重曝光，构图延续了S型的流动感； 在纯白的纹理背景右下角，一个身穿中国传统服饰的微缩人物正在挥舞着一条长长的红色丝绸舞带，这条红绸在空中舞动，不仅展现出丝绸的柔顺质感，更在向左上方飘动的过程中，奇幻地变形成了一条壮丽的山脉河流。 在这条"河流"中，叠加了一个有山有海河的广州城市手绘图，国潮，景色尽在眼底，壮阔雄伟，令人震撼。 广州的地标建筑(广州塔，珠江新城建筑群，珠江, 广州城里古建筑，游轮，白云山）。 云雾环绕，仙气缥缈，色彩丰富，结构复杂，细节丰富，但因为大面积的留白，画面依然显得清新脱俗，左下角排版着"SPRING 2026"和竖排的宣传语，整体寓意"千年商都，魅力广州"。 文字排版优美，大方，字迹清晰完整，尺寸9:16。 [English] A 2026 city promotional poster full of a festive Chinese New Year atmosphere yet maintaining an elegant style. Double exposure, the composition continues the flowing sense of an S-shape; In the lower right corner of the pure white textured background, a miniature figure wearing traditional Chinese clothing is waving a long red silk dance ribbon, this red silk dances in the air, not only showing the smooth texture of the silk, but also in the process of drifting to the upper left, magically transforming into a magnificent mountain range and river. In this "river", a hand-drawn map of Guangzhou city with mountains, sea, and rivers is superimposed, Guochao, the scenery is fully in view, magnificent and majestic, breathtaking. Guangzhou's landmark buildings (Canton Tower, Pearl River New City building complex, Pearl River, ancient buildings in Guangzhou city, cruise ships, Baiyun Mountain). Surrounded by clouds and mist, ethereal and misty, rich in colors, complex in structure, rich in details, but because of a large area of negative space, the picture still appears fresh and refined, the lower left corner is typeset with "SPRING 2026" and vertical promotional slogans, the overall implication is "Millennium Commercial Capital, Charming Guangzhou". Beautiful and generous typography, clear and complete handwriting, aspect ratio 9:16.
-```
-
-By [@liyue\_ai](https://x.com/liyue_ai/status/2045332620352119274)
-
----
-
-<a id="freestylefly-case-278"></a>
-
-## 阿马尔菲海岸复古旅行海报
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case278.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case278.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-[中文] 现代铅笔插画，意大利阿马尔菲海岸复古旅行海报插画，全景海岸悬崖公路场景，经典1960年代白色汽车沿着弯曲的海滨公路行驶，带有小帆船的深蓝色地中海，色彩缤纷的粉彩山腰村庄，带有柔软云朵的明亮蓝天，带有鲜艳黄色柠檬的柠檬树枝框定前景，温暖的夏日阳光，大胆鲜艳的色彩，复古1950年代旅行海报风格，电影级构图，高细节，丝网印刷质感，图形插画。手绘风格，带有松散笔触和清晰轮廓的插画。高对比度调色板，保持背景与元素之间的色彩和谐。现代与装饰性美学。 [English] Modern pencil illustration of Vintage travel poster illustration of the Amalfi Coast, Italy, panoramic coastal cliff road scene, classic 1960s white car driving along a curved seaside road, deep blue Mediterranean sea with small sailboats, colorful pastel hillside village, bright blue sky with soft clouds, lemon tree branches with vibrant yellow lemons framing the foreground, warm summer sunlight, bold vibrant colors, retro 1950s travel poster style, cinematic composition, high detail, screen print texture, graphic illustration. Hand-drawn style, illustration with loose strokes and defined contours. High-contrast color palette, maintaining chromatic harmony between background and elements. Contemporary and decorative aesthetic.
-```
-
-By [@WolfRiccardo](https://x.com/WolfRiccardo/status/2044562722491121718)
-
----
-
-<a id="freestylefly-case-283"></a>
-
-## 小恶魔莉莉香超任游戏海报
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case283.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case283.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-[中文] が「小悪魔リリムリリィちゃんが　スーパーファミコンのゲームだったときのポスターを考えて」に　画像数枚だけで このクオリティ　細かい説明呪文なし　すごいぜ！ [English] that "Think of a poster when the little devil Lilim Lily-chan was a Super Famicom game" with just a few images this quality without any detailed explanation spells is amazing!
-```
-
-By [@lilimliliychan](https://x.com/lilimliliychan/status/2045114760937804187)
-
----
 
 <a id="freestylefly-case-291"></a>
 
@@ -131,22 +35,6 @@ By [OpenNana](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1
 ```
 
 By [@BubbleBrain](https://x.com/BubbleBrain/status/2045358053831172358)
-
----
-
-<a id="freestylefly-case-307"></a>
-
-## 红绸舞动千年商都广州
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case307.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case307.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-[中文] 一张充满新春喜庆氛围但不失高雅格调的 2026 城市宣传海报。 双重曝光，构图延续了S型的流动感； 在纯白的纹理背景右下角，一个身穿中国传统服饰的微缩人物正在挥舞着一条长长的红色丝绸舞带，这条红绸在空中舞动，不仅展现出丝绸的柔顺质感，更在向左上方飘动的过程中，奇幻地变形成了一条壮丽的山脉河流。 在这条“河流”中，叠加了一个有山有海河的广州城市手绘图，国潮，景色尽在眼底，壮阔雄伟，令人震撼。 广州的地标建筑(广州塔，珠江新城建筑群，珠江, 广州城里古建筑，游轮，白云山）。 云雾环绕，仙气缥缈，色彩丰富，结构复杂，细节丰富，但因为大面积的留白，画面依然显得清新脱俗，左下角排版着“SPRING 2026”和竖排的宣传语，整体寓意“千年商都，魅力广州”。 文字排版优美，大方，字迹清晰完整，尺寸9:16。 [English] A 2026 city promotional poster filled with a festive Spring Festival atmosphere without losing its elegant style. Double exposure, the composition continues the flowing sense of an S-shape; In the lower right corner of the pure white textured background, a miniature figure wearing traditional Chinese clothing is waving a long red silk dance ribbon. This red silk dances in the air, not only showing the smooth texture of the silk, but also magically transforming into a magnificent mountain range and river during the process of floating to the upper left. In this "river", a hand-drawn map of Guangzhou city with mountains, sea, and rivers is superimposed, Guochao, the scenery is in full view, magnificent and majestic, shocking. Guangzhou's landmark buildings (Canton Tower, Pearl River New City building complex, Pearl River, ancient buildings in Guangzhou city, cruise ships, Baiyun Mountain). Surrounded by clouds and mist, ethereal and misty, rich in color, complex in structure, rich in details, but because of a large area of blank space, the picture still looks fresh and refined. In the lower left corner, "SPRING 2026" and vertical promotional slogans are typeset. The overall implication is "Millennium Commercial Capital, Charming Guangzhou". The typography is beautiful and generous, the handwriting is clear and complete, aspect ratio 9:16.
-```
-
-By [@liyue\_ai](https://x.com/liyue_ai/status/2045332620352119274)
 
 ---
 
@@ -326,6 +214,118 @@ By [@dotey](https://x.com/dotey/status/2048793351290327381)
 
 ---
 
-[1](posters.md) · [2](posters-2.md) · [3](posters-3.md) · [4](posters-4.md) · **5** · [6](posters-6.md) · [7](posters-7.md) · [8](posters-8.md)
+<a id="freestylefly-case-358"></a>
+
+## 草莓能量饮料商业广告
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case358.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case358.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+A hyper-realistic commercial advertisement blending energy drink and sports branding. A dynamic athletic woman mid-air jump, wearing modern sportswear (light translucent jacket, orange shorts, white sneakers), surrounded by explosive splashes of red strawberry liquid and flying ice cubes. A cold metallic energy drink can (strawberry flavor) bursting with droplets sits in the foreground, covered in condensation. Fresh strawberries scattered on a glossy reflective surface. Bright cinematic lighting with dramatic highlights and motion effects. Vibrant orange gradient background with bold glowing typography behind the subject. Ultra-detailed, high contrast, sharp focus, commercial product photography style, 8K resolution, advertising poster aesthetic, energetic, powerful, refreshing mood.
+```
+
+By [@SPEEDAI07](https://x.com/SPEEDAI07/status/2049043627163435040)
+
+---
+
+<a id="freestylefly-case-359"></a>
+
+## 水墨双重曝光人物海报
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case359.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case359.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+A cinematic character promotional poster of [SUBJECT], vertical composition (9:16), designed with a refined East-Asian ink aesthetic and high-end visual storytelling. STRUCTURE: Top-heavy hierarchical layout. The upper half features a large, highly recognizable silhouette of [SUBJECT]'s head / face / mask / upper body, forming a bold, iconic primary shape. The silhouette should be instantly identifiable. The middle-lower section contains the full-body version of [SUBJECT] as a secondary subject, standing in a stable pose or subtle action stance, forming the visual core. COMPOSITION STYLE: Inside the large silhouette and around the character, use double exposure and collage storytelling. Integrate multiple elements: - key scenes related to [SUBJECT] - symbolic imagery and environment - small narrative figures and interactions - supporting visual motifs Blend everything seamlessly using clouds, mist, ink diffusion, and negative space. VISUAL FLOW: Create a continuous flowing visual path from top to bottom, connecting: - upper silhouette - inner collage elements - full-body subject Ensure smooth eye guidance and compositional cohesion. SIDE ELEMENTS: Add balanced supporting elements on left and right sides to create tension, depth, and spatial variation. STYLE & ATMOSPHERE: - Large areas of negative space - Ink-wash diffusion edges, soft fading, subtle fragmentation - Eastern aesthetic: balance of emptiness and detail - Calm, premium, restrained, cinematic tone QUALITY: Ultra-detailed, high resolution, layered depth, soft lighting, atmospheric perspective, cohesive series-style design. OUTPUT: 9:16 aspect ratio, poster-ready composition.
+```
+
+By [@Goodmanprotocol](https://x.com/Goodmanprotocol/status/2049002279051895243)
+
+---
+
+<a id="freestylefly-case-367"></a>
+
+## VELORA 奢华香水广告海报
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case367.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case367.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+{ "image_type": "luxury perfume advertisement poster", "resolution": "4K ultra HD (4096x5120)", "aspect_ratio": "portrait (4:5)", "style": { "aesthetic": "high-end fragrance campaign (Tom Ford, Dior inspired)", "tone": "dark luxury, sensual, elegant, powerful", "color_grading": "deep black shadows with rich golden highlights and warm amber glow", "lighting": "cinematic spotlight + golden rim light + soft fill light, dramatic shadows", "contrast": "high cinematic contrast", "depth_of_field": "shallow, sharp focus on face and perfume bottle" }, "camera": { "type": "85mm portrait lens", "aperture": "f/1.6", "angle": "slightly low angle, premium perspective", "framing": "model upper body + product foreground" }, "subject": { "gender": "female", "age_appearance": "young adult", "expression": "confident, sensual, calm", "styling": { "hair": "voluminous, slightly messy, glossy strands with golden highlights", "makeup": "soft glam, glowing skin, bold lips", "outfit": "brown tailored blazer with patterned silk scarf", "accessory": "thin transparent eyeglasses" } }, "product": { "type": "luxury perfume bottle", "brand": "VELORA PARFUMS", "label": "EAU DE PARFUM", "design": "clear crystal glass bottle, golden liquid inside, metallic gold cap", "placement": "bottom center foreground on glossy black marble surface", "effects": "strong reflections, golden glow, subtle condensation, cinematic shine" }, "environment": { "background": "dark blurred luxury interior with warm golden light streaks", "surface": "black marble with reflections", "extra_elements": "small flowers near bottle, golden particles, soft smoke" }, "typography": { "logo": "V monogram + VELORA PARFUMS", "headline": "Not just a scent, It’s your Signature.", "tagline": "A fragrance that speaks before you do.", "secondary": "Own your essence. Leave a legacy.", "features": [ "Long Lasting", "Premium Ingredients", "Crafted with Passion" ], "notes": [ "Top: Pear, Bergamot, Pink Pepper", "Heart: Jasmine, Rose, Orris", "Base: Vanilla, Patchouli, Musk" ], "font_style": "luxury serif + elegant handwritten script", "color": "gold metallic", "placement": "top left + mid left + bottom balanced layout" }, "post_processing": { "sharpness": "ultra sharp on face and bottle", "glow": "golden cinematic glow", "retouch": "high-end editorial finish", "vignette": "subtle dark vignette" }, "mood": "premium luxury perfume campaign, cinematic, bold brand identity", "quality": "hyper-realistic, 4K ultra HD, commercial grade, award-winning fragrance ad" }
+```
+
+By [@akkiwani703](https://x.com/akkiwani703/status/2049778680969437564)
+
+---
+
+<a id="freestylefly-case-381"></a>
+
+## 90 年代公寓场景参考板
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case381.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case381.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+{ "type": "scene reference board — 90s apartment living room, cinematic night", "style": "cinematic film photography, 35mm grain, warm amber shadow fill, deep chiaroscuro lighting, hyper-detailed interior, production design reference quality", "layout": { "main_panel_center_left": { "label": "CAMERA A — FRONT VIEW", "scene": "Wide shot, L-shaped tan sectional sofa, grey knit throw blanket, wooden coffee table (remote, mug, ashtray, Rolling Stone stack), lava lamp left, table lamp right, rain-streaked city window behind, Nirvana poster left wall. 35mm grain." }, "main_panel_center_right": { "label": "CAMERA B — REVERSE VIEW", "scene": "Wide reverse from behind sofa. CRT TV prominent right, grey static screen. Tall bookshelf, VHS tapes. Cool blue backlight from window behind camera. Deep shadow." }, "prop_strip_bottom": "6 close-up tiles: 1. LAVA LAMP — chrome base, blue-green wax blobs; 2. COFFEE TABLE — remote, mug, ashtray, magazines; 3. NIRVANA POSTER — black smiley face, wall texture; 4. CRT TELEVISION — static screen, VHS stack; 5. WINDOW/RAIN — city bokeh, water streaks; 6. THROW BLANKET — sofa corner, worn upholstery", "top_right_inset": "SOURCE REF thumbnail — original photo", "footer": "2700K PRACTICAL · 4100K CITY NIGHT · 24mm · 35MM" }, "background": "deep charcoal #1a1a1a, thin white separators", "dimensions": "wide landscape 3:1, high resolution" }
+```
+
+By [@Iancu\_ai](https://x.com/Iancu_ai/status/2051287273581203888)
+
+---
+
+<a id="freestylefly-case-388"></a>
+
+## 1980s Claude 复古杂志广告
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case388.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case388.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+A fictional 1980s magazine advertisement poster introducing “Claude” as a revolutionary home AI assistant, retro commercial print ad style, bold headline at the top reading “Introducing Claude!”, large chrome metallic 3D typography with pink and blue reflections, yellow italic tagline underneath: “The AI assistant that talks back.” Center composition: a beige 1980s CRT home computer with chunky keyboard on a wooden desk, green monochrome terminal screen glowing, readable text on screen: “Claude”, subtitle: “The helpful AI assistant.” On the screen, a retro terminal-style conversation reads: “YOU: How can you help me today?” “CLAUDE: I can answer questions, help you write, summarize information, brainstorm ideas, and explain topics clearly.” “YOU:” A cheerful 1980s family of three gathers around the computer: father in a blue sweater, mother with curly hair in a pink sweater, young boy in a striped sweater, all looking amazed, delighted, and fascinated, warm nostalgic expressions, classic family technology advertising mood. Background: dark starry night sky, purple and blue neon perspective grid, retro sci-fi glow, subtle palm silhouettes, sparkling highlights, lens flares, dramatic yet friendly atmosphere. Poster layout: left side contains stacked retro feature boxes with glowing neon icons, including a question mark, pencil, light bulb, and clock. Each feature box includes short retro advertising copy: “ANSWERS QUESTIONS” — Get helpful, clear answers in everyday language. “HELPS YOU WRITE” — Draft ideas, notes, letters, and more with ease. “GENERATES IDEAS” — Brainstorm, create, and think bigger. “AVAILABLE WHENEVER YOU NEED IT” — Day or night, Claude is ready to help. Add a small retro text block describing Claude: “For the first time, an AI assistant you can have a conversation with. Ask questions. Get answers. Share ideas. Write drafts, notes, and reports. Explore topics, organize thoughts, and solve problems. Claude understands natural language and responds in a clear, helpful way.” Add a short highlighted copy block: “It’s helpful. It’s thoughtful. It’s always by your side.” Bottom area includes a large “Claude” brand wordmark with colorful diagonal retro stripes, and the slogan: “A smarter way to think, write, and explore.” Bottom right has a white promotional price sticker area with bold pink text: “Free!!” Smaller text underneath: “Available now for curious minds everywhere.” Top right has a bright yellow starburst badge saying: “A REVOLUTION IN AI ASSISTANCE!” Include a retro product box on the desk labeled “Claude” with small text: “SMARTER SOFTWARE FOR MODERN THINKERS.” Include a mug or accessory on the desk branded “Claude”. Visual style: 1985 consumer computer advertisement, airbrushed illustration, glossy print texture, halftone details, nostalgic retro futurism, high saturation, cinematic product lighting, authentic 1980s typography and layout, readable ad composition, detailed vintage commercial poster, highly polished, warm family-friendly mood, retro tech fantasy, vertical poster. Negative prompts: modern laptop, smartphone, flat design, minimalism, futuristic 2020s interface, cyberpunk overload, messy layout, unreadable typography, distorted text, misspelled words, deformed hands, extra fingers, bad anatomy, duplicate people, plastic skin, overexposed lighting, low resolution, blurry image, warped computer, broken keyboard, cluttered composition, inconsistent vintage style, random symbols, ugly poster design, poor hierarchy, incorrect perspective
+```
+
+By [@Shinning1010](https://x.com/Shinning1010/status/2051410804805599436)
+
+---
+
+<a id="freestylefly-case-389"></a>
+
+## Transparent Labs Hydrate 健身补剂 Campaign
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case389.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case389.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+Create a striking campaign poster that stops people mid-scroll for Transparent Labs Hydrate. Bold high-impact supplement advertisement with dramatic black and deep electric blue color palette, gritty premium fitness aesthetic, sharp cinematic lighting, glossy reflections, light smoke atmosphere, intense contrast. Giant headline typography at top reading “TRANSPARENT LABS HYDRATE” in oversized distressed white and electric blue text. Center composition features the exact woman from the attached reference image as a fit athletic female model seated confidently on a studio floor, holding a shaker bottle, with a focused and powerful expression. Change her clothes into sleek black fitness gym outfit: a black sports bra / tank top and high-waisted black leggings with chunky white sneakers. Large glowing “1%” graphic behind the subject symbolizing daily progress. Front left foreground shows a matte black Transparent Labs Hydrate tub with modern luxury label reading “HYDRATE”, scoop of electrolyte powder spilled beside the container. Surround the poster with clean icon-based benefit callouts: replenishes electrolytes, supports hydration, boosts recovery, improves endurance, enhances performance, zero sugar, lab tested, premium quality, no fillers. Strong motivational copy such as “Daily Hydration. Peak Performance.” Hyper realistic textures, polished commercial retouching, premium sports nutrition branding, modern typography layout, social media ad format, ultra detailed, high resolution.
+```
+
+By [@amynys](https://x.com/amynys/status/2051409591137972606)
+
+---
+
+<a id="freestylefly-case-396"></a>
+
+## 龙类物种复古百科海报
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case396.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case396.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+Create a highly detailed A4 vertical vintage fantasy encyclopedia style dragon species poster. Style: medieval creature atlas, ancient mythology manuscript, museum fantasy archive, old explorer journal. Main subject: a massive hyper realistic dragon standing proudly in center with detailed scales, smoke from nostrils, giant wings partially open. Background: stormy mountains, ancient ruins, fog layers, burnt parchment texture. Color palette: dark emerald, ash gray, faded gold, ancient brown, deep crimson. Include infographic sections: Species Type, Fire Capacity, Wing Structure, Temperament Scale, Habitat Region, Battle Strength, Ancient Legends, Scale Patterns, Skull Diagram, Hunter Notes. Add: engraved fantasy sketches, ancient symbols, old map textures, ink grain, collectible poster layout. NO modern UI. NO futuristic elements. NO flat minimalism. Ultra detailed. 8K printable masterpiece.
+```
+
+By [@sha\_zdiii](https://x.com/sha_zdiii/status/2052237839119835280)
+
+---
+
+[1](posters.md) · [2](posters-2.md) · [3](posters-3.md) · [4](posters-4.md) · **5** · [6](posters-6.md) · [7](posters-7.md)
 
 [← Home](../README.md)
