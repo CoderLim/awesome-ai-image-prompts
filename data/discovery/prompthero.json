@@ -76,5 +76,70 @@
     "status": "link-only",
     "rights": "unverified",
     "discoveredAt": "2026-11-26"
+  },
+  {
+    "id": "prompthero-2c82b674cf4",
+    "title": "Sunlit yoga studio photograph",
+    "author": "@tajs",
+    "publishedAt": "2026-11-25",
+    "category": "portraits",
+    "inputMode": "text-to-image",
+    "model": "Seedream 5 seedream-4.5",
+    "url": "https://prompthero.com/prompt/2c82b674cf4-seedream-5-seedream-45-yoga-in-a-sunlit-studio-a-woman-in-a-sports-bra-and-fitted-leggings-in-a-graceful-balance-pose-soft",
+    "status": "link-only",
+    "rights": "unverified",
+    "discoveredAt": "2026-11-26"
+  },
+  {
+    "id": "prompthero-a39a7a3858f",
+    "title": "Surreal toast and miniature dog",
+    "author": "@m3dusa",
+    "publishedAt": "2026-11-20",
+    "category": "creative-art",
+    "inputMode": "text-to-image",
+    "model": "Hero 1.0",
+    "url": "https://prompthero.com/prompt/a39a7a3858f-hero-10-a-giant-toast-looking-down-on-a-tiny-dog",
+    "status": "link-only",
+    "rights": "unverified",
+    "discoveredAt": "2026-11-26"
+  },
+  {
+    "id": "prompthero-832b65761c4",
+    "title": "Rainy Tokyo ramen shop streetscape",
+    "author": "@chorlo",
+    "publishedAt": "2026-11-20",
+    "category": "travel",
+    "inputMode": "text-to-image",
+    "model": "Ideogram ideogram-4.6",
+    "url": "https://prompthero.com/prompt/832b65761c4-ideogram-ideogram-46-a-cosy-rainy-night-street-in-tokyo-a-small-ramen-shop-with-glowing-paper-lanterns-reflections-on-wet-asphalt-a",
+    "status": "link-only",
+    "rights": "unverified",
+    "discoveredAt": "2026-11-26"
+  },
+  {
+    "id": "prompthero-8c09b02c978",
+    "title": "Industrial steel-pipe editorial poster",
+    "author": "@frhmndfwldflzam",
+    "publishedAt": "2026-11-24",
+    "category": "posters",
+    "inputMode": "unknown",
+    "model": "ChatGPT Image v1",
+    "url": "https://prompthero.com/prompt/8c09b02c978-chatgpt-image-v1-modern-industrial-editorial-graphic-poster-design-featuring-a-bundled-stack-of-black-steel-pipes-with-blue-end-caps-and-silver",
+    "status": "link-only",
+    "rights": "unverified",
+    "discoveredAt": "2026-11-26"
+  },
+  {
+    "id": "prompthero-872900f88d1",
+    "title": "Fantasy ruins cinematic scene",
+    "author": "@johns1670",
+    "publishedAt": "2026-11-19",
+    "category": "creative-art",
+    "inputMode": "text-to-image",
+    "model": "Seedream 5 seedream-5-pro",
+    "url": "https://prompthero.com/prompt/872900f88d1-seedream-5-seedream-5-pro-in-overgrown-stone-ruins-where-waterfalls-spill-between-mossy-walls-2-savage-wolves-ravage-a-dead-carcass-nearby-a-pale",
+    "status": "link-only",
+    "rights": "unverified",
+    "discoveredAt": "2026-11-26"
   }
 ]
