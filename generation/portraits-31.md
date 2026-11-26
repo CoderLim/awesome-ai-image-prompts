@@ -1,90 +1,10 @@
 # portraits
 
-[← Home](../README.md) · Page 31 / 36
+[← Home](../README.md) · Page 31 / 35
 
-[1](portraits.md) · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · [5](portraits-5.md) · [6](portraits-6.md) · [7](portraits-7.md) · [8](portraits-8.md) · [9](portraits-9.md) · [10](portraits-10.md) · [11](portraits-11.md) · [12](portraits-12.md) · [13](portraits-13.md) · [14](portraits-14.md) · [15](portraits-15.md) · [16](portraits-16.md) · [17](portraits-17.md) · [18](portraits-18.md) · [19](portraits-19.md) · [20](portraits-20.md) · [21](portraits-21.md) · [22](portraits-22.md) · [23](portraits-23.md) · [24](portraits-24.md) · [25](portraits-25.md) · [26](portraits-26.md) · [27](portraits-27.md) · [28](portraits-28.md) · [29](portraits-29.md) · [30](portraits-30.md) · **31** · [32](portraits-32.md) · [33](portraits-33.md) · [34](portraits-34.md) · [35](portraits-35.md) · [36](portraits-36.md)
+[1](portraits.md) · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · [5](portraits-5.md) · [6](portraits-6.md) · [7](portraits-7.md) · [8](portraits-8.md) · [9](portraits-9.md) · [10](portraits-10.md) · [11](portraits-11.md) · [12](portraits-12.md) · [13](portraits-13.md) · [14](portraits-14.md) · [15](portraits-15.md) · [16](portraits-16.md) · [17](portraits-17.md) · [18](portraits-18.md) · [19](portraits-19.md) · [20](portraits-20.md) · [21](portraits-21.md) · [22](portraits-22.md) · [23](portraits-23.md) · [24](portraits-24.md) · [25](portraits-25.md) · [26](portraits-26.md) · [27](portraits-27.md) · [28](portraits-28.md) · [29](portraits-29.md) · [30](portraits-30.md) · **31** · [32](portraits-32.md) · [33](portraits-33.md) · [34](portraits-34.md) · [35](portraits-35.md)
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
-
-<a id="prompthero-d11cfb2cea3"></a>
-
-## photography, full-body, older man model standing a\.\.\.
-
-<a href="https://cdn.prompthero.com/qpy4gx7z7ccahug9433kw4m0xi6n-midjourney-6-photography-full-body-older-man-model-standing-against-a-textured-rustic-purple-wall-giving-off-an-aura-of-wisdom-and.png"><img src="https://cdn.prompthero.com/qpy4gx7z7ccahug9433kw4m0xi6n-midjourney-6-photography-full-body-older-man-model-standing-against-a-textured-rustic-purple-wall-giving-off-an-aura-of-wisdom-and.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-photography, full-body, older man model standing against a textured rustic purple wall, giving off an aura of wisdom and experience, monochromatic black T-shirt, with a small minimalist tattoo and black Apple watch, and worn black & white low-top sneakers, silver hair styling, complemented by black frame glasses, his hand tucked in his pocket, presenting a portrait of aged grace and street fashion style, confidence, photorealism, ultra realistic, UHD, many detail --ar 9:16 --style raw --stylize 700
-```
-
-By [@Grayve](https://prompthero.com/prompt/d11cfb2cea3-midjourney-6-photography-full-body-older-man-model-standing-against-a-textured-rustic-purple-wall-giving-off-an-aura-of-wisdom-and)
-
----
-
-<a id="prompthero-d14af99959f"></a>
-
-## A photo of an African American woman with long, wa\.\.\.
-
-<a href="https://cdn.prompthero.com/l89204n0fndkouqqp0uibx45a5wu-midjourney-52-a-photo-of-an-african-american-woman-with-long-wavy-hair-in-the-style-of-1960s-fashion-she-is-wearing.png"><img src="https://cdn.prompthero.com/l89204n0fndkouqqp0uibx45a5wu-midjourney-52-a-photo-of-an-african-american-woman-with-long-wavy-hair-in-the-style-of-1960s-fashion-she-is-wearing.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-A photo of an African American woman with long, wavy hair in the style of 1960s fashion. She is wearing white and pink attire, smiling warmly at the camera. The background features soft lighting and vibrant colors typical of that era. This vintage photograph captures her natural beauty and fashionable look from those times. --ar 45:64 --v 5.2
-```
-
-By [@Dallas59](https://prompthero.com/prompt/d14af99959f-midjourney-52-a-photo-of-an-african-american-woman-with-long-wavy-hair-in-the-style-of-1960s-fashion-she-is-wearing)
-
----
-
-<a id="prompthero-d20df414e3c"></a>
-
-## \(Masterpiece:1\. 5\) , RAW photo, film grain, \(best \.\.\.
-
-<a href="https://cdn.prompthero.com/w5vccrbzr83emtm41w1dwxh3duwf-flux-flux-11-pro-masterpiece1-5-raw-photo-film-grain-best-quality1-5-photorealistic-realistic-real-picture-intricate-details-photo-of-full-body-a.jpg"><img src="https://cdn.prompthero.com/w5vccrbzr83emtm41w1dwxh3duwf-flux-flux-11-pro-masterpiece1-5-raw-photo-film-grain-best-quality1-5-photorealistic-realistic-real-picture-intricate-details-photo-of-full-body-a.jpg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-(Masterpiece:1. 5) , RAW photo, film grain, (best quality:1. 5) , (photorealistic) , realistic, real picture, intricate details, photo of full body a cute cat in a super mario bros dress, (wastelands background)
-```
-
-[Source](https://prompthero.com/prompt/d20df414e3c-flux-flux-11-pro-masterpiece1-5-raw-photo-film-grain-best-quality1-5-photorealistic-realistic-real-picture-intricate-details-photo-of-full-body-a)
-
----
-
-<a id="prompthero-d29cd3e6c3e"></a>
-
-## A beautiful blonde woman wearing cowboy boots and \.\.\.
-
-<a href="https://cdn.prompthero.com/0wl6q0yllztfcy7ui63o6ck0fr0z-midjourney-61-a-beautiful-blonde-woman-wearing-cowboy-boots-and-a-hat-looking-at-the-camera-she-is-wearing-red-white-and.png"><img src="https://cdn.prompthero.com/0wl6q0yllztfcy7ui63o6ck0fr0z-midjourney-61-a-beautiful-blonde-woman-wearing-cowboy-boots-and-a-hat-looking-at-the-camera-she-is-wearing-red-white-and.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-A beautiful blonde woman wearing cowboy boots and a hat, looking at the camera. She is wearing red, white, and blue . This appears to be a photoshoot, with a close-up portrait and a cowboy aesthetic. The lighting is cinematic, and the background is a studio setting. --chaos 5 --ar 1:2 --style raw --v 7
-```
-
-[Source](https://prompthero.com/prompt/d29cd3e6c3e-midjourney-61-a-beautiful-blonde-woman-wearing-cowboy-boots-and-a-hat-looking-at-the-camera-she-is-wearing-red-white-and)
-
----
-
-<a id="prompthero-d53e58b09d2"></a>
-
-## Foot Archer
-
-<a href="https://cdn.prompthero.com/369n1maa11pz854ot9lnn4ujzbz1-stable-diffusion-xl-base-09-foot-archer.jpg"><img src="https://cdn.prompthero.com/369n1maa11pz854ot9lnn4ujzbz1-stable-diffusion-xl-base-09-foot-archer.jpg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-A Beautiful Athletic woman using her feet to aim with a bow, a ((foot archer)) highly detailed, 8k sharp focus, photorealism, handstand positioned, ((background bushy grassy landscape)) with trees over the horizon, wearing cyberpunk metal with leather strap clothing in the style of a T-Shirt and short shorts (colors white and silver)
-```
-
-By [@Atheist](https://prompthero.com/prompt/d53e58b09d2-stable-diffusion-xl-base-09-foot-archer)
-
----
 
 <a id="prompthero-d54f6367b8c"></a>
 
@@ -326,6 +246,86 @@ By [@jefharris](https://prompthero.com/prompt/db626f9a2b8-midjourney-6-layered-f
 
 ---
 
-[1](portraits.md) · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · [5](portraits-5.md) · [6](portraits-6.md) · [7](portraits-7.md) · [8](portraits-8.md) · [9](portraits-9.md) · [10](portraits-10.md) · [11](portraits-11.md) · [12](portraits-12.md) · [13](portraits-13.md) · [14](portraits-14.md) · [15](portraits-15.md) · [16](portraits-16.md) · [17](portraits-17.md) · [18](portraits-18.md) · [19](portraits-19.md) · [20](portraits-20.md) · [21](portraits-21.md) · [22](portraits-22.md) · [23](portraits-23.md) · [24](portraits-24.md) · [25](portraits-25.md) · [26](portraits-26.md) · [27](portraits-27.md) · [28](portraits-28.md) · [29](portraits-29.md) · [30](portraits-30.md) · **31** · [32](portraits-32.md) · [33](portraits-33.md) · [34](portraits-34.md) · [35](portraits-35.md) · [36](portraits-36.md)
+<a id="prompthero-dc3509e86fb"></a>
+
+## a Goku like character, close up portrait, extra lo\.\.\.
+
+<a href="https://cdn.prompthero.com/xapyj2hknlxk0kf0srijviyccjxj-dalle-3-a-goku-like-character-close-up-portrait-extra-long-yellow-hair-fighting-at-war-extreme-rage-berserk-screaming-charging-his.jpg"><img src="https://cdn.prompthero.com/xapyj2hknlxk0kf0srijviyccjxj-dalle-3-a-goku-like-character-close-up-portrait-extra-long-yellow-hair-fighting-at-war-extreme-rage-berserk-screaming-charging-his.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+a Goku like character, close up portrait, extra long yellow hair, fighting at war, extreme rage, berserk, screaming, charging his massive energy around him, injured and dirty, serious mood, body is adorned with glowing yellow runes, orange and yellow aura around him fire like, mountains desert background, body dynamic epic action pose, in the style of futuristic glamour, symmetrical composition, redshift, energy-filled illustrations, dc comics, spectacular backdrops, jagged edges
+```
+
+[Source](https://prompthero.com/prompt/dc3509e86fb-dalle-3-a-goku-like-character-close-up-portrait-extra-long-yellow-hair-fighting-at-war-extreme-rage-berserk-screaming-charging-his)
+
+---
+
+<a id="prompthero-dd2d6f04d4e"></a>
+
+## 1 adult Egyptian woman, green eyes, black hair fla\.\.\.
+
+<a href="https://cdn.prompthero.com/fp8ggp3zvk7upxa9zt6nrn0eunad-stable-diffusion-xl-base-09-1-adult-egyptian-woman-green-eyes-black-hair-flaps-makeups-upper-body-looking-at-viewer-detailed-background-detailed-face-oldegyptai.png"><img src="https://cdn.prompthero.com/fp8ggp3zvk7upxa9zt6nrn0eunad-stable-diffusion-xl-base-09-1-adult-egyptian-woman-green-eyes-black-hair-flaps-makeups-upper-body-looking-at-viewer-detailed-background-detailed-face-oldegyptai.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+1 adult Egyptian woman, green eyes, black hair flaps, makeups , upper body, looking at viewer, detailed background, detailed face, OldEgyptAI, ancient egyptian theme, feral jungle warrior, obsidian, ((defensive stance)), stone knife, bushes, poisonous plants, rocks, humid climate, darkness, cinematic atmosphere, dark chamber, dim light, (zentangle, mandala, tangle, entangle:0.5) (35mmstyle:1.1), front, masterpiece, 1970s film, high frequency details, 35mm film, (film grain), film noise, SAI Pixel Art
+```
+
+[Source](https://prompthero.com/prompt/dd2d6f04d4e-stable-diffusion-xl-base-09-1-adult-egyptian-woman-green-eyes-black-hair-flaps-makeups-upper-body-looking-at-viewer-detailed-background-detailed-face-oldegyptai)
+
+---
+
+<a id="prompthero-dddb699b223"></a>
+
+## Create a hyper-stylized 3D floating head of a brat\.\.\.
+
+<a href="https://cdn.prompthero.com/ioupxtr9qa730y9jtevw6u3dr1xm-ideogram-ideogram-v3-quality-create-a-hyper-stylized-3d-floating-head-of-a-bratty-glamorous-female-avatar-with-a-bothered-unimpressed-expression-half-lidded.png"><img src="https://cdn.prompthero.com/ioupxtr9qa730y9jtevw6u3dr1xm-ideogram-ideogram-v3-quality-create-a-hyper-stylized-3d-floating-head-of-a-bratty-glamorous-female-avatar-with-a-bothered-unimpressed-expression-half-lidded.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+Create a hyper-stylized 3D floating head of a bratty, glamorous female avatar with a bothered, unimpressed expression — half-lidded eyes, arched brows, and a subtle lip curl that conveys classic 'mean girl' attitude. Her skin is fair, porcelain-smooth with a glossy, almost airbrushed vinyl finish. Highlighter is dramatically applied to her cheekbones and the tip of her nose, catching the soft studio lighting with a dewy, reflective glow. It has a text behind: Write "PROMPTHERO" in caps in Bold Black Helvetica behind the subject, covered by the head but visible enough to read it Her eyes are adorned with shimmering holographic eyeshadow — iridescent and multidimensional, shifting from purples to teals with realistic specular glints. Her thick, jet-black hair is slick, glossy, and styled with precision, falling in sculpted waves or a sleek updo, reflecting light like polished acrylic. A small metallic nose piercing (stud or hoop) sits on one nostril — the surface is chrome-like, with subtle reflections and a brushed metal texture, adding a touch of edge to her polished look. The head is fully isolated with a 15 degree tilt - floating cleanly against a plain white neutral background, mimicking a premium product render. The lighting is bright and diffuse, like a fashion studio setup, with no harsh shadows — emphasizing the gloss and plasticity of surfaces. Use subsurface scattering to give the skin depth and warmtxh Mood: bratty, fashionable, coolly detached Camera angle: close-up portrait, straight-on view. Focal length: 85mm, to slightly compress facial features and enhance softness. Textures: ultra-smooth, cartoon-style with high gloss, smooth plastic surface finish skin, lips, and hair.
+```
+
+By [@chorlo](https://prompthero.com/prompt/dddb699b223-ideogram-ideogram-v3-quality-create-a-hyper-stylized-3d-floating-head-of-a-bratty-glamorous-female-avatar-with-a-bothered-unimpressed-expression-half-lidded)
+
+---
+
+<a id="prompthero-de1819b1b14"></a>
+
+## A photo of an eccentric woman sitting on top of wh\.\.\.
+
+<a href="https://cdn.prompthero.com/6wryr34dlla639gjjfdrlk6bo4w6-flux-flux-11-pro-a-photo-of-an-eccentric-woman-sitting-on-top-of-white-fluffy-clouds-wearing-big-sunglasses-and-light-blue-pajamas.jpg"><img src="https://cdn.prompthero.com/6wryr34dlla639gjjfdrlk6bo4w6-flux-flux-11-pro-a-photo-of-an-eccentric-woman-sitting-on-top-of-white-fluffy-clouds-wearing-big-sunglasses-and-light-blue-pajamas.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+A photo of an eccentric woman sitting on top of white fluffy clouds wearing big sunglasses and light blue pajamas with yellow polka dots, she has short dark hair in a bob cut, the background is babyblue sky with white cloud formations, shot by Jimmy Marble, muted earthy colors, soft tones
+```
+
+[Source](https://prompthero.com/prompt/de1819b1b14-flux-flux-11-pro-a-photo-of-an-eccentric-woman-sitting-on-top-of-white-fluffy-clouds-wearing-big-sunglasses-and-light-blue-pajamas)
+
+---
+
+<a id="prompthero-de8453986d9"></a>
+
+## Fashion photography, close portrait of two albino \.\.\.
+
+<a href="https://cdn.prompthero.com/7261du6h167d38oyev3oww260rpe-stable-diffusion-2-base-fashion-photography-close-portrait-of-two-albino-twin-sisters-in-red-light-at-night-club-volumetric-lighting-cinematic-angle-glamour.png"><img src="https://cdn.prompthero.com/7261du6h167d38oyev3oww260rpe-stable-diffusion-2-base-fashion-photography-close-portrait-of-two-albino-twin-sisters-in-red-light-at-night-club-volumetric-lighting-cinematic-angle-glamour.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+Fashion photography, close portrait of two albino twin sisters in red light at night club, volumetric lighting, cinematic angle, glamour vibrant, highres, realistic photo, professional photography, cinematic angle, dynamic light back shining, bokeh,
+```
+
+[Source](https://prompthero.com/prompt/de8453986d9-stable-diffusion-2-base-fashion-photography-close-portrait-of-two-albino-twin-sisters-in-red-light-at-night-club-volumetric-lighting-cinematic-angle-glamour)
+
+---
+
+[1](portraits.md) · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · [5](portraits-5.md) · [6](portraits-6.md) · [7](portraits-7.md) · [8](portraits-8.md) · [9](portraits-9.md) · [10](portraits-10.md) · [11](portraits-11.md) · [12](portraits-12.md) · [13](portraits-13.md) · [14](portraits-14.md) · [15](portraits-15.md) · [16](portraits-16.md) · [17](portraits-17.md) · [18](portraits-18.md) · [19](portraits-19.md) · [20](portraits-20.md) · [21](portraits-21.md) · [22](portraits-22.md) · [23](portraits-23.md) · [24](portraits-24.md) · [25](portraits-25.md) · [26](portraits-26.md) · [27](portraits-27.md) · [28](portraits-28.md) · [29](portraits-29.md) · [30](portraits-30.md) · **31** · [32](portraits-32.md) · [33](portraits-33.md) · [34](portraits-34.md) · [35](portraits-35.md)
 
 [← Home](../README.md)

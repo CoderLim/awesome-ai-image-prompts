@@ -6,22 +6,6 @@
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
-<a id="prompthero-bc9f7090538"></a>
-
-## sci-fi, digital art, robotic head of a Deer, weari\.\.\.
-
-<a href="https://cdn.prompthero.com/twgvul211nll5vo9eajjt8xzxdin-juggernaut-xl-v9rdphoto2-lightning4s-sci-fi-digital-art-robotic-head-of-a-deer-wearing-cybernetics-its-cybernetics-rolled-up-sleeves-designed-by-james-paick.png"><img src="https://cdn.prompthero.com/twgvul211nll5vo9eajjt8xzxdin-juggernaut-xl-v9rdphoto2-lightning4s-sci-fi-digital-art-robotic-head-of-a-deer-wearing-cybernetics-its-cybernetics-rolled-up-sleeves-designed-by-james-paick.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-sci-fi, digital art, robotic head of a Deer, wearing cybernetics, its cybernetics rolled up sleeves, designed by James Paick, Roger Dean, Evil, studio lighting, 800mm lens, cybernetic
-```
-
-[Source](https://prompthero.com/prompt/bc9f7090538-juggernaut-xl-v9rdphoto2-lightning4s-sci-fi-digital-art-robotic-head-of-a-deer-wearing-cybernetics-its-cybernetics-rolled-up-sleeves-designed-by-james-paick)
-
----
-
 <a id="prompthero-bc89d63da26"></a>
 
 ## Image is a digital fantasy artwork featuring a wit\.\.\.
@@ -323,6 +307,22 @@ bright sunny day beautiful cloudy sky sunset sports car racing down cyberpunk Mi
 ```
 
 By [@heeyrina](https://prompthero.com/prompt/d4aa895a5b0-dreamshaper-33-bright-sunny-day-beautiful-cloudy-sky-sunset-sports-car-racing-down-cyberpunk-miami-city-streets-neon-signs-and-crowds-confetti)
+
+---
+
+<a id="prompthero-d5de20b2423"></a>
+
+## A moody, hyper realistic and, cinematic scene of \.\.\.
+
+<a href="https://cdn.prompthero.com/grwv427vewxxw1pgceemxa94ofia-sd-xl-v10-a-moody-hyper-realistic-and-cinematic-scene-of-young-woman-sitting-on-a-wooden-floor-in-a-dimly-lit-room.jpeg"><img src="https://cdn.prompthero.com/grwv427vewxxw1pgceemxa94ofia-sd-xl-v10-a-moody-hyper-realistic-and-cinematic-scene-of-young-woman-sitting-on-a-wooden-floor-in-a-dimly-lit-room.jpeg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+A moody, hyper realistic and, cinematic scene of (((young))) woman sitting on a wooden floor in a dimly lit room, she looks calm and relaxed. She wears dark, floral-patterned lingerie, her posture slightly slouched as she leans against the wall, holding an empty glass bottle in one hand. To her side, a small red lamp casts a soft, warm glow, creating dramatic shadows and highlighting her silhouette. The wallpaper behind her has a subtle floral pattern, adding texture to the otherwise minimal room. A colorful wall clock above hints at time passing, while small details—a burnt-out cigarette, a lighter nearby—enhance the sense of melancholy and solitude. The overall color palette is subdued, with muted tones, allowing the red light and shadows to add contrast and depth to the scene. A contemplative, fine art photograph capturing a moment of quiet introspection and urban solitude.
+```
+
+[Source](https://prompthero.com/prompt/d5de20b2423-sd-xl-v10-a-moody-hyper-realistic-and-cinematic-scene-of-young-woman-sitting-on-a-wooden-floor-in-a-dimly-lit-room)
 
 ---
 

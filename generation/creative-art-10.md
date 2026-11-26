@@ -6,22 +6,6 @@
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
-<a id="prompthero-ac2d4b9faeb"></a>
-
-## Gothic style Gothic style 1woman, \(full body image\.\.\.
-
-<a href="https://cdn.prompthero.com/drtv4knl3y3ars7mmyfuss7jtagv-flux-flux-11-pro-ultra-gothic-style-gothic-style-1woman-full-body-image-with-nothing-cropped-out12-mechanical-battle-harden-warrior-with-a-heads-up.jpg"><img src="https://cdn.prompthero.com/drtv4knl3y3ars7mmyfuss7jtagv-flux-flux-11-pro-ultra-gothic-style-gothic-style-1woman-full-body-image-with-nothing-cropped-out12-mechanical-battle-harden-warrior-with-a-heads-up.jpg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-Gothic style Gothic style 1woman, (full body image with nothing cropped out:1.2), mechanical battle harden warrior with a heads up display. dark digital fantasy high tech world. sinister vibes, intimidating presence . Dark, mysterious, haunting, dramatic, ornate, detailed, mechanical glowing halo around head . Dark, mysterious, haunting, dramatic, ornate, detailed
-```
-
-[Source](https://prompthero.com/prompt/ac2d4b9faeb-flux-flux-11-pro-ultra-gothic-style-gothic-style-1woman-full-body-image-with-nothing-cropped-out12-mechanical-battle-harden-warrior-with-a-heads-up)
-
----
-
 <a id="prompthero-ac56ab79457"></a>
 
 ## A Girl Shining silver short hair peeking from unde\.\.\.
@@ -323,6 +307,22 @@ A cinematic abstract photo with heavy motion blur, capturing warm amber and gold
 ```
 
 [Source](https://prompthero.com/prompt/bc2ab68acdc-flux-flux-11-pro-a-cinematic-abstract-photo-with-heavy-motion-blur-capturing-warm-amber-and-gold-tones-streaked-across-a-dark-moody-urban)
+
+---
+
+<a id="prompthero-bc9f7090538"></a>
+
+## sci-fi, digital art, robotic head of a Deer, weari\.\.\.
+
+<a href="https://cdn.prompthero.com/twgvul211nll5vo9eajjt8xzxdin-juggernaut-xl-v9rdphoto2-lightning4s-sci-fi-digital-art-robotic-head-of-a-deer-wearing-cybernetics-its-cybernetics-rolled-up-sleeves-designed-by-james-paick.png"><img src="https://cdn.prompthero.com/twgvul211nll5vo9eajjt8xzxdin-juggernaut-xl-v9rdphoto2-lightning4s-sci-fi-digital-art-robotic-head-of-a-deer-wearing-cybernetics-its-cybernetics-rolled-up-sleeves-designed-by-james-paick.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+sci-fi, digital art, robotic head of a Deer, wearing cybernetics, its cybernetics rolled up sleeves, designed by James Paick, Roger Dean, Evil, studio lighting, 800mm lens, cybernetic
+```
+
+[Source](https://prompthero.com/prompt/bc9f7090538-juggernaut-xl-v9rdphoto2-lightning4s-sci-fi-digital-art-robotic-head-of-a-deer-wearing-cybernetics-its-cybernetics-rolled-up-sleeves-designed-by-james-paick)
 
 ---
 

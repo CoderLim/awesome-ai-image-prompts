@@ -6,22 +6,6 @@
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
-<a id="prompthero-7a8d18dc8ac"></a>
-
-## A whimsical and surreal illustration featuring a D\.\.\.
-
-<a href="https://cdn.prompthero.com/ad7a60s8yccp4ukufxgkacppno1d-flux-schnell-a-whimsical-and-surreal-illustration-featuring-a-dr-seuss-inspired-safari-queen-adorned-in-an-eclectic-array-of-animal-prints.png"><img src="https://cdn.prompthero.com/ad7a60s8yccp4ukufxgkacppno1d-flux-schnell-a-whimsical-and-surreal-illustration-featuring-a-dr-seuss-inspired-safari-queen-adorned-in-an-eclectic-array-of-animal-prints.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-A whimsical and surreal illustration featuring a Dr. Seuss-inspired Safari Queen, adorned in an eclectic array of animal prints and wild patterns. Her vibrant, swirling hair is a kaleidoscope of colors, and she exudes confidence with a fierce, yet playful expression. The background is an enchanting jungle, teeming with life, where talking animals, oversized plants, and floating islands create a mesmerizing scene. This 3D render combines elements of anime, fashion, and dark fantasy, with an emphasis on dynamic composition, vibrant colors, and conceptual art. The artist's signature, "Chandara," is delicately placed on the right, adding a touch of personal flair to this captivating masterpiece., 3d render, photo, conceptual art, product, fashion, architecture, illustration
-```
-
-[Source](https://prompthero.com/prompt/7a8d18dc8ac-flux-schnell-a-whimsical-and-surreal-illustration-featuring-a-dr-seuss-inspired-safari-queen-adorned-in-an-eclectic-array-of-animal-prints)
-
----
-
 <a id="prompthero-07ae9c76f5c"></a>
 
 ## A surreal, abstract artwork featuring three figure\.\.\.
@@ -323,6 +307,22 @@ a close-up dragon statue, made of marble, gold and white details, complicated pa
 ```
 
 [Source](https://prompthero.com/prompt/12df2c425f9-flux-flux-11-pro-masterpiece12-best-quality11-dynamic-silhouette12-detailed-runner-against-glowing-sunrise-dramatic-high-contrast-lighting-vivid-fiery-orange-and-bright-yellow)
+
+---
+
+<a id="prompthero-13ebfb0bf78"></a>
+
+## Codename: Necromancer
+
+<a href="https://cdn.prompthero.com/vukdbmkd4ydb7paiysvvxjpv3xl8-midjourney-51-codename-necromancer.jpg"><img src="https://cdn.prompthero.com/vukdbmkd4ydb7paiysvvxjpv3xl8-midjourney-51-codename-necromancer.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+Full battle armored futuristic soldier with advanced weapons and accessories, street, overcast, reflection mapping, intricate design and details, dramatic lighting, hyperrealism, photorealistic, cinematic, 8k, unreal engine --ar 9:16 --s 750
+```
+
+By [@abyishot](https://prompthero.com/prompt/13ebfb0bf78-midjourney-51-codename-necromancer)
 
 ---
 

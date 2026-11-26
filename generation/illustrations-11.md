@@ -6,38 +6,6 @@
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
-<a id="prompthero-e0972704df5"></a>
-
-## \(masterpiece\), \(best quality\), ultra-detailed, ani\.\.\.
-
-<a href="https://cdn.prompthero.com/147g2qb6d58gd2jn8xudmrxe87zt-stable-diffusion-15-masterpiece-best-quality-ultra-detailed-anime-style-solo-female-cyborg-long-purple-braided-hair-glowing-green-eyes-pale-skin-curvy.jpg"><img src="https://cdn.prompthero.com/147g2qb6d58gd2jn8xudmrxe87zt-stable-diffusion-15-masterpiece-best-quality-ultra-detailed-anime-style-solo-female-cyborg-long-purple-braided-hair-glowing-green-eyes-pale-skin-curvy.jpg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-(masterpiece), (best quality), ultra-detailed, anime style, solo female cyborg, long purple braided hair, glowing green eyes, pale skin, curvy and athletic body, wearing a futuristic armored bodysuit with white plating, black carbon fiber tech segments, gold-accented joints, glowing circuits on arms and spine, fully mechanical arms with visible articulation and embedded tech, glowing neural ports on her back and neck, sleek biomechanical spine, confident and calculating expression, high-tech visor retracted above one eye, cinematic lighting, dark cyberpunk city background with glowing signage, wet surfaces reflecting light, full-body portrait, final form, Deus Ex aesthetic, 768x1152 resolution
-```
-
-[Source](https://prompthero.com/prompt/e0972704df5-stable-diffusion-15-masterpiece-best-quality-ultra-detailed-anime-style-solo-female-cyborg-long-purple-braided-hair-glowing-green-eyes-pale-skin-curvy)
-
----
-
-<a id="prompthero-ea78f9c1c8c"></a>
-
-## front view portrait photograph, negative contrast \.\.\.
-
-<a href="https://cdn.prompthero.com/tibvi4u9a8ekbjrz7gx7cxbw45gs-dreamshaper-5-baked-vae-front-view-portrait-photograph-negative-contrast-backgroundglowing-sunshine-natural-light-very-strong-front-lightmasterpiece-best-quality-hyperdetailed-intricate-ultra-realistic.jpg"><img src="https://cdn.prompthero.com/tibvi4u9a8ekbjrz7gx7cxbw45gs-dreamshaper-5-baked-vae-front-view-portrait-photograph-negative-contrast-backgroundglowing-sunshine-natural-light-very-strong-front-lightmasterpiece-best-quality-hyperdetailed-intricate-ultra-realistic.jpg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-front view portrait photograph, negative contrast background,glowing sunshine, natural light, very strong front light,masterpiece best quality hyperdetailed intricate ultra realistic flat color pastel mix 2D vector 1 cute girl hopeful, cheerful red cheek, hyperdetailed intricate flat color flying fluffy contrast symmetrical pink and blue hair, beautiful detailed gloss lips, soft smooth white skin, hyperdetailed beautiful intricate anime blue eyes,masterpiece best quality hyperdetailed intricate clothes,Mary Cassatt style painting,hyperdetailed many glowing tiny yellow papers floating in the air,precise hard pencil strokes, precise brush strokes,album cover art, clean art, colorful, symmetrical, 2D vector art, 2D illustration art, flat color art, 128K resolution, glamorous, digital art, digital painting, colorful ink illustration, hyperdetailed sharp focus, digital illustration, perfect composition,
-```
-
-[Source](https://prompthero.com/prompt/ea78f9c1c8c-dreamshaper-5-baked-vae-front-view-portrait-photograph-negative-contrast-backgroundglowing-sunshine-natural-light-very-strong-front-lightmasterpiece-best-quality-hyperdetailed-intricate-ultra-realistic)
-
----
-
 <a id="prompthero-ed4dc40b629"></a>
 
 ## Riva del Garda, North Italy III

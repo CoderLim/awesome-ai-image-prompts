@@ -1,90 +1,10 @@
 # portraits
 
-[← Home](../README.md) · Page 14 / 36
+[← Home](../README.md) · Page 14 / 35
 
-[1](portraits.md) · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · [5](portraits-5.md) · [6](portraits-6.md) · [7](portraits-7.md) · [8](portraits-8.md) · [9](portraits-9.md) · [10](portraits-10.md) · [11](portraits-11.md) · [12](portraits-12.md) · [13](portraits-13.md) · **14** · [15](portraits-15.md) · [16](portraits-16.md) · [17](portraits-17.md) · [18](portraits-18.md) · [19](portraits-19.md) · [20](portraits-20.md) · [21](portraits-21.md) · [22](portraits-22.md) · [23](portraits-23.md) · [24](portraits-24.md) · [25](portraits-25.md) · [26](portraits-26.md) · [27](portraits-27.md) · [28](portraits-28.md) · [29](portraits-29.md) · [30](portraits-30.md) · [31](portraits-31.md) · [32](portraits-32.md) · [33](portraits-33.md) · [34](portraits-34.md) · [35](portraits-35.md) · [36](portraits-36.md)
+[1](portraits.md) · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · [5](portraits-5.md) · [6](portraits-6.md) · [7](portraits-7.md) · [8](portraits-8.md) · [9](portraits-9.md) · [10](portraits-10.md) · [11](portraits-11.md) · [12](portraits-12.md) · [13](portraits-13.md) · **14** · [15](portraits-15.md) · [16](portraits-16.md) · [17](portraits-17.md) · [18](portraits-18.md) · [19](portraits-19.md) · [20](portraits-20.md) · [21](portraits-21.md) · [22](portraits-22.md) · [23](portraits-23.md) · [24](portraits-24.md) · [25](portraits-25.md) · [26](portraits-26.md) · [27](portraits-27.md) · [28](portraits-28.md) · [29](portraits-29.md) · [30](portraits-30.md) · [31](portraits-31.md) · [32](portraits-32.md) · [33](portraits-33.md) · [34](portraits-34.md) · [35](portraits-35.md)
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
-
-<a id="prompthero-9ef0ebba80a"></a>
-
-## Ultra-realistic photograph captured with a Canon E\.\.\.
-
-<a href="https://cdn.prompthero.com/penx2anail8h3fdcyd2g6ktw85-ultra-realistic-photograph-captured-with-a-canon-eos-5d-mark-iv-dslr-camera-using-a-canon-ef-85mm-f14l-usm.jpeg"><img src="https://cdn.prompthero.com/penx2anail8h3fdcyd2g6ktw85-ultra-realistic-photograph-captured-with-a-canon-eos-5d-mark-iv-dslr-camera-using-a-canon-ef-85mm-f14l-usm.jpeg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-Ultra-realistic photograph captured with a Canon EOS 5D Mark IV DSLR camera using a Canon EF 85mm f/1.4L USM lens at f/1.8 aperture, creating a pronounced shallow depth of field with sharp critical focus on the subject and creamy, buttery bokeh in the background. Hyper-realistic skin textures with visible pores, fine subsurface scattering, micro-imperfections, and natural matte finish. A sinister colossal dark fantasy figure transformed into a single massive, muscular male form. Long nails are dramatically embedded deep into its scalp and protrude from its crown. Skin is matte like aged wood with subtle scaly texture visible at the temples and collar. Intense hypnotic gaze fixed directly forward, piercing and mesmerizing. Powerful, strong, hard male physique with idealized proportions and classic Alberto Vargas pin-up art aesthetic, rendered in complete photorealism. Pose, gaze direction, silhouette, clothing motifs, identifying features, background, lighting setup, and all prop arrangements are precisely preserved from the original scene. Framing, composition, and placement remain identical. Cinematic materials with photorealistic detail: natural fiber wrappings, subtle dark metal fittings, and lifelike surface qualities. Masterpiece, ultra-photorealistic, 8K resolution, exceptional material fidelity, filmic color grading, natural light falloff, National Geographic level realism.
-```
-
-[Source](https://prompthero.com/prompt/9ef0ebba80a-ultra-realistic-photograph-captured-with-a-canon-eos-5d-mark-iv-dslr-camera-using-a-canon-ef-85mm-f14l-usm)
-
----
-
-<a id="prompthero-9f508e9e514"></a>
-
-## the woman is dressed in a futuristic black leather\.\.\.
-
-<a href="https://cdn.prompthero.com/xc1nj0twvyyx0dvlqbsegkjb5v7h-midjourney-52-the-woman-is-dressed-in-a-futuristic-black-leather-suit-in-the-style-of-animated-gifs-soft-focused-realism-splattereddripped.png"><img src="https://cdn.prompthero.com/xc1nj0twvyyx0dvlqbsegkjb5v7h-midjourney-52-the-woman-is-dressed-in-a-futuristic-black-leather-suit-in-the-style-of-animated-gifs-soft-focused-realism-splattereddripped.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-the woman is dressed in a futuristic black leather suit, in the style of animated gifs, soft-focused realism, splattered/dripped, golden light, lightningwave, catcore, neo-victorian --ar 35:59 --s 750 --v 5.2
-```
-
-By [@NorthmoorAI](https://prompthero.com/prompt/9f508e9e514-midjourney-52-the-woman-is-dressed-in-a-futuristic-black-leather-suit-in-the-style-of-animated-gifs-soft-focused-realism-splattereddripped)
-
----
-
-<a id="prompthero-10b5f6231b8"></a>
-
-## Top quality live action, high resolution, masterpi\.\.\.
-
-<a href="https://cdn.prompthero.com/dbixdddtp9yl152v8qw3cdhexeb0-flux-flux-11-pro-top-quality-live-action-high-resolution-masterpiece-very-detailed-complete-anatomy-full-body-shot-kneeling-with-hands-behind-back-searching.jpg"><img src="https://cdn.prompthero.com/dbixdddtp9yl152v8qw3cdhexeb0-flux-flux-11-pro-top-quality-live-action-high-resolution-masterpiece-very-detailed-complete-anatomy-full-body-shot-kneeling-with-hands-behind-back-searching.jpg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-Top quality live action, high resolution, masterpiece, very detailed, complete anatomy, full body shot, kneeling with hands behind back, searching, slightly tilting head, slightly open mouth smile, a Japanese woman, actress, cute Japanese girl, very cute face, straight pose, beautiful shiny skin, shiny skin from sweat, delicate facial features, glitter, shiny black ponytail, beautiful irises, shiny polymer suit that matches skin perfectly, transparent polymer suit with pearlescent sheen, delicate electronic circuits visible inside body, thick metal collar, laboratory interior background.
-```
-
-[Source](https://prompthero.com/prompt/10b5f6231b8-flux-flux-11-pro-top-quality-live-action-high-resolution-masterpiece-very-detailed-complete-anatomy-full-body-shot-kneeling-with-hands-behind-back-searching)
-
----
-
-<a id="prompthero-10f0cdd16db"></a>
-
-## Strong male, green eyes, short silver hair, white \.\.\.
-
-<a href="https://cdn.prompthero.com/sri1zlu8fmatu3glnv7zlzi7b4t2-cetus-mix-cetusversion3-strong-male-green-eyes-short-silver-hair-white-robe-fov-f18-masterpiece-veil-mouth-veil-blood-moon-night-flower-petals.png"><img src="https://cdn.prompthero.com/sri1zlu8fmatu3glnv7zlzi7b4t2-cetus-mix-cetusversion3-strong-male-green-eyes-short-silver-hair-white-robe-fov-f18-masterpiece-veil-mouth-veil-blood-moon-night-flower-petals.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-Strong male, green eyes, short silver hair, white robe, fov, f/1.8, masterpiece, (veil, mouth veil), blood moon, night, flower petals flying, front portrait shot, side light, moonlight shining on people, 8K
-```
-
-By [@heeyrina](https://prompthero.com/prompt/10f0cdd16db-cetus-mix-cetusversion3-strong-male-green-eyes-short-silver-hair-white-robe-fov-f18-masterpiece-veil-mouth-veil-blood-moon-night-flower-petals)
-
----
-
-<a id="prompthero-11a678af0b9"></a>
-
-## Portrait of a woman with long, wavy hair, looking \.\.\.
-
-<a href="https://cdn.prompthero.com/v1_565efe64b9473f76953650ab11-grok-image-grok-imagine-image-2-portrait-of-a-woman-with-long-wavy-hair-looking-up-and-to-the-side-black-and-white-with-strong-chiaroscuro.jpg"><img src="https://cdn.prompthero.com/v1_565efe64b9473f76953650ab11-grok-image-grok-imagine-image-2-portrait-of-a-woman-with-long-wavy-hair-looking-up-and-to-the-side-black-and-white-with-strong-chiaroscuro.jpg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-Portrait of a woman with long, wavy hair, looking up and to the side. Black and white with strong chiaroscuro accentuating facial features. Dramatic lighting, focused on the face, with a dark, blurred background. The expression is pensive, with the mouth slightly open. A high-resolution, fashion aesthetic with fine detail.
-```
-
-By [@chorlo](https://prompthero.com/prompt/11a678af0b9-grok-image-grok-imagine-image-2-portrait-of-a-woman-with-long-wavy-hair-looking-up-and-to-the-side-black-and-white-with-strong-chiaroscuro)
-
----
 
 <a id="prompthero-011d06b41b5"></a>
 
@@ -326,6 +246,86 @@ saturated colorful art, dark fantasy portrait of future teller young woman,,rich
 
 ---
 
-[1](portraits.md) · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · [5](portraits-5.md) · [6](portraits-6.md) · [7](portraits-7.md) · [8](portraits-8.md) · [9](portraits-9.md) · [10](portraits-10.md) · [11](portraits-11.md) · [12](portraits-12.md) · [13](portraits-13.md) · **14** · [15](portraits-15.md) · [16](portraits-16.md) · [17](portraits-17.md) · [18](portraits-18.md) · [19](portraits-19.md) · [20](portraits-20.md) · [21](portraits-21.md) · [22](portraits-22.md) · [23](portraits-23.md) · [24](portraits-24.md) · [25](portraits-25.md) · [26](portraits-26.md) · [27](portraits-27.md) · [28](portraits-28.md) · [29](portraits-29.md) · [30](portraits-30.md) · [31](portraits-31.md) · [32](portraits-32.md) · [33](portraits-33.md) · [34](portraits-34.md) · [35](portraits-35.md) · [36](portraits-36.md)
+<a id="prompthero-23c2bcf18da"></a>
+
+## A portrait of a folklore character, such as a sly \.\.\.
+
+<a href="https://cdn.prompthero.com/kpp8brjo82ghfkmn9nhub13yd8ex-flux-flux-11-pro-a-portrait-of-a-folklore-character-such-as-a-sly-trickster-or-a-benevolent-spirit-the-style-is-reminiscent-of.jpg"><img src="https://cdn.prompthero.com/kpp8brjo82ghfkmn9nhub13yd8ex-flux-flux-11-pro-a-portrait-of-a-folklore-character-such-as-a-sly-trickster-or-a-benevolent-spirit-the-style-is-reminiscent-of.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+A portrait of a folklore character, such as a sly trickster or a benevolent spirit. The style is reminiscent of John Bauers work, with a focus on intricate details and a vibrant colour palette. The lighting is soft and diffused, giving the scene a dreamy quality.
+```
+
+[Source](https://prompthero.com/prompt/23c2bcf18da-flux-flux-11-pro-a-portrait-of-a-folklore-character-such-as-a-sly-trickster-or-a-benevolent-spirit-the-style-is-reminiscent-of)
+
+---
+
+<a id="prompthero-23e9f4444c3"></a>
+
+## black and white photography, deconstucivist Fashio\.\.\.
+
+<a href="https://cdn.prompthero.com/6j881d1wvmi99qxfxp5ba8ddjvb9-flux-flux1-dev-black-and-white-photography-deconstucivist-fashion-shot-from-a-distance-photo-of-a-24-year-old-fulani-chechen-female-graceful.jpeg"><img src="https://cdn.prompthero.com/6j881d1wvmi99qxfxp5ba8ddjvb9-flux-flux1-dev-black-and-white-photography-deconstucivist-fashion-shot-from-a-distance-photo-of-a-24-year-old-fulani-chechen-female-graceful.jpeg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+black and white photography, deconstucivist Fashion shot from a distance photo of a 24 year old Fulani-Chechen female graceful swimmer with Curious wonder expression. Her body is Sculpted, firm arms with tight, smooth skin, toned muscles, abs, small breast, flat chest. She has Fair skin with a natural sheen, reflecting light softly. The skin pores and texture are clearly visible and in focus. Her Shield-shaped eyes, Subtle, pale grey eyes, framed by long, elegant eyelashes. Her eyebrows are Curved and bushy shaped, complementing her delicate facial features. Layered, patchwork hoodies with exposed zippers, midriff, Distressed jeans with uneven cuts, Body turned with one hand in a pocket , rule of thirds, in the background Fractured metal columns supporting a roof, in the style of Viviane Sassen
+```
+
+By [@AkiraS](https://prompthero.com/prompt/23e9f4444c3-flux-flux1-dev-black-and-white-photography-deconstucivist-fashion-shot-from-a-distance-photo-of-a-24-year-old-fulani-chechen-female-graceful)
+
+---
+
+<a id="prompthero-023f8d89910"></a>
+
+## an illustration of a woman with long brown hair, i\.\.\.
+
+<a href="https://cdn.prompthero.com/b5m0stofw3t8hvnovviw9arnitxv-midjourney-6-an-illustration-of-a-woman-with-long-brown-hair-in-the-style-of-ingrid-baars-j-scott-campbell-dark-beige.png"><img src="https://cdn.prompthero.com/b5m0stofw3t8hvnovviw9arnitxv-midjourney-6-an-illustration-of-a-woman-with-long-brown-hair-in-the-style-of-ingrid-baars-j-scott-campbell-dark-beige.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+an illustration of a woman with long brown hair, in the style of ingrid baars, j. scott campbell, dark beige and light amber, close-up, thiago valdi, charming characters, 8k --ar 73:112 --stylize 750 --v 6
+```
+
+By [@NorthmoorAI](https://prompthero.com/prompt/023f8d89910-midjourney-6-an-illustration-of-a-woman-with-long-brown-hair-in-the-style-of-ingrid-baars-j-scott-campbell-dark-beige)
+
+---
+
+<a id="prompthero-025afb28307"></a>
+
+## fashion photography, professional man model, shot \.\.\.
+
+<a href="https://cdn.prompthero.com/85raae2ki7gx652p24b0yxn7od2n-midjourney-6-fashion-photography-professional-man-model-shot-with-canon-eos-r3-50mm-f12-rf-lens-f28-settings-1160s-iso-1600-gradient.png"><img src="https://cdn.prompthero.com/85raae2ki7gx652p24b0yxn7od2n-midjourney-6-fashion-photography-professional-man-model-shot-with-canon-eos-r3-50mm-f12-rf-lens-f28-settings-1160s-iso-1600-gradient.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+fashion photography, professional man model, shot with Canon eos r3, 50mm f/1.2 rf lens, f/2.8 settings, 1/160s, iso 1600, gradient neon violet, streetwear style, holographic effect on wear, luminescent sneaker soles, dark backdrop with deep purple atmospheric lighting, professional studio setup with two led strip lights at floor level and one overhead softbox at 5600k, cyberpunk aesthetic, side profile pose with silhouette, dramatic contrast, ultra sharp details, photorealistic quality, 48K resolution, rich detailing --chaos 16 --ar 9:16 --style raw --personalize c84qxg1 --stylize 300 --v 6.1
+```
+
+By [@Grayve](https://prompthero.com/prompt/025afb28307-midjourney-6-fashion-photography-professional-man-model-shot-with-canon-eos-r3-50mm-f12-rf-lens-f28-settings-1160s-iso-1600-gradient)
+
+---
+
+<a id="prompthero-25d3b8bca6c"></a>
+
+## an ultra high definition professional high fashion\.\.\.
+
+<a href="https://cdn.prompthero.com/htcvxuylxomxrf6rvqv2k6edl8f7-midjourney-5-an-ultra-high-definition-professional-high-fashion-portrait-studio-full-length-photograph-of-a-male-model-wearing-a-transparent-pearlescent.jpg"><img src="https://cdn.prompthero.com/htcvxuylxomxrf6rvqv2k6edl8f7-midjourney-5-an-ultra-high-definition-professional-high-fashion-portrait-studio-full-length-photograph-of-a-male-model-wearing-a-transparent-pearlescent.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+an ultra high definition professional high fashion portrait studio full length photograph of a male model wearing a transparent pearlescent raincoat and neon visor in an icelandic black rock environment at dawn. no artefacts. extremely detailed. stark. refraction. shallow depth of field. volumetric light and shadow. ray tracing. light rays ||  jewelry, text, watermark, long neck, lowres, bad anatomy, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, blurry --q 2 --v 5 --ar 3:4
+```
+
+[Source](https://prompthero.com/prompt/25d3b8bca6c-midjourney-5-an-ultra-high-definition-professional-high-fashion-portrait-studio-full-length-photograph-of-a-male-model-wearing-a-transparent-pearlescent)
+
+---
+
+[1](portraits.md) · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · [5](portraits-5.md) · [6](portraits-6.md) · [7](portraits-7.md) · [8](portraits-8.md) · [9](portraits-9.md) · [10](portraits-10.md) · [11](portraits-11.md) · [12](portraits-12.md) · [13](portraits-13.md) · **14** · [15](portraits-15.md) · [16](portraits-16.md) · [17](portraits-17.md) · [18](portraits-18.md) · [19](portraits-19.md) · [20](portraits-20.md) · [21](portraits-21.md) · [22](portraits-22.md) · [23](portraits-23.md) · [24](portraits-24.md) · [25](portraits-25.md) · [26](portraits-26.md) · [27](portraits-27.md) · [28](portraits-28.md) · [29](portraits-29.md) · [30](portraits-30.md) · [31](portraits-31.md) · [32](portraits-32.md) · [33](portraits-33.md) · [34](portraits-34.md) · [35](portraits-35.md)
 
 [← Home](../README.md)

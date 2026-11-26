@@ -6,22 +6,6 @@
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
-<a id="freestylefly-case-231"></a>
-
-## 疾风起狂草艺术字体设计
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case231.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case231.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-[中文] 创意艺术字体“纵有疾风起”，秀丽笔手写风格，整体文字横版排列，具有强烈视觉冲击力； 深度融合手写书法笔意，笔触带毛笔书写的粗犷洒脱，如挥毫泼墨的肆意劲道； 起收笔的飞白，顿挫，尽显促销的火爆张力，文字的形态打破规整，笔画的粗细变化； dutch angle，营造出动感冲刺的气势，字形呈奔放之势； 重心上扬如蓄势待发，笔画的伸展，穿插毫无拘束，似全力冲刺的劲道； 整体架构疏密交织，紧密处如促销热潮的汹涌，留白处似优惠间隙的呼吸感； 纯净黑色背景打底，完美契合热烈氛围，艺术字的形态与色彩酣畅传递。 [English] Creative artistic typography "Zong You Ji Feng Qi", hand-written style with a fine brush, overall text arranged horizontally, with strong visual impact; Deeply integrated with the essence of handwritten calligraphy, the brushstrokes carry the rugged and free-spirited nature of brush writing, like the unrestrained vigor of splashing ink; The flying white and pauses at the start and end of the strokes fully display the explosive tension of a promotion, the form of the text breaks away from neatness, with variations in the thickness of the strokes; dutch angle, creating a dynamic sprinting momentum, the font shape shows a bold and unrestrained trend; The center of gravity rises like being ready to launch, the stretching and interlacing of the strokes are completely unconstrained, like the vigor of a full-force sprint; The overall structure is intertwined with density and sparseness, the tight parts are like the surging of a promotional craze, and the blank spaces are like the breathing sense during promotional gaps; Pure black background as the base, perfectly fitting the passionate atmosphere, the form and color of the artistic typography are conveyed with full expressiveness.
-```
-
-By [OpenNana](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-231)
-
----
-
 <a id="freestylefly-case-286"></a>
 
 ## 珠江新城剪纸璀璨夜景
@@ -323,6 +307,22 @@ dachshund dog, red, one eye blue, the other brown, wearing large Marshall headph
 ```
 
 [Source](https://prompthero.com/prompt/0b6df7f515f-midjourney-niji-v6-dachshund-dog-red-one-eye-blue-the-other-brown-wearing-large-marshall-headphones-a-red-down-jacket-standing-on-the)
+
+---
+
+<a id="prompthero-0c97785b276"></a>
+
+## Transform to extreme vivid fantasy realism style a\.\.\.
+
+<a href="https://cdn.prompthero.com/tji7lpvibmvsu5nykoibu5h8yb4r-flux-flux-11-pro-transform-to-extreme-vivid-fantasy-realism-style-art-ultra-detailed-masterpiece-depiction-of-medusa-from-marvel-inc-in-hyper-realistic.jpg"><img src="https://cdn.prompthero.com/tji7lpvibmvsu5nykoibu5h8yb4r-flux-flux-11-pro-transform-to-extreme-vivid-fantasy-realism-style-art-ultra-detailed-masterpiece-depiction-of-medusa-from-marvel-inc-in-hyper-realistic.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+Transform to extreme vivid fantasy realism style art, ultra-detailed masterpiece, depiction of Medusa from Marvel Inc., in hyper-realistic fantasy digital photography, meticulously captured with precision and care, centered, perfect composition, overexposed photography creating a striking and ethereal atmosphere, sharp focus ensuring exquisite details, clear and bright elements highlighting her iconic red hair, expressive eyes filled with regal command and inner turmoil, the intricate details showcasing her flowing hair and stoic pose, seamlessly merging realism with fantasy, celebrating the essence of power and her inner conflicts in a visually stunning and imaginative setting.
+```
+
+[Source](https://prompthero.com/prompt/0c97785b276-flux-flux-11-pro-transform-to-extreme-vivid-fantasy-realism-style-art-ultra-detailed-masterpiece-depiction-of-medusa-from-marvel-inc-in-hyper-realistic)
 
 ---
 

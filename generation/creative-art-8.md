@@ -6,22 +6,6 @@
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
-<a id="prompthero-865c082bdb4"></a>
-
-## Close-up of a human face dissolving into a network\.\.\.
-
-<a href="https://cdn.prompthero.com/mmjgu41imi70icij2w6dqb7n8s-chatgpt-image-gpt-image-2-close-up-of-a-human-face-dissolving-into-a-network-of-interconnected-neurons-and-synapses-with-a-blurred-green-and.png"><img src="https://cdn.prompthero.com/mmjgu41imi70icij2w6dqb7n8s-chatgpt-image-gpt-image-2-close-up-of-a-human-face-dissolving-into-a-network-of-interconnected-neurons-and-synapses-with-a-blurred-green-and.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-Close-up of a human face dissolving into a network of interconnected neurons and synapses, with a blurred green and yellow background. The face is partially obscured by swirling, dark, organic tendrils resembling neural pathways. The lighting is dramatic, highlighting the textured surface of the face and the intricate details of the neural network. The overall mood is surreal and thought-provoking, suggesting themes of memory, consciousness, or the breakdown of identity, <lora:Krea2-ChatGPT-2.0-Style-v0.1:0.85> Negative prompt: worst quality, low quality, blurry, ugly, bad, low-resolution, signature, watermarks, pixelated, artifacts, bad anatomy, jpeg artifacts,no freckles Steps: 8, CFG scale: 1, Sampler: Euler, Seed: 1014387827, RNG: CPU, Model: kreamania_v1, width: 832, height: 1216, Version: neo-2.26, Module 1: qwen_image_vae, Module 2: qwen3vl_4b_fp8_scaled, Model hash: 5082a0f1c8, Schedule type: Simple
-```
-
-[Source](https://prompthero.com/prompt/865c082bdb4-chatgpt-image-gpt-image-2-close-up-of-a-human-face-dissolving-into-a-network-of-interconnected-neurons-and-synapses-with-a-blurred-green-and)
-
----
-
 <a id="prompthero-895dd3a1fe7"></a>
 
 ## the head and shoulders of an elderly man with a be\.\.\.
@@ -323,6 +307,22 @@ The angel stands upon the jagged peak of a celestial mountain, his form bathed i
 ```
 
 [Source](https://prompthero.com/prompt/93393b24262-hunyuan-hunyuan-3-the-angel-stands-upon-the-jagged-peak-of-a-celestial-mountain-his-form-bathed-in-an-ethereal-glow-that-pulses)
+
+---
+
+<a id="prompthero-0125037acec"></a>
+
+## Double exposure black and white photography of a w\.\.\.
+
+<a href="https://cdn.prompthero.com/c408cb8hmehnhrpmvuiar7yv0p6y-stable-diffusion-35-large-double-exposure-black-and-white-photography-of-a-womans-face-solemn-and-ethereal-eyes-half-closed-as-if-caught-between.png"><img src="https://cdn.prompthero.com/c408cb8hmehnhrpmvuiar7yv0p6y-stable-diffusion-35-large-double-exposure-black-and-white-photography-of-a-womans-face-solemn-and-ethereal-eyes-half-closed-as-if-caught-between.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+Double exposure black and white photography of a woman’s face, solemn and ethereal, eyes half-closed as if caught between waking and warning. Her face merges with a surreal landscape — mountains cracked open into abysses, rivers of smoke, distant silhouettes of devils and angels battling in silence, wings torn and halos fractured. Liquified elements swirl behind her like melting frescoes — fragments of heaven and hell, celestial ruins dripping into scorched earth. The overall composition has a gothic visual language: heavy contrast, sacred decay, haunted light. Soft grain, vintage lens blur, cinematic 8K resolution, fine grayscale textures like decaying parchment. Atmospheric, spiritual, sorrowful. Barren trees and cathedral arches ghosting through the background like memories of judgment
+```
+
+[Source](https://prompthero.com/prompt/0125037acec-stable-diffusion-35-large-double-exposure-black-and-white-photography-of-a-womans-face-solemn-and-ethereal-eyes-half-closed-as-if-caught-between)
 
 ---
 

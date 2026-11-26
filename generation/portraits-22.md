@@ -1,90 +1,10 @@
 # portraits
 
-[← Home](../README.md) · Page 22 / 36
+[← Home](../README.md) · Page 22 / 35
 
-[1](portraits.md) · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · [5](portraits-5.md) · [6](portraits-6.md) · [7](portraits-7.md) · [8](portraits-8.md) · [9](portraits-9.md) · [10](portraits-10.md) · [11](portraits-11.md) · [12](portraits-12.md) · [13](portraits-13.md) · [14](portraits-14.md) · [15](portraits-15.md) · [16](portraits-16.md) · [17](portraits-17.md) · [18](portraits-18.md) · [19](portraits-19.md) · [20](portraits-20.md) · [21](portraits-21.md) · **22** · [23](portraits-23.md) · [24](portraits-24.md) · [25](portraits-25.md) · [26](portraits-26.md) · [27](portraits-27.md) · [28](portraits-28.md) · [29](portraits-29.md) · [30](portraits-30.md) · [31](portraits-31.md) · [32](portraits-32.md) · [33](portraits-33.md) · [34](portraits-34.md) · [35](portraits-35.md) · [36](portraits-36.md)
+[1](portraits.md) · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · [5](portraits-5.md) · [6](portraits-6.md) · [7](portraits-7.md) · [8](portraits-8.md) · [9](portraits-9.md) · [10](portraits-10.md) · [11](portraits-11.md) · [12](portraits-12.md) · [13](portraits-13.md) · [14](portraits-14.md) · [15](portraits-15.md) · [16](portraits-16.md) · [17](portraits-17.md) · [18](portraits-18.md) · [19](portraits-19.md) · [20](portraits-20.md) · [21](portraits-21.md) · **22** · [23](portraits-23.md) · [24](portraits-24.md) · [25](portraits-25.md) · [26](portraits-26.md) · [27](portraits-27.md) · [28](portraits-28.md) · [29](portraits-29.md) · [30](portraits-30.md) · [31](portraits-31.md) · [32](portraits-32.md) · [33](portraits-33.md) · [34](portraits-34.md) · [35](portraits-35.md)
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
-
-<a id="prompthero-05660af854a"></a>
-
-## Ultra-realistic cinematic fashion portrait of a st\.\.\.
-
-<a href="https://cdn.prompthero.com/azn5wpv8p754ko1u4lejjc7kit-ultra-realistic-cinematic-fashion-portrait-of-a-stunning-young-adult-russian-blonde-woman-with-an-elegant-hourglass-figure-long-voluminous.png"><img src="https://cdn.prompthero.com/azn5wpv8p754ko1u4lejjc7kit-ultra-realistic-cinematic-fashion-portrait-of-a-stunning-young-adult-russian-blonde-woman-with-an-elegant-hourglass-figure-long-voluminous.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-Ultra-realistic cinematic fashion portrait of a stunning young adult Russian blonde woman with an elegant hourglass figure, long voluminous platinum-blonde hair cascading in soft waves, luminous fair skin, delicate facial features, naturally glossy lips, bright expressive blue eyes, subtle luxury makeup, soft blush, confident yet playful expression. She is standing in the middle of a modern city street during golden hour, surrounded by floating futuristic holographic music-player cards displaying customizable songs, albums, artists, playlists, and album artwork.The holographic cards appear suspended in mid-air around her in a dynamic 360-degree arrangement, made of translucent frosted glass with glowing edges, soft reflections, elegant UI design, animated progress bars, music controls, album covers, song titles, artist names, playback indicators, and floating particles. Every music card should be fully customizable, allowing different song names, artists, album covers, playback times, playlist titles, and streaming platform branding.She wears a oversized white T-shirt with a Pink Text on the chest area saying "Peace" , paired with fashionable high-waisted bottoms. Stylish sunglasses rest casually on top of her head. Her posture is confident and relaxed, creating the feeling of a modern music icon or influencer.Warm sunlight streams from behind her, creating dramatic rim lighting around her hair, golden highlights, soft lens flares, cinematic bokeh, and glowing dust particles. Reflections from nearby buildings create realistic light interplay on the holographic interfaces. The city background is softly blurred with shallow depth of field, emphasizing the subject while maintaining environmental realism.Futuristic augmented reality aesthetic, premium social media campaign, luxury music streaming advertisement, next-generation UI design, floating glass interfaces, volumetric lighting, realistic shadows, highly detailed skin texture, individual hair strands visible, photorealistic eyes, natural proportions, elegant styling, cinematic composition, centered framing, dynamic perspective, professional fashion photography, editorial magazine quality, high-end commercial advertising, hyperrealistic rendering, HDR, RAW photography, ultra-detailed, masterpiece, 8K resolution.
-```
-
-[Source](https://prompthero.com/prompt/05660af854a-ultra-realistic-cinematic-fashion-portrait-of-a-stunning-young-adult-russian-blonde-woman-with-an-elegant-hourglass-figure-long-voluminous)
-
----
-
-<a id="prompthero-5924fd0e686"></a>
-
-## Model portrait
-
-<a href="https://cdn.prompthero.com/ioxeehz7yd0b3shp2ilgq2xbui3n-midjourney-6-model-portrait.png"><img src="https://cdn.prompthero.com/ioxeehz7yd0b3shp2ilgq2xbui3n-midjourney-6-model-portrait.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-photography, dimly lit room with a hazy atmosphere, capturing a female figure lounging on a deep crimson color rustic couch, wearing a black suit and white shirt with loose blue tie, arm resting on hers bent knee, hand holds a glowing cigarette, creating a trail of hazy smoke that wafts around her, illuminated by a beam of light from an unseen source off-camera, light filters through the deep smoke, casting dynamic patterns and giving the scene a moody, dark atmosphere, cinematic quality resolution, air of contemplation in hers posture and the ambient glow contributes to the intimate and introspective mood of the portrait, high contrast --ar 9:16 --style raw --s 400
-```
-
-By [@Grayve](https://prompthero.com/prompt/5924fd0e686-midjourney-6-model-portrait)
-
----
-
-<a id="prompthero-6073c3f54cc"></a>
-
-## \(Masterpiece Illustration:1\.2\), Professional Portr\.\.\.
-
-<a href="https://cdn.prompthero.com/kl2fkyd2b5c6f7t6p1raw946lp6f-stable-diffusion-15-witch-model-arthemy-comics-masterpiece-illustration12-professional-portrait-1-woman-female-elf-wizard-in-a-palace-close-up-disappointed-look-large-hat-long-torn.png"><img src="https://cdn.prompthero.com/kl2fkyd2b5c6f7t6p1raw946lp6f-stable-diffusion-15-witch-model-arthemy-comics-masterpiece-illustration12-professional-portrait-1-woman-female-elf-wizard-in-a-palace-close-up-disappointed-look-large-hat-long-torn.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-(Masterpiece Illustration:1.2), Professional Portrait, 1 woman, female elf wizard in a palace, close-up, disappointed look, large hat, long torn clothes, seductive,(hyper-defined), (vibrant color tones:1.2), from below, cartoon, fantasy Victorian aesthetic, complex lighting, (flat colors:0.5), ultra detailed, (fine details:1.2), absurdres, (atmosphere), coherent, <lora:add_detail:0.8>, (best quality, masterpiece, perfect face, detailed symmetric iris, perfect smooth skin texture)
-```
-
-By [@ScArecrow23](https://prompthero.com/prompt/6073c3f54cc-stable-diffusion-15-witch-model-arthemy-comics-masterpiece-illustration12-professional-portrait-1-woman-female-elf-wizard-in-a-palace-close-up-disappointed-look-large-hat-long-torn)
-
----
-
-<a id="prompthero-6220eb47e51"></a>
-
-## black and white photography of rapper in baseball \.\.\.
-
-<a href="https://cdn.prompthero.com/oznvbmgqw63onp904ukaz0r91n-nano-banana-nano-banana-2-black-and-white-photography-of-rapper-in-baseball-cap-emerging-from-fog-on-stage-during-concert-side-view-volumetric-lighting.jpeg"><img src="https://cdn.prompthero.com/oznvbmgqw63onp904ukaz0r91n-nano-banana-nano-banana-2-black-and-white-photography-of-rapper-in-baseball-cap-emerging-from-fog-on-stage-during-concert-side-view-volumetric-lighting.jpeg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-black and white photography of rapper in baseball cap emerging from fog on stage during concert, side view, volumetric lighting, cinematic angle, cinematic lights,
-```
-
-By [@alisaan](https://prompthero.com/prompt/6220eb47e51-nano-banana-nano-banana-2-black-and-white-photography-of-rapper-in-baseball-cap-emerging-from-fog-on-stage-during-concert-side-view-volumetric-lighting)
-
----
-
-<a id="prompthero-6525b193c34"></a>
-
-## A cinematic portrait of an Asian woman standing in\.\.\.
-
-<a href="https://cdn.prompthero.com/mfxt0fb92hewkg2de1c8qu5pms-stable-diffusion-xl-10-a-cinematic-portrait-of-an-asian-woman-standing-in-a-quiet-forest-captured-in-a-spontaneous-moment-as-she-turns.jpeg"><img src="https://cdn.prompthero.com/mfxt0fb92hewkg2de1c8qu5pms-stable-diffusion-xl-10-a-cinematic-portrait-of-an-asian-woman-standing-in-a-quiet-forest-captured-in-a-spontaneous-moment-as-she-turns.jpeg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-A cinematic portrait of an Asian woman standing in a quiet forest, captured in a spontaneous moment as she turns her head slightly back toward the camera. Soft sunlight filters through tall trees, creating dramatic patches of light and shadow across her face and body. A distinct vertical light leak streak cuts through the frame, adding a striking analog imperfection. Her hair moves gently in the breeze, with loose strands catching the light, adding natural motion and softness. She wears a simple light-colored blouse layered with dark suspenders, creating a subtle contrast against the deep forest tones. Her expression is calm, slightly distant, and introspective, with her eyes softly meeting the camera. The background is filled with blurred tree trunks and glowing bokeh highlights, creating depth and atmosphere. The color grading features rich teal shadows and warm orange highlights, giving a cinematic teal-and-orange contrast. The image has a strong analog film aesthetic with visible grain, soft haze, slight blur, and light distortion. Imperfect framing, natural light flare, and film burn elements enhance the nostalgic 35mm film look. Cinematic film still, dreamy and moody atmosphere, poetic forest setting, high detail, hd quality.
-```
-
-[Source](https://prompthero.com/prompt/6525b193c34-stable-diffusion-xl-10-a-cinematic-portrait-of-an-asian-woman-standing-in-a-quiet-forest-captured-in-a-spontaneous-moment-as-she-turns)
-
----
 
 <a id="prompthero-6663f45f05e"></a>
 
@@ -326,6 +246,86 @@ By [@NorthmoorAI](https://prompthero.com/prompt/26250e51943-midjourney-6-high-re
 
 ---
 
-[1](portraits.md) · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · [5](portraits-5.md) · [6](portraits-6.md) · [7](portraits-7.md) · [8](portraits-8.md) · [9](portraits-9.md) · [10](portraits-10.md) · [11](portraits-11.md) · [12](portraits-12.md) · [13](portraits-13.md) · [14](portraits-14.md) · [15](portraits-15.md) · [16](portraits-16.md) · [17](portraits-17.md) · [18](portraits-18.md) · [19](portraits-19.md) · [20](portraits-20.md) · [21](portraits-21.md) · **22** · [23](portraits-23.md) · [24](portraits-24.md) · [25](portraits-25.md) · [26](portraits-26.md) · [27](portraits-27.md) · [28](portraits-28.md) · [29](portraits-29.md) · [30](portraits-30.md) · [31](portraits-31.md) · [32](portraits-32.md) · [33](portraits-33.md) · [34](portraits-34.md) · [35](portraits-35.md) · [36](portraits-36.md)
+<a id="prompthero-42351a4defe"></a>
+
+## A stylish young Caucasian ultra cutest woman in a \.\.\.
+
+<a href="https://cdn.prompthero.com/brm6b9kprq1l2td0ip28rhe0vt-stable-diffusion-35-large-a-stylish-young-caucasian-ultra-cutest-woman-in-a-modern-pastel-trench-coat-crossing-a-rain-slicked-street-under-a.jpeg"><img src="https://cdn.prompthero.com/brm6b9kprq1l2td0ip28rhe0vt-stable-diffusion-35-large-a-stylish-young-caucasian-ultra-cutest-woman-in-a-modern-pastel-trench-coat-crossing-a-rain-slicked-street-under-a.jpeg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+A stylish young Caucasian ultra cutest woman in a modern pastel trench coat, crossing a rain-slicked street under a clear umbrella, neon reflections shimmering on the wet pavement. Some people walking on the background. The image is processed with a faded retro filter, muted blues and yellows, adding cinematic nostalgia. A hyper close-up of her face taken from specially low-angle. 16K resolution, with a pulsating, high-energy atmosphere blending cyberpunk fashion and abstract art. Specially fishy eye lens effect without vignetting. True realistic portrait. The entire screen is natural bright and dazzlingly vivid subtly. The high resolution and fine details are reminiscent of an electron microscope with sharpened hyper strongly.
+```
+
+[Source](https://prompthero.com/prompt/42351a4defe-stable-diffusion-35-large-a-stylish-young-caucasian-ultra-cutest-woman-in-a-modern-pastel-trench-coat-crossing-a-rain-slicked-street-under-a)
+
+---
+
+<a id="prompthero-43635df03f5"></a>
+
+## niji, octane render, close-up shot of a \(Female:1\.\.\.\.
+
+<a href="https://cdn.prompthero.com/pr7dlmmo2utnr632sqilgzcp9b4n-dreamshaper-xl-lightning-dpm-sde-niji-octane-render-close-up-shot-of-a-female13-wearing-chic-clothes-her-clothes-tailored-by-hubert-de-givenchy-rolled.png"><img src="https://cdn.prompthero.com/pr7dlmmo2utnr632sqilgzcp9b4n-dreamshaper-xl-lightning-dpm-sde-niji-octane-render-close-up-shot-of-a-female13-wearing-chic-clothes-her-clothes-tailored-by-hubert-de-givenchy-rolled.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+niji, octane render, close-up shot of a (Female:1.3) , wearing Chic clothes, her clothes tailored by Hubert De Givenchy rolled up sleeves, Upside down Orange and Blue Body Chain, Fall, Hopeful, Futurepunk, Cathode tube, portrait, girl, <lora:xl_more_art-full_v1:0.7>
+```
+
+[Source](https://prompthero.com/prompt/43635df03f5-dreamshaper-xl-lightning-dpm-sde-niji-octane-render-close-up-shot-of-a-female13-wearing-chic-clothes-her-clothes-tailored-by-hubert-de-givenchy-rolled)
+
+---
+
+<a id="prompthero-47936a83dba"></a>
+
+## \(1girl, full body:1\.4\), Beautiful Korean woman, K-\.\.\.
+
+<a href="https://cdn.prompthero.com/yv9wnsm7250kyvno8tszqjanew0h-dreamshaper-5-baked-vae-1girl-full-body14-beautiful-korean-woman-k-pop-idol-cute-loose-bob-hairstyle-wearing-a-black-wedding-dress14-small-breasts.png"><img src="https://cdn.prompthero.com/yv9wnsm7250kyvno8tszqjanew0h-dreamshaper-5-baked-vae-1girl-full-body14-beautiful-korean-woman-k-pop-idol-cute-loose-bob-hairstyle-wearing-a-black-wedding-dress14-small-breasts.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+(1girl, full body:1.4), Beautiful Korean woman, K-pop idol, (Cute Loose Bob hairstyle), (wearing a black wedding dress:1.4), (small breasts), symmetrical eyes, (aegyo sal:1), (eyelashes:1.1), (photorealistic:1.4), 8k, ultra highres, hyperrealism, (dramatic lighting), photography, beautifully detailed face, beautiful detailed eyes, (masterpiece), High detail color photo, a professional photo, (realistic, photorealism:1.5), (highest quality), (best shadow), ultra-high resolution, physics-based rendering, photo, realism, high contrast, 8k HD high definition detailed realistic, detailed, best quality, Nikon d850 film, cinestill 800
+```
+
+[Source](https://prompthero.com/prompt/47936a83dba-dreamshaper-5-baked-vae-1girl-full-body14-beautiful-korean-woman-k-pop-idol-cute-loose-bob-hairstyle-wearing-a-black-wedding-dress14-small-breasts)
+
+---
+
+<a id="prompthero-54895de226f"></a>
+
+## male, superhero, no symbol, Rocketeer outfit from\.\.\.
+
+<a href="https://cdn.prompthero.com/yvy2vp9agd6ajbazc7nrywgplpvo-dreamshaper-7-male-superhero-no-symbol-rocketeer-outfit-from-the-rocketeer-movie-rocketeer-helmet-detailed-face-detailed-eyes-real-face-fitness-body.png"><img src="https://cdn.prompthero.com/yvy2vp9agd6ajbazc7nrywgplpvo-dreamshaper-7-male-superhero-no-symbol-rocketeer-outfit-from-the-rocketeer-movie-rocketeer-helmet-detailed-face-detailed-eyes-real-face-fitness-body.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+male,  superhero, no symbol, Rocketeer outfit from the Rocketeer movie, Rocketeer helmet, detailed face, detailed eyes, real face, fitness body, without blur, full body portrait, 8k resolution concept art portrait by Greg Rutkowski, Artgerm, WLOP, and Alphonse Mucha cinematic lighting, hyperdetailed, intricately detailed, Splash art trending on Artstation, triadic colors
+```
+
+[Source](https://prompthero.com/prompt/54895de226f-dreamshaper-7-male-superhero-no-symbol-rocketeer-outfit-from-the-rocketeer-movie-rocketeer-helmet-detailed-face-detailed-eyes-real-face-fitness-body)
+
+---
+
+<a id="prompthero-60029ac7da9"></a>
+
+## a 70 year old woman wearing a batik dress and sa\.\.\.
+
+<a href="https://cdn.prompthero.com/g9sshrt1dbmdylqdzp7uy57aylhj-dalle-1-a-70-year-old-woman-wearing-a-batik-dress-and-sarong-was-touching-an-electrical-switch-on-the-wall-of.jpg"><img src="https://cdn.prompthero.com/g9sshrt1dbmdylqdzp7uy57aylhj-dalle-1-a-70-year-old-woman-wearing-a-batik-dress-and-sarong-was-touching-an-electrical-switch-on-the-wall-of.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+a 70 year old woman wearing a batik dress and sarong was touching an electrical switch on the wall of her house, she was electrocuted, all her hair stood up and was a mess, a cloud of smoke could be seen coming out of her head, her face turned black as if it had been hit by charcoal, her expression was laughing while giving a thumbs up to the camera, smoke effect, blue electric shock effect all over the body, light effect, photography, 8K, high quality
+```
+
+[Source](https://prompthero.com/prompt/60029ac7da9-dalle-1-a-70-year-old-woman-wearing-a-batik-dress-and-sarong-was-touching-an-electrical-switch-on-the-wall-of)
+
+---
+
+[1](portraits.md) · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · [5](portraits-5.md) · [6](portraits-6.md) · [7](portraits-7.md) · [8](portraits-8.md) · [9](portraits-9.md) · [10](portraits-10.md) · [11](portraits-11.md) · [12](portraits-12.md) · [13](portraits-13.md) · [14](portraits-14.md) · [15](portraits-15.md) · [16](portraits-16.md) · [17](portraits-17.md) · [18](portraits-18.md) · [19](portraits-19.md) · [20](portraits-20.md) · [21](portraits-21.md) · **22** · [23](portraits-23.md) · [24](portraits-24.md) · [25](portraits-25.md) · [26](portraits-26.md) · [27](portraits-27.md) · [28](portraits-28.md) · [29](portraits-29.md) · [30](portraits-30.md) · [31](portraits-31.md) · [32](portraits-32.md) · [33](portraits-33.md) · [34](portraits-34.md) · [35](portraits-35.md)
 
 [← Home](../README.md)

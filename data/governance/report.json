@@ -1,45 +1,45 @@
 {
   "total": 2103,
-  "visible": 2038,
-  "hidden": 65,
+  "visible": 1940,
+  "hidden": 163,
   "duplicateExcluded": 62,
-  "duplicateExcludedFromGallery": 60,
+  "duplicateExcludedFromGallery": 51,
   "uniqueCases": 2041,
   "galleryGroups": {
-    "reference": 221,
-    "generation": 1817
+    "reference": 195,
+    "generation": 1745
   },
   "types": {
-    "generation": 1998,
-    "editing": 40
+    "generation": 1903,
+    "editing": 37
   },
   "inputModes": {
-    "reference-to-image": 181,
-    "text-to-image": 1602,
-    "unknown": 215,
-    "image-editing": 40
+    "reference-to-image": 158,
+    "text-to-image": 1541,
+    "unknown": 204,
+    "image-editing": 37
   },
   "categories": {
-    "generation/posters": 159,
-    "generation/creative-art": 275,
-    "generation/illustrations": 231,
-    "generation/logos": 30,
-    "generation/portraits": 756,
-    "generation/products": 54,
-    "generation/comics-storyboards": 30,
-    "generation/travel": 60,
-    "generation/characters": 194,
+    "generation/posters": 155,
+    "generation/creative-art": 274,
+    "generation/illustrations": 227,
+    "generation/logos": 28,
+    "generation/portraits": 751,
+    "generation/products": 51,
+    "generation/comics-storyboards": 24,
+    "generation/travel": 59,
+    "generation/characters": 139,
     "generation/architecture": 52,
     "editing/composition": 6,
     "editing/portrait-editing": 6,
-    "generation/other": 52,
-    "editing/object-removal": 3,
+    "generation/other": 48,
     "editing/background-change": 2,
     "editing/object-replacement": 1,
-    "editing/restyle": 19,
-    "generation/infographics": 58,
-    "generation/ui-mockups": 36,
+    "editing/restyle": 18,
+    "generation/infographics": 55,
+    "generation/ui-mockups": 29,
     "generation/avatars": 11,
+    "editing/object-removal": 1,
     "editing/outfit-change": 3
   },
   "confidence": {
@@ -50,6 +50,7 @@
   "flags": {
     "rights-review": 2091,
     "input-mode-review": 237,
+    "manual-excluded": 107,
     "duplicate-candidate:same-prompt-prefix": 51,
     "classification-review": 241,
     "missing-original-post-url": 180,
@@ -72,5 +73,6 @@
     "perceptualHash": "not-run",
     "semanticEmbedding": "not-run",
     "rights": "not-cleared"
-  }
+  },
+  "manualExcluded": 107
 }

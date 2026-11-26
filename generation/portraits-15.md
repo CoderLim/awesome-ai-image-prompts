@@ -1,90 +1,10 @@
 # portraits
 
-[← Home](../README.md) · Page 15 / 36
+[← Home](../README.md) · Page 15 / 35
 
-[1](portraits.md) · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · [5](portraits-5.md) · [6](portraits-6.md) · [7](portraits-7.md) · [8](portraits-8.md) · [9](portraits-9.md) · [10](portraits-10.md) · [11](portraits-11.md) · [12](portraits-12.md) · [13](portraits-13.md) · [14](portraits-14.md) · **15** · [16](portraits-16.md) · [17](portraits-17.md) · [18](portraits-18.md) · [19](portraits-19.md) · [20](portraits-20.md) · [21](portraits-21.md) · [22](portraits-22.md) · [23](portraits-23.md) · [24](portraits-24.md) · [25](portraits-25.md) · [26](portraits-26.md) · [27](portraits-27.md) · [28](portraits-28.md) · [29](portraits-29.md) · [30](portraits-30.md) · [31](portraits-31.md) · [32](portraits-32.md) · [33](portraits-33.md) · [34](portraits-34.md) · [35](portraits-35.md) · [36](portraits-36.md)
+[1](portraits.md) · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · [5](portraits-5.md) · [6](portraits-6.md) · [7](portraits-7.md) · [8](portraits-8.md) · [9](portraits-9.md) · [10](portraits-10.md) · [11](portraits-11.md) · [12](portraits-12.md) · [13](portraits-13.md) · [14](portraits-14.md) · **15** · [16](portraits-16.md) · [17](portraits-17.md) · [18](portraits-18.md) · [19](portraits-19.md) · [20](portraits-20.md) · [21](portraits-21.md) · [22](portraits-22.md) · [23](portraits-23.md) · [24](portraits-24.md) · [25](portraits-25.md) · [26](portraits-26.md) · [27](portraits-27.md) · [28](portraits-28.md) · [29](portraits-29.md) · [30](portraits-30.md) · [31](portraits-31.md) · [32](portraits-32.md) · [33](portraits-33.md) · [34](portraits-34.md) · [35](portraits-35.md)
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
-
-<a id="prompthero-23c2bcf18da"></a>
-
-## A portrait of a folklore character, such as a sly \.\.\.
-
-<a href="https://cdn.prompthero.com/kpp8brjo82ghfkmn9nhub13yd8ex-flux-flux-11-pro-a-portrait-of-a-folklore-character-such-as-a-sly-trickster-or-a-benevolent-spirit-the-style-is-reminiscent-of.jpg"><img src="https://cdn.prompthero.com/kpp8brjo82ghfkmn9nhub13yd8ex-flux-flux-11-pro-a-portrait-of-a-folklore-character-such-as-a-sly-trickster-or-a-benevolent-spirit-the-style-is-reminiscent-of.jpg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-A portrait of a folklore character, such as a sly trickster or a benevolent spirit. The style is reminiscent of John Bauers work, with a focus on intricate details and a vibrant colour palette. The lighting is soft and diffused, giving the scene a dreamy quality.
-```
-
-[Source](https://prompthero.com/prompt/23c2bcf18da-flux-flux-11-pro-a-portrait-of-a-folklore-character-such-as-a-sly-trickster-or-a-benevolent-spirit-the-style-is-reminiscent-of)
-
----
-
-<a id="prompthero-23e9f4444c3"></a>
-
-## black and white photography, deconstucivist Fashio\.\.\.
-
-<a href="https://cdn.prompthero.com/6j881d1wvmi99qxfxp5ba8ddjvb9-flux-flux1-dev-black-and-white-photography-deconstucivist-fashion-shot-from-a-distance-photo-of-a-24-year-old-fulani-chechen-female-graceful.jpeg"><img src="https://cdn.prompthero.com/6j881d1wvmi99qxfxp5ba8ddjvb9-flux-flux1-dev-black-and-white-photography-deconstucivist-fashion-shot-from-a-distance-photo-of-a-24-year-old-fulani-chechen-female-graceful.jpeg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-black and white photography, deconstucivist Fashion shot from a distance photo of a 24 year old Fulani-Chechen female graceful swimmer with Curious wonder expression. Her body is Sculpted, firm arms with tight, smooth skin, toned muscles, abs, small breast, flat chest. She has Fair skin with a natural sheen, reflecting light softly. The skin pores and texture are clearly visible and in focus. Her Shield-shaped eyes, Subtle, pale grey eyes, framed by long, elegant eyelashes. Her eyebrows are Curved and bushy shaped, complementing her delicate facial features. Layered, patchwork hoodies with exposed zippers, midriff, Distressed jeans with uneven cuts, Body turned with one hand in a pocket , rule of thirds, in the background Fractured metal columns supporting a roof, in the style of Viviane Sassen
-```
-
-By [@AkiraS](https://prompthero.com/prompt/23e9f4444c3-flux-flux1-dev-black-and-white-photography-deconstucivist-fashion-shot-from-a-distance-photo-of-a-24-year-old-fulani-chechen-female-graceful)
-
----
-
-<a id="prompthero-023f8d89910"></a>
-
-## an illustration of a woman with long brown hair, i\.\.\.
-
-<a href="https://cdn.prompthero.com/b5m0stofw3t8hvnovviw9arnitxv-midjourney-6-an-illustration-of-a-woman-with-long-brown-hair-in-the-style-of-ingrid-baars-j-scott-campbell-dark-beige.png"><img src="https://cdn.prompthero.com/b5m0stofw3t8hvnovviw9arnitxv-midjourney-6-an-illustration-of-a-woman-with-long-brown-hair-in-the-style-of-ingrid-baars-j-scott-campbell-dark-beige.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-an illustration of a woman with long brown hair, in the style of ingrid baars, j. scott campbell, dark beige and light amber, close-up, thiago valdi, charming characters, 8k --ar 73:112 --stylize 750 --v 6
-```
-
-By [@NorthmoorAI](https://prompthero.com/prompt/023f8d89910-midjourney-6-an-illustration-of-a-woman-with-long-brown-hair-in-the-style-of-ingrid-baars-j-scott-campbell-dark-beige)
-
----
-
-<a id="prompthero-025afb28307"></a>
-
-## fashion photography, professional man model, shot \.\.\.
-
-<a href="https://cdn.prompthero.com/85raae2ki7gx652p24b0yxn7od2n-midjourney-6-fashion-photography-professional-man-model-shot-with-canon-eos-r3-50mm-f12-rf-lens-f28-settings-1160s-iso-1600-gradient.png"><img src="https://cdn.prompthero.com/85raae2ki7gx652p24b0yxn7od2n-midjourney-6-fashion-photography-professional-man-model-shot-with-canon-eos-r3-50mm-f12-rf-lens-f28-settings-1160s-iso-1600-gradient.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-fashion photography, professional man model, shot with Canon eos r3, 50mm f/1.2 rf lens, f/2.8 settings, 1/160s, iso 1600, gradient neon violet, streetwear style, holographic effect on wear, luminescent sneaker soles, dark backdrop with deep purple atmospheric lighting, professional studio setup with two led strip lights at floor level and one overhead softbox at 5600k, cyberpunk aesthetic, side profile pose with silhouette, dramatic contrast, ultra sharp details, photorealistic quality, 48K resolution, rich detailing --chaos 16 --ar 9:16 --style raw --personalize c84qxg1 --stylize 300 --v 6.1
-```
-
-By [@Grayve](https://prompthero.com/prompt/025afb28307-midjourney-6-fashion-photography-professional-man-model-shot-with-canon-eos-r3-50mm-f12-rf-lens-f28-settings-1160s-iso-1600-gradient)
-
----
-
-<a id="prompthero-25d3b8bca6c"></a>
-
-## an ultra high definition professional high fashion\.\.\.
-
-<a href="https://cdn.prompthero.com/htcvxuylxomxrf6rvqv2k6edl8f7-midjourney-5-an-ultra-high-definition-professional-high-fashion-portrait-studio-full-length-photograph-of-a-male-model-wearing-a-transparent-pearlescent.jpg"><img src="https://cdn.prompthero.com/htcvxuylxomxrf6rvqv2k6edl8f7-midjourney-5-an-ultra-high-definition-professional-high-fashion-portrait-studio-full-length-photograph-of-a-male-model-wearing-a-transparent-pearlescent.jpg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-an ultra high definition professional high fashion portrait studio full length photograph of a male model wearing a transparent pearlescent raincoat and neon visor in an icelandic black rock environment at dawn. no artefacts. extremely detailed. stark. refraction. shallow depth of field. volumetric light and shadow. ray tracing. light rays ||  jewelry, text, watermark, long neck, lowres, bad anatomy, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, blurry --q 2 --v 5 --ar 3:4
-```
-
-[Source](https://prompthero.com/prompt/25d3b8bca6c-midjourney-5-an-ultra-high-definition-professional-high-fashion-portrait-studio-full-length-photograph-of-a-male-model-wearing-a-transparent-pearlescent)
-
----
 
 <a id="prompthero-28d9718f072"></a>
 
@@ -326,6 +246,86 @@ A masterpiece, best quality, official art, extremely detailed 8k wallpaper, absu
 
 ---
 
-[1](portraits.md) · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · [5](portraits-5.md) · [6](portraits-6.md) · [7](portraits-7.md) · [8](portraits-8.md) · [9](portraits-9.md) · [10](portraits-10.md) · [11](portraits-11.md) · [12](portraits-12.md) · [13](portraits-13.md) · [14](portraits-14.md) · **15** · [16](portraits-16.md) · [17](portraits-17.md) · [18](portraits-18.md) · [19](portraits-19.md) · [20](portraits-20.md) · [21](portraits-21.md) · [22](portraits-22.md) · [23](portraits-23.md) · [24](portraits-24.md) · [25](portraits-25.md) · [26](portraits-26.md) · [27](portraits-27.md) · [28](portraits-28.md) · [29](portraits-29.md) · [30](portraits-30.md) · [31](portraits-31.md) · [32](portraits-32.md) · [33](portraits-33.md) · [34](portraits-34.md) · [35](portraits-35.md) · [36](portraits-36.md)
+<a id="prompthero-43ea81af36f"></a>
+
+## Qinghua Style
+
+<a href="https://cdn.prompthero.com/cvdspespo4130592rxcvyziacmuk-midjourney-5-qinghua-style.png"><img src="https://cdn.prompthero.com/cvdspespo4130592rxcvyziacmuk-midjourney-5-qinghua-style.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+A detailed image of a young professional fashion model with hair mimicking the texture of hard, shiny blue and white porcelain Qinghua, showcasing her full body and long legs in a short dress made from the same hard, shiny blue and white porcelain Qinghua material, inspired by Thierry Mugler, Manish Arora, and John Galliano. Posing elegantly at a garden show amidst vibrant, fully bloomed spring flowers, the photograph is captured during golden hour with a high-end mirrorless camera and a telephoto lens. Cinematic lighting highlights the model's captivating presence and unique ensemble. --ar 3:4 --q 2 --s 750 --v 5
+```
+
+By [@jefharris](https://prompthero.com/prompt/43ea81af36f-midjourney-5-qinghua-style)
+
+---
+
+<a id="prompthero-44d2abae3da"></a>
+
+## beautiful  woman of Mediterranean descent, slave \.\.\.
+
+<a href="https://cdn.prompthero.com/v4uxfvaalm2gr03urpuew2znksqp-flux-flux-11-pro-beautiful-woman-of-mediterranean-descent-slave-in-rome-full-body-view-athletic-figure-short-straight-black-hair-illuminated-by-the.jpg"><img src="https://cdn.prompthero.com/v4uxfvaalm2gr03urpuew2znksqp-flux-flux-11-pro-beautiful-woman-of-mediterranean-descent-slave-in-rome-full-body-view-athletic-figure-short-straight-black-hair-illuminated-by-the.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+beautiful  woman of Mediterranean descent, slave in Rome, full body view, athletic figure, short straight black hair illuminated by the sunlight, barefoot on a sandy surface, belly piercing, large tattoo, wearing a slightly tattered Roman robe, a big choker made of leather with, a rusty leash around her ankle, .
+```
+
+[Source](https://prompthero.com/prompt/44d2abae3da-flux-flux-11-pro-beautiful-woman-of-mediterranean-descent-slave-in-rome-full-body-view-athletic-figure-short-straight-black-hair-illuminated-by-the)
+
+---
+
+<a id="prompthero-47e2384be51"></a>
+
+## girl stands in a red flower surrounded street, in \.\.\.
+
+<a href="https://cdn.prompthero.com/tomwdgbe9h133pzjt5lipuemjpx3-midjourney-niji-v6-girl-stands-in-a-red-flower-surrounded-street-in-the-style-of-chinese-cultural-themes-romantic-and-nostalgic-themes-panasonic.png"><img src="https://cdn.prompthero.com/tomwdgbe9h133pzjt5lipuemjpx3-midjourney-niji-v6-girl-stands-in-a-red-flower-surrounded-street-in-the-style-of-chinese-cultural-themes-romantic-and-nostalgic-themes-panasonic.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+girl stands in a red flower surrounded street, in the style of chinese cultural themes, romantic and nostalgic themes, panasonic lumix s pro 50mm f/1.4, light white and light amber, transparent/translucent medium, elegant , embroidery --ar 1:2 --stylize 750 --niji 6
+```
+
+By [@NorthmoorAI](https://prompthero.com/prompt/47e2384be51-midjourney-niji-v6-girl-stands-in-a-red-flower-surrounded-street-in-the-style-of-chinese-cultural-themes-romantic-and-nostalgic-themes-panasonic)
+
+---
+
+<a id="prompthero-48f8fd979cc"></a>
+
+## photography, a 45 years old Caucasian man, viewed \.\.\.
+
+<a href="https://cdn.prompthero.com/w3rjxdnzgo5oyyvqh6y2tkjroqil-flux-flux-11-pro-photography-a-45-years-old-caucasian-man-viewed-from-behind-sitting-in-a-burgundy-couch-watching-tv-in-a-modern.png"><img src="https://cdn.prompthero.com/w3rjxdnzgo5oyyvqh6y2tkjroqil-flux-flux-11-pro-photography-a-45-years-old-caucasian-man-viewed-from-behind-sitting-in-a-burgundy-couch-watching-tv-in-a-modern.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+photography, a 45 years old Caucasian man, viewed from behind, sitting in a burgundy couch, watching TV in a modern living room. at night. Buzz-cut hoary ultra-short hair and short trimmed shaved beard, rounded rectangular-framed glasses with dark rims. He is wearing a white T-shirt, grey sweatpants and white flip-flops. photorealistic, High resolution.
+```
+
+[Source](https://prompthero.com/prompt/48f8fd979cc-flux-flux-11-pro-photography-a-45-years-old-caucasian-man-viewed-from-behind-sitting-in-a-burgundy-couch-watching-tv-in-a-modern)
+
+---
+
+<a id="prompthero-49b9c4edabb"></a>
+
+## A futuristic museum hall filled with a soft, drift\.\.\.
+
+<a href="https://cdn.prompthero.com/h1ugo5z9i4sihgjjivlbqjay8k2f-flux-flux-11-pro-a-futuristic-museum-hall-filled-with-a-soft-drifting-haze-of-smoke-the-entire-space-including-the-walls-and-floor.jpg"><img src="https://cdn.prompthero.com/h1ugo5z9i4sihgjjivlbqjay8k2f-flux-flux-11-pro-a-futuristic-museum-hall-filled-with-a-soft-drifting-haze-of-smoke-the-entire-space-including-the-walls-and-floor.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+A futuristic museum hall filled with a soft, drifting haze of smoke. The entire space, including the walls and floor, is overwhelmingly white, almost disorienting in its purity. The ceiling is lined with long, continuous LED strips stretching across its entire surface. Their glow is partially absorbed by the swirling mist on the floor, creating an ethereal, diffused lighting effect. The room has no doors or windows, enhancing the surreal and otherworldly atmosphere. At the center of the space stands a minimalist glass display case. Inside, a breathtaking, floating female head is showcased, with bold red lips, editorial-style makeup, dramatic contouring, and shimmering metallic highlighter. She wears an extravagant avantgarde wig with black long textured hair with short fringe. The hair is black and has small metallic pins on it. Sculpted into futuristic, architectural shapes and intricate geometric designs. The head appears suspended in mid-air, as only the hair is fully visible, there is no body, just the striking, levitating form. Surrounding the display, elegantly dressed men and women in avant-garde, high-fashion futuristic attire stand in admiration, capturing the wig with their smartphones. Their outfits feature bold, sculptural silhouettes, reflective metallic fabrics, exaggerated shoulders, high-neck collars, intricate laser-cut details, and asymmetrical designs. Some wear visor-like glasses, glowing accessories, and gravity-defying structured garments. The bright flashes of their cameras reflect off the glass, creating a mesmerizing interplay of light. The scene carries an eerie yet mesmerizing surrealism, blending high fashion, advanced technology, and an air of mystery. The combination of futuristic aesthetics, editorial styling, and avant-garde fashion elements makes the composition feel like a high-end fashion editorial from a distant future.
+```
+
+By [@chorlo](https://prompthero.com/prompt/49b9c4edabb-flux-flux-11-pro-a-futuristic-museum-hall-filled-with-a-soft-drifting-haze-of-smoke-the-entire-space-including-the-walls-and-floor)
+
+---
+
+[1](portraits.md) · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · [5](portraits-5.md) · [6](portraits-6.md) · [7](portraits-7.md) · [8](portraits-8.md) · [9](portraits-9.md) · [10](portraits-10.md) · [11](portraits-11.md) · [12](portraits-12.md) · [13](portraits-13.md) · [14](portraits-14.md) · **15** · [16](portraits-16.md) · [17](portraits-17.md) · [18](portraits-18.md) · [19](portraits-19.md) · [20](portraits-20.md) · [21](portraits-21.md) · [22](portraits-22.md) · [23](portraits-23.md) · [24](portraits-24.md) · [25](portraits-25.md) · [26](portraits-26.md) · [27](portraits-27.md) · [28](portraits-28.md) · [29](portraits-29.md) · [30](portraits-30.md) · [31](portraits-31.md) · [32](portraits-32.md) · [33](portraits-33.md) · [34](portraits-34.md) · [35](portraits-35.md)
 
 [← Home](../README.md)

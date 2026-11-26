@@ -6,22 +6,6 @@
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
-<a id="prompthero-77b8165e8e0"></a>
-
-## A hyper-realistic digital portrait of a sleek, ele\.\.\.
-
-<a href="https://cdn.prompthero.com/54lhsnm2degoy0dccuaq78wa6wpn-chatgpt-image-gpt-4o-a-hyper-realistic-digital-portrait-of-a-sleek-elegant-dog-resembling-a-pharaoh-hound-or-podenco-shown-in-profile-the.png"><img src="https://cdn.prompthero.com/54lhsnm2degoy0dccuaq78wa6wpn-chatgpt-image-gpt-4o-a-hyper-realistic-digital-portrait-of-a-sleek-elegant-dog-resembling-a-pharaoh-hound-or-podenco-shown-in-profile-the.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-A hyper-realistic digital portrait of a sleek, elegant dog resembling a Pharaoh Hound or Podenco, shown in profile. The dog has short, glossy reddish-gold fur, expressive amber eyes, and large, upright ears. The background is a flat, vivid red, creating a bold contrast with the dog's fur. The lighting is soft but directional, emphasizing the texture of the fur and the contours of the dog's face. The style is reminiscent of classical oil painting with meticulous detail and smooth brushwork, but created with digital tools.
-```
-
-By [@chorlo](https://prompthero.com/prompt/77b8165e8e0-chatgpt-image-gpt-4o-a-hyper-realistic-digital-portrait-of-a-sleek-elegant-dog-resembling-a-pharaoh-hound-or-podenco-shown-in-profile-the)
-
----
-
 <a id="prompthero-083bba40e58"></a>
 
 ## Digital artwork, concept art, a female ninja with \.\.\.
@@ -323,6 +307,22 @@ hyper realistic HD cinematic quality image   A haunting blend of gothic horror a
 ```
 
 [Source](https://prompthero.com/prompt/843cfcbefac-riverflow-riverflow-25-hyper-realistic-hd-cinematic-quality-image-a-haunting-blend-of-gothic-horror-and-carnival-mystery-unfolds-beneath-the-faded-circus)
+
+---
+
+<a id="prompthero-865c082bdb4"></a>
+
+## Close-up of a human face dissolving into a network\.\.\.
+
+<a href="https://cdn.prompthero.com/mmjgu41imi70icij2w6dqb7n8s-chatgpt-image-gpt-image-2-close-up-of-a-human-face-dissolving-into-a-network-of-interconnected-neurons-and-synapses-with-a-blurred-green-and.png"><img src="https://cdn.prompthero.com/mmjgu41imi70icij2w6dqb7n8s-chatgpt-image-gpt-image-2-close-up-of-a-human-face-dissolving-into-a-network-of-interconnected-neurons-and-synapses-with-a-blurred-green-and.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+Close-up of a human face dissolving into a network of interconnected neurons and synapses, with a blurred green and yellow background. The face is partially obscured by swirling, dark, organic tendrils resembling neural pathways. The lighting is dramatic, highlighting the textured surface of the face and the intricate details of the neural network. The overall mood is surreal and thought-provoking, suggesting themes of memory, consciousness, or the breakdown of identity, <lora:Krea2-ChatGPT-2.0-Style-v0.1:0.85> Negative prompt: worst quality, low quality, blurry, ugly, bad, low-resolution, signature, watermarks, pixelated, artifacts, bad anatomy, jpeg artifacts,no freckles Steps: 8, CFG scale: 1, Sampler: Euler, Seed: 1014387827, RNG: CPU, Model: kreamania_v1, width: 832, height: 1216, Version: neo-2.26, Module 1: qwen_image_vae, Module 2: qwen3vl_4b_fp8_scaled, Model hash: 5082a0f1c8, Schedule type: Simple
+```
+
+[Source](https://prompthero.com/prompt/865c082bdb4-chatgpt-image-gpt-image-2-close-up-of-a-human-face-dissolving-into-a-network-of-interconnected-neurons-and-synapses-with-a-blurred-green-and)
 
 ---
 

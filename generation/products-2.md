@@ -6,54 +6,6 @@
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
-<a id="prompthero-7d8a0035557"></a>
-
-## Detailed shot, Aesop&\#39;s Parsley Seed Anti-Oxidant S\.\.\.
-
-<a href="https://cdn.prompthero.com/fp703hcf89q9i3gpvybb9m6xsedy-midjourney-6-more-info-wwwgraytheorystudiocom-httpswwwinstagramcomspacemakergrayve-httpspromptbasecomprofilespacemakergrayve-detailed-shot-aesops-parsley-seed-anti-oxidant-serum-nikon-z7-ii-emphasizing-the-serums-elegant-packaging-and-organic-appeal-in.png"><img src="https://cdn.prompthero.com/fp703hcf89q9i3gpvybb9m6xsedy-midjourney-6-more-info-wwwgraytheorystudiocom-httpswwwinstagramcomspacemakergrayve-httpspromptbasecomprofilespacemakergrayve-detailed-shot-aesops-parsley-seed-anti-oxidant-serum-nikon-z7-ii-emphasizing-the-serums-elegant-packaging-and-organic-appeal-in.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-Detailed shot, Aesop's Parsley Seed Anti-Oxidant Serum, Nikon Z7 II, emphasizing the serum's elegant packaging and organic appeal, in a warm, soft light setting
-```
-
-By [@Grayve](https://prompthero.com/prompt/7d8a0035557-midjourney-6-more-info-wwwgraytheorystudiocom-httpswwwinstagramcomspacemakergrayve-httpspromptbasecomprofilespacemakergrayve-detailed-shot-aesops-parsley-seed-anti-oxidant-serum-nikon-z7-ii-emphasizing-the-serums-elegant-packaging-and-organic-appeal-in)
-
----
-
-<a id="prompthero-7e5e0a92eae"></a>
-
-## Close-up double cheeseburger, golden-brown sesame \.\.\.
-
-<a href="https://cdn.prompthero.com/vbkyax3506rh6ovs332scalap15k-midjourney-61-close-up-double-cheeseburger-golden-brown-sesame-seed-bun-melted-cheddar-cheese-juicy-double-patties-fresh-lettuce-ripe-tomato-slices.png"><img src="https://cdn.prompthero.com/vbkyax3506rh6ovs332scalap15k-midjourney-61-close-up-double-cheeseburger-golden-brown-sesame-seed-bun-melted-cheddar-cheese-juicy-double-patties-fresh-lettuce-ripe-tomato-slices.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-Close-up double cheeseburger, golden-brown sesame seed bun, melted cheddar cheese, juicy double patties, fresh lettuce, ripe tomato slices, detailed texture, appetizing
-```
-
-[Source](https://prompthero.com/prompt/7e5e0a92eae-midjourney-61-close-up-double-cheeseburger-golden-brown-sesame-seed-bun-melted-cheddar-cheese-juicy-double-patties-fresh-lettuce-ripe-tomato-slices)
-
----
-
-<a id="prompthero-8c4cafda9b2"></a>
-
-## A digitally enhanced image of a collection of gems\.\.\.
-
-<a href="https://cdn.prompthero.com/8x5mvvt60s0ykdh15r1s5fdtnj2u-chatgpt-image-gpt-4o-a-digitally-enhanced-image-of-a-collection-of-gemstones-creating-a-mesmerizing-and-luxurious-scene-the-gemstones-are-glowing-with.png"><img src="https://cdn.prompthero.com/8x5mvvt60s0ykdh15r1s5fdtnj2u-chatgpt-image-gpt-4o-a-digitally-enhanced-image-of-a-collection-of-gemstones-creating-a-mesmerizing-and-luxurious-scene-the-gemstones-are-glowing-with.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-A digitally enhanced image of a collection of gemstones, creating a mesmerizing and luxurious scene. The gemstones are glowing with an inner light, casting vivid reflections and refractions on a sleek black surface that looks like polished obsidian. Each gemstone exudes a magical aura, with ethereal wisps of light swirling around them. The ambiance is elevated with sparkling micro-crystals suspended in the air, giving the impression of a mystical treasure trove. The overall atmosphere is otherworldly, with a rich color palette that enhances the deep hues of the gemstones and contrasts with the dark background. robiness. masterprompter.
-```
-
-By [@robiness](https://prompthero.com/prompt/8c4cafda9b2-chatgpt-image-gpt-4o-a-digitally-enhanced-image-of-a-collection-of-gemstones-creating-a-mesmerizing-and-luxurious-scene-the-gemstones-are-glowing-with)
-
----
-
 <a id="prompthero-8c6be699cce"></a>
 
 ## Graytheory model
@@ -323,6 +275,54 @@ character wearing headphones, lost in music, dark room lit by neon signs, any, E
 ```
 
 [Source](https://prompthero.com/prompt/b0ea8c28437-flux-flux-11-pro-3d-printed-external-hard-drive-rack-cloud-shapess-on-he-sides-high-quality-intricate-details-smooth-curved-surfaces-futuristic-avant)
+
+---
+
+<a id="prompthero-b73da03ae26"></a>
+
+## A futuristic, minimalist cube-shaped speaker in vi\.\.\.
+
+<a href="https://cdn.prompthero.com/gilpp4aedvbssd2ngbui1d08a1-hero-10-a-futuristic-minimalist-cube-shaped-speaker-in-vibrant-fluorescent-orange-featuring-a-perforated-speaker-grille-bold-volume-knobs-one-black.jpeg"><img src="https://cdn.prompthero.com/gilpp4aedvbssd2ngbui1d08a1-hero-10-a-futuristic-minimalist-cube-shaped-speaker-in-vibrant-fluorescent-orange-featuring-a-perforated-speaker-grille-bold-volume-knobs-one-black.jpeg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+A futuristic, minimalist cube-shaped speaker in vibrant fluorescent orange, featuring a perforated speaker grille, bold volume knobs (one black and one orange), and a black lightning bolt logo on the side. The device is connected via a braided black cable and rests on a warm, gradient orange background. The design is sleek and industrial, with visible screws and subtle labeling, resembling high-end tech or concept art for a gadget.
+```
+
+[Source](https://prompthero.com/prompt/b73da03ae26-hero-10-a-futuristic-minimalist-cube-shaped-speaker-in-vibrant-fluorescent-orange-featuring-a-perforated-speaker-grille-bold-volume-knobs-one-black)
+
+---
+
+<a id="prompthero-c6f6557e334"></a>
+
+## Product photography, natural light\. A hand holding\.\.\.
+
+<a href="https://cdn.prompthero.com/v1_9460d08953bfba8a0352ce985d-chatgpt-image-gpt-image-25-product-photography-natural-light-a-hand-holding-an-amber-coloured-face-serum-bottle-with-a-white-dropper-top-in-a.png"><img src="https://cdn.prompthero.com/v1_9460d08953bfba8a0352ce985d-chatgpt-image-gpt-image-25-product-photography-natural-light-a-hand-holding-an-amber-coloured-face-serum-bottle-with-a-white-dropper-top-in-a.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+Product photography, natural light. A hand holding an amber coloured face serum bottle with a white dropper top in a pool of water surrounded by pink peonies. The water is sparkling and reflecting sunlight with pastel colours . Shot on Leica M6 in the style of nature photography
+```
+
+By [@chorlo](https://prompthero.com/prompt/c6f6557e334-chatgpt-image-gpt-image-25-product-photography-natural-light-a-hand-holding-an-amber-coloured-face-serum-bottle-with-a-white-dropper-top-in-a)
+
+---
+
+<a id="prompthero-c401d89f09a"></a>
+
+## Front view of a skirt, edgy design, featuring asym\.\.\.
+
+<a href="https://cdn.prompthero.com/9ltxvv1pgym3ax2523txt9vv7k8x-midjourney-51-front-view-of-a-skirt-edgy-design-featuring-asymmetric-ruffles-and-leather-details-shot-from-a-high-angle-designed-by.png"><img src="https://cdn.prompthero.com/9ltxvv1pgym3ax2523txt9vv7k8x-midjourney-51-front-view-of-a-skirt-edgy-design-featuring-asymmetric-ruffles-and-leather-details-shot-from-a-high-angle-designed-by.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+Front view of a skirt, edgy design, featuring asymmetric ruffles and leather details, shot from a high angle, designed by Ann Demeulemeester, black and white color scheme, direct sunlight, clean and minimalistic background::2, V-ray, 3ds max --ar 2:3 --v 5.1 --q 2 --no mannequin
+```
+
+[Source](https://prompthero.com/prompt/c401d89f09a-midjourney-51-front-view-of-a-skirt-edgy-design-featuring-asymmetric-ruffles-and-leather-details-shot-from-a-high-angle-designed-by)
 
 ---
 

@@ -1,90 +1,10 @@
 # portraits
 
-[← Home](../README.md) · Page 26 / 36
+[← Home](../README.md) · Page 26 / 35
 
-[1](portraits.md) · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · [5](portraits-5.md) · [6](portraits-6.md) · [7](portraits-7.md) · [8](portraits-8.md) · [9](portraits-9.md) · [10](portraits-10.md) · [11](portraits-11.md) · [12](portraits-12.md) · [13](portraits-13.md) · [14](portraits-14.md) · [15](portraits-15.md) · [16](portraits-16.md) · [17](portraits-17.md) · [18](portraits-18.md) · [19](portraits-19.md) · [20](portraits-20.md) · [21](portraits-21.md) · [22](portraits-22.md) · [23](portraits-23.md) · [24](portraits-24.md) · [25](portraits-25.md) · **26** · [27](portraits-27.md) · [28](portraits-28.md) · [29](portraits-29.md) · [30](portraits-30.md) · [31](portraits-31.md) · [32](portraits-32.md) · [33](portraits-33.md) · [34](portraits-34.md) · [35](portraits-35.md) · [36](portraits-36.md)
+[1](portraits.md) · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · [5](portraits-5.md) · [6](portraits-6.md) · [7](portraits-7.md) · [8](portraits-8.md) · [9](portraits-9.md) · [10](portraits-10.md) · [11](portraits-11.md) · [12](portraits-12.md) · [13](portraits-13.md) · [14](portraits-14.md) · [15](portraits-15.md) · [16](portraits-16.md) · [17](portraits-17.md) · [18](portraits-18.md) · [19](portraits-19.md) · [20](portraits-20.md) · [21](portraits-21.md) · [22](portraits-22.md) · [23](portraits-23.md) · [24](portraits-24.md) · [25](portraits-25.md) · **26** · [27](portraits-27.md) · [28](portraits-28.md) · [29](portraits-29.md) · [30](portraits-30.md) · [31](portraits-31.md) · [32](portraits-32.md) · [33](portraits-33.md) · [34](portraits-34.md) · [35](portraits-35.md)
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
-
-<a id="prompthero-a28931d3c32"></a>
-
-## a realistic photo of a \[very pretty 26 year old wo\.\.\.
-
-<a href="https://cdn.prompthero.com/npfxd68hcj8f2msclywjmztgq7kz-midjourney-6-a-realistic-photo-of-a-very-pretty-26-year-old-woman-with-long-wavy-dark-hair-looks-like-dakota-johnson.png"><img src="https://cdn.prompthero.com/npfxd68hcj8f2msclywjmztgq7kz-midjourney-6-a-realistic-photo-of-a-very-pretty-26-year-old-woman-with-long-wavy-dark-hair-looks-like-dakota-johnson.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-a realistic photo of a [very pretty 26 year old woman], with [long, wavy, dark hair], looks like [Dakota Johnson] and [Felicity Jones], wearing [thick nerd glasses], light makeup, looking [innocent, cute, flushed], [light] skin --ar 9:16 --stylize 750 --v 6
-```
-
-[Source](https://prompthero.com/prompt/a28931d3c32-midjourney-6-a-realistic-photo-of-a-very-pretty-26-year-old-woman-with-long-wavy-dark-hair-looks-like-dakota-johnson)
-
----
-
-<a id="prompthero-a912514fefc"></a>
-
-## A beautiful woman seductively posing by a large wi\.\.\.
-
-<a href="https://cdn.prompthero.com/oor8wf676o2abuv32lxzzy1lndql-stable-diffusion-xl-base-09-tanya-tanya-a-brilliant-actress-with-a-gift-for-daring-roles-that-set-the-screen-ablaze-often-found-herself-caught-in-a-beautiful-woman-seductively-posing-by-a-large-window-wearing-a-sweatshirt-and-underwear-only-daring-photography-minimal-lighting-shadows.jpg"><img src="https://cdn.prompthero.com/oor8wf676o2abuv32lxzzy1lndql-stable-diffusion-xl-base-09-tanya-tanya-a-brilliant-actress-with-a-gift-for-daring-roles-that-set-the-screen-ablaze-often-found-herself-caught-in-a-beautiful-woman-seductively-posing-by-a-large-window-wearing-a-sweatshirt-and-underwear-only-daring-photography-minimal-lighting-shadows.jpg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-A beautiful woman seductively posing by a large window, wearing a sweatshirt and underwear only, daring photography, minimal lighting, shadows, film grain
-```
-
-By [@abyishot](https://prompthero.com/prompt/a912514fefc-stable-diffusion-xl-base-09-tanya-tanya-a-brilliant-actress-with-a-gift-for-daring-roles-that-set-the-screen-ablaze-often-found-herself-caught-in-a-beautiful-woman-seductively-posing-by-a-large-window-wearing-a-sweatshirt-and-underwear-only-daring-photography-minimal-lighting-shadows)
-
----
-
-<a id="prompthero-a1304811bbe"></a>
-
-## GozdeSeker, a 45 years old woman with olive skin a\.\.\.
-
-<a href="https://cdn.prompthero.com/xfzh3ggxkb5mg8ufe7jxw2fwbht5-flux-dev-gozdeseker-a-45-years-old-woman-with-olive-skin-and-dark-wavy-hair-sits-in-a-cozy-coffee-shop-she.png"><img src="https://cdn.prompthero.com/xfzh3ggxkb5mg8ufe7jxw2fwbht5-flux-dev-gozdeseker-a-45-years-old-woman-with-olive-skin-and-dark-wavy-hair-sits-in-a-cozy-coffee-shop-she.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-GozdeSeker, a 45 years old woman with olive skin and dark, wavy hair, sits in a cozy coffee shop. She wears a soft gray sweater dress and subtle makeup, dshe wears a necked metal bdsm chocker, her expression serene. She holds a steaming cup of coffee, her eyes reflecting a mix of contentment and deep thought. The scene is bathed in warm, golden light from a window to her left, casting soft shadows and highlighting the rich textures of the wooden table and the ambient, vintage decor. The lighting is reminiscent of a Wes Anderson film, with a subtle film grain and a slightly desaturated color palette, creating a nostalgic and inviting atmosphere.
-```
-
-[Source](https://prompthero.com/prompt/a1304811bbe-flux-dev-gozdeseker-a-45-years-old-woman-with-olive-skin-and-dark-wavy-hair-sits-in-a-cozy-coffee-shop-she)
-
----
-
-<a id="prompthero-a3885940a0d"></a>
-
-## \(masterpiece:1\.1, best quality:1\.3\), Cinematic Sho\.\.\.
-
-<a href="https://cdn.prompthero.com/sxbff4uylkaiozi9tpusplwgb8lt-dreamshaper-5-baked-vae-masterpiece11-best-quality13-cinematic-shot-centered-shot-from-below-dynamic-pose-focused-shot-close-up-looking-toward-camera-1gothic-girl.jpg"><img src="https://cdn.prompthero.com/sxbff4uylkaiozi9tpusplwgb8lt-dreamshaper-5-baked-vae-masterpiece11-best-quality13-cinematic-shot-centered-shot-from-below-dynamic-pose-focused-shot-close-up-looking-toward-camera-1gothic-girl.jpg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-(masterpiece:1.1, best quality:1.3), Cinematic Shot, centered, shot from below, dynamic pose, focused shot, close up, (looking toward camera), 1gothic girl, cold, gorgeous, long chestnut ponytail hair, wearing scarf, jeans, leather army jacket, snowy blizzard, shopping district, city street background, RAW photo, volumetric lighting, global illumination, reflection, bokeh, studio color, photography, realistic depiction, (epic composition, epic proportion), 64K, HD, Professional work, Unreal engine, octane render, makoto shinkai inspired,
-```
-
-[Source](https://prompthero.com/prompt/a3885940a0d-dreamshaper-5-baked-vae-masterpiece11-best-quality13-cinematic-shot-centered-shot-from-below-dynamic-pose-focused-shot-close-up-looking-toward-camera-1gothic-girl)
-
----
-
-<a id="prompthero-ab59fb2794b"></a>
-
-## Japanese negative film aesthetic, rooftop summer s\.\.\.
-
-<a href="https://cdn.prompthero.com/srylcw14c604q2scfjgwo1qvoc-hero-10-japanese-negative-film-aesthetic-rooftop-summer-scene-soft-natural-sunlight-slight-overexposure-highlights-low-contrast-muted-faded-colors-subtle-grain.jpeg"><img src="https://cdn.prompthero.com/srylcw14c604q2scfjgwo1qvoc-hero-10-japanese-negative-film-aesthetic-rooftop-summer-scene-soft-natural-sunlight-slight-overexposure-highlights-low-contrast-muted-faded-colors-subtle-grain.jpeg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-Japanese negative film aesthetic, rooftop summer scene, soft natural sunlight, slight overexposure highlights, low contrast, muted faded colors, subtle grain subject standing or sitting on rooftop edge area, body relaxed, slight wind moving hair and clothes, looking toward camera with calm distant gaze, not posing open sky, empty space, minimal elements, imperfect composition, quiet isolated mood, nostalgic and reflective, “memory-like realism” --2:3
-```
-
-[Source](https://prompthero.com/prompt/ab59fb2794b-hero-10-japanese-negative-film-aesthetic-rooftop-summer-scene-soft-natural-sunlight-slight-overexposure-highlights-low-contrast-muted-faded-colors-subtle-grain)
-
----
 
 <a id="prompthero-ab83b133ccc"></a>
 
@@ -326,6 +246,86 @@ By [@AkiraS](https://prompthero.com/prompt/b1eaa1f9a1d-flux-dev-cyberpunk-game-s
 
 ---
 
-[1](portraits.md) · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · [5](portraits-5.md) · [6](portraits-6.md) · [7](portraits-7.md) · [8](portraits-8.md) · [9](portraits-9.md) · [10](portraits-10.md) · [11](portraits-11.md) · [12](portraits-12.md) · [13](portraits-13.md) · [14](portraits-14.md) · [15](portraits-15.md) · [16](portraits-16.md) · [17](portraits-17.md) · [18](portraits-18.md) · [19](portraits-19.md) · [20](portraits-20.md) · [21](portraits-21.md) · [22](portraits-22.md) · [23](portraits-23.md) · [24](portraits-24.md) · [25](portraits-25.md) · **26** · [27](portraits-27.md) · [28](portraits-28.md) · [29](portraits-29.md) · [30](portraits-30.md) · [31](portraits-31.md) · [32](portraits-32.md) · [33](portraits-33.md) · [34](portraits-34.md) · [35](portraits-35.md) · [36](portraits-36.md)
+<a id="prompthero-b2da23a7940"></a>
+
+## photography, candid shot, a boy and dad, beaming w\.\.\.
+
+<a href="https://cdn.prompthero.com/j1vr6y6vwbsx8yabs784ru0tsgel-midjourney-6-photography-candid-shot-a-boy-and-dad-beaming-with-a-wide-grin-stands-on-a-skateboard-boy-wearing-a-white.png"><img src="https://cdn.prompthero.com/j1vr6y6vwbsx8yabs784ru0tsgel-midjourney-6-photography-candid-shot-a-boy-and-dad-beaming-with-a-wide-grin-stands-on-a-skateboard-boy-wearing-a-white.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+photography, candid shot, a boy and dad, beaming with a wide grin, stands on a skateboard, boy wearing a white loose-fit T-shirt with a playful yet cool vibe, dark grey cargo jogger, they hold onto the strong hands of an adult whose lower half is visible, showing black loose-fit long sleeves and hands adorned with detailed tattoos, both wear Nike SB skateboard shoes, offering a contrast between new and comfortably worn, balance, perfect face-to-body ratio, and shared joy between generations, all set within the soft, natural light of a serene, used camera Sony α9 II with Sony FE 100-400mm f/4.5-5.6 GM OSS lens, emulating a high-contrast effect, UHD --ar 9:16 --style raw --stylize 600
+```
+
+By [@Grayve](https://prompthero.com/prompt/b2da23a7940-midjourney-6-photography-candid-shot-a-boy-and-dad-beaming-with-a-wide-grin-stands-on-a-skateboard-boy-wearing-a-white)
+
+---
+
+<a id="prompthero-b3b36b2a5e9"></a>
+
+## Youth Uprising: Laura
+
+<a href="https://cdn.prompthero.com/hu5fm9l4pzhppy68vrzjgio5g3to-stable-diffusion-xl-base-09-youth-uprising-laura.jpg"><img src="https://cdn.prompthero.com/hu5fm9l4pzhppy68vrzjgio5g3to-stable-diffusion-xl-base-09-youth-uprising-laura.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+(masterpiece,best quality, ultra-realistic, 32k, RAW photo, detailed skin, 8k UHD, high quality:1.2), street grunge style portrait of a young beautiful cyberpunk woman, messy long hair, revolution, riot gear, cyberpunk city background, megacity, sunset, paint style of Mike Winkelmann, high detail, digital art <lora:add-detail-xl:5>
+```
+
+By [@abyishot](https://prompthero.com/prompt/b3b36b2a5e9-stable-diffusion-xl-base-09-youth-uprising-laura)
+
+---
+
+<a id="prompthero-b4ced5a8de6"></a>
+
+## The image captures a joyous moment, centered on a \.\.\.
+
+<a href="https://cdn.prompthero.com/muiw908arx2rch86w53wl9aqlwyz-flux-flux-11-pro-ultra-the-image-captures-a-joyous-moment-centered-on-a-smiling-woman-dressed-vibrantly-in-traditional-clothing-possibly-from-a-culture.jpg"><img src="https://cdn.prompthero.com/muiw908arx2rch86w53wl9aqlwyz-flux-flux-11-pro-ultra-the-image-captures-a-joyous-moment-centered-on-a-smiling-woman-dressed-vibrantly-in-traditional-clothing-possibly-from-a-culture.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+The image captures a joyous moment, centered on a smiling woman dressed vibrantly in traditional clothing, possibly from a culture known for its colorful attire. Her outfit is richly adorned with bright, intricate patterns and embellishments, and she wears a headdress adorned with flowers that add a splash of various colors to her appearance. She is holding up a decorative item, which could be a part of a festival or celebration, toward the sky with a look of exuberance and delight. Her expression is one of genuine happiness as she laughs, her eyes closed and her head tilted back, which suggests she is fully immersed in the festivities. Other individuals, similarly dressed in traditional clothing though slightly out of focus, can be seen in the background enjoying the event, indicating a communal or cultural gathering. The warm lighting amplifies the festive atmosphere, giving the image a vibrant and lively feel.
+```
+
+[Source](https://prompthero.com/prompt/b4ced5a8de6-flux-flux-11-pro-ultra-the-image-captures-a-joyous-moment-centered-on-a-smiling-woman-dressed-vibrantly-in-traditional-clothing-possibly-from-a-culture)
+
+---
+
+<a id="prompthero-b5bb3ad9536"></a>
+
+## high resolution photography, candid shot, couple, \.\.\.
+
+<a href="https://cdn.prompthero.com/rxikupa9egvwz1r54ijrl3v1yc-midjourney-shatter-high-resolution-photography-candid-shot-couple-hugging-at-a-complicated-street-35mm-film-kodak-portra-400-motion-blur-authentic-emotion.png"><img src="https://cdn.prompthero.com/rxikupa9egvwz1r54ijrl3v1yc-midjourney-shatter-high-resolution-photography-candid-shot-couple-hugging-at-a-complicated-street-35mm-film-kodak-portra-400-motion-blur-authentic-emotion.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+high resolution photography, candid shot, couple, hugging, at a complicated street, 35mm film, kodak portra 400, motion blur, authentic emotion, film grain, cinematic lighting, rich detailed --ar 9:16 --raw
+```
+
+By [@Grayve](https://prompthero.com/prompt/b5bb3ad9536-midjourney-shatter-high-resolution-photography-candid-shot-couple-hugging-at-a-complicated-street-35mm-film-kodak-portra-400-motion-blur-authentic-emotion)
+
+---
+
+<a id="prompthero-b6bebeecca5"></a>
+
+## score\_9, score\_8\_up, score\_7\_up,1girl,solo,two ton\.\.\.
+
+<a href="https://cdn.prompthero.com/vhuvkiwjf2k65cdp6rvfgscx9h74-pony-diffusion-v6-xl-v6-start-with-this-one-score9-score8up-score7up1girlsolotwo-tone-hairblack-and-green-hairshoulder-length-straight-hairblunt-bangsearhair-behind-earyellow-eyesblack-eye-shadowblack-eye-linerblushperfecteyeseyebrowsnormal-lipsnatural.png"><img src="https://cdn.prompthero.com/vhuvkiwjf2k65cdp6rvfgscx9h74-pony-diffusion-v6-xl-v6-start-with-this-one-score9-score8up-score7up1girlsolotwo-tone-hairblack-and-green-hairshoulder-length-straight-hairblunt-bangsearhair-behind-earyellow-eyesblack-eye-shadowblack-eye-linerblushperfecteyeseyebrowsnormal-lipsnatural.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+score_9, score_8_up, score_7_up,1girl,solo,two tone hair,black and green hair,shoulder length straight hair,blunt bangs,ear,hair behind ear,yellow eyes,black eye shadow,black eye liner,blush,perfecteyes,eyebrows,normal lips,natural color lips,jewelry,forehead jewelry, mermaid scales, shy smile, cute headtilt, happy face,underwater fantasy sea floor, cute headtilt, looking at viewer,facing viewer, beautiful fantasy underwater scene,cowboy body shot, vibrant,high resolution,cinematic,extremely detailed
+```
+
+[Source](https://prompthero.com/prompt/b6bebeecca5-pony-diffusion-v6-xl-v6-start-with-this-one-score9-score8up-score7up1girlsolotwo-tone-hairblack-and-green-hairshoulder-length-straight-hairblunt-bangsearhair-behind-earyellow-eyesblack-eye-shadowblack-eye-linerblushperfecteyeseyebrowsnormal-lipsnatural)
+
+---
+
+[1](portraits.md) · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · [5](portraits-5.md) · [6](portraits-6.md) · [7](portraits-7.md) · [8](portraits-8.md) · [9](portraits-9.md) · [10](portraits-10.md) · [11](portraits-11.md) · [12](portraits-12.md) · [13](portraits-13.md) · [14](portraits-14.md) · [15](portraits-15.md) · [16](portraits-16.md) · [17](portraits-17.md) · [18](portraits-18.md) · [19](portraits-19.md) · [20](portraits-20.md) · [21](portraits-21.md) · [22](portraits-22.md) · [23](portraits-23.md) · [24](portraits-24.md) · [25](portraits-25.md) · **26** · [27](portraits-27.md) · [28](portraits-28.md) · [29](portraits-29.md) · [30](portraits-30.md) · [31](portraits-31.md) · [32](portraits-32.md) · [33](portraits-33.md) · [34](portraits-34.md) · [35](portraits-35.md)
 
 [← Home](../README.md)

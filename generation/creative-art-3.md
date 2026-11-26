@@ -6,22 +6,6 @@
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
-<a id="prompthero-0c97785b276"></a>
-
-## Transform to extreme vivid fantasy realism style a\.\.\.
-
-<a href="https://cdn.prompthero.com/tji7lpvibmvsu5nykoibu5h8yb4r-flux-flux-11-pro-transform-to-extreme-vivid-fantasy-realism-style-art-ultra-detailed-masterpiece-depiction-of-medusa-from-marvel-inc-in-hyper-realistic.jpg"><img src="https://cdn.prompthero.com/tji7lpvibmvsu5nykoibu5h8yb4r-flux-flux-11-pro-transform-to-extreme-vivid-fantasy-realism-style-art-ultra-detailed-masterpiece-depiction-of-medusa-from-marvel-inc-in-hyper-realistic.jpg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-Transform to extreme vivid fantasy realism style art, ultra-detailed masterpiece, depiction of Medusa from Marvel Inc., in hyper-realistic fantasy digital photography, meticulously captured with precision and care, centered, perfect composition, overexposed photography creating a striking and ethereal atmosphere, sharp focus ensuring exquisite details, clear and bright elements highlighting her iconic red hair, expressive eyes filled with regal command and inner turmoil, the intricate details showcasing her flowing hair and stoic pose, seamlessly merging realism with fantasy, celebrating the essence of power and her inner conflicts in a visually stunning and imaginative setting.
-```
-
-[Source](https://prompthero.com/prompt/0c97785b276-flux-flux-11-pro-transform-to-extreme-vivid-fantasy-realism-style-art-ultra-detailed-masterpiece-depiction-of-medusa-from-marvel-inc-in-hyper-realistic)
-
----
-
 <a id="prompthero-0d3dd87d153"></a>
 
 ## A rapid aerial tracking shot from the drone&\#39;s pers\.\.\.
@@ -323,6 +307,22 @@ The image displays a captivating blend of natural elements where the silhouette 
 ```
 
 [Source](https://prompthero.com/prompt/3dcbf086e22-flux-flux-11-pro-ultra-the-image-displays-a-captivating-blend-of-natural-elements-where-the-silhouette-of-a-bear-is-seamlessly-superimposed-with-a)
+
+---
+
+<a id="prompthero-4b9ec3d60cc"></a>
+
+## Cinematic photorealistic vertical shot from inside\.\.\.
+
+<a href="https://cdn.prompthero.com/v1_6b9658289ab88bc14db6a7b321-hunyuan-hunyuan-3-cinematic-photorealistic-vertical-shot-from-inside-a-stationary-car-parked-safely-on-the-shoulder-of-a-highway-looking-through-the.jpg"><img src="https://cdn.prompthero.com/v1_6b9658289ab88bc14db6a7b321-hunyuan-hunyuan-3-cinematic-photorealistic-vertical-shot-from-inside-a-stationary-car-parked-safely-on-the-shoulder-of-a-highway-looking-through-the.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+Cinematic photorealistic vertical shot from inside a stationary car parked safely on the shoulder of a highway, looking through the passenger side window, other cars passing by on the road, warm pink sunset sky, moody atmospheric lighting, realistic reflections on glass, authentic smartphone photography, quiet contemplative mood, strong visual contrast between the stationary car and moving traffic, clean uncluttered composition, upper middle area suitable for text overlay, no text, no logos
+```
+
+By [@chorlo](https://prompthero.com/prompt/4b9ec3d60cc-hunyuan-hunyuan-3-cinematic-photorealistic-vertical-shot-from-inside-a-stationary-car-parked-safely-on-the-shoulder-of-a-highway-looking-through-the)
 
 ---
 

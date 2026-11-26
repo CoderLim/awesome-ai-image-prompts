@@ -1,90 +1,10 @@
 # portraits
 
-[← Home](../README.md) · Page 12 / 36
+[← Home](../README.md) · Page 12 / 35
 
-[1](portraits.md) · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · [5](portraits-5.md) · [6](portraits-6.md) · [7](portraits-7.md) · [8](portraits-8.md) · [9](portraits-9.md) · [10](portraits-10.md) · [11](portraits-11.md) · **12** · [13](portraits-13.md) · [14](portraits-14.md) · [15](portraits-15.md) · [16](portraits-16.md) · [17](portraits-17.md) · [18](portraits-18.md) · [19](portraits-19.md) · [20](portraits-20.md) · [21](portraits-21.md) · [22](portraits-22.md) · [23](portraits-23.md) · [24](portraits-24.md) · [25](portraits-25.md) · [26](portraits-26.md) · [27](portraits-27.md) · [28](portraits-28.md) · [29](portraits-29.md) · [30](portraits-30.md) · [31](portraits-31.md) · [32](portraits-32.md) · [33](portraits-33.md) · [34](portraits-34.md) · [35](portraits-35.md) · [36](portraits-36.md)
+[1](portraits.md) · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · [5](portraits-5.md) · [6](portraits-6.md) · [7](portraits-7.md) · [8](portraits-8.md) · [9](portraits-9.md) · [10](portraits-10.md) · [11](portraits-11.md) · **12** · [13](portraits-13.md) · [14](portraits-14.md) · [15](portraits-15.md) · [16](portraits-16.md) · [17](portraits-17.md) · [18](portraits-18.md) · [19](portraits-19.md) · [20](portraits-20.md) · [21](portraits-21.md) · [22](portraits-22.md) · [23](portraits-23.md) · [24](portraits-24.md) · [25](portraits-25.md) · [26](portraits-26.md) · [27](portraits-27.md) · [28](portraits-28.md) · [29](portraits-29.md) · [30](portraits-30.md) · [31](portraits-31.md) · [32](portraits-32.md) · [33](portraits-33.md) · [34](portraits-34.md) · [35](portraits-35.md)
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
-
-<a id="prompthero-8c1b0191856"></a>
-
-## Super-realistic, photo realism, mesmerizing and vi\.\.\.
-
-<a href="https://cdn.prompthero.com/bk4cef7x8pee95856ksznbemhmbb-flux-flux-11-pro-super-realistic-photo-realism-mesmerizing-and-vivid-colours-depicting-a-dragonfly-delicately-perched-on-a-juicy-strawberry-and-strawberry-flowers.jpg"><img src="https://cdn.prompthero.com/bk4cef7x8pee95856ksznbemhmbb-flux-flux-11-pro-super-realistic-photo-realism-mesmerizing-and-vivid-colours-depicting-a-dragonfly-delicately-perched-on-a-juicy-strawberry-and-strawberry-flowers.jpg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-Super-realistic, photo realism, mesmerizing and vivid colours depicting a dragonfly delicately perched on a juicy strawberry and strawberry flowers setting in small natural pond, surrounded by reflective dew drops. The dragonfly's wings and eyes are intricately detailed, The background is a serene, verdant paradise filled with flora and bokeh effects, The interplay of light and shadow enhances the depth and dimension of this enchanting scene
-```
-
-[Source](https://prompthero.com/prompt/8c1b0191856-flux-flux-11-pro-super-realistic-photo-realism-mesmerizing-and-vivid-colours-depicting-a-dragonfly-delicately-perched-on-a-juicy-strawberry-and-strawberry-flowers)
-
----
-
-<a id="prompthero-8c689fb42d8"></a>
-
-## Realistic fashion model
-
-<a href="https://cdn.prompthero.com/cu8lubvbefdma273w98z0xdhq8oc-realistic-vision-v20-v20-realistic-fashion-model.png"><img src="https://cdn.prompthero.com/cu8lubvbefdma273w98z0xdhq8oc-realistic-vision-v20-v20-realistic-fashion-model.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-Super-Realistic potrait of Nataliya Aleksandrov standing at photoshoot location, worn a detailed texture chic casual outfit,Cinematic lighting,accent lighting,35mm lens, beautiful
-```
-
-[Source](https://prompthero.com/prompt/8c689fb42d8-realistic-vision-v20-v20-realistic-fashion-model)
-
----
-
-<a id="prompthero-8cad65d3141"></a>
-
-## masterpiece, highest quality, solo focus, \(perfect\.\.\.
-
-<a href="https://cdn.prompthero.com/ymlw52ppvm4gru0jiqfbn68cncpi-realistic-vision-v20-v20-masterpiece-highest-quality-solo-focus-perfect-face11-high-detail11-romantic-15-long-white-hair13-novel-cover-delicate-legs-1-delicate.png"><img src="https://cdn.prompthero.com/ymlw52ppvm4gru0jiqfbn68cncpi-realistic-vision-v20-v20-masterpiece-highest-quality-solo-focus-perfect-face11-high-detail11-romantic-15-long-white-hair13-novel-cover-delicate-legs-1-delicate.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-masterpiece, highest quality, solo focus, (perfect face:1.1) , (high detail:1.1), (romantic, 1.5), (long White hair:1.3) novel cover, delicate legs, 1 delicate woman, Wearing a beautiful white Victorian dress:1.3, gold jewelry:1.3, long White hair:1.3, holding a music box 1.2), (In a beautiful palace, daytime, bright light:1.3), young Women, longing posture, hyper detailed, digital art, studio quality, smooth render, unreal engine 5 render, octane render, 8K, Girl with European and Korean features
-```
-
-By [@heeyrina](https://prompthero.com/prompt/8cad65d3141-realistic-vision-v20-v20-masterpiece-highest-quality-solo-focus-perfect-face11-high-detail11-romantic-15-long-white-hair13-novel-cover-delicate-legs-1-delicate)
-
----
-
-<a id="prompthero-8d4dd7e5dd3"></a>
-
-## Movie quality Side view Action scene: Amidst the t\.\.\.
-
-<a href="https://cdn.prompthero.com/ooo4k3f86gxtsihm71g50vbwyq75-flux-flux-11-pro-ultra-movie-quality-side-view-action-scene-amidst-the-tempestuous-caribbean-sea-a-beautiful-but-fierce-and-determined-female-caribbean-pirate.jpg"><img src="https://cdn.prompthero.com/ooo4k3f86gxtsihm71g50vbwyq75-flux-flux-11-pro-ultra-movie-quality-side-view-action-scene-amidst-the-tempestuous-caribbean-sea-a-beautiful-but-fierce-and-determined-female-caribbean-pirate.jpg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-Movie quality Side view Action scene: Amidst the tempestuous Caribbean sea, a beautiful but fierce and determined female caribbean pirate captain with tattoos, dressed as Jack Sparrow, stands atop the swaying mast of a Spanish pirate ship. Her dark eyes blaze with resolve as she leaps into the salty air, both hands grasping the hilt of her saber thrusting her saber into the Kraken monster Below her, the monstrous Kraken—a tangle of writhing tentacles—rears up from the depths, its malevolence aimed squarely at her vessel. But she is undeterred. With a battle cry on her lips, she descends in a horizontal pose, ready to plunge her blade into the head of the ancient sea beast. illuminated by lightning flashes, leaps from the high mast onto the Kraken—a tempest of fury and steel. the shot is a hyper-realistic photo highly detailed
-```
-
-[Source](https://prompthero.com/prompt/8d4dd7e5dd3-flux-flux-11-pro-ultra-movie-quality-side-view-action-scene-amidst-the-tempestuous-caribbean-sea-a-beautiful-but-fierce-and-determined-female-caribbean-pirate)
-
----
-
-<a id="prompthero-8db6cdbfa3f"></a>
-
-## complex 3d render ultra detailed of a beautiful po\.\.\.
-
-<a href="https://cdn.prompthero.com/v1_e8b229a2e7491e8a687dbe6d80-stable-diffusion-35-large-complex-3d-render-ultra-detailed-of-a-beautiful-porcelain-profile-woman-andriod-facecyborg-robotic-parts-150-mm-beautiful-studio-soft.jpeg"><img src="https://cdn.prompthero.com/v1_e8b229a2e7491e8a687dbe6d80-stable-diffusion-35-large-complex-3d-render-ultra-detailed-of-a-beautiful-porcelain-profile-woman-andriod-facecyborg-robotic-parts-150-mm-beautiful-studio-soft.jpeg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-complex 3d render ultra detailed of a beautiful porcelain profile woman andriod face,cyborg, robotic parts, 150 mm, beautiful studio soft light, rim light, vibrant details, luxurious cyberpunk, lace, one third of her body is human, hyperrealistic, anatomical, facial muscles, cable electric wires,  elegant, beautiful background, octane render, 8k, best quality, masterpiece, illustration, an extremely delicate and beautiful, (realistic, photo-realistic:1.37),Amazing, finely detail, masterpiece,best quality,official art, extremely detailed CG unity 8k wallpaper, absurdres,  full body, sitting,((small body)),((thin leg)) ,(narrow waist:0.8),(((small body)))
-```
-
-By [@jonessmith432](https://prompthero.com/prompt/8db6cdbfa3f-stable-diffusion-35-large-complex-3d-render-ultra-detailed-of-a-beautiful-porcelain-profile-woman-andriod-facecyborg-robotic-parts-150-mm-beautiful-studio-soft)
-
----
 
 <a id="prompthero-8db75b91a6a"></a>
 
@@ -326,6 +246,86 @@ Fashion design work feauturing a (Chanel) female (Nigerian) model wearing minima
 
 ---
 
-[1](portraits.md) · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · [5](portraits-5.md) · [6](portraits-6.md) · [7](portraits-7.md) · [8](portraits-8.md) · [9](portraits-9.md) · [10](portraits-10.md) · [11](portraits-11.md) · **12** · [13](portraits-13.md) · [14](portraits-14.md) · [15](portraits-15.md) · [16](portraits-16.md) · [17](portraits-17.md) · [18](portraits-18.md) · [19](portraits-19.md) · [20](portraits-20.md) · [21](portraits-21.md) · [22](portraits-22.md) · [23](portraits-23.md) · [24](portraits-24.md) · [25](portraits-25.md) · [26](portraits-26.md) · [27](portraits-27.md) · [28](portraits-28.md) · [29](portraits-29.md) · [30](portraits-30.md) · [31](portraits-31.md) · [32](portraits-32.md) · [33](portraits-33.md) · [34](portraits-34.md) · [35](portraits-35.md) · [36](portraits-36.md)
+<a id="prompthero-9b6f95ead9e"></a>
+
+## The Enigma Of The Ancient Deity&quot;
+
+<a href="https://cdn.prompthero.com/369q3qcs4prvsphh2fegaj8e82cs-stable-diffusion-21-768-the-enigma-of-the-ancient-deity.png"><img src="https://cdn.prompthero.com/369q3qcs4prvsphh2fegaj8e82cs-stable-diffusion-21-768-the-enigma-of-the-ancient-deity.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+An amazingly detailed drawn (((close-up portrait))), capturing the essence of a beautiful (((ancient god being Figure))) with powerful attributes of light, with human hybrid creature traits, evoking a sense of the power and strength, with intricate details that defy reality, set against a backdrop of an (((ethereal portal)), with striking contrasts that elevate its ethereal beauty, drawn in the style of iconic artists like Julie Bell, dressed in elaborate attire that complements its fantastical allure, advanced hyperrealism, advanced lighting effects, advanced color grading techniques, and 4K/8K/16K gigapixel resolution for ultra-detailed realism, digital art
+```
+
+[Source](https://prompthero.com/prompt/9b6f95ead9e-stable-diffusion-21-768-the-enigma-of-the-ancient-deity)
+
+---
+
+<a id="prompthero-9ba0538456a"></a>
+
+## Graytheory model
+
+<a href="https://cdn.prompthero.com/b2qfyrcniobs3jd5ijzwwka2ntnx-midjourney-6-graytheory-model.png"><img src="https://cdn.prompthero.com/b2qfyrcniobs3jd5ijzwwka2ntnx-midjourney-6-graytheory-model.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+photograph, front view, professional model, man, shaved hair and neat beard with horn-rimmed glasses, standing on solid grey background photo studio, gaze into the camera, wrinkles on the forehead, by Richard Avedon style photo, used camera is Sony α9 II with Sony FE 100-400mm f/4.5-5.6 GM OSS lens, wearing left chest big pocket with small logo blank, deep dark blue color loose XL T-shirt, tattoo on the arm, deep washing denim minimal innovative design jogger pants, model is expressed in photography, high contrast --ar 9:16 --style raw --stylize 700 --v 6
+```
+
+By [@Grayve](https://prompthero.com/prompt/9ba0538456a-midjourney-6-graytheory-model)
+
+---
+
+<a id="prompthero-09bb3b6c276"></a>
+
+## full color portrait of bosnian \(bosniak\) woman wea\.\.\.
+
+<a href="https://cdn.prompthero.com/3ob9m8o8l94ospsj64l4t6fk8o03-stable-diffusion-2-base-full-color-portrait-of-bosnian-bosniak-woman-wearing-a-keffiyeh-epic-character-composition-by-ilya-kuvshinov-terry-richardson-annie-leibovitz.png"><img src="https://cdn.prompthero.com/3ob9m8o8l94ospsj64l4t6fk8o03-stable-diffusion-2-base-full-color-portrait-of-bosnian-bosniak-woman-wearing-a-keffiyeh-epic-character-composition-by-ilya-kuvshinov-terry-richardson-annie-leibovitz.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+full color portrait of bosnian (bosniak) woman wearing a keffiyeh, epic character composition, by ilya kuvshinov, terry richardson, annie leibovitz, sharp focus, natural lighting, subsurface scattering, f2, 35mm, film grain, award winning,  8k
+```
+
+[Source](https://prompthero.com/prompt/09bb3b6c276-stable-diffusion-2-base-full-color-portrait-of-bosnian-bosniak-woman-wearing-a-keffiyeh-epic-character-composition-by-ilya-kuvshinov-terry-richardson-annie-leibovitz)
+
+---
+
+<a id="prompthero-9bd4656f165"></a>
+
+## fashion editorial, a beautiful blackhaired asian w\.\.\.
+
+<a href="https://cdn.prompthero.com/zhx9vj700w0rj2pkzt2q3w896oaz-stable-diffusion-2-base-fashion-editorial-a-beautiful-blackhaired-asian-woman-in-abstract-headphones-with-pink-and-blue-neon-lights-in-night-club-highres.png"><img src="https://cdn.prompthero.com/zhx9vj700w0rj2pkzt2q3w896oaz-stable-diffusion-2-base-fashion-editorial-a-beautiful-blackhaired-asian-woman-in-abstract-headphones-with-pink-and-blue-neon-lights-in-night-club-highres.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+fashion editorial, a beautiful blackhaired asian woman in abstract headphones with pink and blue neon lights in night club, highres, realistic photo, professional photography, cinematic angle, dynamic light back shining,
+```
+
+[Source](https://prompthero.com/prompt/9bd4656f165-stable-diffusion-2-base-fashion-editorial-a-beautiful-blackhaired-asian-woman-in-abstract-headphones-with-pink-and-blue-neon-lights-in-night-club-highres)
+
+---
+
+<a id="prompthero-9be8d8b2644"></a>
+
+## black and white photography, young girl in old tra\.\.\.
+
+<a href="https://cdn.prompthero.com/dbuuyxz23nxqjd8sthhlsbfzgj0o-stable-diffusion-2-base-black-and-white-photography-young-girl-in-old-train-cabin-sadly-looks-on-camera-highres-realistic-photo-professional-photography-cinematic.png"><img src="https://cdn.prompthero.com/dbuuyxz23nxqjd8sthhlsbfzgj0o-stable-diffusion-2-base-black-and-white-photography-young-girl-in-old-train-cabin-sadly-looks-on-camera-highres-realistic-photo-professional-photography-cinematic.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+black and white photography, young girl in old train cabin sadly looks on camera, highres, realistic photo, professional photography, cinematic angle, dynamic light back shining, bokeh,
+```
+
+[Source](https://prompthero.com/prompt/9be8d8b2644-stable-diffusion-2-base-black-and-white-photography-young-girl-in-old-train-cabin-sadly-looks-on-camera-highres-realistic-photo-professional-photography-cinematic)
+
+---
+
+[1](portraits.md) · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · [5](portraits-5.md) · [6](portraits-6.md) · [7](portraits-7.md) · [8](portraits-8.md) · [9](portraits-9.md) · [10](portraits-10.md) · [11](portraits-11.md) · **12** · [13](portraits-13.md) · [14](portraits-14.md) · [15](portraits-15.md) · [16](portraits-16.md) · [17](portraits-17.md) · [18](portraits-18.md) · [19](portraits-19.md) · [20](portraits-20.md) · [21](portraits-21.md) · [22](portraits-22.md) · [23](portraits-23.md) · [24](portraits-24.md) · [25](portraits-25.md) · [26](portraits-26.md) · [27](portraits-27.md) · [28](portraits-28.md) · [29](portraits-29.md) · [30](portraits-30.md) · [31](portraits-31.md) · [32](portraits-32.md) · [33](portraits-33.md) · [34](portraits-34.md) · [35](portraits-35.md)
 
 [← Home](../README.md)

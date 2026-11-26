@@ -1,90 +1,10 @@
 # portraits
 
-[← Home](../README.md) · Page 13 / 36
+[← Home](../README.md) · Page 13 / 35
 
-[1](portraits.md) · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · [5](portraits-5.md) · [6](portraits-6.md) · [7](portraits-7.md) · [8](portraits-8.md) · [9](portraits-9.md) · [10](portraits-10.md) · [11](portraits-11.md) · [12](portraits-12.md) · **13** · [14](portraits-14.md) · [15](portraits-15.md) · [16](portraits-16.md) · [17](portraits-17.md) · [18](portraits-18.md) · [19](portraits-19.md) · [20](portraits-20.md) · [21](portraits-21.md) · [22](portraits-22.md) · [23](portraits-23.md) · [24](portraits-24.md) · [25](portraits-25.md) · [26](portraits-26.md) · [27](portraits-27.md) · [28](portraits-28.md) · [29](portraits-29.md) · [30](portraits-30.md) · [31](portraits-31.md) · [32](portraits-32.md) · [33](portraits-33.md) · [34](portraits-34.md) · [35](portraits-35.md) · [36](portraits-36.md)
+[1](portraits.md) · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · [5](portraits-5.md) · [6](portraits-6.md) · [7](portraits-7.md) · [8](portraits-8.md) · [9](portraits-9.md) · [10](portraits-10.md) · [11](portraits-11.md) · [12](portraits-12.md) · **13** · [14](portraits-14.md) · [15](portraits-15.md) · [16](portraits-16.md) · [17](portraits-17.md) · [18](portraits-18.md) · [19](portraits-19.md) · [20](portraits-20.md) · [21](portraits-21.md) · [22](portraits-22.md) · [23](portraits-23.md) · [24](portraits-24.md) · [25](portraits-25.md) · [26](portraits-26.md) · [27](portraits-27.md) · [28](portraits-28.md) · [29](portraits-29.md) · [30](portraits-30.md) · [31](portraits-31.md) · [32](portraits-32.md) · [33](portraits-33.md) · [34](portraits-34.md) · [35](portraits-35.md)
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
-
-<a id="prompthero-9b6f95ead9e"></a>
-
-## The Enigma Of The Ancient Deity&quot;
-
-<a href="https://cdn.prompthero.com/369q3qcs4prvsphh2fegaj8e82cs-stable-diffusion-21-768-the-enigma-of-the-ancient-deity.png"><img src="https://cdn.prompthero.com/369q3qcs4prvsphh2fegaj8e82cs-stable-diffusion-21-768-the-enigma-of-the-ancient-deity.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-An amazingly detailed drawn (((close-up portrait))), capturing the essence of a beautiful (((ancient god being Figure))) with powerful attributes of light, with human hybrid creature traits, evoking a sense of the power and strength, with intricate details that defy reality, set against a backdrop of an (((ethereal portal)), with striking contrasts that elevate its ethereal beauty, drawn in the style of iconic artists like Julie Bell, dressed in elaborate attire that complements its fantastical allure, advanced hyperrealism, advanced lighting effects, advanced color grading techniques, and 4K/8K/16K gigapixel resolution for ultra-detailed realism, digital art
-```
-
-[Source](https://prompthero.com/prompt/9b6f95ead9e-stable-diffusion-21-768-the-enigma-of-the-ancient-deity)
-
----
-
-<a id="prompthero-9ba0538456a"></a>
-
-## Graytheory model
-
-<a href="https://cdn.prompthero.com/b2qfyrcniobs3jd5ijzwwka2ntnx-midjourney-6-graytheory-model.png"><img src="https://cdn.prompthero.com/b2qfyrcniobs3jd5ijzwwka2ntnx-midjourney-6-graytheory-model.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-photograph, front view, professional model, man, shaved hair and neat beard with horn-rimmed glasses, standing on solid grey background photo studio, gaze into the camera, wrinkles on the forehead, by Richard Avedon style photo, used camera is Sony α9 II with Sony FE 100-400mm f/4.5-5.6 GM OSS lens, wearing left chest big pocket with small logo blank, deep dark blue color loose XL T-shirt, tattoo on the arm, deep washing denim minimal innovative design jogger pants, model is expressed in photography, high contrast --ar 9:16 --style raw --stylize 700 --v 6
-```
-
-By [@Grayve](https://prompthero.com/prompt/9ba0538456a-midjourney-6-graytheory-model)
-
----
-
-<a id="prompthero-09bb3b6c276"></a>
-
-## full color portrait of bosnian \(bosniak\) woman wea\.\.\.
-
-<a href="https://cdn.prompthero.com/3ob9m8o8l94ospsj64l4t6fk8o03-stable-diffusion-2-base-full-color-portrait-of-bosnian-bosniak-woman-wearing-a-keffiyeh-epic-character-composition-by-ilya-kuvshinov-terry-richardson-annie-leibovitz.png"><img src="https://cdn.prompthero.com/3ob9m8o8l94ospsj64l4t6fk8o03-stable-diffusion-2-base-full-color-portrait-of-bosnian-bosniak-woman-wearing-a-keffiyeh-epic-character-composition-by-ilya-kuvshinov-terry-richardson-annie-leibovitz.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-full color portrait of bosnian (bosniak) woman wearing a keffiyeh, epic character composition, by ilya kuvshinov, terry richardson, annie leibovitz, sharp focus, natural lighting, subsurface scattering, f2, 35mm, film grain, award winning,  8k
-```
-
-[Source](https://prompthero.com/prompt/09bb3b6c276-stable-diffusion-2-base-full-color-portrait-of-bosnian-bosniak-woman-wearing-a-keffiyeh-epic-character-composition-by-ilya-kuvshinov-terry-richardson-annie-leibovitz)
-
----
-
-<a id="prompthero-9bd4656f165"></a>
-
-## fashion editorial, a beautiful blackhaired asian w\.\.\.
-
-<a href="https://cdn.prompthero.com/zhx9vj700w0rj2pkzt2q3w896oaz-stable-diffusion-2-base-fashion-editorial-a-beautiful-blackhaired-asian-woman-in-abstract-headphones-with-pink-and-blue-neon-lights-in-night-club-highres.png"><img src="https://cdn.prompthero.com/zhx9vj700w0rj2pkzt2q3w896oaz-stable-diffusion-2-base-fashion-editorial-a-beautiful-blackhaired-asian-woman-in-abstract-headphones-with-pink-and-blue-neon-lights-in-night-club-highres.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-fashion editorial, a beautiful blackhaired asian woman in abstract headphones with pink and blue neon lights in night club, highres, realistic photo, professional photography, cinematic angle, dynamic light back shining,
-```
-
-[Source](https://prompthero.com/prompt/9bd4656f165-stable-diffusion-2-base-fashion-editorial-a-beautiful-blackhaired-asian-woman-in-abstract-headphones-with-pink-and-blue-neon-lights-in-night-club-highres)
-
----
-
-<a id="prompthero-9be8d8b2644"></a>
-
-## black and white photography, young girl in old tra\.\.\.
-
-<a href="https://cdn.prompthero.com/dbuuyxz23nxqjd8sthhlsbfzgj0o-stable-diffusion-2-base-black-and-white-photography-young-girl-in-old-train-cabin-sadly-looks-on-camera-highres-realistic-photo-professional-photography-cinematic.png"><img src="https://cdn.prompthero.com/dbuuyxz23nxqjd8sthhlsbfzgj0o-stable-diffusion-2-base-black-and-white-photography-young-girl-in-old-train-cabin-sadly-looks-on-camera-highres-realistic-photo-professional-photography-cinematic.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-black and white photography, young girl in old train cabin sadly looks on camera, highres, realistic photo, professional photography, cinematic angle, dynamic light back shining, bokeh,
-```
-
-[Source](https://prompthero.com/prompt/9be8d8b2644-stable-diffusion-2-base-black-and-white-photography-young-girl-in-old-train-cabin-sadly-looks-on-camera-highres-realistic-photo-professional-photography-cinematic)
-
----
 
 <a id="prompthero-9c4ce975ed0"></a>
 
@@ -326,6 +246,86 @@ Close-up portrait of the Joker, Caucasian, adult male, with vibrant, stylized ma
 
 ---
 
-[1](portraits.md) · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · [5](portraits-5.md) · [6](portraits-6.md) · [7](portraits-7.md) · [8](portraits-8.md) · [9](portraits-9.md) · [10](portraits-10.md) · [11](portraits-11.md) · [12](portraits-12.md) · **13** · [14](portraits-14.md) · [15](portraits-15.md) · [16](portraits-16.md) · [17](portraits-17.md) · [18](portraits-18.md) · [19](portraits-19.md) · [20](portraits-20.md) · [21](portraits-21.md) · [22](portraits-22.md) · [23](portraits-23.md) · [24](portraits-24.md) · [25](portraits-25.md) · [26](portraits-26.md) · [27](portraits-27.md) · [28](portraits-28.md) · [29](portraits-29.md) · [30](portraits-30.md) · [31](portraits-31.md) · [32](portraits-32.md) · [33](portraits-33.md) · [34](portraits-34.md) · [35](portraits-35.md) · [36](portraits-36.md)
+<a id="prompthero-9ef0ebba80a"></a>
+
+## Ultra-realistic photograph captured with a Canon E\.\.\.
+
+<a href="https://cdn.prompthero.com/penx2anail8h3fdcyd2g6ktw85-ultra-realistic-photograph-captured-with-a-canon-eos-5d-mark-iv-dslr-camera-using-a-canon-ef-85mm-f14l-usm.jpeg"><img src="https://cdn.prompthero.com/penx2anail8h3fdcyd2g6ktw85-ultra-realistic-photograph-captured-with-a-canon-eos-5d-mark-iv-dslr-camera-using-a-canon-ef-85mm-f14l-usm.jpeg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+Ultra-realistic photograph captured with a Canon EOS 5D Mark IV DSLR camera using a Canon EF 85mm f/1.4L USM lens at f/1.8 aperture, creating a pronounced shallow depth of field with sharp critical focus on the subject and creamy, buttery bokeh in the background. Hyper-realistic skin textures with visible pores, fine subsurface scattering, micro-imperfections, and natural matte finish. A sinister colossal dark fantasy figure transformed into a single massive, muscular male form. Long nails are dramatically embedded deep into its scalp and protrude from its crown. Skin is matte like aged wood with subtle scaly texture visible at the temples and collar. Intense hypnotic gaze fixed directly forward, piercing and mesmerizing. Powerful, strong, hard male physique with idealized proportions and classic Alberto Vargas pin-up art aesthetic, rendered in complete photorealism. Pose, gaze direction, silhouette, clothing motifs, identifying features, background, lighting setup, and all prop arrangements are precisely preserved from the original scene. Framing, composition, and placement remain identical. Cinematic materials with photorealistic detail: natural fiber wrappings, subtle dark metal fittings, and lifelike surface qualities. Masterpiece, ultra-photorealistic, 8K resolution, exceptional material fidelity, filmic color grading, natural light falloff, National Geographic level realism.
+```
+
+[Source](https://prompthero.com/prompt/9ef0ebba80a-ultra-realistic-photograph-captured-with-a-canon-eos-5d-mark-iv-dslr-camera-using-a-canon-ef-85mm-f14l-usm)
+
+---
+
+<a id="prompthero-9f508e9e514"></a>
+
+## the woman is dressed in a futuristic black leather\.\.\.
+
+<a href="https://cdn.prompthero.com/xc1nj0twvyyx0dvlqbsegkjb5v7h-midjourney-52-the-woman-is-dressed-in-a-futuristic-black-leather-suit-in-the-style-of-animated-gifs-soft-focused-realism-splattereddripped.png"><img src="https://cdn.prompthero.com/xc1nj0twvyyx0dvlqbsegkjb5v7h-midjourney-52-the-woman-is-dressed-in-a-futuristic-black-leather-suit-in-the-style-of-animated-gifs-soft-focused-realism-splattereddripped.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+the woman is dressed in a futuristic black leather suit, in the style of animated gifs, soft-focused realism, splattered/dripped, golden light, lightningwave, catcore, neo-victorian --ar 35:59 --s 750 --v 5.2
+```
+
+By [@NorthmoorAI](https://prompthero.com/prompt/9f508e9e514-midjourney-52-the-woman-is-dressed-in-a-futuristic-black-leather-suit-in-the-style-of-animated-gifs-soft-focused-realism-splattereddripped)
+
+---
+
+<a id="prompthero-10b5f6231b8"></a>
+
+## Top quality live action, high resolution, masterpi\.\.\.
+
+<a href="https://cdn.prompthero.com/dbixdddtp9yl152v8qw3cdhexeb0-flux-flux-11-pro-top-quality-live-action-high-resolution-masterpiece-very-detailed-complete-anatomy-full-body-shot-kneeling-with-hands-behind-back-searching.jpg"><img src="https://cdn.prompthero.com/dbixdddtp9yl152v8qw3cdhexeb0-flux-flux-11-pro-top-quality-live-action-high-resolution-masterpiece-very-detailed-complete-anatomy-full-body-shot-kneeling-with-hands-behind-back-searching.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+Top quality live action, high resolution, masterpiece, very detailed, complete anatomy, full body shot, kneeling with hands behind back, searching, slightly tilting head, slightly open mouth smile, a Japanese woman, actress, cute Japanese girl, very cute face, straight pose, beautiful shiny skin, shiny skin from sweat, delicate facial features, glitter, shiny black ponytail, beautiful irises, shiny polymer suit that matches skin perfectly, transparent polymer suit with pearlescent sheen, delicate electronic circuits visible inside body, thick metal collar, laboratory interior background.
+```
+
+[Source](https://prompthero.com/prompt/10b5f6231b8-flux-flux-11-pro-top-quality-live-action-high-resolution-masterpiece-very-detailed-complete-anatomy-full-body-shot-kneeling-with-hands-behind-back-searching)
+
+---
+
+<a id="prompthero-10f0cdd16db"></a>
+
+## Strong male, green eyes, short silver hair, white \.\.\.
+
+<a href="https://cdn.prompthero.com/sri1zlu8fmatu3glnv7zlzi7b4t2-cetus-mix-cetusversion3-strong-male-green-eyes-short-silver-hair-white-robe-fov-f18-masterpiece-veil-mouth-veil-blood-moon-night-flower-petals.png"><img src="https://cdn.prompthero.com/sri1zlu8fmatu3glnv7zlzi7b4t2-cetus-mix-cetusversion3-strong-male-green-eyes-short-silver-hair-white-robe-fov-f18-masterpiece-veil-mouth-veil-blood-moon-night-flower-petals.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+Strong male, green eyes, short silver hair, white robe, fov, f/1.8, masterpiece, (veil, mouth veil), blood moon, night, flower petals flying, front portrait shot, side light, moonlight shining on people, 8K
+```
+
+By [@heeyrina](https://prompthero.com/prompt/10f0cdd16db-cetus-mix-cetusversion3-strong-male-green-eyes-short-silver-hair-white-robe-fov-f18-masterpiece-veil-mouth-veil-blood-moon-night-flower-petals)
+
+---
+
+<a id="prompthero-11a678af0b9"></a>
+
+## Portrait of a woman with long, wavy hair, looking \.\.\.
+
+<a href="https://cdn.prompthero.com/v1_565efe64b9473f76953650ab11-grok-image-grok-imagine-image-2-portrait-of-a-woman-with-long-wavy-hair-looking-up-and-to-the-side-black-and-white-with-strong-chiaroscuro.jpg"><img src="https://cdn.prompthero.com/v1_565efe64b9473f76953650ab11-grok-image-grok-imagine-image-2-portrait-of-a-woman-with-long-wavy-hair-looking-up-and-to-the-side-black-and-white-with-strong-chiaroscuro.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+Portrait of a woman with long, wavy hair, looking up and to the side. Black and white with strong chiaroscuro accentuating facial features. Dramatic lighting, focused on the face, with a dark, blurred background. The expression is pensive, with the mouth slightly open. A high-resolution, fashion aesthetic with fine detail.
+```
+
+By [@chorlo](https://prompthero.com/prompt/11a678af0b9-grok-image-grok-imagine-image-2-portrait-of-a-woman-with-long-wavy-hair-looking-up-and-to-the-side-black-and-white-with-strong-chiaroscuro)
+
+---
+
+[1](portraits.md) · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · [5](portraits-5.md) · [6](portraits-6.md) · [7](portraits-7.md) · [8](portraits-8.md) · [9](portraits-9.md) · [10](portraits-10.md) · [11](portraits-11.md) · [12](portraits-12.md) · **13** · [14](portraits-14.md) · [15](portraits-15.md) · [16](portraits-16.md) · [17](portraits-17.md) · [18](portraits-18.md) · [19](portraits-19.md) · [20](portraits-20.md) · [21](portraits-21.md) · [22](portraits-22.md) · [23](portraits-23.md) · [24](portraits-24.md) · [25](portraits-25.md) · [26](portraits-26.md) · [27](portraits-27.md) · [28](portraits-28.md) · [29](portraits-29.md) · [30](portraits-30.md) · [31](portraits-31.md) · [32](portraits-32.md) · [33](portraits-33.md) · [34](portraits-34.md) · [35](portraits-35.md)
 
 [← Home](../README.md)

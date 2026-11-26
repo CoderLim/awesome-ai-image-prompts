@@ -6,54 +6,6 @@
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
-<a id="freestylefly-case-297"></a>
-
-## 手写食谱变身杂志级跨页
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case297.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case297.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-[中文] 手写食谱 → 专业食谱页面 上传一份凌乱的手写家庭食谱；模型会搜索准确的现代计量/营养信息，然后生成一份精致的杂志风格双页跨页，包含分步平铺图、完美的食材标签和卡路里分解。 [INSERT_RECIPE_LINK] [English] Handwritten Recipe → Professional Cookbook Page Upload a messy handwritten family recipe; the model searches for accurate modern measurements/nutrition, then generates a polished, magazine-style double-page spread with step-by-step flat lays, perfect ingredient labels, and calorie breakdowns. [INSERT_RECIPE_LINK]
-```
-
-By [@maxescu](https://x.com/maxescu/status/2045203839910056014)
-
----
-
-<a id="freestylefly-case-311"></a>
-
-## 晨曦薰衣草田梦幻少女三联画
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case311.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case311.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-[中文] 日出时分薰衣草田中女子的水平三联画。 上部：半身像，闭着眼睛，淡紫色连衣裙，一只手放在头发里，模糊的薰衣草前景。 中部：特写镜头，看着镜头，蓬乱的头发，薄纱围巾，脸上的阳光。 下部：四分之三镜头，手持薰衣草花束，飘逸的裙子，柔和的粉彩天空，温暖的梦幻色调。 [English] Horizontal triptych of a woman in a lavender field at sunrise. Top: Waist-up, eyes closed, pale lilac dress, one hand in hair, blurred lavender foreground. Middle: Close-up, looking at camera, tousled hair, sheer scarf, sunlight on face. Bottom: Three-quarter shot, holding lavender bouquet, flowing skirt, soft pastel sky, warm dreamy tones.
-```
-
-By [@Naiknelofar788](https://x.com/Naiknelofar788/status/2028417667846341062)
-
----
-
-<a id="freestylefly-case-315"></a>
-
-## 棘龙巨口中的酷飒少女与史前奇观
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case315.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case315.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-[中文] 超写实电影级奇幻场景，设定在郁郁葱葱的史前丛林山谷中。一只巨大的棘龙站在浅河边，它那长而类似鳄鱼的巨颚张得很大。一位年轻女子平静地坐在恐龙张开的嘴里，完美居中，双腿微微向前悬挂。她有一头深色直发，表情镇定无畏，皮肤纹理逼真。她身穿合身的黑色长袖短款上衣，蓝色牛仔短裤和黑色及膝战术靴。衣服和腿上可见微小的血迹和轻微划痕，增加了戏剧性的紧张感但并不血腥。她怀里温柔地抱着一只小恐龙幼崽，充满保护欲地抱着它。 在他们身后，一道高耸而充满戏剧性的瀑布顺着覆盖着茂密绿色植被和薄雾的陡峭丛林悬崖倾泻而下。场景中栖息着多只恐龙：几只迅猛龙在河岸边潜行，小型食草动物在背景中奔跑，飞翔的翼龙在头顶盘旋。环境丰富，有长满苔藓的岩石、流动的河水、热带植物和柔和的大气雾。 灯光具有电影感和自然感，漫射的日光照亮场景，阴影细节丰富，焦点清晰地聚在女子和棘龙身上，背景元素采用浅景深。恐龙鳞片、牙齿、水珠、树叶和织物上的超写实纹理。史诗奇幻写实主义，戏剧性构图，垂直构图，超精细，照片级真实感，4K，电影级调色，无文字，无水印。 [English] Ultra-realistic cinematic fantasy scene set in a lush prehistoric jungle valley. A colossal Spinosaurus stands beside a shallow river, its long crocodile-like jaws stretched wide open. Seated calmly inside the dinosaur’s open mouth is a young woman, perfectly centered, legs hanging slightly forward. She has straight dark hair, a composed fearless expression, and realistic skin texture. She is wearing a fitted black long-sleeve crop top, blue denim shorts, and black knee-high combat boots. Small blood smears and light scratches are visible on her clothes and legs, adding dramatic tension without gore. She gently cradles a small baby dinosaur in her arms, holding it protectively. Behind them, a tall dramatic waterfall cascades down steep jungle cliffs covered in dense green foliage and mist. Multiple dinosaurs populate the scene: several Velociraptors stalking the riverbank, small herbivores running through the background, and flying pterosaurs circling overhead. The environment is rich with mossy rocks, flowing water, tropical plants, and soft atmospheric fog. Lighting is cinematic and natural, with diffused daylight illuminating the scene, detailed shadows, sharp focus on the woman and the Spinosaurus, and shallow depth of field for background elements. Hyper-real textures on dinosaur scales, teeth, water droplets, foliage, and fabric. Epic fantasy realism, dramatic composition, vertical framing, ultra-detailed, photorealistic, 4K, cinematic color grading, no text, no watermark.
-```
-
-By [@MrDasOnX](https://x.com/MrDasOnX/status/2028087254757867560)
-
----
-
 <a id="freestylefly-case-334"></a>
 
 ## RAG 技术详解图
@@ -323,6 +275,54 @@ Create a raw smartphone photo of a laptop screen, not a screenshot. Aspect ratio
 ```
 
 By [@kaanakz](https://x.com/kaanakz/status/2056290465503171000)
+
+---
+
+<a id="freestylefly-case-448"></a>
+
+## 1942 空战街机电影城
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case448.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case448.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+Ultra-realistic cinematic “1942 City” scene, retro WWII arcade-shooter-inspired metropolis in real life, intense aerial-war atmosphere, vertical 4:5 editorial composition Male, exact face, vintage military-pilot-inspired streetwear from head to toe, bomber jacket with retro aviation patches, fitted cargo trousers, rugged combat boots, fingerless gloves, pilot goggles hanging around neck, walking through the city with fearless ace-pilot expression while fighter planes soar overhead ✈️ 1942 CITY WORLDBUILDING entire city functions like a living 1942 arcade shooter universe • massive WWII fighter planes dogfighting above skyscrapers • giant anti-aircraft cannons mounted across rooftops • endless bullet patterns streaking through cloudy skies • retro military airfields integrated into urban districts • giant “MISSION START” alerts projected into the clouds • dramatic explosion trails lighting the skyline at night • aircraft carriers docked beside futuristic city ports • glowing power-up icons floating through aerial battle zones • giant radar systems rotating above downtown towers • endless enemy squadrons emerging from storm clouds • cinematic ocean-and-warzone environments surrounding the metropolis 😂 COMEDIC DETAILS • random civilians casually dodging fighter planes on the way to work 😭 • one pilot barrel-rolling dramatically for absolutely no reason • giant billboard flashing: “PLAYER 1 READY.” • pedestrians treating near-miss explosions like normal traffic • somebody still trying to collect every floating power-up midair • random mechanic repairing planes using pure confidence • one legendary pilot surviving impossible situations through arcade logic alone 💡 LIGHTING & STYLE retro war-film cinematic lighting, fiery aerial-battle atmosphere, dramatic clouds and explosion reflections, hyper-detailed realistic textures mixed with nostalgic arcade-shooter aesthetics, intense blockbuster-war energy, masterpiece quality 🎥 CAMERA cinematic aerial tracking shot, immersive dogfight atmosphere, dynamic motion blur from fighter planes and explosions, documentary-meets-retro-arcade realism, futuristic Manila-inspired 1942 metropolis, “classic arcade air combat became civilization” atmosphere
+```
+
+By [@Xaroon\_x](https://x.com/Xaroon_x/status/2056940561148363010)
+
+---
+
+<a id="freestylefly-case-480"></a>
+
+## 粉丝速写本角色页
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case480.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case480.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+Draw me as if an obsessed fan artist filled an entire sketchbook page - messy, overlapping, full-body poses, tiny chibi doodles, exaggerated expressions, and random close-ups of their hands or eyes. White background. No grid, no order. Pure chaos energy. With (any color) aesthetic clothes
+```
+
+By [@Ciri\_ai](https://x.com/Ciri_ai/status/2060211436232786357)
+
+---
+
+<a id="freestylefly-case-507"></a>
+
+## 暖调钩织角色玩偶
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case507.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case507.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+A handcrafted crochet doll of a [subject], made with soft yarn textures and intricate knitted details. Dressed in a vivid [color1] accent and a delicate [color2] garment, holding a small [prop]. Set in a cozy [setting], warm muted atmosphere, charming handmade aesthetic, nostalgic amigurumi style.
+```
+
+By [@azed\_ai](https://x.com/azed_ai/status/2067925399947067728)
 
 ---
 

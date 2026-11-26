@@ -6,70 +6,6 @@
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
-<a id="freestylefly-case-396"></a>
-
-## 龙类物种复古百科海报
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case396.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case396.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Create a highly detailed A4 vertical vintage fantasy encyclopedia style dragon species poster. Style: medieval creature atlas, ancient mythology manuscript, museum fantasy archive, old explorer journal. Main subject: a massive hyper realistic dragon standing proudly in center with detailed scales, smoke from nostrils, giant wings partially open. Background: stormy mountains, ancient ruins, fog layers, burnt parchment texture. Color palette: dark emerald, ash gray, faded gold, ancient brown, deep crimson. Include infographic sections: Species Type, Fire Capacity, Wing Structure, Temperament Scale, Habitat Region, Battle Strength, Ancient Legends, Scale Patterns, Skull Diagram, Hunter Notes. Add: engraved fantasy sketches, ancient symbols, old map textures, ink grain, collectible poster layout. NO modern UI. NO futuristic elements. NO flat minimalism. Ultra detailed. 8K printable masterpiece.
-```
-
-By [@sha\_zdiii](https://x.com/sha_zdiii/status/2052237839119835280)
-
----
-
-<a id="freestylefly-case-400"></a>
-
-## 多风格签名选择海报
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case400.png"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case400.png" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-你是一个高端签名设计系统 + 风格人格视觉系统。 任务： 仅基于用户输入的「姓名」，生成一张「多风格签名选择海报（卡片式结构）」。 目标是把名字转译为具有笔势、气质与力量感的签名设计系统，让用户产生选择欲、认同感和分享欲。 输入信息： 姓名：[输入你的昵称] 禁止要求额外信息，必须自动完成气质与风格推断。 隐藏执行逻辑： 1. 字形与笔势分析： - 结构：疏密、横竖比例、重心位置 - 节奏：连贯、停顿、爆发、收束 - 适配：连笔程度、草写程度、变形空间 2. 气质推断： 清冷、张扬、克制、商业、文艺、松弛、锋利、高级。 3. 生成 6 个签名分支： - 全部适配该姓名 - 每一个都有明确书写风格 - 差异来自笔势、节奏、结构和收笔方式 整体画面： 9:16 竖版海报，极简、高级、干净、有设计感、适合传播。 背景使用纯白或极浅灰渐变，留白不少于 40%。 顶部标题区： 主标题可用： 「你的名字，适合哪种签名？」 或： 「[姓名] · 签名风格选择」 副标题： 「不同笔势，不同气场」 排版为黑色与灰色，高级字距，留白充足。 签名卡片区域： 使用整齐网格卡片布局，推荐 2 列 × 3 行，共 6 个卡片。 每个卡片统一尺寸、统一间距、整体对齐干净。 卡片样式： - 轻微圆角 8-16px - 无明显边框，或极细描边 - 极轻阴影 - 背景为纯白微差、极浅灰，或轻微宣纸 / 磨砂质感 视觉目标接近高级杂志排版，避免强 UI 感、厚卡片和 App 组件感。 签名生成规则： 签名必须基于书写动作生成，避免只做字体变形。 每一个签名风格在生成前，先确定一套明确书写行为规则： 1. 起笔方式：轻触起笔、重压起笔、直接横扫、从左下进入或从中段切入。 2. 连笔结构：前两个字强连笔后面断开、全连笔一气呵成、只连接偏旁。 3. 节奏变化：快到慢再收、慢到爆发再拉伸、或均匀节奏。 4. 结构变形：横向拉长、垂直压缩、整体右倾或左倾、字间重叠或错位。 5. 收笔设计：尾笔长甩、突然收断、回钩、渐隐收尾。 6 种签名方向： 1. 极简理性：接近品牌签名 2. 狂放张力：强烈连笔和拉伸 3. 松弛随性：手写感强 4. 东方行草：飞白和墨感 5. 锋利结构：几何感和断裂 6. 实验风格：允许部分不可读，但需要强设计感 色彩策略： 整体以黑、灰、白为主。每个卡片允许一个极轻微点缀色，例如冷灰蓝、香槟金、墨黑、暖棕、深绿。 避免大面积色块和花哨配色。 底部互动区： 底部居中加入小号灰字： 「选一个，作为你的专属签名。」 或： 「你是第几种？」 光影与质感： 高级棚拍光、柔光环境、细腻阴影、干净空气感。 质感参考 Apple 发布会视觉和高端品牌视觉。 禁止项： 不要字体拼贴，不要普通书法字，不要 UI 卡片风，不要颜色杂乱，不要签名太小，不要排版松散，不要缺乏笔势，不要模板拼接感。 最终目标： 生成一张高级、干净、有秩序、有笔势张力的 6 风格签名选择海报。 用户一眼能选出最像自己的一款签名。
-```
-
-By [GitHub prompt / @liyue\_ai](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-400)
-
----
-
-<a id="freestylefly-case-401"></a>
-
-## Lost in 国家旅行海报拼贴
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case401.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case401.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Create a stylized travel poster / graphic collage for [country]. The main subject should be a stylish international tourist visiting [country], clearly presented as a traveler and not a local resident. Show the tourist wearing modern travel fashion, with details such as a camera, backpack, sunglasses, map, or suitcase, exploring the culture and atmosphere of [country]. Place the tourist in a dynamic composition surrounded by iconic architecture, streets, landscapes, landmarks, transportation, food, signage, and cultural elements associated with [country]. Blend realistic character detail with a graphic collage background made of layered paper textures, torn poster edges, sticker elements, halftone dots, editorial typography, and bold geometric shapes. Include authentic visual motifs from [country], but keep the tourist's appearance and styling globally fashionable and clearly foreign to the setting. Add a large readable headline: "LOST IN [country]". Modern, artistic, premium editorial travel poster aesthetic, balanced layout, print-worthy composition.
-```
-
-By [@SadiaMalik182 / aiiStudio prompt](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-401)
-
----
-
-<a id="freestylefly-case-406"></a>
-
-## 巨型游戏手柄街头 Campaign
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case406.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case406.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Luxury futuristic streetwear campaign poster featuring a confident athletic girl sitting on a gigantic oversized retro gaming controller instead of sunglasses, clean editorial advertising aesthetic, massive bold typography in the background saying “ENERGY”, glossy reflective floor, cinematic studio lighting, pastel neon color palette with lavender, silver, and soft cyan tones. The girl has curly shoulder-length hair, relaxed confident attitude, wearing an oversized white graphic T-shirt, loose black athletic shorts, high white socks, and modern sneakers. Casual sporty fashion styling, natural makeup, youthful Gen-Z streetwear vibe. She is casually seated on top of the giant gaming controller with one leg hanging down and one knee raised, looking away from the camera with cool effortless confidence. The oversized gaming controller is ultra detailed with futuristic buttons, glowing accents, premium matte materials, and soft LED reflections. Minimal luxury branding on the controller side. Giant cream-colored typography fills the background vertically in a bold condensed font. Environment: seamless studio backdrop with glossy floor reflections, high-end commercial fashion photography, ultra realistic textures, dramatic shadows, premium editorial layout, modern tech-fashion advertisement aesthetic, symmetrical composition, luxury product campaign style, 4:3 aspect ratio, hyper detailed, photorealistic.
-```
-
-By [@AIwithkhan](https://x.com/AIwithkhan/status/2052973449107349725)
-
----
-
 <a id="freestylefly-case-411"></a>
 
 ## 极简建筑地标海报
@@ -323,6 +259,70 @@ Cute Korean spring aesthetic scrapbook poster, dreamy K-fashion portrait, soft b
 ```
 
 By [@Taaruk\_](https://x.com/Taaruk_/status/2060214163591614900)
+
+---
+
+<a id="freestylefly-case-497"></a>
+
+## 单色水彩城市旅行海报
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case497.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case497.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+Minimalist vintage watercolor travel poster illustration of [CITY NAME], [COUNTRY], rendered entirely in elegant monochromatic [COLOR] watercolor and fine ink linework. Aspect ratio: 4:5 vertical composition optimized for poster and social media presentation. A peaceful early-morning streetscape featuring the iconic [PRIMARY LANDMARK] and [SECONDARY LANDMARK/LOCATION] in the foreground, viewed from a slightly low pedestrian-level perspective. Historic local architecture, elegant facades, ornate details, arched windows, decorative cornices, and traditional street elements line the spacious surroundings, creating a timeless urban atmosphere. A classic [LOCAL STREET ELEMENT OR LAMP STYLE] stands prominently on the left side, while mature leafy trees frame portions of the scene, their foliage painted with soft watercolor washes and delicate splatter textures. In the distance, [DISTANT LANDMARK OR SKYLINE FEATURE] rises gracefully against the skyline, serving as a recognizable cultural landmark. A vintage [LOCAL VEHICLE] or a few small pedestrians add subtle life and scale without disturbing the tranquil mood. The composition includes large areas of clean white negative space, soft cloudy watercolor textures in the sky, delicate paper grain, and subtle watercolor blooms. The paving, street, or plaza stretches dramatically across the foreground, leading the viewer’s eye toward the landmark ensemble. Typography in the upper-left corner reads “[CITY NAME], [COUNTRY]” in a refined serif font, styled like a sophisticated travel journal or collectible city poster. Handcrafted watercolor illustration, architectural sketch aesthetic, serene urban atmosphere, soft natural morning lighting, muted monochromatic palette, highly detailed line art, elegant travel-poster design, minimalist luxury wall-art style, timeless local charm, premium stationery illustration, ultra-detailed, high-resolution, clean composition, Pinterest-worthy, Instagram-worthy, gallery-quality artwork.
+```
+
+By [@Goodmanprotocol](https://x.com/Goodmanprotocol/status/2062564327140503787)
+
+---
+
+<a id="freestylefly-case-503"></a>
+
+## 霓虹设计师 3D 海报
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case503.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case503.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+Create an ultra-detailed 3D stylized creative designer poster featuring a cool young digital artist standing confidently in the center of a futuristic blue neon studio. The character wears oversized black streetwear with electric-blue graphic accents, black cargo pants, layered silver chains, black sunglasses, and clean white sneakers. A cute fluffy puppy sits on the artist's shoulder. The camera angle is dramatic low-angle perspective, making the sneakers appear larger for a premium poster effect. Surround the character with floating creative elements including a glowing laptop, professional camera, design books, notebooks, 3D icons, social media symbols, holographic UI panels, graphic design tools, and futuristic blue geometric shapes. Add motivational typography such as "DESIGN MODE", "CREATE • BUILD • INSPIRE", and "CREATIVE NEVER SLEEPS" integrated into the scene. Include a collectible chibi mini-figure version of the character standing beside the main subject on a display base. Use cinematic blue lighting, glossy reflections, volumetric glow, depth of field, floating particles, luxury toy-photography aesthetics, high-end 3D rendering, Octane Render quality, ultra-sharp details, vibrant neon blue color palette, futuristic creator workspace atmosphere, premium commercial poster design, trending ArtStation style, masterpiece quality, 8K resolution, vertical 9:16 composition.
+```
+
+By [@AiwithLariab](https://x.com/AiwithLariab/status/2063240283786187251)
+
+---
+
+<a id="freestylefly-case-511"></a>
+
+## 城市名地标排版旅行海报
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case511.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case511.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+Create a clean, modern typographic travel poster where the city name itself becomes the composition. Render the city name in large, bold, uppercase sans-serif letters spanning the width of the artwork. Seamlessly integrate the city's most iconic landmarks, architecture, monuments, streets, transportation, cultural symbols, cafés, bridges, parks, skylines, sculptures, waterfronts, historic buildings, and local details into, around, and inside the letters. Let landmarks naturally interact with the typography while preserving legibility. Use an elegant flat vector illustration style with crisp geometric shapes, minimal detail, clean outlines, subtle shadows, and a premium editorial aesthetic. Maintain a limited color palette of deep navy, warm cream, muted red, and soft gray-blue for a timeless travel-poster look. Add small decorative elements such as street lamps, trees, clouds, birds, benches, bicycles, fountains, trams, ferries, or other city-specific objects where appropriate. Keep generous negative space with a clean background and perfectly balanced composition. Ensure every landmark, architectural style, vehicle, sign, and cultural element is accurate to the chosen city—avoid generic or incorrect landmarks. If desired, include a small elegant tagline beneath the city name (such as a famous nickname or slogan) in minimal typography. Style: premium flat vector, minimalist travel poster, geometric illustration, editorial design, tourism branding, clean typography, high contrast, ultra-sharp lines, museum-quality print, modern graphic design, centered composition, scalable SVG aesthetic, 8K resolution.
+```
+
+By [@Goodmanprotocol](https://x.com/Goodmanprotocol/status/2071819124708438092)
+
+---
+
+<a id="freestylefly-case-515"></a>
+
+## Guadalajara 复古电影旅行海报
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case515.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case515.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+@Crea una imagen { "style": "Cinematic Vintage Movie Poster — Guadalajara, Mexico", "target_tool": "DALL-E 3 (ChatGPT)", "prompt": "Generate a vertical portrait-format movie poster image, taller than wide in a 2:3 aspect ratio. The image is a cinematic vintage travel movie poster for Guadalajara, Mexico, rendered with the visual texture of an aged large-format film poster: heavy 35mm film grain throughout especially in the shadow areas, slightly faded and warm-shifted color tones as if printed on aged matte paper stock, a subtle halftone dot pattern visible in the midtones, and a very slight ink bleed at high-contrast edges giving it an authentic vintage printed poster feel. Foreground: a single dark silhouette of a lone mariachi musician standing still at the center-bottom of the frame, rendered as a pure clean dark silhouette with no facial features visible — traditional wide-brim charro sombrero, fitted traje de charro suit outline, holding a guitarrón — casting a long warm shadow across the honey-colored cantera stone paving of Plaza de la Liberación below, with colorful papel picado banners in red, orange, green and yellow cut tissue paper strung in loose diagonal lines overhead from building to building, swaying slightly, framing the upper composition, no people other than the single silhouetted figure, no vehicles, no modern objects. Midground: the grand honey-amber cantera stone neoclassical facade of the Teatro Degollado rising directly behind the silhouette, its ornate columned portico and triangular pediment warmly lit by the low golden-hour sun hitting from the left, long dramatic shadows stretching across the stone paving, the warm amber volcanic stone glowing intensely in the golden light. Background: the twin neo-Gothic spires of the Catedral Metropolitana de Guadalajara rising tall into the upper frame against a vast deep cerulean blue sky transitioning to burnt amber and deep orange near the horizon, a single scattered cloud catching violet and gold light from below, the cathedral facade in warm honey stone matching the Teatro Degollado's palette. Color grade: saturated warm amber and golden honey tones dominating the stone architecture, deep cobalt blue in the upper sky, rich burnt orange near the horizon, faded warm sepia in the shadow areas consistent with a vintage printed poster. At the very top of the image, centered above the spires, render the single word GUADALAJARA in bold condensed uppercase display serif letters in warm cream-gold with a faint dark drop shadow, leaving clear sky negative space for the title. No modern buildings, no cars, no utility wires, no people other than the single dark silhouette visible anywhere in the scene.", "target": "🎯 Target: DALL-E 3 (ChatGPT) — 💡 Foreground/midground/background separation places Teatro Degollado and the Cathedral in distinct spatial layers, the mariachi silhouette is specified as a featureless outline to eliminate aberration risk, and vintage print texture is described visually rather than as a style label." }
+```
+
+By [@MiMundoConIA](https://x.com/MiMundoConIA/status/2077046470335938826)
 
 ---
 

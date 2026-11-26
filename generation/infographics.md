@@ -38,22 +38,6 @@ By [小红书号1055699679](https://github.com/freestylefly/awesome-gpt-image-2/
 
 ---
 
-<a id="freestylefly-case-13"></a>
-
-## 信息图可视化设计
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case13.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case13.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-A realistic photo of a Chinese high school math exam paper, printed inblack and white on slightly gray paper, titled “数学试卷”, with multiplechoice questions and math formulas, including a small 3D geometrycube diagram. The paper is photographed casually with asmartphone, slightly tilted, with uneven lighting, soft shadows, andminor blur. The text is in Chinese with a mix of bold title font andstandard serif body font. Realistic paper texture, exam layout,authentic classroom test sheet style.
-```
-
-By [小红书号94156710894](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-13)
-
----
-
 <a id="freestylefly-case-14"></a>
 
 ## 信息图可视化设计
@@ -214,22 +198,6 @@ By [@hx831126](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa
 
 ---
 
-<a id="freestylefly-case-68"></a>
-
-## 信息图可视化设计
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case68.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case68.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-{ "type": "comprehensive medical infographic", "style": "highly detailed 3D medical illustration, clinical white background, clean typography", "header": { "title_cn": "{argument name=\"main title\" default=\"痛风诞生的因果链\"}", "title_en": "{argument name=\"english title\" default=\"THE CAUSAL CHAIN OF GOUT\"}", "subtitle": "Pain is not the beginning. Metabolic imbalance is.", "top_right_sequence": { "count": 6, "labels": ["Metabolism", "Transport", "Crystallization", "Immunity", "Inflammation", "Damage"] } }, "centerpiece": { "description": "{argument name=\"central figure\" default=\"transparent anatomical human body showing liver, kidneys, and vascular system\"}", "details": "pathway highlighted in {argument name=\"highlight color\" default=\"glowing red\"} descending to the foot" }, "layout": { "left_column": [ { "id": "01", "title": "Purine Sources", "elements": 6, "labels": ["Red meat", "Organ meats", "Seafood", "Beer", "Endogenous", "Fructose"] }, { "id": "02", "title": "Uric Acid Production", "elements": 2, "labels": ["Chemical pathway", "Liver"] }, { "id": "03", "title": "Renal & Intestinal Excretion", "elements": 2, "labels": ["Kidney nephron", "Intestines"] }, { "id": "04", "title": "Hyperuricemia", "elements": 2, "labels": ["Blood vial", "Solubility graph"] } ], "center_overlay": [ { "id": "05", "title": "Crystal Physics", "elements": 3, "labels": ["Supersaturation beaker", "Precipitation beaker", "Molecular structure"] }, { "id": "06", "title": "Joint Deposition & Local Environment", "elements": 1, "labels": ["First MTP joint cross-section"] } ], "right_column": [ { "id": "07", "title": "Immune Inflammatory Cascade", "elements": 4, "labels": ["Macrophage", "Inflammasome", "Neutrophil", "Cytokines"] }, { "id": "08", "title": "Acute Gout Flare", "elements": 1, "labels": ["Inflamed foot"] }, { "id": "09", "title": "Chronic Structural Damage", "elements": 1, "labels": ["Bone erosion joint"] }, { "id": "10", "title": "Tophus Formation", "elements": 2, "labels": ["Hand tophi", "Foot tophi"] }, { "id": "11", "title": "Beyond the Joint", "elements": 2, "labels": ["Kidney stones", "Systemic burden"] } ], "bottom_row": [ { "id": "12", "title": "Pain Is the Final Signal", "elements": 7, "labels": ["Increased Purine", "Overproduction", "Reduced Excretion", "Hyperuricemia", "Crystal Formation", "Immune Activation", "Man in pain"] } ] }, "theme": "{argument name=\"disease focus\" default=\"gout and uric acid crystallization\"}" }
-```
-
-By [@hx831126](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-68)
-
----
-
 <a id="freestylefly-case-70"></a>
 
 ## 信息图可视化设计
@@ -323,6 +291,38 @@ By [@alanlovelq](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cb
 ```
 
 By [@HumanOS\_v2](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-82)
+
+---
+
+<a id="freestylefly-case-83"></a>
+
+## 信息图可视化设计
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case83.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case83.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+{ "type": "sports match infographic poster", "theme": "UEFA Champions League", "background": "dark blue and purple cosmic sky, glowing blue hexagonal lines, illuminated stadium reflecting on water at bottom", "header": { "logo": "UEFA Champions League", "title": "{argument name=\"stage\" default=\"HALBFINALE\"}", "subtitle": "DAS ZIEL: {argument name=\"location\" default=\"BUDAPEST 2026\"}", "venue": "PUSKÁS ARÉNA" }, "matchup": { "player_left": "{argument name=\"team 1 player\" default=\"Harry Kane\"} in red FC Bayern kit", "player_right": "{argument name=\"team 2 player\" default=\"Ousmane Dembélé\"} in blue PSG kit", "center_logos": "FC Bayern München and Paris Saint-Germain with VS", "date_box": "calendar icon, MITTWOCH, {argument name=\"date\" default=\"06.05.2026\"}" }, "facts_section": { "title": "FACTS", "count": 5, "items": [ "Trophy icon: DIE KÖNIGSKLASSE 2025/26", "Bar chart icon: KANE IN TOPFORM", "Lightning bolt icon: DEMBÉLÉ ÜBERFLIEGER", "Two people icon: BISHER 14 DUELLE", "Stadium icon: BUDAPEST RUFT" ] }, "footer": { "trophy": "Champions League trophy on right", "stadium_image": "Puskás Aréna at night", "tagline": "EIN TRAUM. EIN ZIEL. EIN TITEL.", "bottom_text": "ROAD TO BUDAPEST 2026" } }
+```
+
+By [@NumeroBTC](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-83)
+
+---
+
+<a id="freestylefly-case-88"></a>
+
+## 信息图可视化设计
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case88.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case88.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+GPT-Image-2 prompt: please automatically generate a top-tier concept poster / infographic-style movie poster centered around {argument name="theme" default="ranking of emperors in Chinese history"}. Require the AI to automatically derive and uniformly design the entire following visual system based on this theme, without my extra specification: - Core subject (automatically judge suitability for people, products, architecture, artifacts, symbols, scenes, or abstract imagery) - Bottom supporting structure - Hovering symbols or spiritual symbols above - Scene wrapping elements - Metaphor system - Color hierarchy - Material contrast - Lighting logic - Title, subtitle, and auxiliary copy - Brand sense and high-end expression The final frame must be: a shocking, precise, unified, cinematic, ultra-high detail conceptual key visual poster suitable for high-end printing. [Overall Style] Ultra-realistic 3D commercial CGI rendering, merging cinematic lighting, luxury visual language, futuristic concept design, and epic composition. The image must have a "single main visual core," not messy, not like a collage, and not like a regular e-commerce poster. [Automatic Derivation Rules] AI must automatically decide based on the [theme]: 1. Core visual metaphor 2. Subject type and posture 3. Form of supporting structure 4. Form of suspended elements 5. Scene shell and spatial atmosphere 6. Main, auxiliary, and emphasis colors 7. Material combinations 8. Text temperament and layout style [Composition Rules] - Absolute sense of premium quality - Strong central order, overall unity - Allows for axial symmetry or epic composition near the central axis - Clear visual gravity, forming clear levels from top to bottom - Edge negative space is clean, restrained, and has room to breathe [Visual Quality] - Ultra-high detail - Clear volumetric light - Authentic materials - Natural reflection, refraction, shadows, fog, and depth of field - Overall standard of high-end brand campaign key visual / luxury invitation poster / conceptual editorial poster [Typography System] - Overall 90% visual, 10% text - AI automatically generates the most matching main title and subtitle based on the [theme] - Title must be concise, sharp, and powerful - Text should be as minimal and accurate as possible; do not stack words [Signature Requirement] Naturally add the author signature in the bottom corner: @a9quant
+```
+
+By [@A9Quant](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-88)
 
 ---
 

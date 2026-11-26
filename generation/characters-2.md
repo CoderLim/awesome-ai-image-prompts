@@ -1,331 +1,331 @@
 # characters
 
-[← Home](../README.md) · Page 2 / 8
+[← Home](../README.md) · Page 2 / 6
 
-[1](characters.md) · **2** · [3](characters-3.md) · [4](characters-4.md) · [5](characters-5.md) · [6](characters-6.md) · [7](characters-7.md) · [8](characters-8.md)
+[1](characters.md) · **2** · [3](characters-3.md) · [4](characters-4.md) · [5](characters-5.md) · [6](characters-6.md)
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
-<a id="evolink-character-sheets-case-88"></a>
+<a id="prompthero-2de5fbc9bf8"></a>
 
-## Maximus Character Sheet
+## Photorealistic artwork of a serene, celestial Asia\.\.\.
 
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2104216391205179392.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2104216391205179392.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Create a premium cinematic character bible sheet for MAXIMUS. LAYOUT: Single character solo format. Character centered, deep gold and deep crimson red watercolor splash radiating behind him fading toward the edges. TOP LEFT: Large bold brushstroke text MAXIMUS in deep crimson red. Below in small text: ROME / THE COLOSSEUM. CHARACTER: One massive dramatic cropped hero image of Maximus from mid-thigh up — dark leather chest armor, light grey linen gladiator skirt, black leather fingerless gloves, dark leather knee high boots, dual gladii raised in both hands, battle worn intense expression, scars visible on arms and face, deep gold and deep crimson red watercolor splash radiating powerfully behind him. LEFT SIDE small text block: WHAT WE DO IN LIFE ECHOES IN ETERNITY. Below that: THE ARENA NEVER SAW ANYONE LIKE HIM. BOTTOM CENTER: Bold text GLADIATOR in deep crimson red slightly worn. Below small text: THE COLOSSEUM. ROME. Tagline centered: STRENGTH AND HONOR. COLOR PALETTE: Deep gold, deep crimson red, black, white. OVERALL: Clean white background, deep gold and deep crimson red watercolor splash centered behind Maximus radiating outward, deep crimson red and gold typography, bold flat color blocking, chunky simplified forms, hard edge shadows, thick black outlines, vibrant saturated colors, minimal clean typography, cinematic cel-shaded 3D anime, hand-painted textures, not cartoon not Disney not Pixar, print ready.
-```
-
-By [@TechieBySA](https://x.com/TechieBySA/status/2104216397387624745)
-
----
-
-<a id="evolink-character-sheets-case-92"></a>
-
-## Maverick Character Sheet
-
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2103805469353537536.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2103805469353537536.jpg" width="480" alt="Source example"></a>
+<a href="https://cdn.prompthero.com/jlidt8a88wb5giffvc5maw0zv6-seedream-v1-photorealistic-artwork-of-a-serene-celestial-asian-inspired-woman-with-pale-porcelain-skin-and-delicate-features-she-wears-intricate-gold.jpeg"><img src="https://cdn.prompthero.com/jlidt8a88wb5giffvc5maw0zv6-seedream-v1-photorealistic-artwork-of-a-serene-celestial-asian-inspired-woman-with-pale-porcelain-skin-and-delicate-features-she-wears-intricate-gold.jpeg" width="480" alt="After"></a>
 
 **Prompt**
 
 ```text
-Create a premium cinematic character bible sheet for MAVERICK. LAYOUT: Single character solo format. Character centered, navy blue and warm gold watercolor splash radiating behind him fading toward the edges. TOP LEFT: Large bold brushstroke text MAVERICK in navy blue. Below in small text: FIGHTER PILOT / TOP GUN. CHARACTER: One massive dramatic cropped hero image of Maverick from mid-thigh up — full flight helmet with red white and blue visor detail, black oxygen mask, olive green flight suit, tactical vest, cockpit instruments visible around him, intense focused eyes through the visor, navy blue and warm gold watercolor splash radiating powerfully behind him. LEFT SIDE small text block: FEEL THE NEED. THE NEED FOR SPEED. Below that: FASTER. HIGHER. GONE. BOTTOM CENTER: Bold text MAVERICK in navy blue slightly worn. Tagline centered: THE BEST PILOT ALIVE. AND HE KNOWS IT. COLOR PALETTE: Navy blue, warm gold, olive green, black, white. OVERALL: Clean white background, navy blue and warm gold watercolor splash centered behind Maverick radiating outward, navy blue and warm gold typography, bold flat color blocking, chunky simplified forms, hard edge shadows, thick black outlines, vibrant saturated colors, minimal clean typography, cinematic cel-shaded 3D anime, hand-painted textures, not cartoon not Disney not Pixar, print ready.
+Photorealistic artwork of a serene, celestial Asian-inspired woman with pale, porcelain skin and delicate features. She wears intricate gold jewelry—an ornate earring and a detailed headpiece crowned with a golden flower. Her long, dark hair is elegantly styled, accented by a vivid orange blossom. Eyes closed, she radiates calm and quiet divinity. Behind her, a massive glowing golden crescent moon rises against a deep blue, star-filled sky, with a smaller full moon beside it. She wears a flowing white robe with soft blue patterns that blend into the night. Branches with delicate orange flowers frame her, merging natural beauty with a dreamlike, otherworldly atmosphere.
 ```
 
-By [@TechieBySA](https://x.com/TechieBySA/status/2103805475116532149)
+[Source](https://prompthero.com/prompt/2de5fbc9bf8-seedream-v1-photorealistic-artwork-of-a-serene-celestial-asian-inspired-woman-with-pale-porcelain-skin-and-delicate-features-she-wears-intricate-gold)
 
 ---
 
-<a id="evolink-character-sheets-case-94"></a>
+<a id="prompthero-2e772038071"></a>
 
-## Neo and Agent Smith Character Sheet
+## \(\(style of Craig Ellen Jewett\)\), 8k\_UED, \(\(\(1nymph\.\.\.
 
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2103172398182764544.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2103172398182764544.jpg" width="480" alt="Source example"></a>
+<a href="https://cdn.prompthero.com/tjzjpwvbxzmygkjseqwzfo0x2l5w-midjourney-6-nymph-style-of-craig-ellen-jewett-8kued-1nymph-acrylic-pour-stunningly-gorgeous-nymph-mythical-creature-moss-textured-skin-no-dof-full.png"><img src="https://cdn.prompthero.com/tjzjpwvbxzmygkjseqwzfo0x2l5w-midjourney-6-nymph-style-of-craig-ellen-jewett-8kued-1nymph-acrylic-pour-stunningly-gorgeous-nymph-mythical-creature-moss-textured-skin-no-dof-full.png" width="480" alt="After"></a>
 
 **Prompt**
 
 ```text
-Create a premium cinematic VS character bible sheet for NEO vs AGENT SMITH. LAYOUT: Split screen partner format. Two halves divided by a bold dramatic VS in the center. LEFT SIDE — NEO: Falling Matrix digital code raining down behind him — cascading numbers and characters in deep muted matrix green, atmospheric and iconic. Large bold brushstroke text NEO top left in deep matrix green. Below small text: THE ONE / THE MATRIX. One massive dramatic cropped hero image of Neo from mid-thigh up — black long coat, all black outfit, short dark hair, intense focused expression, matrix code cascading behind him fading toward the edges. CENTER: Bold dramatic VS in deep matrix green slightly worn. Below it small text: RAINY ROOFTOP. ONE NIGHT. NO RULES. RIGHT SIDE — AGENT SMITH: Cold silver and black watercolor splash behind him fading into center. Large bold brushstroke text AGENT SMITH top right in cold silver. Below small text: THE PROGRAM / THE SYSTEM. One massive dramatic cropped hero image of Agent Smith from mid-thigh up — dark charcoal suit, white shirt, dark tie, dark aviator sunglasses, black leather gloves, black pistol raised, cold silver watercolor splash radiating behind him. BOTTOM CENTER: Color palette — deep matrix green, cold silver, black, white. Tagline centered: HE COULDN'T BE STOPPED. NEITHER COULD THE OTHER. OVERALL: Clean white background, falling Matrix digital code in deep muted green behind Neo on the left, cold silver watercolor behind Agent Smith on the right, bold dramatic VS center divider, bold flat color blocking, chunky simplified forms, hard edge shadows, thick black outlines, vibrant saturated colors, minimal clean typography, cinematic cel-shaded 3D anime, hand-painted textures, not cartoon not Disney not Pixar, print ready.
+((style of Craig Ellen Jewett)), 8k_UED, (((1nymph))), Acrylic pour, stunningly gorgeous nymph, mythical creature, ((((moss textured skin)))), no dof, full body image, dutch angle, blossoming hair, ((crown-like antlers)), ((flowers atop its head)), glowing trim, magical aura, bathing in a stream, wet robe, intricate patterns, ((enchanted fantasy forest background)), fantastical enviroment, lush vegetation, ruined building covered in moss, (((bioluminescent fish))), ((wild flowers of myriad hues)), ruined buildng covered in moss, intricate details, enhanced accent, (((dream-like ambiance))), sleek colors, style of green and red, magical lighting|diffusion lighting, light dust, Euler ancestral, very very very very very very very beautiful masterpiece, Precise Digital Artemis, redshift Render, SDEs, ESRGAN, (((enhanced edges))), enlightened compassionate, hypermaximalist --v 6.1
 ```
 
-By [@TechieBySA](https://x.com/TechieBySA/status/2103172404537143403)
+[Source](https://prompthero.com/prompt/2e772038071-midjourney-6-nymph-style-of-craig-ellen-jewett-8kued-1nymph-acrylic-pour-stunningly-gorgeous-nymph-mythical-creature-moss-textured-skin-no-dof-full)
 
 ---
 
-<a id="evolink-character-sheets-case-96"></a>
+<a id="prompthero-3a9de96536a"></a>
 
-## Bruce Lee and Ip Man Character Sheet
+## Character Sheet, Long wavy,light pink hair,complex\.\.\.
 
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2102719673410150401.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2102719673410150401.jpg" width="480" alt="Source example"></a>
+<a href="https://cdn.prompthero.com/j0lrgj5y3m15n0tk6de4q2z977o7-flux-flux-11-pro-ultra-character-sheet-long-wavylight-pink-haircomplex-3d-render-ultra-detailed-of-a-beautiful-porcelain-front-face-woman-android-face-cyborg.png"><img src="https://cdn.prompthero.com/j0lrgj5y3m15n0tk6de4q2z977o7-flux-flux-11-pro-ultra-character-sheet-long-wavylight-pink-haircomplex-3d-render-ultra-detailed-of-a-beautiful-porcelain-front-face-woman-android-face-cyborg.png" width="480" alt="After"></a>
 
 **Prompt**
 
 ```text
-Create a premium cinematic VS character bible sheet for BRUCE LEE vs IP MAN. Use uploaded character sheets as strict visual reference for both characters. Do not change either's appearance. LAYOUT: Split screen partner format. Two halves divided by a bold dramatic VS in the center. LEFT SIDE — BRUCE LEE: Bright yellow and black watercolor splash behind him fading into center. Large bold brushstroke text BRUCE LEE top left in deep black. Below small text: THE DRAGON / HONG KONG. One massive dramatic cropped hero image of Bruce Lee from mid-thigh up — yellow tracksuit with black stripes, yellow and black nunchucks spinning in one hand, fierce explosive expression locked toward the center, bright yellow watercolor splash radiating behind him. CENTER: Bold dramatic VS in deep black slightly worn and dramatic. Below it small text: MARTIAL ARTS SCHOOL. TWO LEGENDS. ONE FLOOR. RIGHT SIDE — IP MAN: Deep charcoal and black watercolor splash behind him fading into center. Large bold brushstroke text IP MAN top right in deep charcoal. Below small text: THE GRANDMASTER / WING CHUN. One massive dramatic cropped hero image of Ip Man from mid-thigh up — long dark changshan jacket, wooden staff held horizontally in both hands, completely calm and composed expression locked toward the center, deep charcoal watercolor splash radiating behind him. BOTTOM CENTER: Color palette — bright yellow, black, deep charcoal, white. Tagline centered: THE STUDENT MET THE MASTER. NEITHER BACKED DOWN. OVERALL: Clean white background, bright yellow and black watercolor left side, deep charcoal watercolor right side, bold dramatic VS center divider, bold flat color blocking, chunky simplified forms, hard edge shadows, thick black outlines, vibrant saturated colors, minimal clean typography, cinematic cel-shaded 3D anime, hand-painted textures, not cartoon not Disney not Pixar, print ready.
+Character Sheet, Long wavy,light pink hair,complex 3d render ultra detailed of a beautiful porcelain Front face woman android face, cyborg, robotic parts, beautiful studio soft light, rim light, vibrant details, luxurious cyberpunk, lace, hyper realistic, anatomical, facial muscles, cable electric wires, microchip, elegant, beautiful background, octane render, H.R. Giger style,
 ```
 
-By [@TechieBySA](https://x.com/TechieBySA/status/2102719679642943870)
+[Source](https://prompthero.com/prompt/3a9de96536a-flux-flux-11-pro-ultra-character-sheet-long-wavylight-pink-haircomplex-3d-render-ultra-detailed-of-a-beautiful-porcelain-front-face-woman-android-face-cyborg)
 
 ---
 
-<a id="evolink-character-sheets-case-97"></a>
+<a id="prompthero-3d4bbc17c4b"></a>
 
-## Bryan and Wick Character Sheet
+## Create a premium industrial mascot character for a\.\.\.
 
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2102398931330125824.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2102398931330125824.jpg" width="480" alt="Source example"></a>
+<a href="https://cdn.prompthero.com/zfgwighwu21pmdvryrofkcxpdk-hero-10-create-a-premium-industrial-mascot-character-for-a-crawler-undercarriage-and-construction-machinery-chassis-company-the-mascot-is-a-friendly.jpeg"><img src="https://cdn.prompthero.com/zfgwighwu21pmdvryrofkcxpdk-hero-10-create-a-premium-industrial-mascot-character-for-a-crawler-undercarriage-and-construction-machinery-chassis-company-the-mascot-is-a-friendly.jpeg" width="480" alt="After"></a>
 
 **Prompt**
 
 ```text
-Create a premium cinematic VS character bible sheet for BRYAN vs WICK. LAYOUT: Split screen partner format. Two halves divided by a bold dramatic VS in the center. LEFT SIDE — BRYAN: Dark charcoal and grey watercolor splash behind him fading into center. Large bold brushstroke text BRYAN top left in deep charcoal. Below small text: THE OPERATIVE / TAKEN. One massive dramatic cropped hero image of Bryan from mid-thigh up — dark green grey double breasted leather coat, dark turtleneck, gun raised, calm dangerous expression locked toward the center, dark charcoal watercolor splash radiating behind him. CENTER: Bold dramatic VS in deep red slightly worn and dramatic. Below it small text: ABANDONED WAREHOUSE. NO RULES. NO MERCY. RIGHT SIDE — WICK: Deep crimson red watercolor splash behind him fading into center. Large bold brushstroke text WICK top right in deep crimson. Below small text: THE BOOGEYMAN / JOHN WICK. One massive dramatic cropped hero image of Wick from mid-thigh up — battered black suit, white shirt torn and bloodied, black tie loose, gun raised, cold dangerous expression locked toward the center, deep crimson watercolor splash radiating behind him. BOTTOM CENTER: Color palette — deep charcoal, dark grey, deep crimson, black, white. Tagline centered: THEY TRAINED THE SAME. THEY FIGHT DIFFERENT. OVERALL: Clean white background, dark charcoal watercolor left side, deep crimson watercolor right side, bold dramatic VS center divider, bold flat color blocking, chunky simplified forms, hard edge shadows, thick black outlines, vibrant saturated colors, minimal clean typography, cinematic cel-shaded 3D anime, hand-painted textures, not cartoon not Disney not Pixar, print ready.
+Create a premium industrial mascot character for a crawler undercarriage and construction machinery chassis company. The mascot is a friendly but professional engineering robot, with a realistic crawler track undercarriage as its lower body. It should have a clear character identity, not just a vehicle. The upper body should be a compact robot torso with a simple helmet-like head and a digital visor face, small friendly LED eyes, and no human baby face. The lower body should look like a real heavy-duty crawler undercarriage, stable and strong. Use industrial yellow, dark gray, and black colors. The design should feel reliable, stable, professional, and suitable for an international B2B machinery brand. Add clean blank areas on the helmet and chest panel for placing a company logo later. Do not generate any text, logo, letters, symbols, or watermark. Full body, front three-quarter view, clean white background, studio lighting, high-quality 3D render, product catalog style.
 ```
 
-By [@TechieBySA](https://x.com/TechieBySA/status/2102398939290816708)
+[Source](https://prompthero.com/prompt/3d4bbc17c4b-hero-10-create-a-premium-industrial-mascot-character-for-a-crawler-undercarriage-and-construction-machinery-chassis-company-the-mascot-is-a-friendly)
 
 ---
 
-<a id="evolink-character-sheets-case-104"></a>
+<a id="prompthero-4c30f52eae3"></a>
 
-## Lucia and Jason Character Sheet
+## Pixar-style 3D render, highly detailed character d\.\.\.
 
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2101678768066547712.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2101678768066547712.jpg" width="480" alt="Source example"></a>
+<a href="https://cdn.prompthero.com/dwkzo6y1q0tfwpiew9i961oabx-hero-10-pixar-style-3d-render-highly-detailed-character-design-a-muscular-buff-pomegranate-character-with-big-strong-arms-six-pack-abs.jpeg"><img src="https://cdn.prompthero.com/dwkzo6y1q0tfwpiew9i961oabx-hero-10-pixar-style-3d-render-highly-detailed-character-design-a-muscular-buff-pomegranate-character-with-big-strong-arms-six-pack-abs.jpeg" width="480" alt="After"></a>
 
 **Prompt**
 
 ```text
-Create a premium cinematic character bible sheet for LUCIA & JASON. Use uploaded character sheets as strict visual reference for both characters. Do not change either's appearance. LAYOUT: Split screen partner format. Two halves divided by a bold dramatic dividing element in the center. LEFT SIDE — LUCIA: Coral pink and turquoise watercolor splash behind her fading into center. Large bold brushstroke text LUCIA top left in coral pink. Below small text: THE RISK / VICE CITY. One massive dramatic cropped hero image of Lucia from mid-thigh up — tight white crop top, very short denim shorts, gold hoop earrings, gold chain necklace, black duffel bag over shoulder with cash spilling out, gun raised, fearless confident expression locked toward the center, coral pink and turquoise watercolor splash radiating behind her. CENTER: Bold dramatic GTA VI logo in deep black, slightly worn and cinematic. Below it small text: VICE CITY. ONE JOB. NO MERCY. RIGHT SIDE — JASON: Golden yellow and hot orange watercolor splash behind him fading into center. Large bold brushstroke text JASON top right in golden yellow. Below small text: THE MUSCLE / VICE CITY. One massive dramatic cropped hero image of Jason from mid-thigh up — dark olive tropical shirt open at chest, dark shorts, silver watch, black duffel bag over shoulder with cash spilling out, gun raised, calm dangerous expression locked toward the center, golden yellow and hot orange watercolor splash radiating behind him. BOTTOM CENTER: Color palette — coral pink, turquoise, golden yellow, hot orange, white. Tagline centered: WELCOME TO VICE CITY. OVERALL: Clean white background, coral pink and turquoise watercolor left side, golden yellow and hot orange watercolor right side, bold dramatic GTA VI center divider, bold flat color blocking, chunky simplified forms, hard edge shadows, thick black outlines, vibrant saturated colors, minimal clean typography, cinematic cel-shaded 3D anime, hand-painted textures, not cartoon not Disney not Pixar, print ready.
+Pixar-style 3D render, highly detailed character design. A muscular, buff pomegranate character with big strong arms, six-pack abs, and powerful legs. The pomegranate has a tough confident face with expressive cartoon eyes, a fierce smirk, and a royal crown-shaped calyx on top of his head like a natural king's crown. His body is deep crimson red with smooth leathery pomegranate skin texture. His chest is slightly cracked open revealing glowing ruby-red juicy seeds inside like gems beneath the surface. He is flexing his muscles in a powerful heroic pose. Red juice droplets on his skin like warrior sweat. Soft cinematic Pixar lighting, dramatic rim light with deep red and golden tones, subsurface scattering on the red skin, vibrant saturated colors, clean studio background with subtle dark gradient. Ultra detailed, 8K quality, Pixar Disney animation style, 3D CGI, octane render, hyper-realistic cartoon shading
 ```
 
-By [@TechieBySA](https://x.com/TechieBySA/status/2101678773703754189)
+[Source](https://prompthero.com/prompt/4c30f52eae3-hero-10-pixar-style-3d-render-highly-detailed-character-design-a-muscular-buff-pomegranate-character-with-big-strong-arms-six-pack-abs)
 
 ---
 
-<a id="evolink-character-sheets-case-105"></a>
+<a id="prompthero-4c85ab1c267"></a>
 
-## J and K Character Sheet
+## photorealistic, lotr, A tiny red dragon curled up \.\.\.
 
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2101629646638858240.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2101629646638858240.jpg" width="480" alt="Source example"></a>
+<a href="https://cdn.prompthero.com/8lon55exc2kza74g2biqy6hkait6-stable-diffusion-xl-base-09-photorealistic-lotr-a-tiny-red-dragon-curled-up-asleep-inside-a-nest-soft-focus-fstop-28-focallength-50mm-macro-lens.png"><img src="https://cdn.prompthero.com/8lon55exc2kza74g2biqy6hkait6-stable-diffusion-xl-base-09-photorealistic-lotr-a-tiny-red-dragon-curled-up-asleep-inside-a-nest-soft-focus-fstop-28-focallength-50mm-macro-lens.png" width="480" alt="After"></a>
 
 **Prompt**
 
 ```text
-Create a premium cinematic character bible sheet for J and K. LAYOUT: Wide horizontal format. Warm off-white background. Two massive hero shots side by side in the center — J on the left, K on the right. Clean editorial typography surrounding them. Feels like a premium character bible, not a poster. TOP LEFT: Large bold editorial text MIB2 in deep black. Below in small thin caps: MEN IN BLACK 2. Below that three descriptors: SUITS / GUNS / ALIENS. LEFT SIDE small text block: AGENT J ROLE: THE ROOKIE STYLE: LOUD, FAST, EFFECTIVE WEAPON: SILVER ALIEN PISTOL QUOTE: I MAKE THIS LOOK GOOD. RIGHT SIDE small text block: AGENT K ROLE: THE VETERAN STYLE: CALM, PRECISE, DEADLY WEAPON: LARGE ALIEN RIFLE QUOTE: NO COMMENT. CENTER: J from mid-thigh up — wide confident grin, small silver pistol raised, black suit slightly roughed up, sunglasses slightly crooked, electric blue energy behind him. K from mid-thigh up — completely deadpan, large alien gun raised, black suit perfectly neat, sunglasses perfectly straight, dark grey energy behind him. Both facing slightly toward each other. Warm circular ink brush splash behind both of them together like the Maya sheet, deep black tones. RIGHT SIDE: Three small detail panels stacked — Close up on J's wide grin and crooked sunglasses. Close up on K's deadpan expression and perfectly straight sunglasses. Close up on both guns side by side. BOTTOM CENTER: Color palette — deep black, white, electric blue, dark grey. Tagline: THEY'RE BACK. SAME SUITS. MORE ALIENS. OVERALL: Warm off-white background, deep black ink brush circle behind both characters, clean minimal editorial typography, cinematic cel-shaded 3D anime, hand-painted textures, not cartoon not Disney not Pixar, print ready, feels like a premium lifestyle character bible.
+photorealistic, lotr, A tiny red dragon curled up asleep inside a nest, (Soft Focus), (f_stop 2.8), (focal_length 50mm) macro lens f/2.8, medieval wizard table, (pastel) colors, (cozy) morning light filtering through a nearby window, (whimsical) steam shapes, captured with a (Canon EOS R5), highlighting (serene) comfort, medieval, dnd, rpg, 3d, 16K, 8K
 ```
 
-By [@TechieBySA](https://x.com/TechieBySA/status/2101629652741624268)
+[Source](https://prompthero.com/prompt/4c85ab1c267-stable-diffusion-xl-base-09-photorealistic-lotr-a-tiny-red-dragon-curled-up-asleep-inside-a-nest-soft-focus-fstop-28-focallength-50mm-macro-lens)
 
 ---
 
-<a id="evolink-character-sheets-case-109"></a>
+<a id="prompthero-5a164cf1d00"></a>
 
-## Stranger Things Group Character Sheet
+## A stylized female flight attendant in uniform with\.\.\.
 
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2100548631635824640.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2100548631635824640.jpg" width="480" alt="Source example"></a>
+<a href="https://cdn.prompthero.com/34b41d10pyep5ictoyg361fbvif7-flux-flux-kontext-pro-a-stylized-female-flight-attendant-in-uniform-with-a-neat-hairstyle-expressive-wide-eyes-showing-urgency-3d-animation-style-cinematic.png"><img src="https://cdn.prompthero.com/34b41d10pyep5ictoyg361fbvif7-flux-flux-kontext-pro-a-stylized-female-flight-attendant-in-uniform-with-a-neat-hairstyle-expressive-wide-eyes-showing-urgency-3d-animation-style-cinematic.png" width="480" alt="After"></a>
 
 **Prompt**
 
 ```text
-Create a premium cinematic character bible sheet for THE STRANGER THINGS GROUP. LAYOUT: Single group centered format. All four characters together as one group, Eleven slightly forward in the center front, Mike directly behind her left, Lucas behind her right, Dustin behind center. Like a movie poster — the group as one unified image. Deep red watercolor splash radiating behind the entire group — bold and dramatic, same style as the Taken and John Wick sheets, controlled and cinematic. Large bold brushstroke text STRANGER THINGS top left in deep red, slightly worn and dramatic. Below small text: HAWKINS INDIANA / 1983. One massive dramatic cropped group hero image — Eleven front and center, shaved head, intense eyes, blue jacket, looking directly forward with quiet power. Mike slightly behind her left, bowl cut hair, beige jacket, protective energy. Lucas slightly behind her right, short afro, rust red sherpa jacket, alert and scanning. Dustin behind center, curly hair, trucker cap, wide eyes, mouth slightly open. Deep red gate glow visible behind the group faintly, tendrils at the very edges of the image. All four bathed in subtle red light from the gate behind them. BOTTOM CENTER: Bold dramatic STRANGER THINGS in deep red, slightly worn. Below it small text: HAWKINS. THE GATE. THE UPSIDE DOWN. Color palette — deep red, dark navy, black, cream, warm skin tones. Tagline centered: FRIENDS DON'T LIE. OVERALL: Clean white background, deep red watercolor splash behind the entire group radiating outward, subtle gate red glow at the edges of the image, bold flat color blocking, chunky simplified forms, hard edge shadows, thick black outlines, vibrant saturated colors, minimal clean typography, cinematic cel-shaded 3D anime, hand-painted textures, not cartoon not Disney not Pixar, print ready.
+A stylized female flight attendant in uniform with a neat hairstyle, expressive wide eyes showing urgency, 3D animation style, cinematic tone, background of airplane interior, Pixar or Disney-style character design
 ```
 
-By [@TechieBySA](https://x.com/TechieBySA/status/2100548638413930687)
+[Source](https://prompthero.com/prompt/5a164cf1d00-flux-flux-kontext-pro-a-stylized-female-flight-attendant-in-uniform-with-a-neat-hairstyle-expressive-wide-eyes-showing-urgency-3d-animation-style-cinematic)
 
 ---
 
-<a id="evolink-character-sheets-case-110"></a>
+<a id="prompthero-5c11bcbb373"></a>
 
-## Jack and Sawyer Character Sheet
+## Design a premium artistic modular character-buildi\.\.\.
 
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2100278573420408832.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2100278573420408832.jpg" width="480" alt="Source example"></a>
+<a href="https://cdn.prompthero.com/hr6h5bavalgjigaa0owpz3tisb-hero-10-design-a-premium-artistic-modular-character-building-system-not-lego-not-toy-like-create-elegant-collectible-pieces-inspired-by-minimalist.jpeg"><img src="https://cdn.prompthero.com/hr6h5bavalgjigaa0owpz3tisb-hero-10-design-a-premium-artistic-modular-character-building-system-not-lego-not-toy-like-create-elegant-collectible-pieces-inspired-by-minimalist.jpeg" width="480" alt="After"></a>
 
 **Prompt**
 
 ```text
-Create a premium cinematic character bible sheet for JACK & SAWYER. LAYOUT: Split screen partner format. Two halves divided by a bold dramatic dividing element in the center. LEFT SIDE — JACK: Blue watercolor splash behind him fading into center. Large bold brushstroke text JACK top left in deep blue. Below small text: THE DOCTOR / THE ISLAND. One massive dramatic cropped hero image of Jack from mid-thigh up — tense focused expression, worn blue grey t-shirt, dark trousers, short dark brown hair, light stubble, blue watercolor splash radiating behind him. CENTER: Official LOST title logotype only — not generic text. The real ABC series wordmark. Distressed serif caps, wide tracking, cracked worn edges. LOST in deep blue, slightly worn. Below it small text: THE ISLAND. THE JUNGLE. THE SMOKE. RIGHT SIDE — SAWYER: Green watercolor splash behind him fading into center. Large bold brushstroke text SAWYER top right in deep green. Below small text: THE CONMAN / THE ISLAND. One massive dramatic cropped hero image of Sawyer from mid-thigh up — rugged smirk breaking into focus, medium dirty blonde hair, worn olive khaki shirt open at the collar, light stubble, green watercolor splash radiating behind him. BOTTOM CENTER: Color palette — deep blue, deep green, jungle black, white. Tagline centered: WE HAVE TO GO BACK. OVERALL: Clean white background, blue watercolor left side, green watercolor right side, dramatic blue center divider, bold flat color blocking, chunky simplified forms, hard edge shadows, thick black outlines, vibrant saturated colors, minimal clean typography except the official LOST logotype in the center, cinematic cel-shaded 3D anime, hand-painted textures, not cartoon not Disney not Pixar, print ready.​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​
+Design a premium artistic modular character-building system (not LEGO, not toy-like). Create elegant collectible pieces inspired by minimalist line art, Bauhaus, and Scandinavian design. Users can assemble expressive characters using interchangeable modular parts like eyes, ears, noses, mouths, and abstract shapes. All parts should be geometric, sculptural, and museum-quality art objects. No printed faces—expression comes from composition. Use magnetic or snap connections. Focus on creating a new category between contemporary sculpture and interactive design objects, suitable for adult collectors and interior display.
 ```
 
-By [@TechieBySA](https://x.com/TechieBySA/status/2100278579464417333)
+[Source](https://prompthero.com/prompt/5c11bcbb373-hero-10-design-a-premium-artistic-modular-character-building-system-not-lego-not-toy-like-create-elegant-collectible-pieces-inspired-by-minimalist)
 
 ---
 
-<a id="evolink-character-sheets-case-111"></a>
+<a id="prompthero-5d84ed4dbc8"></a>
 
-## Lee and Carter Character Sheet
+## A scene of a spaceship landing on an alien planet\.\.\.\.
 
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2100226088928509952.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2100226088928509952.jpg" width="480" alt="Source example"></a>
+<a href="https://cdn.prompthero.com/u0x6d55bmhvtkfj365i04g40evbr-flux-flux-11-pro-a-scene-of-a-spaceship-landing-on-an-alien-planet-the-style-is-reminiscent-of-a-science-fiction-movie-with.jpg"><img src="https://cdn.prompthero.com/u0x6d55bmhvtkfj365i04g40evbr-flux-flux-11-pro-a-scene-of-a-spaceship-landing-on-an-alien-planet-the-style-is-reminiscent-of-a-science-fiction-movie-with.jpg" width="480" alt="After"></a>
 
 **Prompt**
 
 ```text
-Create a premium cinematic character bible sheet for LEE & CARTER in bold painterly illustration style. Use uploaded character sheets as strict visual reference for both characters. Do not change either's appearance. LAYOUT: Split screen partner format. Two halves divided by a bold dramatic dividing element in the center. LEFT SIDE — LEE: Deep red bold painterly brushstroke splash behind him fading into center — angular hard edged not smooth, visible brushwork texture. Large bold brushstroke text LEE top left in deep red, editorial graphic feel. Below small text: INSPECTOR / HONG KONG. One massive dramatic cropped hero image of Lee from mid-thigh up — calm focused expression, black fitted suit, bright red tie catching the light, slight almost invisible smirk, locked toward the center. Bold painterly rendering — angular geometric color blocking, hard edge shadows, warm skin highlights, cool grey shadows throughout. CENTER: Bold dramatic RUSH HOUR in deep red, slightly worn and graphic. Below it small text: LA STREETS. ONE SATURDAY. NO RULES. RIGHT SIDE — CARTER: Deep navy bold painterly brushstroke splash behind him fading into center — angular hard edged, visible brushwork texture. Large bold brushstroke text CARTER top right in deep navy, editorial graphic feel. Below small text: DETECTIVE / LAPD. One massive dramatic cropped hero image of Carter from mid-thigh up — wide expressive eyes, enormous grin, dark navy suit, burgundy tie, one fist raised like he just landed something, locked toward the center. Bold painterly rendering — angular geometric color blocking, hard edge shadows, warm skin highlights, cool grey shadows throughout. BOTTOM CENTER: Color palette — deep red, deep navy, black, white, warm skin tone. Tagline centered: DO YOU UNDERSTAND THE WORDS COMING OUT OF MY MOUTH. OVERALL: Clean white background, deep red bold painterly brushstroke splash left side, deep navy bold painterly brushstroke splash right side, dramatic deep red center divider, bold painterly illustration style throughout matching uploaded character sheets exactly — angular geometric color blocking, hard edge shadows, visible brushwork, gouache texture, flat color planes, graphic novel quality, not photorealistic not standard anime not cartoon, minimal clean editorial typography, print ready.
+A scene of a spaceship landing on an alien planet. The style is reminiscent of a science fiction movie, with a focus on the spaceships design and the alien planets landscape. The lighting is sharp and contrasting, highlighting the spaceship and the alien planets surface.
 ```
 
-By [@TechieBySA](https://x.com/TechieBySA/status/2100226095320580331)
+[Source](https://prompthero.com/prompt/5d84ed4dbc8-flux-flux-11-pro-a-scene-of-a-spaceship-landing-on-an-alien-planet-the-style-is-reminiscent-of-a-science-fiction-movie-with)
 
 ---
 
-<a id="evolink-character-sheets-case-112"></a>
+<a id="prompthero-5da9963fb98"></a>
 
-## Rocky and Drago Character Sheet
+## Capture El Tigre Braum in a hyper-realistic photog\.\.\.
 
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2100177113005391873.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2100177113005391873.jpg" width="480" alt="Source example"></a>
+<a href="https://cdn.prompthero.com/ob2i3xljg36mdsj621543kn2viux-dalle-3-capture-el-tigre-braum-in-a-hyper-realistic-photograph-set-amidst-a-vibrant-and-colorful-mexican-inspired-environment-showcase-his.jpeg"><img src="https://cdn.prompthero.com/ob2i3xljg36mdsj621543kn2viux-dalle-3-capture-el-tigre-braum-in-a-hyper-realistic-photograph-set-amidst-a-vibrant-and-colorful-mexican-inspired-environment-showcase-his.jpeg" width="480" alt="After"></a>
 
 **Prompt**
 
 ```text
-Create a premium cinematic character bible sheet for ROCKY vs DRAGO. Use uploaded character sheets as strict visual reference for both characters. Do not change either's appearance. LAYOUT: Split screen VS format. Two halves divided by a bold dramatic dividing element in the center. Both characters facing toward the center aggressively. Size difference between them must be dramatically visible even on the sheet — Drago noticeably larger and wider than Rocky. LEFT SIDE — ROCKY: Bold red white and blue watercolor splash behind him fading into center. Large bold brushstroke text ROCKY top left in deep red. Below small text: THE ITALIAN STALLION / PHILADELPHIA. One massive dramatic cropped hero image of Rocky from mid-thigh up — intense determined expression, cut above the right eye with blood trickling, bruised face, sweating, American flag boxing shorts, red gloves raised in fighting stance, red white and blue watercolor splash radiating behind him. CENTER: Bold dramatic ROCKY IV in deep red, slightly worn. Below it small text: SOVIET ARENA. HEART VS MACHINE. RIGHT SIDE — DRAGO: Deep gold yellow watercolor splash behind him fading into center. Large bold brushstroke text DRAGO top right in deep gold. Below small text: THE SIBERIAN EXPRESS / SOVIET UNION. One massive dramatic cropped hero image of Drago from mid-thigh up — completely cold emotionless expression, enormous muscular build dramatically wider and taller than Rocky, red and yellow shorts, red gloves raised, gold yellow watercolor splash radiating behind him. BOTTOM CENTER: Color palette — bold red, white, blue, deep gold, black. Tagline centered: IF HE DIES HE DIES. OVERALL: Clean white background, red white and blue watercolor left side, deep gold watercolor right side, dramatic deep red center divider, size difference between Rocky and Drago dramatically visible, bold flat color blocking, chunky simplified forms, hard edge shadows, thick black outlines, vibrant saturated colors, minimal clean typography, cinematic cel-shaded 3D anime, hand-painted textures, not cartoon not Disney not Pixar, print ready.
+Capture El Tigre Braum in a hyper-realistic photograph set amidst a vibrant and colorful Mexican-inspired environment. Showcase his towering and muscular physique, intricate luchador mask, and signature shield with advanced lighting techniques and dynamic posing. Highlight the details of his fierce and determined expression to convey a sense of strength and agility. Utilize a bright and bold color palette with pops of orange and yellow to create a photograph that captures the essence of El Tigre Braum's lively and energetic nature
 ```
 
-By [@TechieBySA](https://x.com/TechieBySA/status/2100177122916454655)
+[Source](https://prompthero.com/prompt/5da9963fb98-dalle-3-capture-el-tigre-braum-in-a-hyper-realistic-photograph-set-amidst-a-vibrant-and-colorful-mexican-inspired-environment-showcase-his)
 
 ---
 
-<a id="evolink-character-sheets-case-116"></a>
+<a id="prompthero-5e650f1b0f4"></a>
 
-## The Chef and the Cat Character Sheet
+## \( volumatric lighting , very detail face ,white ba\.\.\.
 
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2099460133688430592.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2099460133688430592.jpg" width="480" alt="Source example"></a>
+<a href="https://cdn.prompthero.com/avo3n1cvzb6bgh55n8o0d1y14k90-dreamshaper-5-inpainting-volumatric-lighting-very-detail-face-white-background-3d-model-nendoroid-style-japanese-mascot-art-toys-secret-collectible-figurine-a-cute.jpg"><img src="https://cdn.prompthero.com/avo3n1cvzb6bgh55n8o0d1y14k90-dreamshaper-5-inpainting-volumatric-lighting-very-detail-face-white-background-3d-model-nendoroid-style-japanese-mascot-art-toys-secret-collectible-figurine-a-cute.jpg" width="480" alt="After"></a>
 
 **Prompt**
 
 ```text
-Create a premium cinematic character bible sheet for THE CHEF & THE CAT. Use uploaded character sheets as strict visual reference for both characters. Do not change either's appearance. LAYOUT: Split screen partner format. Two halves divided by a bold dramatic dividing element in the center. LEFT SIDE — CHEF: Clean white watercolor splash behind him fading into center. Large bold brushstroke text CHEF top left in deep red. Below small text: SATURDAY AFTERNOON / KITCHEN. One massive dramatic cropped hero image of the chef from mid-thigh up — desperate exhausted expression, white chef uniform, tall white hat slightly crooked, one arm outstretched reaching for something he can't catch, white watercolor splash radiating behind him. CENTER: Bold dramatic THE FISH in deep red, slightly worn. Below it small text: KITCHEN. ONE FISH. ONE PROBLEM. RIGHT SIDE — CAT: Warm orange watercolor splash behind him fading into center. Large bold brushstroke text THE CAT top right in deep orange. Below small text: FLUFFY / UNBOTHERED. One massive dramatic cropped hero image of the cat from mid-body up — narrow judgemental eyes, smug expression, large fish dangling from its mouth, arrogant tail curled upward, orange watercolor splash radiating behind him. BOTTOM CENTER: Color palette — clean white, warm orange, deep red, black. Tagline centered: HEY!! OVERALL: Clean white background, white watercolor left side, warm orange watercolor right side, dramatic deep red center divider, bold flat color blocking, chunky simplified forms, hard edge shadows, thick black outlines, vibrant saturated colors, minimal clean typography, cinematic cel-shaded 3D anime, hand-painted textures, not cartoon not Disney not Pixar, print ready.
+( volumatric lighting , very detail face ,white background)), 3D model , Nendoroid style, Japanese mascot, art toys secret collectible figurine, ((a  cute new pink pokemon , minimalist cartoon,smart smile , happy face , brown eye , glow pastel rainbow, hd beautyful minimal glitter milky way leaf texture , a symphony of visual balance harmony, inspired by Demiguise in fantastic beasts)), beautyful 3D render, product picture , mr. bean character, relax poses ,design by studio ghibli, mood shiny.
 ```
 
-By [@TechieBySA](https://x.com/TechieBySA/status/2099460145449185433)
+[Source](https://prompthero.com/prompt/5e650f1b0f4-dreamshaper-5-inpainting-volumatric-lighting-very-detail-face-white-background-3d-model-nendoroid-style-japanese-mascot-art-toys-secret-collectible-figurine-a-cute)
 
 ---
 
-<a id="evolink-character-sheets-case-117"></a>
+<a id="prompthero-5ec208b9807"></a>
 
-## Two Fighters Character Sheet
+## 用途：风格化概念插画 资产类型：奇幻角色半身肖像 主要内容：一位成年幻想风阴阳师巫女，粉色\.\.\.
 
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2099188496225484800.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2099188496225484800.jpg" width="480" alt="Source example"></a>
+<a href="https://cdn.prompthero.com/o02ht5j8dcdoiz32nn9bckazck-hero-10.jpeg"><img src="https://cdn.prompthero.com/o02ht5j8dcdoiz32nn9bckazck-hero-10.jpeg" width="480" alt="After"></a>
 
 **Prompt**
 
 ```text
-Create a premium cinematic character bible sheet for the two fighters. Use uploaded character sheets as strict visual reference for both characters. Do not change either's appearance. LAYOUT: Split screen VS format. Two halves divided by a bold dramatic dividing element in the center. Both characters facing toward the center aggressively. LEFT SIDE — BLUE FIGHTER: Electric blue watercolor splash behind him fading into center. Large bold brushstroke text TORETTO top left in electric blue. Below small text: STREET RACER / RIO. One massive dramatic cropped hero image of the blue fighter from mid-thigh up — intense sweating expression, tight blue t-shirt, silver watch, fists raised, electric blue watercolor splash radiating behind him. CENTER: Bold dramatic FAST FIVE in deep red, slightly worn. Below it small text: RIO DE JANEIRO. NO RULES. NO MERCY. RIGHT SIDE — BLACK FIGHTER: Jet black watercolor splash behind him fading into center. Large bold brushstroke text HOBBS top right in jet black outlined in white. Below small text: DSS AGENT / RIO. One massive dramatic cropped hero image of the black fighter from mid-thigh up — intense focused expression, tight black t-shirt, tactical belt, black fingerless gloves, tattoo visible, fists raised, jet black watercolor splash radiating behind him. BOTTOM CENTER: Color palette — electric blue, jet black, deep red, white. Tagline centered: YOU'RE GOING DOWN. OVERALL: Clean white background, electric blue watercolor left side, jet black watercolor right side, dramatic deep red center divider, bold flat color blocking, chunky simplified forms, hard edge shadows, thick black outlines, vibrant saturated colors, minimal clean typography, cinematic cel-shaded 3D anime, hand-painted textures, not cartoon not Disney not Pixar, print ready.
+用途：风格化概念插画 资产类型：奇幻角色半身肖像 主要内容：一位成年幻想风阴阳师巫女，粉色双马尾长发，优雅的鬼角，身穿飘逸的白色祭祀礼服，领 口设计精致但不暴露。 角色特征：成年女性，神情安静睿智，气质温柔，身形优雅，佩戴精致的神社饰品、发饰和符咒装饰。 风格媒介：精致日式幻想插画，带有高级动漫角色设计感，服装布料细节丰富，线条干净，画面完成度 高。 构图：半身肖像构图，重点表现面部、粉色头发、鬼角、上半身礼服和神社装饰，姿态端庄自然。 光影氛围：电影感柔光，神秘的神社氛围，安静、优雅、梦幻，画面明亮精致。 色彩：柔和粉色头发，白色和象牙色礼服，少量红色神社元素点缀，温暖金色高光。 更短一点也可以： 一位成年幻想风阴阳师巫女半身肖像，粉色双马尾长发，优雅鬼角，身穿飘逸白色祭祀礼服，领口设计 精致但不暴露。角色神情安静睿智，气质温柔，佩戴神社发饰、符咒和华丽饰品。精致日式幻想插画风 格，高级动漫角色设计感，布料细节丰富，电影感柔光，神秘神社氛围，画面明亮优雅，完成度高。
 ```
 
-By [@TechieBySA](https://x.com/TechieBySA/status/2099188504416936155)
+[Source](https://prompthero.com/prompt/5ec208b9807-hero-10)
 
 ---
 
-<a id="evolink-character-sheets-case-119"></a>
+<a id="prompthero-5effc297ce3"></a>
 
-## Robert and Sam Character Sheet
+## Photorealistic photo of the armor and helmet of a \.\.\.
 
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2099095645747556352.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2099095645747556352.jpg" width="480" alt="Source example"></a>
+<a href="https://cdn.prompthero.com/7chtaxzftsaf7yj0fc35kwvutn90-midjourney-6-photorealistic-photo-of-the-armor-and-helmet-of-a-templar-knight-white-with-a-red-cross-on-the-chest-standing.png"><img src="https://cdn.prompthero.com/7chtaxzftsaf7yj0fc35kwvutn90-midjourney-6-photorealistic-photo-of-the-armor-and-helmet-of-a-templar-knight-white-with-a-red-cross-on-the-chest-standing.png" width="480" alt="After"></a>
 
 **Prompt**
 
 ```text
-Create a premium cinematic character bible sheet for ROBERT & SAM. Use uploaded character sheets as strict visual reference for both characters. Do not change either's appearance. LAYOUT: Split screen partner format. Two halves divided by a bold dramatic dividing element in the center. LEFT SIDE — ROBERT: Dark grey watercolor splash behind him fading into center. Large bold brushstroke text ROBERT top left in deep grey. Below small text: LAST MAN STANDING / NEW YORK. One massive dramatic cropped hero image of the Survivor from mid-thigh up — intense focused expression, worn dark leather jacket, white t-shirt, military rifle raised, shaved head, dark grey watercolor splash radiating behind him. CENTER: Bold dramatic I AM LEGEND in deep blood red, slightly worn. Below it small text: ABANDONED NEW YORK. ONE MAN. ONE DOG. RIGHT SIDE — SAM: Warm tan watercolor splash behind her fading into center. Large bold brushstroke text SAM top right in deep tan. Below small text: LOYAL / FEARLESS. One massive dramatic cropped hero image of Sam from mid-body up — alert pointed ears, intense intelligent eyes locked toward center, athletic stance, mouth slightly open ready, warm tan watercolor splash radiating behind her. BOTTOM CENTER: Color palette — dark grey, warm tan, blood red, white, black. Tagline centered: THE LAST OF US IS NOT ALONE. OVERALL: Clean white background, dark grey watercolor left side, warm tan watercolor right side, dramatic blood red center divider, bold flat color blocking, chunky simplified forms, hard edge shadows, thick black outlines, vibrant saturated colors, minimal clean typography, cinematic cel-shaded 3D anime, hand-painted textures, not cartoon not Disney not Pixar, print ready.
+Photorealistic photo of the armor and helmet of a Templar knight, white with a red cross on the chest, standing in line among other knights before battle, with a battlefield background and a grey sky, with depth of field, taken with a 50mm lens --ar 1:2 --stylize 750
 ```
 
-By [@TechieBySA](https://x.com/TechieBySA/status/2099095652638581123)
+By [@NorthmoorAI](https://prompthero.com/prompt/5effc297ce3-midjourney-6-photorealistic-photo-of-the-armor-and-helmet-of-a-templar-knight-white-with-a-red-cross-on-the-chest-standing)
 
 ---
 
-<a id="evolink-character-sheets-case-120"></a>
+<a id="prompthero-6a7784be061"></a>
 
-## Phil, Stu and Alan Character Sheet
+## Full body shot, Julia Roberts, side view, looking \.\.\.
 
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2098779174035230720.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2098779174035230720.jpg" width="480" alt="Source example"></a>
+<a href="https://cdn.prompthero.com/bpzl80mmk6bwfahqoyf2pbinq96a-flux-flux-kontext-pro-full-body-shot-julia-roberts-side-view-looking-over-her-shoulder-glamorous-kitsch-high-quality-made-of-wires-grungecore-elaborate.png"><img src="https://cdn.prompthero.com/bpzl80mmk6bwfahqoyf2pbinq96a-flux-flux-kontext-pro-full-body-shot-julia-roberts-side-view-looking-over-her-shoulder-glamorous-kitsch-high-quality-made-of-wires-grungecore-elaborate.png" width="480" alt="After"></a>
 
 **Prompt**
 
 ```text
-Create a premium cinematic character bible sheet for PHIL, STU & ALAN. Use uploaded character sheets as strict visual reference for all three characters. Do not change any of their appearances. LAYOUT: Three way split format. Stu on the far left, Phil in the center largest, Alan on the far right. Bold dramatic dividing elements between each character. FAR LEFT — STU: White watercolor splash behind him fading toward center. Large bold brushstroke text STU top left in deep white outlined in grey. Below small text: THE DENTIST / LAS VEGAS. One dramatic cropped hero image of Stu from mid-thigh up — anxious panicking expression, glasses completely crooked, white and beige striped shirt, fists raised shaking, white watercolor splash radiating behind him. CENTER — PHIL: Dark navy watercolor splash radiating outward in all directions. Large bold brushstroke text PHIL top center in deep navy. Below small text: THE LEADER / LAS VEGAS. One massive dramatic cropped hero image of Phil from mid-thigh up — confident smug expression, dark navy open collar shirt, amber aviator sunglasses, arms wide like he's in control, navy watercolor splash exploding behind him. Biggest image on the sheet. FAR RIGHT — ALAN: Bright orange watercolor splash behind him fading toward center. Large bold brushstroke text ALAN top right in deep orange. Below small text: THE WILDCARD / LAS VEGAS. One dramatic cropped hero image of Alan from mid-thigh up — completely unbothered expression, grey graphic t-shirt with orange sun print, red orange sunglasses, brown crossbody strap, holding a buffet plate casually, orange watercolor splash radiating behind him. BOTTOM CENTER: Bold dramatic THE HANGOVER in deep red, slightly worn. Below it small text: LAS VEGAS. ONE NIGHT. NO MEMORY. Color palette — dark navy, white, bright orange, deep red, black. Tagline centered: WHAT HAPPENED LAST NIGHT. OVERALL: Clean white background, white watercolor far left, dark navy watercolor center, bright orange watercolor far right, bold dramatic dividing elements between each character, bold flat color blocking, chunky simplified forms, hard edge shadows, thick black outlines, vibrant saturated colors, minimal clean typography, cinematic cel-shaded 3D anime, hand-painted textures, not cartoon not Disney not Pixar, print ready.
+Full body shot, Julia Roberts, side view, looking over her shoulder, glamorous kitsch, high quality, made of wires, grungecore, elaborate armor beautiful orc girl with the helmet of a devil with big horns, open cyber suit, piercing in the navel, interior of a rusty space station in the background, in the style of dark white and light silver, captivating gaze, ferrania p30, earl norem, mysterious beauty, exaggerated features, dragon art, by Royo and Giger, sci-fi, cyberpunk, dark art --ar 4:5 --stylize 500 --v 6
 ```
 
-By [@TechieBySA](https://x.com/TechieBySA/status/2098779184550002853)
+[Source](https://prompthero.com/prompt/6a7784be061-flux-flux-kontext-pro-full-body-shot-julia-roberts-side-view-looking-over-her-shoulder-glamorous-kitsch-high-quality-made-of-wires-grungecore-elaborate)
 
 ---
 
-<a id="evolink-character-sheets-case-121"></a>
+<a id="prompthero-6b10d2108fa"></a>
 
-## Rick and Daryl Character Sheet
+## Primal Beast, Miki Asai Macro photography, close-u\.\.\.
 
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2098731880279371780.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2098731880279371780.jpg" width="480" alt="Source example"></a>
+<a href="https://cdn.prompthero.com/1a4dgedenoh2bhawkisv9936e7t9-stable-diffusion-xl-base-09-beast-primal-beast-miki-asai-macro-photography-close-up-hyper-detailed-trending-on-artstation-sharp-focus-studio-photo-intricate-details-highly.png"><img src="https://cdn.prompthero.com/1a4dgedenoh2bhawkisv9936e7t9-stable-diffusion-xl-base-09-beast-primal-beast-miki-asai-macro-photography-close-up-hyper-detailed-trending-on-artstation-sharp-focus-studio-photo-intricate-details-highly.png" width="480" alt="After"></a>
 
 **Prompt**
 
 ```text
-Create a premium cinematic character bible sheet for RICK & DARYL. LAYOUT: Split screen partner format. Two halves divided by a bold dramatic dividing element in the center. LEFT SIDE — RICK: Tan watercolor splash behind him fading into center. Large bold brushstroke text RICK top left in deep tan. Below small text: SHERIFF / SURVIVOR. One massive dramatic cropped hero image of Rick from mid-thigh up — serious determined expression, tan khaki sheriff uniform, gold badge catching the light, dark brown sheriff hat sitting low, silver revolver raised, tan watercolor splash radiating behind him. CENTER: Bold dramatic THE WALKING DEAD in deep blood red, slightly worn. Below it small text: ABANDONED TOWN. NO WAY OUT. RIGHT SIDE — DARYL: Dark grey watercolor splash behind him fading into center. Large bold brushstroke text DARYL top right in deep grey. Below small text: SURVIVOR / HUNTER. One massive dramatic cropped hero image of Daryl from mid-thigh up — intense eyes locked toward center, dark grey sleeveless leather vest, crossbow raised and ready, muscular tattooed arms visible, dark grey watercolor splash radiating behind him. BOTTOM CENTER: Color palette — tan khaki, gold, dark grey, blood red, black. Tagline centered: KEEP MOVING OR DIE. OVERALL: Clean white background, tan watercolor left side, dark grey watercolor right side, dramatic blood red center divider, bold flat color blocking, chunky simplified forms, hard edge shadows, thick black outlines, vibrant saturated colors, minimal clean typography, cinematic cel-shaded 3D anime, hand-painted textures, not cartoon not Disney not Pixar, print ready.
+Primal Beast, Miki Asai Macro photography, close-up, hyper detailed, trending on artstation, sharp focus, studio photo, intricate details, highly detailed, by greg rutkowski
 ```
 
-By [@TechieBySA](https://x.com/TechieBySA/status/2098731888617689164)
+[Source](https://prompthero.com/prompt/6b10d2108fa-stable-diffusion-xl-base-09-beast-primal-beast-miki-asai-macro-photography-close-up-hyper-detailed-trending-on-artstation-sharp-focus-studio-photo-intricate-details-highly)
 
 ---
 
-<a id="evolink-sequential-art-case-242"></a>
+<a id="prompthero-7c4cae91879"></a>
 
-## Queen Sixteen-Panel Dance Sheet
+## «Patrol duty on the Radial Highway»
 
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2100836695319171074-poster.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2100836695319171074-poster.jpg" width="480" alt="Source example"></a>
+<a href="https://cdn.prompthero.com/4t28canm7nllq6riv31sh1w0y9il-midjourney-61-patrol-duty-on-the-radial-highway.jpg"><img src="https://cdn.prompthero.com/4t28canm7nllq6riv31sh1w0y9il-midjourney-61-patrol-duty-on-the-radial-highway.jpg" width="480" alt="After"></a>
 
 **Prompt**
 
 ```text
-Create a 4×4 dance pose sheet featuring one original character, with exactly 16 equally sized panels in one square image. CHARACTER DESIGN Design a regal queen character with an elegant braided crown-updo topped with a small gold circlet, calm violet eyes, a deep-sapphire velvet gown with long draped sleeves and an embroidered hem, and a light cape that trails behind her. Keep her exact face, hairstyle, colors, proportions, outfit, and accessories fully consistent across all 16 panels — no redesigns, recolors, or costume changes between panels. ART STYLE Render in classical painterly 2D illustration, rich jewel-toned shading, with crisp outlines and consistent lighting across every panel. CHOREOGRAPHY Design a cohesive 16-pose dance sequence with a clear beginning, build-up, climax, and ending, ordered left to right, top to bottom. Include: an opening pose that establishes personality; a small rhythmic step with a coordinated arm gesture; a side step with one arm extended; a compact expressive gesture near the face; a grounded stance with arms crossing or sweeping inward; a knee lift or weight shift; an open expansive pose with arms spread; a playful balance pose; a turning pose showing a three-quarter rear view; a forward-reaching diagonal lean; a strong upward-reaching accent; a climactic jump (or full-body extension if jumping doesn't suit the character); a lowered stance with a forward gesture; a dynamic side-facing transition; a signature gesture unique to the character; and a confident final pose with a clear finishing silhouette. COMPOSITION Use a clean white background, thin grid lines, and small readable numbers 1–16 in the upper-left corner of each panel. One full-body depiction of the character per panel, consistent scale, camera distance, lighting, and rendering style throughout. Fixed camera angle while the character turns naturally. Keep the entire character — hair, hands, feet, and accessories — inside each panel with comfortable margins, with subtle ground shadows and natural secondary movement in hair and fabric. Preserve the outfit's original coverage in every panel — no wardrobe shifts, added exposure, or altered necklines between poses. AVOID Repeated or near-identical poses, identity drift, costume changes, inconsistent proportions, extra or missing limbs, malformed hands, cropped body parts, overlapping panels, additional characters, motion trails, background scenery, unlisted props, speech bubbles, and watermarks. Final output: one polished square image, a clearly organized 4×4 grid of 16 distinct, character-appropriate dance poses.
+Syd Mead style futuristic cyber dieselpunk hovercraft, full body shot of beautiful European young blonde woman in clothes in dieselpunk style, in the background there is super car and a huge combat robot in dieselpunk style, in Syd Mead style --chaos 3 --ar 4:5 --sref 858769851 --personalize h3vtncs --stylize 900 --v 6.1
 ```
 
-By [@MahnoorAi12](https://x.com/MahnoorAi12/status/2101132922560430481)
+[Source](https://prompthero.com/prompt/7c4cae91879-midjourney-61-patrol-duty-on-the-radial-highway)
 
 ---
 
-<a id="evolink-sequential-art-case-249"></a>
+<a id="prompthero-7c64d8dc1bb"></a>
 
-## Mecha Pilot Sixteen-Panel Dance Sheet
+## ultra-detailed hard sci-fi biomechanical photograp\.\.\.
 
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2099099113833005056-poster.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2099099113833005056-poster.jpg" width="480" alt="Source example"></a>
+<a href="https://cdn.prompthero.com/xw9tvy2xflgkciran4enrgp1gq-midjourney-shatter-ultra-detailed-hard-sci-fi-biomechanical-photography-complex-intertwined-composition-dense-mechanical-mass-filling-the-frame-photorealistic-industrial-mecha-design.png"><img src="https://cdn.prompthero.com/xw9tvy2xflgkciran4enrgp1gq-midjourney-shatter-ultra-detailed-hard-sci-fi-biomechanical-photography-complex-intertwined-composition-dense-mechanical-mass-filling-the-frame-photorealistic-industrial-mecha-design.png" width="480" alt="After"></a>
 
 **Prompt**
 
 ```text
-Create a 4×4 dance pose sheet featuring one original character, with exactly 16 equally sized panels in one square image. CHARACTER DESIGN Design a confident mecha pilot with a short auburn ponytail, sharp amber eyes, a fitted white-and-orange flight suit with panel seams and a squadron emblem on the chest, a popped collar, and reinforced boots. Keep her exact face, hairstyle, colors, proportions, outfit, and accessories fully consistent across all 16 panels — no redesigns, recolors, or costume changes between panels. ART STYLE Render in 2D anime, crisp mechanical linework, with crisp outlines and consistent lighting across every panel. CHOREOGRAPHY Design a cohesive 16-pose dance sequence with a clear beginning, build-up, climax, and ending, ordered left to right, top to bottom. Include: an opening pose that establishes personality; a small rhythmic step with a coordinated arm gesture; a side step with one arm extended; a compact expressive gesture near the face; a grounded stance with arms crossing or sweeping inward; a knee lift or weight shift; an open expansive pose with arms spread; a playful balance pose; a turning pose showing a three-quarter rear view; a forward-reaching diagonal lean; a strong upward-reaching accent; a climactic jump (or full-body extension if jumping doesn't suit the character); a lowered stance with a forward gesture; a dynamic side-facing transition; a signature gesture unique to the character; and a confident final pose with a clear finishing silhouette. COMPOSITION Use a clean white background, thin grid lines, and small readable numbers 1–16 in the upper-left corner of each panel. One full-body depiction of the character per panel, consistent scale, camera distance, lighting, and rendering style throughout. Fixed camera angle while the character turns naturally. Keep the entire character — hair, hands, feet, wings, tails, and accessories — inside each panel with comfortable margins, with subtle ground shadows and natural secondary movement in hair and fabric. AVOID Repeated or near-identical poses, identity drift, costume changes, inconsistent proportions, extra or missing limbs, malformed hands, cropped body parts, overlapping panels, additional characters, motion trails, background scenery, unlisted props, speech bubbles, and watermarks. Final output: one polished square image, a clearly organized 4×4 grid of 16 distinct, character-appropriate dance poses.
+ultra-detailed hard sci-fi biomechanical photography, complex intertwined composition, dense mechanical mass filling the frame, photorealistic industrial mecha design, 85mm macro lens, f/8 aperture, ultra-sharp focus, high dynamic range, colossal biomechanical construct made of matte black armored components, exposed joints, hydraulic pistons, braided cables, industrial tubing, layered mechanical plates with engraved serial numbers and warning labels, subtle red accent markings and technical typography scattered across the surface, organic yet aggressive silhouette resembling a living machine, purely mechanical anatomy, laboratory environment background, soft natural daylight with diffused highlights and controlled shadows, extreme greeble detail, micro-scratches, wear marks, realistic material texture, cinematic realism --ar 9:16 --raw --stylize 200
 ```
 
-By [@MahnoorAi12](https://x.com/MahnoorAi12/status/2099099834867134695)
+By [@Grayve](https://prompthero.com/prompt/7c64d8dc1bb-midjourney-shatter-ultra-detailed-hard-sci-fi-biomechanical-photography-complex-intertwined-composition-dense-mechanical-mass-filling-the-frame-photorealistic-industrial-mecha-design)
 
 ---
 
-<a id="evolink-travel-journals-case-235"></a>
+<a id="prompthero-8aa2a68e4a2"></a>
 
-## Paris Art Travel Portrait
+## Vertical bust CG portrait, realistic live-action v\.\.\.
 
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2100057099766214656.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2100057099766214656.jpg" width="480" alt="Source example"></a>
+<a href="https://cdn.prompthero.com/v1_b72e881dcd0bf3050207879f25-hero-10-vertical-bust-cg-portrait-realistic-live-action-version-of-sailor-moon-long-golden-twin-tails-with-double-hair-buns-red.jpeg"><img src="https://cdn.prompthero.com/v1_b72e881dcd0bf3050207879f25-hero-10-vertical-bust-cg-portrait-realistic-live-action-version-of-sailor-moon-long-golden-twin-tails-with-double-hair-buns-red.jpeg" width="480" alt="After"></a>
 
 **Prompt**
 
 ```text
-Use the same uploaded woman as the character reference and preserve her identity, hairstyle, and overall appearance. Create a completely different artistic interpretation of Paris, France, inspired by a premium travel magazine illustration. Show the same woman from behind, sitting peacefully on a beautiful stone terrace overlooking Paris at sunset, with the Eiffel Tower, Seine River, bridges, classic Parisian rooftops, boats, trees, and warm evening light. Transform the entire scene into a sophisticated hand-painted watercolor and editorial travel illustration while keeping the woman recognizable. Use delicate paper texture, soft watercolor washes, elegant architectural details, subtle brush strokes, dreamy pastel skies, and a refined luxury travel-poster aesthetic. Add tasteful minimal typography such as: “PARIS” “FRANCE” “Different Views, Same Dreams” “Travel • Explore • Discover • Grow” The lower scene should feel artistic and motivational rather than photorealistic, clearly different from the realistic photograph above. Premium editorial composition, balanced layout, beautiful visual storytelling, vertical poster format, no watermark.
+Vertical bust CG portrait, realistic live-action version of Sailor Moon, long golden twin tails with double hair buns, red gem and pearl hair ornaments on buns, golden crescent ornament on forehead, big sparkling eyes, pink blush, sweet gentle smile, wearing black and white lolita dress with frilled lace cuffs, big red bow with pearl on chest, pearl decorations on sleeves, resting elbow on golden carved throne, hand propping cheek, luxurious golden European palace interior, gilded relief wall, huge crystal chandelier, warm golden sunlight coming through tall arched windows, vases with pink roses beside window, warm rim light glowing on hair, translucent delicate skin, ultra detailed hair strands, 8K, anime live-action style, pearlescent texture, gorgeous royal portrait --ar 4:5 --v 6.0 --style raw --s 220 --q 2
 ```
 
-By [@Alina\_with\_Ai](https://x.com/Alina_with_Ai/status/2100057357376192992)
+By [@khosrowmostafae](https://prompthero.com/prompt/8aa2a68e4a2-hero-10-vertical-bust-cg-portrait-realistic-live-action-version-of-sailor-moon-long-golden-twin-tails-with-double-hair-buns-red)
 
 ---
 
-<a id="freestylefly-case-27"></a>
+<a id="prompthero-8c2c2c97b01"></a>
 
-## 人物角色设定图
+## Ultra-realistic cinematic portrait of a Spanish co\.\.\.
 
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case27.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case27.jpg" width="480" alt="Source example"></a>
+<a href="https://cdn.prompthero.com/v1_805c2e9613e59cc47a2d536c0c-chatgpt-image-gpt-image-2-ultra-realistic-cinematic-portrait-of-a-spanish-conquistador-bust-length-staring-intensely-at-the-viewer-with-a-tired-weathered-expression.jpeg"><img src="https://cdn.prompthero.com/v1_805c2e9613e59cc47a2d536c0c-chatgpt-image-gpt-image-2-ultra-realistic-cinematic-portrait-of-a-spanish-conquistador-bust-length-staring-intensely-at-the-viewer-with-a-tired-weathered-expression.jpeg" width="480" alt="After"></a>
 
 **Prompt**
 
 ```text
-{ "type": "collection of instant photos", "setting": "laid out flat on a white fabric surface", "character": { "hair": "{argument name=\"hair color\" default=\"long pink hair with blue inner color\"}", "outfit": "{argument name=\"outfit\" default=\"black and white maid uniform with frilly headband and black ribbons\"}", "eyes": "reddish-pink" }, "layout": { "arrangement": "two rows of five polaroid photos", "count": 10, "photos": [ { "position": "top row 1", "description": "holding a pink heart cushion" }, { "position": "top row 2", "description": "winking, making a peace sign" }, { "position": "top row 3", "description": "making a hand heart, pink heart doodle on the bottom border" }, { "position": "top row 4", "description": "resting chin on hands, gentle smile" }, { "position": "top row 5", "description": "holding a red rose, winking" }, { "position": "bottom row 1", "description": "finger to lips, shy expression" }, { "position": "bottom row 2", "description": "holding a small pink cake" }, { "position": "bottom row 3", "description": "winking, hand near face, signature '{argument name=\"signature text\" default=\"Hanashi\"}' and heart doodle on border" }, { "position": "bottom row 4", "description": "holding a pink bunny plushie, sparkle doodles, signature '{argument name=\"signature text\" default=\"Hanashi\"}' and bunny doodle on border" }, { "position": "bottom row 5", "description": "winking, sparkle doodles, message '{argument name=\"message text\" default=\"いつも応援ありがとう！これからもよろしくね♪\"}' and signature '{argument name=\"signature text\" default=\"Hanashi\"}' on border" } ] } }
+Ultra-realistic cinematic portrait of a Spanish conquistador, bust-length, staring intensely at the viewer with a tired, weathered expression. He wears 16th-century Spanish armor and helmet, historically accurate, heavily worn, scratched, and torn, with frayed and damaged clothing beneath the armor. His face shows exhaustion, sunburn, dirt, and subtle scars. The background is a dense tropical jungle completely overtaking the scene, with lush vegetation and vines, slightly blurred to create shallow depth of field. Natural moody lighting, soft shadows, realistic skin texture, high detail, photographic realism, cinematic color grading, 2K resolution, horizontal composition. Nothing of the next aspects: cartoon, illustration, anime, fantasy armor, modern clothing, clean armor, smiling, exaggerated features, low detail, flat lighting, oversaturated colors, text, watermark, logo, blurry subject, extra limbs, distorted face
 ```
 
-By [@anemone\_sd](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-27)
+[Source](https://prompthero.com/prompt/8c2c2c97b01-chatgpt-image-gpt-image-2-ultra-realistic-cinematic-portrait-of-a-spanish-conquistador-bust-length-staring-intensely-at-the-viewer-with-a-tired-weathered-expression)
 
 ---
 
-[1](characters.md) · **2** · [3](characters-3.md) · [4](characters-4.md) · [5](characters-5.md) · [6](characters-6.md) · [7](characters-7.md) · [8](characters-8.md)
+<a id="prompthero-16d6d7df901"></a>
+
+## Ultra-detailed cinematic portrait of birds cyborg \.\.\.
+
+<a href="https://cdn.prompthero.com/ijpoufp1t5upxkg4fkiwkgywu0-hero-10-ultra-detailed-cinematic-portrait-of-birds-cyborg-navy-and-white-metallic-limbs-partially-broken-revealing-internal-machinery-sci-fi-concept.jpeg"><img src="https://cdn.prompthero.com/ijpoufp1t5upxkg4fkiwkgywu0-hero-10-ultra-detailed-cinematic-portrait-of-birds-cyborg-navy-and-white-metallic-limbs-partially-broken-revealing-internal-machinery-sci-fi-concept.jpeg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+Ultra-detailed cinematic portrait of birds cyborg ,navy and white metallic limbs partially broken revealing internal machinery, sci-fi concept art, mechanical complexity, clean white background with technical sketch lines and blueprint elements, dramatic lighting, sharp focus, 8K resolution, ultra-high detail, cinematic depth, concept art style, futuristic technology
+```
+
+[Source](https://prompthero.com/prompt/16d6d7df901-hero-10-ultra-detailed-cinematic-portrait-of-birds-cyborg-navy-and-white-metallic-limbs-partially-broken-revealing-internal-machinery-sci-fi-concept)
+
+---
+
+[1](characters.md) · **2** · [3](characters-3.md) · [4](characters-4.md) · [5](characters-5.md) · [6](characters-6.md)
 
 [← Home](../README.md)

@@ -6,22 +6,6 @@
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
-<a id="freestylefly-case-2"></a>
-
-## 社媒界面截图
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case2.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case2.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-画一张 X 的内容截图，深色模式，@OpenAI 蓝勾认证账号发推。 正文的中文内容： 今天想推荐一位很棒的 AI Builder：Ailln AI。 他持续在小红书分享 AI 工具、Agent 工作流、自动化实践和真实项目经验，把复杂的 AI 能力讲得清楚、实用、可落地。 如果你正在关注 AI 产品、效率工具、个人自动化、内容创作和未来工作方式，Ailln AI 是一个非常值得关注的创作者。 在小红书搜索：Ailln AI 底部添加一张深色官方宣传风格海报，简洁黑客质感，图片中文本准确显示。 海报大字： 「Ailln AI」 副标题： 「A brilliant AI Builder worth following」 互动数据位于最下方： 评论 8.9K、转发 42K、点赞 298K（亮起）、收藏 34K（亮起）、浏览 32.4M。 图片比例为3:4，不包含软件其他部分。
-```
-
-By [小红书号4264014889](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-2)
-
----
-
 <a id="freestylefly-case-3"></a>
 
 ## 足球主题电影海报
@@ -115,22 +99,6 @@ By [小红书号1005414639](https://github.com/freestylefly/awesome-gpt-image-2/
 ```
 
 By [小红书号2692926140](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-16)
-
----
-
-<a id="freestylefly-case-47"></a>
-
-## 建筑空间场景图
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case47.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case47.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-{ "type": "2x2 grid of Japanese digital advertisement banners", "layout": { "structure": "4 equal quadrants", "quadrants": [ { "position": "top-left", "theme": "Travel", "subject": "A couple holding hands on a white sand beach, looking out at turquoise ocean water under a bright blue sky.", "elements": ["red hibiscus flower in bottom left corner"], "text_labels": [ "今年こそ、解き放て。", "{argument name=\"travel destination\" default=\"沖縄旅行\"}", "3日間の癒やし旅", "航空券＋ホテル", "39,800円〜", "絶景、グルメ、体験 ぜんぶ叶う!" ], "icons": { "count": 3, "descriptions": ["airplane", "hotel building", "car"] } }, { "position": "top-right", "theme": "Skincare", "subject": "Close-up portrait of a young woman with glowing, dewy skin, eyes closed, gently touching her cheeks.", "elements": [ "soft pink gradient background", "dynamic water splash effects", "pink cosmetic jar labeled '{argument name=\"skincare product name\" default=\"LUMIÈRE\"} Brightening Gel'" ], "text_labels": [ "毛穴・くすみ卒業！", "透明感あふれる", "水光肌へ", "新感覚スキンケア", "初回限定 78%OFF", "{argument name=\"discount price\" default=\"1,980円\"}" ], "badges": { "count": 3, "style": "gold circular", "labels": ["毛穴ケア", "高保湿", "ハリ・ツヤ"] } }, { "position": "bottom-left", "theme": "Gourmet Food", "subject": "Thick, sliced, medium-rare steak sizzling on a dark grill plate.", "elements": [ "garlic chips", "rosemary sprig", "dark background with smoke and glowing embers" ], "text_labels": [ "とろける旨さ！", "{argument name=\"food item\" default=\"黒毛和牛\"}", "贅沢ステーキ", "期間限定", "特別価格", "通常価格 8,980円", "4,980円" ], "badges": { "count": 1, "style": "red circular", "labels": ["A4 A5等級"] } }, { "position": "bottom-right", "theme": "Online Education", "subject": "Young man in a blue shirt studying at a desk, writing in a notebook next to an open laptop.", "elements": ["bright indoor lighting", "desk environment"], "text_labels": [ "スキマ時間で", "{argument name=\"education goal\" default=\"最短合格！\"}", "オンライン資格講座", "スマホで完結", "効率学習で差がつく！", "今だけ！ 受講料 20%OFF" ], "badges": { "count": 1, "style": "blue circular", "labels": ["受講者数 10万人 突破！"] }, "icons": { "count": 2, "descriptions": ["smartphone", "open book"] } } ] } }
-```
-
-By [@makaneko\_AI](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-47)
 
 ---
 
@@ -323,6 +291,38 @@ By [@TlanoVRC](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa
 ```
 
 By [@aiehon\_aya](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-138)
+
+---
+
+<a id="freestylefly-case-139"></a>
+
+## 主题海报版式设计
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case139.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case139.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+{ "type": "Japanese promotional landing page poster", "style": "hyper-energetic, explosive typography, vibrant colors, amusement park night festival aesthetic", "layout": { "top_section": { "background": "night sky, fireworks, ferris wheel, roller coaster", "subjects": "4 young adults cheering, raising fists, dynamic lighting", "typography": [ "{argument name=\"main headline\" default=\"究極の楽しい!!\"}", "{argument name=\"sub headline\" default=\"やばい!!共感してもらいたい!!\"}", "この一枚が、あなたの人生を最高に塗り替える!!" ], "badges": [ "累計販売枚数 {argument name=\"sales badge\" default=\"252,000\"} 枚突破!!!" ] }, "middle_section": { "title": "究極の楽しい体験を実現する5つの超快楽ポイント", "points_count": 5, "points": [ {"number": 1, "label": "爆笑覚醒", "image": "people laughing"}, {"number": 2, "label": "ドキドキMAX", "image": "roller coaster loop"}, {"number": 3, "label": "感動の渦", "image": "fireworks explosion"}, {"number": 4, "label": "超解放ゾーン", "image": "silhouettes jumping at sunset"}, {"number": 5, "label": "無限リピート", "image": "group of people cheering"} ] }, "bonus_section": { "title": "今だけ！超豪華 5大特典付き!!!", "items_count": 5, "items": [ "① 限定デザインポスター", "② 楽しい名言ブックレット(PDF)", "③ 超楽しいプレイリスト(MP3)", "④ スマホ壁紙セット", "⑤ 楽しいシークレット映像" ] }, "bottom_section": { "product_info": { "name": "究極の楽しいポスター", "variants_count": 3, "variants": ["全力全開ver.", "笑顔爆発ver.", "感動絶頂ver."] }, "pricing": { "label": "魂の価格", "amount": "{argument name=\"price\" default=\"¥2,980\"}", "shipping": "送料無料" } }, "footer": { "text": "{argument name=\"footer call to action\" default=\"人生を最高に楽しみ尽くせ!! さぁ、今すぐ手に入れろ!!\"}", "background_color": "magenta" } } }
+```
+
+By [@nakazakifam](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-139)
+
+---
+
+<a id="freestylefly-case-140"></a>
+
+## 主题海报版式设计
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case140.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case140.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+{"type": "promotional advertisement poster for a bottled green tea beverage", "product": {"type": "clear plastic PET bottle filled with yellow-green tea", "label": "white label with green typography, featuring the product name '{argument name=\"product name\" default=\"清風茶\"}', subtitle '緑茶 Seifucha', and vertical text '国産茶葉使用' and '香り豊か、後味さわやか'"}, "background": "bright, fresh, sunlit outdoor atmosphere with dynamic water splashes wrapping around the bottle and vibrant green tea leaves", "layout": {"sections": [{"title": "headline", "position": "top-left", "text": "{argument name=\"main headline\" default=\"新発売\"}", "style": "large red text with a gold underline and a small green leaf accent"}, {"title": "catchphrase", "position": "mid-left", "text": "{argument name=\"catchphrase\" default=\"毎日に、すっきり。\"}", "style": "dark green text"}, {"title": "features", "position": "lower-left", "count": 2, "labels": ["国産茶葉使用", "香り豊か、後味さわやか"], "style": "white pill-shaped banners with green leaf icons"}, {"title": "price_badge", "position": "top-right", "text": "今だけ!! 特別価格 {argument name=\"price\" default=\"128円\"} (税込)", "style": "red circular sticker with white and yellow text"}, {"title": "promo_banner", "position": "bottom-left", "text": "期間限定のお得価格!", "style": "angled red ribbon with yellow and white text"}, {"title": "footer", "position": "bottom-edge", "text": "{argument name=\"footer text\" default=\"全国のコンビニ・スーパーで発売中\"}", "style": "solid green horizontal bar with a white shopping cart icon"}]}}
+```
+
+By [@AutoIntelliMode](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-140)
 
 ---
 

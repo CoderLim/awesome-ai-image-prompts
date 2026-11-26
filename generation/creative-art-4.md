@@ -6,22 +6,6 @@
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
-<a id="prompthero-4b9ec3d60cc"></a>
-
-## Cinematic photorealistic vertical shot from inside\.\.\.
-
-<a href="https://cdn.prompthero.com/v1_6b9658289ab88bc14db6a7b321-hunyuan-hunyuan-3-cinematic-photorealistic-vertical-shot-from-inside-a-stationary-car-parked-safely-on-the-shoulder-of-a-highway-looking-through-the.jpg"><img src="https://cdn.prompthero.com/v1_6b9658289ab88bc14db6a7b321-hunyuan-hunyuan-3-cinematic-photorealistic-vertical-shot-from-inside-a-stationary-car-parked-safely-on-the-shoulder-of-a-highway-looking-through-the.jpg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-Cinematic photorealistic vertical shot from inside a stationary car parked safely on the shoulder of a highway, looking through the passenger side window, other cars passing by on the road, warm pink sunset sky, moody atmospheric lighting, realistic reflections on glass, authentic smartphone photography, quiet contemplative mood, strong visual contrast between the stationary car and moving traffic, clean uncluttered composition, upper middle area suitable for text overlay, no text, no logos
-```
-
-By [@chorlo](https://prompthero.com/prompt/4b9ec3d60cc-hunyuan-hunyuan-3-cinematic-photorealistic-vertical-shot-from-inside-a-stationary-car-parked-safely-on-the-shoulder-of-a-highway-looking-through-the)
-
----
-
 <a id="prompthero-4b508ad4c76"></a>
 
 ## \(A hyper-realistic, cinematic photograph in the st\.\.\.
@@ -323,6 +307,22 @@ photography, sleek and minimalist elevator lobby in a corporate building, front 
 ```
 
 By [@Grayve](https://prompthero.com/prompt/6fd97df811d-midjourney-6-more-info-wwwgraytheorystudiocom-admingraytheorystudiocom-wwwpromptbasecomprofilespacemakergrayve-wwwinstagramcomspacemakergrayve-photography-sleek-and-minimalist-elevator-lobby-in-a-corporate-building-front-view-eye-level-shot-canon-eos-5d-mark-iv)
+
+---
+
+<a id="prompthero-7a8d18dc8ac"></a>
+
+## A whimsical and surreal illustration featuring a D\.\.\.
+
+<a href="https://cdn.prompthero.com/ad7a60s8yccp4ukufxgkacppno1d-flux-schnell-a-whimsical-and-surreal-illustration-featuring-a-dr-seuss-inspired-safari-queen-adorned-in-an-eclectic-array-of-animal-prints.png"><img src="https://cdn.prompthero.com/ad7a60s8yccp4ukufxgkacppno1d-flux-schnell-a-whimsical-and-surreal-illustration-featuring-a-dr-seuss-inspired-safari-queen-adorned-in-an-eclectic-array-of-animal-prints.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+A whimsical and surreal illustration featuring a Dr. Seuss-inspired Safari Queen, adorned in an eclectic array of animal prints and wild patterns. Her vibrant, swirling hair is a kaleidoscope of colors, and she exudes confidence with a fierce, yet playful expression. The background is an enchanting jungle, teeming with life, where talking animals, oversized plants, and floating islands create a mesmerizing scene. This 3D render combines elements of anime, fashion, and dark fantasy, with an emphasis on dynamic composition, vibrant colors, and conceptual art. The artist's signature, "Chandara," is delicately placed on the right, adding a touch of personal flair to this captivating masterpiece., 3d render, photo, conceptual art, product, fashion, architecture, illustration
+```
+
+[Source](https://prompthero.com/prompt/7a8d18dc8ac-flux-schnell-a-whimsical-and-surreal-illustration-featuring-a-dr-seuss-inspired-safari-queen-adorned-in-an-eclectic-array-of-animal-prints)
 
 ---
 

@@ -1,74 +1,10 @@
 # portraits
 
-[← Home](../README.md) · Page 3 / 36
+[← Home](../README.md) · Page 3 / 35
 
-[1](portraits.md) · [2](portraits-2.md) · **3** · [4](portraits-4.md) · [5](portraits-5.md) · [6](portraits-6.md) · [7](portraits-7.md) · [8](portraits-8.md) · [9](portraits-9.md) · [10](portraits-10.md) · [11](portraits-11.md) · [12](portraits-12.md) · [13](portraits-13.md) · [14](portraits-14.md) · [15](portraits-15.md) · [16](portraits-16.md) · [17](portraits-17.md) · [18](portraits-18.md) · [19](portraits-19.md) · [20](portraits-20.md) · [21](portraits-21.md) · [22](portraits-22.md) · [23](portraits-23.md) · [24](portraits-24.md) · [25](portraits-25.md) · [26](portraits-26.md) · [27](portraits-27.md) · [28](portraits-28.md) · [29](portraits-29.md) · [30](portraits-30.md) · [31](portraits-31.md) · [32](portraits-32.md) · [33](portraits-33.md) · [34](portraits-34.md) · [35](portraits-35.md) · [36](portraits-36.md)
+[1](portraits.md) · [2](portraits-2.md) · **3** · [4](portraits-4.md) · [5](portraits-5.md) · [6](portraits-6.md) · [7](portraits-7.md) · [8](portraits-8.md) · [9](portraits-9.md) · [10](portraits-10.md) · [11](portraits-11.md) · [12](portraits-12.md) · [13](portraits-13.md) · [14](portraits-14.md) · [15](portraits-15.md) · [16](portraits-16.md) · [17](portraits-17.md) · [18](portraits-18.md) · [19](portraits-19.md) · [20](portraits-20.md) · [21](portraits-21.md) · [22](portraits-22.md) · [23](portraits-23.md) · [24](portraits-24.md) · [25](portraits-25.md) · [26](portraits-26.md) · [27](portraits-27.md) · [28](portraits-28.md) · [29](portraits-29.md) · [30](portraits-30.md) · [31](portraits-31.md) · [32](portraits-32.md) · [33](portraits-33.md) · [34](portraits-34.md) · [35](portraits-35.md)
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
-
-<a id="freestylefly-case-36"></a>
-
-## 品牌徽标设计图
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case36.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case36.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-A photorealistic selfie of a young man with short wavy dark hair and light stubble on an indoor basketball court. He wears a black athletic t-shirt with a white swoosh. He holds a {argument name="ball color" default="green"} basketball featuring a large white {argument name="logo design" default="OpenAI logo"}. The background shows a hardwood floor, black wall pads, and a basketball hoop against a concrete wall. Bright indoor gym lighting with a casual social media aesthetic.
-```
-
-By [@mirochill](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-36)
-
----
-
-<a id="freestylefly-case-43"></a>
-
-## 插画艺术创作图
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case43.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case43.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-{ "type": "character portrait grid", "theme": "{argument name=\"theme\" default=\"Game of Thrones characters\"}", "style": "{argument name=\"art style\" default=\"2D flat illustration, clean line art, comic style, profile view facing right, pale skin with blush\"}", "layout": { "grid": "3x3", "background": "light gray textured", "frame_style": "white rounded-rectangle frames with text labels below each" }, "count": 9, "portraits": [ { "label": "Jon Snow", "description": "black hair half-up, beard, dark fur cloak" }, { "label": "Daenerys Targaryen", "description": "silver braided hair, blue dress" }, { "label": "Tyrion Lannister", "description": "curly brown hair, beard, dark tunic with gold pin" }, { "label": "Cersei Lannister", "description": "blonde braided hair, ornate red and gold dress" }, { "label": "Ned Stark", "description": "brown hair half-up, beard, dark fur cloak" }, { "label": "Arya Stark", "description": "short dark hair half-up, brown tunic, sword hilt" }, { "label": "Jaime Lannister", "description": "short blonde hair, gold armor with lion motif" }, { "label": "Sansa Stark", "description": "red braided hair, blue dress with fur collar" }, { "label": "Theon Greyjoy", "description": "short dark curly hair, dark tunic with kraken pin" } ] }
-```
-
-By [@stark\_nico99](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-43)
-
----
-
-<a id="freestylefly-case-45"></a>
-
-## 人像写实摄影图
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case45.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case45.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-A striking black and white close-up portrait of a {argument name="subject description" default="handsome young Asian man"} with {argument name="hair style" default="messy wet hair sticking to his forehead"}. His face and neck are glistening, covered in highly detailed {argument name="skin texture detail" default="water droplets and sweat"}. He has an intense, melancholic gaze directed off-camera to the left. The lighting is dramatic and high-contrast, emphasizing his sharp jawline, full lips, and specular highlights on the wet skin against a {argument name="background" default="pitch-black background"}. Shot in a photorealistic, high-fashion editorial style with cinematic chiaroscuro.
-```
-
-By [@AoYe999](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-45)
-
----
-
-<a id="freestylefly-case-52"></a>
-
-## 写实摄影风格图
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case52.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case52.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-A realistic photograph of a whiteboard with a highly detailed {argument name="marker color" default="green"} dry-erase marker drawing of {argument name="subject" default="a samurai with a messy topknot and facial hair, hands clasped in prayer"}. The character is drawn in a {argument name="art style" default="detailed manga sketch"} style, shown in profile with eyes closed, wearing a traditional kimono with a katana tucked into his belt. To the left of the character, handwritten text in all-caps reads "{argument name="text line 1" default="VAGABOND"}" with "{argument name="text line 2" default="MUSASHI"}" written directly below it. The whiteboard has a glossy surface with realistic light reflections and glare on the left side, and a thin metallic frame is visible at the bottom edge, giving the impression of an authentic classroom or office environment.
-```
-
-By [@nicdunz](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-52)
-
----
 
 <a id="freestylefly-case-53"></a>
 
@@ -115,22 +51,6 @@ A YouTube thumbnail-style collage for a {argument name="overall mood" default="d
 ```
 
 By [@mirochill](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-111)
-
----
-
-<a id="freestylefly-case-154"></a>
-
-## 写实摄影风格创作
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case154.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case154.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-A photorealistic, high-resolution commercial photograph of a {argument name="car model and color" default="bright blue Alpine A110 R sports car"} parked in the foreground inside a massive aircraft hangar. The car features a black carbon fiber hood, black roof, black alloy wheels, and a front license plate reading "{argument name="license plate text" default="A110 R"}". Directly behind the car, dominating the background, is a {argument name="airplane model" default="white Airbus A320 commercial airliner"} with a blue tail. The hangar has a highly polished, reflective concrete floor that mirrors the car and plane. To the left, a sign on the metal wall reads "{argument name="hangar sign text" default="HANGAR 05 MAINTENANCE"}". The hangar doors are wide open, revealing a bright, overcast sky and a distant cityscape. The lighting is soft and cinematic, highlighting the sleek aerodynamic curves of both vehicles.
-```
-
-By [@AlwaveNazca](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-154)
 
 ---
 
@@ -326,6 +246,86 @@ By [@Shinning1010](https://x.com/Shinning1010/status/2045002808903020962)
 
 ---
 
-[1](portraits.md) · [2](portraits-2.md) · **3** · [4](portraits-4.md) · [5](portraits-5.md) · [6](portraits-6.md) · [7](portraits-7.md) · [8](portraits-8.md) · [9](portraits-9.md) · [10](portraits-10.md) · [11](portraits-11.md) · [12](portraits-12.md) · [13](portraits-13.md) · [14](portraits-14.md) · [15](portraits-15.md) · [16](portraits-16.md) · [17](portraits-17.md) · [18](portraits-18.md) · [19](portraits-19.md) · [20](portraits-20.md) · [21](portraits-21.md) · [22](portraits-22.md) · [23](portraits-23.md) · [24](portraits-24.md) · [25](portraits-25.md) · [26](portraits-26.md) · [27](portraits-27.md) · [28](portraits-28.md) · [29](portraits-29.md) · [30](portraits-30.md) · [31](portraits-31.md) · [32](portraits-32.md) · [33](portraits-33.md) · [34](portraits-34.md) · [35](portraits-35.md) · [36](portraits-36.md)
+<a id="freestylefly-case-305"></a>
+
+## 深夜便利店里的性感霓虹少女
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case305.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case305.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+[中文] 35毫米胶片摄影，带有刺眼的便利店荧光灯照明，混合着外面色彩斑斓的霓虹灯牌，真实的胶片颗粒，高对比度，轻微的偏色，电影感街头编辑风格，亲密的中景镜头，20岁出头性感的华人女性偶像，拥有超逼真精致细腻的东方五官，诱人的杏眼狐眼搭配天然双眼皮，高鼻梁，小巧尖锐的V型下颌线，无瑕的瓷白肌肤带有冷象牙底色以及来自荧光灯的可见高光，细腻的皮肤纹理和微小毛孔，自然清透妆容带有脸颊上的柔和红晕，水润自然的粉唇微张，鼻子和脸颊上散布着微妙的自然雀斑，深棕色的长发扎成凌乱的高马尾，许多松散的发丝垂在脸庞和颈部周围，穿着一件超大号的白衬衫作为唯一的上衣，顶部敞开露出深邃乳沟并在腰部宽松打结，搭配一条极小的黑色百褶迷你裙，赤脚穿着简约的白色拖鞋，在深夜24小时便利店的玻璃门上呈现出诱人随性的倚靠姿势，身体微微拱起，一条腿弯曲，脚搭在门框上，另一条腿伸直，一只手拿着一瓶冰饮，另一只手轻轻拉扯迷你裙的裙摆，极其诱人俏皮却又略显脆弱的目光直视观看者，柔和的鹿眼中充满安静的诱惑与挑逗的微笑，来自店内明亮冷调的荧光灯光混合着来自外面招牌的粉色和蓝色霓虹光芒，玻璃门上真实的反射，模糊的便利店内部，背景中有货架和零食，真实的35毫米胶片调色，带有刺眼的光照和霓虹点缀，极其锐利却又柔和的皮肤渲染，自然的发丝，超大号衬衫和迷你裙上逼真的织物褶皱和垂坠感，无塑料感皮肤，无数字过度锐化，无磨皮，无瑕疵，无痣，无油性皮肤，无水印，无文字，真实的深夜便利店氛围 [English] 35mm film photography with harsh convenience store fluorescent lighting mixed with colorful neon signs from outside, authentic film grain, high contrast, slight color cast, cinematic street editorial style, intimate medium shot, early 20s sexy Chinese female idol with ultra-realistic delicate refined Chinese features, seductive almond-shaped fox eyes with natural double eyelids, high nose bridge, small sharp V-shaped jawline, flawless porcelain skin with cool ivory undertone and visible specular highlights from fluorescent light, subtle skin texture and micro pores, natural dewy makeup with soft flush on cheeks, glossy natural pink lips slightly parted, subtle natural freckles across nose and cheeks, long dark brown hair in a messy high ponytail with many loose strands falling around face and neck, wearing an oversized white button-up shirt as the only top, unbuttoned at the top with deep cleavage and loosely tied at the waist, paired with a tiny black pleated mini skirt, barefoot in simple white slides, seductive casual leaning pose against the glass door of a 24-hour convenience store at late night, body slightly arched, one leg bent with foot resting against the door frame, the other leg straight, one hand holding a bottle of iced drink, the other hand lightly pulling the hem of her mini skirt, intensely seductive playful yet slightly vulnerable gaze straight at the viewer with soft doe eyes full of quiet temptation and teasing smile, bright cold fluorescent store light from inside mixed with pink and blue neon glow from outside signs, realistic reflections on glass door, blurred convenience store interior with shelves and snacks in background, authentic 35mm film color grading with harsh lighting and neon accents, extremely sharp yet soft skin rendering, natural hair strands, realistic fabric wrinkles and drape on the oversized shirt and mini skirt, no plastic skin, no digital over-sharpening, no airbrushing, no blemishes, no moles, no oily skin, no watermark, no text, authentic late-night convenience store atmosphere
+```
+
+By [@BubbleBrain](https://x.com/BubbleBrain/status/2045167461147042202)
+
+---
+
+<a id="freestylefly-case-317"></a>
+
+## 震撼视觉的深红影棚广角美妆大片
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case317.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case317.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+[中文] 照片级真实感的大胆美妆宣传活动，使用上传的模特作为精确的身份参考。不做面部改变，不做平滑处理。 场景：深红色饱和的摄影棚环境，具有高对比度的地板图案或光滑表面。 产品：产品被握持或放置在极其靠近镜头的位置，由于透视关系显得巨大。 模特姿势：俏皮或自信的微笑，手臂完全伸向相机，手指因广角镜头而略微变形。透过太阳镜的强烈眼神交流或自然凝视。 相机：超广角 20–28mm 美学，动态前景夸张，浅至中等景深。 灯光：强有力的商业照明，具有清晰的高光和反射，锐利的包装边缘，充满活力的调色。超精细的皮肤纹理和织物真实感。 [English] Photorealistic bold beauty campaign using uploaded model as exact identity reference. No facial changes, no smoothing. Scene: deep red saturated studio environment with high-contrast floor pattern or glossy surface. Product: the product held or positioned extremely close to the lens, appearing large due to perspective. Model pose: playful or confident smile, arm fully extended toward camera, fingers slightly distorted by wide lens. Strong eye contact through sunglasses or natural gaze. Camera: ultra-wide 20–28mm aesthetic, dynamic foreground exaggeration, shallow-to-medium depth of field. Lighting: punchy commercial lighting with defined highlights and reflections, crisp packaging edges, vibrant color grading. Hyper-detailed skin texture and fabric realism.
+```
+
+By [@Maercihh](https://x.com/Maercihh/status/2026941078885310750)
+
+---
+
+<a id="freestylefly-case-353"></a>
+
+## 品牌口红推荐报告信息图
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case353.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case353.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+一、系统角色 你是一个专业美妆顾问 + 人脸分析系统 + 品牌视觉设计系统。 你的任务是：基于用户上传自拍与指定口红品牌，生成一张具有品牌调性的“口红推荐报告信息结构图”。 二、输入参数 用户图像：{用户自拍} 品牌：{口红品牌，如 Dior / YSL / Armani / Chanel / TF} 风格偏好（可选）：{通勤 / 温柔 / 气场 / 氛围感 / 显白优先} 推荐数量：3–5 三、品牌视觉层（新增核心模块） 根据 {品牌} 自动构建视觉风格（Brand Visual Identity），提取品牌调性，例如： Dior： 优雅、高级、法式、灰白 + 银色、柔光 YSL： 黑金、性感、强对比、时尚编辑感 Armani： 低饱和、雾面、克制、灰调高级感 Chanel： 极简黑白、高级、理性、结构清晰 Tom Ford： 深色、高对比、奢华、电影感 视觉应用到海报： 1. 主色调（背景微变化，不是大面积铺色） 2. 强调色（用于色号标题/细线/小元素） 3. 光影风格（柔光 / 强对比 / 冷调 / 暖调） 4. 字体气质（优雅 / 现代 / 冷感 / 力量感） 四、分析层 对用户进行分析： - 肤色：冷 / 暖 / 中性（+ 明度） - 气质：清冷 / 温柔 / 明艳 / 干净 / 成熟 - 唇部特征：薄 / 厚 / 唇色基础 - 妆容状态：素颜 / 日常 / 精致 输出一句总结：「更适合 {色系} + {饱和度} + {质地} 的口红方向」 五、推荐层（增强差异） 从 {品牌} 推荐 3–5 个色号： 每个包含： - 色号名称（#999） - 色系（正红 / 豆沙 / 枫叶 / 奶茶 / 玫瑰） - 上脸效果（显白 / 提气色 / 氛围感 / 气场增强） - 场景（逛街 / 通勤 / 聚餐 / 约会 / 宴会） 要求：每个色号“风格明确区分”（一个日常、一个气场、一个氛围感等） 六、信息结构图 生成竖版信息结构图 整体风格：美妆时尚大片质感 + 结构化信息可视化排版 + 品牌视觉体系深度融合 极简但不单调，高级但有视觉层次 【整体布局】 左上：用户输入区 右上：分析结论 中部：试色矩阵（核心） 底部：总结 ## 1️⃣ 左上（用户区） 用户自拍（真实质感） + 小标题：「肤色分析」 + 一句话结论：「适合低饱和玫瑰调，避免高荧光色」 极细品牌色线条（如 YSL 金线 / Dior 灰线） ## 2️⃣ 中部（核心试色矩阵） 这是视觉重点区域（占比60%以上） 展示方式：将 3–5 个色号以“人脸试色对比”的形式排列： 每一列 = 一个色号 每个色号包含： - 小型人脸图（同一张脸，不同唇色） - 色号名称（如 #999） - 色系标签（如 Classic Red） - 一句话效果说明 要求：所有人脸保持一致，仅唇色变化，真实试色效果（lip color try-on），肤质真实，不塑料，光影统一。 排列方式：横向排布 或 网格排布（整齐但不死板） 品牌增强点： - Dior：轻柔渐变背景 + 柔光阴影 - YSL：更强对比 + 黑色细分割线 - Armani：整体灰调统一，低对比 - Chanel：严格对齐，极简黑白 - TF：局部暗背景 + 高光强调 ## 3️⃣ 每个色号模块 包含： 色号名（突出） 色系标签 一句推荐语 场景标签（逛街/通勤/聚餐/约会/宴会等） 品牌化处理： - 用“品牌强调色”做： - 色号标题 - 细分隔线 - 小icon （不是色块，而是“精致点缀”） ## 4️⃣ 底部总结 一段“有判断力的建议”， 例如：「日常建议选择低饱和豆沙色提升气色，重要场合可使用正红增强气场」 或：「你的肤色更适合柔和玫瑰调，避免高荧光色系」 但不要完全引用以上2个例子的建议，根据用户实际肤色来建议。 品牌增强：底部可加极淡品牌风格横线 / 极小品牌字样（非logo） 七、UI设计 - 不使用圆角卡片 UI - 不使用厚边框 1. 引入“层级对比”： - 主体亮 - 次要信息弱 2. 使用“微对比”： - 细线 - 灰度差 - 字重变化 3. 加入“节奏感”： - 疏密变化 - 模块呼吸 4. 品牌点缀： - 只用 5% 强调 - 不破坏极简结构 八、图像质量 真实皮肤质感 唇色精准 统一光影 商业级美妆摄影 8K ——— 品牌：YSL
+```
+
+By [@liyue\_ai](https://x.com/liyue_ai/status/2048667226195317219)
+
+---
+
+<a id="freestylefly-case-356"></a>
+
+## 过度思考超现实街头 Campaign
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case356.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case356.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+Ultra-realistic conceptual portrait of a young woman with long wavy hair and soft defined features, wearing rose-tinted rectangular sunglasses, an oversized ivory cropped t-shirt, fitted light-wash denim jeans, and clean white sneakers. She is sitting casually with a confident yet relaxed posture. The twist: she is seated on a large, hyper-realistic version of her own detached head placed on the ground. The head is scaled up, lying sideways, with the same facial features and sunglasses, creating a surreal self-reflection concept. Composition: centered, full-body shot, neutral studio background with soft blush and cream tones, minimal aesthetic. Clean negative space. Typography integrated into the background: Handwritten-style text at the top: "OVERTHINKING" Below it, smaller text: "TRAPPED IN MY OWN HEART" with "HEART" crossed out Large, rough, scribbled text in deep pink: "MIND" Lighting: soft diffused studio lighting, subtle shadows, high detail, fashion editorial quality. Style: blend of surrealism and modern luxury streetwear campaign, pastel feminine aesthetic, minimal yet expressive, high-resolution, 8k, sharp focus, natural skin texture. Mood: introspective, emotional weight, identity, self-awareness, quiet confidence.
+```
+
+By [@AIwithAliya](https://x.com/AIwithAliya/status/2049044716642316758)
+
+---
+
+<a id="freestylefly-case-357"></a>
+
+## 鱼眼镜面复古咖啡馆人像
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case357.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case357.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+A fish-eye lens close-up of [your photo as reference] sipping from a teal/turquoise coffee mug, leaning forward intimately toward camera. Shot through or near a round mirror. Retro café interior with glossy teal subway tiles, vintage appliances, pendant lights. Black t-shirt, yellow-tinted round glasses. Warm moody tones.
+```
+
+By [@harboriis](https://x.com/harboriis/status/2049044698900361241)
+
+---
+
+[1](portraits.md) · [2](portraits-2.md) · **3** · [4](portraits-4.md) · [5](portraits-5.md) · [6](portraits-6.md) · [7](portraits-7.md) · [8](portraits-8.md) · [9](portraits-9.md) · [10](portraits-10.md) · [11](portraits-11.md) · [12](portraits-12.md) · [13](portraits-13.md) · [14](portraits-14.md) · [15](portraits-15.md) · [16](portraits-16.md) · [17](portraits-17.md) · [18](portraits-18.md) · [19](portraits-19.md) · [20](portraits-20.md) · [21](portraits-21.md) · [22](portraits-22.md) · [23](portraits-23.md) · [24](portraits-24.md) · [25](portraits-25.md) · [26](portraits-26.md) · [27](portraits-27.md) · [28](portraits-28.md) · [29](portraits-29.md) · [30](portraits-30.md) · [31](portraits-31.md) · [32](portraits-32.md) · [33](portraits-33.md) · [34](portraits-34.md) · [35](portraits-35.md)
 
 [← Home](../README.md)

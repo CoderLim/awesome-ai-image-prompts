@@ -6,70 +6,6 @@
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
-<a id="freestylefly-case-275"></a>
-
-## 一张采用分层蒙太奇构图的电影海报
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case275.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case275.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-[中文] “一张采用分层蒙太奇构图的电影海报。背景为日落时分的海滨小镇，平静的海面倒映着耀眼的日光眩光，薄雾笼罩的天空中有远处飞鸟，沿海公路旁立着电线杆剪影。左侧中景处，一位身着深灰色外套、留着深色卷发的中年男子站在混凝土海堤边，神情忧郁地低头凝视，被傍晚的阳光逆光勾勒轮廓。右侧前景主体为一张大幅特写年轻女子侧脸肖像，她望向右侧，身穿带白色条纹的深色水手校服，湿润的黑发贴在脸颊，柔和漫射光线下，一滴泪珠从她脸颊滑落。画面下方中央前景处，一只柴犬抬头朝右侧望去，红棕色毛发被温暖的轮廓光点亮。画面最底端为一条横向电影胶片，内含五幅独立矩形场景缩略图：女孩与柴犬在海滩、女孩骑车望向海面、女孩与男子坐在室内桌前、男子与女孩在海滩面对面站立、女孩拥抱柴犬的特写。画面叠加指定文字：左上角为深青绿色大号衬线字体标题《风间静语》，下方副标题为「—— 致那日的你 ——」；标题下方为小号深色衬线正文：“逝去之物，不复归来。然而，只要心灵稍稍相连，我们便能再度直面明日。” 画面右侧中部为深色衬线字体文字：“曾有一段时光，是你教会我如何生活。我永不会忘。” 左下角为大号白色文字：“10 月 31 日 周五 影院上映”。右下角为小号白色无衬线字体演职人员表：“主演：福波真子 / 桐嶋秀作 原作与剧本：柴野麻吕 导演：今仓七海 主题曲：SyVa《看得见海的地方》（Dogstar★唱片） 制作：《夕凪之尾》影视伙伴 制作公司：DABUSHIBANU-NU 发行：GOODSHIBALERS ©2026《夕凪之尾》影视伙伴”。 分段提示词： 图层索引：0 片段：“背景为日落时分的海滨小镇，平静海面倒映耀眼日光眩光，薄雾天空中有远处飞鸟，沿海公路旁有电线杆剪影。” 图层索引：1 片段：“左侧中景处，身着深灰色外套、留深色卷发的中年男子站在混凝土海堤边，神情忧郁低头，被傍晚阳光逆光照射。” 图层索引：2 片段：“右侧前景主体为大幅特写年轻女子侧脸肖像，她望向右侧，身穿带白条纹的深色水手校服，湿润黑发贴脸，柔和漫射光下一滴泪珠滑落脸颊。” 图层索引：3 片段：“画面下方中央前景处，一只柴犬抬头望向右侧，红棕色毛发被温暖轮廓光点亮。” 图层索引：4 片段：“画面最底端为横向电影胶片，内含五幅独立矩形场景缩略图：女孩与柴犬在海滩、女孩骑车望向水面、女孩与男子坐在室内桌前、男子与女孩在海滩面对面、女孩拥抱柴犬特写。” 图层索引：[5,6,7,8] 片段：“画面叠加指定文字：左上角为深青绿色大号衬线字体《风间静语》，下方副标题「—— 致那日的你 ——」；其下小号深色衬线正文：“逝去之物，不复归来。然而，只要心灵稍稍相连，我们便能再度直面明日。” 右侧中部深色衬线文字：“曾有一段时光，是你教会我如何生活。我永不会忘。” 左下角大号白色文字：“10 月 31 日 周五 影院上映”。右下角小号白色无衬线字体演职信息：“主演：福波真子 / 桐嶋秀作 原作与剧本：柴野麻吕 导演：今仓七海 主题曲：SyVa《看得见海的地方》（Dogstar★唱片） 制作：《夕凪之尾》影视伙伴 制作公司：DABUSHIBANU-NU 发行：GOODSHIBALERS ©2026《夕凪之尾》影视伙伴”。 负面提示词： “平光照明，无质感表面，对称构图，底部留白空荡，文字缺失，翻译文字，改写文字，3D 渲染，卡通风格，高对比生硬阴影，干涩头发，明亮欢快表情” [English] A cinematic movie poster utilizing a layered montage composition. In the background, a coastal town at sunset with calm ocean water reflecting a glowing sun glare, distant birds in a hazy sky, and the silhouette of utility poles along a coastal road. In the left midground, a middle-aged man with dark wavy hair in a dark grey jacket stands near a concrete sea wall, looking downward with a melancholic expression, backlit by the late afternoon sun. Dominating the right foreground is a large, closely cropped profile portrait of a young woman looking right; she wears a dark school sailor uniform with white stripes, has wet dark hair clinging to her face, and a single tear rolls down her cheek under soft, diffuse lighting. In the lower center foreground, a Shiba Inu dog looks upwards toward the right, its reddish-brown fur catching warm rim lighting. Along the very bottom edge is a horizontal film strip of five distinct rectangular scene thumbnails: a dog and girl on a beach, a girl on a bicycle looking at the water, a girl and man sitting at an indoor table, a man and girl standing facing each other on a beach, and a close-up of a girl hugging a Shiba Inu. Overlaid on the image is specific text. In the top left, large dark teal serif text reads 'The Quiet Between Winds' with a subtitle below reading '— To You, That Day —'. Below that, smaller dark serif body text reads 'What is lost will not return. And yet, when hearts connect, even just a little, we can face tomorrow again.'. On the mid-right side, dark serif text reads 'There was a time when you taught me how to live. I won't forget it.'. In the bottom left, large white text reads 'OCTOBER 31 FRI. IN THEATERS'. In the lower right corner, small white sans-serif credit text reads 'Starring: Mako Fukunami / Shusaku Kirimine Original Story & Screenplay: Shibano Maruo Director: Nanami Imakura Theme Song: SyVa \"Umi no Mieru de\" (Dogstar★RECORDS) Production: \"Yūnagi no Shippo\" Film Partners Production Company: DABUSHIBANU-NU Distribution: GOODSHIBALERS ©2026 \"Yūnagi no Shippo\" Film Partners'." segmented: - layer_index: 0 segment: "In the background, a coastal town at sunset with calm ocean water reflecting a glowing sun glare, distant birds in a hazy sky, and the silhouette of utility poles along a coastal road." - layer_index: 1 segment: "In the left midground, a middle-aged man with dark wavy hair in a dark grey jacket stands near a concrete sea wall, looking downward with a melancholic expression, backlit by the late afternoon sun." - layer_index: 2 segment: "Dominating the right foreground is a large, closely cropped profile portrait of a young woman looking right; she wears a dark school sailor uniform with white stripes, has wet dark hair clinging to her face, and a single tear rolls down her cheek under soft, diffuse lighting." - layer_index: 3 segment: "In the lower center foreground, a Shiba Inu dog looks upwards toward the right, its reddish-brown fur catching warm rim lighting." - layer_index: 4 segment: "Along the very bottom edge is a horizontal film strip of five distinct rectangular scene thumbnails: a dog and girl on a beach, a girl on a bicycle looking at the water, a girl and man sitting at an indoor table, a man and girl standing facing each other on a beach, and a close-up of a girl hugging a Shiba Inu." - layer_indices: [5, 6, 7, 8] segment: "Overlaid on the image is specific text. In the top left, large dark teal serif text reads 'The Quiet Between Winds' with a subtitle below reading '— To You, That Day —'. Below that, smaller dark serif body text reads 'What is lost will not return. And yet, when hearts connect, even just a little, we can face tomorrow again.'. On the mid-right side, dark serif text reads 'There was a time when you taught me how to live. I won't forget it.'. In the bottom left, large white text reads 'OCTOBER 31 FRI. IN THEATERS'. In the lower right corner, small white sans-serif credit text reads 'Starring: Mako Fukunami / Shusaku Kirimine Original Story & Screenplay: Shibano Maruo Director: Nanami Imakura Theme Song: SyVa \"Umi no Mieru de\" (Dogstar★RECORDS) Production: \"Yūnagi no Shippo\" Film Partners Production Company: DABUSHIBANU-NU Distribution: GOODSHIBALERS ©2026 \"Yūnagi no Shippo\" Film Partners'." negative: "flat lighting, untextured surfaces, symmetrical composition, empty bottom margin, missing text, translated text, paraphrased text, 3D render, cartoon, high-contrast harsh shadows, dry hair, bright cheerful expressions
-```
-
-By [@old\_pgmrs\_will](https://x.com/old_pgmrs_will/status/2045440101359198302)
-
----
-
-<a id="freestylefly-case-276"></a>
-
-## 红绸幻化壮阔国潮羊城
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case276.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case276.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-[中文] 一张充满新春喜庆氛围但不失高雅格调的 2026 城市宣传海报。 双重曝光，构图延续了S型的流动感； 在纯白的纹理背景右下角，一个身穿中国传统服饰的微缩人物正在挥舞着一条长长的红色丝绸舞带，这条红绸在空中舞动，不仅展现出丝绸的柔顺质感，更在向左上方飘动的过程中，奇幻地变形成了一条壮丽的山脉河流。 在这条"河流"中，叠加了一个有山有海河的广州城市手绘图，国潮，景色尽在眼底，壮阔雄伟，令人震撼。 广州的地标建筑(广州塔，珠江新城建筑群，珠江, 广州城里古建筑，游轮，白云山）。 云雾环绕，仙气缥缈，色彩丰富，结构复杂，细节丰富，但因为大面积的留白，画面依然显得清新脱俗，左下角排版着"SPRING 2026"和竖排的宣传语，整体寓意"千年商都，魅力广州"。 文字排版优美，大方，字迹清晰完整，尺寸9:16。 [English] A 2026 city promotional poster full of a festive Chinese New Year atmosphere yet maintaining an elegant style. Double exposure, the composition continues the flowing sense of an S-shape; In the lower right corner of the pure white textured background, a miniature figure wearing traditional Chinese clothing is waving a long red silk dance ribbon, this red silk dances in the air, not only showing the smooth texture of the silk, but also in the process of drifting to the upper left, magically transforming into a magnificent mountain range and river. In this "river", a hand-drawn map of Guangzhou city with mountains, sea, and rivers is superimposed, Guochao, the scenery is fully in view, magnificent and majestic, breathtaking. Guangzhou's landmark buildings (Canton Tower, Pearl River New City building complex, Pearl River, ancient buildings in Guangzhou city, cruise ships, Baiyun Mountain). Surrounded by clouds and mist, ethereal and misty, rich in colors, complex in structure, rich in details, but because of a large area of negative space, the picture still appears fresh and refined, the lower left corner is typeset with "SPRING 2026" and vertical promotional slogans, the overall implication is "Millennium Commercial Capital, Charming Guangzhou". Beautiful and generous typography, clear and complete handwriting, aspect ratio 9:16.
-```
-
-By [@liyue\_ai](https://x.com/liyue_ai/status/2045332620352119274)
-
----
-
-<a id="freestylefly-case-278"></a>
-
-## 阿马尔菲海岸复古旅行海报
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case278.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case278.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-[中文] 现代铅笔插画，意大利阿马尔菲海岸复古旅行海报插画，全景海岸悬崖公路场景，经典1960年代白色汽车沿着弯曲的海滨公路行驶，带有小帆船的深蓝色地中海，色彩缤纷的粉彩山腰村庄，带有柔软云朵的明亮蓝天，带有鲜艳黄色柠檬的柠檬树枝框定前景，温暖的夏日阳光，大胆鲜艳的色彩，复古1950年代旅行海报风格，电影级构图，高细节，丝网印刷质感，图形插画。手绘风格，带有松散笔触和清晰轮廓的插画。高对比度调色板，保持背景与元素之间的色彩和谐。现代与装饰性美学。 [English] Modern pencil illustration of Vintage travel poster illustration of the Amalfi Coast, Italy, panoramic coastal cliff road scene, classic 1960s white car driving along a curved seaside road, deep blue Mediterranean sea with small sailboats, colorful pastel hillside village, bright blue sky with soft clouds, lemon tree branches with vibrant yellow lemons framing the foreground, warm summer sunlight, bold vibrant colors, retro 1950s travel poster style, cinematic composition, high detail, screen print texture, graphic illustration. Hand-drawn style, illustration with loose strokes and defined contours. High-contrast color palette, maintaining chromatic harmony between background and elements. Contemporary and decorative aesthetic.
-```
-
-By [@WolfRiccardo](https://x.com/WolfRiccardo/status/2044562722491121718)
-
----
-
-<a id="freestylefly-case-283"></a>
-
-## 小恶魔莉莉香超任游戏海报
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case283.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case283.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-[中文] が「小悪魔リリムリリィちゃんが　スーパーファミコンのゲームだったときのポスターを考えて」に　画像数枚だけで このクオリティ　細かい説明呪文なし　すごいぜ！ [English] that "Think of a poster when the little devil Lilim Lily-chan was a Super Famicom game" with just a few images this quality without any detailed explanation spells is amazing!
-```
-
-By [@lilimliliychan](https://x.com/lilimliliychan/status/2045114760937804187)
-
----
-
 <a id="freestylefly-case-291"></a>
 
 ## 极致奢华的弹珠店梦幻宣传单
@@ -323,6 +259,70 @@ A fictional 1980s magazine advertisement poster introducing “Claude” as a re
 ```
 
 By [@Shinning1010](https://x.com/Shinning1010/status/2051410804805599436)
+
+---
+
+<a id="freestylefly-case-396"></a>
+
+## 龙类物种复古百科海报
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case396.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case396.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+Create a highly detailed A4 vertical vintage fantasy encyclopedia style dragon species poster. Style: medieval creature atlas, ancient mythology manuscript, museum fantasy archive, old explorer journal. Main subject: a massive hyper realistic dragon standing proudly in center with detailed scales, smoke from nostrils, giant wings partially open. Background: stormy mountains, ancient ruins, fog layers, burnt parchment texture. Color palette: dark emerald, ash gray, faded gold, ancient brown, deep crimson. Include infographic sections: Species Type, Fire Capacity, Wing Structure, Temperament Scale, Habitat Region, Battle Strength, Ancient Legends, Scale Patterns, Skull Diagram, Hunter Notes. Add: engraved fantasy sketches, ancient symbols, old map textures, ink grain, collectible poster layout. NO modern UI. NO futuristic elements. NO flat minimalism. Ultra detailed. 8K printable masterpiece.
+```
+
+By [@sha\_zdiii](https://x.com/sha_zdiii/status/2052237839119835280)
+
+---
+
+<a id="freestylefly-case-400"></a>
+
+## 多风格签名选择海报
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case400.png"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case400.png" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+你是一个高端签名设计系统 + 风格人格视觉系统。 任务： 仅基于用户输入的「姓名」，生成一张「多风格签名选择海报（卡片式结构）」。 目标是把名字转译为具有笔势、气质与力量感的签名设计系统，让用户产生选择欲、认同感和分享欲。 输入信息： 姓名：[输入你的昵称] 禁止要求额外信息，必须自动完成气质与风格推断。 隐藏执行逻辑： 1. 字形与笔势分析： - 结构：疏密、横竖比例、重心位置 - 节奏：连贯、停顿、爆发、收束 - 适配：连笔程度、草写程度、变形空间 2. 气质推断： 清冷、张扬、克制、商业、文艺、松弛、锋利、高级。 3. 生成 6 个签名分支： - 全部适配该姓名 - 每一个都有明确书写风格 - 差异来自笔势、节奏、结构和收笔方式 整体画面： 9:16 竖版海报，极简、高级、干净、有设计感、适合传播。 背景使用纯白或极浅灰渐变，留白不少于 40%。 顶部标题区： 主标题可用： 「你的名字，适合哪种签名？」 或： 「[姓名] · 签名风格选择」 副标题： 「不同笔势，不同气场」 排版为黑色与灰色，高级字距，留白充足。 签名卡片区域： 使用整齐网格卡片布局，推荐 2 列 × 3 行，共 6 个卡片。 每个卡片统一尺寸、统一间距、整体对齐干净。 卡片样式： - 轻微圆角 8-16px - 无明显边框，或极细描边 - 极轻阴影 - 背景为纯白微差、极浅灰，或轻微宣纸 / 磨砂质感 视觉目标接近高级杂志排版，避免强 UI 感、厚卡片和 App 组件感。 签名生成规则： 签名必须基于书写动作生成，避免只做字体变形。 每一个签名风格在生成前，先确定一套明确书写行为规则： 1. 起笔方式：轻触起笔、重压起笔、直接横扫、从左下进入或从中段切入。 2. 连笔结构：前两个字强连笔后面断开、全连笔一气呵成、只连接偏旁。 3. 节奏变化：快到慢再收、慢到爆发再拉伸、或均匀节奏。 4. 结构变形：横向拉长、垂直压缩、整体右倾或左倾、字间重叠或错位。 5. 收笔设计：尾笔长甩、突然收断、回钩、渐隐收尾。 6 种签名方向： 1. 极简理性：接近品牌签名 2. 狂放张力：强烈连笔和拉伸 3. 松弛随性：手写感强 4. 东方行草：飞白和墨感 5. 锋利结构：几何感和断裂 6. 实验风格：允许部分不可读，但需要强设计感 色彩策略： 整体以黑、灰、白为主。每个卡片允许一个极轻微点缀色，例如冷灰蓝、香槟金、墨黑、暖棕、深绿。 避免大面积色块和花哨配色。 底部互动区： 底部居中加入小号灰字： 「选一个，作为你的专属签名。」 或： 「你是第几种？」 光影与质感： 高级棚拍光、柔光环境、细腻阴影、干净空气感。 质感参考 Apple 发布会视觉和高端品牌视觉。 禁止项： 不要字体拼贴，不要普通书法字，不要 UI 卡片风，不要颜色杂乱，不要签名太小，不要排版松散，不要缺乏笔势，不要模板拼接感。 最终目标： 生成一张高级、干净、有秩序、有笔势张力的 6 风格签名选择海报。 用户一眼能选出最像自己的一款签名。
+```
+
+By [GitHub prompt / @liyue\_ai](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-400)
+
+---
+
+<a id="freestylefly-case-401"></a>
+
+## Lost in 国家旅行海报拼贴
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case401.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case401.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+Create a stylized travel poster / graphic collage for [country]. The main subject should be a stylish international tourist visiting [country], clearly presented as a traveler and not a local resident. Show the tourist wearing modern travel fashion, with details such as a camera, backpack, sunglasses, map, or suitcase, exploring the culture and atmosphere of [country]. Place the tourist in a dynamic composition surrounded by iconic architecture, streets, landscapes, landmarks, transportation, food, signage, and cultural elements associated with [country]. Blend realistic character detail with a graphic collage background made of layered paper textures, torn poster edges, sticker elements, halftone dots, editorial typography, and bold geometric shapes. Include authentic visual motifs from [country], but keep the tourist's appearance and styling globally fashionable and clearly foreign to the setting. Add a large readable headline: "LOST IN [country]". Modern, artistic, premium editorial travel poster aesthetic, balanced layout, print-worthy composition.
+```
+
+By [@SadiaMalik182 / aiiStudio prompt](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-401)
+
+---
+
+<a id="freestylefly-case-406"></a>
+
+## 巨型游戏手柄街头 Campaign
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case406.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case406.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+Luxury futuristic streetwear campaign poster featuring a confident athletic girl sitting on a gigantic oversized retro gaming controller instead of sunglasses, clean editorial advertising aesthetic, massive bold typography in the background saying “ENERGY”, glossy reflective floor, cinematic studio lighting, pastel neon color palette with lavender, silver, and soft cyan tones. The girl has curly shoulder-length hair, relaxed confident attitude, wearing an oversized white graphic T-shirt, loose black athletic shorts, high white socks, and modern sneakers. Casual sporty fashion styling, natural makeup, youthful Gen-Z streetwear vibe. She is casually seated on top of the giant gaming controller with one leg hanging down and one knee raised, looking away from the camera with cool effortless confidence. The oversized gaming controller is ultra detailed with futuristic buttons, glowing accents, premium matte materials, and soft LED reflections. Minimal luxury branding on the controller side. Giant cream-colored typography fills the background vertically in a bold condensed font. Environment: seamless studio backdrop with glossy floor reflections, high-end commercial fashion photography, ultra realistic textures, dramatic shadows, premium editorial layout, modern tech-fashion advertisement aesthetic, symmetrical composition, luxury product campaign style, 4:3 aspect ratio, hyper detailed, photorealistic.
+```
+
+By [@AIwithkhan](https://x.com/AIwithkhan/status/2052973449107349725)
 
 ---
 

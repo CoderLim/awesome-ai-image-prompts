@@ -22,38 +22,6 @@ By [@Diplomeme](https://x.com/Diplomeme/status/2103429083652821045)
 
 ---
 
-<a id="evolink-illustration-case-159"></a>
-
-## Pet Cube Papercraft Design
-
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2101353492598145024.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2101353492598145024.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Use my uploaded pet photo as the only source of the animal’s appearance. Create a realistic printable papercraft cube toy template of my pet, preserving 100% its identity and unique features: fur color, fur pattern, eyes, face shape, ears, body proportions, markings and expression. Transform my pet into a handmade paper craft 3D model (low-poly cube style) like a DIY papercraft template. Show the unfolded cut-out template pieces laid flat on a white background: head, body, legs, ears and tail separated, with folding lines, tabs and cutting edges clearly visible. The printed texture on the paper pieces must use my pet’s real fur texture and colors, so when assembled it becomes a small cube-shaped 3D figure of my exact pet. Include: cube-shaped head with my pet’s real face on it cube-shaped body with realistic fur texture four legs matching my pet’s appearance ears with correct shape and inner ear details tail matching my pet’s size and color pattern Style: realistic papercraft template, high-quality product photography, clean white background, detailed printable craft design, sharp edges, realistic fur texture printed on paper. Do not change my pet’s appearance. Do not turn it into a different animal, cartoon, plush toy or generic cat/dog. It must look like my actual pet converted into a cube papercraft model
-```
-
-By [@icreatelife](https://x.com/icreatelife/status/2101353512210710690)
-
----
-
-<a id="freestylefly-case-145"></a>
-
-## 综合应用场景图
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case145.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case145.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-A {argument name="platform" default="Taobao"} product detail page for {argument name="robot model" default="T-800 robot"}, displaying: front, side, and back three-view drawings of the robot, product price, product details, functions, and usage scenarios, etc.
-```
-
-By [@alanlovelq](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-145)
-
----
-
 <a id="freestylefly-case-150"></a>
 
 ## 品牌徽标设计图
@@ -115,22 +83,6 @@ By [@AmberPromptai](https://github.com/freestylefly/awesome-gpt-image-2/blob/099
 ```
 
 By [@onlyhuman028](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-159)
-
----
-
-<a id="freestylefly-case-178"></a>
-
-## 亚马逊详情图设计
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case178.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case178.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-[中文] 生成一套亚马逊 A+=详情图 [English] Generate a set of Amazon A+= detail images
-```
-
-By [@xin\_pai88825](https://x.com/xin_pai88825/status/2046576100592201946)
 
 ---
 
@@ -323,6 +275,54 @@ Food photography, grilled beef,grilled vegetables,in a luxurious Michelin kitche
 ```
 
 [Source](https://prompthero.com/prompt/4aa1b0c5258-midjourney-51-food-photography-grilled-beefgrilled-vegetablesin-a-luxurious-michelin-kitchen-style-studio-lighting-depth-of-field-ultra-detailed-q-1)
+
+---
+
+<a id="prompthero-7d8a0035557"></a>
+
+## Detailed shot, Aesop&\#39;s Parsley Seed Anti-Oxidant S\.\.\.
+
+<a href="https://cdn.prompthero.com/fp703hcf89q9i3gpvybb9m6xsedy-midjourney-6-more-info-wwwgraytheorystudiocom-httpswwwinstagramcomspacemakergrayve-httpspromptbasecomprofilespacemakergrayve-detailed-shot-aesops-parsley-seed-anti-oxidant-serum-nikon-z7-ii-emphasizing-the-serums-elegant-packaging-and-organic-appeal-in.png"><img src="https://cdn.prompthero.com/fp703hcf89q9i3gpvybb9m6xsedy-midjourney-6-more-info-wwwgraytheorystudiocom-httpswwwinstagramcomspacemakergrayve-httpspromptbasecomprofilespacemakergrayve-detailed-shot-aesops-parsley-seed-anti-oxidant-serum-nikon-z7-ii-emphasizing-the-serums-elegant-packaging-and-organic-appeal-in.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+Detailed shot, Aesop's Parsley Seed Anti-Oxidant Serum, Nikon Z7 II, emphasizing the serum's elegant packaging and organic appeal, in a warm, soft light setting
+```
+
+By [@Grayve](https://prompthero.com/prompt/7d8a0035557-midjourney-6-more-info-wwwgraytheorystudiocom-httpswwwinstagramcomspacemakergrayve-httpspromptbasecomprofilespacemakergrayve-detailed-shot-aesops-parsley-seed-anti-oxidant-serum-nikon-z7-ii-emphasizing-the-serums-elegant-packaging-and-organic-appeal-in)
+
+---
+
+<a id="prompthero-7e5e0a92eae"></a>
+
+## Close-up double cheeseburger, golden-brown sesame \.\.\.
+
+<a href="https://cdn.prompthero.com/vbkyax3506rh6ovs332scalap15k-midjourney-61-close-up-double-cheeseburger-golden-brown-sesame-seed-bun-melted-cheddar-cheese-juicy-double-patties-fresh-lettuce-ripe-tomato-slices.png"><img src="https://cdn.prompthero.com/vbkyax3506rh6ovs332scalap15k-midjourney-61-close-up-double-cheeseburger-golden-brown-sesame-seed-bun-melted-cheddar-cheese-juicy-double-patties-fresh-lettuce-ripe-tomato-slices.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+Close-up double cheeseburger, golden-brown sesame seed bun, melted cheddar cheese, juicy double patties, fresh lettuce, ripe tomato slices, detailed texture, appetizing
+```
+
+[Source](https://prompthero.com/prompt/7e5e0a92eae-midjourney-61-close-up-double-cheeseburger-golden-brown-sesame-seed-bun-melted-cheddar-cheese-juicy-double-patties-fresh-lettuce-ripe-tomato-slices)
+
+---
+
+<a id="prompthero-8c4cafda9b2"></a>
+
+## A digitally enhanced image of a collection of gems\.\.\.
+
+<a href="https://cdn.prompthero.com/8x5mvvt60s0ykdh15r1s5fdtnj2u-chatgpt-image-gpt-4o-a-digitally-enhanced-image-of-a-collection-of-gemstones-creating-a-mesmerizing-and-luxurious-scene-the-gemstones-are-glowing-with.png"><img src="https://cdn.prompthero.com/8x5mvvt60s0ykdh15r1s5fdtnj2u-chatgpt-image-gpt-4o-a-digitally-enhanced-image-of-a-collection-of-gemstones-creating-a-mesmerizing-and-luxurious-scene-the-gemstones-are-glowing-with.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+A digitally enhanced image of a collection of gemstones, creating a mesmerizing and luxurious scene. The gemstones are glowing with an inner light, casting vivid reflections and refractions on a sleek black surface that looks like polished obsidian. Each gemstone exudes a magical aura, with ethereal wisps of light swirling around them. The ambiance is elevated with sparkling micro-crystals suspended in the air, giving the impression of a mystical treasure trove. The overall atmosphere is otherworldly, with a rich color palette that enhances the deep hues of the gemstones and contrasts with the dark background. robiness. masterprompter.
+```
+
+By [@robiness](https://prompthero.com/prompt/8c4cafda9b2-chatgpt-image-gpt-4o-a-digitally-enhanced-image-of-a-collection-of-gemstones-creating-a-mesmerizing-and-luxurious-scene-the-gemstones-are-glowing-with)
 
 ---
 

@@ -6,38 +6,6 @@
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
-<a id="prompthero-8b3895e6120"></a>
-
-## The illustration style should be based on the draw\.\.\.
-
-<a href="https://cdn.prompthero.com/l04p73mqz4z4q64vepybeuf1kwcc-dreamshaper-5-inpainting-the-illustration-style-should-be-based-on-the-drawing-style-used-by-studio-ghibli-with-lines-that-look-handmade-with.png"><img src="https://cdn.prompthero.com/l04p73mqz4z4q64vepybeuf1kwcc-dreamshaper-5-inpainting-the-illustration-style-should-be-based-on-the-drawing-style-used-by-studio-ghibli-with-lines-that-look-handmade-with.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-The illustration style should be based on the drawing style used by Studio Ghibli, with lines that look handmade, with a Japanese drawing style inspired by kawai style drawings, with a style that has fine lines and watercolor effects . The character in the illustration must be a raccoon holding a cloth bag in his hand. A cube symbol should appear on the bag.
-```
-
-[Source](https://prompthero.com/prompt/8b3895e6120-dreamshaper-5-inpainting-the-illustration-style-should-be-based-on-the-drawing-style-used-by-studio-ghibli-with-lines-that-look-handmade-with)
-
----
-
-<a id="prompthero-8d7cc7f2810"></a>
-
-## An illustration , character detailed, decor detail\.\.\.
-
-<a href="https://cdn.prompthero.com/m24mt78fv78yxel7icf2ol1m5ekm-anything-40-an-illustration-character-detailed-decor-detailed-which-has-several-characters-on-the-cover-kitsune-nekomata-tengu-oni-tanuki-yuki-onna.png"><img src="https://cdn.prompthero.com/m24mt78fv78yxel7icf2ol1m5ekm-anything-40-an-illustration-character-detailed-decor-detailed-which-has-several-characters-on-the-cover-kitsune-nekomata-tengu-oni-tanuki-yuki-onna.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-An illustration , character detailed, decor detailed, which has several characters on the cover Kitsune,  Nekomata, Tengu, Oni, Tanuki, Yuki-Onna, Jorogumo, Yama-Oroshi, Kijimuna, in the background the funji world, manga style, HD, 2K
-```
-
-[Source](https://prompthero.com/prompt/8d7cc7f2810-anything-40-an-illustration-character-detailed-decor-detailed-which-has-several-characters-on-the-cover-kitsune-nekomata-tengu-oni-tanuki-yuki-onna)
-
----
-
 <a id="prompthero-8dac2bfa681"></a>
 
 ## A large 3D glossy Arabic letter &quot;أ&quot; \(Alif with ham\.\.\.
@@ -323,6 +291,38 @@ A half body portrait of brutal warrior in armor, legendary warrior, ghost, torn 
 ```
 
 By [@ArtEnthusiast](https://prompthero.com/prompt/98b4f5c04cc-stable-diffusion-xl-base-09-a-half-body-portrait-of-brutal-warrior-in-armor-legendary-warrior-ghost-torn-cloak-no-face-alone-among-ruins-snowing)
+
+---
+
+<a id="prompthero-139f75d2e80"></a>
+
+## chibi manga legend of vader anime vh1, in the styl\.\.\.
+
+<a href="https://cdn.prompthero.com/2tzfa3erxs9829afzzyb35j6ewg7-midjourney-niji-mode-chibi-manga-legend-of-vader-anime-vh1-in-the-style-of-miho-hirano-dynamic-and-action-packed-scenes-gaston-bussire.png"><img src="https://cdn.prompthero.com/2tzfa3erxs9829afzzyb35j6ewg7-midjourney-niji-mode-chibi-manga-legend-of-vader-anime-vh1-in-the-style-of-miho-hirano-dynamic-and-action-packed-scenes-gaston-bussire.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+chibi manga legend of vader anime vh1, in the style of miho hirano, dynamic and action-packed scenes, gaston bussière, chinese new year festivities, ross tran, charming character illustrations, light red and bronze --ar 73:88 --s 750 --niji 5
+```
+
+By [@NorthmoorAI](https://prompthero.com/prompt/139f75d2e80-midjourney-niji-mode-chibi-manga-legend-of-vader-anime-vh1-in-the-style-of-miho-hirano-dynamic-and-action-packed-scenes-gaston-bussire)
+
+---
+
+<a id="prompthero-191f49c40bd"></a>
+
+## Chinese ink wash art style, a ferocious tiger with\.\.\.
+
+<a href="https://cdn.prompthero.com/x5fv91zrbnric5rn6vkhpnq4sb-chatgpt-image-gpt-image-2-chinese-ink-wash-art-style-a-ferocious-tiger-with-flames-engulfing-its-form-lunging-toward-the-viewer-glowing-eyes-bared.jpeg"><img src="https://cdn.prompthero.com/x5fv91zrbnric5rn6vkhpnq4sb-chatgpt-image-gpt-image-2-chinese-ink-wash-art-style-a-ferocious-tiger-with-flames-engulfing-its-form-lunging-toward-the-viewer-glowing-eyes-bared.jpeg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+Chinese ink wash art style, a ferocious tiger with flames engulfing its form, lunging toward the viewer, glowing eyes, bared fangs, golden claws, swirling smoke and flame effects, subtle red and gold cloud patterns, dark moody background, bold brush strokes, dramatic lighting, high contrast, vibrant fiery colors, ultra-detailed, cinematic composition, phone wallpaper, vertical
+```
+
+By [@chorlo](https://prompthero.com/prompt/191f49c40bd-chatgpt-image-gpt-image-2-chinese-ink-wash-art-style-a-ferocious-tiger-with-flames-engulfing-its-form-lunging-toward-the-viewer-glowing-eyes-bared)
 
 ---
 

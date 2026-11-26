@@ -6,22 +6,6 @@
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
-<a id="prompthero-13ebfb0bf78"></a>
-
-## Codename: Necromancer
-
-<a href="https://cdn.prompthero.com/vukdbmkd4ydb7paiysvvxjpv3xl8-midjourney-51-codename-necromancer.jpg"><img src="https://cdn.prompthero.com/vukdbmkd4ydb7paiysvvxjpv3xl8-midjourney-51-codename-necromancer.jpg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-Full battle armored futuristic soldier with advanced weapons and accessories, street, overcast, reflection mapping, intricate design and details, dramatic lighting, hyperrealism, photorealistic, cinematic, 8k, unreal engine --ar 9:16 --s 750
-```
-
-By [@abyishot](https://prompthero.com/prompt/13ebfb0bf78-midjourney-51-codename-necromancer)
-
----
-
 <a id="prompthero-26fc1da943b"></a>
 
 ## Codename: Destructo
@@ -323,6 +307,22 @@ Very old madness grandma with evil smile, mad sky hallucination by Mundford, bar
 ```
 
 [Source](https://prompthero.com/prompt/74e31e01d71-stable-diffusion-xl-base-09-very-old-madness-grandma-with-evil-smile-mad-sky-hallucination-by-mundford-baroque-maximalist-chibi-by-artificial-nightmares-stanley-artgerm)
+
+---
+
+<a id="prompthero-77b8165e8e0"></a>
+
+## A hyper-realistic digital portrait of a sleek, ele\.\.\.
+
+<a href="https://cdn.prompthero.com/54lhsnm2degoy0dccuaq78wa6wpn-chatgpt-image-gpt-4o-a-hyper-realistic-digital-portrait-of-a-sleek-elegant-dog-resembling-a-pharaoh-hound-or-podenco-shown-in-profile-the.png"><img src="https://cdn.prompthero.com/54lhsnm2degoy0dccuaq78wa6wpn-chatgpt-image-gpt-4o-a-hyper-realistic-digital-portrait-of-a-sleek-elegant-dog-resembling-a-pharaoh-hound-or-podenco-shown-in-profile-the.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+A hyper-realistic digital portrait of a sleek, elegant dog resembling a Pharaoh Hound or Podenco, shown in profile. The dog has short, glossy reddish-gold fur, expressive amber eyes, and large, upright ears. The background is a flat, vivid red, creating a bold contrast with the dog's fur. The lighting is soft but directional, emphasizing the texture of the fur and the contours of the dog's face. The style is reminiscent of classical oil painting with meticulous detail and smooth brushwork, but created with digital tools.
+```
+
+By [@chorlo](https://prompthero.com/prompt/77b8165e8e0-chatgpt-image-gpt-4o-a-hyper-realistic-digital-portrait-of-a-sleek-elegant-dog-resembling-a-pharaoh-hound-or-podenco-shown-in-profile-the)
 
 ---
 

@@ -22,22 +22,6 @@ By [@Gorden\_Sun](https://x.com/Gorden_Sun/status/2118166046175908016)
 
 ---
 
-<a id="freestylefly-case-44"></a>
-
-## 古风历史题材图
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case44.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case44.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Generate avatars of various emperors from the {argument name="dynasty" default="Ming Dynasty"} based on the style of the uploaded image, with their posthumous names and personal names listed below the avatars.
-```
-
-By [@liyue\_ai](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-44)
-
----
-
 <a id="freestylefly-case-216"></a>
 
 ## 雅致图案四款时尚单品设计

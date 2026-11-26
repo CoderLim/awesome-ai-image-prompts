@@ -1,331 +1,331 @@
 # characters
 
-[← Home](../README.md) · Page 3 / 8
+[← Home](../README.md) · Page 3 / 6
 
-[1](characters.md) · [2](characters-2.md) · **3** · [4](characters-4.md) · [5](characters-5.md) · [6](characters-6.md) · [7](characters-7.md) · [8](characters-8.md)
+[1](characters.md) · [2](characters-2.md) · **3** · [4](characters-4.md) · [5](characters-5.md) · [6](characters-6.md)
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
-<a id="freestylefly-case-155"></a>
+<a id="prompthero-16df7aa27a2"></a>
 
-## 人物角色设定图
+## A ninja vigilante with a black tactical suit with \.\.\.
 
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case155.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case155.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Create {argument name="items" default="fan goods"} for a standard {argument name="character type" default="Vtuber"} in {argument name="style" default="live-action"}
-```
-
-By [@wtry1102](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-155)
-
----
-
-<a id="freestylefly-case-162"></a>
-
-## 人物角色设定图
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case162.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case162.jpg" width="480" alt="Source example"></a>
+<a href="https://cdn.prompthero.com/gqbufvj7jddaj3qkahsxxbsgyg-hero-10-a-ninja-vigilante-with-a-black-tactical-suit-with-green-accents-he-is-wearing-a-hood-over-his-fully-covered.jpeg"><img src="https://cdn.prompthero.com/gqbufvj7jddaj3qkahsxxbsgyg-hero-10-a-ninja-vigilante-with-a-black-tactical-suit-with-green-accents-he-is-wearing-a-hood-over-his-fully-covered.jpeg" width="480" alt="After"></a>
 
 **Prompt**
 
 ```text
-{argument name="voice" default="chatgpt voice"} if it were a character
+A ninja vigilante with a black tactical suit with green accents. He is wearing a hood over his fully covered face sporting a slimline mask. His eyes are menacing white. A katana is sheathed in his back, with him holding a longbow in his right hand. He is standing on a rooftop, looking over metropolitan city at night. The skies are red and the clouds are a faint black. DCAU animation style. Bruce Timm inspired art style.
 ```
 
-By [@nicdunz](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-162)
+[Source](https://prompthero.com/prompt/16df7aa27a2-hero-10-a-ninja-vigilante-with-a-black-tactical-suit-with-green-accents-he-is-wearing-a-hood-over-his-fully-covered)
 
 ---
 
-<a id="freestylefly-case-208"></a>
+<a id="prompthero-31c24aebd14"></a>
 
-## 樱花树下害羞双马尾少女
+## A lone traditional Japanese samurai in worn armor,\.\.\.
 
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case208.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case208.jpg" width="480" alt="Source example"></a>
+<a href="https://cdn.prompthero.com/x1xaye923qfkve72b3i8bfvk8as6-flux-flux-11-pro-a-lone-traditional-japanese-samurai-in-worn-armor-standing-grounded-in-a-misty-environment-his-stance-is-calm-yet-powerful.jpg"><img src="https://cdn.prompthero.com/x1xaye923qfkve72b3i8bfvk8as6-flux-flux-11-pro-a-lone-traditional-japanese-samurai-in-worn-armor-standing-grounded-in-a-misty-environment-his-stance-is-calm-yet-powerful.jpg" width="480" alt="After"></a>
 
 **Prompt**
 
 ```text
-[中文] 生成一张高质量二次元美少女图片。 角色设定： - 年龄：17岁 - 发型：双马尾，颜色：樱花粉，发梢带点渐变紫色 - 眼睛：大而明亮，紫色瞳孔，有星星高光 - 服装：JK制服，白色衬衫，深蓝色格子裙，红色领结 - 配饰：白色过膝袜，棕色小皮鞋，头上戴一个粉色蝴蝶结 风格要求： - 日系动画风格，线条清晰 - 色彩鲜艳，对比度高 - 光影柔和，有层次感 - 背景：樱花树下，花瓣飘落，远处是学校教学楼  表情：微笑，有点害羞 姿势：站姿，双手放在身后，身体微微前倾 比例：16:9（手机壁纸） 质量：8K，超精细，细节丰富 [English] Generate a high-quality anime beautiful girl image. Character setting: - Age: 17 years old - Hairstyle: twin tails, color: cherry blossom pink, hair tips with a bit of gradient purple - Eyes: large and bright, purple pupils, with star highlights - Clothing: JK uniform, white shirt, dark blue plaid skirt, red bow tie - Accessories: white over-the-knee socks, brown leather shoes, wearing a pink bow on the head Style requirements: - Japanese animation style, clear lines - bright colors, high contrast - soft light and shadow, with a sense of layering - Background: under the cherry blossom tree, petals falling, school teaching building in the distance  Expression: smiling, a bit shy Pose: standing posture, hands placed behind the back, body slightly leaning forward Proportion: 16:9 (mobile wallpaper) Quality: 8K, ultra-fine, rich in details
+A lone traditional Japanese samurai in worn armor, standing grounded in a misty environment. His stance is calm yet powerful, evoking inner strength and stillness. The atmosphere is foggy and shadow-rich, with subtle purple/pink mist in the background. No glowing elements or saturated colors — everything is soft, desaturated, and cinematic. The samurai wears timeless armor with a kabuto (helmet), possibly with faint antler-style detailing. His figure is central, symbolic, and deeply rooted in the warrior aesthetic.
 ```
 
-By [@joshesye](https://x.com/joshesye/status/2046593124646928397)
+[Source](https://prompthero.com/prompt/31c24aebd14-flux-flux-11-pro-a-lone-traditional-japanese-samurai-in-worn-armor-standing-grounded-in-a-misty-environment-his-stance-is-calm-yet-powerful)
 
 ---
 
-<a id="freestylefly-case-270"></a>
+<a id="prompthero-33e4329963a"></a>
 
-## 信息图可视化设计
+## Sci-Fi visual
 
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case270.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case270.jpg" width="480" alt="Source example"></a>
+<a href="https://cdn.prompthero.com/nah86to0zwkidgb2ku0zu5vqufil-midjourney-6-sci-fi-visual.png"><img src="https://cdn.prompthero.com/nah86to0zwkidgb2ku0zu5vqufil-midjourney-6-sci-fi-visual.png" width="480" alt="After"></a>
 
 **Prompt**
 
 ```text
-[中文] このキャラクターと背景を元に、 公式設定資料のようなキャラクターシートを作成してください。 ・正面、側面、背面の3面図を含める ・キャラクターの表情バリエーションを追加 ・衣装や装備の詳細パーツを分解して表示 ・カラーパレットを追加 ・世界観の簡単な説明を入れる ・全体は整理されたレイアウト （白背景、図解風） ・アスペクト比16：9 　← 高解像度、プロのコンセプトアートスタイル [English] Based on this character and background, please create a character sheet like an official setting material. ・Include front, side, and back 3-view drawings ・Add character expression variations ・Disassemble and display detailed parts of costumes and equipment ・Add a color palette ・Include a brief explanation of the world view ・Overall organized layout (White background, diagrammatic style) ・Aspect ratio 16:9 　← High resolution, professional concept art style
+rendering, side shot, falf-strange body with complex system equipment with hyper detail robot, gaze, sci-fi, gloomy environment, foggy with light shader, cyan and yellow illuminations, dramatic lighting, RTX shader, hyper detail texture with reflection, HDRI, cyborg, grunge, bolt, UHD --chaos 1.2 --ar 9:16 --style raw --stylize 750
 ```
 
-By [@Toshi\_nyaruo\_AI](https://x.com/Toshi_nyaruo_AI/status/2045025277538107420)
+By [@Grayve](https://prompthero.com/prompt/33e4329963a-midjourney-6-sci-fi-visual)
 
 ---
 
-<a id="freestylefly-case-271"></a>
+<a id="prompthero-42ed626b5d1"></a>
 
-## 人物角色设定图
+## Cute stylized 3D little boy standing in a shallow \.\.\.
 
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case271.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case271.jpg" width="480" alt="Source example"></a>
+<a href="https://cdn.prompthero.com/ys62pclo5yy01gammnyne1w2gx-nano-banana-nano-banana-2-cute-stylized-3d-little-boy-standing-in-a-shallow-muddy-puddle-in-a-misty-forest-close-up-on-boots-splashing.jpeg"><img src="https://cdn.prompthero.com/ys62pclo5yy01gammnyne1w2gx-nano-banana-nano-banana-2-cute-stylized-3d-little-boy-standing-in-a-shallow-muddy-puddle-in-a-misty-forest-close-up-on-boots-splashing.jpeg" width="480" alt="After"></a>
 
 **Prompt**
 
 ```text
-[中文] お借りして噂のGPT-Image-2でキャラシート作ってみましたｽｺﾞｯ(๑°ㅁ°๑)‼✧更に色々指示してあげたらもっといい感じになりそう✨キャラは以前チャッピーにお願いして描いて貰った我が分身です( *¯ ꒳¯*) [English] I borrowed it and tried making a character sheet using the rumored GPT-Image-2 Awesome(๑°ㅁ°๑)‼✧ It seems like it would turn out even better if I gave it various more instructions✨ The character is my alter ego that I asked Chappy to draw for me before( *¯ ꒳¯*) #GPTimage #AIgenerated
+Cute stylized 3D little boy standing in a shallow muddy puddle in a misty forest, close-up on boots splashing water, mustard yellow hoodie, rolled denim pants, dark sneakers, soft morning light, cinematic atmosphere, shallow depth of field, realistic water reflections, Pixar quality, ultra detailed, magical forest mood, volumetric lighting, 9:16
 ```
 
-By [@tsubaki\_ew](https://x.com/tsubaki_ew/status/2045259289993048284)
+[Source](https://prompthero.com/prompt/42ed626b5d1-nano-banana-nano-banana-2-cute-stylized-3d-little-boy-standing-in-a-shallow-muddy-puddle-in-a-misty-forest-close-up-on-boots-splashing)
 
 ---
 
-<a id="freestylefly-case-290"></a>
+<a id="prompthero-61e6c18f07f"></a>
 
-## 古风诗人镭射典藏卡牌
+## Dramatic photo in 3D illustration, panorama, full \.\.\.
 
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case290.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case290.jpg" width="480" alt="Source example"></a>
+<a href="https://cdn.prompthero.com/zkmlw74hgpm7jo9lswc5dxpcud-hero-10-dramatic-photo-in-3d-illustration-panorama-full-body-anthropomorphic-real-cute-creamy-cat-wearing-old-white-sweatshirt-white-towel-around.jpeg"><img src="https://cdn.prompthero.com/zkmlw74hgpm7jo9lswc5dxpcud-hero-10-dramatic-photo-in-3d-illustration-panorama-full-body-anthropomorphic-real-cute-creamy-cat-wearing-old-white-sweatshirt-white-towel-around.jpeg" width="480" alt="After"></a>
 
 **Prompt**
 
 ```text
-[中文] 为中国古代诗人设计一套游戏卡片，并按照SSR SR R 分级，重点卡片有放大展示的效果，包括卡面设计和人物介绍，有很高级的游戏卡片质感，稀有卡片还会有特色的光影例如镭射效果 需要有套卡设计和技能设计，并附带较为详细的说明 [English] Design a set of game cards for ancient Chinese poets, classified by SSR SR R grades, with key cards having an enlarged display effect, including card face design and character introduction, having a very high-end game card texture, rare cards will also have special light and shadow effects such as holographic laser effects, requiring set card design and skill design, along with relatively detailed descriptions
+Dramatic photo in 3D illustration, panorama, full body, anthropomorphic real cute creamy cat, wearing old white sweatshirt, ((white towel around his neck)), overall outfit has street vendor feel, looking down at barbecue table, (holding skewer of meat being grilled), fire coming out of the barbecue table, barbecue table is a common shape in Chinese streets, hyper detailed, UHD, ultra wide， ar - 4:3
 ```
 
-By [@TanShilong](https://x.com/TanShilong/status/2045435090923356415)
+[Source](https://prompthero.com/prompt/61e6c18f07f-hero-10-dramatic-photo-in-3d-illustration-panorama-full-body-anthropomorphic-real-cute-creamy-cat-wearing-old-white-sweatshirt-white-towel-around)
 
 ---
 
-<a id="freestylefly-case-325"></a>
+<a id="prompthero-92c304e469a"></a>
 
-## 皮克斯风阳光少年
+## Ultra sharp photography of a centre focused Blonde\.\.\.
 
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case325.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case325.jpg" width="480" alt="Source example"></a>
+<a href="https://cdn.prompthero.com/qqd7spl5am8z33juwvm77u2mxnw4-flux-flux-11-pro-ultra-ultra-sharp-photography-of-a-centre-focused-blonde-nymph-cyborg-with-a-pixelated-teardrop-on-her-face-looking-in-the.jpg"><img src="https://cdn.prompthero.com/qqd7spl5am8z33juwvm77u2mxnw4-flux-flux-11-pro-ultra-ultra-sharp-photography-of-a-centre-focused-blonde-nymph-cyborg-with-a-pixelated-teardrop-on-her-face-looking-in-the.jpg" width="480" alt="After"></a>
 
 **Prompt**
 
 ```text
-[中文] 一个风格化的3D卡通肖像，一位年轻男子，拥有短棕发和富有表现力的绿色眼睛，温暖地微笑。他穿着黑色西装外套内搭白色T恤，现代休闲时尚。类似皮克斯/迪士尼风格角色设计，皮肤光滑，柔和光照，略微夸张的面部特征。高细节、精美的3D渲染，友好且平易近人的表情。渐变背景为柔和的蓝绿色和粉色，工作室灯光，浅景深，高分辨率。 [English] A stylized 3D cartoon portrait of a young man with short brown hair and expressive green eyes, smiling warmly. He is wearing a black blazer over a white t-shirt, modern casual fashion. Pixar-like / Disney-style character design with smooth skin, soft lighting, and slightly exaggerated facial features. High detail, polished 3D render, friendly and approachable expression. Gradient background with soft teal and pink colors, studio lighting, shallow depth of field, high resolution.
+Ultra sharp photography of a centre focused Blonde nymph cyborg with a pixelated teardrop on her face, looking in the camera, on her face and body it writes "Couldn't Save" as if projected with a red projection light, a pixelated teardrop falling from her eyes, part of her face is pixelated and glitched, botanical abstraction, in a magical and bioluminiscent jungle, retrowave arcade, backrooms aesthetic, liminal vibes, dreamcore, in the style of Sheidlina + Frida Kahlo, botanical abstraction, fuzzy plants like hair growing in the park, unusual flora, candy flowers, sharp focus on the nymph, volumetric light, photorealistic, photography, well - balanced composition + perfectionism + the image is shot with a Canon EF 16-35mm f/2.8L III USM lens on a Canon EOS 5D Mark IV camera, hyperdetailed corona render.
 ```
 
-By [@iamsofiaijaz](https://x.com/iamsofiaijaz/status/2013473309485343120)
+[Source](https://prompthero.com/prompt/92c304e469a-flux-flux-11-pro-ultra-ultra-sharp-photography-of-a-centre-focused-blonde-nymph-cyborg-with-a-pixelated-teardrop-on-her-face-looking-in-the)
 
 ---
 
-<a id="freestylefly-case-397"></a>
+<a id="prompthero-93a5ca60ca4"></a>
 
-## 街舞角色设定参考图
+## close-up view of a knight wielding a long black sw\.\.\.
 
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case397.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case397.jpg" width="480" alt="Source example"></a>
+<a href="https://cdn.prompthero.com/dzfk8090okvg6vhdzpyr5j02dujl-midjourney-6-close-up-view-of-a-knight-wielding-a-long-black-sword-intricate-design-and-the-reflections-along-its-blade-blades.png"><img src="https://cdn.prompthero.com/dzfk8090okvg6vhdzpyr5j02dujl-midjourney-6-close-up-view-of-a-knight-wielding-a-long-black-sword-intricate-design-and-the-reflections-along-its-blade-blades.png" width="480" alt="After"></a>
 
 **Prompt**
 
 ```text
-角色设定图布局，聚焦于一位18岁的亚裔女性街舞舞者。包含4个大型、高细节度的全身动态舞姿（突出舞蹈动作，面部清晰）。侧边附一条清晰的多角度参考条，仅含3个精细头部特写（正面、侧面、3/4侧面）。最大限度减少文字元素，将像素空间优先用于面部细节刻画。背景为粗砺工业风，搭配写实光影效果
+close-up view of a knight wielding a long black sword, intricate design and the reflections along its blade, blade's edge and surface, texture of the metal, the subtle curves of the blade, hyper realistic, octane render, 4k post processing, Unreal engine 5, RTX shader, hyper detail texture with reflection, HDRI, ultra realistic, 32K UHD, many detail --ar 9:16 --s 750 --v 6.0
 ```
 
-By [@ChangningL29508](https://x.com/ChangningL29508/status/2052229452080591276)
+[Source](https://prompthero.com/prompt/93a5ca60ca4-midjourney-6-close-up-view-of-a-knight-wielding-a-long-black-sword-intricate-design-and-the-reflections-along-its-blade-blades)
 
 ---
 
-<a id="prompthero-0b203b966ba"></a>
+<a id="prompthero-97d33b53c8b"></a>
 
-## Futuristic android robot Samurai, heavy damages, p\.\.\.
+## A low-poly 3D character design of Paco the Dog wie\.\.\.
 
-<a href="https://cdn.prompthero.com/je60bjnriux7xrbxd6xorlk9rn-hero-10-futuristic-android-robot-samurai-heavy-damages-proud-pose-epic-composition-warframe-ultrakill-pragmata-cityscape-background-artstation-epic-realistic-hdr-colorful.jpeg"><img src="https://cdn.prompthero.com/je60bjnriux7xrbxd6xorlk9rn-hero-10-futuristic-android-robot-samurai-heavy-damages-proud-pose-epic-composition-warframe-ultrakill-pragmata-cityscape-background-artstation-epic-realistic-hdr-colorful.jpeg" width="480" alt="After"></a>
+<a href="https://cdn.prompthero.com/0jckj7t9snbsjqgyx3yilb1875cb-chatgpt-image-gpt-4o-a-low-poly-3d-character-design-of-paco-the-dog-wielding-a-short-sword-stylized-polygonal-modeling-black-gi-with.png"><img src="https://cdn.prompthero.com/0jckj7t9snbsjqgyx3yilb1875cb-chatgpt-image-gpt-4o-a-low-poly-3d-character-design-of-paco-the-dog-wielding-a-short-sword-stylized-polygonal-modeling-black-gi-with.png" width="480" alt="After"></a>
 
 **Prompt**
 
 ```text
-Futuristic android robot Samurai, heavy damages, proud pose, epic composition, warframe, Ultrakill, Pragmata, cityscape background, artstation, epic realistic, hdr, colorful shot, intricate details, intricate, cinematic, detailed, stormy weather, more colorful
+A low-poly 3D character design of Paco the Dog wielding a short sword | stylized polygonal modeling | black gi with brown belt | neutral cream background | intense facial expression | clean lighting with soft shadows | toy-like aesthetic, game-ready asset render
 ```
 
-[Source](https://prompthero.com/prompt/0b203b966ba-hero-10-futuristic-android-robot-samurai-heavy-damages-proud-pose-epic-composition-warframe-ultrakill-pragmata-cityscape-background-artstation-epic-realistic-hdr-colorful)
+By [@chorlo](https://prompthero.com/prompt/97d33b53c8b-chatgpt-image-gpt-4o-a-low-poly-3d-character-design-of-paco-the-dog-wielding-a-short-sword-stylized-polygonal-modeling-black-gi-with)
 
 ---
 
-<a id="prompthero-0f3a7881319"></a>
+<a id="prompthero-98d46e68541"></a>
 
-## a scary looking wood creature with a red eye, in t\.\.\.
+## Pain — “The Six Paths of Pain” \+ Konan Landscape \.\.\.
 
-<a href="https://cdn.prompthero.com/j850zz1kiifs6jwy9hxshh0wukna-midjourney-52-a-scary-looking-wood-creature-with-a-red-eye-in-the-style-of-filip-hodas-daz3d-sandy-skoglund-natalia-rak.png"><img src="https://cdn.prompthero.com/j850zz1kiifs6jwy9hxshh0wukna-midjourney-52-a-scary-looking-wood-creature-with-a-red-eye-in-the-style-of-filip-hodas-daz3d-sandy-skoglund-natalia-rak.png" width="480" alt="After"></a>
+<a href="https://cdn.prompthero.com/v1_5057df0ec3d263a9138a8b1f05-hero-10-pain-the-six-paths-of-pain-konan-landscape-format-ai-image-generation-prompt-create-a-highly-detailed-cinematic-2d-anime.jpg"><img src="https://cdn.prompthero.com/v1_5057df0ec3d263a9138a8b1f05-hero-10-pain-the-six-paths-of-pain-konan-landscape-format-ai-image-generation-prompt-create-a-highly-detailed-cinematic-2d-anime.jpg" width="480" alt="After"></a>
 
 **Prompt**
 
 ```text
-a scary looking wood creature with a red eye, in the style of filip hodas, daz3d, sandy skoglund, natalia rak, mysterious jungle, realistic hyper-detailed rendering, anthropological::, a large red eyes monster in the pine forest, in the style of rendered in maya, organic nature-inspired forms, daz3d, wood, close-up, frogcore, storybook illustration:: --v 5.2
+Pain — “The Six Paths of Pain” + Konan Landscape Format AI Image Generation Prompt > Create a highly detailed, cinematic 2D anime scene in the authentic visual style of Naruto Shippuden, featuring all six Paths of Pain standing together in a threatening formation in the rain. The image should communicate overwhelming power, dominance, authority, intimidation, control and inevitability. This is not an emotional or melancholic scene. Do not portray Nagato's sadness, grief, trauma or personal suffering. This is Pain at his most powerful and imposing. --- MAIN COMPOSITION All six Paths of Pain and Konan are physically present and clearly visible: Tendō Pain — center front, closest to the camera and the unmistakable visual leader Shuradō Chikushōdō Ningendō Gakidō Jigokudō Konan Tendō Pain stands directly in the exact center of the image, slightly ahead of the other five Paths. The other five Paths stand behind him in a shallow, irregular half-circle formation, slightly staggered in depth rather than standing in a perfectly straight line. Konan stands unobtrusive in the Background. They should frame Tendō Pain visually without hiding one another. The composition should immediately read as: one central leader commanding five additional bodies — an entire army represented by six individuals. The viewer's eye should go to Tendō Pain first. Only afterward should the viewer discover the other five Paths surrounding him. --- TENDŌ PAIN Tendō Pain is the dominant focal point. He stands upright and completely stable: feet approximately shoulder-width apart knees slightly bent torso upright shoulders relaxed head slightly lowered eyes looking directly toward the viewer arms naturally positioned slightly away from his body hands relaxed and open He is not attacking. He is not preparing a dramatic fighting pose. His stillness should itself feel threatening. His expression is cold, controlled and completely confident, as if he already knows the outcome of the confrontation. No anger, screaming, laughing, smiling, sadness or desperation. His Rinnegan must be clearly visible and recognizable, with a restrained natural violet appearance. --- THE OTHER FIVE PATHS The remaining five Paths stand behind Tendō Pain with slightly different positions and natural spacing. They must all remain recognizable as their specific canonical characters: Shuradō Chikushōdō Ningendō Gakidō Jigokudō Each one has: canonical orange hair canonical facial piercings visible Rinnegan black Akatsuki cloak red Akatsuki cloud patterns Konoha forehead protector black chakra receivers Their expressions should be calm, emotionless and intimidating. They should not look like clones with identical poses. Give each Path a slightly different natural stance while keeping the entire group visually disciplined and coordinated. Tendō remains clearly dominant and closest to the camera. --- AKATSUKI CLOAKS All six Paths wear their authentic black Akatsuki cloaks with red clouds and high collars. The cloaks should appear physically heavy and slightly soaked by the rain. Subtle wind moves the lower edges of the cloaks and some strands of their orange hair. Avoid exaggerated cape movement or superhero-like poses. --- CHAKRA RECEIVERS The black chakra receivers must be clearly visible on the Paths, especially around Tendō Pain's upper back and body. They are physical black rods, not glowing energy weapons. No electricity, no glowing aura, no energy effects. --- ENVIRONMENT The six Paths stand in the middle of a heavily damaged Konoha. Behind and around them: partially destroyed houses broken rooftops damaged wooden structures shattered walls cracked streets fallen trees scattered rocks rubble broken wooden beams damaged village structures The village should still be recognizable as Konohagakure, but it should clearly look like the aftermath of a devastating attack. However, the destruction must remain secondary to the six Paths. Do not turn the background into an enormous explosion or completely obliterate the village. The important visual idea is that the six Paths simply stand among the ruins, completely calm after the destruction. --- RAIN AND ATMOSPHERE Heavy, cold rain falls continuously throughout the scene. Rain droplets should be clearly visible against the dark background. Water should be visible on: Pain's face orange hair metal piercings forehead protectors Akatsuki cloaks Use subtle mist, atmospheric haze and small amounts of smoke around the ruined village. The rain should feel cold, oppressive and warlike, not romantic or beautiful. --- SKY A huge dark storm-cloud sky fills the background. Use deep: blue blue-gray charcoal near-black clouds. The sky should feel heavy and oppressive. No lightning. No giant moon. No sunset. No divine light beams. --- CAMERA Use a slightly low-angle cinematic camera, positioned approximately at chest height or slightly below the characters' eye level. The camera looks subtly upward toward the six Paths, making them appear physically imposing and dominant. Do not use an extreme low angle or extreme wide-angle distortion. Tendō Pain should be the largest and closest figure. The other five Paths should become progressively slightly smaller through natural perspective while remaining clearly visible. Use a cinematic medium-wide shot that captures the complete six-person formation as well as enough of the destroyed village to establish the setting. --- COMPOSITIONAL HIERARCHY The composition must have three clear visual layers: Foreground: Tendō Pain, dominant and sharply defined. Middle ground: the other five Paths forming a threatening formation behind him. Background: destroyed Konoha, rain, mist, smoke and dark storm clouds. Tendō Pain must remain the primary focal point. The five other Paths should create a visual frame around him rather than forming a distracting line. --- LIGHTING Use dark, cinematic, diffuse lighting coming through the storm clouds. The six Paths must still be clearly readable despite the darkness. Carefully illuminate: faces Rinnegan facial piercings orange hair red Akatsuki clouds wet black fabric The Rinnegan should have a subtle violet presence, but should not glow excessively. Use restrained reflections from the wet environment. Avoid glossy, artificial lighting. --- COLOR PALETTE Dominant colors: black charcoal dark blue cold gray muted brown restrained red subtle violet orange hair as a natural character-color accent Keep the overall image dark and atmospheric. No gold aura, no neon colors and no oversaturated fantasy lighting. --- MOVEMENT The six Paths themselves are almost completely motionless. Only the environment moves: falling rain subtle wind slight movement of cloaks moving strands of hair drifting mist occasional rain splashes This creates the feeling of the quiet moment before an overwhelming attack. Their stillness should make them more intimidating, not less. --- EMOTIONAL / THEMATIC DIRECTION The image should visually represent: “The Six Paths of Pain.” “You are not fighting one man. You are facing Pain.” Their presence alone should feel like a threat. Tendō Pain should look like the unquestioned center of this group — calm, absolute and inevitable. --- STRICT NEGATIVE PROMPT Do not include: Shinra Tensei effect active attack explosion fire energy beams lasers giant chakra aura glowing chakra network lightning giant moon sunset divine halo heavenly light screaming laughing smiling exaggerated facial expressions emotional Pain crying melancholic Nagato Yahiko Jiraiya flashbacks childhood imagery blood gore additional Naruto characters weapons held dramatically superhero poses extreme perspective distortion photorealism 3D CGI Western comic-book style chibi proportions generic anime character designs excessive glow excessive bloom excessive lens flare neon colors text subtitles logos watermarks FINAL CORE INSTRUCTION: Create six canonically accurate Paths of Pain standing silently together in the rain among the ruins of Konoha. Tendō Pain stands directly in front and at the exact center, clearly commanding the composition, while the other five Paths form a threatening formation behind him. Nobody is attacking. Nobody is emotional. Their complete stillness, unified appearance and overwhelming presence should make the scene feel more intimidating than an active battle.
 ```
 
-[Source](https://prompthero.com/prompt/0f3a7881319-midjourney-52-a-scary-looking-wood-creature-with-a-red-eye-in-the-style-of-filip-hodas-daz3d-sandy-skoglund-natalia-rak)
+By [@userggc94](https://prompthero.com/prompt/98d46e68541-hero-10-pain-the-six-paths-of-pain-konan-landscape-format-ai-image-generation-prompt-create-a-highly-detailed-cinematic-2d-anime)
 
 ---
 
-<a id="prompthero-1a3e8b77d16"></a>
+<a id="prompthero-99aacb115a6"></a>
 
-## The amazing spidercat
+## \(steampunk atmosphere, a stunning girl with a mech\.\.\.
 
-<a href="https://cdn.prompthero.com/452yojwjf1av8gg0k07mbogbuwfm-midjourney-6-the-amazing-spidercat.png"><img src="https://cdn.prompthero.com/452yojwjf1av8gg0k07mbogbuwfm-midjourney-6-the-amazing-spidercat.png" width="480" alt="After"></a>
+<a href="https://cdn.prompthero.com/8m7u5975ss3cuh7dq7jsxb7q7und-stable-diffusion-xl-base-09-steampunk-atmosphere-a-stunning-girl-with-a-mecha-musume-aesthetic-adorned-in-intricate-cyber-gogle-digital-art-fractal-32k-uhd.png"><img src="https://cdn.prompthero.com/8m7u5975ss3cuh7dq7jsxb7q7und-stable-diffusion-xl-base-09-steampunk-atmosphere-a-stunning-girl-with-a-mecha-musume-aesthetic-adorned-in-intricate-cyber-gogle-digital-art-fractal-32k-uhd.png" width="480" alt="After"></a>
 
 **Prompt**
 
 ```text
-the amazing spidercat, superhero, cat dressed in spiderman costume flying over new york city with his web, hyperrealistic, hr 32k uhd, cinematic light, high detail, perfect detail, high resolution, masterpiece --ar 5:7
+(steampunk atmosphere, a stunning girl with a mecha musume aesthetic, adorned in intricate cyber gogle,) digital art, fractal, 32k UHD high resolution, highres, professional photography, intricate details, masterpiece, perfect anatomy, cinematic angle , cinematic lighting, (dynamic warrior pose:1)
 ```
 
-[Source](https://prompthero.com/prompt/1a3e8b77d16-midjourney-6-the-amazing-spidercat)
+[Source](https://prompthero.com/prompt/99aacb115a6-stable-diffusion-xl-base-09-steampunk-atmosphere-a-stunning-girl-with-a-mecha-musume-aesthetic-adorned-in-intricate-cyber-gogle-digital-art-fractal-32k-uhd)
 
 ---
 
-<a id="prompthero-1a68fbf7fff"></a>
+<a id="prompthero-176d86fcb3c"></a>
 
-## in the style of ck-sfc, female cyberpunk robot sam\.\.\.
+## A direct overhead aerial view of a cinematic scene\.\.\.
 
-<a href="https://cdn.prompthero.com/ra4r7p39t4h1qoh5sos6pge78e8f-flux-flux-11-pro-in-the-style-of-ck-sfc-female-cyberpunk-robot-samurai-robot-face-with-mirrored-face-shield-hyperdetailed-helmet-flowing-black.png"><img src="https://cdn.prompthero.com/ra4r7p39t4h1qoh5sos6pge78e8f-flux-flux-11-pro-in-the-style-of-ck-sfc-female-cyberpunk-robot-samurai-robot-face-with-mirrored-face-shield-hyperdetailed-helmet-flowing-black.png" width="480" alt="After"></a>
+<a href="https://cdn.prompthero.com/rywxji5wzw86ogiuj0qqef5j2w35-stable-diffusion-xl-base-09-a-direct-overhead-aerial-view-of-a-cinematic-scene-inspired-by-dungeons-dragons-with-accurate-proportions-the-scene-features-a.png"><img src="https://cdn.prompthero.com/rywxji5wzw86ogiuj0qqef5j2w35-stable-diffusion-xl-base-09-a-direct-overhead-aerial-view-of-a-cinematic-scene-inspired-by-dungeons-dragons-with-accurate-proportions-the-scene-features-a.png" width="480" alt="After"></a>
 
 **Prompt**
 
 ```text
-in the style of ck-sfc, female cyberpunk robot samurai, robot face with mirrored face shield, hyperdetailed helmet, flowing black hair, reflective black and neon red armor, robot joints, body made of metals, cables and wires, a katana strapped to her back, abstract background suggesting eastern temple
+A direct overhead aerial view of a cinematic scene inspired by Dungeons & Dragons, with accurate proportions. The scene features a goblin riding a proportionately sized monstrous reptile through a wetland, seen directly from above. The lizard, depicted with subtly colored scales, armor, and a saddle, is in scale with the surrounding trees and environment. The wetland is captured in less saturated colors, showcasing dense vegetation, misty water, and a smoky ambiance, all viewed from a directly overhead angle. The goblin, small in comparison to the lizard but proportionate, adds to the scene's epic fantasy atmosphere. The lighting is subdued, enhancing the textures and details of the swamp, the lizard, and the goblin, while maintaining a cinematic aesthetic. <lora:RPGGoblinXL:0.5>
 ```
 
-[Source](https://prompthero.com/prompt/1a68fbf7fff-flux-flux-11-pro-in-the-style-of-ck-sfc-female-cyberpunk-robot-samurai-robot-face-with-mirrored-face-shield-hyperdetailed-helmet-flowing-black)
+[Source](https://prompthero.com/prompt/176d86fcb3c-stable-diffusion-xl-base-09-a-direct-overhead-aerial-view-of-a-cinematic-scene-inspired-by-dungeons-dragons-with-accurate-proportions-the-scene-features-a)
 
 ---
 
-<a id="prompthero-1c584ebcbd2"></a>
+<a id="prompthero-00272c63268"></a>
 
-## Hyper realistic one piece character design, luffy,\.\.\.
+## Ball of Energy
 
-<a href="https://cdn.prompthero.com/uquuy9ank3zppihjvd55gzjucwra-dalle-2-hyper-realistic-one-piece-character-design-luffy-mist-photorealistic-octane-render-unreal-engine-5-1-8k-hyper-detailed-volumetric-lighting.jpg"><img src="https://cdn.prompthero.com/uquuy9ank3zppihjvd55gzjucwra-dalle-2-hyper-realistic-one-piece-character-design-luffy-mist-photorealistic-octane-render-unreal-engine-5-1-8k-hyper-detailed-volumetric-lighting.jpg" width="480" alt="After"></a>
+<a href="https://cdn.prompthero.com/8evfxp63rxzy722svcizqz38qraw-stable-diffusion-15-ball-of-energy.png"><img src="https://cdn.prompthero.com/8evfxp63rxzy722svcizqz38qraw-stable-diffusion-15-ball-of-energy.png" width="480" alt="After"></a>
 
 **Prompt**
 
 ```text
-Hyper realistic one piece character design, luffy, mist, photorealistic, octane render, unreal engine 5, 1 8k, hyper detailed, volumetric lighting, hdr. Scene of a raging combat, background of chaos and conflict
+Award Winning Illustration , 1girl, holding electric energy ball, clear crystal, particles, rendered in the style 3d dragon ball z, extreme detail, Cinematic Composition, Ambient Light, Unreal Engine, Octane, <lora:add_detail:1>, 16k, UHD, HDR,(Masterpiece:1.5), (best quality:1.5)
 ```
 
-[Source](https://prompthero.com/prompt/1c584ebcbd2-dalle-2-hyper-realistic-one-piece-character-design-luffy-mist-photorealistic-octane-render-unreal-engine-5-1-8k-hyper-detailed-volumetric-lighting)
+By [@ScArecrow23](https://prompthero.com/prompt/00272c63268-stable-diffusion-15-ball-of-energy)
 
 ---
 
-<a id="prompthero-1e932504c4a"></a>
+<a id="prompthero-479c94544f9"></a>
 
-## futuristic cyborg boy featuring a captivating ref\.\.\.
+## urbanpunk style, low-angle shot, goddess Poseidon \.\.\.
 
-<a href="https://cdn.prompthero.com/lvwwl2j2g4o02i9ideun2unkik-hero-10-futuristic-cyborg-boy-featuring-a-captivating-reflective-cybernetic-helmet-adorned-with-glowing-triangular-red-neon-lights-forming-a-halo-around.jpeg"><img src="https://cdn.prompthero.com/lvwwl2j2g4o02i9ideun2unkik-hero-10-futuristic-cyborg-boy-featuring-a-captivating-reflective-cybernetic-helmet-adorned-with-glowing-triangular-red-neon-lights-forming-a-halo-around.jpeg" width="480" alt="After"></a>
+<a href="https://cdn.prompthero.com/z5nl9s2azm9r8miaq4r8ciusn7-hero-10-urbanpunk-style-low-angle-shot-goddess-poseidon-with-long-white-hair-flying-in-the-air-action-pose-epic-body-dynamics.jpeg"><img src="https://cdn.prompthero.com/z5nl9s2azm9r8miaq4r8ciusn7-hero-10-urbanpunk-style-low-angle-shot-goddess-poseidon-with-long-white-hair-flying-in-the-air-action-pose-epic-body-dynamics.jpeg" width="480" alt="After"></a>
 
 **Prompt**
 
 ```text
-futuristic cyborg boy featuring a captivating reflective cybernetic helmet adorned with glowing triangular red neon lights, forming a halo around her head. The armor is adorned with angular, sharp edges and intricate details that suggest a combination of functionality and design, possibly indicating advanced technology or a specialized role.The figure is wearing a helmet that matches the armor in style and color, with glowing red lights that outline the contours of the helmet, giving it a dynamic and almost sentient quality. The helmets visor is clear, allowing the figures eyes to be visible, which adds a human element to the otherwise mechanical appearance. The lighting in the image is moody and atmospheric, with shadows that give depth to the figure and the background. The lighting accentuates the reflective surfaces of the armor and the contours of the helmet, making them stand out against the dark backdrop.Overall, the art style of the image is cyberpunk, with a focus on technology, artificiality, and a blend of organic and mechanical elements. The medium appears to be digital, given the smooth gradients and the clarity of the image. The colors are bold and dramatic, with a limited palette that emphasizes the red and black tones, contributing to the overall futuristic and intense feel of the image. Posture is upright and confident, with the shoulders back, which complements the overall powerful and determined aesthetic of the costume. Boy is against a dark background dark, with two red, sinuous lines that curve outward and upward. These lines give the impression of energy or a force field, and they are illuminated with a bright, fiery glow, suggesting a dynamic and possibly dangerous environment. The use of reflective and glossy surfaces on the armor and helmet is reminiscent of science fiction visuals, suggesting advanced technology. The overall style is sleek and modern, with a nod to the aesthetics of video games and futuristic cinema. The red light streaks are likely digitally added in postproduction to create the dynamic effect. This could be done using a combination of layer masks, adjustment layers, and possibly some blending modes to integrate the streaks seamlessly with the subject. The metallic sheen on the suit and helmet is also likely a postproduction effect, possibly achieved through layering textures or using a glint effect in a 3D modeling software. The overall color grading and contrast enhancement are also done in post to give the image its cinematic and futuristic feel.The image is a testament to the creative possibilities of combining photography with digital effects, resulting in a visually striking and technically complex piece of art. The image is a powerful visual statement that combines elements of science fiction with a cinematic approach to lighting and composition, creating a compelling and immersive experience for the viewer. The image exudes a sense of intensity and futuristic anticipation. The subjects attire, a sleek, hightech suit with a reflective, glossy finish, suggests a narrative of advanced technology or a character from a science fiction setting.
+urbanpunk style, low-angle shot, goddess Poseidon with long white hair flying in the air, action pose, epic body dynamics, a highly detailed masterpiece, gigantism, dramatic cinematic lighting, tons of flying debris around her, epic and dynamic composition, complex details, modifier=CarnageStyle, color=blood_red, intensity=1.6
 ```
 
-[Source](https://prompthero.com/prompt/1e932504c4a-hero-10-futuristic-cyborg-boy-featuring-a-captivating-reflective-cybernetic-helmet-adorned-with-glowing-triangular-red-neon-lights-forming-a-halo-around)
+[Source](https://prompthero.com/prompt/479c94544f9-hero-10-urbanpunk-style-low-angle-shot-goddess-poseidon-with-long-white-hair-flying-in-the-air-action-pose-epic-body-dynamics)
 
 ---
 
-<a id="prompthero-1ea03273417"></a>
+<a id="prompthero-480ac680acc"></a>
 
-## Masterpiece, \(\(\(cute Cubone from pokemon\)\)\), solo,\.\.\.
+## THE BLACK TIDE — SORCERESS EMERGENCE A cinematic,\.\.\.
 
-<a href="https://cdn.prompthero.com/7dwjsk0708peohnijpgxcf0smf5l-deliberate-2-masterpiece-cute-cubone-from-pokemon-solo-kawaii-sitting-in-mystical-forest-full-character-concept-trending-colour-palette-trending-on-artstation.png"><img src="https://cdn.prompthero.com/7dwjsk0708peohnijpgxcf0smf5l-deliberate-2-masterpiece-cute-cubone-from-pokemon-solo-kawaii-sitting-in-mystical-forest-full-character-concept-trending-colour-palette-trending-on-artstation.png" width="480" alt="After"></a>
+<a href="https://cdn.prompthero.com/v1_64b7990ec42b9854a949d204f5-hero-10-the-black-tide-sorceress-emergence-a-cinematic-photorealistic-neo-noir-film-still-featuring-the-same-beautiful-adult-blonde-sorceress-emerging.jpeg"><img src="https://cdn.prompthero.com/v1_64b7990ec42b9854a949d204f5-hero-10-the-black-tide-sorceress-emergence-a-cinematic-photorealistic-neo-noir-film-still-featuring-the-same-beautiful-adult-blonde-sorceress-emerging.jpeg" width="480" alt="After"></a>
 
 **Prompt**
 
 ```text
-Masterpiece, (((cute Cubone from pokemon))), solo, Kawaii, sitting in mystical forest, full character concept, trending colour palette, trending on artstation, matte painting, depth of field, ultra detailed, rendered, blender, made by midjourney, turbulent fluid, fractal, smokey, symmetrical, sharp focus, vibrant, (volumetric fog), (night time), (fireflies), (moonlight), studio lighting, depth of field, unreal engine 5, octane render, raytracing, (Disney style: 1. 5), (Pixar style: 1. 05), artstation, smooth, sharp focus, octane render, whimsical
+THE BLACK TIDE — SORCERESS EMERGENCE A cinematic, photorealistic neo-noir film still featuring the same beautiful adult blonde sorceress emerging waist-deep from a vast pool of opaque black liquid on an ancient seaside terrace. She has long, vibrant, wet blonde hair, striking dark blue eyes, pale skin, and a calm, formidable expression. She is powerful without theatrical exaggeration; her presence is quiet, dangerous, and supernatural. She is drenched and streaked with the black liquid hea to toe WARDROBE: A small, simple, fitted black ancient-style top with narrow straps, elegant and minimal, appropriate to a dark fantasy character. A medium-length, distressed ivory-black miniskirt torn and tattered, made of aged, water-soaked fabric with irregular torn edges, separated strips, and naturally hanging folds. The wet fabric clings and moves under its own weight. The skirt is visibly damaged by time and the elements, not deliberately arranged for display. No modern clothing, no armor, no excessive accessories. ACTION AND ENVIRONMENT: Med close, She is slowly rising out of the black liquid, with the liquid reaching her waist. Her hands hang naturally at her sides, fingertips partially submerged. Concentric ripples spread outward from her body. Thick black fluid streams from the torn skirt in long, gravity-driven trails. Droplets fall from her hair and arms. The liquid has a reflective, almost oil-black surface, with subtle silver highlights and faint supernatural movement beneath it. Her posture is upright and composed, as if the sea itself is yielding to her presence. An immense weathered stone balcony extends in front of her. Broad ancient stone steps descend from the terrace into the black pool, partly submerged. Beyond the balcony, a violent ocean crashes against a rugged coastline. The pool and balcony are jutting out from the main structure that is offscreen, massive rocks connected to a massive temple off screen behind her Huge storm waves, sea spray, distant cliffs, and a turbulent sky establish a bleak, mythic atmosphere. The left side contains a continuous, coherent expanse of stormy sea, stone ledge, and sky. STYLE: Photorealistic neo-noir film still, desaturated near-monochrome, deep crushed blacks, blown-out silver-white highlights, isolated saturated color in her blonde hair and subtle electric-blue accents. Hard single-source overhead lighting, minimal fill, strong rim light separating the silhouette from the background, graphic ink-heavy shadows, dramatic chiaroscuro, strong diagonals, deep foreground-background layering, realistic skin and wet-fabric textures, cinematic Octane-render quality. CAMERA: Wide-angle cinematic lens, low camera angle, slight Dutch tilt, subject placed off-center, strong diagonal framing, realistic depth of field, expansive environmental composition, widescreen 2.39:1 film frame.
 ```
 
-[Source](https://prompthero.com/prompt/1ea03273417-deliberate-2-masterpiece-cute-cubone-from-pokemon-solo-kawaii-sitting-in-mystical-forest-full-character-concept-trending-colour-palette-trending-on-artstation)
+By [@citizenblitz](https://prompthero.com/prompt/480ac680acc-hero-10-the-black-tide-sorceress-emergence-a-cinematic-photorealistic-neo-noir-film-still-featuring-the-same-beautiful-adult-blonde-sorceress-emerging)
 
 ---
 
-<a id="prompthero-2c9e407d3e7"></a>
+<a id="prompthero-721cb0b55e4"></a>
 
-## haunting creature that looks like a spider, full b\.\.\.
+## \(Space Cowgirl:1\.4\), \(trenchcoat:1\.4\), \(cowboy hat\.\.\.
 
-<a href="https://cdn.prompthero.com/6qgddmewxw6c5akd0sryy6q6gv5a-midjourney-52-haunting-creature-that-looks-like-a-spider-full-body-reddish-eyes-the-background-is-a-cave-where-there-is-an.png"><img src="https://cdn.prompthero.com/6qgddmewxw6c5akd0sryy6q6gv5a-midjourney-52-haunting-creature-that-looks-like-a-spider-full-body-reddish-eyes-the-background-is-a-cave-where-there-is-an.png" width="480" alt="After"></a>
+<a href="https://cdn.prompthero.com/tdhj6gcm7gjxmnrzojqvfgw3twxn-unstableinkdream-v73-space-cowgirl14-trenchcoat14-cowboy-hat14-gundam-armor-and-glowing-accents-mecha-bodysuit-beautiful-detailed-eyes-symmetrical-eyes-detailed-face-dramatic.png"><img src="https://cdn.prompthero.com/tdhj6gcm7gjxmnrzojqvfgw3twxn-unstableinkdream-v73-space-cowgirl14-trenchcoat14-cowboy-hat14-gundam-armor-and-glowing-accents-mecha-bodysuit-beautiful-detailed-eyes-symmetrical-eyes-detailed-face-dramatic.png" width="480" alt="After"></a>
 
 **Prompt**
 
 ```text
-haunting creature that looks like a spider, full body, reddish eyes, the background is a cave where there is an open wooden chest full of emeralds on the ground, horror, intricate details, cinematic, 4k, fantasy style, photo
+(Space Cowgirl:1.4), (trenchcoat:1.4), (cowboy hat:1.4), Gundam armor and glowing accents. mecha, bodysuit, (beautiful detailed eyes, symmetrical eyes, (detailed face), dramatic lighting, (photorealism, photorealistic:1.4), (8k, RAW photo, masterpiece), High detail RAW color photo, realistic, (highest quality), (best shadow), (best illustration), ultra high resolution, highly detailed CG unified 8K wallpapers, physics-based rendering, hyperrealism, rich colors, hyper-realistic lifelike texture, cinestill 800), <lora:add_detail:1>, <lora:RX78_V1:0.7>
 ```
 
-[Source](https://prompthero.com/prompt/2c9e407d3e7-midjourney-52-haunting-creature-that-looks-like-a-spider-full-body-reddish-eyes-the-background-is-a-cave-where-there-is-an)
+[Source](https://prompthero.com/prompt/721cb0b55e4-unstableinkdream-v73-space-cowgirl14-trenchcoat14-cowboy-hat14-gundam-armor-and-glowing-accents-mecha-bodysuit-beautiful-detailed-eyes-symmetrical-eyes-detailed-face-dramatic)
 
 ---
 
-<a id="prompthero-2de5fbc9bf8"></a>
+<a id="prompthero-745e82e4b86"></a>
 
-## Photorealistic artwork of a serene, celestial Asia\.\.\.
+## SiFi drone futur robot MACHINE BUMPER \(intricate d\.\.\.
 
-<a href="https://cdn.prompthero.com/jlidt8a88wb5giffvc5maw0zv6-seedream-v1-photorealistic-artwork-of-a-serene-celestial-asian-inspired-woman-with-pale-porcelain-skin-and-delicate-features-she-wears-intricate-gold.jpeg"><img src="https://cdn.prompthero.com/jlidt8a88wb5giffvc5maw0zv6-seedream-v1-photorealistic-artwork-of-a-serene-celestial-asian-inspired-woman-with-pale-porcelain-skin-and-delicate-features-she-wears-intricate-gold.jpeg" width="480" alt="After"></a>
+<a href="https://cdn.prompthero.com/tezfq3zh9alg9rol1tuxrszfiu1y-stable-diffusion-15-sifi-drone-futur-robot-machine-bumper-intricate-details122-hdr-intricate-details-hyperdetailed12-whole-body-cinematic-intense-cinematic-composition-cinematic-lighting.png"><img src="https://cdn.prompthero.com/tezfq3zh9alg9rol1tuxrszfiu1y-stable-diffusion-15-sifi-drone-futur-robot-machine-bumper-intricate-details122-hdr-intricate-details-hyperdetailed12-whole-body-cinematic-intense-cinematic-composition-cinematic-lighting.png" width="480" alt="After"></a>
 
 **Prompt**
 
 ```text
-Photorealistic artwork of a serene, celestial Asian-inspired woman with pale, porcelain skin and delicate features. She wears intricate gold jewelry—an ornate earring and a detailed headpiece crowned with a golden flower. Her long, dark hair is elegantly styled, accented by a vivid orange blossom. Eyes closed, she radiates calm and quiet divinity. Behind her, a massive glowing golden crescent moon rises against a deep blue, star-filled sky, with a smaller full moon beside it. She wears a flowing white robe with soft blue patterns that blend into the night. Branches with delicate orange flowers frame her, merging natural beauty with a dreamlike, otherworldly atmosphere.
+SiFi drone futur robot MACHINE BUMPER (intricate details:1.22), hdr, (intricate details, hyperdetailed:1.2), whole body, cinematic, intense, cinematic composition, cinematic lighting, (rim lighting:1.3), color grading, focused
 ```
 
-[Source](https://prompthero.com/prompt/2de5fbc9bf8-seedream-v1-photorealistic-artwork-of-a-serene-celestial-asian-inspired-woman-with-pale-porcelain-skin-and-delicate-features-she-wears-intricate-gold)
+[Source](https://prompthero.com/prompt/745e82e4b86-stable-diffusion-15-sifi-drone-futur-robot-machine-bumper-intricate-details122-hdr-intricate-details-hyperdetailed12-whole-body-cinematic-intense-cinematic-composition-cinematic-lighting)
 
 ---
 
-<a id="prompthero-2e772038071"></a>
+<a id="prompthero-899e9de2d84"></a>
 
-## \(\(style of Craig Ellen Jewett\)\), 8k\_UED, \(\(\(1nymph\.\.\.
+## Mecha Wars: The Samurai
 
-<a href="https://cdn.prompthero.com/tjzjpwvbxzmygkjseqwzfo0x2l5w-midjourney-6-nymph-style-of-craig-ellen-jewett-8kued-1nymph-acrylic-pour-stunningly-gorgeous-nymph-mythical-creature-moss-textured-skin-no-dof-full.png"><img src="https://cdn.prompthero.com/tjzjpwvbxzmygkjseqwzfo0x2l5w-midjourney-6-nymph-style-of-craig-ellen-jewett-8kued-1nymph-acrylic-pour-stunningly-gorgeous-nymph-mythical-creature-moss-textured-skin-no-dof-full.png" width="480" alt="After"></a>
+<a href="https://cdn.prompthero.com/o4gvuigbbffptzil0vnicne54l0q-stable-diffusion-xl-base-09-mecha-wars-the-samurai.jpg"><img src="https://cdn.prompthero.com/o4gvuigbbffptzil0vnicne54l0q-stable-diffusion-xl-base-09-mecha-wars-the-samurai.jpg" width="480" alt="After"></a>
 
 **Prompt**
 
 ```text
-((style of Craig Ellen Jewett)), 8k_UED, (((1nymph))), Acrylic pour, stunningly gorgeous nymph, mythical creature, ((((moss textured skin)))), no dof, full body image, dutch angle, blossoming hair, ((crown-like antlers)), ((flowers atop its head)), glowing trim, magical aura, bathing in a stream, wet robe, intricate patterns, ((enchanted fantasy forest background)), fantastical enviroment, lush vegetation, ruined building covered in moss, (((bioluminescent fish))), ((wild flowers of myriad hues)), ruined buildng covered in moss, intricate details, enhanced accent, (((dream-like ambiance))), sleek colors, style of green and red, magical lighting|diffusion lighting, light dust, Euler ancestral, very very very very very very very beautiful masterpiece, Precise Digital Artemis, redshift Render, SDEs, ESRGAN, (((enhanced edges))), enlightened compassionate, hypermaximalist --v 6.1
+Photo of a mecha guy, Gundam-style features, full cover facial armor, visible long black hair, white armor, HDR, ultra high-detail, explosion background, embers, light bloom, cinematic lighting, depth of field, concept art, unreal engine 5, RTX, photorealistic
 ```
 
-[Source](https://prompthero.com/prompt/2e772038071-midjourney-6-nymph-style-of-craig-ellen-jewett-8kued-1nymph-acrylic-pour-stunningly-gorgeous-nymph-mythical-creature-moss-textured-skin-no-dof-full)
+By [@abyishot](https://prompthero.com/prompt/899e9de2d84-stable-diffusion-xl-base-09-mecha-wars-the-samurai)
 
 ---
 
-<a id="prompthero-3a9de96536a"></a>
+<a id="prompthero-944c7509cbe"></a>
 
-## Character Sheet, Long wavy,light pink hair,complex\.\.\.
+## realistic style, Goku fighting at war, raging, blu\.\.\.
 
-<a href="https://cdn.prompthero.com/j0lrgj5y3m15n0tk6de4q2z977o7-flux-flux-11-pro-ultra-character-sheet-long-wavylight-pink-haircomplex-3d-render-ultra-detailed-of-a-beautiful-porcelain-front-face-woman-android-face-cyborg.png"><img src="https://cdn.prompthero.com/j0lrgj5y3m15n0tk6de4q2z977o7-flux-flux-11-pro-ultra-character-sheet-long-wavylight-pink-haircomplex-3d-render-ultra-detailed-of-a-beautiful-porcelain-front-face-woman-android-face-cyborg.png" width="480" alt="After"></a>
+<a href="https://cdn.prompthero.com/v1_39d587c371c7b804159482f681-riverflow-riverflow-25-realistic-style-goku-fighting-at-war-raging-blue-hair-character-design-body-is-adorned-with-glowing-blue-runes-blue-aura.jpg"><img src="https://cdn.prompthero.com/v1_39d587c371c7b804159482f681-riverflow-riverflow-25-realistic-style-goku-fighting-at-war-raging-blue-hair-character-design-body-is-adorned-with-glowing-blue-runes-blue-aura.jpg" width="480" alt="After"></a>
 
 **Prompt**
 
 ```text
-Character Sheet, Long wavy,light pink hair,complex 3d render ultra detailed of a beautiful porcelain Front face woman android face, cyborg, robotic parts, beautiful studio soft light, rim light, vibrant details, luxurious cyberpunk, lace, hyper realistic, anatomical, facial muscles, cable electric wires, microchip, elegant, beautiful background, octane render, H.R. Giger style,
+realistic style, Goku fighting at war, raging, blue hair, character design, body is adorned with glowing blue runes, blue aura around him, body dynamic epic action pose, intricate, highly detailed, epic and dynamic composition, dynamic angle, intricate details,  multicolor explosion, blur effect, sharp focus, uhd, hdr, colorful shot, stormy weather, tons of flying debris around him, dark city background
 ```
 
-[Source](https://prompthero.com/prompt/3a9de96536a-flux-flux-11-pro-ultra-character-sheet-long-wavylight-pink-haircomplex-3d-render-ultra-detailed-of-a-beautiful-porcelain-front-face-woman-android-face-cyborg)
+[Source](https://prompthero.com/prompt/944c7509cbe-riverflow-riverflow-25-realistic-style-goku-fighting-at-war-raging-blue-hair-character-design-body-is-adorned-with-glowing-blue-runes-blue-aura)
 
 ---
 
-<a id="prompthero-3d4bbc17c4b"></a>
+<a id="prompthero-983a296d91f"></a>
 
-## Create a premium industrial mascot character for a\.\.\.
+## A cinematic wide shot of a lone warrior in a desol\.\.\.
 
-<a href="https://cdn.prompthero.com/zfgwighwu21pmdvryrofkcxpdk-hero-10-create-a-premium-industrial-mascot-character-for-a-crawler-undercarriage-and-construction-machinery-chassis-company-the-mascot-is-a-friendly.jpeg"><img src="https://cdn.prompthero.com/zfgwighwu21pmdvryrofkcxpdk-hero-10-create-a-premium-industrial-mascot-character-for-a-crawler-undercarriage-and-construction-machinery-chassis-company-the-mascot-is-a-friendly.jpeg" width="480" alt="After"></a>
+<a href="https://cdn.prompthero.com/zrhp24vrmpfxsrcnd4v6dt7mtd-lone-one-a-cinematic-wide-shot-of-a-lone-warrior-in-a-desolate-sandy-wasteland-they-are-wearing-heavy-bulky-armor-salvaged.png"><img src="https://cdn.prompthero.com/zrhp24vrmpfxsrcnd4v6dt7mtd-lone-one-a-cinematic-wide-shot-of-a-lone-warrior-in-a-desolate-sandy-wasteland-they-are-wearing-heavy-bulky-armor-salvaged.png" width="480" alt="After"></a>
 
 **Prompt**
 
 ```text
-Create a premium industrial mascot character for a crawler undercarriage and construction machinery chassis company. The mascot is a friendly but professional engineering robot, with a realistic crawler track undercarriage as its lower body. It should have a clear character identity, not just a vehicle. The upper body should be a compact robot torso with a simple helmet-like head and a digital visor face, small friendly LED eyes, and no human baby face. The lower body should look like a real heavy-duty crawler undercarriage, stable and strong. Use industrial yellow, dark gray, and black colors. The design should feel reliable, stable, professional, and suitable for an international B2B machinery brand. Add clean blank areas on the helmet and chest panel for placing a company logo later. Do not generate any text, logo, letters, symbols, or watermark. Full body, front three-quarter view, clean white background, studio lighting, high-quality 3D render, product catalog style.
+A cinematic wide shot of a lone warrior in a desolate, sandy wasteland. They are wearing heavy, bulky armor salvaged from discarded tanks and industrial machinery. The centerpiece of the suit is a terrifying mechanical mouth on the chest with sharp, interlocking metal fangs. Dust and sand are stuck in the crevices of the rusted plates. The sky is a hazy orange. Captured on 35mm film, grainy texture, "Mad Max" aesthetic, intense atmospheric lighting, photorealistic, hyper-detailed scrap-metal textures.
 ```
 
-[Source](https://prompthero.com/prompt/3d4bbc17c4b-hero-10-create-a-premium-industrial-mascot-character-for-a-crawler-undercarriage-and-construction-machinery-chassis-company-the-mascot-is-a-friendly)
+[Source](https://prompthero.com/prompt/983a296d91f-lone-one-a-cinematic-wide-shot-of-a-lone-warrior-in-a-desolate-sandy-wasteland-they-are-wearing-heavy-bulky-armor-salvaged)
 
 ---
 
-[1](characters.md) · [2](characters-2.md) · **3** · [4](characters-4.md) · [5](characters-5.md) · [6](characters-6.md) · [7](characters-7.md) · [8](characters-8.md)
+<a id="prompthero-3079b37cbd7"></a>
+
+## pokemon pikachu, active pose, anime, scetch, nvink\.\.\.
+
+<a href="https://cdn.prompthero.com/66s920gzru9mrhn6d38gyxeiihet-deliberate-v2-pokemon-pikachu-active-pose-anime-scetch-nvinkpunk-abstract-brush-strokes-heavy-lines-hdr-neo-noir-style-bright-yellow-neon-minimal.png"><img src="https://cdn.prompthero.com/66s920gzru9mrhn6d38gyxeiihet-deliberate-v2-pokemon-pikachu-active-pose-anime-scetch-nvinkpunk-abstract-brush-strokes-heavy-lines-hdr-neo-noir-style-bright-yellow-neon-minimal.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+pokemon pikachu, active pose, anime, scetch, nvinkpunk, abstract brush strokes, heavy lines, HDR Neo-Noir style, bright yellow neon, minimal, beautiful devil from hell, fiery cape, perfect proportion, Cyberpunk Edgerunner style, late night, breath of fire, cold chaos, strong contrast, distant view, 8K image quality, flicker, tender picture, loish, jeremy mann, full body shot, character sheet, lightning wave, 3d, cg graphics, glowing neon, cyberpunk
+```
+
+[Source](https://prompthero.com/prompt/3079b37cbd7-deliberate-v2-pokemon-pikachu-active-pose-anime-scetch-nvinkpunk-abstract-brush-strokes-heavy-lines-hdr-neo-noir-style-bright-yellow-neon-minimal)
+
+---
+
+[1](characters.md) · [2](characters-2.md) · **3** · [4](characters-4.md) · [5](characters-5.md) · [6](characters-6.md)
 
 [← Home](../README.md)

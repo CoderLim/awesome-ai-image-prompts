@@ -6,38 +6,6 @@
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
-<a id="freestylefly-case-452"></a>
-
-## 极简童话手绘儿童插画
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case452.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case452.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Transform the photo into a delicate minimalist hand-drawn children’s illustration with a soft whimsical fairy-tale aesthetic. Use simple elongated shapes, thin imperfect hand-drawn lines, flat pastel colors, minimal details, and a cute doll-like character style with rosy cheeks, tiny facial features, and simplified anatomy. Add subtle paper texture, soft pencil and pastel shading, watercolor softness, and a clean white background with small stars or sparkles. Stylize the clothing in a playful storybook way with simplified shapes and gentle decorative details. The overall mood should feel airy, cozy, naive, and charming, like a modern Scandinavian nursery postcard or children’s book illustration. Avoid photorealism, 3D, cinematic lighting, glossy surfaces, complex shadows, realistic anatomy, and hyper-detail.
-```
-
-By [@MissDelulu9](https://x.com/MissDelulu9/status/2057073936295399551)
-
----
-
-<a id="freestylefly-case-458"></a>
-
-## 巴黎秋季时装插画
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case458.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case458.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Full-body fashion illustration of a young woman walking down a Parisian street in autumn, wearing a long camel wool coat draped open over a black ribbed turtleneck sweater and high-waisted wide-leg cream trousers, holding a quilted tan leather shoulder bag with interlocking CC logo and chain strap in her left hand while her right hand slides into a pocket, short dark brown wavy hair gently lifted by a breeze, pearl stud earrings, natural fresh makeup and a confident serene expression; cinematic shallow depth of field with soft warm golden-hour light, subtle bokeh on Haussmann-style buildings and slow-moving cars in the blurred background, scattered fallen leaves on the pavement; semi-realistic digital painting / fashion illustration style with clean linework, soft gradients, high-detail fabric textures and realistic folds, emphasis on elegant silhouettes and tactile materials, muted autumn palette (camel, cream, black, warm ochre), vertical composition, crisp foreground, gentle film grain and polished finishing.
-```
-
-By [@heyfatema](https://x.com/heyfatema/status/2057745100365787170)
-
----
-
 <a id="freestylefly-case-463"></a>
 
 ## 黑色吊带袜单款图鉴展示
@@ -323,6 +291,38 @@ dragon ball, portrait of dr goku, in the style of street art aesthetic, cute car
 ```
 
 By [@NorthmoorAI](https://prompthero.com/prompt/2c257f9cf57-midjourney-6-dragon-ball-portrait-of-dr-goku-in-the-style-of-street-art-aesthetic-cute-cartoonish-designs-photo-realistic-techniques-dark)
+
+---
+
+<a id="prompthero-2e3950c3699"></a>
+
+## artistic, oil painting texture, front view, upper \.\.\.
+
+<a href="https://cdn.prompthero.com/22mgmkpzs2cvjnfd33sca0eotuwl-midjourney-61-artistic-oil-painting-texture-front-view-upper-body-creepy-man-incorporating-a-heavy-brush-style-sci-fi-entity-organic-and.png"><img src="https://cdn.prompthero.com/22mgmkpzs2cvjnfd33sca0eotuwl-midjourney-61-artistic-oil-painting-texture-front-view-upper-body-creepy-man-incorporating-a-heavy-brush-style-sci-fi-entity-organic-and.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+artistic, oil painting texture, front view, upper body, creepy man, incorporating a heavy brush style, sci-fi entity organic and mechanical elements, eyes locked in a gaze, face, creation of a dystopian atmosphere, horror of a technology, color scheme dominated by bloody red and deep black, chaos and rawness of Tsutomu Nihei's dystopian environments, hyper-detailed elements to evoke realism --ar 9:16 --style raw --profile ue2yzjl --stylize 300 --v 6.1
+```
+
+By [@Grayve](https://prompthero.com/prompt/2e3950c3699-midjourney-61-artistic-oil-painting-texture-front-view-upper-body-creepy-man-incorporating-a-heavy-brush-style-sci-fi-entity-organic-and)
+
+---
+
+<a id="prompthero-3b4d25f3a67"></a>
+
+## Picture a cat portrayed with the artistic essence \.\.\.
+
+<a href="https://cdn.prompthero.com/v1_5558ef952acfefc672c93d639e-chatgpt-image-gpt-image-2-picture-a-cat-portrayed-with-the-artistic-essence-of-qi-baishis-renowned-brushwork-the-cats-form-is-captured-through-fluid.jpeg"><img src="https://cdn.prompthero.com/v1_5558ef952acfefc672c93d639e-chatgpt-image-gpt-image-2-picture-a-cat-portrayed-with-the-artistic-essence-of-qi-baishis-renowned-brushwork-the-cats-form-is-captured-through-fluid.jpeg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+Picture a cat portrayed with the artistic essence of Qi Baishi's renowned brushwork. The cat's form is captured through fluid, spontaneous lines that suggest its playful demeanor and agile nature. Using minimal strokes, Qi Baishi's signature style brings out the cat's character, emphasizing its curiosity and independence. The cat might be depicted in a simple yet evocative setting, surrounded by delicate depictions of flora or objects that offer a glimpse into its world. The overall scene carries a sense of whimsy and an appreciation for the beauty in everyday life, paying homage to the artistic legacy of Qi Baishi --ar 2:3 --v 5.2
+```
+
+[Source](https://prompthero.com/prompt/3b4d25f3a67-chatgpt-image-gpt-image-2-picture-a-cat-portrayed-with-the-artistic-essence-of-qi-baishis-renowned-brushwork-the-cats-form-is-captured-through-fluid)
 
 ---
 

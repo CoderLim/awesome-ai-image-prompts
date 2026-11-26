@@ -22,22 +22,6 @@ By [小红书号989137706](https://github.com/freestylefly/awesome-gpt-image-2/b
 
 ---
 
-<a id="freestylefly-case-48"></a>
-
-## 直播界面设计图
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case48.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case48.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-A 9:16 aspect ratio image, generating a screenshot of a Douyin livestream where {argument name="celebrity" default="Liu Yifei"} is broadcasting, holding a sign that says "{argument name="sign text" default="Streaming tonight, welcome to join Yifei's chat!"}"
-```
-
-By [@kylegeeks](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-48)
-
----
-
 <a id="freestylefly-case-91"></a>
 
 ## 游戏界面截图
@@ -214,22 +198,6 @@ By [@ryuya\_\_31](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999c
 
 ---
 
-<a id="freestylefly-case-149"></a>
-
-## 直播界面设计图
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case149.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case149.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-{ "type": "mobile livestream e-commerce interface mockup", "subject": { "person": "Elon Musk", "clothing": "black t-shirt with SPACEX logo", "pose": "gesturing towards camera with both hands, explaining enthusiastically", "watermark": "@Proof AI" }, "background": { "setting": "large display screen", "image": "Mars landscape with Starship rocket and dome habitats", "text": [ "SPACEX", "{argument name=\"background title\" default=\"移民火星计划\"}" ] }, "ui_layout": { "header": { "broadcaster_info": { "name": "{argument name=\"broadcaster name\" default=\"ElonMusk\"}", "stats": "75.8万本场点赞", "follow_button": "关注" }, "viewer_stats": { "avatars_count": 3, "text": "10万+", "close_button": "X" }, "tags": [ "带货总榜第1名", "更多直播 >" ] }, "product_card": { "position": "mid-right", "status": "讲解中", "image": "Mars dome habitats", "title": "{argument name=\"product title\" default=\"火星移民基础套餐\"}", "price": "{argument name=\"product price\" default=\"¥99.00\"}", "action_button": "抢" }, "chat_overlay": { "position": "bottom-left", "join_alert": "星辰大海 加入了直播间", "messages_count": 7, "messages": [ "{argument name=\"top chat message\" default=\"梦想家: 支持马斯克！！🚀\"}", "火星弟弟: 多少钱一位？", "科技迷: 太酷了！想去火星！", "未来已来: 如何报名？", "小火箭: 🌹🌹🌹", "宇宙无敌: 讲解一下细节", "东方不败: 老马牛逼！👍👍👍" ] }, "bottom_action_bar": { "input_placeholder": "说点什么...", "icons_count": 4, "icons": ["shopping cart", "gift box", "heart planet", "plus sign"] }, "floating_reactions": { "position": "bottom-right", "elements": "stack of floating hearts, thumbs up, and laughing emojis" } } }
-```
-
-By [@JCutcut47692](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-149)
-
----
-
 <a id="freestylefly-case-156"></a>
 
 ## 应用界面样机图
@@ -278,51 +246,83 @@ By [@DanDaniDaniel01](https://github.com/freestylefly/awesome-gpt-image-2/blob/0
 
 ---
 
-<a id="freestylefly-case-164"></a>
+<a id="freestylefly-case-200"></a>
 
-## 特朗普太空直播间破千万
+## 热度爆表的美女内衣直播间
 
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case164.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case164.jpg" width="480" alt="Source example"></a>
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case200.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case200.jpg" width="480" alt="Source example"></a>
 
 **Prompt**
 
 ```text
-[中文] 一张9:16竖屏的抖音直播截图，太空直播风格。特朗普穿着NASA风格的白色宇航服，头盔面罩半开，露出他标志性的金色头发和笑容。他漂浮在国际空间站的舱内进行直播，处于微重力失重状态，身体微微悬浮。他双手举着一块固定在宇航服上的金属铭牌，铭牌上用NASA风格的印刷体写着"感谢松果先森送的大火箭"。身后圆形舷窗外可以看到蓝色的地球和深邃的太空。直播界面显示在线人数"地球+火星共888万"。弹幕区有人刷"真的在太空直播？""松果先森的火箭把你送上天了"。屏幕中央的火箭礼物特效与窗外太空中一枚正在发射的真实火箭遥相呼应，形成虚实结合的效果。舱内有各种精密仪器和控制面板，绿色和蓝色的指示灯闪烁。画面色调以深蓝、白色和金色为主，舷窗外的星光点缀其间，8K超高清，电影《地心引力》级别的视觉效果。 [English] A 9:16 vertical screen screenshot of a Douyin live stream, space live stream style. Trump is wearing a NASA-style white spacesuit, with the helmet visor half open, revealing his signature golden hair and smile. He is floating inside the cabin of the International Space Station doing a live stream, in a microgravity weightless state, with his body slightly suspended. He is holding up a metal nameplate fixed to the spacesuit with both hands, and the nameplate says "Thanks to Songguo Xiansen for the big rocket" in NASA-style print. Behind him, the blue Earth and deep space can be seen through the circular porthole. The live stream interface shows the online viewer count as "Earth + Mars total 8.88 million". In the bullet screen area, someone is commenting "Really live streaming from space?" and "Songguo Xiansen's rocket sent you up to the sky". The rocket gift effect in the center of the screen echoes a real rocket launching in the space outside the window, forming a combination of virtual and real effects. There are various precision instruments and control panels inside the cabin, with green and blue indicator lights flashing. The color tone of the picture is mainly dark blue, white, and gold, with starlight from outside the porthole embellishing it, 8K ultra-high definition, visual effects at the level of the movie "Gravity".
+[中文] 生成一个抖音直播的截图 里面是一个美女在直播，在卖丝袜和内衣，她的在线人数是99996，热度是18+，有个叫小互的大哥，给她刷了一个飞机礼物 [English] Generate a screenshot of a Douyin live stream featuring a beautiful woman live streaming, selling pantyhose and underwear, her online viewer count is 99996, the popularity rating is 18+, a big brother named Xiao Hu sent her an airplane gift
 ```
 
-By [@songguoxiansen](https://x.com/songguoxiansen/status/2046478609238626569)
+By [@xiaohu](https://x.com/xiaohu/status/2046536551681954207)
 
 ---
 
-<a id="freestylefly-case-167"></a>
+<a id="freestylefly-case-213"></a>
 
-## 大唐玄武门之变的朋友圈
+## 金瓶梅古风开放世界游戏截图
 
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case167.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case167.jpg" width="480" alt="Source example"></a>
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case213.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case213.jpg" width="480" alt="Source example"></a>
 
 **Prompt**
 
 ```text
-[中文] 玄武门之变的朋友圈 [English] WeChat Moments of the Xuanwu Gate Incident
+[中文] 帮我生成一个以《金瓶梅》为主题的古代 ARPG MMO 开放世界游戏的截图 [English] Help me generate a screenshot of an ancient ARPG MMO open-world game themed around Jin Ping Mei.
 ```
 
-By [@Tz\_2022](https://x.com/Tz_2022/status/2046523491940225366)
+By [@op7418](https://x.com/op7418/status/2046520509651886451)
 
 ---
 
-<a id="freestylefly-case-176"></a>
+<a id="freestylefly-case-227"></a>
 
-## 苏轼被贬首日朋友圈曝光
+## 哔哩哔哩户晨风直播截图
 
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case176.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case176.jpg" width="480" alt="Source example"></a>
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case227.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case227.jpg" width="480" alt="Source example"></a>
 
 **Prompt**
 
 ```text
-[中文] 苏轼被贬第一天小红书截图 [English] Su Shi's first day of exile Xiaohongshu screenshot
+[中文] 9:16 的图片，生成一张哔哩哔哩直播的截图，里面是 户晨风在直播，户晨风表情开心，手里拿着牌子，牌子里写着 “Austin总太性情了，大家给Austin总点点关注。” [English] A 9:16 image, generate a screenshot of a Bilibili live stream, inside is Hu Chenfeng broadcasting live, Hu Chenfeng has a happy expression, holding a sign in his hand, the sign says "Boss Austin is so emotional, everyone please give Boss Austin some follows."
 ```
 
-By [@MrLarus](https://x.com/MrLarus/status/2046585220393324553)
+By [@austinit](https://x.com/austinit/status/2044994519649997183)
+
+---
+
+<a id="freestylefly-case-239"></a>
+
+## 刘亦菲抖音直播畅聊中
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case239.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case239.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+[中文] 9:16 的图片比例，生成一张抖音直播的截图，里面是 刘亦菲 在直播，刘亦菲 手里拿着牌子，牌子里写着 今晚直播，欢迎来参亦菲畅聊！ [English] 9:16 aspect ratio, generate a screenshot of a Douyin live stream, inside is Liu Yifei live streaming, Liu Yifei is holding a sign in her hand, the sign says Tonight's live stream, welcome to join Yifei for a chat!
+```
+
+By [@alanblogsooo](https://x.com/alanblogsooo/status/2044784762594918516)
+
+---
+
+<a id="freestylefly-case-243"></a>
+
+## 定制专属风格界面设计系统
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case243.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case243.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+[中文] 用xx风格帮我生成一套UI设计系统，包含网页、移动端、卡片、控件、按钮 以及其它 [English] Generate a UI design system for me in xx style, including web pages, mobile, cards, controls, buttons, and others
+```
+
+By [@stark\_nico99](https://x.com/stark_nico99/status/2045836554451706125)
 
 ---
 

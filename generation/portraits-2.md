@@ -1,26 +1,10 @@
 # portraits
 
-[← Home](../README.md) · Page 2 / 36
+[← Home](../README.md) · Page 2 / 35
 
-[1](portraits.md) · **2** · [3](portraits-3.md) · [4](portraits-4.md) · [5](portraits-5.md) · [6](portraits-6.md) · [7](portraits-7.md) · [8](portraits-8.md) · [9](portraits-9.md) · [10](portraits-10.md) · [11](portraits-11.md) · [12](portraits-12.md) · [13](portraits-13.md) · [14](portraits-14.md) · [15](portraits-15.md) · [16](portraits-16.md) · [17](portraits-17.md) · [18](portraits-18.md) · [19](portraits-19.md) · [20](portraits-20.md) · [21](portraits-21.md) · [22](portraits-22.md) · [23](portraits-23.md) · [24](portraits-24.md) · [25](portraits-25.md) · [26](portraits-26.md) · [27](portraits-27.md) · [28](portraits-28.md) · [29](portraits-29.md) · [30](portraits-30.md) · [31](portraits-31.md) · [32](portraits-32.md) · [33](portraits-33.md) · [34](portraits-34.md) · [35](portraits-35.md) · [36](portraits-36.md)
+[1](portraits.md) · **2** · [3](portraits-3.md) · [4](portraits-4.md) · [5](portraits-5.md) · [6](portraits-6.md) · [7](portraits-7.md) · [8](portraits-8.md) · [9](portraits-9.md) · [10](portraits-10.md) · [11](portraits-11.md) · [12](portraits-12.md) · [13](portraits-13.md) · [14](portraits-14.md) · [15](portraits-15.md) · [16](portraits-16.md) · [17](portraits-17.md) · [18](portraits-18.md) · [19](portraits-19.md) · [20](portraits-20.md) · [21](portraits-21.md) · [22](portraits-22.md) · [23](portraits-23.md) · [24](portraits-24.md) · [25](portraits-25.md) · [26](portraits-26.md) · [27](portraits-27.md) · [28](portraits-28.md) · [29](portraits-29.md) · [30](portraits-30.md) · [31](portraits-31.md) · [32](portraits-32.md) · [33](portraits-33.md) · [34](portraits-34.md) · [35](portraits-35.md)
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
-
-<a id="evolink-portraits-case-29"></a>
-
-## Twenty-Third Birthday Portrait
-
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2103789510555549696.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2103789510555549696.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-A stunning Southeast Asian woman with short, wavy chestnut-brown bob hair and soft glam makeup — rosy lips and subtle eye makeup — sits elegantly atop a large 3D sculptural number "23" rendered in creamy white with a warm golden inner frame. The hollow interiors of both digits are filled with clusters of metallic balloons in champagne gold, pearl white, and blush pink, along with delicate pink roses and soft cherry blossom branches. She wears a sophisticated dark chocolate brown pinstripe sleeveless wide-leg jumpsuit with a neat self-tie bow at the waist, paired with matching dark brown pointed-toe ankle-strap stiletto heels. Her pose is confident and relaxed — one leg crossed, hand resting gently beside her. The background is a clean warm cream/off-white with soft diagonal light streaks creating a luxurious sun-ray shadow effect. The overall mood is chic, celebratory, and editorial — a birthday or milestone portrait with a fashion-forward aesthetic.
-```
-
-By [@HaniaAi12](https://x.com/HaniaAi12/status/2103789528888525224)
-
----
 
 <a id="evolink-portraits-case-30"></a>
 
@@ -246,54 +230,6 @@ By [@DeepBlueX0](https://x.com/DeepBlueX0/status/2100065803072897507)
 
 ---
 
-<a id="freestylefly-case-21"></a>
-
-## 直播界面设计图
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case21.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case21.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-{ "type": "live stream UI mockup", "subject": { "description": "portrait of {argument name=\"host name\" default=\"Elon Musk\"}, smiling, wearing a black t-shirt with a white technical schematic graphic", "background": "left side shows a screen with '{argument name=\"left background logo\" default=\"SPACEX\"}' text, right side shows a red '{argument name=\"right background logo\" default=\"Tesla T logo\"}' and a dark car" }, "ui_overlay": { "top_header": { "host_info": "avatar, name '{argument name=\"host name\" default=\"Elon Musk\"}', subtext '55.6万本场点赞', red '关注' button", "rank_badge": "gold coin icon with '全站第1名'", "viewer_stats": "3 top viewer avatars with '12.3w', '8.6w', '5.7w', total '68.7万', 'X' close button", "right_links": "'更多直播 >', '礼物展馆 0/24' with blue '经典' tag" }, "mid_left_gifts": { "count": 2, "items": [ "avatar '科技爱好者', '送小心心', heart icon x 1314", "avatar '星辰大海', '送火箭', rocket icon x 666" ] }, "bottom_left_chat": { "system_message": "level 37 badge '宇宙漫游者 加入了直播间'", "message_count": 7, "messages": [ "小火箭: 马斯克！未来可期！🚀", "future: 特斯拉Model 2什么时候出？", "星空梦想家: SpaceX今年能上火星吗？", "AI探索者: Neuralink进展如何？", "帅气的网友: 马总好！", "Mars: 第一次来你的直播，超激动！", "用户123: 讲讲AI吧，会取代人类吗？" ] }, "bottom_right_product_card": { "hot_tag": "orange '热卖 x 1888'", "image": "Tesla Cybertruck", "title": "{argument name=\"product name\" default=\"特斯拉Cybertruck 电动皮卡\"}", "price": "{argument name=\"product price\" default=\"¥ 1,618,000\"}", "button": "red '抢' button", "floating_animation": "translucent hearts floating up the right edge" }, "bottom_bar": { "input_field": "'说点什么...'", "icons": ["smiley face", "three dots", "shopping cart", "gift box", "share"] } } }
-```
-
-By [@sjbbxhz](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-21)
-
----
-
-<a id="freestylefly-case-24"></a>
-
-## 漫画分镜叙事设计
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case24.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case24.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Genshin Impact {argument name="character" default="Raiden Shogun"} cosplay selfies at the {argument name="event" default="Shanghai Comic Con"}
-```
-
-By [@wewe50770964683](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-24)
-
----
-
-<a id="freestylefly-case-28"></a>
-
-## 写实摄影风格创作
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case28.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case28.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-{ "type": "2x2 portrait grid", "subject": "{argument name=\"subject description\" default=\"young adult East Asian male with short black hair and a slight smile\"}", "style": "photorealistic, high-resolution, professional lighting, consistent facial identity across all panels", "layout": { "format": "2x2 grid", "panel_count": 4, "panels": [ { "position": "top-left", "description": "{argument name=\"profession 1\" default=\"Corporate professional wearing a dark navy suit, white shirt, and blue tie against a gray textured background\"}" }, { "position": "top-right", "description": "{argument name=\"profession 2\" default=\"Casual attire wearing a dark blue crew neck t-shirt against a blurred outdoor park background\"}" }, { "position": "bottom-left", "description": "{argument name=\"profession 3\" default=\"Construction worker wearing a yellow hard hat, navy blue work shirt, and bright orange high-visibility vest against a blurred warehouse background\"}" }, { "position": "bottom-right", "description": "{argument name=\"profession 4\" default=\"Medical professional wearing a white lab coat over a light blue collared shirt against a blurred laboratory background\"}" } ] } }
-```
-
-By [@frankfu1688](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-28)
-
----
-
 <a id="freestylefly-case-31"></a>
 
 ## 人像写实摄影图
@@ -326,6 +262,70 @@ By [@kazmaendo](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbf
 
 ---
 
-[1](portraits.md) · **2** · [3](portraits-3.md) · [4](portraits-4.md) · [5](portraits-5.md) · [6](portraits-6.md) · [7](portraits-7.md) · [8](portraits-8.md) · [9](portraits-9.md) · [10](portraits-10.md) · [11](portraits-11.md) · [12](portraits-12.md) · [13](portraits-13.md) · [14](portraits-14.md) · [15](portraits-15.md) · [16](portraits-16.md) · [17](portraits-17.md) · [18](portraits-18.md) · [19](portraits-19.md) · [20](portraits-20.md) · [21](portraits-21.md) · [22](portraits-22.md) · [23](portraits-23.md) · [24](portraits-24.md) · [25](portraits-25.md) · [26](portraits-26.md) · [27](portraits-27.md) · [28](portraits-28.md) · [29](portraits-29.md) · [30](portraits-30.md) · [31](portraits-31.md) · [32](portraits-32.md) · [33](portraits-33.md) · [34](portraits-34.md) · [35](portraits-35.md) · [36](portraits-36.md)
+<a id="freestylefly-case-36"></a>
+
+## 品牌徽标设计图
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case36.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case36.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+A photorealistic selfie of a young man with short wavy dark hair and light stubble on an indoor basketball court. He wears a black athletic t-shirt with a white swoosh. He holds a {argument name="ball color" default="green"} basketball featuring a large white {argument name="logo design" default="OpenAI logo"}. The background shows a hardwood floor, black wall pads, and a basketball hoop against a concrete wall. Bright indoor gym lighting with a casual social media aesthetic.
+```
+
+By [@mirochill](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-36)
+
+---
+
+<a id="freestylefly-case-43"></a>
+
+## 插画艺术创作图
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case43.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case43.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+{ "type": "character portrait grid", "theme": "{argument name=\"theme\" default=\"Game of Thrones characters\"}", "style": "{argument name=\"art style\" default=\"2D flat illustration, clean line art, comic style, profile view facing right, pale skin with blush\"}", "layout": { "grid": "3x3", "background": "light gray textured", "frame_style": "white rounded-rectangle frames with text labels below each" }, "count": 9, "portraits": [ { "label": "Jon Snow", "description": "black hair half-up, beard, dark fur cloak" }, { "label": "Daenerys Targaryen", "description": "silver braided hair, blue dress" }, { "label": "Tyrion Lannister", "description": "curly brown hair, beard, dark tunic with gold pin" }, { "label": "Cersei Lannister", "description": "blonde braided hair, ornate red and gold dress" }, { "label": "Ned Stark", "description": "brown hair half-up, beard, dark fur cloak" }, { "label": "Arya Stark", "description": "short dark hair half-up, brown tunic, sword hilt" }, { "label": "Jaime Lannister", "description": "short blonde hair, gold armor with lion motif" }, { "label": "Sansa Stark", "description": "red braided hair, blue dress with fur collar" }, { "label": "Theon Greyjoy", "description": "short dark curly hair, dark tunic with kraken pin" } ] }
+```
+
+By [@stark\_nico99](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-43)
+
+---
+
+<a id="freestylefly-case-45"></a>
+
+## 人像写实摄影图
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case45.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case45.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+A striking black and white close-up portrait of a {argument name="subject description" default="handsome young Asian man"} with {argument name="hair style" default="messy wet hair sticking to his forehead"}. His face and neck are glistening, covered in highly detailed {argument name="skin texture detail" default="water droplets and sweat"}. He has an intense, melancholic gaze directed off-camera to the left. The lighting is dramatic and high-contrast, emphasizing his sharp jawline, full lips, and specular highlights on the wet skin against a {argument name="background" default="pitch-black background"}. Shot in a photorealistic, high-fashion editorial style with cinematic chiaroscuro.
+```
+
+By [@AoYe999](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-45)
+
+---
+
+<a id="freestylefly-case-52"></a>
+
+## 写实摄影风格图
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case52.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case52.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+A realistic photograph of a whiteboard with a highly detailed {argument name="marker color" default="green"} dry-erase marker drawing of {argument name="subject" default="a samurai with a messy topknot and facial hair, hands clasped in prayer"}. The character is drawn in a {argument name="art style" default="detailed manga sketch"} style, shown in profile with eyes closed, wearing a traditional kimono with a katana tucked into his belt. To the left of the character, handwritten text in all-caps reads "{argument name="text line 1" default="VAGABOND"}" with "{argument name="text line 2" default="MUSASHI"}" written directly below it. The whiteboard has a glossy surface with realistic light reflections and glare on the left side, and a thin metallic frame is visible at the bottom edge, giving the impression of an authentic classroom or office environment.
+```
+
+By [@nicdunz](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-52)
+
+---
+
+[1](portraits.md) · **2** · [3](portraits-3.md) · [4](portraits-4.md) · [5](portraits-5.md) · [6](portraits-6.md) · [7](portraits-7.md) · [8](portraits-8.md) · [9](portraits-9.md) · [10](portraits-10.md) · [11](portraits-11.md) · [12](portraits-12.md) · [13](portraits-13.md) · [14](portraits-14.md) · [15](portraits-15.md) · [16](portraits-16.md) · [17](portraits-17.md) · [18](portraits-18.md) · [19](portraits-19.md) · [20](portraits-20.md) · [21](portraits-21.md) · [22](portraits-22.md) · [23](portraits-23.md) · [24](portraits-24.md) · [25](portraits-25.md) · [26](portraits-26.md) · [27](portraits-27.md) · [28](portraits-28.md) · [29](portraits-29.md) · [30](portraits-30.md) · [31](portraits-31.md) · [32](portraits-32.md) · [33](portraits-33.md) · [34](portraits-34.md) · [35](portraits-35.md)
 
 [← Home](../README.md)

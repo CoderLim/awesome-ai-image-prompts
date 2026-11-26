@@ -22,22 +22,6 @@ By [@Goodmanprotocol](https://x.com/Goodmanprotocol/status/2108112844239892599)
 
 ---
 
-<a id="evolink-illustration-case-153"></a>
-
-## Raised-Arms Watercolor Portrait
-
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2103714767756259328.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2103714767756259328.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Use the uploaded image ONLY as the FACE REFERENCE. Preserve the exact facial identity from the reference image, including facial structure, eyes, eyebrows, nose, lips, jawline, cheekbones, skin tone, hairline, and overall recognizable appearance. POSE: A young woman leaning slightly forward toward the camera, her upper body angled naturally, both arms raised above and around her head, shoulders lifted, head slightly tilted toward the camera, face turned directly toward the viewer, eyes looking into the camera. One hand is positioned behind the head while the other arm is raised beside the head. Maintain a relaxed yet elegant fashion pose with natural body proportions and realistic anatomy. CAMERA: Close-up portrait, slightly low camera angle, intimate framing, upper body filling most of the frame, cinematic perspective. STYLE: Elegant hand-painted watercolor and fine ink illustration, expressive brush strokes, soft watercolor washes, textured cold-pressed watercolor paper, delicate ink outlines, subtle paint bleeding, warm Mediterranean travel aesthetic, sophisticated editorial fashion illustration, highly detailed face, natural skin shading, artistic handmade texture. IMPORTANT: The uploaded image is ONLY for facial identity. Do not copy its pose, clothing, background, composition, or body position. Create a completely new composition using the pose described above. NEGATIVE PROMPT: different face, altered facial identity, face distortion, face swap artifacts, different pose, stiff posture, unnatural anatomy, extra fingers, missing fingers, deformed hands, 3D render, anime, cartoon, photorealistic photography.
-```
-
-By [@Arina\_hoqe](https://x.com/Arina_hoqe/status/2103714798324125892)
-
----
-
 <a id="evolink-illustration-case-156"></a>
 
 ## Charcoal Background and Color Figure
@@ -99,22 +83,6 @@ Use the uploaded image ONLY for face and identity reference. Do not change facia
 ```
 
 By [@Kubra\_286](https://x.com/Kubra_286/status/2100063244324889037)
-
----
-
-<a id="evolink-sequential-art-case-246"></a>
-
-## Sixteen-Panel Dance Reference Sheet
-
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2099797756776677377.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2099797756776677377.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Create a polished square-format dance reference sheet featuring the character from the uploaded reference image. The final image should be arranged as a clean 4×4 grid containing exactly 16 equally sized panels. Each panel represents the next key pose in a single uninterrupted dance sequence, read from left to right and then top to bottom. Reference Fidelity Treat the uploaded character as the definitive visual reference throughout the sheet. Across all 16 frames, keep the character’s identity completely stable, including: face and facial features hairstyle and hair length color palette body proportions and species clothing and garment construction accessories overall illustration and rendering style Any part of the character that is not visible in the reference should be inferred conservatively and then depicted the same way throughout the entire sequence. Choose a style of dance that feels natural for the character’s personality, anatomy, outfit, and available range of motion. Movement Logic The sixteen images are consecutive moments from one continuous routine, not sixteen unrelated dance poses. Every pose should flow naturally into the next through small steps, weight transfers, pivots, or continuing arm gestures. Keep the supporting limbs and direction of rotation physically consistent from frame to frame. Changes in orientation, body height, balance, and momentum should happen progressively rather than suddenly. Each frame should remain visually distinct while the overall routine develops through a clear progression: a relaxed opening, gradual build-up, expressive peak, and controlled settling finish. Choreography Follow this exact movement sequence: 1. Begin with feet comfortably apart, knees relaxed, and arms resting low. 2. Shift weight left, tapping the right foot outward as the hands drift left. 3. Transfer weight onto the right foot, letting both hands sweep low toward the right. 4. Draw the left foot inward while the hands continue upward to waist height. 5. Step the left foot forward diagonally, turning the torso slightly left as the arms round forward. 6. Rock onto the front left foot, allowing the rounded arms to rise toward chest height. 7. Push gently back onto the right foot, drawing the elbows toward the ribs. 8. Step the left foot out to the left, opening the left arm in the same direction. 9. Settle into a shallow left lunge while the right arm sweeps across the chest toward the left. 10. Deepen the lunge slightly as the right arm continues its arc overhead into a gentle left side bend. 11. Straighten gradually, keeping the right arm overhead while the left arm opens outward. 12. Reach the routine’s peak in a tall, grounded stance, extending both arms into an open upward diagonal. 13. Soften the knees and lower both arms outward through shoulder height. 14. Shift weight onto the left foot and pivot a quarter-turn left, letting the arms continue downward. 15. Bring the right foot forward into a small staggered stance, lifting the chest as the arms settle low behind the hips. 16. Finish in that same stance, turning the head toward the viewer with a character-appropriate expression and relaxed, deliberate hands. If the character has nonhuman anatomy, reinterpret the steps and gestures as the closest anatomically appropriate equivalents while preserving the same order, rhythm, direction, and continuity. Secondary Motion Hair, loose garments, and hanging accessories should react naturally to the choreography rather than remaining static. Their movement should follow the character’s momentum: hair and fabric lag slightly behind steps and sweeping gestures loose elements swing naturally during turns hair and garments fall with gravity during bends movement gradually settles as the routine approaches the final pose light fabrics flutter subtly heavier fabrics move with greater weight and slower follow-through fitted clothing develops believable folds around bending and twisting joints Keep all secondary motion proportional to this relatively gentle routine. Hair length, clothing construction, and accessory placement must remain consistent in every frame. Communicate movement through the changing shapes and positions of the hair and fabric themselves. Do not use motion lines, speed lines, ghosting, or movement trails. Sheet Presentation Use a square canvas containing a precise 4×4 grid. The presentation should include: exactly 16 equally sized panels one full-body character in every panel small, clearly readable numbers 1–16 in the upper-left corner of their corresponding panels a clean white background thin grid lines consistent character scale a fixed camera viewpoint consistent lighting and rendering comfortable empty space around every limb, hairstyle, ear, wing, tail, garment, and accessory subtle ground shadows clear silhouettes anatomically plausible joints convincing weight distribution and balance The character should never be cropped by the panel boundaries. Constraints Do not introduce repeated or near-identical poses, abrupt movement transitions, identity drift, costume changes, additional characters, new props, scenery, captions, or watermarks. Avoid extra or missing limbs, malformed hands, implausible joints, inconsistent supporting feet, accidental panel overlap, cropped features, sudden changes in character scale, or unexplained changes in orientation. The finished sheet should read immediately as sixteen carefully selected consecutive keyframes from one coherent dance performance by the same character.
-```
-
-By [@Scenario\_gg](https://x.com/Scenario_gg/status/2099797798388482395)
 
 ---
 

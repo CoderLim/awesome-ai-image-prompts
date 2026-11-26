@@ -1,90 +1,10 @@
 # portraits
 
-[← Home](../README.md) · Page 19 / 36
+[← Home](../README.md) · Page 19 / 35
 
-[1](portraits.md) · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · [5](portraits-5.md) · [6](portraits-6.md) · [7](portraits-7.md) · [8](portraits-8.md) · [9](portraits-9.md) · [10](portraits-10.md) · [11](portraits-11.md) · [12](portraits-12.md) · [13](portraits-13.md) · [14](portraits-14.md) · [15](portraits-15.md) · [16](portraits-16.md) · [17](portraits-17.md) · [18](portraits-18.md) · **19** · [20](portraits-20.md) · [21](portraits-21.md) · [22](portraits-22.md) · [23](portraits-23.md) · [24](portraits-24.md) · [25](portraits-25.md) · [26](portraits-26.md) · [27](portraits-27.md) · [28](portraits-28.md) · [29](portraits-29.md) · [30](portraits-30.md) · [31](portraits-31.md) · [32](portraits-32.md) · [33](portraits-33.md) · [34](portraits-34.md) · [35](portraits-35.md) · [36](portraits-36.md)
+[1](portraits.md) · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · [5](portraits-5.md) · [6](portraits-6.md) · [7](portraits-7.md) · [8](portraits-8.md) · [9](portraits-9.md) · [10](portraits-10.md) · [11](portraits-11.md) · [12](portraits-12.md) · [13](portraits-13.md) · [14](portraits-14.md) · [15](portraits-15.md) · [16](portraits-16.md) · [17](portraits-17.md) · [18](portraits-18.md) · **19** · [20](portraits-20.md) · [21](portraits-21.md) · [22](portraits-22.md) · [23](portraits-23.md) · [24](portraits-24.md) · [25](portraits-25.md) · [26](portraits-26.md) · [27](portraits-27.md) · [28](portraits-28.md) · [29](portraits-29.md) · [30](portraits-30.md) · [31](portraits-31.md) · [32](portraits-32.md) · [33](portraits-33.md) · [34](portraits-34.md) · [35](portraits-35.md)
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
-
-<a id="prompthero-221cbcb0091"></a>
-
-## venom suit spider man, New york street as backgrou\.\.\.
-
-<a href="https://cdn.prompthero.com/s23infjvnze1ao6y96pvfhcxqah4-midjourney-52-venom-suit-spider-man-new-york-street-as-background-ray-traicing-high-detail-color-photo-a-professional-photo-realistic-photorealism1.png"><img src="https://cdn.prompthero.com/s23infjvnze1ao6y96pvfhcxqah4-midjourney-52-venom-suit-spider-man-new-york-street-as-background-ray-traicing-high-detail-color-photo-a-professional-photo-realistic-photorealism1.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-venom suit spider man, New york street as background, ray traicing, High detail color photo, a professional photo, (realistic, photorealism:1. 5), (highest quality), (best shadow), ultra-high resolution, physics-based rendering, photo, realism, high contrast, 8k HD high definition detailed realistic, detailed, best quality, Nikon d850 film, cinestill 800
-```
-
-[Source](https://prompthero.com/prompt/221cbcb0091-midjourney-52-venom-suit-spider-man-new-york-street-as-background-ray-traicing-high-detail-color-photo-a-professional-photo-realistic-photorealism1)
-
----
-
-<a id="prompthero-234d46b3a67"></a>
-
-## Vogue style photo shoot of Dwayne Johnson as chara\.\.\.
-
-<a href="https://cdn.prompthero.com/zejrvtca7hpsn2pj53m702s5pzz1-midjourney-52-vogue-style-photo-shoot-of-dwayne-johnson-as-character-therock-from-the-movie-the-royal-tenenbaums-pastel-colored-background-in.png"><img src="https://cdn.prompthero.com/zejrvtca7hpsn2pj53m702s5pzz1-midjourney-52-vogue-style-photo-shoot-of-dwayne-johnson-as-character-therock-from-the-movie-the-royal-tenenbaums-pastel-colored-background-in.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-Vogue style photo shoot of Dwayne Johnson as character therock from the movie The Royal Tenenbaums pastel colored background in Wes Anderson style, hyper - realistic photography, Wes Anderson style, full body, 8k, close - up shot, close - up photo
-```
-
-[Source](https://prompthero.com/prompt/234d46b3a67-midjourney-52-vogue-style-photo-shoot-of-dwayne-johnson-as-character-therock-from-the-movie-the-royal-tenenbaums-pastel-colored-background-in)
-
----
-
-<a id="prompthero-256a2640d6f"></a>
-
-## photography, monochrome, front view, evoking the s\.\.\.
-
-<a href="https://cdn.prompthero.com/39lq4edwqfgtsvyj7tsrh80oef8b-midjourney-6-photography-monochrome-front-view-evoking-the-starkness-of-classic-noir-with-an-intimate-psychological-edge-close-up-profile-with-strategic.png"><img src="https://cdn.prompthero.com/39lq4edwqfgtsvyj7tsrh80oef8b-midjourney-6-photography-monochrome-front-view-evoking-the-starkness-of-classic-noir-with-an-intimate-psychological-edge-close-up-profile-with-strategic.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-photography, monochrome, front view, evoking the starkness of classic noir with an intimate, psychological edge, close-up, profile with strategic lighting to accentuate features and create depth, black and white digital photography, with a high emphasis on texture and contrast, Canon EOS 5D Mark IV, preferred for its full-frame sensor that captures detailed gradations in tone, Canon EF 85mm f/1.2L II USM, offering a shallow depth of field, manual mode, using a single off-camera flash with a snoot to direct a focused beam of light, camera on a tripod for stability, male in his thirties, with a beard and a gaze that holds an introspective stillness, beard is well-groomed, catching highlights where the light grazes, and his eyes are deep-set, underlined by a furrowed brow, indicative of concentration or internal conflict, minimalist, to avoid distracting from the subject's emotive presence, he absence of a background ensures that all narrative weight is carried by the subject's expression and the play of light on skin, void of context, the darkness envelops the subject, focusing attention on the stark contrast of light and shadow across his face, low key, with a singular source that creates a diagonal divide across the face, symbolizing the chiaroscuro technique's thematic play between revelation and concealment, the light catches on the ridges of the subject's facial features; the thoughtful position of his hand, fingers resting gently yet firmly against his chin, adds to the introspective quality, portrait invites the viewer into a moment of private reflection, punctuated by a profound silence that speaks volumes, serving as a canvas for the viewer's own interpretations of light, shadow, and the layers of the human condition, UHD--ar 9:16 --style raw --stylize 600
-```
-
-By [@Grayve](https://prompthero.com/prompt/256a2640d6f-midjourney-6-photography-monochrome-front-view-evoking-the-starkness-of-classic-noir-with-an-intimate-psychological-edge-close-up-profile-with-strategic)
-
----
-
-<a id="prompthero-276de145a0a"></a>
-
-## raw photo of a dog as batman, black costume heroic\.\.\.
-
-<a href="https://cdn.prompthero.com/vuy6qevmzdw765yjd8hvrgo70089-flux-flux-11-pro-raw-photo-of-a-dog-as-batman-black-costume-heroic-pose-ruined-city-background-stormy-sky-high-detailed-skin12-8k.jpg"><img src="https://cdn.prompthero.com/vuy6qevmzdw765yjd8hvrgo70089-flux-flux-11-pro-raw-photo-of-a-dog-as-batman-black-costume-heroic-pose-ruined-city-background-stormy-sky-high-detailed-skin12-8k.jpg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-raw photo of a dog as batman, black costume heroic pose. ruined city background, stormy sky. (high detailed skin:1.2), 8k uhd, dslr, soft lighting, high quality, film grain, Fujifilm XT3
-```
-
-[Source](https://prompthero.com/prompt/276de145a0a-flux-flux-11-pro-raw-photo-of-a-dog-as-batman-black-costume-heroic-pose-ruined-city-background-stormy-sky-high-detailed-skin12-8k)
-
----
-
-<a id="prompthero-294a9aab704"></a>
-
-## photography, front-profile walk-through, depth of \.\.\.
-
-<a href="https://cdn.prompthero.com/y9nsrh1dd1th5sa6mcici6b9wxmu-midjourney-7-photography-front-profile-walk-through-depth-of-field-background-blur-full-body-full-frame-30mm-lens-slow-shutter-speed-moderate.png"><img src="https://cdn.prompthero.com/y9nsrh1dd1th5sa6mcici6b9wxmu-midjourney-7-photography-front-profile-walk-through-depth-of-field-background-blur-full-body-full-frame-30mm-lens-slow-shutter-speed-moderate.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-photography, front-profile walk-through, depth of field background blur, full-body, full-frame, 30mm lens slow shutter speed moderate aperture, female model, contemporary outfit, white bobbed hair style, blue long coat, beige color turtleneck grey pants warm brown suede loafer, modern architectural warm glow translucent panels cyan reflections floor, cool tone ambient lighting, fast moving crowd, motion blur and background cool tonal balance, rich detailed --ar 9:16 --raw
-```
-
-By [@Grayve](https://prompthero.com/prompt/294a9aab704-midjourney-7-photography-front-profile-walk-through-depth-of-field-background-blur-full-body-full-frame-30mm-lens-slow-shutter-speed-moderate)
-
----
 
 <a id="prompthero-328eee6ead1"></a>
 
@@ -326,6 +246,86 @@ anime, <lora:xl_more_art-full_v1:0.7>, 1 beautiful blonde girl, looking at camer
 
 ---
 
-[1](portraits.md) · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · [5](portraits-5.md) · [6](portraits-6.md) · [7](portraits-7.md) · [8](portraits-8.md) · [9](portraits-9.md) · [10](portraits-10.md) · [11](portraits-11.md) · [12](portraits-12.md) · [13](portraits-13.md) · [14](portraits-14.md) · [15](portraits-15.md) · [16](portraits-16.md) · [17](portraits-17.md) · [18](portraits-18.md) · **19** · [20](portraits-20.md) · [21](portraits-21.md) · [22](portraits-22.md) · [23](portraits-23.md) · [24](portraits-24.md) · [25](portraits-25.md) · [26](portraits-26.md) · [27](portraits-27.md) · [28](portraits-28.md) · [29](portraits-29.md) · [30](portraits-30.md) · [31](portraits-31.md) · [32](portraits-32.md) · [33](portraits-33.md) · [34](portraits-34.md) · [35](portraits-35.md) · [36](portraits-36.md)
+<a id="prompthero-0582efc7d36"></a>
+
+## A dramatic portrait of a powerful woman, her gaze \.\.\.
+
+<a href="https://cdn.prompthero.com/azytg18uvch9ysj4kiuv6vgmqjax-flux-flux-11-pro-a-dramatic-portrait-of-a-powerful-woman-her-gaze-unwavering-her-eyes-dark-and-intense-posing-in-a-structured-gothic.jpg"><img src="https://cdn.prompthero.com/azytg18uvch9ysj4kiuv6vgmqjax-flux-flux-11-pro-a-dramatic-portrait-of-a-powerful-woman-her-gaze-unwavering-her-eyes-dark-and-intense-posing-in-a-structured-gothic.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+A dramatic portrait of a powerful woman, her gaze unwavering, her eyes dark and intense, posing in a structured, Gothic-inspired gown with dark velvet and lace detailing. The gown features sharp angles, intricate metal clasps, and flowing layers of black fabric. The model wears a tall, pointed hat with intricate veiling, and her dark hair is styled in a severe, tight bun. She holds a long, silver scepter, and her expression is both serious and commanding. The background consists of a dark, stormy sky and towering, gothic architecture, enhancing the dramatic and powerful style of the portrait.
+```
+
+[Source](https://prompthero.com/prompt/0582efc7d36-flux-flux-11-pro-a-dramatic-portrait-of-a-powerful-woman-her-gaze-unwavering-her-eyes-dark-and-intense-posing-in-a-structured-gothic)
+
+---
+
+<a id="prompthero-606e91a5443"></a>
+
+## a man stands with his head down in some tall grass\.\.\.
+
+<a href="https://cdn.prompthero.com/p9336xy2qlhx6jz37pghssifwlk5-midjourney-52-a-man-stands-with-his-head-down-in-some-tall-grass-in-the-style-of-fashion-photography-scottish-landscapes-light.png"><img src="https://cdn.prompthero.com/p9336xy2qlhx6jz37pghssifwlk5-midjourney-52-a-man-stands-with-his-head-down-in-some-tall-grass-in-the-style-of-fashion-photography-scottish-landscapes-light.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+a man stands with his head down in some tall grass, in the style of fashion photography, scottish landscapes, light bronze and dark blue, deconstructed tailoring, genderless, close-up shots, brooding mood --ar 132:161 --s 750 --v 5.2
+```
+
+By [@NorthmoorAI](https://prompthero.com/prompt/606e91a5443-midjourney-52-a-man-stands-with-his-head-down-in-some-tall-grass-in-the-style-of-fashion-photography-scottish-landscapes-light)
+
+---
+
+<a id="prompthero-662b97a92f3"></a>
+
+## An image of a woman standing straight, facing the \.\.\.
+
+<a href="https://cdn.prompthero.com/lcdgtxk932j5bieceie64139gkce-flux-flux-11-pro-an-image-of-a-woman-standing-straight-facing-the-camera-head-on-with-a-slight-head-tilt-she-gazes-directly.jpg"><img src="https://cdn.prompthero.com/lcdgtxk932j5bieceie64139gkce-flux-flux-11-pro-an-image-of-a-woman-standing-straight-facing-the-camera-head-on-with-a-slight-head-tilt-she-gazes-directly.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+An image of a woman standing straight, facing the camera head-on with a slight head tilt. She gazes directly into the camera with a strong, engaging look. Her hair is pulled back into a high ponytail with some strands framing her face. Her makeup subtly enhances her eyes under well-defined eyebrows. She wears a summerdress for work in a pastel color. She is in a tropical city that could be  Dubai, Taiwan. Some exotical trees may be in background. Climate seems hot and humid. The woman has a middle east tone. Her face is repulped and bright thanks to healthy cosmetics used.
+```
+
+[Source](https://prompthero.com/prompt/662b97a92f3-flux-flux-11-pro-an-image-of-a-woman-standing-straight-facing-the-camera-head-on-with-a-slight-head-tilt-she-gazes-directly)
+
+---
+
+<a id="prompthero-727c5b20161"></a>
+
+## an Asian woman, in the style of light amber and pi\.\.\.
+
+<a href="https://cdn.prompthero.com/ez1o4rbnx8wt45ingmuif27iud7b-midjourney-52-an-asian-woman-in-the-style-of-light-amber-and-pink-blurred-imagery-shinyglossy-melting-drugcore-georg-jensen-wet-on.png"><img src="https://cdn.prompthero.com/ez1o4rbnx8wt45ingmuif27iud7b-midjourney-52-an-asian-woman-in-the-style-of-light-amber-and-pink-blurred-imagery-shinyglossy-melting-drugcore-georg-jensen-wet-on.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+an Asian woman, in the style of light amber and pink, blurred imagery, shiny/glossy, melting, drugcore, georg jensen, wet-on-wet blending --ar 71:128 --stylize 750 --v 5.2
+```
+
+By [@NorthmoorAI](https://prompthero.com/prompt/727c5b20161-midjourney-52-an-asian-woman-in-the-style-of-light-amber-and-pink-blurred-imagery-shinyglossy-melting-drugcore-georg-jensen-wet-on)
+
+---
+
+<a id="prompthero-727f868b2ec"></a>
+
+## A female warrior holding the head of an enormous w\.\.\.
+
+<a href="https://cdn.prompthero.com/1tdshqoq6p8g8k1hpn4ste3lfztf-midjourney-6-a-female-warrior-holding-the-head-of-an-enormous-white-lion-on-her-spear-detailed-face-and-eyes-in-the.png"><img src="https://cdn.prompthero.com/1tdshqoq6p8g8k1hpn4ste3lfztf-midjourney-6-a-female-warrior-holding-the-head-of-an-enormous-white-lion-on-her-spear-detailed-face-and-eyes-in-the.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+A female warrior holding the head of an enormous white lion on her spear, detailed face and eyes, in the style of Peter Mohrbacher, dynamic lighting. --v 6.0 --ar 4:5
+```
+
+[Source](https://prompthero.com/prompt/727f868b2ec-midjourney-6-a-female-warrior-holding-the-head-of-an-enormous-white-lion-on-her-spear-detailed-face-and-eyes-in-the)
+
+---
+
+[1](portraits.md) · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · [5](portraits-5.md) · [6](portraits-6.md) · [7](portraits-7.md) · [8](portraits-8.md) · [9](portraits-9.md) · [10](portraits-10.md) · [11](portraits-11.md) · [12](portraits-12.md) · [13](portraits-13.md) · [14](portraits-14.md) · [15](portraits-15.md) · [16](portraits-16.md) · [17](portraits-17.md) · [18](portraits-18.md) · **19** · [20](portraits-20.md) · [21](portraits-21.md) · [22](portraits-22.md) · [23](portraits-23.md) · [24](portraits-24.md) · [25](portraits-25.md) · [26](portraits-26.md) · [27](portraits-27.md) · [28](portraits-28.md) · [29](portraits-29.md) · [30](portraits-30.md) · [31](portraits-31.md) · [32](portraits-32.md) · [33](portraits-33.md) · [34](portraits-34.md) · [35](portraits-35.md)
 
 [← Home](../README.md)

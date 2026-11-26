@@ -6,38 +6,6 @@
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
-<a id="freestylefly-case-83"></a>
-
-## 信息图可视化设计
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case83.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case83.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-{ "type": "sports match infographic poster", "theme": "UEFA Champions League", "background": "dark blue and purple cosmic sky, glowing blue hexagonal lines, illuminated stadium reflecting on water at bottom", "header": { "logo": "UEFA Champions League", "title": "{argument name=\"stage\" default=\"HALBFINALE\"}", "subtitle": "DAS ZIEL: {argument name=\"location\" default=\"BUDAPEST 2026\"}", "venue": "PUSKÁS ARÉNA" }, "matchup": { "player_left": "{argument name=\"team 1 player\" default=\"Harry Kane\"} in red FC Bayern kit", "player_right": "{argument name=\"team 2 player\" default=\"Ousmane Dembélé\"} in blue PSG kit", "center_logos": "FC Bayern München and Paris Saint-Germain with VS", "date_box": "calendar icon, MITTWOCH, {argument name=\"date\" default=\"06.05.2026\"}" }, "facts_section": { "title": "FACTS", "count": 5, "items": [ "Trophy icon: DIE KÖNIGSKLASSE 2025/26", "Bar chart icon: KANE IN TOPFORM", "Lightning bolt icon: DEMBÉLÉ ÜBERFLIEGER", "Two people icon: BISHER 14 DUELLE", "Stadium icon: BUDAPEST RUFT" ] }, "footer": { "trophy": "Champions League trophy on right", "stadium_image": "Puskás Aréna at night", "tagline": "EIN TRAUM. EIN ZIEL. EIN TITEL.", "bottom_text": "ROAD TO BUDAPEST 2026" } }
-```
-
-By [@NumeroBTC](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-83)
-
----
-
-<a id="freestylefly-case-88"></a>
-
-## 信息图可视化设计
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case88.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case88.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-GPT-Image-2 prompt: please automatically generate a top-tier concept poster / infographic-style movie poster centered around {argument name="theme" default="ranking of emperors in Chinese history"}. Require the AI to automatically derive and uniformly design the entire following visual system based on this theme, without my extra specification: - Core subject (automatically judge suitability for people, products, architecture, artifacts, symbols, scenes, or abstract imagery) - Bottom supporting structure - Hovering symbols or spiritual symbols above - Scene wrapping elements - Metaphor system - Color hierarchy - Material contrast - Lighting logic - Title, subtitle, and auxiliary copy - Brand sense and high-end expression The final frame must be: a shocking, precise, unified, cinematic, ultra-high detail conceptual key visual poster suitable for high-end printing. [Overall Style] Ultra-realistic 3D commercial CGI rendering, merging cinematic lighting, luxury visual language, futuristic concept design, and epic composition. The image must have a "single main visual core," not messy, not like a collage, and not like a regular e-commerce poster. [Automatic Derivation Rules] AI must automatically decide based on the [theme]: 1. Core visual metaphor 2. Subject type and posture 3. Form of supporting structure 4. Form of suspended elements 5. Scene shell and spatial atmosphere 6. Main, auxiliary, and emphasis colors 7. Material combinations 8. Text temperament and layout style [Composition Rules] - Absolute sense of premium quality - Strong central order, overall unity - Allows for axial symmetry or epic composition near the central axis - Clear visual gravity, forming clear levels from top to bottom - Edge negative space is clean, restrained, and has room to breathe [Visual Quality] - Ultra-high detail - Clear volumetric light - Authentic materials - Natural reflection, refraction, shadows, fog, and depth of field - Overall standard of high-end brand campaign key visual / luxury invitation poster / conceptual editorial poster [Typography System] - Overall 90% visual, 10% text - AI automatically generates the most matching main title and subtitle based on the [theme] - Title must be concise, sharp, and powerful - Text should be as minimal and accurate as possible; do not stack words [Signature Requirement] Naturally add the author signature in the bottom corner: @a9quant
-```
-
-By [@A9Quant](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-88)
-
----
-
 <a id="freestylefly-case-102"></a>
 
 ## 信息图可视化设计
@@ -323,6 +291,38 @@ Create a 3D Insane detailed exploded assembly drawing of [subject or object]
 ```
 
 By [@Ankit\_patel211](https://x.com/Ankit_patel211/status/2048834306379075759)
+
+---
+
+<a id="freestylefly-case-380"></a>
+
+## 冠状病毒尺度缩放科学信息图
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case380.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case380.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+instructions> [SUBJECT]=Coronavirus. A hyper-realistic 3D zoom-sequence infographic generated from a single input: [SUBJECT]. The system auto-detects scale layers from atomic/subcomponent to full contextual view. Layout Structure (CRITICAL) 6–8 circular or hexagonal frames arranged in expanding sequence Innermost frame = smallest detectable detail; outermost = full subject in environment Frames connected by subtle zoom-path lines No repeated scales — each frame shows new level of detail Frame Design Each zoom level includes: Hyper-detailed 3D render at that scale Micro label: scale name (e.g., "molecular," "cellular," "structural") + 3–5 word insight Optional: measurement tag or magnification factor Contextual Halo Around the sequence, include only scale-specific references: Measurement units, scientific notation, cultural scale metaphors (No generic magnifying glass icons) Scale Panel (Alternative Layout) Zoom level Key insight (3–5 words) Scale factor tag Detail icon (grid, wave, particle, etc.) Title "[SUBJECT]: AT EVERY SCALE" (or) "ZOOM: THE WORLD OF [SUBJECT]" Style: ultra-realistic 3D render, scientific editorial infographic, precise macro lighting, global illumination, shallow depth of field, clean sequential layout. </instructions>
+```
+
+By [@Gdgtify](https://x.com/Gdgtify/status/2051288232613351571)
+
+---
+
+<a id="freestylefly-case-407"></a>
+
+## Neuro-AI 混合系统信息图
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case407.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case407.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+Create a premium square “neuro-AI hybrid system infographic” designed as a scientific cognitive engineering handbook page. Visual Direction: • 1:1 composition • dark neutral background with glowing neural network overlays • palette: electric blue, violet, soft white, silver • elegant scientific typography and modular panels • central ultra-detailed human brain + AI circuit fusion render Main Subject: A realistic human brain merging with AI neural networks and digital circuitry. Include callouts: • memory encoding system • AI augmentation layer • cognitive signal pathways • emotional response mapping • sensory integration nodes • neural data transfer system • learning adaptation loops Modules: • Brain Function Overview • AI Enhancement Layers • Signal Flow Diagram • Cognitive Performance Metrics • Human vs AI Comparison Chart • Neural Safety Protocols • Future Evolution Path Style: “neuroscience + AI engineering manual”, “high-end cognitive systems diagram”
+```
+
+By [@YaZoraiz](https://x.com/YaZoraiz/status/2052968427514708371)
 
 ---
 

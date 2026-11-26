@@ -1,90 +1,10 @@
 # portraits
 
-[← Home](../README.md) · Page 16 / 36
+[← Home](../README.md) · Page 16 / 35
 
-[1](portraits.md) · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · [5](portraits-5.md) · [6](portraits-6.md) · [7](portraits-7.md) · [8](portraits-8.md) · [9](portraits-9.md) · [10](portraits-10.md) · [11](portraits-11.md) · [12](portraits-12.md) · [13](portraits-13.md) · [14](portraits-14.md) · [15](portraits-15.md) · **16** · [17](portraits-17.md) · [18](portraits-18.md) · [19](portraits-19.md) · [20](portraits-20.md) · [21](portraits-21.md) · [22](portraits-22.md) · [23](portraits-23.md) · [24](portraits-24.md) · [25](portraits-25.md) · [26](portraits-26.md) · [27](portraits-27.md) · [28](portraits-28.md) · [29](portraits-29.md) · [30](portraits-30.md) · [31](portraits-31.md) · [32](portraits-32.md) · [33](portraits-33.md) · [34](portraits-34.md) · [35](portraits-35.md) · [36](portraits-36.md)
+[1](portraits.md) · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · [5](portraits-5.md) · [6](portraits-6.md) · [7](portraits-7.md) · [8](portraits-8.md) · [9](portraits-9.md) · [10](portraits-10.md) · [11](portraits-11.md) · [12](portraits-12.md) · [13](portraits-13.md) · [14](portraits-14.md) · [15](portraits-15.md) · **16** · [17](portraits-17.md) · [18](portraits-18.md) · [19](portraits-19.md) · [20](portraits-20.md) · [21](portraits-21.md) · [22](portraits-22.md) · [23](portraits-23.md) · [24](portraits-24.md) · [25](portraits-25.md) · [26](portraits-26.md) · [27](portraits-27.md) · [28](portraits-28.md) · [29](portraits-29.md) · [30](portraits-30.md) · [31](portraits-31.md) · [32](portraits-32.md) · [33](portraits-33.md) · [34](portraits-34.md) · [35](portraits-35.md)
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
-
-<a id="prompthero-43ea81af36f"></a>
-
-## Qinghua Style
-
-<a href="https://cdn.prompthero.com/cvdspespo4130592rxcvyziacmuk-midjourney-5-qinghua-style.png"><img src="https://cdn.prompthero.com/cvdspespo4130592rxcvyziacmuk-midjourney-5-qinghua-style.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-A detailed image of a young professional fashion model with hair mimicking the texture of hard, shiny blue and white porcelain Qinghua, showcasing her full body and long legs in a short dress made from the same hard, shiny blue and white porcelain Qinghua material, inspired by Thierry Mugler, Manish Arora, and John Galliano. Posing elegantly at a garden show amidst vibrant, fully bloomed spring flowers, the photograph is captured during golden hour with a high-end mirrorless camera and a telephoto lens. Cinematic lighting highlights the model's captivating presence and unique ensemble. --ar 3:4 --q 2 --s 750 --v 5
-```
-
-By [@jefharris](https://prompthero.com/prompt/43ea81af36f-midjourney-5-qinghua-style)
-
----
-
-<a id="prompthero-44d2abae3da"></a>
-
-## beautiful  woman of Mediterranean descent, slave \.\.\.
-
-<a href="https://cdn.prompthero.com/v4uxfvaalm2gr03urpuew2znksqp-flux-flux-11-pro-beautiful-woman-of-mediterranean-descent-slave-in-rome-full-body-view-athletic-figure-short-straight-black-hair-illuminated-by-the.jpg"><img src="https://cdn.prompthero.com/v4uxfvaalm2gr03urpuew2znksqp-flux-flux-11-pro-beautiful-woman-of-mediterranean-descent-slave-in-rome-full-body-view-athletic-figure-short-straight-black-hair-illuminated-by-the.jpg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-beautiful  woman of Mediterranean descent, slave in Rome, full body view, athletic figure, short straight black hair illuminated by the sunlight, barefoot on a sandy surface, belly piercing, large tattoo, wearing a slightly tattered Roman robe, a big choker made of leather with, a rusty leash around her ankle, .
-```
-
-[Source](https://prompthero.com/prompt/44d2abae3da-flux-flux-11-pro-beautiful-woman-of-mediterranean-descent-slave-in-rome-full-body-view-athletic-figure-short-straight-black-hair-illuminated-by-the)
-
----
-
-<a id="prompthero-47e2384be51"></a>
-
-## girl stands in a red flower surrounded street, in \.\.\.
-
-<a href="https://cdn.prompthero.com/tomwdgbe9h133pzjt5lipuemjpx3-midjourney-niji-v6-girl-stands-in-a-red-flower-surrounded-street-in-the-style-of-chinese-cultural-themes-romantic-and-nostalgic-themes-panasonic.png"><img src="https://cdn.prompthero.com/tomwdgbe9h133pzjt5lipuemjpx3-midjourney-niji-v6-girl-stands-in-a-red-flower-surrounded-street-in-the-style-of-chinese-cultural-themes-romantic-and-nostalgic-themes-panasonic.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-girl stands in a red flower surrounded street, in the style of chinese cultural themes, romantic and nostalgic themes, panasonic lumix s pro 50mm f/1.4, light white and light amber, transparent/translucent medium, elegant , embroidery --ar 1:2 --stylize 750 --niji 6
-```
-
-By [@NorthmoorAI](https://prompthero.com/prompt/47e2384be51-midjourney-niji-v6-girl-stands-in-a-red-flower-surrounded-street-in-the-style-of-chinese-cultural-themes-romantic-and-nostalgic-themes-panasonic)
-
----
-
-<a id="prompthero-48f8fd979cc"></a>
-
-## photography, a 45 years old Caucasian man, viewed \.\.\.
-
-<a href="https://cdn.prompthero.com/w3rjxdnzgo5oyyvqh6y2tkjroqil-flux-flux-11-pro-photography-a-45-years-old-caucasian-man-viewed-from-behind-sitting-in-a-burgundy-couch-watching-tv-in-a-modern.png"><img src="https://cdn.prompthero.com/w3rjxdnzgo5oyyvqh6y2tkjroqil-flux-flux-11-pro-photography-a-45-years-old-caucasian-man-viewed-from-behind-sitting-in-a-burgundy-couch-watching-tv-in-a-modern.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-photography, a 45 years old Caucasian man, viewed from behind, sitting in a burgundy couch, watching TV in a modern living room. at night. Buzz-cut hoary ultra-short hair and short trimmed shaved beard, rounded rectangular-framed glasses with dark rims. He is wearing a white T-shirt, grey sweatpants and white flip-flops. photorealistic, High resolution.
-```
-
-[Source](https://prompthero.com/prompt/48f8fd979cc-flux-flux-11-pro-photography-a-45-years-old-caucasian-man-viewed-from-behind-sitting-in-a-burgundy-couch-watching-tv-in-a-modern)
-
----
-
-<a id="prompthero-49b9c4edabb"></a>
-
-## A futuristic museum hall filled with a soft, drift\.\.\.
-
-<a href="https://cdn.prompthero.com/h1ugo5z9i4sihgjjivlbqjay8k2f-flux-flux-11-pro-a-futuristic-museum-hall-filled-with-a-soft-drifting-haze-of-smoke-the-entire-space-including-the-walls-and-floor.jpg"><img src="https://cdn.prompthero.com/h1ugo5z9i4sihgjjivlbqjay8k2f-flux-flux-11-pro-a-futuristic-museum-hall-filled-with-a-soft-drifting-haze-of-smoke-the-entire-space-including-the-walls-and-floor.jpg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-A futuristic museum hall filled with a soft, drifting haze of smoke. The entire space, including the walls and floor, is overwhelmingly white, almost disorienting in its purity. The ceiling is lined with long, continuous LED strips stretching across its entire surface. Their glow is partially absorbed by the swirling mist on the floor, creating an ethereal, diffused lighting effect. The room has no doors or windows, enhancing the surreal and otherworldly atmosphere. At the center of the space stands a minimalist glass display case. Inside, a breathtaking, floating female head is showcased, with bold red lips, editorial-style makeup, dramatic contouring, and shimmering metallic highlighter. She wears an extravagant avantgarde wig with black long textured hair with short fringe. The hair is black and has small metallic pins on it. Sculpted into futuristic, architectural shapes and intricate geometric designs. The head appears suspended in mid-air, as only the hair is fully visible, there is no body, just the striking, levitating form. Surrounding the display, elegantly dressed men and women in avant-garde, high-fashion futuristic attire stand in admiration, capturing the wig with their smartphones. Their outfits feature bold, sculptural silhouettes, reflective metallic fabrics, exaggerated shoulders, high-neck collars, intricate laser-cut details, and asymmetrical designs. Some wear visor-like glasses, glowing accessories, and gravity-defying structured garments. The bright flashes of their cameras reflect off the glass, creating a mesmerizing interplay of light. The scene carries an eerie yet mesmerizing surrealism, blending high fashion, advanced technology, and an air of mystery. The combination of futuristic aesthetics, editorial styling, and avant-garde fashion elements makes the composition feel like a high-end fashion editorial from a distant future.
-```
-
-By [@chorlo](https://prompthero.com/prompt/49b9c4edabb-flux-flux-11-pro-a-futuristic-museum-hall-filled-with-a-soft-drifting-haze-of-smoke-the-entire-space-including-the-walls-and-floor)
-
----
 
 <a id="prompthero-49e49154381"></a>
 
@@ -326,6 +246,86 @@ By [@Atheist](https://prompthero.com/prompt/58bd114c564-sd-xl-v10-refiner-vae-fi
 
 ---
 
-[1](portraits.md) · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · [5](portraits-5.md) · [6](portraits-6.md) · [7](portraits-7.md) · [8](portraits-8.md) · [9](portraits-9.md) · [10](portraits-10.md) · [11](portraits-11.md) · [12](portraits-12.md) · [13](portraits-13.md) · [14](portraits-14.md) · [15](portraits-15.md) · **16** · [17](portraits-17.md) · [18](portraits-18.md) · [19](portraits-19.md) · [20](portraits-20.md) · [21](portraits-21.md) · [22](portraits-22.md) · [23](portraits-23.md) · [24](portraits-24.md) · [25](portraits-25.md) · [26](portraits-26.md) · [27](portraits-27.md) · [28](portraits-28.md) · [29](portraits-29.md) · [30](portraits-30.md) · [31](portraits-31.md) · [32](portraits-32.md) · [33](portraits-33.md) · [34](portraits-34.md) · [35](portraits-35.md) · [36](portraits-36.md)
+<a id="prompthero-60c39311d87"></a>
+
+## \{ &quot;image\_description&quot;: \{ &quot;title&quot;: &quot;Surveilla\.\.\.
+
+<a href="https://cdn.prompthero.com/v1_04817b2aac81cf4506ac944c05-grok-image-grok-imagine-image-2-imagedescription-title-surveillance-feed-defiant-subject-in-retail-shop-aspectratio-45-mood-raw-gritty-confrontational-authentic-visualelements-subject-framing-centered.jpg"><img src="https://cdn.prompthero.com/v1_04817b2aac81cf4506ac944c05-grok-image-grok-imagine-image-2-imagedescription-title-surveillance-feed-defiant-subject-in-retail-shop-aspectratio-45-mood-raw-gritty-confrontational-authentic-visualelements-subject-framing-centered.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+{ "image_description": { "title": "Surveillance Feed: Defiant Subject in Retail Shop", "aspect_ratio": "4:5", "mood": "Raw, gritty, confrontational, authentic" }, "visual_elements": { "subject": { "framing": "Centered from mid-torso upward", "pose": "Head tilted back looking up at camera, relaxed yet defiant posture", "action": "Hand raised with middle finger extended (silhouette, ghosted by motion)", "facial_features": "Largely obscured by blur, mouth open with tongue faintly visible", "apparel": "Dark oversized sunglasses reflecting ambient light" }, "environment": { "location": "Cramped retail shop interior", "foreground": "Cluttered checkout counter, papers, white shopping bag with red rope handles", "background": "Densely packed shelves with small items, souvenirs, and figurines (abstracted by low resolution)" } }, "technical_specifications": { "camera_perspective": "High-mounted, steep downward angle, top-down CCTV view", "lens_distortion": "Subtle fisheye warping at frame edges", "lighting": "Harsh flat fluorescent, blown highlights, dull shadows", "color_grading": "Cool green-blue cast, uneven color reproduction, visible banding, reduced dynamic range" }, "image_fidelity": { "quality": "Intentionally degraded, low-fidelity", "artifacts": [ "Strong motion blur", "Digital smearing", "Compression artifacts", "Heavy noise", "Scan lines" ], "sharpness": "Low perceived sharpness, distinct details stretched and indistinct" }, "full_prompt_text": "A heavily distorted, low-fidelity surveillance-style image depicts the Subject standing behind a cramped retail checkout counter inside a cluttered shop, captured from a high-mounted camera angled steeply downward in a top-down CCTV perspective. The image quality is intentionally degraded, with strong motion blur, digital smearing, compression artifacts, heavy noise, scan lines, and subtle fisheye distortion warping the frame edges, making fine details indistinct and stretched. The Subject is centered from mid-torso upward, looking up toward the camera with the head tilted back; facial features are largely obscured by blur and artifacts, though dark oversized sunglasses dominate the face, reflecting ambient light, and the mouth appears open with the tongue faintly visible. One hand is raised toward the camera with the middle finger extended, clearly readable in silhouette but softened and ghosted by motion and low clarity, conveying a relaxed yet defiant posture. The foreground checkout counter is cluttered with papers and a white shopping bag with red rope handles, while the background shelves are densely packed with small items, souvenirs, and figurines that blend into abstract shapes due to low resolution and noise. Harsh, flat fluorescent lighting produces blown highlights, dull shadows, uneven color reproduction, and a cool green-blue color cast with visible banding and reduced dynamic range. Despite an effectively deep depth of field, perceived sharpness remains low, reinforcing a raw, gritty, confrontational mood that emphasizes the authenticity of an unpolished, unenhanced surveillance feed in a vertical 4:5 aspect ratio" }
+```
+
+By [@mateomondragon](https://prompthero.com/prompt/60c39311d87-grok-image-grok-imagine-image-2-imagedescription-title-surveillance-feed-defiant-subject-in-retail-shop-aspectratio-45-mood-raw-gritty-confrontational-authentic-visualelements-subject-framing-centered)
+
+---
+
+<a id="prompthero-63c99263231"></a>
+
+## Grungy analog photo of Luis Figo circa 2000 playin\.\.\.
+
+<a href="https://cdn.prompthero.com/8isgqm4j0fns8cb9k1jmpuyloufo-chatgpt-image-gpt-4o-grungy-analog-photo-of-luis-figo-circa-2000-playing-fifa-2000-on-playstation-1-on-a-90s-crt-tv-in.png"><img src="https://cdn.prompthero.com/8isgqm4j0fns8cb9k1jmpuyloufo-chatgpt-image-gpt-4o-grungy-analog-photo-of-luis-figo-circa-2000-playing-fifa-2000-on-playstation-1-on-a-90s-crt-tv-in.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+Grungy analog photo of Luis Figo circa 2000 playing Fifa 2000 on Playstation 1 on a 90s CRT TV in a dimly lit bedroom. He's sitting on the floor in front of the TV holding the PlayStation 1 controller in one hand and looking back at the camera taking the photo while the game is on in the background visible to us. Flash photography, unedited.
+```
+
+By [@chorlo](https://prompthero.com/prompt/63c99263231-chatgpt-image-gpt-4o-grungy-analog-photo-of-luis-figo-circa-2000-playing-fifa-2000-on-playstation-1-on-a-90s-crt-tv-in)
+
+---
+
+<a id="prompthero-64ba73e76c5"></a>
+
+## close-up photograph of glossy purple, full lips sl\.\.\.
+
+<a href="https://cdn.prompthero.com/fj8vws7pf4n0pjgnxnr67owwf6g4-flux-flux-11-pro-ultra-close-up-photograph-of-glossy-purple-full-lips-slightly-parted-and-twisted-revealing-teeth-with-a-sleek-gold-grillz-the.jpg"><img src="https://cdn.prompthero.com/fj8vws7pf4n0pjgnxnr67owwf6g4-flux-flux-11-pro-ultra-close-up-photograph-of-glossy-purple-full-lips-slightly-parted-and-twisted-revealing-teeth-with-a-sleek-gold-grillz-the.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+close-up photograph of glossy purple, full lips slightly parted and twisted, revealing teeth with a sleek gold grillz. The lips are coated in a high-shine, wet-look gloss, reflecting light dramatically. Long, vibrant acrylic nails with a bold abstract pattern of green, blue, and white press against the lips. One nail features a yellow smiley face charm encircled by tiny rhinestones. The lighting is moody and cinematic, with warm golden hues and soft shadows. The image has a grainy, film-like texture, reminiscent of high-fashion editorial photography. Shot with a macro lens, shallow depth of field, high contrast, vintage 35mm film aesthetic
+```
+
+[Source](https://prompthero.com/prompt/64ba73e76c5-flux-flux-11-pro-ultra-close-up-photograph-of-glossy-purple-full-lips-slightly-parted-and-twisted-revealing-teeth-with-a-sleek-gold-grillz-the)
+
+---
+
+<a id="prompthero-66a2b65df89"></a>
+
+## fashion photography, professional man model, shot \.\.\.
+
+<a href="https://cdn.prompthero.com/2h90js0hjq5f5z7df9r30llnfyzx-midjourney-6-fashion-photography-professional-man-model-shot-with-canon-eos-r3-50mm-f12-rf-lens-f28-settings-1160s-iso-1600-gradient.png"><img src="https://cdn.prompthero.com/2h90js0hjq5f5z7df9r30llnfyzx-midjourney-6-fashion-photography-professional-man-model-shot-with-canon-eos-r3-50mm-f12-rf-lens-f28-settings-1160s-iso-1600-gradient.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+fashion photography, professional man model, shot with Canon eos r3, 50mm f/1.2 rf lens, f/2.8 settings, 1/160s, iso 1600, gradient neon violet, streetwear style, holographic effect on wear, luminescent sneaker soles, dark backdrop with deep purple atmospheric lighting, professional studio setup with two led strip lights at floor level and one overhead softbox, cyberpunk aesthetic, side profile active pose with silhouette, dramatic contrast, ultra sharp details, photorealistic quality, rich detailing --ar 9:16 --quality 2 --style raw --personalize c84qxg1 --v 6.1
+```
+
+By [@Grayve](https://prompthero.com/prompt/66a2b65df89-midjourney-6-fashion-photography-professional-man-model-shot-with-canon-eos-r3-50mm-f12-rf-lens-f28-settings-1160s-iso-1600-gradient)
+
+---
+
+<a id="prompthero-066e0e1f71b"></a>
+
+## a girl wearing Chanel&\#39;s diamond-encrusted heels , \.\.\.
+
+<a href="https://cdn.prompthero.com/q219rcn4uyy3b0nv4x9jhdxixz3d-dreamshaper-7-a-girl-wearing-chanels-diamond-encrusted-heels-flat-chested-abs-thin-the-background-is-sandy-beachfacing-the-audience-on-the.png"><img src="https://cdn.prompthero.com/q219rcn4uyy3b0nv4x9jhdxixz3d-dreamshaper-7-a-girl-wearing-chanels-diamond-encrusted-heels-flat-chested-abs-thin-the-background-is-sandy-beachfacing-the-audience-on-the.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+a girl wearing Chanel's diamond-encrusted heels ,  flat-chested, abs, thin, The background is sandy beach,facing the audience on the side, delicate hands, perfect dismantling,legant, highly detailed, intricate, sharp focus, depth of field, f/1.8, 85mm, medium shot, mid shot, (centered image composition), (professionally color graded), ((bright soft diffused light)), volumetric fog, trending on instagram, trending on tumblr, hdr 4k, 8k, <l
+```
+
+[Source](https://prompthero.com/prompt/066e0e1f71b-dreamshaper-7-a-girl-wearing-chanels-diamond-encrusted-heels-flat-chested-abs-thin-the-background-is-sandy-beachfacing-the-audience-on-the)
+
+---
+
+[1](portraits.md) · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · [5](portraits-5.md) · [6](portraits-6.md) · [7](portraits-7.md) · [8](portraits-8.md) · [9](portraits-9.md) · [10](portraits-10.md) · [11](portraits-11.md) · [12](portraits-12.md) · [13](portraits-13.md) · [14](portraits-14.md) · [15](portraits-15.md) · **16** · [17](portraits-17.md) · [18](portraits-18.md) · [19](portraits-19.md) · [20](portraits-20.md) · [21](portraits-21.md) · [22](portraits-22.md) · [23](portraits-23.md) · [24](portraits-24.md) · [25](portraits-25.md) · [26](portraits-26.md) · [27](portraits-27.md) · [28](portraits-28.md) · [29](portraits-29.md) · [30](portraits-30.md) · [31](portraits-31.md) · [32](portraits-32.md) · [33](portraits-33.md) · [34](portraits-34.md) · [35](portraits-35.md)
 
 [← Home](../README.md)

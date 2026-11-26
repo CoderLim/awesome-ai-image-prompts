@@ -6,22 +6,6 @@
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
-<a id="prompthero-0125037acec"></a>
-
-## Double exposure black and white photography of a w\.\.\.
-
-<a href="https://cdn.prompthero.com/c408cb8hmehnhrpmvuiar7yv0p6y-stable-diffusion-35-large-double-exposure-black-and-white-photography-of-a-womans-face-solemn-and-ethereal-eyes-half-closed-as-if-caught-between.png"><img src="https://cdn.prompthero.com/c408cb8hmehnhrpmvuiar7yv0p6y-stable-diffusion-35-large-double-exposure-black-and-white-photography-of-a-womans-face-solemn-and-ethereal-eyes-half-closed-as-if-caught-between.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-Double exposure black and white photography of a woman’s face, solemn and ethereal, eyes half-closed as if caught between waking and warning. Her face merges with a surreal landscape — mountains cracked open into abysses, rivers of smoke, distant silhouettes of devils and angels battling in silence, wings torn and halos fractured. Liquified elements swirl behind her like melting frescoes — fragments of heaven and hell, celestial ruins dripping into scorched earth. The overall composition has a gothic visual language: heavy contrast, sacred decay, haunted light. Soft grain, vintage lens blur, cinematic 8K resolution, fine grayscale textures like decaying parchment. Atmospheric, spiritual, sorrowful. Barren trees and cathedral arches ghosting through the background like memories of judgment
-```
-
-[Source](https://prompthero.com/prompt/0125037acec-stable-diffusion-35-large-double-exposure-black-and-white-photography-of-a-womans-face-solemn-and-ethereal-eyes-half-closed-as-if-caught-between)
-
----
-
 <a id="prompthero-324685cb245"></a>
 
 ## Elven Cleric
@@ -323,6 +307,22 @@ photograph, front central shot, full-length, unknown gender figure, black and ne
 ```
 
 By [@Grayve](https://prompthero.com/prompt/ac1a454f3d1-midjourney-7-photograph-front-central-shot-full-length-unknown-gender-figure-black-and-neon-blue-color-palette-swirling-vibrant-neon-blue-color)
+
+---
+
+<a id="prompthero-ac2d4b9faeb"></a>
+
+## Gothic style Gothic style 1woman, \(full body image\.\.\.
+
+<a href="https://cdn.prompthero.com/drtv4knl3y3ars7mmyfuss7jtagv-flux-flux-11-pro-ultra-gothic-style-gothic-style-1woman-full-body-image-with-nothing-cropped-out12-mechanical-battle-harden-warrior-with-a-heads-up.jpg"><img src="https://cdn.prompthero.com/drtv4knl3y3ars7mmyfuss7jtagv-flux-flux-11-pro-ultra-gothic-style-gothic-style-1woman-full-body-image-with-nothing-cropped-out12-mechanical-battle-harden-warrior-with-a-heads-up.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+Gothic style Gothic style 1woman, (full body image with nothing cropped out:1.2), mechanical battle harden warrior with a heads up display. dark digital fantasy high tech world. sinister vibes, intimidating presence . Dark, mysterious, haunting, dramatic, ornate, detailed, mechanical glowing halo around head . Dark, mysterious, haunting, dramatic, ornate, detailed
+```
+
+[Source](https://prompthero.com/prompt/ac2d4b9faeb-flux-flux-11-pro-ultra-gothic-style-gothic-style-1woman-full-body-image-with-nothing-cropped-out12-mechanical-battle-harden-warrior-with-a-heads-up)
 
 ---
 

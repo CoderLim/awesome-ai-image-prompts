@@ -6,38 +6,6 @@
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
-<a id="prompthero-7ee3e9f9ac7"></a>
-
-## A minimalist design of the word &quot;PROMPTHERO&quot; forme\.\.\.
-
-<a href="https://cdn.prompthero.com/ovfy1m3snqw4a4wn1wojjaetnik0-ideogram-2-a-minimalist-design-of-the-word-prompthero-formed-by-a-single-piece-of-red-rope-against-a-white-background-the.png"><img src="https://cdn.prompthero.com/ovfy1m3snqw4a4wn1wojjaetnik0-ideogram-2-a-minimalist-design-of-the-word-prompthero-formed-by-a-single-piece-of-red-rope-against-a-white-background-the.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-A minimalist design of the word "PROMPTHERO" formed by a single piece of red rope against a white background. The rope twists and bends intricately to create the letterforms without breaks. The negative space within the loops helps define the letters. The design symbolizes connection and strength. The composition is simple yet detailed. The overall aesthetic is elegant, meaningful, and creatively brilliant, offering a unique interpretation of love through the art of knots.
-```
-
-By [@chorlo](https://prompthero.com/prompt/7ee3e9f9ac7-ideogram-2-a-minimalist-design-of-the-word-prompthero-formed-by-a-single-piece-of-red-rope-against-a-white-background-the)
-
----
-
-<a id="prompthero-20e7743dd91"></a>
-
-## An icon design, 3D, transportation icon, bicycles,\.\.\.
-
-<a href="https://cdn.prompthero.com/p0eefi6x80effwi35hivexodpsud-midjourney-niji-mode-an-icon-design-3d-transportation-icon-bicycles-soft-light-nostalgic-feeling-pastel-colors-vintage-colors-muted-colors-classic-jerry-pinkney.png"><img src="https://cdn.prompthero.com/p0eefi6x80effwi35hivexodpsud-midjourney-niji-mode-an-icon-design-3d-transportation-icon-bicycles-soft-light-nostalgic-feeling-pastel-colors-vintage-colors-muted-colors-classic-jerry-pinkney.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-An icon design, 3D, transportation icon, bicycles, soft light, nostalgic feeling, pastel colors, vintage colors, muted colors, classic, Jerry Pinkney, clean and neutral background::2 --q 2 --niji 5
-```
-
-[Source](https://prompthero.com/prompt/20e7743dd91-midjourney-niji-mode-an-icon-design-3d-transportation-icon-bicycles-soft-light-nostalgic-feeling-pastel-colors-vintage-colors-muted-colors-classic-jerry-pinkney)
-
----
-
 <a id="prompthero-34bcc4b30db"></a>
 
 ## A 3D metallic chrome text logo that says &quot;GHASEM&quot;,\.\.\.

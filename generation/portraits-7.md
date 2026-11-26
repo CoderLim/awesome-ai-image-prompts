@@ -1,90 +1,10 @@
 # portraits
 
-[← Home](../README.md) · Page 7 / 36
+[← Home](../README.md) · Page 7 / 35
 
-[1](portraits.md) · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · [5](portraits-5.md) · [6](portraits-6.md) · **7** · [8](portraits-8.md) · [9](portraits-9.md) · [10](portraits-10.md) · [11](portraits-11.md) · [12](portraits-12.md) · [13](portraits-13.md) · [14](portraits-14.md) · [15](portraits-15.md) · [16](portraits-16.md) · [17](portraits-17.md) · [18](portraits-18.md) · [19](portraits-19.md) · [20](portraits-20.md) · [21](portraits-21.md) · [22](portraits-22.md) · [23](portraits-23.md) · [24](portraits-24.md) · [25](portraits-25.md) · [26](portraits-26.md) · [27](portraits-27.md) · [28](portraits-28.md) · [29](portraits-29.md) · [30](portraits-30.md) · [31](portraits-31.md) · [32](portraits-32.md) · [33](portraits-33.md) · [34](portraits-34.md) · [35](portraits-35.md) · [36](portraits-36.md)
+[1](portraits.md) · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · [5](portraits-5.md) · [6](portraits-6.md) · **7** · [8](portraits-8.md) · [9](portraits-9.md) · [10](portraits-10.md) · [11](portraits-11.md) · [12](portraits-12.md) · [13](portraits-13.md) · [14](portraits-14.md) · [15](portraits-15.md) · [16](portraits-16.md) · [17](portraits-17.md) · [18](portraits-18.md) · [19](portraits-19.md) · [20](portraits-20.md) · [21](portraits-21.md) · [22](portraits-22.md) · [23](portraits-23.md) · [24](portraits-24.md) · [25](portraits-25.md) · [26](portraits-26.md) · [27](portraits-27.md) · [28](portraits-28.md) · [29](portraits-29.md) · [30](portraits-30.md) · [31](portraits-31.md) · [32](portraits-32.md) · [33](portraits-33.md) · [34](portraits-34.md) · [35](portraits-35.md)
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
-
-<a id="prompthero-1e6a4f15e49"></a>
-
-## Mid shot, intricately detailed portrait of an andr\.\.\.
-
-<a href="https://cdn.prompthero.com/3z8n6j5b8wsm2q5zu2o0l68s3lzr-flux-flux-11-pro-ultra-mid-shot-intricately-detailed-portrait-of-an-android-arab-woman-plague-doctor-in-the-street-on-a-dark-night-stunning.jpg"><img src="https://cdn.prompthero.com/3z8n6j5b8wsm2q5zu2o0l68s3lzr-flux-flux-11-pro-ultra-mid-shot-intricately-detailed-portrait-of-an-android-arab-woman-plague-doctor-in-the-street-on-a-dark-night-stunning.jpg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-Mid shot, intricately detailed portrait of an android Arab woman plague doctor in the street on a dark night, stunning cinematic photography, liquid glossy plastic white face and dark red head, black lips, robotic expressionism, technological design, low-key lighting, high contrast, neon colors, chrome plated, hyper-realistic, sci-fi, ray tracing, glossy finish
-```
-
-[Source](https://prompthero.com/prompt/1e6a4f15e49-flux-flux-11-pro-ultra-mid-shot-intricately-detailed-portrait-of-an-android-arab-woman-plague-doctor-in-the-street-on-a-dark-night-stunning)
-
----
-
-<a id="prompthero-1ee523acf0e"></a>
-
-## 1 girl, photo realistic portrait of a girl with fu\.\.\.
-
-<a href="https://cdn.prompthero.com/i6ssmg695kfhs0o5ij68c0vm3sly-dreamshaper-5-inpainting-cyber-pink-1-girl-photo-realistic-portrait-of-a-girl-with-futuristic-outfit-intricate-sleek-and-transparent-style-she-has-young-and.png"><img src="https://cdn.prompthero.com/i6ssmg695kfhs0o5ij68c0vm3sly-dreamshaper-5-inpainting-cyber-pink-1-girl-photo-realistic-portrait-of-a-girl-with-futuristic-outfit-intricate-sleek-and-transparent-style-she-has-young-and.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-1 girl, photo realistic portrait of a girl with futuristic outfit, intricate sleek and transparent style. She has young and beautiful face, pink short hair with blunt bangs, narrow waist, thin thigh. The outfit style of evangelion and cyberpunk, Art (style of Benedick Bana:1.1), messy, streaks, Extreme Detail, Intricate, Cinematic Lighting, Sharp Focus, DSLR, DoF , bokeh, 16k, UHD, HDR,(Masterpiece:1.5), (best quality:1.5), RAW candid cinema, studio, 16mm, ((color graded portra 400 film)) ((remarkable color)), (ultra realistic), textured skin, remarkable detailed pupils, ((realistic dull skin noise)), ((visible skin detail)), ((skin fuzz)), (dry skin) shot with cinematic camera
-```
-
-By [@ScArecrow23](https://prompthero.com/prompt/1ee523acf0e-dreamshaper-5-inpainting-cyber-pink-1-girl-photo-realistic-portrait-of-a-girl-with-futuristic-outfit-intricate-sleek-and-transparent-style-she-has-young-and)
-
----
-
-<a id="prompthero-1f4a94f96ab"></a>
-
-## A dramatic black and white profile portrait of a m\.\.\.
-
-<a href="https://cdn.prompthero.com/hbl3z19wak60ow9v7prp1ys9zz-nano-banana-gemini-3-pro-image-a-dramatic-black-and-white-profile-portrait-of-a-man-intense-rim-lighting-deep-shadows-cinematic-lighting-high-contrast-pitch.jpeg"><img src="https://cdn.prompthero.com/hbl3z19wak60ow9v7prp1ys9zz-nano-banana-gemini-3-pro-image-a-dramatic-black-and-white-profile-portrait-of-a-man-intense-rim-lighting-deep-shadows-cinematic-lighting-high-contrast-pitch.jpeg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-A dramatic black and white profile portrait of a man, intense rim lighting, deep shadows, cinematic lighting, high contrast, pitch black background, detailed hair strands illuminated by light, minimalist style, 8k resolution.
-```
-
-[Source](https://prompthero.com/prompt/1f4a94f96ab-nano-banana-gemini-3-pro-image-a-dramatic-black-and-white-profile-portrait-of-a-man-intense-rim-lighting-deep-shadows-cinematic-lighting-high-contrast-pitch)
-
----
-
-<a id="prompthero-2a246af65d0"></a>
-
-## best quality, 4k, highres, masterpiece, ultra-deta\.\.\.
-
-<a href="https://cdn.prompthero.com/dd8jw0gfedmv3rujssxsmcg7u6io-realistic-vision-v20-v20-best-quality-4k-highres-masterpiece-ultra-detailed-realistic-highly-detailed-photo-fashion-editorial-black-and-white-photography-a-gorgerous-girl.png"><img src="https://cdn.prompthero.com/dd8jw0gfedmv3rujssxsmcg7u6io-realistic-vision-v20-v20-best-quality-4k-highres-masterpiece-ultra-detailed-realistic-highly-detailed-photo-fashion-editorial-black-and-white-photography-a-gorgerous-girl.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-best quality, 4k, highres, masterpiece, ultra-detailed, realistic, highly detailed photo, fashion editorial, black and white photography, a gorgerous girl looked up, white dress, white cloth floating in air, shallow depth of field, soft atmospheric scenes, powerful portraits, perfect anatomy, best quality, highres, realistic photo, professional photography, cinematic angle, dynamic, light shining,
-```
-
-[Source](https://prompthero.com/prompt/2a246af65d0-realistic-vision-v20-v20-best-quality-4k-highres-masterpiece-ultra-detailed-realistic-highly-detailed-photo-fashion-editorial-black-and-white-photography-a-gorgerous-girl)
-
----
-
-<a id="prompthero-02b087a52fa"></a>
-
-## 1 girl, beautiful Korean girl, \(Cute Loose Bob hai\.\.\.
-
-<a href="https://cdn.prompthero.com/524gptvse9eebid7stn50when0gk-chilloutmix-chilloutmix-ni-pruned-fp32-fix-1-girl-beautiful-korean-girl-cute-loose-bob-hair-wearing-a-cropped-hoodie-capri-sweatpants-high-hills15-red-lips-small.png"><img src="https://cdn.prompthero.com/524gptvse9eebid7stn50when0gk-chilloutmix-chilloutmix-ni-pruned-fp32-fix-1-girl-beautiful-korean-girl-cute-loose-bob-hair-wearing-a-cropped-hoodie-capri-sweatpants-high-hills15-red-lips-small.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-1 girl, beautiful Korean girl, (Cute Loose Bob hair), (wearing a cropped hoodie, capri sweatpants, high hills:1.5), (red lips), (small breasts), (toned stomach), (eyelashes:1.2), (aegyo sal:1.2), beautiful detailed eyes, symmetrical eyes, (detailed face), dramatic lighting, (photorealism:1.5), (photorealistic:1.4), (8k, RAW photo, masterpiece), High detail RAW color photo, professional photo, realistic, (highest quality), (best shadow), (best illustration), ultra high resolution, highly detailed CG unified 8K wallpapers, physics-based rendering, photo, realistic, realism, high contrast, hyperrealism, photography, f1.6 lens, rich colors, hyper-realistic lifelike texture, cinestill 800, ulzzang-6500-v1.1, <lora:koreanDollLikeness_v10:0.5>
-```
-
-[Source](https://prompthero.com/prompt/02b087a52fa-chilloutmix-chilloutmix-ni-pruned-fp32-fix-1-girl-beautiful-korean-girl-cute-loose-bob-hair-wearing-a-cropped-hoodie-capri-sweatpants-high-hills15-red-lips-small)
-
----
 
 <a id="prompthero-2b2215c518b"></a>
 
@@ -326,6 +246,86 @@ By [@NorthmoorAI](https://prompthero.com/prompt/3a1102069dc-midjourney-papercut-
 
 ---
 
-[1](portraits.md) · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · [5](portraits-5.md) · [6](portraits-6.md) · **7** · [8](portraits-8.md) · [9](portraits-9.md) · [10](portraits-10.md) · [11](portraits-11.md) · [12](portraits-12.md) · [13](portraits-13.md) · [14](portraits-14.md) · [15](portraits-15.md) · [16](portraits-16.md) · [17](portraits-17.md) · [18](portraits-18.md) · [19](portraits-19.md) · [20](portraits-20.md) · [21](portraits-21.md) · [22](portraits-22.md) · [23](portraits-23.md) · [24](portraits-24.md) · [25](portraits-25.md) · [26](portraits-26.md) · [27](portraits-27.md) · [28](portraits-28.md) · [29](portraits-29.md) · [30](portraits-30.md) · [31](portraits-31.md) · [32](portraits-32.md) · [33](portraits-33.md) · [34](portraits-34.md) · [35](portraits-35.md) · [36](portraits-36.md)
+<a id="prompthero-3b0d4896f5f"></a>
+
+## &quot;A man standing with his back to the camera, looki\.\.\.
+
+<a href="https://cdn.prompthero.com/fyxb14oprf7lh17gd04ircxv8d-a-man-standing-with-his-back-to-the-camera-looking-straight-ahead-toward-the-horizon-he-appears-very-calm-confident.png"><img src="https://cdn.prompthero.com/fyxb14oprf7lh17gd04ircxv8d-a-man-standing-with-his-back-to-the-camera-looking-straight-ahead-toward-the-horizon-he-appears-very-calm-confident.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+"A man standing with his back to the camera, looking straight ahead toward the horizon. He appears very calm, confident, and steadfast, with a strong and unwavering posture. In front of him, a massive tsunami wave is towering and moving toward him. The scene is set on a stormy beach with dark, rainy weather and gloomy clouds. Around the man, people are running away in panic and chaos. Wide-angle shot, cinematic composition, dramatic lighting, 4K ultra realistic, photorealistic, highly detailed, epic atmosphere."
+```
+
+[Source](https://prompthero.com/prompt/3b0d4896f5f-a-man-standing-with-his-back-to-the-camera-looking-straight-ahead-toward-the-horizon-he-appears-very-calm-confident)
+
+---
+
+<a id="prompthero-3b3f51292c6"></a>
+
+## urban winter film photography, woman biking past m\.\.\.
+
+<a href="https://cdn.prompthero.com/qve1ky5gjg1bfyof9mbrtr6e6i-midjourney-shatter-urban-winter-film-photography-woman-biking-past-murals-vintage-winter-colors-motion-blur-film-grain-texture-warm-light-leak-candid.png"><img src="https://cdn.prompthero.com/qve1ky5gjg1bfyof9mbrtr6e6i-midjourney-shatter-urban-winter-film-photography-woman-biking-past-murals-vintage-winter-colors-motion-blur-film-grain-texture-warm-light-leak-candid.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+urban winter film photography, woman biking past murals, vintage winter colors, motion blur, film grain texture, warm light leak, candid moment --ar 9:16 --raw
+```
+
+By [@Grayve](https://prompthero.com/prompt/3b3f51292c6-midjourney-shatter-urban-winter-film-photography-woman-biking-past-murals-vintage-winter-colors-motion-blur-film-grain-texture-warm-light-leak-candid)
+
+---
+
+<a id="prompthero-3b40d3d0b22"></a>
+
+## A female model wears a sleek, black, high-necked l\.\.\.
+
+<a href="https://cdn.prompthero.com/637w3b5iwpv6lyvwchmdefvh8vp2-flux-flux-11-pro-a-female-model-wears-a-sleek-black-high-necked-leotard-made-of-a-satin-like-or-techno-fiber-material-that.jpg"><img src="https://cdn.prompthero.com/637w3b5iwpv6lyvwchmdefvh8vp2-flux-flux-11-pro-a-female-model-wears-a-sleek-black-high-necked-leotard-made-of-a-satin-like-or-techno-fiber-material-that.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+A female model wears a sleek, black, high-necked leotard made of a satin-like or techno-fiber material that gives off a cool, metallic sheen. Her hair is styled in a neat low ponytail, complementing the minimalist, futuristic aesthetic of her look. Most strikingly, she wears a translucent mask sculpted in the shape of a Capricorn's head, featuring elegant, curved horns that arch backward. The mask is crafted from a silicone or plastic-like material, smooth yet detailed, allowing the model’s facial contours to subtly show through. This interplay between reality and illusion enhances the avant-garde, cyberpunk-inspired design with elements of biomimicry. The overall color palette is soft and cold, with a light gray background, making the figure stand out in a futuristic, high-concept fashion photography or experimental art setting
+```
+
+By [@chorlo](https://prompthero.com/prompt/3b40d3d0b22-flux-flux-11-pro-a-female-model-wears-a-sleek-black-high-necked-leotard-made-of-a-satin-like-or-techno-fiber-material-that)
+
+---
+
+<a id="prompthero-3b670590135"></a>
+
+## A woman in a traditional Chinese Hanfu dress, whit\.\.\.
+
+<a href="https://cdn.prompthero.com/saohnmbd66ymtu33ibg6137ahsaw-flux-flux-11-pro-a-woman-in-a-traditional-chinese-hanfu-dress-white-kimono-with-red-and-black-patterned-sleeves-and-a-red-skirt.jpg"><img src="https://cdn.prompthero.com/saohnmbd66ymtu33ibg6137ahsaw-flux-flux-11-pro-a-woman-in-a-traditional-chinese-hanfu-dress-white-kimono-with-red-and-black-patterned-sleeves-and-a-red-skirt.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+A woman in a traditional Chinese Hanfu dress, white kimono with red and black patterned sleeves, and a red skirt stands serenely under a pink cherry blossom tree. Her loose waves of hair frame her peaceful face as she gazes upward, eyes soft and content. The tree is in full bloom, petals gently drifting down. A stone wall stretches behind, adding a timeless quality. The scene is bathed in soft, diffused natural light, creating a serene and tranquil mood with a pastel color palette and subtle film grain.
+```
+
+[Source](https://prompthero.com/prompt/3b670590135-flux-flux-11-pro-a-woman-in-a-traditional-chinese-hanfu-dress-white-kimono-with-red-and-black-patterned-sleeves-and-a-red-skirt)
+
+---
+
+<a id="prompthero-3be3eac04f0"></a>
+
+## \(35mmstyle:1\.2\), Highly detailed RAW color Photo, \.\.\.
+
+<a href="https://cdn.prompthero.com/7xr46bji3zeieafqpde3d98zoluw-stable-diffusion-xl-base-09-35mmstyle12-highly-detailed-raw-color-photo-rear-angle-full-body-of-female-space-marine-wearing-white-and-red-space-suit.png"><img src="https://cdn.prompthero.com/7xr46bji3zeieafqpde3d98zoluw-stable-diffusion-xl-base-09-35mmstyle12-highly-detailed-raw-color-photo-rear-angle-full-body-of-female-space-marine-wearing-white-and-red-space-suit.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+(35mmstyle:1.2), Highly detailed RAW color Photo, Rear Angle, Full Body, of (female space marine, wearing white and red space suit, futuristic helmet, tined face shield, rebreather, accentuated booty), outdoors, (standing on Precipice of tall rocky mountain, looking out at magical lush green rain forest on alien planet), vivid detail, (exotic alien planet), toned body, big butt, (sci-fi), (mountains:1.1), (lush green vegetation), (two moons in sky:0.8), (highly detailed, hyperdetailed, intricate), (lens flare:0.7), (bloom:0.7), particle effects, raytracing, cinematic lighting, shallow depth of field, photographed on a Sony a9 II, 35mm wide angle lens, sharp focus, cinematic film still from Gravity 2013, viewed from behind, dynamic angle
+```
+
+[Source](https://prompthero.com/prompt/3be3eac04f0-stable-diffusion-xl-base-09-35mmstyle12-highly-detailed-raw-color-photo-rear-angle-full-body-of-female-space-marine-wearing-white-and-red-space-suit)
+
+---
+
+[1](portraits.md) · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · [5](portraits-5.md) · [6](portraits-6.md) · **7** · [8](portraits-8.md) · [9](portraits-9.md) · [10](portraits-10.md) · [11](portraits-11.md) · [12](portraits-12.md) · [13](portraits-13.md) · [14](portraits-14.md) · [15](portraits-15.md) · [16](portraits-16.md) · [17](portraits-17.md) · [18](portraits-18.md) · [19](portraits-19.md) · [20](portraits-20.md) · [21](portraits-21.md) · [22](portraits-22.md) · [23](portraits-23.md) · [24](portraits-24.md) · [25](portraits-25.md) · [26](portraits-26.md) · [27](portraits-27.md) · [28](portraits-28.md) · [29](portraits-29.md) · [30](portraits-30.md) · [31](portraits-31.md) · [32](portraits-32.md) · [33](portraits-33.md) · [34](portraits-34.md) · [35](portraits-35.md)
 
 [← Home](../README.md)

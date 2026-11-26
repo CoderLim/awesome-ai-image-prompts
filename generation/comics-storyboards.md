@@ -1,26 +1,10 @@
 # comics storyboards
 
-[← Home](../README.md) · Page 1 / 2
+[← Home](../README.md) · Page 1 / 1
 
-**1** · [2](comics-storyboards-2.md)
+**1**
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
-
-<a id="evolink-advertising-case-183"></a>
-
-## Agricultural Food Brand Storyboard
-
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2103421669431975936-poster.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2103421669431975936-poster.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Create a production-ready photo storyboard for a 10-second corporate commercial for the fictional Japanese food and agriculture company “MINORI FOODS.” CONCEPT The central message is “Beyond Every Plate.” Follow one perfectly ripe red tomato as a visual baton connecting a farmer’s harvest, refrigerated transportation, quality inspection, professional cooking and a family dinner table. The commercial should communicate that one meal is made possible by the care and craftsmanship of many people, from the producer to the consumer. STORYBOARD FORMAT Create one landscape 16:9 image containing exactly nine storyboard panels. Arrange the panels in a perfectly even 3-column × 3-row grid. Each individual panel must be composed as a cinematic horizontal 16:9 frame. Use thin ivory-colored gutters between the panels. Place small white panel numbers “01” through “09” in the upper-left corner of each panel, ordered from left to right, top row to bottom row. Do not include captions, arrows, production notes, watermarks or additional logos. Every panel must look like a high-quality photographic frame extracted from the same finished live-action commercial—not nine unrelated stock photographs. VISUAL WORLD The commercial begins at a quiet tomato farm in rural Japan, moves through a clean food quality-control facility and a professional restaurant kitchen, and ends at a warm contemporary family dining table. Time progresses naturally from cool early-morning light to warm evening light. The same ripe red tomato serves as the visual thread throughout the sequence. Use a restrained color palette of natural leaf green, rich tomato red, earthy brown, stainless-steel silver, warm wood and clean off-white. CHARACTER CONTINUITY Farmer: A Japanese man approximately 58 years old. He has a naturally sun-weathered face, short salt-and-pepper hair and a calm, sincere expression. He wears the same dark indigo work shirt, beige work trousers and olive-green rubber boots in every relevant panel. His face, hairstyle, body proportions, hands and clothing must remain consistent. He should look like a real working farmer rather than a fashion model. Chef: A Japanese woman approximately 34 years old. She has a natural, approachable face, minimal makeup and straight black hair tied in a neat low ponytail. She wears the same clean white chef jacket in every kitchen scene. Preserve her face, hairstyle, physique and wardrobe. Family: A Japanese couple in their 30s and their elementary-school-age daughter. They live in a contemporary but warm and realistic home. Their expressions should be subtle and natural, without exaggerated advertising smiles. NINE STORYBOARD PANELS 01 — DAWN AT THE FARM A wide environmental shot of a Japanese tomato farm at dawn. Long rows of tomato plants extend toward distant low mountains. The low morning sun shines through the leaves, and a light mist remains between the rows. The farmer walks toward the camera carrying an empty wooden harvest crate. Use a cinematic wide composition that establishes the location and atmosphere. 02 — HARVEST A medium close-up of the same farmer gently twisting one ripe red tomato from the vine. Show his calm, focused expression, realistic leaves and warm backlight outlining his hands and face. The image should capture one simple, precise harvesting action. 03 — THE TOMATO An extreme macro photograph of the freshly harvested tomato resting in the farmer’s open palm. Render tiny dew droplets, natural skin texture, subtle imperfections, the green calyx and the authentic texture of his working hands. The tomato must look fresh, moist and completely photorealistic—not glossy plastic. 04 — REFRIGERATED DELIVERY A low-angle close shot beside a small white refrigerated delivery van. The farmer places a wooden crate filled with matching ripe tomatoes into the clean cargo area. Show one controlled lifting-and-placing action. Do not display any existing company logos or vehicle branding. 05 — QUALITY CONTROL Inside a modern and hygienic food quality-control facility. White-gloved hands carefully inspect and weigh one tomato on a stainless-steel workstation. Include a realistic digital scale, a small lot-label scanner and clean food-processing equipment. The scene should feel credible, practical and sanitary—not futuristic or science-fictional. 06 — PREPARATION A close-up inside a professional restaurant kitchen. The same female chef slices the tomato on a wooden cutting board using a stainless-steel chef’s knife. Render the tomato flesh, seeds, moisture, juice and metal reflections precisely. Her hands and fingers must be anatomically correct and positioned safely. 07 — PLATING A top-down overhead food composition. The chef finishes a simple, elegant tomato pasta dish with fresh basil and pours one thin stream of olive oil over the plate. Show gentle steam, moist tomato pieces, the sheen of olive oil and refined but realistic restaurant presentation. 08 — THE DINNER TABLE An intimate medium shot at a warm family dinner table. The young daughter takes her first bite of the tomato pasta while her parents watch and smile naturally. The plated tomato dish should remain clearly visible. Capture a genuine moment of quiet happiness rather than an exaggerated commercial performance. 09 — FINAL BRAND FRAME A premium food-advertising hero shot on a textured stone tabletop. Place the finished tomato pasta, one whole ripe tomato and a few fresh green leaves on the right side of the frame. Use a softly blurred evening farm landscape in the background. Reserve generous clean negative space on the left side. In the left-side negative space, display only the following exact text: “一皿の向こう側。” Below it: “MINORI FOODS” Use refined dark-brown Japanese Mincho-style typography for the Japanese copy and an elegant serif typeface for the company name. Do not add any other words, claims or logos. PHOTOGRAPHY AND LIGHTING Ultra-photorealistic premium Japanese food advertising with warm documentary realism. Use realistic 35mm and 50mm lens perspectives for people and locations, and a 90mm macro-lens look for the tomato, food and hands. Use shallow depth of field where appropriate, smooth highlight roll-off and deep but readable shadows. Lighting should progress naturally from fresh golden morning light at the farm to clean neutral light in the quality-control facility and warm evening light in the kitchen and home. Preserve natural skin texture, fine food moisture, leaf veins, soil, wood grain, stainless steel and fabric detail. Add subtle cinematic film grain. Keep the color grading restrained and sophisticated. CONTINUITY REQUIREMENTS All nine panels must belong to the same visual story. Maintain consistent character identities, clothing, tomato appearance, locations, lighting direction and photographic style. Create visual rhythm by alternating wide shots, medium shots, macro details, process shots, overhead food photography, an emotional reaction and a final product hero frame. Each panel should contain only one clearly readable action. AVOID Malformed hands or fingers, extra limbs, duplicated or fused tomatoes, inconsistent faces, changing wardrobe, plastic-looking food, excessive saturation, heavy orange color grading, artificial CGI glow, fantasy effects, unhygienic food handling, unsafe knife positions, futuristic holograms, object morphing, split screens inside individual panels, unwanted text, extra logos and watermarks.
-```
-
-By [@husky\_\_create](https://x.com/husky__create/status/2103422116876222566)
-
----
 
 <a id="evolink-advertising-case-186"></a>
 
@@ -38,22 +22,6 @@ By [@husky\_\_create](https://x.com/husky__create/status/2102337239443522023)
 
 ---
 
-<a id="evolink-advertising-case-189"></a>
-
-## Precision Manufacturing Nine-Panel Storyboard
-
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2100518890854055936-poster.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2100518890854055936-poster.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-精密部品メーカー「KISARAGI INDUSTRIES」の企業ブランドムービー兼採用映像用フォトストーリーボードを作成してください。 【テーマ】 「見えない場所に、私たちの精度。」 普段は目に触れない小さな部品が、社会や産業を支えていることを描く。工場の規模だけではなく、技術者の判断、加工、測定、連携、完成品への誇りを見せる。 【画像仕様】 完成画像は横長16:9。 画面を3列×3行の9コマに均等分割する。 すべてのコマを横長16:9で構成。 細いアイボリーの線で区切る。 各コマ左上に白色の小さな番号「01」〜「09」を表示。 全カットを、実写で撮影された日本企業のブランドCMのように仕上げる。 【メイン人物】 20代後半の日本人女性技術者。 黒髪を低い位置でひとつにまとめている。 誠実で集中力を感じる自然な顔立ち。 ネイビーの作業着、安全靴、白い作業手袋。 製造エリアでは透明な保護眼鏡を正しく装着する。 全カットで同じ人物、顔、体格、作業着を維持する。 【工場】 清潔に整備された日本の精密加工工場。 CNC工作機械、測定室、設計用PC、金属部品、図面、工具。 床の安全ラインや保護具も現実的に描く。 近未来的な無人工場にはしない。 【9コマの演出】 01： 朝の低い日差しを受ける工場外観。 主人公が作業バッグを持って入口へ歩いている。 建物、空、エントランスを端正に配置した企業広告らしい導入。 02： 工作機械が整然と並ぶ広い工場通路。 主人公が機械を確認しながら中央を歩く。 左右対称すぎず、実際に稼働している工場の奥行きを出す。 03： 主人公が透明な保護眼鏡を装着する瞬間の顔と手の接写。 瞳に正確にピントを合わせ、レンズには工場照明を自然に反射させる。 04： 金属部品を切削加工しているマクロショット。 回転工具、切削油、金属表面、細かな削り跡を高精細に描く。 火花ではなく、精密加工らしい冷静な美しさを表現する。 05： 白い手袋を着けた手が、完成した小型部品をデジタルマイクロメーターで測定している。 測定器と部品の接触位置を物理的に正しく描く。 06： 主人公が紙の設計図とPC上の3D CADモデルを比較している横顔。 背景には実際の加工設備が自然にぼけて見える。 07： 技術者数名が図面と完成部品を囲む俯瞰ショット。 主人公が部品の一箇所を指し、他の技術者が真剣に確認している。 08： 主人公が完成した金属部品を両手で持つポートレート。 背景の工作機械は浅い被写界深度でぼかす。 大げさに笑わず、静かな自信と誇りを表情に出す。 09： チャコールブラックの台座に、完成した精密部品をひとつだけ置いた商品広告カット。 細いリムライトで金属の加工面とエッジを際立たせる。 左側に余白を設け、正確な日本語で「見えない場所に、私たちの精度。」 その下に「KISARAGI INDUSTRIES」。 【撮影・色彩】 高品質な日本の製造業CM。 スチールシルバー、ネイビー、チャコール、白を中心とした色設計。 工場照明と窓からの自然光をバランスよく組み合わせる。 人物には自然な肌の質感を残す。 金属は過度に鏡面化せず、加工痕や重量感を表現する。 【禁止事項】 大量の火花、汚れた危険な工場、誤った保護具、SF的なロボット工場、過剰な青色加工、合成感の強い人物、破綻した測定器、余分なコピー、透かし、指定外のロゴを入れない。
-```
-
-By [@husky\_\_create](https://x.com/husky__create/status/2100519240306684202)
-
----
-
 <a id="evolink-sequential-art-case-243"></a>
 
 ## Four-Panel Photo Mistake Template
@@ -67,54 +35,6 @@ By [@husky\_\_create](https://x.com/husky__create/status/2100519240306684202)
 ```
 
 By [@DeepBlueX0](https://x.com/DeepBlueX0/status/2100184573376381181)
-
----
-
-<a id="evolink-sequential-art-case-244"></a>
-
-## Country Outfit Nine-Panel Snapshots
-
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2100172502974844928.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2100172502974844928.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-南方农村菜园 × 田园风穿搭  ×竖版 3×3失败照片
-```
-
-By [@DeepBlueX0](https://x.com/DeepBlueX0/status/2100172521664573551)
-
----
-
-<a id="evolink-sequential-art-case-247"></a>
-
-## Character Guangzhou Travel Album
-
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2099684722901401600.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2099684722901401600.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-玛奇玛 ×广州游iPhone 相册截图×iOS 27
-```
-
-By [@DeepBlueX0](https://x.com/DeepBlueX0/status/2099684732950958440)
-
----
-
-<a id="evolink-sequential-art-case-248"></a>
-
-## Character Nine-Panel Photo Mistakes
-
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2099481511401803776.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2099481511401803776.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-竖版3×3失败照片× ｛角色｝
-```
-
-By [@DeepBlueX0](https://x.com/DeepBlueX0/status/2099481521983995971)
 
 ---
 
@@ -214,22 +134,6 @@ By [@loilokoji](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbf
 
 ---
 
-<a id="freestylefly-case-127"></a>
-
-## 建筑空间场景图
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case127.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case127.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-{ "type": "manga page", "style": "anime illustration, full color", "characters": { "woman": { "appearance": "long {argument name=\"hair color\" default=\"black\"} hair, purple eyes", "outfit": "{argument name=\"shirt color\" default=\"grey\"} long-sleeve shirt, dark grey skinny jeans, barefoot" }, "delivery_man": { "appearance": "bald, older man, thick eyebrows", "outfit": "blue work jacket over a grey shirt" } }, "layout": { "description": "Page split vertically. Left side contains 4 stacked horizontal panels. Right side is a single tall vertical panel.", "left_column_panels": [ { "panel_number": 1, "scene": "Woman sitting on a grey sofa in a living room, holding a white mug.", "text_elements": [ { "type": "speech_bubble", "text": "?" }, { "type": "sound_effect", "text": "ピンポーン♪", "description": "doorbell ringing" } ] }, { "panel_number": 2, "scene": "Woman opening the front door. Delivery man standing outside holding a cardboard box, smiling.", "text_elements": [ { "type": "speech_bubble", "speaker": "delivery_man", "text": "{argument name=\"delivery greeting\" default=\"こんにちは〜！宅配便で〜す！\"}" }, { "type": "speech_bubble", "speaker": "woman", "text": "は、はい…ありがとうございます" } ] }, { "panel_number": 3, "scene": "Close-up of the delivery man laughing enthusiastically with a sparkly pink background.", "text_elements": [ { "type": "speech_bubble", "speaker": "delivery_man", "text": "{argument name=\"creepy compliment\" default=\"おや〜？いや〜美人さんですなあ！こんな綺麗な方がお一人でお住まいなんて、もったいないなあ〜♪\"}" } ] }, { "panel_number": 4, "scene": "Close-up of the woman looking disgusted and uncomfortable, sweating slightly. The back of the delivery man's head is visible in the foreground.", "text_elements": [ { "type": "speech_bubble", "speaker": "delivery_man", "text": "それにしてもお肌が綺麗！スタイルも抜群だし〜モデルさんみたいですよ！" }, { "type": "thought_bubble", "speaker": "woman", "text": "{argument name=\"woman reaction\" default=\"え…？何この人…ちょっと気持ち悪いかも…\"}" }, { "type": "caption_box", "text": "この後も延々と褒め続ける配達員だった…" } ] } ], "right_column_panel": { "panel_number": 5, "scene": "Full-body portrait of the woman standing indoors, looking annoyed and suspicious with her arms crossed.", "text_elements": [ { "type": "thought_bubble", "speaker": "woman", "text": "誰かしら…？" } ] } } }
-```
-
-By [@studiomasakaki](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-127)
-
----
-
 <a id="freestylefly-case-132"></a>
 
 ## 界面交互设计图
@@ -326,6 +230,86 @@ By [@zulkarnaimx](https://x.com/zulkarnaimx/status/2053723774680535538)
 
 ---
 
-**1** · [2](comics-storyboards-2.md)
+<a id="freestylefly-case-436"></a>
+
+## 数码相机屏幕怀旧人像
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case436.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case436.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+A realistic close-up shot of a small digital camera screen glowing brightly in a dark indoor environment. Displayed on the LCD is a candid early-2010s style photograph of a young East Asian woman with long dark wavy hair standing beside a wooden shelf packed tightly with colorful comic books and magazines. She wears a black spaghetti-strap top with a loose white cardigan hanging casually from both shoulders and faded blue jeans. Captured mid-laugh while turning her face slightly sideways, her expression feels spontaneous and natural, with hair falling softly across part of her cheek. The harsh direct flash from the compact camera creates strong highlights on her face and cardigan while flattening shadows in the background, producing an authentic nostalgic digicam aesthetic. Slight motion blur and digital grain enhance the candid realism. Camera UI overlays are visible across the LCD screen, including the timestamp “8. 1. 2012 3:15 AM,” exposure data “1/30 F3.4 ISO 100,” focus indicators, and a small green battery symbol in the corner. The image preserves visible screen pixel structure, slight glare reflections, chromatic softness, and compressed digital texture. Outside the LCD, the surrounding darkness fades smoothly into blur, emphasizing the glowing nostalgic screen. Shot to resemble an authentic Sony Cyber-shot point-and-shoot camera from the early 2010s using a CCD sensor with vintage digital rendering and imperfect flash exposure.
+```
+
+By [@Ciri\_ai](https://x.com/Ciri_ai/status/2055876982630686956)
+
+---
+
+<a id="freestylefly-case-550"></a>
+
+## 动漫动作短片设定分镜板
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case550.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case550.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+Create a single vertical anime animation development board for an original high-energy action short film titled "Underground Train Yard Clash." The final output must be ONE combined image only, clearly divided into 2 sections: TOP SECTION: Character design sheet BOTTOM SECTION: 12-frame storyboard page Create fully original anime characters. Do not imitate any existing anime, manga, game, or copyrighted character designs. Keep everything original, cinematic, dynamic, and easy to understand. STYLE: Premium anime pre-production board, loose pencil sketches mixed with semi-rendered anime keyframes, dramatic lighting, strong contrast, speed lines, impact frames, red panel borders, blue motion arrows, handwritten notes, timing notes, and lens notes. TOP SECTION — CHARACTER DESIGN SHEET Use a light neutral paper-like background. Fighter A: Young anime street fighter, around 19, messy spiky dark brown hair, sharp hazel eyes, lean muscular build, cocky expression. Outfit: sleeveless zip jacket worn open, fitted tank top underneath, cargo pants, taped ankles, sneakers. Personality: fast, reckless, unpredictable, improvises mid-fight. Show front view, side view, back view, 3/4 view, low crouched dash stance, flying knee pose, wall-rebound kick pose, and a few expressions. Fighter B: Disciplined rival fighter, around 23, short clean-cut dark hair, calm brown eyes, broad powerful build, focused expression. Outfit: fitted compression long-sleeve, military trousers, heavy boots, forearm wraps. Personality: structured, powerful, shuts down opponents with efficiency. Show front view, side view, back view, 3/4 view, upright guard stance, shoulder block pose, single heavy straight punch pose, and a few expressions. Add small handwritten design notes and compact anime color swatches. BOTTOM SECTION — STORYBOARD PAGE Use a dark black background for the entire storyboard section. Do not use beige, yellow, or paper-colored background here. Create 12 cinematic anime storyboard panels in a clean grid. Use red panel borders, blue motion arrows, handwritten camera notes, timing notes, and action notes. Keep both fighters visually consistent. 12 STORYBOARD FRAMES: ➤ Split-screen with thick black divider: Fighter A balancing on top of a stationary train car, arms loose, grinning (upper frame); Fighter B standing on the concrete platform below, arms at his sides, waiting (lower frame). ➤ Split-screen close-ups: Fighter A's sneaker taps the train roof impatiently; Fighter B's forearm wraps tighten as he clenches his fists. ➤ Wide shot of the underground train yard — dim overhead lights, parked train cars, Fighter A drops down from the roof to face Fighter B on the platform. ➤ Fighter A dashes forward and launches a flying knee strike. ➤ Tracking shot of the flying knee closing in fast. ➤ Slow-motion: Fighter B raises his forearm and blocks the knee hard, shockwave of force visible in slow motion. ➤ Fighter B grabs Fighter A mid-air and slams him down onto the concrete platform. ➤ Fighter A bounces up immediately and sprints toward a train car wall. ➤ Fighter A rebounds off the wall and launches a spinning heel kick. ➤ Fighter B side-steps and the kick misses, Fighter A stumbles forward. ➤ Fighter B delivers one single devastating straight punch directly into Fighter A's chest. ➤ Aftermath: Train yard goes quiet. Fighter B stands on the platform, composed. Fighter A is down against the base of the train car, dim lights flickering above, train cars stretching into darkness behind them. ENVIRONMENT: Underground train yard, dim overhead industrial lights, concrete platform, parked train cars, dark tunnels stretching beyond, dust, scattered gravel, flickering lights. FINAL GOAL: Make the board clean, readable, cinematic, and production-ready. The top section should clearly show the character designs. The bottom section should clearly show the 12-frame action choreography on a black storyboard background.
+```
+
+By [@Strength04\_X](https://x.com/Strength04_X/status/2093726038400585925)
+
+---
+
+<a id="prompthero-9ef005f0727"></a>
+
+## The Joker, a male adult with Caucasian features, i\.\.\.
+
+<a href="https://cdn.prompthero.com/8caqs6gbldozo1o5t50spcvg90v5-midjourney-61-the-joker-a-male-adult-with-caucasian-features-is-depicted-in-a-dimly-lit-stylized-office-setting-he-sports-a.png"><img src="https://cdn.prompthero.com/8caqs6gbldozo1o5t50spcvg90v5-midjourney-61-the-joker-a-male-adult-with-caucasian-features-is-depicted-in-a-dimly-lit-stylized-office-setting-he-sports-a.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+The Joker, a male adult with Caucasian features, is depicted in a dimly lit, stylized office setting. He sports a purple and yellow striped suit, a green hair, and a mischievous grin. His expression is playful and slightly menacing. He's seated in a black office chair, one leg propped up. He's positioned slightly off-center to the left side of the image, facing the viewer. The composition is dynamic and slightly diagonal, highlighting the character's pose and the neon signs surrounding him. The overall color palette is vibrant, contrasting shades of purple and pink neon lights illuminating the scene. The backdrop features large, bright neon letters spelling "HAHAHA!" in a stylized font. The office is cluttered and somewhat chaotic, suggesting a character-driven environment. The lighting is dramatic and theatrical, casting strong shadows and emphasizing the subject. The style is artistic and evocative of a stylized comic book or graphic novel. The scene evokes a sense of energy and theatricality.
+```
+
+[Source](https://prompthero.com/prompt/9ef005f0727-midjourney-61-the-joker-a-male-adult-with-caucasian-features-is-depicted-in-a-dimly-lit-stylized-office-setting-he-sports-a)
+
+---
+
+<a id="prompthero-25639a01694"></a>
+
+## A retro icon of a rotary telephone, 1930s Era Comi\.\.\.
+
+<a href="https://cdn.prompthero.com/pceozcp6fpp6t7yp91iog2mjs4a3-midjourney-5-a-retro-icon-of-a-rotary-telephone-1930s-era-comic-strip-style-bold-and-contrasting-palette-art-by-paul-gauguin.png"><img src="https://cdn.prompthero.com/pceozcp6fpp6t7yp91iog2mjs4a3-midjourney-5-a-retro-icon-of-a-rotary-telephone-1930s-era-comic-strip-style-bold-and-contrasting-palette-art-by-paul-gauguin.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+A retro icon of a rotary telephone, 1930s Era Comic Strip style, bold and contrasting palette, art by Paul Gauguin, white background:: --q 2 --v 5
+```
+
+[Source](https://prompthero.com/prompt/25639a01694-midjourney-5-a-retro-icon-of-a-rotary-telephone-1930s-era-comic-strip-style-bold-and-contrasting-palette-art-by-paul-gauguin)
+
+---
+
+<a id="prompthero-be38c986ba4"></a>
+
+## The image shows a female superhero standing in fro\.\.\.
+
+<a href="https://cdn.prompthero.com/7gvdctd34v8asyd85onucqye0731-flux-flux-11-pro-the-image-shows-a-female-superhero-standing-in-front-of-a-stormy-sky-with-lightning-bolts-she-is-holding-a.png"><img src="https://cdn.prompthero.com/7gvdctd34v8asyd85onucqye0731-flux-flux-11-pro-the-image-shows-a-female-superhero-standing-in-front-of-a-stormy-sky-with-lightning-bolts-she-is-holding-a.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+The image shows a female superhero standing in front of a stormy sky with lightning bolts. She is holding a sword in her right hand and her left hand is raised in the air, as if she is ready to strike. The superhero is wearing a futuristic-looking outfit with a white and blue color scheme. Her hair is styled in an afro and she has a fierce expression on her face. The background is filled with dark clouds and lightning bolts, creating a dramatic and powerful atmosphere. The overall mood of the image is intense and dramatic. epic comic, graphic novel
+```
+
+[Source](https://prompthero.com/prompt/be38c986ba4-flux-flux-11-pro-the-image-shows-a-female-superhero-standing-in-front-of-a-stormy-sky-with-lightning-bolts-she-is-holding-a)
+
+---
+
+**1**
 
 [← Home](../README.md)

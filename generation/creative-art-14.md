@@ -6,22 +6,6 @@
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
-<a id="prompthero-f32426e7959"></a>
-
-## full body image, 35mm film, grain, 1950&\#39;s camera, \.\.\.
-
-<a href="https://cdn.prompthero.com/t660tkoc0zz24oiqxhmabb8mjbsa-stable-diffusion-14-full-body-image-35mm-film-grain-1950s-camera-a-war-princess-25-year-old-beautiful-woman-with-blonde-hair-and.png"><img src="https://cdn.prompthero.com/t660tkoc0zz24oiqxhmabb8mjbsa-stable-diffusion-14-full-body-image-35mm-film-grain-1950s-camera-a-war-princess-25-year-old-beautiful-woman-with-blonde-hair-and.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-full body image, 35mm film, grain, 1950's camera, a war princess, 25 year old beautiful woman with blonde hair and cultural face paint wearing cloth armor, intricate, elegant, urban fantasy, bright grey eyes standing next to a beautiful foggy mountain view. She should have long braided, flowing hair, a captivating gaze, and an alluring expression. symmetrical eyes, symmetrical background, cinematic film still from 1980s movie, Kodak portra 800, extremely detailed, extremely detailed eyes, extremely detailed body, extremely detailed skin, extremely detailed clothes, Ultra realistic, symmetrical face , (35mm style:1. 1), foggy, ((best quality)), ((masterpiece)), ((realistic)), radiant light rays, highres, detailed facial features, analog style, digital painting, 3d render, artstation, matte, highly detailed, concept art, Exaggeration, light Aesthetic, magazine, Backlight, light rays magical lighting beams, dust in beam, light color, Exaggeration, instagram, 'light, exciting, enlightening, happy, misty, moody, heavenly, shadowy, Realism, octane render, unreal engine 5, Shaders, Denoise, De-Noise, Ambient Occlusion, Tone Mapping, Moonlight, highres, detailed facial features, high detail, sharp focus, octane render, photo_\(ultra\), realistic, post-processing, max detail, realistic shadows, roughness, natural skin texture, real life, ultra realistic, photorealism
-```
-
-[Source](https://prompthero.com/prompt/f32426e7959-stable-diffusion-14-full-body-image-35mm-film-grain-1950s-camera-a-war-princess-25-year-old-beautiful-woman-with-blonde-hair-and)
-
----
-
 <a id="prompthero-fa95a31df8b"></a>
 
 ## A luxury car, front-facing, with a split down the \.\.\.

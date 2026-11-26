@@ -6,38 +6,6 @@
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
-<a id="evolink-gpt-image-2-6-case-252"></a>
-
-## Flower Removal with Scene Preservation
-
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/man-with-blue-hat.webp"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/man-with-blue-hat.webp" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Remove the flower from man's hand. Do not change anything else.
-```
-
-By [@OpenAI](https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/gpt-image-2-6.md#gpt-image-2-6-case-252)
-
----
-
-<a id="evolink-illustration-case-128"></a>
-
-## Black Ink Figure Sketch
-
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2108104309342969856.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2108104309342969856.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-以参考图人物为原型，保留五官特征、神态、服饰与身体姿态，去除原始背景，重新创作成大师级黑白钢笔人物手稿。采用精湛的传统钢笔绘画技法，以灵动流畅的墨线、细密交叉排线、自然断笔与大胆留白塑造人物的立体感和艺术张力。面部精细刻画，服饰线条疏密有致，局部保留起稿痕迹与随性的未完成笔触，呈现真实艺术家亲笔创作的质感。暖象牙色复古素描纸，清晰可见纸张纤维与细腻墨迹，黑白灰层次丰富。极简艺术画册排版，大面积留白，角落点缀手写签名与创作日期。整体优雅、自由、富有艺术收藏价值，拒绝数字描摹与AI滤镜感，9:16竖版高清构图。
-```
-
-By [@MrGafish](https://x.com/MrGafish/status/2108104473235341588)
-
----
-
 <a id="freestylefly-case-521"></a>
 
 ## 青花敦煌刺绣四拼风格海报

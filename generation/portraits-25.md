@@ -1,90 +1,10 @@
 # portraits
 
-[← Home](../README.md) · Page 25 / 36
+[← Home](../README.md) · Page 25 / 35
 
-[1](portraits.md) · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · [5](portraits-5.md) · [6](portraits-6.md) · [7](portraits-7.md) · [8](portraits-8.md) · [9](portraits-9.md) · [10](portraits-10.md) · [11](portraits-11.md) · [12](portraits-12.md) · [13](portraits-13.md) · [14](portraits-14.md) · [15](portraits-15.md) · [16](portraits-16.md) · [17](portraits-17.md) · [18](portraits-18.md) · [19](portraits-19.md) · [20](portraits-20.md) · [21](portraits-21.md) · [22](portraits-22.md) · [23](portraits-23.md) · [24](portraits-24.md) · **25** · [26](portraits-26.md) · [27](portraits-27.md) · [28](portraits-28.md) · [29](portraits-29.md) · [30](portraits-30.md) · [31](portraits-31.md) · [32](portraits-32.md) · [33](portraits-33.md) · [34](portraits-34.md) · [35](portraits-35.md) · [36](portraits-36.md)
+[1](portraits.md) · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · [5](portraits-5.md) · [6](portraits-6.md) · [7](portraits-7.md) · [8](portraits-8.md) · [9](portraits-9.md) · [10](portraits-10.md) · [11](portraits-11.md) · [12](portraits-12.md) · [13](portraits-13.md) · [14](portraits-14.md) · [15](portraits-15.md) · [16](portraits-16.md) · [17](portraits-17.md) · [18](portraits-18.md) · [19](portraits-19.md) · [20](portraits-20.md) · [21](portraits-21.md) · [22](portraits-22.md) · [23](portraits-23.md) · [24](portraits-24.md) · **25** · [26](portraits-26.md) · [27](portraits-27.md) · [28](portraits-28.md) · [29](portraits-29.md) · [30](portraits-30.md) · [31](portraits-31.md) · [32](portraits-32.md) · [33](portraits-33.md) · [34](portraits-34.md) · [35](portraits-35.md)
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
-
-<a id="prompthero-5009403378a"></a>
-
-## glitch art with linear distortion, horizontal scan\.\.\.
-
-<a href="https://cdn.prompthero.com/zwmeusc0mwgllt8b24b1a0jonfbv-midjourney-61-glitch-art-with-linear-distortion-horizontal-scan-lines-and-digital-interference-vertical-portrait-of-single-human-silhouette-minimal-grey-background.png"><img src="https://cdn.prompthero.com/zwmeusc0mwgllt8b24b1a0jonfbv-midjourney-61-glitch-art-with-linear-distortion-horizontal-scan-lines-and-digital-interference-vertical-portrait-of-single-human-silhouette-minimal-grey-background.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-glitch art with linear distortion, horizontal scan lines and digital interference, vertical portrait of single human silhouette, minimal grey background, horizontally distorted figure with scan line interference pattern, soft diffused lighting, corrupted data aesthetic with noise texture and horizontal artifacts --ar 9:16 --quality 2 --style raw --profile ue2yzjl --stylize 300 --v 6.1
-```
-
-By [@Grayve](https://prompthero.com/prompt/5009403378a-midjourney-61-glitch-art-with-linear-distortion-horizontal-scan-lines-and-digital-interference-vertical-portrait-of-single-human-silhouette-minimal-grey-background)
-
----
-
-<a id="prompthero-35859341517"></a>
-
-## hot blond hair girl, looking at viewer, portrait, \.\.\.
-
-<a href="https://cdn.prompthero.com/q66bcvr7vhqe1azn5quwvm4gioob-dreamshaper-7-hot-blond-hair-girl-looking-at-viewer-portrait-photography-detailed-skin-realistic-photo-realistic-8k-highly-detailed-full-length-frame.png"><img src="https://cdn.prompthero.com/q66bcvr7vhqe1azn5quwvm4gioob-dreamshaper-7-hot-blond-hair-girl-looking-at-viewer-portrait-photography-detailed-skin-realistic-photo-realistic-8k-highly-detailed-full-length-frame.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-hot blond hair girl, looking at viewer, portrait, photography, detailed skin, realistic, photo-realistic, 8k, highly detailed, full length frame, piercing, diffused soft lighting, shallow depth of field, sharp focus, hyperrealism, cinematic lighting
-```
-
-[Source](https://prompthero.com/prompt/35859341517-dreamshaper-7-hot-blond-hair-girl-looking-at-viewer-portrait-photography-detailed-skin-realistic-photo-realistic-8k-highly-detailed-full-length-frame)
-
----
-
-<a id="prompthero-80643316741"></a>
-
-## Generate a photorealistic portrait of a middle-age\.\.\.
-
-<a href="https://cdn.prompthero.com/zzyg7yy9xo5hcbjuhvzykp8otto9-chatgpt-image-gpt-4o-generate-a-photorealistic-portrait-of-a-middle-aged-adult-male-radiating-wisdom-and-affable-confidence-his-presence-is-captivating-a.png"><img src="https://cdn.prompthero.com/zzyg7yy9xo5hcbjuhvzykp8otto9-chatgpt-image-gpt-4o-generate-a-photorealistic-portrait-of-a-middle-aged-adult-male-radiating-wisdom-and-affable-confidence-his-presence-is-captivating-a.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-Generate a photorealistic portrait of a middle-aged adult male, radiating wisdom and affable confidence. His presence is captivating, a blend of lived experience and open friendliness, with a smile that resonates with a deep understanding and gentle kindness. His hair, peppered with grey, is neatly groomed and styled with a dignified, yet effortless flair, signaling a man who values appearance but not vanity. Upon his face rest contemporary, rectangular glasses with a subtle frame, contributing to his scholarly yet accessible visage. They frame his eyes, which are a rich, warm brown, and brim with stories, inviting the viewer into his world with a single glance. He is dressed in a smart, dark-colored blazer that speaks of his professional acumen, layered over a crisp maroon shirt that adds a touch of approachable elegance to his appearance. The lighting caresses his face, soft yet defined, to reveal the honest textures of his life-etched skin, the slight creases around his eyes that hint at years of laughter and concern, and the faintest impression of stubble along a strong jawline, alluding to his everyday humanity. Every aspect of his visage, from the calculated casualness of his attire to the considered set of his clear glasses, is carefully curated to project the image of a man who is as nurturing as he is knowledgeable, as grounded as he is inspiring. The ambiance surrounding him is one of understated sophistication, the kind that fosters trust and admiration.
-```
-
-By [@robiness](https://prompthero.com/prompt/80643316741-chatgpt-image-gpt-4o-generate-a-photorealistic-portrait-of-a-middle-aged-adult-male-radiating-wisdom-and-affable-confidence-his-presence-is-captivating-a)
-
----
-
-<a id="prompthero-a1a594c08d4"></a>
-
-## large format, Street fashion shot from a distance \.\.\.
-
-<a href="https://cdn.prompthero.com/35zey3kie21h3nxn4rpnekmstau9-flux-flux1-dev-large-format-street-fashion-shot-from-a-distance-photo-of-a-24-year-old-montenegrin-italian-female-classic-hollywood-beauty.jpeg"><img src="https://cdn.prompthero.com/35zey3kie21h3nxn4rpnekmstau9-flux-flux1-dev-large-format-street-fashion-shot-from-a-distance-photo-of-a-24-year-old-montenegrin-italian-female-classic-hollywood-beauty.jpeg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-large format, Street fashion shot from a distance photo of a 24-year-old Montenegrin-Italian female classic Hollywood beauty with a warm and inviting expression. She has Light beige skin with subtle freckles across the cheeks and shoulders. The skin pores and texture are clearly visible and in focus. Her Triangular eyes, Deep-set, light brown eyes, framed by long, elegant eyelashes. Her haircut is Feathered layers, haircolor is . Her eyebrows are Tapered with a peak shaped, complementing her delicate facial features. Her body is Tight, flat stomach with visible muscle grooves, small breast, toned abs, Female Bodybuilding style. Her upper body clothing is with an "edera" label sewn onto the front. Her midriff is clearly visible, Her lower body clothing is She is positioned on the left side in the frame by the rule of thirds. She strikes a dramatic pose, one leg extended forward with arms wide, as if celebrating a moment, creating an energetic scene. . In the background A modern subway station with sleek, polished metal panels, glowing LED signs, and long escalators descending into the underground, creating a futuristic and urban vibe.. The scene is lighted using Bright, daylight filtering through a botanical garden, providing lush greenery and vibrant colors that enhance colorful outfits for a fresh, lively look.. the model is lighted with soft natural lighting in the style of Yu Ngiang
-```
-
-By [@AkiraS](https://prompthero.com/prompt/a1a594c08d4-flux-flux1-dev-large-format-street-fashion-shot-from-a-distance-photo-of-a-24-year-old-montenegrin-italian-female-classic-hollywood-beauty)
-
----
-
-<a id="prompthero-a01e078991c"></a>
-
-## a woman with long, dark hair and horns, wearing a \.\.\.
-
-<a href="https://cdn.prompthero.com/wgb5sdpg1k6xseuxmgnu1vxarkco-flux-flux-11-pro-a-woman-with-long-dark-hair-and-horns-wearing-a-brown-dress-set-against-a-dark-smoky-background-with-bats.jpg"><img src="https://cdn.prompthero.com/wgb5sdpg1k6xseuxmgnu1vxarkco-flux-flux-11-pro-a-woman-with-long-dark-hair-and-horns-wearing-a-brown-dress-set-against-a-dark-smoky-background-with-bats.jpg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-a woman with long, dark hair and horns, wearing a brown dress, set against a dark, smoky background with bats flying around her. - Her hair is long and dark, with loose waves framing her face. - Her attire consists of a brown dress that complements her dark hair and horns. - The background is dark and smoky, with bats flying around her, adding to the eerie atmosphere. - The lighting is dim, with a full moon shining behind her, casting an ethereal glow. - The camera perspective is from below, looking up at the woman, emphasizing her powerful presence. - The style is fantasy art, with a focus on dramatic lighting and bold colors. - The camera used is likely a digital SLR or mirrorless camera, with a wide-angle lens to capture the expansive background.
-```
-
-[Source](https://prompthero.com/prompt/a01e078991c-flux-flux-11-pro-a-woman-with-long-dark-hair-and-horns-wearing-a-brown-dress-set-against-a-dark-smoky-background-with-bats)
-
----
 
 <a id="prompthero-a2e4fc4a143"></a>
 
@@ -326,6 +246,86 @@ Epic slow-motion scene of a young female superhero inspired by Wonder Woman leap
 
 ---
 
-[1](portraits.md) · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · [5](portraits-5.md) · [6](portraits-6.md) · [7](portraits-7.md) · [8](portraits-8.md) · [9](portraits-9.md) · [10](portraits-10.md) · [11](portraits-11.md) · [12](portraits-12.md) · [13](portraits-13.md) · [14](portraits-14.md) · [15](portraits-15.md) · [16](portraits-16.md) · [17](portraits-17.md) · [18](portraits-18.md) · [19](portraits-19.md) · [20](portraits-20.md) · [21](portraits-21.md) · [22](portraits-22.md) · [23](portraits-23.md) · [24](portraits-24.md) · **25** · [26](portraits-26.md) · [27](portraits-27.md) · [28](portraits-28.md) · [29](portraits-29.md) · [30](portraits-30.md) · [31](portraits-31.md) · [32](portraits-32.md) · [33](portraits-33.md) · [34](portraits-34.md) · [35](portraits-35.md) · [36](portraits-36.md)
+<a id="prompthero-a28931d3c32"></a>
+
+## a realistic photo of a \[very pretty 26 year old wo\.\.\.
+
+<a href="https://cdn.prompthero.com/npfxd68hcj8f2msclywjmztgq7kz-midjourney-6-a-realistic-photo-of-a-very-pretty-26-year-old-woman-with-long-wavy-dark-hair-looks-like-dakota-johnson.png"><img src="https://cdn.prompthero.com/npfxd68hcj8f2msclywjmztgq7kz-midjourney-6-a-realistic-photo-of-a-very-pretty-26-year-old-woman-with-long-wavy-dark-hair-looks-like-dakota-johnson.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+a realistic photo of a [very pretty 26 year old woman], with [long, wavy, dark hair], looks like [Dakota Johnson] and [Felicity Jones], wearing [thick nerd glasses], light makeup, looking [innocent, cute, flushed], [light] skin --ar 9:16 --stylize 750 --v 6
+```
+
+[Source](https://prompthero.com/prompt/a28931d3c32-midjourney-6-a-realistic-photo-of-a-very-pretty-26-year-old-woman-with-long-wavy-dark-hair-looks-like-dakota-johnson)
+
+---
+
+<a id="prompthero-a912514fefc"></a>
+
+## A beautiful woman seductively posing by a large wi\.\.\.
+
+<a href="https://cdn.prompthero.com/oor8wf676o2abuv32lxzzy1lndql-stable-diffusion-xl-base-09-tanya-tanya-a-brilliant-actress-with-a-gift-for-daring-roles-that-set-the-screen-ablaze-often-found-herself-caught-in-a-beautiful-woman-seductively-posing-by-a-large-window-wearing-a-sweatshirt-and-underwear-only-daring-photography-minimal-lighting-shadows.jpg"><img src="https://cdn.prompthero.com/oor8wf676o2abuv32lxzzy1lndql-stable-diffusion-xl-base-09-tanya-tanya-a-brilliant-actress-with-a-gift-for-daring-roles-that-set-the-screen-ablaze-often-found-herself-caught-in-a-beautiful-woman-seductively-posing-by-a-large-window-wearing-a-sweatshirt-and-underwear-only-daring-photography-minimal-lighting-shadows.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+A beautiful woman seductively posing by a large window, wearing a sweatshirt and underwear only, daring photography, minimal lighting, shadows, film grain
+```
+
+By [@abyishot](https://prompthero.com/prompt/a912514fefc-stable-diffusion-xl-base-09-tanya-tanya-a-brilliant-actress-with-a-gift-for-daring-roles-that-set-the-screen-ablaze-often-found-herself-caught-in-a-beautiful-woman-seductively-posing-by-a-large-window-wearing-a-sweatshirt-and-underwear-only-daring-photography-minimal-lighting-shadows)
+
+---
+
+<a id="prompthero-a1304811bbe"></a>
+
+## GozdeSeker, a 45 years old woman with olive skin a\.\.\.
+
+<a href="https://cdn.prompthero.com/xfzh3ggxkb5mg8ufe7jxw2fwbht5-flux-dev-gozdeseker-a-45-years-old-woman-with-olive-skin-and-dark-wavy-hair-sits-in-a-cozy-coffee-shop-she.png"><img src="https://cdn.prompthero.com/xfzh3ggxkb5mg8ufe7jxw2fwbht5-flux-dev-gozdeseker-a-45-years-old-woman-with-olive-skin-and-dark-wavy-hair-sits-in-a-cozy-coffee-shop-she.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+GozdeSeker, a 45 years old woman with olive skin and dark, wavy hair, sits in a cozy coffee shop. She wears a soft gray sweater dress and subtle makeup, dshe wears a necked metal bdsm chocker, her expression serene. She holds a steaming cup of coffee, her eyes reflecting a mix of contentment and deep thought. The scene is bathed in warm, golden light from a window to her left, casting soft shadows and highlighting the rich textures of the wooden table and the ambient, vintage decor. The lighting is reminiscent of a Wes Anderson film, with a subtle film grain and a slightly desaturated color palette, creating a nostalgic and inviting atmosphere.
+```
+
+[Source](https://prompthero.com/prompt/a1304811bbe-flux-dev-gozdeseker-a-45-years-old-woman-with-olive-skin-and-dark-wavy-hair-sits-in-a-cozy-coffee-shop-she)
+
+---
+
+<a id="prompthero-a3885940a0d"></a>
+
+## \(masterpiece:1\.1, best quality:1\.3\), Cinematic Sho\.\.\.
+
+<a href="https://cdn.prompthero.com/sxbff4uylkaiozi9tpusplwgb8lt-dreamshaper-5-baked-vae-masterpiece11-best-quality13-cinematic-shot-centered-shot-from-below-dynamic-pose-focused-shot-close-up-looking-toward-camera-1gothic-girl.jpg"><img src="https://cdn.prompthero.com/sxbff4uylkaiozi9tpusplwgb8lt-dreamshaper-5-baked-vae-masterpiece11-best-quality13-cinematic-shot-centered-shot-from-below-dynamic-pose-focused-shot-close-up-looking-toward-camera-1gothic-girl.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+(masterpiece:1.1, best quality:1.3), Cinematic Shot, centered, shot from below, dynamic pose, focused shot, close up, (looking toward camera), 1gothic girl, cold, gorgeous, long chestnut ponytail hair, wearing scarf, jeans, leather army jacket, snowy blizzard, shopping district, city street background, RAW photo, volumetric lighting, global illumination, reflection, bokeh, studio color, photography, realistic depiction, (epic composition, epic proportion), 64K, HD, Professional work, Unreal engine, octane render, makoto shinkai inspired,
+```
+
+[Source](https://prompthero.com/prompt/a3885940a0d-dreamshaper-5-baked-vae-masterpiece11-best-quality13-cinematic-shot-centered-shot-from-below-dynamic-pose-focused-shot-close-up-looking-toward-camera-1gothic-girl)
+
+---
+
+<a id="prompthero-ab59fb2794b"></a>
+
+## Japanese negative film aesthetic, rooftop summer s\.\.\.
+
+<a href="https://cdn.prompthero.com/srylcw14c604q2scfjgwo1qvoc-hero-10-japanese-negative-film-aesthetic-rooftop-summer-scene-soft-natural-sunlight-slight-overexposure-highlights-low-contrast-muted-faded-colors-subtle-grain.jpeg"><img src="https://cdn.prompthero.com/srylcw14c604q2scfjgwo1qvoc-hero-10-japanese-negative-film-aesthetic-rooftop-summer-scene-soft-natural-sunlight-slight-overexposure-highlights-low-contrast-muted-faded-colors-subtle-grain.jpeg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+Japanese negative film aesthetic, rooftop summer scene, soft natural sunlight, slight overexposure highlights, low contrast, muted faded colors, subtle grain subject standing or sitting on rooftop edge area, body relaxed, slight wind moving hair and clothes, looking toward camera with calm distant gaze, not posing open sky, empty space, minimal elements, imperfect composition, quiet isolated mood, nostalgic and reflective, “memory-like realism” --2:3
+```
+
+[Source](https://prompthero.com/prompt/ab59fb2794b-hero-10-japanese-negative-film-aesthetic-rooftop-summer-scene-soft-natural-sunlight-slight-overexposure-highlights-low-contrast-muted-faded-colors-subtle-grain)
+
+---
+
+[1](portraits.md) · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · [5](portraits-5.md) · [6](portraits-6.md) · [7](portraits-7.md) · [8](portraits-8.md) · [9](portraits-9.md) · [10](portraits-10.md) · [11](portraits-11.md) · [12](portraits-12.md) · [13](portraits-13.md) · [14](portraits-14.md) · [15](portraits-15.md) · [16](portraits-16.md) · [17](portraits-17.md) · [18](portraits-18.md) · [19](portraits-19.md) · [20](portraits-20.md) · [21](portraits-21.md) · [22](portraits-22.md) · [23](portraits-23.md) · [24](portraits-24.md) · **25** · [26](portraits-26.md) · [27](portraits-27.md) · [28](portraits-28.md) · [29](portraits-29.md) · [30](portraits-30.md) · [31](portraits-31.md) · [32](portraits-32.md) · [33](portraits-33.md) · [34](portraits-34.md) · [35](portraits-35.md)
 
 [← Home](../README.md)

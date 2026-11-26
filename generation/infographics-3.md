@@ -6,38 +6,6 @@
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
-<a id="freestylefly-case-380"></a>
-
-## 冠状病毒尺度缩放科学信息图
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case380.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case380.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-instructions> [SUBJECT]=Coronavirus. A hyper-realistic 3D zoom-sequence infographic generated from a single input: [SUBJECT]. The system auto-detects scale layers from atomic/subcomponent to full contextual view. Layout Structure (CRITICAL) 6–8 circular or hexagonal frames arranged in expanding sequence Innermost frame = smallest detectable detail; outermost = full subject in environment Frames connected by subtle zoom-path lines No repeated scales — each frame shows new level of detail Frame Design Each zoom level includes: Hyper-detailed 3D render at that scale Micro label: scale name (e.g., "molecular," "cellular," "structural") + 3–5 word insight Optional: measurement tag or magnification factor Contextual Halo Around the sequence, include only scale-specific references: Measurement units, scientific notation, cultural scale metaphors (No generic magnifying glass icons) Scale Panel (Alternative Layout) Zoom level Key insight (3–5 words) Scale factor tag Detail icon (grid, wave, particle, etc.) Title "[SUBJECT]: AT EVERY SCALE" (or) "ZOOM: THE WORLD OF [SUBJECT]" Style: ultra-realistic 3D render, scientific editorial infographic, precise macro lighting, global illumination, shallow depth of field, clean sequential layout. </instructions>
-```
-
-By [@Gdgtify](https://x.com/Gdgtify/status/2051288232613351571)
-
----
-
-<a id="freestylefly-case-407"></a>
-
-## Neuro-AI 混合系统信息图
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case407.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case407.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Create a premium square “neuro-AI hybrid system infographic” designed as a scientific cognitive engineering handbook page. Visual Direction: • 1:1 composition • dark neutral background with glowing neural network overlays • palette: electric blue, violet, soft white, silver • elegant scientific typography and modular panels • central ultra-detailed human brain + AI circuit fusion render Main Subject: A realistic human brain merging with AI neural networks and digital circuitry. Include callouts: • memory encoding system • AI augmentation layer • cognitive signal pathways • emotional response mapping • sensory integration nodes • neural data transfer system • learning adaptation loops Modules: • Brain Function Overview • AI Enhancement Layers • Signal Flow Diagram • Cognitive Performance Metrics • Human vs AI Comparison Chart • Neural Safety Protocols • Future Evolution Path Style: “neuroscience + AI engineering manual”, “high-end cognitive systems diagram”
-```
-
-By [@YaZoraiz](https://x.com/YaZoraiz/status/2052968427514708371)
-
----
-
 <a id="freestylefly-case-415"></a>
 
 ## 东方神话人物志百科海报

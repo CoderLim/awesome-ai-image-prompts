@@ -102,22 +102,6 @@ By [@KrishnaBio1](https://x.com/KrishnaBio1/status/2101465897814962381)
 
 ---
 
-<a id="evolink-travel-journals-case-230"></a>
-
-## Dubai Watercolor Travel Journal
-
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2101465756118532096.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2101465756118532096.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Create a high-quality vintage watercolor travel scrapbook poster for Dubai, UAE, 2025, in a soft dreamy luxury travel-journal aesthetic. On the left side, show a beautiful detailed Dubai skyline featuring the Burj Khalifa, surrounding modern skyscrapers, Dubai Mall area, elegant architecture, turquoise fountain/water canal and palm trees, painted with realistic yet artistic watercolor textures. On the right side, place a beautiful young woman with long, thick, naturally wavy dark-brown hair, wearing a light powder-blue knitted cardigan over a cream/white top and a flowing beige pleated skirt. She has a soft natural smile, delicate facial features, minimal elegant makeup and a relaxed travel-photo pose, looking slightly toward the left. Keep her realistic and naturally integrated with the watercolor artwork. Use an aged cream paper background with subtle paper texture, pastel blue and warm beige watercolor washes, hand-painted flowers, leaves, tiny stars, hearts, birds, clouds, paper-tape elements, compass and small travel scrapbook decorations around the borders. At the top center write “Dubai • 2025” in elegant handwritten calligraphy. At the bottom include tasteful travel-journal text such as “Burj Khalifa • Dubai • 2025”, “Dreamy desert afternoon”, “golden city lights”, “unforgettable memories”, and “posing by the fountain”. Add a small vintage postage-stamp style label reading “DUBAI • UAE • 2025” in the bottom-right corner. Balanced composition, premium travel postcard, soft pastel colors, detailed watercolor illustration mixed with realistic portrait photography, elegant feminine aesthetic, nostalgic handmade scrapbook look, high detail, clean typography, 16:9 landscape.
-```
-
-By [@KrishnaBio1](https://x.com/KrishnaBio1/status/2101465893293392100)
-
----
-
 <a id="freestylefly-case-11"></a>
 
 ## 一张手绘风格的城市美食地图，以台州为主题
@@ -323,6 +307,22 @@ dynamic, high-speed action, encapsulated in a warm, vibrant sunset backdrop, a t
 ```
 
 By [@Grayve](https://prompthero.com/prompt/0df6a38be62-midjourney-6-wwwgraytheorystudiocom-admingraytheorystudiocom-httpssoundcloudcomsolid-breaks-recordsak47-jumping-original-mixutmsourcemobiutmcampaignsocialsharing-dynamic-high-speed-action-encapsulated-in-a-warm-vibrant-sunset-backdrop-a-tight-crop-focusing-on-the-airborne-skateboard-and)
+
+---
+
+<a id="prompthero-0e300d1c33b"></a>
+
+## scenic view landscape cyberpunk city of highly det\.\.\.
+
+<a href="https://cdn.prompthero.com/729cw0maqgzi96o6vs68g2itft3c-stable-diffusion-21-768-scenic-view-landscape-cyberpunk-city-of-highly-detailed-water-color-pastel-mix-ultra-realistic-robotic-dog-hyperdetailed-full-body-visible.jpg"><img src="https://cdn.prompthero.com/729cw0maqgzi96o6vs68g2itft3c-stable-diffusion-21-768-scenic-view-landscape-cyberpunk-city-of-highly-detailed-water-color-pastel-mix-ultra-realistic-robotic-dog-hyperdetailed-full-body-visible.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+scenic view landscape cyberpunk city of highly detailed water color pastel mix ultra realistic, robotic dog, hyperdetailed full body visible, looking from below
+```
+
+[Source](https://prompthero.com/prompt/0e300d1c33b-stable-diffusion-21-768-scenic-view-landscape-cyberpunk-city-of-highly-detailed-water-color-pastel-mix-ultra-realistic-robotic-dog-hyperdetailed-full-body-visible)
 
 ---
 

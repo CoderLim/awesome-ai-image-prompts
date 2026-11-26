@@ -1,90 +1,10 @@
 # portraits
 
-[← Home](../README.md) · Page 27 / 36
+[← Home](../README.md) · Page 27 / 35
 
-[1](portraits.md) · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · [5](portraits-5.md) · [6](portraits-6.md) · [7](portraits-7.md) · [8](portraits-8.md) · [9](portraits-9.md) · [10](portraits-10.md) · [11](portraits-11.md) · [12](portraits-12.md) · [13](portraits-13.md) · [14](portraits-14.md) · [15](portraits-15.md) · [16](portraits-16.md) · [17](portraits-17.md) · [18](portraits-18.md) · [19](portraits-19.md) · [20](portraits-20.md) · [21](portraits-21.md) · [22](portraits-22.md) · [23](portraits-23.md) · [24](portraits-24.md) · [25](portraits-25.md) · [26](portraits-26.md) · **27** · [28](portraits-28.md) · [29](portraits-29.md) · [30](portraits-30.md) · [31](portraits-31.md) · [32](portraits-32.md) · [33](portraits-33.md) · [34](portraits-34.md) · [35](portraits-35.md) · [36](portraits-36.md)
+[1](portraits.md) · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · [5](portraits-5.md) · [6](portraits-6.md) · [7](portraits-7.md) · [8](portraits-8.md) · [9](portraits-9.md) · [10](portraits-10.md) · [11](portraits-11.md) · [12](portraits-12.md) · [13](portraits-13.md) · [14](portraits-14.md) · [15](portraits-15.md) · [16](portraits-16.md) · [17](portraits-17.md) · [18](portraits-18.md) · [19](portraits-19.md) · [20](portraits-20.md) · [21](portraits-21.md) · [22](portraits-22.md) · [23](portraits-23.md) · [24](portraits-24.md) · [25](portraits-25.md) · [26](portraits-26.md) · **27** · [28](portraits-28.md) · [29](portraits-29.md) · [30](portraits-30.md) · [31](portraits-31.md) · [32](portraits-32.md) · [33](portraits-33.md) · [34](portraits-34.md) · [35](portraits-35.md)
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
-
-<a id="prompthero-b2da23a7940"></a>
-
-## photography, candid shot, a boy and dad, beaming w\.\.\.
-
-<a href="https://cdn.prompthero.com/j1vr6y6vwbsx8yabs784ru0tsgel-midjourney-6-photography-candid-shot-a-boy-and-dad-beaming-with-a-wide-grin-stands-on-a-skateboard-boy-wearing-a-white.png"><img src="https://cdn.prompthero.com/j1vr6y6vwbsx8yabs784ru0tsgel-midjourney-6-photography-candid-shot-a-boy-and-dad-beaming-with-a-wide-grin-stands-on-a-skateboard-boy-wearing-a-white.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-photography, candid shot, a boy and dad, beaming with a wide grin, stands on a skateboard, boy wearing a white loose-fit T-shirt with a playful yet cool vibe, dark grey cargo jogger, they hold onto the strong hands of an adult whose lower half is visible, showing black loose-fit long sleeves and hands adorned with detailed tattoos, both wear Nike SB skateboard shoes, offering a contrast between new and comfortably worn, balance, perfect face-to-body ratio, and shared joy between generations, all set within the soft, natural light of a serene, used camera Sony α9 II with Sony FE 100-400mm f/4.5-5.6 GM OSS lens, emulating a high-contrast effect, UHD --ar 9:16 --style raw --stylize 600
-```
-
-By [@Grayve](https://prompthero.com/prompt/b2da23a7940-midjourney-6-photography-candid-shot-a-boy-and-dad-beaming-with-a-wide-grin-stands-on-a-skateboard-boy-wearing-a-white)
-
----
-
-<a id="prompthero-b3b36b2a5e9"></a>
-
-## Youth Uprising: Laura
-
-<a href="https://cdn.prompthero.com/hu5fm9l4pzhppy68vrzjgio5g3to-stable-diffusion-xl-base-09-youth-uprising-laura.jpg"><img src="https://cdn.prompthero.com/hu5fm9l4pzhppy68vrzjgio5g3to-stable-diffusion-xl-base-09-youth-uprising-laura.jpg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-(masterpiece,best quality, ultra-realistic, 32k, RAW photo, detailed skin, 8k UHD, high quality:1.2), street grunge style portrait of a young beautiful cyberpunk woman, messy long hair, revolution, riot gear, cyberpunk city background, megacity, sunset, paint style of Mike Winkelmann, high detail, digital art <lora:add-detail-xl:5>
-```
-
-By [@abyishot](https://prompthero.com/prompt/b3b36b2a5e9-stable-diffusion-xl-base-09-youth-uprising-laura)
-
----
-
-<a id="prompthero-b4ced5a8de6"></a>
-
-## The image captures a joyous moment, centered on a \.\.\.
-
-<a href="https://cdn.prompthero.com/muiw908arx2rch86w53wl9aqlwyz-flux-flux-11-pro-ultra-the-image-captures-a-joyous-moment-centered-on-a-smiling-woman-dressed-vibrantly-in-traditional-clothing-possibly-from-a-culture.jpg"><img src="https://cdn.prompthero.com/muiw908arx2rch86w53wl9aqlwyz-flux-flux-11-pro-ultra-the-image-captures-a-joyous-moment-centered-on-a-smiling-woman-dressed-vibrantly-in-traditional-clothing-possibly-from-a-culture.jpg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-The image captures a joyous moment, centered on a smiling woman dressed vibrantly in traditional clothing, possibly from a culture known for its colorful attire. Her outfit is richly adorned with bright, intricate patterns and embellishments, and she wears a headdress adorned with flowers that add a splash of various colors to her appearance. She is holding up a decorative item, which could be a part of a festival or celebration, toward the sky with a look of exuberance and delight. Her expression is one of genuine happiness as she laughs, her eyes closed and her head tilted back, which suggests she is fully immersed in the festivities. Other individuals, similarly dressed in traditional clothing though slightly out of focus, can be seen in the background enjoying the event, indicating a communal or cultural gathering. The warm lighting amplifies the festive atmosphere, giving the image a vibrant and lively feel.
-```
-
-[Source](https://prompthero.com/prompt/b4ced5a8de6-flux-flux-11-pro-ultra-the-image-captures-a-joyous-moment-centered-on-a-smiling-woman-dressed-vibrantly-in-traditional-clothing-possibly-from-a-culture)
-
----
-
-<a id="prompthero-b5bb3ad9536"></a>
-
-## high resolution photography, candid shot, couple, \.\.\.
-
-<a href="https://cdn.prompthero.com/rxikupa9egvwz1r54ijrl3v1yc-midjourney-shatter-high-resolution-photography-candid-shot-couple-hugging-at-a-complicated-street-35mm-film-kodak-portra-400-motion-blur-authentic-emotion.png"><img src="https://cdn.prompthero.com/rxikupa9egvwz1r54ijrl3v1yc-midjourney-shatter-high-resolution-photography-candid-shot-couple-hugging-at-a-complicated-street-35mm-film-kodak-portra-400-motion-blur-authentic-emotion.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-high resolution photography, candid shot, couple, hugging, at a complicated street, 35mm film, kodak portra 400, motion blur, authentic emotion, film grain, cinematic lighting, rich detailed --ar 9:16 --raw
-```
-
-By [@Grayve](https://prompthero.com/prompt/b5bb3ad9536-midjourney-shatter-high-resolution-photography-candid-shot-couple-hugging-at-a-complicated-street-35mm-film-kodak-portra-400-motion-blur-authentic-emotion)
-
----
-
-<a id="prompthero-b6bebeecca5"></a>
-
-## score\_9, score\_8\_up, score\_7\_up,1girl,solo,two ton\.\.\.
-
-<a href="https://cdn.prompthero.com/vhuvkiwjf2k65cdp6rvfgscx9h74-pony-diffusion-v6-xl-v6-start-with-this-one-score9-score8up-score7up1girlsolotwo-tone-hairblack-and-green-hairshoulder-length-straight-hairblunt-bangsearhair-behind-earyellow-eyesblack-eye-shadowblack-eye-linerblushperfecteyeseyebrowsnormal-lipsnatural.png"><img src="https://cdn.prompthero.com/vhuvkiwjf2k65cdp6rvfgscx9h74-pony-diffusion-v6-xl-v6-start-with-this-one-score9-score8up-score7up1girlsolotwo-tone-hairblack-and-green-hairshoulder-length-straight-hairblunt-bangsearhair-behind-earyellow-eyesblack-eye-shadowblack-eye-linerblushperfecteyeseyebrowsnormal-lipsnatural.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-score_9, score_8_up, score_7_up,1girl,solo,two tone hair,black and green hair,shoulder length straight hair,blunt bangs,ear,hair behind ear,yellow eyes,black eye shadow,black eye liner,blush,perfecteyes,eyebrows,normal lips,natural color lips,jewelry,forehead jewelry, mermaid scales, shy smile, cute headtilt, happy face,underwater fantasy sea floor, cute headtilt, looking at viewer,facing viewer, beautiful fantasy underwater scene,cowboy body shot, vibrant,high resolution,cinematic,extremely detailed
-```
-
-[Source](https://prompthero.com/prompt/b6bebeecca5-pony-diffusion-v6-xl-v6-start-with-this-one-score9-score8up-score7up1girlsolotwo-tone-hairblack-and-green-hairshoulder-length-straight-hairblunt-bangsearhair-behind-earyellow-eyesblack-eye-shadowblack-eye-linerblushperfecteyeseyebrowsnormal-lipsnatural)
-
----
 
 <a id="prompthero-b7ed67426c7"></a>
 
@@ -326,6 +246,86 @@ Close-up portrait of a woman illuminated by soft, warm afternoon light streaming
 
 ---
 
-[1](portraits.md) · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · [5](portraits-5.md) · [6](portraits-6.md) · [7](portraits-7.md) · [8](portraits-8.md) · [9](portraits-9.md) · [10](portraits-10.md) · [11](portraits-11.md) · [12](portraits-12.md) · [13](portraits-13.md) · [14](portraits-14.md) · [15](portraits-15.md) · [16](portraits-16.md) · [17](portraits-17.md) · [18](portraits-18.md) · [19](portraits-19.md) · [20](portraits-20.md) · [21](portraits-21.md) · [22](portraits-22.md) · [23](portraits-23.md) · [24](portraits-24.md) · [25](portraits-25.md) · [26](portraits-26.md) · **27** · [28](portraits-28.md) · [29](portraits-29.md) · [30](portraits-30.md) · [31](portraits-31.md) · [32](portraits-32.md) · [33](portraits-33.md) · [34](portraits-34.md) · [35](portraits-35.md) · [36](portraits-36.md)
+<a id="prompthero-b840738a6cd"></a>
+
+## a bold and edgy portrait of a tattoo artist workin\.\.\.
+
+<a href="https://cdn.prompthero.com/wdfpn8c7hgfp37y7x4e1uefqzd-flux-flux-2-pro-a-bold-and-edgy-portrait-of-a-tattoo-artist-working-in-a-vibrant-neon-lit-studio-the-woman-exudes-confidence.jpeg"><img src="https://cdn.prompthero.com/wdfpn8c7hgfp37y7x4e1uefqzd-flux-flux-2-pro-a-bold-and-edgy-portrait-of-a-tattoo-artist-working-in-a-vibrant-neon-lit-studio-the-woman-exudes-confidence.jpeg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+a bold and edgy portrait of a tattoo artist working in a vibrant, neon-lit studio. The woman exudes confidence and creativity, dressed in dark, lacy lingerie adorned with subtle punk-inspired details such as studded accessories and leather straps. Her body is a canvas of art, with intricate, vividly colored tattoos covering her arms, back, and legs, creating a striking visual contrast against her dark outfit.  The setting is a dynamic and artistic tattoo studio filled with character and detail. Vintage tattoo machines and an array of colorful ink bottles are neatly arranged on her workstation, while a classic barber chair sits in the center of the space. The walls are decorated with framed flash art and intricate designs, reflecting the vibrant and rebellious spirit of the environment. The lighting is dim yet dynamic, with soft neon hues—pinks, purples, and blues—casting a moody, atmospheric glow throughout the scene. The interplay of light and shadow enhances the details of her tattoos, the textures of her lingerie, and the edgy decor of the studio.  Her expression is focused and determined as she leans over her work, embodying the boldness and artistry of her craft. The overall composition is hyper-detailed and cinematic, blending the raw energy of the punk aesthetic with the vibrant allure of neon-lit artistry, creating a powerful and visually captivating scene.
+```
+
+[Source](https://prompthero.com/prompt/b840738a6cd-flux-flux-2-pro-a-bold-and-edgy-portrait-of-a-tattoo-artist-working-in-a-vibrant-neon-lit-studio-the-woman-exudes-confidence)
+
+---
+
+<a id="prompthero-b4098187b5a"></a>
+
+## Flux\_style\_vibrant\. Hyper-detailed, dynamic full b\.\.\.
+
+<a href="https://cdn.prompthero.com/bvdlfyndhuppwhz8kqfjei5jtsfx-flux-flux-11-pro-ultra-fluxstylevibrant-hyper-detailed-dynamic-full-body-shot-low-angle-view-african-american-woman-with-striking-cornrows-bold-purple-graphic-makeup.jpg"><img src="https://cdn.prompthero.com/bvdlfyndhuppwhz8kqfjei5jtsfx-flux-flux-11-pro-ultra-fluxstylevibrant-hyper-detailed-dynamic-full-body-shot-low-angle-view-african-american-woman-with-striking-cornrows-bold-purple-graphic-makeup.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+Flux_style_vibrant. Hyper-detailed, dynamic full body shot, low angle view. African American woman with striking cornrows. Bold purple graphic makeup. Sharp, glossy purple nails. Wearing a translucent, flowing sheer purple dress; no undergarments visible. Holding a textured purple handbag. Abstract, softly blurred background suggestive of an artistic locale. Intense color focus, dynamic lighting highlighting the purple spectrum and her empowered silhouette.
+```
+
+[Source](https://prompthero.com/prompt/b4098187b5a-flux-flux-11-pro-ultra-fluxstylevibrant-hyper-detailed-dynamic-full-body-shot-low-angle-view-african-american-woman-with-striking-cornrows-bold-purple-graphic-makeup)
+
+---
+
+<a id="prompthero-b83128713a6"></a>
+
+## A confident woman sits casually on a wooden bench,\.\.\.
+
+<a href="https://cdn.prompthero.com/ye5whn6i1odc1ksosxf8zvbi1yhd-sd-xl-v10-vae-fix-the-image-was-produced-with-comfyui-workflow-erol-sdxl-turbo-canny-controlnet-ttplanetsdxlcontrolnettilerealisticv1-as-well-as-its-workflow-by-ttplanet-a-confident-woman-sits-casually-on-a-wooden-bench-leaning-slightly-to-her-left-with-her-left-hand-supporting-her.png"><img src="https://cdn.prompthero.com/ye5whn6i1odc1ksosxf8zvbi1yhd-sd-xl-v10-vae-fix-the-image-was-produced-with-comfyui-workflow-erol-sdxl-turbo-canny-controlnet-ttplanetsdxlcontrolnettilerealisticv1-as-well-as-its-workflow-by-ttplanet-a-confident-woman-sits-casually-on-a-wooden-bench-leaning-slightly-to-her-left-with-her-left-hand-supporting-her.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+A confident woman sits casually on a wooden bench, leaning slightly to her left with her left hand supporting her weight. She wears a form-fitting, high-neck sleeveless black dress. Her hair is styled in sleek waves, complemented by defined makeup. Her direct gaze exudes composure. The warm ambient lighting highlights the wooden textures and soft background, creating a relaxed yet engaging atmosphere.
+```
+
+By [@JBlack16062205](https://prompthero.com/prompt/b83128713a6-sd-xl-v10-vae-fix-the-image-was-produced-with-comfyui-workflow-erol-sdxl-turbo-canny-controlnet-ttplanetsdxlcontrolnettilerealisticv1-as-well-as-its-workflow-by-ttplanet-a-confident-woman-sits-casually-on-a-wooden-bench-leaning-slightly-to-her-left-with-her-left-hand-supporting-her)
+
+---
+
+<a id="prompthero-b662238875f"></a>
+
+## Description with knolling parts, fashion girl, Ful\.\.\.
+
+<a href="https://cdn.prompthero.com/ccjnlxl4rz7m2xomx1mky973as75-midjourney-51-description-with-knolling-parts-fashion-girl-full-body-one-american-girl-wearing-beach-sunglasses-white-t-shirt-with-nike-logo.png"><img src="https://cdn.prompthero.com/ccjnlxl4rz7m2xomx1mky973as75-midjourney-51-description-with-knolling-parts-fashion-girl-full-body-one-american-girl-wearing-beach-sunglasses-white-t-shirt-with-nike-logo.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+Description with knolling parts, fashion girl, Full body, one American girl, wearing beach, sunglasses, white T - shirt with nike logo, white sneakers, full scale, yellow backpack, HD, portrait, photo, 8k, escription with knolling parts, main color # ff7ad2, knolling, photorealistic, 8k, shot from above, with text description, data visualization --ar 3:4 --s 750 --v 5.1
+```
+
+[Source](https://prompthero.com/prompt/b662238875f-midjourney-51-description-with-knolling-parts-fashion-girl-full-body-one-american-girl-wearing-beach-sunglasses-white-t-shirt-with-nike-logo)
+
+---
+
+<a id="prompthero-b4279926655"></a>
+
+## Baroque Style, dreamlike Hyperdetailed grunge art \.\.\.
+
+<a href="https://cdn.prompthero.com/v1_329101744063902abbbb5008cd-grok-image-grok-imagine-image-2-baroque-style-dreamlike-hyperdetailed-grunge-art-fantasy-illustration-featuring-an-cyberpunk-female-android-hair-from-wires-white-porcelain-face-sci.jpg"><img src="https://cdn.prompthero.com/v1_329101744063902abbbb5008cd-grok-image-grok-imagine-image-2-baroque-style-dreamlike-hyperdetailed-grunge-art-fantasy-illustration-featuring-an-cyberpunk-female-android-hair-from-wires-white-porcelain-face-sci.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+Baroque Style, dreamlike Hyperdetailed grunge art fantasy illustration featuring an cyberpunk female android, hair from wires, white porcelain face, sci-fi, elegant, dreamy atmosphere, intricate, ornate, decorative, pastel colors, whimsical, embellished, figura serpentina, dynamic twisted poses, elaborately decorated, inspired by [Brian M Viveros, Esao Andrews] Exaggeration, Elongation, Emotional Expression, Unconventional, Dramatic Pose, Complex Arrangements, Distorted Proportions, Artificial Elegance, Expressive Figures, Twisted Forms, Virtuosity, Sophistication, Intense Emotions, unbalanced composition, dynamic and visually engaging composition
+```
+
+[Source](https://prompthero.com/prompt/b4279926655-grok-image-grok-imagine-image-2-baroque-style-dreamlike-hyperdetailed-grunge-art-fantasy-illustration-featuring-an-cyberpunk-female-android-hair-from-wires-white-porcelain-face-sci)
+
+---
+
+[1](portraits.md) · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · [5](portraits-5.md) · [6](portraits-6.md) · [7](portraits-7.md) · [8](portraits-8.md) · [9](portraits-9.md) · [10](portraits-10.md) · [11](portraits-11.md) · [12](portraits-12.md) · [13](portraits-13.md) · [14](portraits-14.md) · [15](portraits-15.md) · [16](portraits-16.md) · [17](portraits-17.md) · [18](portraits-18.md) · [19](portraits-19.md) · [20](portraits-20.md) · [21](portraits-21.md) · [22](portraits-22.md) · [23](portraits-23.md) · [24](portraits-24.md) · [25](portraits-25.md) · [26](portraits-26.md) · **27** · [28](portraits-28.md) · [29](portraits-29.md) · [30](portraits-30.md) · [31](portraits-31.md) · [32](portraits-32.md) · [33](portraits-33.md) · [34](portraits-34.md) · [35](portraits-35.md)
 
 [← Home](../README.md)

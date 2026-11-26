@@ -6,22 +6,6 @@
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
-<a id="prompthero-e0471e101e4"></a>
-
-## 1mechanical\_girl\_with\_kidou\_keisatsu\_patlabor\_body\.\.\.
-
-<a href="https://cdn.prompthero.com/b5co6ludz6x2o5f4lj36zpsh6p0x-mix-pro-v4-v3-1mechanicalgirlwithkidoukeisatsupatlaborbody-wearingintricatebioluminescentmechanicalcyborgarmormadeoutof-whitebeigeoldplastic-ultra-realistic-details-detailedface-globalillumination-shadows-octanerender-8k-ultrasharp-metal-ornamentsdetailed-coldcolors-egypiciandetail-highlyintricatedetails-realisticlight-trendingoncgsociety-glowingeyes.png"><img src="https://cdn.prompthero.com/b5co6ludz6x2o5f4lj36zpsh6p0x-mix-pro-v4-v3-1mechanicalgirlwithkidoukeisatsupatlaborbody-wearingintricatebioluminescentmechanicalcyborgarmormadeoutof-whitebeigeoldplastic-ultra-realistic-details-detailedface-globalillumination-shadows-octanerender-8k-ultrasharp-metal-ornamentsdetailed-coldcolors-egypiciandetail-highlyintricatedetails-realisticlight-trendingoncgsociety-glowingeyes.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-1mechanical_girl_with_kidou_keisatsu_patlabor_body , wearing_intricate_bioluminescent_mechanical_cyborg_armor_made_out_of ((white_beige_old_plastic)) , ((ultra realistic details)), detailed_face, global_illumination, shadows, octane_render, 8k, ultra_sharp, metal, ornaments_detailed, cold_colors, egypician_detail, highly_intricate_details, realistic_light, trending_on_cgsociety, glowing_eyes, look down on someone, ((from below)), lifted by self, looking at viewer, neon_details, machanical_limbs, blood_vessels_connected_to_tubes, ((lot_wires_and_cables_connecting_to_head_and_body)), killing_machine, extremely_sexy, lustful, medium breasts, slutty , official wallpaper, NSFW, <lora:mecha_20230530090512-000003:0.6> <lora:droptop:0.3> <lora:more_details:0.4> <lora:nijiMecha:0.4>, In the style of Neon Genesis Evangelion, you find yourself standing on a desolate, post - apocalyptic wasteland, as the distant ruins of a massive city loom on the horizon. The sky is filled with ominous clouds, as a massive creature towers in the distance, cinematic light, dramatic light, pink + violet, masterpiece, best quality, ((pure white background)), standing, black hair bun,cold face, full body, Denim jacket, white T-shirt, casual pants, (Fashionable clothing), happy, light effect, soft, super clear, high-definition picture, (front)
-```
-
-[Source](https://prompthero.com/prompt/e0471e101e4-mix-pro-v4-v3-1mechanicalgirlwithkidoukeisatsupatlaborbody-wearingintricatebioluminescentmechanicalcyborgarmormadeoutof-whitebeigeoldplastic-ultra-realistic-details-detailedface-globalillumination-shadows-octanerender-8k-ultrasharp-metal-ornamentsdetailed-coldcolors-egypiciandetail-highlyintricatedetails-realisticlight-trendingoncgsociety-glowingeyes)
-
----
-
 <a id="prompthero-e3046b70c38"></a>
 
 ## A photorealistic cinematic close-up portrait of a \.\.\.
@@ -323,6 +307,22 @@ girl, photo of the most beautiful artwork in the world for a woman featuring sof
 ```
 
 [Source](https://prompthero.com/prompt/f741c67cc99-flux-flux-11-pro-girl-photo-of-the-most-beautiful-artwork-in-the-world-for-a-woman-featuring-soft-lustrousshe-is-smoking-cigarettes-industrial)
+
+---
+
+<a id="prompthero-f32426e7959"></a>
+
+## full body image, 35mm film, grain, 1950&\#39;s camera, \.\.\.
+
+<a href="https://cdn.prompthero.com/t660tkoc0zz24oiqxhmabb8mjbsa-stable-diffusion-14-full-body-image-35mm-film-grain-1950s-camera-a-war-princess-25-year-old-beautiful-woman-with-blonde-hair-and.png"><img src="https://cdn.prompthero.com/t660tkoc0zz24oiqxhmabb8mjbsa-stable-diffusion-14-full-body-image-35mm-film-grain-1950s-camera-a-war-princess-25-year-old-beautiful-woman-with-blonde-hair-and.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+full body image, 35mm film, grain, 1950's camera, a war princess, 25 year old beautiful woman with blonde hair and cultural face paint wearing cloth armor, intricate, elegant, urban fantasy, bright grey eyes standing next to a beautiful foggy mountain view. She should have long braided, flowing hair, a captivating gaze, and an alluring expression. symmetrical eyes, symmetrical background, cinematic film still from 1980s movie, Kodak portra 800, extremely detailed, extremely detailed eyes, extremely detailed body, extremely detailed skin, extremely detailed clothes, Ultra realistic, symmetrical face , (35mm style:1. 1), foggy, ((best quality)), ((masterpiece)), ((realistic)), radiant light rays, highres, detailed facial features, analog style, digital painting, 3d render, artstation, matte, highly detailed, concept art, Exaggeration, light Aesthetic, magazine, Backlight, light rays magical lighting beams, dust in beam, light color, Exaggeration, instagram, 'light, exciting, enlightening, happy, misty, moody, heavenly, shadowy, Realism, octane render, unreal engine 5, Shaders, Denoise, De-Noise, Ambient Occlusion, Tone Mapping, Moonlight, highres, detailed facial features, high detail, sharp focus, octane render, photo_\(ultra\), realistic, post-processing, max detail, realistic shadows, roughness, natural skin texture, real life, ultra realistic, photorealism
+```
+
+[Source](https://prompthero.com/prompt/f32426e7959-stable-diffusion-14-full-body-image-35mm-film-grain-1950s-camera-a-war-princess-25-year-old-beautiful-woman-with-blonde-hair-and)
 
 ---
 

@@ -1,90 +1,10 @@
 # portraits
 
-[← Home](../README.md) · Page 8 / 36
+[← Home](../README.md) · Page 8 / 35
 
-[1](portraits.md) · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · [5](portraits-5.md) · [6](portraits-6.md) · [7](portraits-7.md) · **8** · [9](portraits-9.md) · [10](portraits-10.md) · [11](portraits-11.md) · [12](portraits-12.md) · [13](portraits-13.md) · [14](portraits-14.md) · [15](portraits-15.md) · [16](portraits-16.md) · [17](portraits-17.md) · [18](portraits-18.md) · [19](portraits-19.md) · [20](portraits-20.md) · [21](portraits-21.md) · [22](portraits-22.md) · [23](portraits-23.md) · [24](portraits-24.md) · [25](portraits-25.md) · [26](portraits-26.md) · [27](portraits-27.md) · [28](portraits-28.md) · [29](portraits-29.md) · [30](portraits-30.md) · [31](portraits-31.md) · [32](portraits-32.md) · [33](portraits-33.md) · [34](portraits-34.md) · [35](portraits-35.md) · [36](portraits-36.md)
+[1](portraits.md) · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · [5](portraits-5.md) · [6](portraits-6.md) · [7](portraits-7.md) · **8** · [9](portraits-9.md) · [10](portraits-10.md) · [11](portraits-11.md) · [12](portraits-12.md) · [13](portraits-13.md) · [14](portraits-14.md) · [15](portraits-15.md) · [16](portraits-16.md) · [17](portraits-17.md) · [18](portraits-18.md) · [19](portraits-19.md) · [20](portraits-20.md) · [21](portraits-21.md) · [22](portraits-22.md) · [23](portraits-23.md) · [24](portraits-24.md) · [25](portraits-25.md) · [26](portraits-26.md) · [27](portraits-27.md) · [28](portraits-28.md) · [29](portraits-29.md) · [30](portraits-30.md) · [31](portraits-31.md) · [32](portraits-32.md) · [33](portraits-33.md) · [34](portraits-34.md) · [35](portraits-35.md)
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
-
-<a id="prompthero-3b0d4896f5f"></a>
-
-## &quot;A man standing with his back to the camera, looki\.\.\.
-
-<a href="https://cdn.prompthero.com/fyxb14oprf7lh17gd04ircxv8d-a-man-standing-with-his-back-to-the-camera-looking-straight-ahead-toward-the-horizon-he-appears-very-calm-confident.png"><img src="https://cdn.prompthero.com/fyxb14oprf7lh17gd04ircxv8d-a-man-standing-with-his-back-to-the-camera-looking-straight-ahead-toward-the-horizon-he-appears-very-calm-confident.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-"A man standing with his back to the camera, looking straight ahead toward the horizon. He appears very calm, confident, and steadfast, with a strong and unwavering posture. In front of him, a massive tsunami wave is towering and moving toward him. The scene is set on a stormy beach with dark, rainy weather and gloomy clouds. Around the man, people are running away in panic and chaos. Wide-angle shot, cinematic composition, dramatic lighting, 4K ultra realistic, photorealistic, highly detailed, epic atmosphere."
-```
-
-[Source](https://prompthero.com/prompt/3b0d4896f5f-a-man-standing-with-his-back-to-the-camera-looking-straight-ahead-toward-the-horizon-he-appears-very-calm-confident)
-
----
-
-<a id="prompthero-3b3f51292c6"></a>
-
-## urban winter film photography, woman biking past m\.\.\.
-
-<a href="https://cdn.prompthero.com/qve1ky5gjg1bfyof9mbrtr6e6i-midjourney-shatter-urban-winter-film-photography-woman-biking-past-murals-vintage-winter-colors-motion-blur-film-grain-texture-warm-light-leak-candid.png"><img src="https://cdn.prompthero.com/qve1ky5gjg1bfyof9mbrtr6e6i-midjourney-shatter-urban-winter-film-photography-woman-biking-past-murals-vintage-winter-colors-motion-blur-film-grain-texture-warm-light-leak-candid.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-urban winter film photography, woman biking past murals, vintage winter colors, motion blur, film grain texture, warm light leak, candid moment --ar 9:16 --raw
-```
-
-By [@Grayve](https://prompthero.com/prompt/3b3f51292c6-midjourney-shatter-urban-winter-film-photography-woman-biking-past-murals-vintage-winter-colors-motion-blur-film-grain-texture-warm-light-leak-candid)
-
----
-
-<a id="prompthero-3b40d3d0b22"></a>
-
-## A female model wears a sleek, black, high-necked l\.\.\.
-
-<a href="https://cdn.prompthero.com/637w3b5iwpv6lyvwchmdefvh8vp2-flux-flux-11-pro-a-female-model-wears-a-sleek-black-high-necked-leotard-made-of-a-satin-like-or-techno-fiber-material-that.jpg"><img src="https://cdn.prompthero.com/637w3b5iwpv6lyvwchmdefvh8vp2-flux-flux-11-pro-a-female-model-wears-a-sleek-black-high-necked-leotard-made-of-a-satin-like-or-techno-fiber-material-that.jpg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-A female model wears a sleek, black, high-necked leotard made of a satin-like or techno-fiber material that gives off a cool, metallic sheen. Her hair is styled in a neat low ponytail, complementing the minimalist, futuristic aesthetic of her look. Most strikingly, she wears a translucent mask sculpted in the shape of a Capricorn's head, featuring elegant, curved horns that arch backward. The mask is crafted from a silicone or plastic-like material, smooth yet detailed, allowing the model’s facial contours to subtly show through. This interplay between reality and illusion enhances the avant-garde, cyberpunk-inspired design with elements of biomimicry. The overall color palette is soft and cold, with a light gray background, making the figure stand out in a futuristic, high-concept fashion photography or experimental art setting
-```
-
-By [@chorlo](https://prompthero.com/prompt/3b40d3d0b22-flux-flux-11-pro-a-female-model-wears-a-sleek-black-high-necked-leotard-made-of-a-satin-like-or-techno-fiber-material-that)
-
----
-
-<a id="prompthero-3b670590135"></a>
-
-## A woman in a traditional Chinese Hanfu dress, whit\.\.\.
-
-<a href="https://cdn.prompthero.com/saohnmbd66ymtu33ibg6137ahsaw-flux-flux-11-pro-a-woman-in-a-traditional-chinese-hanfu-dress-white-kimono-with-red-and-black-patterned-sleeves-and-a-red-skirt.jpg"><img src="https://cdn.prompthero.com/saohnmbd66ymtu33ibg6137ahsaw-flux-flux-11-pro-a-woman-in-a-traditional-chinese-hanfu-dress-white-kimono-with-red-and-black-patterned-sleeves-and-a-red-skirt.jpg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-A woman in a traditional Chinese Hanfu dress, white kimono with red and black patterned sleeves, and a red skirt stands serenely under a pink cherry blossom tree. Her loose waves of hair frame her peaceful face as she gazes upward, eyes soft and content. The tree is in full bloom, petals gently drifting down. A stone wall stretches behind, adding a timeless quality. The scene is bathed in soft, diffused natural light, creating a serene and tranquil mood with a pastel color palette and subtle film grain.
-```
-
-[Source](https://prompthero.com/prompt/3b670590135-flux-flux-11-pro-a-woman-in-a-traditional-chinese-hanfu-dress-white-kimono-with-red-and-black-patterned-sleeves-and-a-red-skirt)
-
----
-
-<a id="prompthero-3be3eac04f0"></a>
-
-## \(35mmstyle:1\.2\), Highly detailed RAW color Photo, \.\.\.
-
-<a href="https://cdn.prompthero.com/7xr46bji3zeieafqpde3d98zoluw-stable-diffusion-xl-base-09-35mmstyle12-highly-detailed-raw-color-photo-rear-angle-full-body-of-female-space-marine-wearing-white-and-red-space-suit.png"><img src="https://cdn.prompthero.com/7xr46bji3zeieafqpde3d98zoluw-stable-diffusion-xl-base-09-35mmstyle12-highly-detailed-raw-color-photo-rear-angle-full-body-of-female-space-marine-wearing-white-and-red-space-suit.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-(35mmstyle:1.2), Highly detailed RAW color Photo, Rear Angle, Full Body, of (female space marine, wearing white and red space suit, futuristic helmet, tined face shield, rebreather, accentuated booty), outdoors, (standing on Precipice of tall rocky mountain, looking out at magical lush green rain forest on alien planet), vivid detail, (exotic alien planet), toned body, big butt, (sci-fi), (mountains:1.1), (lush green vegetation), (two moons in sky:0.8), (highly detailed, hyperdetailed, intricate), (lens flare:0.7), (bloom:0.7), particle effects, raytracing, cinematic lighting, shallow depth of field, photographed on a Sony a9 II, 35mm wide angle lens, sharp focus, cinematic film still from Gravity 2013, viewed from behind, dynamic angle
-```
-
-[Source](https://prompthero.com/prompt/3be3eac04f0-stable-diffusion-xl-base-09-35mmstyle12-highly-detailed-raw-color-photo-rear-angle-full-body-of-female-space-marine-wearing-white-and-red-space-suit)
-
----
 
 <a id="prompthero-3cd43e5b03b"></a>
 
@@ -326,6 +246,86 @@ By [@heeyrina](https://prompthero.com/prompt/4c22a6e0fbb-deliberate-v2-masterpie
 
 ---
 
-[1](portraits.md) · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · [5](portraits-5.md) · [6](portraits-6.md) · [7](portraits-7.md) · **8** · [9](portraits-9.md) · [10](portraits-10.md) · [11](portraits-11.md) · [12](portraits-12.md) · [13](portraits-13.md) · [14](portraits-14.md) · [15](portraits-15.md) · [16](portraits-16.md) · [17](portraits-17.md) · [18](portraits-18.md) · [19](portraits-19.md) · [20](portraits-20.md) · [21](portraits-21.md) · [22](portraits-22.md) · [23](portraits-23.md) · [24](portraits-24.md) · [25](portraits-25.md) · [26](portraits-26.md) · [27](portraits-27.md) · [28](portraits-28.md) · [29](portraits-29.md) · [30](portraits-30.md) · [31](portraits-31.md) · [32](portraits-32.md) · [33](portraits-33.md) · [34](portraits-34.md) · [35](portraits-35.md) · [36](portraits-36.md)
+<a id="prompthero-4c838b3f307"></a>
+
+## digital art, fashion editorial, a close portrait o\.\.\.
+
+<a href="https://cdn.prompthero.com/ab9v19hl2wn938kvgwh25yusdn6k-stable-diffusion-2-base-digital-art-fashion-editorial-a-close-portrait-of-beautiful-blond-woman-is-studio-double-exposure-blue-neon-lights-highres-realistic.png"><img src="https://cdn.prompthero.com/ab9v19hl2wn938kvgwh25yusdn6k-stable-diffusion-2-base-digital-art-fashion-editorial-a-close-portrait-of-beautiful-blond-woman-is-studio-double-exposure-blue-neon-lights-highres-realistic.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+digital art, fashion editorial, a close portrait of beautiful blond woman is studio double exposure blue neon lights, highres, realistic photo, professional photography, cinematic angle, dynamic light back shining,
+```
+
+[Source](https://prompthero.com/prompt/4c838b3f307-stable-diffusion-2-base-digital-art-fashion-editorial-a-close-portrait-of-beautiful-blond-woman-is-studio-double-exposure-blue-neon-lights-highres-realistic)
+
+---
+
+<a id="prompthero-4ce7e61d238"></a>
+
+## digital art, close-up portrait of a female figure,\.\.\.
+
+<a href="https://cdn.prompthero.com/d70wze42wg1lrom88wtotzh1n450-midjourney-6-digital-art-close-up-portrait-of-a-female-figure-digital-flat-color-straight-on-view-focus-on-the-upper-body.png"><img src="https://cdn.prompthero.com/d70wze42wg1lrom88wtotzh1n450-midjourney-6-digital-art-close-up-portrait-of-a-female-figure-digital-flat-color-straight-on-view-focus-on-the-upper-body.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+digital art, close-up portrait of a female figure, digital flat color, straight on view, focus on the upper body and face, dark color hoodie, figure is depicted with a abstract whirl, neon colored streaks flowing from the head, simplistic with a plain, dark background to enhance subject visibility, brightly colored with contrasting shadows to emphasize the colorful streaks, minimal facial features with an emphasis on the abstract design, sharp contrast between the subject and background --ar 9:16 --style raw --niji 6
+```
+
+By [@Grayve](https://prompthero.com/prompt/4ce7e61d238-midjourney-6-digital-art-close-up-portrait-of-a-female-figure-digital-flat-color-straight-on-view-focus-on-the-upper-body)
+
+---
+
+<a id="prompthero-4d2a1cf2c51"></a>
+
+## A cinematic close-up of a Mongolian woman in tradi\.\.\.
+
+<a href="https://cdn.prompthero.com/ajqtsv3i87nqyue93zk8enwhn3p3-majicmix-realistic-v7-mongolian-a-cinematic-close-up-of-a-mongolian-woman-in-traditional-attire-captured-at-golden-hour-with-warm-soft-lighting-the.png"><img src="https://cdn.prompthero.com/ajqtsv3i87nqyue93zk8enwhn3p3-majicmix-realistic-v7-mongolian-a-cinematic-close-up-of-a-mongolian-woman-in-traditional-attire-captured-at-golden-hour-with-warm-soft-lighting-the.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+A cinematic close-up of a Mongolian woman in traditional attire, captured at golden hour with warm, soft lighting. The shot focuses on her expressive almond-shaped dark eyes and high cheekbones, framed by long, jet-black hair styled in intricate braids adorned with silver and turquoise ornaments. Her deel (traditional Mongolian dress) is vividly detailed, showcasing red and gold embroidery with fur accents at the collar and cuffs. The background is artistically blurred (bokeh effect), hinting at the vast Mongolian steppe and softly glowing yurts under the warm hues of a setting sun, emphasizing the depth and emotion of the scene.
+```
+
+[Source](https://prompthero.com/prompt/4d2a1cf2c51-majicmix-realistic-v7-mongolian-a-cinematic-close-up-of-a-mongolian-woman-in-traditional-attire-captured-at-golden-hour-with-warm-soft-lighting-the)
+
+---
+
+<a id="prompthero-4d6ea2ce1e4"></a>
+
+## Lady in Red
+
+<a href="https://cdn.prompthero.com/z6rik4011d2iis77wgqfbtb2hl6j-stable-diffusion-15-lady-in-red.png"><img src="https://cdn.prompthero.com/z6rik4011d2iis77wgqfbtb2hl6j-stable-diffusion-15-lady-in-red.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+An stunning beautiful young woman aged mid-20's with short fashionable blonde hair, 😍 with medium breasts and pale blue eyes, Beautiful "Barbie" style, immaculate body , elegant, wearing a tight shiny red dress, black satin mini-skirt outfit, black thigh high commando style boots , glossy red lips and fingernails, posing for a picture next to a beautiful field of red poppies, 3d-rendering highly detailed quality and background , <lora:add_detail:1>, 16k, UHD, HDR,(Masterpiece:1.5), (best quality:1.5)
+```
+
+By [@ScArecrow23](https://prompthero.com/prompt/4d6ea2ce1e4-stable-diffusion-15-lady-in-red)
+
+---
+
+<a id="prompthero-4da0dd6781f"></a>
+
+## a portrait photo of a Brazilain supermodel, photor\.\.\.
+
+<a href="https://cdn.prompthero.com/oj43xnjm21fyrl5hn0agkwlsf083-midjourney-6-a-portrait-photo-of-a-brazilain-supermodel-photorealistic-beach-full-body-optimal-photography-natural-lighting-ar-12.png"><img src="https://cdn.prompthero.com/oj43xnjm21fyrl5hn0agkwlsf083-midjourney-6-a-portrait-photo-of-a-brazilain-supermodel-photorealistic-beach-full-body-optimal-photography-natural-lighting-ar-12.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+a portrait photo of a Brazilain supermodel, photorealistic, beach, full body, optimal photography, natural lighting --ar 1:2
+```
+
+By [@NorthmoorAI](https://prompthero.com/prompt/4da0dd6781f-midjourney-6-a-portrait-photo-of-a-brazilain-supermodel-photorealistic-beach-full-body-optimal-photography-natural-lighting-ar-12)
+
+---
+
+[1](portraits.md) · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · [5](portraits-5.md) · [6](portraits-6.md) · [7](portraits-7.md) · **8** · [9](portraits-9.md) · [10](portraits-10.md) · [11](portraits-11.md) · [12](portraits-12.md) · [13](portraits-13.md) · [14](portraits-14.md) · [15](portraits-15.md) · [16](portraits-16.md) · [17](portraits-17.md) · [18](portraits-18.md) · [19](portraits-19.md) · [20](portraits-20.md) · [21](portraits-21.md) · [22](portraits-22.md) · [23](portraits-23.md) · [24](portraits-24.md) · [25](portraits-25.md) · [26](portraits-26.md) · [27](portraits-27.md) · [28](portraits-28.md) · [29](portraits-29.md) · [30](portraits-30.md) · [31](portraits-31.md) · [32](portraits-32.md) · [33](portraits-33.md) · [34](portraits-34.md) · [35](portraits-35.md)
 
 [← Home](../README.md)

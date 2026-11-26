@@ -6,54 +6,6 @@
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
-<a id="prompthero-b73da03ae26"></a>
-
-## A futuristic, minimalist cube-shaped speaker in vi\.\.\.
-
-<a href="https://cdn.prompthero.com/gilpp4aedvbssd2ngbui1d08a1-hero-10-a-futuristic-minimalist-cube-shaped-speaker-in-vibrant-fluorescent-orange-featuring-a-perforated-speaker-grille-bold-volume-knobs-one-black.jpeg"><img src="https://cdn.prompthero.com/gilpp4aedvbssd2ngbui1d08a1-hero-10-a-futuristic-minimalist-cube-shaped-speaker-in-vibrant-fluorescent-orange-featuring-a-perforated-speaker-grille-bold-volume-knobs-one-black.jpeg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-A futuristic, minimalist cube-shaped speaker in vibrant fluorescent orange, featuring a perforated speaker grille, bold volume knobs (one black and one orange), and a black lightning bolt logo on the side. The device is connected via a braided black cable and rests on a warm, gradient orange background. The design is sleek and industrial, with visible screws and subtle labeling, resembling high-end tech or concept art for a gadget.
-```
-
-[Source](https://prompthero.com/prompt/b73da03ae26-hero-10-a-futuristic-minimalist-cube-shaped-speaker-in-vibrant-fluorescent-orange-featuring-a-perforated-speaker-grille-bold-volume-knobs-one-black)
-
----
-
-<a id="prompthero-c6f6557e334"></a>
-
-## Product photography, natural light\. A hand holding\.\.\.
-
-<a href="https://cdn.prompthero.com/v1_9460d08953bfba8a0352ce985d-chatgpt-image-gpt-image-25-product-photography-natural-light-a-hand-holding-an-amber-coloured-face-serum-bottle-with-a-white-dropper-top-in-a.png"><img src="https://cdn.prompthero.com/v1_9460d08953bfba8a0352ce985d-chatgpt-image-gpt-image-25-product-photography-natural-light-a-hand-holding-an-amber-coloured-face-serum-bottle-with-a-white-dropper-top-in-a.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-Product photography, natural light. A hand holding an amber coloured face serum bottle with a white dropper top in a pool of water surrounded by pink peonies. The water is sparkling and reflecting sunlight with pastel colours . Shot on Leica M6 in the style of nature photography
-```
-
-By [@chorlo](https://prompthero.com/prompt/c6f6557e334-chatgpt-image-gpt-image-25-product-photography-natural-light-a-hand-holding-an-amber-coloured-face-serum-bottle-with-a-white-dropper-top-in-a)
-
----
-
-<a id="prompthero-c401d89f09a"></a>
-
-## Front view of a skirt, edgy design, featuring asym\.\.\.
-
-<a href="https://cdn.prompthero.com/9ltxvv1pgym3ax2523txt9vv7k8x-midjourney-51-front-view-of-a-skirt-edgy-design-featuring-asymmetric-ruffles-and-leather-details-shot-from-a-high-angle-designed-by.png"><img src="https://cdn.prompthero.com/9ltxvv1pgym3ax2523txt9vv7k8x-midjourney-51-front-view-of-a-skirt-edgy-design-featuring-asymmetric-ruffles-and-leather-details-shot-from-a-high-angle-designed-by.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-Front view of a skirt, edgy design, featuring asymmetric ruffles and leather details, shot from a high angle, designed by Ann Demeulemeester, black and white color scheme, direct sunlight, clean and minimalistic background::2, V-ray, 3ds max --ar 2:3 --v 5.1 --q 2 --no mannequin
-```
-
-[Source](https://prompthero.com/prompt/c401d89f09a-midjourney-51-front-view-of-a-skirt-edgy-design-featuring-asymmetric-ruffles-and-leather-details-shot-from-a-high-angle-designed-by)
-
----
-
 <a id="prompthero-d8f70c0668e"></a>
 
 ## Front view, soft beige studio background, warm nat\.\.\.

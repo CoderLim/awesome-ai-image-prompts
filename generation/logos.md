@@ -6,38 +6,6 @@
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
-<a id="evolink-illustration-case-147"></a>
-
-## Character and Twelve App Cards
-
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2106691563309187072.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2106691563309187072.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Create a high-quality 3D digital artwork featuring the same young woman consistently across all 12 app panels. Arrange 12 separate rounded-square app cards in a 4×3 grid on a dark charcoal background with soft cinematic lighting and realistic shadows. Panel 1: Threads — woman wearing a black hoodie, pointing toward the Threads logo. Panel 2: Alight Motion — woman in a black hoodie holding a tablet and pointing toward the Alight Motion interface. Panel 3: Gmail — woman wearing a white hoodie, sitting behind an open laptop and pointing toward the Gmail logo. Panel 4: Google — woman wearing a bright blue hoodie with one hand near her chin. Panel 5: WhatsApp — woman wearing a green hoodie, holding a smartphone and pointing toward the WhatsApp logo. Panel 6: Telegram — woman wearing a blue hoodie giving a thumbs-up. Panel 7: Chrome — woman wearing a black jacket over a white shirt, sitting beside a laptop. Panel 8: ChatGPT — woman wearing a black hoodie, pointing toward the ChatGPT logo with her other hand raised. Panel 9: CapCut — woman wearing a black jacket, making a playful hand gesture. Panel 10: Instagram — woman holding a smartphone, wearing a beige jacket over a white shirt. Panel 11: Facebook — woman wearing a blue denim jacket, leaning naturally against the Facebook logo. Panel 12: Notes — woman wearing a yellow hoodie, holding a pen and notebook with “Big Dreams...” written on it. Keep the same face, hairstyle and identity throughout all panels. Highly detailed, polished 3D app-card aesthetic, realistic facial features, glossy rounded edges, vibrant app-themed backgrounds, professional composition, sharp details, premium social-media graphic, 4K.
-```
-
-By [@Arzoo12sh](https://x.com/Arzoo12sh/status/2106691981275721881)
-
----
-
-<a id="evolink-illustration-case-160"></a>
-
-## Mediterranean Courtyard Warrior Woman
-
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2101261852772818944.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2101261852772818944.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-A cinematic fantasy female warrior standing confidently in an ancient Mediterranean-inspired temple courtyard, full-body view, long flowing brown hair styled with subtle braids, soft natural facial features, calm but powerful expression, wearing an elegant dark charcoal-green warrior dress with a fitted leather-like bodice, metallic shoulder details, wide brown belt around the waist, deep red sash hanging from the waist, dark flowing skirt, subtle ancient warrior accessories, holding a tall black spear vertically in her right hand with a large dark green metallic spearhead, realistic skin texture, detailed fabric and leather textures, graceful heroic posture, ancient stone architecture in the background, massive carved archway, tall stone columns, turquoise water pools surrounding the courtyard, bright daylight, cinematic sunlight, soft atmospheric haze, dramatic lens flare, shallow depth of field, epic fantasy movie aesthetic, photorealistic, ultra-detailed, realistic proportions, natural lighting, 35mm cinematic photography, high-end film still, 8K detail, no text, no logo, no watermark.
-```
-
-By [@Arzoo12sh](https://x.com/Arzoo12sh/status/2101262041533313249)
-
----
-
 <a id="freestylefly-case-41"></a>
 
 ## 插画艺术风格创作
@@ -323,6 +291,38 @@ A macOS app icon for an app named 'Bichon Shop'. A single squircle icon with smo
 ```
 
 By [@iamaiistudio](https://x.com/iamaiistudio/status/2071923809788285125)
+
+---
+
+<a id="prompthero-7ee3e9f9ac7"></a>
+
+## A minimalist design of the word &quot;PROMPTHERO&quot; forme\.\.\.
+
+<a href="https://cdn.prompthero.com/ovfy1m3snqw4a4wn1wojjaetnik0-ideogram-2-a-minimalist-design-of-the-word-prompthero-formed-by-a-single-piece-of-red-rope-against-a-white-background-the.png"><img src="https://cdn.prompthero.com/ovfy1m3snqw4a4wn1wojjaetnik0-ideogram-2-a-minimalist-design-of-the-word-prompthero-formed-by-a-single-piece-of-red-rope-against-a-white-background-the.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+A minimalist design of the word "PROMPTHERO" formed by a single piece of red rope against a white background. The rope twists and bends intricately to create the letterforms without breaks. The negative space within the loops helps define the letters. The design symbolizes connection and strength. The composition is simple yet detailed. The overall aesthetic is elegant, meaningful, and creatively brilliant, offering a unique interpretation of love through the art of knots.
+```
+
+By [@chorlo](https://prompthero.com/prompt/7ee3e9f9ac7-ideogram-2-a-minimalist-design-of-the-word-prompthero-formed-by-a-single-piece-of-red-rope-against-a-white-background-the)
+
+---
+
+<a id="prompthero-20e7743dd91"></a>
+
+## An icon design, 3D, transportation icon, bicycles,\.\.\.
+
+<a href="https://cdn.prompthero.com/p0eefi6x80effwi35hivexodpsud-midjourney-niji-mode-an-icon-design-3d-transportation-icon-bicycles-soft-light-nostalgic-feeling-pastel-colors-vintage-colors-muted-colors-classic-jerry-pinkney.png"><img src="https://cdn.prompthero.com/p0eefi6x80effwi35hivexodpsud-midjourney-niji-mode-an-icon-design-3d-transportation-icon-bicycles-soft-light-nostalgic-feeling-pastel-colors-vintage-colors-muted-colors-classic-jerry-pinkney.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+An icon design, 3D, transportation icon, bicycles, soft light, nostalgic feeling, pastel colors, vintage colors, muted colors, classic, Jerry Pinkney, clean and neutral background::2 --q 2 --niji 5
+```
+
+[Source](https://prompthero.com/prompt/20e7743dd91-midjourney-niji-mode-an-icon-design-3d-transportation-icon-bicycles-soft-light-nostalgic-feeling-pastel-colors-vintage-colors-muted-colors-classic-jerry-pinkney)
 
 ---
 

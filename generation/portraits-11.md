@@ -1,90 +1,10 @@
 # portraits
 
-[← Home](../README.md) · Page 11 / 36
+[← Home](../README.md) · Page 11 / 35
 
-[1](portraits.md) · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · [5](portraits-5.md) · [6](portraits-6.md) · [7](portraits-7.md) · [8](portraits-8.md) · [9](portraits-9.md) · [10](portraits-10.md) · **11** · [12](portraits-12.md) · [13](portraits-13.md) · [14](portraits-14.md) · [15](portraits-15.md) · [16](portraits-16.md) · [17](portraits-17.md) · [18](portraits-18.md) · [19](portraits-19.md) · [20](portraits-20.md) · [21](portraits-21.md) · [22](portraits-22.md) · [23](portraits-23.md) · [24](portraits-24.md) · [25](portraits-25.md) · [26](portraits-26.md) · [27](portraits-27.md) · [28](portraits-28.md) · [29](portraits-29.md) · [30](portraits-30.md) · [31](portraits-31.md) · [32](portraits-32.md) · [33](portraits-33.md) · [34](portraits-34.md) · [35](portraits-35.md) · [36](portraits-36.md)
+[1](portraits.md) · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · [5](portraits-5.md) · [6](portraits-6.md) · [7](portraits-7.md) · [8](portraits-8.md) · [9](portraits-9.md) · [10](portraits-10.md) · **11** · [12](portraits-12.md) · [13](portraits-13.md) · [14](portraits-14.md) · [15](portraits-15.md) · [16](portraits-16.md) · [17](portraits-17.md) · [18](portraits-18.md) · [19](portraits-19.md) · [20](portraits-20.md) · [21](portraits-21.md) · [22](portraits-22.md) · [23](portraits-23.md) · [24](portraits-24.md) · [25](portraits-25.md) · [26](portraits-26.md) · [27](portraits-27.md) · [28](portraits-28.md) · [29](portraits-29.md) · [30](portraits-30.md) · [31](portraits-31.md) · [32](portraits-32.md) · [33](portraits-33.md) · [34](portraits-34.md) · [35](portraits-35.md)
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
-
-<a id="prompthero-7aacefb6af5"></a>
-
-## \[Edgy medium fashion photo\] \+ \[Model wearing a whi\.\.\.
-
-<a href="https://cdn.prompthero.com/q0o4bol932arvazb0atm1kjogxwr-flux-flux-11-pro-ultra-edgy-medium-fashion-photo-model-wearing-a-white-puffer-jacket-with-subtle-quilting-oversized-dark-teal-faux-fur-hood-reflective.jpg"><img src="https://cdn.prompthero.com/q0o4bol932arvazb0atm1kjogxwr-flux-flux-11-pro-ultra-edgy-medium-fashion-photo-model-wearing-a-white-puffer-jacket-with-subtle-quilting-oversized-dark-teal-faux-fur-hood-reflective.jpg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-[Edgy medium fashion photo] + [Model wearing a white puffer jacket with subtle quilting, oversized dark teal faux fur hood, reflective ski goggles with a purple gradient lens, and bright yellow quilted gloves with exaggerated padding. The textures of the outfit are luxurious and bold, creating a winter-sport-inspired aesthetic.] [Female model with wet-effect blond curly hair framing her face, neutral expression, intense gaze.] [Style: High-fashion winterwear by Prada, inspired by contemporary alpine sportswear.] [Location: snow mountain.] [Lighting: sunny light, emphasizing texture and materials.] [Camera: Fashion photography with Canon EOS 5D Mark IV.] [Details: Hyperrealistic details, polished textures, sharp focus on materials and accessories.] --v 6.1
-```
-
-By [@chorlo](https://prompthero.com/prompt/7aacefb6af5-flux-flux-11-pro-ultra-edgy-medium-fashion-photo-model-wearing-a-white-puffer-jacket-with-subtle-quilting-oversized-dark-teal-faux-fur-hood-reflective)
-
----
-
-<a id="prompthero-7ae913f5c1c"></a>
-
-## editorial photography, male model, 50mm f/1\.2 RF l\.\.\.
-
-<a href="https://cdn.prompthero.com/41ju9v8tp67gu096s5vc7gpxo01w-midjourney-7-editorial-photography-male-model-50mm-f12-rf-lens-f28-set-1160s-iso-100-gradient-neon-orange-minimalist-street-style-deep.png"><img src="https://cdn.prompthero.com/41ju9v8tp67gu096s5vc7gpxo01w-midjourney-7-editorial-photography-male-model-50mm-f12-rf-lens-f28-set-1160s-iso-100-gradient-neon-orange-minimalist-street-style-deep.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-editorial photography, male model, 50mm f/1.2 RF lens, f/2.8 set, 1/160s, iso 100, gradient neon orange, minimalist street style, deep orange atmospheric lighting, lights at ceiling, overhead softbox at 3200K, full-body confidence pose with silhouette, dramatic contrast, photorealistic quality, rich detailing --ar 9:16 --raw --profile otwluoo --stylize 200
-```
-
-By [@Grayve](https://prompthero.com/prompt/7ae913f5c1c-midjourney-7-editorial-photography-male-model-50mm-f12-rf-lens-f28-set-1160s-iso-100-gradient-neon-orange-minimalist-street-style-deep)
-
----
-
-<a id="prompthero-7b8b927a109"></a>
-
-## medium shot, centered, sharp focus, Full body, 1gi\.\.\.
-
-<a href="https://cdn.prompthero.com/tuapuudqbqevk851idz3v7thi77d-dreamshaper-5-baked-vae-medium-shot-centered-sharp-focus-full-body-1girl-hyperdetailed-kimono-fox-ears-perfect-face-white-long-hair-middle-part-anxious.jpg"><img src="https://cdn.prompthero.com/tuapuudqbqevk851idz3v7thi77d-dreamshaper-5-baked-vae-medium-shot-centered-sharp-focus-full-body-1girl-hyperdetailed-kimono-fox-ears-perfect-face-white-long-hair-middle-part-anxious.jpg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-medium shot, centered, sharp focus, Full body, 1girl, hyperdetailed, kimono, fox ears, Perfect face, white long hair, middle part, Anxious, (epic composition, epic proportion, masterpiece, award winning, professional), Colorful glamorous hyperdetailed intricate medieval Japanese city background, vivid colors, Elegant, graceful, HDR, UHD, high res, 64k, cinematic lighting, special effects, hd octane render, professional photograph, studio lighting, trending on artstation,
-```
-
-[Source](https://prompthero.com/prompt/7b8b927a109-dreamshaper-5-baked-vae-medium-shot-centered-sharp-focus-full-body-1girl-hyperdetailed-kimono-fox-ears-perfect-face-white-long-hair-middle-part-anxious)
-
----
-
-<a id="prompthero-7b41ec53ea5"></a>
-
-## photorealistic, wide angle, toe to head compositio\.\.\.
-
-<a href="https://cdn.prompthero.com/jwqic7rzeix91k9mikocl2lo8i-midjourney-shatter-photorealistic-wide-angle-toe-to-head-composition-distorted-street-style-of-fashion-man-model-wearing-gorpcore-outfit-featuring-baggy-ripstop.png"><img src="https://cdn.prompthero.com/jwqic7rzeix91k9mikocl2lo8i-midjourney-shatter-photorealistic-wide-angle-toe-to-head-composition-distorted-street-style-of-fashion-man-model-wearing-gorpcore-outfit-featuring-baggy-ripstop.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-photorealistic, wide angle, toe to head composition, distorted, street style of fashion, man model, wearing gorpcore outfit, featuring baggy ripstop cargo pants, standing in industrial steel scaffolding, highlighting thick bungee cord drawstrings, cinematic natural back lighting, highly detailed fabric texture --ar 9:16 --raw
-```
-
-By [@Grayve](https://prompthero.com/prompt/7b41ec53ea5-midjourney-shatter-photorealistic-wide-angle-toe-to-head-composition-distorted-street-style-of-fashion-man-model-wearing-gorpcore-outfit-featuring-baggy-ripstop)
-
----
-
-<a id="prompthero-7bdbc7468b1"></a>
-
-## the face of a woman with brown eyes, in the style \.\.\.
-
-<a href="https://cdn.prompthero.com/k2hcqrgjw2ncitgcp2xmf5xiizb1-midjourney-6-the-face-of-a-woman-with-brown-eyes-in-the-style-of-yigal-ozeri-light-navy-and-light-gray-patrick.png"><img src="https://cdn.prompthero.com/k2hcqrgjw2ncitgcp2xmf5xiizb1-midjourney-6-the-face-of-a-woman-with-brown-eyes-in-the-style-of-yigal-ozeri-light-navy-and-light-gray-patrick.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-the face of a woman with brown eyes, in the style of yigal ozeri, light navy and light gray, patrick demarchelier, alayna lemmer, focus on joints/connections, caravaggism, studio light --ar 1:2 --stylize 750 --v 6
-```
-
-By [@NorthmoorAI](https://prompthero.com/prompt/7bdbc7468b1-midjourney-6-the-face-of-a-woman-with-brown-eyes-in-the-style-of-yigal-ozeri-light-navy-and-light-gray-patrick)
-
----
 
 <a id="prompthero-7bf6983c9f8"></a>
 
@@ -326,6 +246,86 @@ a close up of a woman with a blue eye shadow on her face, official dior editoria
 
 ---
 
-[1](portraits.md) · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · [5](portraits-5.md) · [6](portraits-6.md) · [7](portraits-7.md) · [8](portraits-8.md) · [9](portraits-9.md) · [10](portraits-10.md) · **11** · [12](portraits-12.md) · [13](portraits-13.md) · [14](portraits-14.md) · [15](portraits-15.md) · [16](portraits-16.md) · [17](portraits-17.md) · [18](portraits-18.md) · [19](portraits-19.md) · [20](portraits-20.md) · [21](portraits-21.md) · [22](portraits-22.md) · [23](portraits-23.md) · [24](portraits-24.md) · [25](portraits-25.md) · [26](portraits-26.md) · [27](portraits-27.md) · [28](portraits-28.md) · [29](portraits-29.md) · [30](portraits-30.md) · [31](portraits-31.md) · [32](portraits-32.md) · [33](portraits-33.md) · [34](portraits-34.md) · [35](portraits-35.md) · [36](portraits-36.md)
+<a id="prompthero-8c1b0191856"></a>
+
+## Super-realistic, photo realism, mesmerizing and vi\.\.\.
+
+<a href="https://cdn.prompthero.com/bk4cef7x8pee95856ksznbemhmbb-flux-flux-11-pro-super-realistic-photo-realism-mesmerizing-and-vivid-colours-depicting-a-dragonfly-delicately-perched-on-a-juicy-strawberry-and-strawberry-flowers.jpg"><img src="https://cdn.prompthero.com/bk4cef7x8pee95856ksznbemhmbb-flux-flux-11-pro-super-realistic-photo-realism-mesmerizing-and-vivid-colours-depicting-a-dragonfly-delicately-perched-on-a-juicy-strawberry-and-strawberry-flowers.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+Super-realistic, photo realism, mesmerizing and vivid colours depicting a dragonfly delicately perched on a juicy strawberry and strawberry flowers setting in small natural pond, surrounded by reflective dew drops. The dragonfly's wings and eyes are intricately detailed, The background is a serene, verdant paradise filled with flora and bokeh effects, The interplay of light and shadow enhances the depth and dimension of this enchanting scene
+```
+
+[Source](https://prompthero.com/prompt/8c1b0191856-flux-flux-11-pro-super-realistic-photo-realism-mesmerizing-and-vivid-colours-depicting-a-dragonfly-delicately-perched-on-a-juicy-strawberry-and-strawberry-flowers)
+
+---
+
+<a id="prompthero-8c689fb42d8"></a>
+
+## Realistic fashion model
+
+<a href="https://cdn.prompthero.com/cu8lubvbefdma273w98z0xdhq8oc-realistic-vision-v20-v20-realistic-fashion-model.png"><img src="https://cdn.prompthero.com/cu8lubvbefdma273w98z0xdhq8oc-realistic-vision-v20-v20-realistic-fashion-model.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+Super-Realistic potrait of Nataliya Aleksandrov standing at photoshoot location, worn a detailed texture chic casual outfit,Cinematic lighting,accent lighting,35mm lens, beautiful
+```
+
+[Source](https://prompthero.com/prompt/8c689fb42d8-realistic-vision-v20-v20-realistic-fashion-model)
+
+---
+
+<a id="prompthero-8cad65d3141"></a>
+
+## masterpiece, highest quality, solo focus, \(perfect\.\.\.
+
+<a href="https://cdn.prompthero.com/ymlw52ppvm4gru0jiqfbn68cncpi-realistic-vision-v20-v20-masterpiece-highest-quality-solo-focus-perfect-face11-high-detail11-romantic-15-long-white-hair13-novel-cover-delicate-legs-1-delicate.png"><img src="https://cdn.prompthero.com/ymlw52ppvm4gru0jiqfbn68cncpi-realistic-vision-v20-v20-masterpiece-highest-quality-solo-focus-perfect-face11-high-detail11-romantic-15-long-white-hair13-novel-cover-delicate-legs-1-delicate.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+masterpiece, highest quality, solo focus, (perfect face:1.1) , (high detail:1.1), (romantic, 1.5), (long White hair:1.3) novel cover, delicate legs, 1 delicate woman, Wearing a beautiful white Victorian dress:1.3, gold jewelry:1.3, long White hair:1.3, holding a music box 1.2), (In a beautiful palace, daytime, bright light:1.3), young Women, longing posture, hyper detailed, digital art, studio quality, smooth render, unreal engine 5 render, octane render, 8K, Girl with European and Korean features
+```
+
+By [@heeyrina](https://prompthero.com/prompt/8cad65d3141-realistic-vision-v20-v20-masterpiece-highest-quality-solo-focus-perfect-face11-high-detail11-romantic-15-long-white-hair13-novel-cover-delicate-legs-1-delicate)
+
+---
+
+<a id="prompthero-8d4dd7e5dd3"></a>
+
+## Movie quality Side view Action scene: Amidst the t\.\.\.
+
+<a href="https://cdn.prompthero.com/ooo4k3f86gxtsihm71g50vbwyq75-flux-flux-11-pro-ultra-movie-quality-side-view-action-scene-amidst-the-tempestuous-caribbean-sea-a-beautiful-but-fierce-and-determined-female-caribbean-pirate.jpg"><img src="https://cdn.prompthero.com/ooo4k3f86gxtsihm71g50vbwyq75-flux-flux-11-pro-ultra-movie-quality-side-view-action-scene-amidst-the-tempestuous-caribbean-sea-a-beautiful-but-fierce-and-determined-female-caribbean-pirate.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+Movie quality Side view Action scene: Amidst the tempestuous Caribbean sea, a beautiful but fierce and determined female caribbean pirate captain with tattoos, dressed as Jack Sparrow, stands atop the swaying mast of a Spanish pirate ship. Her dark eyes blaze with resolve as she leaps into the salty air, both hands grasping the hilt of her saber thrusting her saber into the Kraken monster Below her, the monstrous Kraken—a tangle of writhing tentacles—rears up from the depths, its malevolence aimed squarely at her vessel. But she is undeterred. With a battle cry on her lips, she descends in a horizontal pose, ready to plunge her blade into the head of the ancient sea beast. illuminated by lightning flashes, leaps from the high mast onto the Kraken—a tempest of fury and steel. the shot is a hyper-realistic photo highly detailed
+```
+
+[Source](https://prompthero.com/prompt/8d4dd7e5dd3-flux-flux-11-pro-ultra-movie-quality-side-view-action-scene-amidst-the-tempestuous-caribbean-sea-a-beautiful-but-fierce-and-determined-female-caribbean-pirate)
+
+---
+
+<a id="prompthero-8db6cdbfa3f"></a>
+
+## complex 3d render ultra detailed of a beautiful po\.\.\.
+
+<a href="https://cdn.prompthero.com/v1_e8b229a2e7491e8a687dbe6d80-stable-diffusion-35-large-complex-3d-render-ultra-detailed-of-a-beautiful-porcelain-profile-woman-andriod-facecyborg-robotic-parts-150-mm-beautiful-studio-soft.jpeg"><img src="https://cdn.prompthero.com/v1_e8b229a2e7491e8a687dbe6d80-stable-diffusion-35-large-complex-3d-render-ultra-detailed-of-a-beautiful-porcelain-profile-woman-andriod-facecyborg-robotic-parts-150-mm-beautiful-studio-soft.jpeg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+complex 3d render ultra detailed of a beautiful porcelain profile woman andriod face,cyborg, robotic parts, 150 mm, beautiful studio soft light, rim light, vibrant details, luxurious cyberpunk, lace, one third of her body is human, hyperrealistic, anatomical, facial muscles, cable electric wires,  elegant, beautiful background, octane render, 8k, best quality, masterpiece, illustration, an extremely delicate and beautiful, (realistic, photo-realistic:1.37),Amazing, finely detail, masterpiece,best quality,official art, extremely detailed CG unity 8k wallpaper, absurdres,  full body, sitting,((small body)),((thin leg)) ,(narrow waist:0.8),(((small body)))
+```
+
+By [@jonessmith432](https://prompthero.com/prompt/8db6cdbfa3f-stable-diffusion-35-large-complex-3d-render-ultra-detailed-of-a-beautiful-porcelain-profile-woman-andriod-facecyborg-robotic-parts-150-mm-beautiful-studio-soft)
+
+---
+
+[1](portraits.md) · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · [5](portraits-5.md) · [6](portraits-6.md) · [7](portraits-7.md) · [8](portraits-8.md) · [9](portraits-9.md) · [10](portraits-10.md) · **11** · [12](portraits-12.md) · [13](portraits-13.md) · [14](portraits-14.md) · [15](portraits-15.md) · [16](portraits-16.md) · [17](portraits-17.md) · [18](portraits-18.md) · [19](portraits-19.md) · [20](portraits-20.md) · [21](portraits-21.md) · [22](portraits-22.md) · [23](portraits-23.md) · [24](portraits-24.md) · [25](portraits-25.md) · [26](portraits-26.md) · [27](portraits-27.md) · [28](portraits-28.md) · [29](portraits-29.md) · [30](portraits-30.md) · [31](portraits-31.md) · [32](portraits-32.md) · [33](portraits-33.md) · [34](portraits-34.md) · [35](portraits-35.md)
 
 [← Home](../README.md)

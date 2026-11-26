@@ -6,22 +6,6 @@
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
-<a id="prompthero-79812e8afe4"></a>
-
-## Black and white street photography of an attractiv\.\.\.
-
-<a href="https://cdn.prompthero.com/u1ped2ze935n93hm71qfm5x8l8lw-midjourney-6-black-and-white-street-photography-of-an-attractive-woman-on-the-streets-of-london-shot-by-arriflex-35-bl-camera.png"><img src="https://cdn.prompthero.com/u1ped2ze935n93hm71qfm5x8l8lw-midjourney-6-black-and-white-street-photography-of-an-attractive-woman-on-the-streets-of-london-shot-by-arriflex-35-bl-camera.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-Black and white street photography of an attractive woman on the streets of London, shot by arriflex 35 BL Camera Canon K35 Prime Lenses --chaos 75 --ar 1:2 --personalize yruxpc2 --stylize 750 --v 6.1
-```
-
-By [@NorthmoorAI](https://prompthero.com/prompt/79812e8afe4-midjourney-6-black-and-white-street-photography-of-an-attractive-woman-on-the-streets-of-london-shot-by-arriflex-35-bl-camera)
-
----
-
 <a id="prompthero-289466f3660"></a>
 
 ## minimalist sci-fi, solitary figure in tattered clo\.\.\.

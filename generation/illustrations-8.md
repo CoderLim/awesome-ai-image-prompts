@@ -6,38 +6,6 @@
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
-<a id="prompthero-8887d8e2e22"></a>
-
-## 1 girl, beautiful Korean girl, \(Cute Loose Bob hai\.\.\.
-
-<a href="https://cdn.prompthero.com/rl1ul2i0eqithy4gp45cj83e11ga-stable-diffusion-15-1-girl-beautiful-korean-girl-cute-loose-bob-hair-wearing-a-cropped-hoodie-capri-sweatpants1-5-hands-in-pockets1-5.png"><img src="https://cdn.prompthero.com/rl1ul2i0eqithy4gp45cj83e11ga-stable-diffusion-15-1-girl-beautiful-korean-girl-cute-loose-bob-hair-wearing-a-cropped-hoodie-capri-sweatpants1-5-hands-in-pockets1-5.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-1 girl, beautiful Korean girl, (Cute Loose Bob hair), (wearing a cropped hoodie, capri sweatpants:1. 5), (hands in pockets:1. 5), (red lips:1. 3), (small breasts:1. 3), (toned stomach:1. 3), (eyelashes:1. 2), (aegyo sal:1. 2), beautiful detailed eyes, symmetrical eyes, (detailed face), immersive background, volumetric haze, global illumination, soft lighting, (flowing hair), (bright smile), natural lighting, (realistic:1.5), (lifelike:1.4), (4k, digital art, masterpiece), High detail digital painting, realistic, (top quality), (soft shadows), (best character art), ultra high resolution, highly detailed digital artwork, physically-based rendering, realism with an artistic touch, vibrant colors, f2.2 lens, soft palette, natural beauty.
-```
-
-[Source](https://prompthero.com/prompt/8887d8e2e22-stable-diffusion-15-1-girl-beautiful-korean-girl-cute-loose-bob-hair-wearing-a-cropped-hoodie-capri-sweatpants1-5-hands-in-pockets1-5)
-
----
-
-<a id="prompthero-31602a0be0f"></a>
-
-## far view wide angle shot of an uniform astronaut g\.\.\.
-
-<a href="https://cdn.prompthero.com/hf6ci7htkviadsb4kd2oq50t1mne-stable-diffusion-15-far-view-wide-angle-shot-of-an-uniform-astronaut-girl-inside-spaceship-command-room-viewing-galaxyfar-view-shot-ssci-fi.png"><img src="https://cdn.prompthero.com/hf6ci7htkviadsb4kd2oq50t1mne-stable-diffusion-15-far-view-wide-angle-shot-of-an-uniform-astronaut-girl-inside-spaceship-command-room-viewing-galaxyfar-view-shot-ssci-fi.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-far view wide angle shot of an uniform astronaut girl, inside spaceship command room viewing galaxy,Far view shot, ssci-fi neon light effect flushing and fantasy, intricate and very very beautiful and elegant, highly detailed, digital painting, artstation, concept art, smooth and sharp focus, illustration, art by tian zi and WLOP and alphonse mucha <lora:add_detail:1> <lora:Android18DB:1> <lora:concept_indexfingerstogether-10:1>
-```
-
-[Source](https://prompthero.com/prompt/31602a0be0f-stable-diffusion-15-far-view-wide-angle-shot-of-an-uniform-astronaut-girl-inside-spaceship-command-room-viewing-galaxyfar-view-shot-ssci-fi)
-
----
-
 <a id="prompthero-40027a6637d"></a>
 
 ## stunning sketch portrait by Michelangelo, charcoal\.\.\.
@@ -323,6 +291,38 @@ dragon ball, portrait of goku, in the style of street art aesthetic, cute cartoo
 ```
 
 By [@NorthmoorAI](https://prompthero.com/prompt/a7e59376ba2-midjourney-niji-v6-dragon-ball-portrait-of-goku-in-the-style-of-street-art-aesthetic-cute-cartoonish-designs-photo-realistic-techniques-dark-red)
+
+---
+
+<a id="prompthero-a269cec95f6"></a>
+
+## Heroes? Where?
+
+<a href="https://cdn.prompthero.com/yfhete5bfmaogho1q7gm1ikpasq2-flux-pro-11-ultra-heroes-where.png"><img src="https://cdn.prompthero.com/yfhete5bfmaogho1q7gm1ikpasq2-flux-pro-11-ultra-heroes-where.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+A nightmarish, distorted figure resembling Batman stands against a dark background. The figure's suit is primarily white or light gray, giving it a ghostly appearance. A large, jagged, blood-red bat symbol is emblazoned across its chest, and streaks of red are visible on the gauntlets, belt, and edges of the cape. The most unsettling feature is the face â a pale, gaunt visage contorted into a wide, Joker-like grin. The overall impression is one of a twisted, corrupted version of the iconic superhero.] [Horror, dark fantasy, character design] [Inspired by the darker interpretations of Batman, such as those seen in the works of artists like Greg Capullo or Scott Snyder. Also reminiscent of the unsettling character designs of artists like Dave McKean.] [Digital painting with a loose, expressive style, emphasizing rough brushstrokes and textured details. The color palette is stark and dramatic, with the white and red contrasting sharply against the dark background. The lighting is dim and atmospheric, adding to the sense of unease. The figure's pose and expression convey a sense of menace and instability
+```
+
+[Source](https://prompthero.com/prompt/a269cec95f6-flux-pro-11-ultra-heroes-where)
+
+---
+
+<a id="prompthero-a783bb790f8"></a>
+
+## Dramatic portrait of a masked mystic in a shadowy \.\.\.
+
+<a href="https://cdn.prompthero.com/dr5gidqfw7nh2mhrdnowemiuqwma-flux-flux-11-pro-dramatic-portrait-of-a-masked-mystic-in-a-shadowy-baroque-chamber-wearing-an-intricate-dark-cape-pale-mask-with-sharp.jpg"><img src="https://cdn.prompthero.com/dr5gidqfw7nh2mhrdnowemiuqwma-flux-flux-11-pro-dramatic-portrait-of-a-masked-mystic-in-a-shadowy-baroque-chamber-wearing-an-intricate-dark-cape-pale-mask-with-sharp.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+Dramatic portrait of a masked mystic in a shadowy baroque chamber, wearing an intricate dark cape, pale mask with sharp features, single candle casting dramatic shadows, ornate gilded mirror reflecting mysterious atmosphere, deep blue-black color scheme, cinematic chiaroscuro lighting, Gothic Renaissance aesthetic, ethereal and enigmatic composition, hyperdetailed, photorealistic render Negative Prompt: blurry, low quality, worst quality, bad anatomy, distorted, cartoon, anime, sketch, drawing Style Preset: cinematic Seed: 42 Steps: 50 CFG Scale: 7.5
+```
+
+[Source](https://prompthero.com/prompt/a783bb790f8-flux-flux-11-pro-dramatic-portrait-of-a-masked-mystic-in-a-shadowy-baroque-chamber-wearing-an-intricate-dark-cape-pale-mask-with-sharp)
 
 ---
 

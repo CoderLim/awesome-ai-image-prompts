@@ -1,90 +1,10 @@
 # portraits
 
-[← Home](../README.md) · Page 5 / 36
+[← Home](../README.md) · Page 5 / 35
 
-[1](portraits.md) · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · **5** · [6](portraits-6.md) · [7](portraits-7.md) · [8](portraits-8.md) · [9](portraits-9.md) · [10](portraits-10.md) · [11](portraits-11.md) · [12](portraits-12.md) · [13](portraits-13.md) · [14](portraits-14.md) · [15](portraits-15.md) · [16](portraits-16.md) · [17](portraits-17.md) · [18](portraits-18.md) · [19](portraits-19.md) · [20](portraits-20.md) · [21](portraits-21.md) · [22](portraits-22.md) · [23](portraits-23.md) · [24](portraits-24.md) · [25](portraits-25.md) · [26](portraits-26.md) · [27](portraits-27.md) · [28](portraits-28.md) · [29](portraits-29.md) · [30](portraits-30.md) · [31](portraits-31.md) · [32](portraits-32.md) · [33](portraits-33.md) · [34](portraits-34.md) · [35](portraits-35.md) · [36](portraits-36.md)
+[1](portraits.md) · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · **5** · [6](portraits-6.md) · [7](portraits-7.md) · [8](portraits-8.md) · [9](portraits-9.md) · [10](portraits-10.md) · [11](portraits-11.md) · [12](portraits-12.md) · [13](portraits-13.md) · [14](portraits-14.md) · [15](portraits-15.md) · [16](portraits-16.md) · [17](portraits-17.md) · [18](portraits-18.md) · [19](portraits-19.md) · [20](portraits-20.md) · [21](portraits-21.md) · [22](portraits-22.md) · [23](portraits-23.md) · [24](portraits-24.md) · [25](portraits-25.md) · [26](portraits-26.md) · [27](portraits-27.md) · [28](portraits-28.md) · [29](portraits-29.md) · [30](portraits-30.md) · [31](portraits-31.md) · [32](portraits-32.md) · [33](portraits-33.md) · [34](portraits-34.md) · [35](portraits-35.md)
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
-
-<a id="freestylefly-case-483"></a>
-
-## 都市飞鸟街头肖像
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case483.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case483.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-A stylish cinematic portrait of a confident young woman leaning casually against a textured urban concrete wall, surrounded by vibrant flying birds including blue macaws, white seagulls, and a colorful hummingbird. Black graffiti-style bird silhouettes painted on the wall create an artistic street-art vibe. She is wearing a trendy all-white outfit — oversized denim jacket, fitted graphic tee, skinny jeans, and black sneakers. Soft natural daylight, realistic shadows, ultra-detailed fashion photography, urban luxury aesthetic, sharp facial features, glossy hair, high-end editorial style, dynamic composition, photorealistic, depth of field, 8K quality.
-```
-
-By [@HaniaAi12](https://x.com/HaniaAi12/status/2060216757797978245)
-
----
-
-<a id="freestylefly-case-484"></a>
-
-## 霓虹涂鸦黑白人像
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case484.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case484.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-High-contrast black-and-white urban portrait of a curly-haired bearded man in a black leather jacket, holding two fingers near glowing neon green eyes, with bold graffiti doodles, colorful paint splashes, abstract arrows, crown sketches, and grunge street-art textures on a concrete background, cinematic lighting, edgy graphic poster style.
-```
-
-By [@harboriis](https://x.com/harboriis/status/2060208419811074350)
-
----
-
-<a id="freestylefly-case-488"></a>
-
-## 屋顶球场日落人像
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case488.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case488.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Ultra-realistic, high-quality portrait of a stylish young South Asian woman standing gracefully on a colorful urban rooftop basketball court at sunset. She is standing in a relaxed and elegant posture with her weight naturally shifted to one leg, shoulders relaxed, and one hand gently resting by her side while the other lightly touches the edge of her varsity jacket. Her body is slightly angled toward the camera, creating a confident yet sophisticated appearance. She is looking directly into the camera with a warm, natural smile, projecting confidence, charm, and effortless style.
-```
-
-By [@HaniaAi12](https://x.com/HaniaAi12/status/2061313477696954522)
-
----
-
-<a id="freestylefly-case-490"></a>
-
-## 双重曝光时尚肖像
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case490.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case490.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-A cinematic double-exposure fashion portrait featuring a woman with the uploaded face used 100% as reference, wearing stylish metallic aviator sunglasses. The composition artfully blends a large, semi-transparent close-up profile of her face on the left with her full-body figure standing confidently on the right. She wears an open, light-grey textured corduroy shirt layered over a dark grey fitted t-shirt and dark denim jeans, posing naturally with her hands in her pockets. She has long, flowing dark hair, flawless skin, elegant feminine features, and a confident, sophisticated expression. The background is a minimalist neutral studio setting, allowing the double-exposure composition to remain the visual focus. The color grading features a sophisticated warm desaturated sepia and charcoal palette, enhanced by a soft golden-orange light-leak flare in the upper-right corner. Professional 85mm lens photography with high-contrast yet soft cinematic lighting accentuates the fabric textures, facial details, and layered portrait effect. Ultra-realistic skin texture, luxury fashion-editorial aesthetic, premium magazine-cover quality, subtle film grain, cinematic depth, elegant shadows, refined color grading, modern retro-inspired styling, masterpiece composition, ultra-sharp focus, visually striking storytelling, high-end commercial fashion campaign look.
-```
-
-By [@Anaya\_Ai12](https://x.com/Anaya_Ai12/status/2062191518975508678)
-
----
-
-<a id="freestylefly-case-491"></a>
-
-## Y2K 高楼浴室镜面自拍
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case491.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case491.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-A moody late-night mirror selfie captured in a luxury high-rise bathroom overlooking a glowing city skyline. A young woman with long, slightly messy black hair leans forward over a marble sink, partially obscuring one eye with loose strands. The photo is taken through a smudged mirror with visible dust particles, water spots, and imperfections, creating an authentic raw aesthetic. A powerful direct camera flash explodes in the frame, producing harsh highlights, lens flare, and a nostalgic early-2000s digital camera look. The bathroom counter is cluttered with luxury cosmetics, skincare products, jewelry, a smartphone, and everyday personal items, adding a lived-in editorial feel. Reflections of neon-lit skyscrapers and hotel windows shimmer in the background, emphasizing an urban nightlife atmosphere. Soft pale skin tones contrast against dark clothing and black hair. The composition feels intimate, candid, and effortlessly cool. Style: Y2K flash photography, candid mirror selfie, Korean editorial aesthetic, indie sleaze, hotel bathroom scene, luxury lifestyle, cinematic nightlife, disposable camera look, grainy texture, flash burn, realistic skin texture, shallow depth of field, authentic imperfections, viral Pinterest mood, high-fashion casual energy, raw unfiltered photography. Camera: direct flash, compact digital camera, 35mm equivalent, harsh lighting, slight motion blur, visible noise, natural color grading, vertical composition, ultra-realistic, high detail.
-```
-
-By [@jzaib4269](https://x.com/jzaib4269/status/2062184740849930384)
-
----
 
 <a id="freestylefly-case-492"></a>
 
@@ -326,6 +246,86 @@ By [@chorlo](https://prompthero.com/prompt/0c109f6343c-flux-pro-shadowed-model-a
 
 ---
 
-[1](portraits.md) · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · **5** · [6](portraits-6.md) · [7](portraits-7.md) · [8](portraits-8.md) · [9](portraits-9.md) · [10](portraits-10.md) · [11](portraits-11.md) · [12](portraits-12.md) · [13](portraits-13.md) · [14](portraits-14.md) · [15](portraits-15.md) · [16](portraits-16.md) · [17](portraits-17.md) · [18](portraits-18.md) · [19](portraits-19.md) · [20](portraits-20.md) · [21](portraits-21.md) · [22](portraits-22.md) · [23](portraits-23.md) · [24](portraits-24.md) · [25](portraits-25.md) · [26](portraits-26.md) · [27](portraits-27.md) · [28](portraits-28.md) · [29](portraits-29.md) · [30](portraits-30.md) · [31](portraits-31.md) · [32](portraits-32.md) · [33](portraits-33.md) · [34](portraits-34.md) · [35](portraits-35.md) · [36](portraits-36.md)
+<a id="prompthero-0ca1a0f9e15"></a>
+
+## Gone Bad: Lola
+
+<a href="https://cdn.prompthero.com/qaqxin117uk2lvgal2e4sa95hryv-stable-diffusion-xl-base-09-gone-bad-lola.jpg"><img src="https://cdn.prompthero.com/qaqxin117uk2lvgal2e4sa95hryv-stable-diffusion-xl-base-09-gone-bad-lola.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+Close-up photo of a pretty girl, with reading glass, choker, necklace accessories, tank top, curvy body, wavy black hair, blue eyes, full lips, (natural skin texture, hyperrealism, soft light, sharp), indoor, plain background
+```
+
+By [@abyishot](https://prompthero.com/prompt/0ca1a0f9e15-stable-diffusion-xl-base-09-gone-bad-lola)
+
+---
+
+<a id="prompthero-0ca2623eead"></a>
+
+## A black and white photograph of the face of an att\.\.\.
+
+<a href="https://cdn.prompthero.com/ukpa2y4sqngk2vsdv419zgw23eh0-midjourney-6-a-black-and-white-photograph-of-the-face-of-an-attractive-woman-focus-on-her-lips-illuminated-by-dark-shadows.png"><img src="https://cdn.prompthero.com/ukpa2y4sqngk2vsdv419zgw23eh0-midjourney-6-a-black-and-white-photograph-of-the-face-of-an-attractive-woman-focus-on-her-lips-illuminated-by-dark-shadows.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+A black and white photograph of the face of an attractive woman, focus on her lips, illuminated by dark shadows, designed for use in advertising or fashion magazine cover, with high contrast, minimalist, elegant, mysterious, modern style, artistic, iconic, stylish, simple, stylized, beautiful, captivating, powerful, striking, in the style of minimalism --ar 71:128 --stylize 750 --v 6
+```
+
+By [@NorthmoorAI](https://prompthero.com/prompt/0ca2623eead-midjourney-6-a-black-and-white-photograph-of-the-face-of-an-attractive-woman-focus-on-her-lips-illuminated-by-dark-shadows)
+
+---
+
+<a id="prompthero-0cc18598e48"></a>
+
+## &quot;The Cosmic Eternal Empress of Celestia&quot;
+
+<a href="https://cdn.prompthero.com/8t0thhgctzkapqfylbo5b2839hvk-stable-diffusion-21-768-the-cosmic-eternal-empress-of-celestia.jpg"><img src="https://cdn.prompthero.com/8t0thhgctzkapqfylbo5b2839hvk-stable-diffusion-21-768-the-cosmic-eternal-empress-of-celestia.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+((a portrait)) in the (fantasy style of luis royo and H.R Giger)), of an ancient female ethereal otherwordly queen, attractive, white ash smooth skin, athletic, (muted colors) conveying powerful emotions, the scene features a close up portrait theme setting, very detailed, bright, highly detailed digital art, features (magic, sorcery), imaginative Fantasy and Science Fiction themes alongside Mythological, all brought together in an epic setting that evokes a sense of adventure,  truly impressive graphics, with intricate compositions and fantastical subject matter that transport viewers into a world of surreal imagination, highly detailed, art by julie bell))) finely detailed, (((masterpiece, good quality, intricate details, high quality, best quality, 8k, in focus, sharp focus)))intricate details))), ((((masterpiece, good quality
+```
+
+[Source](https://prompthero.com/prompt/0cc18598e48-stable-diffusion-21-768-the-cosmic-eternal-empress-of-celestia)
+
+---
+
+<a id="prompthero-0cca9e9cb09"></a>
+
+## Sora Kingdom of Hearts
+
+<a href="https://cdn.prompthero.com/yilicedi2ez9twzp434mazow56k8-stable-diffusion-xl-base-09-sora-kingdom-of-hearts.jpg"><img src="https://cdn.prompthero.com/yilicedi2ez9twzp434mazow56k8-stable-diffusion-xl-base-09-sora-kingdom-of-hearts.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+A full body photo shot of Iconic character Sora from Kingdom of hearts, wearing his iconic adventurous clothes, wearing a backpack with a silver crown marking, motion-standing while holding his famous golden bioluminescent keyblade, ((Kingdom Hearts)) keyblade, against the backdrop of the a photoshoot studio::4 3D rendering, high-quality, detailed, accurate representation, 3D Studio Max, V-Ray, professional, corporate, award-winning, byStanley Artgerm Lau, realistic materials, accurate dimensions
+```
+
+By [@Atheist](https://prompthero.com/prompt/0cca9e9cb09-stable-diffusion-xl-base-09-sora-kingdom-of-hearts)
+
+---
+
+<a id="prompthero-0d856612b94"></a>
+
+## Cinematic vertical video \(9:16\), single Korean fem\.\.\.
+
+<a href="https://cdn.prompthero.com/dvc98r1wur9vo0ji7ounaloiqe-cinematic-vertical-video-916-single-korean-female-model-posing-in-a-studio-solid-orange-backdrop-velvet-texture-evenly-lit-with.png"><img src="https://cdn.prompthero.com/dvc98r1wur9vo0ji7ounaloiqe-cinematic-vertical-video-916-single-korean-female-model-posing-in-a-studio-solid-orange-backdrop-velvet-texture-evenly-lit-with.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+Cinematic vertical video (9:16), single Korean female model posing in a studio. Solid orange backdrop (velvet texture, evenly lit with a warm sodium-vapor glow). Close-up medium shot. Camera mimics a full-frame lens at f/1.4 — extremely shallow depth of field, creamy bokeh, model’s face and upper body tack-sharp while background melts into soft orange abstraction. Model wears minimalist neutral-toned clothing (cream or charcoal) to contrast with orange. Subtle slow-motion movement: she tilts her head, runs fingers through her hair, or blinks slowly with a serene, confident expression. Lighting from a single key light slightly high and to the side, creating gentle shadows on her jawline and collarbone. Warm color grading leaning into amber and terracotta, slight film grain, no lens flare. --style raw --ar 9:16
+```
+
+[Source](https://prompthero.com/prompt/0d856612b94-cinematic-vertical-video-916-single-korean-female-model-posing-in-a-studio-solid-orange-backdrop-velvet-texture-evenly-lit-with)
+
+---
+
+[1](portraits.md) · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · **5** · [6](portraits-6.md) · [7](portraits-7.md) · [8](portraits-8.md) · [9](portraits-9.md) · [10](portraits-10.md) · [11](portraits-11.md) · [12](portraits-12.md) · [13](portraits-13.md) · [14](portraits-14.md) · [15](portraits-15.md) · [16](portraits-16.md) · [17](portraits-17.md) · [18](portraits-18.md) · [19](portraits-19.md) · [20](portraits-20.md) · [21](portraits-21.md) · [22](portraits-22.md) · [23](portraits-23.md) · [24](portraits-24.md) · [25](portraits-25.md) · [26](portraits-26.md) · [27](portraits-27.md) · [28](portraits-28.md) · [29](portraits-29.md) · [30](portraits-30.md) · [31](portraits-31.md) · [32](portraits-32.md) · [33](portraits-33.md) · [34](portraits-34.md) · [35](portraits-35.md)
 
 [← Home](../README.md)

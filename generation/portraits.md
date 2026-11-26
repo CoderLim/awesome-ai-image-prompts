@@ -1,8 +1,8 @@
 # portraits
 
-[← Home](../README.md) · Page 1 / 36
+[← Home](../README.md) · Page 1 / 35
 
-**1** · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · [5](portraits-5.md) · [6](portraits-6.md) · [7](portraits-7.md) · [8](portraits-8.md) · [9](portraits-9.md) · [10](portraits-10.md) · [11](portraits-11.md) · [12](portraits-12.md) · [13](portraits-13.md) · [14](portraits-14.md) · [15](portraits-15.md) · [16](portraits-16.md) · [17](portraits-17.md) · [18](portraits-18.md) · [19](portraits-19.md) · [20](portraits-20.md) · [21](portraits-21.md) · [22](portraits-22.md) · [23](portraits-23.md) · [24](portraits-24.md) · [25](portraits-25.md) · [26](portraits-26.md) · [27](portraits-27.md) · [28](portraits-28.md) · [29](portraits-29.md) · [30](portraits-30.md) · [31](portraits-31.md) · [32](portraits-32.md) · [33](portraits-33.md) · [34](portraits-34.md) · [35](portraits-35.md) · [36](portraits-36.md)
+**1** · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · [5](portraits-5.md) · [6](portraits-6.md) · [7](portraits-7.md) · [8](portraits-8.md) · [9](portraits-9.md) · [10](portraits-10.md) · [11](portraits-11.md) · [12](portraits-12.md) · [13](portraits-13.md) · [14](portraits-14.md) · [15](portraits-15.md) · [16](portraits-16.md) · [17](portraits-17.md) · [18](portraits-18.md) · [19](portraits-19.md) · [20](portraits-20.md) · [21](portraits-21.md) · [22](portraits-22.md) · [23](portraits-23.md) · [24](portraits-24.md) · [25](portraits-25.md) · [26](portraits-26.md) · [27](portraits-27.md) · [28](portraits-28.md) · [29](portraits-29.md) · [30](portraits-30.md) · [31](portraits-31.md) · [32](portraits-32.md) · [33](portraits-33.md) · [34](portraits-34.md) · [35](portraits-35.md)
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
@@ -35,22 +35,6 @@ A cinematic ultra-realistic fashion campaign in Piazza del Duomo, Milan, during 
 ```
 
 By [@Arzoo12sh](https://x.com/Arzoo12sh/status/2102710721633198208)
-
----
-
-<a id="evolink-gpt-image-2-6-case-254"></a>
-
-## Tea Portrait Version Comparison
-
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/2118147098709274624.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/2118147098709274624.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-a realistic photo of a woman holding a cup of tea inside her home
-```
-
-By [@v3rt0x\_](https://x.com/v3rt0x_/status/2118147596891901957)
 
 ---
 
@@ -326,6 +310,22 @@ By [@chatgptpaglu](https://x.com/chatgptpaglu/status/2105219509791678731)
 
 ---
 
-**1** · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · [5](portraits-5.md) · [6](portraits-6.md) · [7](portraits-7.md) · [8](portraits-8.md) · [9](portraits-9.md) · [10](portraits-10.md) · [11](portraits-11.md) · [12](portraits-12.md) · [13](portraits-13.md) · [14](portraits-14.md) · [15](portraits-15.md) · [16](portraits-16.md) · [17](portraits-17.md) · [18](portraits-18.md) · [19](portraits-19.md) · [20](portraits-20.md) · [21](portraits-21.md) · [22](portraits-22.md) · [23](portraits-23.md) · [24](portraits-24.md) · [25](portraits-25.md) · [26](portraits-26.md) · [27](portraits-27.md) · [28](portraits-28.md) · [29](portraits-29.md) · [30](portraits-30.md) · [31](portraits-31.md) · [32](portraits-32.md) · [33](portraits-33.md) · [34](portraits-34.md) · [35](portraits-35.md) · [36](portraits-36.md)
+<a id="evolink-portraits-case-29"></a>
+
+## Twenty-Third Birthday Portrait
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2103789510555549696.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2103789510555549696.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+A stunning Southeast Asian woman with short, wavy chestnut-brown bob hair and soft glam makeup — rosy lips and subtle eye makeup — sits elegantly atop a large 3D sculptural number "23" rendered in creamy white with a warm golden inner frame. The hollow interiors of both digits are filled with clusters of metallic balloons in champagne gold, pearl white, and blush pink, along with delicate pink roses and soft cherry blossom branches. She wears a sophisticated dark chocolate brown pinstripe sleeveless wide-leg jumpsuit with a neat self-tie bow at the waist, paired with matching dark brown pointed-toe ankle-strap stiletto heels. Her pose is confident and relaxed — one leg crossed, hand resting gently beside her. The background is a clean warm cream/off-white with soft diagonal light streaks creating a luxurious sun-ray shadow effect. The overall mood is chic, celebratory, and editorial — a birthday or milestone portrait with a fashion-forward aesthetic.
+```
+
+By [@HaniaAi12](https://x.com/HaniaAi12/status/2103789528888525224)
+
+---
+
+**1** · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · [5](portraits-5.md) · [6](portraits-6.md) · [7](portraits-7.md) · [8](portraits-8.md) · [9](portraits-9.md) · [10](portraits-10.md) · [11](portraits-11.md) · [12](portraits-12.md) · [13](portraits-13.md) · [14](portraits-14.md) · [15](portraits-15.md) · [16](portraits-16.md) · [17](portraits-17.md) · [18](portraits-18.md) · [19](portraits-19.md) · [20](portraits-20.md) · [21](portraits-21.md) · [22](portraits-22.md) · [23](portraits-23.md) · [24](portraits-24.md) · [25](portraits-25.md) · [26](portraits-26.md) · [27](portraits-27.md) · [28](portraits-28.md) · [29](portraits-29.md) · [30](portraits-30.md) · [31](portraits-31.md) · [32](portraits-32.md) · [33](portraits-33.md) · [34](portraits-34.md) · [35](portraits-35.md)
 
 [← Home](../README.md)

@@ -6,38 +6,6 @@
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
-<a id="prompthero-ccb6ff79eb9"></a>
-
-## with a beautiful view, misty forest, night, high d\.\.\.
-
-<a href="https://cdn.prompthero.com/t5p6zouoms0lwxz0ghb5nteks4j0-openjourney-15-with-a-beautiful-view-misty-forest-night-high-detail-digital-painting-artstation-concept-art-smooth-clear-focus-a-girl-in.png"><img src="https://cdn.prompthero.com/t5p6zouoms0lwxz0ghb5nteks4j0-openjourney-15-with-a-beautiful-view-misty-forest-night-high-detail-digital-painting-artstation-concept-art-smooth-clear-focus-a-girl-in.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-with a beautiful view, misty forest, night, high detail, digital painting, artstation, concept art, smooth, clear focus, a girl in a carved red kokoshnik with a beautiful golden ornament, in a Russian folk dress illustration, works by the author: artgerm, Greg Rutkowski and Alphonse of the Fly, 8 thousand, A real perfect female anatomy , hyper details , photobashing, epic cinematic, octane render, extremely high detail, post processing, denoise, upbeta, q 2, v 4
-```
-
-[Source](https://prompthero.com/prompt/ccb6ff79eb9-openjourney-15-with-a-beautiful-view-misty-forest-night-high-detail-digital-painting-artstation-concept-art-smooth-clear-focus-a-girl-in)
-
----
-
-<a id="prompthero-cd8da2f2364"></a>
-
-## digital wallpaper portrait of a spartan warrior, n\.\.\.
-
-<a href="https://cdn.prompthero.com/c8445gziiwa3t33gw7j8yhvbw3gv-stable-diffusion-xl-base-09-digital-wallpaper-portrait-of-a-spartan-warrior-no-face-gloomy-background-brutal-majestic-dramatic-digital-painting-expressionism-emotionally-profound-close.png"><img src="https://cdn.prompthero.com/c8445gziiwa3t33gw7j8yhvbw3gv-stable-diffusion-xl-base-09-digital-wallpaper-portrait-of-a-spartan-warrior-no-face-gloomy-background-brutal-majestic-dramatic-digital-painting-expressionism-emotionally-profound-close.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-digital wallpaper portrait of a spartan warrior, no face, gloomy background, brutal, majestic, dramatic, digital painting, expressionism, emotionally profound, close up, unforgettable, high quality, splatter and drip painting technique
-```
-
-By [@ArtEnthusiast](https://prompthero.com/prompt/cd8da2f2364-stable-diffusion-xl-base-09-digital-wallpaper-portrait-of-a-spartan-warrior-no-face-gloomy-background-brutal-majestic-dramatic-digital-painting-expressionism-emotionally-profound-close)
-
----
-
 <a id="prompthero-cd10dfb8254"></a>
 
 ## a woman with long red hair in a gold painting, in \.\.\.
@@ -323,6 +291,38 @@ Envision a fully body portrait of  humpty dumpty  type characteras   super hero 
 ```
 
 [Source](https://prompthero.com/prompt/e1402cc9d9e-flux-flux-11-pro-envision-a-fully-body-portrait-of-humpty-dumpty-type-characteras-super-hero-lying-on-the-ground-rising-from-the-ashes)
+
+---
+
+<a id="prompthero-e0972704df5"></a>
+
+## \(masterpiece\), \(best quality\), ultra-detailed, ani\.\.\.
+
+<a href="https://cdn.prompthero.com/147g2qb6d58gd2jn8xudmrxe87zt-stable-diffusion-15-masterpiece-best-quality-ultra-detailed-anime-style-solo-female-cyborg-long-purple-braided-hair-glowing-green-eyes-pale-skin-curvy.jpg"><img src="https://cdn.prompthero.com/147g2qb6d58gd2jn8xudmrxe87zt-stable-diffusion-15-masterpiece-best-quality-ultra-detailed-anime-style-solo-female-cyborg-long-purple-braided-hair-glowing-green-eyes-pale-skin-curvy.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+(masterpiece), (best quality), ultra-detailed, anime style, solo female cyborg, long purple braided hair, glowing green eyes, pale skin, curvy and athletic body, wearing a futuristic armored bodysuit with white plating, black carbon fiber tech segments, gold-accented joints, glowing circuits on arms and spine, fully mechanical arms with visible articulation and embedded tech, glowing neural ports on her back and neck, sleek biomechanical spine, confident and calculating expression, high-tech visor retracted above one eye, cinematic lighting, dark cyberpunk city background with glowing signage, wet surfaces reflecting light, full-body portrait, final form, Deus Ex aesthetic, 768x1152 resolution
+```
+
+[Source](https://prompthero.com/prompt/e0972704df5-stable-diffusion-15-masterpiece-best-quality-ultra-detailed-anime-style-solo-female-cyborg-long-purple-braided-hair-glowing-green-eyes-pale-skin-curvy)
+
+---
+
+<a id="prompthero-ea78f9c1c8c"></a>
+
+## front view portrait photograph, negative contrast \.\.\.
+
+<a href="https://cdn.prompthero.com/tibvi4u9a8ekbjrz7gx7cxbw45gs-dreamshaper-5-baked-vae-front-view-portrait-photograph-negative-contrast-backgroundglowing-sunshine-natural-light-very-strong-front-lightmasterpiece-best-quality-hyperdetailed-intricate-ultra-realistic.jpg"><img src="https://cdn.prompthero.com/tibvi4u9a8ekbjrz7gx7cxbw45gs-dreamshaper-5-baked-vae-front-view-portrait-photograph-negative-contrast-backgroundglowing-sunshine-natural-light-very-strong-front-lightmasterpiece-best-quality-hyperdetailed-intricate-ultra-realistic.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+front view portrait photograph, negative contrast background,glowing sunshine, natural light, very strong front light,masterpiece best quality hyperdetailed intricate ultra realistic flat color pastel mix 2D vector 1 cute girl hopeful, cheerful red cheek, hyperdetailed intricate flat color flying fluffy contrast symmetrical pink and blue hair, beautiful detailed gloss lips, soft smooth white skin, hyperdetailed beautiful intricate anime blue eyes,masterpiece best quality hyperdetailed intricate clothes,Mary Cassatt style painting,hyperdetailed many glowing tiny yellow papers floating in the air,precise hard pencil strokes, precise brush strokes,album cover art, clean art, colorful, symmetrical, 2D vector art, 2D illustration art, flat color art, 128K resolution, glamorous, digital art, digital painting, colorful ink illustration, hyperdetailed sharp focus, digital illustration, perfect composition,
+```
+
+[Source](https://prompthero.com/prompt/ea78f9c1c8c-dreamshaper-5-baked-vae-front-view-portrait-photograph-negative-contrast-backgroundglowing-sunshine-natural-light-very-strong-front-lightmasterpiece-best-quality-hyperdetailed-intricate-ultra-realistic)
 
 ---
 

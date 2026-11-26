@@ -1,90 +1,10 @@
 # portraits
 
-[← Home](../README.md) · Page 24 / 36
+[← Home](../README.md) · Page 24 / 35
 
-[1](portraits.md) · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · [5](portraits-5.md) · [6](portraits-6.md) · [7](portraits-7.md) · [8](portraits-8.md) · [9](portraits-9.md) · [10](portraits-10.md) · [11](portraits-11.md) · [12](portraits-12.md) · [13](portraits-13.md) · [14](portraits-14.md) · [15](portraits-15.md) · [16](portraits-16.md) · [17](portraits-17.md) · [18](portraits-18.md) · [19](portraits-19.md) · [20](portraits-20.md) · [21](portraits-21.md) · [22](portraits-22.md) · [23](portraits-23.md) · **24** · [25](portraits-25.md) · [26](portraits-26.md) · [27](portraits-27.md) · [28](portraits-28.md) · [29](portraits-29.md) · [30](portraits-30.md) · [31](portraits-31.md) · [32](portraits-32.md) · [33](portraits-33.md) · [34](portraits-34.md) · [35](portraits-35.md) · [36](portraits-36.md)
+[1](portraits.md) · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · [5](portraits-5.md) · [6](portraits-6.md) · [7](portraits-7.md) · [8](portraits-8.md) · [9](portraits-9.md) · [10](portraits-10.md) · [11](portraits-11.md) · [12](portraits-12.md) · [13](portraits-13.md) · [14](portraits-14.md) · [15](portraits-15.md) · [16](portraits-16.md) · [17](portraits-17.md) · [18](portraits-18.md) · [19](portraits-19.md) · [20](portraits-20.md) · [21](portraits-21.md) · [22](portraits-22.md) · [23](portraits-23.md) · **24** · [25](portraits-25.md) · [26](portraits-26.md) · [27](portraits-27.md) · [28](portraits-28.md) · [29](portraits-29.md) · [30](portraits-30.md) · [31](portraits-31.md) · [32](portraits-32.md) · [33](portraits-33.md) · [34](portraits-34.md) · [35](portraits-35.md)
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
-
-<a id="prompthero-0883267fc2d"></a>
-
-## A beautiful woman with robotic features as a close\.\.\.
-
-<a href="https://cdn.prompthero.com/6ziwii9z81qcmd524ba2qzmb80xd-midjourney-6-a-beautiful-woman-with-robotic-features-as-a-closeup-shot-of-the-face-and-neck-with-circuitry-on-her-skin.png"><img src="https://cdn.prompthero.com/6ziwii9z81qcmd524ba2qzmb80xd-midjourney-6-a-beautiful-woman-with-robotic-features-as-a-closeup-shot-of-the-face-and-neck-with-circuitry-on-her-skin.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-A beautiful woman with robotic features as a closeup shot of the face and neck, with circuitry on her skin, clean lines, minimal details, cyberpunk, portrayed in profile with a red background, futuristic design, in a 2D flat composition, red tones, digital art in the style of Studio Ghibli --ar 1:2 --stylize 750
-```
-
-By [@NorthmoorAI](https://prompthero.com/prompt/0883267fc2d-midjourney-6-a-beautiful-woman-with-robotic-features-as-a-closeup-shot-of-the-face-and-neck-with-circuitry-on-her-skin)
-
----
-
-<a id="prompthero-892323d1377"></a>
-
-## woman walking up a beach carrying a surfboard unde\.\.\.
-
-<a href="https://cdn.prompthero.com/lmx53eqyuaz1v3njgv97mxfvj3qv-flux-flux-11-pro-woman-walking-up-a-beach-carrying-a-surfboard-under-her-arm-long-wavy-brunette-hair-blows-in-the-wind-wearing.jpg"><img src="https://cdn.prompthero.com/lmx53eqyuaz1v3njgv97mxfvj3qv-flux-flux-11-pro-woman-walking-up-a-beach-carrying-a-surfboard-under-her-arm-long-wavy-brunette-hair-blows-in-the-wind-wearing.jpg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-woman walking up a beach carrying a surfboard under her arm, long wavy brunette hair blows in the wind, wearing a wetsuit too tight, long sleeves, morning sunlight reflects off the water, heavy surf
-```
-
-[Source](https://prompthero.com/prompt/892323d1377-flux-flux-11-pro-woman-walking-up-a-beach-carrying-a-surfboard-under-her-arm-long-wavy-brunette-hair-blows-in-the-wind-wearing)
-
----
-
-<a id="prompthero-1704243f6a4"></a>
-
-## Blue Orc Native Mammoth rider
-
-<a href="https://cdn.prompthero.com/12eermwxxjr6zn2we1eetfkxq2oe-sd-xl-v10-refiner-vae-fix-blue-orc-native-mammoth-rider.jpg"><img src="https://cdn.prompthero.com/12eermwxxjr6zn2we1eetfkxq2oe-sd-xl-v10-refiner-vae-fix-blue-orc-native-mammoth-rider.jpg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-A Full Body photo shot of a blue native orc warrior, riding on his majestic sharp tusk mammoth, beautiful face, vivid colors, elegant, concept art, sharp focus, digital art, Hyper-realistic, 8K resolution, Unreal Engine 5, Highly Detailed, HD, Dramatic Lighting by Brom, trending on Artstation, hyperdetailed eyes, hyperrealism extremely detailed epic masterwork ((masterpiece)), Hyperrealistic, splash art, concept art, mid shot, intricately detailed, color depth, dramatic, 2/3 face angle, side light, colorful background
-```
-
-By [@Atheist](https://prompthero.com/prompt/1704243f6a4-sd-xl-v10-refiner-vae-fix-blue-orc-native-mammoth-rider)
-
----
-
-<a id="prompthero-01838103e71"></a>
-
-## woman in the field, in the style of outdoor fashio\.\.\.
-
-<a href="https://cdn.prompthero.com/4kzv8i2l8d9c5omdvr3nv6c8n7xb-midjourney-6-woman-in-the-field-in-the-style-of-outdoor-fashion-shoot-natural-lighting-scottish-landscapes-light-navy-and-dark-brownshot.jpg"><img src="https://cdn.prompthero.com/4kzv8i2l8d9c5omdvr3nv6c8n7xb-midjourney-6-woman-in-the-field-in-the-style-of-outdoor-fashion-shoot-natural-lighting-scottish-landscapes-light-navy-and-dark-brownshot.jpg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-woman in the field, in the style of outdoor fashion shoot, natural lighting, scottish landscapes, light navy and dark brown,shot on a Sony A7III
-```
-
-[Source](https://prompthero.com/prompt/01838103e71-midjourney-6-woman-in-the-field-in-the-style-of-outdoor-fashion-shoot-natural-lighting-scottish-landscapes-light-navy-and-dark-brownshot)
-
----
-
-<a id="prompthero-3072321fc9e"></a>
-
-## high resolution photography, monochrome, evoking t\.\.\.
-
-<a href="https://cdn.prompthero.com/4d2b9wuzs6p5n7rdgrwiis9zojcm-midjourney-6-high-resolution-photography-monochrome-evoking-the-starkness-of-classic-noir-with-an-intimate-psychological-edge-close-up-front-profile-with.png"><img src="https://cdn.prompthero.com/4d2b9wuzs6p5n7rdgrwiis9zojcm-midjourney-6-high-resolution-photography-monochrome-evoking-the-starkness-of-classic-noir-with-an-intimate-psychological-edge-close-up-front-profile-with.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-high resolution photography, monochrome, evoking the starkness of classic noir with an intimate, psychological edge, close-up, front profile with strategic lighting to accentuate features and create depth, black and white digital photography, with a high emphasis on texture and contrast, Canon EOS 5D Mark IV, preferred for its full-frame sensor that captures detailed gradations in tone, Canon EF 85mm f/1.2L II USM, offering a shallow depth of field and exceptional bokeh, manual mode, using a single off-camera flash with a snoot to direct a focused beam of light, camera on a tripod for stability, male in his thirties, with a beard and a gaze that holds an introspective stillness, beard is well-groomed, catching highlights where the light grazes, and his eyes are deep-set, underlined by a furrowed brow, indicative of concentration or internal conflict, minimalist, to avoid distracting from the subject's emotive presence, he absence of a background ensures that all narrative weight is carried by the subject's expression and the play of light on skin, void of context, the darkness envelops the subject, focusing attention on the stark contrast of light and shadow across his face, low key, with a singular source that creates a diagonal divide across the face, symbolizing the chiaroscuro technique's thematic play between revelation and concealment, the light catches on the ridges of the subject's facial features; the thoughtful position of his hand, fingers resting gently yet firmly against his chin, adds to the introspective quality, portrait invites the viewer into a moment of private reflection, punctuated by a profound silence that speaks volumes, serving as a canvas for the viewer's own interpretations of light, shadow, and the layers of the human condition, ultra realistic, UHD, many details --ar 9:16 --style raw --stylize 600
-```
-
-By [@Grayve](https://prompthero.com/prompt/3072321fc9e-midjourney-6-high-resolution-photography-monochrome-evoking-the-starkness-of-classic-noir-with-an-intimate-psychological-edge-close-up-front-profile-with)
-
----
 
 <a id="prompthero-4500233a013"></a>
 
@@ -326,6 +246,86 @@ By [@jefharris](https://prompthero.com/prompt/509832595d6-midjourney-52-barbie-s
 
 ---
 
-[1](portraits.md) · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · [5](portraits-5.md) · [6](portraits-6.md) · [7](portraits-7.md) · [8](portraits-8.md) · [9](portraits-9.md) · [10](portraits-10.md) · [11](portraits-11.md) · [12](portraits-12.md) · [13](portraits-13.md) · [14](portraits-14.md) · [15](portraits-15.md) · [16](portraits-16.md) · [17](portraits-17.md) · [18](portraits-18.md) · [19](portraits-19.md) · [20](portraits-20.md) · [21](portraits-21.md) · [22](portraits-22.md) · [23](portraits-23.md) · **24** · [25](portraits-25.md) · [26](portraits-26.md) · [27](portraits-27.md) · [28](portraits-28.md) · [29](portraits-29.md) · [30](portraits-30.md) · [31](portraits-31.md) · [32](portraits-32.md) · [33](portraits-33.md) · [34](portraits-34.md) · [35](portraits-35.md) · [36](portraits-36.md)
+<a id="prompthero-5009403378a"></a>
+
+## glitch art with linear distortion, horizontal scan\.\.\.
+
+<a href="https://cdn.prompthero.com/zwmeusc0mwgllt8b24b1a0jonfbv-midjourney-61-glitch-art-with-linear-distortion-horizontal-scan-lines-and-digital-interference-vertical-portrait-of-single-human-silhouette-minimal-grey-background.png"><img src="https://cdn.prompthero.com/zwmeusc0mwgllt8b24b1a0jonfbv-midjourney-61-glitch-art-with-linear-distortion-horizontal-scan-lines-and-digital-interference-vertical-portrait-of-single-human-silhouette-minimal-grey-background.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+glitch art with linear distortion, horizontal scan lines and digital interference, vertical portrait of single human silhouette, minimal grey background, horizontally distorted figure with scan line interference pattern, soft diffused lighting, corrupted data aesthetic with noise texture and horizontal artifacts --ar 9:16 --quality 2 --style raw --profile ue2yzjl --stylize 300 --v 6.1
+```
+
+By [@Grayve](https://prompthero.com/prompt/5009403378a-midjourney-61-glitch-art-with-linear-distortion-horizontal-scan-lines-and-digital-interference-vertical-portrait-of-single-human-silhouette-minimal-grey-background)
+
+---
+
+<a id="prompthero-35859341517"></a>
+
+## hot blond hair girl, looking at viewer, portrait, \.\.\.
+
+<a href="https://cdn.prompthero.com/q66bcvr7vhqe1azn5quwvm4gioob-dreamshaper-7-hot-blond-hair-girl-looking-at-viewer-portrait-photography-detailed-skin-realistic-photo-realistic-8k-highly-detailed-full-length-frame.png"><img src="https://cdn.prompthero.com/q66bcvr7vhqe1azn5quwvm4gioob-dreamshaper-7-hot-blond-hair-girl-looking-at-viewer-portrait-photography-detailed-skin-realistic-photo-realistic-8k-highly-detailed-full-length-frame.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+hot blond hair girl, looking at viewer, portrait, photography, detailed skin, realistic, photo-realistic, 8k, highly detailed, full length frame, piercing, diffused soft lighting, shallow depth of field, sharp focus, hyperrealism, cinematic lighting
+```
+
+[Source](https://prompthero.com/prompt/35859341517-dreamshaper-7-hot-blond-hair-girl-looking-at-viewer-portrait-photography-detailed-skin-realistic-photo-realistic-8k-highly-detailed-full-length-frame)
+
+---
+
+<a id="prompthero-80643316741"></a>
+
+## Generate a photorealistic portrait of a middle-age\.\.\.
+
+<a href="https://cdn.prompthero.com/zzyg7yy9xo5hcbjuhvzykp8otto9-chatgpt-image-gpt-4o-generate-a-photorealistic-portrait-of-a-middle-aged-adult-male-radiating-wisdom-and-affable-confidence-his-presence-is-captivating-a.png"><img src="https://cdn.prompthero.com/zzyg7yy9xo5hcbjuhvzykp8otto9-chatgpt-image-gpt-4o-generate-a-photorealistic-portrait-of-a-middle-aged-adult-male-radiating-wisdom-and-affable-confidence-his-presence-is-captivating-a.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+Generate a photorealistic portrait of a middle-aged adult male, radiating wisdom and affable confidence. His presence is captivating, a blend of lived experience and open friendliness, with a smile that resonates with a deep understanding and gentle kindness. His hair, peppered with grey, is neatly groomed and styled with a dignified, yet effortless flair, signaling a man who values appearance but not vanity. Upon his face rest contemporary, rectangular glasses with a subtle frame, contributing to his scholarly yet accessible visage. They frame his eyes, which are a rich, warm brown, and brim with stories, inviting the viewer into his world with a single glance. He is dressed in a smart, dark-colored blazer that speaks of his professional acumen, layered over a crisp maroon shirt that adds a touch of approachable elegance to his appearance. The lighting caresses his face, soft yet defined, to reveal the honest textures of his life-etched skin, the slight creases around his eyes that hint at years of laughter and concern, and the faintest impression of stubble along a strong jawline, alluding to his everyday humanity. Every aspect of his visage, from the calculated casualness of his attire to the considered set of his clear glasses, is carefully curated to project the image of a man who is as nurturing as he is knowledgeable, as grounded as he is inspiring. The ambiance surrounding him is one of understated sophistication, the kind that fosters trust and admiration.
+```
+
+By [@robiness](https://prompthero.com/prompt/80643316741-chatgpt-image-gpt-4o-generate-a-photorealistic-portrait-of-a-middle-aged-adult-male-radiating-wisdom-and-affable-confidence-his-presence-is-captivating-a)
+
+---
+
+<a id="prompthero-a1a594c08d4"></a>
+
+## large format, Street fashion shot from a distance \.\.\.
+
+<a href="https://cdn.prompthero.com/35zey3kie21h3nxn4rpnekmstau9-flux-flux1-dev-large-format-street-fashion-shot-from-a-distance-photo-of-a-24-year-old-montenegrin-italian-female-classic-hollywood-beauty.jpeg"><img src="https://cdn.prompthero.com/35zey3kie21h3nxn4rpnekmstau9-flux-flux1-dev-large-format-street-fashion-shot-from-a-distance-photo-of-a-24-year-old-montenegrin-italian-female-classic-hollywood-beauty.jpeg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+large format, Street fashion shot from a distance photo of a 24-year-old Montenegrin-Italian female classic Hollywood beauty with a warm and inviting expression. She has Light beige skin with subtle freckles across the cheeks and shoulders. The skin pores and texture are clearly visible and in focus. Her Triangular eyes, Deep-set, light brown eyes, framed by long, elegant eyelashes. Her haircut is Feathered layers, haircolor is . Her eyebrows are Tapered with a peak shaped, complementing her delicate facial features. Her body is Tight, flat stomach with visible muscle grooves, small breast, toned abs, Female Bodybuilding style. Her upper body clothing is with an "edera" label sewn onto the front. Her midriff is clearly visible, Her lower body clothing is She is positioned on the left side in the frame by the rule of thirds. She strikes a dramatic pose, one leg extended forward with arms wide, as if celebrating a moment, creating an energetic scene. . In the background A modern subway station with sleek, polished metal panels, glowing LED signs, and long escalators descending into the underground, creating a futuristic and urban vibe.. The scene is lighted using Bright, daylight filtering through a botanical garden, providing lush greenery and vibrant colors that enhance colorful outfits for a fresh, lively look.. the model is lighted with soft natural lighting in the style of Yu Ngiang
+```
+
+By [@AkiraS](https://prompthero.com/prompt/a1a594c08d4-flux-flux1-dev-large-format-street-fashion-shot-from-a-distance-photo-of-a-24-year-old-montenegrin-italian-female-classic-hollywood-beauty)
+
+---
+
+<a id="prompthero-a01e078991c"></a>
+
+## a woman with long, dark hair and horns, wearing a \.\.\.
+
+<a href="https://cdn.prompthero.com/wgb5sdpg1k6xseuxmgnu1vxarkco-flux-flux-11-pro-a-woman-with-long-dark-hair-and-horns-wearing-a-brown-dress-set-against-a-dark-smoky-background-with-bats.jpg"><img src="https://cdn.prompthero.com/wgb5sdpg1k6xseuxmgnu1vxarkco-flux-flux-11-pro-a-woman-with-long-dark-hair-and-horns-wearing-a-brown-dress-set-against-a-dark-smoky-background-with-bats.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+a woman with long, dark hair and horns, wearing a brown dress, set against a dark, smoky background with bats flying around her. - Her hair is long and dark, with loose waves framing her face. - Her attire consists of a brown dress that complements her dark hair and horns. - The background is dark and smoky, with bats flying around her, adding to the eerie atmosphere. - The lighting is dim, with a full moon shining behind her, casting an ethereal glow. - The camera perspective is from below, looking up at the woman, emphasizing her powerful presence. - The style is fantasy art, with a focus on dramatic lighting and bold colors. - The camera used is likely a digital SLR or mirrorless camera, with a wide-angle lens to capture the expansive background.
+```
+
+[Source](https://prompthero.com/prompt/a01e078991c-flux-flux-11-pro-a-woman-with-long-dark-hair-and-horns-wearing-a-brown-dress-set-against-a-dark-smoky-background-with-bats)
+
+---
+
+[1](portraits.md) · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · [5](portraits-5.md) · [6](portraits-6.md) · [7](portraits-7.md) · [8](portraits-8.md) · [9](portraits-9.md) · [10](portraits-10.md) · [11](portraits-11.md) · [12](portraits-12.md) · [13](portraits-13.md) · [14](portraits-14.md) · [15](portraits-15.md) · [16](portraits-16.md) · [17](portraits-17.md) · [18](portraits-18.md) · [19](portraits-19.md) · [20](portraits-20.md) · [21](portraits-21.md) · [22](portraits-22.md) · [23](portraits-23.md) · **24** · [25](portraits-25.md) · [26](portraits-26.md) · [27](portraits-27.md) · [28](portraits-28.md) · [29](portraits-29.md) · [30](portraits-30.md) · [31](portraits-31.md) · [32](portraits-32.md) · [33](portraits-33.md) · [34](portraits-34.md) · [35](portraits-35.md)
 
 [← Home](../README.md)

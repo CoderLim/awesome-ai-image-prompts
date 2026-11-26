@@ -294,22 +294,6 @@ By [@sayaka\_aiart](https://github.com/freestylefly/awesome-gpt-image-2/blob/099
 
 ---
 
-<a id="freestylefly-case-186"></a>
-
-## 奇幻RPG百件像素风道具图鉴
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case186.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case186.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-[中文] 创建一个包含100种不同奇幻RPG物品的10×10网格，以经典像素艺术风格渲染（16位或32位精灵图美学，让人联想到SNES/GBA时代的日式RPG）。每个物品应出现在其独立的方形瓷砖中，下方带有简短清晰的标签。在白色背景上保持网格整洁。使每个物品在视觉上都有所区分，并且每个标签拼写正确。使用清晰的像素边缘、每个精灵图有限的调色板，以及用于阴影的微妙抖动。 使用这些行主题： 第1行：剑与刀刃 第2行：盾牌与盔甲 第3行：弓、弩与远程武器 第4行：法杖、魔杖与魔法焦点 第5行：药水、灵药与烧瓶 第6行：卷轴、典籍与法术书 第7行：戒指、护身符与附魔小饰品 第8行：头盔、王冠与头饰 第9行：钥匙、遗物与任务物品 第10行：宝石、符文与制作材料 将每个瓷砖显示为干净背景方形上居中的物品精灵图，渲染为经典的库存图标——你在奇幻RPG菜单中会看到的那种。保持整体风格一致、连贯，并让人联想到备受喜爱的复古奇幻RPG——迷人、细节丰富，且在小尺寸下易于辨认。 [English] Create a 10 × 10 grid of 100 different fantasy RPG items rendered in classic pixel art style (16-bit or 32-bit sprite aesthetic, reminiscent of SNES/GBA-era JRPGs). Each item should appear in its own square tile with a short clear label underneath. Keep the grid neat on a white background. Make every item visually distinct and every label correctly spelled. Use crisp pixel edges, limited palette per sprite, and subtle dithering for shading. Use these row themes: Row 1: swords and blades Row 2: shields and armor Row 3: bows, crossbows, and ranged weapons Row 4: staves, wands, and magical foci Row 5: potions, elixirs, and flasks Row 6: scrolls, tomes, and spellbooks Row 7: rings, amulets, and enchanted trinkets Row 8: helmets, crowns, and headgear Row 9: keys, relics, and quest items Row 10: gems, runes, and crafting materials Show each tile as a centered item sprite on a clean background square, rendered as a classic inventory icon — the kind you'd see in a fantasy RPG menu. Keep the overall style consistent, cohesive, and reminiscent of beloved retro fantasy RPGs — charming, detailed, and instantly readable at small sizes.
-```
-
-By [@ProperPrompter](https://x.com/ProperPrompter/status/2046534215311970694)
-
----
-
 <a id="freestylefly-case-215"></a>
 
 ## 西方艺术演进像素博物馆
@@ -323,6 +307,22 @@ By [@ProperPrompter](https://x.com/ProperPrompter/status/2046534215311970694)
 ```
 
 By [@GeekCatX](https://x.com/GeekCatX/status/2046172416716759171)
+
+---
+
+<a id="freestylefly-case-231"></a>
+
+## 疾风起狂草艺术字体设计
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case231.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case231.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+[中文] 创意艺术字体“纵有疾风起”，秀丽笔手写风格，整体文字横版排列，具有强烈视觉冲击力； 深度融合手写书法笔意，笔触带毛笔书写的粗犷洒脱，如挥毫泼墨的肆意劲道； 起收笔的飞白，顿挫，尽显促销的火爆张力，文字的形态打破规整，笔画的粗细变化； dutch angle，营造出动感冲刺的气势，字形呈奔放之势； 重心上扬如蓄势待发，笔画的伸展，穿插毫无拘束，似全力冲刺的劲道； 整体架构疏密交织，紧密处如促销热潮的汹涌，留白处似优惠间隙的呼吸感； 纯净黑色背景打底，完美契合热烈氛围，艺术字的形态与色彩酣畅传递。 [English] Creative artistic typography "Zong You Ji Feng Qi", hand-written style with a fine brush, overall text arranged horizontally, with strong visual impact; Deeply integrated with the essence of handwritten calligraphy, the brushstrokes carry the rugged and free-spirited nature of brush writing, like the unrestrained vigor of splashing ink; The flying white and pauses at the start and end of the strokes fully display the explosive tension of a promotion, the form of the text breaks away from neatness, with variations in the thickness of the strokes; dutch angle, creating a dynamic sprinting momentum, the font shape shows a bold and unrestrained trend; The center of gravity rises like being ready to launch, the stretching and interlacing of the strokes are completely unconstrained, like the vigor of a full-force sprint; The overall structure is intertwined with density and sparseness, the tight parts are like the surging of a promotional craze, and the blank spaces are like the breathing sense during promotional gaps; Pure black background as the base, perfectly fitting the passionate atmosphere, the form and color of the artistic typography are conveyed with full expressiveness.
+```
+
+By [OpenNana](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-231)
 
 ---
 

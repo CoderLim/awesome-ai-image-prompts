@@ -1,90 +1,10 @@
 # portraits
 
-[← Home](../README.md) · Page 29 / 36
+[← Home](../README.md) · Page 29 / 35
 
-[1](portraits.md) · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · [5](portraits-5.md) · [6](portraits-6.md) · [7](portraits-7.md) · [8](portraits-8.md) · [9](portraits-9.md) · [10](portraits-10.md) · [11](portraits-11.md) · [12](portraits-12.md) · [13](portraits-13.md) · [14](portraits-14.md) · [15](portraits-15.md) · [16](portraits-16.md) · [17](portraits-17.md) · [18](portraits-18.md) · [19](portraits-19.md) · [20](portraits-20.md) · [21](portraits-21.md) · [22](portraits-22.md) · [23](portraits-23.md) · [24](portraits-24.md) · [25](portraits-25.md) · [26](portraits-26.md) · [27](portraits-27.md) · [28](portraits-28.md) · **29** · [30](portraits-30.md) · [31](portraits-31.md) · [32](portraits-32.md) · [33](portraits-33.md) · [34](portraits-34.md) · [35](portraits-35.md) · [36](portraits-36.md)
+[1](portraits.md) · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · [5](portraits-5.md) · [6](portraits-6.md) · [7](portraits-7.md) · [8](portraits-8.md) · [9](portraits-9.md) · [10](portraits-10.md) · [11](portraits-11.md) · [12](portraits-12.md) · [13](portraits-13.md) · [14](portraits-14.md) · [15](portraits-15.md) · [16](portraits-16.md) · [17](portraits-17.md) · [18](portraits-18.md) · [19](portraits-19.md) · [20](portraits-20.md) · [21](portraits-21.md) · [22](portraits-22.md) · [23](portraits-23.md) · [24](portraits-24.md) · [25](portraits-25.md) · [26](portraits-26.md) · [27](portraits-27.md) · [28](portraits-28.md) · **29** · [30](portraits-30.md) · [31](portraits-31.md) · [32](portraits-32.md) · [33](portraits-33.md) · [34](portraits-34.md) · [35](portraits-35.md)
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
-
-<a id="prompthero-c0cdf8ec0f7"></a>
-
-## woman wearing a cyberpunk style shiny black helmet\.\.\.
-
-<a href="https://cdn.prompthero.com/sgal4q2hrgf1b1dm7b7pmc48krrh-midjourney-6-woman-wearing-a-cyberpunk-style-shiny-black-helmet-with-robotic-features-the-reflection-on-her-face-is-made-of-glowing.png"><img src="https://cdn.prompthero.com/sgal4q2hrgf1b1dm7b7pmc48krrh-midjourney-6-woman-wearing-a-cyberpunk-style-shiny-black-helmet-with-robotic-features-the-reflection-on-her-face-is-made-of-glowing.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-woman wearing a cyberpunk style shiny black helmet with robotic features, the reflection on her face is made of glowing golden wires with intricate details, hyper realistic photography in the style of editorial pose, photorealistic, 8k, high render --v 6.0 --ar 9:16
-```
-
-[Source](https://prompthero.com/prompt/c0cdf8ec0f7-midjourney-6-woman-wearing-a-cyberpunk-style-shiny-black-helmet-with-robotic-features-the-reflection-on-her-face-is-made-of-glowing)
-
----
-
-<a id="prompthero-c0e78bf78ea"></a>
-
-## A teen girl in a futuristic cyber armor\.
-
-<a href="https://cdn.prompthero.com/0zrvcg0u3ntoj0k9jxevyr6xznhh-stable-diffusion-15-a-teen-girl-in-a-futuristic-cyber-armor.jpg"><img src="https://cdn.prompthero.com/0zrvcg0u3ntoj0k9jxevyr6xznhh-stable-diffusion-15-a-teen-girl-in-a-futuristic-cyber-armor.jpg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-8K, (masterpiece*high detailed*highres), (portrait shot), sharp focus, soft lighting, robotic skull, futuristic, cyber city in the background, <lora:3DMM_V11:0.8>
-```
-
-[Source](https://prompthero.com/prompt/c0e78bf78ea-stable-diffusion-15-a-teen-girl-in-a-futuristic-cyber-armor)
-
----
-
-<a id="prompthero-c0eeb7d5daa"></a>
-
-## medium close-up photograph of a perky young woman \.\.\.
-
-<a href="https://cdn.prompthero.com/xt6s1jdlfnshyzkvqicuobv3niy4-flux-flux1-dev-medium-close-up-photograph-of-a-perky-young-woman-with-messy-black-hair-wearing-a-designer-sequin-bra-an-unbuttoned.png"><img src="https://cdn.prompthero.com/xt6s1jdlfnshyzkvqicuobv3niy4-flux-flux1-dev-medium-close-up-photograph-of-a-perky-young-woman-with-messy-black-hair-wearing-a-designer-sequin-bra-an-unbuttoned.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-medium close-up photograph of a perky young woman with messy black hair, wearing a designer sequin bra, an unbuttoned blouse, hoop earrings, necklace, her clothes are disheveled from an evening out on the town, lipstick, dark sparkling eye shadow, makeup, but she is very energetic, late night, dark, outdoors in the city, extremely intricate details, masterpiece, enhanced contrast, highly detailed skin
-```
-
-[Source](https://prompthero.com/prompt/c0eeb7d5daa-flux-flux1-dev-medium-close-up-photograph-of-a-perky-young-woman-with-messy-black-hair-wearing-a-designer-sequin-bra-an-unbuttoned)
-
----
-
-<a id="prompthero-c1b35b6950b"></a>
-
-## a girl, light dress, strong wind, long pink hair, \.\.\.
-
-<a href="https://cdn.prompthero.com/516a2vtmn8fweskh9miqjuzr2lku-deliberate-v2-a-girl-light-dress-strong-wind-long-pink-hair-apterus-style13-dark-shot14-80mm-soft-light-sharp-exposure-blend-medium.png"><img src="https://cdn.prompthero.com/516a2vtmn8fweskh9miqjuzr2lku-deliberate-v2-a-girl-light-dress-strong-wind-long-pink-hair-apterus-style13-dark-shot14-80mm-soft-light-sharp-exposure-blend-medium.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-a girl, light dress, strong wind, long pink hair, (apterus style:1.3), (dark shot:1.4), 80mm, soft light, sharp, exposure blend, medium shot, bokeh, (hdr:1.4), (film grain:1.23), high contrast, (cinematic, teal and orange:0.85), (muted colors, dim colors, soothing tones:1.3), low saturation, (hyperdetailed:1.2), (noir:0.9),(intricate details, hyperdetailed:1.15), modelshoot style, dramatic lighting, minimalistic, flat colors, washed colors, dithering, lineart, (detailed background:1.3), (full body:1.2), (depth of field:1.4), (detailed face:1.1), (photo realistic:1.3), symetrical, octane render, 35mm, bokeh, 9:16, (intricate details:1.12), hdr, (intricate details, hyperdetailed:1.15), (natural skin texture, hyperrealism, soft light, sharp:1.2), (detailed skin:1.2), (natural skin texture, hyperrealism, soft light, sharp:1.2)
-```
-
-By [@heeyrina](https://prompthero.com/prompt/c1b35b6950b-deliberate-v2-a-girl-light-dress-strong-wind-long-pink-hair-apterus-style13-dark-shot14-80mm-soft-light-sharp-exposure-blend-medium)
-
----
-
-<a id="prompthero-c4cd2ad299c"></a>
-
-## \[COMPOSITION &amp; SHOT TYPE\] Close-up, slightly low \.\.\.
-
-<a href="https://cdn.prompthero.com/v1_c0a969309e15e344b6839dfcb0-hero-10-composition-shot-type-close-up-slightly-low-angle-vertical-framing-the-tight-crop-captures-the-upper-body-the-deep-slouching.jpg"><img src="https://cdn.prompthero.com/v1_c0a969309e15e344b6839dfcb0-hero-10-composition-shot-type-close-up-slightly-low-angle-vertical-framing-the-tight-crop-captures-the-upper-body-the-deep-slouching.jpg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-[COMPOSITION & SHOT TYPE] Close-up, slightly low angle, vertical framing. The tight crop captures the upper body, the deep slouching posture, and the wide-spread legs, emphasizing the absurdity and total relaxation of the pose within an intimate frame. [SUBJECTS & ACTION] Deadpool in a state of extreme, unapologetic relaxation. He is deeply slouched, practically sliding down into an ornate, gilded French Revolution-era armchair (Louis XVI style with faded velvet upholstery). His legs are spread wide in a lazy, sprawling, completely unbothered posture, fully owning the space. [WARDROBE & TEXTURES] Deadpool's classic red and black tactical suit, heavily layered with an oversized, hyper-detailed, luxurious bright pink fur coat. The fur is thick, fluffy, and highly textured, with visible individual strands catching the light, creating a stark, absurd contrast with the tactical suit underneath. [ENVIRONMENT & BACKGROUND] A rough, exposed red brick wall directly behind the chair. The gritty, uneven masonry and mortar lines provide a raw, industrial, everyday contrast to the ornate historical chair and the flamboyant pink fur. [LIGHTING & ATMOSPHERE] Soft, ambient directional lighting that highlights the rich, fluffy texture of the pink fur and the gold leaf details of the chair. Deep, relaxed shadows pool in the folds of the slouching posture, enhancing the lazy, heavy vibe. [CAMERA & TECH SPECS] Raw documentary snapshot aesthetic. Sharp focus strictly on the mask's expression and the hyper-detailed fur texture. Natural shallow depth of field that keeps the brick wall recognizable and gritty, but slightly softened. Authentic digital grain. [COLOR GRADING & AESTHETIC] True-to-life colors, raw and unpolished. The vibrant, saturated pink of the fur pops naturally against the muted, earthy reds and browns of the brick wall and the dark tactical suit.
-```
-
-[Source](https://prompthero.com/prompt/c4cd2ad299c-hero-10-composition-shot-type-close-up-slightly-low-angle-vertical-framing-the-tight-crop-captures-the-upper-body-the-deep-slouching)
-
----
 
 <a id="prompthero-c5d64e5dd28"></a>
 
@@ -326,6 +246,86 @@ By [@Atheist](https://prompthero.com/prompt/c50666c57b2-stable-diffusion-xl-base
 
 ---
 
-[1](portraits.md) · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · [5](portraits-5.md) · [6](portraits-6.md) · [7](portraits-7.md) · [8](portraits-8.md) · [9](portraits-9.md) · [10](portraits-10.md) · [11](portraits-11.md) · [12](portraits-12.md) · [13](portraits-13.md) · [14](portraits-14.md) · [15](portraits-15.md) · [16](portraits-16.md) · [17](portraits-17.md) · [18](portraits-18.md) · [19](portraits-19.md) · [20](portraits-20.md) · [21](portraits-21.md) · [22](portraits-22.md) · [23](portraits-23.md) · [24](portraits-24.md) · [25](portraits-25.md) · [26](portraits-26.md) · [27](portraits-27.md) · [28](portraits-28.md) · **29** · [30](portraits-30.md) · [31](portraits-31.md) · [32](portraits-32.md) · [33](portraits-33.md) · [34](portraits-34.md) · [35](portraits-35.md) · [36](portraits-36.md)
+<a id="prompthero-c50741d973f"></a>
+
+## the face of a woman with brown eyes the face of a \.\.\.
+
+<a href="https://cdn.prompthero.com/rmhui3lop7uqilke91aulwrae1jf-midjourney-52-the-face-of-a-woman-with-brown-eyes-the-face-of-a-person-in-the-style-of-yigal-ozeri-light.png"><img src="https://cdn.prompthero.com/rmhui3lop7uqilke91aulwrae1jf-midjourney-52-the-face-of-a-woman-with-brown-eyes-the-face-of-a-person-in-the-style-of-yigal-ozeri-light.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+the face of a woman with brown eyes the face of a person, in the style of yigal ozeri, light navy and light gray, patrick demarchelier, alayna lemmer, focus on joints/connections, caravaggism, studio light --ar 44:65 --stylize 750 --v 5.2
+```
+
+By [@NorthmoorAI](https://prompthero.com/prompt/c50741d973f-midjourney-52-the-face-of-a-woman-with-brown-eyes-the-face-of-a-person-in-the-style-of-yigal-ozeri-light)
+
+---
+
+<a id="prompthero-c60676db61a"></a>
+
+## Ultra-cinematic black-and-white portrait of a youn\.\.\.
+
+<a href="https://cdn.prompthero.com/v1_2b94acd9ac6c1ab51f156582bf-stable-diffusion-35-large-ultra-cinematic-black-and-white-portrait-of-a-young-man-standing-in-a-dark-minimalist-studio-wearing-a-long-black.jpeg"><img src="https://cdn.prompthero.com/v1_2b94acd9ac6c1ab51f156582bf-stable-diffusion-35-large-ultra-cinematic-black-and-white-portrait-of-a-young-man-standing-in-a-dark-minimalist-studio-wearing-a-long-black.jpeg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+Ultra-cinematic black-and-white portrait of a young man standing in a dark minimalist studio, wearing a long black wool overcoat and black knit sweater. Dramatic single spotlight from the upper left corner creates a strong diagonal beam of light across the background and partially illuminates the face. Subject positioned slightly off-center, looking away from the camera with a contemplative, melancholic expression. Sharp jawline, textured messy hair, subtle skin detail, high-fashion editorial styling. Deep shadows, high contrast monochrome photography, moody atmosphere, fine art portrait, luxury fashion campaign aesthetic, minimal composition, negative space, soft falloff lighting, volumetric light beam, chiaroscuro lighting inspired by classic cinema and modern fashion editorials. Professional studio photography, medium shot, 85mm lens, f/2.0, shallow depth of field, ultra-detailed facial features, realistic skin texture, cinematic tonal range, rich blacks, smooth grayscale transitions, premium magazine cover quality, dramatic mood, timeless elegance. Background completely dark except for the diagonal spotlight, subtle haze to enhance the light beam, clean composition, no distractions, no props, photorealistic, masterpiece quality, 8k resolution.
+```
+
+[Source](https://prompthero.com/prompt/c60676db61a-stable-diffusion-35-large-ultra-cinematic-black-and-white-portrait-of-a-young-man-standing-in-a-dark-minimalist-studio-wearing-a-long-black)
+
+---
+
+<a id="prompthero-c9201724801"></a>
+
+## Hunt for Diablo: Aveline
+
+<a href="https://cdn.prompthero.com/3bhdzz57ilkv3haox8tyvqp3lfnv-stable-diffusion-xl-base-09-hunt-for-diablo-aveline.jpg"><img src="https://cdn.prompthero.com/3bhdzz57ilkv3haox8tyvqp3lfnv-stable-diffusion-xl-base-09-hunt-for-diablo-aveline.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+Female shadow assassin, centered, dark smoke, mild dark vignette, bokeh, lens flare, light bloom, bright backlight cinematic lighting, depth of field, HDR, ultra high-detail, high saturation
+```
+
+By [@abyishot](https://prompthero.com/prompt/c9201724801-stable-diffusion-xl-base-09-hunt-for-diablo-aveline)
+
+---
+
+<a id="prompthero-ca8f7fb0584"></a>
+
+## A beautiful and hyperrealistic African American wo\.\.\.
+
+<a href="https://cdn.prompthero.com/q18zsww4k7kb3ihj5s1j4auo1ezk-flux-flux-11-pro-a-beautiful-and-hyperrealistic-african-american-woman-and-child-celebrating-happy-mothers-day-surrounded-by-vibrant-colors-and-intricate-details.jpg"><img src="https://cdn.prompthero.com/q18zsww4k7kb3ihj5s1j4auo1ezk-flux-flux-11-pro-a-beautiful-and-hyperrealistic-african-american-woman-and-child-celebrating-happy-mothers-day-surrounded-by-vibrant-colors-and-intricate-details.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+A beautiful and hyperrealistic African American woman and child celebrating Happy Mother's Day, surrounded by vibrant colors and intricate details. The scene is framed in a suitable, elegant frame, with all elements and the frame contained without cropping. The image is rendered in an airbrush style with 8K acrylic quality, showcasing the woman's joyful expression and the festive atmosphere. The text 'Happy Mother's Day' is prominently displayed, adding to the celebratory mood.
+```
+
+[Source](https://prompthero.com/prompt/ca8f7fb0584-flux-flux-11-pro-a-beautiful-and-hyperrealistic-african-american-woman-and-child-celebrating-happy-mothers-day-surrounded-by-vibrant-colors-and-intricate-details)
+
+---
+
+<a id="prompthero-cae3998af9a"></a>
+
+## Low-angle fashion editorial portrait of a confiden\.\.\.
+
+<a href="https://cdn.prompthero.com/v1_36ed8e3b64915b5de985411ffd-seedream-5-v2-low-angle-fashion-editorial-portrait-of-a-confident-young-woman-striding-forward-seen-from-below-against-a-bold-minimalist-backdrop.jpg"><img src="https://cdn.prompthero.com/v1_36ed8e3b64915b5de985411ffd-seedream-5-v2-low-angle-fashion-editorial-portrait-of-a-confident-young-woman-striding-forward-seen-from-below-against-a-bold-minimalist-backdrop.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+Low-angle fashion editorial portrait of a confident young woman striding forward, seen from below against a bold minimalist backdrop of a vivid cobalt blue sky and a sweeping coral-red wall, composition emphasizing her elongated silhouette and dramatic presence. She wears an avant-garde metallic silver satin dress with exaggerated puff sleeves and layered ruffles, paired with glossy iridescent white tights and polished black loafers, while holding a tennis racket transformed into a whimsical accessory wrapped in a lush garland of fresh flowers in red, white, pink, and cream. Ultra-stylized contemporary fashion photography with a surreal, high-fashion runway feel, crisp realism, clean lines, and sculptural form, captured as if on medium-format film or a luxury magazine shoot. Bright natural daylight creates sharp shadows and gleaming highlights across the satin fabric and shimmering tights, enhancing texture and shine. Saturated color palette of electric blue, terracotta red, silver, black, and floral accents, with an energetic, playful, editorial, and slightly surreal mood.
+```
+
+By [@chorlo](https://prompthero.com/prompt/cae3998af9a-seedream-5-v2-low-angle-fashion-editorial-portrait-of-a-confident-young-woman-striding-forward-seen-from-below-against-a-bold-minimalist-backdrop)
+
+---
+
+[1](portraits.md) · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · [5](portraits-5.md) · [6](portraits-6.md) · [7](portraits-7.md) · [8](portraits-8.md) · [9](portraits-9.md) · [10](portraits-10.md) · [11](portraits-11.md) · [12](portraits-12.md) · [13](portraits-13.md) · [14](portraits-14.md) · [15](portraits-15.md) · [16](portraits-16.md) · [17](portraits-17.md) · [18](portraits-18.md) · [19](portraits-19.md) · [20](portraits-20.md) · [21](portraits-21.md) · [22](portraits-22.md) · [23](portraits-23.md) · [24](portraits-24.md) · [25](portraits-25.md) · [26](portraits-26.md) · [27](portraits-27.md) · [28](portraits-28.md) · **29** · [30](portraits-30.md) · [31](portraits-31.md) · [32](portraits-32.md) · [33](portraits-33.md) · [34](portraits-34.md) · [35](portraits-35.md)
 
 [← Home](../README.md)

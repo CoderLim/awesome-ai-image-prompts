@@ -6,38 +6,6 @@
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
-<a id="prompthero-a269cec95f6"></a>
-
-## Heroes? Where?
-
-<a href="https://cdn.prompthero.com/yfhete5bfmaogho1q7gm1ikpasq2-flux-pro-11-ultra-heroes-where.png"><img src="https://cdn.prompthero.com/yfhete5bfmaogho1q7gm1ikpasq2-flux-pro-11-ultra-heroes-where.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-A nightmarish, distorted figure resembling Batman stands against a dark background. The figure's suit is primarily white or light gray, giving it a ghostly appearance. A large, jagged, blood-red bat symbol is emblazoned across its chest, and streaks of red are visible on the gauntlets, belt, and edges of the cape. The most unsettling feature is the face â a pale, gaunt visage contorted into a wide, Joker-like grin. The overall impression is one of a twisted, corrupted version of the iconic superhero.] [Horror, dark fantasy, character design] [Inspired by the darker interpretations of Batman, such as those seen in the works of artists like Greg Capullo or Scott Snyder. Also reminiscent of the unsettling character designs of artists like Dave McKean.] [Digital painting with a loose, expressive style, emphasizing rough brushstrokes and textured details. The color palette is stark and dramatic, with the white and red contrasting sharply against the dark background. The lighting is dim and atmospheric, adding to the sense of unease. The figure's pose and expression convey a sense of menace and instability
-```
-
-[Source](https://prompthero.com/prompt/a269cec95f6-flux-pro-11-ultra-heroes-where)
-
----
-
-<a id="prompthero-a783bb790f8"></a>
-
-## Dramatic portrait of a masked mystic in a shadowy \.\.\.
-
-<a href="https://cdn.prompthero.com/dr5gidqfw7nh2mhrdnowemiuqwma-flux-flux-11-pro-dramatic-portrait-of-a-masked-mystic-in-a-shadowy-baroque-chamber-wearing-an-intricate-dark-cape-pale-mask-with-sharp.jpg"><img src="https://cdn.prompthero.com/dr5gidqfw7nh2mhrdnowemiuqwma-flux-flux-11-pro-dramatic-portrait-of-a-masked-mystic-in-a-shadowy-baroque-chamber-wearing-an-intricate-dark-cape-pale-mask-with-sharp.jpg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-Dramatic portrait of a masked mystic in a shadowy baroque chamber, wearing an intricate dark cape, pale mask with sharp features, single candle casting dramatic shadows, ornate gilded mirror reflecting mysterious atmosphere, deep blue-black color scheme, cinematic chiaroscuro lighting, Gothic Renaissance aesthetic, ethereal and enigmatic composition, hyperdetailed, photorealistic render Negative Prompt: blurry, low quality, worst quality, bad anatomy, distorted, cartoon, anime, sketch, drawing Style Preset: cinematic Seed: 42 Steps: 50 CFG Scale: 7.5
-```
-
-[Source](https://prompthero.com/prompt/a783bb790f8-flux-flux-11-pro-dramatic-portrait-of-a-masked-mystic-in-a-shadowy-baroque-chamber-wearing-an-intricate-dark-cape-pale-mask-with-sharp)
-
----
-
 <a id="prompthero-ab26b1eceb5"></a>
 
 ## Full-body illustration of Al Pacino in a stylized \.\.\.
@@ -323,6 +291,38 @@ Prompt: > "Masterpiece, high-quality anime illustration, a beautiful girl lookin
 ```
 
 [Source](https://prompthero.com/prompt/cc9232d3803-hero-10-prompt-masterpiece-high-quality-anime-illustration-a-beautiful-girl-looking-up-towards-the-sky-with-her-eyes-gently-closed-serene)
+
+---
+
+<a id="prompthero-ccb6ff79eb9"></a>
+
+## with a beautiful view, misty forest, night, high d\.\.\.
+
+<a href="https://cdn.prompthero.com/t5p6zouoms0lwxz0ghb5nteks4j0-openjourney-15-with-a-beautiful-view-misty-forest-night-high-detail-digital-painting-artstation-concept-art-smooth-clear-focus-a-girl-in.png"><img src="https://cdn.prompthero.com/t5p6zouoms0lwxz0ghb5nteks4j0-openjourney-15-with-a-beautiful-view-misty-forest-night-high-detail-digital-painting-artstation-concept-art-smooth-clear-focus-a-girl-in.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+with a beautiful view, misty forest, night, high detail, digital painting, artstation, concept art, smooth, clear focus, a girl in a carved red kokoshnik with a beautiful golden ornament, in a Russian folk dress illustration, works by the author: artgerm, Greg Rutkowski and Alphonse of the Fly, 8 thousand, A real perfect female anatomy , hyper details , photobashing, epic cinematic, octane render, extremely high detail, post processing, denoise, upbeta, q 2, v 4
+```
+
+[Source](https://prompthero.com/prompt/ccb6ff79eb9-openjourney-15-with-a-beautiful-view-misty-forest-night-high-detail-digital-painting-artstation-concept-art-smooth-clear-focus-a-girl-in)
+
+---
+
+<a id="prompthero-cd8da2f2364"></a>
+
+## digital wallpaper portrait of a spartan warrior, n\.\.\.
+
+<a href="https://cdn.prompthero.com/c8445gziiwa3t33gw7j8yhvbw3gv-stable-diffusion-xl-base-09-digital-wallpaper-portrait-of-a-spartan-warrior-no-face-gloomy-background-brutal-majestic-dramatic-digital-painting-expressionism-emotionally-profound-close.png"><img src="https://cdn.prompthero.com/c8445gziiwa3t33gw7j8yhvbw3gv-stable-diffusion-xl-base-09-digital-wallpaper-portrait-of-a-spartan-warrior-no-face-gloomy-background-brutal-majestic-dramatic-digital-painting-expressionism-emotionally-profound-close.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+digital wallpaper portrait of a spartan warrior, no face, gloomy background, brutal, majestic, dramatic, digital painting, expressionism, emotionally profound, close up, unforgettable, high quality, splatter and drip painting technique
+```
+
+By [@ArtEnthusiast](https://prompthero.com/prompt/cd8da2f2364-stable-diffusion-xl-base-09-digital-wallpaper-portrait-of-a-spartan-warrior-no-face-gloomy-background-brutal-majestic-dramatic-digital-painting-expressionism-emotionally-profound-close)
 
 ---
 

@@ -1,90 +1,10 @@
 # portraits
 
-[← Home](../README.md) · Page 20 / 36
+[← Home](../README.md) · Page 20 / 35
 
-[1](portraits.md) · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · [5](portraits-5.md) · [6](portraits-6.md) · [7](portraits-7.md) · [8](portraits-8.md) · [9](portraits-9.md) · [10](portraits-10.md) · [11](portraits-11.md) · [12](portraits-12.md) · [13](portraits-13.md) · [14](portraits-14.md) · [15](portraits-15.md) · [16](portraits-16.md) · [17](portraits-17.md) · [18](portraits-18.md) · [19](portraits-19.md) · **20** · [21](portraits-21.md) · [22](portraits-22.md) · [23](portraits-23.md) · [24](portraits-24.md) · [25](portraits-25.md) · [26](portraits-26.md) · [27](portraits-27.md) · [28](portraits-28.md) · [29](portraits-29.md) · [30](portraits-30.md) · [31](portraits-31.md) · [32](portraits-32.md) · [33](portraits-33.md) · [34](portraits-34.md) · [35](portraits-35.md) · [36](portraits-36.md)
+[1](portraits.md) · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · [5](portraits-5.md) · [6](portraits-6.md) · [7](portraits-7.md) · [8](portraits-8.md) · [9](portraits-9.md) · [10](portraits-10.md) · [11](portraits-11.md) · [12](portraits-12.md) · [13](portraits-13.md) · [14](portraits-14.md) · [15](portraits-15.md) · [16](portraits-16.md) · [17](portraits-17.md) · [18](portraits-18.md) · [19](portraits-19.md) · **20** · [21](portraits-21.md) · [22](portraits-22.md) · [23](portraits-23.md) · [24](portraits-24.md) · [25](portraits-25.md) · [26](portraits-26.md) · [27](portraits-27.md) · [28](portraits-28.md) · [29](portraits-29.md) · [30](portraits-30.md) · [31](portraits-31.md) · [32](portraits-32.md) · [33](portraits-33.md) · [34](portraits-34.md) · [35](portraits-35.md)
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
-
-<a id="prompthero-0582efc7d36"></a>
-
-## A dramatic portrait of a powerful woman, her gaze \.\.\.
-
-<a href="https://cdn.prompthero.com/azytg18uvch9ysj4kiuv6vgmqjax-flux-flux-11-pro-a-dramatic-portrait-of-a-powerful-woman-her-gaze-unwavering-her-eyes-dark-and-intense-posing-in-a-structured-gothic.jpg"><img src="https://cdn.prompthero.com/azytg18uvch9ysj4kiuv6vgmqjax-flux-flux-11-pro-a-dramatic-portrait-of-a-powerful-woman-her-gaze-unwavering-her-eyes-dark-and-intense-posing-in-a-structured-gothic.jpg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-A dramatic portrait of a powerful woman, her gaze unwavering, her eyes dark and intense, posing in a structured, Gothic-inspired gown with dark velvet and lace detailing. The gown features sharp angles, intricate metal clasps, and flowing layers of black fabric. The model wears a tall, pointed hat with intricate veiling, and her dark hair is styled in a severe, tight bun. She holds a long, silver scepter, and her expression is both serious and commanding. The background consists of a dark, stormy sky and towering, gothic architecture, enhancing the dramatic and powerful style of the portrait.
-```
-
-[Source](https://prompthero.com/prompt/0582efc7d36-flux-flux-11-pro-a-dramatic-portrait-of-a-powerful-woman-her-gaze-unwavering-her-eyes-dark-and-intense-posing-in-a-structured-gothic)
-
----
-
-<a id="prompthero-606e91a5443"></a>
-
-## a man stands with his head down in some tall grass\.\.\.
-
-<a href="https://cdn.prompthero.com/p9336xy2qlhx6jz37pghssifwlk5-midjourney-52-a-man-stands-with-his-head-down-in-some-tall-grass-in-the-style-of-fashion-photography-scottish-landscapes-light.png"><img src="https://cdn.prompthero.com/p9336xy2qlhx6jz37pghssifwlk5-midjourney-52-a-man-stands-with-his-head-down-in-some-tall-grass-in-the-style-of-fashion-photography-scottish-landscapes-light.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-a man stands with his head down in some tall grass, in the style of fashion photography, scottish landscapes, light bronze and dark blue, deconstructed tailoring, genderless, close-up shots, brooding mood --ar 132:161 --s 750 --v 5.2
-```
-
-By [@NorthmoorAI](https://prompthero.com/prompt/606e91a5443-midjourney-52-a-man-stands-with-his-head-down-in-some-tall-grass-in-the-style-of-fashion-photography-scottish-landscapes-light)
-
----
-
-<a id="prompthero-662b97a92f3"></a>
-
-## An image of a woman standing straight, facing the \.\.\.
-
-<a href="https://cdn.prompthero.com/lcdgtxk932j5bieceie64139gkce-flux-flux-11-pro-an-image-of-a-woman-standing-straight-facing-the-camera-head-on-with-a-slight-head-tilt-she-gazes-directly.jpg"><img src="https://cdn.prompthero.com/lcdgtxk932j5bieceie64139gkce-flux-flux-11-pro-an-image-of-a-woman-standing-straight-facing-the-camera-head-on-with-a-slight-head-tilt-she-gazes-directly.jpg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-An image of a woman standing straight, facing the camera head-on with a slight head tilt. She gazes directly into the camera with a strong, engaging look. Her hair is pulled back into a high ponytail with some strands framing her face. Her makeup subtly enhances her eyes under well-defined eyebrows. She wears a summerdress for work in a pastel color. She is in a tropical city that could be  Dubai, Taiwan. Some exotical trees may be in background. Climate seems hot and humid. The woman has a middle east tone. Her face is repulped and bright thanks to healthy cosmetics used.
-```
-
-[Source](https://prompthero.com/prompt/662b97a92f3-flux-flux-11-pro-an-image-of-a-woman-standing-straight-facing-the-camera-head-on-with-a-slight-head-tilt-she-gazes-directly)
-
----
-
-<a id="prompthero-727c5b20161"></a>
-
-## an Asian woman, in the style of light amber and pi\.\.\.
-
-<a href="https://cdn.prompthero.com/ez1o4rbnx8wt45ingmuif27iud7b-midjourney-52-an-asian-woman-in-the-style-of-light-amber-and-pink-blurred-imagery-shinyglossy-melting-drugcore-georg-jensen-wet-on.png"><img src="https://cdn.prompthero.com/ez1o4rbnx8wt45ingmuif27iud7b-midjourney-52-an-asian-woman-in-the-style-of-light-amber-and-pink-blurred-imagery-shinyglossy-melting-drugcore-georg-jensen-wet-on.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-an Asian woman, in the style of light amber and pink, blurred imagery, shiny/glossy, melting, drugcore, georg jensen, wet-on-wet blending --ar 71:128 --stylize 750 --v 5.2
-```
-
-By [@NorthmoorAI](https://prompthero.com/prompt/727c5b20161-midjourney-52-an-asian-woman-in-the-style-of-light-amber-and-pink-blurred-imagery-shinyglossy-melting-drugcore-georg-jensen-wet-on)
-
----
-
-<a id="prompthero-727f868b2ec"></a>
-
-## A female warrior holding the head of an enormous w\.\.\.
-
-<a href="https://cdn.prompthero.com/1tdshqoq6p8g8k1hpn4ste3lfztf-midjourney-6-a-female-warrior-holding-the-head-of-an-enormous-white-lion-on-her-spear-detailed-face-and-eyes-in-the.png"><img src="https://cdn.prompthero.com/1tdshqoq6p8g8k1hpn4ste3lfztf-midjourney-6-a-female-warrior-holding-the-head-of-an-enormous-white-lion-on-her-spear-detailed-face-and-eyes-in-the.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-A female warrior holding the head of an enormous white lion on her spear, detailed face and eyes, in the style of Peter Mohrbacher, dynamic lighting. --v 6.0 --ar 4:5
-```
-
-[Source](https://prompthero.com/prompt/727f868b2ec-midjourney-6-a-female-warrior-holding-the-head-of-an-enormous-white-lion-on-her-spear-detailed-face-and-eyes-in-the)
-
----
 
 <a id="prompthero-731d1438324"></a>
 
@@ -326,6 +246,86 @@ sweet little girl is sleeping in the bed, full body ,in the style of bokeh, navy
 
 ---
 
-[1](portraits.md) · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · [5](portraits-5.md) · [6](portraits-6.md) · [7](portraits-7.md) · [8](portraits-8.md) · [9](portraits-9.md) · [10](portraits-10.md) · [11](portraits-11.md) · [12](portraits-12.md) · [13](portraits-13.md) · [14](portraits-14.md) · [15](portraits-15.md) · [16](portraits-16.md) · [17](portraits-17.md) · [18](portraits-18.md) · [19](portraits-19.md) · **20** · [21](portraits-21.md) · [22](portraits-22.md) · [23](portraits-23.md) · [24](portraits-24.md) · [25](portraits-25.md) · [26](portraits-26.md) · [27](portraits-27.md) · [28](portraits-28.md) · [29](portraits-29.md) · [30](portraits-30.md) · [31](portraits-31.md) · [32](portraits-32.md) · [33](portraits-33.md) · [34](portraits-34.md) · [35](portraits-35.md) · [36](portraits-36.md)
+<a id="prompthero-958f3e65e4c"></a>
+
+## the woman in the field is dressed for the camera, \.\.\.
+
+<a href="https://cdn.prompthero.com/sa776coapn5cceoyqbhe6tjtitqb-midjourney-52-the-woman-in-the-field-is-dressed-for-the-camera-in-the-style-of-daria-endresen-kris-knight-scottish-landscapes.png"><img src="https://cdn.prompthero.com/sa776coapn5cceoyqbhe6tjtitqb-midjourney-52-the-woman-in-the-field-is-dressed-for-the-camera-in-the-style-of-daria-endresen-kris-knight-scottish-landscapes.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+the woman in the field is dressed for the camera, in the style of daria endresen, kris knight, scottish landscapes, light navy and dark brown, georg jensen, intense close-ups, matte photo --ar 132:161 --s 750 --v 5.2
+```
+
+By [@NorthmoorAI](https://prompthero.com/prompt/958f3e65e4c-midjourney-52-the-woman-in-the-field-is-dressed-for-the-camera-in-the-style-of-daria-endresen-kris-knight-scottish-landscapes)
+
+---
+
+<a id="prompthero-959b1893c02"></a>
+
+## Calm Water Woman
+
+<a href="https://cdn.prompthero.com/rsh9obh6kjx5mvrk77tltlkj0fe3-midjourney-6-calm-water-woman.png"><img src="https://cdn.prompthero.com/rsh9obh6kjx5mvrk77tltlkj0fe3-midjourney-6-calm-water-woman.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+luzerne fashion x rays of light by sebastian rossetti, in the style of yigal ozeri, ursula von rydingsvard, calm waters, white woman, emek golan, terracotta, hyper-realistic water --ar 101:128 --v 6.0 --style raw
+```
+
+By [@jefharris](https://prompthero.com/prompt/959b1893c02-midjourney-6-calm-water-woman)
+
+---
+
+<a id="prompthero-970ebe51760"></a>
+
+## high quality creative fashion image with hasselbla\.\.\.
+
+<a href="https://cdn.prompthero.com/8dcreloqwfysu4xbq79bnrxnqnm3-dreamshaper-7-high-quality-creative-fashion-image-with-hasselblad-200-iso-f11-fisheye-lense-sigma-15mm-ultra-realistic-skin-and-long-pink.png"><img src="https://cdn.prompthero.com/8dcreloqwfysu4xbq79bnrxnqnm3-dreamshaper-7-high-quality-creative-fashion-image-with-hasselblad-200-iso-f11-fisheye-lense-sigma-15mm-ultra-realistic-skin-and-long-pink.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+high quality creative fashion image with hasselblad, 200 ISO, f/11, fisheye lense sigma 15mm, ultra realistic skin and long pink hair girl layind down with with a man with no hair, on the top of a green mountain covered by acid yellow orchid, sharp focus, bright light, acid pink colors, DSLR --ar 2:3
+```
+
+[Source](https://prompthero.com/prompt/970ebe51760-dreamshaper-7-high-quality-creative-fashion-image-with-hasselblad-200-iso-f11-fisheye-lense-sigma-15mm-ultra-realistic-skin-and-long-pink)
+
+---
+
+<a id="prompthero-992e75211f2"></a>
+
+## Female M Iron Man&\#39;s suit, curvaceous figure, full-\.\.\.
+
+<a href="https://cdn.prompthero.com/ijhp16nmr94cl2vr70pnvlmdnqye-flux-flux-11-pro-ultra-female-m-iron-mans-suit-curvaceous-figure-full-body-pose-standing-heroically-in-a-serene-icy-landscape-inspired-by-chill.jpg"><img src="https://cdn.prompthero.com/ijhp16nmr94cl2vr70pnvlmdnqye-flux-flux-11-pro-ultra-female-m-iron-mans-suit-curvaceous-figure-full-body-pose-standing-heroically-in-a-serene-icy-landscape-inspired-by-chill.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+Female M Iron Man's suit, curvaceous figure, full-body pose, standing heroically in a serene, icy landscape inspired by Chill Penguin's stage, with sleek, metallic armor and repulsor technology infused into her X suit, blending organic and mechanical elements, concept art style, ultra-fine details, masterful lighting, and bold, vibrant colors, reminiscent of Iron Man's armored suit, with a mix of Tony Stark's sleek design and the elegance of a beautiful, anime-inspired heroine, in a breathtaking, UHD Ultra-quality image, with a focus on showcasing her curves and strength, in a blend of anime and comic book art styles, with inspiration from artists like Adi Granov and Takeshi Obata.
+```
+
+[Source](https://prompthero.com/prompt/992e75211f2-flux-flux-11-pro-ultra-female-m-iron-mans-suit-curvaceous-figure-full-body-pose-standing-heroically-in-a-serene-icy-landscape-inspired-by-chill)
+
+---
+
+<a id="prompthero-995c596c933"></a>
+
+## landscape photography, Fitness Bodybuilder Fashion\.\.\.
+
+<a href="https://cdn.prompthero.com/v9f1s0y6wfzg6gs0f06renol2i5w-flux-flux1-dev-landscape-photography-fitness-bodybuilder-fashion-close-up-on-face-photo-of-a-24-year-old-kazakh-hungarian-female-confident-ceo.jpeg"><img src="https://cdn.prompthero.com/v9f1s0y6wfzg6gs0f06renol2i5w-flux-flux1-dev-landscape-photography-fitness-bodybuilder-fashion-close-up-on-face-photo-of-a-24-year-old-kazakh-hungarian-female-confident-ceo.jpeg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+landscape photography, Fitness Bodybuilder Fashion close up on face photo of a 24 year old Kazakh-Hungarian female confident CEO with Challenging head tilt expression. Her body is Visible ribcage with smooth skin and defined muscles, toned muscles, abs, small breast, flat chest. She has Golden brown skin that has a natural glow, especially after a day in the sun. The skin pores and texture are clearly visible and in focus. Her Large pill-shaped eyes, Clear, honey eyes, framed by long, elegant eyelashes. Her haircut is Dutch braids, haircolor is Metallic silver. Her eyebrows are Sculpted brows shaped, complementing her delicate facial features. She is dressed with Sleeveless hoodie, midriff, Polka dot shorts, She is posed on the left side in the frame by the rule of thirds She poses Victory pose. in the background Hogwarts Great Hall, lights Light box the model is lighted with soft natural lighting in the style of Paulina Olszynski
+```
+
+By [@AkiraS](https://prompthero.com/prompt/995c596c933-flux-flux1-dev-landscape-photography-fitness-bodybuilder-fashion-close-up-on-face-photo-of-a-24-year-old-kazakh-hungarian-female-confident-ceo)
+
+---
+
+[1](portraits.md) · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · [5](portraits-5.md) · [6](portraits-6.md) · [7](portraits-7.md) · [8](portraits-8.md) · [9](portraits-9.md) · [10](portraits-10.md) · [11](portraits-11.md) · [12](portraits-12.md) · [13](portraits-13.md) · [14](portraits-14.md) · [15](portraits-15.md) · [16](portraits-16.md) · [17](portraits-17.md) · [18](portraits-18.md) · [19](portraits-19.md) · **20** · [21](portraits-21.md) · [22](portraits-22.md) · [23](portraits-23.md) · [24](portraits-24.md) · [25](portraits-25.md) · [26](portraits-26.md) · [27](portraits-27.md) · [28](portraits-28.md) · [29](portraits-29.md) · [30](portraits-30.md) · [31](portraits-31.md) · [32](portraits-32.md) · [33](portraits-33.md) · [34](portraits-34.md) · [35](portraits-35.md)
 
 [← Home](../README.md)

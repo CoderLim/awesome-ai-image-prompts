@@ -1,90 +1,10 @@
 # portraits
 
-[← Home](../README.md) · Page 33 / 36
+[← Home](../README.md) · Page 33 / 35
 
-[1](portraits.md) · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · [5](portraits-5.md) · [6](portraits-6.md) · [7](portraits-7.md) · [8](portraits-8.md) · [9](portraits-9.md) · [10](portraits-10.md) · [11](portraits-11.md) · [12](portraits-12.md) · [13](portraits-13.md) · [14](portraits-14.md) · [15](portraits-15.md) · [16](portraits-16.md) · [17](portraits-17.md) · [18](portraits-18.md) · [19](portraits-19.md) · [20](portraits-20.md) · [21](portraits-21.md) · [22](portraits-22.md) · [23](portraits-23.md) · [24](portraits-24.md) · [25](portraits-25.md) · [26](portraits-26.md) · [27](portraits-27.md) · [28](portraits-28.md) · [29](portraits-29.md) · [30](portraits-30.md) · [31](portraits-31.md) · [32](portraits-32.md) · **33** · [34](portraits-34.md) · [35](portraits-35.md) · [36](portraits-36.md)
+[1](portraits.md) · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · [5](portraits-5.md) · [6](portraits-6.md) · [7](portraits-7.md) · [8](portraits-8.md) · [9](portraits-9.md) · [10](portraits-10.md) · [11](portraits-11.md) · [12](portraits-12.md) · [13](portraits-13.md) · [14](portraits-14.md) · [15](portraits-15.md) · [16](portraits-16.md) · [17](portraits-17.md) · [18](portraits-18.md) · [19](portraits-19.md) · [20](portraits-20.md) · [21](portraits-21.md) · [22](portraits-22.md) · [23](portraits-23.md) · [24](portraits-24.md) · [25](portraits-25.md) · [26](portraits-26.md) · [27](portraits-27.md) · [28](portraits-28.md) · [29](portraits-29.md) · [30](portraits-30.md) · [31](portraits-31.md) · [32](portraits-32.md) · **33** · [34](portraits-34.md) · [35](portraits-35.md)
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
-
-<a id="prompthero-e78b7464b18"></a>
-
-## photo of a middle-aged british woman, punk, vulgar\.\.\.
-
-<a href="https://cdn.prompthero.com/51nwba7nwkqkjc4q2d634hm423if-flux-flux1-dev-photo-of-a-middle-aged-british-woman-punk-vulgar-look-short-redhead-hair-messy-hair-bored-full-body-wearing-worn.png"><img src="https://cdn.prompthero.com/51nwba7nwkqkjc4q2d634hm423if-flux-flux1-dev-photo-of-a-middle-aged-british-woman-punk-vulgar-look-short-redhead-hair-messy-hair-bored-full-body-wearing-worn.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-photo of a middle-aged british woman, punk, vulgar look, (short redhead hair), messy hair, bored, full body, wearing worn-out:1.2 leather jacket, trousers, boots, white lace bra, holding a black helmet, ( skin pores), (freckles:0.8), (standing against a harley-davidson ), restaurant parking in background, dim light
-```
-
-[Source](https://prompthero.com/prompt/e78b7464b18-flux-flux1-dev-photo-of-a-middle-aged-british-woman-punk-vulgar-look-short-redhead-hair-messy-hair-bored-full-body-wearing-worn)
-
----
-
-<a id="prompthero-e82dd7f5523"></a>
-
-## Visualize an ultra-high definition, meticulously d\.\.\.
-
-<a href="https://cdn.prompthero.com/9rjkdh5v6nfnjsirq3vqx9svz6ql-midjourney-51-visualize-an-ultra-high-definition-meticulously-detailed-full-body-portrait-of-a-miniature-anthropomorphic-fairy-girl-a-small-magical-creature.png"><img src="https://cdn.prompthero.com/9rjkdh5v6nfnjsirq3vqx9svz6ql-midjourney-51-visualize-an-ultra-high-definition-meticulously-detailed-full-body-portrait-of-a-miniature-anthropomorphic-fairy-girl-a-small-magical-creature.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-Visualize an ultra-high definition, meticulously detailed full body portrait of a miniature, anthropomorphic fairy girl, a small magical creature exuding enchanting elegance and grace. She appears as a delightful blend of the familiar and the fantastical. This petite fairy, an embodiment of African beauty, boasts rich, dark skin that glows with a warm, iridescent sheen, highlighting the contours of her delicate features. Her eyes sparkle with vivacious curiosity and youthful zest, matching the playful coils of her short, black hair that defy gravity. She is adorned in a dress woven from the petals of the most vibrant and colorful flowers, the unique outfit clinging delicately to her petite form, complementing her animated personality. The girl’s most distinct feature, her shimmering wings, unfold from her back, catching the light with every flutter. They resemble those of a dragonfly, a mosaic of luminescent colors, delicate and yet powerful, hinting at her ability to transcend the world of humans and enter the realm of enchantment. She perches confidently in a human hand. The realistic rendering of the hand contrasts with her fantastical existence, displaying a myriad of textures from the fine lines of the skin to the smoothness of the nails, the size comparison further emphasizing the fairy’s petite charm. Despite the size difference, the interaction is harmonious, suggesting a magical symbiosis between the human and fairy realms. Her gaze meets the viewer’s, carrying a silent conversation, a secret shared between the magical and human worlds. The viewer is left with an impression of an encounter that blurs the line between reality and fantasy, a moment frozen in time where anything is possible. --s 250
-```
-
-[Source](https://prompthero.com/prompt/e82dd7f5523-midjourney-51-visualize-an-ultra-high-definition-meticulously-detailed-full-body-portrait-of-a-miniature-anthropomorphic-fairy-girl-a-small-magical-creature)
-
----
-
-<a id="prompthero-e4623ed1f21"></a>
-
-## Close-up retro FlicFilm Elektra 100 photo of a cla\.\.\.
-
-<a href="https://cdn.prompthero.com/zkysoz35o4g8ok5oegr8u7vq0h0u-flux-flux-11-pro-ultra-close-up-retro-flicfilm-elektra-100-photo-of-a-classy-model-wearing-a-muted-pastel-blue-western-suit-with-a.jpg"><img src="https://cdn.prompthero.com/zkysoz35o4g8ok5oegr8u7vq0h0u-flux-flux-11-pro-ultra-close-up-retro-flicfilm-elektra-100-photo-of-a-classy-model-wearing-a-muted-pastel-blue-western-suit-with-a.jpg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-Close-up retro FlicFilm Elektra 100 photo of a classy model wearing a muted pastel blue western suit with a white shirt and bolo tie with a beutiful orange rock, sitting on a chair. looking away from the camera. The model has dark skin, brown hair curly, and is wearing ring earrings and jewelry. The model is holding a hand near their face and is wearing a short-sleeved shirt. This fashion editorial was for the French Vogue magazine, in the style of Jacquemus, and features a pink Italian leather belt. sitting in a restroom
-```
-
-[Source](https://prompthero.com/prompt/e4623ed1f21-flux-flux-11-pro-ultra-close-up-retro-flicfilm-elektra-100-photo-of-a-classy-model-wearing-a-muted-pastel-blue-western-suit-with-a)
-
----
-
-<a id="prompthero-e6211b8bde2"></a>
-
-## Paparazzi-style extreme close-up photo of a woman \.\.\.
-
-<a href="https://cdn.prompthero.com/o9dg0qw96p8jt9f1d2topnmw23-stable-diffusion-35-large-paparazzi-style-extreme-close-up-photo-of-a-woman-with-striking-facial-features-caught-off-guard-while-turning-toward-the.jpeg"><img src="https://cdn.prompthero.com/o9dg0qw96p8jt9f1d2topnmw23-stable-diffusion-35-large-paparazzi-style-extreme-close-up-photo-of-a-woman-with-striking-facial-features-caught-off-guard-while-turning-toward-the.jpeg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-Paparazzi-style extreme close-up photo of a woman with striking facial features, caught off-guard while turning toward the camera. Face and shoulders only, shot from a low angle. Strong harsh on-camera flash, grainy high-ISO, raw candid street-photography feel. Background shows a crowded scene with motion blur (Paris Fashion Week atmosphere). Intense, spontaneous energy, imperfect and real. She is wearing a school uniform. Ultra-realistic, cinematic realism, high detail skin texture, slight lens distortion. Camera style: “35mm paparazzi lens, f/2.8, flash blown highlights” Look: “2000s tabloid photo aesthetic” Quality: “sharp focus on face, background heavily blurred and streaked”
-```
-
-[Source](https://prompthero.com/prompt/e6211b8bde2-stable-diffusion-35-large-paparazzi-style-extreme-close-up-photo-of-a-woman-with-striking-facial-features-caught-off-guard-while-turning-toward-the)
-
----
-
-<a id="prompthero-e06677ed624"></a>
-
-## A captivating portrait of a young Asian woman, mid\.\.\.
-
-<a href="https://cdn.prompthero.com/8l9qpbv8jknyqnu4q0tsi04i6q6o-midjourney-61-a-captivating-portrait-of-a-young-asian-woman-mid-shot-embodying-a-futuristic-warrior-aesthetic-she-wears-a-teal-and.png"><img src="https://cdn.prompthero.com/8l9qpbv8jknyqnu4q0tsi04i6q6o-midjourney-61-a-captivating-portrait-of-a-young-asian-woman-mid-shot-embodying-a-futuristic-warrior-aesthetic-she-wears-a-teal-and.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-A captivating portrait of a young Asian woman, mid-shot, embodying a futuristic warrior aesthetic. She wears a teal and gold armored top, intricately designed with detailed patterns, accentuated with red accents, covering her chest and shoulders. Her facial features include a meticulously crafted mask that covers her nose and mouth, featuring a gold and teal color scheme, and sharply focused, piercing brown eyes. Her dark hair is styled in two high buns with red ribbon accents. A gleaming katana blade is held diagonally across her body, adding to the composition's dynamism. The background shows a weathered, concrete wall, providing a muted contrast to the vibrancy of the subject's outfit. The image is lit with a soft, diffused light, highlighting the textures of the armor and the sharpness of her gaze, rendered in a digital art style with high detail and a cinematic feel, emphasizing strong lines and geometric forms, reminiscent of a modern manga illustration. --ar 2:3 --q 2 -- 750
-```
-
-[Source](https://prompthero.com/prompt/e06677ed624-midjourney-61-a-captivating-portrait-of-a-young-asian-woman-mid-shot-embodying-a-futuristic-warrior-aesthetic-she-wears-a-teal-and)
-
----
 
 <a id="prompthero-e9241b9c3cf"></a>
 
@@ -326,6 +246,86 @@ detailed and realistic (upper body portrait:1.2) of a woman with a few (freckles
 
 ---
 
-[1](portraits.md) · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · [5](portraits-5.md) · [6](portraits-6.md) · [7](portraits-7.md) · [8](portraits-8.md) · [9](portraits-9.md) · [10](portraits-10.md) · [11](portraits-11.md) · [12](portraits-12.md) · [13](portraits-13.md) · [14](portraits-14.md) · [15](portraits-15.md) · [16](portraits-16.md) · [17](portraits-17.md) · [18](portraits-18.md) · [19](portraits-19.md) · [20](portraits-20.md) · [21](portraits-21.md) · [22](portraits-22.md) · [23](portraits-23.md) · [24](portraits-24.md) · [25](portraits-25.md) · [26](portraits-26.md) · [27](portraits-27.md) · [28](portraits-28.md) · [29](portraits-29.md) · [30](portraits-30.md) · [31](portraits-31.md) · [32](portraits-32.md) · **33** · [34](portraits-34.md) · [35](portraits-35.md) · [36](portraits-36.md)
+<a id="prompthero-ee8f297f9ac"></a>
+
+## A highly detailed photorealistic digital illustrat\.\.\.
+
+<a href="https://cdn.prompthero.com/1st8cekbscppro0jd08ilho8o6qz-midjourney-6-a-highly-detailed-photorealistic-digital-illustration-of-a-roman-gladiator-captured-in-a-commanding-and-intense-pose-staring-directly-at.png"><img src="https://cdn.prompthero.com/1st8cekbscppro0jd08ilho8o6qz-midjourney-6-a-highly-detailed-photorealistic-digital-illustration-of-a-roman-gladiator-captured-in-a-commanding-and-intense-pose-staring-directly-at.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+A highly detailed photorealistic digital illustration of a Roman gladiator, captured in a commanding and intense pose, staring directly at the viewer. The gladiator is adorned with a traditional galea helmet, featuring intricate engravings and a crimson plume. His muscular frame is protected by a lorica segmentata armor, detailed with ornate patterns and metallic sheen. The gladiator's eyes glow with a fierce, determined light, symbolizing courage and strength. The background is a dark, moody arena, with faint shadows of the crowd and ancient architecture, enhancing the dramatic and powerful atmosphere --ar 47:101 --quality 2 --style raw --stylize 750 --v 6.1
+```
+
+[Source](https://prompthero.com/prompt/ee8f297f9ac-midjourney-6-a-highly-detailed-photorealistic-digital-illustration-of-a-roman-gladiator-captured-in-a-commanding-and-intense-pose-staring-directly-at)
+
+---
+
+<a id="prompthero-eed8e57b409"></a>
+
+## \(1 girl, full body\), \(beautiful Korean girl, kpop \.\.\.
+
+<a href="https://cdn.prompthero.com/r2713mzb8v068iu1jccsjqv5g455-chilloutmix-chilloutmix-ni-pruned-fp32-fix-1-girl-full-body-beautiful-korean-girl-kpop-idol15-cute-loose-bob-hair15-wearing-a-cropped-hoodie-capri-sweatpants-high.png"><img src="https://cdn.prompthero.com/r2713mzb8v068iu1jccsjqv5g455-chilloutmix-chilloutmix-ni-pruned-fp32-fix-1-girl-full-body-beautiful-korean-girl-kpop-idol15-cute-loose-bob-hair15-wearing-a-cropped-hoodie-capri-sweatpants-high.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+(1 girl, full body), (beautiful Korean girl, kpop idol:1.5), (Cute Loose Bob hair:1.5), (wearing a cropped hoodie, capri sweatpants, high hills:1.5), (red lips, small breasts, toned stomach, eyelashes, aegyo sal:1.5), immersive background, depth of field, (detailed face, beautiful detailed eyes, symmetrical eyes), (volumetric haze, global illumination, dynamic lighting, best illumination, volumetric lighting), (ultra highres, 8k, realistic, photorealism, photorealistic, hyperrealism:1.5), (photon mapping, physically-based rendering), <lora:add_detail:1>
+```
+
+[Source](https://prompthero.com/prompt/eed8e57b409-chilloutmix-chilloutmix-ni-pruned-fp32-fix-1-girl-full-body-beautiful-korean-girl-kpop-idol15-cute-loose-bob-hair15-wearing-a-cropped-hoodie-capri-sweatpants-high)
+
+---
+
+<a id="prompthero-efa64999bb7"></a>
+
+## 2-stage comfyui workflow, Hybrid Models
+
+<a href="https://cdn.prompthero.com/2k4a38zkurmhb04ia3flebi9hmc7-juggernaut-xl-v9-rundiffusionphoto-2-2-stage-comfyui-workflow-hybrid-models.png"><img src="https://cdn.prompthero.com/2k4a38zkurmhb04ia3flebi9hmc7-juggernaut-xl-v9-rundiffusionphoto-2-2-stage-comfyui-workflow-hybrid-models.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+A full body portrait of a cheerful gorgeous young (Italian|Japanese|Irish) woman, walking down the street of Paris, seductive, highly details, 16K, Asymmetrical Cut hairstyle, extreme quality, mesmerizing,  high vibrance, very intricate, award winning, dramatic. In the style of Frederick Arthur Verner
+```
+
+By [@JBlack16062205](https://prompthero.com/prompt/efa64999bb7-juggernaut-xl-v9-rundiffusionphoto-2-2-stage-comfyui-workflow-hybrid-models)
+
+---
+
+<a id="prompthero-efd6326354a"></a>
+
+## A full body view of a \(\(\(barefoot\)\)\) Female Warrio\.\.\.
+
+<a href="https://cdn.prompthero.com/chkdq6xyv2etkjux692pjbg6jl64-flux-flux-11-pro-a-full-body-view-of-a-barefoot-female-warrior-killing-several-little-demons-in-grotto-extremely-dynamic-scene-black-hair.jpg"><img src="https://cdn.prompthero.com/chkdq6xyv2etkjux692pjbg6jl64-flux-flux-11-pro-a-full-body-view-of-a-barefoot-female-warrior-killing-several-little-demons-in-grotto-extremely-dynamic-scene-black-hair.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+A full body view of a (((barefoot))) Female Warrior, killing several little demons in grotto. extremely dynamic scene. black hair in a Pixie cut, wearing a chainmail loincloth, chainmail bra, holding two katana sword, tattoo
+```
+
+[Source](https://prompthero.com/prompt/efd6326354a-flux-flux-11-pro-a-full-body-view-of-a-barefoot-female-warrior-killing-several-little-demons-in-grotto-extremely-dynamic-scene-black-hair)
+
+---
+
+<a id="prompthero-efe70985326"></a>
+
+## An image of a young woman with a medium complexion\.\.\.
+
+<a href="https://cdn.prompthero.com/ws0y934lhyz4axbzbpg0kfhdt05g-stable-diffusion-xl-base-09-comfyui-based-workflow-seargesdxl432-checkpoints-models-used-dreamshaper-xl-turbo-turbovisionxlsuperfastxl-realvisxlv30turbov30-juggernautxlv8-dreamshaperxlturbo-full-credits-shall-go-to-the-an-image-of-a-young-woman-with-a-medium-complexion-and-chestnut-colored-hair-styled-in-a-casual-updo-with.png"><img src="https://cdn.prompthero.com/ws0y934lhyz4axbzbpg0kfhdt05g-stable-diffusion-xl-base-09-comfyui-based-workflow-seargesdxl432-checkpoints-models-used-dreamshaper-xl-turbo-turbovisionxlsuperfastxl-realvisxlv30turbov30-juggernautxlv8-dreamshaperxlturbo-full-credits-shall-go-to-the-an-image-of-a-young-woman-with-a-medium-complexion-and-chestnut-colored-hair-styled-in-a-casual-updo-with.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+An image of a young woman with a medium complexion and chestnut-colored hair styled in a casual updo with loose strands around her face. She has a natural makeup look with defined eyes and a neutral lip color. She is wearing a fitted, cropped burgundy T-shirt with short sleeves and high-waisted black pants with distinctive button details. She stands confidently, with one hand on her hip and the other gently touching her pants. The lighting is soft and frontal, highlighting her features and the texture of her clothing against a muted dark background.
+```
+
+By [@JBlack16062205](https://prompthero.com/prompt/efe70985326-stable-diffusion-xl-base-09-comfyui-based-workflow-seargesdxl432-checkpoints-models-used-dreamshaper-xl-turbo-turbovisionxlsuperfastxl-realvisxlv30turbov30-juggernautxlv8-dreamshaperxlturbo-full-credits-shall-go-to-the-an-image-of-a-young-woman-with-a-medium-complexion-and-chestnut-colored-hair-styled-in-a-casual-updo-with)
+
+---
+
+[1](portraits.md) · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · [5](portraits-5.md) · [6](portraits-6.md) · [7](portraits-7.md) · [8](portraits-8.md) · [9](portraits-9.md) · [10](portraits-10.md) · [11](portraits-11.md) · [12](portraits-12.md) · [13](portraits-13.md) · [14](portraits-14.md) · [15](portraits-15.md) · [16](portraits-16.md) · [17](portraits-17.md) · [18](portraits-18.md) · [19](portraits-19.md) · [20](portraits-20.md) · [21](portraits-21.md) · [22](portraits-22.md) · [23](portraits-23.md) · [24](portraits-24.md) · [25](portraits-25.md) · [26](portraits-26.md) · [27](portraits-27.md) · [28](portraits-28.md) · [29](portraits-29.md) · [30](portraits-30.md) · [31](portraits-31.md) · [32](portraits-32.md) · **33** · [34](portraits-34.md) · [35](portraits-35.md)
 
 [← Home](../README.md)

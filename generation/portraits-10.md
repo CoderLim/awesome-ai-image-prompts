@@ -1,90 +1,10 @@
 # portraits
 
-[← Home](../README.md) · Page 10 / 36
+[← Home](../README.md) · Page 10 / 35
 
-[1](portraits.md) · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · [5](portraits-5.md) · [6](portraits-6.md) · [7](portraits-7.md) · [8](portraits-8.md) · [9](portraits-9.md) · **10** · [11](portraits-11.md) · [12](portraits-12.md) · [13](portraits-13.md) · [14](portraits-14.md) · [15](portraits-15.md) · [16](portraits-16.md) · [17](portraits-17.md) · [18](portraits-18.md) · [19](portraits-19.md) · [20](portraits-20.md) · [21](portraits-21.md) · [22](portraits-22.md) · [23](portraits-23.md) · [24](portraits-24.md) · [25](portraits-25.md) · [26](portraits-26.md) · [27](portraits-27.md) · [28](portraits-28.md) · [29](portraits-29.md) · [30](portraits-30.md) · [31](portraits-31.md) · [32](portraits-32.md) · [33](portraits-33.md) · [34](portraits-34.md) · [35](portraits-35.md) · [36](portraits-36.md)
+[1](portraits.md) · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · [5](portraits-5.md) · [6](portraits-6.md) · [7](portraits-7.md) · [8](portraits-8.md) · [9](portraits-9.md) · **10** · [11](portraits-11.md) · [12](portraits-12.md) · [13](portraits-13.md) · [14](portraits-14.md) · [15](portraits-15.md) · [16](portraits-16.md) · [17](portraits-17.md) · [18](portraits-18.md) · [19](portraits-19.md) · [20](portraits-20.md) · [21](portraits-21.md) · [22](portraits-22.md) · [23](portraits-23.md) · [24](portraits-24.md) · [25](portraits-25.md) · [26](portraits-26.md) · [27](portraits-27.md) · [28](portraits-28.md) · [29](portraits-29.md) · [30](portraits-30.md) · [31](portraits-31.md) · [32](portraits-32.md) · [33](portraits-33.md) · [34](portraits-34.md) · [35](portraits-35.md)
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
-
-<a id="prompthero-5e8788c9038"></a>
-
-## best quality, 4k, highres, masterpiece, ultra-deta\.\.\.
-
-<a href="https://cdn.prompthero.com/bt5cyibnp6pgjksa7fiaokq7eoeg-realistic-vision-v20-v20-best-quality-4k-highres-masterpiece-ultra-detailed-realistic-portrait-blond-shorthaired-woman-is-standing-in-gold-light-green-eyes-sharp.png"><img src="https://cdn.prompthero.com/bt5cyibnp6pgjksa7fiaokq7eoeg-realistic-vision-v20-v20-best-quality-4k-highres-masterpiece-ultra-detailed-realistic-portrait-blond-shorthaired-woman-is-standing-in-gold-light-green-eyes-sharp.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-best quality, 4k, highres, masterpiece, ultra-detailed, realistic, portrait blond shorthaired woman is standing in gold light, green eyes, sharp focus, complex, highly detailed, cinematic, candid, true colors, creative, innocent, perfect, beautiful, elegant, intricate, confident, dynamic, volumetric lighting, cinematic angle, glamour vibrant,
-```
-
-[Source](https://prompthero.com/prompt/5e8788c9038-realistic-vision-v20-v20-best-quality-4k-highres-masterpiece-ultra-detailed-realistic-portrait-blond-shorthaired-woman-is-standing-in-gold-light-green-eyes-sharp)
-
----
-
-<a id="prompthero-05eb1a0333c"></a>
-
-## High-fashion editorial photography, a tall model s\.\.\.
-
-<a href="https://cdn.prompthero.com/9zrbzzz7oovl1u8lafxa5uc1h1mi-flux-flux-11-pro-ultra-high-fashion-editorial-photography-a-tall-model-standing-confidently-in-front-of-a-vintage-bmw-car-with-neutral-tones-the.png"><img src="https://cdn.prompthero.com/9zrbzzz7oovl1u8lafxa5uc1h1mi-flux-flux-11-pro-ultra-high-fashion-editorial-photography-a-tall-model-standing-confidently-in-front-of-a-vintage-bmw-car-with-neutral-tones-the.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-High-fashion editorial photography, a tall model standing confidently in front of a vintage BMW car with neutral tones. The model wears a flowing, asymmetrical black dress with a high-neck turtleneck, elegant and modern, paired with black pointed heels. Subtle windswept effect on the fabric, soft natural light, muted and slightly desaturated tones, sophisticated and avant-garde aesthetic. The car features retro-style rims, and its interior has a reddish-brown tone visible.
-```
-
-By [@chorlo](https://prompthero.com/prompt/05eb1a0333c-flux-flux-11-pro-ultra-high-fashion-editorial-photography-a-tall-model-standing-confidently-in-front-of-a-vintage-bmw-car-with-neutral-tones-the)
-
----
-
-<a id="prompthero-6a8dc5b27c3"></a>
-
-## photo of a slim, small breast, flat chest, abs, yo\.\.\.
-
-<a href="https://cdn.prompthero.com/qm1jxxxzu1eu7v2mwik34oahuak0-flux-flux1-dev-photo-of-a-slim-small-breast-flat-chest-abs-young-asian-female-supermodel-with-short-messy-black-hair-stark-white.png"><img src="https://cdn.prompthero.com/qm1jxxxzu1eu7v2mwik34oahuak0-flux-flux1-dev-photo-of-a-slim-small-breast-flat-chest-abs-young-asian-female-supermodel-with-short-messy-black-hair-stark-white.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-photo of a slim, small breast, flat chest, abs, young asian female supermodel, with short messy black hair, Stark white collarless tunic, midriff, Modernist tapered leg trousers, Kicking leg up behind playfully , rule of thirds, in the background Bauhaus-style theater stage set, lights Minimalist starry night sky the model is lighted with soft natural lighting
-```
-
-By [@AkiraS](https://prompthero.com/prompt/6a8dc5b27c3-flux-flux1-dev-photo-of-a-slim-small-breast-flat-chest-abs-young-asian-female-supermodel-with-short-messy-black-hair-stark-white)
-
----
-
-<a id="prompthero-6a058870c9d"></a>
-
-## close-up of a young woman with pale blue smoke cur\.\.\.
-
-<a href="https://cdn.prompthero.com/ak623seq41p851opbds006r3288m-midjourney-6-close-up-of-a-young-woman-with-pale-blue-smoke-curling-from-her-lips-against-a-stark-white-background-her.png"><img src="https://cdn.prompthero.com/ak623seq41p851opbds006r3288m-midjourney-6-close-up-of-a-young-woman-with-pale-blue-smoke-curling-from-her-lips-against-a-stark-white-background-her.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-close-up of a young woman with pale blue smoke curling from her lips against a stark white background, her features emphasized by soft lighting that casts gentle shadows, capturing a moment of quiet solitude and introspection, her dark hair contrasting with the lightness of the smoke and her surroundings --ar 9:16 --style raw --v 6
-```
-
-By [@Grayve](https://prompthero.com/prompt/6a058870c9d-midjourney-6-close-up-of-a-young-woman-with-pale-blue-smoke-curling-from-her-lips-against-a-stark-white-background-her)
-
----
-
-<a id="prompthero-6add0a33d38"></a>
-
-## A realistic, high-definition image of a baby and a\.\.\.
-
-<a href="https://cdn.prompthero.com/kziavmbrnalf0w4k0wz77idpafl3-flux-flux-11-pro-ultra-a-realistic-high-definition-image-of-a-baby-and-a-white-tiger-standing-together-both-facing-the-camerathe-baby-is.jpg"><img src="https://cdn.prompthero.com/kziavmbrnalf0w4k0wz77idpafl3-flux-flux-11-pro-ultra-a-realistic-high-definition-image-of-a-baby-and-a-white-tiger-standing-together-both-facing-the-camerathe-baby-is.jpg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-A realistic, high-definition image of a baby and a white tiger standing together, both facing the camera.The baby is smile. The baby and the white tiger are of similar size, with the baby dressed in a fluffy white outfit that has tiger stripes matching the white tiger's fur pattern. The outfit includes a hat with tiger ears. They are on a farm with a detailed farm background visible. The style is photorealistic, capturing fine textures and details.
-```
-
-[Source](https://prompthero.com/prompt/6add0a33d38-flux-flux-11-pro-ultra-a-realistic-high-definition-image-of-a-baby-and-a-white-tiger-standing-together-both-facing-the-camerathe-baby-is)
-
----
 
 <a id="prompthero-6b1b6ec2719"></a>
 
@@ -326,6 +246,86 @@ A photo of a fashionable woman at a chic resort. She is wearing a trendy yet ele
 
 ---
 
-[1](portraits.md) · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · [5](portraits-5.md) · [6](portraits-6.md) · [7](portraits-7.md) · [8](portraits-8.md) · [9](portraits-9.md) · **10** · [11](portraits-11.md) · [12](portraits-12.md) · [13](portraits-13.md) · [14](portraits-14.md) · [15](portraits-15.md) · [16](portraits-16.md) · [17](portraits-17.md) · [18](portraits-18.md) · [19](portraits-19.md) · [20](portraits-20.md) · [21](portraits-21.md) · [22](portraits-22.md) · [23](portraits-23.md) · [24](portraits-24.md) · [25](portraits-25.md) · [26](portraits-26.md) · [27](portraits-27.md) · [28](portraits-28.md) · [29](portraits-29.md) · [30](portraits-30.md) · [31](portraits-31.md) · [32](portraits-32.md) · [33](portraits-33.md) · [34](portraits-34.md) · [35](portraits-35.md) · [36](portraits-36.md)
+<a id="prompthero-7aacefb6af5"></a>
+
+## \[Edgy medium fashion photo\] \+ \[Model wearing a whi\.\.\.
+
+<a href="https://cdn.prompthero.com/q0o4bol932arvazb0atm1kjogxwr-flux-flux-11-pro-ultra-edgy-medium-fashion-photo-model-wearing-a-white-puffer-jacket-with-subtle-quilting-oversized-dark-teal-faux-fur-hood-reflective.jpg"><img src="https://cdn.prompthero.com/q0o4bol932arvazb0atm1kjogxwr-flux-flux-11-pro-ultra-edgy-medium-fashion-photo-model-wearing-a-white-puffer-jacket-with-subtle-quilting-oversized-dark-teal-faux-fur-hood-reflective.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+[Edgy medium fashion photo] + [Model wearing a white puffer jacket with subtle quilting, oversized dark teal faux fur hood, reflective ski goggles with a purple gradient lens, and bright yellow quilted gloves with exaggerated padding. The textures of the outfit are luxurious and bold, creating a winter-sport-inspired aesthetic.] [Female model with wet-effect blond curly hair framing her face, neutral expression, intense gaze.] [Style: High-fashion winterwear by Prada, inspired by contemporary alpine sportswear.] [Location: snow mountain.] [Lighting: sunny light, emphasizing texture and materials.] [Camera: Fashion photography with Canon EOS 5D Mark IV.] [Details: Hyperrealistic details, polished textures, sharp focus on materials and accessories.] --v 6.1
+```
+
+By [@chorlo](https://prompthero.com/prompt/7aacefb6af5-flux-flux-11-pro-ultra-edgy-medium-fashion-photo-model-wearing-a-white-puffer-jacket-with-subtle-quilting-oversized-dark-teal-faux-fur-hood-reflective)
+
+---
+
+<a id="prompthero-7ae913f5c1c"></a>
+
+## editorial photography, male model, 50mm f/1\.2 RF l\.\.\.
+
+<a href="https://cdn.prompthero.com/41ju9v8tp67gu096s5vc7gpxo01w-midjourney-7-editorial-photography-male-model-50mm-f12-rf-lens-f28-set-1160s-iso-100-gradient-neon-orange-minimalist-street-style-deep.png"><img src="https://cdn.prompthero.com/41ju9v8tp67gu096s5vc7gpxo01w-midjourney-7-editorial-photography-male-model-50mm-f12-rf-lens-f28-set-1160s-iso-100-gradient-neon-orange-minimalist-street-style-deep.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+editorial photography, male model, 50mm f/1.2 RF lens, f/2.8 set, 1/160s, iso 100, gradient neon orange, minimalist street style, deep orange atmospheric lighting, lights at ceiling, overhead softbox at 3200K, full-body confidence pose with silhouette, dramatic contrast, photorealistic quality, rich detailing --ar 9:16 --raw --profile otwluoo --stylize 200
+```
+
+By [@Grayve](https://prompthero.com/prompt/7ae913f5c1c-midjourney-7-editorial-photography-male-model-50mm-f12-rf-lens-f28-set-1160s-iso-100-gradient-neon-orange-minimalist-street-style-deep)
+
+---
+
+<a id="prompthero-7b8b927a109"></a>
+
+## medium shot, centered, sharp focus, Full body, 1gi\.\.\.
+
+<a href="https://cdn.prompthero.com/tuapuudqbqevk851idz3v7thi77d-dreamshaper-5-baked-vae-medium-shot-centered-sharp-focus-full-body-1girl-hyperdetailed-kimono-fox-ears-perfect-face-white-long-hair-middle-part-anxious.jpg"><img src="https://cdn.prompthero.com/tuapuudqbqevk851idz3v7thi77d-dreamshaper-5-baked-vae-medium-shot-centered-sharp-focus-full-body-1girl-hyperdetailed-kimono-fox-ears-perfect-face-white-long-hair-middle-part-anxious.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+medium shot, centered, sharp focus, Full body, 1girl, hyperdetailed, kimono, fox ears, Perfect face, white long hair, middle part, Anxious, (epic composition, epic proportion, masterpiece, award winning, professional), Colorful glamorous hyperdetailed intricate medieval Japanese city background, vivid colors, Elegant, graceful, HDR, UHD, high res, 64k, cinematic lighting, special effects, hd octane render, professional photograph, studio lighting, trending on artstation,
+```
+
+[Source](https://prompthero.com/prompt/7b8b927a109-dreamshaper-5-baked-vae-medium-shot-centered-sharp-focus-full-body-1girl-hyperdetailed-kimono-fox-ears-perfect-face-white-long-hair-middle-part-anxious)
+
+---
+
+<a id="prompthero-7b41ec53ea5"></a>
+
+## photorealistic, wide angle, toe to head compositio\.\.\.
+
+<a href="https://cdn.prompthero.com/jwqic7rzeix91k9mikocl2lo8i-midjourney-shatter-photorealistic-wide-angle-toe-to-head-composition-distorted-street-style-of-fashion-man-model-wearing-gorpcore-outfit-featuring-baggy-ripstop.png"><img src="https://cdn.prompthero.com/jwqic7rzeix91k9mikocl2lo8i-midjourney-shatter-photorealistic-wide-angle-toe-to-head-composition-distorted-street-style-of-fashion-man-model-wearing-gorpcore-outfit-featuring-baggy-ripstop.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+photorealistic, wide angle, toe to head composition, distorted, street style of fashion, man model, wearing gorpcore outfit, featuring baggy ripstop cargo pants, standing in industrial steel scaffolding, highlighting thick bungee cord drawstrings, cinematic natural back lighting, highly detailed fabric texture --ar 9:16 --raw
+```
+
+By [@Grayve](https://prompthero.com/prompt/7b41ec53ea5-midjourney-shatter-photorealistic-wide-angle-toe-to-head-composition-distorted-street-style-of-fashion-man-model-wearing-gorpcore-outfit-featuring-baggy-ripstop)
+
+---
+
+<a id="prompthero-7bdbc7468b1"></a>
+
+## the face of a woman with brown eyes, in the style \.\.\.
+
+<a href="https://cdn.prompthero.com/k2hcqrgjw2ncitgcp2xmf5xiizb1-midjourney-6-the-face-of-a-woman-with-brown-eyes-in-the-style-of-yigal-ozeri-light-navy-and-light-gray-patrick.png"><img src="https://cdn.prompthero.com/k2hcqrgjw2ncitgcp2xmf5xiizb1-midjourney-6-the-face-of-a-woman-with-brown-eyes-in-the-style-of-yigal-ozeri-light-navy-and-light-gray-patrick.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+the face of a woman with brown eyes, in the style of yigal ozeri, light navy and light gray, patrick demarchelier, alayna lemmer, focus on joints/connections, caravaggism, studio light --ar 1:2 --stylize 750 --v 6
+```
+
+By [@NorthmoorAI](https://prompthero.com/prompt/7bdbc7468b1-midjourney-6-the-face-of-a-woman-with-brown-eyes-in-the-style-of-yigal-ozeri-light-navy-and-light-gray-patrick)
+
+---
+
+[1](portraits.md) · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · [5](portraits-5.md) · [6](portraits-6.md) · [7](portraits-7.md) · [8](portraits-8.md) · [9](portraits-9.md) · **10** · [11](portraits-11.md) · [12](portraits-12.md) · [13](portraits-13.md) · [14](portraits-14.md) · [15](portraits-15.md) · [16](portraits-16.md) · [17](portraits-17.md) · [18](portraits-18.md) · [19](portraits-19.md) · [20](portraits-20.md) · [21](portraits-21.md) · [22](portraits-22.md) · [23](portraits-23.md) · [24](portraits-24.md) · [25](portraits-25.md) · [26](portraits-26.md) · [27](portraits-27.md) · [28](portraits-28.md) · [29](portraits-29.md) · [30](portraits-30.md) · [31](portraits-31.md) · [32](portraits-32.md) · [33](portraits-33.md) · [34](portraits-34.md) · [35](portraits-35.md)
 
 [← Home](../README.md)

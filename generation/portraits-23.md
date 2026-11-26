@@ -1,90 +1,10 @@
 # portraits
 
-[← Home](../README.md) · Page 23 / 36
+[← Home](../README.md) · Page 23 / 35
 
-[1](portraits.md) · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · [5](portraits-5.md) · [6](portraits-6.md) · [7](portraits-7.md) · [8](portraits-8.md) · [9](portraits-9.md) · [10](portraits-10.md) · [11](portraits-11.md) · [12](portraits-12.md) · [13](portraits-13.md) · [14](portraits-14.md) · [15](portraits-15.md) · [16](portraits-16.md) · [17](portraits-17.md) · [18](portraits-18.md) · [19](portraits-19.md) · [20](portraits-20.md) · [21](portraits-21.md) · [22](portraits-22.md) · **23** · [24](portraits-24.md) · [25](portraits-25.md) · [26](portraits-26.md) · [27](portraits-27.md) · [28](portraits-28.md) · [29](portraits-29.md) · [30](portraits-30.md) · [31](portraits-31.md) · [32](portraits-32.md) · [33](portraits-33.md) · [34](portraits-34.md) · [35](portraits-35.md) · [36](portraits-36.md)
+[1](portraits.md) · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · [5](portraits-5.md) · [6](portraits-6.md) · [7](portraits-7.md) · [8](portraits-8.md) · [9](portraits-9.md) · [10](portraits-10.md) · [11](portraits-11.md) · [12](portraits-12.md) · [13](portraits-13.md) · [14](portraits-14.md) · [15](portraits-15.md) · [16](portraits-16.md) · [17](portraits-17.md) · [18](portraits-18.md) · [19](portraits-19.md) · [20](portraits-20.md) · [21](portraits-21.md) · [22](portraits-22.md) · **23** · [24](portraits-24.md) · [25](portraits-25.md) · [26](portraits-26.md) · [27](portraits-27.md) · [28](portraits-28.md) · [29](portraits-29.md) · [30](portraits-30.md) · [31](portraits-31.md) · [32](portraits-32.md) · [33](portraits-33.md) · [34](portraits-34.md) · [35](portraits-35.md)
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
-
-<a id="prompthero-42351a4defe"></a>
-
-## A stylish young Caucasian ultra cutest woman in a \.\.\.
-
-<a href="https://cdn.prompthero.com/brm6b9kprq1l2td0ip28rhe0vt-stable-diffusion-35-large-a-stylish-young-caucasian-ultra-cutest-woman-in-a-modern-pastel-trench-coat-crossing-a-rain-slicked-street-under-a.jpeg"><img src="https://cdn.prompthero.com/brm6b9kprq1l2td0ip28rhe0vt-stable-diffusion-35-large-a-stylish-young-caucasian-ultra-cutest-woman-in-a-modern-pastel-trench-coat-crossing-a-rain-slicked-street-under-a.jpeg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-A stylish young Caucasian ultra cutest woman in a modern pastel trench coat, crossing a rain-slicked street under a clear umbrella, neon reflections shimmering on the wet pavement. Some people walking on the background. The image is processed with a faded retro filter, muted blues and yellows, adding cinematic nostalgia. A hyper close-up of her face taken from specially low-angle. 16K resolution, with a pulsating, high-energy atmosphere blending cyberpunk fashion and abstract art. Specially fishy eye lens effect without vignetting. True realistic portrait. The entire screen is natural bright and dazzlingly vivid subtly. The high resolution and fine details are reminiscent of an electron microscope with sharpened hyper strongly.
-```
-
-[Source](https://prompthero.com/prompt/42351a4defe-stable-diffusion-35-large-a-stylish-young-caucasian-ultra-cutest-woman-in-a-modern-pastel-trench-coat-crossing-a-rain-slicked-street-under-a)
-
----
-
-<a id="prompthero-43635df03f5"></a>
-
-## niji, octane render, close-up shot of a \(Female:1\.\.\.\.
-
-<a href="https://cdn.prompthero.com/pr7dlmmo2utnr632sqilgzcp9b4n-dreamshaper-xl-lightning-dpm-sde-niji-octane-render-close-up-shot-of-a-female13-wearing-chic-clothes-her-clothes-tailored-by-hubert-de-givenchy-rolled.png"><img src="https://cdn.prompthero.com/pr7dlmmo2utnr632sqilgzcp9b4n-dreamshaper-xl-lightning-dpm-sde-niji-octane-render-close-up-shot-of-a-female13-wearing-chic-clothes-her-clothes-tailored-by-hubert-de-givenchy-rolled.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-niji, octane render, close-up shot of a (Female:1.3) , wearing Chic clothes, her clothes tailored by Hubert De Givenchy rolled up sleeves, Upside down Orange and Blue Body Chain, Fall, Hopeful, Futurepunk, Cathode tube, portrait, girl, <lora:xl_more_art-full_v1:0.7>
-```
-
-[Source](https://prompthero.com/prompt/43635df03f5-dreamshaper-xl-lightning-dpm-sde-niji-octane-render-close-up-shot-of-a-female13-wearing-chic-clothes-her-clothes-tailored-by-hubert-de-givenchy-rolled)
-
----
-
-<a id="prompthero-47936a83dba"></a>
-
-## \(1girl, full body:1\.4\), Beautiful Korean woman, K-\.\.\.
-
-<a href="https://cdn.prompthero.com/yv9wnsm7250kyvno8tszqjanew0h-dreamshaper-5-baked-vae-1girl-full-body14-beautiful-korean-woman-k-pop-idol-cute-loose-bob-hairstyle-wearing-a-black-wedding-dress14-small-breasts.png"><img src="https://cdn.prompthero.com/yv9wnsm7250kyvno8tszqjanew0h-dreamshaper-5-baked-vae-1girl-full-body14-beautiful-korean-woman-k-pop-idol-cute-loose-bob-hairstyle-wearing-a-black-wedding-dress14-small-breasts.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-(1girl, full body:1.4), Beautiful Korean woman, K-pop idol, (Cute Loose Bob hairstyle), (wearing a black wedding dress:1.4), (small breasts), symmetrical eyes, (aegyo sal:1), (eyelashes:1.1), (photorealistic:1.4), 8k, ultra highres, hyperrealism, (dramatic lighting), photography, beautifully detailed face, beautiful detailed eyes, (masterpiece), High detail color photo, a professional photo, (realistic, photorealism:1.5), (highest quality), (best shadow), ultra-high resolution, physics-based rendering, photo, realism, high contrast, 8k HD high definition detailed realistic, detailed, best quality, Nikon d850 film, cinestill 800
-```
-
-[Source](https://prompthero.com/prompt/47936a83dba-dreamshaper-5-baked-vae-1girl-full-body14-beautiful-korean-woman-k-pop-idol-cute-loose-bob-hairstyle-wearing-a-black-wedding-dress14-small-breasts)
-
----
-
-<a id="prompthero-54895de226f"></a>
-
-## male, superhero, no symbol, Rocketeer outfit from\.\.\.
-
-<a href="https://cdn.prompthero.com/yvy2vp9agd6ajbazc7nrywgplpvo-dreamshaper-7-male-superhero-no-symbol-rocketeer-outfit-from-the-rocketeer-movie-rocketeer-helmet-detailed-face-detailed-eyes-real-face-fitness-body.png"><img src="https://cdn.prompthero.com/yvy2vp9agd6ajbazc7nrywgplpvo-dreamshaper-7-male-superhero-no-symbol-rocketeer-outfit-from-the-rocketeer-movie-rocketeer-helmet-detailed-face-detailed-eyes-real-face-fitness-body.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-male,  superhero, no symbol, Rocketeer outfit from the Rocketeer movie, Rocketeer helmet, detailed face, detailed eyes, real face, fitness body, without blur, full body portrait, 8k resolution concept art portrait by Greg Rutkowski, Artgerm, WLOP, and Alphonse Mucha cinematic lighting, hyperdetailed, intricately detailed, Splash art trending on Artstation, triadic colors
-```
-
-[Source](https://prompthero.com/prompt/54895de226f-dreamshaper-7-male-superhero-no-symbol-rocketeer-outfit-from-the-rocketeer-movie-rocketeer-helmet-detailed-face-detailed-eyes-real-face-fitness-body)
-
----
-
-<a id="prompthero-60029ac7da9"></a>
-
-## a 70 year old woman wearing a batik dress and sa\.\.\.
-
-<a href="https://cdn.prompthero.com/g9sshrt1dbmdylqdzp7uy57aylhj-dalle-1-a-70-year-old-woman-wearing-a-batik-dress-and-sarong-was-touching-an-electrical-switch-on-the-wall-of.jpg"><img src="https://cdn.prompthero.com/g9sshrt1dbmdylqdzp7uy57aylhj-dalle-1-a-70-year-old-woman-wearing-a-batik-dress-and-sarong-was-touching-an-electrical-switch-on-the-wall-of.jpg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-a 70 year old woman wearing a batik dress and sarong was touching an electrical switch on the wall of her house, she was electrocuted, all her hair stood up and was a mess, a cloud of smoke could be seen coming out of her head, her face turned black as if it had been hit by charcoal, her expression was laughing while giving a thumbs up to the camera, smoke effect, blue electric shock effect all over the body, light effect, photography, 8K, high quality
-```
-
-[Source](https://prompthero.com/prompt/60029ac7da9-dalle-1-a-70-year-old-woman-wearing-a-batik-dress-and-sarong-was-touching-an-electrical-switch-on-the-wall-of)
-
----
 
 <a id="prompthero-61389bc46f2"></a>
 
@@ -326,6 +246,86 @@ a poster depicts a boy holding a heart shaped balloon, in the style of sketchfab
 
 ---
 
-[1](portraits.md) · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · [5](portraits-5.md) · [6](portraits-6.md) · [7](portraits-7.md) · [8](portraits-8.md) · [9](portraits-9.md) · [10](portraits-10.md) · [11](portraits-11.md) · [12](portraits-12.md) · [13](portraits-13.md) · [14](portraits-14.md) · [15](portraits-15.md) · [16](portraits-16.md) · [17](portraits-17.md) · [18](portraits-18.md) · [19](portraits-19.md) · [20](portraits-20.md) · [21](portraits-21.md) · [22](portraits-22.md) · **23** · [24](portraits-24.md) · [25](portraits-25.md) · [26](portraits-26.md) · [27](portraits-27.md) · [28](portraits-28.md) · [29](portraits-29.md) · [30](portraits-30.md) · [31](portraits-31.md) · [32](portraits-32.md) · [33](portraits-33.md) · [34](portraits-34.md) · [35](portraits-35.md) · [36](portraits-36.md)
+<a id="prompthero-0883267fc2d"></a>
+
+## A beautiful woman with robotic features as a close\.\.\.
+
+<a href="https://cdn.prompthero.com/6ziwii9z81qcmd524ba2qzmb80xd-midjourney-6-a-beautiful-woman-with-robotic-features-as-a-closeup-shot-of-the-face-and-neck-with-circuitry-on-her-skin.png"><img src="https://cdn.prompthero.com/6ziwii9z81qcmd524ba2qzmb80xd-midjourney-6-a-beautiful-woman-with-robotic-features-as-a-closeup-shot-of-the-face-and-neck-with-circuitry-on-her-skin.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+A beautiful woman with robotic features as a closeup shot of the face and neck, with circuitry on her skin, clean lines, minimal details, cyberpunk, portrayed in profile with a red background, futuristic design, in a 2D flat composition, red tones, digital art in the style of Studio Ghibli --ar 1:2 --stylize 750
+```
+
+By [@NorthmoorAI](https://prompthero.com/prompt/0883267fc2d-midjourney-6-a-beautiful-woman-with-robotic-features-as-a-closeup-shot-of-the-face-and-neck-with-circuitry-on-her-skin)
+
+---
+
+<a id="prompthero-892323d1377"></a>
+
+## woman walking up a beach carrying a surfboard unde\.\.\.
+
+<a href="https://cdn.prompthero.com/lmx53eqyuaz1v3njgv97mxfvj3qv-flux-flux-11-pro-woman-walking-up-a-beach-carrying-a-surfboard-under-her-arm-long-wavy-brunette-hair-blows-in-the-wind-wearing.jpg"><img src="https://cdn.prompthero.com/lmx53eqyuaz1v3njgv97mxfvj3qv-flux-flux-11-pro-woman-walking-up-a-beach-carrying-a-surfboard-under-her-arm-long-wavy-brunette-hair-blows-in-the-wind-wearing.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+woman walking up a beach carrying a surfboard under her arm, long wavy brunette hair blows in the wind, wearing a wetsuit too tight, long sleeves, morning sunlight reflects off the water, heavy surf
+```
+
+[Source](https://prompthero.com/prompt/892323d1377-flux-flux-11-pro-woman-walking-up-a-beach-carrying-a-surfboard-under-her-arm-long-wavy-brunette-hair-blows-in-the-wind-wearing)
+
+---
+
+<a id="prompthero-1704243f6a4"></a>
+
+## Blue Orc Native Mammoth rider
+
+<a href="https://cdn.prompthero.com/12eermwxxjr6zn2we1eetfkxq2oe-sd-xl-v10-refiner-vae-fix-blue-orc-native-mammoth-rider.jpg"><img src="https://cdn.prompthero.com/12eermwxxjr6zn2we1eetfkxq2oe-sd-xl-v10-refiner-vae-fix-blue-orc-native-mammoth-rider.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+A Full Body photo shot of a blue native orc warrior, riding on his majestic sharp tusk mammoth, beautiful face, vivid colors, elegant, concept art, sharp focus, digital art, Hyper-realistic, 8K resolution, Unreal Engine 5, Highly Detailed, HD, Dramatic Lighting by Brom, trending on Artstation, hyperdetailed eyes, hyperrealism extremely detailed epic masterwork ((masterpiece)), Hyperrealistic, splash art, concept art, mid shot, intricately detailed, color depth, dramatic, 2/3 face angle, side light, colorful background
+```
+
+By [@Atheist](https://prompthero.com/prompt/1704243f6a4-sd-xl-v10-refiner-vae-fix-blue-orc-native-mammoth-rider)
+
+---
+
+<a id="prompthero-01838103e71"></a>
+
+## woman in the field, in the style of outdoor fashio\.\.\.
+
+<a href="https://cdn.prompthero.com/4kzv8i2l8d9c5omdvr3nv6c8n7xb-midjourney-6-woman-in-the-field-in-the-style-of-outdoor-fashion-shoot-natural-lighting-scottish-landscapes-light-navy-and-dark-brownshot.jpg"><img src="https://cdn.prompthero.com/4kzv8i2l8d9c5omdvr3nv6c8n7xb-midjourney-6-woman-in-the-field-in-the-style-of-outdoor-fashion-shoot-natural-lighting-scottish-landscapes-light-navy-and-dark-brownshot.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+woman in the field, in the style of outdoor fashion shoot, natural lighting, scottish landscapes, light navy and dark brown,shot on a Sony A7III
+```
+
+[Source](https://prompthero.com/prompt/01838103e71-midjourney-6-woman-in-the-field-in-the-style-of-outdoor-fashion-shoot-natural-lighting-scottish-landscapes-light-navy-and-dark-brownshot)
+
+---
+
+<a id="prompthero-3072321fc9e"></a>
+
+## high resolution photography, monochrome, evoking t\.\.\.
+
+<a href="https://cdn.prompthero.com/4d2b9wuzs6p5n7rdgrwiis9zojcm-midjourney-6-high-resolution-photography-monochrome-evoking-the-starkness-of-classic-noir-with-an-intimate-psychological-edge-close-up-front-profile-with.png"><img src="https://cdn.prompthero.com/4d2b9wuzs6p5n7rdgrwiis9zojcm-midjourney-6-high-resolution-photography-monochrome-evoking-the-starkness-of-classic-noir-with-an-intimate-psychological-edge-close-up-front-profile-with.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+high resolution photography, monochrome, evoking the starkness of classic noir with an intimate, psychological edge, close-up, front profile with strategic lighting to accentuate features and create depth, black and white digital photography, with a high emphasis on texture and contrast, Canon EOS 5D Mark IV, preferred for its full-frame sensor that captures detailed gradations in tone, Canon EF 85mm f/1.2L II USM, offering a shallow depth of field and exceptional bokeh, manual mode, using a single off-camera flash with a snoot to direct a focused beam of light, camera on a tripod for stability, male in his thirties, with a beard and a gaze that holds an introspective stillness, beard is well-groomed, catching highlights where the light grazes, and his eyes are deep-set, underlined by a furrowed brow, indicative of concentration or internal conflict, minimalist, to avoid distracting from the subject's emotive presence, he absence of a background ensures that all narrative weight is carried by the subject's expression and the play of light on skin, void of context, the darkness envelops the subject, focusing attention on the stark contrast of light and shadow across his face, low key, with a singular source that creates a diagonal divide across the face, symbolizing the chiaroscuro technique's thematic play between revelation and concealment, the light catches on the ridges of the subject's facial features; the thoughtful position of his hand, fingers resting gently yet firmly against his chin, adds to the introspective quality, portrait invites the viewer into a moment of private reflection, punctuated by a profound silence that speaks volumes, serving as a canvas for the viewer's own interpretations of light, shadow, and the layers of the human condition, ultra realistic, UHD, many details --ar 9:16 --style raw --stylize 600
+```
+
+By [@Grayve](https://prompthero.com/prompt/3072321fc9e-midjourney-6-high-resolution-photography-monochrome-evoking-the-starkness-of-classic-noir-with-an-intimate-psychological-edge-close-up-front-profile-with)
+
+---
+
+[1](portraits.md) · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · [5](portraits-5.md) · [6](portraits-6.md) · [7](portraits-7.md) · [8](portraits-8.md) · [9](portraits-9.md) · [10](portraits-10.md) · [11](portraits-11.md) · [12](portraits-12.md) · [13](portraits-13.md) · [14](portraits-14.md) · [15](portraits-15.md) · [16](portraits-16.md) · [17](portraits-17.md) · [18](portraits-18.md) · [19](portraits-19.md) · [20](portraits-20.md) · [21](portraits-21.md) · [22](portraits-22.md) · **23** · [24](portraits-24.md) · [25](portraits-25.md) · [26](portraits-26.md) · [27](portraits-27.md) · [28](portraits-28.md) · [29](portraits-29.md) · [30](portraits-30.md) · [31](portraits-31.md) · [32](portraits-32.md) · [33](portraits-33.md) · [34](portraits-34.md) · [35](portraits-35.md)
 
 [← Home](../README.md)

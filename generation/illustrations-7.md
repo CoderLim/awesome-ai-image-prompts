@@ -6,38 +6,6 @@
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
-<a id="prompthero-139f75d2e80"></a>
-
-## chibi manga legend of vader anime vh1, in the styl\.\.\.
-
-<a href="https://cdn.prompthero.com/2tzfa3erxs9829afzzyb35j6ewg7-midjourney-niji-mode-chibi-manga-legend-of-vader-anime-vh1-in-the-style-of-miho-hirano-dynamic-and-action-packed-scenes-gaston-bussire.png"><img src="https://cdn.prompthero.com/2tzfa3erxs9829afzzyb35j6ewg7-midjourney-niji-mode-chibi-manga-legend-of-vader-anime-vh1-in-the-style-of-miho-hirano-dynamic-and-action-packed-scenes-gaston-bussire.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-chibi manga legend of vader anime vh1, in the style of miho hirano, dynamic and action-packed scenes, gaston bussière, chinese new year festivities, ross tran, charming character illustrations, light red and bronze --ar 73:88 --s 750 --niji 5
-```
-
-By [@NorthmoorAI](https://prompthero.com/prompt/139f75d2e80-midjourney-niji-mode-chibi-manga-legend-of-vader-anime-vh1-in-the-style-of-miho-hirano-dynamic-and-action-packed-scenes-gaston-bussire)
-
----
-
-<a id="prompthero-191f49c40bd"></a>
-
-## Chinese ink wash art style, a ferocious tiger with\.\.\.
-
-<a href="https://cdn.prompthero.com/x5fv91zrbnric5rn6vkhpnq4sb-chatgpt-image-gpt-image-2-chinese-ink-wash-art-style-a-ferocious-tiger-with-flames-engulfing-its-form-lunging-toward-the-viewer-glowing-eyes-bared.jpeg"><img src="https://cdn.prompthero.com/x5fv91zrbnric5rn6vkhpnq4sb-chatgpt-image-gpt-image-2-chinese-ink-wash-art-style-a-ferocious-tiger-with-flames-engulfing-its-form-lunging-toward-the-viewer-glowing-eyes-bared.jpeg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-Chinese ink wash art style, a ferocious tiger with flames engulfing its form, lunging toward the viewer, glowing eyes, bared fangs, golden claws, swirling smoke and flame effects, subtle red and gold cloud patterns, dark moody background, bold brush strokes, dramatic lighting, high contrast, vibrant fiery colors, ultra-detailed, cinematic composition, phone wallpaper, vertical
-```
-
-By [@chorlo](https://prompthero.com/prompt/191f49c40bd-chatgpt-image-gpt-image-2-chinese-ink-wash-art-style-a-ferocious-tiger-with-flames-engulfing-its-form-lunging-toward-the-viewer-glowing-eyes-bared)
-
----
-
 <a id="prompthero-229b566d62e"></a>
 
 ## acrylic painting, splatter and drip painting techn\.\.\.
@@ -323,6 +291,38 @@ portrait of a badass supervillain in skeleton mask, brutal, techno, light colors
 ```
 
 By [@ArtEnthusiast](https://prompthero.com/prompt/7795e68b6c2-stable-diffusion-xl-base-09-portrait-of-a-badass-supervillain-in-skeleton-mask-brutal-techno-light-colors-smoke-anime-in-the-style-of-comics-8k)
+
+---
+
+<a id="prompthero-8887d8e2e22"></a>
+
+## 1 girl, beautiful Korean girl, \(Cute Loose Bob hai\.\.\.
+
+<a href="https://cdn.prompthero.com/rl1ul2i0eqithy4gp45cj83e11ga-stable-diffusion-15-1-girl-beautiful-korean-girl-cute-loose-bob-hair-wearing-a-cropped-hoodie-capri-sweatpants1-5-hands-in-pockets1-5.png"><img src="https://cdn.prompthero.com/rl1ul2i0eqithy4gp45cj83e11ga-stable-diffusion-15-1-girl-beautiful-korean-girl-cute-loose-bob-hair-wearing-a-cropped-hoodie-capri-sweatpants1-5-hands-in-pockets1-5.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+1 girl, beautiful Korean girl, (Cute Loose Bob hair), (wearing a cropped hoodie, capri sweatpants:1. 5), (hands in pockets:1. 5), (red lips:1. 3), (small breasts:1. 3), (toned stomach:1. 3), (eyelashes:1. 2), (aegyo sal:1. 2), beautiful detailed eyes, symmetrical eyes, (detailed face), immersive background, volumetric haze, global illumination, soft lighting, (flowing hair), (bright smile), natural lighting, (realistic:1.5), (lifelike:1.4), (4k, digital art, masterpiece), High detail digital painting, realistic, (top quality), (soft shadows), (best character art), ultra high resolution, highly detailed digital artwork, physically-based rendering, realism with an artistic touch, vibrant colors, f2.2 lens, soft palette, natural beauty.
+```
+
+[Source](https://prompthero.com/prompt/8887d8e2e22-stable-diffusion-15-1-girl-beautiful-korean-girl-cute-loose-bob-hair-wearing-a-cropped-hoodie-capri-sweatpants1-5-hands-in-pockets1-5)
+
+---
+
+<a id="prompthero-31602a0be0f"></a>
+
+## far view wide angle shot of an uniform astronaut g\.\.\.
+
+<a href="https://cdn.prompthero.com/hf6ci7htkviadsb4kd2oq50t1mne-stable-diffusion-15-far-view-wide-angle-shot-of-an-uniform-astronaut-girl-inside-spaceship-command-room-viewing-galaxyfar-view-shot-ssci-fi.png"><img src="https://cdn.prompthero.com/hf6ci7htkviadsb4kd2oq50t1mne-stable-diffusion-15-far-view-wide-angle-shot-of-an-uniform-astronaut-girl-inside-spaceship-command-room-viewing-galaxyfar-view-shot-ssci-fi.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+far view wide angle shot of an uniform astronaut girl, inside spaceship command room viewing galaxy,Far view shot, ssci-fi neon light effect flushing and fantasy, intricate and very very beautiful and elegant, highly detailed, digital painting, artstation, concept art, smooth and sharp focus, illustration, art by tian zi and WLOP and alphonse mucha <lora:add_detail:1> <lora:Android18DB:1> <lora:concept_indexfingerstogether-10:1>
+```
+
+[Source](https://prompthero.com/prompt/31602a0be0f-stable-diffusion-15-far-view-wide-angle-shot-of-an-uniform-astronaut-girl-inside-spaceship-command-room-viewing-galaxyfar-view-shot-ssci-fi)
 
 ---
 

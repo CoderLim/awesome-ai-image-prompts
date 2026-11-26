@@ -6,70 +6,6 @@
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
-<a id="freestylefly-case-497"></a>
-
-## 单色水彩城市旅行海报
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case497.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case497.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Minimalist vintage watercolor travel poster illustration of [CITY NAME], [COUNTRY], rendered entirely in elegant monochromatic [COLOR] watercolor and fine ink linework. Aspect ratio: 4:5 vertical composition optimized for poster and social media presentation. A peaceful early-morning streetscape featuring the iconic [PRIMARY LANDMARK] and [SECONDARY LANDMARK/LOCATION] in the foreground, viewed from a slightly low pedestrian-level perspective. Historic local architecture, elegant facades, ornate details, arched windows, decorative cornices, and traditional street elements line the spacious surroundings, creating a timeless urban atmosphere. A classic [LOCAL STREET ELEMENT OR LAMP STYLE] stands prominently on the left side, while mature leafy trees frame portions of the scene, their foliage painted with soft watercolor washes and delicate splatter textures. In the distance, [DISTANT LANDMARK OR SKYLINE FEATURE] rises gracefully against the skyline, serving as a recognizable cultural landmark. A vintage [LOCAL VEHICLE] or a few small pedestrians add subtle life and scale without disturbing the tranquil mood. The composition includes large areas of clean white negative space, soft cloudy watercolor textures in the sky, delicate paper grain, and subtle watercolor blooms. The paving, street, or plaza stretches dramatically across the foreground, leading the viewer’s eye toward the landmark ensemble. Typography in the upper-left corner reads “[CITY NAME], [COUNTRY]” in a refined serif font, styled like a sophisticated travel journal or collectible city poster. Handcrafted watercolor illustration, architectural sketch aesthetic, serene urban atmosphere, soft natural morning lighting, muted monochromatic palette, highly detailed line art, elegant travel-poster design, minimalist luxury wall-art style, timeless local charm, premium stationery illustration, ultra-detailed, high-resolution, clean composition, Pinterest-worthy, Instagram-worthy, gallery-quality artwork.
-```
-
-By [@Goodmanprotocol](https://x.com/Goodmanprotocol/status/2062564327140503787)
-
----
-
-<a id="freestylefly-case-503"></a>
-
-## 霓虹设计师 3D 海报
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case503.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case503.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Create an ultra-detailed 3D stylized creative designer poster featuring a cool young digital artist standing confidently in the center of a futuristic blue neon studio. The character wears oversized black streetwear with electric-blue graphic accents, black cargo pants, layered silver chains, black sunglasses, and clean white sneakers. A cute fluffy puppy sits on the artist's shoulder. The camera angle is dramatic low-angle perspective, making the sneakers appear larger for a premium poster effect. Surround the character with floating creative elements including a glowing laptop, professional camera, design books, notebooks, 3D icons, social media symbols, holographic UI panels, graphic design tools, and futuristic blue geometric shapes. Add motivational typography such as "DESIGN MODE", "CREATE • BUILD • INSPIRE", and "CREATIVE NEVER SLEEPS" integrated into the scene. Include a collectible chibi mini-figure version of the character standing beside the main subject on a display base. Use cinematic blue lighting, glossy reflections, volumetric glow, depth of field, floating particles, luxury toy-photography aesthetics, high-end 3D rendering, Octane Render quality, ultra-sharp details, vibrant neon blue color palette, futuristic creator workspace atmosphere, premium commercial poster design, trending ArtStation style, masterpiece quality, 8K resolution, vertical 9:16 composition.
-```
-
-By [@AiwithLariab](https://x.com/AiwithLariab/status/2063240283786187251)
-
----
-
-<a id="freestylefly-case-511"></a>
-
-## 城市名地标排版旅行海报
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case511.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case511.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Create a clean, modern typographic travel poster where the city name itself becomes the composition. Render the city name in large, bold, uppercase sans-serif letters spanning the width of the artwork. Seamlessly integrate the city's most iconic landmarks, architecture, monuments, streets, transportation, cultural symbols, cafés, bridges, parks, skylines, sculptures, waterfronts, historic buildings, and local details into, around, and inside the letters. Let landmarks naturally interact with the typography while preserving legibility. Use an elegant flat vector illustration style with crisp geometric shapes, minimal detail, clean outlines, subtle shadows, and a premium editorial aesthetic. Maintain a limited color palette of deep navy, warm cream, muted red, and soft gray-blue for a timeless travel-poster look. Add small decorative elements such as street lamps, trees, clouds, birds, benches, bicycles, fountains, trams, ferries, or other city-specific objects where appropriate. Keep generous negative space with a clean background and perfectly balanced composition. Ensure every landmark, architectural style, vehicle, sign, and cultural element is accurate to the chosen city—avoid generic or incorrect landmarks. If desired, include a small elegant tagline beneath the city name (such as a famous nickname or slogan) in minimal typography. Style: premium flat vector, minimalist travel poster, geometric illustration, editorial design, tourism branding, clean typography, high contrast, ultra-sharp lines, museum-quality print, modern graphic design, centered composition, scalable SVG aesthetic, 8K resolution.
-```
-
-By [@Goodmanprotocol](https://x.com/Goodmanprotocol/status/2071819124708438092)
-
----
-
-<a id="freestylefly-case-515"></a>
-
-## Guadalajara 复古电影旅行海报
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case515.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case515.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-@Crea una imagen { "style": "Cinematic Vintage Movie Poster — Guadalajara, Mexico", "target_tool": "DALL-E 3 (ChatGPT)", "prompt": "Generate a vertical portrait-format movie poster image, taller than wide in a 2:3 aspect ratio. The image is a cinematic vintage travel movie poster for Guadalajara, Mexico, rendered with the visual texture of an aged large-format film poster: heavy 35mm film grain throughout especially in the shadow areas, slightly faded and warm-shifted color tones as if printed on aged matte paper stock, a subtle halftone dot pattern visible in the midtones, and a very slight ink bleed at high-contrast edges giving it an authentic vintage printed poster feel. Foreground: a single dark silhouette of a lone mariachi musician standing still at the center-bottom of the frame, rendered as a pure clean dark silhouette with no facial features visible — traditional wide-brim charro sombrero, fitted traje de charro suit outline, holding a guitarrón — casting a long warm shadow across the honey-colored cantera stone paving of Plaza de la Liberación below, with colorful papel picado banners in red, orange, green and yellow cut tissue paper strung in loose diagonal lines overhead from building to building, swaying slightly, framing the upper composition, no people other than the single silhouetted figure, no vehicles, no modern objects. Midground: the grand honey-amber cantera stone neoclassical facade of the Teatro Degollado rising directly behind the silhouette, its ornate columned portico and triangular pediment warmly lit by the low golden-hour sun hitting from the left, long dramatic shadows stretching across the stone paving, the warm amber volcanic stone glowing intensely in the golden light. Background: the twin neo-Gothic spires of the Catedral Metropolitana de Guadalajara rising tall into the upper frame against a vast deep cerulean blue sky transitioning to burnt amber and deep orange near the horizon, a single scattered cloud catching violet and gold light from below, the cathedral facade in warm honey stone matching the Teatro Degollado's palette. Color grade: saturated warm amber and golden honey tones dominating the stone architecture, deep cobalt blue in the upper sky, rich burnt orange near the horizon, faded warm sepia in the shadow areas consistent with a vintage printed poster. At the very top of the image, centered above the spires, render the single word GUADALAJARA in bold condensed uppercase display serif letters in warm cream-gold with a faint dark drop shadow, leaving clear sky negative space for the title. No modern buildings, no cars, no utility wires, no people other than the single dark silhouette visible anywhere in the scene.", "target": "🎯 Target: DALL-E 3 (ChatGPT) — 💡 Foreground/midground/background separation places Teatro Degollado and the Cathedral in distinct spatial layers, the mariachi silhouette is specified as a featureless outline to eliminate aberration risk, and vintage print texture is described visually rather than as a style label." }
-```
-
-By [@MiMundoConIA](https://x.com/MiMundoConIA/status/2077046470335938826)
-
----
-
 <a id="freestylefly-case-526"></a>
 
 ## 体积激光黑场海报
@@ -323,6 +259,70 @@ dynamic, full shot of the Joker character,  from the movie "Joker",  a Caucasian
 ```
 
 [Source](https://prompthero.com/prompt/49f80606c2a-midjourney-61-dynamic-full-shot-of-the-joker-character-from-the-movie-joker-a-caucasian-man-likely-in-his-late-20s-or)
+
+---
+
+<a id="prompthero-93b3237ae36"></a>
+
+## A striking movie poster for &quot;The Art of Resistance\.\.\.
+
+<a href="https://cdn.prompthero.com/wbuqkmfuk8g11ibjvqhalru15gp4-dalle-3-a-striking-movie-poster-for-the-art-of-resistance-features-a-diverse-group-of-artists-and-cultural-icons-each-holding.jpg"><img src="https://cdn.prompthero.com/wbuqkmfuk8g11ibjvqhalru15gp4-dalle-3-a-striking-movie-poster-for-the-art-of-resistance-features-a-diverse-group-of-artists-and-cultural-icons-each-holding.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+A striking movie poster for "The Art of Resistance" features a diverse group of artists and cultural icons, each holding a unique work of art that symbolizes their respective movements and struggles. The background is an energetic and bold color palette, with a mix of abstract and realistic art styles. The overall atmosphere of the poster is inspiring and empowering, as it celebrates the power of art and creativity in the face of adversity.
+```
+
+[Source](https://prompthero.com/prompt/93b3237ae36-dalle-3-a-striking-movie-poster-for-the-art-of-resistance-features-a-diverse-group-of-artists-and-cultural-icons-each-holding)
+
+---
+
+<a id="prompthero-254f00503a2"></a>
+
+## At the center of the image is the OKC Thunder logo\.\.\.
+
+<a href="https://cdn.prompthero.com/td408iyta7ekze3y56p4mtjcb6-hero-10-at-the-center-of-the-image-is-the-okc-thunder-logo-positioned-over-the-face-of-a-powerful-human-like.jpeg"><img src="https://cdn.prompthero.com/td408iyta7ekze3y56p4mtjcb6-hero-10-at-the-center-of-the-image-is-the-okc-thunder-logo-positioned-over-the-face-of-a-powerful-human-like.jpeg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+At the center of the image is the OKC Thunder logo, positioned over the face of a powerful, human-like storm figure rising from thick, turbulent clouds. Above it, the word “THUNDER” curves across the top in bold, metallic lettering. The figure’s glowing blue eyes create an intense, almost supernatural presence. The composition is framed by dark, swirling storm clouds, bright blue lightning bolts, and strong contrast with glowing highlights. A deep blue palette, accented with white and electric blue, gives the image a cold, charged, and dramatic atmosphere. Overall, the artwork feels cinematic, aggressive, and full of energy, like a striking fan poster that captures the raw power and identity of the Oklahoma City Thunder.
+```
+
+[Source](https://prompthero.com/prompt/254f00503a2-hero-10-at-the-center-of-the-image-is-the-okc-thunder-logo-positioned-over-the-face-of-a-powerful-human-like)
+
+---
+
+<a id="prompthero-311c87d60a0"></a>
+
+## \{ &quot;meta&quot;: \{ &quot;aesthetic\_goal&quot;: &quot;Ultra Realistic Cin\.\.\.
+
+<a href="https://cdn.prompthero.com/emf0bvquv90rtm621huah6qk5w-chatgpt-image-v1-meta-aestheticgoal-ultra-realistic-cinematic-music-cover-soft-cyberpunk-pastel-vibemode-dreamy-rooftop-night-soft-neon-atmosphere-imagequality-ultra-high.png"><img src="https://cdn.prompthero.com/emf0bvquv90rtm621huah6qk5w-chatgpt-image-v1-meta-aestheticgoal-ultra-realistic-cinematic-music-cover-soft-cyberpunk-pastel-vibemode-dreamy-rooftop-night-soft-neon-atmosphere-imagequality-ultra-high.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+{ "meta": { "aesthetic_goal": "Ultra Realistic Cinematic Music Cover / Soft Cyberpunk Pastel", "vibe_mode": "Dreamy Rooftop Night / Soft Neon Atmosphere", "image_quality": "Ultra High / Photorealistic Album Cover", "image_type": "Photo", "device_simulation": "Full-frame mirrorless cinematic portrait", "render_settings": { "resolution": "1792x1024", "aspect_ratio": "16:9", "quality_tags": "ultra realistic, pastel cyberpunk, soft glow, cinematic lighting, shallow depth of field, film grain, high dynamic range" } }, "global_context": { "scene_description": "A highly realistic cinematic portrait of a young woman standing on a skyscraper rooftop at night, overlooking a dreamy cyberpunk city filled with soft pastel neon lights (muted cyan, soft pink, lavender, pale amber).", "time_of_day": "Late Night", "weather_atmosphere": "Cool air, gentle wind, thin mist, diffused neon haze, soft atmospheric bloom" }, "artistic_elements": { "mood": "Quiet, emotional, introspective, slightly melancholic but peaceful", "style": "Soft Cyberpunk Realism / Dreamwave", "theme": "Loneliness in a connected world", "narrative": "A solitary figure observing a calm futuristic city glowing softly beneath, representing emotional distance softened by quiet acceptance.", "compositional_technique": "Centered subject with layered depth (foreground softness, mid subject sharp, background blur)", "authenticity_marker": "natural skin texture, subtle wind motion, realistic light falloff, soft RGB split, cinematic imperfections" }, "color_palette": { "dominant_hex_estimates": [ "#0e1117", "#10131c" ], "accent_colors": [ "Soft Cyan", "Pastel Pink", "Lavender Purple", "Muted Amber Highlights" ], "contrast_level": "Medium-Low", "overall_mood": "Dark base with gentle pastel neon glow" }, "composition": { "layout_type": "Music Cover", "camera_angle": "Eye Level", "framing": "Waist Up", "depth_of_field": "Very shallow (creamy bokeh city lights)", "focal_point": "Eyes", "balance": "Centered with subtle asymmetry from city lights", "key_elements": [ "Emotional eyes with soft reflections", "Rooftop edge slightly visible", "Dreamy skyline bokeh", "Soft neon reflections on skin", "Floating typography" ] }, "subject_analysis": { "identity_summary": "Young woman (20-25), calm, introspective, emotionally distant yet peaceful", "visual_signature": { "face_shape": "Soft oval", "eye_details": "Glossy reflective eyes with soft cyan and pink highlights, slight moisture for realism", "skin_complexion": "Highly realistic skin with visible pores, subtle imperfections, soft pastel light reflection", "unique_features": "Micro-expression sadness, relaxed lips, natural asymmetry" }, "hair_logic": { "style": "Loose, slightly messy", "texture": "Soft and natural", "color": "Dark brown / black", "physics": "Gentle wind movement, subtle strand separation, soft rim lighting in pastel tones" }, "pose_and_action": { "description": "Standing calmly near rooftop edge", "facial_expression": "Soft, distant, emotionally reflective", "gaze_direction": "Looking toward city, not directly at camera" } }, "wardrobe": { "top": { "type": "Futuristic techwear jacket", "color": "Matte black", "material": "Soft synthetic fabric with light reflective seams", "style": "Minimalist cyberpunk", "details": "Subtle reflective piping catching pastel neon light, slightly oversized fit", "fit": "Relaxed" } }, "typography": { "title_text": { "content": "PAPERCUT", "position": "Behind subject in sky area", "style": "Grunge Bush-style sans-serif (distressed, eroded edges)", "color": "Soft gradient (Pastel Cyan → Soft Pink)", "texture": "Subtle noise + worn texture overlay", "opacity": "Medium-low", "blend_mode": "Screen", "depth_blur": "Slightly out of focus", "effects": "Light glitch flicker + soft neon bleed" }, "artist_label": { "content": "LINKIN PARK", "position": "Right mid", "style": "Bold uppercase grunge sans-serif", "color": "Soft white with slight texture", "opacity": "Medium", "effects": "Very subtle distortion" }, "secondary_text": { "content": "MoonChill • NIGHT MODE • EDM", "position": "Left mid", "style": "Thin modern sans-serif (clean contrast to grunge)", "color": "Pale cyan", "opacity": "Soft" } }, "environment": { "setting_type": "Skyscraper Rooftop", "location_details": "Minimal rooftop edge visible, expansive futuristic skyline with soft holographic lights", "background_chaos": "Smooth bokeh lights, layered haze, diffused neon glow, no harsh shapes" }, "lighting": { "source": "Diffused pastel neon lights from city below", "fill_light": "Soft frontal glow (cool cyan)", "direction": "Soft upward ambient + gentle side rim lighting", "quality": "Very soft, cinematic, diffused", "shadows": "Soft and natural", "highlights": "Subtle pastel rim light on hair and cheekbones" }, "cinematography": { "optical_physics": { "lens_distortion": "Minimal", "chromatic_aberration": "Very subtle", "bokeh_style": "Creamy circular bokeh" }, "shutter_mechanics": { "motion_blur": "Very minimal" } }, "tech_specs": { "iso": "400", "aperture": "f/1.6", "focal_length": "50mm", "shutter_speed": "1/125s" }, "technical_imperfections": { "focus": "Eyes critically sharp", "sensor_noise": "Fine film grain", "digital_processing": "Soft bloom, pastel grading, slight RGB split, natural skin rendering" }, "final_prompts": { "positive": "ultra realistic cinematic portrait of a young woman on a rooftop at night, soft pastel cyberpunk city lights in cyan pink and lavender, dreamy atmosphere, gentle wind in hair, natural skin texture, shallow depth of field, creamy bokeh, soft neon reflections, emotional expression, music cover aesthetic, grunge style text PAPERCUT, LINKIN PARK, subtle glitch, photorealistic, cinematic lighting", "negative": "anime, cartoon, cgi, overexposed neon, harsh contrast, yellow dominant lighting, plastic skin, unrealistic proportions, watermark" } }
+```
+
+[Source](https://prompthero.com/prompt/311c87d60a0-chatgpt-image-v1-meta-aestheticgoal-ultra-realistic-cinematic-music-cover-soft-cyberpunk-pastel-vibemode-dreamy-rooftop-night-soft-neon-atmosphere-imagequality-ultra-high)
+
+---
+
+<a id="prompthero-0650f53612c"></a>
+
+## Ultra-cinematic superhero movie poster, Iron Man s\.\.\.
+
+<a href="https://cdn.prompthero.com/sd4kxuwohgl7hpmyu0zwf4z6mn-hero-10-ultra-cinematic-superhero-movie-poster-iron-man-standing-confidently-in-the-center-wearing-a-sleek-red-and-gold-armored-suit.jpeg"><img src="https://cdn.prompthero.com/sd4kxuwohgl7hpmyu0zwf4z6mn-hero-10-ultra-cinematic-superhero-movie-poster-iron-man-standing-confidently-in-the-center-wearing-a-sleek-red-and-gold-armored-suit.jpeg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+Ultra-cinematic superhero movie poster, Iron Man standing confidently in the center wearing a sleek red and gold armored suit, dark black background, giant metallic text "IRON MAN" behind him, dramatic red rim lighting on both sides, intense facial expression visible through partially opened helmet, high contrast lighting, realistic metal reflections, epic Hollywood blockbuster poster style, detailed armor textures, volumetric smoke, dark atmosphere, sharp focus, photorealistic, 8K, professional movie poster, symmetrical composition, powerful and heroic pose, premium cinematic color grading.
+```
+
+[Source](https://prompthero.com/prompt/0650f53612c-hero-10-ultra-cinematic-superhero-movie-poster-iron-man-standing-confidently-in-the-center-wearing-a-sleek-red-and-gold-armored-suit)
 
 ---
 

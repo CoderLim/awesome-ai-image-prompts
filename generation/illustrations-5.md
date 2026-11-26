@@ -6,38 +6,6 @@
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
-<a id="prompthero-2e3950c3699"></a>
-
-## artistic, oil painting texture, front view, upper \.\.\.
-
-<a href="https://cdn.prompthero.com/22mgmkpzs2cvjnfd33sca0eotuwl-midjourney-61-artistic-oil-painting-texture-front-view-upper-body-creepy-man-incorporating-a-heavy-brush-style-sci-fi-entity-organic-and.png"><img src="https://cdn.prompthero.com/22mgmkpzs2cvjnfd33sca0eotuwl-midjourney-61-artistic-oil-painting-texture-front-view-upper-body-creepy-man-incorporating-a-heavy-brush-style-sci-fi-entity-organic-and.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-artistic, oil painting texture, front view, upper body, creepy man, incorporating a heavy brush style, sci-fi entity organic and mechanical elements, eyes locked in a gaze, face, creation of a dystopian atmosphere, horror of a technology, color scheme dominated by bloody red and deep black, chaos and rawness of Tsutomu Nihei's dystopian environments, hyper-detailed elements to evoke realism --ar 9:16 --style raw --profile ue2yzjl --stylize 300 --v 6.1
-```
-
-By [@Grayve](https://prompthero.com/prompt/2e3950c3699-midjourney-61-artistic-oil-painting-texture-front-view-upper-body-creepy-man-incorporating-a-heavy-brush-style-sci-fi-entity-organic-and)
-
----
-
-<a id="prompthero-3b4d25f3a67"></a>
-
-## Picture a cat portrayed with the artistic essence \.\.\.
-
-<a href="https://cdn.prompthero.com/v1_5558ef952acfefc672c93d639e-chatgpt-image-gpt-image-2-picture-a-cat-portrayed-with-the-artistic-essence-of-qi-baishis-renowned-brushwork-the-cats-form-is-captured-through-fluid.jpeg"><img src="https://cdn.prompthero.com/v1_5558ef952acfefc672c93d639e-chatgpt-image-gpt-image-2-picture-a-cat-portrayed-with-the-artistic-essence-of-qi-baishis-renowned-brushwork-the-cats-form-is-captured-through-fluid.jpeg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-Picture a cat portrayed with the artistic essence of Qi Baishi's renowned brushwork. The cat's form is captured through fluid, spontaneous lines that suggest its playful demeanor and agile nature. Using minimal strokes, Qi Baishi's signature style brings out the cat's character, emphasizing its curiosity and independence. The cat might be depicted in a simple yet evocative setting, surrounded by delicate depictions of flora or objects that offer a glimpse into its world. The overall scene carries a sense of whimsy and an appreciation for the beauty in everyday life, paying homage to the artistic legacy of Qi Baishi --ar 2:3 --v 5.2
-```
-
-[Source](https://prompthero.com/prompt/3b4d25f3a67-chatgpt-image-gpt-image-2-picture-a-cat-portrayed-with-the-artistic-essence-of-qi-baishis-renowned-brushwork-the-cats-form-is-captured-through-fluid)
-
----
-
 <a id="prompthero-03bd5e77f6c"></a>
 
 ## A hyper-realistic digital portrait of a sheep tryi\.\.\.
@@ -323,6 +291,38 @@ Kyoto Animation stylized anime mixed with tradition Chinese artworks~ A dragon f
 ```
 
 By [@Atheist](https://prompthero.com/prompt/8a76b60c011-stable-diffusion-xl-base-09-kyoto-animation)
+
+---
+
+<a id="prompthero-8b3895e6120"></a>
+
+## The illustration style should be based on the draw\.\.\.
+
+<a href="https://cdn.prompthero.com/l04p73mqz4z4q64vepybeuf1kwcc-dreamshaper-5-inpainting-the-illustration-style-should-be-based-on-the-drawing-style-used-by-studio-ghibli-with-lines-that-look-handmade-with.png"><img src="https://cdn.prompthero.com/l04p73mqz4z4q64vepybeuf1kwcc-dreamshaper-5-inpainting-the-illustration-style-should-be-based-on-the-drawing-style-used-by-studio-ghibli-with-lines-that-look-handmade-with.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+The illustration style should be based on the drawing style used by Studio Ghibli, with lines that look handmade, with a Japanese drawing style inspired by kawai style drawings, with a style that has fine lines and watercolor effects . The character in the illustration must be a raccoon holding a cloth bag in his hand. A cube symbol should appear on the bag.
+```
+
+[Source](https://prompthero.com/prompt/8b3895e6120-dreamshaper-5-inpainting-the-illustration-style-should-be-based-on-the-drawing-style-used-by-studio-ghibli-with-lines-that-look-handmade-with)
+
+---
+
+<a id="prompthero-8d7cc7f2810"></a>
+
+## An illustration , character detailed, decor detail\.\.\.
+
+<a href="https://cdn.prompthero.com/m24mt78fv78yxel7icf2ol1m5ekm-anything-40-an-illustration-character-detailed-decor-detailed-which-has-several-characters-on-the-cover-kitsune-nekomata-tengu-oni-tanuki-yuki-onna.png"><img src="https://cdn.prompthero.com/m24mt78fv78yxel7icf2ol1m5ekm-anything-40-an-illustration-character-detailed-decor-detailed-which-has-several-characters-on-the-cover-kitsune-nekomata-tengu-oni-tanuki-yuki-onna.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+An illustration , character detailed, decor detailed, which has several characters on the cover Kitsune,  Nekomata, Tengu, Oni, Tanuki, Yuki-Onna, Jorogumo, Yama-Oroshi, Kijimuna, in the background the funji world, manga style, HD, 2K
+```
+
+[Source](https://prompthero.com/prompt/8d7cc7f2810-anything-40-an-illustration-character-detailed-decor-detailed-which-has-several-characters-on-the-cover-kitsune-nekomata-tengu-oni-tanuki-yuki-onna)
 
 ---
 

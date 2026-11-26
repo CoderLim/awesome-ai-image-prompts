@@ -1,90 +1,10 @@
 # portraits
 
-[← Home](../README.md) · Page 35 / 36
+[← Home](../README.md) · Page 35 / 35
 
-[1](portraits.md) · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · [5](portraits-5.md) · [6](portraits-6.md) · [7](portraits-7.md) · [8](portraits-8.md) · [9](portraits-9.md) · [10](portraits-10.md) · [11](portraits-11.md) · [12](portraits-12.md) · [13](portraits-13.md) · [14](portraits-14.md) · [15](portraits-15.md) · [16](portraits-16.md) · [17](portraits-17.md) · [18](portraits-18.md) · [19](portraits-19.md) · [20](portraits-20.md) · [21](portraits-21.md) · [22](portraits-22.md) · [23](portraits-23.md) · [24](portraits-24.md) · [25](portraits-25.md) · [26](portraits-26.md) · [27](portraits-27.md) · [28](portraits-28.md) · [29](portraits-29.md) · [30](portraits-30.md) · [31](portraits-31.md) · [32](portraits-32.md) · [33](portraits-33.md) · [34](portraits-34.md) · **35** · [36](portraits-36.md)
+[1](portraits.md) · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · [5](portraits-5.md) · [6](portraits-6.md) · [7](portraits-7.md) · [8](portraits-8.md) · [9](portraits-9.md) · [10](portraits-10.md) · [11](portraits-11.md) · [12](portraits-12.md) · [13](portraits-13.md) · [14](portraits-14.md) · [15](portraits-15.md) · [16](portraits-16.md) · [17](portraits-17.md) · [18](portraits-18.md) · [19](portraits-19.md) · [20](portraits-20.md) · [21](portraits-21.md) · [22](portraits-22.md) · [23](portraits-23.md) · [24](portraits-24.md) · [25](portraits-25.md) · [26](portraits-26.md) · [27](portraits-27.md) · [28](portraits-28.md) · [29](portraits-29.md) · [30](portraits-30.md) · [31](portraits-31.md) · [32](portraits-32.md) · [33](portraits-33.md) · [34](portraits-34.md) · **35**
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
-
-<a id="prompthero-f398cec045c"></a>
-
-## SurrAIlism - Fashion B&amp;W
-
-<a href="https://cdn.prompthero.com/i9cvogp1vaaicfx163y8slgmxhk5-sd-xl-v10-vae-fix-surrailism-fashion-bw.png"><img src="https://cdn.prompthero.com/i9cvogp1vaaicfx163y8slgmxhk5-sd-xl-v10-vae-fix-surrailism-fashion-bw.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-(high quality, best quality:1.3) , Extremely high-resolution, film grain, quality classy result, (a beautiful 24yo blonde model with messy pixie hairs:1,3), bold makeup, classy studio, (perfect body:1.3) , extreme closeup, looking at camera, standing, extremely beautiful, (very hot and arousing:1.3), tastefull fine art, 8k, stunning blue-gray eyes, (accurate proportions:1.5)
-```
-
-[Source](https://prompthero.com/prompt/f398cec045c-sd-xl-v10-vae-fix-surrailism-fashion-bw)
-
----
-
-<a id="prompthero-f695cd927aa"></a>
-
-## Girl at the beach
-
-<a href="https://cdn.prompthero.com/7dszd3hx4irtmn6gpz0uv8r6whdu-stable-diffusion-15-girl-at-the-beach.png"><img src="https://cdn.prompthero.com/7dszd3hx4irtmn6gpz0uv8r6whdu-stable-diffusion-15-girl-at-the-beach.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-detailed skin, photograph, hyper detailed, supermodel, stomach cutout, at the beach, (short messy black hair) , (skinny, toned, abs, flat chest) , between the stars, wearing clothes designed by Chanel, Sitting with elbows on knees, Sami Mechanical Legs, Smoky Conditions, shallow depth of field, broad lighting, film grain, dslr, F/14, CMYK Colors, sunbeam, delicate, (highly detailed skin, full sharp:1.2) <lora:add_detail:1> <lora:skinny_new_skin:0.3>
-```
-
-By [@AkiraS](https://prompthero.com/prompt/f695cd927aa-stable-diffusion-15-girl-at-the-beach)
-
----
-
-<a id="prompthero-f898b892b94"></a>
-
-## a woman wearing black sunglasses and a hat, in the\.\.\.
-
-<a href="https://cdn.prompthero.com/r1c1k5s3c6yrjcj8vdioezxz4vps-midjourney-6-a-woman-wearing-black-sunglasses-and-a-hat-in-the-style-of-black-and-white-imagery-vray-tracing-tamron-sp.png"><img src="https://cdn.prompthero.com/r1c1k5s3c6yrjcj8vdioezxz4vps-midjourney-6-a-woman-wearing-black-sunglasses-and-a-hat-in-the-style-of-black-and-white-imagery-vray-tracing-tamron-sp.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-a woman wearing black sunglasses and a hat, in the style of black and white imagery, vray tracing, tamron sp 70-200mm f/2.8 di vc usd g2, bold fashion photography, luminous shadowing, close-up, crisp and clean look --ar 14:25 --stylize 750 --v 6
-```
-
-By [@NorthmoorAI](https://prompthero.com/prompt/f898b892b94-midjourney-6-a-woman-wearing-black-sunglasses-and-a-hat-in-the-style-of-black-and-white-imagery-vray-tracing-tamron-sp)
-
----
-
-<a id="prompthero-f956e110f7e"></a>
-
-## Mrs\. Linda &quot;The Grandmother&quot;
-
-<a href="https://cdn.prompthero.com/t4r6h8rlrl6gv684cy3iph0e00oq-midjourney-51-mrs-linda-the-grandmother.jpg"><img src="https://cdn.prompthero.com/t4r6h8rlrl6gv684cy3iph0e00oq-midjourney-51-mrs-linda-the-grandmother.jpg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-Menacing creepy old lady ghost, black background, white pupil eyes, blue-grey lighting on the face, close-up, horror, dark and haunting, hyperrealism, ultra-detailed, 8k --ar 9:16 --q 2 --s 750
-```
-
-By [@abyishot](https://prompthero.com/prompt/f956e110f7e-midjourney-51-mrs-linda-the-grandmother)
-
----
-
-<a id="prompthero-f1830b6ad6e"></a>
-
-## a girl, a lady, and a man in front of a house, in \.\.\.
-
-<a href="https://cdn.prompthero.com/5969cxmoozhcogky3wzcd7rxqrt0-midjourney-52-a-girl-a-lady-and-a-man-in-front-of-a-house-in-the-style-of-light-turquoise-and-light.png"><img src="https://cdn.prompthero.com/5969cxmoozhcogky3wzcd7rxqrt0-midjourney-52-a-girl-a-lady-and-a-man-in-front-of-a-house-in-the-style-of-light-turquoise-and-light.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-a girl, a lady, and a man in front of a house, in the style of light turquoise and light yellow, post-'70s ego generation, calotype, alex hirsch, mommy's on-the-phonecore, full body, olive cotton --v 5.2
-```
-
-By [@Dallas59](https://prompthero.com/prompt/f1830b6ad6e-midjourney-52-a-girl-a-lady-and-a-man-in-front-of-a-house-in-the-style-of-light-turquoise-and-light)
-
----
 
 <a id="prompthero-f2781a8ca07"></a>
 
@@ -326,6 +246,22 @@ ultra-detailed close-up portrait of a young east asian woman with striking blue-
 
 ---
 
-[1](portraits.md) · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · [5](portraits-5.md) · [6](portraits-6.md) · [7](portraits-7.md) · [8](portraits-8.md) · [9](portraits-9.md) · [10](portraits-10.md) · [11](portraits-11.md) · [12](portraits-12.md) · [13](portraits-13.md) · [14](portraits-14.md) · [15](portraits-15.md) · [16](portraits-16.md) · [17](portraits-17.md) · [18](portraits-18.md) · [19](portraits-19.md) · [20](portraits-20.md) · [21](portraits-21.md) · [22](portraits-22.md) · [23](portraits-23.md) · [24](portraits-24.md) · [25](portraits-25.md) · [26](portraits-26.md) · [27](portraits-27.md) · [28](portraits-28.md) · [29](portraits-29.md) · [30](portraits-30.md) · [31](portraits-31.md) · [32](portraits-32.md) · [33](portraits-33.md) · [34](portraits-34.md) · **35** · [36](portraits-36.md)
+<a id="prompthero-ff37eae1bfa"></a>
+
+## A futuristic, high-contrast portrait of a person w\.\.\.
+
+<a href="https://cdn.prompthero.com/hdh03bk0hz1afyjwit12o51r3mhu-midjourney-7-check-out-1000s-of-prompts-httpspromptbasecomprofilecharismaenigma-a-futuristic-high-contrast-portrait-of-a-person-with-jet-black-ultra-glossy-skin-set-against-a-bold-vibrant-blue.png"><img src="https://cdn.prompthero.com/hdh03bk0hz1afyjwit12o51r3mhu-midjourney-7-check-out-1000s-of-prompts-httpspromptbasecomprofilecharismaenigma-a-futuristic-high-contrast-portrait-of-a-person-with-jet-black-ultra-glossy-skin-set-against-a-bold-vibrant-blue.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+A futuristic, high-contrast portrait of a person with jet-black, ultra-glossy skin, set against a bold, vibrant blue background. The face is dramatically stylized with a glowing neon-orange cross painted or projected over the forehead, nose, and mouth, creating a striking, symmetrical design. The lips are reflective, metallic black with partial orange accents. The eyes glow intensely red, adding a surreal and intimidating effect. Lighting is studio-clean and hyper-saturated, emphasizing surface reflections and texture. The overall style is cyber-gothic, avant-garde, and extremely sharp, with no grain, no blur, and extreme color contrast
+```
+
+[Source](https://prompthero.com/prompt/ff37eae1bfa-midjourney-7-check-out-1000s-of-prompts-httpspromptbasecomprofilecharismaenigma-a-futuristic-high-contrast-portrait-of-a-person-with-jet-black-ultra-glossy-skin-set-against-a-bold-vibrant-blue)
+
+---
+
+[1](portraits.md) · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · [5](portraits-5.md) · [6](portraits-6.md) · [7](portraits-7.md) · [8](portraits-8.md) · [9](portraits-9.md) · [10](portraits-10.md) · [11](portraits-11.md) · [12](portraits-12.md) · [13](portraits-13.md) · [14](portraits-14.md) · [15](portraits-15.md) · [16](portraits-16.md) · [17](portraits-17.md) · [18](portraits-18.md) · [19](portraits-19.md) · [20](portraits-20.md) · [21](portraits-21.md) · [22](portraits-22.md) · [23](portraits-23.md) · [24](portraits-24.md) · [25](portraits-25.md) · [26](portraits-26.md) · [27](portraits-27.md) · [28](portraits-28.md) · [29](portraits-29.md) · [30](portraits-30.md) · [31](portraits-31.md) · [32](portraits-32.md) · [33](portraits-33.md) · [34](portraits-34.md) · **35**
 
 [← Home](../README.md)
