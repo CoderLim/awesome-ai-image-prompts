@@ -1,0 +1,29 @@
+import test from 'node:test';
+import assert from 'node:assert/strict';
+import { createHash } from 'node:crypto';
+import { stage } from './import-reviewed-cases.mjs';
+import { normalize } from './prompthero-preflight.mjs';
+const make=(prompt='Detailed watercolor portrait of a sailor')=>({case_id:'abcdef01234',source_url:'https://prompthero.com/prompt/abcdef01234-example',prompt,prompt_sha256:createHash('sha256').update(normalize(prompt)).digest('hex'),category:'portraits',input_mode:'text-to-image',next_action:'visual_review',text_status:'advance',author:null,image_urls:['https://cdn.prompthero.com/example.jpg']});
+test('unverified candidate becomes link-only; no author required',()=>{
+  const r=stage([make()],[]);
+  assert.equal(r.eligible,0);assert.equal(r.added.length,1);assert.equal(r.added[0].author,null);assert.equal(r.added[0].prompt,undefined);
+  assert.ok(r.audit[0].reasons.includes('separate_prompt_and_media_rights_required'));
+});
+test('already staged link is not added again',()=>{
+  const r=stage([make()],[],[{id:'prompthero-abcdef01234'}]);
+  assert.equal(r.added.length,0);assert.equal(r.audit.length,1);
+});
+test('exact match, stale fingerprint and utility are blocked',()=>{
+  const q=make();
+  const c={id:'other',prompt:{original:q.prompt},provenance:{originalSource:{postId:'another'}}};
+  assert.equal(stage([q],[c]).audit[0].status,'excluded');
+  assert.equal(stage([{...q,prompt_sha256:'0'.repeat(64)}],[]).added.length,0);
+  assert.equal(stage([make('Remove background')],[]).audit[0].status,'excluded');
+});
+test('even complete visual evidence cannot bypass missing media rights',()=>{
+  const q=make();
+  const d={case_id:q.case_id,prompt_sha256:q.prompt_sha256,visual:{quality:'pass',match:'pass',role:'output',url:q.image_urls[0],image_sha256:'a'.repeat(64),evidence:'review record',reviewer:'reviewer'},duplicate:{status:'cleared',evidence:'pair audit',reviewer:'reviewer'},rights:{prompt:{status:'cleared',basis:'permission',evidence:'record',reviewer:'reviewer'}}};
+  assert.equal(stage([q],[],[],[d]).eligible,0);
+  d.rights.media={...d.rights.prompt,url:q.image_urls[0]};
+  assert.equal(stage([q],[],[],[d]).eligible,1);
+});
