@@ -1,74 +1,10 @@
 # portraits
 
-[← Home](../README.md) · Page 3 / 6
+[← Home](../README.md) · Page 3 / 7
 
-[1](portraits.md) · [2](portraits-2.md) · **3** · [4](portraits-4.md) · [5](portraits-5.md) · [6](portraits-6.md)
+[1](portraits.md) · [2](portraits-2.md) · **3** · [4](portraits-4.md) · [5](portraits-5.md) · [6](portraits-6.md) · [7](portraits-7.md)
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
-
-<a id="evolink-portraits-case-28"></a>
-
-## Same-Person Lifestyle Portrait Set
-
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2103802160274415616.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2103802160274415616.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Create a highly realistic cinematic composite portrait using my uploaded reference image to preserve the exact identity, facial features, hairstyle, skin tone, and overall appearance of the main person. Show the same person multiple times in one elegant, warm, modern indoor environment. The main version stands confidently in the center, walking slightly toward the camera with both arms naturally open and a genuine smile. He is wearing a stylish deep red/burgundy blazer, crisp white open-collar shirt, tailored black trousers, black leather dress shoes, and a black belt. Around him, create several realistic versions of the same person in different natural poses and activities: - one sitting at a desk using a laptop - one casually playing an acoustic guitar - one relaxing comfortably with a coffee cup - one sitting thoughtfully in a chair - one sitting on the floor writing in a notebook - one casually sitting and smiling - one making a friendly pointing gesture Use a sophisticated cozy interior with rich wooden walls, large floor-to-ceiling windows, soft curtains, indoor plants, warm ambient lamps, wooden furniture, subtle decorative elements, and beautiful natural daylight. Maintain perfect facial consistency across every version of the person. Each duplicate must clearly look like the exact same individual, with consistent face, hairstyle, body proportions, clothing style, and skin tone. Professional fashion photography, cinematic composition, realistic skin texture, natural expressions, realistic hands and fingers, accurate anatomy, soft depth of field, warm golden lighting, subtle shadows, premium editorial photography, ultra-detailed, photorealistic, high-end camera quality. Vertical 4:5 composition. IMPORTANT: Do not generate any text, words, letters, quotes, signs, captions, logos, symbols, or typography anywhere in the image. Leave clean empty areas around the composition so I can add my own text later.
-```
-
-By [@mehwishkiran07](https://x.com/mehwishkiran07/status/2103802303686099026)
-
----
-
-<a id="evolink-portraits-case-29"></a>
-
-## Twenty-Third Birthday Portrait
-
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2103789510555549696.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2103789510555549696.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-A stunning Southeast Asian woman with short, wavy chestnut-brown bob hair and soft glam makeup — rosy lips and subtle eye makeup — sits elegantly atop a large 3D sculptural number "23" rendered in creamy white with a warm golden inner frame. The hollow interiors of both digits are filled with clusters of metallic balloons in champagne gold, pearl white, and blush pink, along with delicate pink roses and soft cherry blossom branches. She wears a sophisticated dark chocolate brown pinstripe sleeveless wide-leg jumpsuit with a neat self-tie bow at the waist, paired with matching dark brown pointed-toe ankle-strap stiletto heels. Her pose is confident and relaxed — one leg crossed, hand resting gently beside her. The background is a clean warm cream/off-white with soft diagonal light streaks creating a luxurious sun-ray shadow effect. The overall mood is chic, celebratory, and editorial — a birthday or milestone portrait with a fashion-forward aesthetic.
-```
-
-By [@HaniaAi12](https://x.com/HaniaAi12/status/2103789528888525224)
-
----
-
-<a id="evolink-portraits-case-30"></a>
-
-## Pink Birthday Cake Portrait
-
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2103789249690746880.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2103789249690746880.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-A beautiful Southeast Asian woman with short, voluminous wavy chestnut-brown bob hair and bold glam makeup — defined brows, smoky eye liner, and full glossy pink lips — poses gracefully in a crouching sit on a confetti-scattered pink floor. She wears a modest blush pink satin midi dress with a high neckline and cap sleeves, a delicate silver pendant necklace, a crystal tennis bracelet, and silver rings, paired with strappy blush pink heeled sandals. Beside her stands an ornate white Roman-style column pedestal topped with a beautiful three-tiered pink rosette birthday cake decorated with swirling cream roses. The background is a solid deep blush pink wall adorned with clusters of pink latex balloons and shiny metallic rose-gold heart-shaped foil balloons floating on both sides. Scattered gold and silver confetti pieces cover the floor. A large black letter prop is partially visible at the top. The studio lighting is soft and even, creating a celebratory, feminine, and luxurious birthday party editorial atmosphere.
-```
-
-By [@HaniaAi12](https://x.com/HaniaAi12/status/2103789264802594874)
-
----
-
-<a id="evolink-portraits-case-31"></a>
-
-## Pop-Through Calendar Birthday Portrait
-
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2103789227981045760.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2103789227981045760.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-A cheerful and radiant Southeast Asian woman with short chestnut-brown hair styled in a messy updo bun bursts through a large torn hole in a giant oversized wall calendar. The calendar header features a bold magenta banner with glittery silver text reading "HAPPY BIRTHDAY" and spiral binding at the top, with weekday labels (Mon, Tue, Thu, Fri) and dates (3, 7, 12, 17, 22, 24, 29, 30) visible on the white grid. She wears a charming magenta/fuchsia puff-sleeve tiered baby doll mini dress with a round neckline, paired with pale pink sheer tights decorated with small pink satin bow prints. Her makeup is festive — rosy pink eyeshadow, flushed cheeks, and a bright smile. Colorful pastel balloons in pink, purple, blue, yellow, and green float behind her in the torn opening, with gold and multicolored confetti scattered all around. Her arms are spread wide in a joyful, celebratory pose. The overall mood is playful, vibrant, and fun — a creative birthday concept with a pop-through calendar visual effect.
-```
-
-By [@HaniaAi12](https://x.com/HaniaAi12/status/2103789243500027917)
-
----
 
 <a id="evolink-portraits-case-32"></a>
 
@@ -118,22 +54,6 @@ By [@Arzoo12sh](https://x.com/Arzoo12sh/status/2103084009496727641)
 
 ---
 
-<a id="evolink-portraits-case-35"></a>
-
-## Triple-Scale Same-Person Poster
-
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2102714930952867840.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2102714930952867840.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Use the uploaded reference image as the primary identity reference. Preserve the subject’s exact facial identity, facial structure, skin tone, hairstyle, eyes, nose, lips, jawline, and overall likeness. Create a premium cinematic motivational fashion poster in a vertical 4:5 composition. The poster features the same person in three integrated appearances/scales: 1. A huge close-up portrait occupying the upper-left and center background, showing the face in sharp detail with a confident, subtle smile and natural realistic skin texture. 2. A large half/full upper-body portrait positioned on the right side, slightly behind the main subject, maintaining the exact same identity and hairstyle. 3. A full-body fashion portrait in the center foreground, walking confidently toward the camera with both hands naturally placed in the trouser pockets. Create a luxury editorial fashion campaign aesthetic, cinematic photography, ultra-realistic skin texture, realistic hair strands, natural facial proportions, premium studio lighting, sharp focus, sophisticated confident expression. Outfit: elegant monochromatic white fashion outfit. For the female version, a tailored white blazer, fitted white top, high-waisted white trousers and clean white sneakers. For the male version, a perfectly tailored white blazer, open-collar white shirt, white trousers and clean white sneakers. Add a premium minimalist wristwatch. Background: dramatic white and deep crimson-red abstract paint splashes, energetic brush strokes, textured grunge effects, dark red metropolitan city skyline silhouettes emerging from the paint, cinematic reflections on a glossy wet floor, strong red atmospheric glow, high contrast between white and crimson. The composition should feel like a high-end fashion magazine cover mixed with a motivational movie poster. Layer the large portraits naturally into the background without looking duplicated or artificial. Maintain realistic depth, scale, perspective, shadows and lighting consistency across all three versions of the subject. Add elegant editorial typography integrated into the design: Top right: SAME DREAMS BIGGER MOVES Left side: DISCIPLINE CREATIVITY PROGRESS FREEDOM Large lower-left text: VISION Large handwritten brush-script text on lower-right: Better Under it: THAN YESTERDAY Bottom-left: A YOUNG MIND WITH A BIG VISION Bottom-right: GOOD IDEAS TAKE TIME Typography should be elegant, editorial, clean and perfectly aligned, with deep red brush lettering for “Better” and subtle black/dark typography for the smaller text. Overall style: ultra-photorealistic, cinematic, premium luxury fashion campaign, sophisticated editorial composition, dramatic red-and-white color palette, realistic photography, high detail, sharp facial features, natural skin pores, realistic hair, volumetric lighting, glossy reflections, professional art direction, 8K quality, highly polished commercial poster. Important: Keep the subject’s identity consistent across all three appearances. Do not change the face, age, ethnicity, facial proportions or recognizable features. No extra fingers, distorted hands, duplicated limbs, warped face, unnatural anatomy, blurry face, cartoon appearance or plastic skin. Ensure all typography is correctly spelled and readable.
-```
-
-By [@mehwishkiran07](https://x.com/mehwishkiran07/status/2102714999772950626)
-
----
-
 <a id="evolink-portraits-case-36"></a>
 
 ## Reference Portrait Film Fashion Shoot
@@ -147,22 +67,6 @@ Use the uploaded face reference image ONLY as the identity reference for the wom
 ```
 
 By [@MahnoorAi12](https://x.com/MahnoorAi12/status/2102368463713149360)
-
----
-
-<a id="evolink-portraits-case-37"></a>
-
-## Same-Person Vintage Photo Wall
-
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2102358881435631616.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2102358881435631616.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Use the uploaded reference image as the identity and facial reference. Create a high-resolution photorealistic editorial collage of the same young woman, keeping her face, hairstyle, skin tone, body proportions, and overall appearance consistent in every frame. A stylish young woman with long straight dark-brown hair, wearing a fitted royal-blue short-sleeve T-shirt, blue denim jeans, and clean white chunky sneakers. Create a playful vintage photography-wall composition where she appears multiple times inside and around several ornate rustic wooden picture frames arranged vertically and overlapping. The central full-body version of the woman sits casually on the frames, one leg bent and the other extended downward, smiling confidently while making a peace/V sign with one hand. Surrounding frames contain different realistic versions of the same woman with different expressions and poses: laughing with eyes closed surprised expression with both hands on cheeks smiling with hands forming a heart taking a mirror-style selfie with a modern smartphone happily raising both arms playful wink and smile cheerful candid expressions Maintain perfect facial identity consistency across all versions. Background: warm beige studio wall with a cozy retro photography-studio aesthetic. Add several vintage film cameras placed naturally on some of the frames. Surround the composition with hand-drawn doodles, small stars, red hearts, arrows, and playful speech bubbles containing short phrases such as “BEST DAY EVER!”, “OOPS!”, “SO HAPPY!”, “HAHA!”, “LOVE THIS!”, “LITTLE MOMENTS!” Composition should feel like a creative Instagram editorial photoshoot / scrapbook collage, highly detailed, natural realistic skin texture, realistic hands and fingers, accurate anatomy, soft warm studio lighting, subtle shadows, cinematic photography, crisp focus, premium fashion editorial quality, photorealistic, ultra-detailed, 8K, vertical 4:5 composition. Important: Keep the same person recognizable in every frame, consistent clothing and hairstyle, realistic proportions, no duplicated facial features, no distorted hands, no extra fingers, no warped limbs, no text errors.
-```
-
-By [@Alina\_with\_Ai](https://x.com/Alina_with_Ai/status/2102358957222416439)
 
 ---
 
@@ -214,22 +118,6 @@ By [@mehwishkiran07](https://x.com/mehwishkiran07/status/2101984819047498202)
 
 ---
 
-<a id="evolink-portraits-case-41"></a>
-
-## Male Three-Pose Magazine Collage
-
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2101870450850852864.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2101870450850852864.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Create a high-quality vertical editorial collage poster using the uploaded reference images as the exact visual inspiration. Create one cohesive composition featuring the same adult male subject in three different poses and framing styles: A large upper-body close-up portrait as the main focal point, with the subject looking slightly to the side with a calm, confident expression. A smaller full-body standing/seated fashion pose placed toward the lower-left area, maintaining natural body proportions and realistic clothing details. A large artistic close-up portrait placed toward the lower-right area, with a vibrant blue-and-pink duotone lighting effect. Keep the subject's facial features, hairstyle, hair texture, skin tone, and overall appearance consistent across all three versions. Outfit should remain consistent: dark charcoal/black overshirt worn over a plain white T-shirt, relaxed cream/off-white trousers, white sneakers, and a simple wristwatch. Use a clean white background with dynamic electric blue and hot pink paint splashes, ink strokes, halftone textures, scattered stars, tiny paint droplets, and energetic graphic elements surrounding the portraits. Blend all three portraits naturally into the paint-splash composition with smooth transitions and subtle halftone fading around the edges. Add elegant handwritten black typography in the upper-right corner reading exactly: “Good Things Ahead”, followed by a small outlined heart underneath. Keep the typography stylish, handwritten, and clearly readable. Overall aesthetic: modern AI editorial poster, premium fashion campaign, vibrant pop-art collage, photorealistic subject, cinematic portrait photography, high detail, sharp facial features, realistic skin texture, professional graphic design, balanced composition, clean white negative space, blue and pink color contrast, 4K quality. Important: Keep all three versions of the same person visually consistent. Do not change the face, hairstyle, clothing style, or identity between poses. Preserve realistic anatomy, natural hands, realistic eyes, and accurate proportions. No extra people, no duplicated limbs, no distorted face, no unwanted text, no watermark.
-```
-
-By [@mehwishkiran07](https://x.com/mehwishkiran07/status/2101870527879209255)
-
----
-
 <a id="evolink-portraits-case-42"></a>
 
 ## Rooftop Sunset Smoke Dissolve Portrait
@@ -278,22 +166,6 @@ By [@Kubra\_286](https://x.com/Kubra_286/status/2101514411240472588)
 
 ---
 
-<a id="evolink-portraits-case-45"></a>
-
-## Blue Night Multiple-Portrait Poster
-
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2101502937096941568.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2101502937096941568.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Create a cinematic vertical fashion poster featuring the same young woman in a dramatic blue nighttime atmosphere. Show three layered versions of the woman: a large soft close-up portrait on the left looking toward the camera, a large side-profile portrait on the right wearing black sunglasses and looking sideways, and a full-body version in the center walking confidently toward the camera. She has long, smooth dark-brown hair, natural glamorous makeup, defined eyeliner, soft pink lips, and delicate facial features. Outfit: fitted black sleeveless top, cropped black denim jacket with rolled-up sleeves, loose black cargo pants with multiple utility pockets, clean white sneakers, a black wristwatch, and minimal accessories. Keep the outfit completely black and casual streetwear style.Background: dark blue nighttime city environment with thick swirling blue smoke/fog, wet reflective pavement, soft streetlights, cinematic bokeh lights, atmospheric mist, and dramatic blue rim lighting. The large portraits should blend naturally into the smoky background with a soft double-exposure effect. Ultra-realistic photography, high detail. realistic skin texture, sharp facialfeatures,professional fashion editorial photography, cinematic lighting, depth of field, glossy finish, 9:16 vertical composition, no text, no watermark.
-```
-
-By [@Arzoo12sh](https://x.com/Arzoo12sh/status/2101503445748617658)
-
----
-
 <a id="evolink-portraits-case-46"></a>
 
 ## Pink Streetwear Plaza Portrait
@@ -326,6 +198,134 @@ By [@mehwishkiran07](https://x.com/mehwishkiran07/status/2100903738592674281)
 
 ---
 
-[1](portraits.md) · [2](portraits-2.md) · **3** · [4](portraits-4.md) · [5](portraits-5.md) · [6](portraits-6.md)
+<a id="evolink-portraits-case-48"></a>
+
+## Baseball Cap and Work Jacket Portrait
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2100577180384452609.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2100577180384452609.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+Ultra-realistic fashion portrait of a stylish young woman with long, voluminous wavy black hair, wearing a beige baseball cap, oversized dark sunglasses, an olive-green utility jacket over a fitted beige ribbed top. She gently holds the brim of her cap with one hand and pulls the jacket hood with the other, wearing minimal silver rings and long almond-shaped glossy nails. Natural soft makeup, nude glossy lips, elegant feminine features, relaxed confident expression. Close-up street-style fashion photography, slightly turned pose, soft natural daylight, neutral beige background, muted earthy color palette, realistic skin texture, detailed fabric texture, cinematic depth of field, subtle shadows, luxury fashion editorial aesthetic, 85mm lens, shallow depth of field, photorealistic, high detail, 8K, Instagram fashion photography, vertical 4:5 composition.
+```
+
+By [@Alina\_with\_Ai](https://x.com/Alina_with_Ai/status/2100578368077042117)
+
+---
+
+<a id="evolink-portraits-case-49"></a>
+
+## Flower-Filled Bookshop Cafe Portrait
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2100411740840464384.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2100411740840464384.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+Using my uploaded photo as the exact identity reference, create a highly realistic cinematic lifestyle portrait of me standing outside a charming vintage bookstore café surrounded by beautiful flowers. Preserve my facial identity, natural facial features, skin tone, hairstyle, and overall appearance from the reference photo. Do not change my face or make me look like a different person. I am wearing an oversized black T-shirt with a small pink bow detail on the chest, light blue denim shorts, white ankle socks, and clean white chunky sneakers. A cream canvas tote bag hangs naturally from my shoulder, and I am holding a transparent iced coffee cup in one hand. White wired earphones are naturally visible. Pose me standing casually with one leg slightly crossed in front of the other, one hand holding the iced coffee and the other relaxed near my shorts pocket. Give me a soft, natural side-looking expression, looking slightly away from the camera. The setting is a cozy old-fashioned bookstore café entrance with dark green wooden doors and shelves of books visible inside. The exterior walls are covered with lush green vines, white daisies, and soft pink flowers. Add hanging flower baskets, warm vintage wall lanterns glowing softly, wooden benches and rustic tables, stacks of books, and a cute sleeping cat resting peacefully on a wooden bench. Include charming wooden signs on the wall with handwritten-style text such as “Good Books”, “Good Coffee”, “Brighter Days”, and “Better Me”. Add a small vintage chalkboard sign near the entrance and a bicycle partially visible in the foreground. Use warm golden-hour sunlight, soft natural shadows, cinematic depth of field, realistic skin texture, detailed fabric and hair, subtle sunlight rays, beautiful bokeh, realistic flowers and plants, premium editorial photography, cozy European café atmosphere, photorealistic, ultra-detailed, natural colors, 8K quality. Full-body composition, vertical 9:16 portrait, realistic proportions, eye-level camera, 50mm lens, shallow depth of field, cinematic photography, highly detailed and believable.
+```
+
+By [@mehwishkiran07](https://x.com/mehwishkiran07/status/2100411941944791171)
+
+---
+
+<a id="evolink-portraits-case-50"></a>
+
+## Experimental Lens Mood Portrait
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2100065792549376000.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2100065792549376000.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+初恋脸女友 × 暧昧私密 × 非常规实验镜头 × 反差OOTD × 奶凶娇嗔神态
+```
+
+By [@DeepBlueX0](https://x.com/DeepBlueX0/status/2100065803072897507)
+
+---
+
+<a id="evolink-portraits-case-51"></a>
+
+## Metal Letter Z Sculpture Portrait
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2099860719466336256.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2099860719466336256.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+Create a hyper-realistic artistic studio portrait of a young woman sitting gracefully inside a large sculptural metallic letter “Z”, finished with a luxurious textured mauve-purple surface and elegant gold edges. Use the uploaded reference image only for the woman’s facial identity and recognizable features. Preserve her natural face shape, eyes, eyebrows, nose, lips, skin tone, age, and identity accurately. She has long, naturally wavy dark hair with soft loose strands framing her face. She wears a cozy dusty-lavender knitted sweater, flowing ivory wide-leg pants, and clean white sneakers. She sits in a relaxed, thoughtful pose with one knee raised, resting her cheek gently on her hand, looking slightly upward with a soft natural smile. Decorate the sculptural “Z” with delicate pink and white cherry-blossom-style flowers and subtle green leaves. Set the scene against a deep warm chocolate-brown studio background with beautiful diagonal window-blind shadows and soft golden afternoon sunlight. Add realistic floor reflections beneath her. Composition: full-body vertical portrait, elegant editorial photography, balanced centered framing, realistic proportions, natural skin texture, detailed knit fabric, realistic metallic and marble-like surface, soft depth of field, warm muted mauve-brown color palette, subtle luxury aesthetic, cinematic but natural lighting, highly detailed, photorealistic, premium magazine portrait. Add minimal elegant typography: “LETTER” at the top and “PORTRAIT” near the bottom, widely spaced thin serif letters. No extra text, no distortion, no artificial face, no exaggerated beauty filter.
+```
+
+By [@Arina\_hoqe](https://x.com/Arina_hoqe/status/2099860837083345200)
+
+---
+
+<a id="evolink-travel-journals-case-206"></a>
+
+## Ancient Egypt Sunset Couple Portrait
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2104523957466779648.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2104523957466779648.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+Create an ultra-photorealistic cinematic luxury travel editorial portrait featuring a young man and a young woman together in ancient Egypt at golden sunset. IDENTITY & FACE PRESERVATION: Use the two uploaded reference images as the ONLY identity references. Preserve the man’s and woman’s individual identities accurately and consistently. Keep their original facial structure, face shape, skin tone, eyes, eyebrows, nose, lips, jawline, hair texture, and natural facial asymmetry unchanged. Do not merge, swap, beautify, or alter their facial identities. Both people must clearly look like the individuals from their respective reference photos. COMPOSITION: Place the young man and young woman together sitting naturally on ancient sandstone steps overlooking a breathtaking Egyptian landscape. They are positioned close enough to feel like travel companions, with a natural, elegant interaction while maintaining their individual identities. The man sits slightly behind/next to the woman in a relaxed pose, looking thoughtfully toward the distant horizon. The woman sits gracefully beside him, slightly turned toward the camera with a soft natural expression. Their body proportions, hands, fingers, legs, and anatomy must be realistic and natural. OUTFITS: Young man: A relaxed beige/cream linen travel outfit consisting of a lightweight button-up shirt with sleeves casually rolled up, cream T-shirt underneath, loose cream linen trousers, and clean white sneakers. Add a stylish natural straw fedora with a dark band and subtle round sunglasses. Young woman: A sophisticated beige/cream linen travel outfit consisting of a loose lightweight shirt with rolled sleeves, cream/white top, wide-leg cream linen trousers, and clean white sneakers. Add a natural straw fedora with a dark band, subtle round sunglasses, and a small elegant brown leather shoulder bag. ENVIRONMENT: Ancient Egyptian temple ruins surround them, featuring massive sandstone columns covered with detailed Egyptian hieroglyphics, carved statues, stone walls, traditional decorative pottery, warm lanterns, patterned Middle Eastern/Egyptian rugs, tropical palm trees, and lush greenery. In the distant background, show the majestic pyramids of Giza overlooking a beautiful Nile River scene with several traditional Egyptian felucca sailing boats. The Nile reflects the warm golden sunlight. LIGHTING: Magical golden-hour sunset lighting, warm orange and amber sunlight illuminating their faces and clothing, soft cinematic rim light around their hair, realistic natural shadows, subtle atmospheric haze, glowing sky with dramatic orange-pink clouds, sun positioned low near the horizon. CAMERA & STYLE: High-end cinematic travel editorial photography, ultra-photorealistic, luxury magazine aesthetic, realistic skin texture, natural pores, detailed hair strands, realistic linen fabric texture, physically accurate lighting, cinematic depth of field, subtle background bokeh, rich environmental details, HDR, 8K detail. Camera: full-body vertical composition, slightly low three-quarter angle, 35mm cinematic lens, natural perspective, both subjects clearly visible and sharply focused while the pyramids and Nile remain recognizable in the background. COLOR GRADING: Warm Egyptian golden-hour color palette, sophisticated earthy beige, sandstone orange, soft gold, subtle green palm tones, realistic contrast, premium cinematic color grading. MOOD: Elegant, dreamy, adventurous, peaceful, sophisticated luxury travel editorial. The image should feel like an authentic high-fashion travel campaign photographed in Egypt, not an AI-generated composite. IMPORTANT: Maintain perfect identity consistency for both reference subjects. Do not change their faces. Do not create duplicate people. Do not merge facial features. Do not distort hands, fingers, feet, or body proportions. No artificial plastic skin, no excessive beauty retouching, no cartoon appearance, no CGI look, no text, no watermark, no logos.
+```
+
+By [@mehwishkiran07](https://x.com/mehwishkiran07/status/2104524093173428713)
+
+---
+
+<a id="evolink-travel-journals-case-211"></a>
+
+## Double-Exposure Travel Portrait
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2104060094078144512.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2104060094078144512.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+Create a premium photorealistic artistic travel portrait using the same woman from the reference photo. Preserve her facial identity, natural features, hairstyle, and realistic appearance accurately. Create a creative double-exposure composition: a large elegant side-profile silhouette of the woman forms the background, beautifully blended with a breathtaking travel destination inside her silhouette. In the foreground, show the same woman walking naturally through the scene with a stylish travel outfit, backpack, sunglasses, and sneakers. Inside the silhouette, include a magnificent European old-town street with grand historic architecture, warm sunset light, distant mountains, birds, and subtle atmospheric details. Add artistic watercolor splashes flowing outward from the bottom in soft burgundy, navy, and ivory tones. Clean white background, seamless photo blending, cinematic sunset glow, realistic shadows, sophisticated travel-editorial aesthetic, highly detailed, premium magazine composition, photorealistic, 8K, elegant and visually captivating. No cartoon, no anime, no illustration, no distorted face, no duplicate person, no extra limbs, no artificial-looking skin, no identity change.
+```
+
+By [@Arina\_hoqe](https://x.com/Arina_hoqe/status/2104060109211255230)
+
+---
+
+<a id="evolink-travel-journals-case-226"></a>
+
+## Identity-Preserving Travel Collage
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2102550022717952002.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2102550022717952002.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+Use the uploaded face reference image ONLY as the identity reference for the woman. STRICT FACE IDENTITY LOCK: Preserve her recognizable facial identity exactly from the face reference. Keep the same facial structure, face shape, eyes, eyebrows, nose, lips, jawline, cheek structure, skin tone, and natural facial proportions. Do not beautify, redesign, age, de-age, or replace her face. Do not create a different person. Use the provided images ONLY as visual inspiration for the overall composition, lifestyle concept, outfit styling, café atmosphere, photography angle, color palette, scrapbook layout, and editorial aesthetic. Do not copy another person's facial identity. Create a premium ultra-photorealistic lifestyle editorial photograph of the woman enjoying an elegant café moment in a sophisticated outdoor European-style café. Subject & Face: The woman has the exact recognizable face from the reference image, with natural elegant makeup, realistic skin texture, expressive eyes, and a soft relaxed expression. Keep her identity completely consistent and authentic. Hair: Long, thick, naturally flowing dark hair with soft waves, realistic individual strands, subtle natural shine, and an effortless feminine appearance. Outfit: Elegant ivory/cream-white feminine outfit with delicate lace and embroidered details, sheer textured fabric, refined sleeves, and sophisticated styling. Add tasteful gold jewelry, an elegant watch, delicate rings, and cream pointed-toe heels. Include a refined luxury handbag placed naturally beside her. Scene & Pose: Create two complementary lifestyle moments within the same visual concept: A beautiful overhead café photograph showing the woman seated at a marble café table, her elegant lace outfit visible, one hand naturally holding a ceramic coffee cup with beautiful heart-shaped latte art. A slice of berry cheesecake sits on a delicate white plate beside the coffee. A softly framed portrait moment of the same woman sitting at the café, resting one hand gently against her cheek while looking naturally toward the side with a calm, subtle smile. Coffee, dessert, flowers, and her handbag remain naturally arranged on the table. Environment: A beautiful upscale outdoor European café with marble tables, elegant chairs, soft greenery, small white flowers, warm natural sunlight, and a softly blurred sophisticated street in the background. The environment should feel authentic, peaceful, luxurious, and naturally photographed. Scrapbook Editorial Design: Present the final composition as a refined vintage scrapbook-style editorial poster on warm ivory textured paper. Use softly painted/watercolor edges around the main photograph, an organic imperfect cutout effect, subtle paper grain, delicate botanical illustrations, tiny vintage postal elements, and elegant minimal decorative lines. Add tasteful typography with a sophisticated editorial feel, such as: “A MOMENT OF PURE BLISS” and underneath: “Good Coffee, Better Days” with a small elegant heart or botanical ornament. Keep the typography minimal, refined, and beautifully integrated into the paper layout. Color & Lighting: Warm ivory, cream, beige, soft brown, muted green, and subtle golden tones. Natural afternoon sunlight, gentle highlights, realistic shadows, soft cinematic glow, subtle analog film grain, delicate depth of field, and premium editorial color grading. Overall Style: Ultra-photorealistic, high-end lifestyle photography, luxury café editorial, sophisticated feminine aesthetic, realistic skin and fabric texture, authentic hands and fingers, natural body proportions, realistic coffee and dessert details, cinematic photography, premium magazine quality, 8K detail, crisp but soft natural image quality, elegant nostalgic atmosphere, sophisticated Pinterest/editorial scrapbook aesthetic. IMPORTANT: The face reference controls ONLY the woman's identity. The uploaded inspiration images control the visual concept, composition, styling, café atmosphere, colors, and scrapbook presentation. Do not merge another person's face into the subject. Keep the woman's identity recognizable and consistent throughout the entire composition. Negative Prompt: different face, altered identity, face swap, beautified face, distorted facial features, extra fingers, malformed hands, unrealistic skin, plastic skin, cartoon, 3D render, CGI look, blurry face, low resolution, oversaturated colors, artificial lighting, duplicate objects, distorted coffee cup, malformed dessert, excessive text, watermark, logo, messy composition, unnatural pose, unrealistic body proportions.
+```
+
+By [@KrishnaBio1](https://x.com/KrishnaBio1/status/2102550128985002216)
+
+---
+
+<a id="freestylefly-case-21"></a>
+
+## 直播界面设计图
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case21.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case21.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+{ "type": "live stream UI mockup", "subject": { "description": "portrait of {argument name=\"host name\" default=\"Elon Musk\"}, smiling, wearing a black t-shirt with a white technical schematic graphic", "background": "left side shows a screen with '{argument name=\"left background logo\" default=\"SPACEX\"}' text, right side shows a red '{argument name=\"right background logo\" default=\"Tesla T logo\"}' and a dark car" }, "ui_overlay": { "top_header": { "host_info": "avatar, name '{argument name=\"host name\" default=\"Elon Musk\"}', subtext '55.6万本场点赞', red '关注' button", "rank_badge": "gold coin icon with '全站第1名'", "viewer_stats": "3 top viewer avatars with '12.3w', '8.6w', '5.7w', total '68.7万', 'X' close button", "right_links": "'更多直播 >', '礼物展馆 0/24' with blue '经典' tag" }, "mid_left_gifts": { "count": 2, "items": [ "avatar '科技爱好者', '送小心心', heart icon x 1314", "avatar '星辰大海', '送火箭', rocket icon x 666" ] }, "bottom_left_chat": { "system_message": "level 37 badge '宇宙漫游者 加入了直播间'", "message_count": 7, "messages": [ "小火箭: 马斯克！未来可期！🚀", "future: 特斯拉Model 2什么时候出？", "星空梦想家: SpaceX今年能上火星吗？", "AI探索者: Neuralink进展如何？", "帅气的网友: 马总好！", "Mars: 第一次来你的直播，超激动！", "用户123: 讲讲AI吧，会取代人类吗？" ] }, "bottom_right_product_card": { "hot_tag": "orange '热卖 x 1888'", "image": "Tesla Cybertruck", "title": "{argument name=\"product name\" default=\"特斯拉Cybertruck 电动皮卡\"}", "price": "{argument name=\"product price\" default=\"¥ 1,618,000\"}", "button": "red '抢' button", "floating_animation": "translucent hearts floating up the right edge" }, "bottom_bar": { "input_field": "'说点什么...'", "icons": ["smiley face", "three dots", "shopping cart", "gift box", "share"] } } }
+```
+
+By [@sjbbxhz](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-21)
+
+---
+
+[1](portraits.md) · [2](portraits-2.md) · **3** · [4](portraits-4.md) · [5](portraits-5.md) · [6](portraits-6.md) · [7](portraits-7.md)
 
 [← Home](../README.md)

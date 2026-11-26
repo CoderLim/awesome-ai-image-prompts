@@ -6,6 +6,102 @@
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
+<a id="freestylefly-case-34"></a>
+
+## 插画艺术创作图
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case34.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case34.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+{ "type": "character avatar grid", "theme": "{argument name=\"theme\" default=\"Journey to the West mythology\"}", "style": "{argument name=\"art style\" default=\"clean 2D cartoon vector illustration, thick outlines, flat colors\"}", "layout": { "background": "{argument name=\"background color\" default=\"light gray\"} subtle texture", "format": "grid of circular portraits with text labels centered below each circle", "rows": [ { "count": 4, "items": [ {"label": "Sun Wukong", "description": "monkey boy with golden headband and red scarf"}, {"label": "Tang Sanzang", "description": "monk with ornate golden crown"}, {"label": "Zhu Bajie", "description": "pig man holding a rake"}, {"label": "Sha Wujing", "description": "bearded man holding a crescent moon staff"} ] }, { "count": 4, "items": [ {"label": "White Dragon Horse", "description": "white horse with golden bridle"}, {"label": "Jade Emperor", "description": "older man with white beard and golden crown"}, {"label": "Guanyin", "description": "goddess holding a willow branch"}, {"label": "Bull Demon Kink", "description": "fierce bull demon in armor"} ] }, { "count": 4, "items": [ {"label": "Princess Iron Fan", "description": "woman holding a green palm leaf fan"}, {"label": "Red Boy", "description": "boy with red hair, horns, and a small flame"}, {"label": "Black Wind Demon", "description": "dark shadowy demon with glowing red eyes"}, {"label": "Nezha", "description": "boy with double hair buns holding a flaming spear"} ] }, { "count": 3, "description": "partial row repeating Princess Iron Fan, Black Wind Demon, and Nezha, slightly cropped at the bottom" } ] } }
+```
+
+By [@Ryan\_Suo](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-34)
+
+---
+
+<a id="freestylefly-case-37"></a>
+
+## 综合应用场景图
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case37.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case37.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+Create {argument name="quantity" default="24"} LINE stickers of {argument name="animals" default="animals"} in a quirky hand-drawn style. Target {argument name="target audience" default="Japanese Gen Z"} with a trendy style that can aim for top downloads.
+```
+
+By [@midori\_tatsuta](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-37)
+
+---
+
+<a id="freestylefly-case-38"></a>
+
+## 综合应用场景图
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case38.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case38.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+Create {argument name="quantity" default="24"} LINE stickers of {argument name="animals" default="animals"} in a quirky hand-drawn style. Target {argument name="target audience" default="Japanese Gen Z"} with a trendy style that can aim for top downloads.
+```
+
+By [@midori\_tatsuta](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-38)
+
+---
+
+<a id="freestylefly-case-39"></a>
+
+## 综合应用场景图
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case39.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case39.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+Create {argument name="quantity" default="24"} LINE stickers of {argument name="animals" default="animals"} in a quirky hand-drawn style. Target {argument name="target audience" default="Japanese Gen Z"} with a trendy style that can aim for top downloads.
+```
+
+By [@midori\_tatsuta](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-39)
+
+---
+
+<a id="freestylefly-case-40"></a>
+
+## 综合应用场景图
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case40.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case40.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+Create {argument name="quantity" default="24"} LINE stickers of {argument name="animals" default="animals"} in a quirky hand-drawn style. Target {argument name="target audience" default="Japanese Gen Z"} with a trendy style that can aim for top downloads.
+```
+
+By [@midori\_tatsuta](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-40)
+
+---
+
+<a id="freestylefly-case-57"></a>
+
+## 界面交互设计图
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case57.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case57.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+{ "type": "mobile social media app UI mockup", "platform": "Twitter/X dark mode", "header": { "status_bar": "time 19:28, bird icon, signal, wifi, battery", "navigation": "back arrow, 'Tweet' title" }, "post": { "author": { "avatar": "portrait of a Chinese emperor in red robes and black hat", "display_name": "{argument name=\"display name\" default=\"Emperor Zhu Yuanzhang\"} 👑 [verified badge]", "handle": "{argument name=\"handle\" default=\"@Emperor_Ming\"}" }, "content": { "text": "{argument name=\"tweet text\" default=\"I have ascended to the Dragon Throne! Today, I am proclaimed as the Emperor of the Ming Dynasty. The era of Hongwu has begun. Let us rebuild our great nation together!\"}", "hashtags": "#MingDynasty #HongwuEra #NewBeginning", "media_grid": { "count": 3, "images": [ "emperor seated on an ornate golden throne in red and gold robes", "wide shot of a grand Chinese palace courtyard with a large crowd", "emperor on horseback leading an army with a red dragon banner" ] } }, "metadata": { "timestamp": "{argument name=\"timestamp\" default=\"1:36 PM · Jan 23, 1368\"}", "engagement": "5,432 Retweets, 8,765 Quotes, 20.1K Likes, 102.3K Views" }, "actions": "reply, retweet, like (red heart with '1'), share, upload" }, "footer": { "reply_bar": { "avatar": "woman in red", "placeholder": "Reply to Emperor Zhu Yuanzhang..." }, "navigation_bar": "home, search, notifications (red '1' badge), messages" } }
+```
+
+By [@liyue\_ai](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-57)
+
+---
+
 <a id="freestylefly-case-188"></a>
 
 ## 暗黑极简头像网站视觉设计
@@ -22,35 +118,51 @@ By [@xiaoxiaodong01](https://x.com/xiaoxiaodong01/status/2046556758521573546)
 
 ---
 
-<a id="freestylefly-case-378"></a>
+<a id="freestylefly-case-226"></a>
 
-## 高端 3D 收藏玩具头像
+## 古风明朝帝王群像长卷
 
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case378.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case378.jpg" width="480" alt="Source example"></a>
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case226.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case226.jpg" width="480" alt="Source example"></a>
 
 **Prompt**
 
 ```text
-Transform the input photo into a high-end stylized 3D collectible figure. Large head, slightly exaggerated facial features while preserving identity. Hyper-detailed skin texture with subtle pores, realistic wrinkles, and a cinematic expression. Smooth matte vinyl finish. Soft studio lighting, clean black background. Ultra-sharp focus, 8K render, photorealistic materials, Pixar-quality rendering, centered composition, full body, premium designer toy aesthetic.
+[中文] 根据上传图片的风格，生成明朝各个皇帝的头像，头像下面有他们的谥号和名字 [English] Based on the style of the uploaded image, generate portraits of the emperors of the Ming Dynasty, with their posthumous titles and names below the portraits
 ```
 
-By [@Genematicai](https://x.com/Genematicai/status/2050654848216109429)
+By [@liyue\_ai](https://x.com/liyue_ai/status/2045071977279635962)
 
 ---
 
-<a id="freestylefly-case-522"></a>
+<a id="freestylefly-case-302"></a>
 
-## 儿童故事书手绘头像
+## 九位大师的机械键盘设计图鉴
 
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case522.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case522.jpg" width="480" alt="Source example"></a>
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case302.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case302.jpg" width="480" alt="Source example"></a>
 
 **Prompt**
 
 ```text
-Use the single uploaded photo as the only visual reference. Transform the person into an adorable hand-drawn 2D children’s storybook character, while keeping their identity immediately recognizable. Preserve exactly from the photo: - Facial features and skin tone - Real hairstyle, length, texture, and color - Exact clothing, colors, patterns, and layering - Glasses, jewelry, headwear, bags, and all visible accessories Do not invent or copy hairstyles, outfits, accessories, braids, pigtails, bows, bonnets, or headscarves from any reference artwork. ### Character Use an oversized rounded head, tiny compact body, short arms, narrow shoulders, soft rounded silhouette, and cute childlike proportions. Keep the head visually dominant. Avoid realistic anatomy. ### Face Simplify into tiny dot/oval eyes, minimal nose, tiny smiling mouth, rounded cheeks, and soft peach/pink blush. Keep recognizable facial characteristics. No realistic eyes, detailed lips, anime features, glossy 3D rendering, or heavy shading. ### Hair & Clothing Recreate the exact hairstyle and outfit from the uploaded photo, simplified into chunky hand-drawn shapes. Preserve important colors, patterns, jewelry, glasses, and other recognizable details. ### Style Handmade 2D picture-book aesthetic using soft gouache, wax crayon, colored pencil, and dry pastel. Use slightly irregular dark-brown linework, subtle paper grain, uneven pigment, soft brush marks, and imperfect painted edges. Avoid clean vector art, CGI, anime, or photorealism. ### Composition Square 1:1 portrait, chest/waist-up, centered and facing mostly forward, with balanced negative space. Use a relaxed, charming pose. ### Background Simple warm mustard, butter yellow, ochre, or cream background with subtle paper texture. No scenery, objects, text, borders, or distractions. Final feeling: the same person lovingly redrawn as an extremely cute, warm, wholesome, nostalgic, handcrafted children’s-book character—same identity, same hair, same clothes, same accessories, completely simplified and adorable.
+[中文] 一个九宫格图片，展现九位当代知名设计师设计的同一组物体：机械键盘，包括设计师头像，设计师对于设计的中文文字解读和作品呈现。排版统一规则 [English] A nine-grid image showing the same group of objects designed by nine contemporary famous designers: mechanical keyboards, including designer avatars, designers' Chinese text interpretations of the designs, and artwork presentations. Unified layout rules
 ```
 
-By [@Sairah\_0](https://x.com/Sairah_0/status/2090321208441262454)
+By [@TanShilong](https://x.com/TanShilong/status/2045148649869692982)
+
+---
+
+<a id="freestylefly-case-470"></a>
+
+## 本地生活小店异形展架
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case470.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case470.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+《餐饮异形展架/立牌物料》提示词： 请生成一张高完成度的「餐饮异形展架 / 立牌」设计图，用于展示餐饮门店的新品推荐、招牌产品、套餐促销或品牌活动信息。 【基础信息】 品牌名：【品牌名】 主标题：【主标题】 副标题：【副标题】 辅助短句：【短句1】｜【短句2】｜【短句3】 主题方向：【主题方向，例如：爆辣夜市风 / 金黄浓郁风 / 清新轻食风 / 山野自然风 / 甜品下午茶风 / 快餐促销风】 主色调：【主色调】 辅助色：【辅助色】 点缀色：【点缀色】 画幅比例：【建议 3:4 竖版】 【产品内容】 主推产品：【主推产品】 辅助产品1：【辅助产品1】 辅助产品2：【辅助产品2】 辅助产品3：【辅助产品3】 辅助产品4：【辅助产品4】 加料 / 配角产品：【加料或配角产品，例如：饮品 / 小食 / 配菜 / 酱料 / 甜品】 【卖点标签】 【卖点1】 【卖点2】 【卖点3】 【卖点4】 【卖点5】 【卖点6】 【促销信息】 【促销信息1】 【促销信息2】 【促销信息3】 【最重要要求】 避免生成门店场景效果图或墙上海报展示图。请直接生成“一张完整的异形立牌成品展示图”： - 背景必须为纯白色 - 画面中只保留一个完整的异形餐饮立牌主体 - 不要餐厅环境 - 不要商场背景 - 不要玻璃门、桌椅、墙面、人物、地面透视场景 - 不要任何真实空间背景 - 立牌主体必须完整显示 - 异形轮廓必须完整清晰 - 底座必须完整露出 - 整体像一张已经抠好的门店物料成品图 / 设计提案展示图 / 电商展示图 【画面形式】 这是一张“门店异形展架 / 立牌”的完整设计，避免普通矩形海报处理。 整体应采用明显的“不规则异形裁切轮廓”，有完整外边缘，边缘可带白色或浅色描边，具有真实门店物料感。 立牌应有明确底座，整体像可落地摆放的 KT 板 / 泡沫板 / 亚克力 / 写真喷绘展架成品。 【构图结构】 整体采用竖版、中心聚焦、信息分层清楚的结构： 1. 顶部区域： 放超大主标题，标题必须醒目、有冲击力、有餐饮 POP 招贴感。 字体可以厚重、手写感、招贴感、潮流感，但要清晰易读。 标题是整张图的第一视觉焦点。 2. 中部核心区域： 中间放最大主推产品，作为主视觉主体。 主菜必须最大、最饱满、最诱人，突出食欲感。 围绕主菜搭配 2~5 个辅助产品，形成丰富的产品组合，前后层次明确，主次分明。 3. 周边信息区域： 在主菜和辅助产品四周加入少量标签元素、推荐标、贴纸框、手写箭头、卖点说明、小标题、小气泡标签等，使其具有“餐饮门店促销物料”的视觉特征。 但要控制层级，做到“热闹但不乱”。 4. 底部促销区域： 底部放价格信息、套餐信息、活动信息或新品尝鲜信息。 价格数字要相对突出，易读清晰。 如果没有特别要求，默认不要二维码。 【视觉风格要求】 整体风格应属于“餐饮转化型视觉 + 门店 POP 异形立牌”： - 强调食欲感 - 强调信息可读性 - 强调商业落地感 - 强调门店物料感 - 强调异形轮廓感 避免极简杂志海报、电商详情页、纯平面插画海报方向。 【食物表现要求】 所有食物必须采用真实商业美食摄影质感： - 食物清晰真实 - 有食材颗粒感 - 有酱汁、汤汁、油光、热气、层次感 - 有丰富细节，如葱花、辣椒、芝士、香草、蔬菜、水果、虾仁、肉块等 - 主食要饱满，不能扁平 - 看起来必须“能激发食欲” 禁止过度插画化、卡通化、低质拼贴化。 【版式与信息层级】 整张立牌的阅读顺序应为： 主标题 → 主推产品 → 辅助产品 → 卖点标签 → 价格 / 活动信息 信息量可以较丰富，但必须有明确层级： - 主标题最大 - 主菜次大 - 辅助菜稍小 - 卖点标签较小 - 底部促销清晰醒目 【适配范围】 该模板需要适用于不同主题餐饮内容，例如： - 面 / 饭 / 粉 / 小吃 - 火锅 / 菌汤 / 地方菜 - 轻食 / 沙拉 / 咖啡简餐 - 早餐 / 套餐 / 快餐 - 茶饮 / 甜品 / 下午茶 - 节日促销 / 新品上市 / 爆品推荐 / 双人套餐 【输出要求】 请输出一张高清、清晰、商业完成度高的异形立牌设计图，满足以下条件： - 白色背景 - 完整异形轮廓 - 完整底座 - 只展示立牌本体 - 不带真实场景环境 - 不带人物 - 不带门店背景 - 默认不带二维码 - 适合用于系列案例展示、设计提案、社交媒体发布、模板复用
+```
+
+By [@MrLarus](https://x.com/MrLarus/status/2059248197910827364)
 
 ---
 

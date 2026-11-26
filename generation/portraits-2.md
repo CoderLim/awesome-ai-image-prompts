@@ -1,42 +1,10 @@
 # portraits
 
-[← Home](../README.md) · Page 2 / 6
+[← Home](../README.md) · Page 2 / 7
 
-[1](portraits.md) · **2** · [3](portraits-3.md) · [4](portraits-4.md) · [5](portraits-5.md) · [6](portraits-6.md)
+[1](portraits.md) · **2** · [3](portraits-3.md) · [4](portraits-4.md) · [5](portraits-5.md) · [6](portraits-6.md) · [7](portraits-7.md)
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
-
-<a id="evolink-portraits-case-8"></a>
-
-## Sumo Salt Throw Documentary Photo
-
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2107592681304010752.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2107592681304010752.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-a sumo wrestler throwing a big handful of salt high into the air before his bout, the salt cloud glowing in the lights, his face calm and focused, inside a sumo tournament arena in Tokyo, raised clay ring with straw bales under a suspended shrine-style roof, hard overhead lights, dark crowd behind, documentary photograph, 35mm color film, grain
-```
-
-By [@techhalla](https://x.com/techhalla/status/2107599021976285395)
-
----
-
-<a id="evolink-portraits-case-9"></a>
-
-## Manhattan Period Costume Film Portrait
-
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2107592641042862080.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2107592641042862080.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-a woman wearing an extravagant eighteenth-century inspired silk gown and a tall powdered wig standing still in front of an ornate cast-iron facade in old Manhattan, full-length, 1970s color photograph, soft daylight, grain, slightly faded colors
-```
-
-By [@techhalla](https://x.com/techhalla/status/2107599021976285395)
-
----
 
 <a id="evolink-portraits-case-10"></a>
 
@@ -214,22 +182,6 @@ By [@liyue\_ai](https://x.com/liyue_ai/status/2106253411494568367)
 
 ---
 
-<a id="evolink-portraits-case-21"></a>
-
-## Same-Person Life Memory Collage
-
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2106207972070432768.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2106207972070432768.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Create a highly detailed, photorealistic scrapbook-style photo collage using my uploaded image as the ONLY identity reference. Preserve my exact facial identity, facial features, skin tone, hairstyle, hair color, and overall appearance consistently in every photo. Do not change or beautify my face and do not create a different person. Create a cozy aesthetic memory-board collage featuring the same woman in multiple candid lifestyle photographs. She is wearing a cream and olive-green striped oversized knit sweater, light blue loose-fit jeans, and clean white sneakers. Arrange several realistic Polaroid-style photographs around one large central portrait. The central image shows her sitting casually on a vintage wooden crate, one knee raised, wearing the striped sweater and jeans, looking softly at the camera with a warm natural smile. Include multiple smaller photographs showing different natural expressions and poses: eyes closed with a peaceful smile making a cute peace sign toward the camera playful surprised expression with both hands on her cheeks looking sideways with a gentle smile while holding small white flowers taking a selfie with a smartphone resting her face on one hand while smiling at the camera a relaxed playful pose with one arm raised Keep the same person, same outfit, same hairstyle, and consistent facial identity across every photograph. Build the collage on a warm beige vintage paper background with layered torn newspaper pages, masking tape, paper scraps, film strips, handwritten doodles, hearts, stars, arrows, smiley faces, and small white daisies. Add realistic Polaroid frames with slightly imperfect handmade placement, subtle shadows, paper texture, vintage photography details, and a cozy nostalgic scrapbook aesthetic. Include handwritten-style decorative text such as “Best Day Ever ♡”, “Oops!”, “So Happy Today :)”, “Love This ♡” and small doodles around the photographs. Add a vintage Pentax K1000 film camera resting on stacked old books near the bottom of the composition, with visible book titles such as “Good Vibes”, “Memories”, and “A Brighter Day.” Warm natural indoor lighting, soft cinematic depth of field, realistic skin texture, high-end editorial photography, authentic candid expressions, detailed paper textures, realistic shadows, premium lifestyle photography, harmonious composition, ultra-realistic, high resolution. Important: Use my uploaded image as the identity reference. Preserve my face exactly and consistently in all frames. Only change the poses, expressions, composition, and environment. Do not alter my identity.
-```
-
-By [@mehwishkiran07](https://x.com/mehwishkiran07/status/2106208041758830652)
-
----
-
 <a id="evolink-portraits-case-22"></a>
 
 ## Low-Angle Dusk Film Portrait
@@ -278,22 +230,6 @@ By [@mehwishkiran07](https://x.com/mehwishkiran07/status/2104755850778992779)
 
 ---
 
-<a id="evolink-portraits-case-25"></a>
-
-## Dual-Scale Fashion Portrait
-
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2104396425874534400.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2104396425874534400.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Create a high-end vertical fashion poster using the uploaded reference image as the ONLY identity reference. Preserve the person’s exact facial identity, facial features, hairstyle, skin tone, beard, body proportions, and overall appearance from the reference image. Create a stylish double-exposure editorial composition with TWO versions of the same person: 1. A large, highly detailed close-up portrait occupying the upper-right side of the poster, showing the face and upper body with a confident, natural expression. 2. A smaller full-body version positioned in the lower-left/center area, standing in a relaxed stylish pose with one leg crossed over the other and both hands casually placed in the trouser pockets. Outfit: a clean modern bright lime-green knit sweater, white fitted trousers, white minimalist sneakers, black wristwatch, and stylish black sunglasses. Background: premium light green and white artistic studio background with dramatic bright green watercolor paint splashes, abstract brush strokes, scattered paint droplets, soft green gradients, subtle mist, and artistic textures. Make the large portrait blend naturally into the green background while keeping the smaller full-body figure sharply separated and clearly visible. Composition should look like a professional celebrity fashion poster, modern magazine editorial photography, vibrant green aesthetic, clean cutout edges, realistic skin texture, detailed hair, natural lighting, high contrast, polished commercial photography, sophisticated visual balance. Vertical 9:16 composition, ultra-high resolution, photorealistic, crisp details, cinematic lighting, premium fashion photography. Do not add any text, letters, logos, captions, watermarks, or typography anywhere in the image.
-```
-
-By [@mehwishkiran07](https://x.com/mehwishkiran07/status/2104396563447701567)
-
----
-
 <a id="evolink-portraits-case-26"></a>
 
 ## Green Velvet Double Portrait
@@ -326,6 +262,70 @@ By [@mehwishkiran07](https://x.com/mehwishkiran07/status/2104046033517081024)
 
 ---
 
-[1](portraits.md) · **2** · [3](portraits-3.md) · [4](portraits-4.md) · [5](portraits-5.md) · [6](portraits-6.md)
+<a id="evolink-portraits-case-28"></a>
+
+## Same-Person Lifestyle Portrait Set
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2103802160274415616.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2103802160274415616.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+Create a highly realistic cinematic composite portrait using my uploaded reference image to preserve the exact identity, facial features, hairstyle, skin tone, and overall appearance of the main person. Show the same person multiple times in one elegant, warm, modern indoor environment. The main version stands confidently in the center, walking slightly toward the camera with both arms naturally open and a genuine smile. He is wearing a stylish deep red/burgundy blazer, crisp white open-collar shirt, tailored black trousers, black leather dress shoes, and a black belt. Around him, create several realistic versions of the same person in different natural poses and activities: - one sitting at a desk using a laptop - one casually playing an acoustic guitar - one relaxing comfortably with a coffee cup - one sitting thoughtfully in a chair - one sitting on the floor writing in a notebook - one casually sitting and smiling - one making a friendly pointing gesture Use a sophisticated cozy interior with rich wooden walls, large floor-to-ceiling windows, soft curtains, indoor plants, warm ambient lamps, wooden furniture, subtle decorative elements, and beautiful natural daylight. Maintain perfect facial consistency across every version of the person. Each duplicate must clearly look like the exact same individual, with consistent face, hairstyle, body proportions, clothing style, and skin tone. Professional fashion photography, cinematic composition, realistic skin texture, natural expressions, realistic hands and fingers, accurate anatomy, soft depth of field, warm golden lighting, subtle shadows, premium editorial photography, ultra-detailed, photorealistic, high-end camera quality. Vertical 4:5 composition. IMPORTANT: Do not generate any text, words, letters, quotes, signs, captions, logos, symbols, or typography anywhere in the image. Leave clean empty areas around the composition so I can add my own text later.
+```
+
+By [@mehwishkiran07](https://x.com/mehwishkiran07/status/2103802303686099026)
+
+---
+
+<a id="evolink-portraits-case-29"></a>
+
+## Twenty-Third Birthday Portrait
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2103789510555549696.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2103789510555549696.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+A stunning Southeast Asian woman with short, wavy chestnut-brown bob hair and soft glam makeup — rosy lips and subtle eye makeup — sits elegantly atop a large 3D sculptural number "23" rendered in creamy white with a warm golden inner frame. The hollow interiors of both digits are filled with clusters of metallic balloons in champagne gold, pearl white, and blush pink, along with delicate pink roses and soft cherry blossom branches. She wears a sophisticated dark chocolate brown pinstripe sleeveless wide-leg jumpsuit with a neat self-tie bow at the waist, paired with matching dark brown pointed-toe ankle-strap stiletto heels. Her pose is confident and relaxed — one leg crossed, hand resting gently beside her. The background is a clean warm cream/off-white with soft diagonal light streaks creating a luxurious sun-ray shadow effect. The overall mood is chic, celebratory, and editorial — a birthday or milestone portrait with a fashion-forward aesthetic.
+```
+
+By [@HaniaAi12](https://x.com/HaniaAi12/status/2103789528888525224)
+
+---
+
+<a id="evolink-portraits-case-30"></a>
+
+## Pink Birthday Cake Portrait
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2103789249690746880.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2103789249690746880.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+A beautiful Southeast Asian woman with short, voluminous wavy chestnut-brown bob hair and bold glam makeup — defined brows, smoky eye liner, and full glossy pink lips — poses gracefully in a crouching sit on a confetti-scattered pink floor. She wears a modest blush pink satin midi dress with a high neckline and cap sleeves, a delicate silver pendant necklace, a crystal tennis bracelet, and silver rings, paired with strappy blush pink heeled sandals. Beside her stands an ornate white Roman-style column pedestal topped with a beautiful three-tiered pink rosette birthday cake decorated with swirling cream roses. The background is a solid deep blush pink wall adorned with clusters of pink latex balloons and shiny metallic rose-gold heart-shaped foil balloons floating on both sides. Scattered gold and silver confetti pieces cover the floor. A large black letter prop is partially visible at the top. The studio lighting is soft and even, creating a celebratory, feminine, and luxurious birthday party editorial atmosphere.
+```
+
+By [@HaniaAi12](https://x.com/HaniaAi12/status/2103789264802594874)
+
+---
+
+<a id="evolink-portraits-case-31"></a>
+
+## Pop-Through Calendar Birthday Portrait
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2103789227981045760.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2103789227981045760.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+A cheerful and radiant Southeast Asian woman with short chestnut-brown hair styled in a messy updo bun bursts through a large torn hole in a giant oversized wall calendar. The calendar header features a bold magenta banner with glittery silver text reading "HAPPY BIRTHDAY" and spiral binding at the top, with weekday labels (Mon, Tue, Thu, Fri) and dates (3, 7, 12, 17, 22, 24, 29, 30) visible on the white grid. She wears a charming magenta/fuchsia puff-sleeve tiered baby doll mini dress with a round neckline, paired with pale pink sheer tights decorated with small pink satin bow prints. Her makeup is festive — rosy pink eyeshadow, flushed cheeks, and a bright smile. Colorful pastel balloons in pink, purple, blue, yellow, and green float behind her in the torn opening, with gold and multicolored confetti scattered all around. Her arms are spread wide in a joyful, celebratory pose. The overall mood is playful, vibrant, and fun — a creative birthday concept with a pop-through calendar visual effect.
+```
+
+By [@HaniaAi12](https://x.com/HaniaAi12/status/2103789243500027917)
+
+---
+
+[1](portraits.md) · **2** · [3](portraits-3.md) · [4](portraits-4.md) · [5](portraits-5.md) · [6](portraits-6.md) · [7](portraits-7.md)
 
 [← Home](../README.md)

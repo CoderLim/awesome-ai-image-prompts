@@ -1,40 +1,40 @@
 # illustrations
 
-[← Home](../README.md) · Page 1 / 4
+[← Home](../README.md) · Page 1 / 5
 
-**1** · [2](illustrations-2.md) · [3](illustrations-3.md) · [4](illustrations-4.md)
+**1** · [2](illustrations-2.md) · [3](illustrations-3.md) · [4](illustrations-4.md) · [5](illustrations-5.md)
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
-<a id="evolink-illustration-case-122"></a>
+<a id="evolink-advertising-case-175"></a>
 
-## Landmark Behind a Zipper
+## Country Landscapes in Snack Packaging
 
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2108558438796345344.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2108558438796345344.jpg" width="480" alt="Source example"></a>
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2107334161413664768.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2107334161413664768.jpg" width="480" alt="Source example"></a>
 
 **Prompt**
 
 ```text
-Create a breathtaking, photorealistic surrealist photograph of a giant metallic zipper partially opening the surface of an ordinary real-world environment, revealing an actual place from [COUNTRY / CITY / LANDMARK] behind it A giant, physically realistic silver zipper runs diagonally across the scene. Its metallic teeth separate two edges of the outer surface, creating a large, natural-looking opening. The zipper must look like a real physical object, with brushed metal texture, fine scratches, accurate reflections, and realistic shadows. INSIDE THE OPENING: Reveal a breathtaking, photorealistic view of [COUNTRY / CITY / LANDMARK] as it actually exists in the real world. If the subject is a country, show an authentic landscape featuring its real geographical features, traditional architecture, recognizable landmarks, and genuine cultural details. If the subject is a city, show its actual streets, real buildings, recognizable skyline, authentic transportation, and characteristic urban atmosphere. If the subject is a landmark, reproduce its real architecture with accurate proportions, materials, colors, windows, structural details, and surrounding environment. Every building, street, vehicle, and architectural feature must look believable and consistent with the real location. Use actual-world architectural references rather than inventing structures. THE VISUAL MAGIC: The only surreal element is the giant zipper opening reality. The location inside must look like an authentic photograph taken by a professional travel photographer. The real landscape extends naturally behind the zipper opening, with realistic perspective, atmospheric depth, natural sunlight, and physically accurate shadows. The zipper edges cast believable shadows onto the revealed scene, making the illusion convincing. PHOTOGRAPHIC STYLE: Ultra-photorealistic travel photography, natural daylight, realistic atmospheric perspective, true-to-life colors, physically accurate textures, professional full-frame camera quality, sharp architectural details, natural contrast, realistic depth of field, and premium editorial photography. COMPOSITION: Vertical 4:5 composition. The giant zipper occupies the foreground and opens wide enough to reveal the location clearly. The real-world destination is the main subject, immediately recognizable and visually dominant. Clean composition with no unnecessary decorative elements. STRICT REALISM RULES: No fantasy architecture or imaginary buildings. No cartoon, illustration, painting, or CGI-looking landscapes. No exaggerated colors, artificial glowing lights, or magical particles. No distorted buildings, melted structures, or impossible roads. No invented landmarks or inaccurate architectural details. No extra zippers or unrelated objects. No text, labels, borders, or watermarks. Final result: A visually extraordinary yet convincing photorealistic image in which a giant zipper reveals a real place hidden behind reality. The concept is surreal; the destination itself is completely realistic.
+A striking top-down art photograph of a famous packaged food/snack from [COUNTRY], placed on a clean white sheet of paper. At the very top of the paper, write “[COUNTRY NAME]” in large, bold, beautiful typography. Directly underneath, place a realistic, colorful packet of “[FAMOUS FOOD/SNACK]” from that country. The packet is creatively split/opened down the center, and the inside artwork transforms into a vibrant miniature illustration of the country — featuring its most iconic landmark, architecture, landscape, cultural elements and recognizable local details. Keep the original food packet highly realistic with authentic-looking folds, crinkles, printed graphics and vivid colors, while the emerging country illustration uses expressive colored-pencil and wax-crayon strokes. White paper background, overhead composition, playful handmade imperfections, rich saturated colors, premium editorial art photography, extremely detailed, visually satisfying, viral social-media aesthetic.
 ```
 
-By [@Naiknelofar788](https://x.com/Naiknelofar788/status/2108558447663071286)
+By [@Naiknelofar788](https://x.com/Naiknelofar788/status/2107334172633379213)
 
 ---
 
-<a id="evolink-illustration-case-123"></a>
+<a id="evolink-gpt-image-2-6-case-260"></a>
 
-## Geometric Illustrated Character Poster
+## Looping Anime Kaleidoscope Animation
 
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2108532075657900032.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2108532075657900032.jpg" width="480" alt="Source example"></a>
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/2118665679846993920.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/2118665679846993920.jpg" width="480" alt="Source example"></a>
 
 **Prompt**
 
 ```text
-Create a finished editorial character poster inspired by the uploaded reference image. Preserve the recognizable identity, hairstyle, clothing details, pose, and important visual characteristics of the subject while translating them into a sophisticated flat geometric illustration. FORMAT LOCK Vertical 3:4 composition. Edge-to-edge warm off-white paper background. One standalone poster. Clean editorial layout. CHARACTER One adult character constructed from a few oversized asymmetric geometric shapes. Slightly exaggerated proportions, small head, elongated capsule-like limbs, simple mitten-style hands, and one oversized object integrated naturally into the pose and silhouette. Preserve the subject's recognizable appearance while simplifying details into graphic shapes. STYLE Flat geometric illustration, asymmetric proportions, crisp color blocks, soft airbrushed shading, subtle dark-to-color spray gradients where shapes overlap, fine print grain, delicate stippling mostly inside darker areas, refined contemporary editorial poster aesthetic. FACE & EXPRESSION Minimal black cut-paper facial features: simple crescent eyes and minimal mouth. The emotion should be communicated primarily through the character's full-body gesture and silhouette rather than detailed facial expression. PALETTE Warm off-white #F3F1EB, near-black 10100F, hot pink #F553D2, warm red #F42726, cobalt 293EA1, emerald 13785D. Keep colors flat and graphic with controlled soft gradients only where forms overlap. Keep the character and oversized object as the main visual focus. Use generous negative space and a balanced editorial arrangement. The object should visibly affect the overall silhouette and feel integrated into the character's pose. NEGATIVE PROMPT No extra text, logos, outlined cartoon style, glossy 3D, realistic skin, photorealism, coarse canvas texture, busy background, extra limbs, distorted anatomy, excessive facial detail, photorealistic shading, random objects, clutter, watermark.
+Create a seamless looping 1:1 2D anime kaleidoscope animation using the supplied character as the exact identity reference. Preserve the face, hairstyle, anatomy, outfit and visual style. COMPOSITION: A vibrant, symmetrical kaleidoscope featuring one large central character and four surrounding copies arranged diagonally at different radial angles. Layer overlapping character portraits, decorative Japanese fans, floral motifs and colorful geometric patterns. Fill the entire frame with dense, intricate details extending beyond the edges. No circular frames. ANIMATION: Keep the overall composition stationary while all five character instances perform independent, expressive anime movements: head tilts, blinking, playful expressions, flowing hair and rhythmic gestures. Use smooth hand-drawn animation with crisp linework, cel shading and lively secondary motion. LOOP: All movements return naturally to their initial poses for a perfectly seamless infinite loop. No text, logos, subtitles or additional characters.
 ```
 
-By [@Shorelyn\_](https://x.com/Shorelyn_/status/2108532094796533952)
+By [@aimikoda](https://x.com/aimikoda/status/2118665755994546650)
 
 ---
 
@@ -102,22 +102,6 @@ By [@Goodmanprotocol](https://x.com/Goodmanprotocol/status/2108112844239892599)
 
 ---
 
-<a id="evolink-illustration-case-128"></a>
-
-## Black Ink Figure Sketch
-
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2108104309342969856.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2108104309342969856.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-以参考图人物为原型，保留五官特征、神态、服饰与身体姿态，去除原始背景，重新创作成大师级黑白钢笔人物手稿。采用精湛的传统钢笔绘画技法，以灵动流畅的墨线、细密交叉排线、自然断笔与大胆留白塑造人物的立体感和艺术张力。面部精细刻画，服饰线条疏密有致，局部保留起稿痕迹与随性的未完成笔触，呈现真实艺术家亲笔创作的质感。暖象牙色复古素描纸，清晰可见纸张纤维与细腻墨迹，黑白灰层次丰富。极简艺术画册排版，大面积留白，角落点缀手写签名与创作日期。整体优雅、自由、富有艺术收藏价值，拒绝数字描摹与AI滤镜感，9:16竖版高清构图。
-```
-
-By [@MrGafish](https://x.com/MrGafish/status/2108104473235341588)
-
----
-
 <a id="evolink-illustration-case-129"></a>
 
 ## Single-Line City Panorama
@@ -131,54 +115,6 @@ Create a visually stunning minimalist colored-pencil and wax-crayon artwork of [
 ```
 
 By [@Naiknelofar788](https://x.com/Naiknelofar788/status/2108048878234673467)
-
----
-
-<a id="evolink-illustration-case-130"></a>
-
-## Multi-Character Narrative Poster
-
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2107862650780516352.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2107862650780516352.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Create a 9:16 high-end multi-character editorial poster about [THEME]. Include 4–7 clearly different characters with distinct ages, roles, personalities, poses, and relationships. Build a believable story around why they belong in the same poster. Use [VISUAL STRUCTURE: oversized typography / layered bands / geometric cuts / circular composition / freeform collage / irregular portrait grid] as the main graphic system. Mix large, medium, and small figures using full-body, half-body, close-up, side-profile, and partial crops. Avoid equal-sized people and evenly spaced layouts. Integrate people directly with typography and graphic shapes through overlap, masking, negative space, cropping, and foreground/background relationships. Use [COLOR PALETTE] with bold editorial typography. Main title: “[TITLE]”. All visible text in English. Keep the composition rich, bold, story-driven, and highly designed, with strong thumbnail impact and meaningful information density. Style: contemporary cultural poster, film ensemble poster, independent magazine, Korean editorial design, European graphic design, realistic editorial photography. Avoid generic group photos, repeated faces, same-age characters, rigid cards, simple text-image blocks, regular grids, meaningless filler text, corporate poster styling, 3D type, watermarks, numbering, and sparkle symbols.
-```
-
-By [@MrLarus](https://x.com/MrLarus/status/2107862794469302424)
-
----
-
-<a id="evolink-illustration-case-131"></a>
-
-## Miniature Farm Inside an Apple
-
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2107803452583858176.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2107803452583858176.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-A whimsical miniature world built around a giant freshly cut red apple in an apple orchard. The enormous apple is sliced perfectly in half and standing upright, revealing its creamy golden-white flesh, central core, seeds, and wooden stem. Tiny miniature apple farmers are actively harvesting and cutting the apple: some workers are climbing wooden ladders, others are standing on the apple’s surface slicing small apple pieces with knives, while others collect the freshly cut apple chunks into woven wicker baskets and rustic wooden crates. Several tiny farmers wear colorful work clothes, hats, boots, and overalls, creating a charming handcrafted miniature farming scene. Surround the giant apple with a lush apple orchard filled with red apples, green leaves, branches, grass, fallen apple pieces, wooden crates, baskets, and tiny farming tools. Warm golden sunlight shines through the trees, creating a magical cinematic atmosphere with soft glowing bokeh in the background. Create two visual treatments of the same scene: the first as an ultra-realistic cinematic miniature photography scene with realistic textures, detailed workers, glossy red apple skin, natural lighting, shallow depth of field and macro photography; the second as a beautiful vintage watercolor illustration / handmade travel scrapbook artwork, painted on warm textured cream paper, with delicate watercolor washes, visible brush strokes, colorful paint splashes, soft botanical apple branches, artistic imperfections, and a cozy storybook aesthetic. The composition should feel charming, imaginative, nostalgic, and handcrafted, like a premium illustrated children's storybook or vintage travel scrapbook. Highly detailed miniature characters, realistic proportions, intricate baskets and wooden ladders, warm autumn color palette, soft natural shadows, cinematic depth, beautiful composition, vertical poster layout, centered subject, clean cream paper border. At the bottom of the watercolor version, add elegant minimalist typography reading “SWEET MOMENTS” and underneath “LIFE”, with refined black serif lettering and generous spacing. Photorealistic miniature photography + whimsical fantasy + vintage watercolor illustration + premium scrapbook aesthetic + ultra-detailed + warm golden lighting + macro depth of field + highly intricate textures.
-```
-
-By [@mehwishkiran07](https://x.com/mehwishkiran07/status/2107803596477944202)
-
----
-
-<a id="evolink-illustration-case-132"></a>
-
-## Soundwave City Landmark
-
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2107690022594101248.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2107690022594101248.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-A surreal high-fashion editorial artwork where [CITY/LANDMARK] is formed entirely from flowing sound waves, audio frequencies, and rhythmic lines. The soundwaves begin as tiny vibrations at the bottom of the composition and gradually transform into the recognizable architecture of [CITY/LANDMARK]. Different frequencies become different visual elements — thick bass waves create buildings, delicate high-frequency lines create windows and bridges, glowing pulses become streetlights and moving vehicles. Tiny fragments of typography, coordinates, music notes, and abstract symbols float through the waves. Clean pale background, intense electric colors mixed with subtle metallic textures, dramatic depth, ultra-fine linework, futuristic editorial art, controlled chaos, sophisticated composition, no people, no ordinary skyline illustration, the architecture itself must visibly emerge from the soundwave pattern, striking and instantly recognizable, premium magazine cover aesthetic.
-```
-
-By [@Naiknelofar788](https://x.com/Naiknelofar788/status/2107690033688056029)
 
 ---
 
@@ -326,6 +262,70 @@ By [@churvikv](https://x.com/churvikv/status/2107542566191419650)
 
 ---
 
-**1** · [2](illustrations-2.md) · [3](illustrations-3.md) · [4](illustrations-4.md)
+<a id="evolink-illustration-case-142"></a>
+
+## Vintage Screen-Printed Lighthouse
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2107535244148473856.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2107535244148473856.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+A spectacular vintage screen-print illustration of a tall colorful lighthouse standing alone on a dark rocky island in a vast nighttime ocean. The lighthouse has geometric blocks of cream, hot pink, yellow and cobalt blue, with a dark blue roof. Its powerful yellow beam sweeps across the sky in a huge curved arc. Deep blue ocean with stylized white waves fills the bottom of the image. Dense halftone dots cover every surface, with rough paper texture and imperfect ink registration. Limited retro CMYK palette, flat graphic shapes, 1970s children's storybook screen-print aesthetic, mysterious and magical atmosphere, no text, 16:9.
+```
+
+By [@hakmgpt](https://x.com/hakmgpt/status/2107535382183387282)
+
+---
+
+<a id="evolink-illustration-case-143"></a>
+
+## Gongbi Fan Painting and Figure
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2107410807260930048.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2107410807260930048.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+【角色】 × 宋式工笔人物扇面 × 真人与扇中自画像对应 × 半脸遮挡 × CCD柔焦
+```
+
+By [@DeepBlueX0](https://x.com/DeepBlueX0/status/2107410819294343507)
+
+---
+
+<a id="evolink-illustration-case-146"></a>
+
+## Historical Costume Layer Diagram
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2106765639809708032.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2106765639809708032.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+【朝代】女性贴身衣物 × 穿着层次 × 结构展开 × 材质与裁片 × 服饰复原 × 竖版9:16
+```
+
+By [@DeepBlueX0](https://x.com/DeepBlueX0/status/2106765651952140743)
+
+---
+
+<a id="evolink-illustration-case-148"></a>
+
+## European Cafe Oil Painting Portrait
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2106245520931033088.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2106245520931033088.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+{ "prompt": { "aspect_ratio": "9:16", "style": "vintage European café oil painting, expressive brushwork, mid-century editorial artwork", "subject": { "character": "stylish young European woman with shoulder-length wavy auburn hair", "expression": "calm, confident, slightly playful gaze toward the viewer", "pose": "seated sideways at a small café table, one arm resting on the chair back while the other lightly holds a coffee cup", "details": "subtle makeup, berry-red lipstick, small gold earrings" }, "outfit": { "top": "deep coral-red short-sleeve blouse with a relaxed neckline", "style": "chic 1960s-inspired European fashion" }, "composition": { "framing": "medium-wide portrait", "camera_angle": "slightly elevated three-quarter angle", "subject_position": "slightly left of center", "foreground": "round café table with coffee, small glass and scattered objects" }, "background": { "setting": "charming old European café interior", "design": "large abstract geometric wall shapes mixed with subtle architectural details", "colors": ["teal", "coral", "cream", "burnt orange"] }, "props": [ "ceramic espresso cup", "small glass bottle", "vintage café chair", "folded napkin" ], "color_palette": "teal, coral red, cream, burnt orange and warm brown", "texture": "thick imperfect oil brushstrokes, visible canvas grain, slightly weathered painted surface", "lighting": "warm afternoon window light with soft natural shadows", "mood": "stylish, relaxed, nostalgic European café atmosphere", "negative_prompt": "exact recreation of reference, same pose, same character, same outfit, same composition, photorealistic, 3D render, CGI, text, logo, watermark" } }
+```
+
+By [@hey\_am\_cherry](https://x.com/hey_am_cherry/status/2106245541508382774)
+
+---
+
+**1** · [2](illustrations-2.md) · [3](illustrations-3.md) · [4](illustrations-4.md) · [5](illustrations-5.md)
 
 [← Home](../README.md)

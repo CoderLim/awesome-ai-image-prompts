@@ -1,24 +1,56 @@
 # portraits
 
-[← Home](../README.md) · Page 1 / 6
+[← Home](../README.md) · Page 1 / 7
 
-**1** · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · [5](portraits-5.md) · [6](portraits-6.md)
+**1** · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · [5](portraits-5.md) · [6](portraits-6.md) · [7](portraits-7.md)
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
-<a id="evolink-advertising-case-171"></a>
+<a id="evolink-advertising-case-179"></a>
 
-## Food Photography and Ingredient Journal
+## Zara Tote Bag Launch Campaign
 
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2108555755276341248.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2108555755276341248.jpg" width="480" alt="Source example"></a>
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2106344432266362881.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2106344432266362881.jpg" width="480" alt="Source example"></a>
 
 **Prompt**
 
 ```text
-Create a premium 3:4 vertical editorial food-art poster for [COUNTRY / CITY / LOCAL DISH / FOOD SUBJECT]. TEXT-TO-IMAGE ONLY. Generate the entire composition from the written dish or food subject alone. Do not request, upload, use, or depend on any reference image or existing photograph. Automatically identify the dish’s authentic appearance, ingredients, textures, and cultural identity. CORE CONCEPT: Create one elegant travel-food editorial poster combining realistic food photography in the upper section with a handmade ingredient-observation sketchbook in the lower section. Feature ONE recognizable plate or bowl containing a single dish, with at least three visually distinct ingredients. UPPER SECTION — REALISTIC FOOD PHOTOGRAPHY: Occupy approximately 48% of the canvas height. Create a beautifully composed, authentic photographic view of the specified local dish, preserving believable ingredient textures, natural lighting, realistic proportions, and culturally accurate presentation. Use subtle food-magazine color grading and extremely light film grain. Keep the entire plate or bowl visible. SECTION DIVIDER: Separate both sections with a straight, clean horizontal boundary. A very thin warm-ivory paper strip is optional. No gradients, blending, or elements crossing the divider. LOWER SECTION — INGREDIENT OBSERVATION SHEET: Use warm ivory drawing paper with visible fibers, fine grain, faint smudges, and subtle handmade irregularities. Create a sparse, asymmetrical food-field-note composition rather than repeating the full photographic dish. Place ONE small, simplified but recognizable illustration of the complete dish near the center. Keep it secondary and compact, occupying approximately one-third of the lower section’s width. Around it, illustrate 3–6 individually selected ingredients inferred from the dish. Use small watercolor specimens, cut-surface studies, herb sketches, grain clusters, sauce swatches, or distinctive ingredient shapes. Arrange them at varied sizes and angles with generous breathing room. DRAWING STYLE: Matte gouache, delicate black-ink outlines, slightly hesitant hand-drawn strokes, dry-brush gaps, uneven pigment coverage, soft watercolor edges, visible paper texture, and restrained natural colors. Keep ingredients recognizable without excessive detail. Add a few fine arrows and small handwritten numbers connecting specimens to the miniature dish. TYPOGRAPHY: Use minimal, understated editorial annotations only when helpful. Short ingredient names or tiny handwritten notes are acceptable. Keep all text small and secondary; avoid unnecessary titles or decorative lettering. COLOR PALETTE: Derive the colors naturally from the dish, balanced by warm cream, muted earth tones, and subtle ink details. FINAL AESTHETIC: Authentic local food photography × handmade ingredient studies × refined travel-food editorial × collectible culinary field notebook. AVOID: Multiple dishes, duplicate plates, mixed meals, inaccurate ingredients, excessive garnish, crowded layouts, gradients, bleeding transitions, glossy digital painting, flat vector infographics, 3D rendering, commercial menu styling, excessive text, logos, watermarks, and interface elements. FORMAT: 3:4 vertical portrait, approximately 48% photographic food scene above and 52% illustrated ingredient-observation sheet below, crisp horizontal separation, generous negative space, premium publication quality, ultra-high definition.
+ZARA — TOTE BAG MERCH DROP “THE EVERYDAY ICON” Act as a Senior Brand Art Director, Editorial Fashion Photographer, Art Director, Set Designer, Typography Designer and Behance-level campaign designer. Create ONE horizontal 16:9 editorial campaign poster announcing a ZARA tote-bag merch drop. REFERENCE PRODUCT: Use the uploaded reference image as the EXACT product reference. The tote must remain visually faithful to the reference: — deep burgundy / oxblood leather appearance — structured rounded tote silhouette — wide curved upper body — distinctive double-handle construction — long shoulder straps — short top handles — visible stitched construction — minimal metal detailing — understated luxury finish — same proportions, silhouette, handle architecture and material character DO NOT redesign the bag. DO NOT change the silhouette. DO NOT add pockets, logos, hardware or decorative elements that do not exist on the reference. The product must remain the recognizable hero SKU throughout the composition. ━━━━━━━━━━━━━━━━━━━━ CONCEPT — MERCH DROP ━━━━━━━━━━━━━━━━━━━━ This is NOT a conventional Zara product photoshoot. It should feel like a highly art-directed ZARA merchandise DROP campaign created for Instagram, fashion media and a Behance editorial case study. The tote is treated as a CULT OBJECT — photographed with the visual confidence of a fashion campaign rather than a standard ecommerce product image. Visual language: fashion editorial × contemporary retail × art-directed street photography × premium merchandise launch. The campaign should immediately communicate: NEW DROP. LIMITED MOMENT. DESIRABLE OBJECT. ZARA ENERGY. ━━━━━━━━━━━━━━━━━━━━ LAYOUT ARCHITECTURE ━━━━━━━━━━━━━━━━━━━━ 16:9 horizontal editorial poster. Create a dramatic split composition: LEFT 45%: Bold graphic field with a strong ZARA-inspired editorial treatment. RIGHT 55%: Full-bleed cinematic fashion photograph featuring a realistic fashion model carrying the exact reference tote. Hard vertical compositional division. The graphic and photographic zones must feel designed together rather than like two separate images. ━━━━━━━━━━━━━━━━━━━━ BACKGROUND ━━━━━━━━━━━━━━━━━━━━ Use a bold, unexpected fashion-editorial background rather than plain white. Deep oxblood / burgundy, warm off-white and charcoal-black visual relationships inspired by the reference tote. The background should feel expensive, architectural and contemporary. Possible visual environment: minimalist brutalist architecture, large geometric walls, oversized stone surfaces, architectural shadows, fashion-store exterior, urban European street, or sculptural concrete environment. No generic studio backdrop. The environment should feel like an actual ZARA fashion campaign location. ━━━━━━━━━━━━━━━━━━━━ HERO PHOTOGRAPHY ━━━━━━━━━━━━━━━━━━━━ A realistic adult fashion model, completely fictional and non-identifiable. The model wears contemporary ZARA-style fashion: minimal tailored oversized coat, structured trousers, refined footwear, restrained accessories. The burgundy tote is the visual hero. The model holds the bag naturally at their side while walking through the architectural environment. Pose: confident, editorial, slightly candid, non-confrontational, fashion-week street-style energy. The model should NOT look like a celebrity or recognizable public figure. Natural human anatomy. Natural skin texture. Realistic hands. Realistic grip on the handles. The tote must remain clearly visible and unobstructed. ━━━━━━━━━━━━━━━━━━━━ CAMERA / PHOTOGRAPHY ━━━━━━━━━━━━━━━━━━━━ High-end professional fashion editorial photography. Full-frame / medium-format fashion photography aesthetic. 50mm editorial lens. Camera positioned slightly below eye level. Subtle perspective compression. Shallow but controlled depth of field. The tote must remain tack-sharp. Natural environmental depth behind the model. Professional fashion campaign lighting: hard directional sunlight mixed with controlled architectural shadow, subtle reflected fill, natural specular highlights on the leather, deep but detailed shadows. No artificial CGI lighting. No beauty-filter appearance. No plastic skin. No AI-generated fashion look. The image should feel photographed by an elite fashion photographer. ━━━━━━━━━━━━━━━━━━━━ TYPOGRAPHIC SYSTEM ━━━━━━━━━━━━━━━━━━━━ Typography is a PRIMARY DESIGN ELEMENT. Use a refined contemporary fashion-editorial sans-serif character: high contrast, clean geometry, precise spacing, strong vertical presence, minimal, luxury retail aesthetic. Do NOT imitate or distort the official ZARA wordmark. Use only legitimate ZARA branding where appropriate. HEADLINE: NEW DROP Two enormous lines. “NEW” positioned across the graphic zone. “DROP” dramatically oversized and extending across the vertical split into the photograph. The typography should partially overlap the model and tote while remaining completely legible. Very large scale. Tight leading. Slightly compressed editorial proportions. Flat typography. No glow. No bevel. No 3D. No shadows. No gradient. ━━━━━━━━━━━━━━━━━━━━ TYPOGRAPHIC BRIDGE ━━━━━━━━━━━━━━━━━━━━ CRITICAL: The word “DROP” must physically cross the boundary between the graphic field and photograph. Approximately 40–50% of the word sits over the left graphic field. The remaining letters continue over the photographic environment. The type must visually interact with the model and architecture. The tote may partially intersect with the typography, creating a sophisticated editorial layering effect. This is the key Behance-level composition device. ━━━━━━━━━━━━━━━━━━━━ MICRO TYPOGRAPHY ━━━━━━━━━━━━━━━━━━━━ Use restrained fashion-editorial information blocks. Small uppercase tracking. Example layout: ZARA WOMAN NEW SEASON LEATHER TOTE DROP 01 2026 ONLINE + SELECTED STORES SHOP NOW → Keep the micro-copy secondary. Do not fill the poster with unnecessary text. Generous negative space. ━━━━━━━━━━━━━━━━━━━━ PRODUCT CALLOUT ━━━━━━━━━━━━━━━━━━━━ Add one small editorial product annotation near the tote: ZARA LEATHER TOTE BURGUNDY Use thin directional typography / subtle technical annotation lines pointing toward the bag. The annotation should feel like a fashion editorial product study rather than ecommerce UI. ━━━━━━━━━━━━━━━━━━━━ CORNER SYSTEM ━━━━━━━━━━━━━━━━━━━━ Top-left: small ZARA brand identifier. Bottom-left: NEW SEASON / DROP 01 Top-right: 2026 / EDITORIAL RELEASE Bottom-right: SHOP THE DROP → All information must remain extremely clean. ━━━━━━━━━━━━━━━━━━━━ COLOR SYSTEM ━━━━━━━━━━━━━━━━━━━━ Primary visual color: deep burgundy / oxblood derived directly from the reference tote. Secondary: warm editorial ivory. Supporting: near-black charcoal. Optional restrained metallic highlight from the bag's hardware. No rainbow palette. No unnecessary colors. The burgundy tote must remain the strongest color anchor in the entire composition. ━━━━━━━━━━━━━━━━━━━━ ART DIRECTION ━━━━━━━━━━━━━━━━━━━━ The final image should feel like: ZARA fashion campaign + premium merch drop + Behance editorial case study + high-fashion street photography + contemporary graphic design. Not: generic product advertisement, Amazon-style product listing, ecommerce banner, basic Instagram ad, ordinary studio photoshoot, AI fashion collage. The image should look intentionally designed by a senior European fashion-art-direction team. ━━━━━━━━━━━━━━━━━━━━ VISUAL HIERARCHY ━━━━━━━━━━━━━━━━━━━━ 1. MASSIVE “DROP” typography 2. Burgundy ZARA tote 3. Fashion model 4. Architectural environment 5. “NEW” headline 6. Product annotation 7. Micro-information 8. Brand identifier ━━━━━━━━━━━━━━━━━━━━ FINAL TECHNICAL SPECIFICATION ━━━━━━━━━━━━━━━━━━━━ 16:9 horizontal. Ultra-high-resolution editorial campaign artwork. Photorealistic fashion photography. Premium commercial-grade image quality. Extremely sharp product construction. Accurate leather texture. Accurate stitching. Accurate handles. Natural model anatomy. Crisp typography. Precise alignment. Strong negative space. Sophisticated editorial color grading. No visible AI artifacts. No distorted hands. No duplicated objects. No malformed bag. No altered product silhouette. No random logos. No fake brand marks. No excessive text. No generic stock-photo aesthetic. FINAL RESULT: A visually arresting ZARA tote-bag MERCH DROP poster that could plausibly function as a premium fashion campaign hero image, editorial spread, outdoor fashion billboard or Behance featured project.
 ```
 
-By [@Goodmanprotocol](https://x.com/Goodmanprotocol/status/2108555814604812483)
+By [@Diplomeme](https://x.com/Diplomeme/status/2106344728837136616)
+
+---
+
+<a id="evolink-advertising-case-184"></a>
+
+## Four-Person Brown Streetwear Poster
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2103354125731938304.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2103354125731938304.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+Create a high-end editorial fashion composition featuring four young adult friends in coordinated brown streetwear outfits, standing together in an urban setting. The group consists of two men and two women. All four wear matching oversized brown varsity-style bomber jackets, white hoodies, loose brown cargo pants, brown baseball caps, and white-and-brown sneakers. The men wear dark sunglasses. The women have long, natural dark-brown hair. Each person has a takeaway coffee cup, creating a relaxed street-fashion lifestyle vibe. Scene 1 — Photorealistic Fashion Photo: Place the four friends casually against an urban wall with a black chain-link fence and warm sunset light in the background. Use natural relaxed poses, realistic body proportions, detailed facial features, realistic skin texture, natural fabric folds, premium streetwear styling, cinematic golden-hour lighting, shallow depth of field, and professional fashion photography. The color palette should be warm brown, cream, beige, and soft orange. On the right side of the wall, incorporate large hand-painted fashion illustrations/sketches of the same four characters wearing the exact same outfits and poses. Blend the realistic people with the illustrated artwork seamlessly, creating a creative fashion campaign aesthetic. Scene 2 — Artistic Fashion Illustration: Create a second version of the same composition using a sophisticated mixed-media watercolor and ink illustration style. Keep the same four characters, outfits, poses, accessories, and overall arrangement. Add expressive black ink outlines, watercolor washes, textured paper, rough paint splashes, beige and orange brush strokes, subtle architectural details, and an artistic editorial fashion-sketch appearance. Maintain strong character consistency across both scenes. Keep the brown-and-cream color palette consistent, preserve the exact outfit design, matching caps, coffee cups, cargo pants, varsity jackets, and sneakers. Premium fashion campaign, contemporary streetwear editorial, highly detailed, cinematic composition, realistic-to-illustrated transition, sophisticated visual storytelling, 4K quality.
+```
+
+By [@mehwishkiran07](https://x.com/mehwishkiran07/status/2103354342279393708)
+
+---
+
+<a id="evolink-advertising-case-185"></a>
+
+## Milan Rainy Night Phone Fashion Ad
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2102710642834825216.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2102710642834825216.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+A cinematic ultra-realistic fashion campaign in Piazza del Duomo, Milan, during heavy rain. A beautiful young woman wearing an all-black oversized streetwear outfit, black cargo pants, black sweatshirt and clean white sneakers, confidently posing in the center with one arm raised toward a floating blue iPhone. Multiple identical blue smartphones are dramatically floating and falling from the stormy sky around her. Wet reflective pavement, realistic rain droplets, dramatic dark cloudy sky, Milan Cathedral clearly visible in the background, crowded tourists with umbrellas, several duplicate versions of the same woman naturally positioned in the background, premium luxury advertising aesthetic, dynamic fashion photography, realistic skin texture, natural anatomy, cinematic lighting, sharp details, depth of field, photorealistic, high-end commercial campaign, vertical composition.
+```
+
+By [@Arzoo12sh](https://x.com/Arzoo12sh/status/2102710721633198208)
 
 ---
 
@@ -35,22 +67,6 @@ a realistic photo of a woman holding a cup of tea inside her home
 ```
 
 By [@v3rt0x\_](https://x.com/v3rt0x_/status/2118147596891901957)
-
----
-
-<a id="evolink-gpt-image-2-6-case-262"></a>
-
-## Nostalgic Landmark Street Photography
-
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/2118968646475419648.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/2118968646475419648.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Create an ultra-realistic cinematic street photography image of [LANDMARK / CITY / COUNTRY], inspired by the nostalgic atmosphere of old Japanese neighbourhoods. Instead of presenting the landmark as a typical tourist postcard, capture an authentic everyday street corner near the iconic location. Include traditional wooden architecture, weathered shopfronts, hanging fabric signs, glowing red lanterns, vintage bicycles parked along the pavement, handwritten menus, narrow stone walkways, overhead utility pipes and subtle cultural details unique to the destination. The iconic landmark should be naturally visible in the background or subtly integrated into the street composition, recognizable but not dominating the frame. Photography style: Premium editorial travel photography, eye-level perspective, candid documentary composition, rich architectural textures, natural imperfections, cinematic shadows, muted earthy tones, warm amber highlights, deep charcoal shadows and subtle film grain. Mood: Quiet nostalgia, authentic local life, timeless urban beauty, intimate travel journal aesthetic. Camera: Full-frame DSLR, 35mm lens, natural available light, realistic depth, exceptional detail, photorealistic textures. Vertical 4:5 composition. No artificial HDR, no exaggerated colours, no cartoon effects, no generic tourist-poster styling.
-```
-
-By [@Naiknelofar788](https://x.com/Naiknelofar788/status/2118968665769197976)
 
 ---
 
@@ -86,19 +102,19 @@ By [@Naiknelofar788](https://x.com/Naiknelofar788/status/2118922441032700283)
 
 ---
 
-<a id="evolink-illustration-case-148"></a>
+<a id="evolink-illustration-case-132"></a>
 
-## European Cafe Oil Painting Portrait
+## Soundwave City Landmark
 
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2106245520931033088.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2106245520931033088.jpg" width="480" alt="Source example"></a>
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2107690022594101248.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2107690022594101248.jpg" width="480" alt="Source example"></a>
 
 **Prompt**
 
 ```text
-{ "prompt": { "aspect_ratio": "9:16", "style": "vintage European café oil painting, expressive brushwork, mid-century editorial artwork", "subject": { "character": "stylish young European woman with shoulder-length wavy auburn hair", "expression": "calm, confident, slightly playful gaze toward the viewer", "pose": "seated sideways at a small café table, one arm resting on the chair back while the other lightly holds a coffee cup", "details": "subtle makeup, berry-red lipstick, small gold earrings" }, "outfit": { "top": "deep coral-red short-sleeve blouse with a relaxed neckline", "style": "chic 1960s-inspired European fashion" }, "composition": { "framing": "medium-wide portrait", "camera_angle": "slightly elevated three-quarter angle", "subject_position": "slightly left of center", "foreground": "round café table with coffee, small glass and scattered objects" }, "background": { "setting": "charming old European café interior", "design": "large abstract geometric wall shapes mixed with subtle architectural details", "colors": ["teal", "coral", "cream", "burnt orange"] }, "props": [ "ceramic espresso cup", "small glass bottle", "vintage café chair", "folded napkin" ], "color_palette": "teal, coral red, cream, burnt orange and warm brown", "texture": "thick imperfect oil brushstrokes, visible canvas grain, slightly weathered painted surface", "lighting": "warm afternoon window light with soft natural shadows", "mood": "stylish, relaxed, nostalgic European café atmosphere", "negative_prompt": "exact recreation of reference, same pose, same character, same outfit, same composition, photorealistic, 3D render, CGI, text, logo, watermark" } }
+A surreal high-fashion editorial artwork where [CITY/LANDMARK] is formed entirely from flowing sound waves, audio frequencies, and rhythmic lines. The soundwaves begin as tiny vibrations at the bottom of the composition and gradually transform into the recognizable architecture of [CITY/LANDMARK]. Different frequencies become different visual elements — thick bass waves create buildings, delicate high-frequency lines create windows and bridges, glowing pulses become streetlights and moving vehicles. Tiny fragments of typography, coordinates, music notes, and abstract symbols float through the waves. Clean pale background, intense electric colors mixed with subtle metallic textures, dramatic depth, ultra-fine linework, futuristic editorial art, controlled chaos, sophisticated composition, no people, no ordinary skyline illustration, the architecture itself must visibly emerge from the soundwave pattern, striking and instantly recognizable, premium magazine cover aesthetic.
 ```
 
-By [@hey\_am\_cherry](https://x.com/hey_am_cherry/status/2106245541508382774)
+By [@Naiknelofar788](https://x.com/Naiknelofar788/status/2107690033688056029)
 
 ---
 
@@ -118,99 +134,51 @@ By [@Arina\_hoqe](https://x.com/Arina_hoqe/status/2104426560631775589)
 
 ---
 
-<a id="evolink-illustration-case-153"></a>
+<a id="evolink-illustration-case-152"></a>
 
-## Raised-Arms Watercolor Portrait
+## Diagonal Photo and Pencil Drawing
 
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2103714767756259328.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2103714767756259328.jpg" width="480" alt="Source example"></a>
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2104162028634165248.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2104162028634165248.jpg" width="480" alt="Source example"></a>
 
 **Prompt**
 
 ```text
-Use the uploaded image ONLY as the FACE REFERENCE. Preserve the exact facial identity from the reference image, including facial structure, eyes, eyebrows, nose, lips, jawline, cheekbones, skin tone, hairline, and overall recognizable appearance. POSE: A young woman leaning slightly forward toward the camera, her upper body angled naturally, both arms raised above and around her head, shoulders lifted, head slightly tilted toward the camera, face turned directly toward the viewer, eyes looking into the camera. One hand is positioned behind the head while the other arm is raised beside the head. Maintain a relaxed yet elegant fashion pose with natural body proportions and realistic anatomy. CAMERA: Close-up portrait, slightly low camera angle, intimate framing, upper body filling most of the frame, cinematic perspective. STYLE: Elegant hand-painted watercolor and fine ink illustration, expressive brush strokes, soft watercolor washes, textured cold-pressed watercolor paper, delicate ink outlines, subtle paint bleeding, warm Mediterranean travel aesthetic, sophisticated editorial fashion illustration, highly detailed face, natural skin shading, artistic handmade texture. IMPORTANT: The uploaded image is ONLY for facial identity. Do not copy its pose, clothing, background, composition, or body position. Create a completely new composition using the pose described above. NEGATIVE PROMPT: different face, altered facial identity, face distortion, face swap artifacts, different pose, stiff posture, unnatural anatomy, extra fingers, missing fingers, deformed hands, 3D render, anime, cartoon, photorealistic photography.
+Create a high-end editorial split-screen portrait using the uploaded reference image as the identity reference. Preserve the person’s facial identity, facial structure, skin tone, hairstyle, and natural features accurately. Composition: A square 1:1 image divided diagonally into two artistic halves. LEFT SIDE: Create a photorealistic full-body lifestyle portrait of the person sitting comfortably on outdoor stone stairs in front of a modern luxury building entrance. The person is wearing a clean navy blue oversized hoodie, slim-fit beige trousers, and crisp white low-top sneakers. Their legs are naturally positioned forward, with both hands relaxed and loosely clasped together near the knees. Add a premium silver luxury wristwatch. Natural confident smile, relaxed expression, realistic skin texture, detailed hands, realistic fabric folds. The background should feature modern dark glass doors, subtle warm golden interior lights, elegant architectural details, and a large green potted plant on the side. Soft natural daylight, cinematic depth of field, realistic shadows, luxury lifestyle photography, professional fashion editorial aesthetic. RIGHT SIDE: Transform the same person into a highly detailed monochrome graphite pencil sketch while preserving the exact facial identity, hairstyle, body proportions, clothing, and pose. Show the person standing casually against a lightly sketched architectural wall, wearing a hoodie, jeans, and white sneakers. One leg slightly crossed over the other, both hands naturally placed inside the hoodie pockets. Add intricate pencil strokes, realistic shading, fine cross-hatching, detailed fabric texture, subtle architectural line work, and hand-drawn imperfections. Blend the two halves together with an artistic rough black-and-white paint-brush transition in the center, making the photorealistic version seamlessly transform into the pencil-sketch version. Ultra-detailed, realistic anatomy, accurate proportions, natural hands and fingers, cinematic lighting, premium fashion campaign aesthetic, sharp facial details, sophisticated composition, 8K quality, photorealistic on the left and realistic graphite illustration on the right, no text, no logos, no watermark.
 ```
 
-By [@Arina\_hoqe](https://x.com/Arina_hoqe/status/2103714798324125892)
+By [@mehwishkiran07](https://x.com/mehwishkiran07/status/2104162122435580191)
 
 ---
 
-<a id="evolink-illustration-case-157"></a>
+<a id="evolink-illustration-case-155"></a>
 
-## Film Noir Pencil Portrait
+## Night Bench with Cartoon Companion
 
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2102593832353497088.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2102593832353497088.jpg" width="480" alt="Source example"></a>
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2102960730429665280.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2102960730429665280.jpg" width="480" alt="Source example"></a>
 
 **Prompt**
 
 ```text
-Transform the uploaded photo into a highly realistic hand-drawn graphite pencil portrait while preserving the exact identity, facial features, expression, hairstyle, pose, clothing, and composition. Recreate the dramatic black-and-white noir lighting with the strong diagonal beam of light from the upper left and deep shadows surrounding the subject. Show detailed graphite strokes, realistic cross-hatching, delicate shading, subtle smudging, visible pencil texture, and natural imperfections on premium textured drawing paper. Keep the messy hair strands, hoop earring, blazer details, facial contours, and light falling across the face clearly recognizable. Professional artist-quality portrait, sophisticated fine-art sketch, monochrome, extremely detailed, realistic hand-drawn appearance, cinematic composition, 8K.
+Create a cinematic vertical 9:16 nighttime portrait based closely on the reference image. A young woman is sitting casually on a rustic wooden park bench at night beside an adorable small 3D animated girl. Preserve the overall composition, camera angle, poses, proportions, lighting, and atmosphere of the reference. The young woman has long dark brown hair and wears masculine oversized streetwear: a dark olive/black oversized utility jacket over a black hoodie, extremely loose black cargo pants, and clean white chunky sneakers. She is seated in a relaxed pose with one knee raised, one leg extended toward the camera, one arm resting naturally on her knee, and the other hand resting on the bench. Keep her appearance photorealistic with natural facial features and realistic skin texture. Beside her is a very cute miniature 3D animated girl with a small body, oversized expressive brown eyes, rosy cheeks, a tiny face, dark brown hair tied into a messy high bun with loose strands, and an adorable playful expression. She wears an oversized black hoodie with a small crown emblem, loose black cargo pants, and white chunky sneakers. Keep her clearly stylized as a high-quality cute 3D animated character, not photorealistic. The girl is standing beside the seated woman on the bench, looking slightly toward the camera. Add a small glowing hand-drawn crown above her head, subtle glowing doodle lines, and small glowing heart doodles around her. Set the scene in a beautiful nighttime park with dark leafy trees, distant city lights, warm glowing street lamps, strong golden rim lighting around the characters, soft cinematic bokeh, realistic shadows, and a cozy magical atmosphere. Photorealistic adult woman seamlessly combined with a cute high-quality 3D animated character, realistic textures, cinematic depth of field, warm golden nighttime color grading, detailed clothing, natural proportions, professional photography, ultra-detailed, sharp focus, vertical 9:16. Keep the cute animated girl's appearance consistent and adorable. Do not make her realistic. Do not change her outfit or facial style.
 ```
 
-By [@Alina\_with\_Ai](https://x.com/Alina_with_Ai/status/2102594441760620756)
+By [@Alina\_with\_Ai](https://x.com/Alina_with_Ai/status/2102960956280299535)
 
 ---
 
-<a id="evolink-illustration-case-164"></a>
+<a id="evolink-illustration-case-162"></a>
 
-## Reference Portrait Watercolor Fashion Art
+## Art Studio and Cartoon Layered Scene
 
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2100423427773599744.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2100423427773599744.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Face Reference: Use the uploaded face reference image as the primary facial identity reference. Preserve the woman’s recognizable facial structure, proportions, eyes, nose, lips, jawline, cheekbones, and overall likeness. Do not copy the photo’s lighting or photographic texture; reinterpret the same face naturally in a traditional watercolor and pen-and-ink fashion illustration style. Create a stunning 4:5 chest-up fashion portrait of the reference woman, centrally framed. She wears a light blue denim jacket with realistic stitching, flap pockets, and metallic silver buttons over a crisp white button-down shirt. A brown leather crossbody strap runs diagonally across her torso. She wears a wide-brimmed woven straw sun hat, polished silver hoop earrings, and reflective silver-framed round sunglasses. Her head is tilted slightly upward toward her right (viewer’s left), with shoulders subtly angled. Her expression is serene, confident, sophisticated, and effortlessly chic. Her lips are slightly parted with vibrant glossy red lipstick. Her medium-length hair is gathered into a loose, messy low bun, with delicate wispy strands escaping around her face and neck and gently lifted by a soft breeze. Render the skin using transparent watercolor layers, subtle blush tones, delicate ink contours, and soft shadow transitions. Use expressive hand-painted watercolor washes with wet-on-wet blending, pigment blooms, visible brushstrokes, organic edges, and subtle spontaneous paint splatters. Sunglasses Reflection: Make the round lenses highly detailed and reflective, showing tall tropical palm trees silhouetted against a brilliant bright-blue sky. The reflections should look crisp and believable while remaining naturally integrated into the watercolor illustration. Lighting: Bright natural summer sunlight entering from the upper left, creating defined shadows beneath the hat brim and warm, gentle gradients across the forehead, cheeks, neck, jawline, and clothing folds. Fresh, sun-drenched vacation atmosphere. Background: Pure clean white background with delicate scattered watercolor droplets, pigment specks, and loose paint splashes in muted blue, beige, brown, and gray. Keep the background airy and minimalist without distracting from the subject. Art Style: Traditional watercolor illustration, fine pen-and-ink drawing, luxury fashion sketch, editorial magazine artwork, expressive brushwork, loose watercolor washes, hand-painted texture, elegant feminine fashion, tropical travel lifestyle aesthetic, realistic facial likeness, sophisticated composition, high detail, organic watercolor imperfections. Composition: Close-up portrait, eye-level camera perspective with a subtle upward emphasis, chest-up framing, centered subject, elegant proportions, refined editorial fashion illustration. Aspect Ratio: 4:5 Negative Prompt: distorted face, altered facial identity, different person, excessive makeup, plastic skin, cartoon face, anime style, 3D render, photorealistic photography, blurry sunglasses, distorted reflections, extra fingers, deformed hands, duplicate accessories, messy anatomy, harsh background, oversaturated colors, heavy outlines, artificial digital texture.
-```
-
-By [@Kubra\_286](https://x.com/Kubra_286/status/2100423487601123731)
-
----
-
-<a id="evolink-illustration-case-166"></a>
-
-## Rainy New York Male Watercolor Portrait
-
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2100063625985839104.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2100063625985839104.jpg" width="480" alt="Source example"></a>
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2100539089946828800.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2100539089946828800.jpg" width="480" alt="Source example"></a>
 
 **Prompt**
 
 ```text
-TITLE: New York Rainy Day — Male Character Watercolor Portrait ASPECT RATIO: 9:16 REFERENCE INPUTS: <<<FACE_REFERENCE>>> Use the uploaded male face reference as the exact facial identity reference. FACE REFERENCE RULES: Preserve the male character's exact facial identity, facial structure, eyes, eyebrows, nose, lips, jawline, skin tone, hairstyle characteristics, and overall recognizable appearance from <<<FACE_REFERENCE>>>. Do not redesign, replace, beautify into a different person, feminize, or alter his identity. Maintain consistent facial proportions throughout the image. SCENE: A beautiful cinematic urban watercolor illustration of the male character standing on a rain-soaked Manhattan street with the Empire State Building towering dramatically in the background. POSE: The man is positioned in the foreground, slightly turned three-quarters toward the camera. He gently holds a black elegant umbrella with one hand while his other hand naturally adjusts a strand of hair near his forehead. His face is clearly visible. He looks directly toward the viewer with a subtle confident expression and calm, sophisticated gaze. Natural fashion-editorial pose, graceful posture, relaxed shoulders, elegant masculine body language. The pose should feel like a trending cinematic Instagram/Pinterest portrait captured during a rainy New York evening. OUTFIT: Elegant modern men's city-fashion outfit, sophisticated neutral trench coat over a premium fitted outfit, subtle accessories such as a minimalist watch, natural textured hairstyle. Premium men's fashion editorial aesthetic without looking artificial. ENVIRONMENT: Rainy Manhattan street, Empire State Building as the dominant architectural form in the center background, tall Art Deco buildings on both sides, wet asphalt, pedestrians with umbrellas, classic yellow taxis and modern cars, glowing street lamps, reflections in puddles. ART STYLE: Watercolor style combined with loose architectural acrylic painting; fine ink sketching blended with soft watercolor washes; urban sketch illustration; expressive brushstrokes; ink splatter and bleeding effects; unfinished white borders; cold-pressed textured watercolor paper; highly detailed yet loose and airy. COLOR PALETTE: Warm earth tones—creamy beige, warm sand, burnt sienna, terracotta ochre, light umber, pale white, cool slate gray, soft Payne's gray-blue, touches of olive green and burnt orange. Subtle warm golden highlights from street lights. LIGHTING: Soft rainy afternoon transitioning into warm evening light; gentle glowing street lamps; luminous reflections on wet pavement; soft atmospheric perspective; delicate shadows; one dominant form—the Empire State Building—rendered sharp and bold. DETAILS: Intricate architectural details; fine cross-hatched ink work; wet-on-wet watercolor bleeding; visible paper texture; expressive loose shadow strokes; natural watercolor imperfections; subtle ink splatters; beautiful reflections of the man, umbrella, buildings and lights in the wet street. COMPOSITION: Vertical 9:16 cinematic composition. Male character prominent in the foreground while the Empire State Building creates a powerful visual backdrop. Balanced leading lines from the street toward the building. Elegant negative space around the character. Fashion editorial + travel postcard + premium watercolor illustration. IMPORTANT: Photorealistic male facial identity translated into watercolor illustration. Preserve masculine facial characteristics from <<<FACE_REFERENCE>>>. Do not make the character cartoonish. No anime. No 3D render. No plastic-looking skin. No distorted hands. No extra fingers. No duplicated person. No distorted face. No feminized facial features. No altered facial proportions. Keep the artwork painterly, sophisticated, loose, atmospheric and premium. --ar 9:16 --style raw --stylize 250
+Create a premium vertical 9:16 editorial artwork featuring the same scene presented in two stacked panels. TOP PANEL: Create a highly realistic cinematic photograph of a young woman sitting comfortably inside a cozy, sunlit artist studio. She has her hair tied in a messy bun, natural realistic facial features, and a playful wink. She rests one cheek gently on her hand while extending a paintbrush toward the camera. She wears an oversized cream-colored sweater covered with colorful paint splashes and loose olive-green pants also marked with artistic paint stains. Beside her is a large wooden easel holding a colorful canvas featuring a cute original cartoon version of the woman, with oversized expressive eyes, messy dark hair, a playful wink, colorful clothing, and a small fluffy kitten. The studio is filled with potted plants, flowers, warm lamps, candles, shelves, paint tubes, brushes, palettes, books, wooden crates, and other authentic art supplies. A small kitten sits comfortably near the woman's legs. Use warm natural sunlight coming through a large window, realistic skin texture, detailed hair strands, cinematic depth of field, soft background bokeh, realistic shadows, premium lifestyle photography, 35mm lens aesthetic, highly detailed, photorealistic, 8K quality. BOTTOM PANEL: Recreate the same creative moment as a completely different artistic interpretation rather than a duplicate photograph. Transform the entire scene into a beautiful hand-painted watercolor and mixed-media illustration. Use visible watercolor paper texture, delicate brush strokes, soft color bleeding, artistic paint splatters, slightly simplified facial details, and a charming handmade illustration aesthetic. Keep the woman, kitten, easel, cartoon artwork, plants, flowers, palette, brushes, and overall story recognizable, but reinterpret them through the watercolor illustration style. LAYOUT: Place the photorealistic version in the upper half and the watercolor version in the lower half. Separate the two panels with a clean white artistic transition. Add subtle watercolor splashes around the edges of the bottom panel. At the bottom, add elegant handwritten typography: “Same Girl... Different Art” Underneath, add small minimal text: “REAL MOMENTS  •  ARTISTIC STORIES  •  BRIGHTER DAYS” Create a sophisticated Pinterest/editorial aesthetic, balanced composition, premium color grading, clean typography, soft white margins, artistic scrapbook presentation, vertical 9:16 format. Do not copy any existing artwork, watermark, logo, username, or signature. The cartoon character and artwork must be completely original.
 ```
 
-By [@AiWithTariq](https://x.com/AiWithTariq/status/2100063691198669194)
-
----
-
-<a id="evolink-illustration-case-167"></a>
-
-## Over-the-Shoulder Watercolor Ink Portrait
-
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2100062988921446400.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2100062988921446400.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Use the uploaded image ONLY for face and identity reference. Do not change facial structure, proportions, or realism. Create a high-detail mixed-media watercolor portrait of a woman with POSE STRICTLY LOCKED: Three-quarter view from back Upper body slightly turned away from camera Head turned back over shoulder toward viewer Direct eye contact Frame includes head, neck, and partial shoulder Composition tightly cropped (portrait focus) Expression (IMPORTANT): Calm yet emotionally intense, soft but piercing gaze, slightly parted lips, natural subtle tension in face — no exaggerated emotion. Rendering Style (LOCKED) Watercolor + ink hybrid illustration Soft fluid washes + sharp ink linework Fine dark lines defining eyes, nose, lips, jawline No painterly blur, no oil painting effect Color & Lighting (STRUCTURED) Strong split color contrast: Left side → warm (yellow, orange, magenta) Right side → cool (blue, cyan, violet) Abstract light from upper-left (represented as color bursts, not realistic light) Skin tones blend naturally with watercolor pigments (not flat coloring) Watercolor Behavior (VERY IMPORTANT) Wet-on-wet blending on face and skin Visible paint splashes around subject Controlled splatter and ink drops Subtle vertical drips (especially lower area) Organic color blooms and pigment edges Colors slightly bleed beyond edges (natural watercolor feel) Hair (MATCH STYLE) Loose tied or messy bun Wispy strands around face Hair absorbs surrounding colors (blue, purple, warm highlights) Slight motion feel, not static Background Clean white base Dynamic watercolor splashes behind subject (not random — composition-aware) No clutter, no objects Texture Visible cold-press watercolor paper grain Slight rough pigment edges Natural watercolor imperfections preserved Style: expressive watercolor + ink illustration Mood: artistic, soulful, emotionally engaging Aspect ratio: 4:5
-```
-
-By [@Kubra\_286](https://x.com/Kubra_286/status/2100063244324889037)
-
----
-
-<a id="evolink-illustration-case-168"></a>
-
-## Rainy New York Female Watercolor Portrait
-
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2099864394255785984.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2099864394255785984.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-TITLE: New York Rainy Day — Female Character Watercolor Portrait ASPECT RATIO: 9:16 REFERENCE INPUTS: <<<FACE_REFERENCE>>> Use the uploaded female face reference as the exact facial identity reference. FACE REFERENCE RULES: Preserve the female character's exact facial identity, facial structure, eyes, eyebrows, nose, lips, jawline, skin tone, and overall recognizable appearance from <<<FACE_REFERENCE>>>. Do not redesign, replace, beautify into a different person, or alter her identity. Maintain consistent facial proportions throughout the image. SCENE: A beautiful cinematic urban watercolor illustration of the female character standing on a rain-soaked Manhattan street with the Empire State Building towering dramatically in the background. POSE: The woman is positioned in the foreground, slightly turned three-quarters toward the camera. She gently holds a black elegant umbrella with one hand while her other hand lightly adjusts a strand of hair near her face. Her face is clearly visible. She looks directly toward the viewer with a subtle confident smile and calm, sophisticated expression. Natural fashion-editorial pose, graceful posture, relaxed shoulders, elegant body language. The pose should feel like a trending cinematic Instagram/Pinterest portrait captured during a rainy New York evening. OUTFIT: Elegant modern city-fashion outfit, sophisticated neutral trench coat over a stylish fitted outfit, subtle accessories, natural flowing hair. Premium fashion editorial aesthetic without looking artificial. ENVIRONMENT: Rainy Manhattan street, Empire State Building as the dominant architectural form in the center background, tall Art Deco buildings on both sides, wet asphalt, pedestrians with umbrellas, classic yellow taxis and modern cars, glowing street lamps, reflections in puddles. ART STYLE: Watercolor style combined with loose architectural acrylic painting; fine ink sketching blended with soft watercolor washes; urban sketch illustration; expressive brushstrokes; ink splatter and bleeding effects; unfinished white borders; cold-pressed textured watercolor paper; highly detailed yet loose and airy. COLOR PALETTE: Warm earth tones—creamy beige, warm sand, burnt sienna, terracotta ochre, light umber, pale white, cool slate gray, soft Payne's gray-blue, touches of olive green and burnt orange. Subtle warm golden highlights from street lights. LIGHTING: Soft rainy afternoon transitioning into warm evening light; gentle glowing street lamps; luminous reflections on wet pavement; soft atmospheric perspective; delicate shadows; one dominant form—the Empire State Building—rendered sharp and bold. DETAILS: Intricate architectural details; fine cross-hatched ink work; wet-on-wet watercolor bleeding; visible paper texture; expressive loose shadow strokes; natural watercolor imperfections; subtle ink splatters; beautiful reflections of the woman, umbrella, buildings and lights in the wet street. COMPOSITION: Vertical 9:16 cinematic composition. Female character prominent in the foreground while the Empire State Building creates a powerful visual backdrop. Balanced leading lines from the street toward the building. Elegant negative space around the character. Fashion editorial + travel postcard + premium watercolor illustration. IMPORTANT: Photorealistic facial identity translated into watercolor illustration. Do not make the character cartoonish. No anime. No 3D render. No plastic-looking skin. No distorted hands. No extra fingers. No duplicated person. No distorted face. Keep the artwork painterly, sophisticated, loose, atmospheric and premium. --ar 9:16 --style raw --stylize 250
-```
-
-By [@Kubra\_286](https://x.com/Kubra_286/status/2099864465013629192)
+By [@mehwishkiran07](https://x.com/mehwishkiran07/status/2100539261628080282)
 
 ---
 
@@ -326,6 +294,38 @@ By [@john\_my07](https://x.com/john_my07/status/2107801411711123546)
 
 ---
 
-**1** · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · [5](portraits-5.md) · [6](portraits-6.md)
+<a id="evolink-portraits-case-8"></a>
+
+## Sumo Salt Throw Documentary Photo
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2107592681304010752.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2107592681304010752.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+a sumo wrestler throwing a big handful of salt high into the air before his bout, the salt cloud glowing in the lights, his face calm and focused, inside a sumo tournament arena in Tokyo, raised clay ring with straw bales under a suspended shrine-style roof, hard overhead lights, dark crowd behind, documentary photograph, 35mm color film, grain
+```
+
+By [@techhalla](https://x.com/techhalla/status/2107599021976285395)
+
+---
+
+<a id="evolink-portraits-case-9"></a>
+
+## Manhattan Period Costume Film Portrait
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2107592641042862080.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2107592641042862080.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+a woman wearing an extravagant eighteenth-century inspired silk gown and a tall powdered wig standing still in front of an ornate cast-iron facade in old Manhattan, full-length, 1970s color photograph, soft daylight, grain, slightly faded colors
+```
+
+By [@techhalla](https://x.com/techhalla/status/2107599021976285395)
+
+---
+
+**1** · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · [5](portraits-5.md) · [6](portraits-6.md) · [7](portraits-7.md)
 
 [← Home](../README.md)
