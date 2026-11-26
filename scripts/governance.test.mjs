@@ -1,0 +1,9 @@
+import {test} from 'node:test';
+import assert from 'node:assert/strict';
+import {classifyContent,govern,governanceFiles} from './governance.mjs';
+const make=(id,p,title='Generic')=>({id,title:{en:title},prompt:{original:p},inputMode:'unknown',sourcePreview:{images:[{url:'https://example.com/'+id+'.jpg'}]},provenance:{originalSource:{url:'https://x.com/test/status/123',postId:'123'},collectedFrom:[{path:'docs/gallery-part-1.md',url:'https://example.com/source'}]},rights:{prompt:'unknown',media:'unknown'}});
+test('actual prompt outranks misleading generic title',()=>{assert.equal(classifyContent(make('a','Create a UI/UX landing page mockup','Portrait')).category,'ui-mockups');});
+test('reference portraits are generation rather than local edits',()=>{const c=classifyContent(make('a','Create a fashion editorial portrait using the uploaded face reference image. Preserve the facial identity.'));assert.equal(c.type,'generation');assert.equal(c.inputMode,'reference-to-image');});
+test('explicit removal is editing',()=>{const c=classifyContent(make('a',"Remove the flower from man's hand. Do not change anything else."));assert.equal(c.category,'object-removal');assert.equal(c.inputMode,'image-editing');});
+test('reference restyle is editing',()=>{const c=classifyContent(make('a','Transform the uploaded photo into a watercolor illustration.'));assert.equal(c.category,'restyle');});
+test('unpublished prompts are withheld and duplicate candidates retained',()=>{const a=make('a','Create a cinematic portrait'),b=make('b','Create a cinematic portrait'),c=make('c','原文未公开，案例目标是网页设计。');const g=govern([a,b,c]);assert.equal(g.rows.length,3);assert.equal(g.rows.filter(x=>x.visible).length,2);assert(g.duplicates.some(x=>x.kind==='exact-prompt'));assert.equal(g.metadata.a.quality.rights,'pending-review');assert(governanceFiles(g)['docs/governance-report.md'].includes('Withheld for missing content: 1'));});
