@@ -4,7 +4,7 @@
 
 [1](posters.md) · [2](posters-2.md) · [3](posters-3.md) · **4** · [5](posters-5.md)
 
-Source examples are not independently reproduced. Long prompts link to their full text.
+Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
 <a id="freestylefly-case-431"></a>
 
@@ -14,9 +14,11 @@ Source examples are not independently reproduced. Long prompts link to their ful
 
 **Prompt**
 
-<blockquote>Ultra-high-resolution typography travel poster themed around [CITY NAME]. 16:9 poster ratio. IMPORTA…</blockquote>
+```text
+Ultra-high-resolution typography travel poster themed around [CITY NAME]. 16:9 poster ratio. IMPORTANT: every visible word on the poster must be in English, perfectly spelled, professionally typeset. No distorted letters, no random symbols, no broken text, no AI gibberish. CORE COMPOSITION: Place the giant English word "[CITY_NAME]" front and center. Each letter is a tall, bold, elongated sans-serif form, and each one frames a different illustrated scene from the city, like a row of gallery windows. Spread landmarks, streets, transport, nature, culture, and architecture across the letters so the scenes flow from one letter into the next as a single connected urban panorama. TOP HORIZONTAL STRIP: Across the top of the poster, a thin panoramic band: city skyline silhouettes, cars, trams or trains, boats where it fits, birds, clouds, sun. Keep it minimalist, elegant, rhythmically balanced. STYLE: mid-century modern editorial poster, Swiss graphic design, minimal vector illustration, architectural infographic feel, travel typography poster, flat geometric illustration, ultra-clean composition, premium magazine design, screen-print poster vibe, retro-futuristic travel branding. ILLUSTRATION: Flat vector shapes only. No realism, no gradients, no noise. Clean geometric shadows, simplified architectural forms, a mix of map-like top-down with side-view cityscape. Subtle line-art details, crisp vector edges, strong negative space, harmonious rhythm between the letters. TYPOGRAPHY: Giant bold sans-serif, letters fill most of the canvas height. Pixel-perfect alignment. Each letter acts as its own framed illustration panel. Soft rounded corners where it suits. Editorial spacing. Print-ready and geometrically clean. COLOR PALETTE: Pull a cohesive palette inspired by [CITY_NAME]: coastal city -> aqua, sand, coral, muted teal desert city -> terracotta, beige, warm cream cyber city -> mint, navy, steel blue historic European city -> dusty rose, olive green, parchment Muted pastels, soft vintage travel-poster colors, low saturation. Max 4 to 6 colors. CONTENT: Include iconic landmarks, famous streets and transport, local urban patterns, nearby nature, skyline silhouettes, bridges/rivers/coastline if relevant, culturally symbolic architecture, recognizable local atmosphere. COMPOSITION: Centered typography on a white or soft ivory background. Lots of breathing room. The top panoramic strip balances the heavy typography below. Asymmetrical but visually balanced. Each letter shows its own scene depth and perspective. Museum-quality poster hierarchy. MOOD: premium, intellectual, calm, design-forward, travel-editorial, stylish enough for a museum gift-shop wall. QUALITY: 8K ultra-detailed, print-ready, razor-sharp vector edges, flawless typography, zero distorted text, zero random characters, zero spelling errors, zero AI artifacts.
+```
 
-By [@iamaiistudio](https://x.com/iamaiistudio/status/2054563354899857757) · [Full prompt](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-431)
+By [@iamaiistudio](https://x.com/iamaiistudio/status/2054563354899857757)
 
 ---
 
@@ -28,9 +30,11 @@ By [@iamaiistudio](https://x.com/iamaiistudio/status/2054563354899857757) · [Fu
 
 **Prompt**
 
-<blockquote>Create a premium editorial travel poster illustration of the Great Barrier Reef, Australia. Style: F…</blockquote>
+```text
+Create a premium editorial travel poster illustration of the Great Barrier Reef, Australia. Style: Flat vector illustration, ultra-clean minimalism, mid-century modern travel poster aesthetic, inspired by vintage tourism prints and Scandinavian graphic design. No photorealism, no textures, no noise, no gradients. Use crisp shapes, smooth color blocks, and harmonious vibrant tones. Composition (vertical 3:4 layout): Foreground (underwater): A rich coral reef ecosystem filled with colorful corals in pink, orange, yellow, and red tones. Include tropical fish of various species (striped, bright yellow, blue, and orange), and a large sea turtle swimming gracefully toward the right. Clear turquoise water with high visibility. Midground: A female snorkeler swimming horizontally just beneath the water surface, wearing fins and a snorkel mask, observing the reef below. Light rays subtly pass through the water surface. Background (above water): A calm tropical ocean with shallow reef patches visible through crystal-clear water. A white leisure boat floats peacefully on the left, and a small sailboat appears far in the distance. On the horizon, soft green islands or hills stretch across. Sky: Bright blue sky with fluffy white clouds and a few birds flying, enhancing the serene vacation mood. Typography: At the bottom of the poster, include bold uppercase text: “GREAT BARRIER REEF” Below it, smaller spaced-out text: “AUSTRALIA” Add a small decorative coral icon between divider lines. Mood & Lighting: Bright daylight, calm, inviting, tropical paradise atmosphere. Colors should feel fresh, vibrant, and relaxing with strong contrast between coral reef and ocean blues.
+```
 
-By [@jzaib4269](https://x.com/jzaib4269/status/2055487295734620522) · [Full prompt](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-432)
+By [@jzaib4269](https://x.com/jzaib4269/status/2055487295734620522)
 
 ---
 
@@ -42,9 +46,11 @@ By [@jzaib4269](https://x.com/jzaib4269/status/2055487295734620522) · [Full pro
 
 **Prompt**
 
-<blockquote>Create a hyper-detailed luxury advertising poster in a cinematic miniature-world style. A gigantic r…</blockquote>
+```text
+Create a hyper-detailed luxury advertising poster in a cinematic miniature-world style. A gigantic royal diamond necklace with intricate gold filigree and massive ruby gemstones stands in the center like an architectural monument. Surround the necklace with a futuristic miniature city built around and inside the jewelry piece, including skyscrapers, elevated highways, bridges, spiral staircases, tiny human figures, luxury billboards, drones, helicopters, and cinematic urban activity. Use a deep crimson red monochrome background with gold and ruby accents. Add premium fashion-ad aesthetics, ultra-realistic textures, glossy reflections, dramatic studio lighting, depth of field, tilt-shift miniature effect, and high-end commercial composition. Include bold elegant typography at the top saying: “EMBRACE THE EXTRAORDINARY”. Style inspired by luxury jewelry campaigns, surreal city-building concepts, and premium 3D advertising renders. Ultra realistic, 8K, octane render, sharp focus, highly detailed, cinematic shadows, symmetrical composition.
+```
 
-By [@Umar\_\_786Ai](https://x.com/Umar__786Ai/status/2055664244138349055) · [Full prompt](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-438)
+By [@Umar\_\_786Ai](https://x.com/Umar__786Ai/status/2055664244138349055)
 
 ---
 
@@ -56,9 +62,11 @@ By [@Umar\_\_786Ai](https://x.com/Umar__786Ai/status/2055664244138349055) · [Fu
 
 **Prompt**
 
-<blockquote>An outdoor adventure advertisement poster featuring a rugged bearded man in full hiking gear standin…</blockquote>
+```text
+An outdoor adventure advertisement poster featuring a rugged bearded man in full hiking gear standing confidently beside a massive orange camping tent three times taller than him, fully pitched in a dramatic forest clearing surrounded by towering pine trees beneath a deep starry night sky. The tent features a bold white “WILDCAMP” logo stitched onto the rainfly. Warm cinematic campfire lighting illuminates the scene with realistic shadows and rich outdoor textures, creating a premium adventure-commercial aesthetic. Large rugged serif typography reading “WILDCAMP” dominates the dark sky area in bold orange lettering, while the tagline “Sleep under the stars.” appears elegantly at the bottom. Small grey text in the top-right corner reads “Designed with GPT Image 2.” Photorealistic, ultra-detailed, cinematic outdoor advertising style with dramatic atmosphere and high-end commercial composition.
+```
 
-By [@Strength04\_X](https://x.com/Strength04_X/status/2056258909334306897) · [Full prompt](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-441)
+By [@Strength04\_X](https://x.com/Strength04_X/status/2056258909334306897)
 
 ---
 
@@ -70,9 +78,11 @@ By [@Strength04\_X](https://x.com/Strength04_X/status/2056258909334306897) · [F
 
 **Prompt**
 
-<blockquote>Ultra-detailed premium travel-food advertisement poster for [CITY/COUNTRY], vertical composition, in…</blockquote>
+```text
+Ultra-detailed premium travel-food advertisement poster for [CITY/COUNTRY], vertical composition, inspired by luxury Lay’s-style chips advertising. A realistic chips packet placed at the bottom center as the main hero object, matching the exact premium commercial layout of a floating chips campaign. A cinematic spiral ribbon of sauce, cream, clouds, steam, or flavored swirl rises upward from the chips packet, dynamically wrapping around iconic landmarks, local foods, and cultural elements from [CITY/COUNTRY]. Floating ridged potato chips suspended naturally throughout the spiral motion, interacting with the landmarks and miniature travelers. The chips packet design must feel authentic to [CITY/COUNTRY], featuring regional colors, typography, patterns, and local flavor inspiration while still clearly looking like a premium potato chips package. Include only the most iconic landmarks from [CITY/COUNTRY], carefully spaced with clean composition and no clutter. Add miniature travelers naturally interacting with the environment: - taking photos - exploring landmarks - sitting on floating chips - riding local transport - observing scenery - walking through the swirl paths Include authentic local foods, ingredients, and atmosphere elements relevant to [CITY/COUNTRY]. Background should be soft pastel or warm luxury gradient with a circular ceiling portal opening at the top emitting cinematic spotlight beams. Elegant premium commercial lighting, soft shadows, floating particles, realistic depth, balanced negative space, luxury tourism campaign aesthetic, hyper-realistic CGI, highly detailed but minimalist, Instagram-worthy poster design. Composition rules: - one dominant centered chips packet - floating ridged potato chips throughout composition - one continuous upward spiral motion - landmarks layered vertically - miniature people sparse and intentional - no duplicate landmarks - no overcrowding - clean premium hierarchy - cinematic storytelling through scale contrast - premium advertising composition matching high-end chips commercials
+```
 
-By [@Naiknelofar788](https://x.com/Naiknelofar788/status/2057282710469767241) · [Full prompt](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-454)
+By [@Naiknelofar788](https://x.com/Naiknelofar788/status/2057282710469767241)
 
 ---
 
@@ -84,9 +94,11 @@ By [@Naiknelofar788](https://x.com/Naiknelofar788/status/2057282710469767241) ·
 
 **Prompt**
 
-<blockquote>&lt;instructions&gt; input = 3 legendary dancer/choreographer input = ai inferred signature movement seque…</blockquote>
+```text
+<instructions> input = 3 legendary dancer/choreographer input = ai inferred signature movement sequence function render_kinesphere ($ dancer, $ movement) anchor: [figure composed entirely of motion trails] :: [the $ movement sequence traced as continuous luminous bands that coalesce into a portrait of $ dancer]::5 morphology: the arabesque trails weave the skull, a grand jeté arc forms the cheekbone, the arms' sweep creates the jaw, stillness is implied by negative spaces::4 material physics: blackened silver gelatin print, faint chemical residue, slight motion blur, glowing filament traces like a Marey wheel photograph::3 illumination: complete darkness with bioluminescent-like light trails, no external light sources, high contrast::2 render stack: chronophotography, fine art dance study, 8k, kinetic sculpture concept::1 negative: [still body parts, studio lights, solid silhouettes]::-1 </instructions>
+```
 
-By [@Gdgtify](https://x.com/Gdgtify/status/2057741253127594118) · [Full prompt](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-457)
+By [@Gdgtify](https://x.com/Gdgtify/status/2057741253127594118)
 
 ---
 
@@ -98,9 +110,11 @@ By [@Gdgtify](https://x.com/Gdgtify/status/2057741253127594118) · [Full prompt]
 
 **Prompt**
 
-<blockquote>你是一个品牌视觉识别系统、商业广告创意总监、KV海报设计师和高传播品牌视觉生成系统。 请根据用户输入的【现有品牌名称】，自动识别该品牌最具代表性的品牌Logo形象、品牌名称文字识别特征、主推产品、产品…</blockquote>
+```text
+你是一个品牌视觉识别系统、商业广告创意总监、KV海报设计师和高传播品牌视觉生成系统。 请根据用户输入的【现有品牌名称】，自动识别该品牌最具代表性的品牌Logo形象、品牌名称文字识别特征、主推产品、产品包装、品牌色彩、视觉调性、目标人群和广告传播风格，并生成一张符合该品牌气质的概念 KV 海报。 创作定位： - 基于真实品牌认知进行二次创作的品牌概念 KV 海报 - Brand-inspired Concept Key Visual - 用于个人学习、视觉练习与社交平台展示 不需要绝对严苛的一比一官方复刻，但必须做到： 品牌识别度高； 品牌Logo风格明显； 品牌代表产品明显； 品牌调性准确； 整体像该品牌会出现的视觉广告。 ──────────────── 一、用户输入 ──────────────── 品牌名称：{品牌名称} 主推产品：{可选，不填则自动识别该品牌最具代表性的产品} 广告语：{可选，不填则根据品牌调性自动生成原创广告语} 目标人群：{可选，不填则自动判断} 画幅比例：{9:16 / 16:9 / 4:5 / 1:1 / 2.35:1} KV类型：{产品英雄KV / 品牌情绪KV / 强口号传播KV / 人物场景KV / 超现实概念KV / 自动选择} 平台用途：{小红书 / X / 公众号封面 / 视觉练习 / 概念提案} ──────────────── 二、自动识别逻辑 ──────────────── 请根据品牌名称自动完成以下识别，不需要在画面中展示分析过程： 1. 自动识别该品牌所属行业 例如： 科技、运动、美妆、奢侈品、汽车、饮品、咖啡、服饰、潮流、护肤、珠宝、生活方式、数码、家居等。 2. 自动识别该品牌最具代表性的视觉资产 包括： 品牌Logo形象 品牌名称文字风格 主色调与辅助色 最具代表性的产品 包装外观特征 品牌常见广告风格 品牌场景气质 品牌材质感与光影方式 3. 自动识别该品牌的目标人群 例如： 年轻潮流人群、都市白领、精致女性、运动人群、科技用户、高端消费人群、Z世代、商务人群等。 4. 自动识别该品牌的广告语气质 例如： 极简高级、年轻活力、热血冲击、奢华克制、温柔浪漫、科技理性、时尚先锋、生活方式化等。 ──────────────── 三、Logo与产品识别规则 ──────────────── 本次任务允许 AI 根据品牌名称自动识别品牌视觉资产，不需要用户必须上传 Logo 或产品图。 请遵守以下原则： 1. 品牌Logo - 画面中需要有明显的品牌标识 - Logo 或品牌名称文字要具有较高识别度 - 不必追求百分之百精确复刻，但必须让人一眼联想到该品牌 - 不要生成完全陌生、无关、错误感很强的标识 - 不要让品牌名称出现明显错字、乱码或胡乱变形 2. 品牌产品 - 自动选择该品牌最具代表性的主推产品或经典产品作为主视觉 - 产品外观、包装、色彩和气质应接近大众对该品牌的常见认知 - 不需要绝对严格到工业级复刻 - 但要保证“像这个品牌的真实代表产品”，避免完全陌生的产品 3. 品牌包装与材质 - 自动识别该品牌常见包装与材质语言 - 如金属、玻璃、磨砂、塑料、皮革、纸盒、极简包装、奢华包装、运动感材质等 - 产品必须具有真实商业视觉质感 ──────────────── 四、KV创意方向 ──────────────── 请根据品牌属性自动选择最合适的 KV 创意方式。 如果是科技品牌： 使用极简、未来感、真实产品质感、冷静留白、克制光影、干净空间。 如果是运动品牌： 使用速度感、力量感、身体动势、汗水、冲刺、突破、强烈口号感。 如果是美妆品牌： 使用柔光、精致产品、肌肤质感、女性气质、色彩情绪、时尚大片感。 如果是奢侈品牌： 使用高级材质、留白、低饱和色调、秩序构图、稀缺感、时尚大片感。 如果是饮品品牌： 使用冰爽、液体、气泡、年轻感、快乐氛围、色彩冲击、清爽材质。 如果是咖啡品牌： 使用温度、城市生活、松弛氛围、绿色或木质感、晨间陪伴感。 如果是汽车品牌： 使用道路、速度、未来空间、金属质感、城市夜景、驾驶欲望。 如果是潮流品牌： 使用街头、反叛、年轻、图形感、视觉冲击和社交传播感。 ──────────────── 五、广告语规则 ──────────────── 如果用户没有输入广告语，请根据品牌调性自动生成一句原创广告语。 要求： - 广告语不能太长 - 要有品牌感和传播感 - 不使用官方原广告语 - 不需要像正式企业公告 - 更像概念广告的主标语 中文广告语建议： 4到12个字 英文广告语建议： 2到6个单词 广告语风格要与品牌匹配，例如： 科技品牌： 更少干扰，更近未来 运动品牌： 把极限踩在脚下 美妆品牌： 光泽，自成主张 奢侈品牌： 优雅，从不喧哗 饮品品牌： 这一口，刚好上头 咖啡品牌： 唤醒城市的温度 汽车品牌： 驶向更远的秩序 ──────────────── 六、画面结构要求 ──────────────── 整张图必须具备真实品牌 KV 的基本结构： 1. 品牌标识区 品牌Logo或品牌名称需要清晰可见，位置合理。 2. 产品主视觉区 品牌代表产品必须明显，是画面核心之一。 3. 广告语区 广告语清晰可读，具备传播记忆点。 4. 品牌氛围区 背景、光影、材质、空间和色彩必须符合品牌调性。 5. 信息层级区 画面层级建议为： 品牌标识 产品主体 广告语 少量辅助文字 文字不要太多，不要做成密密麻麻的海报。 ──────────────── 七、风格要求 ──────────────── 整体视觉必须具备： 高识别度品牌感 高级商业广告质感 清晰品牌标识 明显品牌产品 强主视觉 强广告语 干净排版 适合社交平台传播 适合小红书和X展示 具有“像某知名品牌概念广告”的完成度 允许适度创意发挥，但品牌核心识别不能丢失。 ──────────────── 八、画幅适配 ──────────────── 如果是 9:16： 适合竖版社交海报，产品更聚焦，广告语放中上区域，适合手机浏览。 如果是 16:9： 适合横版品牌KV、封面、头图，产品与广告语形成左右平衡。 如果是 4:5： 适合社交平台信息流，主体更近，品牌识别更集中。 如果是 2.35:1： 适合公众号封面或宽幅视觉，适合大字广告语和强冲击横版构图。 如果是 1:1： 适合方形封面与品牌视觉展示。 ──────────────── 九、负面限制 ──────────────── 不要生成明显错误的品牌名称。 不要生成过于离谱的Logo变形。 不要生成与品牌无关的产品。 不要生成廉价拼贴感。 不要生成过多小字。 不要生成杂乱无章的背景。 不要生成山寨感很强的画面。 不要生成像促销海报一样的低级电商视觉。 不要出现二维码、购买链接、价格标签、活动说明。 不要让整体画面失去品牌调性。 ──────────────── 十、最终目标 ──────────────── 请生成一张基于真实品牌认知自动识别完成的品牌概念 KV 海报。 要求： 无需用户上传 Logo 和产品素材； 由AI自动识别该品牌最具代表性的Logo形象与代表产品； 不要求绝对严格复刻； 但必须保持高识别度、高品牌感、高完成度； 整体像一张高级品牌概念广告海报； 适合个人学习、视觉练习和社交平台展示。 ———— 品牌名称：{蜜雪冰城} 主推产品：{奶茶} 广告语：{可选，如果用户不输入，则根据品牌调性自动生成一句高传播感广告语} 目标人群：{年轻潮流人群} 画幅比例：{9:16} KV类型：{产品英雄KV} 平台用途：{小红书}
+```
 
-By [@liyue\_ai](https://x.com/liyue_ai/status/2057739678485495885) · [Full prompt](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-459)
+By [@liyue\_ai](https://x.com/liyue_ai/status/2057739678485495885)
 
 ---
 
@@ -112,9 +126,11 @@ By [@liyue\_ai](https://x.com/liyue_ai/status/2057739678485495885) · [Full prom
 
 **Prompt**
 
-<blockquote>Watercolor and collage travel poster for Kaohsiung, Taiwan, vertical layout, soft pastel and warm go…</blockquote>
+```text
+Watercolor and collage travel poster for Kaohsiung, Taiwan, vertical layout, soft pastel and warm golden hour color palette. Scene: Waterfront promenade at sunset with a modern light rail tram on the right, a person walking a bicycle on the left, and people strolling along the path. In the background: Kaohsiung skyline with the 85 Sky Tower and other skyscrapers, a harbor with a ferry boat, port cranes, and the Pier-2 Art Center building with murals. Seagulls flying in the sky, trees lining the walkway, calm water reflecting the light. Design elements: - Large text top left: 'KAO HSIUNG 2026', smaller text below 'Sea Breeze Slow Light Southern City' - Top right: Vertical Chinese characters, 'KAOHSIUNG TAIWAN' in small caps below - Bottom left: Coordinates '22.6273° N 120.3014° E', 'KAOHSIUNG TAIWAN', wave icon - Bottom center: Handwritten script 'Kaohsiung' - Bottom right: Vertical list 'Harbor Art Light Rail People Slow Life', vertical Chinese text - Overlay effects: Semi-transparent geometric shapes, watercolor splashes, and texture layers in teal and beige Style: Modern travel poster meets watercolor painting, airy and atmospheric, blend of illustration and photo-collage, warm and tranquil mood, high detail.
+```
 
-By [@SimplyAnnisa](https://x.com/SimplyAnnisa/status/2058372965641662876) · [Full prompt](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-464)
+By [@SimplyAnnisa](https://x.com/SimplyAnnisa/status/2058372965641662876)
 
 ---
 
@@ -126,9 +142,11 @@ By [@SimplyAnnisa](https://x.com/SimplyAnnisa/status/2058372965641662876) · [Fu
 
 **Prompt**
 
-<blockquote>Minimalist flat travel poster illustration series of iconic destinations around the world, clean vec…</blockquote>
+```text
+Minimalist flat travel poster illustration series of iconic destinations around the world, clean vector art style, Scandinavian color palette, soft pastel tones, calm atmospheric scenery, Hallstatt Austria lakeside village with alpine mountains and reflections, Bergen Norway colorful harbor houses with fjord background, Kyoto Japan traditional riverside town with cherry blossoms and pagoda, Santorini Greece white architecture with blue domes overlooking the sea, ultra clean composition, geometric landscape shapes, smooth gradients, elegant typography with destination names, modern tourism poster aesthetic, serene travel mood, crisp vector lines, cinematic wide-angle scenery, peaceful skies with stylized clouds, highly detailed environment art, contemporary flat illustration, premium editorial travel design, balanced composition, minimal shadows, dreamy vacation atmosphere, soft morning lighting, high-end Airbnb poster vibe, Behance trending style, 4k, ultra detailed
+```
 
-By [@Taaruk\_](https://x.com/Taaruk_/status/2059188921096085888) · [Full prompt](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-474)
+By [@Taaruk\_](https://x.com/Taaruk_/status/2059188921096085888)
 
 ---
 
@@ -140,9 +158,11 @@ By [@Taaruk\_](https://x.com/Taaruk_/status/2059188921096085888) · [Full prompt
 
 **Prompt**
 
-<blockquote>[BRAND NAME]. You are a world-class editorial designer. STEP 1, DYNAMIC SUBJECT LOGIC: - Subject pic…</blockquote>
+```text
+[BRAND NAME]. You are a world-class editorial designer. STEP 1, DYNAMIC SUBJECT LOGIC: - Subject pick: independently study [BRAND NAME] and choose the right hero subject. - Sandwich layering: weave the subject through the background shapes. Parts of the car or figure must sit hidden behind geometric blocks, while other parts (wheels, limbs, props) overlap in front of those blocks to fake real 3D depth. STEP 2, GRID & GEOMETRY: - Layout: a clean 2x2 grid composition. - Overlays: drop large bold geometric arcs and circles on top of the grid. - Visual balance: place one iconic product prop (a floating key fob for cars, a ball for sports, etc.) in its own quadrant to counterweight the subject. STEP 3, SOPHISTICATED MUTED PALETTE: - No aggressive neon, no oversaturated colors. - Pull [BRAND NAME]'s core colors and shift them into a "sophisticated muted" range. Use desaturated, earthy, dusty versions of the brand colors (dusty rose instead of hot pink, sage green instead of bright mint, slate blue instead of royal blue). - Finish: matte flat color blocks, zero gradients. STEP 4, PHOTOGRAPHY & LIGHTING: - Subject style: high-end commercial studio photography. - Lighting: soft diffused studio light, gentle highlights, no harsh shadows. - Integration: the subject must feel physically embedded into the graphic grid. STEP 5, MINIMALIST BRANDING: - Drop a clean single-color [BRAND NAME] logo dead-center on one background block. No tagline, just the iconic symbol.
+```
 
-By [@iamaiistudio](https://x.com/iamaiistudio/status/2060000278657839398) · [Full prompt](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-478)
+By [@iamaiistudio](https://x.com/iamaiistudio/status/2060000278657839398)
 
 ---
 
@@ -154,9 +174,11 @@ By [@iamaiistudio](https://x.com/iamaiistudio/status/2060000278657839398) · [Fu
 
 **Prompt**
 
-<blockquote>Cute Korean spring aesthetic scrapbook poster, dreamy K-fashion portrait, soft blonde girl standing …</blockquote>
+```text
+Cute Korean spring aesthetic scrapbook poster, dreamy K-fashion portrait, soft blonde girl standing in a blooming flower garden, pastel blue sky background, cream floral blouse layered under a knitted ivory sweater vest, light blue high-waisted jeans, natural smile, glowing fair skin, soft makeup, cherry blossom trees, colorful spring flowers, cozy countryside garden, bright natural sunlight, kawaii doodle overlays, hand-drawn white hearts, smiley faces, stars, sparkles, rainbows, playful handwritten typography, polaroid photo frames, masking tape stickers, scrapbook collage layout, Pinterest aesthetic, Korean magazine editorial, cottagecore fashion, dreamy spring vibes, wholesome mood, soft pastel color palette, clean composition, aesthetic social media poster, ultra detailed, photorealistic, high quality, cute and charming atmosphere, subtle bokeh, lifestyle photography, Instagram reel cover, fashion moodboard, Y2K scrapbook design, white outline around subject, flower-themed decorations, 8k masterpiece
+```
 
-By [@Taaruk\_](https://x.com/Taaruk_/status/2060214163591614900) · [Full prompt](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-481)
+By [@Taaruk\_](https://x.com/Taaruk_/status/2060214163591614900)
 
 ---
 
@@ -168,9 +190,11 @@ By [@Taaruk\_](https://x.com/Taaruk_/status/2060214163591614900) · [Full prompt
 
 **Prompt**
 
-<blockquote>Ultra-detailed mixed-media sports poster featuring the SAME woman from the reference image, wearing …</blockquote>
+```text
+Ultra-detailed mixed-media sports poster featuring the SAME woman from the reference image, wearing a Royal Challengers Bengaluru (RCB) jersey, holding the IPL trophy beside her. Dynamic fusion of realistic portrait photography, sketch art, watercolor splashes, paint strokes, ink scribbles, and digital painting effects. Explosive red, black, gold, and white color palette. Dramatic championship atmosphere with confetti, fireworks, cheering stadium crowd, RCB flags waving in the background, paint splatter textures, hand-drawn line art accents, and energetic brushwork. The woman has a confident expression, bold red lipstick, flawless skin, short black bob haircut, cinematic lighting, ultra-sharp blue eyes, premium sports-fashion styling. RCB face paint on cheek, luxury gold jewelry accents, highly detailed jersey fabric. Large typography on the right side reading: RCB IPL CHAMPIONS 2026 Handwritten slogan at bottom left: Ee Sala Cup Namde! Premium championship poster design, trending Behance artwork, sports magazine cover aesthetic, layered paint textures, realistic trophy reflections, high contrast, ultra-detailed, 8K, masterpiece, award-winning digital art, vibrant colors, cinematic composition, splash art, sketch effect, watercolor effect, paint explosion effect, mixed-media illustration, poster-worthy design.
+```
 
-By [@AIwithkhan](https://x.com/AIwithkhan/status/2061305471492096301) · [Full prompt](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-486)
+By [@AIwithkhan](https://x.com/AIwithkhan/status/2061305471492096301)
 
 ---
 
@@ -182,9 +206,11 @@ By [@AIwithkhan](https://x.com/AIwithkhan/status/2061305471492096301) · [Full p
 
 **Prompt**
 
-<blockquote>Create a highly detailed cinematic miniature tilt-shift travel scene of [CITY NAME] featuring a real…</blockquote>
+```text
+Create a highly detailed cinematic miniature tilt-shift travel scene of [CITY NAME] featuring a realistic [VEHICLE NAME] driving along a winding elevated road that emerges naturally from a printed vintage-style city map. The road should curve dramatically toward the background skyline and landmarks of [CITY NAME], while the vehicle remains the clear focal point in the foreground. Blend the real city seamlessly with the illustrated map surface so the road appears integrated into the map itself. Include recognizable local landmarks, waterways, architecture, vegetation, and atmosphere associated with [CITY NAME], but keep the composition clean and uncluttered. Show large bold typography of "[CITY NAME]" printed directly on the map in the foreground. Use warm golden-hour lighting, shallow depth of field, realistic textures, cinematic shadows, aerial perspective, and photorealistic detail. The overall aesthetic should feel like a premium Instagram travel poster mixed with a miniature diorama. Aspect ratio 1:1.
+```
 
-By [@SimplyAnnisa](https://x.com/SimplyAnnisa/status/2062358269172101240) · [Full prompt](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-489)
+By [@SimplyAnnisa](https://x.com/SimplyAnnisa/status/2062358269172101240)
 
 ---
 
@@ -196,9 +222,11 @@ By [@SimplyAnnisa](https://x.com/SimplyAnnisa/status/2062358269172101240) · [Fu
 
 **Prompt**
 
-<blockquote>Minimalist vintage watercolor travel poster illustration of [CITY NAME], [COUNTRY], rendered entirel…</blockquote>
+```text
+Minimalist vintage watercolor travel poster illustration of [CITY NAME], [COUNTRY], rendered entirely in elegant monochromatic [COLOR] watercolor and fine ink linework. Aspect ratio: 4:5 vertical composition optimized for poster and social media presentation. A peaceful early-morning streetscape featuring the iconic [PRIMARY LANDMARK] and [SECONDARY LANDMARK/LOCATION] in the foreground, viewed from a slightly low pedestrian-level perspective. Historic local architecture, elegant facades, ornate details, arched windows, decorative cornices, and traditional street elements line the spacious surroundings, creating a timeless urban atmosphere. A classic [LOCAL STREET ELEMENT OR LAMP STYLE] stands prominently on the left side, while mature leafy trees frame portions of the scene, their foliage painted with soft watercolor washes and delicate splatter textures. In the distance, [DISTANT LANDMARK OR SKYLINE FEATURE] rises gracefully against the skyline, serving as a recognizable cultural landmark. A vintage [LOCAL VEHICLE] or a few small pedestrians add subtle life and scale without disturbing the tranquil mood. The composition includes large areas of clean white negative space, soft cloudy watercolor textures in the sky, delicate paper grain, and subtle watercolor blooms. The paving, street, or plaza stretches dramatically across the foreground, leading the viewer’s eye toward the landmark ensemble. Typography in the upper-left corner reads “[CITY NAME], [COUNTRY]” in a refined serif font, styled like a sophisticated travel journal or collectible city poster. Handcrafted watercolor illustration, architectural sketch aesthetic, serene urban atmosphere, soft natural morning lighting, muted monochromatic palette, highly detailed line art, elegant travel-poster design, minimalist luxury wall-art style, timeless local charm, premium stationery illustration, ultra-detailed, high-resolution, clean composition, Pinterest-worthy, Instagram-worthy, gallery-quality artwork.
+```
 
-By [@Goodmanprotocol](https://x.com/Goodmanprotocol/status/2062564327140503787) · [Full prompt](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-497)
+By [@Goodmanprotocol](https://x.com/Goodmanprotocol/status/2062564327140503787)
 
 ---
 
@@ -210,9 +238,11 @@ By [@Goodmanprotocol](https://x.com/Goodmanprotocol/status/2062564327140503787) 
 
 **Prompt**
 
-<blockquote>Create an ultra-detailed 3D stylized creative designer poster featuring a cool young digital artist …</blockquote>
+```text
+Create an ultra-detailed 3D stylized creative designer poster featuring a cool young digital artist standing confidently in the center of a futuristic blue neon studio. The character wears oversized black streetwear with electric-blue graphic accents, black cargo pants, layered silver chains, black sunglasses, and clean white sneakers. A cute fluffy puppy sits on the artist's shoulder. The camera angle is dramatic low-angle perspective, making the sneakers appear larger for a premium poster effect. Surround the character with floating creative elements including a glowing laptop, professional camera, design books, notebooks, 3D icons, social media symbols, holographic UI panels, graphic design tools, and futuristic blue geometric shapes. Add motivational typography such as "DESIGN MODE", "CREATE • BUILD • INSPIRE", and "CREATIVE NEVER SLEEPS" integrated into the scene. Include a collectible chibi mini-figure version of the character standing beside the main subject on a display base. Use cinematic blue lighting, glossy reflections, volumetric glow, depth of field, floating particles, luxury toy-photography aesthetics, high-end 3D rendering, Octane Render quality, ultra-sharp details, vibrant neon blue color palette, futuristic creator workspace atmosphere, premium commercial poster design, trending ArtStation style, masterpiece quality, 8K resolution, vertical 9:16 composition.
+```
 
-By [@AiwithLariab](https://x.com/AiwithLariab/status/2063240283786187251) · [Full prompt](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-503)
+By [@AiwithLariab](https://x.com/AiwithLariab/status/2063240283786187251)
 
 ---
 
@@ -224,9 +254,11 @@ By [@AiwithLariab](https://x.com/AiwithLariab/status/2063240283786187251) · [Fu
 
 **Prompt**
 
-<blockquote>Create a clean, modern typographic travel poster where the city name itself becomes the composition.…</blockquote>
+```text
+Create a clean, modern typographic travel poster where the city name itself becomes the composition. Render the city name in large, bold, uppercase sans-serif letters spanning the width of the artwork. Seamlessly integrate the city's most iconic landmarks, architecture, monuments, streets, transportation, cultural symbols, cafés, bridges, parks, skylines, sculptures, waterfronts, historic buildings, and local details into, around, and inside the letters. Let landmarks naturally interact with the typography while preserving legibility. Use an elegant flat vector illustration style with crisp geometric shapes, minimal detail, clean outlines, subtle shadows, and a premium editorial aesthetic. Maintain a limited color palette of deep navy, warm cream, muted red, and soft gray-blue for a timeless travel-poster look. Add small decorative elements such as street lamps, trees, clouds, birds, benches, bicycles, fountains, trams, ferries, or other city-specific objects where appropriate. Keep generous negative space with a clean background and perfectly balanced composition. Ensure every landmark, architectural style, vehicle, sign, and cultural element is accurate to the chosen city—avoid generic or incorrect landmarks. If desired, include a small elegant tagline beneath the city name (such as a famous nickname or slogan) in minimal typography. Style: premium flat vector, minimalist travel poster, geometric illustration, editorial design, tourism branding, clean typography, high contrast, ultra-sharp lines, museum-quality print, modern graphic design, centered composition, scalable SVG aesthetic, 8K resolution.
+```
 
-By [@Goodmanprotocol](https://x.com/Goodmanprotocol/status/2071819124708438092) · [Full prompt](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-511)
+By [@Goodmanprotocol](https://x.com/Goodmanprotocol/status/2071819124708438092)
 
 ---
 
@@ -238,9 +270,11 @@ By [@Goodmanprotocol](https://x.com/Goodmanprotocol/status/2071819124708438092) 
 
 **Prompt**
 
-<blockquote>@Crea una imagen { &quot;style&quot;: &quot;Cinematic Vintage Movie Poster — Guadalajara, Mexico&quot;, &quot;target_tool&quot;: &quot;…</blockquote>
+```text
+@Crea una imagen { "style": "Cinematic Vintage Movie Poster — Guadalajara, Mexico", "target_tool": "DALL-E 3 (ChatGPT)", "prompt": "Generate a vertical portrait-format movie poster image, taller than wide in a 2:3 aspect ratio. The image is a cinematic vintage travel movie poster for Guadalajara, Mexico, rendered with the visual texture of an aged large-format film poster: heavy 35mm film grain throughout especially in the shadow areas, slightly faded and warm-shifted color tones as if printed on aged matte paper stock, a subtle halftone dot pattern visible in the midtones, and a very slight ink bleed at high-contrast edges giving it an authentic vintage printed poster feel. Foreground: a single dark silhouette of a lone mariachi musician standing still at the center-bottom of the frame, rendered as a pure clean dark silhouette with no facial features visible — traditional wide-brim charro sombrero, fitted traje de charro suit outline, holding a guitarrón — casting a long warm shadow across the honey-colored cantera stone paving of Plaza de la Liberación below, with colorful papel picado banners in red, orange, green and yellow cut tissue paper strung in loose diagonal lines overhead from building to building, swaying slightly, framing the upper composition, no people other than the single silhouetted figure, no vehicles, no modern objects. Midground: the grand honey-amber cantera stone neoclassical facade of the Teatro Degollado rising directly behind the silhouette, its ornate columned portico and triangular pediment warmly lit by the low golden-hour sun hitting from the left, long dramatic shadows stretching across the stone paving, the warm amber volcanic stone glowing intensely in the golden light. Background: the twin neo-Gothic spires of the Catedral Metropolitana de Guadalajara rising tall into the upper frame against a vast deep cerulean blue sky transitioning to burnt amber and deep orange near the horizon, a single scattered cloud catching violet and gold light from below, the cathedral facade in warm honey stone matching the Teatro Degollado's palette. Color grade: saturated warm amber and golden honey tones dominating the stone architecture, deep cobalt blue in the upper sky, rich burnt orange near the horizon, faded warm sepia in the shadow areas consistent with a vintage printed poster. At the very top of the image, centered above the spires, render the single word GUADALAJARA in bold condensed uppercase display serif letters in warm cream-gold with a faint dark drop shadow, leaving clear sky negative space for the title. No modern buildings, no cars, no utility wires, no people other than the single dark silhouette visible anywhere in the scene.", "target": "🎯 Target: DALL-E 3 (ChatGPT) — 💡 Foreground/midground/background separation places Teatro Degollado and the Cathedral in distinct spatial layers, the mariachi silhouette is specified as a featureless outline to eliminate aberration risk, and vintage print texture is described visually rather than as a style label." }
+```
 
-By [@MiMundoConIA](https://x.com/MiMundoConIA/status/2077046470335938826) · [Full prompt](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-515)
+By [@MiMundoConIA](https://x.com/MiMundoConIA/status/2077046470335938826)
 
 ---
 
@@ -252,9 +286,11 @@ By [@MiMundoConIA](https://x.com/MiMundoConIA/status/2077046470335938826) · [Fu
 
 **Prompt**
 
-<blockquote>请将我上传的照片制作成一张竖版拼图海报，整体采用 3:4 竖版构图。画面从上到下严格四等分为四个横向区域，每个区域的高度必须精确控制为整体画面高度的25%（四层比例严格为1:1:1:1，不允许出现比例…</blockquote>
+```text
+请将我上传的照片制作成一张竖版拼图海报，整体采用 3:4 竖版构图。画面从上到下严格四等分为四个横向区域，每个区域的高度必须精确控制为整体画面高度的25%（四层比例严格为1:1:1:1，不允许出现比例偏差），区域之间无缝衔接，不设分隔线、不留间隙，顺序为：原图→风格1→风格2→风格3。由于每层为约3:1的极扁宽幅比例，各层主体建议横向居中排布，强调左右开阔留白与呼吸感，避免元素纵向拉伸变形或贴边拥挤。四层在人物站位、场景结构、视线方向上保持连贯呼应，呈现同一画面、四种转译的整体感。风格层（第二至四层）须遵循极简原则：每层视觉元素数量压缩至最低限度，只保留1个最核心的主体符号，其余次要装饰、背景细节与陪衬元素一律省略，画面留白占比不低于60%。 第一层保留原始照片的主体结构、人物真实互动关系与姿态、真实质感、自然光影与原有色彩氛围，仅进行轻微高级摄影调色，呈现杂志摄影质感，不改变人物关系与构图逻辑，并可在不改变人物关系与构图逻辑的前提下自然扩展天空、地面或环境背景，使整体更具空间感与叙事感。 第二层为青花瓷绘风格：借鉴青花瓷绘画技法，以钴蓝色线条与晕染在米白底上表现人物与场景，呈现瓷器纹样的疏朗雅致感。色彩以钴蓝与米白为主的单色系。避免蓝色浓淡层次过多显杂，避免图案化装饰堆砌。 第三层为敦煌壁画风格：借鉴敦煌壁画矿物重彩质感，表现古朴斑驳的美感，需简化线条与色块。背景为土黄或赭石底色，带斑驳壁画肌理感。色彩以赭石、石青、朱砂、土黄为主。避免裂纹肌理过多堆砌，避免复杂纹样装饰。 第四层为刺绣锦缎风格：以刺绣针脚肌理表现人物与场景轮廓，呈现丝缎光泽与针线纹理感，图案需极简概括。背景为米白或浅灰缎面底色。色彩以2至3种柔和色搭配金线点缀。避免针脚过密显繁琐，避免金线过多显浮夸。 每一层需将主体与场景统一转换为对应风格，整体表达极度克制与简化，只保留最核心的一个主体符号及其基本轮廓关系，删除一切非必要的背景元素、装饰细节与陪衬物；人物之间的关键位置关系、互动方向与姿态特征需保留，但应抽象为可识别的轮廓关系，做到“元素越少、关系越清晰”。色彩均从原图中提取归纳，每层严格控制在2-4种主色以内。四个区域的高度比例须严格保持1:1:1:1（各占25%），不可出现拼接错位或比例偏差。整体避免朋克/赛博朋克风格、写实照片质感强行叠加、卡通风格、3D渲染感、商业海报感、复杂背景堆砌、元素过多或画面拥挤、相邻两层风格雷同，以及任何文字、Logo、水印或标题。
+```
 
-By [@zhidawang219555](https://x.com/zhidawang219555/status/2090310144190218272) · [Full prompt](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-521)
+By [@zhidawang219555](https://x.com/zhidawang219555/status/2090310144190218272)
 
 ---
 
@@ -266,9 +302,11 @@ By [@zhidawang219555](https://x.com/zhidawang219555/status/2090310144190218272) 
 
 **Prompt**
 
-<blockquote>从全黑剧场开始，像切标本一样用六片真实体积激光把空间分层。光面必须有明确起点、透视和薄雾中的厚度，人物站在交汇点，透明道具折射出一小束异色光扇。构图沿左下至右上的对角线推进，脸只用一道克制边光揭示；标…</blockquote>
+```text
+从全黑剧场开始，像切标本一样用六片真实体积激光把空间分层。光面必须有明确起点、透视和薄雾中的厚度，人物站在交汇点，透明道具折射出一小束异色光扇。构图沿左下至右上的对角线推进，脸只用一道克制边光揭示；标题与其中一片光面共享透视，小字留在纯黑负空间。每次替换主题与角色时，不得退化成夜店模板、HUD、霓虹城市或无物理来源的光线。
+```
 
-By [@zhidawang219555](https://x.com/zhidawang219555/status/2090246237094310178) · [Full prompt](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-526)
+By [@zhidawang219555](https://x.com/zhidawang219555/status/2090246237094310178)
 
 ---
 
@@ -280,9 +318,11 @@ By [@zhidawang219555](https://x.com/zhidawang219555/status/2090246237094310178) 
 
 **Prompt**
 
-<blockquote>Create a highly detailed, photorealistic miniature travel-poster diorama inspired by Rio de Janeiro,…</blockquote>
+```text
+Create a highly detailed, photorealistic miniature travel-poster diorama inspired by Rio de Janeiro, arranged as a handcrafted 3D paper scene on a warm ivory, slightly textured background. In the foreground, a realistic human hand holds a vintage Brazilian travel ticket or Rio-themed transit card vertically on the left side. Give the card aged paper texture, subtle printing imperfections, elegant typography, and authentic-looking travel details. From behind the card, a miniature Rio de Janeiro landscape physically rises outward like an intricate pop-up diorama. Make Christ the Redeemer the dominant central landmark, positioned high above a miniature cityscape with lush green mountains surrounding it. Below, build a tiny realistic Rio street featuring a classic yellow taxi, colorful buildings, palm trees, pedestrians, cyclists, street lamps, tiled sidewalks, and small Brazilian urban details. Add Copacabana beach elements in the distance with tiny umbrellas, beachgoers, and a glimpse of the Atlantic Ocean. Layer the architecture and terrain so everything appears physically constructed from paper, wood, plaster, and miniature materials, with convincing depth, cast shadows, overlapping surfaces, and a slight three-quarter perspective. Around the main 3D scene, incorporate delicate black, charcoal, and muted sepia hand-drawn travel illustrations on the cream paper. Include a small Sugarloaf Mountain sketch in the upper left, an artistic Copacabana promenade illustration in the upper right, a detailed Selarón Steps sketch along the right side, and a small Ipanema beachfront skyline drawing near the bottom. Add subtle handwritten travel notes, tiny map markings, architectural outlines, compass symbols, postage-stamp details, and understated Brazilian travel annotations. Keep the composition refined rather than crowded. Blend realistic miniature photography with vintage travel-journal design, tactile paper fibers, faint ink bleed, imperfect hand-drawn lines, warm natural studio lighting, gentle shadows, subtle film grain, and a sophisticated cream, charcoal, muted green, ocean blue, and Brazilian yellow palette. The final image should feel like a premium collectible Rio de Janeiro travel postcard transformed into a physical miniature world, with the central diorama sharply detailed and the surrounding illustrations slightly softer. Highly realistic human hand and fingers, believable miniature materials, cinematic product photography, editorial travel-magazine aesthetic, shallow depth of field, ultra-fine textures, photorealistic 3D details, vertical 4:5 composition, 8K quality.
+```
 
-By [@john\_my07](https://x.com/john_my07/status/2091408386466214031) · [Full prompt](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-527)
+By [@john\_my07](https://x.com/john_my07/status/2091408386466214031)
 
 ---
 

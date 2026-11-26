@@ -4,7 +4,7 @@
 
 **1**
 
-Source examples are not independently reproduced. Long prompts link to their full text.
+Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
 <a id="evolink-gpt-image-2-6-case-253"></a>
 
