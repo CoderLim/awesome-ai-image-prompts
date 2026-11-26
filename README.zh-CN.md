@@ -44,6 +44,8 @@
 
 <table><tr>
 <td width="33%" valign="top" align="center"><a href="generation/portraits-3.md#freestylefly-case-187"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case187.jpg" width="230" alt="Source example"></a><br><a href="generation/portraits-3.md#freestylefly-case-187"><strong>韩系极简氛围感少女写真</strong></a></td>
+<td width="33%" valign="top" align="center"><a href="generation/portraits.md#evolink-portraits-case-29"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2103789510555549696.jpg" width="230" alt="Source example"></a><br><a href="generation/portraits.md#evolink-portraits-case-29"><strong>Twenty-Third Birthday Portrait</strong></a></td>
+<td width="33%" valign="top" align="center"><a href="generation/portraits-2.md#evolink-portraits-case-31"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2103789227981045760.jpg" width="230" alt="Source example"></a><br><a href="generation/portraits-2.md#evolink-portraits-case-31"><strong>Pop-Through Calendar Birthday Portrait</strong></a></td>
 </tr></table>
 
 ## 参考图生成

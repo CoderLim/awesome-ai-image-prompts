@@ -6,7 +6,7 @@
 <header><h1>本地图片审核</h1><p class="muted">默认保留；删除立即写入排除名单，原始数据不变。候选保留不代表通过视觉审核或取得转载权限。</p><p id="counts">加载中…</p><p id="featuredHint" class="muted"></p><p id="status" role="status"></p>
 <div class="bar"><input id="search" placeholder="搜索标题、Prompt、ID"><select id="scope"><option value="all">全部来源范围</option><option value="gallery">已入库图库</option><option value="candidate">待入库候选</option></select><select id="category"><option value="">全部分类</option></select><select id="model"><option value="">全部模型</option></select><select id="source"><option value="">全部来源</option></select><select id="mode"><option value="">全部生成类型</option><option value="text-to-image">文生图</option><option value="reference-to-image">参考图生成</option><option value="image-editing">图片编辑</option><option value="unknown">未知</option></select><select id="filter"><option value="active">未删除</option><option value="removed">已删除</option><option value="all">全部状态</option></select><select id="featuredFilter"><option value="all">全部精选状态</option><option value="yes">已精选</option><option value="no">未精选</option></select></div>
 <div class="bar"><button id="selectPage">选中本页</button><button id="clear">取消选择</button><button id="remove" class="danger" disabled>删除选中</button><button id="restore" disabled>恢复选中</button><button id="undo" disabled>撤销上次删除</button><button id="featureBatch" class="favorite" disabled>精选选中</button><button id="unfeatureBatch" disabled>取消精选选中</button><button id="export">导出排除名单</button><span id="selected" class="muted"></span><span class="muted">每页 60 张 · 点击图片放大</span></div></header>
-<div class="wrap"><div class="grid" id="grid"></div><footer><button id="prev">上一页</button> <span id="page"></span> <button id="next">下一页</button></footer></div>
+<div class="wrap"><div class="grid" id="grid"></div><footer><button id="prev">上一页</button> <label class="muted">第 <select id="pageSelect" aria-label="选择页码"></select> 页</label> <span id="page" class="muted"></span> <button id="next">下一页</button></footer></div>
 <dialog id="light"><div class="row"><span id="lightTitle"></span><button id="close">关闭 Esc</button></div><img id="large" alt="原始预览" referrerpolicy="no-referrer"><div class="row"><button id="lightDelete" class="danger">删除</button><button id="lightFeature" class="favorite">☆ 精选</button><a id="original" target="_blank" rel="noopener noreferrer" style="color:#accbff">原始图片</a></div></dialog>
 <script>
 'use strict';
@@ -36,8 +36,19 @@ function controls(){
  $('counts').textContent='图库 '+cards.filter(r=>!r.candidate).length+' · 候选 '+cards.filter(r=>r.candidate).length+' · 已删除 '+Object.keys(excluded).length+' · 当前筛选 '+filtered.length;
 }
 function openImage(r,url){opened=r;$('lightTitle').textContent=r.title;$('large').src=url;$('original').href=url;$('lightDelete').textContent=excluded[r.id]?'恢复':'删除';$('lightFeature').textContent=isFeatured(r.id)?'★ 已精选':'☆ 精选';$('lightFeature').disabled=!!excluded[r.id]&&!isFeatured(r.id);$('light').showModal();}
+function syncPager(pages){
+ page=Math.min(Math.max(0,page),pages-1);
+ const sel=$('pageSelect');
+ if(sel.options.length!==pages||[...sel.options].some((o,i)=>Number(o.value)!==i)){
+  sel.replaceChildren();
+  for(let i=0;i<pages;i++){const o=make('option','',String(i+1));o.value=String(i);sel.append(o);}
+ }
+ sel.value=String(page);sel.disabled=pages<=1;
+ $('page').textContent='共 '+pages+' 页 · '+filtered.length+' 条';
+ $('prev').disabled=page===0;$('next').disabled=page+1>=pages;
+}
 function render(){
- filtered=filteredCards();const pages=Math.max(1,Math.ceil(filtered.length/60));page=Math.min(page,pages-1);$('page').textContent=(page+1)+' / '+pages;$('prev').disabled=page===0;$('next').disabled=page+1>=pages;
+ filtered=filteredCards();const pages=Math.max(1,Math.ceil(filtered.length/60));syncPager(pages);
  const grid=$('grid');grid.replaceChildren();
  for(const r of filtered.slice(page*60,page*60+60)){
   const card=make('article','card'+(excluded[r.id]?' removed':'')+(selection.has(r.id)?' selected':''));
@@ -71,6 +82,7 @@ async function change(action,ids){
 }
 for(const id of ['search','scope','category','model','source','mode','filter','featuredFilter'])$(id).addEventListener(id==='search'?'input':'change',()=>{page=0;selection.clear();render();});
 $('prev').onclick=()=>{page--;render();window.scrollTo(0,0);};$('next').onclick=()=>{page++;render();window.scrollTo(0,0);};
+$('pageSelect').onchange=()=>{page=Number($('pageSelect').value)||0;render();window.scrollTo(0,0);};
 $('selectPage').onclick=()=>{filtered.slice(page*60,page*60+60).forEach(r=>selection.add(r.id));render();};$('clear').onclick=()=>{selection.clear();render();};
 $('remove').onclick=()=>change('exclude',[...selection].filter(id=>!excluded[id]));$('restore').onclick=()=>change('restore',[...selection].filter(id=>excluded[id]));
 $('undo').onclick=()=>change('restore',last.filter(id=>excluded[id]));
