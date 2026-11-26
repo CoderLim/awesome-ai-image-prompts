@@ -278,6 +278,38 @@ By [@ZetoGroovin](https://x.com/ZetoGroovin/status/2058408514247410003)
 
 ---
 
+<a id="vcl-isometric"></a>
+
+## Isometric — espresso machine
+
+<a href="https://raw.githubusercontent.com/kondasviktor/vcl-ai-image-prompts/695e086fc3043c0ca39f1ad2b33fdcf3b94a35b4/examples/isometric/demo.png"><img src="https://raw.githubusercontent.com/kondasviktor/vcl-ai-image-prompts/695e086fc3043c0ca39f1ad2b33fdcf3b94a35b4/examples/isometric/demo.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+Create a clean isometric illustration of a prosumer espresso machine. True isometric (no perspective vanishing). Show portafilter, steam wand, drip tray, buttons. Soft studio lighting, simple pedestal shadow, 16:9. Product-design viz, not a cartoon city.
+```
+
+By [Vibe Coder&\#39;s Life \(kondasviktor\)](https://github.com/kondasviktor/vcl-ai-image-prompts/blob/695e086fc3043c0ca39f1ad2b33fdcf3b94a35b4/recipes/isometric.md) · [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) · Prompt line breaks flattened
+
+---
+
+<a id="vcl-productshot"></a>
+
+## Productshot — wireless earbuds
+
+<a href="https://raw.githubusercontent.com/kondasviktor/vcl-ai-image-prompts/695e086fc3043c0ca39f1ad2b33fdcf3b94a35b4/examples/productshot/demo.png"><img src="https://raw.githubusercontent.com/kondasviktor/vcl-ai-image-prompts/695e086fc3043c0ca39f1ad2b33fdcf3b94a35b4/examples/productshot/demo.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+Create a commercial product photograph of a pair of matte-black wireless earbuds in an open charging case. Softbox lighting, subtle reflection on a seamless light-gray cyclorama, 16:9. Sharp, catalog-ready, no people, no logo watermarks, no text overlays.
+```
+
+By [Vibe Coder&\#39;s Life \(kondasviktor\)](https://github.com/kondasviktor/vcl-ai-image-prompts/blob/695e086fc3043c0ca39f1ad2b33fdcf3b94a35b4/recipes/productshot.md) · [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) · Prompt line breaks flattened
+
+---
+
 **1**
 
 [← Home](../README.md)

@@ -118,6 +118,86 @@ By [@j\_smeaton99](https://x.com/j_smeaton99/status/2062365258984177766)
 
 ---
 
+<a id="vcl-blueprint"></a>
+
+## Blueprint — Tesla Cybertruck
+
+<a href="https://raw.githubusercontent.com/kondasviktor/vcl-ai-image-prompts/695e086fc3043c0ca39f1ad2b33fdcf3b94a35b4/examples/blueprint/demo.png"><img src="https://raw.githubusercontent.com/kondasviktor/vcl-ai-image-prompts/695e086fc3043c0ca39f1ad2b33fdcf3b94a35b4/examples/blueprint/demo.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+Create a detailed technical blueprint of a Tesla Cybertruck. Show: - front, side, and top orthographic views on one sheet - white construction lines and dimensions - callouts for body panels, wheels, and light bars - blue blueprint grid background - no photorealistic materials, no environment, no people Clean engineering drawing. High contrast white on blue. 16:9. No extra decorative text.
+```
+
+By [Vibe Coder&\#39;s Life \(kondasviktor\)](https://github.com/kondasviktor/vcl-ai-image-prompts/blob/695e086fc3043c0ca39f1ad2b33fdcf3b94a35b4/recipes/blueprint.md) · [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) · Prompt line breaks flattened
+
+---
+
+<a id="vcl-crosssection"></a>
+
+## Crosssection — electric motor
+
+<a href="https://raw.githubusercontent.com/kondasviktor/vcl-ai-image-prompts/695e086fc3043c0ca39f1ad2b33fdcf3b94a35b4/examples/crosssection/demo.png"><img src="https://raw.githubusercontent.com/kondasviktor/vcl-ai-image-prompts/695e086fc3043c0ca39f1ad2b33fdcf3b94a35b4/examples/crosssection/demo.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+Create a technical cross-section of a small industrial electric motor. One vertical cutting plane through the axis. Show stator, rotor, windings, shaft, bearings, housing. Cut face in true materials; uncut side remains intact. Neutral studio background, 16:9, sparse labels only if they stay readable. Not an exploded view. Not a four-panel diagram.
+```
+
+By [Vibe Coder&\#39;s Life \(kondasviktor\)](https://github.com/kondasviktor/vcl-ai-image-prompts/blob/695e086fc3043c0ca39f1ad2b33fdcf3b94a35b4/recipes/crosssection.md) · [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) · Prompt line breaks flattened
+
+---
+
+<a id="vcl-explodedview"></a>
+
+## Explodedview — Apple MacBook
+
+<a href="https://raw.githubusercontent.com/kondasviktor/vcl-ai-image-prompts/695e086fc3043c0ca39f1ad2b33fdcf3b94a35b4/examples/explodedview/demo.png"><img src="https://raw.githubusercontent.com/kondasviktor/vcl-ai-image-prompts/695e086fc3043c0ca39f1ad2b33fdcf3b94a35b4/examples/explodedview/demo.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+Create an exploded-view technical illustration of an Apple MacBook. Separate along a vertical axis: - lid / display assembly - keyboard deck - battery - logic board - speakers - trackpad - bottom case - screws as small callouts (optional) Studio lighting, dark background, photoreal materials, even spacing between parts, 16:9. No people. No extra logos besides a tasteful Apple-like mark if needed for recognition.
+```
+
+By [Vibe Coder&\#39;s Life \(kondasviktor\)](https://github.com/kondasviktor/vcl-ai-image-prompts/blob/695e086fc3043c0ca39f1ad2b33fdcf3b94a35b4/recipes/explodedview.md) · [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) · Prompt line breaks flattened
+
+---
+
+<a id="vcl-infographic"></a>
+
+## Infographic — how HTTPS works
+
+<a href="https://raw.githubusercontent.com/kondasviktor/vcl-ai-image-prompts/695e086fc3043c0ca39f1ad2b33fdcf3b94a35b4/examples/infographic/demo.png"><img src="https://raw.githubusercontent.com/kondasviktor/vcl-ai-image-prompts/695e086fc3043c0ca39f1ad2b33fdcf3b94a35b4/examples/infographic/demo.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+Create a clean infographic: How HTTPS works, for developers. Four or five steps max: DNS, TCP, TLS handshake, encrypted HTTP. Flat vector, limited palette, large readable labels, 16:9. No tiny paragraph walls. No fake browser chrome clutter. Dark or light — pick one and stay consistent.
+```
+
+By [Vibe Coder&\#39;s Life \(kondasviktor\)](https://github.com/kondasviktor/vcl-ai-image-prompts/blob/695e086fc3043c0ca39f1ad2b33fdcf3b94a35b4/recipes/infographic.md) · [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) · Prompt line breaks flattened
+
+---
+
+<a id="vcl-xray"></a>
+
+## Xray — mechanical keyboard
+
+<a href="https://raw.githubusercontent.com/kondasviktor/vcl-ai-image-prompts/695e086fc3043c0ca39f1ad2b33fdcf3b94a35b4/examples/xray/demo.png"><img src="https://raw.githubusercontent.com/kondasviktor/vcl-ai-image-prompts/695e086fc3043c0ca39f1ad2b33fdcf3b94a35b4/examples/xray/demo.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+Create a detailed X-ray visualization of a modern mechanical keyboard. Show: - switches - PCB - stabilizers - plate - USB controller - wiring - case construction Semi-transparent outer shell. Clean technical visualization. Dark neutral background. No unnecessary text. 16:9.
+```
+
+By [Vibe Coder&\#39;s Life \(kondasviktor\)](https://github.com/kondasviktor/vcl-ai-image-prompts/blob/695e086fc3043c0ca39f1ad2b33fdcf3b94a35b4/recipes/xray.md) · [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) · Prompt line breaks flattened
+
+---
+
 [1](infographics.md) · [2](infographics-2.md) · **3**
 
 [← Home](../README.md)

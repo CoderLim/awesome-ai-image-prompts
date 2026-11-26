@@ -1,35 +1,35 @@
 {
-  "total": 811,
-  "visible": 746,
+  "total": 823,
+  "visible": 758,
   "hidden": 65,
   "duplicateExcluded": 62,
   "duplicateExcludedFromGallery": 60,
-  "uniqueCases": 749,
+  "uniqueCases": 761,
   "galleryGroups": {
     "reference": 168,
-    "generation": 578
+    "generation": 590
   },
   "types": {
-    "generation": 720,
+    "generation": 732,
     "editing": 26
   },
   "inputModes": {
     "reference-to-image": 142,
-    "text-to-image": 391,
+    "text-to-image": 403,
     "unknown": 187,
     "image-editing": 26
   },
   "categories": {
-    "generation/posters": 134,
+    "generation/posters": 136,
     "generation/creative-art": 44,
     "generation/illustrations": 89,
     "generation/logos": 23,
     "generation/portraits": 131,
-    "generation/products": 19,
+    "generation/products": 21,
     "generation/comics-storyboards": 26,
     "generation/travel": 21,
     "generation/characters": 88,
-    "generation/architecture": 3,
+    "generation/architecture": 4,
     "editing/composition": 3,
     "editing/portrait-editing": 5,
     "generation/other": 50,
@@ -37,13 +37,13 @@
     "editing/background-change": 1,
     "editing/object-replacement": 1,
     "editing/restyle": 12,
-    "generation/infographics": 51,
-    "generation/ui-mockups": 34,
+    "generation/infographics": 56,
+    "generation/ui-mockups": 36,
     "generation/avatars": 7,
     "editing/outfit-change": 1
   },
   "confidence": {
-    "high": 489,
+    "high": 501,
     "medium": 239,
     "low": 83
   },

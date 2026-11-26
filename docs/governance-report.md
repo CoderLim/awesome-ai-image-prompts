@@ -2,9 +2,9 @@
 
 Generated from source JSON. Classification is heuristic and provisional; completeness is not aesthetic quality. No image network, visual matching, reproduction or rights clearance is claimed.
 
-- Source cases: 811
-- Unique cases: 749
-- Gallery cases: 746
+- Source cases: 823
+- Unique cases: 761
+- Gallery cases: 758
 - Duplicate records excluded: 62 (60 previously visible)
 - Unique cases withheld for missing content: 3
 - Rights pending: 811
@@ -12,7 +12,7 @@ Generated from source JSON. Classification is heuristic and provisional; complet
 ## Gallery groups
 
 - reference: 168
-- generation: 578
+- generation: 590
 
 ## Internal operation classification
 
@@ -25,25 +25,25 @@ Generated from source JSON. Classification is heuristic and provisional; complet
 | editing/outfit-change | 1 |
 | editing/portrait-editing | 5 |
 | editing/restyle | 12 |
-| generation/architecture | 3 |
+| generation/architecture | 4 |
 | generation/avatars | 7 |
 | generation/characters | 88 |
 | generation/comics-storyboards | 26 |
 | generation/creative-art | 44 |
 | generation/illustrations | 89 |
-| generation/infographics | 51 |
+| generation/infographics | 56 |
 | generation/logos | 23 |
 | generation/other | 50 |
 | generation/portraits | 131 |
-| generation/posters | 134 |
-| generation/products | 19 |
+| generation/posters | 136 |
+| generation/products | 21 |
 | generation/travel | 21 |
-| generation/ui-mockups | 34 |
+| generation/ui-mockups | 36 |
 
 ## Input modes
 
 - reference-to-image: 142
-- text-to-image: 391
+- text-to-image: 403
 - unknown: 187
 - image-editing: 26
 

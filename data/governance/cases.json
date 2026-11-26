@@ -20052,5 +20052,236 @@
       "rights": "pending-review"
     },
     "visible": true
+  },
+  "vcl-appmockup": {
+    "type": "generation",
+    "category": "ui-mockups",
+    "inputMode": "text-to-image",
+    "confidence": "high",
+    "reason": "reviewed-source-recipe",
+    "tags": [
+      "photorealistic",
+      "typography"
+    ],
+    "quality": {
+      "status": "metadata-complete",
+      "score": 5,
+      "flags": [],
+      "imageAvailability": "unchecked",
+      "imagePromptMatch": "unchecked",
+      "reproduction": "untested",
+      "rights": "license-documented"
+    },
+    "visible": true
+  },
+  "vcl-blueprint": {
+    "type": "generation",
+    "category": "infographics",
+    "inputMode": "text-to-image",
+    "confidence": "high",
+    "reason": "reviewed-source-recipe",
+    "tags": [
+      "photorealistic",
+      "multi-panel"
+    ],
+    "quality": {
+      "status": "metadata-complete",
+      "score": 5,
+      "flags": [],
+      "imageAvailability": "unchecked",
+      "imagePromptMatch": "unchecked",
+      "reproduction": "untested",
+      "rights": "license-documented"
+    },
+    "visible": true
+  },
+  "vcl-crosssection": {
+    "type": "generation",
+    "category": "infographics",
+    "inputMode": "text-to-image",
+    "confidence": "high",
+    "reason": "reviewed-source-recipe",
+    "tags": [],
+    "quality": {
+      "status": "metadata-complete",
+      "score": 5,
+      "flags": [],
+      "imageAvailability": "unchecked",
+      "imagePromptMatch": "unchecked",
+      "reproduction": "untested",
+      "rights": "license-documented"
+    },
+    "visible": true
+  },
+  "vcl-cutaway": {
+    "type": "generation",
+    "category": "architecture",
+    "inputMode": "text-to-image",
+    "confidence": "high",
+    "reason": "reviewed-source-recipe",
+    "tags": [
+      "photorealistic",
+      "multi-panel"
+    ],
+    "quality": {
+      "status": "metadata-complete",
+      "score": 5,
+      "flags": [],
+      "imageAvailability": "unchecked",
+      "imagePromptMatch": "unchecked",
+      "reproduction": "untested",
+      "rights": "license-documented"
+    },
+    "visible": true
+  },
+  "vcl-explodedview": {
+    "type": "generation",
+    "category": "infographics",
+    "inputMode": "text-to-image",
+    "confidence": "high",
+    "reason": "reviewed-source-recipe",
+    "tags": [
+      "photorealistic"
+    ],
+    "quality": {
+      "status": "metadata-complete",
+      "score": 5,
+      "flags": [],
+      "imageAvailability": "unchecked",
+      "imagePromptMatch": "unchecked",
+      "reproduction": "untested",
+      "rights": "license-documented"
+    },
+    "visible": true
+  },
+  "vcl-infographic": {
+    "type": "generation",
+    "category": "infographics",
+    "inputMode": "text-to-image",
+    "confidence": "high",
+    "reason": "reviewed-source-recipe",
+    "tags": [],
+    "quality": {
+      "status": "metadata-complete",
+      "score": 5,
+      "flags": [],
+      "imageAvailability": "unchecked",
+      "imagePromptMatch": "unchecked",
+      "reproduction": "untested",
+      "rights": "license-documented"
+    },
+    "visible": true
+  },
+  "vcl-isometric": {
+    "type": "generation",
+    "category": "products",
+    "inputMode": "text-to-image",
+    "confidence": "high",
+    "reason": "reviewed-source-recipe",
+    "tags": [
+      "product"
+    ],
+    "quality": {
+      "status": "metadata-complete",
+      "score": 5,
+      "flags": [],
+      "imageAvailability": "unchecked",
+      "imagePromptMatch": "unchecked",
+      "reproduction": "untested",
+      "rights": "license-documented"
+    },
+    "visible": true
+  },
+  "vcl-landingpage": {
+    "type": "generation",
+    "category": "ui-mockups",
+    "inputMode": "text-to-image",
+    "confidence": "high",
+    "reason": "reviewed-source-recipe",
+    "tags": [],
+    "quality": {
+      "status": "metadata-complete",
+      "score": 5,
+      "flags": [],
+      "imageAvailability": "unchecked",
+      "imagePromptMatch": "unchecked",
+      "reproduction": "untested",
+      "rights": "license-documented"
+    },
+    "visible": true
+  },
+  "vcl-poster": {
+    "type": "generation",
+    "category": "posters",
+    "inputMode": "text-to-image",
+    "confidence": "high",
+    "reason": "reviewed-source-recipe",
+    "tags": [],
+    "quality": {
+      "status": "metadata-complete",
+      "score": 5,
+      "flags": [],
+      "imageAvailability": "unchecked",
+      "imagePromptMatch": "unchecked",
+      "reproduction": "untested",
+      "rights": "license-documented"
+    },
+    "visible": true
+  },
+  "vcl-productshot": {
+    "type": "generation",
+    "category": "products",
+    "inputMode": "text-to-image",
+    "confidence": "high",
+    "reason": "reviewed-source-recipe",
+    "tags": [
+      "product"
+    ],
+    "quality": {
+      "status": "metadata-complete",
+      "score": 5,
+      "flags": [],
+      "imageAvailability": "unchecked",
+      "imagePromptMatch": "unchecked",
+      "reproduction": "untested",
+      "rights": "license-documented"
+    },
+    "visible": true
+  },
+  "vcl-xray": {
+    "type": "generation",
+    "category": "infographics",
+    "inputMode": "text-to-image",
+    "confidence": "high",
+    "reason": "reviewed-source-recipe",
+    "tags": [],
+    "quality": {
+      "status": "metadata-complete",
+      "score": 5,
+      "flags": [],
+      "imageAvailability": "unchecked",
+      "imagePromptMatch": "unchecked",
+      "reproduction": "untested",
+      "rights": "license-documented"
+    },
+    "visible": true
+  },
+  "vcl-youtubethumbnail": {
+    "type": "generation",
+    "category": "posters",
+    "inputMode": "text-to-image",
+    "confidence": "high",
+    "reason": "reviewed-source-recipe",
+    "tags": [],
+    "quality": {
+      "status": "metadata-complete",
+      "score": 5,
+      "flags": [],
+      "imageAvailability": "unchecked",
+      "imagePromptMatch": "unchecked",
+      "reproduction": "untested",
+      "rights": "license-documented"
+    },
+    "visible": true
   }
 }
