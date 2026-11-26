@@ -1,0 +1,6 @@
+---
+description: Follow the canonical AI image prompt repository instructions
+alwaysApply: true
+---
+
+Read [AGENTS.md](../../AGENTS.md) at the repository root before making changes. It defines the mandatory source collection, eligibility, classification, deduplication, gallery, script and validation rules. Do not duplicate or override those rules here.
