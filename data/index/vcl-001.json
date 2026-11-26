@@ -1,0 +1,626 @@
+[
+  {
+    "id": "vcl-appmockup",
+    "title": {
+      "en": "Appmockup — habit-tracker iOS app",
+      "zh": null
+    },
+    "type": "generation",
+    "category": "ui-mockups",
+    "inputMode": "text-to-image",
+    "status": "index-only",
+    "prompt": {
+      "original": "Create a photoreal iPhone mockup showing one screen of a habit-tracker app.\n\nUI: today's habits, streak count, simple checkboxes, calm typography.\nDevice at a slight angle on a desk, soft daylight. 16:9.\nReadable UI, not lorem-ipsum blur. No Apple marketing lockup."
+    },
+    "media": [],
+    "models": [],
+    "sourcePreview": {
+      "images": [
+        {
+          "url": "https://raw.githubusercontent.com/kondasviktor/vcl-ai-image-prompts/695e086fc3043c0ca39f1ad2b33fdcf3b94a35b4/examples/appmockup/demo.png",
+          "role": "output"
+        }
+      ],
+      "promptExcerpt": "Create a photoreal iPhone mockup showing one screen of a habit-tracker app. UI: today's habits, stre",
+      "excerptTruncated": true
+    },
+    "provenance": {
+      "originalSource": {
+        "platform": "github",
+        "author": "Vibe Coder's Life (kondasviktor)",
+        "url": "https://github.com/kondasviktor/vcl-ai-image-prompts/blob/695e086fc3043c0ca39f1ad2b33fdcf3b94a35b4/recipes/appmockup.md",
+        "postId": null,
+        "publishedAt": null,
+        "verification": "first-party"
+      },
+      "collectedFrom": [
+        {
+          "sourceId": "vcl",
+          "repository": "kondasviktor/vcl-ai-image-prompts",
+          "ref": "main",
+          "commitSha": "695e086fc3043c0ca39f1ad2b33fdcf3b94a35b4",
+          "path": "recipes/appmockup.md",
+          "anchor": "better-prompt",
+          "url": "https://github.com/kondasviktor/vcl-ai-image-prompts/blob/695e086fc3043c0ca39f1ad2b33fdcf3b94a35b4/recipes/appmockup.md#better-prompt"
+        }
+      ]
+    },
+    "rights": {
+      "prompt": "CC-BY-4.0",
+      "media": "CC-BY-4.0",
+      "evidence": "https://github.com/kondasviktor/vcl-ai-image-prompts/blob/695e086fc3043c0ca39f1ad2b33fdcf3b94a35b4/LICENSE-DATA"
+    }
+  },
+  {
+    "id": "vcl-blueprint",
+    "title": {
+      "en": "Blueprint — Tesla Cybertruck",
+      "zh": null
+    },
+    "type": "generation",
+    "category": "infographics",
+    "inputMode": "text-to-image",
+    "status": "index-only",
+    "prompt": {
+      "original": "Create a detailed technical blueprint of a Tesla Cybertruck.\n\nShow:\n- front, side, and top orthographic views on one sheet\n- white construction lines and dimensions\n- callouts for body panels, wheels, and light bars\n- blue blueprint grid background\n- no photorealistic materials, no environment, no people\n\nClean engineering drawing. High contrast white on blue. 16:9. No extra decorative text."
+    },
+    "media": [],
+    "models": [],
+    "sourcePreview": {
+      "images": [
+        {
+          "url": "https://raw.githubusercontent.com/kondasviktor/vcl-ai-image-prompts/695e086fc3043c0ca39f1ad2b33fdcf3b94a35b4/examples/blueprint/demo.png",
+          "role": "output"
+        }
+      ],
+      "promptExcerpt": "Create a detailed technical blueprint of a Tesla Cybertruck. Show: - front, side, and top orthograph",
+      "excerptTruncated": true
+    },
+    "provenance": {
+      "originalSource": {
+        "platform": "github",
+        "author": "Vibe Coder's Life (kondasviktor)",
+        "url": "https://github.com/kondasviktor/vcl-ai-image-prompts/blob/695e086fc3043c0ca39f1ad2b33fdcf3b94a35b4/recipes/blueprint.md",
+        "postId": null,
+        "publishedAt": null,
+        "verification": "first-party"
+      },
+      "collectedFrom": [
+        {
+          "sourceId": "vcl",
+          "repository": "kondasviktor/vcl-ai-image-prompts",
+          "ref": "main",
+          "commitSha": "695e086fc3043c0ca39f1ad2b33fdcf3b94a35b4",
+          "path": "recipes/blueprint.md",
+          "anchor": "better-prompt",
+          "url": "https://github.com/kondasviktor/vcl-ai-image-prompts/blob/695e086fc3043c0ca39f1ad2b33fdcf3b94a35b4/recipes/blueprint.md#better-prompt"
+        }
+      ]
+    },
+    "rights": {
+      "prompt": "CC-BY-4.0",
+      "media": "CC-BY-4.0",
+      "evidence": "https://github.com/kondasviktor/vcl-ai-image-prompts/blob/695e086fc3043c0ca39f1ad2b33fdcf3b94a35b4/LICENSE-DATA"
+    }
+  },
+  {
+    "id": "vcl-crosssection",
+    "title": {
+      "en": "Crosssection — electric motor",
+      "zh": null
+    },
+    "type": "generation",
+    "category": "infographics",
+    "inputMode": "text-to-image",
+    "status": "index-only",
+    "prompt": {
+      "original": "Create a technical cross-section of a small industrial electric motor.\n\nOne vertical cutting plane through the axis. Show stator, rotor, windings, shaft, bearings, housing.\nCut face in true materials; uncut side remains intact.\nNeutral studio background, 16:9, sparse labels only if they stay readable.\nNot an exploded view. Not a four-panel diagram."
+    },
+    "media": [],
+    "models": [],
+    "sourcePreview": {
+      "images": [
+        {
+          "url": "https://raw.githubusercontent.com/kondasviktor/vcl-ai-image-prompts/695e086fc3043c0ca39f1ad2b33fdcf3b94a35b4/examples/crosssection/demo.png",
+          "role": "output"
+        }
+      ],
+      "promptExcerpt": "Create a technical cross-section of a small industrial electric motor. One vertical cutting plane th",
+      "excerptTruncated": true
+    },
+    "provenance": {
+      "originalSource": {
+        "platform": "github",
+        "author": "Vibe Coder's Life (kondasviktor)",
+        "url": "https://github.com/kondasviktor/vcl-ai-image-prompts/blob/695e086fc3043c0ca39f1ad2b33fdcf3b94a35b4/recipes/crosssection.md",
+        "postId": null,
+        "publishedAt": null,
+        "verification": "first-party"
+      },
+      "collectedFrom": [
+        {
+          "sourceId": "vcl",
+          "repository": "kondasviktor/vcl-ai-image-prompts",
+          "ref": "main",
+          "commitSha": "695e086fc3043c0ca39f1ad2b33fdcf3b94a35b4",
+          "path": "recipes/crosssection.md",
+          "anchor": "better-prompt",
+          "url": "https://github.com/kondasviktor/vcl-ai-image-prompts/blob/695e086fc3043c0ca39f1ad2b33fdcf3b94a35b4/recipes/crosssection.md#better-prompt"
+        }
+      ]
+    },
+    "rights": {
+      "prompt": "CC-BY-4.0",
+      "media": "CC-BY-4.0",
+      "evidence": "https://github.com/kondasviktor/vcl-ai-image-prompts/blob/695e086fc3043c0ca39f1ad2b33fdcf3b94a35b4/LICENSE-DATA"
+    }
+  },
+  {
+    "id": "vcl-cutaway",
+    "title": {
+      "en": "Cutaway — two-story house",
+      "zh": null
+    },
+    "type": "generation",
+    "category": "architecture",
+    "inputMode": "text-to-image",
+    "status": "index-only",
+    "prompt": {
+      "original": "Create a single-scene architectural cutaway of a two-story house.\n\nOne camera, 3/4 view. Cut the near facade away so you see:\n- ground-floor living and kitchen\n- stairs\n- two bedrooms upstairs\n- roof structure\n- people-scale furniture for size\n\nPhotoreal daylight. Keep it ONE image, not four panels, not a dollhouse exploded into a grid. 16:9."
+    },
+    "media": [],
+    "models": [],
+    "sourcePreview": {
+      "images": [
+        {
+          "url": "https://raw.githubusercontent.com/kondasviktor/vcl-ai-image-prompts/695e086fc3043c0ca39f1ad2b33fdcf3b94a35b4/examples/cutaway/demo.png",
+          "role": "output"
+        }
+      ],
+      "promptExcerpt": "Create a single-scene architectural cutaway of a two-story house. One camera, 3/4 view. Cut the near",
+      "excerptTruncated": true
+    },
+    "provenance": {
+      "originalSource": {
+        "platform": "github",
+        "author": "Vibe Coder's Life (kondasviktor)",
+        "url": "https://github.com/kondasviktor/vcl-ai-image-prompts/blob/695e086fc3043c0ca39f1ad2b33fdcf3b94a35b4/recipes/cutaway.md",
+        "postId": null,
+        "publishedAt": null,
+        "verification": "first-party"
+      },
+      "collectedFrom": [
+        {
+          "sourceId": "vcl",
+          "repository": "kondasviktor/vcl-ai-image-prompts",
+          "ref": "main",
+          "commitSha": "695e086fc3043c0ca39f1ad2b33fdcf3b94a35b4",
+          "path": "recipes/cutaway.md",
+          "anchor": "better-prompt",
+          "url": "https://github.com/kondasviktor/vcl-ai-image-prompts/blob/695e086fc3043c0ca39f1ad2b33fdcf3b94a35b4/recipes/cutaway.md#better-prompt"
+        }
+      ]
+    },
+    "rights": {
+      "prompt": "CC-BY-4.0",
+      "media": "CC-BY-4.0",
+      "evidence": "https://github.com/kondasviktor/vcl-ai-image-prompts/blob/695e086fc3043c0ca39f1ad2b33fdcf3b94a35b4/LICENSE-DATA"
+    }
+  },
+  {
+    "id": "vcl-explodedview",
+    "title": {
+      "en": "Explodedview — Apple MacBook",
+      "zh": null
+    },
+    "type": "generation",
+    "category": "infographics",
+    "inputMode": "text-to-image",
+    "status": "index-only",
+    "prompt": {
+      "original": "Create an exploded-view technical illustration of an Apple MacBook.\n\nSeparate along a vertical axis:\n- lid / display assembly\n- keyboard deck\n- battery\n- logic board\n- speakers\n- trackpad\n- bottom case\n- screws as small callouts (optional)\n\nStudio lighting, dark background, photoreal materials, even spacing between parts, 16:9.\nNo people. No extra logos besides a tasteful Apple-like mark if needed for recognition."
+    },
+    "media": [],
+    "models": [],
+    "sourcePreview": {
+      "images": [
+        {
+          "url": "https://raw.githubusercontent.com/kondasviktor/vcl-ai-image-prompts/695e086fc3043c0ca39f1ad2b33fdcf3b94a35b4/examples/explodedview/demo.png",
+          "role": "output"
+        }
+      ],
+      "promptExcerpt": "Create an exploded-view technical illustration of an Apple MacBook. Separate along a vertical axis: ",
+      "excerptTruncated": true
+    },
+    "provenance": {
+      "originalSource": {
+        "platform": "github",
+        "author": "Vibe Coder's Life (kondasviktor)",
+        "url": "https://github.com/kondasviktor/vcl-ai-image-prompts/blob/695e086fc3043c0ca39f1ad2b33fdcf3b94a35b4/recipes/explodedview.md",
+        "postId": null,
+        "publishedAt": null,
+        "verification": "first-party"
+      },
+      "collectedFrom": [
+        {
+          "sourceId": "vcl",
+          "repository": "kondasviktor/vcl-ai-image-prompts",
+          "ref": "main",
+          "commitSha": "695e086fc3043c0ca39f1ad2b33fdcf3b94a35b4",
+          "path": "recipes/explodedview.md",
+          "anchor": "better-prompt",
+          "url": "https://github.com/kondasviktor/vcl-ai-image-prompts/blob/695e086fc3043c0ca39f1ad2b33fdcf3b94a35b4/recipes/explodedview.md#better-prompt"
+        }
+      ]
+    },
+    "rights": {
+      "prompt": "CC-BY-4.0",
+      "media": "CC-BY-4.0",
+      "evidence": "https://github.com/kondasviktor/vcl-ai-image-prompts/blob/695e086fc3043c0ca39f1ad2b33fdcf3b94a35b4/LICENSE-DATA"
+    }
+  },
+  {
+    "id": "vcl-infographic",
+    "title": {
+      "en": "Infographic — how HTTPS works",
+      "zh": null
+    },
+    "type": "generation",
+    "category": "infographics",
+    "inputMode": "text-to-image",
+    "status": "index-only",
+    "prompt": {
+      "original": "Create a clean infographic: How HTTPS works, for developers.\n\nFour or five steps max: DNS, TCP, TLS handshake, encrypted HTTP.\nFlat vector, limited palette, large readable labels, 16:9.\nNo tiny paragraph walls. No fake browser chrome clutter.\nDark or light — pick one and stay consistent."
+    },
+    "media": [],
+    "models": [],
+    "sourcePreview": {
+      "images": [
+        {
+          "url": "https://raw.githubusercontent.com/kondasviktor/vcl-ai-image-prompts/695e086fc3043c0ca39f1ad2b33fdcf3b94a35b4/examples/infographic/demo.png",
+          "role": "output"
+        }
+      ],
+      "promptExcerpt": "Create a clean infographic: How HTTPS works, for developers. Four or five steps max: DNS, TCP, TLS h",
+      "excerptTruncated": true
+    },
+    "provenance": {
+      "originalSource": {
+        "platform": "github",
+        "author": "Vibe Coder's Life (kondasviktor)",
+        "url": "https://github.com/kondasviktor/vcl-ai-image-prompts/blob/695e086fc3043c0ca39f1ad2b33fdcf3b94a35b4/recipes/infographic.md",
+        "postId": null,
+        "publishedAt": null,
+        "verification": "first-party"
+      },
+      "collectedFrom": [
+        {
+          "sourceId": "vcl",
+          "repository": "kondasviktor/vcl-ai-image-prompts",
+          "ref": "main",
+          "commitSha": "695e086fc3043c0ca39f1ad2b33fdcf3b94a35b4",
+          "path": "recipes/infographic.md",
+          "anchor": "better-prompt",
+          "url": "https://github.com/kondasviktor/vcl-ai-image-prompts/blob/695e086fc3043c0ca39f1ad2b33fdcf3b94a35b4/recipes/infographic.md#better-prompt"
+        }
+      ]
+    },
+    "rights": {
+      "prompt": "CC-BY-4.0",
+      "media": "CC-BY-4.0",
+      "evidence": "https://github.com/kondasviktor/vcl-ai-image-prompts/blob/695e086fc3043c0ca39f1ad2b33fdcf3b94a35b4/LICENSE-DATA"
+    }
+  },
+  {
+    "id": "vcl-isometric",
+    "title": {
+      "en": "Isometric — espresso machine",
+      "zh": null
+    },
+    "type": "generation",
+    "category": "products",
+    "inputMode": "text-to-image",
+    "status": "index-only",
+    "prompt": {
+      "original": "Create a clean isometric illustration of a prosumer espresso machine.\n\nTrue isometric (no perspective vanishing). Show portafilter, steam wand, drip tray, buttons.\nSoft studio lighting, simple pedestal shadow, 16:9.\nProduct-design viz, not a cartoon city."
+    },
+    "media": [],
+    "models": [],
+    "sourcePreview": {
+      "images": [
+        {
+          "url": "https://raw.githubusercontent.com/kondasviktor/vcl-ai-image-prompts/695e086fc3043c0ca39f1ad2b33fdcf3b94a35b4/examples/isometric/demo.png",
+          "role": "output"
+        }
+      ],
+      "promptExcerpt": "Create a clean isometric illustration of a prosumer espresso machine. True isometric (no perspective",
+      "excerptTruncated": true
+    },
+    "provenance": {
+      "originalSource": {
+        "platform": "github",
+        "author": "Vibe Coder's Life (kondasviktor)",
+        "url": "https://github.com/kondasviktor/vcl-ai-image-prompts/blob/695e086fc3043c0ca39f1ad2b33fdcf3b94a35b4/recipes/isometric.md",
+        "postId": null,
+        "publishedAt": null,
+        "verification": "first-party"
+      },
+      "collectedFrom": [
+        {
+          "sourceId": "vcl",
+          "repository": "kondasviktor/vcl-ai-image-prompts",
+          "ref": "main",
+          "commitSha": "695e086fc3043c0ca39f1ad2b33fdcf3b94a35b4",
+          "path": "recipes/isometric.md",
+          "anchor": "better-prompt",
+          "url": "https://github.com/kondasviktor/vcl-ai-image-prompts/blob/695e086fc3043c0ca39f1ad2b33fdcf3b94a35b4/recipes/isometric.md#better-prompt"
+        }
+      ]
+    },
+    "rights": {
+      "prompt": "CC-BY-4.0",
+      "media": "CC-BY-4.0",
+      "evidence": "https://github.com/kondasviktor/vcl-ai-image-prompts/blob/695e086fc3043c0ca39f1ad2b33fdcf3b94a35b4/LICENSE-DATA"
+    }
+  },
+  {
+    "id": "vcl-landingpage",
+    "title": {
+      "en": "Landingpage — indie SaaS waitlist",
+      "zh": null
+    },
+    "type": "generation",
+    "category": "ui-mockups",
+    "inputMode": "text-to-image",
+    "status": "index-only",
+    "prompt": {
+      "original": "Create a desktop screenshot of a marketing landing page for an indie developer tool.\n\nAbove the fold: short headline, one sentence, email waitlist field, primary button.\nBelow: three benefit tiles. Dark theme, tasteful, not a Dribbble clutter dump.\n16:9 crop of the browser content area. No real company trademarks."
+    },
+    "media": [],
+    "models": [],
+    "sourcePreview": {
+      "images": [
+        {
+          "url": "https://raw.githubusercontent.com/kondasviktor/vcl-ai-image-prompts/695e086fc3043c0ca39f1ad2b33fdcf3b94a35b4/examples/landingpage/demo.png",
+          "role": "output"
+        }
+      ],
+      "promptExcerpt": "Create a desktop screenshot of a marketing landing page for an indie developer tool. Above the fold:",
+      "excerptTruncated": true
+    },
+    "provenance": {
+      "originalSource": {
+        "platform": "github",
+        "author": "Vibe Coder's Life (kondasviktor)",
+        "url": "https://github.com/kondasviktor/vcl-ai-image-prompts/blob/695e086fc3043c0ca39f1ad2b33fdcf3b94a35b4/recipes/landingpage.md",
+        "postId": null,
+        "publishedAt": null,
+        "verification": "first-party"
+      },
+      "collectedFrom": [
+        {
+          "sourceId": "vcl",
+          "repository": "kondasviktor/vcl-ai-image-prompts",
+          "ref": "main",
+          "commitSha": "695e086fc3043c0ca39f1ad2b33fdcf3b94a35b4",
+          "path": "recipes/landingpage.md",
+          "anchor": "better-prompt",
+          "url": "https://github.com/kondasviktor/vcl-ai-image-prompts/blob/695e086fc3043c0ca39f1ad2b33fdcf3b94a35b4/recipes/landingpage.md#better-prompt"
+        }
+      ]
+    },
+    "rights": {
+      "prompt": "CC-BY-4.0",
+      "media": "CC-BY-4.0",
+      "evidence": "https://github.com/kondasviktor/vcl-ai-image-prompts/blob/695e086fc3043c0ca39f1ad2b33fdcf3b94a35b4/LICENSE-DATA"
+    }
+  },
+  {
+    "id": "vcl-poster",
+    "title": {
+      "en": "Poster — AI conference one-sheet",
+      "zh": null
+    },
+    "type": "generation",
+    "category": "posters",
+    "inputMode": "text-to-image",
+    "status": "index-only",
+    "prompt": {
+      "original": "Create a theatrical conference poster.\n\nTitle text exactly: \"VIBE CODING SUMMIT 2026\"\nLayout: bold title in the top third, one large hero subject (laptop with soft neon rim light), lots of negative space, Swiss / Bauhaus restraint.\nColors: near-black background, #7fff6e accent, white secondary type.\nNo tiny unreadable paragraphs. No fake QR codes. No watermarks. 16:9."
+    },
+    "media": [],
+    "models": [],
+    "sourcePreview": {
+      "images": [
+        {
+          "url": "https://raw.githubusercontent.com/kondasviktor/vcl-ai-image-prompts/695e086fc3043c0ca39f1ad2b33fdcf3b94a35b4/examples/poster/demo.png",
+          "role": "output"
+        }
+      ],
+      "promptExcerpt": "Create a theatrical conference poster. Title text exactly: \"VIBE CODING SUMMIT 2026\" Layout: bold ti",
+      "excerptTruncated": true
+    },
+    "provenance": {
+      "originalSource": {
+        "platform": "github",
+        "author": "Vibe Coder's Life (kondasviktor)",
+        "url": "https://github.com/kondasviktor/vcl-ai-image-prompts/blob/695e086fc3043c0ca39f1ad2b33fdcf3b94a35b4/recipes/poster.md",
+        "postId": null,
+        "publishedAt": null,
+        "verification": "first-party"
+      },
+      "collectedFrom": [
+        {
+          "sourceId": "vcl",
+          "repository": "kondasviktor/vcl-ai-image-prompts",
+          "ref": "main",
+          "commitSha": "695e086fc3043c0ca39f1ad2b33fdcf3b94a35b4",
+          "path": "recipes/poster.md",
+          "anchor": "better-prompt",
+          "url": "https://github.com/kondasviktor/vcl-ai-image-prompts/blob/695e086fc3043c0ca39f1ad2b33fdcf3b94a35b4/recipes/poster.md#better-prompt"
+        }
+      ]
+    },
+    "rights": {
+      "prompt": "CC-BY-4.0",
+      "media": "CC-BY-4.0",
+      "evidence": "https://github.com/kondasviktor/vcl-ai-image-prompts/blob/695e086fc3043c0ca39f1ad2b33fdcf3b94a35b4/LICENSE-DATA"
+    }
+  },
+  {
+    "id": "vcl-productshot",
+    "title": {
+      "en": "Productshot — wireless earbuds",
+      "zh": null
+    },
+    "type": "generation",
+    "category": "products",
+    "inputMode": "text-to-image",
+    "status": "index-only",
+    "prompt": {
+      "original": "Create a commercial product photograph of a pair of matte-black wireless earbuds in an open charging case.\n\nSoftbox lighting, subtle reflection on a seamless light-gray cyclorama, 16:9.\nSharp, catalog-ready, no people, no logo watermarks, no text overlays."
+    },
+    "media": [],
+    "models": [],
+    "sourcePreview": {
+      "images": [
+        {
+          "url": "https://raw.githubusercontent.com/kondasviktor/vcl-ai-image-prompts/695e086fc3043c0ca39f1ad2b33fdcf3b94a35b4/examples/productshot/demo.png",
+          "role": "output"
+        }
+      ],
+      "promptExcerpt": "Create a commercial product photograph of a pair of matte-black wireless earbuds in an open charging",
+      "excerptTruncated": true
+    },
+    "provenance": {
+      "originalSource": {
+        "platform": "github",
+        "author": "Vibe Coder's Life (kondasviktor)",
+        "url": "https://github.com/kondasviktor/vcl-ai-image-prompts/blob/695e086fc3043c0ca39f1ad2b33fdcf3b94a35b4/recipes/productshot.md",
+        "postId": null,
+        "publishedAt": null,
+        "verification": "first-party"
+      },
+      "collectedFrom": [
+        {
+          "sourceId": "vcl",
+          "repository": "kondasviktor/vcl-ai-image-prompts",
+          "ref": "main",
+          "commitSha": "695e086fc3043c0ca39f1ad2b33fdcf3b94a35b4",
+          "path": "recipes/productshot.md",
+          "anchor": "better-prompt",
+          "url": "https://github.com/kondasviktor/vcl-ai-image-prompts/blob/695e086fc3043c0ca39f1ad2b33fdcf3b94a35b4/recipes/productshot.md#better-prompt"
+        }
+      ]
+    },
+    "rights": {
+      "prompt": "CC-BY-4.0",
+      "media": "CC-BY-4.0",
+      "evidence": "https://github.com/kondasviktor/vcl-ai-image-prompts/blob/695e086fc3043c0ca39f1ad2b33fdcf3b94a35b4/LICENSE-DATA"
+    }
+  },
+  {
+    "id": "vcl-xray",
+    "title": {
+      "en": "Xray — mechanical keyboard",
+      "zh": null
+    },
+    "type": "generation",
+    "category": "infographics",
+    "inputMode": "text-to-image",
+    "status": "index-only",
+    "prompt": {
+      "original": "Create a detailed X-ray visualization of a modern mechanical keyboard.\n\nShow:\n- switches\n- PCB\n- stabilizers\n- plate\n- USB controller\n- wiring\n- case construction\n\nSemi-transparent outer shell.\nClean technical visualization.\nDark neutral background.\nNo unnecessary text.\n16:9."
+    },
+    "media": [],
+    "models": [],
+    "sourcePreview": {
+      "images": [
+        {
+          "url": "https://raw.githubusercontent.com/kondasviktor/vcl-ai-image-prompts/695e086fc3043c0ca39f1ad2b33fdcf3b94a35b4/examples/xray/demo.png",
+          "role": "output"
+        }
+      ],
+      "promptExcerpt": "Create a detailed X-ray visualization of a modern mechanical keyboard. Show: - switches - PCB - stab",
+      "excerptTruncated": true
+    },
+    "provenance": {
+      "originalSource": {
+        "platform": "github",
+        "author": "Vibe Coder's Life (kondasviktor)",
+        "url": "https://github.com/kondasviktor/vcl-ai-image-prompts/blob/695e086fc3043c0ca39f1ad2b33fdcf3b94a35b4/recipes/xray.md",
+        "postId": null,
+        "publishedAt": null,
+        "verification": "first-party"
+      },
+      "collectedFrom": [
+        {
+          "sourceId": "vcl",
+          "repository": "kondasviktor/vcl-ai-image-prompts",
+          "ref": "main",
+          "commitSha": "695e086fc3043c0ca39f1ad2b33fdcf3b94a35b4",
+          "path": "recipes/xray.md",
+          "anchor": "better-prompt",
+          "url": "https://github.com/kondasviktor/vcl-ai-image-prompts/blob/695e086fc3043c0ca39f1ad2b33fdcf3b94a35b4/recipes/xray.md#better-prompt"
+        }
+      ]
+    },
+    "rights": {
+      "prompt": "CC-BY-4.0",
+      "media": "CC-BY-4.0",
+      "evidence": "https://github.com/kondasviktor/vcl-ai-image-prompts/blob/695e086fc3043c0ca39f1ad2b33fdcf3b94a35b4/LICENSE-DATA"
+    }
+  },
+  {
+    "id": "vcl-youtubethumbnail",
+    "title": {
+      "en": "Youtubethumbnail — I tested 3 image models",
+      "zh": null
+    },
+    "type": "generation",
+    "category": "posters",
+    "inputMode": "text-to-image",
+    "status": "index-only",
+    "prompt": {
+      "original": "Create a YouTube thumbnail, 16:9.\n\nBig readable words: I TESTED 3 IMAGE MODELS\nThree small tiles hinting ChatGPT / Gemini / Grok without official logos if that is cleaner.\nHigh contrast, face optional. Not a desktop screenshot. Not a 4K wallpaper.\nLeave a little safe margin so YouTube crop does not kill the type."
+    },
+    "media": [],
+    "models": [],
+    "sourcePreview": {
+      "images": [
+        {
+          "url": "https://raw.githubusercontent.com/kondasviktor/vcl-ai-image-prompts/695e086fc3043c0ca39f1ad2b33fdcf3b94a35b4/examples/youtubethumbnail/demo.png",
+          "role": "output"
+        }
+      ],
+      "promptExcerpt": "Create a YouTube thumbnail, 16:9. Big readable words: I TESTED 3 IMAGE MODELS Three small tiles hint",
+      "excerptTruncated": true
+    },
+    "provenance": {
+      "originalSource": {
+        "platform": "github",
+        "author": "Vibe Coder's Life (kondasviktor)",
+        "url": "https://github.com/kondasviktor/vcl-ai-image-prompts/blob/695e086fc3043c0ca39f1ad2b33fdcf3b94a35b4/recipes/youtubethumbnail.md",
+        "postId": null,
+        "publishedAt": null,
+        "verification": "first-party"
+      },
+      "collectedFrom": [
+        {
+          "sourceId": "vcl",
+          "repository": "kondasviktor/vcl-ai-image-prompts",
+          "ref": "main",
+          "commitSha": "695e086fc3043c0ca39f1ad2b33fdcf3b94a35b4",
+          "path": "recipes/youtubethumbnail.md",
+          "anchor": "better-prompt",
+          "url": "https://github.com/kondasviktor/vcl-ai-image-prompts/blob/695e086fc3043c0ca39f1ad2b33fdcf3b94a35b4/recipes/youtubethumbnail.md#better-prompt"
+        }
+      ]
+    },
+    "rights": {
+      "prompt": "CC-BY-4.0",
+      "media": "CC-BY-4.0",
+      "evidence": "https://github.com/kondasviktor/vcl-ai-image-prompts/blob/695e086fc3043c0ca39f1ad2b33fdcf3b94a35b4/LICENSE-DATA"
+    }
+  }
+]

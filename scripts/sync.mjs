@@ -1,6 +1,6 @@
 import fs from 'node:fs';
 import {parse,merge} from './core.mjs';
-const sources=JSON.parse(fs.readFileSync('data/sources.json','utf8')).filter(s=>s.repository);
+const sources=JSON.parse(fs.readFileSync('data/sources.json','utf8')).filter(s=>s.repository&&(!s.mode||s.mode==='automatic'));
 const headers={'User-Agent':'awesome-ai-image-prompts',Accept:'application/vnd.github+json'};
 if(process.env.GITHUB_TOKEN)headers.Authorization='Bearer '+process.env.GITHUB_TOKEN;
 async function get(url, options){const res=await fetch(url,options);if(!res.ok)throw Error(res.status+' '+url);return res;}

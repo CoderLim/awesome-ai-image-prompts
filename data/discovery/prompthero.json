@@ -1,0 +1,80 @@
+[
+  {
+    "id": "prompthero-22ca3889a41",
+    "title": "Cinematic portrait with liquid sculpture",
+    "author": "@dalisnssoto",
+    "publishedAt": "2026-10-23",
+    "category": "portraits",
+    "inputMode": "reference-to-image",
+    "model": "Hero 1.0",
+    "url": "https://prompthero.com/prompt/22ca3889a41-hero-10-create-an-ultra-realistic-cinematic-portrait-using-the-uploaded-reference-image-as-the-composition-and-visual-style-guide-subject-and",
+    "status": "link-only",
+    "rights": "unverified",
+    "discoveredAt": "2026-11-26"
+  },
+  {
+    "id": "prompthero-3f10ef325f0",
+    "title": "Childhood and adult birthday portrait",
+    "author": "@yamur2",
+    "publishedAt": "2026-10-10",
+    "category": "portraits",
+    "inputMode": "reference-to-image",
+    "model": "Hero 1.0",
+    "url": "https://prompthero.com/prompt/3f10ef325f0-hero-10-use-the-two-uploaded-reference-images-to-create-one-final-cinematic-birthday-portrait-image-a-childhood-photo-image-b-adult",
+    "status": "link-only",
+    "rights": "unverified",
+    "discoveredAt": "2026-11-26"
+  },
+  {
+    "id": "prompthero-4a465ec30f5",
+    "title": "Overhead editorial portrait with vintage car",
+    "author": "@moeinsoltaninej",
+    "publishedAt": "2026-09-09",
+    "category": "portraits",
+    "inputMode": "reference-to-image",
+    "model": "Hero 1.0",
+    "url": "https://prompthero.com/prompt/4a465ec30f5-hero-10-create-an-ultra-realistic-editorial-portrait-in-a-45-vertical-format-use-the-provided-reference-images-as-strict-visual-references",
+    "status": "link-only",
+    "rights": "unverified",
+    "discoveredAt": "2026-11-26"
+  },
+  {
+    "id": "prompthero-63aa1f18cd4",
+    "title": "Science-fiction ensemble character portrait",
+    "author": "@darrellromello",
+    "publishedAt": "2026-09-25",
+    "category": "characters",
+    "inputMode": "reference-to-image",
+    "model": "Hero 1.0",
+    "url": "https://prompthero.com/prompt/63aa1f18cd4-hero-10-use-the-attached-images-as-the-primary-reference-for-character-and-visual-continuity-preserve-the-exact-same-character-species-facial",
+    "status": "link-only",
+    "rights": "unverified",
+    "discoveredAt": "2026-11-26"
+  },
+  {
+    "id": "prompthero-83e5db54bd1",
+    "title": "Shoebox-perspective streetwear portrait",
+    "author": "@hrjoe",
+    "publishedAt": "2026-10-20",
+    "category": "portraits",
+    "inputMode": "reference-to-image",
+    "model": "Hero 1.0",
+    "url": "https://prompthero.com/prompt/83e5db54bd1-hero-10-streetwear-editorial-photo-from-inside-a-shoebox-vertical-916-use-the-uploaded-reference-photo-as-the-exclusive-identity-and-appearance",
+    "status": "link-only",
+    "rights": "unverified",
+    "discoveredAt": "2026-11-26"
+  },
+  {
+    "id": "prompthero-f6a24af3ede",
+    "title": "Luxury jewelry product substitution",
+    "author": "@amirbahrami",
+    "publishedAt": "2026-10-09",
+    "category": "products",
+    "inputMode": "reference-to-image",
+    "model": "Hero 1.0",
+    "url": "https://prompthero.com/prompt/f6a24af3ede-hero-10-use-the-first-image-strictly-as-a-background-reference-only-extract-and-recreate-the-exact-background-environment-including-texture-surface",
+    "status": "link-only",
+    "rights": "unverified",
+    "discoveredAt": "2026-11-26"
+  }
+]

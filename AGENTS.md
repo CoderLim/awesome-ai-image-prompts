@@ -130,3 +130,7 @@ For content or code changes:
 - Report files changed, retained/excluded counts if relevant, test results and known blockers. Distinguish checks actually run from scripts merely added. Never say rights, CI, or image verification passed without evidence.
 
 For documentation-only changes, inspect the current code and verify the instructions match it; avoid regenerating unrelated files. Keep this file current when commands, policies or directory structure change. Other AI entry files point here rather than maintaining conflicting copies of the rules.
+
+## Additional source modes
+
+VCL is an explicitly licensed, manually imported pinned snapshot. The automatic GitHub sync skips sources with a manual mode; keep manually imported shards intact. PromptHero discovery candidates live in data/discovery/prompthero.json and docs/prompthero-discovery.md, outside the canonical gallery until rights and exact-prompt deduplication can be verified. Do not count these links as imported full prompts. For licensed cases preserve per-case attribution, license evidence, and formatting-change notices.

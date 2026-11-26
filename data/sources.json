@@ -31,6 +31,20 @@
     "id": "prompthero",
     "url": "https://prompthero.com/",
     "mode": "manual-link-only",
-    "license": "Per creator / platform terms"
+    "license": "Per creator / platform terms",
+    "discoveryFile": "data/discovery/prompthero.json"
+  },
+  {
+    "id": "vcl",
+    "repository": "kondasviktor/vcl-ai-image-prompts",
+    "ref": "main",
+    "paths": [
+      "hf-dataset/recipes.jsonl"
+    ],
+    "mode": "manual-licensed-snapshot",
+    "url": "https://github.com/kondasviktor/vcl-ai-image-prompts",
+    "license": "CC BY 4.0 (prompt recipes, catalog and example images)",
+    "licenseEvidence": "https://github.com/kondasviktor/vcl-ai-image-prompts/blob/695e086fc3043c0ca39f1ad2b33fdcf3b94a35b4/LICENSE-DATA",
+    "snapshot": "695e086fc3043c0ca39f1ad2b33fdcf3b94a35b4"
   }
 ]

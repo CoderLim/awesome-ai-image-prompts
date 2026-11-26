@@ -39,6 +39,7 @@ export function classifyContent(r){
  const isEditPath=/\/editing\.md$/.test(path),specific=editObject.find(([,re])=>re.test(head));
  const preserve=/keep.{0,80}(?:background|everything else|all other|original pixels|unchanged)|preserv.{0,60}(?:exact pose|original background|composition|original pixels)|do not change anything else|原画的画素|元画の画素|其他.{0,12}不变|背景.{0,8}不变|保持原始.{0,12}(?:构图|背景)|保持.{0,8}原图/i.test(p);
  let type='generation',category='other',mode='unknown',confidence='medium',reason='prompt-category';
+ if(r.provenance.collectedFrom[0].sourceId==='vcl'&&r.inputMode==='text-to-image')return {type:'generation',category:r.category,inputMode:'text-to-image',confidence:'high',reason:'reviewed-source-recipe'};
  if(missing)return {type:'unclassified',category:'other',inputMode:'unknown',confidence:'low',reason:'prompt-unavailable'};
  const overrides={
   'evolink-editing-case-237':['generation','architecture','reference-to-image'],
@@ -110,7 +111,7 @@ export function govern(records){
  if(c.inputMode==='reference-to-image')tagList.push('reference-image');
  if(c.type==='editing')tagList.push('image-editing');
  const score=(visible?2:0)+(r.provenance.originalSource.url?1:0)+(c.confidence==='high'?1:0)+(c.inputMode!=='unknown'?1:0);
- const item={...c,tags:[...new Set(tagList)],quality:{status:visible?'metadata-complete':'needs-content-review',score,flags,imageAvailability:'unchecked',imagePromptMatch:'unchecked',reproduction:'untested',rights:'pending-review'},visible};
+ const item={...c,tags:[...new Set(tagList)],quality:{status:visible?'metadata-complete':'needs-content-review',score,flags,imageAvailability:'unchecked',imagePromptMatch:'unchecked',reproduction:'untested',rights:r.rights.prompt==='CC-BY-4.0'&&r.rights.media==='CC-BY-4.0'&&r.rights.evidence?'license-documented':'pending-review'},visible};
  metadata[r.id]=item;rows.push({...r,...c,tags:item.tags,quality:item.quality,visible});
  }
  const dedup=selectCanonical(rows,duplicates), removedById=new Map(dedup.removed.map(r=>[r.id,r]));
