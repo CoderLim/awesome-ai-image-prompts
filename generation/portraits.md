@@ -1,26 +1,10 @@
 # portraits
 
-[← Home](../README.md) · Page 1 / 7
+[← Home](../README.md) · Page 1 / 5
 
-**1** · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · [5](portraits-5.md) · [6](portraits-6.md) · [7](portraits-7.md)
+**1** · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · [5](portraits-5.md)
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
-
-<a id="evolink-advertising-case-179"></a>
-
-## Zara Tote Bag Launch Campaign
-
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2106344432266362881.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2106344432266362881.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-ZARA — TOTE BAG MERCH DROP “THE EVERYDAY ICON” Act as a Senior Brand Art Director, Editorial Fashion Photographer, Art Director, Set Designer, Typography Designer and Behance-level campaign designer. Create ONE horizontal 16:9 editorial campaign poster announcing a ZARA tote-bag merch drop. REFERENCE PRODUCT: Use the uploaded reference image as the EXACT product reference. The tote must remain visually faithful to the reference: — deep burgundy / oxblood leather appearance — structured rounded tote silhouette — wide curved upper body — distinctive double-handle construction — long shoulder straps — short top handles — visible stitched construction — minimal metal detailing — understated luxury finish — same proportions, silhouette, handle architecture and material character DO NOT redesign the bag. DO NOT change the silhouette. DO NOT add pockets, logos, hardware or decorative elements that do not exist on the reference. The product must remain the recognizable hero SKU throughout the composition. ━━━━━━━━━━━━━━━━━━━━ CONCEPT — MERCH DROP ━━━━━━━━━━━━━━━━━━━━ This is NOT a conventional Zara product photoshoot. It should feel like a highly art-directed ZARA merchandise DROP campaign created for Instagram, fashion media and a Behance editorial case study. The tote is treated as a CULT OBJECT — photographed with the visual confidence of a fashion campaign rather than a standard ecommerce product image. Visual language: fashion editorial × contemporary retail × art-directed street photography × premium merchandise launch. The campaign should immediately communicate: NEW DROP. LIMITED MOMENT. DESIRABLE OBJECT. ZARA ENERGY. ━━━━━━━━━━━━━━━━━━━━ LAYOUT ARCHITECTURE ━━━━━━━━━━━━━━━━━━━━ 16:9 horizontal editorial poster. Create a dramatic split composition: LEFT 45%: Bold graphic field with a strong ZARA-inspired editorial treatment. RIGHT 55%: Full-bleed cinematic fashion photograph featuring a realistic fashion model carrying the exact reference tote. Hard vertical compositional division. The graphic and photographic zones must feel designed together rather than like two separate images. ━━━━━━━━━━━━━━━━━━━━ BACKGROUND ━━━━━━━━━━━━━━━━━━━━ Use a bold, unexpected fashion-editorial background rather than plain white. Deep oxblood / burgundy, warm off-white and charcoal-black visual relationships inspired by the reference tote. The background should feel expensive, architectural and contemporary. Possible visual environment: minimalist brutalist architecture, large geometric walls, oversized stone surfaces, architectural shadows, fashion-store exterior, urban European street, or sculptural concrete environment. No generic studio backdrop. The environment should feel like an actual ZARA fashion campaign location. ━━━━━━━━━━━━━━━━━━━━ HERO PHOTOGRAPHY ━━━━━━━━━━━━━━━━━━━━ A realistic adult fashion model, completely fictional and non-identifiable. The model wears contemporary ZARA-style fashion: minimal tailored oversized coat, structured trousers, refined footwear, restrained accessories. The burgundy tote is the visual hero. The model holds the bag naturally at their side while walking through the architectural environment. Pose: confident, editorial, slightly candid, non-confrontational, fashion-week street-style energy. The model should NOT look like a celebrity or recognizable public figure. Natural human anatomy. Natural skin texture. Realistic hands. Realistic grip on the handles. The tote must remain clearly visible and unobstructed. ━━━━━━━━━━━━━━━━━━━━ CAMERA / PHOTOGRAPHY ━━━━━━━━━━━━━━━━━━━━ High-end professional fashion editorial photography. Full-frame / medium-format fashion photography aesthetic. 50mm editorial lens. Camera positioned slightly below eye level. Subtle perspective compression. Shallow but controlled depth of field. The tote must remain tack-sharp. Natural environmental depth behind the model. Professional fashion campaign lighting: hard directional sunlight mixed with controlled architectural shadow, subtle reflected fill, natural specular highlights on the leather, deep but detailed shadows. No artificial CGI lighting. No beauty-filter appearance. No plastic skin. No AI-generated fashion look. The image should feel photographed by an elite fashion photographer. ━━━━━━━━━━━━━━━━━━━━ TYPOGRAPHIC SYSTEM ━━━━━━━━━━━━━━━━━━━━ Typography is a PRIMARY DESIGN ELEMENT. Use a refined contemporary fashion-editorial sans-serif character: high contrast, clean geometry, precise spacing, strong vertical presence, minimal, luxury retail aesthetic. Do NOT imitate or distort the official ZARA wordmark. Use only legitimate ZARA branding where appropriate. HEADLINE: NEW DROP Two enormous lines. “NEW” positioned across the graphic zone. “DROP” dramatically oversized and extending across the vertical split into the photograph. The typography should partially overlap the model and tote while remaining completely legible. Very large scale. Tight leading. Slightly compressed editorial proportions. Flat typography. No glow. No bevel. No 3D. No shadows. No gradient. ━━━━━━━━━━━━━━━━━━━━ TYPOGRAPHIC BRIDGE ━━━━━━━━━━━━━━━━━━━━ CRITICAL: The word “DROP” must physically cross the boundary between the graphic field and photograph. Approximately 40–50% of the word sits over the left graphic field. The remaining letters continue over the photographic environment. The type must visually interact with the model and architecture. The tote may partially intersect with the typography, creating a sophisticated editorial layering effect. This is the key Behance-level composition device. ━━━━━━━━━━━━━━━━━━━━ MICRO TYPOGRAPHY ━━━━━━━━━━━━━━━━━━━━ Use restrained fashion-editorial information blocks. Small uppercase tracking. Example layout: ZARA WOMAN NEW SEASON LEATHER TOTE DROP 01 2026 ONLINE + SELECTED STORES SHOP NOW → Keep the micro-copy secondary. Do not fill the poster with unnecessary text. Generous negative space. ━━━━━━━━━━━━━━━━━━━━ PRODUCT CALLOUT ━━━━━━━━━━━━━━━━━━━━ Add one small editorial product annotation near the tote: ZARA LEATHER TOTE BURGUNDY Use thin directional typography / subtle technical annotation lines pointing toward the bag. The annotation should feel like a fashion editorial product study rather than ecommerce UI. ━━━━━━━━━━━━━━━━━━━━ CORNER SYSTEM ━━━━━━━━━━━━━━━━━━━━ Top-left: small ZARA brand identifier. Bottom-left: NEW SEASON / DROP 01 Top-right: 2026 / EDITORIAL RELEASE Bottom-right: SHOP THE DROP → All information must remain extremely clean. ━━━━━━━━━━━━━━━━━━━━ COLOR SYSTEM ━━━━━━━━━━━━━━━━━━━━ Primary visual color: deep burgundy / oxblood derived directly from the reference tote. Secondary: warm editorial ivory. Supporting: near-black charcoal. Optional restrained metallic highlight from the bag's hardware. No rainbow palette. No unnecessary colors. The burgundy tote must remain the strongest color anchor in the entire composition. ━━━━━━━━━━━━━━━━━━━━ ART DIRECTION ━━━━━━━━━━━━━━━━━━━━ The final image should feel like: ZARA fashion campaign + premium merch drop + Behance editorial case study + high-fashion street photography + contemporary graphic design. Not: generic product advertisement, Amazon-style product listing, ecommerce banner, basic Instagram ad, ordinary studio photoshoot, AI fashion collage. The image should look intentionally designed by a senior European fashion-art-direction team. ━━━━━━━━━━━━━━━━━━━━ VISUAL HIERARCHY ━━━━━━━━━━━━━━━━━━━━ 1. MASSIVE “DROP” typography 2. Burgundy ZARA tote 3. Fashion model 4. Architectural environment 5. “NEW” headline 6. Product annotation 7. Micro-information 8. Brand identifier ━━━━━━━━━━━━━━━━━━━━ FINAL TECHNICAL SPECIFICATION ━━━━━━━━━━━━━━━━━━━━ 16:9 horizontal. Ultra-high-resolution editorial campaign artwork. Photorealistic fashion photography. Premium commercial-grade image quality. Extremely sharp product construction. Accurate leather texture. Accurate stitching. Accurate handles. Natural model anatomy. Crisp typography. Precise alignment. Strong negative space. Sophisticated editorial color grading. No visible AI artifacts. No distorted hands. No duplicated objects. No malformed bag. No altered product silhouette. No random logos. No fake brand marks. No excessive text. No generic stock-photo aesthetic. FINAL RESULT: A visually arresting ZARA tote-bag MERCH DROP poster that could plausibly function as a premium fashion campaign hero image, editorial spread, outdoor fashion billboard or Behance featured project.
-```
-
-By [@Diplomeme](https://x.com/Diplomeme/status/2106344728837136616)
-
----
 
 <a id="evolink-advertising-case-184"></a>
 
@@ -86,22 +70,6 @@ By [@Goodmanprotocol](https://x.com/Goodmanprotocol/status/2118925189329420653)
 
 ---
 
-<a id="evolink-gpt-image-2-6-case-264"></a>
-
-## Ring-Lit Reference Fashion Portrait
-
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/2118922432224563201.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/2118922432224563201.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Create an ultra-photorealistic, premium DSLR-style fashion portrait in 8K Ultra HD, vertical 4:6 aspect ratio, suitable for a FayMas profile. Closely match the reference image’s pose, outfit, accessories, lighting, and background. FACE IDENTITY: Use my uploaded original photo as the ONLY facial reference. Preserve my exact recognizable face, natural skin tone, face shape, eyes, nose, lips, jawline, and facial proportions. No face swapping, reshaping, whitening, plastic skin, or excessive beauty filters. Maintain realistic skin texture. HAIR & ACCESSORIES: Long, straight black hair in a high ponytail with a few loose strands. Round black-lens sunglasses with thin metallic frames, small stud earrings, black smartwatch, and silver bangle. OUTFIT: Oversized navy-blue sweatshirt with black raglan sleeves and a vintage “BROOKLYN — NEW YORK — EST. 1998” eagle graphic. Black distressed cargo jeans with realistic ripped details. POSE & EXPRESSION: Three-quarter portrait from head to upper thighs. One arm crossing the waist, the other hand holding the opposite sleeve. Relaxed shoulders, confident posture, head slightly turned sideways, closed lips, and a calm, stylish expression. Anatomically correct hands and fingers. BACKGROUND & LIGHTING: Dark charcoal-black studio background with subtle cinematic smoke. A bright white circular ring light behind the head creates a halo effect and soft rim lighting on the hair and shoulders. Professional studio lighting, realistic shadows, sharp focus, balanced contrast, and detailed fabric texture. QUALITY: Ultra-photorealistic 8K UHD, professional DSLR photography, crisp details, realistic colors, cinematic contrast, premium fashion aesthetic, vertical composition. NEGATIVE PROMPT: Different face, altered identity, distorted facial features, artificial whitening, plastic skin, overexposure, excessive smoothing, cartoon, painting, blur, extra fingers, deformed hands, extra arms, incorrect anatomy, distorted sunglasses, garbled text, low resolution, watermark, unwanted logos.
-```
-
-By [@Naiknelofar788](https://x.com/Naiknelofar788/status/2118922441032700283)
-
----
-
 <a id="evolink-illustration-case-132"></a>
 
 ## Soundwave City Landmark
@@ -118,54 +86,6 @@ By [@Naiknelofar788](https://x.com/Naiknelofar788/status/2107690033688056029)
 
 ---
 
-<a id="evolink-illustration-case-151"></a>
-
-## Graffiti Pencil Portrait
-
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2104426312697774080.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2104426312697774080.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Create a highly detailed 9:16 graffiti-style pencil portrait of the same young man from the reference image, preserving his exact facial identity, face shape, eyes, nose, lips, curly/wavy dark hair, and natural realistic features. He is wearing a stylish two-tone gray-and-deep-blue flat cap with a small blue button, round metal-frame glasses decorated with tiny metallic-gold butterfly details, and a thick textured blue scarf wrapped naturally around his neck. A realistic hand holds a pencil and appears to sketch the side of his face and hair. Blue butterflies flutter naturally around his head and face. Surround the portrait with sharpened blue and graphite pencils, pencil shavings, an eraser, paper clips, geometric sketch lines, graphite marks, and clean white drawing paper. Style: ultra-realistic black-and-white graphite pencil drawing with selective deep-blue and metallic-gold accents, highly detailed curly hair, realistic skin texture, delicate shading, fine crosshatching, realistic fabric texture, sharp focus, premium artistic composition, intricate hand-drawn details, elegant editorial graffiti-sketch aesthetic. Preserve the exact identity of the reference person. No face distortion, no identity change, no extra people, no extra fingers or limbs, no cartoon or anime style, no plastic skin, no 3D look. Add a professional italic handwritten signature: “Arina Ai” at the bottom right.
-```
-
-By [@Arina\_hoqe](https://x.com/Arina_hoqe/status/2104426560631775589)
-
----
-
-<a id="evolink-illustration-case-152"></a>
-
-## Diagonal Photo and Pencil Drawing
-
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2104162028634165248.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2104162028634165248.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Create a high-end editorial split-screen portrait using the uploaded reference image as the identity reference. Preserve the person’s facial identity, facial structure, skin tone, hairstyle, and natural features accurately. Composition: A square 1:1 image divided diagonally into two artistic halves. LEFT SIDE: Create a photorealistic full-body lifestyle portrait of the person sitting comfortably on outdoor stone stairs in front of a modern luxury building entrance. The person is wearing a clean navy blue oversized hoodie, slim-fit beige trousers, and crisp white low-top sneakers. Their legs are naturally positioned forward, with both hands relaxed and loosely clasped together near the knees. Add a premium silver luxury wristwatch. Natural confident smile, relaxed expression, realistic skin texture, detailed hands, realistic fabric folds. The background should feature modern dark glass doors, subtle warm golden interior lights, elegant architectural details, and a large green potted plant on the side. Soft natural daylight, cinematic depth of field, realistic shadows, luxury lifestyle photography, professional fashion editorial aesthetic. RIGHT SIDE: Transform the same person into a highly detailed monochrome graphite pencil sketch while preserving the exact facial identity, hairstyle, body proportions, clothing, and pose. Show the person standing casually against a lightly sketched architectural wall, wearing a hoodie, jeans, and white sneakers. One leg slightly crossed over the other, both hands naturally placed inside the hoodie pockets. Add intricate pencil strokes, realistic shading, fine cross-hatching, detailed fabric texture, subtle architectural line work, and hand-drawn imperfections. Blend the two halves together with an artistic rough black-and-white paint-brush transition in the center, making the photorealistic version seamlessly transform into the pencil-sketch version. Ultra-detailed, realistic anatomy, accurate proportions, natural hands and fingers, cinematic lighting, premium fashion campaign aesthetic, sharp facial details, sophisticated composition, 8K quality, photorealistic on the left and realistic graphite illustration on the right, no text, no logos, no watermark.
-```
-
-By [@mehwishkiran07](https://x.com/mehwishkiran07/status/2104162122435580191)
-
----
-
-<a id="evolink-illustration-case-155"></a>
-
-## Night Bench with Cartoon Companion
-
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2102960730429665280.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2102960730429665280.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Create a cinematic vertical 9:16 nighttime portrait based closely on the reference image. A young woman is sitting casually on a rustic wooden park bench at night beside an adorable small 3D animated girl. Preserve the overall composition, camera angle, poses, proportions, lighting, and atmosphere of the reference. The young woman has long dark brown hair and wears masculine oversized streetwear: a dark olive/black oversized utility jacket over a black hoodie, extremely loose black cargo pants, and clean white chunky sneakers. She is seated in a relaxed pose with one knee raised, one leg extended toward the camera, one arm resting naturally on her knee, and the other hand resting on the bench. Keep her appearance photorealistic with natural facial features and realistic skin texture. Beside her is a very cute miniature 3D animated girl with a small body, oversized expressive brown eyes, rosy cheeks, a tiny face, dark brown hair tied into a messy high bun with loose strands, and an adorable playful expression. She wears an oversized black hoodie with a small crown emblem, loose black cargo pants, and white chunky sneakers. Keep her clearly stylized as a high-quality cute 3D animated character, not photorealistic. The girl is standing beside the seated woman on the bench, looking slightly toward the camera. Add a small glowing hand-drawn crown above her head, subtle glowing doodle lines, and small glowing heart doodles around her. Set the scene in a beautiful nighttime park with dark leafy trees, distant city lights, warm glowing street lamps, strong golden rim lighting around the characters, soft cinematic bokeh, realistic shadows, and a cozy magical atmosphere. Photorealistic adult woman seamlessly combined with a cute high-quality 3D animated character, realistic textures, cinematic depth of field, warm golden nighttime color grading, detailed clothing, natural proportions, professional photography, ultra-detailed, sharp focus, vertical 9:16. Keep the cute animated girl's appearance consistent and adorable. Do not make her realistic. Do not change her outfit or facial style.
-```
-
-By [@Alina\_with\_Ai](https://x.com/Alina_with_Ai/status/2102960956280299535)
-
----
-
 <a id="evolink-illustration-case-162"></a>
 
 ## Art Studio and Cartoon Layered Scene
@@ -179,22 +99,6 @@ Create a premium vertical 9:16 editorial artwork featuring the same scene presen
 ```
 
 By [@mehwishkiran07](https://x.com/mehwishkiran07/status/2100539261628080282)
-
----
-
-<a id="evolink-portraits-case-1"></a>
-
-## White Shirt Waterfall Portrait
-
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2108650666550009856.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2108650666550009856.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Hyper-realistic IMAX-level Netflix-style cinematic moody waterfall portrait, 9:16 vertical. Use the uploaded image as the primary visual reference and preserve the exact facial identity, proportions, and defining features. Create a woman wearing a long white shirt-style dress with a simple collarless neckline, loose full-length sleeves and lightweight fabric that becomes soaked and clings naturally in the rushing water. Her entire body is positioned in a clear side profile facing left, seated directly beneath a powerful waterfall, with her back close to the dark rock behind her. Her torso remains upright with a slight backward lean, while her hips rest on a low rock hidden beneath the foamy water. Both elbows are bent and lifted toward her face, with both hands gently placed against the sides of her head near her ears, fingers spread through her wet hair. Her head tilts slightly backward and toward the left, her eyes closed, cheeks raised and mouth open in a spontaneous, joyful laugh. Her legs are bent and crossed in front of her: one lower leg descends almost vertically into the rushing water, while the other crosses diagonally over it, its foot extending forward toward the right. The lower legs and feet are intermittently obscured by splashing foam. Her long, dark hair is completely wet and swept backward by the falling water, with loose strands framing her face and trailing over her shoulders. Fair luminous porcelain skin with a bright ivory to light beige tone and a neutral-cool undertone, retaining realistic wet skin texture and tiny droplets across her face, arms and legs. The woman sits fully underneath the waterfall, with a heavy curtain of water pouring over her head and shoulders and bursting outward around her body; turbulent white foam fills the foreground while dark, rugged rock walls frame the cascade. Cool diffused daylight, icy silver highlights on the falling water and deep slate-blue shadows across the rocks create a dramatic atmosphere. Apply moody cinematic colour grading with cool blue-grey tones, crisp white water, subdued saturation and naturally warm skin tones, preserving fine details in the wet shirt, hair and airborne droplets. Negative prompt: front-facing body, standing pose, incorrect crossed legs, wrong hand placement, short top, distorted hands, bad anatomy, artificial water, plastic skin, text, watermark.
-```
-
-By [@imGopalTiwari](https://x.com/imGopalTiwari/status/2108650680684839381)
 
 ---
 
@@ -227,22 +131,6 @@ Ultra-photorealistic candid night portrait of an adult woman with fair porcelain
 ```
 
 By [@TaliaAariz](https://x.com/TaliaAariz/status/2108458612662128684)
-
----
-
-<a id="evolink-portraits-case-4"></a>
-
-## Autumn Countryside Fence Portrait
-
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2108207811444539392.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2108207811444539392.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Create an ultra-photorealistic autumn countryside portrait of the girl from the attached reference image. Preserve her exact facial identity, distinctive features, natural proportions, and overall appearance without altering or beautifying her face. She is standing beside a weathered wooden fence in a quiet rural pasture, resting one arm naturally on the fence while her other hand carries a small structured black leather handbag. Her posture is relaxed and candid, with one knee subtly bent. She wears a warm brown cropped jacket over a black knitted sweater layered with a crisp white shirt, a short muted plaid skirt, clean white crew socks, and tall black leather boots. The outfit should look naturally worn, with authentic fabric textures, folds, stitching, and minor imperfections. Behind her stretches an expansive autumn meadow with several black cows grazing in the distance. Dense mixed woodland surrounds the pasture, with golden-yellow leaves, burnt orange foliage, muted green evergreens, and scattered fallen leaves across the grass. A cool overcast sky creates soft, diffused daylight and gentle shadows. Make the image look like an authentic high-end outdoor photograph captured with a professional full-frame camera. Natural skin texture, visible pores, fine facial details, individual strands of hair, realistic eyes, subtle imperfections, physically accurate lighting, genuine fabric and leather textures, detailed weathered wood, grass and foliage, realistic depth of field and optical falloff. Avoid beauty filters, artificial skin, excessive sharpness, HDR effects, CGI, 3D rendering, painterly textures, plastic appearance, facial distortion, excessive blur, or an AI-generated look. The final result should feel like a real candid autumn fashion photograph captured in the countryside.
-```
-
-By [@mehvishs25](https://x.com/mehvishs25/status/2108207834815230156)
 
 ---
 
@@ -310,22 +198,134 @@ By [@MissDelulu9](https://x.com/MissDelulu9/status/2107464677978726696)
 
 ---
 
-<a id="evolink-portraits-case-11"></a>
+<a id="evolink-portraits-case-12"></a>
 
-## Natural Country Ranch Portrait
+## Vintage Car Mirror Fashion Photo
 
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2107384576226271232.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2107384576226271232.jpg" width="480" alt="Source example"></a>
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2107334444000645120.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2107334444000645120.jpg" width="480" alt="Source example"></a>
 
 **Prompt**
 
 ```text
-Create a highly realistic autumn countryside photograph featuring the girl from the attached reference image. Preserve her identity exactly, including her facial structure, distinctive features, natural proportions, hairstyle, and overall appearance. She is standing beside a weathered wooden fence in an open rural pasture, casually resting one hand on the fence while keeping one leg slightly bent in a relaxed pose. In her other hand, she carries a small black leather handbag. Her outfit consists of a warm brown jacket layered over a black knitted sweater and a visible white shirt underneath, paired with a short plaid skirt, clean white socks, and tall black leather boots. Keep the clothing realistic with natural folds, stitching, material texture, and subtle signs of everyday wear. Behind her is a wide autumn meadow with several black cows grazing naturally in the distance. Surround the pasture with a mixture of evergreen conifers and deciduous trees covered in rich yellow, amber, and muted orange foliage. An overcast sky provides soft, diffused daylight across the entire scene. Aim for the look of an authentic professional outdoor photograph rather than an AI-generated image. Show realistic skin pores, fine facial details, individual strands of hair, natural imperfections, detailed fabric fibers, aged wood grain, grass texture, and believable environmental details. Use physically accurate lighting, shadows, reflections, perspective, and depth of field with natural optical characteristics. Muted seasonal colors, subtle contrast, realistic exposure, authentic photographic depth, and a slightly editorial countryside aesthetic. Absolutely no artificial skin smoothing, waxy or plastic appearance, excessive sharpening, CGI look, 3D rendering, painterly effects, or blurry/mushy details.
+{ "aspect_ratio": "9:16", "style": "hyperrealistic 1960s vintage editorial photography", "composition": { "concept": "full-body fashion portrait reflected inside a vintage car side mirror", "mirror": "small oval chrome mirror with curved distorted edges", "framing": "woman fully visible inside the reflection with generous background space", "camera_position": "close to the driver's window, angled toward the mirror", "pose": "woman walking toward the rear of the car while turning her head slightly toward the mirror" }, "subject": { "description": "beautiful young European woman with authentic skin texture", "hair": "dark hair in a polished vintage updo", "expression": "subtle confident smile", "outfit": "powder-blue tailored midi dress with a slim waist belt", "accessories": [ "burgundy silk scarf", "cat-eye sunglasses", "small ivory handbag", "white pointed heels" ] }, "environment": { "location": "retro Mediterranean-American street", "background": "palm-lined road, pastel storefronts, vintage station wagon and mountains", "lighting": "bright golden morning sunlight" }, "visual_details": { "colors": "powder blue, ivory, burgundy and warm beige", "film": "aged 35mm film", "texture": "natural grain, tiny scratches and realistic mirror reflections", "mood": "chic, nostalgic, mysterious" } }
 ```
 
-By [@j\_smeaton99](https://x.com/j_smeaton99/status/2107384596837158947)
+By [@hey\_am\_cherry](https://x.com/hey_am_cherry/status/2107334467161641240)
 
 ---
 
-**1** · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · [5](portraits-5.md) · [6](portraits-6.md) · [7](portraits-7.md)
+<a id="evolink-portraits-case-13"></a>
+
+## Vintage Sunglasses Flash Close-Up
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2107149151184228352.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2107149151184228352.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+Close up shot looking down at a girl with long straight dark hair parted in the middle, wearing oversized narrow oval black sunglasses with thick vintage frames, leaning forward and looking directly at the camera. She wears a white tank top with faded text ‘NOT YOUR ANGEL’ printed across the chest, layered silver necklaces, glossy lips. Muted cool teal cyan film grain lighting, deep soft shadows cast on the plain wall behind, late 90s flash photography aesthetic, grainy digicam look, slight motion blur.
+```
+
+By [@Diplomeme](https://x.com/Diplomeme/status/2107149162022375869)
+
+---
+
+<a id="evolink-portraits-case-14"></a>
+
+## Low-Exposure Night Selfie
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2107051827925839872.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2107051827925839872.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+Keep the girl’s appearance from the reference. A realistic night selfie on the front camera of an iPhone 17 Pro, with no phone in the frame. Close-up, natural perspective. The girl sits relaxed, leaning back. Her head is slightly tilted and thrown back, her gaze enigmatic and directed to the side. Her fingers are lightly tangled in long, tousled hair; a few strands fall across her face. Lips slightly parted. On her wrist, only a black clover bracelet. Short milky-square manicure. Makeup: thin winged liner, lush false lashes, laminated brows, nude glossy lips. A dark background with no extra detail. Warm side light illuminates her face and hair, leaving deep shadows. Muted colors, low exposure, light grain, and natural skin texture. No HDR, filters, or artificial gloss.
+```
+
+By [@mehvishs25](https://x.com/mehvishs25/status/2107051837799194967)
+
+---
+
+<a id="evolink-portraits-case-16"></a>
+
+## Sunlit Spiral Staircase CCD Portrait
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2106434470035505152.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2106434470035505152.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+摄影风格：日间清亮高光CCD生活照风 写真方向：都市建筑生活写真 场景方向：现代商业建筑开放中庭 / 白色旋转楼梯 / 玻璃天窗 / 浅灰石材 / 极简绿植 服装方向：薄荷蓝绿色修身Polo短款上衣 + 冷白色低腰包臀超短裙 气质标签：知性、俏皮、明亮、精致、有设计感 五官方向：电影感清秀自然脸 身形方向：轻盈纤细 线条强调：强 镜头方向：大腿及上半身 姿态动作：站在旋转楼梯起点，一只手轻扶白色扶手，身体微侧，抬眼自然看镜头 光线氛围：玻璃天窗高亮日光 + 白色楼梯形成大面积柔亮反射 滤镜效果：高亮清晰青白CCD色彩 + 白净高光 + 清楚中间调 + 极轻颗粒 画幅比例：9:16 补充要求：薄荷蓝绿保持鲜亮，不灰不雾；楼梯形成明显空间纵深；短款Polo露出腰腹和肚脐，整体像城市建筑随手拍
+```
+
+By [@liyue\_ai](https://x.com/liyue_ai/status/2106612527983468685)
+
+---
+
+<a id="evolink-portraits-case-18"></a>
+
+## Rosy Champagne CCD Night Portrait
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2106404834639556608.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2106404834639556608.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+玫瑰香槟粉 CCD 夜间直闪，一位年轻成年东亚女性，清甜成年感鹅蛋脸，穿烟玫瑰色方领修身短礼裙和高跟鞋。她坐在丝绒沙发边，一腿交叠，一手拿票卡放在膝上，一手搭在沙发扶手。9:16 近全身，突出上围、腰线和腿部。
+```
+
+By [@liyue\_ai](https://x.com/liyue_ai/status/2106404865144738233)
+
+---
+
+<a id="evolink-portraits-case-19"></a>
+
+## Curly Coat Fashion Lifestyle Portrait
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2106304626622410752.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2106304626622410752.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+Keep the facial features, nose shape, eye shape, and cheekbone structure absolutely unchanged. Do not attempt to enhance or stylize the face; ensure a 100% accurate portrait likeness. A lifestyle, waist-up portrait of an elegant, young, slender woman with slightly tanned skin. She is wearing a form-fitting, strapless black corset top and a voluminous, fluffy white long-pile wavy-fur coat draped over her shoulders; the coat is stylishly slipped down to reveal her graceful collarbones.Her long hair is styled in a neat high updo, with a few fine strands framing her face beautifully. Makeup: even skin tone; soft contouring on the cheekbones, bridge of the nose, and jawline; brown eyeshadow with dark blending; winged eyeliner extending toward the temples; long, voluminous lash extensions; defined, gel-set brows; and matte burgundy lipstick. She wears a diamond chain necklace, a diamond ring, and silver diamond stud earrings; her manicure features short, glossy dark-red nails.The setting is a clean, minimalist studio environment with a plain light-gray background. Captured in a three-quarter view, she has turned her head to the side in profile with a mysterious gaze, gracefully raising one hand to the coat's collar and lightly touching the soft fur with her fingers. Her head is tilted back, and her lips are slightly parted. Soft studio lighting directed from the side, creating deep, expressive shadows that accentuate the sculpted contours of the face, the neckline,and the voluminous fur. Close-up shot from a slightly low angle. Shot on an iPhone 17 Pro; the image has the feel of a candid unposed photo, featuring digital noise and pronounced film grain. Realistic look with natural skin texture—avoiding excessive retouching or a "plastic mask" effect. Darkened exposure and moody color grading; Instagram-style aesthetic. High level of detail capturing every curl of the fur, the metallic sheen of the chain, and the natural micro-texture of the skin. --ar 2:3.
+```
+
+By [@TaliaAariz](https://x.com/TaliaAariz/status/2106304668796109249)
+
+---
+
+<a id="evolink-portraits-case-20"></a>
+
+## Tram Stop CCD Snapshot
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2106072418649513985.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2106072418649513985.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+摄影风格：日间清亮高光CCD生活照风 写真方向：都市出行生活写真 场景方向：现代有轨电车站台 / 白色玻璃候车亭 / 银色轨道 / 蓝天 / 远处电车轻微虚化 服装方向：草莓红色修身方领短袖针织上衣 + 奶白色低腰修身超短裤 气质标签：元气、明亮、清爽、都市、亲近 五官方向：元气初恋感自然脸 身形方向：轻盈纤细 线条强调：强 镜头方向：半身到大腿 姿态动作：站在候车亭边，一只手拿手机，另一只手轻拨头发，转头看向镜头 光线氛围：晴天侧前方自然光 + 白色站台和玻璃候车亭形成清亮补光 滤镜效果：高亮清晰红白CCD色彩 + 白皙肤色 + 清楚高光 + 明亮中间调 + 轻颗粒 画幅比例：9:16 补充要求：红色鲜亮但不荧光；人物保持真实通勤生活感，不像交通广告；胸线和腰线清楚但自然
+```
+
+By [@liyue\_ai](https://x.com/liyue_ai/status/2106253411494568367)
+
+---
+
+<a id="evolink-portraits-case-22"></a>
+
+## Low-Angle Dusk Film Portrait
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2105219497569218560.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2105219497569218560.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+A low-angle, close-up photograph capturing a young woman with wavy brown hair outdoors at dusk. She is wearing a grey cropped t-shirt with a blue and white graphic text that reads 'DESTINED' above 'SET 1958' and black denim bottoms. Her head is tilted, and she is looking directly into the camera lens. The dark blue evening sky serves as the background, with silhouetted tree branches visible at the bottom of the frame. Strong flash lighting is directed from the front, illuminating her face and highlighting strands of her hair. The composition has a grainy film photography aesthetic.
+```
+
+By [@chatgptpaglu](https://x.com/chatgptpaglu/status/2105219509791678731)
+
+---
+
+**1** · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · [5](portraits-5.md)
 
 [← Home](../README.md)

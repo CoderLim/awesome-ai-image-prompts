@@ -1,331 +1,331 @@
 # portraits
 
-[← Home](../README.md) · Page 3 / 7
+[← Home](../README.md) · Page 3 / 5
 
-[1](portraits.md) · [2](portraits-2.md) · **3** · [4](portraits-4.md) · [5](portraits-5.md) · [6](portraits-6.md) · [7](portraits-7.md)
+[1](portraits.md) · [2](portraits-2.md) · **3** · [4](portraits-4.md) · [5](portraits-5.md)
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
-<a id="evolink-portraits-case-34"></a>
+<a id="freestylefly-case-36"></a>
 
-## Neon Letters and Leather Chair Portrait
+## 品牌徽标设计图
 
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2103083559397498880.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2103083559397498880.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-A professional portrait of a stylish young woman sitting casually in a luxurious black leather Eames lounge chair with her hands behind her head, smiling at the camera. She has long brown hair and is wearing a sleek black suit jacket, white shirt, black trousers, and high-heeled black boots. In the background, large glowing 3D golden neon letters spell out the name "EMAD". Inside each letter, there is a different portrait photo of the same woman wearing various outfits and poses. Set in a dark, luxury studio environment with glossy reflective marble floors and warm ambient cinematic lighting. Ultra-realistic, 8k resolution, high quality.
-```
-
-By [@Arzoo12sh](https://x.com/Arzoo12sh/status/2103084009496727641)
-
----
-
-<a id="evolink-portraits-case-36"></a>
-
-## Reference Portrait Film Fashion Shoot
-
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2102368033729875968.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2102368033729875968.jpg" width="480" alt="Source example"></a>
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case36.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case36.jpg" width="480" alt="Source example"></a>
 
 **Prompt**
 
 ```text
-Use the uploaded face reference image ONLY as the identity reference for the woman. STRICT FACE IDENTITY LOCK: Preserve her recognizable facial identity exactly from the face reference. Keep the same facial structure, face shape, eyes, eyebrows, nose, lips, jawline, cheek structure, skin tone, and natural facial proportions. Do not beautify, redesign, age, de-age, or replace her face. Do not create a different person. Use the provided reference images as visual inspiration for the overall composition, photography style, outfit, pose, environment, color palette, and aesthetic, but do NOT copy their facial identity. Create a photorealistic lifestyle editorial photograph with a soft Japanese/Korean-inspired café and everyday-luxury aesthetic. The woman is naturally enjoying a quiet café moment with coffee and dessert. Elegant understated styling, soft neutral tones, natural daylight, subtle film grain, warm muted colors, realistic skin texture, delicate details, candid editorial photography. Outfit should be feminine and sophisticated with a minimalist vintage-inspired feel. Add tasteful accessories such as a small structured handbag, delicate jewelry, and elegant shoes where appropriate. Composition should feel like a genuine lifestyle photograph rather than an AI-generated portrait. Natural body proportions, realistic hands and fingers, authentic fabric texture, realistic lighting and shadows. Create the final image as a refined editorial scrapbook-style photograph: - warm ivory/beige paper-inspired background - softly isolated central subject - subtle hand-painted/watercolor edges around the photograph - slightly imperfect organic cutout effect - delicate vintage paper texture - minimal elegant typography area underneath - calm nostalgic mood - sophisticated feminine aesthetic - lots of clean negative space IMPORTANT: The face reference controls ONLY the woman's identity. The scene/reference images control the visual concept. Do not merge or copy another person's face. Keep the woman's identity consistent and recognizable throughout the entire image. High-resolution photography, natural lighting, realistic skin texture, detailed clothing, realistic hands, authentic shadows, premium editorial composition, subtle analog film texture, soft focus falloff, photorealistic.
+A photorealistic selfie of a young man with short wavy dark hair and light stubble on an indoor basketball court. He wears a black athletic t-shirt with a white swoosh. He holds a {argument name="ball color" default="green"} basketball featuring a large white {argument name="logo design" default="OpenAI logo"}. The background shows a hardwood floor, black wall pads, and a basketball hoop against a concrete wall. Bright indoor gym lighting with a casual social media aesthetic.
 ```
 
-By [@MahnoorAi12](https://x.com/MahnoorAi12/status/2102368463713149360)
+By [@mirochill](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-36)
 
 ---
 
-<a id="evolink-portraits-case-38"></a>
+<a id="freestylefly-case-43"></a>
 
-## Woman in Tall Grass Fashion Portrait
+## 插画艺术创作图
 
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2101992253678034944.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2101992253678034944.jpg" width="480" alt="Source example"></a>
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case43.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case43.jpg" width="480" alt="Source example"></a>
 
 **Prompt**
 
 ```text
-A cinematic fashion-editorial portrait of a young East Asian woman standing partially concealed within tall, windswept green grass in an expansive meadow. She wears a loose, flowing off-white or ivory linen dress that moves softly with the breeze, contrasting gently against the rich natural surroundings. Her dark hair appears naturally tousled by the wind, with soft strands falling across her face, partially veiling her eyes. Her head is gently lowered, gaze directed downward or slightly to the side, conveying a quiet, dreamy, introspective mood. The tall grass surrounds and partially obscures her figure, creating layered foreground elements, immersive depth, and a sense of visual intimacy. Wind moves through the grass with subtle motion blur, while the subject remains sharply focused. The environment feels calm, isolated, and poetic, enhanced by a faint atmospheric haze and a muted palette of sage green, deep forest green, and soft neutral tones. Soft overcast daylight provides diffused, shadowless illumination with smooth tonal transitions, low contrast, gentle highlights, and realistic skin rendering. Shallow depth of field produces creamy bokeh and natural background separation, while fine film grain adds an organic editorial texture. Minimalist composition emphasizing solitude and emotional storytelling. Square 1:1 composition, subject positioned slightly right of center with generous negative space above and around her, balanced visual weight, refined framing, sophisticated Korean and Japanese fashion magazine aesthetic, cinematic realism, highly detailed photorealistic photography, 85mm portrait lens, f/1.8, natural lens compression, ultra-realistic skin texture, premium color grading, atmospheric depth, elegant visual storytelling, award-winning editorial photography, masterfully composed, authentic and emotionally resonant.
+{ "type": "character portrait grid", "theme": "{argument name=\"theme\" default=\"Game of Thrones characters\"}", "style": "{argument name=\"art style\" default=\"2D flat illustration, clean line art, comic style, profile view facing right, pale skin with blush\"}", "layout": { "grid": "3x3", "background": "light gray textured", "frame_style": "white rounded-rectangle frames with text labels below each" }, "count": 9, "portraits": [ { "label": "Jon Snow", "description": "black hair half-up, beard, dark fur cloak" }, { "label": "Daenerys Targaryen", "description": "silver braided hair, blue dress" }, { "label": "Tyrion Lannister", "description": "curly brown hair, beard, dark tunic with gold pin" }, { "label": "Cersei Lannister", "description": "blonde braided hair, ornate red and gold dress" }, { "label": "Ned Stark", "description": "brown hair half-up, beard, dark fur cloak" }, { "label": "Arya Stark", "description": "short dark hair half-up, brown tunic, sword hilt" }, { "label": "Jaime Lannister", "description": "short blonde hair, gold armor with lion motif" }, { "label": "Sansa Stark", "description": "red braided hair, blue dress with fur collar" }, { "label": "Theon Greyjoy", "description": "short dark curly hair, dark tunic with kraken pin" } ] }
 ```
 
-By [@MahnoorAi12](https://x.com/MahnoorAi12/status/2101997369860493566)
+By [@stark\_nico99](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-43)
 
 ---
 
-<a id="evolink-portraits-case-39"></a>
+<a id="freestylefly-case-45"></a>
 
-## Man in Tall Grass Fashion Portrait
+## 人像写实摄影图
 
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2101992253665472512.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2101992253665472512.jpg" width="480" alt="Source example"></a>
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case45.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case45.jpg" width="480" alt="Source example"></a>
 
 **Prompt**
 
 ```text
-A cinematic fashion-editorial portrait of a young East Asian man standing partially concealed within tall, windswept green grass in an expansive meadow. He wears a loose, slightly oversized, crisp white button-up shirt that contrasts softly against the rich natural surroundings. His black hair appears slightly damp, naturally tousled by the wind, with delicate strands falling across his forehead and partially veiling his eyes. His head is gently lowered, gaze directed downward, conveying a quiet, introspective, melancholic mood. The tall grass surrounds and partially obscures his figure, creating layered foreground elements, immersive depth, and a sense of visual intimacy. Wind moves through the grass with subtle motion blur, while the subject remains sharply focused. The environment feels calm, isolated, and poetic, enhanced by a faint atmospheric haze and a muted palette of sage green, deep forest green, and soft neutral tones. Soft overcast daylight provides diffused, shadowless illumination with smooth tonal transitions, low contrast, gentle highlights, and realistic skin rendering. Shallow depth of field produces creamy bokeh and natural background separation, while fine film grain adds an organic editorial texture. Minimalist composition emphasizing solitude and emotional storytelling. Square 1:1 composition, subject positioned slightly right of center with generous negative space above and around him, balanced visual weight, refined framing, sophisticated Korean and Japanese fashion magazine aesthetic, cinematic realism, highly detailed photorealistic photography, 85mm portrait lens, f/1.8, natural lens compression, ultra-realistic skin texture, premium color grading, atmospheric depth, elegant visual storytelling, award-winning editorial photography, masterfully composed, authentic and emotionally resonant.
+A striking black and white close-up portrait of a {argument name="subject description" default="handsome young Asian man"} with {argument name="hair style" default="messy wet hair sticking to his forehead"}. His face and neck are glistening, covered in highly detailed {argument name="skin texture detail" default="water droplets and sweat"}. He has an intense, melancholic gaze directed off-camera to the left. The lighting is dramatic and high-contrast, emphasizing his sharp jawline, full lips, and specular highlights on the wet skin against a {argument name="background" default="pitch-black background"}. Shot in a photorealistic, high-fashion editorial style with cinematic chiaroscuro.
 ```
 
-By [@MahnoorAi12](https://x.com/MahnoorAi12/status/2101997368866402391)
+By [@AoYe999](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-45)
 
 ---
 
-<a id="evolink-portraits-case-40"></a>
+<a id="freestylefly-case-52"></a>
 
-## Two-Person Studio Fashion Portrait
+## 写实摄影风格图
 
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2101984231383855104.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2101984231383855104.jpg" width="480" alt="Source example"></a>
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case52.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case52.jpg" width="480" alt="Source example"></a>
 
 **Prompt**
 
 ```text
-Create an ultra-realistic cinematic editorial studio portrait featuring the same young woman and young man from the two uploaded reference images. Use both reference images as the primary identity sources and preserve their facial identity, facial proportions, hairstyle, skin texture, and recognizable features accurately. The young man and young woman are standing together in the same professional studio environment, positioned naturally side by side with a subtle elegant couple/editorial composition. Keep their overall styling visually coordinated: both wear matching light-blue plaid button-up shirts with sleeves casually rolled up, gray cargo pants, clean white sneakers, and dark watches. Their outfits should feel like they belong to the same fashion collection while keeping their individual appearance distinct. Both subjects are facing directly toward the camera, with natural relaxed expressions and subtle confident smiles. Their body proportions should remain realistic and anatomically correct. The man stands slightly behind and to one side of the woman, creating natural depth without overlapping their faces or bodies. Use the same soft smoky gray studio background for both subjects, with subtle atmospheric fog near the floor. Use identical soft cinematic lighting, gentle shadows, realistic skin tones, natural highlights, and professional fashion-editorial photography. Create a sophisticated double-exposure portrait composition: behind the two full-body subjects, include large, softly faded close-up portraits of both faces, positioned naturally in the background. The enlarged portraits should match the exact facial identity and hairstyle of the corresponding foreground subject. Composition: vertical full-body fashion poster, balanced spacing, clean negative space, realistic perspective, premium commercial photography, symmetrical visual harmony, subtle depth of field. Quality: photorealistic, ultra-detailed skin texture, realistic hair strands, natural fabric texture, accurate hands and fingers, realistic anatomy, high dynamic range, cinematic soft lighting, professional studio photography, 8K detail. Important: Do not change their identities. Do not merge their faces. Do not make them look like the same person. Keep the male and female facial features clearly distinct. Preserve the reference hairstyles and natural facial characteristics. No text, no logos, no watermark, no extra people.
+A realistic photograph of a whiteboard with a highly detailed {argument name="marker color" default="green"} dry-erase marker drawing of {argument name="subject" default="a samurai with a messy topknot and facial hair, hands clasped in prayer"}. The character is drawn in a {argument name="art style" default="detailed manga sketch"} style, shown in profile with eyes closed, wearing a traditional kimono with a katana tucked into his belt. To the left of the character, handwritten text in all-caps reads "{argument name="text line 1" default="VAGABOND"}" with "{argument name="text line 2" default="MUSASHI"}" written directly below it. The whiteboard has a glossy surface with realistic light reflections and glare on the left side, and a thin metallic frame is visible at the bottom edge, giving the impression of an authentic classroom or office environment.
 ```
 
-By [@mehwishkiran07](https://x.com/mehwishkiran07/status/2101984819047498202)
+By [@nicdunz](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-52)
 
 ---
 
-<a id="evolink-portraits-case-42"></a>
+<a id="freestylefly-case-53"></a>
 
-## Rooftop Sunset Smoke Dissolve Portrait
+## 室内空间渲染图
 
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2101869304799260673.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2101869304799260673.jpg" width="480" alt="Source example"></a>
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case53.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case53.jpg" width="480" alt="Source example"></a>
 
 **Prompt**
 
 ```text
-Create an ultra-realistic cinematic portrait of a young man standing on a rooftop at sunset, wearing a light grey t-shirt, beige cargo pants, white high-top sneakers, a wristwatch, and black sunglasses. The subject stands in a calm side profile pose with hands in pockets, looking downward thoughtfully. Apply a dramatic disintegration effect where the left side of his body transforms into swirling dark smoke, floating ash, glowing golden sparks, and particle fragments, blending naturally into the environment. Use a cloudy sunset sky with warm orange light, a distant city skyline, and a wet reflective ground surface. Make the smoke highly detailed, volumetric, and realistic, with cinematic lighting, soft depth of field, high contrast, and photorealistic textures. The final image should have an epic fantasy-action mood, ultra-detailed 8K quality, and a seamless smoke-to-human transition effect.
+A vintage, late 90s amateur flash photograph of a young man repairing an arcade machine. He is kneeling on a dark, patterned arcade carpet, looking back over his shoulder directly at the camera with a neutral expression. He wears a dark short-sleeved t-shirt, baggy blue jeans, chunky white sneakers, and a dark baseball cap. The lower front panel of the arcade cabinet is wide open, exposing its complex internal electronics, including a tangle of wires, green circuit boards, a large speaker, and metal cooling fans at the base. The side of the cabinet features vibrant pink, black, and white graphics with the text "{argument name="arcade game title" default="Dancing Stage"}" and the brand "{argument name="arcade brand" default="KONAMI"}". The setting is a dimly lit arcade interior with other glowing game cabinets visible in the blurred background. A screwdriver lies on the carpet near the man's knee. The image features harsh direct flash lighting, a slightly grainy film texture, deep shadows, and a nostalgic Y2K aesthetic.
 ```
 
-By [@AiWithTariq](https://x.com/AiWithTariq/status/2101869471346667906)
+By [@nicdunz](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-53)
 
 ---
 
-<a id="evolink-portraits-case-43"></a>
-
-## Minimal Studio Casual Fashion Portrait
-
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2101514620062339072.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2101514620062339072.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Create an ultra-realistic full-body fashion portrait of a young woman standing casually in a minimalist studio environment. She has long, naturally tousled dark brown hair, soft expressive eyes, delicate facial features, and a gentle confident smile while looking slightly upward and to the side. She is wearing a relaxed oversized brown utility jacket over a plain off-white T-shirt, loose-fitting light-wash blue jeans, and clean white low-top sneakers. A black backpack is worn over one shoulder, with one hand naturally holding the backpack strap and the other hand casually placed inside her jeans pocket. She is leaning casually against a tall rectangular beige concrete pedestal, with one leg crossed naturally over the other. Around her, several blurred versions of the same woman are walking quickly from both sides, creating a strong long-exposure motion-blur effect. The central woman remains perfectly sharp and in focus while the surrounding moving figures are heavily motion blurred. Warm beige monochromatic studio background, matching beige floor and pedestal, soft cinematic lighting, subtle shadows, natural skin texture, realistic fabric details, authentic denim texture, realistic hair strands, shallow depth of field, professional fashion photography, editorial street-style aesthetic, balanced composition, soft warm color grading, highly detailed, photorealistic, 8K resolution, HDR, realistic proportions, natural pose, cinematic depth, no text, no watermark.
-```
-
-By [@mehwishkiran07](https://x.com/mehwishkiran07/status/2101514985822151034)
-
----
-
-<a id="evolink-portraits-case-44"></a>
-
-## Golden Aviator Sunglasses Portrait
-
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2101514396300353538.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2101514396300353538.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-A stylish young woman with long, wavy chestnut brown hair streaked with warm caramel highlights, standing in a three-quarter pose with her head slightly tilted, gazing off to the side with a confident, composed expression. She wears oversized aviator-style sunglasses with a light gold metal frame and gradient smoke-tinted lenses, bold matte red lipstick, and a delicate layered gold necklace with two small pendant charms resting against her collarbone. Her outfit combines an off-the-shoulder black camisole top with a slightly oversized cream knit cardigan draped over her shoulders, buttoned partway, giving a relaxed yet elevated evening look. The composition is a close cropped waist-up portrait, camera positioned at eye level with a slight low angle to add presence and elegance, shot as if captured with an 85mm portrait lens at a wide aperture for soft background separation and creamy bokeh. The background is a moody, atmospheric blend of deep amber and warm gold tones, with soft billowing smoke or fog curling around the lower left of the frame and a scattering of fine glowing particles and light flares drifting through the air, evoking a cinematic, almost celestial glow. A warm horizontal light flare glows low across the bottom of the frame, suggesting a setting sun or stage light just out of view, casting long warm highlights across her hair and skin while leaving soft shadow along the jawline and neck for dimension. The lighting is warm, directional, and golden hour in quality, wrapping around her face and hair to create glowing rim light along the edges of her hair strands, with a soft key light illuminating her face from one side. The overall mood is glamorous, mysterious, and self-assured, blending high fashion editorial styling with a dreamy, almost fantastical atmosphere. Color palette centers on warm ambers, golds, deep browns, and blacks, punctuated by the cool metallic glint of the sunglasses frame and jewelry. The image should feel polished and hyper-detailed, with sharp focus on the face and softly blurred, glowing surroundings, suitable for a luxury fashion or lifestyle brand campaign. Adapt lighting terminology and lens references as needed for Midjourney, ChatGPT image generation, or Leonardo AI, keeping the golden atmospheric mood and portrait framing consistent across platforms., aspect ratio 4:5
-```
-
-By [@Kubra\_286](https://x.com/Kubra_286/status/2101514411240472588)
-
----
-
-<a id="evolink-portraits-case-46"></a>
-
-## Pink Streetwear Plaza Portrait
-
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2100903847321620480.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2100903847321620480.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Create a photorealistic editorial street-fashion photograph of a young blonde woman standing confidently in the center of a large urban tiled plaza. She has long, wavy golden-blonde hair and a natural, attractive expression, looking directly at the camera. She is wearing an oversized bright pink sweatshirt, loose black wide-leg pants, and white sneakers, with both hands casually inside her sweatshirt pockets. Surround her with multiple identical versions of the same woman wearing the exact same outfit, walking naturally in different directions around her. The central woman is perfectly sharp and in focus, while the surrounding duplicate figures have realistic motion blur, creating a dynamic long-exposure photography effect. Maintain realistic human proportions, natural walking poses, authentic shadows and lighting. Shot from a slightly elevated angle, cinematic composition, warm natural daylight, shallow depth of field, realistic urban architecture and pavement textures, professional fashion photography, subtle film grain, high detail, photorealistic, 4K. Important: Keep the central subject clearly visible and sharp. Make every duplicate look like the same person, with consistent facial features, hairstyle, clothing and body proportions. No distorted faces, extra limbs, duplicated body parts, warped clothing, or unnatural poses. Vertical 4:5 composition.
-```
-
-By [@Alina\_with\_Ai](https://x.com/Alina_with_Ai/status/2100904096727515244)
-
----
-
-<a id="evolink-portraits-case-47"></a>
-
-## Night Bedroom Art Studio Portrait
-
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2100903544941617152.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2100903544941617152.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Create a cozy, cinematic, ultra-detailed lifestyle scene of a young woman peacefully painting in her warm, beautifully decorated bedroom studio at night. A young woman with soft natural features, long dark brown hair tied in a messy loose bun with a few strands framing her face, is sitting comfortably on the floor beside a wooden easel. She is wearing an oversized cream knitted sweater with subtle black horizontal stripes and loose dusty-pink pants. She is gently holding a small paintbrush and painting a beautiful nighttime cityscape on a canvas, with a calm, focused and slightly dreamy expression. The room feels warm, creative, peaceful and inspiring. Behind her is a cozy bed covered with a textured black-and-white knitted blanket, soft pillows, a pink heart-shaped cushion, and a cute sleeping cat resting on the bed. The walls are decorated with small photo prints, hanging green plants, warm fairy lights, and handwritten motivational notes. Large floor-to-ceiling windows in the background reveal a stunning modern city skyline at night, filled with glowing skyscrapers, colorful lights and beautiful reflections. Warm indoor lighting contrasts beautifully with the cool blue and purple tones of the city outside. Surround the woman with creative art supplies: paintbrushes in glass jars, colorful watercolor palettes, tubes of paint, a sketchbook, scattered photographs, flowers, candles, a laptop, and small decorative objects. Include a wooden side table with stacked books containing handwritten phrases such as “A Kinder Me”, “Creative Life”, “Better Habits”, “Good Mood”, and “Brighter Days”. Add a ceramic pink coffee mug with handwritten text “Paint A Kinder Tomorrow” and a heart symbol. In the foreground, place an open spiral notebook with handwritten motivational text such as “Small Steps Big Changes” and checkboxes including “Paint”, “Be Happy”, “Stay Consistent”, and “Create A Brighter Me”. On the wall, include a large handwritten motivational poster saying: “Same Girl Bigger Dreams” with checkboxes: “Create” “Explore” “Improve” “Be Proud” “A Kinder Me” Another handwritten sign says: “Discipline Creates Freedom” The foreground contains delicate white flowers, candles, art materials, paint tubes, a watercolor palette, pastries and strawberries, creating a rich lived-in creative atmosphere. Composition: cinematic editorial lifestyle photography, wide horizontal composition, woman positioned slightly right of center, easel on the right side, cozy bed and decorations on the left, large city skyline visible through the windows behind her. Warm golden ambient lighting, soft candlelight, subtle fairy lights, shallow depth of field, realistic textures, natural skin, detailed fabric, realistic hands, realistic paintbrush and painting materials. Add a second artistic presentation beneath the main photograph: a watercolor-splash framed version of the same scene, surrounded by soft pastel paint splashes and artistic floral elements, like a handmade creative journal page. At the bottom, add elegant handwritten calligraphy: “Same Girl … Bigger Dreams” with a small heart underneath. Below it, add small minimalist typography: “REAL MOMENTS • ARTISTIC STORIES • BRIGHTER DAYS” Style: photorealistic, cinematic, cozy Pinterest aesthetic, premium lifestyle photography, warm dreamy atmosphere, artistic editorial design, soft glow, realistic lighting, highly detailed, natural colors, 8K quality, sharp focus, beautiful depth, sophisticated composition. Aspect ratio: 2:3 vertical poster composition.
-```
-
-By [@mehwishkiran07](https://x.com/mehwishkiran07/status/2100903738592674281)
-
----
-
-<a id="evolink-portraits-case-48"></a>
-
-## Baseball Cap and Work Jacket Portrait
-
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2100577180384452609.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2100577180384452609.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Ultra-realistic fashion portrait of a stylish young woman with long, voluminous wavy black hair, wearing a beige baseball cap, oversized dark sunglasses, an olive-green utility jacket over a fitted beige ribbed top. She gently holds the brim of her cap with one hand and pulls the jacket hood with the other, wearing minimal silver rings and long almond-shaped glossy nails. Natural soft makeup, nude glossy lips, elegant feminine features, relaxed confident expression. Close-up street-style fashion photography, slightly turned pose, soft natural daylight, neutral beige background, muted earthy color palette, realistic skin texture, detailed fabric texture, cinematic depth of field, subtle shadows, luxury fashion editorial aesthetic, 85mm lens, shallow depth of field, photorealistic, high detail, 8K, Instagram fashion photography, vertical 4:5 composition.
-```
-
-By [@Alina\_with\_Ai](https://x.com/Alina_with_Ai/status/2100578368077042117)
-
----
-
-<a id="evolink-portraits-case-49"></a>
-
-## Flower-Filled Bookshop Cafe Portrait
-
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2100411740840464384.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2100411740840464384.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Using my uploaded photo as the exact identity reference, create a highly realistic cinematic lifestyle portrait of me standing outside a charming vintage bookstore café surrounded by beautiful flowers. Preserve my facial identity, natural facial features, skin tone, hairstyle, and overall appearance from the reference photo. Do not change my face or make me look like a different person. I am wearing an oversized black T-shirt with a small pink bow detail on the chest, light blue denim shorts, white ankle socks, and clean white chunky sneakers. A cream canvas tote bag hangs naturally from my shoulder, and I am holding a transparent iced coffee cup in one hand. White wired earphones are naturally visible. Pose me standing casually with one leg slightly crossed in front of the other, one hand holding the iced coffee and the other relaxed near my shorts pocket. Give me a soft, natural side-looking expression, looking slightly away from the camera. The setting is a cozy old-fashioned bookstore café entrance with dark green wooden doors and shelves of books visible inside. The exterior walls are covered with lush green vines, white daisies, and soft pink flowers. Add hanging flower baskets, warm vintage wall lanterns glowing softly, wooden benches and rustic tables, stacks of books, and a cute sleeping cat resting peacefully on a wooden bench. Include charming wooden signs on the wall with handwritten-style text such as “Good Books”, “Good Coffee”, “Brighter Days”, and “Better Me”. Add a small vintage chalkboard sign near the entrance and a bicycle partially visible in the foreground. Use warm golden-hour sunlight, soft natural shadows, cinematic depth of field, realistic skin texture, detailed fabric and hair, subtle sunlight rays, beautiful bokeh, realistic flowers and plants, premium editorial photography, cozy European café atmosphere, photorealistic, ultra-detailed, natural colors, 8K quality. Full-body composition, vertical 9:16 portrait, realistic proportions, eye-level camera, 50mm lens, shallow depth of field, cinematic photography, highly detailed and believable.
-```
-
-By [@mehwishkiran07](https://x.com/mehwishkiran07/status/2100411941944791171)
-
----
-
-<a id="evolink-portraits-case-50"></a>
-
-## Experimental Lens Mood Portrait
-
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2100065792549376000.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2100065792549376000.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-初恋脸女友 × 暧昧私密 × 非常规实验镜头 × 反差OOTD × 奶凶娇嗔神态
-```
-
-By [@DeepBlueX0](https://x.com/DeepBlueX0/status/2100065803072897507)
-
----
-
-<a id="evolink-portraits-case-51"></a>
-
-## Metal Letter Z Sculpture Portrait
-
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2099860719466336256.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2099860719466336256.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Create a hyper-realistic artistic studio portrait of a young woman sitting gracefully inside a large sculptural metallic letter “Z”, finished with a luxurious textured mauve-purple surface and elegant gold edges. Use the uploaded reference image only for the woman’s facial identity and recognizable features. Preserve her natural face shape, eyes, eyebrows, nose, lips, skin tone, age, and identity accurately. She has long, naturally wavy dark hair with soft loose strands framing her face. She wears a cozy dusty-lavender knitted sweater, flowing ivory wide-leg pants, and clean white sneakers. She sits in a relaxed, thoughtful pose with one knee raised, resting her cheek gently on her hand, looking slightly upward with a soft natural smile. Decorate the sculptural “Z” with delicate pink and white cherry-blossom-style flowers and subtle green leaves. Set the scene against a deep warm chocolate-brown studio background with beautiful diagonal window-blind shadows and soft golden afternoon sunlight. Add realistic floor reflections beneath her. Composition: full-body vertical portrait, elegant editorial photography, balanced centered framing, realistic proportions, natural skin texture, detailed knit fabric, realistic metallic and marble-like surface, soft depth of field, warm muted mauve-brown color palette, subtle luxury aesthetic, cinematic but natural lighting, highly detailed, photorealistic, premium magazine portrait. Add minimal elegant typography: “LETTER” at the top and “PORTRAIT” near the bottom, widely spaced thin serif letters. No extra text, no distortion, no artificial face, no exaggerated beauty filter.
-```
-
-By [@Arina\_hoqe](https://x.com/Arina_hoqe/status/2099860837083345200)
-
----
-
-<a id="evolink-travel-journals-case-206"></a>
-
-## Ancient Egypt Sunset Couple Portrait
-
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2104523957466779648.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2104523957466779648.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Create an ultra-photorealistic cinematic luxury travel editorial portrait featuring a young man and a young woman together in ancient Egypt at golden sunset. IDENTITY & FACE PRESERVATION: Use the two uploaded reference images as the ONLY identity references. Preserve the man’s and woman’s individual identities accurately and consistently. Keep their original facial structure, face shape, skin tone, eyes, eyebrows, nose, lips, jawline, hair texture, and natural facial asymmetry unchanged. Do not merge, swap, beautify, or alter their facial identities. Both people must clearly look like the individuals from their respective reference photos. COMPOSITION: Place the young man and young woman together sitting naturally on ancient sandstone steps overlooking a breathtaking Egyptian landscape. They are positioned close enough to feel like travel companions, with a natural, elegant interaction while maintaining their individual identities. The man sits slightly behind/next to the woman in a relaxed pose, looking thoughtfully toward the distant horizon. The woman sits gracefully beside him, slightly turned toward the camera with a soft natural expression. Their body proportions, hands, fingers, legs, and anatomy must be realistic and natural. OUTFITS: Young man: A relaxed beige/cream linen travel outfit consisting of a lightweight button-up shirt with sleeves casually rolled up, cream T-shirt underneath, loose cream linen trousers, and clean white sneakers. Add a stylish natural straw fedora with a dark band and subtle round sunglasses. Young woman: A sophisticated beige/cream linen travel outfit consisting of a loose lightweight shirt with rolled sleeves, cream/white top, wide-leg cream linen trousers, and clean white sneakers. Add a natural straw fedora with a dark band, subtle round sunglasses, and a small elegant brown leather shoulder bag. ENVIRONMENT: Ancient Egyptian temple ruins surround them, featuring massive sandstone columns covered with detailed Egyptian hieroglyphics, carved statues, stone walls, traditional decorative pottery, warm lanterns, patterned Middle Eastern/Egyptian rugs, tropical palm trees, and lush greenery. In the distant background, show the majestic pyramids of Giza overlooking a beautiful Nile River scene with several traditional Egyptian felucca sailing boats. The Nile reflects the warm golden sunlight. LIGHTING: Magical golden-hour sunset lighting, warm orange and amber sunlight illuminating their faces and clothing, soft cinematic rim light around their hair, realistic natural shadows, subtle atmospheric haze, glowing sky with dramatic orange-pink clouds, sun positioned low near the horizon. CAMERA & STYLE: High-end cinematic travel editorial photography, ultra-photorealistic, luxury magazine aesthetic, realistic skin texture, natural pores, detailed hair strands, realistic linen fabric texture, physically accurate lighting, cinematic depth of field, subtle background bokeh, rich environmental details, HDR, 8K detail. Camera: full-body vertical composition, slightly low three-quarter angle, 35mm cinematic lens, natural perspective, both subjects clearly visible and sharply focused while the pyramids and Nile remain recognizable in the background. COLOR GRADING: Warm Egyptian golden-hour color palette, sophisticated earthy beige, sandstone orange, soft gold, subtle green palm tones, realistic contrast, premium cinematic color grading. MOOD: Elegant, dreamy, adventurous, peaceful, sophisticated luxury travel editorial. The image should feel like an authentic high-fashion travel campaign photographed in Egypt, not an AI-generated composite. IMPORTANT: Maintain perfect identity consistency for both reference subjects. Do not change their faces. Do not create duplicate people. Do not merge facial features. Do not distort hands, fingers, feet, or body proportions. No artificial plastic skin, no excessive beauty retouching, no cartoon appearance, no CGI look, no text, no watermark, no logos.
-```
-
-By [@mehwishkiran07](https://x.com/mehwishkiran07/status/2104524093173428713)
-
----
-
-<a id="evolink-travel-journals-case-211"></a>
-
-## Double-Exposure Travel Portrait
-
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2104060094078144512.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2104060094078144512.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Create a premium photorealistic artistic travel portrait using the same woman from the reference photo. Preserve her facial identity, natural features, hairstyle, and realistic appearance accurately. Create a creative double-exposure composition: a large elegant side-profile silhouette of the woman forms the background, beautifully blended with a breathtaking travel destination inside her silhouette. In the foreground, show the same woman walking naturally through the scene with a stylish travel outfit, backpack, sunglasses, and sneakers. Inside the silhouette, include a magnificent European old-town street with grand historic architecture, warm sunset light, distant mountains, birds, and subtle atmospheric details. Add artistic watercolor splashes flowing outward from the bottom in soft burgundy, navy, and ivory tones. Clean white background, seamless photo blending, cinematic sunset glow, realistic shadows, sophisticated travel-editorial aesthetic, highly detailed, premium magazine composition, photorealistic, 8K, elegant and visually captivating. No cartoon, no anime, no illustration, no distorted face, no duplicate person, no extra limbs, no artificial-looking skin, no identity change.
-```
-
-By [@Arina\_hoqe](https://x.com/Arina_hoqe/status/2104060109211255230)
-
----
-
-<a id="evolink-travel-journals-case-226"></a>
-
-## Identity-Preserving Travel Collage
-
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2102550022717952002.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2102550022717952002.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Use the uploaded face reference image ONLY as the identity reference for the woman. STRICT FACE IDENTITY LOCK: Preserve her recognizable facial identity exactly from the face reference. Keep the same facial structure, face shape, eyes, eyebrows, nose, lips, jawline, cheek structure, skin tone, and natural facial proportions. Do not beautify, redesign, age, de-age, or replace her face. Do not create a different person. Use the provided images ONLY as visual inspiration for the overall composition, lifestyle concept, outfit styling, café atmosphere, photography angle, color palette, scrapbook layout, and editorial aesthetic. Do not copy another person's facial identity. Create a premium ultra-photorealistic lifestyle editorial photograph of the woman enjoying an elegant café moment in a sophisticated outdoor European-style café. Subject & Face: The woman has the exact recognizable face from the reference image, with natural elegant makeup, realistic skin texture, expressive eyes, and a soft relaxed expression. Keep her identity completely consistent and authentic. Hair: Long, thick, naturally flowing dark hair with soft waves, realistic individual strands, subtle natural shine, and an effortless feminine appearance. Outfit: Elegant ivory/cream-white feminine outfit with delicate lace and embroidered details, sheer textured fabric, refined sleeves, and sophisticated styling. Add tasteful gold jewelry, an elegant watch, delicate rings, and cream pointed-toe heels. Include a refined luxury handbag placed naturally beside her. Scene & Pose: Create two complementary lifestyle moments within the same visual concept: A beautiful overhead café photograph showing the woman seated at a marble café table, her elegant lace outfit visible, one hand naturally holding a ceramic coffee cup with beautiful heart-shaped latte art. A slice of berry cheesecake sits on a delicate white plate beside the coffee. A softly framed portrait moment of the same woman sitting at the café, resting one hand gently against her cheek while looking naturally toward the side with a calm, subtle smile. Coffee, dessert, flowers, and her handbag remain naturally arranged on the table. Environment: A beautiful upscale outdoor European café with marble tables, elegant chairs, soft greenery, small white flowers, warm natural sunlight, and a softly blurred sophisticated street in the background. The environment should feel authentic, peaceful, luxurious, and naturally photographed. Scrapbook Editorial Design: Present the final composition as a refined vintage scrapbook-style editorial poster on warm ivory textured paper. Use softly painted/watercolor edges around the main photograph, an organic imperfect cutout effect, subtle paper grain, delicate botanical illustrations, tiny vintage postal elements, and elegant minimal decorative lines. Add tasteful typography with a sophisticated editorial feel, such as: “A MOMENT OF PURE BLISS” and underneath: “Good Coffee, Better Days” with a small elegant heart or botanical ornament. Keep the typography minimal, refined, and beautifully integrated into the paper layout. Color & Lighting: Warm ivory, cream, beige, soft brown, muted green, and subtle golden tones. Natural afternoon sunlight, gentle highlights, realistic shadows, soft cinematic glow, subtle analog film grain, delicate depth of field, and premium editorial color grading. Overall Style: Ultra-photorealistic, high-end lifestyle photography, luxury café editorial, sophisticated feminine aesthetic, realistic skin and fabric texture, authentic hands and fingers, natural body proportions, realistic coffee and dessert details, cinematic photography, premium magazine quality, 8K detail, crisp but soft natural image quality, elegant nostalgic atmosphere, sophisticated Pinterest/editorial scrapbook aesthetic. IMPORTANT: The face reference controls ONLY the woman's identity. The uploaded inspiration images control the visual concept, composition, styling, café atmosphere, colors, and scrapbook presentation. Do not merge another person's face into the subject. Keep the woman's identity recognizable and consistent throughout the entire composition. Negative Prompt: different face, altered identity, face swap, beautified face, distorted facial features, extra fingers, malformed hands, unrealistic skin, plastic skin, cartoon, 3D render, CGI look, blurry face, low resolution, oversaturated colors, artificial lighting, duplicate objects, distorted coffee cup, malformed dessert, excessive text, watermark, logo, messy composition, unnatural pose, unrealistic body proportions.
-```
-
-By [@KrishnaBio1](https://x.com/KrishnaBio1/status/2102550128985002216)
-
----
-
-<a id="freestylefly-case-21"></a>
-
-## 直播界面设计图
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case21.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case21.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-{ "type": "live stream UI mockup", "subject": { "description": "portrait of {argument name=\"host name\" default=\"Elon Musk\"}, smiling, wearing a black t-shirt with a white technical schematic graphic", "background": "left side shows a screen with '{argument name=\"left background logo\" default=\"SPACEX\"}' text, right side shows a red '{argument name=\"right background logo\" default=\"Tesla T logo\"}' and a dark car" }, "ui_overlay": { "top_header": { "host_info": "avatar, name '{argument name=\"host name\" default=\"Elon Musk\"}', subtext '55.6万本场点赞', red '关注' button", "rank_badge": "gold coin icon with '全站第1名'", "viewer_stats": "3 top viewer avatars with '12.3w', '8.6w', '5.7w', total '68.7万', 'X' close button", "right_links": "'更多直播 >', '礼物展馆 0/24' with blue '经典' tag" }, "mid_left_gifts": { "count": 2, "items": [ "avatar '科技爱好者', '送小心心', heart icon x 1314", "avatar '星辰大海', '送火箭', rocket icon x 666" ] }, "bottom_left_chat": { "system_message": "level 37 badge '宇宙漫游者 加入了直播间'", "message_count": 7, "messages": [ "小火箭: 马斯克！未来可期！🚀", "future: 特斯拉Model 2什么时候出？", "星空梦想家: SpaceX今年能上火星吗？", "AI探索者: Neuralink进展如何？", "帅气的网友: 马总好！", "Mars: 第一次来你的直播，超激动！", "用户123: 讲讲AI吧，会取代人类吗？" ] }, "bottom_right_product_card": { "hot_tag": "orange '热卖 x 1888'", "image": "Tesla Cybertruck", "title": "{argument name=\"product name\" default=\"特斯拉Cybertruck 电动皮卡\"}", "price": "{argument name=\"product price\" default=\"¥ 1,618,000\"}", "button": "red '抢' button", "floating_animation": "translucent hearts floating up the right edge" }, "bottom_bar": { "input_field": "'说点什么...'", "icons": ["smiley face", "three dots", "shopping cart", "gift box", "share"] } } }
-```
-
-By [@sjbbxhz](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-21)
-
----
-
-<a id="freestylefly-case-24"></a>
-
-## 漫画分镜叙事设计
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case24.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case24.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Genshin Impact {argument name="character" default="Raiden Shogun"} cosplay selfies at the {argument name="event" default="Shanghai Comic Con"}
-```
-
-By [@wewe50770964683](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-24)
-
----
-
-<a id="freestylefly-case-28"></a>
+<a id="freestylefly-case-56"></a>
 
 ## 写实摄影风格创作
 
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case28.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case28.jpg" width="480" alt="Source example"></a>
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case56.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case56.jpg" width="480" alt="Source example"></a>
 
 **Prompt**
 
 ```text
-{ "type": "2x2 portrait grid", "subject": "{argument name=\"subject description\" default=\"young adult East Asian male with short black hair and a slight smile\"}", "style": "photorealistic, high-resolution, professional lighting, consistent facial identity across all panels", "layout": { "format": "2x2 grid", "panel_count": 4, "panels": [ { "position": "top-left", "description": "{argument name=\"profession 1\" default=\"Corporate professional wearing a dark navy suit, white shirt, and blue tie against a gray textured background\"}" }, { "position": "top-right", "description": "{argument name=\"profession 2\" default=\"Casual attire wearing a dark blue crew neck t-shirt against a blurred outdoor park background\"}" }, { "position": "bottom-left", "description": "{argument name=\"profession 3\" default=\"Construction worker wearing a yellow hard hat, navy blue work shirt, and bright orange high-visibility vest against a blurred warehouse background\"}" }, { "position": "bottom-right", "description": "{argument name=\"profession 4\" default=\"Medical professional wearing a white lab coat over a light blue collared shirt against a blurred laboratory background\"}" } ] } }
+A candid, realistic photograph of a young {argument name="subject aesthetic" default="goth"} woman with pale skin, long straight black hair with bangs, heavy black eyeliner, and black lipstick. She has a {argument name="expression" default="deadpan"} expression, looking directly at the camera while sitting on a children's coin-operated {argument name="ride type" default="unicorn"} ride. She is wearing a black lace-trimmed tank top, black arm warmers, layered necklaces including a choker, black lace tights, and chunky black platform boots with buckles. A large black shoulder bag hangs from her arm. The ride is a white unicorn with a pink mane, gold horn, and purple hooves, mounted on a purple base with a small sticker reading "{argument name="ride cost" default="50¢ PER RIDE"}". The setting is outside a store with a tan cinderblock wall. To the left is a glass door reflecting a person, a brown trash can, and a white sign with red text reading "{argument name="sign text" default="NO PARKING FIRE LANE"}". To the right is a blue vending machine. Overcast, natural daylight.
 ```
 
-By [@frankfu1688](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-28)
+By [@danieldmai](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-56)
 
 ---
 
-[1](portraits.md) · [2](portraits-2.md) · **3** · [4](portraits-4.md) · [5](portraits-5.md) · [6](portraits-6.md) · [7](portraits-7.md)
+<a id="freestylefly-case-111"></a>
+
+## 视频封面界面图
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case111.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case111.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+A YouTube thumbnail-style collage for a {argument name="overall mood" default="dark, dramatic, true crime investigation"}. In the center is a highly detailed, close-up portrait of an {argument name="central figure" default="older man with grey hair and deep wrinkles resembling Jeffrey Epstein"}, wearing a black polo shirt, with a faint red glowing outline separating him from the background. On the left side, a {argument name="left background scene" default="tropical island with luxury villas and a flying airplane in a dark sky"}. Below the island, a conspiracy board motif features exactly 2 red push pins connected by 3 thick red strings. On the top right side, a hazy, sepia-toned depiction of the {argument name="right background scene" default="US Capitol building with the silhouettes of 3 men in suits facing it"}. On the bottom right, an open manila folder containing a {argument name="document type" default="heavily redacted dossier with thick black marker lines and a smaller photograph of the central man"}. The overall composition is cinematic, intense, and heavily stylized for a documentary video.
+```
+
+By [@mirochill](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-111)
+
+---
+
+<a id="freestylefly-case-154"></a>
+
+## 写实摄影风格创作
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case154.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case154.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+A photorealistic, high-resolution commercial photograph of a {argument name="car model and color" default="bright blue Alpine A110 R sports car"} parked in the foreground inside a massive aircraft hangar. The car features a black carbon fiber hood, black roof, black alloy wheels, and a front license plate reading "{argument name="license plate text" default="A110 R"}". Directly behind the car, dominating the background, is a {argument name="airplane model" default="white Airbus A320 commercial airliner"} with a blue tail. The hangar has a highly polished, reflective concrete floor that mirrors the car and plane. To the left, a sign on the metal wall reads "{argument name="hangar sign text" default="HANGAR 05 MAINTENANCE"}". The hangar doors are wide open, revealing a bright, overcast sky and a distant cityscape. The lighting is soft and cinematic, highlighting the sleek aerodynamic curves of both vehicles.
+```
+
+By [@AlwaveNazca](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-154)
+
+---
+
+<a id="freestylefly-case-165"></a>
+
+## 清冷佳人夜市烧烤三刀流
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case165.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case165.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+[中文] 一个有着清冷孤傲气质的绝美佳人，精致的面部特征，一张冷酷且精致的高级时装面容，长发，以及优雅苗条的身材；烧烤“三刀流”姿势：嘴里叼着一根烧烤串，每只手各拿一根烧烤串交叉以模仿索隆的三刀流；街头夜景氛围，温暖黄色的夜市灯光，模糊的背景，胶片般的质感，柔焦光晕，电影般的叙事感，时髦高端网红风格的时尚拍摄，清晰发光的肌肤，清晰细致的发丝，生动的动态表情，低角度广角镜头，情绪化的暗调氛围，浅景深，超高清8K，极致细节，电影级光照 [English] a stunning beauty with a cool, aloof atmosphere, delicate facial features, a cold and sophisticated high-fashion face, long hair, and a graceful slender figure; barbecue “three-sword style” pose: one barbecue skewer held in her mouth, one skewer in each hand crossed to mimic Zoro’s three-sword style; street night scene ambiance, warm yellow night market lighting, blurred background, film-like texture, soft-focus glow, cinematic storytelling feel, trendy high-end influencer-style fashion shoot, clear luminous skin, sharply detailed strands of hair, lively dynamic expression, low-angle wide-angle shot, moody dark-toned atmosphere, shallow depth of field, ultra HD 8K, extreme detail, cinematic lighting
+```
+
+By [@BubbleBrain](https://x.com/BubbleBrain/status/2046564674112831920)
+
+---
+
+<a id="freestylefly-case-173"></a>
+
+## 银河繁星点缀的冰蓝襦裙
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case173.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case173.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+[中文] 服裝細節： 模特兒身穿一套精緻的淡冰藍色齊胸襦裙，採用多層輕盈的薄紗和絲綢歐根紗材質制成。其寬大的、半透明的廣袖上點綴著如繁星般微小的銀色和淺藍色亮片刺繡，在光線下閃爍（具有銀河般的夢幻感）。抹胸位置有複雜的銀色蕾絲和編織紋理細節，腰帶自然垂落。 材質與光影： 畫面呈現 8k 超高分辨率和對織物微距紋理的極致渲染。光線採用柔和的自然側光（丁達爾效應 Typndall Effect），精準地透射過輕薄的紗布，營造出面料的半透明感（Translucency）和流動感。 構圖與鏡頭： 採用 85mm 黄金人像鏡頭效果，f/1.8 大光圈，全身構圖，模特居中站立 [English] Clothing details: The model wears an exquisite pale ice blue chest-high ruqun, made of multiple layers of lightweight tulle and silk organza materials. Its wide, translucent broad sleeves are adorned with tiny silver and light blue sequin embroideries like stars, shimmering under the light (with a galaxy-like dreamy feel). The tube top position has complex silver lace and woven texture details, and the belt falls naturally. Material and light and shadow: The image presents 8k ultra-high resolution and extreme rendering of macro textures of the fabric. The lighting uses soft natural side light (Tyndall Effect Typndall Effect), accurately transmitting through the light gauze, creating a sense of translucency (Translucency) and fluidity of the fabric. Composition and lens: Uses 85mm golden portrait lens effect, f/1.8 large aperture, full-body composition, model standing in the center
+```
+
+By [@fdtreesky](https://x.com/fdtreesky/status/2046508731090018331)
+
+---
+
+<a id="freestylefly-case-187"></a>
+
+## 韩系极简氛围感少女写真
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case187.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case187.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+[中文] 9:16 竖版 — 杂志人像，单一主体  柔和的黑色迷雾滤镜，微妙的薄雾，柔和的高光泛光，柔和的色调  极简的室内空间，干净的背景，轻微的纹理  年轻韩国女性，淡妆，自然的皮肤纹理  服装：贴身的罗纹针织上衣或柔软的吊带背心叠穿在宽松衬衫下，搭配高腰短裤或裙子；面料轻微贴合身体曲线，柔软自然，无暴露元素  头发：略显凌乱，自然的蓬松度  姿势：坐在地板上，一条腿弯曲，另一条腿放松，身体微微倾斜，肩膀不对称，头部倾斜  构图：主体略微偏离中心，存在留白  表情：平静，略显疏离，自然的嘴唇  光线：柔和的侧光，温和的阴影衰减  氛围：低调，安静，通过自然的身体线条展现微妙的性感，放松且非摆拍  画质：细腻颗粒，轻微的柔和感，写实外观 [English] 9:16 vertical — editorial portrait, single subject  soft black mist filter, subtle haze, gentle highlight bloom, muted tones  minimal indoor space, clean background, slight texture  young Korean woman, minimal makeup, natural skin texture  outfit: fitted ribbed knit top or soft camisole layered under a loose shirt, paired with high-waisted shorts or skirt; fabric slightly clings to body shape, soft and natural, no revealing elements  hair: slightly messy, natural volume  pose: sitting on floor with one leg bent and the other relaxed, body slightly leaning, shoulders not aligned, head tilted  composition: subject slightly off-center, negative space present  expression: calm, slightly distant, natural lips  lighting: soft side light, gentle shadow falloff  mood: understated, quiet, subtly sensual through natural body lines, relaxed and unposed  quality: fine grain, slight softness, realistic look
+```
+
+By [@BubbleBrain](https://x.com/BubbleBrain/status/2046434670724907395)
+
+---
+
+<a id="freestylefly-case-198"></a>
+
+## 苍白陶瓷娃娃沙滩仰视
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case198.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case198.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+[中文] { "相机参数": { "设备类型": "iPhone 15 Pro 前置自拍", "镜头": "24mm", "构图": "高角度 POV（第一人称视角）", "后期处理": "计算摄影风格，清晰的数字读出，深景深" }, "主体描述": { "特征": "陶瓷娃娃审美，无瑕的苍白皮肤，巨大的冰蓝色眼睛，小巧的鼻子，翘起的自然色嘴唇", "表情": "面无表情，空洞，瞪大眼睛注视", "造型": "白金色的双紧辫发型，鲜艳的蓝色美甲", "服装": "浅蓝色紧身弹力棉上衣，极深超宽 V 领，深邃锁骨与领口线", "动作": "抬头仰视镜头，用一只手遮挡刺眼的阳光" }, "环境与灯光": { "场景": "广阔的沙滩，背景中模糊的海平线", "灯光": "高调明亮的沿海日光，5500K 色温，强烈的白沙反光填充，均匀照明", "质感": "微带露水的无孔皮肤，细腻的反光白沙颗粒" }, "技术约束": { "色彩科学": "柔和的粉彩色调，线性中性色，高曝光", "负面提示词": [ "重阴影", "雪", "冬装", "红指甲", "黑色上衣", "保守的领口", "胶片颗粒感" ] } } [English] { "cameraParameters": { "deviceType": "iPhone 15 Pro front selfie", "lens": "24mm", "composition": "High angle POV (first-person perspective)", "postProcessing": "Computational photography style, clear digital readout, deep depth of field" }, "subjectDescription": { "features": "Porcelain doll aesthetic, flawless pale skin, huge ice-blue eyes, small nose, slightly upturned natural-colored lips", "expression": "Expressionless, hollow, wide-eyed staring", "styling": "Platinum blonde tight double braids hairstyle, vibrant blue nail polish", "clothing": "Light blue tight stretch cotton top, extremely deep ultra-wide V-neck, deep collarbone and neckline", "action": "Looking up at the camera, blocking the glaring sunlight with one hand" }, "environmentAndLighting": { "scene": "Vast sandy beach, blurry horizon in the background", "lighting": "High-key bright coastal daylight, 5500K color temperature, strong white sand reflection fill, even lighting", "texture": "Slightly dewy poreless skin, fine reflective white sand particles" }, "technicalConstraints": { "colorScience": "Soft pastel tones, linear neutral colors, high exposure", "negativePrompts": [ "Heavy shadows", "Snow", "Winter clothing", "Red nails", "Black top", "Conservative neckline", "Film grain" ] } }
+```
+
+By [@IamEmily2050](https://x.com/IamEmily2050/status/2046584217656570035)
+
+---
+
+<a id="freestylefly-case-199"></a>
+
+## 超写实海滩高角度手机自拍
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case199.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case199.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+[中文] { 超写实iPhone 15 Pro前置摄像头自拍，一位成年女性在明亮的沙滩上， 从举臂高角度自拍视角拍摄。手机略微举在脸部上方， 营造出自然的前置摄像头几何形态，带有轻微的等效24mm广角畸变， 写实的面部比例， 以及智能手机的深景深。她向上抬起下巴，一只手遮挡刺眼的阳光，同时直视手机镜头。她的表情中性， 面无表情， 且略带疏离感， 眼睛大而专注，但在解剖学上具有真实的眼部尺寸和自然面部比例。\n\n她有着极浅的铂金色头发，梳成两条紧紧的辫子， 苍白的皮肤带有真实摄影的皮肤纹理， 可见的毛孔， 细微的绒毛， 淡淡的眼下纹理， 自然的唇部纹理， 以及柔和的阳光光泽，而不是磨皮后的完美无瑕。她的嘴唇是自然色调且略丰满， 她的鼻子小巧精致但很写实。她的指甲是鲜艳的蓝色。她穿着一件浅蓝色紧身弹力棉上衣，领口非常深且宽，以自然、 非风格化的方式露出突出的锁骨和上胸结构。\n\n背景是宽阔的海岸沙滩，在强烈的上午晚些时候的阳光下， 背景中有一条柔和模糊的地平线。光线明亮， 色温约5500K的高调海岸日光， 强烈的白色沙子反光从下方和脸部周围均匀地填充阴影。皮肤被直射阳光加上海滩宽阔柔和的反射补光照亮， 产生清脆但写实的高光，没有生硬的对比。明亮沙子的细小颗粒微妙地捕捉光线。整体图像应该感觉像是在强烈的海边光线下在户外拍摄的真正高曝光智能手机自拍。\n\n色彩渲染应该是柔和、 干净、 且现代的， 带有中性至柔和的色调， 写实的iPhone计算摄影， 略微提高的曝光， 受控的高光过渡， 自然的肤色， 没有电影级调色。优先考虑写实性、 物理准确性、 可信的解剖结构， 以及真实的智能手机图像表现，而不是美化风格化。", "negative_prompt": "动漫， 洋娃娃脸， 瓷器皮肤， 无毛孔皮肤， 塑料皮肤， CGI， 3D渲染， 超现实眼睛， 过大的眼睛， 奇幻美， 磨皮精修， 浓妆， 魅力光， 戏剧性阴影， 胶片颗粒， 雪， 冬装， 黑色上衣， 红指甲， 保守领口， 影棚背景， 人造模糊， 扭曲的手， 变形的手指， 畸形的脸， 对称完美， 美颜滤镜， 惊悚的皮肤平滑" } [English] { Ultra-realistic iPhone 15 Pro front-camera selfie of an adult woman on a bright beach, photographed from a raised-arm high-angle selfie perspective. The phone is held slightly above her face, creating natural front-camera geometry with mild 24mm equivalent wide-angle distortion, realistic facial proportions, and deep smartphone depth of field. She tilts her chin upward and looks directly toward the phone lens while shielding harsh sunlight with one hand. Her expression is neutral, blank, and slightly distant, with wide attentive eyes but anatomically realistic eye size and natural facial proportions.\n\nShe has very light platinum-blonde hair styled in two tight braids, pale skin with real photographic skin texture, visible pores, subtle peach fuzz, faint under-eye texture, natural lip texture, and a soft sunlit sheen rather than airbrushed perfection. Her lips are naturally toned and slightly full, her nose is small and refined but realistic. Her nails are vivid blue. She wears a light blue fitted stretch-cotton top with a very deep wide neckline that reveals pronounced collarbones and upper chest structure in a natural, non-stylized way.\n\nThe setting is a wide coastal beach under strong late-morning sunlight, with a softly blurred horizon line in the background. The lighting is bright, high-key coastal daylight around 5500K, with strong white sand bounce filling the shadows evenly from below and around the face. Skin is illuminated by direct sun plus broad soft reflected fill from the beach, producing crisp but realistic highlights without harsh contrast. Fine grains of bright sand catch light subtly. The overall image should feel like a real high-exposure smartphone selfie taken outdoors in intense seaside light.\n\nColor rendering should be soft, clean, and modern, with neutral-to-pastel tones, realistic iPhone computational photography, slightly elevated exposure, controlled highlight rolloff, natural skin color, and no cinematic grading. Prioritize realism, physical accuracy, believable anatomy, and true smartphone image behavior over beauty stylization.", "negative_prompt": "anime, doll face, porcelain skin, poreless skin, plastic skin, CGI, 3D render, surreal eyes, oversized eyes, fantasy beauty, airbrushed retouching, heavy makeup, glamour lighting, dramatic shadows, film grain, snow, winter clothing, black top, red nails, conservative neckline, studio backdrop, artificial blur, warped hands, deformed fingers, malformed face, symmetry perfection, beauty filter, uncanny skin smoothing" }
+```
+
+By [@IamEmily2050](https://x.com/IamEmily2050/status/2046602266627465534)
+
+---
+
+<a id="freestylefly-case-219"></a>
+
+## 韩系偶像九宫格写真集
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case219.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case219.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+[中文] 9:16 竖版 — 一个 3x3 网格拼贴（九张图片）形成一系列韩国偶像肖像摄影。每一帧都呈现同一位年轻的韩国女性偶像，在所有九张镜头中保持 100% 一致的面部特征、比例、发型和身份。自然、超逼真的皮肤纹理，无修图，无磨皮。干净的偶像风格极简妆容，柔和的光泽，微妙的瑕疵。发型：长发、蓬松的黑发，微乱，在所有帧中保持一致（自然松散的垂落，轻微的动感）。服装：连贯的韩国偶像摄影造型 — 白色衬衫 + 短款下装（或简单的中性色调服装），青春、干净、略带休闲但有造型感。所有帧中穿着相同的服装。场景：极简的工作室或简单的室内环境（白墙，柔和的窗光，干净的背景）。聚焦于主体，而不是环境。光照：柔和漫反射的自然光，温柔的高光，低对比度，略带通透感的色调，微妙的胶片般柔和感。相机风格：亲密的肖像摄影，略带手持感，微妙的瑕疵（轻微的颗粒感，动态帧中的轻微模糊，不完美的构图）。帧分解（3x3 网格）：顶行：- 左上：自然站立，视线略微偏向一侧，表情放松 - 中上：面对镜头，随意的中间动作（头发或身体轻微移动） - 右上：轻微的侧面角度，柔和的注视，自然的抓拍感 中间行：- 中左：微微向上看，柔和的沉思表情 - 正中：特写肖像，直接的眼神接触，温柔的偶像微笑 - 中右：身体微微转动，中间动作的抓拍帧 底行：- 左下：随意坐着或倚靠着，放松的姿势 - 中下：背部部分转向，越过肩膀看向镜头 - 右下：靠近画框站立，略带俏皮或柔和的表情 氛围：韩国偶像写真集 / 小卡美学，亲密、柔和、自然、日常的魅力。质量：超写实，8K 细节，微妙的模拟胶片颗粒感，自然的瑕疵，柔和梦幻的色调 [English] 9:16 vertical — a 3x3 grid collage (nine images) forming a Korean idol portrait photoshoot series. Each frame features the same young Korean female idol, maintaining 100% consistency in facial features, proportions, hairstyle, and identity across all nine shots.   Natural, ultra-realistic skin texture, no retouching, no smoothing. Clean idol-style minimal makeup, soft glow, subtle imperfections.   Hair: long, voluminous dark hair, slightly tousled, consistent across all frames (natural loose flow, slight movement).  Outfit: cohesive Korean idol photoshoot styling — white shirt + short bottoms (or simple neutral-toned outfit), youthful, clean, slightly casual but styled. Same outfit across all frames.  Setting: minimal studio or simple indoor environment (plain wall, soft window light, clean background). Focus on subject, not environment.  Lighting: soft diffused natural light, gentle highlights, low contrast, slightly airy tones, subtle film-like softness.  Camera style: intimate portrait photography, slightly handheld feel, subtle imperfections (minor grain, slight blur in motion frames, imperfect framing).  Frame breakdown (3x3 grid):  Top row: - Top left: standing naturally, looking slightly away, relaxed expression - Top center: facing camera, casual mid-motion (hair or body slight movement) - Top right: slight side angle, soft gaze, natural candid feel  Middle row: - Center left: looking slightly upward, soft thoughtful expression - Center: close-up portrait, direct eye contact, gentle idol smile - Center right: turning body slightly, mid-motion candid frame  Bottom row: - Bottom left: seated or leaning casually, relaxed posture - Bottom center: back partially turned, looking over shoulder toward camera - Bottom right: standing close to frame, slightly playful or soft expression  Mood: Korean idol photobook / photocard aesthetic, intimate, soft, natural, everyday charm.  Quality: ultra-realistic, 8K detail, subtle analog film grain, natural imperfections, soft dreamy tone
+```
+
+By [@BubbleBrain](https://x.com/BubbleBrain/status/2046151898621993364)
+
+---
+
+<a id="freestylefly-case-221"></a>
+
+## 窗边日系胶片女孩
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case221.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case221.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+[中文] 模拟35毫米胶片摄影，柔和轻盈的日系美学，温柔漫射的自然窗户光，轻微过曝，柔和色调，低对比度，柔和的高光，靠近窗户配有白色窗帘的极简室内环境，干净的浅色墙壁，自然构图，平视视角，略微紧凑的全身取景（大腿中部到头部），年轻东亚女性，自然极简妆容，柔和真实的皮肤纹理，长长的微乱黑发，超大号白色纽扣衬衫，浅色休闲短裤，赤脚，简单放松的造型，自然站立姿势放松，双臂自然下垂或略微放在身后，面朝镜头，温柔柔和的微笑，微妙的静止感，专注于光线、空气和安静的日常氛围，柔和的胶片颗粒，梦幻而低调的氛围 --ar 9:16 [English] Analog 35mm film photography, soft airy Japanese-style aesthetic, gentle diffused natural window light, slight overexposure, pastel tones, low contrast, soft highlights,  minimal indoor setting near a window with white curtains, clean light-colored wall, natural composition, eye-level, slightly closer full-body framing (mid-thigh to head),  young East Asian woman, natural minimal makeup, soft realistic skin texture, long slightly messy dark hair,  oversized white button-up shirt, light casual shorts, barefoot, simple and relaxed styling,  standing naturally with relaxed posture, arms loosely at sides or slightly behind, facing camera, gentle soft smile, subtle stillness,  focus on light, air, and quiet everyday mood, soft film grain, dreamy and understated atmosphere --ar 9:16
+```
+
+By [@BubbleBrain](https://x.com/BubbleBrain/status/2046115431144902732)
+
+---
+
+<a id="freestylefly-case-240"></a>
+
+## 胶片闪光灯下的球场少女
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case240.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case240.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+[中文] 35毫米彩色胶片摄影，带有强烈的机顶直射闪光灯，皮肤和衣物上有镜面高光，眼睛里有强烈的眼神光，高对比度闪光灯照明，真实的胶片颗粒和色彩偏移，高级时尚清新纯真篮球场编辑风格，亲密的第一人称低角度仰视POV镜头，二十出头的性感中国女性偶像，具有超写实的精致细腻的中国特征，诱人的杏仁形狐狸眼，带有自然双眼皮，高鼻梁，小巧锋利的V型下颌线，无瑕逼真的瓷白肌肤，带有冷象牙色底调和可见的闪光镜面高光，细腻精致的皮肤纹理，带有微妙的毛孔微距细节和闪光灯下的自然水光感，清新自然的运动妆容，带有柔和的水光感，脸颊上有微妙的自然红晕，自然粉唇微张，鼻子和脸颊上有微妙的自然雀斑，深棕色长发扎成高高的俏皮马尾辫，有一些散落的发丝修饰脸型，以及逼真的散落发丝，穿着宽松的白色背心和白色高腰篮球短裤，白色及膝运动袜，在黄昏的户外球场上靠在篮球架杆上的诱人自然倾斜姿势，身体侧成角度，背部自然弓起，臀部轻轻向后推，以凸显挺拔圆润的臀部和性感的臀部曲线，一条腿自然向前伸向镜头，另一条腿微微弯曲以强调修长性感的双腿，双手轻轻放在肩膀高度的篮球杆上，极其诱人俏皮又惹人怜爱的鹿眼凝视直视观看者，带着柔软脆弱渴望的眼睛和温柔挑逗的微笑，充满安静的诱惑和欲望，强烈的机顶直射闪光灯产生锐利的镜面高光和强烈的眼神光，背景是黄昏天空下模糊的篮球场和篮筐，高对比度胶片调色，带有自然闪光灯外观，极其锐利却又柔和的皮肤渲染，具有真实的35毫米直射闪光美学，自然发丝，背心和短裤上逼真的织物纹理以及袜子细节，没有塑料感皮肤，没有数码过度锐化，没有磨皮，没有瑕疵，没有痣，没有油性皮肤，没有水印，没有文字，真实的35毫米直射闪光胶片篮球场外观 --ar 9:16 [English] 35mm color film photography with harsh direct on-camera flash, specular highlights on skin and clothing, strong catchlights in eyes, high contrast flash illumination, authentic film grain and color shift, high fashion fresh innocent basketball court editorial style, intimate first-person low-angle POV shot from below, early 20s sexy Chinese female idol with ultra-realistic delicate refined Chinese features, seductive almond-shaped fox eyes with natural double eyelids, high nose bridge, small sharp V-shaped jawline, flawless realistic porcelain skin with cool ivory undertone and visible flash specular highlights, fine delicate skin texture with subtle pores micro details and natural dewy glow under flash, fresh natural sporty makeup with soft dewy glow, subtle natural flush on cheeks, natural pink lips slightly parted, subtle natural freckles across nose and cheeks, long dark brown hair tied in a high playful ponytail with some loose strands framing the face and realistic loose strands, wearing a loose white tank top and white high-waisted basketball shorts, white knee-high sports socks, seductive natural leaning pose against the basketball hoop pole on the outdoor court at dusk, body angled sideways with naturally arched back and hips gently pushed back to accentuate perky round hips and sexy butt curve, one leg naturally extended forward toward the camera and the other leg slightly bent to emphasize long sexy legs, both hands lightly resting on the basketball pole at shoulder height, intensely seductive playful yet pitiable doe-eyed gaze straight at the viewer with soft vulnerable longing eyes and a gentle teasing smile full of quiet temptation and desire, harsh direct on-camera flash creating sharp specular highlights and strong catchlights, background with blurred basketball court and hoop under dusk sky, high contrast film color grading with natural flash look, extremely sharp yet soft skin rendering with authentic 35mm direct flash aesthetic, natural hair strands, realistic fabric texture on tank top and shorts with socks detail, no plastic skin, no digital over-sharpening, no airbrushing, no blemishes, no moles, no oily skin, no watermark, no text, authentic 35mm direct flash film basketball court look --ar 9:16
+```
+
+By [@BubbleBrain](https://x.com/BubbleBrain/status/2045052982728016131)
+
+---
+
+<a id="freestylefly-case-272"></a>
+
+## 日式温泉旅馆人像
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case272.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case272.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+35mm film photography, warm vintage Japanese onsen ryokan aesthetic, soft ambient wooden lantern lighting mixed with gentle natural window light, subtle film grain, gentle color shift, high atmosphere editorial style, intimate medium shot, early 20s beautiful Chinese female idol with ultra-realistic delicate refined Chinese features, seductive almond-shaped fox eyes with natural double eyelids, high nose bridge, small sharp V-shaped jawline, flawless porcelain skin with warm ivory undertone, visible subtle skin texture and micro pores, soft natural makeup with dewy glow, subtle rosy flush on cheeks, natural soft pink lips slightly parted, long dark brown hair tied in a loose low bun with some messy strands falling around face and neck, wearing a loose white yukata (traditional Japanese bathrobe) deliberately slipped off one shoulder and loosely tied at the waist, the fabric slightly open revealing smooth skin and subtle cleavage, barefoot, seductive relaxed sitting pose on the edge of a traditional wooden engawa veranda at a vintage onsen ryokan, body slightly turned toward the camera, one leg bent with foot resting on the wooden floor, the other leg gently dangling, one hand lightly holding the yukata collar, the other hand resting on the wooden floor behind her for support, softly arched back to gently accentuate curves, intensely seductive yet gentle and inviting gaze straight at the viewer with soft doe eyes full of quiet temptation and warmth, warm wooden interior with paper sliding doors and distant steaming hot spring in soft focus, gentle rim lighting highlighting skin and fabric texture, authentic vintage film color grading with warm tones, extremely sharp yet soft skin rendering, natural hair strands, realistic fabric wrinkles and drape on the yukata, no plastic skin, no digital over-sharpening, no airbrushing, no blemishes, no moles, no oily skin, no watermark, no text, authentic 35mm film Japanese onsen ryokan atmosphere
+```
+
+By [@BubbleBrain](https://x.com/BubbleBrain/status/2045092449803284923)
+
+---
+
+<a id="freestylefly-case-273"></a>
+
+## 橙红渐变中的孤独剪影
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case273.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case273.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+[中文] 生成一张电影级极简肖像，一个孤独的男人站在强烈的橙色到红色渐变环境中，强烈的剪影光，深邃的阴影对比，反光的光滑地面，对称构图，极简 [English] Generate a cinematic minimal portrait of a solitary man standing in an intense orange to red gradient environment, strong silhouette lighting, deep shadow contrast, reflective glossy floor, symmetrical composition, minimal
+```
+
+By [@iam\_miharbi](https://x.com/iam_miharbi/status/2045151354679665101)
+
+---
+
+<a id="freestylefly-case-277"></a>
+
+## 奢华魅力黑人女性海滨摄影
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case277.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case277.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+[中文] 奢华魅力美容肖像：, 美丽的黑人女性, 青春活力, 奶油香草色, 丝绸柔顺发, 红木色, 微妙的自信, 有质感的面料, 蓝宝石色, 极简珠宝, 海滨微风, 镜头光晕效果, 怀旧的, 电影镜头, 对称构图, 柔焦, 高级时尚摄影, 单色的, 水光质感, 神秘张力, 分层元素 [English] Luxury Glam Beauty Portrait:, Beautiful Black woman, youthful spirit, creamy vanilla, silk press, mahogany red, subtle confidence, textured fabric, sapphire blue, minimal jewelry, beachside breeze, lens flare effect, nostalgic, cinematic lens, symmetrical composition, soft focus, high fashion photography, monochromatic, dewy finish, mysterious tension, layered elements
+```
+
+By [@patrickassale](https://x.com/patrickassale/status/2044581766309060765)
+
+---
+
+<a id="freestylefly-case-284"></a>
+
+## 温馨卧室里的少女自拍
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case284.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case284.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+[中文] 一个惊艳的18岁中国女孩，拥有年轻纯真的脸庞和逼真的皮肤纹理，坐在她卧室里一张舒适且略显凌乱的床上。她正用智能手机拍镜子自拍，捕捉一个自然且亲密的瞬间。穿着随意的灰色居家服和整洁的白色船袜。柔和的自然光（黄金时刻）从侧面窗户照进来，营造出一种温暖、富有情绪感和电影般的氛围。35毫米镜头，对镜子中的主体保持锐利对焦，带有美丽模糊背景（散景）的景深。照片写实，8K，高分辨率，影棚级质量，杰作。反向提示词：没有多余的肢体，没有变形的手，没有模糊，没有噪点，没有水印，没有文字，没有卡通/动漫风格。长宽比：3:4。 [English] A stunning 18-year-old Chinese girl with a youthful, pure face and realistic skin texture, sitting on a cozy, slightly messy bed in her bedroom. She is taking a mirror selfie with a smartphone, capturing a natural and intimate moment. Wearing casual gray loungewear and neat white crew socks. Soft natural light (golden hour) streams in from a side window, creating a warm, moody, and cinematic atmosphere. 35mm lens, sharp focus on the subject in the mirror, depth of field with a beautifully blurred background (bokeh). Photorealistic, 8K, high resolution, studio quality, masterpiece. Negative Prompts: no extra limbs, no deformed hands, no blur, no noise, no watermark, no text, no cartoon/anime style. Aspect Ratio: 3:4.
+```
+
+By [@Shinning1010](https://x.com/Shinning1010/status/2045002808903020962)
+
+---
+
+[1](portraits.md) · [2](portraits-2.md) · **3** · [4](portraits-4.md) · [5](portraits-5.md)
 
 [← Home](../README.md)

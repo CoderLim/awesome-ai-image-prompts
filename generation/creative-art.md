@@ -1,8 +1,8 @@
 # creative art
 
-[← Home](../README.md) · Page 1 / 3
+[← Home](../README.md) · Page 1 / 2
 
-**1** · [2](creative-art-2.md) · [3](creative-art-3.md)
+**1** · [2](creative-art-2.md)
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
@@ -67,22 +67,6 @@ Editorial luxury mood board collage, Southeast Asian woman, dark wavy hair curta
 ```
 
 By [@HaniaAi12](https://x.com/HaniaAi12/status/2104020631251828877)
-
----
-
-<a id="evolink-character-sheets-case-114"></a>
-
-## Ophelia Celestial Puppeteer Character Sheet
-
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2099706633488338944.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2099706633488338944.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Create a premium modern high-fashion CHARACTER CONCEPT ART SHEET in a 16:9 widescreen layout on a pure white background. THE ATTACHED REFERENCE IMAGE DEFINES THE ART STYLE. [STYLE — MIRROR THE REFERENCE EXACTLY]: Replicate reference image verbatim: painterly matte digital gouache, flat posterized color blocks, NO outlines, hard-edged brush shapes, identical muted palette and bright white background. [STYLE PROHIBITIONS — ABSOLUTE]: no outlines, no ink lines, no cel-shading, no 3D render, no glossy highlights, no photorealism, no petite proportions. [PROPORTIONS]: Match reference exactly: 10 heads tall, elongated fashion anatomy, long slender limbs, small head. [SUBJECT_DESCRIPTION]: Extremely tall adult woman in early 20s, wide black visor-hat with gold script, floating orbital halo, black prosthetic arms with trailing puppet strings. Outfit: massive ballooning obsidian cloak with gold buttons, structured cream draped gown with high slit, chunky platform heels. Ability: Controls invisible gravitational tethers to manipulate reality and celestial fragments. Layout Composition: 1. LEFT PANEL: METADATA & TURNAROUND — Name "OPHELIA", metadata block ("ROLE: Graviton Oracle", "CORE MOOD: Detached Supremacy", "VISUAL SIGNATURE: Orbital Halo & Gravity Strings"), 3 turnaround figures, 3 silhouettes, 4 expression crops (obscured visor glare, slight chin lift, gold glyphs glowing, cold smirk). 2. CENTRAL PANEL: Dominant full-body centerpiece in towering signature pose with trailing strings and floating halo. 3. RIGHT PANEL: 4 dynamic pose studies (pulling gravity threads, levitating above ground, cloak billowing wide, adjusting hat) with handwritten labels. 4. BOTTOM RIGHT PANEL: 5 square detail crops (visor gold glyphs, orbital halo sphere, black prosthetic hand/strings, gown drape, platform heels).
-```
-
-By [@itsPixieVerse](https://x.com/itsPixieVerse/status/2099712708908319052)
 
 ---
 
@@ -198,54 +182,6 @@ By [@lukfan](https://x.com/lukfan/status/2098582975567061183)
 
 ---
 
-<a id="evolink-portraits-case-21"></a>
-
-## Same-Person Life Memory Collage
-
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2106207972070432768.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2106207972070432768.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Create a highly detailed, photorealistic scrapbook-style photo collage using my uploaded image as the ONLY identity reference. Preserve my exact facial identity, facial features, skin tone, hairstyle, hair color, and overall appearance consistently in every photo. Do not change or beautify my face and do not create a different person. Create a cozy aesthetic memory-board collage featuring the same woman in multiple candid lifestyle photographs. She is wearing a cream and olive-green striped oversized knit sweater, light blue loose-fit jeans, and clean white sneakers. Arrange several realistic Polaroid-style photographs around one large central portrait. The central image shows her sitting casually on a vintage wooden crate, one knee raised, wearing the striped sweater and jeans, looking softly at the camera with a warm natural smile. Include multiple smaller photographs showing different natural expressions and poses: eyes closed with a peaceful smile making a cute peace sign toward the camera playful surprised expression with both hands on her cheeks looking sideways with a gentle smile while holding small white flowers taking a selfie with a smartphone resting her face on one hand while smiling at the camera a relaxed playful pose with one arm raised Keep the same person, same outfit, same hairstyle, and consistent facial identity across every photograph. Build the collage on a warm beige vintage paper background with layered torn newspaper pages, masking tape, paper scraps, film strips, handwritten doodles, hearts, stars, arrows, smiley faces, and small white daisies. Add realistic Polaroid frames with slightly imperfect handmade placement, subtle shadows, paper texture, vintage photography details, and a cozy nostalgic scrapbook aesthetic. Include handwritten-style decorative text such as “Best Day Ever ♡”, “Oops!”, “So Happy Today :)”, “Love This ♡” and small doodles around the photographs. Add a vintage Pentax K1000 film camera resting on stacked old books near the bottom of the composition, with visible book titles such as “Good Vibes”, “Memories”, and “A Brighter Day.” Warm natural indoor lighting, soft cinematic depth of field, realistic skin texture, high-end editorial photography, authentic candid expressions, detailed paper textures, realistic shadows, premium lifestyle photography, harmonious composition, ultra-realistic, high resolution. Important: Use my uploaded image as the identity reference. Preserve my face exactly and consistently in all frames. Only change the poses, expressions, composition, and environment. Do not alter my identity.
-```
-
-By [@mehwishkiran07](https://x.com/mehwishkiran07/status/2106208041758830652)
-
----
-
-<a id="evolink-portraits-case-37"></a>
-
-## Same-Person Vintage Photo Wall
-
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2102358881435631616.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2102358881435631616.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Use the uploaded reference image as the identity and facial reference. Create a high-resolution photorealistic editorial collage of the same young woman, keeping her face, hairstyle, skin tone, body proportions, and overall appearance consistent in every frame. A stylish young woman with long straight dark-brown hair, wearing a fitted royal-blue short-sleeve T-shirt, blue denim jeans, and clean white chunky sneakers. Create a playful vintage photography-wall composition where she appears multiple times inside and around several ornate rustic wooden picture frames arranged vertically and overlapping. The central full-body version of the woman sits casually on the frames, one leg bent and the other extended downward, smiling confidently while making a peace/V sign with one hand. Surrounding frames contain different realistic versions of the same woman with different expressions and poses: laughing with eyes closed surprised expression with both hands on cheeks smiling with hands forming a heart taking a mirror-style selfie with a modern smartphone happily raising both arms playful wink and smile cheerful candid expressions Maintain perfect facial identity consistency across all versions. Background: warm beige studio wall with a cozy retro photography-studio aesthetic. Add several vintage film cameras placed naturally on some of the frames. Surround the composition with hand-drawn doodles, small stars, red hearts, arrows, and playful speech bubbles containing short phrases such as “BEST DAY EVER!”, “OOPS!”, “SO HAPPY!”, “HAHA!”, “LOVE THIS!”, “LITTLE MOMENTS!” Composition should feel like a creative Instagram editorial photoshoot / scrapbook collage, highly detailed, natural realistic skin texture, realistic hands and fingers, accurate anatomy, soft warm studio lighting, subtle shadows, cinematic photography, crisp focus, premium fashion editorial quality, photorealistic, ultra-detailed, 8K, vertical 4:5 composition. Important: Keep the same person recognizable in every frame, consistent clothing and hairstyle, realistic proportions, no duplicated facial features, no distorted hands, no extra fingers, no warped limbs, no text errors.
-```
-
-By [@Alina\_with\_Ai](https://x.com/Alina_with_Ai/status/2102358957222416439)
-
----
-
-<a id="evolink-portraits-case-41"></a>
-
-## Male Three-Pose Magazine Collage
-
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2101870450850852864.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2101870450850852864.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Create a high-quality vertical editorial collage poster using the uploaded reference images as the exact visual inspiration. Create one cohesive composition featuring the same adult male subject in three different poses and framing styles: A large upper-body close-up portrait as the main focal point, with the subject looking slightly to the side with a calm, confident expression. A smaller full-body standing/seated fashion pose placed toward the lower-left area, maintaining natural body proportions and realistic clothing details. A large artistic close-up portrait placed toward the lower-right area, with a vibrant blue-and-pink duotone lighting effect. Keep the subject's facial features, hairstyle, hair texture, skin tone, and overall appearance consistent across all three versions. Outfit should remain consistent: dark charcoal/black overshirt worn over a plain white T-shirt, relaxed cream/off-white trousers, white sneakers, and a simple wristwatch. Use a clean white background with dynamic electric blue and hot pink paint splashes, ink strokes, halftone textures, scattered stars, tiny paint droplets, and energetic graphic elements surrounding the portraits. Blend all three portraits naturally into the paint-splash composition with smooth transitions and subtle halftone fading around the edges. Add elegant handwritten black typography in the upper-right corner reading exactly: “Good Things Ahead”, followed by a small outlined heart underneath. Keep the typography stylish, handwritten, and clearly readable. Overall aesthetic: modern AI editorial poster, premium fashion campaign, vibrant pop-art collage, photorealistic subject, cinematic portrait photography, high detail, sharp facial features, realistic skin texture, professional graphic design, balanced composition, clean white negative space, blue and pink color contrast, 4K quality. Important: Keep all three versions of the same person visually consistent. Do not change the face, hairstyle, clothing style, or identity between poses. Preserve realistic anatomy, natural hands, realistic eyes, and accurate proportions. No extra people, no duplicated limbs, no distorted face, no unwanted text, no watermark.
-```
-
-By [@mehwishkiran07](https://x.com/mehwishkiran07/status/2101870527879209255)
-
----
-
 <a id="evolink-travel-journals-case-216"></a>
 
 ## Skyward Travel Double Exposure
@@ -326,6 +262,70 @@ By [@nomen\_machine](https://github.com/freestylefly/awesome-gpt-image-2/blob/09
 
 ---
 
-**1** · [2](creative-art-2.md) · [3](creative-art-3.md)
+<a id="freestylefly-case-81"></a>
+
+## 写实摄影风格图
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case81.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case81.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+{ "type": "scientific hardware diagram", "layout": { "main_scene": "3D render of an optical table with a red laser beam passing through 11 aligned optical components mounted on black posts.", "top_brackets": [ {"label": "Dual Modulation", "span": "SLM1"}, {"label": "4f Relay Optics", "span": "Lens L1 to Lens L2"}, {"label": "Imaging Optics", "span": "SLM2 to Lens L4"}, {"label": "Detection", "span": "Camera"} ], "optical_components_left_to_right": [ {"name": "Laser", "labels": ["Laser", "λ = {argument name=\"laser wavelength\" default=\"632.8 nm\"}"]}, {"name": "SLM1", "labels": ["SLM1", "(Phase / Pol. Mod.)"]}, {"name": "Lens L1", "labels": ["Lens L1", "(f1)"]}, {"name": "Iris", "labels": ["Fourier Plane", "(Pupil Plane)", "Iris", "(Higher Orders Filtered)"]}, {"name": "HWP", "labels": ["HWP", "(λ/2)"]}, {"name": "Lens L2", "labels": ["Lens L2", "(f1)"]}, {"name": "SLM2", "labels": ["SLM2", "(Phase / Pol. Mod.)"]}, {"name": "Lens L3", "labels": ["Lens L3", "(f2)"]}, {"name": "Lens L4", "labels": ["Lens L4", "(f2)"]}, {"name": "Linear Polarizer", "labels": ["Linear", "-Polarizer", "(Global Analyzer)"]}, {"name": "Polarization Camera", "labels": ["POLARIZATION CAMERA"]} ], "inset_box": { "position": "bottom right", "title": "Polarization Camera Micro-Polarizer Array (Per-Pixel Analyzer)", "grid": "4x4 grid of colored squares with directional arrows", "legend_count": 4, "legend_items": [ "Red square, horizontal arrow, 0° (H)", "Green square, vertical arrow, 90° (V)", "Blue square, diagonal arrow, 45° (D)", "Yellow square, diagonal arrow, 135° (A)" ] }, "bottom_caption": { "figure_prefix": "{argument name=\"figure number\" default=\"Fig. 5.\"}", "title": "{argument name=\"system name\" default=\"Ellipsography Hardware Setup.\"}", "text": "Paragraph of scientific text explaining the dual-modulation configuration, 4f relay optics, and polarization camera." } } }
+```
+
+By [@HumanOS\_v2](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-81)
+
+---
+
+<a id="freestylefly-case-94"></a>
+
+## 绘画艺术风格图
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case94.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case94.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+{ "type": "VTuber stream thumbnail", "theme": "pastel pink, soft, cute, lace, ribbons, hearts, bunny motif", "character": { "position": "right side, waist-up", "appearance": "anime girl, {argument name=\"hair color\" default=\"pastel pink\"} long wavy hair, large grey eyes, blush, pink heart earrings", "accessories": "white bunny ears, large pink bow on head", "outfit": "white frilly dress with lace, large pink ribbon bow at collar with heart gem" }, "layout": { "background": "soft pink with subtle sparkles, lace patterns, floating hearts", "text_elements": [ { "type": "main title", "position": "top left", "style": "large stylized pink text with white outline", "text": "{argument name=\"main title\" default=\"雑談配信\"}" }, { "type": "speech bubble", "position": "above main title", "text": "まったり" }, { "type": "circular badge", "position": "top right", "details": "lace-edged with small pink bow", "text": "きてくれてありがとう♡" }, { "type": "heart badge", "position": "bottom right", "details": "large lace-edged heart", "text": "みんなとおしゃべりできるの楽しみにしてるね♡" } ], "list_section": { "position": "bottom left", "count": 3, "style": "horizontal pill-shaped banners with lace edges, each featuring a pink heart with white bunny ears and a tiny bow on the left", "items": [ "{argument name=\"list item 1\" default=\"初見さん〇\"}", "{argument name=\"list item 2\" default=\"ポイント回収〇\"}", "{argument name=\"list item 3\" default=\"ROM〇\"}" ] } } }
+```
+
+By [@sayaka\_aiart](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-94)
+
+---
+
+<a id="freestylefly-case-186"></a>
+
+## 奇幻RPG百件像素风道具图鉴
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case186.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case186.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+[中文] 创建一个包含100种不同奇幻RPG物品的10×10网格，以经典像素艺术风格渲染（16位或32位精灵图美学，让人联想到SNES/GBA时代的日式RPG）。每个物品应出现在其独立的方形瓷砖中，下方带有简短清晰的标签。在白色背景上保持网格整洁。使每个物品在视觉上都有所区分，并且每个标签拼写正确。使用清晰的像素边缘、每个精灵图有限的调色板，以及用于阴影的微妙抖动。 使用这些行主题： 第1行：剑与刀刃 第2行：盾牌与盔甲 第3行：弓、弩与远程武器 第4行：法杖、魔杖与魔法焦点 第5行：药水、灵药与烧瓶 第6行：卷轴、典籍与法术书 第7行：戒指、护身符与附魔小饰品 第8行：头盔、王冠与头饰 第9行：钥匙、遗物与任务物品 第10行：宝石、符文与制作材料 将每个瓷砖显示为干净背景方形上居中的物品精灵图，渲染为经典的库存图标——你在奇幻RPG菜单中会看到的那种。保持整体风格一致、连贯，并让人联想到备受喜爱的复古奇幻RPG——迷人、细节丰富，且在小尺寸下易于辨认。 [English] Create a 10 × 10 grid of 100 different fantasy RPG items rendered in classic pixel art style (16-bit or 32-bit sprite aesthetic, reminiscent of SNES/GBA-era JRPGs). Each item should appear in its own square tile with a short clear label underneath. Keep the grid neat on a white background. Make every item visually distinct and every label correctly spelled. Use crisp pixel edges, limited palette per sprite, and subtle dithering for shading. Use these row themes: Row 1: swords and blades Row 2: shields and armor Row 3: bows, crossbows, and ranged weapons Row 4: staves, wands, and magical foci Row 5: potions, elixirs, and flasks Row 6: scrolls, tomes, and spellbooks Row 7: rings, amulets, and enchanted trinkets Row 8: helmets, crowns, and headgear Row 9: keys, relics, and quest items Row 10: gems, runes, and crafting materials Show each tile as a centered item sprite on a clean background square, rendered as a classic inventory icon — the kind you'd see in a fantasy RPG menu. Keep the overall style consistent, cohesive, and reminiscent of beloved retro fantasy RPGs — charming, detailed, and instantly readable at small sizes.
+```
+
+By [@ProperPrompter](https://x.com/ProperPrompter/status/2046534215311970694)
+
+---
+
+<a id="freestylefly-case-215"></a>
+
+## 西方艺术演进像素博物馆
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case215.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case215.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+[中文] 创作一张超高细节等距像素艺术时间线插画（3:4，4K），融合细节密度、象征性与隐喻。用户指定的主题为【Western Art Development】。 首先，围绕Western Art Development进行推理，确定：主题的中英文标题、涵盖的最早与最近历史时期、起始阶段标签与结束阶段标签，以及3-5个关键演进阶段及其各自的象征性元素与色彩方案。 然后构建一个以"Western Art Development"为主题的等距"演进博物馆"，每个展馆区域代表一个演进阶段，空间推进即代表时间演变。采用标准等距视角（2:1），丰富的层次深度与流畅过渡。每个阶段分配3-5个与主题强烈关联的象征元素，并用差异化色彩暗示时间流动。在场景中融入双语像素字体标题：中文"[主题中文]演进史"与英文"EVOLUTION OF Western Art Development"，加上起止阶段的双语副标题及关键时间节点标记。整体风格专业且具视觉张力，适合学术分析与对比可视化，直接出图。 [English] Create an ultra-high-detail isometric pixel art timeline illustration (3:4, 4K), integrating detail density, symbolism, and metaphor. The user-specified theme is [Western Art Development]. First, reason around Western Art Development to determine: the Chinese and English titles of the theme, the earliest and most recent historical periods covered, the starting stage label and the ending stage label, as well as 3-5 key evolution stages and their respective symbolic elements and color schemes. Then build an isometric "Evolution Museum" themed "Western Art Development", where each exhibition hall area represents an evolution stage, and spatial progression represents time evolution. Adopt a standard isometric perspective (2:1), rich layer depth, and smooth transitions. Allocate 3-5 symbolic elements strongly associated with the theme to each stage, and use differentiated colors to imply the flow of time. Integrate bilingual pixel font titles in the scene: Chinese "[Theme Chinese] Evolution History" and English "EVOLUTION OF Western Art Development", plus bilingual subtitles for the starting and ending stages and key time node markers. The overall style is professional and visually tense, suitable for academic analysis and comparative visualization, direct image output.
+```
+
+By [@GeekCatX](https://x.com/GeekCatX/status/2046172416716759171)
+
+---
+
+**1** · [2](creative-art-2.md)
 
 [← Home](../README.md)

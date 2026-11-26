@@ -1,186 +1,10 @@
 # illustrations
 
-[← Home](../README.md) · Page 3 / 5
+[← Home](../README.md) · Page 3 / 4
 
-[1](illustrations.md) · [2](illustrations-2.md) · **3** · [4](illustrations-4.md) · [5](illustrations-5.md)
+[1](illustrations.md) · [2](illustrations-2.md) · **3** · [4](illustrations-4.md)
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
-
-<a id="freestylefly-case-92"></a>
-
-## 视频封面界面图
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case92.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case92.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-An anime-style YouTube stream thumbnail featuring a cheerful female VTuber. She has long {argument name="hair color" default="pink with light blue inner highlights"} hair, blue eyes, and wears black and white cat-ear headphones with a boom mic. She wears a white collared shirt with a black and pink star ribbon and a black choker, smiling with one hand near her chin. The background is a gaming room with {argument name="room lighting" default="purple and blue neon"} lighting, showing a desk equipped with 1 white keyboard, 1 mug, 1 glowing cat figure, 1 game controller, and 1 streaming microphone. The left side features large, bold, pop-art Japanese typography: a bright pink top word "{argument name="main text line 1" default="雑談"}" and a bright blue bottom word "{argument name="main text line 2" default="配信"}". Below is a pink banner reading "{argument name="subtitle text" default="今夜もゆるっとトーク!"}". A red "LIVE" badge sits in the top left. Floating speech bubbles, stars, and hearts decorate the composition.
-```
-
-By [@Yuupapa\_free](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-92)
-
----
-
-<a id="freestylefly-case-93"></a>
-
-## 插画艺术风格创作
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case93.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case93.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-{ "type": "VTuber stream thumbnail", "style": "anime, highly detailed, cute, sparkly, overwhelmingly pink color palette", "character": { "description": "anime girl with brown hair in twin buns, amber eyes, smiling gently", "outfit": "pink kimono combined with a white frilly maid apron, cherry blossom hair accessories", "pose": "holding a pink microphone decorated with a flower near her face" }, "layout": { "background": "pink gradient with sparkles, glowing hearts, and decorative pink bows", "text_sections": [ { "type": "top ribbon", "text": "{argument name=\"top subtitle\" default=\"まったりおしゃべりしよ〜🤍\"}" }, { "type": "main title", "text": "{argument name=\"main title\" default=\"雑談配信\"}", "decorations": "surrounded by 3 large peach illustrations" }, { "type": "middle ribbon", "text": "{argument name=\"middle subtitle\" default=\"みんなと楽しい時間を過ごしたいなっ♡\"}" }, { "type": "bullet points", "position": "bottom left", "count": 3, "icon": "peach", "labels": [ "{argument name=\"bullet 1\" default=\"初見さん〇\"}", "{argument name=\"bullet 2\" default=\"ポイント回収〇\"}", "ROMO" ] }, { "type": "speech bubble", "position": "bottom right", "text": "コメント大歓迎♪ いっぱいお話し しようねっ♡" } ] } }
-```
-
-By [@sayaka\_aiart](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-93)
-
----
-
-<a id="freestylefly-case-95"></a>
-
-## 品牌视觉识别图
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case95.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case95.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-{ "type": "anime-style livestream thumbnail", "character": { "hair": "{argument name=\"hair color\" default=\"short silver hair with cyan underlights\"}", "eyes": "large bright blue", "outfit": "white collared shirt, black tie with silver accents, black jacket, black beret with a large blue heart jewel, blue jewel brooch, black choker", "pose": "smiling gently, looking at viewer, positioned on the right side" }, "background": "pastel blue with white clouds, sparkles, stars, small bows, and a subtle grid pattern", "typography_and_ui": { "top_left_speech_bubble": "まったりおしゃべりしよ〜♡", "main_title": { "text": "{argument name=\"main title\" default=\"雑談配信\"}", "style": "large, soft blue gradient, white outline, decorated with small hearts, positioned on the middle-left" }, "bottom_left_badges": { "count": 3, "style": "white pill-shaped buttons with a purple heart icon on the left", "labels": [ "{argument name=\"badge 1 text\" default=\"初見さん〇\"}", "{argument name=\"badge 2 text\" default=\"ポイント回収〇\"}", "{argument name=\"badge 3 text\" default=\"ROM〇\"}" ] }, "bottom_right_cloud_bubble": "気軽にコメントしてね♡" } }
-```
-
-By [@sayaka\_aiart](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-95)
-
----
-
-<a id="freestylefly-case-100"></a>
-
-## 主题海报版式设计
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case100.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case100.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-{ "type": "promotional banner thumbnail", "style": "vibrant neon, cosmic galaxy background, anime illustration style, high-density Japanese typography, glowing text effects", "character": { "description": "smiling young woman pointing upwards with right index finger", "appearance": "long {argument name=\"character hair color\" default=\"brown\"} hair, purple drop earrings, textured purple sweater", "position": "right side" }, "layout": { "background": "purple, pink, and blue starry space nebula", "center_typography": { "top_small_text": "何から始めるか迷う人へ", "main_title": "{argument name=\"main title\" default=\"初心者でもわかる AI副業\"}", "subtitle": "最初の1本におすすめ", "floating_text_near_character": "やさしく解説♡" }, "top_left": { "yellow_ribbon": "{argument name=\"top left ribbon text\" default=\"ゼロから始める\"}" }, "top_right": { "pink_circle_badge": "初心者 OK" }, "left_column": { "count": 7, "description": "stack of pill-shaped badges", "labels": [ "スマホでもOK (with phone icon)", "副業デビューに (with beginner mark icon)", "具体例つき", "テンプレ付き", "おすすめツール紹介", "収益化の流れ", "失敗しない始め方" ] }, "bottom_left_graphics": { "count": 3, "items": [ "laptop displaying an AI circuit brain graphic", "glowing lightbulb", "rocket ship taking off" ] }, "bottom_center": { "large_purple_button": "{argument name=\"bottom center button text\" default=\"完全解説\"}", "checklist_text_below": "✓始め方 ✓稼ぎ方 ✓注意点 ✓続け方まで全部わかる！" }, "bottom_right": { "pink_cloud_shape": { "count": 3, "bullet_points": [ "✓難しい知識不要", "✓今日から始められる", "✓やさしく丁寧に解説" ] }, "gold_medal_seal": "保存版", "purple_badge": "{argument name=\"year badge text\" default=\"2026年 最新版\"}" } } }
-```
-
-By [@naga\_zyashin](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-100)
-
----
-
-<a id="freestylefly-case-105"></a>
-
-## 动漫插画创作图
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case105.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case105.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-A high-energy VTuber thumbnail illustration of a smiling anime girl with {argument name="hair color" default="bright blue"} hair in a high ponytail wearing a white shirt. The background is an explosive burst of rainbow light rays and golden sparkles. A golden retro microphone sits in the bottom left. Massive, shiny 3D gold text on the left reads "{argument name="main title text" default="初配信"}". A 3D gold and blue subtitle reads "{argument name="subtitle text" default="一緒に最高の時間を！"}". An ornate blue and gold oval badge in the bottom right displays "{argument name="character name" default="エリン Erin"}". A red top-right badge reads "{argument name="badge text" default="LIVE"}".
-```
-
-By [@Yuupapa\_free](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-105)
-
----
-
-<a id="freestylefly-case-113"></a>
-
-## 动漫插画创作图
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case113.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case113.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-A highly detailed anime illustration of a fierce female warrior with long flowing {argument name="hair color" default="black"} hair and piercing {argument name="eye color" default="blue"} eyes, wearing a mix of silver plate armor with gold trim and a {argument name="outfit color" default="blue and white"} tunic. She is captured in a dynamic combat stance, swinging a massive, {argument name="weapon type" default="segmented metallic whip-sword"} that curves dramatically into the extreme foreground. The weapon leaves a sweeping trail of kinetic energy and wind. The scene is set against a {argument name="background setting" default="ruined battlefield with rocky terrain, floating debris, and large blue banners fluttering in the wind"} under a dramatic cloudy sky. The artwork features cinematic lighting, intense action, and a dramatic forced perspective on the weapon.
-```
-
-By [@REd8358](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-113)
-
----
-
-<a id="freestylefly-case-117"></a>
-
-## 主题海报版式设计
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case117.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case117.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-A humorous 3D cartoon illustration of a therapy session in a cozy office. On the left, a {argument name="patient character" default="sad anthropomorphic avocado half missing its pit"} sits on a brown leather lounge chair, gesturing with its thin stick-like arms. A large speech bubble above it reads "{argument name="speech text" default="I just feel so empty inside"}". On the right, the therapist, an {argument name="therapist character" default="anthropomorphic silver spoon"}, sits in a green armchair, holding a yellow pencil and writing on a notepad labeled "NOTES". The room has warm lighting, a beige rug on a wooden floor, and a bookshelf with a tissue box and books, one titled "REFLECT LISTEN VALIDATE". On the left wall hangs a framed poster reading "{argument name="poster text" default="IT'S OKAY TO FEEL YOUR FEELINGS"}" with a small heart. On the right wall hangs a framed diploma reading "{argument name="diploma text" default="SPOON UNIVERSITY SCHOOL OF LISTENING & VALIDATION"}" featuring a small spoon illustration and a gold seal.
-```
-
-By [@nicdunz](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-117)
-
----
-
-<a id="freestylefly-case-118"></a>
-
-## 漫画分镜叙事设计
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case118.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case118.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-A high-contrast, black-and-white illustration of an elderly man in a sharp suit, drawing a katana. The man has slicked-back white hair, deep wrinkles, and an intense, focused expression, looking down at the blade. He wears a dark suit, white shirt, and dark tie. His hands are prominently featured in the foreground, showing pronounced veins and wrinkles as they grip the ornate handle and scabbard of the katana. The background is completely black, emphasizing the dramatic lighting and intricate cross-hatching details on the man's face, hands, and clothing. The style resembles a detailed, gritty manga or graphic novel.
-```
-
-By [@nicdunz](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-118)
-
----
-
-<a id="freestylefly-case-120"></a>
-
-## 建筑空间场景图
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case120.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case120.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-A dynamic anime illustration of a girl with spiky {argument name="hair color" default="blonde"} hair tied in a high ponytail with a black bow, striking teal eyes, and a {argument name="outfit style" default="dark purple and black magical uniform with gold trim and diamond gems"}. She is in an intense crouching superhero landing pose, one hand pressed to the ground and the other raised, casting {argument name="magic color" default="glowing purple"} magic circles. She is shattering through a glass barrier, with sharp, jagged glass shards flying outward toward the viewer. Through the broken frame behind her, a {argument name="background scene" default="stylized silhouette of a gothic city with tall spires against a vibrant purple and orange sunset sky"} is visible. The artwork features {argument name="art style" default="sharp angles, high contrast cel-shading, and vibrant colors"}.
-```
-
-By [@UNIBRACITY](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-120)
-
----
-
-<a id="freestylefly-case-125"></a>
-
-## 电商商品展示设计
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case125.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case125.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-{ "type": "anime production layout sheet", "style": "traditional colored pencil genga, key animation drawing", "subject": { "character": "{argument name=\"character name\" default=\"ナズナ 七草\"}", "appearance": "anime girl with {argument name=\"hair color\" default=\"light purple\"} hair styled in twin braids and bangs, blue eyes, wearing a dark oversized coat", "pose_and_expression": "{argument name=\"expression\" default=\"smug with a small fang, resting chin on hand\"}" }, "background": "{argument name=\"background scene\" default=\"nighttime city skyline with a railing\"}, soft focus", "layout": { "top_edge": "standard animation paper peg holes", "left_margin": { "series_title": "{argument name=\"anime title\" default=\"よふかしのうた\"}", "production_codes": ["#05 C.", "[A] (1)"], "circled_note": "髪のハイライト 色トレスです" }, "right_margin": { "red_box": "002.normal", "timing_layers": ["A (1)", "B (1) (2) (3)", "C (1) (2) END"], "background_notes": ["BL 夜景", "BG 市街地夜景 色トレス"] } } }
-```
-
-By [@Gc\_qube](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-125)
-
----
-
-<a id="freestylefly-case-126"></a>
-
-## 插画艺术风格创作
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case126.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case126.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-An anime-style light novel cover illustration featuring two characters in an intimate pose. On the left, a young woman with short dark hair, purple eyes, wearing a white hat, a frilly white dress with a pink bow tie, white gloves, and two white flower hairpins. She has an affectionate, teasing smile and is gently touching the chin of the man next to her. On the right, an adult man with {argument name="man's hair color" default="red"} hair parted in the middle, purple eyes, and a light goatee. He is wearing a black button-down shirt and has a slightly annoyed, reluctant expression with a sweat drop on his cheek. The scene features soft, romantic lighting with out-of-focus purple flower petals in the foreground corners. The image includes several Japanese text elements: a large stylized main title at the bottom reading {argument name="main title" default="ちかつば"}, a subtitle below it reading {argument name="subtitle" default="ーその溺愛、独占欲の裏返し。ー"}, vertical text on the top left reading {argument name="left quote" default="可愛いだけじゃ、許さない。"}, and vertical text on the top right reading {argument name="right quote" default="その不機嫌、俺だけに向けろよ。"}.
-```
-
-By [@taira\_renta](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-126)
-
----
 
 <a id="freestylefly-case-172"></a>
 
@@ -326,6 +150,182 @@ By [@09lyco](https://x.com/09lyco/status/2045281845391323175)
 
 ---
 
-[1](illustrations.md) · [2](illustrations-2.md) · **3** · [4](illustrations-4.md) · [5](illustrations-5.md)
+<a id="freestylefly-case-280"></a>
+
+## 封面排版设计图
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case280.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case280.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+[中文] 以涂鸦速写风表现【一个厉害的AI builder】，整体呈现快速勾勒、自由变形、即兴手绘与草稿式的视觉效果。线条随手、夸张、可粗细不一，略显凌乱但具有节奏和表现力，强调概括、夸张、趣味和随性，而不是严谨写实或精细刻画。  颜色采用粗糙、干刷感明显的块面表现，可保留不均匀的涂抹痕迹、刷痕、飞白与覆盖感，色彩根据【主题/主体】自动适配，但整体保持涂鸦式、速写式、概括式的表达。不要透明水彩晕染效果，不要细腻水彩过渡，不要纸纹理，不要柔和雾化，不要梦幻质感。  背景以留白为主，保持简洁、轻松、未完成感和设计感，可加入少量辅助性符号、箭头、记号、圈画、重复线、随手写的文字或其他涂鸦元素，以增强速写本或随笔式视觉语言，但不可过于拥挤，不可破坏主体和留白气质。  画面内容不需要预先写清楚，由【一个厉害的AI builder】自动推演并生成最适合的主体形象、动作、相关元素、符号或简化场景，整体保持统一的涂鸦速写风和夸张概括的表现方式，避免复杂写实背景和过度铺陈。 画面中需自然加入专属签名"BlanPlan"，作为画面的一部分，位置低调但清晰，可放在左下角、右下角或标题附近，风格需与整体版式统一，像作品署名或设计落款；签名字体精致、克制、高级，不可过大，不可破坏主体构图，不可显得突兀或廉价。 [English] Express [an awesome AI builder] in a graffiti sketch style, overall presenting a visual effect of quick sketching, free deformation, impromptu hand-drawing and draft-like. The lines are casual, exaggerated, and can vary in thickness, slightly messy but with rhythm and expressiveness, emphasizing summarization, exaggeration, fun and casualness, rather than rigorous realism or fine depiction. The colors use rough blocks with obvious dry brush feel, retaining uneven smearing traces, brush strokes, flying white and covering feel, the colors automatically adapt according to [theme/subject], but overall maintain a graffiti-style, sketch-style, and summarized expression. Do not use transparent watercolor smudging effects, do not use delicate watercolor transitions, do not use paper texture, do not use soft atomization, do not use dreamy texture. The background is mainly blank, keeping it simple, relaxed, unfinished and designed, can add a small amount of auxiliary symbols, arrows, marks, circled drawings, repeated lines, casually written text or other graffiti elements, to enhance the sketchbook or essay-style visual language, but it must not be too crowded, and must not destroy the subject and blank temperament. The picture content does not need to be written clearly in advance; [an awesome AI builder] automatically deduces and generates the most suitable subject image, movements, related elements, symbols or simplified scenes, overall maintaining a unified graffiti sketch style and exaggerated summarized expression method, avoiding complex realistic backgrounds and excessive padding. The exclusive signature "BlanPlan" needs to be naturally added into the picture as a part of the picture, the position is low-key but clear, can be placed in the bottom left corner, bottom right corner or near the title, the style needs to be unified with the overall layout, like an artwork signature or design sign-off; the signature font is exquisite, restrained, and high-end, must not be too large, must not destroy the subject composition, must not appear abrupt or cheap.
+```
+
+By [OpenNana](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-280)
+
+---
+
+<a id="freestylefly-case-282"></a>
+
+## 温柔治愈系二次元手机截图
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case282.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case282.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+[中文] 生成一张竖版手机截图风格的图片，整体比例接近 9:16。画面中心偏上是一位真人 coser，扮演（角色名称）的二次元角色。人物为写实风格，但五官略带动漫感，皮肤细腻，眼睛稍大，表情温柔地看向镜头，坐在室内的休闲场景中，例如咖啡厅或酒吧吧台前，背景有符合场景的道具。画面最上方加入手机系统状态栏 UI，包括时间、电量、信号、网络等图标，让整张图看起来像手机截图。画面底部叠加一块宽大的半透明 galgame 风格对话框，对话框左侧放一个与画面人物对应的动漫或 Q 版头像；对话框右侧排版文字：第一行用较大字体显示与前面相同的角色名字，下面一到两行显示一段适合这个角色人设的、温柔治愈风格的简体中文台词，由你自动创作。再在对话框下方加一条操作栏，仿照 galgame UI。整体风格高清、细节丰富、光线柔和、二次元与真人写真自然融合。 [English] Generate a portrait mobile phone screenshot style image, with an overall aspect ratio close to 9:16. In the upper center of the frame is a real-life coser, playing a 2D anime character named (Character Name). The character is in a realistic style, but with facial features slightly showing an anime feel, delicate skin, slightly larger eyes, a gentle expression looking at the camera, sitting in an indoor casual scene, such as in front of a cafe or bar counter, with background props fitting the scene. At the very top of the image, add a mobile phone system status bar UI, including icons for time, battery, signal, and network, to make the whole image look like a mobile phone screenshot. At the bottom of the image, overlay a wide semi-transparent galgame style dialog box, place an anime or Q-version avatar corresponding to the character in the image on the left side of the dialog box; on the right side of the dialog box, typeset text: the first line displays the same character name as before in a larger font, the following one to two lines display a piece of Simplified Chinese dialogue suitable for this character's personality, in a gentle and healing style, automatically created by you. Then add an operation bar below the dialog box, imitating the galgame UI. The overall style is high-definition, rich in details, with soft lighting, and a natural fusion of 2D anime and real-life photography.
+```
+
+By [@Zoulinshen](https://x.com/Zoulinshen/status/2045082518089810073)
+
+---
+
+<a id="freestylefly-case-299"></a>
+
+## 极简留白涂鸦手绘草图
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case299.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case299.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+[中文] 以涂鸦速写风表现【主题/主体】，整体呈现快速勾勒、自由变形、即兴手绘与草稿式的视觉效果。线条随手、夸张、可粗细不一，略显凌乱但具有节奏和表现力，强调概括、夸张、趣味和随性，而不是严谨写实或精细刻画。 颜色采用粗糙、干刷感明显的块面表现，可保留不均匀的涂抹痕迹、刷痕、飞白与覆盖感，色彩根据【主题/主体】自动适配，但整体保持涂鸦式、速写式、概括式的表达。不要透明水彩晕染效果，不要细腻水彩过渡，不要纸纹理，不要柔和雾化，不要梦幻质感。 背景以留白为主，保持简洁、轻松、未完成感和设计感，可加入少量辅助性符号、箭头、记号、圈画、重复线、随手写的文字或其他涂鸦元素，以增强速写本或随笔式视觉语言，但不可过于拥挤，不可破坏主体和留白气质。 画面内容不需要预先写清楚，由【主题/主体】自动推演并生成最适合的主体形象、动作、相关元素、符号或简化场景，整体保持统一的涂鸦速写风和夸张概括的表现方式，避免复杂写实背景和过度铺陈。 画面中需自然加入专属签名“voxcat”，作为画面的一部分，位置低调但清晰，可放在左下角、右下角或标题附近，风格需与整体版式统一，像作品署名或设计落款；签名字体精致、克制、高级，不可过大，不可破坏主体构图，不可显得突兀或廉价。 [English] Express [Subject/Theme] in a graffiti sketch style, presenting an overall visual effect of quick outlining, free deformation, impromptu hand-drawing, and draft-like appearance. The lines are casual, exaggerated, and can vary in thickness, slightly messy but rhythmic and expressive, emphasizing generalization, exaggeration, playfulness, and spontaneity, rather than rigorous realism or detailed rendering. Colors are expressed in rough blocks with a distinct dry-brush feel, retaining uneven smearing traces, brush strokes, dry-brush effects, and a sense of coverage. Colors automatically adapt to [Subject/Theme], but the overall expression remains graffiti-style, sketch-style, and generalized. Do not use transparent watercolor blooming effects, do not use delicate watercolor transitions, do not use paper textures, do not use soft atomization, and do not use dreamy textures. The background is mainly left blank, maintaining a sense of simplicity, relaxation, incompleteness, and design. A small number of auxiliary symbols, arrows, marks, circled areas, repeated lines, casually written text, or other graffiti elements can be added to enhance the visual language of a sketchbook or jotting style, but it must not be too crowded, and must not destroy the subject and the blank space temperament. The image content does not need to be written out in advance; the most suitable subject image, actions, related elements, symbols, or simplified scenes are automatically deduced and generated by [Subject/Theme], keeping the overall unified graffiti sketch style and exaggerated generalized expression, avoiding complex realistic backgrounds and over-elaboration. The exclusive signature "voxcat" needs to be naturally added to the image as a part of the picture. The position should be low-key but clear, and can be placed in the bottom left corner, bottom right corner, or near the title. The style must be consistent with the overall layout, like an artwork signature or a design sign-off; the signature font should be exquisite, restrained, and high-end, must not be too large, must not destroy the subject composition, and must not appear abrupt or cheap.
+```
+
+By [@VoxcatAI](https://x.com/VoxcatAI/status/2045131503001342302)
+
+---
+
+<a id="freestylefly-case-346"></a>
+
+## 立体刺绣小鸟花枝
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case346.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case346.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+精致立体刺绣风插画，浅浮雕纤维艺术效果，纯净「蚕丝白 + 奶白」底色，细腻丝线质感。画面为数只小鸟停在蜿蜒花枝上，周围点缀粉白、浅桃、珊瑚粉、淡金色花朵与叶片，构图轻盈雅致、留白充足。鸟儿羽毛以奶白、浅蓝、淡粉、浅金丝线刺绣表现，花枝纤细自然，花朵层层叠线，整体呈现高级手工刺绣、丝线堆绣、柔和光影、细节丰富、温柔清新的艺术效果。
+```
+
+By [@dotey](https://x.com/dotey/status/2048529821706195442)
+
+---
+
+<a id="freestylefly-case-366"></a>
+
+## 咖啡馆写实照片与 2D 涂鸦叠加
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case366.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case366.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+A trendy young woman sitting at an outdoor café table, holding a hot coffee cup near her lips. She has short curly black hair and wears oversized tinted sunglasses, a cropped beige sweater, loose brown high-waisted pants, and chunky white sneakers. A tote bag with minimal coffee-themed illustrations hangs on her shoulder. The scene blends realistic photography with playful 2D cartoon overlays. Floating around her are animated coffee elements: a smiling cappuccino cup with heart-shaped latte art, cute coffee beans with tiny faces, and stylized splashes of caramel forming comic-style shapes. Soft doodle steam rises into hearts and stars. On the table: a croissant, a notebook with sketch drawings, and a second coffee cup. Background: a realistic cozy café street with brick walls, plants, warm golden hour lighting, and soft shadows. Slight depth of field, subject in sharp focus. Style: mix of photorealism and vibrant cartoon illustration, pop-art aesthetic, high saturation but warm tones, clean composition, Instagram-worthy, soft glow, 4k detail.
+```
+
+By [@Jawad\_Rahman\_](https://x.com/Jawad_Rahman_/status/2049796647237066971)
+
+---
+
+<a id="freestylefly-case-410"></a>
+
+## 夸张动漫风主体重绘
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case410.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case410.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+Create a trending anime art style image from the uploaded subject. Use confident line-work with slight variation and minimal cel shading using flat shadow shapes. Use bright, saturated colors and clean graphic lighting. The style is defined by exaggerated, cartoonish character proportions featuring highly expressive, simplistic facial features that allow for immense emotional range, with highly varied stretched anatomy.Transform the environment into a slightly warped space with playful perspective distortion and simplified objects. Composition and tone should be energetic, lively, and comedic in a fully stylized, non-realistic world
+```
+
+By [@Zyrellix](https://x.com/Zyrellix/status/2052766810500649197)
+
+---
+
+<a id="freestylefly-case-423"></a>
+
+## 日系手绘涂鸦半身插画
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case423.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case423.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+Generate an illustration of "me" as you imagine it. Features include a Japanese illustration style, distinct character features, natural emotional expressions, a half-body composition, dynamic poses, exquisite clothing details, a hand-drawn graffiti style, ink splatter strokes, free-flowing lines, a blend of pastels and ink, a comic sketch texture, a minimalist white background, surrounding symbolic elements, a strong atmosphere, high detail, and high quality.
+```
+
+By [@heyfatema](https://x.com/heyfatema/status/2053703602246668607)
+
+---
+
+<a id="freestylefly-case-430"></a>
+
+## 铅笔素描时尚编辑插画
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case430.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case430.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+A high-detail digital illustration of a stylish woman sitting gracefully on a stone ledge, posing with one hand near her chin and legs crossed. She is wearing vintage-inspired round sunglasses, a white blouse with rolled-up sleeves, denim overalls, and rugged lace-up combat boots. The subject is rendered in a desaturated, monochromatic pencil-sketch style with soft cross-hatching and charcoal textures. In the background, a large, vibrant solid orange circle creates a bold geometric contrast against a clean, light grey backdrop. The overall composition is minimalist, editorial, and features a clean "indie-magazine" aesthetic with sharp linework and soft shading. Aspect ratio is 9:16
+```
+
+By [@harboriis](https://x.com/harboriis/status/2054573031343931418)
+
+---
+
+<a id="freestylefly-case-433"></a>
+
+## 韩国城市水彩旅行插画
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case433.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case433.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+Dreamy watercolor travel illustration of a peaceful Korean city street, hand-painted urban sketchbook style, delicate ink linework mixed with soft watercolor washes, cozy café storefronts, warm bakery lights glowing through windows, quiet morning atmosphere after light rain, reflective wet pavement, pedestrians with umbrellas and tote bags, bicycles parked along narrow streets, traditional Korean signs and typography, subtle Korean text labels, soft beige paper texture background, architectural sketch aesthetic, calm everyday city life, muted earthy palette with warm browns, faded greens, cream whites and soft blue accents, highly detailed pen-and-ink drawing, loose expressive brush strokes, travel journal composition, editorial postcard layout, elegant serif title text at top (“SEOUL”, “JEONJU”, “DAEJEON”), handwritten notes and date stamps, vintage travel diary aesthetic, cozy East Asian urban scenery, cinematic slice-of-life mood, watercolor bleeding edges, natural perspective, atmospheric depth, peaceful storytelling illustration, minimalist negative space, ultra detailed watercolor texture, sketchbook traveler aesthetic, nostalgic café culture vibes, Studio Ghibli-inspired realism, European urban sketching style mixed with Korean street scenery, soft daylight, calm and poetic composition, vertical poster design, premium art print quality.
+```
+
+By [@Taaruk\_](https://x.com/Taaruk_/status/2055492435862773978)
+
+---
+
+<a id="freestylefly-case-435"></a>
+
+## 层叠纸雕情侣插画
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case435.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case435.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+{ "style": "layered paper-cut illustration, papercraft diorama, handcrafted aesthetic", "technique": { "layering": "multiple stacked paper layers with soft drop shadows between each layer", "depth": "5–7 visible depth planes from foreground to background", "edges": "smooth, rounded, slightly beveled paper-cut edges", "texture": "subtle paper grain and fibrous texture on all surfaces", "shadows": "soft, diffused inner shadows beneath each layer suggesting physical depth" }, "character_design": { "proportions": "chibi / cute simplified — large round head, small body (1:1.5 ratio)", "face": { "eyes": "small dot eyes, glossy highlight", "cheeks": "soft circular rosy blush patches", "nose": "absent or minimal dot", "mouth": "simple small curve smile" }, "limbs": "short, rounded, stubby limbs", "outline": "clean smooth silhouette, no sharp corners" }, "color_palette": { "mood": "warm, cozy, pastel", "tones": ["soft cream", "dusty rose", "sage green", "warm peach", "sky blue", "honey yellow"], "saturation": "low-to-medium, muted and gentle", "background": "warm off-white or soft gradient" }, "lighting": { "type": "soft ambient light from top-front", "highlights": "gentle white edge highlights on top layers", "shadows": "warm light tan/beige shadow tones beneath cut layers" }, "environment": { "foliage": "simplified rounded leaf and floral shapes as separate paper layers", "ground": "curved horizon layers suggesting rolling hills", "details": "tiny decorative elements — stars, small hearts, dots — cut from paper" }, "overall_mood": "warm, whimsical, cozy, handmade, storybook", "render_quality": "ultra-detailed papercraft art, studio photography lighting, sharp focus on layer edges" }
+```
+
+By [@Just\_sharon7](https://x.com/Just_sharon7/status/2055368240885641323)
+
+---
+
+<a id="freestylefly-case-442"></a>
+
+## 舒适发廊插画
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case442.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case442.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+A vibrant whimsical digital illustration of a cozy indie hair salon, featuring a young girl with long brown hair getting her hair styled by a fashionable hairstylist. Bright pink, purple, orange, and peach color palette with playful retro decor, indoor plants, patterned walls, confetti shapes, beauty tools, flowers, and soft ambient lighting. Cute feminine aesthetic, dreamy cartoon style, expressive characters with rosy cheeks, highly detailed textures, modern flat illustration mixed with painterly shading, colorful composition, trendy Pinterest aesthetic, cozy creative atmosphere, ultra-detailed, 2D editorial art style.
+```
+
+By [@Sairah\_0](https://x.com/Sairah_0/status/2056293543753503126)
+
+---
+
+[1](illustrations.md) · [2](illustrations-2.md) · **3** · [4](illustrations-4.md)
 
 [← Home](../README.md)

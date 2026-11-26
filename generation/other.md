@@ -1,8 +1,8 @@
 # other
 
-[← Home](../README.md) · Page 1 / 4
+[← Home](../README.md) · Page 1 / 3
 
-**1** · [2](other-2.md) · [3](other-3.md) · [4](other-4.md)
+**1** · [2](other-2.md) · [3](other-3.md)
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
@@ -38,38 +38,6 @@ By [@MiraMusic\_AI](https://x.com/MiraMusic_AI/status/2118168013618987298)
 
 ---
 
-<a id="evolink-gpt-image-2-6-case-257"></a>
-
-## Rice Bowl Character Sticker
-
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/2118166009131757568.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/2118166009131757568.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-使用这个角色，生成一张GIF图，内容是她吃大白米饭，图片里有文字：真香！
-```
-
-By [@Gorden\_Sun](https://x.com/Gorden_Sun/status/2118166046175908016)
-
----
-
-<a id="evolink-gpt-image-2-6-case-259"></a>
-
-## Blinking and Swaying Character Animation
-
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/2118151194552180736.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/2118151194552180736.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-まばたきして、ふわっと揺れて
-```
-
-By [@IHayato](https://x.com/IHayato/status/2118151619212890291)
-
----
-
 <a id="freestylefly-case-25"></a>
 
 ## 综合应用场景图
@@ -83,22 +51,6 @@ create a minecraft skin inspired by {argument name="reference" default="my look"
 ```
 
 By [@nicdunz](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-25)
-
----
-
-<a id="freestylefly-case-44"></a>
-
-## 古风历史题材图
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case44.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case44.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Generate avatars of various emperors from the {argument name="dynasty" default="Ming Dynasty"} based on the style of the uploaded image, with their posthumous names and personal names listed below the avatars.
-```
-
-By [@liyue\_ai](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-44)
 
 ---
 
@@ -134,22 +86,6 @@ By [@underwoodxie96](https://github.com/freestylefly/awesome-gpt-image-2/blob/09
 
 ---
 
-<a id="freestylefly-case-109"></a>
-
-## 综合应用场景图
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case109.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case109.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-{argument name="subject" default="A beautiful internet celebrity"} is live-streaming a {argument name="activity" default="game"}.
-```
-
-By [@underwoodxie96](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-109)
-
----
-
 <a id="freestylefly-case-160"></a>
 
 ## 品牌吉祥物设定图
@@ -163,22 +99,6 @@ Generate a set of icons for {argument name="device" default="vintage electronic 
 ```
 
 By [@TanShilong](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-160)
-
----
-
-<a id="freestylefly-case-163"></a>
-
-## 诗仙李白月下直播起舞
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case163.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case163.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-[中文] 李白在抖音直播月下起舞 [English] Li Bai dancing under the moon during a Douyin livestream
-```
-
-By [@MrLarus](https://x.com/MrLarus/status/2046585220393324553)
 
 ---
 
@@ -246,22 +166,6 @@ By [@msjiaozhu](https://x.com/msjiaozhu/status/2046546317766500834)
 
 ---
 
-<a id="freestylefly-case-205"></a>
-
-## 皇宫深处的御用快递驿站
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case205.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case205.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-[中文] 生成一张古代皇宫 × 快递驿站 [English] Generate an ancient imperial palace × express delivery station
-```
-
-By [@joshesye](https://x.com/joshesye/status/2046596222505361866)
-
----
-
 <a id="freestylefly-case-209"></a>
 
 ## 神话三国枪战世界
@@ -275,22 +179,6 @@ By [@joshesye](https://x.com/joshesye/status/2046596222505361866)
 ```
 
 By [@op7418](https://x.com/op7418/status/2046519666047426967)
-
----
-
-<a id="freestylefly-case-216"></a>
-
-## 雅致图案四款时尚单品设计
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case216.png"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case216.png" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-[中文] 使用附图中的图案，由专业设计师打造 4 款时尚单品，采用不同的色彩搭配与排版设计，附带穿搭效果图。以雅致的构图凸显图案的美感。格式为 2:3，希望将图像生成模型从 duct-tape-1 指定为 duct-tape-2、3。 [English] Use the patterns in the attached image, crafted by professional designers to create 4 fashion items, using different color schemes and layout designs, accompanied by outfit effect pictures. Highlight the beauty of the patterns with an elegant composition. The format is 2:3, hoping to specify the image generation model from duct-tape-1 to duct-tape-2, 3.
-```
-
-By [@aiehon\_aya](https://x.com/aiehon_aya/status/2046348182301683954)
 
 ---
 
@@ -326,6 +214,118 @@ By [@MrLarus](https://x.com/MrLarus/status/2046201836525302032)
 
 ---
 
-**1** · [2](other-2.md) · [3](other-3.md) · [4](other-4.md)
+<a id="freestylefly-case-232"></a>
+
+## 兰亭集序书法帖意境图
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case232.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case232.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+[中文] 结合王羲之的《兰亭集序》里的内容，生成一副书法帖图片，要求图片背景符合《兰亭集序》的意境，背景图可以使用蒙版，前景是《兰亭集序》 [English] Combining the content from Wang Xizhi's "Lantingji Xu", generate a calligraphy copy image, requiring the image background to match the artistic conception of "Lantingji Xu", the background image can use a mask, the foreground is "Lantingji Xu"
+```
+
+By [@liyue\_ai](https://x.com/liyue_ai/status/2045137549149286858)
+
+---
+
+<a id="freestylefly-case-234"></a>
+
+## 朱元璋登基后的推特主页
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case234.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case234.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+[中文] 创建一个明朝朱元璋登基之后的X帖子页面 [English] Create an X post page of Zhu Yuanzhang after his ascension to the throne in the Ming Dynasty
+```
+
+By [@liyue\_ai](https://x.com/liyue_ai/status/2045021302315249738)
+
+---
+
+<a id="freestylefly-case-262"></a>
+
+## 苹果园远观库克发布新机
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case262.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case262.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+[中文] 在Apple Park iPhone 20主题演讲期间拍摄的业余iPhone照片，蒂姆·库克在舞台上演讲。从远处的观众人群中拍摄 [English] Amateur iPhone photo at Apple Park during the iPhone 20 keynote, Tim Cook presenting on stage. Shot from the crowd at a distance
+```
+
+By [@patrickassale](https://x.com/patrickassale/status/2044687244368441742)
+
+---
+
+<a id="freestylefly-case-266"></a>
+
+## 桌面上的黑色圆珠笔手写笔记
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case266.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case266.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+[中文] 一张平放着的打开的笔记本的业余照片，里面填满了用黑色圆珠笔写的手写笔记。笔迹随意且略显凌乱，就像个人笔记，自然的瑕疵，划掉的单词，划线的标题。从略高角度拍摄，来自窗户的自然日光，未使用闪光灯。随意的桌面设置，用 iPhone 拍摄。 [English] Amateur photo of an open notebook lying flat, filled with handwritten notes in black ballpoint pen. The handwriting is casual and slightly messy, like personnal notes, natural imperfections, crossed out words, underlined headings. Shot from slightly above, natural daylight from a window, no flash. Casual desk setting, shot on iPhone
+```
+
+By [@patrickassale](https://x.com/patrickassale/status/2044569086013718958)
+
+---
+
+<a id="freestylefly-case-268"></a>
+
+## 威化岛回军前夕李成桂动态
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case268.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case268.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+[中文] 태조 이성계의 X  페이지(위화도 회군을 벌이기 직전- 최영 장군과 서로 디스하는 내용이 담긴 게시글들)을 만들어 주세요. [English] Please create an X page of King Taejo Yi Seong-gye (right before carrying out the Wihwa Island Retreat - containing posts where he and General Choi Yeong are dissing each other).
+```
+
+By [@SKA\_Neotype](https://x.com/SKA_Neotype/status/2044637900978217334)
+
+---
+
+<a id="freestylefly-case-292"></a>
+
+## 明朝登基宝玉的推文页面
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case292.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case292.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+[中文] 创建一个宝玉（查阅 https://x.com/dotey 这个推主的主页及部分推文）穿越到明朝，登基之后依据其业务/个性，绘制的其新的X帖子页面。 [English] Create a new X post page illustrated for Baoyu (refer to the homepage and some posts of this Twitter user at https://x.com/dotey) after time-traveling to the Ming Dynasty and ascending the throne, based on his business/personality.
+```
+
+By [@tuzi\_ai](https://x.com/tuzi_ai/status/2045193918736736365)
+
+---
+
+<a id="freestylefly-case-293"></a>
+
+## 聚焦人工智能的校园日报
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case293.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case293.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+[中文] 生成一张校园日报，主题AI教育 [English] Generate a campus daily newspaper, theme AI education
+```
+
+By [@MrLarus](https://x.com/MrLarus/status/2044824800909054181)
+
+---
+
+**1** · [2](other-2.md) · [3](other-3.md)
 
 [← Home](../README.md)

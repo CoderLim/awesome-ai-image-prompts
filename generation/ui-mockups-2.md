@@ -1,74 +1,10 @@
 # ui mockups
 
-[← Home](../README.md) · Page 2 / 3
+[← Home](../README.md) · Page 2 / 2
 
-[1](ui-mockups.md) · **2** · [3](ui-mockups-3.md)
+[1](ui-mockups.md) · **2**
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
-
-<a id="freestylefly-case-176"></a>
-
-## 苏轼被贬首日朋友圈曝光
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case176.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case176.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-[中文] 苏轼被贬第一天小红书截图 [English] Su Shi's first day of exile Xiaohongshu screenshot
-```
-
-By [@MrLarus](https://x.com/MrLarus/status/2046585220393324553)
-
----
-
-<a id="freestylefly-case-177"></a>
-
-## 吉利银河暗黑中控界面
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case177.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case177.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-[中文] 帮我生成一个吉利银河m9的中控界面，尺寸为21:9，暗色系 [English] Help me generate a central control interface of Geely Galaxy M9, size 21:9, dark color scheme.
-```
-
-By [@xin\_pai88825](https://x.com/xin_pai88825/status/2046576100592201946)
-
----
-
-<a id="freestylefly-case-184"></a>
-
-## 杜甫朋友圈吐槽茅屋被掀翻
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case184.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case184.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-[中文] 杜甫发朋友圈吐槽房顶被风刮没了 [English] Du Fu posting on WeChat Moments complaining about his roof being blown away by the wind
-```
-
-By [@MrLarus](https://x.com/MrLarus/status/2046585220393324553)
-
----
-
-<a id="freestylefly-case-185"></a>
-
-## 武则天发微博自拍太魔性了
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case185.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case185.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-[中文] 武则天自拍登记发微博 [English] Wu Zetian taking a selfie, registering and posting on Weibo.
-```
-
-By [@MrLarus](https://x.com/MrLarus/status/2046585220393324553)
-
----
 
 <a id="freestylefly-case-197"></a>
 
@@ -182,70 +118,6 @@ By [@joshesye](https://x.com/joshesye/status/2044796366950703316)
 
 ---
 
-<a id="freestylefly-case-255"></a>
-
-## 瑜伽裤女主播展示身材曲线
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case255.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case255.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-[中文] 手机竖屏界面，短视频直播平台风格，一位年轻亚洲女主播在家中直播带货，主播穿着贴身瑜伽裤与简约上衣，身材曲线自然，正在侧身展示裤子的线条与弹性，动作自然不夸张； [English] Mobile vertical screen interface, short video live streaming platform style, a young Asian female streamer selling goods through live streaming at home, the streamer is wearing tight yoga pants and a simple top, natural body curves, turning sideways to show the lines and elasticity of the pants, natural movements without exaggeration;
-```
-
-By [@joshesye](https://x.com/joshesye/status/2044796366950703316)
-
----
-
-<a id="freestylefly-case-256"></a>
-
-## 抖音直播间的绝美女主播
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case256.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case256.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-[中文] 生成一个抖音直播的截图 里面是一个美女在直播 [English] Generate a screenshot of a Douyin livestream, inside there is a beautiful woman livestreaming
-```
-
-By [@joshesye](https://x.com/joshesye/status/2044796366950703316)
-
----
-
-<a id="freestylefly-case-257"></a>
-
-## 抖音汉服美女直播带货截图
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case257.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case257.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-[中文] 生成一个抖音直播的截图里面是一个穿着中国传统服饰的美女在直播卖货 [English] Generate a screenshot of a Douyin live stream, featuring a beautiful woman wearing traditional Chinese clothing selling goods during the live broadcast.
-```
-
-By [@joshesye](https://x.com/joshesye/status/2044796366950703316)
-
----
-
-<a id="freestylefly-case-258"></a>
-
-## 快手直播离婚预告手机截图
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case258.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case258.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-[中文] 生成快手内容截图：主题：直播离婚预告，iPhone尺寸 [English] Generate Kuaishou content screenshot: Theme: Live divorce announcement, iPhone size
-```
-
-By [@MrLarus](https://x.com/MrLarus/status/2045373105041007013)
-
----
-
 <a id="freestylefly-case-259"></a>
 
 ## 精致女孩背后的网贷真相
@@ -256,22 +128,6 @@ By [@MrLarus](https://x.com/MrLarus/status/2045373105041007013)
 
 ```text
 [中文] 生成小红书内容截图，主题：精致女孩背后都有网贷，iPhone尺寸 [English] Generate Xiaohongshu content screenshot, theme: Behind every exquisite girl there is online loan, iPhone size
-```
-
-By [@MrLarus](https://x.com/MrLarus/status/2045373105041007013)
-
----
-
-<a id="freestylefly-case-260"></a>
-
-## 社媒界面截图
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case260.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case260.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-[中文] 生成抖音内容截图，主题：跟上AI浪潮9.9包教会，iPhone尺寸 [English] Generate a screenshot of Douyin content, theme: Catch up with the AI wave, 9.9 to learn it all, iPhone size
 ```
 
 By [@MrLarus](https://x.com/MrLarus/status/2045373105041007013)
@@ -294,38 +150,70 @@ By [@austinit](https://x.com/austinit/status/2044968740782272596)
 
 ---
 
-<a id="freestylefly-case-267"></a>
+<a id="freestylefly-case-287"></a>
 
-## 宋朝文人的赛博朋友圈
+## 不知火舞的小红书主页
 
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case267.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case267.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-[中文] "宋朝人的朋友圈"/"SONG DYNASTY SOCIAL MEDIA FEED"，古今穿越幽默融合界面设计风格，画面模拟手机社交媒体界面，但内容全部是宋朝场景头像是宋代文人画像，用户名"苏东坡SuShi_Official"，发布内容"刚到黄州，被贬了但心情还行。今天自己做了东坡肉，味道绝了，附菜谱："，配图为工笔画风格的东坡肉特写，点赞列表"黄庭坚、秦观、佛印等126人"，评论区"王安石：呵呵""司马光：还是那个味道"，界面元素如点赞图标用宋代花纹替代，状态栏显示"大宋移动 5G"和"元丰三年"，配色为手机深色模式搭配宋代雅致色调，历史与社交媒体的趣味碰撞杰作 [English] "Song Dynasty People's Moments"/"SONG DYNASTY SOCIAL MEDIA FEED", Ancient and modern time-travel humor fusion interface design style, The image simulates a mobile phone social media interface, but the content is entirely Song Dynasty scenes, The avatar is a portrait of a Song Dynasty literati, Username "Su Dongpo SuShi_Official", Post content "Just arrived in Huangzhou, demoted but feeling okay. Made Dongpo pork myself today, tastes amazing, recipe attached:", The attached image is a close-up of Dongpo pork in Gongbi painting style, Likes list "Huang Tingjian, Qin Guan, Fo Yin etc. 126 people", Comments section "Wang Anshi: Hehe" "Sima Guang: Still the same taste", Interface elements such as the like icon are replaced with Song Dynasty patterns, The status bar shows "Great Song Mobile 5G" and "Third Year of Yuanfeng", The color scheme is mobile phone dark mode paired with elegant Song Dynasty tones, A masterpiece of fun collision between history and social media
-```
-
-By [@Panda20230902](https://x.com/Panda20230902/status/2045385588065313057)
-
----
-
-<a id="freestylefly-case-269"></a>
-
-## 拒绝盲目催婚的暖心视频号截图
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case269.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case269.jpg" width="480" alt="Source example"></a>
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case287.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case287.jpg" width="480" alt="Source example"></a>
 
 **Prompt**
 
 ```text
-[中文] 生成视频号内容截图，主题：中老年不要盲目催婚，iPhone尺寸 [English] Generate a screenshot of WeChat Channels content, theme: middle-aged and elderly people should not blindly urge marriage, iPhone size
+[中文] 生成不知火舞的小红书主页截图 [English] Generate a screenshot of Mai Shiranui's Xiaohongshu homepage
 ```
 
-By [@MrLarus](https://x.com/MrLarus/status/2045373105041007013)
+By [@rionaifantasy](https://x.com/rionaifantasy/status/2045356799751303194)
 
 ---
 
-[1](ui-mockups.md) · **2** · [3](ui-mockups-3.md)
+<a id="freestylefly-case-288"></a>
+
+## 抖音美女直播间界面设计
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case288.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case288.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+[中文] 生成抖音直播间界面，内容是一个美女在直播 [English] Generate a TikTok live stream interface, the content is a beautiful woman live streaming
+```
+
+By [@msjiaozhu](https://x.com/msjiaozhu/status/2045470160576999812)
+
+---
+
+<a id="freestylefly-case-308"></a>
+
+## 抖音直播截图画面
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case308.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case308.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+[中文] 9:16 的图片比例，生成一张抖音直播的截图，里面是 xxx 在直播，xxx 手里拿着牌子，牌子里写着 xxxx。 [English] 9:16 aspect ratio, generate a screenshot of a Douyin live stream, inside is xxx live streaming, xxx is holding a sign in their hand, the sign says xxxx.
+```
+
+By [@\_FORAB](https://x.com/_FORAB/status/2044744023261519920)
+
+---
+
+<a id="freestylefly-case-330"></a>
+
+## 月下美女直播画面
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case330.png"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case330.png" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+生成一张直播间的图片，直播间氛围是月下美女跳舞的画面，直播间有很多人评论
+```
+
+By [苍何原创实测（公众号文章《我逆向了 329 条 GPT-Image2 提示词模板，全部开源！》）](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-330)
+
+---
+
+[1](ui-mockups.md) · **2**
 
 [← Home](../README.md)

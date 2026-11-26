@@ -1,8 +1,8 @@
 # illustrations
 
-[← Home](../README.md) · Page 1 / 5
+[← Home](../README.md) · Page 1 / 4
 
-**1** · [2](illustrations-2.md) · [3](illustrations-3.md) · [4](illustrations-4.md) · [5](illustrations-5.md)
+**1** · [2](illustrations-2.md) · [3](illustrations-3.md) · [4](illustrations-4.md)
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
@@ -83,22 +83,6 @@ By [@DeepBlueX0](https://x.com/DeepBlueX0/status/2108194229193461879)
 ```
 
 By [@yourPlugAI](https://x.com/yourPlugAI/status/2108136293477536077)
-
----
-
-<a id="evolink-illustration-case-127"></a>
-
-## Real Scene with White Sketches
-
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2108112787696455681.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2108112787696455681.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Create a premium 4:5 vertical conceptual travel artwork for [COUNTRY / CITY / LOCATION / SUBJECT]. GENERATIVE IMAGE ONLY. Create the complete artwork entirely from the written [COUNTRY / CITY / LOCATION / SUBJECT]. Do not use, request, require, inspect, modify, or reference any existing image. No source image is needed. CORE CONCEPT: Create a highly realistic cinematic travel scene combined with oversized white hand-drawn doodle illustrations. The destination itself forms the complete visual foundation, while imaginative white sketch figures interact with the real architecture, landscape, objects, and atmosphere. DESTINATION: Automatically determine the most recognizable architecture, landscape, streets, structures, transportation, natural features, and cultural details associated with [COUNTRY / CITY / LOCATION / SUBJECT]. Build one coherent scene with accurate perspective, believable materials, natural lighting, and authentic local character. DOODLE INTERACTION: Introduce only one strong visual idea. Create oversized white hand-drawn figures that actively interact with something naturally present in the scene. They may climb, hold, repair, paint, pull, carry, explore, play with, or transform a real environmental element. Their hands, feet, props, and gestures must connect naturally with the surrounding architecture or landscape. DOODLE STYLE: Loose white marker/chalk line drawings, simple expressive figures, minimal facial features, imperfect hand-drawn strokes, varied line thickness, playful proportions, natural gestures, subtle whimsical character. The drawings should feel like elegant hand-drawn lines existing within the scene, never like stickers, clip-art, comic characters, or 3D cartoons. COMPOSITION: Keep the realistic destination as the dominant visual layer. Place the white drawings mainly within natural open areas such as sky, water, roads, walls, or atmospheric space. Allow creative scale differences between the drawings and the environment while maintaining believable perspective and spatial relationships. COLOR: Use the authentic colors and lighting of the chosen destination as the main palette. White linework is the primary graphic accent. Add only a small amount of warm mustard-gold/yellow to selected doodle details such as a prop, light, ribbon, flower, clothing detail, or small object. VISUAL LANGUAGE: Cinematic realism × hand-drawn illustration × surreal scale play × visual metaphor × conceptual travel art × premium editorial advertising. MOOD: Clever, imaginative, minimal, warm, playful, sophisticated, cinematic, and visually memorable. The concept should be immediately understandable but reveal additional details on closer inspection. AVOID: Existing-image editing, image references, source images, copied photographs, image recreation, photo manipulation, collage, altered landmarks, unrelated architecture, excessive characters, full-screen doodles, thick black outlines, sticker effects, 3D cartoon characters, generic cartoon scenery, clutter, excessive effects, text, logos, watermarks, UI elements. OUTPUT: 4:5 vertical composition, ultra-detailed realistic environment, seamless white hand-drawn interaction, premium conceptual travel artwork, polished editorial quality.
-```
-
-By [@Goodmanprotocol](https://x.com/Goodmanprotocol/status/2108112844239892599)
 
 ---
 
@@ -262,22 +246,6 @@ By [@hey\_am\_cherry](https://x.com/hey_am_cherry/status/2106245541508382774)
 
 ---
 
-<a id="evolink-illustration-case-153"></a>
-
-## Raised-Arms Watercolor Portrait
-
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2103714767756259328.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2103714767756259328.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Use the uploaded image ONLY as the FACE REFERENCE. Preserve the exact facial identity from the reference image, including facial structure, eyes, eyebrows, nose, lips, jawline, cheekbones, skin tone, hairline, and overall recognizable appearance. POSE: A young woman leaning slightly forward toward the camera, her upper body angled naturally, both arms raised above and around her head, shoulders lifted, head slightly tilted toward the camera, face turned directly toward the viewer, eyes looking into the camera. One hand is positioned behind the head while the other arm is raised beside the head. Maintain a relaxed yet elegant fashion pose with natural body proportions and realistic anatomy. CAMERA: Close-up portrait, slightly low camera angle, intimate framing, upper body filling most of the frame, cinematic perspective. STYLE: Elegant hand-painted watercolor and fine ink illustration, expressive brush strokes, soft watercolor washes, textured cold-pressed watercolor paper, delicate ink outlines, subtle paint bleeding, warm Mediterranean travel aesthetic, sophisticated editorial fashion illustration, highly detailed face, natural skin shading, artistic handmade texture. IMPORTANT: The uploaded image is ONLY for facial identity. Do not copy its pose, clothing, background, composition, or body position. Create a completely new composition using the pose described above. NEGATIVE PROMPT: different face, altered facial identity, face distortion, face swap artifacts, different pose, stiff posture, unnatural anatomy, extra fingers, missing fingers, deformed hands, 3D render, anime, cartoon, photorealistic photography.
-```
-
-By [@Arina\_hoqe](https://x.com/Arina_hoqe/status/2103714798324125892)
-
----
-
 <a id="evolink-illustration-case-154"></a>
 
 ## Person and 3D Character Composite
@@ -294,38 +262,70 @@ By [@Arzoo12sh](https://x.com/Arzoo12sh/status/2103672438798360854)
 
 ---
 
-<a id="evolink-illustration-case-156"></a>
+<a id="evolink-illustration-case-165"></a>
 
-## Charcoal Background and Color Figure
+## Person and Hand-Drawn Double
 
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2102597019475091456.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2102597019475091456.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Create a layered composite portrait of the SAME FEMALE PERSON from the uploaded face reference image. CONCEPT: A massive, highly detailed charcoal/pencil sketch portrait fills the background like a hand-drawn wall mural, while a sharp full-color photorealistic seated portrait of the same woman appears in the foreground on a dark reflective floor. BACKGROUND SKETCH PORTRAIT: Large detailed black-and-white pencil and charcoal sketch of the same woman, head turned slightly to the side. Preserve her exact hairstyle and hair texture, facial features, eyebrows, eyes, nose, lips, jawline and natural facial proportions. The sketch should have visible pencil hatch strokes, charcoal shading, fine facial linework and realistic hand-drawn texture. Add rough torn-paper edges, ink-splatter marks and charcoal dust surrounding the sketch, blending naturally into a warm sepia-grey textured wall. FOREGROUND FEMALE SUBJECT: The same woman is seated casually on the floor. One leg is bent with the knee raised and one forearm resting naturally on the knee; the other leg extends outward to the side. Her torso is slightly turned, head tilted while looking off to the side, with a calm, thoughtful and natural expression. IDENTITY LOCK — HIGHEST PRIORITY: Use ONLY the uploaded female face reference image for facial identity and facial structure in BOTH the background sketch and the foreground photorealistic woman. The foreground woman and background sketch must represent EXACTLY the same real person. Preserve the exact: - Face shape - Jawline and jaw width - Cheek structure - Forehead shape - Exact hairline - Hairstyle and hair texture - Eyebrow shape - Eye shape, size and spacing - Nose structure - Lip shape and proportions - Natural facial features - Skin tone - Skin texture - Natural facial imperfections - Overall feminine facial proportions ZERO identity change. Do NOT beautify or alter the face. Do NOT change her age or facial structure. Do NOT feminize or masculinize the face. Do NOT smooth away natural skin texture. Do NOT make her look like a celebrity or model. Do NOT use a generic female face. Do NOT introduce facial morphing. Do NOT change her hairstyle or hairline unless required by the reference. Do NOT create a different person. The uploaded reference image is the ONLY source of facial identity. BODY: Natural feminine body proportions, realistic physique, natural skin tone and relaxed seated posture. OUTFIT: Black hooded sweatshirt with visible drawstrings, light grey jogger sweatpants and clean white-and-grey sneakers. ENVIRONMENT: Warm sepia-grey textured wall covered by the giant detailed pencil/charcoal portrait. Rough ink-splatter, charcoal dust and expressive pencil marks spread naturally around the sketch. Dark polished reflective floor beneath the seated woman, creating a subtle soft mirror reflection. COMPOSITION: Vertical editorial poster composition. The large background sketch dominates the frame while the full-color seated woman is clearly separated in the foreground. Strong visual depth between the hand-drawn portrait and realistic subject. Balanced negative space. Premium fashion-editorial composition. LIGHTING: Soft, even studio lighting from the front. Minimal harsh shadows. Warm neutral illumination. Natural skin highlights. Subtle controlled reflections on the dark floor. COLOR GRADING: Background: sepia-grey monochrome charcoal/pencil aesthetic. Foreground: natural full-color female subject with realistic warm skin tones. Strong but elegant contrast between the monochrome sketch and realistic woman. Clean high-contrast editorial poster color grading. CAMERA / QUALITY: Sony A7R IV 50mm lens f/1.8 Foreground subject tack sharp. Extremely detailed skin texture, individual hair strands and clothing fabric. Background pencil strokes, charcoal shading and ink-splatter texture highly detailed. Ultra-photorealistic. Premium editorial photography. Natural depth of field. Realistic materials and reflections. 4K-level detail. Zero AI-looking artifacts. NEGATIVE PROMPT: No identity change, no different face, no generic female face, no celebrity resemblance, no face-swap artifacts, no facial distortion, no asymmetrical eyes, no extra fingers, no extra limbs, no malformed hands, no duplicated body parts, no plastic skin, no excessive skin smoothing, no beauty filter, no cartoon, no anime, no unrealistic body proportions, no blurry face, no low resolution, no watermark, no text, no logo. OUTPUT: Aspect Ratio: 3:4 Photorealistic female portrait Identity preservation is the absolute highest priority.
-```
-
-By [@Kubra\_286](https://x.com/Kubra_286/status/2102597096545071243)
-
----
-
-<a id="evolink-illustration-case-158"></a>
-
-## Two-Person Watercolor Fashion Illustration
-
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2102244364030488576.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2102244364030488576.jpg" width="480" alt="Source example"></a>
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2100412139173445632.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2100412139173445632.jpg" width="480" alt="Source example"></a>
 
 **Prompt**
 
 ```text
-Create a cohesive editorial watercolor portrait featuring the same young woman and young man from the provided reference images together in one elegant composition. The woman has long dark brown wavy hair, soft natural facial features and a gentle confident smile. The man has thick, naturally wavy dark brown hair, defined facial features and a calm subtle expression. Preserve their facial identity and recognizable features accurately from the reference images. Dress both subjects in coordinated olive-green outfits with natural fabric texture. The woman wears an olive-green rolled-sleeve button-up shirt over a simple white inner top, while the man wears an olive-green rolled-sleeve button-up shirt over a white T-shirt. Both wear simple dark smartwatches. Place them together in a cozy modern creative workspace, seated naturally near the same wooden desk, with a silver laptop, notebooks, books, pens, a ceramic mug, indoor plants, wooden shelves, framed travel photographs and a warm glowing table lamp in the background. Use a sophisticated warm beige, cream, olive and muted brown color palette. Surround the composition with artistic watercolor brush strokes, subtle ink splashes and textured handmade paper edges. Keep the subjects photorealistic while blending the environment with delicate watercolor and painterly textures. Natural warm cinematic lighting, soft shadows, shallow depth of field, realistic skin texture, detailed hair strands, authentic clothing folds, harmonious composition, premium editorial photography mixed with watercolor illustration, elegant and modern aesthetic, high detail, vertical portrait composition. IMPORTANT: No names, no logos, no captions, no typography, no watermark, no duplicated people, no distorted faces, no extra fingers or limbs. Both subjects should look naturally integrated into the same scene, not pasted together.
+Create an ultra-realistic cinematic portrait of a young woman standing against a warm beige textured wall, seamlessly interacting with a large hand-drawn black-and-white cartoon version of herself. The real woman has long wavy dark auburn hair, natural facial features, soft realistic skin texture, and a calm slightly curious expression. She wears an oversized plain white T-shirt, loose beige cargo pants with multiple pockets, and chunky white sneakers. Full-body composition, relaxed standing pose, hands casually near her pockets. Beside and slightly behind her, draw a large expressive hand-drawn cartoon character of the same woman, sketched directly onto the wall with rough black ink lines. The cartoon has messy long hair, oversized expressive eyes, a playful confused expression, casual oversized clothing, baggy pants and sneakers. The cartoon character should appear to be interacting with the real woman, with one arm extended outward and the other raised in a playful gesture. Create a convincing 2D drawing + 3D real-person fusion, where the cartoon is visibly drawn on the wall but feels naturally integrated into the physical environment. Add subtle wall shadows, realistic ambient lighting, natural contact shadows, detailed fabric texture, realistic hair strands, slight imperfections in the wall and floor, and cinematic depth. Style: photorealistic, surreal mixed-media photography, realistic human + hand-drawn illustration, cinematic lighting, warm muted tones, editorial fashion photography, highly detailed, natural proportions, 8K, sharp focus. Composition: vertical 9:16, full body, centered subject, camera at eye level, realistic perspective, minimal background, no text, no watermark.
 ```
 
-By [@mehwishkiran07](https://x.com/mehwishkiran07/status/2102244437032354046)
+By [@Alina\_with\_Ai](https://x.com/Alina_with_Ai/status/2100412898363547998)
 
 ---
 
-**1** · [2](illustrations-2.md) · [3](illustrations-3.md) · [4](illustrations-4.md) · [5](illustrations-5.md)
+<a id="evolink-illustration-case-166"></a>
+
+## Rainy New York Male Watercolor Portrait
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2100063625985839104.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2100063625985839104.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+TITLE: New York Rainy Day — Male Character Watercolor Portrait ASPECT RATIO: 9:16 REFERENCE INPUTS: <<<FACE_REFERENCE>>> Use the uploaded male face reference as the exact facial identity reference. FACE REFERENCE RULES: Preserve the male character's exact facial identity, facial structure, eyes, eyebrows, nose, lips, jawline, skin tone, hairstyle characteristics, and overall recognizable appearance from <<<FACE_REFERENCE>>>. Do not redesign, replace, beautify into a different person, feminize, or alter his identity. Maintain consistent facial proportions throughout the image. SCENE: A beautiful cinematic urban watercolor illustration of the male character standing on a rain-soaked Manhattan street with the Empire State Building towering dramatically in the background. POSE: The man is positioned in the foreground, slightly turned three-quarters toward the camera. He gently holds a black elegant umbrella with one hand while his other hand naturally adjusts a strand of hair near his forehead. His face is clearly visible. He looks directly toward the viewer with a subtle confident expression and calm, sophisticated gaze. Natural fashion-editorial pose, graceful posture, relaxed shoulders, elegant masculine body language. The pose should feel like a trending cinematic Instagram/Pinterest portrait captured during a rainy New York evening. OUTFIT: Elegant modern men's city-fashion outfit, sophisticated neutral trench coat over a premium fitted outfit, subtle accessories such as a minimalist watch, natural textured hairstyle. Premium men's fashion editorial aesthetic without looking artificial. ENVIRONMENT: Rainy Manhattan street, Empire State Building as the dominant architectural form in the center background, tall Art Deco buildings on both sides, wet asphalt, pedestrians with umbrellas, classic yellow taxis and modern cars, glowing street lamps, reflections in puddles. ART STYLE: Watercolor style combined with loose architectural acrylic painting; fine ink sketching blended with soft watercolor washes; urban sketch illustration; expressive brushstrokes; ink splatter and bleeding effects; unfinished white borders; cold-pressed textured watercolor paper; highly detailed yet loose and airy. COLOR PALETTE: Warm earth tones—creamy beige, warm sand, burnt sienna, terracotta ochre, light umber, pale white, cool slate gray, soft Payne's gray-blue, touches of olive green and burnt orange. Subtle warm golden highlights from street lights. LIGHTING: Soft rainy afternoon transitioning into warm evening light; gentle glowing street lamps; luminous reflections on wet pavement; soft atmospheric perspective; delicate shadows; one dominant form—the Empire State Building—rendered sharp and bold. DETAILS: Intricate architectural details; fine cross-hatched ink work; wet-on-wet watercolor bleeding; visible paper texture; expressive loose shadow strokes; natural watercolor imperfections; subtle ink splatters; beautiful reflections of the man, umbrella, buildings and lights in the wet street. COMPOSITION: Vertical 9:16 cinematic composition. Male character prominent in the foreground while the Empire State Building creates a powerful visual backdrop. Balanced leading lines from the street toward the building. Elegant negative space around the character. Fashion editorial + travel postcard + premium watercolor illustration. IMPORTANT: Photorealistic male facial identity translated into watercolor illustration. Preserve masculine facial characteristics from <<<FACE_REFERENCE>>>. Do not make the character cartoonish. No anime. No 3D render. No plastic-looking skin. No distorted hands. No extra fingers. No duplicated person. No distorted face. No feminized facial features. No altered facial proportions. Keep the artwork painterly, sophisticated, loose, atmospheric and premium. --ar 9:16 --style raw --stylize 250
+```
+
+By [@AiWithTariq](https://x.com/AiWithTariq/status/2100063691198669194)
+
+---
+
+<a id="evolink-illustration-case-168"></a>
+
+## Rainy New York Female Watercolor Portrait
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2099864394255785984.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2099864394255785984.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+TITLE: New York Rainy Day — Female Character Watercolor Portrait ASPECT RATIO: 9:16 REFERENCE INPUTS: <<<FACE_REFERENCE>>> Use the uploaded female face reference as the exact facial identity reference. FACE REFERENCE RULES: Preserve the female character's exact facial identity, facial structure, eyes, eyebrows, nose, lips, jawline, skin tone, and overall recognizable appearance from <<<FACE_REFERENCE>>>. Do not redesign, replace, beautify into a different person, or alter her identity. Maintain consistent facial proportions throughout the image. SCENE: A beautiful cinematic urban watercolor illustration of the female character standing on a rain-soaked Manhattan street with the Empire State Building towering dramatically in the background. POSE: The woman is positioned in the foreground, slightly turned three-quarters toward the camera. She gently holds a black elegant umbrella with one hand while her other hand lightly adjusts a strand of hair near her face. Her face is clearly visible. She looks directly toward the viewer with a subtle confident smile and calm, sophisticated expression. Natural fashion-editorial pose, graceful posture, relaxed shoulders, elegant body language. The pose should feel like a trending cinematic Instagram/Pinterest portrait captured during a rainy New York evening. OUTFIT: Elegant modern city-fashion outfit, sophisticated neutral trench coat over a stylish fitted outfit, subtle accessories, natural flowing hair. Premium fashion editorial aesthetic without looking artificial. ENVIRONMENT: Rainy Manhattan street, Empire State Building as the dominant architectural form in the center background, tall Art Deco buildings on both sides, wet asphalt, pedestrians with umbrellas, classic yellow taxis and modern cars, glowing street lamps, reflections in puddles. ART STYLE: Watercolor style combined with loose architectural acrylic painting; fine ink sketching blended with soft watercolor washes; urban sketch illustration; expressive brushstrokes; ink splatter and bleeding effects; unfinished white borders; cold-pressed textured watercolor paper; highly detailed yet loose and airy. COLOR PALETTE: Warm earth tones—creamy beige, warm sand, burnt sienna, terracotta ochre, light umber, pale white, cool slate gray, soft Payne's gray-blue, touches of olive green and burnt orange. Subtle warm golden highlights from street lights. LIGHTING: Soft rainy afternoon transitioning into warm evening light; gentle glowing street lamps; luminous reflections on wet pavement; soft atmospheric perspective; delicate shadows; one dominant form—the Empire State Building—rendered sharp and bold. DETAILS: Intricate architectural details; fine cross-hatched ink work; wet-on-wet watercolor bleeding; visible paper texture; expressive loose shadow strokes; natural watercolor imperfections; subtle ink splatters; beautiful reflections of the woman, umbrella, buildings and lights in the wet street. COMPOSITION: Vertical 9:16 cinematic composition. Female character prominent in the foreground while the Empire State Building creates a powerful visual backdrop. Balanced leading lines from the street toward the building. Elegant negative space around the character. Fashion editorial + travel postcard + premium watercolor illustration. IMPORTANT: Photorealistic facial identity translated into watercolor illustration. Do not make the character cartoonish. No anime. No 3D render. No plastic-looking skin. No distorted hands. No extra fingers. No duplicated person. No distorted face. Keep the artwork painterly, sophisticated, loose, atmospheric and premium. --ar 9:16 --style raw --stylize 250
+```
+
+By [@Kubra\_286](https://x.com/Kubra_286/status/2099864465013629192)
+
+---
+
+<a id="evolink-travel-journals-case-195"></a>
+
+## Watercolor Travel Magazine Spread
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2108198950264270848.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2108198950264270848.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+Create a premium 4:5 vertical travel-editorial artwork for [COUNTRY / CITY / LOCATION / SUBJECT]. PURE GENERATION. Invent the complete artwork from the written destination or subject alone. The written destination is the only input. Create every visual element from your own knowledge and imagination. MASTER STYLE LOCK: Hand-painted watercolor on warm cream textured paper. Minimalist travel-editorial poster. Transparent watercolor blended with soft gouache. Soft imperfect brushwork, visible paper grain, organic painted edges, muted natural colors, generous negative space, quiet nostalgic atmosphere, sophisticated handcrafted art-book quality. Flat illustrated artwork with painterly depth. No 3D rendering, no glossy finish, no cartoon style, no digital photorealism. DESTINATION INTERPRETATION: Automatically identify the strongest visual identity of [COUNTRY / CITY / LOCATION / SUBJECT]. Select the most recognizable landmark, architecture, landscape, street character, transportation, vegetation, local objects, or cultural details that naturally belong to the destination. Create ONE unified scene rather than a collection of separate elements. COMPOSITION: Use an elegant vertical editorial composition with one dominant focal point and several smaller supporting details. Establish clear foreground, middle ground, and background layers using watercolor washes and simplified shapes. Leave generous warm cream space around important forms. Keep the silhouette clean and immediately recognizable. Avoid overcrowding. LOCAL STORY: Show an authentic everyday moment connected to the destination. Include subtle human activity only when it strengthens the story: walking, cycling, sitting, shopping, traveling, eating, working, or simply enjoying the surroundings. Favor ordinary local atmosphere over generic tourism imagery. LIGHT & ATMOSPHERE: Automatically choose lighting that suits the destination and scene: soft morning light, warm afternoon glow, misty weather, gentle sunset, or quiet evening illumination. Use atmospheric watercolor washes to create depth while maintaining a calm, delicate feeling. COLOR LANGUAGE: Build the palette naturally from [COUNTRY / CITY / LOCATION / SUBJECT]. Use warm cream, muted ochre, terracotta, dusty blue, soft green, faded red, warm grey, and subtle golden tones where appropriate. Keep the colors slightly desaturated, harmonious, and naturally layered. TYPOGRAPHY: At the bottom of the artwork, add three restrained editorial text elements: [LOCATION NAME] [SHORT DESTINATION-INSPIRED SUBTITLE] [SHORT WARM POETIC SENTENCE] Use elegant minimal typography with generous spacing. Keep it secondary to the artwork and ensure all wording is clean and correctly spelled. FINAL AESTHETIC: Premium handmade watercolor travel poster × contemporary editorial illustration × nostalgic travel memory × quiet everyday life × sophisticated art-book design. The finished artwork should feel like a beautifully remembered place painted by hand: atmospheric, personal, refined, understated, and unmistakably connected to [COUNTRY / CITY / LOCATION / SUBJECT]. AVOID: Any editing workflow, source material, references, existing compositions, copied imagery, collage construction, unrelated landmarks, generic scenery, excessive detail, oversaturated colors, harsh outlines, glossy digital effects, CGI, 3D objects, cartoon characters, clutter, excessive typography, logos, watermarks, interface elements. FORMAT: 4:5 vertical portrait composition, warm cream paper, handcrafted watercolor texture, generous negative space, premium print-quality finish.
+```
+
+By [@Goodmanprotocol](https://x.com/Goodmanprotocol/status/2108199004546933097)
+
+---
+
+**1** · [2](illustrations-2.md) · [3](illustrations-3.md) · [4](illustrations-4.md)
 
 [← Home](../README.md)

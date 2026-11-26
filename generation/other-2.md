@@ -1,234 +1,10 @@
 # other
 
-[← Home](../README.md) · Page 2 / 4
+[← Home](../README.md) · Page 2 / 3
 
-[1](other.md) · **2** · [3](other-3.md) · [4](other-4.md)
+[1](other.md) · **2** · [3](other-3.md)
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
-
-<a id="freestylefly-case-232"></a>
-
-## 兰亭集序书法帖意境图
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case232.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case232.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-[中文] 结合王羲之的《兰亭集序》里的内容，生成一副书法帖图片，要求图片背景符合《兰亭集序》的意境，背景图可以使用蒙版，前景是《兰亭集序》 [English] Combining the content from Wang Xizhi's "Lantingji Xu", generate a calligraphy copy image, requiring the image background to match the artistic conception of "Lantingji Xu", the background image can use a mask, the foreground is "Lantingji Xu"
-```
-
-By [@liyue\_ai](https://x.com/liyue_ai/status/2045137549149286858)
-
----
-
-<a id="freestylefly-case-234"></a>
-
-## 朱元璋登基后的推特主页
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case234.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case234.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-[中文] 创建一个明朝朱元璋登基之后的X帖子页面 [English] Create an X post page of Zhu Yuanzhang after his ascension to the throne in the Ming Dynasty
-```
-
-By [@liyue\_ai](https://x.com/liyue_ai/status/2045021302315249738)
-
----
-
-<a id="freestylefly-case-245"></a>
-
-## 马斯克专属篆刻印章设计
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case245.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case245.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-[中文] 给”埃隆·马斯克”设计一组篆刻印章 [English] Design a set of seal carving stamps for "Elon Musk"
-```
-
-By [@akokoi1](https://x.com/akokoi1/status/2045693939584516441)
-
----
-
-<a id="freestylefly-case-246"></a>
-
-## 黑白线稿勾勒的上海风情
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case246.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case246.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-[中文] 设计一张黑色线稿风格的上海明信片 [English] Design a Shanghai postcard in black line art style.
-```
-
-By [@akokoi1](https://x.com/akokoi1/status/2045693939584516441)
-
----
-
-<a id="freestylefly-case-250"></a>
-
-## 小王子与星舰的浪漫联名
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case250.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case250.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-[中文] 设计一张小王子和SpaceX联名的明信片 [English] Design a postcard co-branded by The Little Prince and SpaceX
-```
-
-By [@akokoi1](https://x.com/akokoi1/status/2045693939584516441)
-
----
-
-<a id="freestylefly-case-251"></a>
-
-## 言叶之庭春雨绿意单日历
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case251.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case251.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-[中文] 生成一张言叶之庭2026年4月19日单日日历 [English] Generate a single-day calendar for The Garden of Words on April 19, 2026
-```
-
-By [@akokoi1](https://x.com/akokoi1/status/2045693939584516441)
-
----
-
-<a id="freestylefly-case-262"></a>
-
-## 苹果园远观库克发布新机
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case262.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case262.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-[中文] 在Apple Park iPhone 20主题演讲期间拍摄的业余iPhone照片，蒂姆·库克在舞台上演讲。从远处的观众人群中拍摄 [English] Amateur iPhone photo at Apple Park during the iPhone 20 keynote, Tim Cook presenting on stage. Shot from the crowd at a distance
-```
-
-By [@patrickassale](https://x.com/patrickassale/status/2044687244368441742)
-
----
-
-<a id="freestylefly-case-266"></a>
-
-## 桌面上的黑色圆珠笔手写笔记
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case266.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case266.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-[中文] 一张平放着的打开的笔记本的业余照片，里面填满了用黑色圆珠笔写的手写笔记。笔迹随意且略显凌乱，就像个人笔记，自然的瑕疵，划掉的单词，划线的标题。从略高角度拍摄，来自窗户的自然日光，未使用闪光灯。随意的桌面设置，用 iPhone 拍摄。 [English] Amateur photo of an open notebook lying flat, filled with handwritten notes in black ballpoint pen. The handwriting is casual and slightly messy, like personnal notes, natural imperfections, crossed out words, underlined headings. Shot from slightly above, natural daylight from a window, no flash. Casual desk setting, shot on iPhone
-```
-
-By [@patrickassale](https://x.com/patrickassale/status/2044569086013718958)
-
----
-
-<a id="freestylefly-case-268"></a>
-
-## 威化岛回军前夕李成桂动态
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case268.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case268.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-[中文] 태조 이성계의 X  페이지(위화도 회군을 벌이기 직전- 최영 장군과 서로 디스하는 내용이 담긴 게시글들)을 만들어 주세요. [English] Please create an X page of King Taejo Yi Seong-gye (right before carrying out the Wihwa Island Retreat - containing posts where he and General Choi Yeong are dissing each other).
-```
-
-By [@SKA\_Neotype](https://x.com/SKA_Neotype/status/2044637900978217334)
-
----
-
-<a id="freestylefly-case-281"></a>
-
-## 赛博朋克科幻曼荼罗
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case281.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case281.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-[中文] でChatGPTで画像を作成してもらって、今日また作成してもらったらGPT image 2かもしれず、出来が変わったように見えるのでメモ 左の水色と黄色のが先週 右の紫のが今日 右のは透明感とか解像度、緻密さが違うような気がする… プロンプト 曼荼羅の近未来SF版を描いて [English] I had ChatGPT create images, and when I had it create them again today, it might be GPT image 2, and it seems like the quality has changed, so I'm making a note of it The light blue and yellow one on the left is from last week The purple one on the right is from today I feel like the transparency, resolution, and fineness are different for the one on the right. Prompt Draw a near-future sci-fi version of a mandala
-```
-
-By [@4WEB1](https://x.com/4WEB1/status/2045390207072256179)
-
----
-
-<a id="freestylefly-case-292"></a>
-
-## 明朝登基宝玉的推文页面
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case292.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case292.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-[中文] 创建一个宝玉（查阅 https://x.com/dotey 这个推主的主页及部分推文）穿越到明朝，登基之后依据其业务/个性，绘制的其新的X帖子页面。 [English] Create a new X post page illustrated for Baoyu (refer to the homepage and some posts of this Twitter user at https://x.com/dotey) after time-traveling to the Ming Dynasty and ascending the throne, based on his business/personality.
-```
-
-By [@tuzi\_ai](https://x.com/tuzi_ai/status/2045193918736736365)
-
----
-
-<a id="freestylefly-case-293"></a>
-
-## 聚焦人工智能的校园日报
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case293.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case293.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-[中文] 生成一张校园日报，主题AI教育 [English] Generate a campus daily newspaper, theme AI education
-```
-
-By [@MrLarus](https://x.com/MrLarus/status/2044824800909054181)
-
----
-
-<a id="freestylefly-case-294"></a>
-
-## 精美潮汕菜馆菜单图
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case294.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case294.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-[中文] 生成一张潮菜馆菜单图 [English] Generate a Teochew restaurant menu image.
-```
-
-By [@MrLarus](https://x.com/MrLarus/status/2044824800909054181)
-
----
-
-<a id="freestylefly-case-295"></a>
-
-## 复古传统老黄历二零二六年四月十八
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case295.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case295.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-[中文] 生成一张2026年4月18日的老黄历 [English] Generate an old almanac for April 18, 2026
-```
-
-By [@MrLarus](https://x.com/MrLarus/status/2044824800909054181)
-
----
 
 <a id="freestylefly-case-297"></a>
 
@@ -243,38 +19,6 @@ By [@MrLarus](https://x.com/MrLarus/status/2044824800909054181)
 ```
 
 By [@maxescu](https://x.com/maxescu/status/2045203839910056014)
-
----
-
-<a id="freestylefly-case-300"></a>
-
-## 黑板上的出师表全文
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case300.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case300.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-[中文] 生成图片: 手写在教室黑板上的出师表全文，真实感的粉笔字迹，晴朗白天用iPhone手机实拍 [English] Generate image: The full text of Chu Shi Biao handwritten on a classroom blackboard, realistic chalk handwriting, taken with an iPhone in real life on a sunny day
-```
-
-By [@rionaifantasy](https://x.com/rionaifantasy/status/2045356799751303194)
-
----
-
-<a id="freestylefly-case-303"></a>
-
-## 人教版三年级语文课本内页
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case303.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case303.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-[中文] 生成人教版小学三年级语文课本的一页 [English] Generate a page from the PEP (People's Education Press) primary school third-grade Chinese textbook
-```
-
-By [@MrLarus](https://x.com/MrLarus/status/2044824800909054181)
 
 ---
 
@@ -326,6 +70,262 @@ By [苍何原创实测（公众号文章《我逆向了 329 条 GPT-Image2 提�
 
 ---
 
-[1](other.md) · **2** · [3](other-3.md) · [4](other-4.md)
+<a id="freestylefly-case-337"></a>
+
+## 《短歌行》诗词意境图
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case337.png"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case337.png" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+帮我生成一张《短歌行》的意境图，带整篇《短歌行》文字
+```
+
+By [苍何原创实测（公众号文章《我逆向了 329 条 GPT-Image2 提示词模板，全部开源！》）](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-337)
+
+---
+
+<a id="freestylefly-case-338"></a>
+
+## 《赤壁怀古》长卷图
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case338.png"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case338.png" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+帮我生成一张《赤壁怀古》的长卷图，带整篇《赤壁赋》文字
+```
+
+By [苍何原创实测（公众号文章《我逆向了 329 条 GPT-Image2 提示词模板，全部开源！》）](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-338)
+
+---
+
+<a id="freestylefly-case-340"></a>
+
+## 彼岸花丛中的红妆女子
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case340.png"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case340.png" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+异质感oc，绝美红妆女子，位于彼岸花丛中，张力。 唐琬《钗头凤·世情薄》 世情薄，人情恶，雨送黄昏花易落。晓风干，泪痕残。欲笺心事，独语斜阑。难，难，难！
+```
+
+By [@xiaofenggan](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-340)
+
+---
+
+<a id="freestylefly-case-342"></a>
+
+## 四季包装 Campaign 宫格
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case342.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case342.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+PHASE 1 - PRODUCT: [ITEM] in [MATERIAL] packaging, minimal label design PHASE 2 - GRID: 2x2 seasonal grid, four distinct brand worlds PHASE 3 - COMPOSITION: each quadrant a full campaign scene with props and environment PHASE 4 - CONSISTENCY: same product silhouette, four distinct palettes Swap: [ITEM] / [MATERIAL] / [LABEL STYLE]
+```
+
+By [@SRKDAN](https://x.com/SRKDAN/status/2048582939504431195)
+
+---
+
+<a id="freestylefly-case-351"></a>
+
+## 健身品牌力量 Campaign
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case351.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case351.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+Cinematic fitness campaign, oversized dumbbell placed diagonally like a statement prop, female model in red performance wear and white shorts seated on one side of the dumbbell, one leg bent, one extended, minimal black studio, reflective floor, bold word “STRENGTH” behind in large typography, sharp lighting, ultra-clean composition, luxury sports aesthetic, 1:1.
+```
+
+By [@AIwithSynthia](https://x.com/AIwithSynthia/status/2048601383545577614)
+
+---
+
+<a id="freestylefly-case-368"></a>
+
+## 印度餐厅菜单改造宣传图
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case368.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case368.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+这是india 料理中的一份真实menu。根据此 重新生成带文本说明的 引人入胜垂涎欲滴的 说明图片 先用English 文本易于识别（手机小屏幕） 这个是beef roast
+```
+
+By [@Johnson998877](https://x.com/Johnson998877/status/2050354965110268123)
+
+---
+
+<a id="freestylefly-case-373"></a>
+
+## 高端肉类海鲜品牌英雄图
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case373.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case373.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+一、品牌基础设定 品牌名称：[请填写，例如：PRIME STEAK / OCEAN PRIME] 品牌标语：[请填写，例如：Steakhouse Quality, Your Table / Restaurant Grade, Home Delivered] 主色调：[请填写，例如：黑金 / 深红+金 / 深蓝+银] 字体风格： 标题：[请填写，例如：金色衬线体，大写，奢华感] 正文：[请填写，例如：细衬线体/无衬线体] 二、核心视觉元素 台面材质：[请填写，例如：大理石/黑色石板] 背景调性：[请填写，例如：深色渐变/暗调餐厅环境] 光线风格：[请填写，例如：聚光/侧光/顶部照明] 三、主产品定义（必填） 产品名称/类型：[请填写，例如：和牛牛排 / 帝王蟹 / 北极甜虾] 产品数量/摆放：[请填写，例如：1份单品 / 3块整齐摆放] 呈现方式：[请填写，例如：切片展示 / 带骨展示 / 原壳展示] 产品特色/质感提示：[请填写，例如：肉质纹理清晰、多汁感 / 光泽晶亮 / 肉眼可见油花]
+```
+
+By [@xpg0970](https://x.com/xpg0970/status/2050108279385419965)
+
+---
+
+<a id="freestylefly-case-374"></a>
+
+## 彩色潦草小狗线条风格重绘
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case374.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case374.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+彩色潦草小狗线条风格绘制该图，童趣和doodle加入其中，务必使用毫无章法的绘制手法，凌乱和草率即可。
+```
+
+By [@berryxia](https://x.com/berryxia/status/2050226420681757102)
+
+---
+
+<a id="freestylefly-case-375"></a>
+
+## 古希腊三哲时间轴城市图
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case375.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case375.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+二千五百年前，柏拉图，苏格拉底， 亚力士多德，坐在雅典街头聊天，聊出了世界文明史的源头。 背景可以加上他们聊天内容，按时间轴的走向，重叠在古希腊雅典的城市风光中。
+```
+
+By [@ToroJushiAi](https://x.com/ToroJushiAi/status/2050713034503409874)
+
+---
+
+<a id="freestylefly-case-383"></a>
+
+## AI 日常生活 iPhone 抓拍
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case383.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case383.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+I want to see what you really look like. Draw a snapshot of your everyday life as if it were accidentally taken on an iPhone. Make it feel like a very ordinary, imperfect candid shot. The photo should have slight motion blur, with uneven, natural lighting.
+```
+
+By [@Ciri\_ai](https://x.com/Ciri_ai/status/2051292618248904809)
+
+---
+
+<a id="freestylefly-case-385"></a>
+
+## 青岛啤酒灵感女装系列
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case385.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case385.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+Inspired by Tsingtao (China beer)🍺 “Inspired by this product, design a set of cool-style women's clothing”
+```
+
+By [@Popcraft\_ai](https://x.com/Popcraft_ai/status/2051142270381170754)
+
+---
+
+<a id="freestylefly-case-391"></a>
+
+## 四国文化锚点服装设计宫格
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case391.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case391.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+<instructions> input: continent pick 4 lesser known countries in that continent function drawx($lesser known country){ > Anchor 1: "$lesser known's famous architecture" (it's texture, material and color) > Anchor 2: "$lesser known's famous fashion " (it's texture, material and color) > Anchor 3: "$lesser known's famous food " (it's texture, material and color) > > **Instruction:** Render a dress design that exists at the exact center of this triangle. } output: 2x2 grid, drawx( for each lesser known country)
+```
+
+By [@Gdgtify](https://x.com/Gdgtify/status/2051428657571279137)
+
+---
+
+<a id="freestylefly-case-403"></a>
+
+## 小红书数字破屏 3D 女孩
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case403.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case403.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+将一位气质绝佳的女孩放置在一个显示小红书帖文的3D透明玻璃手机画面中，并重新调整她的身体姿势，使她看起来像是正从屏幕中突破、进入现实世界。其中一只脚必须强烈地朝向观者延伸，采用戏剧化的 3D 透视效果，创造出强烈的深度感与沉浸感。整体姿势需要具有动态感、自然且符合人体结构，就像是在从屏幕中跨步而出的瞬间。 手机屏幕边缘出现真实细腻的玻璃裂纹与数字粒子效果，大量发光的像素碎片与光粒向外扩散，形成富有未来感的“数字破屏”视觉特效。所有碎片与光效自然围绕人物运动方向展开，具有电影级空间层次感。 整体画面采用温暖米色、柔粉色与梦幻紫色渐变背景，结合金粉色夕阳光斑与电影级柔光渲染。Pixar风格与半现实主义融合，超精细材质，柔和景深，电影感光影，8K超高清品质。 将画面优化为竖版【9:16】比例（1080×1440），适用于社交媒体展示。
+```
+
+By [@MrGafish](https://x.com/MrGafish/status/2052632520563528051)
+
+---
+
+<a id="freestylefly-case-408"></a>
+
+## Cozy Academia 学习手记
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case408.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case408.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+Dreamy cinematic study aesthetic, young Asian girl with long dark hair studying outdoors at a wooden table during golden hour, cozy oversized green sweater and scarf, writing in notebook beside open laptop, historic university campus in background, warm sunset lighting, soft glow, autumn atmosphere, aesthetic doodles and handwritten notes floating around image, kawaii scrapbook style overlays, pastel hearts and stars, motivational text, shallow depth of field, nostalgic film grain, soft beige and warm green tones, peaceful productive vibe, ultra detailed, Pinterest aesthetic, photorealistic, cozy academia style, 35mm film look
+```
+
+By [@Sairah\_0](https://x.com/Sairah_0/status/2052969695406325875)
+
+---
+
+<a id="freestylefly-case-416"></a>
+
+## Earth Signs 角色 Scrapbook
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case416.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case416.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+CREATE A NEW IMAGE USING THE PROVIDED FEMALE SUBJECT AS THE ONLY REFERENCE. Preserve her exact facial features, identity, and characteristics with zero alteration. MAIN SUBJECT — EARTH ELEMENT She represents the Earth element as a whole: grounded, elegant, sensual, calm, stable, patient, quietly powerful, and naturally luxurious. Relaxed grounded posture, standing or seated, soft natural hand placement, composed feminine body language, rooted presence. OUTFIT Single cohesive Earth-inspired editorial look in olive, sage, taupe, mocha, beige, clay, cream, moss, and warm neutrals. Soft-structured elegant silhouette with subtle tailoring, draping, texture contrast, or layered structure. Fabrics: linen, cotton, matte satin, knit, suede-like textures, soft tailoring. Minimal refined gold or natural-toned accessories. HAIR Soft ash brown with natural dimension. Healthy, polished, softly voluminous waves or smooth blowout with subtle shine, controlled texture, face-framing strands, grounded and luxurious feel. MAKEUP Korean soft-glow base with earthy tones. Warm beige-rose, terracotta, tawny, or nude peach blush. Eyes in taupe, mocha, caramel, muted bronze, olive-brown. Soft liner, champagne-beige highlight, satin or velvet nude/mocha lips. Overall polished, sensual quiet-luxury aesthetic. ENVIRONMENT Grounded editorial Earth-inspired setting with stone, wood, linen, botanicals, dried plants, natural fabrics, rustic-luxury styling, warm daylight or diffused editorial lighting, soft shadows, serene cinematic stillness. Palette: cream, olive, moss, clay, taupe, beige, muted green, warm brown. CHIBI MINI-ME SYSTEM Surround her with multiple medium-sized realistic 3D chibi mini-me versions with identical face, hair, and identity. High-end doll-like styling with oversized heads, petite bodies, glossy eyes, realistic hair, detailed makeup, miniature fashion outfits, soft cinematic 3D lighting. EARTH SIGN CHIBIS Taurus — sensual soft-luxury romantic styling, knit or elegant feminine neutral outfit, rich textures, gold accents. Ultra-long segmented twin low ponytails tied with white fabric bands flowing dramatically around the frame. Virgo — refined perfectionist aesthetic with polished minimalist tailoring, clean lines, structured mini dress or sophisticated co-ord styling. Capricorn — sleek power-dressing with blazer dress or tailored set, sharp silhouette, understated luxury. Hair pulled into ultra-long sculptural braid wrapped with gold chains and metallic ornaments. DOODLES + SCRAPBOOK OVERLAY Hand-drawn earthy scrapbook doodles: leaves, vines, flowers, branches, mushrooms, butterflies, stars, sparkles, stones, hearts, sun doodles, botanical icons. Cozy ink-pen texture. Handwritten text: “EARTH SIGNS” “grounded and glowing” “soft strength” “rooted in beauty” “quiet luxury” “stable energy” “calm power” “naturally magnetic” Fact bubbles: “Element: Earth” “Signs: Taurus, Virgo, Capricorn” “Traits: grounded, loyal, elegant” “Energy: stable, refined, dependable” COMPOSITION Main subject centered and dominant. Chibis placed dynamically around shoulders, hands, sides, and lower frame. Doodles layered naturally throughout like a scrapbook. Balanced, expressive, premium composition. STYLE Cinematic editorial lifestyle image, fashion-meets-illustration hybrid, high detail, sharp focus, warm neutral tones, subtle realism grain, realistic human rendering with stylized 3D chibis and hand-drawn overlays. Social-media-ready premium aesthetic. CAMERA Eye-level or slightly above, medium full-body or 3/4 framing, 35mm or 50mm lifestyle portrait look, crisp details with soft atmospheric depth.
+```
+
+By [@ZaraIrahh](https://x.com/ZaraIrahh/status/2053075976469512686)
+
+---
+
+<a id="freestylefly-case-440"></a>
+
+## 手机拍摄 FaceTime 工作屏幕
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case440.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case440.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+Create a raw smartphone photo of a laptop screen, not a screenshot. Aspect ratio 3:4, high-angle downward POV from someone standing over a desk at night. The laptop display fills most of the frame, with a narrow strip of black keyboard and trackpad visible at the bottom. Strong realism: visible RGB subpixel grid, subtle moire bands, small dust specks, faint fingerprints, uneven glass reflections, handheld phone noise, slight perspective skew, no studio polish. macOS dark mode. Background app: Apple Notes with a late-night study note titled "Design Critique" and short visible bullets: "layout", "lighting", "source links", "ship tomorrow". Foreground app: FaceTime live preview window floating lower-right, showing a fictional adult man in his 20s sitting at a cluttered desk, hoodie, tired but amused expression, warm desk lamp behind him, books and sticky notes in the room. A second small Finder window with image thumbnails is partly visible behind it. Make it feel like an accidental real phone photo of a working laptop screen. No real-person likeness, no beauty filter, no perfect UI, no screenshot, no watermark, no cartoon, no 3D render.
+```
+
+By [@kaanakz](https://x.com/kaanakz/status/2056290465503171000)
+
+---
+
+[1](other.md) · **2** · [3](other-3.md)
 
 [← Home](../README.md)

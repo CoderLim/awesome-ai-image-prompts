@@ -1,26 +1,10 @@
 # posters
 
-[← Home](../README.md) · Page 1 / 7
+[← Home](../README.md) · Page 1 / 6
 
-**1** · [2](posters-2.md) · [3](posters-3.md) · [4](posters-4.md) · [5](posters-5.md) · [6](posters-6.md) · [7](posters-7.md)
+**1** · [2](posters-2.md) · [3](posters-3.md) · [4](posters-4.md) · [5](posters-5.md) · [6](posters-6.md)
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
-
-<a id="evolink-advertising-case-171"></a>
-
-## Food Photography and Ingredient Journal
-
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2108555755276341248.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2108555755276341248.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Create a premium 3:4 vertical editorial food-art poster for [COUNTRY / CITY / LOCAL DISH / FOOD SUBJECT]. TEXT-TO-IMAGE ONLY. Generate the entire composition from the written dish or food subject alone. Do not request, upload, use, or depend on any reference image or existing photograph. Automatically identify the dish’s authentic appearance, ingredients, textures, and cultural identity. CORE CONCEPT: Create one elegant travel-food editorial poster combining realistic food photography in the upper section with a handmade ingredient-observation sketchbook in the lower section. Feature ONE recognizable plate or bowl containing a single dish, with at least three visually distinct ingredients. UPPER SECTION — REALISTIC FOOD PHOTOGRAPHY: Occupy approximately 48% of the canvas height. Create a beautifully composed, authentic photographic view of the specified local dish, preserving believable ingredient textures, natural lighting, realistic proportions, and culturally accurate presentation. Use subtle food-magazine color grading and extremely light film grain. Keep the entire plate or bowl visible. SECTION DIVIDER: Separate both sections with a straight, clean horizontal boundary. A very thin warm-ivory paper strip is optional. No gradients, blending, or elements crossing the divider. LOWER SECTION — INGREDIENT OBSERVATION SHEET: Use warm ivory drawing paper with visible fibers, fine grain, faint smudges, and subtle handmade irregularities. Create a sparse, asymmetrical food-field-note composition rather than repeating the full photographic dish. Place ONE small, simplified but recognizable illustration of the complete dish near the center. Keep it secondary and compact, occupying approximately one-third of the lower section’s width. Around it, illustrate 3–6 individually selected ingredients inferred from the dish. Use small watercolor specimens, cut-surface studies, herb sketches, grain clusters, sauce swatches, or distinctive ingredient shapes. Arrange them at varied sizes and angles with generous breathing room. DRAWING STYLE: Matte gouache, delicate black-ink outlines, slightly hesitant hand-drawn strokes, dry-brush gaps, uneven pigment coverage, soft watercolor edges, visible paper texture, and restrained natural colors. Keep ingredients recognizable without excessive detail. Add a few fine arrows and small handwritten numbers connecting specimens to the miniature dish. TYPOGRAPHY: Use minimal, understated editorial annotations only when helpful. Short ingredient names or tiny handwritten notes are acceptable. Keep all text small and secondary; avoid unnecessary titles or decorative lettering. COLOR PALETTE: Derive the colors naturally from the dish, balanced by warm cream, muted earth tones, and subtle ink details. FINAL AESTHETIC: Authentic local food photography × handmade ingredient studies × refined travel-food editorial × collectible culinary field notebook. AVOID: Multiple dishes, duplicate plates, mixed meals, inaccurate ingredients, excessive garnish, crowded layouts, gradients, bleeding transitions, glossy digital painting, flat vector infographics, 3D rendering, commercial menu styling, excessive text, logos, watermarks, and interface elements. FORMAT: 3:4 vertical portrait, approximately 48% photographic food scene above and 52% illustrated ingredient-observation sheet below, crisp horizontal separation, generous negative space, premium publication quality, ultra-high definition.
-```
-
-By [@Goodmanprotocol](https://x.com/Goodmanprotocol/status/2108555814604812483)
-
----
 
 <a id="evolink-advertising-case-172"></a>
 
@@ -35,22 +19,6 @@ PROMPT — H&M “NEW UNIFORM” FORMAT Ultra-Premium H&M Fashion SMM Promotiona
 ```
 
 By [@Diplomeme](https://x.com/Diplomeme/status/2107784613708136595)
-
----
-
-<a id="evolink-advertising-case-174"></a>
-
-## Split-Layout Reference Photo Poster
-
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2107353980175278080.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2107353980175278080.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Create a premium 3:4 vertical editorial poster using the uploaded photo as the sole reference. OVERALL FORMAT The image must use a strict 3:4 vertical composition divided horizontally into two equal regions with an exact 1:1 height ratio. Each region occupies exactly 50% of the total image height. UPPER REGION: ORIGINAL PHOTO Use the original uploaded photo directly as the upper 50% of the composition. Preserve the subject's exact identity, facial features, body structure, proportions, posture, perspective, clothing, materials, lighting, and original color atmosphere. Do not regenerate, reshape, distort, stretch, beautify, or alter the subject. Only apply subtle high-end color grading, image purification, refined tonal balance, and gentle detail enhancement, giving the image the refined texture of an art magazine or exhibition photograph. The background may be moderately expanded to fit the 3:4 composition, but the subject must remain completely unchanged in structure, posture, proportions, and core composition. LOWER REGION: MINIMALIST INK WASH RECONSTRUCTION Reconstruct the same subject and scene as a minimalist contemporary ink wash artwork. First identify and preserve the most recognizable elements of the original image, including silhouette, outline, structure, perspective, movement, visual rhythm, spatial relationship, and overall atmosphere. Do not directly copy photographic details. Do not create a realistic reproduction. Instead, translate the original scene into an artistic ink wash interpretation that preserves its recognizable essence and visual relationship with the upper photograph. Use a milky white, warm white, or natural paper-white base with delicate paper fibers and subtle organic texture. Build the artwork using expressive ink wash techniques including dry and wet brushwork, flying white, ink seepage, ink accumulation, soft diffusion, broken edges, layered washes, and intentional white space. Remove secondary details. Keep only the most distinctive contours, structural transitions, spatial layers, movement, and atmosphere. The lower artwork should feel summarized, refined, poetic, and intentionally incomplete rather than realistically detailed. INK AND COLOR Use black, charcoal gray, soft gray, and diluted ink tones as the dominant palette. Create clear tonal layering with varied ink density, pressure, rhythm, and transparency. Extract only a few emotionally important colors from the original image and reinterpret them as small areas of artistic staining or pigment. Colors may transform naturally into blue-gray, distant blue, soft gold, warm yellow, vermilion red, light cyan, or similar restrained tones. Do not mechanically reproduce the original color values. Ink and negative space must remain dominant. Avoid muddy brown, dull vintage tones, heavy coloring, excessive decoration, or vulgar color combinations. COMPOSITION AND NEGATIVE SPACE The main reconstructed subject should occupy approximately 30% to 45% of the lower half. Reserve the remaining area for generous negative space. The artwork may be asymmetrically positioned, partially framed, suspended, slightly cropped, or offset. Maintain strong asymmetrical balance and a sophisticated editorial composition. The edges of the ink artwork should gradually loosen, fragment, fade, scatter, and disappear into the paper, creating a natural sense of breathing space. Negative space must function as an intentional visual element, not as empty unused space. Reduce information rather than filling the entire lower region. The final lower section should resemble a refined ink seal, contemporary Eastern material study, or museum-quality oriental artwork displayed on a clean editorial page. TEXT Use very little text. Do not add preset titles, numbers, labels, or template typography. If appropriate, extract only a few meaningful words or a very short phrase related to the subject, location, time, action, emotion, or metaphor. Place the text quietly within the negative space or near the edge of the artwork. Typography must remain subtle, sparse, elegant, and secondary to the visual composition. OVERALL AESTHETIC Contemporary Eastern aesthetics. Minimalist ink wash reconstruction. Premium art magazine presentation. Exhibition photography quality. Large-scale intentional negative space. Subtle editorial typography. Small-scale seal-like visual focus. Quiet, restrained, poetic atmosphere. Elegant asymmetrical composition. Refined paper texture. Museum-quality visual finish. Avoid complex backgrounds, excessive photographic details, realistic duplication, decorative clutter, excessive text, rigid template layouts, filled compositions, heavy colors, old-fashioned brown tones, and unnecessary visual elements.
-```
-
-By [@Shorelyn\_](https://x.com/Shorelyn_/status/2107353999796326889)
 
 ---
 
@@ -134,22 +102,6 @@ By [@Diplomeme](https://x.com/Diplomeme/status/2099417664863228204)
 
 ---
 
-<a id="evolink-gpt-image-2-6-case-255"></a>
-
-## Baroque Winter Gallery Posters
-
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/2118193058370158592.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/2118193058370158592.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-PREMIUM BAROQUE FRAMED ARTWORK - PHOTOREALISTIC GALLERY POSTER Use the uploaded image as the sole visual reference. Create a seamless 3:4 vertical fine-art poster. TOP SECTION (75%): Display the original scene as a beautiful painting inside an ornate antique gold Baroque frame, mounted on a subtly textured plaster wall. Preserve the original scene and its defining details. Select 1–3 prominent elements already present in the image and extend them beyond the frame in realistic 3D, with natural depth, perspective and cast shadows. Do not introduce any new objects, flowers, plants or decorative elements that are not present in the source image. Choose a muted wall color derived from the original image's palette. Match the lighting, atmosphere and time of day of the original scene. Photorealistic rendering with a sophisticated fine-art gallery aesthetic. BOTTOM SECTION (25%): Continue the same plaster wall and lighting seamlessly. Place a small, clean thumbnail of the original unedited image slightly left of center, without a white border and with a subtle natural shadow. Beside it, add a refined 2–3-word ALL-CAPS serif title and a single-line italic subtitle inspired by the original scene. Keep the typography minimal, elegant and clearly contrasted against the wall. COMPOSITION & QUALITY: The entire poster must appear as one continuous image. No divider lines, white bands, gaps, separate panels or outer borders. Ensure seamless transitions, balanced spacing, realistic materials, sophisticated typography and premium editorial art direction. Preserve the original subject's identity and visual character without altering the source scene.
-```
-
-By [@Goodmanprotocol](https://x.com/Goodmanprotocol/status/2118193088128745875)
-
----
-
 <a id="evolink-gpt-image-2-6-case-261"></a>
 
 ## Outdoor Sports Editorial Covers
@@ -182,22 +134,6 @@ By [@DeepBlueX0](https://x.com/DeepBlueX0/status/2118893793797914959)
 
 ---
 
-<a id="evolink-illustration-case-123"></a>
-
-## Geometric Illustrated Character Poster
-
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2108532075657900032.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2108532075657900032.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Create a finished editorial character poster inspired by the uploaded reference image. Preserve the recognizable identity, hairstyle, clothing details, pose, and important visual characteristics of the subject while translating them into a sophisticated flat geometric illustration. FORMAT LOCK Vertical 3:4 composition. Edge-to-edge warm off-white paper background. One standalone poster. Clean editorial layout. CHARACTER One adult character constructed from a few oversized asymmetric geometric shapes. Slightly exaggerated proportions, small head, elongated capsule-like limbs, simple mitten-style hands, and one oversized object integrated naturally into the pose and silhouette. Preserve the subject's recognizable appearance while simplifying details into graphic shapes. STYLE Flat geometric illustration, asymmetric proportions, crisp color blocks, soft airbrushed shading, subtle dark-to-color spray gradients where shapes overlap, fine print grain, delicate stippling mostly inside darker areas, refined contemporary editorial poster aesthetic. FACE & EXPRESSION Minimal black cut-paper facial features: simple crescent eyes and minimal mouth. The emotion should be communicated primarily through the character's full-body gesture and silhouette rather than detailed facial expression. PALETTE Warm off-white #F3F1EB, near-black 10100F, hot pink #F553D2, warm red #F42726, cobalt 293EA1, emerald 13785D. Keep colors flat and graphic with controlled soft gradients only where forms overlap. Keep the character and oversized object as the main visual focus. Use generous negative space and a balanced editorial arrangement. The object should visibly affect the overall silhouette and feel integrated into the character's pose. NEGATIVE PROMPT No extra text, logos, outlined cartoon style, glossy 3D, realistic skin, photorealism, coarse canvas texture, busy background, extra limbs, distorted anatomy, excessive facial detail, photorealistic shading, random objects, clutter, watermark.
-```
-
-By [@Shorelyn\_](https://x.com/Shorelyn_/status/2108532094796533952)
-
----
-
 <a id="evolink-illustration-case-130"></a>
 
 ## Multi-Character Narrative Poster
@@ -211,70 +147,6 @@ Create a 9:16 high-end multi-character editorial poster about [THEME]. Include 4
 ```
 
 By [@MrLarus](https://x.com/MrLarus/status/2107862794469302424)
-
----
-
-<a id="evolink-illustration-case-145"></a>
-
-## Photo and Narrative Subject Poster
-
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2107346505829056512.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2107346505829056512.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Create one independent high-end editorial poster for each uploaded photo. Never combine photos. FORMAT Strict 3:4 vertical composition with an exact 50/50 horizontal split. The top and bottom halves must be equal in height and visually connected as one refined editorial cover. TOP HALF: ORIGINAL PHOTO Use the original photo faithfully. Preserve the subject, identity, facial features, proportions, pose, clothing, objects, composition, lighting, shadows, atmosphere, and color mood. Keep it fully photorealistic with only subtle premium editorial color grading. Never stylize, distort, replace, or alter the main subject. Extend only surrounding background when necessary, seamlessly and naturally. BOTTOM HALF: HAND-DRAWN ILLUSTRATION Reinterpret the same scene as a minimalist handmade paper illustration. Preserve the recognizable subject, silhouette, pose, key objects, and main visual story. Use delicate imperfect lines, simple acrylic-style flat color shapes, visible brush marks, rough paper texture, organic edges, and subtle handmade imperfections. Keep the illustration small and centered, occupying about 10–20% of the bottom half, with generous negative space. Use a rough white, warm off-white, or pale natural paper background with only minimal environmental details. COLOR Extract colors from the original photo and reduce them to a maximum of 4 restrained, harmonious colors. Use controlled flat color blocks while maintaining subtle paper grain and brush texture. TYPOGRAPHY Optional minimal editorial text only when appropriate, such as a short title, keyword, location, or number. Keep it understated and never force text into the design. STYLE Quiet, poetic, refined, minimal, relaxed, artistic, thoughtful, premium, high-recognition. FINAL Maintain the exact 50/50 split. The top must remain a faithful photograph, while the bottom is a simplified handmade illustration of the same scene. Avoid clutter, excessive colors, heavy typography, artificial effects, or unnecessary details. The result should feel like a premium contemporary independent art publication cover.
-```
-
-By [@harboriis](https://x.com/harboriis/status/2107346549542203400)
-
----
-
-<a id="evolink-illustration-case-169"></a>
-
-## Standalone Art Poster from a Photo
-
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2099343599049773056.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2099343599049773056.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Create one independent high-end editorial poster for each uploaded photo. Do not combine multiple photos into a collage. Each photo must be processed and output as a separate poster. OVERALL FORMAT Strict 3:4 vertical composition. Divide the canvas horizontally into two exactly equal sections, with a precise 1:1 height ratio. The top half occupies exactly 50% of the canvas. The bottom half occupies exactly 50% of the canvas. The two sections should feel visually connected as one refined art publication cover. TOP HALF — ORIGINAL PHOTOGRAPH Preserve the original photograph as faithfully as possible. Keep the main composition, subjects, identity, facial features, body proportions, poses, expressions, clothing, objects, and spatial relationships unchanged. Preserve the realistic photographic texture, natural lighting, shadows, atmosphere, and original color mood. Apply only subtle, sophisticated editorial color grading, creating the feeling of a premium magazine photograph, contemporary art book, or high-end independent publication. The image should remain photorealistic and authentic, never overly retouched or artificially stylized. If necessary to fit the 3:4 composition naturally, extend the sky, ground, walls, or surrounding environmental background. Background extension must feel seamless and photographic. Never stretch, distort, reshape, replace, or alter the main subject. BOTTOM HALF — MINIMAL HAND-DRAWN PAPER ILLUSTRATION Extract the most recognizable visual elements from the original photograph and reinterpret them as a minimalist hand-drawn paper-cover illustration. Preserve: The most recognizable subject Essential silhouette and proportions Key pose or gesture Important objects The core narrative relationship between people and objects Highly simplify the image. Remove unnecessary details and retain only the visual information needed for immediate recognition. Use: Delicate, slightly imperfect hand-drawn lines A small number of bold, clearly defined acrylic-style flat color shapes Rough paper texture Visible handmade brush marks Slightly irregular, organic edges Subtle imperfections that make it feel genuinely handmade The main illustrated subject should be small, centered, and carefully composed, occupying approximately 10–20% of the bottom half. Leave a large amount of negative space around the illustration. The background should primarily resemble: Rough white paper Warm off-white paper Pale natural paper Minimal editorial book-cover stock Use only a few lines or small color shapes to suggest the surrounding environment. COLOR PALETTE Extract the dominant colors directly from the original photograph. Compress the palette into no more than 4 main colors. Keep the colors restrained, sophisticated, and harmonious. Use bold but controlled flat color blocks. Avoid excessive color variation. Preserve subtle paper grain and handmade brush texture. The illustration should visually feel like a simplified color interpretation of the photograph. TYPOGRAPHY A small amount of simple typography may be included when appropriate. Possible elements: A short title Keyword Object name Location Year Number Short phrase Text should be minimal, understated, and editorial. Typography should naturally interact with the large areas of negative space and the small illustration, evoking: Art book covers Independent publishing Contemporary editorial design Thoughtful children's picture books Do not force text into the composition if it does not naturally fit the photograph. VISUAL LANGUAGE The final poster should feel: Quiet · Poetic · Refined · Minimal · Innocent · Relaxed · Artistic · Thoughtful · High-recognition · Premium
-```
-
-By [@icreatelife](https://x.com/icreatelife/status/2099343611389219254)
-
----
-
-<a id="evolink-portraits-case-25"></a>
-
-## Dual-Scale Fashion Portrait
-
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2104396425874534400.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2104396425874534400.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Create a high-end vertical fashion poster using the uploaded reference image as the ONLY identity reference. Preserve the person’s exact facial identity, facial features, hairstyle, skin tone, beard, body proportions, and overall appearance from the reference image. Create a stylish double-exposure editorial composition with TWO versions of the same person: 1. A large, highly detailed close-up portrait occupying the upper-right side of the poster, showing the face and upper body with a confident, natural expression. 2. A smaller full-body version positioned in the lower-left/center area, standing in a relaxed stylish pose with one leg crossed over the other and both hands casually placed in the trouser pockets. Outfit: a clean modern bright lime-green knit sweater, white fitted trousers, white minimalist sneakers, black wristwatch, and stylish black sunglasses. Background: premium light green and white artistic studio background with dramatic bright green watercolor paint splashes, abstract brush strokes, scattered paint droplets, soft green gradients, subtle mist, and artistic textures. Make the large portrait blend naturally into the green background while keeping the smaller full-body figure sharply separated and clearly visible. Composition should look like a professional celebrity fashion poster, modern magazine editorial photography, vibrant green aesthetic, clean cutout edges, realistic skin texture, detailed hair, natural lighting, high contrast, polished commercial photography, sophisticated visual balance. Vertical 9:16 composition, ultra-high resolution, photorealistic, crisp details, cinematic lighting, premium fashion photography. Do not add any text, letters, logos, captions, watermarks, or typography anywhere in the image.
-```
-
-By [@mehwishkiran07](https://x.com/mehwishkiran07/status/2104396563447701567)
-
----
-
-<a id="evolink-portraits-case-35"></a>
-
-## Triple-Scale Same-Person Poster
-
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2102714930952867840.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2102714930952867840.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Use the uploaded reference image as the primary identity reference. Preserve the subject’s exact facial identity, facial structure, skin tone, hairstyle, eyes, nose, lips, jawline, and overall likeness. Create a premium cinematic motivational fashion poster in a vertical 4:5 composition. The poster features the same person in three integrated appearances/scales: 1. A huge close-up portrait occupying the upper-left and center background, showing the face in sharp detail with a confident, subtle smile and natural realistic skin texture. 2. A large half/full upper-body portrait positioned on the right side, slightly behind the main subject, maintaining the exact same identity and hairstyle. 3. A full-body fashion portrait in the center foreground, walking confidently toward the camera with both hands naturally placed in the trouser pockets. Create a luxury editorial fashion campaign aesthetic, cinematic photography, ultra-realistic skin texture, realistic hair strands, natural facial proportions, premium studio lighting, sharp focus, sophisticated confident expression. Outfit: elegant monochromatic white fashion outfit. For the female version, a tailored white blazer, fitted white top, high-waisted white trousers and clean white sneakers. For the male version, a perfectly tailored white blazer, open-collar white shirt, white trousers and clean white sneakers. Add a premium minimalist wristwatch. Background: dramatic white and deep crimson-red abstract paint splashes, energetic brush strokes, textured grunge effects, dark red metropolitan city skyline silhouettes emerging from the paint, cinematic reflections on a glossy wet floor, strong red atmospheric glow, high contrast between white and crimson. The composition should feel like a high-end fashion magazine cover mixed with a motivational movie poster. Layer the large portraits naturally into the background without looking duplicated or artificial. Maintain realistic depth, scale, perspective, shadows and lighting consistency across all three versions of the subject. Add elegant editorial typography integrated into the design: Top right: SAME DREAMS BIGGER MOVES Left side: DISCIPLINE CREATIVITY PROGRESS FREEDOM Large lower-left text: VISION Large handwritten brush-script text on lower-right: Better Under it: THAN YESTERDAY Bottom-left: A YOUNG MIND WITH A BIG VISION Bottom-right: GOOD IDEAS TAKE TIME Typography should be elegant, editorial, clean and perfectly aligned, with deep red brush lettering for “Better” and subtle black/dark typography for the smaller text. Overall style: ultra-photorealistic, cinematic, premium luxury fashion campaign, sophisticated editorial composition, dramatic red-and-white color palette, realistic photography, high detail, sharp facial features, natural skin pores, realistic hair, volumetric lighting, glossy reflections, professional art direction, 8K quality, highly polished commercial poster. Important: Keep the subject’s identity consistent across all three appearances. Do not change the face, age, ethnicity, facial proportions or recognizable features. No extra fingers, distorted hands, duplicated limbs, warped face, unnatural anatomy, blurry face, cartoon appearance or plastic skin. Ensure all typography is correctly spelled and readable.
-```
-
-By [@mehwishkiran07](https://x.com/mehwishkiran07/status/2102714999772950626)
 
 ---
 
@@ -294,38 +166,166 @@ By [@Arzoo12sh](https://x.com/Arzoo12sh/status/2101503445748617658)
 
 ---
 
-<a id="evolink-travel-journals-case-193"></a>
+<a id="evolink-travel-journals-case-199"></a>
 
-## Landscape Photo Travel Art Poster
+## Golden Desert Travel Art Poster
 
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2108471239501385728.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2108471239501385728.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Create a sophisticated contemporary travel-art poster from the uploaded londscape photograph. Strict 3:4 vertical format. The upper half must remain the original landscape photogroph. Preserve all important environmental structures, natural textures, lighting, shadows, horizon, architecture, people and perspective. Do not regenerate the scene. The lower half reconstructs the landscape's strongest narrative element using delicate photographic fragments, halftone printing, subtle paper fibers and fading edges. Use a single horizontal geometric color field sampled from the landscape. Let the reconstructed subject or horizon physically intersect this field. Keep the background most white with muted tones derived from the original image. Avoid saturated colors. The result should resemble a limited-edition museum travel poster rather than a conventional photo collage.
-```
-
-By [@weiinberg](https://x.com/weiinberg/status/2108471613536739652)
-
----
-
-<a id="evolink-travel-journals-case-196"></a>
-
-## Travel Photo and Open Journal
-
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2107760162387939328.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2107760162387939328.jpg" width="480" alt="Source example"></a>
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2107035775267217409.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2107035775267217409.jpg" width="480" alt="Source example"></a>
 
 **Prompt**
 
 ```text
-Create a premium 3:4 vertical editorial travel-memory poster for [COUNTRY / CITY / LOCATION / SUBJECT]. TEXT-TO-IMAGE ONLY — generate the entire artwork creatively from [COUNTRY / CITY / LOCATION / SUBJECT] alone. No reference image required. COMPOSITION Divide the poster into two perfectly equal horizontal halves with no gap. TOP HALF — CINEMATIC PHOTOGRAPH Create a wide horizontal, photorealistic travel photograph representing [COUNTRY / CITY / LOCATION / SUBJECT]. Automatically choose the most meaningful subject, architecture, landscape, or moment associated with the destination. The image must feel like an authentic editorial photograph: natural perspective, realistic lighting, subtle color grading, strong central subject, cinematic atmosphere, and believable environmental details. BOTTOM HALF — OPEN-BOOK JOURNAL Create one fully opened horizontal hardcover photography book centered in the lower half, viewed almost from above with slight realistic perspective. The book should occupy roughly 86% of the lower-half width. The spine must sit exactly in the center, with perfectly equal left and right pages. Show realistic paper edges, thickness, spine curvature, soft shadows, and premium tactile paper. LEFT PAGE Fill the entire left page with one dominant color naturally extracted from the destination’s visual identity. Place a smaller horizontal landscape photograph at the center of the page, showing the same destination or subject from the upper scene. Keep it rectangular, clean, and surrounded by an even generous border. RIGHT PAGE Use warm ivory paper with abundant negative space. At the upper center, add one elegant 3–5 word ALL-CAPS English title inspired by the mood of the destination. Use small black typewriter-style serif lettering with subtle letter spacing. Below it, place ONE perfectly upright vintage vertical postage stamp. Give it a cream perforated border, subtle paper texture, and a delicate shadow. Inside the stamp, do not simply reproduce the main photograph. Instead, reinterpret 2–4 recognizable elements from the destination as a playful editorial illustration using bold hand-drawn black outlines, simplified shapes, and ONE bright accent color drawn from the scene. Below the stamp, add two short centered lines of gentle poetic English text. BACKGROUND Outside the open book, create a softly blurred continuation of the destination’s environment. Preserve only its general colors, light, and atmosphere while keeping individual objects indistinct. STYLE Cinematic travel photography × contemporary photography monograph × open-book visual diary × vintage postage illustration × minimalist editorial design. Warm, quiet, sophisticated, tactile, intimate, and collectible. PRIORITIES Perfect 50/50 top-bottom division → perfectly centered book spine → equal pages → strong horizontal photography → intact upright stamp → generous negative space. Avoid portrait-oriented photo panels, blurred side bars, stretched imagery, invented landmarks, distorted architecture, uneven pages, tilted or cropped books, multiple stamps, excessive decoration, clutter, logos, watermarks, UI elements, or unnecessary typography. FORMAT 3:4 vertical, two equal halves, premium editorial photography, realistic open-book construction, refined typography, cohesive travel-journal aesthetic.
+Create a vertical 3:4 artistic travel poster featuring an endless golden desert at sunset. The upper section should be a highly realistic photograph of vast rolling sand dunes stretching toward the horizon, with delicate wind patterns and natural ripples across the sand. Warm sunlight shines from the distant horizon, creating beautiful golden, amber, caramel and soft brown tones with long subtle shadows between the dunes. Below it, transform the same exact desert landscape into a traditional hand-painted watercolor illustration on warm textured off-white paper. Preserve the same dune shapes, horizon, sunlight direction and overall composition, while rendering everything with loose watercolor washes, soft edges, natural pigment variations, delicate paint bleeding and visible paper texture. Keep the watercolor artwork surrounded by clean cream-colored negative space. At the bottom center, add elegant handwritten calligraphy reading: “golden dunes”. Minimal luxury travel-journal aesthetic, peaceful and atmospheric mood, refined composition, realistic-to-watercolor transformation, sophisticated earthy palette, artistic yet natural, high-end editorial travel poster, no extra text, no watermark.
 ```
 
-By [@Goodmanprotocol](https://x.com/Goodmanprotocol/status/2107760212962898088)
+By [@KrishnaBio1](https://x.com/KrishnaBio1/status/2107035889461588289)
 
 ---
 
-**1** · [2](posters-2.md) · [3](posters-3.md) · [4](posters-4.md) · [5](posters-5.md) · [6](posters-6.md) · [7](posters-7.md)
+<a id="evolink-travel-journals-case-200"></a>
+
+## Italian Coast and French Estate
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2106906610828537856.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2106906610828537856.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+Create a premium cinematic travel editorial artwork combining the two uploaded references into one cohesive destination story. Blend the colorful Italian Mediterranean coastal village with an elegant French countryside château and formal rose garden. The main composition should feature a dramatic cliffside coastal village with tightly packed pastel houses, terracotta rooftops, rugged rocky cliffs, deep blue Mediterranean water, small boats, and a bright peaceful sky. Seamlessly transition the scene into a grand historic European château surrounded by beautifully maintained symmetrical gardens, trimmed hedges, blooming pink and white roses, lavender, stone pathways, and lush countryside stretching into the distance. Include a stylish woman seen naturally from behind, wearing a refined cream/beige long coat, flowing light-colored outfit, elegant wide-brimmed straw hat, and carrying a small woven handbag as she walks quietly through the garden. Keep her pose graceful and candid, with realistic proportions. The artwork should use the same photo-to-watercolor travel-poster concept as the references: upper section highly realistic cinematic photography with natural textures and lighting, gradually transforming into delicate hand-painted watercolor toward the lower section. Add subtle watercolor splashes around the edges on warm textured off-white paper. Use soft sunlight, sophisticated pastel tones, atmospheric depth, fine architectural details, realistic water reflections, elegant European travel mood, nostalgic luxury editorial styling, 8K detail, beautifully balanced composition. Add refined handwritten typography near the bottom: “COASTAL DREAM” and beneath it in smaller elegant lettering: “A QUIET ESCAPE” Minimal, sophisticated, timeless travel-journal aesthetic, no clutter, no distorted buildings, no unnecessary text.
+```
+
+By [@KrishnaBio1](https://x.com/KrishnaBio1/status/2106906926726717843)
+
+---
+
+<a id="evolink-travel-journals-case-201"></a>
+
+## Double-Exposure Travel Silhouette
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2106607088252428288.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2106607088252428288.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+Create a premium cinematic travel poster in a sophisticated double-exposure / silhouette collage style. A stylish young adult woman walking toward the right side of the frame, wearing a beige wide-brimmed safari hat, dark sunglasses, elegant white oversized button-up shirt with rolled sleeves, high-waisted cream trousers, white sneakers, and a small brown leather crossbody bag. Preserve realistic human proportions and natural walking posture. Behind and partially merged into the woman’s silhouette is a breathtaking golden Sahara desert landscape at sunset: vast rolling sand dunes, dramatic layered mountains, warm orange sunlight, a glowing sun near the horizon, palm trees surrounding a small desert oasis, traditional desert village architecture, ancient stone towers, tents, and a small camel caravan crossing the dunes. The desert landscape forms an artistic human-profile silhouette on the left side, seamlessly blending into the woman's walking composition on the right. Elegant paint-splash and ink-brush edges around the landscape, subtle dust particles, soft atmospheric haze, warm golden-hour lighting, luxury travel editorial aesthetic, sophisticated minimal composition. Background: clean warm ivory/cream paper texture with large negative space on the right and lower area. High-end tourism campaign poster, artistic commercial photography, photorealistic desert details, realistic fabric texture, cinematic depth, refined composition, premium magazine advertising style. Composition: vertical 4:5, full-body woman on the right, desert silhouette dominating the left, balanced negative space, clean edges, no text, no logo, no watermark, ultra-detailed, high resolution.
+```
+
+By [@AiwithLariab](https://x.com/AiwithLariab/status/2106607115733553225)
+
+---
+
+<a id="evolink-travel-journals-case-202"></a>
+
+## Kinosaki and Hakone Hot Spring Art
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2106415928753963008.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2106415928753963008.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+Create a cinematic, ultra-realistic travel editorial scene inspired by the uploaded references, blending the atmosphere of Kinosaki and Hakone, Japan into one cohesive composition. Show a peaceful traditional Japanese onsen town at evening, with narrow stone streets, elegant wooden ryokan buildings, dark tiled roofs, warm glowing paper lanterns, small traditional shops, noren curtains, and a quiet flowing canal lined with graceful willow trees. Add a misty mountain landscape in the background, with subtle steam rising from hot-spring vents and a calm, authentic Japanese atmosphere. Include a small group of naturally dressed travelers walking through the street, with realistic proportions and candid body language. Combine the warm lantern-lit nighttime mood of Kinosaki with the tranquil misty hot-spring atmosphere of Hakone. Use soft cinematic lighting, realistic textures, gentle reflections on the water, atmospheric depth, natural colors, and highly detailed architecture. Present the final artwork as a premium vintage travel-poster / watercolor art-book composition: the upper/main scene should feel photographic and photorealistic, while the lower portion gradually transforms into delicate hand-painted watercolor with artistic paint splashes and textured off-white paper. Keep the transition seamless and elegant. Add refined handwritten-style typography at the bottom: “KINOSAKI — LANTERN NIGHTS” “HAKONE — QUIET ONSEN STREETS” Minimal, sophisticated Japanese travel aesthetic, nostalgic winter/early-evening mood, editorial composition, 8K detail, realistic photography blended with refined watercolor illustration, no clutter, no distorted architecture, no extra text.
+```
+
+By [@KrishnaBio1](https://x.com/KrishnaBio1/status/2106416165241418042)
+
+---
+
+<a id="evolink-travel-journals-case-205"></a>
+
+## Subway and Mountain Lake Travel Art
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2105011817076674560.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2105011817076674560.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+Create a premium vertical travel-art editorial poster by creatively mixing the visual properties of both reference images. Combine a bright, modern city metro/subway interior with a peaceful alpine lakeside summer scene. The composition should feel like one cohesive travel journal page: the upper section features a clean, spacious metro carriage with white interiors, large windows, blue-and-yellow seats, overhead hand straps, soft natural daylight and a quiet empty atmosphere. Transition naturally into the lower section showing a turquoise mountain lake, dramatic green mountains, rocky shoreline, fresh green grass, a few relaxed people enjoying the lakeside and a clear blue summer sky. Preserve the realistic photographic quality in the main scenes while blending into a refined hand-painted watercolor illustration toward the lower portion. Use warm off-white textured paper around the artwork, subtle vintage travel-poster styling, elegant minimal composition, soft natural colors, realistic details, delicate watercolor brushwork, cinematic depth, peaceful summer mood and sophisticated editorial aesthetics. Add tasteful typography near the bottom: “CITY TO LAKE” and a smaller subtitle: “a quiet summer journey” Vertical 4:5 composition, high detail, photorealistic + watercolor fusion, premium travel magazine aesthetic, balanced layout, clean typography, no unnecessary objects, no distorted people, no extra text.
+```
+
+By [@KrishnaBio1](https://x.com/KrishnaBio1/status/2105086976022188110)
+
+---
+
+<a id="evolink-travel-journals-case-207"></a>
+
+## Amsterdam Canal Travel Art
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2104369582614216704.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2104369582614216704.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+Create a vertical 9:16 luxury travel-art poster featuring a peaceful Amsterdam canal scene. In the upper section, show a realistic black Dutch bicycle parked beside a narrow canal, with a woven front basket filled with fresh red roses. Surround it with classic Amsterdam brick canal houses, bicycles along the waterfront, a small arched bridge, calm reflective water, soft overcast daylight, and natural cinematic depth. The lower section should transform the same scene into a delicate hand-painted watercolor illustration, keeping the bicycle, red roses, canal, bridge, buildings, and overall composition recognizable. Use soft paper texture, subtle watercolor washes, elegant travel-journal aesthetics, and refined artistic details. Keep the composition clean with warm off-white paper margins. Add elegant handwritten-style text at the bottom: “amsterdam - a bicycle and roses” with a thin minimal line underneath. Photorealistic upper image + soft watercolor lower illustration, sophisticated European travel poster, premium editorial design, highly detailed.
+```
+
+By [@KrishnaBio1](https://x.com/KrishnaBio1/status/2104369643146346759)
+
+---
+
+<a id="evolink-travel-journals-case-208"></a>
+
+## Male Traveler Double Exposure
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2104183816990629888.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2104183816990629888.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+Create a premium travel-themed double-exposure silhouette poster on a clean warm-white background. A young male traveler is shown in a full-body side-profile walking pose, facing right. He wears a burgundy baseball cap, dark sunglasses, a burgundy open shirt over a plain white T-shirt, fitted blue jeans, white sneakers, and a black backpack. Natural confident walking posture, realistic masculine anatomy, photorealistic face and clothing details. Behind and around the man, create a large artistic silhouette of a male traveler wearing a baseball cap, filled with a breathtaking travel photograph. Inside the silhouette, show an Indian riverside temple at golden sunset, with a tall detailed historic temple, warm orange sunlight, river reflections, boats, riverside architecture and atmospheric evening light. The travel photograph must be perfectly contained inside the male head-and-upper-body silhouette, creating a sophisticated double-exposure / photo-within-silhouette effect. Add expressive burgundy, navy-blue and pale watercolor ink splashes spreading naturally from the bottom edges of the composition, blending elegantly with the silhouette and travel scene. COMPOSITION: Centered vertical poster, full-body male traveler in the foreground, oversized male cap-and-head silhouette behind him, strong visual hierarchy, generous warm-white negative space, balanced professional graphic-design composition, elegant premium travel-poster layout. STYLE: Luxury travel advertisement, editorial poster design, cinematic photography, photorealistic, high detail, warm golden-hour lighting, realistic water reflections, subtle watercolor texture, premium commercial artwork, clean edges, sophisticated double exposure. CHARACTER CONSISTENCY: The foreground male and the large silhouette must clearly represent the same person. Preserve consistent facial structure, hairstyle, skin tone, body proportions, clothing, burgundy cap and sunglasses. Natural realistic masculine appearance. TECHNICAL: Ultra-detailed, sharp subject, realistic skin texture, realistic fabric texture, natural shadows, high dynamic range, professional color grading, 4K, polished advertising artwork, premium print-poster quality. NEGATIVE PROMPT: blurry, low resolution, distorted face, extra fingers, extra limbs, bad anatomy, duplicate person, warped body, feminine facial features, cartoon, anime, 3D render, oversaturated colors, messy composition, excessive text, watermark, logo, artificial-looking skin, deformed hands, distorted clothing, poorly contained double exposure.
+```
+
+By [@AiWithTariq](https://x.com/AiWithTariq/status/2104183973991817236)
+
+---
+
+<a id="evolink-travel-journals-case-210"></a>
+
+## Ancient Egypt Travel Double Exposure
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2104065763535679488.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2104065763535679488.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+Create a premium cinematic historical-travel double-exposure silhouette poster on a clean warm-white background. A young female traveler is shown in a full-body side-profile walking pose, facing right. She wears a cream linen shirt, fitted beige trousers, a tan wide-brim travel hat, subtle round sunglasses and white sneakers, carrying a small vintage leather crossbody bag. Natural elegant walking posture, realistic feminine anatomy, photorealistic face and clothing details. Behind and around the woman, create a large artistic silhouette of the SAME female traveler. The oversized silhouette must clearly match her facial profile, hat, hairstyle, skin tone and body proportions. Inside the oversized female head-and-upper-body silhouette, reveal a breathtaking ancient Egyptian landscape at sunset. Show the Great Pyramids rising from the golden desert, the Sphinx in the foreground, distant palm trees, a small caravan of camels, warm orange sunlight, atmospheric desert dust and a dramatic golden sky. Add subtle reflections of warm sunlight across the sand. The entire Egyptian landscape must be perfectly contained inside the female silhouette, creating a sophisticated photo-within-silhouette double-exposure effect. Add elegant sand-beige, burnt-orange, deep navy and muted gold watercolor ink splashes spreading naturally from the lower edges and subtly merging with the desert scene. COMPOSITION: Centered vertical luxury travel poster, full-body female traveler in the foreground, oversized matching female silhouette behind her, strong visual hierarchy, generous warm-white negative space, sophisticated editorial layout. STYLE: Luxury historical travel campaign, cinematic photography, photorealistic desert landscape, premium editorial poster, golden-hour lighting, realistic architectural detail, atmospheric depth, subtle watercolor texture, sophisticated double exposure. CHARACTER CONSISTENCY: The foreground woman and oversized silhouette MUST clearly represent the exact same person. Preserve identical facial structure, hairstyle, skin tone, body proportions, hat, sunglasses and clothing. TECHNICAL: Ultra-detailed, photorealistic, realistic skin and fabric texture, realistic sand, natural shadows, cinematic lighting, high dynamic range, professional color grading, 4K, premium print-poster quality. NEGATIVE PROMPT: blurry, low resolution, distorted face, different person, duplicate person, extra limbs, extra fingers, bad anatomy, masculine features, cartoon, anime, 3D render, unrealistic pyramids, oversaturated colors, messy composition, desert outside silhouette, poorly contained double exposure, warped clothing, watermark, logo, excessive text.
+```
+
+By [@Kubra\_286](https://x.com/Kubra_286/status/2104065786142916926)
+
+---
+
+<a id="evolink-travel-journals-case-215"></a>
+
+## Female Traveler Double Exposure
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2103696129615683584.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2103696129615683584.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+Create a premium travel-themed double-exposure silhouette poster on a clean warm-white background. A young female traveler is shown in a full-body side-profile walking pose, facing right. She wears a burgundy baseball cap, dark sunglasses, burgundy open shirt over a plain white T-shirt, fitted blue jeans, white sneakers, and a black backpack. Natural confident walking posture, realistic anatomy, photorealistic face and clothing details. Behind and around the woman, create a large artistic silhouette of a female traveler wearing a baseball cap, filled with a breathtaking travel photograph. Inside the silhouette, show an Indian riverside temple at golden sunset, with a tall detailed historic temple, warm orange sunlight, river reflections, boats, riverside architecture and atmospheric evening light. The travel photograph should be perfectly contained inside the silhouette, creating a sophisticated double-exposure / photo-within-silhouette effect. Add expressive burgundy, navy-blue and pale watercolor ink splashes spreading naturally from the bottom edges of the composition, blending with the silhouette and travel scene. Composition: centered vertical poster, full-body traveler in foreground, oversized cap-and-head silhouette behind her, strong visual hierarchy, generous white negative space, balanced professional graphic-design composition. Style: luxury travel advertisement, editorial poster design, cinematic photography, photorealistic, high detail, warm golden-hour lighting, realistic water reflections, subtle watercolor texture, premium commercial artwork, clean edges, sophisticated double exposure. Technical: ultra-detailed, sharp subject, realistic skin texture, realistic fabric, natural shadows, high dynamic range, professional color grading, 4K, polished advertising artwork. Negative Prompt: blurry, low resolution, distorted face, extra fingers, extra limbs, bad anatomy, duplicate person, warped body, cartoon, anime, 3D render, oversaturated colors, messy composition, excessive text, watermark, logo, artificial-looking skin.
+```
+
+By [@Arina\_hoqe](https://x.com/Arina_hoqe/status/2103696199488520632)
+
+---
+
+<a id="evolink-travel-journals-case-234"></a>
+
+## Mountain Hiking Dissolve Poster
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2100784522908594176.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2100784522908594176.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+Create a cinematic, ultra-realistic motivational poster of a young woman hiking on a rocky mountain trail at golden hour, with a breathtaking lake, mountains, and warm sunset in the background. She wears a cozy beige fleece jacket over a black top, olive cargo pants, hiking boots, and a backpack. Her hair is tied in a messy bun, with a natural, confident expression. Create a dramatic disintegration effect on the right side of her body, where her figure transforms into flying autumn leaves, dust particles, and small fragments carried into the sky. Add several black birds flying among the leaves. Include ancient stone ruins on the right side and a large rock with the text “SAME HUSTLE BIGGER TOMORROW.” On the left side, add elegant typography: “Progress” in stylish handwritten script, followed by “LOOKS GOOD ON YOU” in clean uppercase serif lettering. Use warm orange, brown, and golden tones, cinematic lighting, shallow depth of field, realistic textures, atmospheric perspective, high detail, professional advertising photography, 8K quality. Create a second framed version below with a white artistic torn-paper/paint-splatter border and autumn leaves around the edges. At the bottom add the handwritten text “Same Girl… Bigger Dreams ♡” and below it: “REAL MOMENTS • BRIGHTER DAYS • A KINDER ME.
+```
+
+By [@mehwishkiran07](https://x.com/mehwishkiran07/status/2100787012529975424)
+
+---
+
+**1** · [2](posters-2.md) · [3](posters-3.md) · [4](posters-4.md) · [5](posters-5.md) · [6](posters-6.md)
 
 [← Home](../README.md)

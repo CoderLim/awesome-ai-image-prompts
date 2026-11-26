@@ -6,22 +6,6 @@
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
-<a id="freestylefly-case-82"></a>
-
-## 信息图可视化设计
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case82.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case82.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-{ "type": "scientific optical setup diagram", "main_setup": { "base": "optical breadboard table with grid of mounting holes", "beam": "red laser beam passing horizontally through all components", "top_grouping_brackets": [ "{argument name=\"first component group\" default=\"Dual Modulation\"}", "4f Relay Optics", "Imaging Optics", "Detection" ], "components_left_to_right": [ { "name": "Laser", "label": "{argument name=\"laser wavelength\" default=\"λ = 632.8 nm\"}", "appearance": "black rectangular box" }, { "name": "SLM1", "label": "(Phase / Pol. Mod.)", "appearance": "black square device on post" }, { "name": "Lens L1", "label": "(f1)", "appearance": "lens in black ring mount" }, { "name": "Iris", "label": "Fourier Plane (Pupil Plane) / (Higher Orders Filtered)", "appearance": "black ring mount with dashed line above" }, { "name": "HWP", "label": "(λ/2)", "appearance": "purple-tinted optic in black ring mount" }, { "name": "Lens L2", "label": "(f1)", "appearance": "lens in black ring mount" }, { "name": "SLM2", "label": "(Phase / Pol. Mod.)", "appearance": "black square device on post" }, { "name": "Lens L3", "label": "(f2)", "appearance": "lens in black ring mount" }, { "name": "Lens L4", "label": "(f2)", "appearance": "lens in black ring mount" }, { "name": "Linear Polarizer", "label": "(Global Analyzer)", "appearance": "lens in black ring mount" }, { "name": "Polarization Camera", "label": "POLARIZATION CAMERA", "appearance": "blue and black box camera" } ] }, "inset_diagram": { "position": "bottom right, dashed border", "title": "{argument name=\"inset title\" default=\"Polarization Camera Micro-Polarizer Array\"} (Per-Pixel Analyzer)", "visuals": "4x4 grid of colored squares with white directional arrows", "legend_count": 4, "legend_labels": [ "red right-arrow 0° (H)", "green up-arrow 90° (V)", "blue diagonal-arrow 45° (D)", "yellow diagonal-arrow 135° (A)" ] }, "bottom_caption": { "figure_number": "Fig. 5.", "title": "{argument name=\"setup title\" default=\"Ellipsography Hardware Setup.\"}", "description": "{argument name=\"figure caption\" default=\"Our prototype display system employs a dual-modulation configuration to achieve simultaneous control of phase and polarization. A 4f relay optics setup transfers the modulated wavefront...\"}" } }
-```
-
-By [@HumanOS\_v2](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-82)
-
----
-
 <a id="freestylefly-case-83"></a>
 
 ## 信息图可视化设计
@@ -323,6 +307,22 @@ Please create a mathematical visualization infographic about "[math concept / to
 ```
 
 By [@hqmank](https://x.com/hqmank/status/2048587150544028084)
+
+---
+
+<a id="freestylefly-case-361"></a>
+
+## 手机爆炸拆解图
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case361.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case361.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+Create a 3D Insane detailed exploded assembly drawing of [subject or object]
+```
+
+By [@Ankit\_patel211](https://x.com/Ankit_patel211/status/2048834306379075759)
 
 ---
 

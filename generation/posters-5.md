@@ -1,314 +1,10 @@
 # posters
 
-[← Home](../README.md) · Page 5 / 7
+[← Home](../README.md) · Page 5 / 6
 
-[1](posters.md) · [2](posters-2.md) · [3](posters-3.md) · [4](posters-4.md) · **5** · [6](posters-6.md) · [7](posters-7.md)
+[1](posters.md) · [2](posters-2.md) · [3](posters-3.md) · [4](posters-4.md) · **5** · [6](posters-6.md)
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
-
-<a id="freestylefly-case-291"></a>
-
-## 极致奢华的弹珠店梦幻宣传单
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case291.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case291.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-[中文] 以 3:4 比例制作一家弹珠店那种闪闪发光的宣传单。放置一个真实、精细的现代可爱日本女性。充分利用闪闪发光、立体感丰富的豪华装饰彩虹字体等，务必做到极致奢华。并列介绍几个不存在的虚构新机型。 [English] Create a sparkling flyer like those of a pachinko parlor at a 3:4 aspect ratio. Place a realistic, highly detailed modern cute Japanese woman. Make full use of sparkling, three-dimensional richly decorated rainbow typography, etc., and be sure to achieve extreme luxury. Introduce several non-existent fictional new models side by side.
-```
-
-By [OpenNana](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-291)
-
----
-
-<a id="freestylefly-case-298"></a>
-
-## 梦幻波士顿春季城市海报
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case298.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case298.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-[中文] 一张引人注目的2026年春季波士顿城市海报，具有优雅的庆典氛围和大胆的当代设计。在干净的米白色纹理背景上，带有大面积的留白，一个微型的单人赛艇手在图像右下角一条狭窄的反光水带上划行。船桨划出的尾波以动态的书法曲线向上扫过，逐渐变成查尔斯河，然后再变成一幅梦幻般的手绘波士顿全景。在这个流动的河流形状的构图中包含着标志性的波士顿元素：后湾天际线、灯塔山红砖联排别墅、橡树街、波士顿公共花园、天鹅船、扎基姆桥、芬威球场启发的细节、历史悠久的砖砌建筑、港口渡轮，以及这座城市的水滨氛围。柔和的晨雾，金色的春季光线，深红和金色的微妙节日点缀，丰富的细节，层次分明的深度，精致的城市海报美学，清新而优雅，视觉上强有力但不拥挤。左下角的优雅排版写着“SPRING 2026”，并附有垂直标语“BOSTON, A CITY OF RIVER, MEMORY, AND INVENTION”，文字清晰且构图优美，高端平面设计，9:16 [English] A striking Spring 2026 city poster for Boston with an elegant celebratory mood and a bold contemporary design. On a clean off-white textured background with large areas of negative space, a miniature single sculler rows across the lower right corner of the image on a narrow ribbon of reflective water. The wake from the oar sweeps upward in a dynamic calligraphic curve, gradually transforming into the Charles River and then into a dreamlike hand-painted panorama of Boston. Inside this flowing river-shaped composition are iconic Boston elements: the Back Bay skyline, Beacon Hill brownstones, Acorn Street, Boston Public Garden, Swan Boats, Zakim Bridge, Fenway-inspired details, historic brick architecture, harbor ferries, and the city’s waterfront atmosphere. Soft morning fog, golden spring light, subtle festive accents in crimson and gold, rich detail, layered depth, sophisticated city-poster aesthetics, fresh and refined, visually powerful but not overcrowded. Elegant typography in the lower left reads “SPRING 2026” with a vertical slogan “BOSTON, A CITY OF RIVER, MEMORY, AND INVENTION”, text clear and beautifully composed, premium graphic design, 9:16
-```
-
-By [@BubbleBrain](https://x.com/BubbleBrain/status/2045358053831172358)
-
----
-
-<a id="freestylefly-case-312"></a>
-
-## 鲜艳霓虹光影下的动感苏打水飞溅商业海报
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case312.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case312.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-[中文] { "prompt": "一个充满活力的高端广告构图中的三个超动态苏打水罐 —— 一罐热带冲刺苏打水伴随着戏剧性的水和热带水果飞溅而爆炸，鲜艳的橙色和粉色背景光；一罐柠檬冰爽苏打水在发光的绿色动态光背景下被冷水泼溅；两罐都覆盖着逼真的冷凝水和运动模糊的水滴，充满果味和清爽的能量。深橙色、粉色和霓虹绿灯光在大胆的演播室布置中融合。由使用佳能 50mm 镜头的专业摄影师拍摄，超写实纹理，清晰的细节，超高分辨率，明亮的商业海报美学，丰富的色彩鲜艳度，电影级飞溅效果 --ar 3:4" } [English] { "prompt": "Three ultra-dynamic soda cans in one vibrant high-end advertising composition — a can of TROPICAL RUSH exploding with dramatic water and tropical fruit splash, vibrant orange and pink background lighting; a can of LEMON ICED splashed with cold water against a glowing green dynamic light background; both cans covered in realistic condensation and motion-blurred droplets, bursting with fruity, refreshing energy. Deep orange, pink, and neon green lighting blend together in a bold studio setup. Captured by a professional photographer using a Canon 50mm lens, hyper-realistic textures, crisp details, ultra high resolution, bright commercial poster aesthetic, rich color vibrancy, cinematic splash effects --ar 3:4" }
-```
-
-By [@Fujimoto\_hina](https://x.com/Fujimoto_hina/status/2028388808320819277)
-
----
-
-<a id="freestylefly-case-314"></a>
-
-## 红蓝光影下的未来都市双重曝光青年
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case314.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case314.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-[中文] { "prompt": "一位年轻男子的超写实电影级双重曝光侧脸肖像，表情专注强烈，皮肤纹理细节丰富，眼神锐利。他的面部与从剪影中浮现的未来主义城市天际线无缝融合，摩天大楼和城市建筑构成了他的颈部和下颌线。深蓝色和鲜艳红色的强烈对比，象征着冲突与力量。抽象的数字划痕、碎裂的玻璃纹理和漏光效果覆盖在面部，营造出戏剧性的效果。干净的白色背景，超精细的灯光，专业电影海报风格，高对比度，清晰聚焦，8K分辨率，逼真的发丝，社论海报构图，现代平面设计美学，戏剧性的氛围，超高清，照片级真实。", "negative_prompt": "模糊，低分辨率，扭曲的面部，多余的肢体，过饱和的颜色，嘈杂的背景，平淡的灯光，卡通化，低细节", "resolution": "8K", "style": "电影感，双重曝光，照片级真实感，社论海报", "background": "干净的白色", "lighting": "高对比度，戏剧性的蓝红分割布光" } [English] { "prompt": "A hyper-realistic cinematic double exposure portrait of a young man in side profile, intense focused expression, detailed skin texture and sharp eyes. His face seamlessly blended with a futuristic city skyline emerging from his silhouette, skyscrapers and urban buildings forming his neck and jawline. Strong contrast of deep blue and vibrant red tones symbolizing conflict and power. Abstract digital scratches, fractured glass textures, and light leaks overlaying the face for a dramatic effect. Clean white background, ultra-detailed lighting, professional movie poster style, high contrast, sharp focus, 8K resolution, realistic hair strands, editorial poster composition, modern graphic design aesthetics, dramatic mood, ultra-HD, photorealistic.", "negative_prompt": "blurry, low resolution, distorted face, extra limbs, oversaturated colors, noisy background, flat lighting, cartoonish, low detail", "resolution": "8K", "style": "cinematic, double exposure, photorealistic, editorial poster", "background": "clean white", "lighting": "high contrast, dramatic blue and red split lighting" }
-```
-
-By [@Fujimoto\_hina](https://x.com/Fujimoto_hina/status/2028045894088630679)
-
----
-
-<a id="freestylefly-case-320"></a>
-
-## 冰火双雄背靠背史诗电影海报
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case320.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case320.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-[中文] 一幅戏剧性的电影海报风格肖像，描绘了两位史诗奇幻战士在冰冻风暴中背靠背站立。左侧是一位身经百战的男性战士，留着湿漉漉的深色卷发，低头以此表达坚定的决心，紧握着一把插在冰里的中世纪长剑。霜雪附着在他毛皮镶边的斗篷和肩膀上。右侧是一位强有力的女性战士侧影，苍白的皮肤在炽热的橙色光芒下闪耀，她的身体部分被火焰吞没，与冰冷的蓝色氛围形成对比。雪花粒子在空中盘旋，在象征性的冲突中融合了火与冰。超精细的面部细节，情感强度，体积雾，电影级布光，冷蓝色调混合温暖的火焰高光，浅景深，史诗奇幻电影海报，超写实，8K分辨率，戏剧性构图，清晰聚焦，高对比度，逼真纹理。 [English] A dramatic cinematic poster-style portrait of two epic fantasy warriors standing back-to-back in a frozen storm. On the left, a battle-worn male warrior with wet, curly dark hair, head bowed in quiet resolve, gripping a medieval sword planted into the ice. Frost and snow cling to his fur-lined cloak and shoulders. On the right, a powerful female warrior in profile, pale skin glowing with fiery orange light, her body partially engulfed in flames thatcontrast against the icy blue atmosphere. Snow particles swirl through the air, blending fire and ice in a symbolic clash. Ultra-detailed faces, emotional intensity, volumetric fog, cinematic lighting, cold blue tones mixed with warm fire highlights, shallow depth of field, epic fantasy movie poster, hyper-realistic, 8K resolution, dramatic composition, sharp focus, high contrast, photorealistic textures.
-```
-
-By [@Naiknelofar788](https://x.com/Naiknelofar788/status/2025972876554510482)
-
----
-
-<a id="freestylefly-case-332"></a>
-
-## 茶π产品宣传海报
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case332.png"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case332.png" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-帮这个产品生成宣传图
-```
-
-By [苍何原创实测（公众号文章《我逆向了 329 条 GPT-Image2 提示词模板，全部开源！》）](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-332)
-
----
-
-<a id="freestylefly-case-343"></a>
-
-## 高定时尚杂志封面
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case343.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case343.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Ultra high-fashion magazine cover, Louis Vuitton-style editorial. Close-up portrait of a confident woman with soft rose-gold hair and natural airy bangs, slightly wind-blown for movement. She is wearing a luxury summer outfit: a structured lightweight linen or silk jacket in warm golden-yellow tones, layered over a modest high-neck top, paired with a bold gold choker necklace and subtle statement earrings. Fabric flows naturally with a summer breeze, slightly textured and breathable, capturing a premium seasonal feel. Styling is elegant, modest, and refined — no revealing clothing. Lighting is high-end studio mixed with natural golden hour glow: warm highlights, soft shadows, luminous skin with glossy editorial finish. Background is a rich summer gradient (sunset gold fading into soft coral or warm beige), clean but visually striking. Composition is dynamic and slightly cinematic: hair in motion, shallow depth of field, sharp focus on face. Typography: large elegant serif masthead "Louis Vuitton" at the top, bold cover line "YOUR CHOICE ENDS HERE" in premium editorial layout, minimal supporting text. Ultra-realistic, hyper-detailed skin texture, 8K resolution, sharp focus, glossy magazine print quality, cinematic color grading, luxury fashion photography, no nudity, tasteful and editorial.
-```
-
-By [@SPEEDAI07](https://x.com/SPEEDAI07/status/2048573343066992919)
-
----
-
-<a id="freestylefly-case-344"></a>
-
-## NOIR 街头服饰 Campaign
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case344.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case344.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Create a premium, highly realistic 1:1 campaign poster for NOIR, a modern streetwear brand. Show one hero oversized hoodie as the main focus against a gritty urban backdrop with wet concrete floors, dramatic low lighting, subtle smoke in the air and a raw street energy. Add bold minimal typography with the brand name NOIR and a short campaign headline like "Wear the Dark." Make it feel like a real high-end streetwear editorial, sharp detail, realistic fabric textures, modern and edgy, deep black tones with subtle grey accents, no clutter, no collage.
-```
-
-By [@Daniel\_adsss](https://x.com/Daniel_adsss/status/2048542581638701446)
-
----
-
-<a id="freestylefly-case-345"></a>
-
-## 法新浪潮撕纸电影海报
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case345.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case345.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Create a vertical poster composition on aged cream paper with a handmade analog feel. Use rough ripped paper edges, layered magazine cutouts, photocopy grain, halftone texture, ink bleed, and slightly imperfect screen-print registration. Keep the subject as the main black-and-white photographic portrait, placed prominently in the center or upper center. Surround the subject with graphic blocks of deep red, cobalt blue, warm yellow, black, and ivory. Add supporting collage fragments such as a rainy European street, film-strip borders, newspaper clippings, urban silhouettes, and cinematic details, arranged like a handmade 1960s art-house movie poster. Use bold condensed typography with a strong visual hierarchy. Add large headline text: "[MAIN TITLE]". Add smaller subtitle text: "[SUBTITLE]". Add bottom text: "[BRAND NAME / EVENT NAME / COMING SOON / DATE]". If needed, include a small top line reading "[TAGLINE]". The final result should feel cinematic, intellectual, rebellious, and editorial — like a lost 1960s European film poster with a strong point of view. Keep it raw, tactile, printed, imperfect, and handmade. Avoid a glossy modern finish.
-```
-
-By [@bananaprompts](https://x.com/bananaprompts/status/2048541390900994476)
-
----
-
-<a id="freestylefly-case-348"></a>
-
-## 胡须风格分析海报
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case348.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case348.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Create a premium “BEARD STYLE ANALYSIS” poster featuring the same man from the reference image. Show face shape, beard density, jawline definition, beard growth pattern, and beard suitability score. Include different beard styles comparison such as Stubble, Short Boxed Beard, Full Beard, Goatee, Van Dyke, Clean Shave. Add side profile and front profile views. Modern dark blue luxury background, professional grooming infographic style, high detail, realistic face consistency, stylish typography, premium male grooming poster.
-```
-
-By [@RizwanAly07](https://x.com/RizwanAly07/status/2048610196302250019)
-
----
-
-<a id="freestylefly-case-350"></a>
-
-## 足球球员数据涂鸦海报
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case350.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case350.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Create a scrapbook doodle-style football poster of [PLAYER_NAME]. AI auto-generates realistic career stats (club and national team). Main photo: realistic, unchanged ([PLAYER_NAME] in action or iconic pose). Doodles and handwritten notes: white and [PRIMARY_COLOR] neon ink (no warm colors unless specified), arrows, stars, scribbles, sketchy outlines. Add a glowing [PRIMARY_COLOR] outline around the player's body. Layout (bold handwritten titles and stats): - Top Title: "[PLAYER_NAME]" plus "[NICKNAME/TITLE]" - Club Career: total matches and goals plus 2–4 main clubs (apps and goals) - Highlights: 2–3 standout achievements (e.g., UCL goals, Ballon d'Or, top scorer) - National Team: caps and goals plus 1–2 international achievements Style: modern football poster x notebook aesthetic, clean but energetic, slightly messy doodles, high contrast, neon accents on dark or muted background. Important: all stats must be realistic and proportional to the player's real career.
-```
-
-By [@ryanpp27](https://x.com/ryanpp27/status/2048602248524214542)
-
----
-
-<a id="freestylefly-case-352"></a>
-
-## 西楚霸王国风暗黑海报
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case352.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case352.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-竖版国风暗黑海报，黑色纯背景，中央巨大的中文标题字，占据画面大部分空间，字体为粗粝做旧的米白色石刻/旧纸质感，带明显颗粒、磨损、裂痕与噪点；整体构图层次丰富，强烈黑白金红对比，东方审美，神秘、压抑、欲望与审判感并存 电影海报质感 高级平面设计，极致细节 纸张纹理 印章落款 小字标语，4K
-```
-
-By [@stellimbris](https://x.com/stellimbris/status/2048633434961072617)
-
----
-
-<a id="freestylefly-case-355"></a>
-
-## 概念字体海报 Prompt
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case355.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case355.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Create ONE finished premium conceptual typography poster for the exact title: “[INPUT_TEXT]” Single poster only. No moodboard, grid, presentation board, mockup, captions, prompt text, process sheet, or sample labels. The title “[INPUT_TEXT]” must be the dominant visual structure of the poster: huge, readable, powerful, and spelled exactly. Do not translate, shorten, replace, or misspell it. Do not add other large readable text. Optional micro catalog text is allowed only if it stays subtle and secondary. Silently interpret the title’s meaning, mood, cultural aura, symbolic associations, psychological tension, and visual rhythm. Turn that interpretation into one strong visual metaphor. Typography is the hero. Design custom-looking letterforms whose weight, width, contrast, spacing, rhythm, distortion, negative space, edge quality, and ink texture express the temperament of the title. The type should feel intentionally designed, not like a default font. If “[INPUT_TEXT]” refers to a widely known person, make a large editorial portrait or full / half-body figure a major visual presence, occupying roughly 40–70% of the composition. The figure should feel recognizable through aura, posture, styling, era, expression, lighting, and symbolic atmosphere, but should not copy a specific existing photograph, official poster, campaign image, logo, slogan, or copyrighted composition. The portrait must interact with the typography: overlapping the letters, emerging from them, being framed by them, casting shadows on them, breaking through them, or being partially hidden behind them. For all other titles, use a human figure, landscape, object, or atmospheric setting only when it strengthens the meaning. It must interact with the typography and deepen the concept, not decorate it. Use a rich but restrained 4–6 color system matched to the theme: dominant background color, primary typography color, figure / landscape tone, emotional accent color, muted support color, and subtle paper / ink texture tone. Avoid flat black-white-red defaults unless conceptually necessary. Composition style: high-end editorial poster, museum-quality graphic design, dramatic scale, strong hierarchy, few elements, intelligent whitespace, bold flat color areas, sharp cropping, silkscreen / lithograph / risograph grain, paper fibers, subtle ink imperfections, refined visual tension. The final image should feel like a complete visual sentence: the title, the figure or setting, the color, and the typography explain each other. Avoid generic word art, glossy 3D lettering, random icons, stock-photo realism, cluttered collage, excessive grunge, tourist clichés, official logos, copied slogans, copied campaign aesthetics, unrelated text, and misspelled typography. ----- INPUT_TEXT：Phoenix Rebirth
-```
-
-By [@dotey](https://x.com/dotey/status/2048793351290327381)
-
----
-
-<a id="freestylefly-case-358"></a>
-
-## 草莓能量饮料商业广告
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case358.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case358.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-A hyper-realistic commercial advertisement blending energy drink and sports branding. A dynamic athletic woman mid-air jump, wearing modern sportswear (light translucent jacket, orange shorts, white sneakers), surrounded by explosive splashes of red strawberry liquid and flying ice cubes. A cold metallic energy drink can (strawberry flavor) bursting with droplets sits in the foreground, covered in condensation. Fresh strawberries scattered on a glossy reflective surface. Bright cinematic lighting with dramatic highlights and motion effects. Vibrant orange gradient background with bold glowing typography behind the subject. Ultra-detailed, high contrast, sharp focus, commercial product photography style, 8K resolution, advertising poster aesthetic, energetic, powerful, refreshing mood.
-```
-
-By [@SPEEDAI07](https://x.com/SPEEDAI07/status/2049043627163435040)
-
----
-
-<a id="freestylefly-case-359"></a>
-
-## 水墨双重曝光人物海报
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case359.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case359.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-A cinematic character promotional poster of [SUBJECT], vertical composition (9:16), designed with a refined East-Asian ink aesthetic and high-end visual storytelling. STRUCTURE: Top-heavy hierarchical layout. The upper half features a large, highly recognizable silhouette of [SUBJECT]'s head / face / mask / upper body, forming a bold, iconic primary shape. The silhouette should be instantly identifiable. The middle-lower section contains the full-body version of [SUBJECT] as a secondary subject, standing in a stable pose or subtle action stance, forming the visual core. COMPOSITION STYLE: Inside the large silhouette and around the character, use double exposure and collage storytelling. Integrate multiple elements: - key scenes related to [SUBJECT] - symbolic imagery and environment - small narrative figures and interactions - supporting visual motifs Blend everything seamlessly using clouds, mist, ink diffusion, and negative space. VISUAL FLOW: Create a continuous flowing visual path from top to bottom, connecting: - upper silhouette - inner collage elements - full-body subject Ensure smooth eye guidance and compositional cohesion. SIDE ELEMENTS: Add balanced supporting elements on left and right sides to create tension, depth, and spatial variation. STYLE & ATMOSPHERE: - Large areas of negative space - Ink-wash diffusion edges, soft fading, subtle fragmentation - Eastern aesthetic: balance of emptiness and detail - Calm, premium, restrained, cinematic tone QUALITY: Ultra-detailed, high resolution, layered depth, soft lighting, atmospheric perspective, cohesive series-style design. OUTPUT: 9:16 aspect ratio, poster-ready composition.
-```
-
-By [@Goodmanprotocol](https://x.com/Goodmanprotocol/status/2049002279051895243)
-
----
-
-<a id="freestylefly-case-367"></a>
-
-## VELORA 奢华香水广告海报
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case367.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case367.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-{ "image_type": "luxury perfume advertisement poster", "resolution": "4K ultra HD (4096x5120)", "aspect_ratio": "portrait (4:5)", "style": { "aesthetic": "high-end fragrance campaign (Tom Ford, Dior inspired)", "tone": "dark luxury, sensual, elegant, powerful", "color_grading": "deep black shadows with rich golden highlights and warm amber glow", "lighting": "cinematic spotlight + golden rim light + soft fill light, dramatic shadows", "contrast": "high cinematic contrast", "depth_of_field": "shallow, sharp focus on face and perfume bottle" }, "camera": { "type": "85mm portrait lens", "aperture": "f/1.6", "angle": "slightly low angle, premium perspective", "framing": "model upper body + product foreground" }, "subject": { "gender": "female", "age_appearance": "young adult", "expression": "confident, sensual, calm", "styling": { "hair": "voluminous, slightly messy, glossy strands with golden highlights", "makeup": "soft glam, glowing skin, bold lips", "outfit": "brown tailored blazer with patterned silk scarf", "accessory": "thin transparent eyeglasses" } }, "product": { "type": "luxury perfume bottle", "brand": "VELORA PARFUMS", "label": "EAU DE PARFUM", "design": "clear crystal glass bottle, golden liquid inside, metallic gold cap", "placement": "bottom center foreground on glossy black marble surface", "effects": "strong reflections, golden glow, subtle condensation, cinematic shine" }, "environment": { "background": "dark blurred luxury interior with warm golden light streaks", "surface": "black marble with reflections", "extra_elements": "small flowers near bottle, golden particles, soft smoke" }, "typography": { "logo": "V monogram + VELORA PARFUMS", "headline": "Not just a scent, It’s your Signature.", "tagline": "A fragrance that speaks before you do.", "secondary": "Own your essence. Leave a legacy.", "features": [ "Long Lasting", "Premium Ingredients", "Crafted with Passion" ], "notes": [ "Top: Pear, Bergamot, Pink Pepper", "Heart: Jasmine, Rose, Orris", "Base: Vanilla, Patchouli, Musk" ], "font_style": "luxury serif + elegant handwritten script", "color": "gold metallic", "placement": "top left + mid left + bottom balanced layout" }, "post_processing": { "sharpness": "ultra sharp on face and bottle", "glow": "golden cinematic glow", "retouch": "high-end editorial finish", "vignette": "subtle dark vignette" }, "mood": "premium luxury perfume campaign, cinematic, bold brand identity", "quality": "hyper-realistic, 4K ultra HD, commercial grade, award-winning fragrance ad" }
-```
-
-By [@akkiwani703](https://x.com/akkiwani703/status/2049778680969437564)
-
----
-
-<a id="freestylefly-case-381"></a>
-
-## 90 年代公寓场景参考板
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case381.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case381.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-{ "type": "scene reference board — 90s apartment living room, cinematic night", "style": "cinematic film photography, 35mm grain, warm amber shadow fill, deep chiaroscuro lighting, hyper-detailed interior, production design reference quality", "layout": { "main_panel_center_left": { "label": "CAMERA A — FRONT VIEW", "scene": "Wide shot, L-shaped tan sectional sofa, grey knit throw blanket, wooden coffee table (remote, mug, ashtray, Rolling Stone stack), lava lamp left, table lamp right, rain-streaked city window behind, Nirvana poster left wall. 35mm grain." }, "main_panel_center_right": { "label": "CAMERA B — REVERSE VIEW", "scene": "Wide reverse from behind sofa. CRT TV prominent right, grey static screen. Tall bookshelf, VHS tapes. Cool blue backlight from window behind camera. Deep shadow." }, "prop_strip_bottom": "6 close-up tiles: 1. LAVA LAMP — chrome base, blue-green wax blobs; 2. COFFEE TABLE — remote, mug, ashtray, magazines; 3. NIRVANA POSTER — black smiley face, wall texture; 4. CRT TELEVISION — static screen, VHS stack; 5. WINDOW/RAIN — city bokeh, water streaks; 6. THROW BLANKET — sofa corner, worn upholstery", "top_right_inset": "SOURCE REF thumbnail — original photo", "footer": "2700K PRACTICAL · 4100K CITY NIGHT · 24mm · 35MM" }, "background": "deep charcoal #1a1a1a, thin white separators", "dimensions": "wide landscape 3:1, high resolution" }
-```
-
-By [@Iancu\_ai](https://x.com/Iancu_ai/status/2051287273581203888)
-
----
-
-<a id="freestylefly-case-388"></a>
-
-## 1980s Claude 复古杂志广告
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case388.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case388.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-A fictional 1980s magazine advertisement poster introducing “Claude” as a revolutionary home AI assistant, retro commercial print ad style, bold headline at the top reading “Introducing Claude!”, large chrome metallic 3D typography with pink and blue reflections, yellow italic tagline underneath: “The AI assistant that talks back.” Center composition: a beige 1980s CRT home computer with chunky keyboard on a wooden desk, green monochrome terminal screen glowing, readable text on screen: “Claude”, subtitle: “The helpful AI assistant.” On the screen, a retro terminal-style conversation reads: “YOU: How can you help me today?” “CLAUDE: I can answer questions, help you write, summarize information, brainstorm ideas, and explain topics clearly.” “YOU:” A cheerful 1980s family of three gathers around the computer: father in a blue sweater, mother with curly hair in a pink sweater, young boy in a striped sweater, all looking amazed, delighted, and fascinated, warm nostalgic expressions, classic family technology advertising mood. Background: dark starry night sky, purple and blue neon perspective grid, retro sci-fi glow, subtle palm silhouettes, sparkling highlights, lens flares, dramatic yet friendly atmosphere. Poster layout: left side contains stacked retro feature boxes with glowing neon icons, including a question mark, pencil, light bulb, and clock. Each feature box includes short retro advertising copy: “ANSWERS QUESTIONS” — Get helpful, clear answers in everyday language. “HELPS YOU WRITE” — Draft ideas, notes, letters, and more with ease. “GENERATES IDEAS” — Brainstorm, create, and think bigger. “AVAILABLE WHENEVER YOU NEED IT” — Day or night, Claude is ready to help. Add a small retro text block describing Claude: “For the first time, an AI assistant you can have a conversation with. Ask questions. Get answers. Share ideas. Write drafts, notes, and reports. Explore topics, organize thoughts, and solve problems. Claude understands natural language and responds in a clear, helpful way.” Add a short highlighted copy block: “It’s helpful. It’s thoughtful. It’s always by your side.” Bottom area includes a large “Claude” brand wordmark with colorful diagonal retro stripes, and the slogan: “A smarter way to think, write, and explore.” Bottom right has a white promotional price sticker area with bold pink text: “Free!!” Smaller text underneath: “Available now for curious minds everywhere.” Top right has a bright yellow starburst badge saying: “A REVOLUTION IN AI ASSISTANCE!” Include a retro product box on the desk labeled “Claude” with small text: “SMARTER SOFTWARE FOR MODERN THINKERS.” Include a mug or accessory on the desk branded “Claude”. Visual style: 1985 consumer computer advertisement, airbrushed illustration, glossy print texture, halftone details, nostalgic retro futurism, high saturation, cinematic product lighting, authentic 1980s typography and layout, readable ad composition, detailed vintage commercial poster, highly polished, warm family-friendly mood, retro tech fantasy, vertical poster. Negative prompts: modern laptop, smartphone, flat design, minimalism, futuristic 2020s interface, cyberpunk overload, messy layout, unreadable typography, distorted text, misspelled words, deformed hands, extra fingers, bad anatomy, duplicate people, plastic skin, overexposed lighting, low resolution, blurry image, warped computer, broken keyboard, cluttered composition, inconsistent vintage style, random symbols, ugly poster design, poor hierarchy, incorrect perspective
-```
-
-By [@Shinning1010](https://x.com/Shinning1010/status/2051410804805599436)
-
----
-
-<a id="freestylefly-case-389"></a>
-
-## Transparent Labs Hydrate 健身补剂 Campaign
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case389.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case389.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Create a striking campaign poster that stops people mid-scroll for Transparent Labs Hydrate. Bold high-impact supplement advertisement with dramatic black and deep electric blue color palette, gritty premium fitness aesthetic, sharp cinematic lighting, glossy reflections, light smoke atmosphere, intense contrast. Giant headline typography at top reading “TRANSPARENT LABS HYDRATE” in oversized distressed white and electric blue text. Center composition features the exact woman from the attached reference image as a fit athletic female model seated confidently on a studio floor, holding a shaker bottle, with a focused and powerful expression. Change her clothes into sleek black fitness gym outfit: a black sports bra / tank top and high-waisted black leggings with chunky white sneakers. Large glowing “1%” graphic behind the subject symbolizing daily progress. Front left foreground shows a matte black Transparent Labs Hydrate tub with modern luxury label reading “HYDRATE”, scoop of electrolyte powder spilled beside the container. Surround the poster with clean icon-based benefit callouts: replenishes electrolytes, supports hydration, boosts recovery, improves endurance, enhances performance, zero sugar, lab tested, premium quality, no fillers. Strong motivational copy such as “Daily Hydration. Peak Performance.” Hyper realistic textures, polished commercial retouching, premium sports nutrition branding, modern typography layout, social media ad format, ultra detailed, high resolution.
-```
-
-By [@amynys](https://x.com/amynys/status/2051409591137972606)
-
----
 
 <a id="freestylefly-case-396"></a>
 
@@ -326,6 +22,310 @@ By [@sha\_zdiii](https://x.com/sha_zdiii/status/2052237839119835280)
 
 ---
 
-[1](posters.md) · [2](posters-2.md) · [3](posters-3.md) · [4](posters-4.md) · **5** · [6](posters-6.md) · [7](posters-7.md)
+<a id="freestylefly-case-400"></a>
+
+## 多风格签名选择海报
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case400.png"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case400.png" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+你是一个高端签名设计系统 + 风格人格视觉系统。 任务： 仅基于用户输入的「姓名」，生成一张「多风格签名选择海报（卡片式结构）」。 目标是把名字转译为具有笔势、气质与力量感的签名设计系统，让用户产生选择欲、认同感和分享欲。 输入信息： 姓名：[输入你的昵称] 禁止要求额外信息，必须自动完成气质与风格推断。 隐藏执行逻辑： 1. 字形与笔势分析： - 结构：疏密、横竖比例、重心位置 - 节奏：连贯、停顿、爆发、收束 - 适配：连笔程度、草写程度、变形空间 2. 气质推断： 清冷、张扬、克制、商业、文艺、松弛、锋利、高级。 3. 生成 6 个签名分支： - 全部适配该姓名 - 每一个都有明确书写风格 - 差异来自笔势、节奏、结构和收笔方式 整体画面： 9:16 竖版海报，极简、高级、干净、有设计感、适合传播。 背景使用纯白或极浅灰渐变，留白不少于 40%。 顶部标题区： 主标题可用： 「你的名字，适合哪种签名？」 或： 「[姓名] · 签名风格选择」 副标题： 「不同笔势，不同气场」 排版为黑色与灰色，高级字距，留白充足。 签名卡片区域： 使用整齐网格卡片布局，推荐 2 列 × 3 行，共 6 个卡片。 每个卡片统一尺寸、统一间距、整体对齐干净。 卡片样式： - 轻微圆角 8-16px - 无明显边框，或极细描边 - 极轻阴影 - 背景为纯白微差、极浅灰，或轻微宣纸 / 磨砂质感 视觉目标接近高级杂志排版，避免强 UI 感、厚卡片和 App 组件感。 签名生成规则： 签名必须基于书写动作生成，避免只做字体变形。 每一个签名风格在生成前，先确定一套明确书写行为规则： 1. 起笔方式：轻触起笔、重压起笔、直接横扫、从左下进入或从中段切入。 2. 连笔结构：前两个字强连笔后面断开、全连笔一气呵成、只连接偏旁。 3. 节奏变化：快到慢再收、慢到爆发再拉伸、或均匀节奏。 4. 结构变形：横向拉长、垂直压缩、整体右倾或左倾、字间重叠或错位。 5. 收笔设计：尾笔长甩、突然收断、回钩、渐隐收尾。 6 种签名方向： 1. 极简理性：接近品牌签名 2. 狂放张力：强烈连笔和拉伸 3. 松弛随性：手写感强 4. 东方行草：飞白和墨感 5. 锋利结构：几何感和断裂 6. 实验风格：允许部分不可读，但需要强设计感 色彩策略： 整体以黑、灰、白为主。每个卡片允许一个极轻微点缀色，例如冷灰蓝、香槟金、墨黑、暖棕、深绿。 避免大面积色块和花哨配色。 底部互动区： 底部居中加入小号灰字： 「选一个，作为你的专属签名。」 或： 「你是第几种？」 光影与质感： 高级棚拍光、柔光环境、细腻阴影、干净空气感。 质感参考 Apple 发布会视觉和高端品牌视觉。 禁止项： 不要字体拼贴，不要普通书法字，不要 UI 卡片风，不要颜色杂乱，不要签名太小，不要排版松散，不要缺乏笔势，不要模板拼接感。 最终目标： 生成一张高级、干净、有秩序、有笔势张力的 6 风格签名选择海报。 用户一眼能选出最像自己的一款签名。
+```
+
+By [GitHub prompt / @liyue\_ai](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-400)
+
+---
+
+<a id="freestylefly-case-401"></a>
+
+## Lost in 国家旅行海报拼贴
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case401.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case401.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+Create a stylized travel poster / graphic collage for [country]. The main subject should be a stylish international tourist visiting [country], clearly presented as a traveler and not a local resident. Show the tourist wearing modern travel fashion, with details such as a camera, backpack, sunglasses, map, or suitcase, exploring the culture and atmosphere of [country]. Place the tourist in a dynamic composition surrounded by iconic architecture, streets, landscapes, landmarks, transportation, food, signage, and cultural elements associated with [country]. Blend realistic character detail with a graphic collage background made of layered paper textures, torn poster edges, sticker elements, halftone dots, editorial typography, and bold geometric shapes. Include authentic visual motifs from [country], but keep the tourist's appearance and styling globally fashionable and clearly foreign to the setting. Add a large readable headline: "LOST IN [country]". Modern, artistic, premium editorial travel poster aesthetic, balanced layout, print-worthy composition.
+```
+
+By [@SadiaMalik182 / aiiStudio prompt](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-401)
+
+---
+
+<a id="freestylefly-case-406"></a>
+
+## 巨型游戏手柄街头 Campaign
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case406.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case406.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+Luxury futuristic streetwear campaign poster featuring a confident athletic girl sitting on a gigantic oversized retro gaming controller instead of sunglasses, clean editorial advertising aesthetic, massive bold typography in the background saying “ENERGY”, glossy reflective floor, cinematic studio lighting, pastel neon color palette with lavender, silver, and soft cyan tones. The girl has curly shoulder-length hair, relaxed confident attitude, wearing an oversized white graphic T-shirt, loose black athletic shorts, high white socks, and modern sneakers. Casual sporty fashion styling, natural makeup, youthful Gen-Z streetwear vibe. She is casually seated on top of the giant gaming controller with one leg hanging down and one knee raised, looking away from the camera with cool effortless confidence. The oversized gaming controller is ultra detailed with futuristic buttons, glowing accents, premium matte materials, and soft LED reflections. Minimal luxury branding on the controller side. Giant cream-colored typography fills the background vertically in a bold condensed font. Environment: seamless studio backdrop with glossy floor reflections, high-end commercial fashion photography, ultra realistic textures, dramatic shadows, premium editorial layout, modern tech-fashion advertisement aesthetic, symmetrical composition, luxury product campaign style, 4:3 aspect ratio, hyper detailed, photorealistic.
+```
+
+By [@AIwithkhan](https://x.com/AIwithkhan/status/2052973449107349725)
+
+---
+
+<a id="freestylefly-case-411"></a>
+
+## 极简建筑地标海报
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case411.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case411.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+Design a luxury minimalist poster centered on a famous architectural landmark of your choice ([building name]). The focal element is an illustrated rendering of the building. Behind it, place one giant bold English word in a design-forward typeface whose character matches the building's identity, with smaller body copy nearby describing its design philosophy. The composition should read as an ultra high-end art poster. Use a restrained, low-key color palette where graphic elements interlock with the architecture, appearing as if they form part of its structural components or extend outward from its silhouette.
+```
+
+By [@iamaiistudio](https://x.com/iamaiistudio/status/2053084576520573269)
+
+---
+
+<a id="freestylefly-case-417"></a>
+
+## 复古印尼猫薄荷广告
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case417.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case417.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+Ultra realistic vintage Indonesian catnip advertisement poster, retro 1970s paper texture, distressed print, faded colors. A black-and-white tuxedo cat wearing cute vintage housewife clothes floating happily in the air after smelling catnip, euphoric expression, swirling catnip leaves, absurd Indonesian meme energy. Bold retro typography: “BIKIN KUCING SENENG FLY!” fake catnip jar product, old-school badges, price tag, nostalgic warung advertisement aesthetic, cinematic lighting, grain, scratches, authentic aged poster look.
+```
+
+By [@NyaiiBubu](https://x.com/NyaiiBubu/status/2053075349424992532)
+
+---
+
+<a id="freestylefly-case-418"></a>
+
+## 中世纪城市旅行海报
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case418.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case418.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+Create a vertical mid-century travel poster for [CITY NAME] featuring [LANDMARK]. Use a strict 3-color palette: cream paper, black technical linework, and [COLOR]. Style: Minimalist isometric bird's-eye view with ultra-fine hatching and screen-print texture. Color usage: Solid flat [COLOR] for the entire sky and small accents on roofs or streets. No gradients. Text: Bold sans-serif "[CITY NAME]" at top in cream, with the local language name in smaller cream text below.
+```
+
+By [@Goodmanprotocol](https://x.com/Goodmanprotocol/status/2053523890744545437)
+
+---
+
+<a id="freestylefly-case-424"></a>
+
+## FMCG 棒棒糖霓虹广告
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case424.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case424.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+Hyper-realistic cinematic FMCG billboard advertising poster for Chupa Chups India, focusing on playful energy, bold flavor explosion, and Gen-Z candy culture. Scene: a giant glossy Chupa Chups lollipop floating above a vibrant Indian street at night, candy shards and liquid flavor bursts exploding outward mid-air. Environment: neon-lit urban backdrop inspired by Mumbai nightlife, glowing signage, reflective wet streets, colorful haze. Subject: oversized strawberry swirl lollipop as the hero object, ultra-detailed glossy texture, cinematic flavor splash motion. Visual storytelling: iconic Chupa Chups flower logo glowing subtly on wrapper, reflections visible on wet surfaces and candy syrup splashes. Composition: dramatic low-angle shot, giant centered product dominating frame, dynamic explosion spreading diagonally across billboard composition. Typography: top left — Chupa Chups logo. center massive — “UNWRAP THE FUN” ultra bold playful typography. behind product (oversized layered text) — “LICK / SPIN / REPEAT”. mid-left — “FLAVOR THAT POPS.” bold condensed font. bottom left — “STRAWBERRY BURST · GLOBAL ICON · 2026 EDITION”. bottom right — “http://chupachups.com”. left vertical edge — “FUN · FLAVOR · CANDY CULTURE”. Typography style: playful bold sans-serif, glossy layered opacity, oversized billboard scale. Color palette: vibrant reds, yellows, pinks, neon orange accents, glossy candy textures. Lighting: dramatic neon backlight with glowing highlights and candy reflections. Atmosphere: sugar particles, mist, syrup splashes, floating candy dust. Mood: energetic, youthful, addictive, vibrant. Shot on ARRI Alexa Mini LF, 35mm anamorphic, HDR, ultra cinematic, premium FMCG billboard style, 4:5 portrait.
+```
+
+By [@Diplomeme](https://x.com/Diplomeme/status/2054061713583219149)
+
+---
+
+<a id="freestylefly-case-425"></a>
+
+## 黑白时尚人像拼贴海报
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case425.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case425.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+{ "prompt": "Vertical poster collage design, beige background, four stacked horizontal rounded rectangles containing black and white cinematic portraits of the same young woman wearing sunglasses in different stylish poses. Foreground features a full-color high-quality cutout of the woman on the left side, wearing a pink mauve fitted shirt, black pants, sunglasses, confident cool pose, modern fashion editorial style, soft studio lighting, ultra realistic, premium magazine aesthetic, depth and shadow effects, clean minimal layout, 2:3 aspect ratio.", "aspect_ratio": "2:3" }
+```
+
+By [@XSydneyFan](https://x.com/XSydneyFan/status/2054054476429009086)
+
+---
+
+<a id="freestylefly-case-431"></a>
+
+## 城市文字旅行海报
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case431.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case431.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+Ultra-high-resolution typography travel poster themed around [CITY NAME]. 16:9 poster ratio. IMPORTANT: every visible word on the poster must be in English, perfectly spelled, professionally typeset. No distorted letters, no random symbols, no broken text, no AI gibberish. CORE COMPOSITION: Place the giant English word "[CITY_NAME]" front and center. Each letter is a tall, bold, elongated sans-serif form, and each one frames a different illustrated scene from the city, like a row of gallery windows. Spread landmarks, streets, transport, nature, culture, and architecture across the letters so the scenes flow from one letter into the next as a single connected urban panorama. TOP HORIZONTAL STRIP: Across the top of the poster, a thin panoramic band: city skyline silhouettes, cars, trams or trains, boats where it fits, birds, clouds, sun. Keep it minimalist, elegant, rhythmically balanced. STYLE: mid-century modern editorial poster, Swiss graphic design, minimal vector illustration, architectural infographic feel, travel typography poster, flat geometric illustration, ultra-clean composition, premium magazine design, screen-print poster vibe, retro-futuristic travel branding. ILLUSTRATION: Flat vector shapes only. No realism, no gradients, no noise. Clean geometric shadows, simplified architectural forms, a mix of map-like top-down with side-view cityscape. Subtle line-art details, crisp vector edges, strong negative space, harmonious rhythm between the letters. TYPOGRAPHY: Giant bold sans-serif, letters fill most of the canvas height. Pixel-perfect alignment. Each letter acts as its own framed illustration panel. Soft rounded corners where it suits. Editorial spacing. Print-ready and geometrically clean. COLOR PALETTE: Pull a cohesive palette inspired by [CITY_NAME]: coastal city -> aqua, sand, coral, muted teal desert city -> terracotta, beige, warm cream cyber city -> mint, navy, steel blue historic European city -> dusty rose, olive green, parchment Muted pastels, soft vintage travel-poster colors, low saturation. Max 4 to 6 colors. CONTENT: Include iconic landmarks, famous streets and transport, local urban patterns, nearby nature, skyline silhouettes, bridges/rivers/coastline if relevant, culturally symbolic architecture, recognizable local atmosphere. COMPOSITION: Centered typography on a white or soft ivory background. Lots of breathing room. The top panoramic strip balances the heavy typography below. Asymmetrical but visually balanced. Each letter shows its own scene depth and perspective. Museum-quality poster hierarchy. MOOD: premium, intellectual, calm, design-forward, travel-editorial, stylish enough for a museum gift-shop wall. QUALITY: 8K ultra-detailed, print-ready, razor-sharp vector edges, flawless typography, zero distorted text, zero random characters, zero spelling errors, zero AI artifacts.
+```
+
+By [@iamaiistudio](https://x.com/iamaiistudio/status/2054563354899857757)
+
+---
+
+<a id="freestylefly-case-432"></a>
+
+## 大堡礁复古旅行海报
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case432.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case432.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+Create a premium editorial travel poster illustration of the Great Barrier Reef, Australia. Style: Flat vector illustration, ultra-clean minimalism, mid-century modern travel poster aesthetic, inspired by vintage tourism prints and Scandinavian graphic design. No photorealism, no textures, no noise, no gradients. Use crisp shapes, smooth color blocks, and harmonious vibrant tones. Composition (vertical 3:4 layout): Foreground (underwater): A rich coral reef ecosystem filled with colorful corals in pink, orange, yellow, and red tones. Include tropical fish of various species (striped, bright yellow, blue, and orange), and a large sea turtle swimming gracefully toward the right. Clear turquoise water with high visibility. Midground: A female snorkeler swimming horizontally just beneath the water surface, wearing fins and a snorkel mask, observing the reef below. Light rays subtly pass through the water surface. Background (above water): A calm tropical ocean with shallow reef patches visible through crystal-clear water. A white leisure boat floats peacefully on the left, and a small sailboat appears far in the distance. On the horizon, soft green islands or hills stretch across. Sky: Bright blue sky with fluffy white clouds and a few birds flying, enhancing the serene vacation mood. Typography: At the bottom of the poster, include bold uppercase text: “GREAT BARRIER REEF” Below it, smaller spaced-out text: “AUSTRALIA” Add a small decorative coral icon between divider lines. Mood & Lighting: Bright daylight, calm, inviting, tropical paradise atmosphere. Colors should feel fresh, vibrant, and relaxing with strong contrast between coral reef and ocean blues.
+```
+
+By [@jzaib4269](https://x.com/jzaib4269/status/2055487295734620522)
+
+---
+
+<a id="freestylefly-case-438"></a>
+
+## 珠宝微缩城市广告海报
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case438.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case438.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+Create a hyper-detailed luxury advertising poster in a cinematic miniature-world style. A gigantic royal diamond necklace with intricate gold filigree and massive ruby gemstones stands in the center like an architectural monument. Surround the necklace with a futuristic miniature city built around and inside the jewelry piece, including skyscrapers, elevated highways, bridges, spiral staircases, tiny human figures, luxury billboards, drones, helicopters, and cinematic urban activity. Use a deep crimson red monochrome background with gold and ruby accents. Add premium fashion-ad aesthetics, ultra-realistic textures, glossy reflections, dramatic studio lighting, depth of field, tilt-shift miniature effect, and high-end commercial composition. Include bold elegant typography at the top saying: “EMBRACE THE EXTRAORDINARY”. Style inspired by luxury jewelry campaigns, surreal city-building concepts, and premium 3D advertising renders. Ultra realistic, 8K, octane render, sharp focus, highly detailed, cinematic shadows, symmetrical composition.
+```
+
+By [@Umar\_\_786Ai](https://x.com/Umar__786Ai/status/2055664244138349055)
+
+---
+
+<a id="freestylefly-case-454"></a>
+
+## 旅行美食薯片广告海报
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case454.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case454.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+Ultra-detailed premium travel-food advertisement poster for [CITY/COUNTRY], vertical composition, inspired by luxury Lay’s-style chips advertising. A realistic chips packet placed at the bottom center as the main hero object, matching the exact premium commercial layout of a floating chips campaign. A cinematic spiral ribbon of sauce, cream, clouds, steam, or flavored swirl rises upward from the chips packet, dynamically wrapping around iconic landmarks, local foods, and cultural elements from [CITY/COUNTRY]. Floating ridged potato chips suspended naturally throughout the spiral motion, interacting with the landmarks and miniature travelers. The chips packet design must feel authentic to [CITY/COUNTRY], featuring regional colors, typography, patterns, and local flavor inspiration while still clearly looking like a premium potato chips package. Include only the most iconic landmarks from [CITY/COUNTRY], carefully spaced with clean composition and no clutter. Add miniature travelers naturally interacting with the environment: - taking photos - exploring landmarks - sitting on floating chips - riding local transport - observing scenery - walking through the swirl paths Include authentic local foods, ingredients, and atmosphere elements relevant to [CITY/COUNTRY]. Background should be soft pastel or warm luxury gradient with a circular ceiling portal opening at the top emitting cinematic spotlight beams. Elegant premium commercial lighting, soft shadows, floating particles, realistic depth, balanced negative space, luxury tourism campaign aesthetic, hyper-realistic CGI, highly detailed but minimalist, Instagram-worthy poster design. Composition rules: - one dominant centered chips packet - floating ridged potato chips throughout composition - one continuous upward spiral motion - landmarks layered vertically - miniature people sparse and intentional - no duplicate landmarks - no overcrowding - clean premium hierarchy - cinematic storytelling through scale contrast - premium advertising composition matching high-end chips commercials
+```
+
+By [@Naiknelofar788](https://x.com/Naiknelofar788/status/2057282710469767241)
+
+---
+
+<a id="freestylefly-case-459"></a>
+
+## 品牌奶茶 KV 概念海报
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case459.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case459.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+你是一个品牌视觉识别系统、商业广告创意总监、KV海报设计师和高传播品牌视觉生成系统。 请根据用户输入的【现有品牌名称】，自动识别该品牌最具代表性的品牌Logo形象、品牌名称文字识别特征、主推产品、产品包装、品牌色彩、视觉调性、目标人群和广告传播风格，并生成一张符合该品牌气质的概念 KV 海报。 创作定位： - 基于真实品牌认知进行二次创作的品牌概念 KV 海报 - Brand-inspired Concept Key Visual - 用于个人学习、视觉练习与社交平台展示 不需要绝对严苛的一比一官方复刻，但必须做到： 品牌识别度高； 品牌Logo风格明显； 品牌代表产品明显； 品牌调性准确； 整体像该品牌会出现的视觉广告。 ──────────────── 一、用户输入 ──────────────── 品牌名称：{品牌名称} 主推产品：{可选，不填则自动识别该品牌最具代表性的产品} 广告语：{可选，不填则根据品牌调性自动生成原创广告语} 目标人群：{可选，不填则自动判断} 画幅比例：{9:16 / 16:9 / 4:5 / 1:1 / 2.35:1} KV类型：{产品英雄KV / 品牌情绪KV / 强口号传播KV / 人物场景KV / 超现实概念KV / 自动选择} 平台用途：{小红书 / X / 公众号封面 / 视觉练习 / 概念提案} ──────────────── 二、自动识别逻辑 ──────────────── 请根据品牌名称自动完成以下识别，不需要在画面中展示分析过程： 1. 自动识别该品牌所属行业 例如： 科技、运动、美妆、奢侈品、汽车、饮品、咖啡、服饰、潮流、护肤、珠宝、生活方式、数码、家居等。 2. 自动识别该品牌最具代表性的视觉资产 包括： 品牌Logo形象 品牌名称文字风格 主色调与辅助色 最具代表性的产品 包装外观特征 品牌常见广告风格 品牌场景气质 品牌材质感与光影方式 3. 自动识别该品牌的目标人群 例如： 年轻潮流人群、都市白领、精致女性、运动人群、科技用户、高端消费人群、Z世代、商务人群等。 4. 自动识别该品牌的广告语气质 例如： 极简高级、年轻活力、热血冲击、奢华克制、温柔浪漫、科技理性、时尚先锋、生活方式化等。 ──────────────── 三、Logo与产品识别规则 ──────────────── 本次任务允许 AI 根据品牌名称自动识别品牌视觉资产，不需要用户必须上传 Logo 或产品图。 请遵守以下原则： 1. 品牌Logo - 画面中需要有明显的品牌标识 - Logo 或品牌名称文字要具有较高识别度 - 不必追求百分之百精确复刻，但必须让人一眼联想到该品牌 - 不要生成完全陌生、无关、错误感很强的标识 - 不要让品牌名称出现明显错字、乱码或胡乱变形 2. 品牌产品 - 自动选择该品牌最具代表性的主推产品或经典产品作为主视觉 - 产品外观、包装、色彩和气质应接近大众对该品牌的常见认知 - 不需要绝对严格到工业级复刻 - 但要保证“像这个品牌的真实代表产品”，避免完全陌生的产品 3. 品牌包装与材质 - 自动识别该品牌常见包装与材质语言 - 如金属、玻璃、磨砂、塑料、皮革、纸盒、极简包装、奢华包装、运动感材质等 - 产品必须具有真实商业视觉质感 ──────────────── 四、KV创意方向 ──────────────── 请根据品牌属性自动选择最合适的 KV 创意方式。 如果是科技品牌： 使用极简、未来感、真实产品质感、冷静留白、克制光影、干净空间。 如果是运动品牌： 使用速度感、力量感、身体动势、汗水、冲刺、突破、强烈口号感。 如果是美妆品牌： 使用柔光、精致产品、肌肤质感、女性气质、色彩情绪、时尚大片感。 如果是奢侈品牌： 使用高级材质、留白、低饱和色调、秩序构图、稀缺感、时尚大片感。 如果是饮品品牌： 使用冰爽、液体、气泡、年轻感、快乐氛围、色彩冲击、清爽材质。 如果是咖啡品牌： 使用温度、城市生活、松弛氛围、绿色或木质感、晨间陪伴感。 如果是汽车品牌： 使用道路、速度、未来空间、金属质感、城市夜景、驾驶欲望。 如果是潮流品牌： 使用街头、反叛、年轻、图形感、视觉冲击和社交传播感。 ──────────────── 五、广告语规则 ──────────────── 如果用户没有输入广告语，请根据品牌调性自动生成一句原创广告语。 要求： - 广告语不能太长 - 要有品牌感和传播感 - 不使用官方原广告语 - 不需要像正式企业公告 - 更像概念广告的主标语 中文广告语建议： 4到12个字 英文广告语建议： 2到6个单词 广告语风格要与品牌匹配，例如： 科技品牌： 更少干扰，更近未来 运动品牌： 把极限踩在脚下 美妆品牌： 光泽，自成主张 奢侈品牌： 优雅，从不喧哗 饮品品牌： 这一口，刚好上头 咖啡品牌： 唤醒城市的温度 汽车品牌： 驶向更远的秩序 ──────────────── 六、画面结构要求 ──────────────── 整张图必须具备真实品牌 KV 的基本结构： 1. 品牌标识区 品牌Logo或品牌名称需要清晰可见，位置合理。 2. 产品主视觉区 品牌代表产品必须明显，是画面核心之一。 3. 广告语区 广告语清晰可读，具备传播记忆点。 4. 品牌氛围区 背景、光影、材质、空间和色彩必须符合品牌调性。 5. 信息层级区 画面层级建议为： 品牌标识 产品主体 广告语 少量辅助文字 文字不要太多，不要做成密密麻麻的海报。 ──────────────── 七、风格要求 ──────────────── 整体视觉必须具备： 高识别度品牌感 高级商业广告质感 清晰品牌标识 明显品牌产品 强主视觉 强广告语 干净排版 适合社交平台传播 适合小红书和X展示 具有“像某知名品牌概念广告”的完成度 允许适度创意发挥，但品牌核心识别不能丢失。 ──────────────── 八、画幅适配 ──────────────── 如果是 9:16： 适合竖版社交海报，产品更聚焦，广告语放中上区域，适合手机浏览。 如果是 16:9： 适合横版品牌KV、封面、头图，产品与广告语形成左右平衡。 如果是 4:5： 适合社交平台信息流，主体更近，品牌识别更集中。 如果是 2.35:1： 适合公众号封面或宽幅视觉，适合大字广告语和强冲击横版构图。 如果是 1:1： 适合方形封面与品牌视觉展示。 ──────────────── 九、负面限制 ──────────────── 不要生成明显错误的品牌名称。 不要生成过于离谱的Logo变形。 不要生成与品牌无关的产品。 不要生成廉价拼贴感。 不要生成过多小字。 不要生成杂乱无章的背景。 不要生成山寨感很强的画面。 不要生成像促销海报一样的低级电商视觉。 不要出现二维码、购买链接、价格标签、活动说明。 不要让整体画面失去品牌调性。 ──────────────── 十、最终目标 ──────────────── 请生成一张基于真实品牌认知自动识别完成的品牌概念 KV 海报。 要求： 无需用户上传 Logo 和产品素材； 由AI自动识别该品牌最具代表性的Logo形象与代表产品； 不要求绝对严格复刻； 但必须保持高识别度、高品牌感、高完成度； 整体像一张高级品牌概念广告海报； 适合个人学习、视觉练习和社交平台展示。 ———— 品牌名称：{蜜雪冰城} 主推产品：{奶茶} 广告语：{可选，如果用户不输入，则根据品牌调性自动生成一句高传播感广告语} 目标人群：{年轻潮流人群} 画幅比例：{9:16} KV类型：{产品英雄KV} 平台用途：{小红书}
+```
+
+By [@liyue\_ai](https://x.com/liyue_ai/status/2057739678485495885)
+
+---
+
+<a id="freestylefly-case-460"></a>
+
+## 棋盘低角度奢华男装 Campaign
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case460.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case460.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+Ultra-realistic luxury fashion campaign poster shot from a dramatic low-angle perspective across a glossy chessboard table. A stylish young male model with sharp facial features, textured curly hair, wearing thin luxury glasses and a fitted sleeveless knitted brown vest, leaning forward in a confident pose. One hand extended toward the camera holding a large white king chess piece in forced perspective, dominating the foreground. Tattooed arms visible, intense confident facial expression, direct eye contact. Elegant vintage royal interior background with dark paneled walls, warm chandelier wall lights, cinematic amber lighting, moody shadows, luxury editorial atmosphere. Chess pieces scattered on the board in foreground and background for depth. High contrast premium fashion advertising style, ultra-detailed skin texture, sharp focus on face and chess piece, shallow depth of field, glossy reflections on chessboard, dramatic commercial campaign photography, luxury menswear brand aesthetic. Bold typography at bottom saying “DRESSED TO DOMINATE”, premium poster layout, cinematic color grading, high-end fashion ad, editorial magazine quality, 4:5 aspect ratio.
+```
+
+By [@harboriis](https://x.com/harboriis/status/2058414859658956888)
+
+---
+
+<a id="freestylefly-case-464"></a>
+
+## 高雄水彩拼贴旅行海报
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case464.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case464.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+Watercolor and collage travel poster for Kaohsiung, Taiwan, vertical layout, soft pastel and warm golden hour color palette. Scene: Waterfront promenade at sunset with a modern light rail tram on the right, a person walking a bicycle on the left, and people strolling along the path. In the background: Kaohsiung skyline with the 85 Sky Tower and other skyscrapers, a harbor with a ferry boat, port cranes, and the Pier-2 Art Center building with murals. Seagulls flying in the sky, trees lining the walkway, calm water reflecting the light. Design elements: - Large text top left: 'KAO HSIUNG 2026', smaller text below 'Sea Breeze Slow Light Southern City' - Top right: Vertical Chinese characters, 'KAOHSIUNG TAIWAN' in small caps below - Bottom left: Coordinates '22.6273° N 120.3014° E', 'KAOHSIUNG TAIWAN', wave icon - Bottom center: Handwritten script 'Kaohsiung' - Bottom right: Vertical list 'Harbor Art Light Rail People Slow Life', vertical Chinese text - Overlay effects: Semi-transparent geometric shapes, watercolor splashes, and texture layers in teal and beige Style: Modern travel poster meets watercolor painting, airy and atmospheric, blend of illustration and photo-collage, warm and tranquil mood, high detail.
+```
+
+By [@SimplyAnnisa](https://x.com/SimplyAnnisa/status/2058372965641662876)
+
+---
+
+<a id="freestylefly-case-467"></a>
+
+## 泳装杂志九宫格广告页
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case467.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case467.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+泳装时尚杂志广告页面，日本成熟模特，S型曲线。变换姿势和风格，九宫格展示，保持人物面部一致性
+```
+
+By [@Adam38363368936](https://x.com/Adam38363368936/status/2058859338211656051)
+
+---
+
+<a id="freestylefly-case-474"></a>
+
+## 四城极简旅行海报系列
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case474.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case474.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+Minimalist flat travel poster illustration series of iconic destinations around the world, clean vector art style, Scandinavian color palette, soft pastel tones, calm atmospheric scenery, Hallstatt Austria lakeside village with alpine mountains and reflections, Bergen Norway colorful harbor houses with fjord background, Kyoto Japan traditional riverside town with cherry blossoms and pagoda, Santorini Greece white architecture with blue domes overlooking the sea, ultra clean composition, geometric landscape shapes, smooth gradients, elegant typography with destination names, modern tourism poster aesthetic, serene travel mood, crisp vector lines, cinematic wide-angle scenery, peaceful skies with stylized clouds, highly detailed environment art, contemporary flat illustration, premium editorial travel design, balanced composition, minimal shadows, dreamy vacation atmosphere, soft morning lighting, high-end Airbnb poster vibe, Behance trending style, 4k, ultra detailed
+```
+
+By [@Taaruk\_](https://x.com/Taaruk_/status/2059188921096085888)
+
+---
+
+<a id="freestylefly-case-478"></a>
+
+## 夹层式品牌编辑海报
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case478.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case478.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+[BRAND NAME]. You are a world-class editorial designer. STEP 1, DYNAMIC SUBJECT LOGIC: - Subject pick: independently study [BRAND NAME] and choose the right hero subject. - Sandwich layering: weave the subject through the background shapes. Parts of the car or figure must sit hidden behind geometric blocks, while other parts (wheels, limbs, props) overlap in front of those blocks to fake real 3D depth. STEP 2, GRID & GEOMETRY: - Layout: a clean 2x2 grid composition. - Overlays: drop large bold geometric arcs and circles on top of the grid. - Visual balance: place one iconic product prop (a floating key fob for cars, a ball for sports, etc.) in its own quadrant to counterweight the subject. STEP 3, SOPHISTICATED MUTED PALETTE: - No aggressive neon, no oversaturated colors. - Pull [BRAND NAME]'s core colors and shift them into a "sophisticated muted" range. Use desaturated, earthy, dusty versions of the brand colors (dusty rose instead of hot pink, sage green instead of bright mint, slate blue instead of royal blue). - Finish: matte flat color blocks, zero gradients. STEP 4, PHOTOGRAPHY & LIGHTING: - Subject style: high-end commercial studio photography. - Lighting: soft diffused studio light, gentle highlights, no harsh shadows. - Integration: the subject must feel physically embedded into the graphic grid. STEP 5, MINIMALIST BRANDING: - Drop a clean single-color [BRAND NAME] logo dead-center on one background block. No tagline, just the iconic symbol.
+```
+
+By [@iamaiistudio](https://x.com/iamaiistudio/status/2060000278657839398)
+
+---
+
+<a id="freestylefly-case-481"></a>
+
+## 韩系春日 scrapbook 海报
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case481.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case481.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+Cute Korean spring aesthetic scrapbook poster, dreamy K-fashion portrait, soft blonde girl standing in a blooming flower garden, pastel blue sky background, cream floral blouse layered under a knitted ivory sweater vest, light blue high-waisted jeans, natural smile, glowing fair skin, soft makeup, cherry blossom trees, colorful spring flowers, cozy countryside garden, bright natural sunlight, kawaii doodle overlays, hand-drawn white hearts, smiley faces, stars, sparkles, rainbows, playful handwritten typography, polaroid photo frames, masking tape stickers, scrapbook collage layout, Pinterest aesthetic, Korean magazine editorial, cottagecore fashion, dreamy spring vibes, wholesome mood, soft pastel color palette, clean composition, aesthetic social media poster, ultra detailed, photorealistic, high quality, cute and charming atmosphere, subtle bokeh, lifestyle photography, Instagram reel cover, fashion moodboard, Y2K scrapbook design, white outline around subject, flower-themed decorations, 8k masterpiece
+```
+
+By [@Taaruk\_](https://x.com/Taaruk_/status/2060214163591614900)
+
+---
+
+[1](posters.md) · [2](posters-2.md) · [3](posters-3.md) · [4](posters-4.md) · **5** · [6](posters-6.md)
 
 [← Home](../README.md)

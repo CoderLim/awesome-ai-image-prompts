@@ -1,250 +1,10 @@
 # posters
 
-[← Home](../README.md) · Page 2 / 7
+[← Home](../README.md) · Page 2 / 6
 
-[1](posters.md) · **2** · [3](posters-3.md) · [4](posters-4.md) · [5](posters-5.md) · [6](posters-6.md) · [7](posters-7.md)
+[1](posters.md) · **2** · [3](posters-3.md) · [4](posters-4.md) · [5](posters-5.md) · [6](posters-6.md)
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
-
-<a id="evolink-travel-journals-case-197"></a>
-
-## Travel Landscape and Miniature Diorama
-
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2107675180701241344.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2107675180701241344.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Create a premium 3:4 vertical editorial travel poster for [COUNTRY / CITY / LOCATION / SUBJECT]. TEXT-TO-IMAGE ONLY — generate the entire artwork creatively from [COUNTRY / CITY / LOCATION / SUBJECT] alone. No reference image required. COMPOSITION Divide the poster into two seamless stacked halves with no gap. TOP HALF: Create a full-width photorealistic cinematic travel scene representing [COUNTRY / CITY / LOCATION / SUBJECT]. Automatically choose its most recognizable architecture, surroundings, atmosphere, materials, colors, and natural lighting. Treat this as the authentic photographic view of the destination. BOTTOM HALF: Transform the same scene into a highly detailed isometric miniature diorama viewed from approximately a 45° elevated angle. Rebuild the recognizable architecture, streets, landscape, vegetation, and surrounding elements as a physically believable miniature world on a thin dark-gray rectangular base slab. Maintain visual continuity between the upper photograph and lower diorama — same architecture, same environment, same lighting mood, and recognizable details — while making the lower section clearly handcrafted as a miniature. EDITORIAL LAYOUT Place the diorama toward the lower-right area, leaving generous warm off-white negative space around it. Use thin dark-navy sans-serif typography in the empty space: - a poetic 3-line uppercase title - “/” - a short 4-line travel verse - bottom-left: “001” followed by a thin horizontal rule and [CITY / COUNTRY] - bottom-right: a thin horizontal rule followed by accurate GPS coordinates Automatically determine the appropriate city, country, landmark, and coordinates from [COUNTRY / CITY / LOCATION / SUBJECT]. STYLE Photorealistic travel photography × hyper-detailed architectural miniature × premium editorial design × quiet luxury travel journal. Use realistic materials, miniature-scale details, natural shadows, subtle depth of field, warm off-white paper, restrained dark-navy typography, and sophisticated negative space. The lower diorama must feel physically constructed rather than like a flat illustration — tiny buildings, roads, vegetation, textures, shadows, and architectural details should have believable scale and depth. FINAL AESTHETIC Minimal, intelligent, atmospheric, collectible, and highly refined — a contemporary travel journal combining the real destination with its miniature architectural memory. Avoid collage seams, separate unrelated scenes, generic architecture, invented landmarks, excessive typography, glossy CGI, cartoon styling, clutter, logos, watermarks, borders, and UI elements. FORMAT 3:4 vertical, two stacked halves, no gap, upper photorealistic destination scene, lower isometric miniature diorama, premium editorial finish.
-```
-
-By [@Goodmanprotocol](https://x.com/Goodmanprotocol/status/2107675234858131544)
-
----
-
-<a id="evolink-travel-journals-case-199"></a>
-
-## Golden Desert Travel Art Poster
-
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2107035775267217409.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2107035775267217409.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Create a vertical 3:4 artistic travel poster featuring an endless golden desert at sunset. The upper section should be a highly realistic photograph of vast rolling sand dunes stretching toward the horizon, with delicate wind patterns and natural ripples across the sand. Warm sunlight shines from the distant horizon, creating beautiful golden, amber, caramel and soft brown tones with long subtle shadows between the dunes. Below it, transform the same exact desert landscape into a traditional hand-painted watercolor illustration on warm textured off-white paper. Preserve the same dune shapes, horizon, sunlight direction and overall composition, while rendering everything with loose watercolor washes, soft edges, natural pigment variations, delicate paint bleeding and visible paper texture. Keep the watercolor artwork surrounded by clean cream-colored negative space. At the bottom center, add elegant handwritten calligraphy reading: “golden dunes”. Minimal luxury travel-journal aesthetic, peaceful and atmospheric mood, refined composition, realistic-to-watercolor transformation, sophisticated earthy palette, artistic yet natural, high-end editorial travel poster, no extra text, no watermark.
-```
-
-By [@KrishnaBio1](https://x.com/KrishnaBio1/status/2107035889461588289)
-
----
-
-<a id="evolink-travel-journals-case-200"></a>
-
-## Italian Coast and French Estate
-
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2106906610828537856.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2106906610828537856.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Create a premium cinematic travel editorial artwork combining the two uploaded references into one cohesive destination story. Blend the colorful Italian Mediterranean coastal village with an elegant French countryside château and formal rose garden. The main composition should feature a dramatic cliffside coastal village with tightly packed pastel houses, terracotta rooftops, rugged rocky cliffs, deep blue Mediterranean water, small boats, and a bright peaceful sky. Seamlessly transition the scene into a grand historic European château surrounded by beautifully maintained symmetrical gardens, trimmed hedges, blooming pink and white roses, lavender, stone pathways, and lush countryside stretching into the distance. Include a stylish woman seen naturally from behind, wearing a refined cream/beige long coat, flowing light-colored outfit, elegant wide-brimmed straw hat, and carrying a small woven handbag as she walks quietly through the garden. Keep her pose graceful and candid, with realistic proportions. The artwork should use the same photo-to-watercolor travel-poster concept as the references: upper section highly realistic cinematic photography with natural textures and lighting, gradually transforming into delicate hand-painted watercolor toward the lower section. Add subtle watercolor splashes around the edges on warm textured off-white paper. Use soft sunlight, sophisticated pastel tones, atmospheric depth, fine architectural details, realistic water reflections, elegant European travel mood, nostalgic luxury editorial styling, 8K detail, beautifully balanced composition. Add refined handwritten typography near the bottom: “COASTAL DREAM” and beneath it in smaller elegant lettering: “A QUIET ESCAPE” Minimal, sophisticated, timeless travel-journal aesthetic, no clutter, no distorted buildings, no unnecessary text.
-```
-
-By [@KrishnaBio1](https://x.com/KrishnaBio1/status/2106906926726717843)
-
----
-
-<a id="evolink-travel-journals-case-201"></a>
-
-## Double-Exposure Travel Silhouette
-
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2106607088252428288.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2106607088252428288.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Create a premium cinematic travel poster in a sophisticated double-exposure / silhouette collage style. A stylish young adult woman walking toward the right side of the frame, wearing a beige wide-brimmed safari hat, dark sunglasses, elegant white oversized button-up shirt with rolled sleeves, high-waisted cream trousers, white sneakers, and a small brown leather crossbody bag. Preserve realistic human proportions and natural walking posture. Behind and partially merged into the woman’s silhouette is a breathtaking golden Sahara desert landscape at sunset: vast rolling sand dunes, dramatic layered mountains, warm orange sunlight, a glowing sun near the horizon, palm trees surrounding a small desert oasis, traditional desert village architecture, ancient stone towers, tents, and a small camel caravan crossing the dunes. The desert landscape forms an artistic human-profile silhouette on the left side, seamlessly blending into the woman's walking composition on the right. Elegant paint-splash and ink-brush edges around the landscape, subtle dust particles, soft atmospheric haze, warm golden-hour lighting, luxury travel editorial aesthetic, sophisticated minimal composition. Background: clean warm ivory/cream paper texture with large negative space on the right and lower area. High-end tourism campaign poster, artistic commercial photography, photorealistic desert details, realistic fabric texture, cinematic depth, refined composition, premium magazine advertising style. Composition: vertical 4:5, full-body woman on the right, desert silhouette dominating the left, balanced negative space, clean edges, no text, no logo, no watermark, ultra-detailed, high resolution.
-```
-
-By [@AiwithLariab](https://x.com/AiwithLariab/status/2106607115733553225)
-
----
-
-<a id="evolink-travel-journals-case-202"></a>
-
-## Kinosaki and Hakone Hot Spring Art
-
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2106415928753963008.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2106415928753963008.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Create a cinematic, ultra-realistic travel editorial scene inspired by the uploaded references, blending the atmosphere of Kinosaki and Hakone, Japan into one cohesive composition. Show a peaceful traditional Japanese onsen town at evening, with narrow stone streets, elegant wooden ryokan buildings, dark tiled roofs, warm glowing paper lanterns, small traditional shops, noren curtains, and a quiet flowing canal lined with graceful willow trees. Add a misty mountain landscape in the background, with subtle steam rising from hot-spring vents and a calm, authentic Japanese atmosphere. Include a small group of naturally dressed travelers walking through the street, with realistic proportions and candid body language. Combine the warm lantern-lit nighttime mood of Kinosaki with the tranquil misty hot-spring atmosphere of Hakone. Use soft cinematic lighting, realistic textures, gentle reflections on the water, atmospheric depth, natural colors, and highly detailed architecture. Present the final artwork as a premium vintage travel-poster / watercolor art-book composition: the upper/main scene should feel photographic and photorealistic, while the lower portion gradually transforms into delicate hand-painted watercolor with artistic paint splashes and textured off-white paper. Keep the transition seamless and elegant. Add refined handwritten-style typography at the bottom: “KINOSAKI — LANTERN NIGHTS” “HAKONE — QUIET ONSEN STREETS” Minimal, sophisticated Japanese travel aesthetic, nostalgic winter/early-evening mood, editorial composition, 8K detail, realistic photography blended with refined watercolor illustration, no clutter, no distorted architecture, no extra text.
-```
-
-By [@KrishnaBio1](https://x.com/KrishnaBio1/status/2106416165241418042)
-
----
-
-<a id="evolink-travel-journals-case-205"></a>
-
-## Subway and Mountain Lake Travel Art
-
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2105011817076674560.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2105011817076674560.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Create a premium vertical travel-art editorial poster by creatively mixing the visual properties of both reference images. Combine a bright, modern city metro/subway interior with a peaceful alpine lakeside summer scene. The composition should feel like one cohesive travel journal page: the upper section features a clean, spacious metro carriage with white interiors, large windows, blue-and-yellow seats, overhead hand straps, soft natural daylight and a quiet empty atmosphere. Transition naturally into the lower section showing a turquoise mountain lake, dramatic green mountains, rocky shoreline, fresh green grass, a few relaxed people enjoying the lakeside and a clear blue summer sky. Preserve the realistic photographic quality in the main scenes while blending into a refined hand-painted watercolor illustration toward the lower portion. Use warm off-white textured paper around the artwork, subtle vintage travel-poster styling, elegant minimal composition, soft natural colors, realistic details, delicate watercolor brushwork, cinematic depth, peaceful summer mood and sophisticated editorial aesthetics. Add tasteful typography near the bottom: “CITY TO LAKE” and a smaller subtitle: “a quiet summer journey” Vertical 4:5 composition, high detail, photorealistic + watercolor fusion, premium travel magazine aesthetic, balanced layout, clean typography, no unnecessary objects, no distorted people, no extra text.
-```
-
-By [@KrishnaBio1](https://x.com/KrishnaBio1/status/2105086976022188110)
-
----
-
-<a id="evolink-travel-journals-case-207"></a>
-
-## Amsterdam Canal Travel Art
-
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2104369582614216704.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2104369582614216704.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Create a vertical 9:16 luxury travel-art poster featuring a peaceful Amsterdam canal scene. In the upper section, show a realistic black Dutch bicycle parked beside a narrow canal, with a woven front basket filled with fresh red roses. Surround it with classic Amsterdam brick canal houses, bicycles along the waterfront, a small arched bridge, calm reflective water, soft overcast daylight, and natural cinematic depth. The lower section should transform the same scene into a delicate hand-painted watercolor illustration, keeping the bicycle, red roses, canal, bridge, buildings, and overall composition recognizable. Use soft paper texture, subtle watercolor washes, elegant travel-journal aesthetics, and refined artistic details. Keep the composition clean with warm off-white paper margins. Add elegant handwritten-style text at the bottom: “amsterdam - a bicycle and roses” with a thin minimal line underneath. Photorealistic upper image + soft watercolor lower illustration, sophisticated European travel poster, premium editorial design, highly detailed.
-```
-
-By [@KrishnaBio1](https://x.com/KrishnaBio1/status/2104369643146346759)
-
----
-
-<a id="evolink-travel-journals-case-208"></a>
-
-## Male Traveler Double Exposure
-
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2104183816990629888.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2104183816990629888.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Create a premium travel-themed double-exposure silhouette poster on a clean warm-white background. A young male traveler is shown in a full-body side-profile walking pose, facing right. He wears a burgundy baseball cap, dark sunglasses, a burgundy open shirt over a plain white T-shirt, fitted blue jeans, white sneakers, and a black backpack. Natural confident walking posture, realistic masculine anatomy, photorealistic face and clothing details. Behind and around the man, create a large artistic silhouette of a male traveler wearing a baseball cap, filled with a breathtaking travel photograph. Inside the silhouette, show an Indian riverside temple at golden sunset, with a tall detailed historic temple, warm orange sunlight, river reflections, boats, riverside architecture and atmospheric evening light. The travel photograph must be perfectly contained inside the male head-and-upper-body silhouette, creating a sophisticated double-exposure / photo-within-silhouette effect. Add expressive burgundy, navy-blue and pale watercolor ink splashes spreading naturally from the bottom edges of the composition, blending elegantly with the silhouette and travel scene. COMPOSITION: Centered vertical poster, full-body male traveler in the foreground, oversized male cap-and-head silhouette behind him, strong visual hierarchy, generous warm-white negative space, balanced professional graphic-design composition, elegant premium travel-poster layout. STYLE: Luxury travel advertisement, editorial poster design, cinematic photography, photorealistic, high detail, warm golden-hour lighting, realistic water reflections, subtle watercolor texture, premium commercial artwork, clean edges, sophisticated double exposure. CHARACTER CONSISTENCY: The foreground male and the large silhouette must clearly represent the same person. Preserve consistent facial structure, hairstyle, skin tone, body proportions, clothing, burgundy cap and sunglasses. Natural realistic masculine appearance. TECHNICAL: Ultra-detailed, sharp subject, realistic skin texture, realistic fabric texture, natural shadows, high dynamic range, professional color grading, 4K, polished advertising artwork, premium print-poster quality. NEGATIVE PROMPT: blurry, low resolution, distorted face, extra fingers, extra limbs, bad anatomy, duplicate person, warped body, feminine facial features, cartoon, anime, 3D render, oversaturated colors, messy composition, excessive text, watermark, logo, artificial-looking skin, deformed hands, distorted clothing, poorly contained double exposure.
-```
-
-By [@AiWithTariq](https://x.com/AiWithTariq/status/2104183973991817236)
-
----
-
-<a id="evolink-travel-journals-case-210"></a>
-
-## Ancient Egypt Travel Double Exposure
-
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2104065763535679488.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2104065763535679488.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Create a premium cinematic historical-travel double-exposure silhouette poster on a clean warm-white background. A young female traveler is shown in a full-body side-profile walking pose, facing right. She wears a cream linen shirt, fitted beige trousers, a tan wide-brim travel hat, subtle round sunglasses and white sneakers, carrying a small vintage leather crossbody bag. Natural elegant walking posture, realistic feminine anatomy, photorealistic face and clothing details. Behind and around the woman, create a large artistic silhouette of the SAME female traveler. The oversized silhouette must clearly match her facial profile, hat, hairstyle, skin tone and body proportions. Inside the oversized female head-and-upper-body silhouette, reveal a breathtaking ancient Egyptian landscape at sunset. Show the Great Pyramids rising from the golden desert, the Sphinx in the foreground, distant palm trees, a small caravan of camels, warm orange sunlight, atmospheric desert dust and a dramatic golden sky. Add subtle reflections of warm sunlight across the sand. The entire Egyptian landscape must be perfectly contained inside the female silhouette, creating a sophisticated photo-within-silhouette double-exposure effect. Add elegant sand-beige, burnt-orange, deep navy and muted gold watercolor ink splashes spreading naturally from the lower edges and subtly merging with the desert scene. COMPOSITION: Centered vertical luxury travel poster, full-body female traveler in the foreground, oversized matching female silhouette behind her, strong visual hierarchy, generous warm-white negative space, sophisticated editorial layout. STYLE: Luxury historical travel campaign, cinematic photography, photorealistic desert landscape, premium editorial poster, golden-hour lighting, realistic architectural detail, atmospheric depth, subtle watercolor texture, sophisticated double exposure. CHARACTER CONSISTENCY: The foreground woman and oversized silhouette MUST clearly represent the exact same person. Preserve identical facial structure, hairstyle, skin tone, body proportions, hat, sunglasses and clothing. TECHNICAL: Ultra-detailed, photorealistic, realistic skin and fabric texture, realistic sand, natural shadows, cinematic lighting, high dynamic range, professional color grading, 4K, premium print-poster quality. NEGATIVE PROMPT: blurry, low resolution, distorted face, different person, duplicate person, extra limbs, extra fingers, bad anatomy, masculine features, cartoon, anime, 3D render, unrealistic pyramids, oversaturated colors, messy composition, desert outside silhouette, poorly contained double exposure, warped clothing, watermark, logo, excessive text.
-```
-
-By [@Kubra\_286](https://x.com/Kubra_286/status/2104065786142916926)
-
----
-
-<a id="evolink-travel-journals-case-215"></a>
-
-## Female Traveler Double Exposure
-
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2103696129615683584.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2103696129615683584.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Create a premium travel-themed double-exposure silhouette poster on a clean warm-white background. A young female traveler is shown in a full-body side-profile walking pose, facing right. She wears a burgundy baseball cap, dark sunglasses, burgundy open shirt over a plain white T-shirt, fitted blue jeans, white sneakers, and a black backpack. Natural confident walking posture, realistic anatomy, photorealistic face and clothing details. Behind and around the woman, create a large artistic silhouette of a female traveler wearing a baseball cap, filled with a breathtaking travel photograph. Inside the silhouette, show an Indian riverside temple at golden sunset, with a tall detailed historic temple, warm orange sunlight, river reflections, boats, riverside architecture and atmospheric evening light. The travel photograph should be perfectly contained inside the silhouette, creating a sophisticated double-exposure / photo-within-silhouette effect. Add expressive burgundy, navy-blue and pale watercolor ink splashes spreading naturally from the bottom edges of the composition, blending with the silhouette and travel scene. Composition: centered vertical poster, full-body traveler in foreground, oversized cap-and-head silhouette behind her, strong visual hierarchy, generous white negative space, balanced professional graphic-design composition. Style: luxury travel advertisement, editorial poster design, cinematic photography, photorealistic, high detail, warm golden-hour lighting, realistic water reflections, subtle watercolor texture, premium commercial artwork, clean edges, sophisticated double exposure. Technical: ultra-detailed, sharp subject, realistic skin texture, realistic fabric, natural shadows, high dynamic range, professional color grading, 4K, polished advertising artwork. Negative Prompt: blurry, low resolution, distorted face, extra fingers, extra limbs, bad anatomy, duplicate person, warped body, cartoon, anime, 3D render, oversaturated colors, messy composition, excessive text, watermark, logo, artificial-looking skin.
-```
-
-By [@Arina\_hoqe](https://x.com/Arina_hoqe/status/2103696199488520632)
-
----
-
-<a id="evolink-travel-journals-case-219"></a>
-
-## Photo and Handmade Paper Art Book
-
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2103154297316012032.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2103154297316012032.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Create a high-end independent art-book editorial poster using the uploaded photo as the EXACT visual reference. STRICT FORMAT: - Vertical 3:4 canvas - Divide the composition horizontally into two equal 50/50 sections - Top half = original photograph - Bottom half = minimalist handmade-paper illustration TOP HALF — PHOTOGRAPH: Preserve the uploaded photograph faithfully and naturally. Keep the exact subject identity, facial features, pose, clothing, hairstyle, body position, objects, environment, composition, perspective, lighting and recognizable details. Do not redesign or replace the subject. Do not change the scene. Apply only subtle premium editorial color grading with soft natural contrast, refined tones and realistic photographic texture. The photograph should remain photographic and occupy exactly the entire top 50%. BOTTOM HALF — MINIMALIST ILLUSTRATION: Reinterpret only the most recognizable elements from the original photo as a small centered handmade paper illustration. The illustration must: - occupy only around 10–20% of the bottom section - remain clearly recognizable from the original photo - use delicate imperfect hand-drawn lines - use bold flat acrylic-like color shapes - have subtle handmade paper grain - have slightly organic imperfect edges - feel handcrafted rather than digitally perfect - use no more than 4 colors extracted from the original photograph - maintain generous warm off-white negative space around the illustration Keep the illustration small and understated. Do not let it dominate the bottom half. EDITORIAL DESIGN: Create a quiet, poetic, refined independent art-book aesthetic. Use a warm off-white paper background in the bottom half. Optional: add extremely minimal editorial typography beneath the illustration using small elegant uppercase serif lettering with generous letter spacing. Typography must be subtle and secondary. VISUAL MOOD: quiet poetic minimal refined artistic premium museum-catalogue / independent art-book aesthetic natural timeless STRICTLY AVOID: cartoon style anime watercolor colored-pencil rendering 3D rendering glossy effects photorealistic illustration busy composition large illustration commercial advertising aesthetic oversaturated colors heavy shadows excessive typography extra objects altered identity changed clothing changed pose changed facial features The final image should look like a carefully designed contemporary art-book cover where the original photograph and its tiny handmade interpretation coexist in a restrained 50/50 editorial composition.
-```
-
-By [@KrishnaBio1](https://x.com/KrishnaBio1/status/2103154458876162236)
-
----
-
-<a id="evolink-travel-journals-case-224"></a>
-
-## Original Photo and Watercolor Journal
-
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2102713940128247808.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2102713940128247808.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Create the image in the exact same style and layout as the previous reference poster. Do NOT remove or crop the original photo. Keep the complete original photo visible in the top section, preserving the woman’s face, identity, pose, outfit, hairstyle, coffee cup, stairs, plant, black door, lighting, and all original details exactly as they appear. Use the original photo as the main reference. Underneath it, create a watercolor-painted version of the same exact photo, matching the same composition, pose, clothing, background, objects, and facial features. The watercolor version should look like a hand-painted artistic copy of the original, with realistic watercolor brushwork, soft pigment bleeding, paper texture, subtle paint splashes, and naturally irregular watercolor edges. Place both versions vertically on a warm ivory textured watercolor-paper background, with the original photo on top and the watercolor version directly underneath, just like a premium handmade scrapbook/art print. Keep the original image uncropped and fully visible. Do not zoom in, do not change the framing, do not remove any objects, and do not alter the woman’s appearance. Add elegant handwritten text at the bottom: “slow mornings”, followed by a thin horizontal decorative line and a tiny heart. Cozy editorial scrapbook aesthetic, premium travel-journal design, realistic photograph + matching watercolor illustration, soft natural tones, authentic handmade paper texture, subtle watercolor splatters, clean composition, vertical 4:5 poster.
-```
-
-By [@Alina\_with\_Ai](https://x.com/Alina_with_Ai/status/2102714822030934488)
-
----
-
-<a id="evolink-travel-journals-case-228"></a>
-
-## Rubber Stamp Travel Observation Journal
-
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2101546017497993216.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2101546017497993216.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Please create a separate "Rubber Stamp Travel Field Notes Poster" for each photo I upload, outputting each photo individually without collage or multi-image combinations. Overall, use a 4:3 landscape composition, dividing the frame into left and right regions, but without drawing an obvious dividing line. The left side takes up about 58% of the frame, faithfully preserving the original photo. Accurately maintain the main subject identity, terrain, architecture, plants, people, spatial relationships, natural lighting and shadows, authentic textures, and the original color atmosphere; apply only restrained art publication-level photo color grading, and add extremely subtle, fine-grained film noise. For layout adaptation, natural cropping is allowed, but do not stretch, distort, shift, replace, or redraw the main subject. The right side takes up about 42% of the frame, using a warm off-white aged paper as the background. The paper features subtle fibers, natural grain, light usage marks, and a matte texture, while preserving large areas of unprinted paper whitespace, making the blank space an essential part of the layout. Analyze the original photo and extract the most location-distinctive subject outlines, architectural structures, terrain contours, plant forms, roads, shorelines, or other key visual relationships, compressing them into a small multi-color rubber stamp image. Do not replicate every single element from the photo item by item. Retain only the minimal information necessary to instantly recognize the original location, subject, and scene relationships. Remove crowds, vehicles, dense windows, repetitive buildings, fragmented vegetation, decorative elements, and irrelevant backgrounds. The stamp is positioned in the lower-middle of the right-side paper area, occupying only about 30%–38% of the right region's height, with ample whitespace preserved around it. The stamp must not be enlarged into a standard illustration, full landscape painting, or brand logo. Determine the stamp's organization based on the original photo's composition: - Iconic architecture: Retain the most distinctive outer contours, roofs, domes, arches, towers, or main structures. - Mountain settlements: Compress buildings into a few terraced color blocks aligned along the terrain. - Coastal scenery: Retain mountain contours, settlement layers, shorelines, and sparse intermittent water ripples. - City panoramas: Retain the main skyline, one iconic building, and one or two layers of distant mountains. - Natural landscapes: Retain primary mountain forms, trees, shorelines, or road orientations. - Foreground occlusions: If narratively important in the original photo, retain as foreground stamp outlines. Extract 2–4 spot inks from the original photo. Prioritize desaturated colors like carbon black, deep green, brick red, ochre yellow, slate blue, or taupe brown, but do not force a fixed palette. Preserve the most distinctive color character from the original photo, allowing only a small area of color for visual emphasis. Render each color as a separately hand-stamped effect: Authentic rubber stamp carving texture, hand-engraved marks, uneven line widths, contour notches, fractured edges, dry ink shortages, paper show-through, granular ink, uneven pressure, partial ghosting, and about 1–2 mm of subtle misregistration. Allow natural misalignment between color layers; edges must not be digitally smoothed. The print should resemble a real carved stamp pressed onto aged paper, not a filtered photo, smooth vector illustration, or line-art logo. Generate text based on the photo's location, theme, and visual imagery: Location English name No. Number Three short English keywords Gregorian calendar year Place the text below or adjacent to the stamp in the whitespace, using a small, restrained, slightly mechanically imperfect typewriter font. The typography should evoke a traveler's field record, not an ad headline. Ensure all text is spelled accurately, without adding irrelevant slogans, brands, or decorative copy. The overall vibe is like field notes kept by an architect, travel writer, or natural observer: quiet, restrained, tactilely real, regionally specific, with handmade imperfections and a collectible feel. The photo handles the on-site record; the stamp captures the most recognizable fragments of memory. Avoid: Obvious central dividing lines, circular seals, Chinese red stamps, postage stamp perforations, wax seals, sticker collages, tourist souvenir templates, smooth vector logos, generic city icons, full replication of all architecture, dense detailing, childlike craftiness, cartoon style, 3D rendering, plastic textures, glossy digital gradients, oversaturation, excessive text, decorative clutter, and redrawing or altering the left-side original photo.
-```
-
-By [@MahnoorAi12](https://x.com/MahnoorAi12/status/2101546101228646430)
-
----
-
-<a id="evolink-travel-journals-case-232"></a>
-
-## Seated Traveler Watercolor Poster
-
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2101254024343556096.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2101254024343556096.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Create a sophisticated vertical editorial watercolor poster using the uploaded reference photo as the exact visual reference for the woman’s facial features, identity, hairstyle, skin tone, and overall appearance. IMPORTANT: This must be visually different from the first poster. Do NOT use a waving pose. Do NOT place the subject standing in the same pose. Create a completely different composition and body position. Show the woman seated elegantly on a low stone terrace or architectural ledge, wearing a tailored black blazer with matching wide-leg trousers and a crisp white collared shirt. One elbow is resting naturally on her knee, with her hand gently supporting her cheek in a relaxed, thoughtful pose. Her other hand rests naturally on her lap. A simple elegant wristwatch is visible. Her expression should be soft, confident, calm, and slightly smiling. Keep her facial identity and recognizable features consistent with the reference image. STYLE: Luxury hand-painted watercolor and fine-ink editorial illustration, realistic but artistic facial rendering, delicate brush strokes, subtle ink outlines, natural skin tones, soft watercolor bleeding, sophisticated muted beige, warm brown, ivory and charcoal palette, visible handmade watercolor paper texture, premium fashion magazine aesthetic. COMPOSITION: Vertical poster layout. Place the woman in the lower-middle portion of the composition. Leave generous clean negative space around the subject. Create a different visual balance from the first poster by using a seated pose and a slightly asymmetrical composition. BACKGROUND: Warm ivory handmade textured paper. Behind the woman, add very subtle watercolor sketches of elegant Mediterranean-style architecture, distant trees, delicate branches and soft beige architectural brush marks. Keep the background extremely light and artistic so the woman remains the main focus. No photographic background. TYPOGRAPHY: At the upper center, add elegant handwritten/script-style text: “Alina Ai” Directly underneath, add a thin minimal horizontal line. Below the line, add small widely spaced uppercase typography: “PEOPLE ALWAYS STAY” Add very subtle small editorial text elements around the composition: “SAME GIRL DIFFERENT DREAMS” “A KINDER BRIGHTER ME” “GOOD IDEAS BRIGHTER DAYS” Keep all typography refined, minimal, balanced, and premium. OVERALL LOOK: Luxury editorial watercolor poster, sophisticated fashion illustration, handmade art print, soft cinematic lighting translated into watercolor, realistic proportions, elegant feminine aesthetic, premium magazine cover composition, clean negative space, highly detailed face and hair, natural hands and anatomy. NEGATIVE PROMPT: Do not copy the first poster’s pose, no waving hand, no standing pose, no raised arm, no photorealistic background, no 3D CGI, no cartoon appearance, no excessive colors, no clutter, no extra people, no distorted face, no extra fingers, no malformed hands, no duplicated limbs, no unnatural anatomy, no harsh outlines, no plastic skin, no AI-looking facial features, no incorrect text, no random logos.
-```
-
-By [@Alina\_with\_Ai](https://x.com/Alina_with_Ai/status/2101255289333031047)
-
----
-
-<a id="evolink-travel-journals-case-234"></a>
-
-## Mountain Hiking Dissolve Poster
-
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2100784522908594176.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2100784522908594176.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Create a cinematic, ultra-realistic motivational poster of a young woman hiking on a rocky mountain trail at golden hour, with a breathtaking lake, mountains, and warm sunset in the background. She wears a cozy beige fleece jacket over a black top, olive cargo pants, hiking boots, and a backpack. Her hair is tied in a messy bun, with a natural, confident expression. Create a dramatic disintegration effect on the right side of her body, where her figure transforms into flying autumn leaves, dust particles, and small fragments carried into the sky. Add several black birds flying among the leaves. Include ancient stone ruins on the right side and a large rock with the text “SAME HUSTLE BIGGER TOMORROW.” On the left side, add elegant typography: “Progress” in stylish handwritten script, followed by “LOOKS GOOD ON YOU” in clean uppercase serif lettering. Use warm orange, brown, and golden tones, cinematic lighting, shallow depth of field, realistic textures, atmospheric perspective, high detail, professional advertising photography, 8K quality. Create a second framed version below with a white artistic torn-paper/paint-splatter border and autumn leaves around the edges. At the bottom add the handwritten text “Same Girl… Bigger Dreams ♡” and below it: “REAL MOMENTS • BRIGHTER DAYS • A KINDER ME.
-```
-
-By [@mehwishkiran07](https://x.com/mehwishkiran07/status/2100787012529975424)
-
----
 
 <a id="freestylefly-case-2"></a>
 
@@ -326,6 +86,246 @@ By [小红书号2202716350](https://github.com/freestylefly/awesome-gpt-image-2/
 
 ---
 
-[1](posters.md) · **2** · [3](posters-3.md) · [4](posters-4.md) · [5](posters-5.md) · [6](posters-6.md) · [7](posters-7.md)
+<a id="freestylefly-case-15"></a>
+
+## 主题海报版式设计
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case15.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case15.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+生成一张海报图片，图片人物是一个19岁的中国少女，黑色直长发，很开心的在夜宵摊上喝啤酒吃小龙虾。海报上用芥末黄色艺术字写着，趁年轻，激爽才够味！
+```
+
+By [小红书号1005414639](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-15)
+
+---
+
+<a id="freestylefly-case-16"></a>
+
+## 主题海报版式设计
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case16.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case16.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+生成高完成度史诗感艺术海报，双重曝光构图，米白色背景，球队：xxxx队，xxx的大剪影占据主体，剪影内部融合xx、xx、xx、xx以及xx等元素。整体以xx、土褐、为主，压抑、决绝、宿命感极强，元素不要冗杂，要有留白，印刷颗粒质感，元素不要有太锐的细节，但是要有史诗质感，像正式院线动画电影海报，竖版。图片中若出现文字则以细体字为主
+```
+
+By [小红书号2692926140](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-16)
+
+---
+
+<a id="freestylefly-case-47"></a>
+
+## 建筑空间场景图
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case47.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case47.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+{ "type": "2x2 grid of Japanese digital advertisement banners", "layout": { "structure": "4 equal quadrants", "quadrants": [ { "position": "top-left", "theme": "Travel", "subject": "A couple holding hands on a white sand beach, looking out at turquoise ocean water under a bright blue sky.", "elements": ["red hibiscus flower in bottom left corner"], "text_labels": [ "今年こそ、解き放て。", "{argument name=\"travel destination\" default=\"沖縄旅行\"}", "3日間の癒やし旅", "航空券＋ホテル", "39,800円〜", "絶景、グルメ、体験 ぜんぶ叶う!" ], "icons": { "count": 3, "descriptions": ["airplane", "hotel building", "car"] } }, { "position": "top-right", "theme": "Skincare", "subject": "Close-up portrait of a young woman with glowing, dewy skin, eyes closed, gently touching her cheeks.", "elements": [ "soft pink gradient background", "dynamic water splash effects", "pink cosmetic jar labeled '{argument name=\"skincare product name\" default=\"LUMIÈRE\"} Brightening Gel'" ], "text_labels": [ "毛穴・くすみ卒業！", "透明感あふれる", "水光肌へ", "新感覚スキンケア", "初回限定 78%OFF", "{argument name=\"discount price\" default=\"1,980円\"}" ], "badges": { "count": 3, "style": "gold circular", "labels": ["毛穴ケア", "高保湿", "ハリ・ツヤ"] } }, { "position": "bottom-left", "theme": "Gourmet Food", "subject": "Thick, sliced, medium-rare steak sizzling on a dark grill plate.", "elements": [ "garlic chips", "rosemary sprig", "dark background with smoke and glowing embers" ], "text_labels": [ "とろける旨さ！", "{argument name=\"food item\" default=\"黒毛和牛\"}", "贅沢ステーキ", "期間限定", "特別価格", "通常価格 8,980円", "4,980円" ], "badges": { "count": 1, "style": "red circular", "labels": ["A4 A5等級"] } }, { "position": "bottom-right", "theme": "Online Education", "subject": "Young man in a blue shirt studying at a desk, writing in a notebook next to an open laptop.", "elements": ["bright indoor lighting", "desk environment"], "text_labels": [ "スキマ時間で", "{argument name=\"education goal\" default=\"最短合格！\"}", "オンライン資格講座", "スマホで完結", "効率学習で差がつく！", "今だけ！ 受講料 20%OFF" ], "badges": { "count": 1, "style": "blue circular", "labels": ["受講者数 10万人 突破！"] }, "icons": { "count": 2, "descriptions": ["smartphone", "open book"] } } ] } }
+```
+
+By [@makaneko\_AI](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-47)
+
+---
+
+<a id="freestylefly-case-58"></a>
+
+## 主题海报版式设计
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case58.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case58.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+Flat illustration, high-end oriental fantasy style city poster design, vertical 9:16 composition. The layout uses a diagonal + S-shaped flow extending from the bottom left to top right. The background is deep black grading down to intense dark red, creating strong warm-cool contrast and spatial depth with faint stardust and grain texture. In the center, a flowing golden energy line winds through like a flame, extending upward from the base, featuring fluid texture, particle effects, and gradient highlights, with subtle energy debris and volumetric light. Within the golden flow, the architectural landmarks of {argument name="city" default="Guangzhou"} emerge layer by layer: the Canton Tower is the visual core with prominent proportions, surrounded by the Zhujiang New Town skyline, Liede Bridge, and modern Lingnan architectural elements. Buildings are rendered using "fine line drawing + golden luminous blocks," with clear outlines and rich details, appearing to float in a void against the golden halo, creating a surreal spatial hierarchy with slightly fogged backgrounds for added depth. At the bottom of the frame is an oriental white-haired female figure with flowing hair like mist, naturally connecting and merging with the golden light. Her hair is translucent with gradient light effects; she has a graceful posture, eyes closed, and a serene expression, holding a bouquet of colorful flowers dotted with shimmering particles, symbolizing the spiritual connection between people and city energy. Character details are moderately simplified to emphasize the overall design. Lighting is concentrated on the golden flow, buildings, and character outlines, creating intense chiaroscuro and visual focus. The overall atmosphere is grand, mysterious, imbued with oriental mythology, and slightly healing. Colors use black and dark red as a base with brilliant gold as the main visual emphasis. The gold has rich light-dark layers, complemented by small areas of high-saturation floral colors, maintaining a sophisticated and restrained aesthetic. Integrated text and layout: Centered Songti font at the top reads "{argument name="city" default="Guangzhou"} · China," followed by smaller text "{argument name="date" default="2026/04/20"}" and "{argument name="author" default="LIYUE"}" below. Text uses pale gold or soft warm white, unified with the overall lighting. High-quality details, cinematic lighting, rich volumetric and particle details, clean image without noise, ultra-high 8K resolution, commercial-grade poster quality.
+```
+
+By [@liyue\_ai](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-58)
+
+---
+
+<a id="freestylefly-case-59"></a>
+
+## 主题海报版式设计
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case59.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case59.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+{ "type": "cinematic promotional poster", "style": "3D CGI animation style, highly detailed, dramatic lighting, caricature characters", "characters": [ { "id": "char1", "description": "large shirtless man with long black hair, beard, and glasses" }, { "id": "char2", "description": "elderly woman in a kimono with white hair tied up" }, { "id": "char3", "description": "small man with a topknot, glasses, mustache, wearing a bright green sweater" } ], "layout": { "panels": [ { "position": "top", "scene": "wide shot of a town street with buildings and a city skyline in the background", "characters_present": ["char1", "char2", "char3"], "text_overlays": [ "{argument name=\"intro text\" default=\"ある日ーー\"}", "いつもの日常がーー", "こんばんは" ] }, { "position": "middle left", "scene": "close-up of char1 looking shocked against a dark fiery background", "text_overlays": [ "{argument name=\"shocked text\" default=\"私が出禁？\"}" ] }, { "position": "middle right", "scene": "close-up of char2 looking angry and pointing against a stormy sea background", "text_overlays": [ "{argument name=\"angry text\" default=\"海を荒らすな！\"}" ] }, { "position": "bottom", "scene": "char3 pointing, char1 screaming, a second instance of char3 falling backwards, and char2 sitting angrily against a fiery chaotic background", "text_overlays": [ "全然出ない！" ], "bottom_titles": [ "{argument name=\"main title\" default=\"パチンコ軍団親のイメチェン\"}", "{argument name=\"subtitle\" default=\"LINEスタンプ販売中\"}" ] } ] } }
+```
+
+By [@X64zzotSKCGtYmt](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-59)
+
+---
+
+<a id="freestylefly-case-61"></a>
+
+## 主题海报版式设计
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case61.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case61.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+{ "type": "2x2 grid of banner advertisements", "theme": "{argument name=\"school name\" default=\"SNSスクール\"}", "target_audience": "{argument name=\"target audience\" default=\"学生\"}", "layout": { "grid": "2x2", "panels": [ { "position": "top-left", "style": "dark neon, blue and purple", "subject": "young woman looking up hopefully, holding a smartphone, wearing a purple sweatshirt", "main_text": "{argument name=\"banner 1 headline\" default=\"SNSを仕事にしたい人へ\"}", "sub_text": "“好き”をカタチに。未来を変える一歩を、今。", "elements": [ "white and yellow typography", "yellow call-to-action button: チェックする >", "hand-drawn neon accents (crown, stars, heart)" ] }, { "position": "top-right", "style": "bright, pop, cyan and white", "subject": "young woman smiling directly at camera, holding a smartphone, wearing a teal hoodie, hair in a bun", "main_text": "{argument name=\"banner 2 headline\" default=\"好きな発信を武器にする\"}", "sub_text": "企画・編集・投稿を学ぶ", "elements": [ "torn paper texture backgrounds for text", "yellow starburst sticker: 無料体験", "3 feature icons with text: lightbulb (企画力), pencil (編集力), paper plane (投稿力)" ] }, { "position": "bottom-left", "style": "dark, analytical, neon purple and green", "subject": "young man looking thoughtfully at his smartphone, wearing a black hoodie", "main_text": "{argument name=\"banner 3 headline\" default=\"バズるだけじゃない 分析まで学べる\"}", "sub_text": "#伸びる理由がわかると、もっと伸ばせる。", "elements": [ "3 floating holographic data panels with line graphs and stats (125.6万, 23.8%, 12.6%)", "3 feature icons at bottom: bar chart (データ分析), magnifying glass (改善提案), target (成果につなげる)", "yellow call-to-action button: 詳しく見る >" ] }, { "position": "bottom-right", "style": "bright, friendly, purple and white", "subject": "group of 4 young people (3 women, 1 man) huddled together smiling at a smartphone", "main_text": "SNSで未来の可能性を広げよう", "sub_text": "仲間と学べるコミュニティ", "elements": [ "torn paper texture backgrounds for text", "3 bullet points with icons (people, speech bubbles, rising chart)", "2 polaroid-style inset photos showing students studying at a desk", "yellow call-to-action button: 今すぐ参加 >" ] } ] } }
+```
+
+By [@masapark95](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-61)
+
+---
+
+<a id="freestylefly-case-62"></a>
+
+## 插画艺术风格创作
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case62.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case62.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+{ "type": "2x2 grid of banner advertisements", "theme": "{argument name=\"main theme\" default=\"SNSスクール\"} for {argument name=\"target audience\" default=\"ママ\"}", "design_style": "soft, approachable, bright lighting, featuring {argument name=\"color palette\" default=\"soft green, white, and natural beige tones\"}", "layout": { "sections": [ { "position": "top-left", "visual_style": "photography", "image_description": "Smiling woman working on a laptop at a table, a toddler playing with toys in the blurred background.", "headlines": ["ママの“やってみたい”を応援！", "子育てしながら学べる", "SNSスクール"], "features": { "count": 1, "type": "icon with text", "labels": ["自宅で無理なくスキルアップ (with house icon)"] }, "call_to_action_button": "無料相談" }, { "position": "top-right", "visual_style": "photography", "image_description": "Smiling woman holding a white mug, looking at a laptop.", "headlines": ["ちょっとの時間が、大きな一歩に。", "スキマ時間を未来につなげる", "動画講座で学びやすい"], "features": { "count": 3, "type": "circular icons with text below", "labels": ["スマホでも学べる (smartphone icon)", "1日15分からOK (clock icon)", "繰り返し視聴できる (play button icon)"] }, "call_to_action_button": "詳しく見る" }, { "position": "bottom-left", "visual_style": "watercolor illustration", "image_description": "Illustration of a woman with hair in a bun, smiling at a laptop with a green mug nearby.", "headlines": ["はじめてでも大丈夫！ (with beginner mark)", "在宅でできるSNSの仕事", "未経験OK"], "features": { "count": 3, "type": "circular icons with text below", "labels": ["サポート充実 (heart icon)", "パソコンが苦手でも安心 (laptop icon)", "収入の柱をつくれる (yen coin icon)"] }, "call_to_action_button": "体験してみる" }, { "position": "bottom-right", "visual_style": "photography", "image_description": "Smiling mother and young daughter sitting on a sofa reading a picture book together.", "headlines": ["家族との時間も大切に", "自分らしい働き方へ", "ママの笑顔がいちばんの未来になる。"], "features": { "count": 3, "type": "checkmark bullet points", "labels": ["場所や時間に縛られない", "やりがいも収入も叶う", "子どもの成長をそばで見守れる"] }, "extra_graphics": "Small illustration of a house and trees at the bottom left.", "call_to_action_button": "説明会へ" } ], "common_elements": "All panels feature a {argument name=\"button style\" default=\"rounded green pill button with white text and a right-pointing arrow icon\"} at the bottom." } }
+```
+
+By [@masapark95](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-62)
+
+---
+
+<a id="freestylefly-case-63"></a>
+
+## 主题海报版式设计
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case63.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case63.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+{"type": "2x2 grid of promotional banner ads", "theme": "{argument name=\"course theme\" default=\"Social Media Content Creation School\"}", "panels": [{"position": "top-left", "color_palette": "light blue and pink pastel gradient", "subject": "young woman smiling, resting chin on hand, smartphone and ring light in foreground", "typography": {"headline": "{argument name=\"top left headline\" default=\"発信を仕事に変える SNSスクール\"}", "subheadings": ["好きが、私の未来になる！", "クリエイター志望歓迎！"]}, "layout_elements": {"bullet_points_count": 3, "call_to_action_button": "pink button labeled '無料体験 >'"}}, {"position": "top-right", "color_palette": "deep blue and cyan geometric", "subject": "young man looking intently at a professional camera on a tripod with a ring light", "typography": {"headline": "{argument name=\"top right headline\" default=\"魅せる投稿が学べる\"}", "subheadings": ["企画・撮影・運用サポート"]}, "layout_elements": {"circular_icons_count": 3, "icon_types": ["lightbulb", "camera", "bar chart"], "call_to_action_button": "yellow button labeled '詳細はこちら >'"}}, {"position": "bottom-left", "color_palette": "soft beige and white aesthetic", "subject": "young woman looking thoughtfully to the side, mood board background", "typography": {"headline": "{argument name=\"bottom left headline\" default=\"自分の世界観を育てる\"}", "subheadings": ["あなたらしさが、一番の強みになる。", "SNSブランディング講座"]}, "layout_elements": {"horizontal_icons_count": 3, "icon_types": ["palette", "person", "heart"], "call_to_action_button": "pink button labeled '今すぐ見る >'"}}, {"position": "bottom-right", "color_palette": "vibrant pink and magenta pop design", "subject": "young woman smiling brightly, pointing at text, messy bun, smartphone on tripod", "typography": {"headline": "{argument name=\"bottom right headline\" default=\"好きな発信でファンをつくる\"}", "subheadings": ["実践型レッスン"]}, "layout_elements": {"bullet_points_count": 4, "call_to_action_button": "yellow button labeled '申し込む >'"}}]}
+```
+
+By [@masapark95](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-63)
+
+---
+
+<a id="freestylefly-case-84"></a>
+
+## 关系图谱信息图
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case84.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case84.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+Please generate a high-design character relationship map poster based on {argument name="theme" default="Demon Slayer"}. This image should not be a simple illustration, but a character relationship map that combines information visualization, narrative structure, poster design sense, and stylistic fidelity. Please automatically complete the following: - Identify the work and core settings corresponding to the theme - Extract the most representative 6–12 key characters, not exceeding 15 if necessary - Identify and display key character relationships, including blood ties, romance, friendship, alliances, hostility, master-disciple, etc. - Automatically choose a composition method based on the work's characteristics, such as protagonist-centered, dual-core confrontation, faction-based, family tree, or chronological evolution - Automatically refine the work's style DNA, including color, worldview symbols, textures, mood, typography, and representative elements - Transform these stylistic elements into an overall visual design for the relationship map, rather than simply copying an official poster - Use different colors, line types, and arrows to distinguish different relationships, ensuring clear lines and layers without clutter - Make core characters most prominent, followed by important characters, and subordinate characters weakened to form a clear visual hierarchy - Ensure every character name is legible, with identity or faction labels if necessary The final product should satisfy: - Immediate understanding of character hierarchy and key relationships - Obvious alignment with the original work's temperament and setting - Combines the clarity of an infographic with the premium design of a poster - Unified, exquisite, complete, and suitable for social media sharing or poster display - Avoids a cheap flowchart feel, messy piling, and information overload.
+```
+
+By [@MrLarus](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-84)
+
+---
+
+<a id="freestylefly-case-96"></a>
+
+## 主题海报版式设计
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case96.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case96.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+{ "type": "VTuber stream thumbnail", "character": { "hair": "long blonde twin tails with pink gradient ends", "eyes": "large pink anime eyes", "expression": "cheerful smile with a small fang, making a peace sign near the eye", "outfit": "black top with harness straps, black heart-ring choker, multiple ear piercings including a cross dangle, black nail polish" }, "background": "vibrant neon pink and black leopard print with glowing yellow accents, sparkles, and floating hearts", "typography_and_layout": { "main_title": { "position": "top left", "style": "large, bold, 3D, pink and black with white outlines", "text": "{argument name=\"main title\" default=\"雑談配信\"}" }, "top_right_text": { "style": "casual handwritten style with a heart", "text": "{argument name=\"top right text\" default=\"まったり話そ〜♡\"}" }, "bottom_left_banners": { "count": 3, "style": "glowing pill-shaped banners with heart icons on the left", "colors": ["pink", "yellow", "purple"], "labels": [ "{argument name=\"banner 1 text\" default=\"初見さん〇\"}", "{argument name=\"banner 2 text\" default=\"ポイント回収〇\"}", "{argument name=\"banner 3 text\" default=\"ROM〇\"}" ] }, "bottom_right_text": { "style": "casual handwritten style with a heart, yellow text with pink outline", "text": "気軽にコメントしてねっ♡" } } }
+```
+
+By [@sayaka\_aiart](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-96)
+
+---
+
+<a id="freestylefly-case-122"></a>
+
+## 主题海报版式设计
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case122.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case122.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+{ "type": "movie poster grid", "layout": "2x2 grid", "posters": [ { "position": "top-left", "genre": "sci-fi comedy", "visuals": "A Japanese salaryman sitting on a crowded train looking nervous, flanked by two aliens in business attire: a green frog-like alien looking at a smartphone, and a blue octopus-like alien reading a newspaper.", "text_elements": { "tagline_top": "隣の席のアイツ、実は宇宙人でした。", "train_display": "次は 地球 (ちきゅう) Next Earth", "tagline_side": "この星の常識、いつの間にかアップデートされていた。", "main_title": "{argument name=\"poster 1 title\" default=\"となりの宇宙人\"}", "cast": "星野サダオ タコヤキ・Z カエルダ・X", "release_date": "6月13日(金) 全国公開" } }, { "position": "top-right", "genre": "surreal romance", "visuals": "A man in a dark jacket affectionately hugging a giant onigiri (rice ball) topped with mentaiko (spicy cod roe) wrapped in seaweed. They are sitting on a rocky beach during a beautiful sunset.", "text_elements": { "tagline": "めんたいこは、裏切らない。", "main_title": "{argument name=\"poster 2 title\" default=\"めんたいこ ひとすじ\"}", "cast": "中尾シンイチ めんたい子 博多ミツル 高菜ユカリ のり平", "release_date": "7月18日(金) 心にしみる、しお味系ラブストーリー" } }, { "position": "bottom-left", "genre": "heist comedy", "visuals": "A joyful elderly woman in a leopard print blouse laughing maniacally while holding a fan of Japanese yen bills. Money is raining down around her. A happy raccoon is in the foreground.", "text_elements": { "tagline": "人生、まだまだ使いきってなんかない！", "main_title": "{argument name=\"poster 3 title\" default=\"老後の逆襲\"}", "subtitle": "〜いたずらタヌキと億万長者〜", "cast": "ババンバ・バーバラ タヌキチ 金持ちババ 遺産マユミ 税理士ゴンザレス", "release_date": "9月5日(金) 痛快！下剋上エンターテインメント！" } }, { "position": "bottom-right", "genre": "disaster thriller", "visuals": "A dramatic disaster scene where laundry baskets, shirts, and clothes are being sucked up into a stormy, apocalyptic sky above a ruined Tokyo city skyline featuring the Tokyo Tower.", "text_elements": { "tagline": "それは、静かに、確実に、洗濯物を奪っていく。", "main_title": "{argument name=\"poster 4 title\" default=\"洗濯物 ストーム\"}", "cast": "森タクヤ 干場カオリ 風間ハルキ ピンチハンガー・タカ 洗濯バサミ・ケン", "release_date": "8月29日(金) 全国の空が、危ない。" } } ] }
+```
+
+By [@pcneko\_lab](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-122)
+
+---
+
+<a id="freestylefly-case-124"></a>
+
+## 主题海报版式设计
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case124.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case124.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+An anime-style key visual poster for a fictional slice-of-life anime. In the foreground left, an energetic blonde anime girl with star hairpins and blue eyes wears an {argument name="main character outfit" default="American flag t-shirt and denim shorts"}, holding tongs with a slice of smoked meat towards the viewer. In the foreground right, a gentle girl with long dark hair and a white sweater sits at a wooden table writing in a notebook. In the background, two more girls are present: one with a brown ponytail carrying firewood, and another with short silver hair holding a blue mug. The scene is a sunny outdoor BBQ area with a large black smoker grill featuring a sign that reads {argument name="background grill sign" default="LONE STAR BBQ"}. In the immediate foreground is a {argument name="food platter" default="massive wooden platter loaded with sliced brisket, ribs, sausages, burnt ends, and pickles"}, along with side dishes like coleslaw and bread. In the top left corner, a large, cute, bubbly anime logo reads {argument name="anime title" default="もくもく すもーく ガールズ"} with smoke and grill motifs. In the bottom left corner, there is a {argument name="credits text block" default="staff credits block with names and roles"}. In the bottom right corner, a small text box lists four character names. The overall atmosphere is cheerful, highly detailed, and vibrant.
+```
+
+By [@koshian\_to](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-124)
+
+---
+
+<a id="freestylefly-case-128"></a>
+
+## 建筑空间场景渲染
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case128.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case128.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+{ "type": "anime-style animated movie poster", "scene": "Magical glowing multi-story treehouse restaurant in a dark enchanted forest at night, illuminated by string lights and warm window glow.", "subjects": { "children": "2 children in center foreground facing the restaurant: a boy with a backpack and lantern, and a girl in a red coat and beret with a lantern.", "animals": "4 anthropomorphic animals: a bear chef holding a MENU book (bottom left), an owl playing violin and a squirrel playing flute on a branch (top left), a badger playing cello (mid right), and a rabbit in a suit holding a sign (bottom right).", "creatures": "3 small black soot-sprite-like creatures with glowing eyes (bottom right).", "floating_food": "4 glowing food items floating in the air: soup, pancakes, omurice, and a fruit parfait." }, "layout": { "top_text": "{argument name=\"top catchphrase\" default=\"おいしい奇跡が、今夜はじまる。\"}", "building_sign": "{argument name=\"restaurant name\" default=\"森のレストラン\"}", "left_board": "本日のおすすめ\n・森のスープ\n・星のオムライス\n・ふわふわパンケーキ\n・しあわせのパフェ\n...and more!", "right_board": "いらっしゃいませ！\nここは、だれでも\n笑顔になれる場所。", "main_title": { "text": "{argument name=\"movie title\" default=\"ふしぎな森のレストラン\"}", "styling": "Large stylized typography with a chef hat, fork, and spoon motifs." }, "rabbit_sign": "ごちそうさま！またきてね！", "bottom_left_badge": "{argument name=\"genre badge\" default=\"家族みんなで楽しめる！心あたたまる冒険ファンタジー\"}", "bottom_center_credits": "Fictional cast and staff names in Japanese.", "bottom_release_date": "{argument name=\"release date\" default=\"2025年 夏休みロードショー！\"}", "bottom_right": "QR code with text '最新情報はこちら！'" } }
+```
+
+By [@masapark95](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-128)
+
+---
+
+<a id="freestylefly-case-129"></a>
+
+## 绘画艺术风格图
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case129.png"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case129.png" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+A watercolor illustration of a children's picture book cover. The main subject is a {argument name="character appearance" default="cute furry kemonomimi girl with short green hair, cat ears, and green eyes"}. She is {argument name="action" default="smiling happily while holding up her middle finger"} with a white-furred hand. She wears a green garment with a fluffy white collar. The background features soft, painted green foliage and small yellow flowers on textured paper. At the top, large hand-drawn green Japanese text reads "{argument name="main title" default="なかゆびさん"}". Below it, brown Japanese text reads "{argument name="subtitle" default="こんにちは"}". On the middle-left, smaller black text reads "{argument name="author text" default="さく・え：とらの"}". The image has a visible book spine on the left edge, emphasizing the physical book format.
+```
+
+By [@TlanoVRC](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-129)
+
+---
+
+<a id="freestylefly-case-138"></a>
+
+## 封面排版设计图
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case138.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case138.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+{ "type": "fashion product catalog layout", "theme": "A cohesive fashion collection featuring a specific pattern: {argument name=\"pattern description\" default=\"overlapping circular floral mandala motifs in purple, green, blue, orange, and pink\"}", "layout": { "structure": "2x2 grid with a full-width bottom banner", "sections": [ { "id": "01", "title": "{argument name=\"product 1\" default=\"Flared Dress\"}", "subtitle": "フレアワンピース", "main_image": "Woman in patterned flared dress holding white handbag.", "swatch_count": 3, "swatch_descriptions": ["purple variant", "green/blue variant", "orange/yellow variant"], "description_text": "華やかなフレアシルエット。軽やかな素材が優雅な動きを演出します。" }, { "id": "02", "title": "{argument name=\"product 2\" default=\"Silk Scarf\"}", "subtitle": "シルクスカーフ", "main_image": "Woman in white blouse with patterned silk scarf.", "swatch_count": 2, "swatch_descriptions": ["flat pattern detail", "tied knot detail"], "description_text": "首元に彩りを添えるシルクスカーフ。上品な光沢と滑らかな肌ざわり。" }, { "id": "03", "title": "{argument name=\"product 3\" default=\"Tote Bag\"}", "subtitle": "トートバッグ", "main_image": "Woman carrying patterned tote bag.", "swatch_count": 3, "swatch_descriptions": ["purple variant", "blue variant", "orange/yellow variant"], "description_text": "A4サイズも入る収納力。軽くて丈夫、毎日使いたくなるトートバッグ。" }, { "id": "04", "title": "{argument name=\"product 4\" default=\"Pouch\"}", "subtitle": "ポーチ", "main_image": "Patterned zip pouch on table with magazine and vase.", "swatch_count": 3, "swatch_descriptions": ["green/purple variant", "orange variant", "pink variant"], "description_text": "バッグの中を彩る華やかなポーチ。細部まで美しいデザインが魅力です。" } ], "bottom_banner": { "title": "Pattern Design", "description_text": "細やかな線と豊かな色彩が織りなす、唯一無二のパターンデザイン。日常に優雅な彩りを。", "image": "Horizontal strip showing the seamless pattern." } } }
+```
+
+By [@aiehon\_aya](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-138)
+
+---
+
+[1](posters.md) · **2** · [3](posters-3.md) · [4](posters-4.md) · [5](posters-5.md) · [6](posters-6.md)
 
 [← Home](../README.md)

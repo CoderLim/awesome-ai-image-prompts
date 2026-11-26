@@ -1,266 +1,10 @@
 # posters
 
-[← Home](../README.md) · Page 3 / 7
+[← Home](../README.md) · Page 3 / 6
 
-[1](posters.md) · [2](posters-2.md) · **3** · [4](posters-4.md) · [5](posters-5.md) · [6](posters-6.md) · [7](posters-7.md)
+[1](posters.md) · [2](posters-2.md) · **3** · [4](posters-4.md) · [5](posters-5.md) · [6](posters-6.md)
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
-
-<a id="freestylefly-case-15"></a>
-
-## 主题海报版式设计
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case15.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case15.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-生成一张海报图片，图片人物是一个19岁的中国少女，黑色直长发，很开心的在夜宵摊上喝啤酒吃小龙虾。海报上用芥末黄色艺术字写着，趁年轻，激爽才够味！
-```
-
-By [小红书号1005414639](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-15)
-
----
-
-<a id="freestylefly-case-16"></a>
-
-## 主题海报版式设计
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case16.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case16.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-生成高完成度史诗感艺术海报，双重曝光构图，米白色背景，球队：xxxx队，xxx的大剪影占据主体，剪影内部融合xx、xx、xx、xx以及xx等元素。整体以xx、土褐、为主，压抑、决绝、宿命感极强，元素不要冗杂，要有留白，印刷颗粒质感，元素不要有太锐的细节，但是要有史诗质感，像正式院线动画电影海报，竖版。图片中若出现文字则以细体字为主
-```
-
-By [小红书号2692926140](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-16)
-
----
-
-<a id="freestylefly-case-47"></a>
-
-## 建筑空间场景图
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case47.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case47.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-{ "type": "2x2 grid of Japanese digital advertisement banners", "layout": { "structure": "4 equal quadrants", "quadrants": [ { "position": "top-left", "theme": "Travel", "subject": "A couple holding hands on a white sand beach, looking out at turquoise ocean water under a bright blue sky.", "elements": ["red hibiscus flower in bottom left corner"], "text_labels": [ "今年こそ、解き放て。", "{argument name=\"travel destination\" default=\"沖縄旅行\"}", "3日間の癒やし旅", "航空券＋ホテル", "39,800円〜", "絶景、グルメ、体験 ぜんぶ叶う!" ], "icons": { "count": 3, "descriptions": ["airplane", "hotel building", "car"] } }, { "position": "top-right", "theme": "Skincare", "subject": "Close-up portrait of a young woman with glowing, dewy skin, eyes closed, gently touching her cheeks.", "elements": [ "soft pink gradient background", "dynamic water splash effects", "pink cosmetic jar labeled '{argument name=\"skincare product name\" default=\"LUMIÈRE\"} Brightening Gel'" ], "text_labels": [ "毛穴・くすみ卒業！", "透明感あふれる", "水光肌へ", "新感覚スキンケア", "初回限定 78%OFF", "{argument name=\"discount price\" default=\"1,980円\"}" ], "badges": { "count": 3, "style": "gold circular", "labels": ["毛穴ケア", "高保湿", "ハリ・ツヤ"] } }, { "position": "bottom-left", "theme": "Gourmet Food", "subject": "Thick, sliced, medium-rare steak sizzling on a dark grill plate.", "elements": [ "garlic chips", "rosemary sprig", "dark background with smoke and glowing embers" ], "text_labels": [ "とろける旨さ！", "{argument name=\"food item\" default=\"黒毛和牛\"}", "贅沢ステーキ", "期間限定", "特別価格", "通常価格 8,980円", "4,980円" ], "badges": { "count": 1, "style": "red circular", "labels": ["A4 A5等級"] } }, { "position": "bottom-right", "theme": "Online Education", "subject": "Young man in a blue shirt studying at a desk, writing in a notebook next to an open laptop.", "elements": ["bright indoor lighting", "desk environment"], "text_labels": [ "スキマ時間で", "{argument name=\"education goal\" default=\"最短合格！\"}", "オンライン資格講座", "スマホで完結", "効率学習で差がつく！", "今だけ！ 受講料 20%OFF" ], "badges": { "count": 1, "style": "blue circular", "labels": ["受講者数 10万人 突破！"] }, "icons": { "count": 2, "descriptions": ["smartphone", "open book"] } } ] } }
-```
-
-By [@makaneko\_AI](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-47)
-
----
-
-<a id="freestylefly-case-58"></a>
-
-## 主题海报版式设计
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case58.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case58.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Flat illustration, high-end oriental fantasy style city poster design, vertical 9:16 composition. The layout uses a diagonal + S-shaped flow extending from the bottom left to top right. The background is deep black grading down to intense dark red, creating strong warm-cool contrast and spatial depth with faint stardust and grain texture. In the center, a flowing golden energy line winds through like a flame, extending upward from the base, featuring fluid texture, particle effects, and gradient highlights, with subtle energy debris and volumetric light. Within the golden flow, the architectural landmarks of {argument name="city" default="Guangzhou"} emerge layer by layer: the Canton Tower is the visual core with prominent proportions, surrounded by the Zhujiang New Town skyline, Liede Bridge, and modern Lingnan architectural elements. Buildings are rendered using "fine line drawing + golden luminous blocks," with clear outlines and rich details, appearing to float in a void against the golden halo, creating a surreal spatial hierarchy with slightly fogged backgrounds for added depth. At the bottom of the frame is an oriental white-haired female figure with flowing hair like mist, naturally connecting and merging with the golden light. Her hair is translucent with gradient light effects; she has a graceful posture, eyes closed, and a serene expression, holding a bouquet of colorful flowers dotted with shimmering particles, symbolizing the spiritual connection between people and city energy. Character details are moderately simplified to emphasize the overall design. Lighting is concentrated on the golden flow, buildings, and character outlines, creating intense chiaroscuro and visual focus. The overall atmosphere is grand, mysterious, imbued with oriental mythology, and slightly healing. Colors use black and dark red as a base with brilliant gold as the main visual emphasis. The gold has rich light-dark layers, complemented by small areas of high-saturation floral colors, maintaining a sophisticated and restrained aesthetic. Integrated text and layout: Centered Songti font at the top reads "{argument name="city" default="Guangzhou"} · China," followed by smaller text "{argument name="date" default="2026/04/20"}" and "{argument name="author" default="LIYUE"}" below. Text uses pale gold or soft warm white, unified with the overall lighting. High-quality details, cinematic lighting, rich volumetric and particle details, clean image without noise, ultra-high 8K resolution, commercial-grade poster quality.
-```
-
-By [@liyue\_ai](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-58)
-
----
-
-<a id="freestylefly-case-59"></a>
-
-## 主题海报版式设计
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case59.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case59.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-{ "type": "cinematic promotional poster", "style": "3D CGI animation style, highly detailed, dramatic lighting, caricature characters", "characters": [ { "id": "char1", "description": "large shirtless man with long black hair, beard, and glasses" }, { "id": "char2", "description": "elderly woman in a kimono with white hair tied up" }, { "id": "char3", "description": "small man with a topknot, glasses, mustache, wearing a bright green sweater" } ], "layout": { "panels": [ { "position": "top", "scene": "wide shot of a town street with buildings and a city skyline in the background", "characters_present": ["char1", "char2", "char3"], "text_overlays": [ "{argument name=\"intro text\" default=\"ある日ーー\"}", "いつもの日常がーー", "こんばんは" ] }, { "position": "middle left", "scene": "close-up of char1 looking shocked against a dark fiery background", "text_overlays": [ "{argument name=\"shocked text\" default=\"私が出禁？\"}" ] }, { "position": "middle right", "scene": "close-up of char2 looking angry and pointing against a stormy sea background", "text_overlays": [ "{argument name=\"angry text\" default=\"海を荒らすな！\"}" ] }, { "position": "bottom", "scene": "char3 pointing, char1 screaming, a second instance of char3 falling backwards, and char2 sitting angrily against a fiery chaotic background", "text_overlays": [ "全然出ない！" ], "bottom_titles": [ "{argument name=\"main title\" default=\"パチンコ軍団親のイメチェン\"}", "{argument name=\"subtitle\" default=\"LINEスタンプ販売中\"}" ] } ] } }
-```
-
-By [@X64zzotSKCGtYmt](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-59)
-
----
-
-<a id="freestylefly-case-61"></a>
-
-## 主题海报版式设计
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case61.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case61.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-{ "type": "2x2 grid of banner advertisements", "theme": "{argument name=\"school name\" default=\"SNSスクール\"}", "target_audience": "{argument name=\"target audience\" default=\"学生\"}", "layout": { "grid": "2x2", "panels": [ { "position": "top-left", "style": "dark neon, blue and purple", "subject": "young woman looking up hopefully, holding a smartphone, wearing a purple sweatshirt", "main_text": "{argument name=\"banner 1 headline\" default=\"SNSを仕事にしたい人へ\"}", "sub_text": "“好き”をカタチに。未来を変える一歩を、今。", "elements": [ "white and yellow typography", "yellow call-to-action button: チェックする >", "hand-drawn neon accents (crown, stars, heart)" ] }, { "position": "top-right", "style": "bright, pop, cyan and white", "subject": "young woman smiling directly at camera, holding a smartphone, wearing a teal hoodie, hair in a bun", "main_text": "{argument name=\"banner 2 headline\" default=\"好きな発信を武器にする\"}", "sub_text": "企画・編集・投稿を学ぶ", "elements": [ "torn paper texture backgrounds for text", "yellow starburst sticker: 無料体験", "3 feature icons with text: lightbulb (企画力), pencil (編集力), paper plane (投稿力)" ] }, { "position": "bottom-left", "style": "dark, analytical, neon purple and green", "subject": "young man looking thoughtfully at his smartphone, wearing a black hoodie", "main_text": "{argument name=\"banner 3 headline\" default=\"バズるだけじゃない 分析まで学べる\"}", "sub_text": "#伸びる理由がわかると、もっと伸ばせる。", "elements": [ "3 floating holographic data panels with line graphs and stats (125.6万, 23.8%, 12.6%)", "3 feature icons at bottom: bar chart (データ分析), magnifying glass (改善提案), target (成果につなげる)", "yellow call-to-action button: 詳しく見る >" ] }, { "position": "bottom-right", "style": "bright, friendly, purple and white", "subject": "group of 4 young people (3 women, 1 man) huddled together smiling at a smartphone", "main_text": "SNSで未来の可能性を広げよう", "sub_text": "仲間と学べるコミュニティ", "elements": [ "torn paper texture backgrounds for text", "3 bullet points with icons (people, speech bubbles, rising chart)", "2 polaroid-style inset photos showing students studying at a desk", "yellow call-to-action button: 今すぐ参加 >" ] } ] } }
-```
-
-By [@masapark95](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-61)
-
----
-
-<a id="freestylefly-case-62"></a>
-
-## 插画艺术风格创作
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case62.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case62.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-{ "type": "2x2 grid of banner advertisements", "theme": "{argument name=\"main theme\" default=\"SNSスクール\"} for {argument name=\"target audience\" default=\"ママ\"}", "design_style": "soft, approachable, bright lighting, featuring {argument name=\"color palette\" default=\"soft green, white, and natural beige tones\"}", "layout": { "sections": [ { "position": "top-left", "visual_style": "photography", "image_description": "Smiling woman working on a laptop at a table, a toddler playing with toys in the blurred background.", "headlines": ["ママの“やってみたい”を応援！", "子育てしながら学べる", "SNSスクール"], "features": { "count": 1, "type": "icon with text", "labels": ["自宅で無理なくスキルアップ (with house icon)"] }, "call_to_action_button": "無料相談" }, { "position": "top-right", "visual_style": "photography", "image_description": "Smiling woman holding a white mug, looking at a laptop.", "headlines": ["ちょっとの時間が、大きな一歩に。", "スキマ時間を未来につなげる", "動画講座で学びやすい"], "features": { "count": 3, "type": "circular icons with text below", "labels": ["スマホでも学べる (smartphone icon)", "1日15分からOK (clock icon)", "繰り返し視聴できる (play button icon)"] }, "call_to_action_button": "詳しく見る" }, { "position": "bottom-left", "visual_style": "watercolor illustration", "image_description": "Illustration of a woman with hair in a bun, smiling at a laptop with a green mug nearby.", "headlines": ["はじめてでも大丈夫！ (with beginner mark)", "在宅でできるSNSの仕事", "未経験OK"], "features": { "count": 3, "type": "circular icons with text below", "labels": ["サポート充実 (heart icon)", "パソコンが苦手でも安心 (laptop icon)", "収入の柱をつくれる (yen coin icon)"] }, "call_to_action_button": "体験してみる" }, { "position": "bottom-right", "visual_style": "photography", "image_description": "Smiling mother and young daughter sitting on a sofa reading a picture book together.", "headlines": ["家族との時間も大切に", "自分らしい働き方へ", "ママの笑顔がいちばんの未来になる。"], "features": { "count": 3, "type": "checkmark bullet points", "labels": ["場所や時間に縛られない", "やりがいも収入も叶う", "子どもの成長をそばで見守れる"] }, "extra_graphics": "Small illustration of a house and trees at the bottom left.", "call_to_action_button": "説明会へ" } ], "common_elements": "All panels feature a {argument name=\"button style\" default=\"rounded green pill button with white text and a right-pointing arrow icon\"} at the bottom." } }
-```
-
-By [@masapark95](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-62)
-
----
-
-<a id="freestylefly-case-63"></a>
-
-## 主题海报版式设计
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case63.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case63.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-{"type": "2x2 grid of promotional banner ads", "theme": "{argument name=\"course theme\" default=\"Social Media Content Creation School\"}", "panels": [{"position": "top-left", "color_palette": "light blue and pink pastel gradient", "subject": "young woman smiling, resting chin on hand, smartphone and ring light in foreground", "typography": {"headline": "{argument name=\"top left headline\" default=\"発信を仕事に変える SNSスクール\"}", "subheadings": ["好きが、私の未来になる！", "クリエイター志望歓迎！"]}, "layout_elements": {"bullet_points_count": 3, "call_to_action_button": "pink button labeled '無料体験 >'"}}, {"position": "top-right", "color_palette": "deep blue and cyan geometric", "subject": "young man looking intently at a professional camera on a tripod with a ring light", "typography": {"headline": "{argument name=\"top right headline\" default=\"魅せる投稿が学べる\"}", "subheadings": ["企画・撮影・運用サポート"]}, "layout_elements": {"circular_icons_count": 3, "icon_types": ["lightbulb", "camera", "bar chart"], "call_to_action_button": "yellow button labeled '詳細はこちら >'"}}, {"position": "bottom-left", "color_palette": "soft beige and white aesthetic", "subject": "young woman looking thoughtfully to the side, mood board background", "typography": {"headline": "{argument name=\"bottom left headline\" default=\"自分の世界観を育てる\"}", "subheadings": ["あなたらしさが、一番の強みになる。", "SNSブランディング講座"]}, "layout_elements": {"horizontal_icons_count": 3, "icon_types": ["palette", "person", "heart"], "call_to_action_button": "pink button labeled '今すぐ見る >'"}}, {"position": "bottom-right", "color_palette": "vibrant pink and magenta pop design", "subject": "young woman smiling brightly, pointing at text, messy bun, smartphone on tripod", "typography": {"headline": "{argument name=\"bottom right headline\" default=\"好きな発信でファンをつくる\"}", "subheadings": ["実践型レッスン"]}, "layout_elements": {"bullet_points_count": 4, "call_to_action_button": "yellow button labeled '申し込む >'"}}]}
-```
-
-By [@masapark95](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-63)
-
----
-
-<a id="freestylefly-case-84"></a>
-
-## 关系图谱信息图
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case84.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case84.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Please generate a high-design character relationship map poster based on {argument name="theme" default="Demon Slayer"}. This image should not be a simple illustration, but a character relationship map that combines information visualization, narrative structure, poster design sense, and stylistic fidelity. Please automatically complete the following: - Identify the work and core settings corresponding to the theme - Extract the most representative 6–12 key characters, not exceeding 15 if necessary - Identify and display key character relationships, including blood ties, romance, friendship, alliances, hostility, master-disciple, etc. - Automatically choose a composition method based on the work's characteristics, such as protagonist-centered, dual-core confrontation, faction-based, family tree, or chronological evolution - Automatically refine the work's style DNA, including color, worldview symbols, textures, mood, typography, and representative elements - Transform these stylistic elements into an overall visual design for the relationship map, rather than simply copying an official poster - Use different colors, line types, and arrows to distinguish different relationships, ensuring clear lines and layers without clutter - Make core characters most prominent, followed by important characters, and subordinate characters weakened to form a clear visual hierarchy - Ensure every character name is legible, with identity or faction labels if necessary The final product should satisfy: - Immediate understanding of character hierarchy and key relationships - Obvious alignment with the original work's temperament and setting - Combines the clarity of an infographic with the premium design of a poster - Unified, exquisite, complete, and suitable for social media sharing or poster display - Avoids a cheap flowchart feel, messy piling, and information overload.
-```
-
-By [@MrLarus](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-84)
-
----
-
-<a id="freestylefly-case-96"></a>
-
-## 主题海报版式设计
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case96.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case96.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-{ "type": "VTuber stream thumbnail", "character": { "hair": "long blonde twin tails with pink gradient ends", "eyes": "large pink anime eyes", "expression": "cheerful smile with a small fang, making a peace sign near the eye", "outfit": "black top with harness straps, black heart-ring choker, multiple ear piercings including a cross dangle, black nail polish" }, "background": "vibrant neon pink and black leopard print with glowing yellow accents, sparkles, and floating hearts", "typography_and_layout": { "main_title": { "position": "top left", "style": "large, bold, 3D, pink and black with white outlines", "text": "{argument name=\"main title\" default=\"雑談配信\"}" }, "top_right_text": { "style": "casual handwritten style with a heart", "text": "{argument name=\"top right text\" default=\"まったり話そ〜♡\"}" }, "bottom_left_banners": { "count": 3, "style": "glowing pill-shaped banners with heart icons on the left", "colors": ["pink", "yellow", "purple"], "labels": [ "{argument name=\"banner 1 text\" default=\"初見さん〇\"}", "{argument name=\"banner 2 text\" default=\"ポイント回収〇\"}", "{argument name=\"banner 3 text\" default=\"ROM〇\"}" ] }, "bottom_right_text": { "style": "casual handwritten style with a heart, yellow text with pink outline", "text": "気軽にコメントしてねっ♡" } } }
-```
-
-By [@sayaka\_aiart](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-96)
-
----
-
-<a id="freestylefly-case-119"></a>
-
-## 主题海报版式设计
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case119.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case119.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-{ "type": "anime movie production pitch document", "overall_layout": "split layout with a large cinematic movie poster on the top half and a grid of 5 detailed reference sheets on the bottom half", "top_section": { "type": "movie poster", "visual": "A man, a woman, and a dog standing on a ruined city street, facing away from the viewer, looking towards a colossal, porous, web-like alien structure dominating the sky. A rusty 'RESTRICTED AREA' sign is on the right.", "typography": { "title": "{argument name=\"movie title\" default=\"劇場版 巨骸の向こう側 Fallen Colossus\"}", "release_date": "{argument name=\"release date\" default=\"2027.11.28 ROADSHOW\"}", "tagline": "そこにあるのは、まだ「説明」されていないもの。", "credits_studio": "{argument name=\"studio name\" default=\"WIT STUDIO\"}" } }, "bottom_sections": [ { "title": "{argument name=\"male character name\" default=\"来栖 武 / Kurusu Takeru\"}", "type": "character reference sheet", "elements": { "full_body_poses": 3, "expressions": 3, "detail_shots": 8, "description": "Male protagonist in dark tactical jacket and cargo pants. Includes front, back, and side full-body views, headshots, and detailed callouts for gloves, boots, backpack, and radio." } }, { "title": "{argument name=\"female character name\" default=\"大城 真那 / Oshiro Mana\"}", "type": "character reference sheet", "elements": { "full_body_poses": 3, "expressions": 3, "detail_shots": 6, "description": "Female protagonist in grey tactical uniform. Includes front, back, and side full-body views, headshots, and detailed callouts for jacket, boots, ID badge, and pouch." } }, { "title": "カゲ (Kage) 設定画", "type": "animal character reference sheet", "elements": { "full_body_poses": 4, "expressions": 4, "detail_shots": 5, "description": "Dog companion. Includes side, front, back, and angled full-body views, headshots, and detailed callouts for fur texture, paws, and a motorcycle sidecar." } }, { "title": "第7巨骸 (Remnant-7) 内部区画 設定画", "type": "environment and vehicle reference sheet", "elements": { "large_diagrams": 1, "environment_thumbnails": 4, "vehicle_designs": 1, "description": "Cross-section of the porous alien structure, smaller environment thumbnails, and a motorcycle design featuring the characters." } }, { "title": "Concept Art", "type": "scene illustration", "elements": { "characters": 3, "vehicles": 1, "description": "The male character, female character, and dog with a motorcycle sidecar parked in front of the glowing, porous alien structure." } } ] }
-```
-
-By [@old\_pgmrs\_will](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-119)
-
----
-
-<a id="freestylefly-case-122"></a>
-
-## 主题海报版式设计
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case122.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case122.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-{ "type": "movie poster grid", "layout": "2x2 grid", "posters": [ { "position": "top-left", "genre": "sci-fi comedy", "visuals": "A Japanese salaryman sitting on a crowded train looking nervous, flanked by two aliens in business attire: a green frog-like alien looking at a smartphone, and a blue octopus-like alien reading a newspaper.", "text_elements": { "tagline_top": "隣の席のアイツ、実は宇宙人でした。", "train_display": "次は 地球 (ちきゅう) Next Earth", "tagline_side": "この星の常識、いつの間にかアップデートされていた。", "main_title": "{argument name=\"poster 1 title\" default=\"となりの宇宙人\"}", "cast": "星野サダオ タコヤキ・Z カエルダ・X", "release_date": "6月13日(金) 全国公開" } }, { "position": "top-right", "genre": "surreal romance", "visuals": "A man in a dark jacket affectionately hugging a giant onigiri (rice ball) topped with mentaiko (spicy cod roe) wrapped in seaweed. They are sitting on a rocky beach during a beautiful sunset.", "text_elements": { "tagline": "めんたいこは、裏切らない。", "main_title": "{argument name=\"poster 2 title\" default=\"めんたいこ ひとすじ\"}", "cast": "中尾シンイチ めんたい子 博多ミツル 高菜ユカリ のり平", "release_date": "7月18日(金) 心にしみる、しお味系ラブストーリー" } }, { "position": "bottom-left", "genre": "heist comedy", "visuals": "A joyful elderly woman in a leopard print blouse laughing maniacally while holding a fan of Japanese yen bills. Money is raining down around her. A happy raccoon is in the foreground.", "text_elements": { "tagline": "人生、まだまだ使いきってなんかない！", "main_title": "{argument name=\"poster 3 title\" default=\"老後の逆襲\"}", "subtitle": "〜いたずらタヌキと億万長者〜", "cast": "ババンバ・バーバラ タヌキチ 金持ちババ 遺産マユミ 税理士ゴンザレス", "release_date": "9月5日(金) 痛快！下剋上エンターテインメント！" } }, { "position": "bottom-right", "genre": "disaster thriller", "visuals": "A dramatic disaster scene where laundry baskets, shirts, and clothes are being sucked up into a stormy, apocalyptic sky above a ruined Tokyo city skyline featuring the Tokyo Tower.", "text_elements": { "tagline": "それは、静かに、確実に、洗濯物を奪っていく。", "main_title": "{argument name=\"poster 4 title\" default=\"洗濯物 ストーム\"}", "cast": "森タクヤ 干場カオリ 風間ハルキ ピンチハンガー・タカ 洗濯バサミ・ケン", "release_date": "8月29日(金) 全国の空が、危ない。" } } ] }
-```
-
-By [@pcneko\_lab](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-122)
-
----
-
-<a id="freestylefly-case-124"></a>
-
-## 主题海报版式设计
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case124.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case124.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-An anime-style key visual poster for a fictional slice-of-life anime. In the foreground left, an energetic blonde anime girl with star hairpins and blue eyes wears an {argument name="main character outfit" default="American flag t-shirt and denim shorts"}, holding tongs with a slice of smoked meat towards the viewer. In the foreground right, a gentle girl with long dark hair and a white sweater sits at a wooden table writing in a notebook. In the background, two more girls are present: one with a brown ponytail carrying firewood, and another with short silver hair holding a blue mug. The scene is a sunny outdoor BBQ area with a large black smoker grill featuring a sign that reads {argument name="background grill sign" default="LONE STAR BBQ"}. In the immediate foreground is a {argument name="food platter" default="massive wooden platter loaded with sliced brisket, ribs, sausages, burnt ends, and pickles"}, along with side dishes like coleslaw and bread. In the top left corner, a large, cute, bubbly anime logo reads {argument name="anime title" default="もくもく すもーく ガールズ"} with smoke and grill motifs. In the bottom left corner, there is a {argument name="credits text block" default="staff credits block with names and roles"}. In the bottom right corner, a small text box lists four character names. The overall atmosphere is cheerful, highly detailed, and vibrant.
-```
-
-By [@koshian\_to](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-124)
-
----
-
-<a id="freestylefly-case-128"></a>
-
-## 建筑空间场景渲染
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case128.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case128.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-{ "type": "anime-style animated movie poster", "scene": "Magical glowing multi-story treehouse restaurant in a dark enchanted forest at night, illuminated by string lights and warm window glow.", "subjects": { "children": "2 children in center foreground facing the restaurant: a boy with a backpack and lantern, and a girl in a red coat and beret with a lantern.", "animals": "4 anthropomorphic animals: a bear chef holding a MENU book (bottom left), an owl playing violin and a squirrel playing flute on a branch (top left), a badger playing cello (mid right), and a rabbit in a suit holding a sign (bottom right).", "creatures": "3 small black soot-sprite-like creatures with glowing eyes (bottom right).", "floating_food": "4 glowing food items floating in the air: soup, pancakes, omurice, and a fruit parfait." }, "layout": { "top_text": "{argument name=\"top catchphrase\" default=\"おいしい奇跡が、今夜はじまる。\"}", "building_sign": "{argument name=\"restaurant name\" default=\"森のレストラン\"}", "left_board": "本日のおすすめ\n・森のスープ\n・星のオムライス\n・ふわふわパンケーキ\n・しあわせのパフェ\n...and more!", "right_board": "いらっしゃいませ！\nここは、だれでも\n笑顔になれる場所。", "main_title": { "text": "{argument name=\"movie title\" default=\"ふしぎな森のレストラン\"}", "styling": "Large stylized typography with a chef hat, fork, and spoon motifs." }, "rabbit_sign": "ごちそうさま！またきてね！", "bottom_left_badge": "{argument name=\"genre badge\" default=\"家族みんなで楽しめる！心あたたまる冒険ファンタジー\"}", "bottom_center_credits": "Fictional cast and staff names in Japanese.", "bottom_release_date": "{argument name=\"release date\" default=\"2025年 夏休みロードショー！\"}", "bottom_right": "QR code with text '最新情報はこちら！'" } }
-```
-
-By [@masapark95](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-128)
-
----
-
-<a id="freestylefly-case-129"></a>
-
-## 绘画艺术风格图
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case129.png"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case129.png" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-A watercolor illustration of a children's picture book cover. The main subject is a {argument name="character appearance" default="cute furry kemonomimi girl with short green hair, cat ears, and green eyes"}. She is {argument name="action" default="smiling happily while holding up her middle finger"} with a white-furred hand. She wears a green garment with a fluffy white collar. The background features soft, painted green foliage and small yellow flowers on textured paper. At the top, large hand-drawn green Japanese text reads "{argument name="main title" default="なかゆびさん"}". Below it, brown Japanese text reads "{argument name="subtitle" default="こんにちは"}". On the middle-left, smaller black text reads "{argument name="author text" default="さく・え：とらの"}". The image has a visible book spine on the left edge, emphasizing the physical book format.
-```
-
-By [@TlanoVRC](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-129)
-
----
-
-<a id="freestylefly-case-138"></a>
-
-## 封面排版设计图
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case138.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case138.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-{ "type": "fashion product catalog layout", "theme": "A cohesive fashion collection featuring a specific pattern: {argument name=\"pattern description\" default=\"overlapping circular floral mandala motifs in purple, green, blue, orange, and pink\"}", "layout": { "structure": "2x2 grid with a full-width bottom banner", "sections": [ { "id": "01", "title": "{argument name=\"product 1\" default=\"Flared Dress\"}", "subtitle": "フレアワンピース", "main_image": "Woman in patterned flared dress holding white handbag.", "swatch_count": 3, "swatch_descriptions": ["purple variant", "green/blue variant", "orange/yellow variant"], "description_text": "華やかなフレアシルエット。軽やかな素材が優雅な動きを演出します。" }, { "id": "02", "title": "{argument name=\"product 2\" default=\"Silk Scarf\"}", "subtitle": "シルクスカーフ", "main_image": "Woman in white blouse with patterned silk scarf.", "swatch_count": 2, "swatch_descriptions": ["flat pattern detail", "tied knot detail"], "description_text": "首元に彩りを添えるシルクスカーフ。上品な光沢と滑らかな肌ざわり。" }, { "id": "03", "title": "{argument name=\"product 3\" default=\"Tote Bag\"}", "subtitle": "トートバッグ", "main_image": "Woman carrying patterned tote bag.", "swatch_count": 3, "swatch_descriptions": ["purple variant", "blue variant", "orange/yellow variant"], "description_text": "A4サイズも入る収納力。軽くて丈夫、毎日使いたくなるトートバッグ。" }, { "id": "04", "title": "{argument name=\"product 4\" default=\"Pouch\"}", "subtitle": "ポーチ", "main_image": "Patterned zip pouch on table with magazine and vase.", "swatch_count": 3, "swatch_descriptions": ["green/purple variant", "orange variant", "pink variant"], "description_text": "バッグの中を彩る華やかなポーチ。細部まで美しいデザインが魅力です。" } ], "bottom_banner": { "title": "Pattern Design", "description_text": "細やかな線と豊かな色彩が織りなす、唯一無二のパターンデザイン。日常に優雅な彩りを。", "image": "Horizontal strip showing the seamless pattern." } } }
-```
-
-By [@aiehon\_aya](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-138)
-
----
 
 <a id="freestylefly-case-139"></a>
 
@@ -326,6 +70,262 @@ By [@anemone\_sd](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999c
 
 ---
 
-[1](posters.md) · [2](posters-2.md) · **3** · [4](posters-4.md) · [5](posters-5.md) · [6](posters-6.md) · [7](posters-7.md)
+<a id="freestylefly-case-144"></a>
+
+## 主题海报版式设计
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case144.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case144.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+A luxurious cosmetic product advertisement featuring a single elegant glass jar with a shiny gold lid resting on a round, light-colored marble slab. The jar has gold text reading {argument name="brand name" default="LUMIÉRE"} and {argument name="product type" default="MOISTURE RICH CREAM"} with "AGING CARE*" below it. The background consists of soft, draped, shimmering champagne-colored silk fabric with delicate white flowers on the left. The lighting is warm, ethereal, and sun-drenched with soft bokeh. At the top center, elegant dark brown Japanese typography reads {argument name="main headline" default="肌に、静かな贅沢を。"} above a small decorative gold divider and the text {argument name="subheadline" default="高保湿×エイジングケア*"}. To the right of the jar, a thin gold circle contains Japanese text meaning 'With dense moisture, high-quality firmness and radiance'. At the bottom center is a dark rectangular call-to-action button with a thin gold border containing the text {argument name="button text" default="詳しく見る"} and a right-pointing chevron. In the bottom right corner, tiny fine print contains Japanese text meaning '*Care according to age'.
+```
+
+By [@panchaaan\_2](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-144)
+
+---
+
+<a id="freestylefly-case-151"></a>
+
+## 界面交互设计图
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case151.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case151.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+{ "type": "2x2 advertising banner grid", "layout": "4 distinct quadrants, each featuring a different industry advertisement", "quadrants": [ { "position": "top-left", "industry": "skincare", "visuals": "Asian woman touching cheek, floating water droplets, white pump bottle", "brand": "BALANCÉE", "copy": { "headline": "{argument name=\"skincare headline\" default=\"素肌が、目覚める。\"}", "subheadline": "透明感あふれる、新しいわたしへ。", "features_count": 3, "features_labels": ["高保湿", "肌荒れ予防", "美白ケア*"] } }, { "position": "top-right", "industry": "restaurant food", "visuals": "close-up of spaghetti bolognese with grated cheese and parsley, dark moody lighting", "brand": "Trattoria Luce", "copy": { "headline": "{argument name=\"food headline\" default=\"このパスタ、事件級。\"}", "badge": "期間限定", "description": "黒毛和牛のボロネーゼ 〜トリュフの香り〜" } }, { "position": "bottom-left", "industry": "travel", "visuals": "woman with backpack facing a scenic mountain lake, bright daylight", "brand": "NATURE JOURNEY", "copy": { "headline": "{argument name=\"travel headline\" default=\"わたしを、解き放つ旅へ。\"}", "subheadline": "自然の中で、心が動き出す。", "script": "Find your freedom.", "banner_details": ["初夏の特別キャンペーン", "6.1 SAT - 6.30 SUN", "最大 20%OFF", "今だけの特別プラン多数！"] } }, { "position": "bottom-right", "industry": "SaaS app", "visuals": "smartphone displaying a task management app interface with 4 schedule items", "brand": "{argument name=\"app brand name\" default=\"Taskme\"}", "copy": { "headline": "{argument name=\"app headline\" default=\"タスク管理を、もっとシンプルに、スマートに。\"}", "circle_badge": "1日を、デザインしよう。", "features_count": 3, "features_labels": ["直感的な操作性", "チームで共有可能", "どこでもアクセス"], "bottom_banner": "7日間無料トライアル実施中！" } } ] }
+```
+
+By [@kitune\_fire45](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-151)
+
+---
+
+<a id="freestylefly-case-175"></a>
+
+## 封面排版设计图
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case175.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case175.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+[中文] 创建一个高级的 4:3 演示文稿封面幻灯片，介绍来自 http://chroniclehq.com 的 AI 原生演示平台 Chronicle。 Style: 优雅，极简，现代，高级初创企业美学。类似于高端品牌指南封面（如 Apple / Linear / Notion 风格）。带有微妙深度感的柔和渐变背景，干净的留白，精致的排版，经过打磨的编辑式布局。 Main title: CHRONICLE Subtitle: AI PRESENTATION PLATFORM Body copy (small elegant text): 将原始想法转化为经过打磨的、高影响力的演示文稿。 从笔记、文档、链接或现有幻灯片开始。 使用 AI 生成美观的、符合品牌调性的幻灯片。 在灵活的画布上自由编辑。 导出为 PPT、PDF，或发布为网站。 Feature highlights (small premium labels): STORY-FIRST ON-BRAND DESIGN AI EDITING FREEFORM CANVAS PPT EXPORT TEAM COLLABORATION Bottom-right elegant logo text: chronicle Visual feeling: 商务级高级感，战略级幻灯片质量，咨询级演示文稿，略带未来感但高度专业。 Composition: 干净的编辑式平衡，不对称布局，强烈的留白，演示软件主视觉感。 Aspect ratio: 4:3 Language: 仅限英文 [English] Create a premium 4:3 presentation cover slide introducing Chronicle, the AI-native presentation platform from http://chroniclehq.com. Style: elegant, minimal, modern, premium startup aesthetic. Similar to high-end brand guideline covers (like Apple / Linear / Notion style). Soft gradient background with subtle depth, clean whitespace, refined typography, polished editorial layout. Main title: CHRONICLE Subtitle: AI PRESENTATION PLATFORM Body copy (small elegant text): Turn raw ideas into polished, high-impact presentations. Start from notes, docs, links, or existing decks. Generate beautiful, on-brand slides with AI. Edit freely on a flexible canvas. Export to PPT, PDF, or publish as a website. Feature highlights (small premium labels): STORY-FIRST ON-BRAND DESIGN AI EDITING FREEFORM CANVAS PPT EXPORT TEAM COLLABORATION Bottom-right elegant logo text: chronicle Visual feeling: business-class premium, strategy deck quality, consulting-grade presentation, slightly futuristic but highly professional. Composition: clean editorial balance, asymmetrical layout, strong whitespace, presentation software hero shot feeling. Aspect ratio: 4:3 Language: English only
+```
+
+By [@cellier\_](https://x.com/cellier_/status/2046615173411262959)
+
+---
+
+<a id="freestylefly-case-180"></a>
+
+## 荒诞超现实女装大叔海报
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case180.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case180.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+[中文] 一个看似真实却微妙地古怪的女装大叔出现的电影海报，4 种。达到专业设计师制作的水平。 企划和设定本身就是那种“这种东西真要拍成电影吗？”的、认真却忍不住想笑的超现实动画。 标题和播出信息也要用日文显示的状态。 [English] A movie poster featuring a seemingly realistic yet subtly bizarre cross-dressing older man, 4 variations. Reaching the level of a professional designer's production. The project and setting itself is a surreal animation of the "Are they really making a movie out of this?" kind, serious yet irresistibly funny. The title and broadcast information should also be displayed in Japanese.
+```
+
+By [@aiehon\_aya](https://x.com/aiehon_aya/status/2046499177916682600)
+
+---
+
+<a id="freestylefly-case-191"></a>
+
+## 史诗级科幻电影海报设计
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case191.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case191.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+[中文] 创建一张科幻电影海报 [English] Create a Science fiction movie poster
+```
+
+By [@underwoodxie96](https://x.com/underwoodxie96/status/2046514205529088501)
+
+---
+
+<a id="freestylefly-case-207"></a>
+
+## 黑神话潘金莲绝美游戏封面
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case207.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case207.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+[中文] 生成一张黑神话·潘金莲的游戏介绍画面，人物十分的迷人 [English] Generate a game introduction screen for Black Myth: Pan Jinlian, the character is extremely charming.
+```
+
+By [@liyue\_ai](https://x.com/liyue_ai/status/2046576160952443082)
+
+---
+
+<a id="freestylefly-case-220"></a>
+
+## 鎏金广州塔的东方奇幻海报
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case220.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case220.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+[中文] 平面插画，东方幻想风格高端城市海报设计，竖版9:16构图，整体采用对角线+S型流动构图，从左下向右上延展，画面以深邃黑色为背景，自上而下渐变至浓烈暗红色，形成强烈冷暖对比与空间纵深，背景带微弱星尘与颗粒质感。画面中央一条金色流动能量线条如火焰般蜿蜒贯穿，自底部向上延伸，具有流体质感、粒子光效与渐变高光，局部带细微能量碎屑与体积光。 金色流光中逐层浮现广州城市地标建筑群：广州塔为视觉核心，比例突出，周围融合珠江新城高楼群、猎德大桥及现代与岭南建筑元素，建筑采用“精细线描 + 金色发光体块”表现，轮廓清晰、细节丰富，在金色光晕映衬下仿佛悬浮于虚空，形成超现实空间层次，远景轻微雾化增强纵深感。 画面底部为一位东方白发女性形象，长发飘逸，如烟似雾，与金色流光自然衔接并逐渐融合，发丝半透明带渐变光感，姿态柔美，双目微闭，神情宁静，怀抱一束多彩鲜花，花间点缀微光粒子与星点效果，象征人与城市能量的精神连接，人物细节适度简化以突出整体设计感。 光影集中于金色流线、建筑与人物轮廓，形成强烈明暗对比与视觉聚焦，整体氛围宏大、神秘、具有东方神话意境且略带治愈感。色彩以黑与暗红为基底，高亮鎏金为主视觉强调，金色具备丰富明暗层次，辅以小面积高饱和花束色彩点缀，整体高级克制。 页面文字与画面融合排版：顶部居中宋体大字“广州·中国”，下方小字“2026/04/20”，再下方小字“LIYUE”，文字采用淡金色或柔和暖白色，与整体光影统一。高品质细节，电影级光影表现，体积光与粒子细节丰富，画面干净无噪点，超高清8K分辨率，商业级海报质感。 [English] Flat illustration, Oriental fantasy style high-end city poster design, vertical 9:16 composition, the overall adopts a diagonal + S-shaped flowing composition, extending from the bottom left to the top right, the picture uses deep black as the background, gradually changing from top to bottom to intense dark red, forming a strong cold-warm contrast and spatial depth, the background has a faint stardust and grainy texture. In the center of the picture, a golden flowing energy line winds through like a flame, extending from the bottom to the top, having a fluid texture, particle light effects and gradient highlights, with subtle energy debris and volumetric light in some areas. Guangzhou city landmark building complexes emerge layer by layer in the golden flowing light: Canton Tower is the visual core, with a prominent proportion, surrounded by the integration of Zhujiang New Town high-rise buildings, Liede Bridge and modern and Lingnan architectural elements, the buildings are expressed using "fine line drawing + golden glowing blocks", clear outlines and rich details, set off by the golden halo, they seem to float in the void, forming a surreal spatial hierarchy, the distant view is slightly fogged to enhance the sense of depth. At the bottom of the picture is an oriental white-haired female figure, long hair fluttering, like smoke and mist, naturally connecting and gradually blending with the golden flowing light, the hair is translucent with a gradient light sense, graceful posture, eyes slightly closed, serene expression, holding a bunch of colorful fresh flowers in her arms, interspersed with faint light particles and starlight effects among the flowers, symbolizing the spiritual connection between human and urban energy, character details are moderately simplified to highlight the overall sense of design. Light and shadow are focused on the golden streamlines, buildings and character outlines, forming a strong light-dark contrast and visual focus, the overall atmosphere is grand, mysterious, with an Oriental mythological artistic conception and a slight healing sense. The color uses black and dark red as the base, highlighted gilded gold as the main visual emphasis, the gold has rich light and dark layers, supplemented by small areas of high-saturation bouquet color embellishments, the overall is advanced and restrained. Page text and picture integrated typography: large Song typeface characters "Guangzhou·China" centered at the top, small characters "2026/04/20" below, small characters "LIYUE" further below, the text uses light gold or soft warm white, unifying with the overall light and shadow. High-quality details, cinematic light and shadow performance, rich volumetric light and particle details, clean picture without noise, ultra-high definition 8K resolution, commercial-grade poster texture.
+```
+
+By [@liyue\_ai](https://x.com/liyue_ai/status/2046243132774494607)
+
+---
+
+<a id="freestylefly-case-223"></a>
+
+## 春日禅意水墨群山海报
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case223.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case223.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+[中文] 新中式水墨山水海报，竖版9:16构图，东方极简美学风格， 大面积留白，整体色调为春日清晨氛围（青绿色、雾蓝、淡灰、浅墨），低饱和、清透柔和，高级质感。 画面主体为奇峻巍峨的群山，从中间平静湖面的两侧拔地而起，占据左右两侧画面， 山体以水墨晕染表现，浓淡干湿变化丰富，局部融入淡青绿色渲染，体现春意生机。 山峰被湿润轻柔的晨雾包裹，雾气层层递进，与浅青蓝天空自然融合，形成空气透视与空间纵深。 湖面如镜面般平静，呈现微青绿色调，倒映山体与天空，反射略带柔焦与雾化扩散效果，增强春日湿润与梦幻氛围。 中景一艘带弧形篷顶的小木舟缓慢漂浮，船桨轻触水面形成细腻涟漪，水纹自然扩散，整体保持极静状态。 船上为一位红衣渔女，体量较小（远景比例），人物简化处理为水墨剪影 + 轻微设色， 身着低饱和朱砂红传统服饰（非鲜艳红），颜色略被雾气柔化， 人物面部不刻画细节，仅保留轮廓与姿态（如轻扶船篷或执桨）， 红色在水面形成淡淡倒影，作为画面唯一暖色视觉焦点。 岸边点缀疏林与春季新生植被，采用淡墨 + 淡青绿点染，虚实结合，增强节奏与生命气息。 少量飞鸟在远空掠过，轻盈疏散分布，增强空间层次与灵动感。 画面顶部居中竖排书法：“东方美学”，采用传统手写行书或行草风格（王羲之笔意）， 笔触自然起伏、提按分明，带飞白与墨韵扩散效果，避免字体感。 书法颜色为深墨青或柔和墨黑，与整体画面统一。 整体风格：水墨 + 现代极简设计融合，春日禅意、空灵湿润、宁静氛围， 冷暖对比克制，电影感光影，高级艺术海报质感，8K超清细节。 [English] Neo-Chinese ink wash landscape poster, vertical 9:16 composition, Oriental minimalist aesthetic style, Large area of negative space, overall color tone is spring morning atmosphere (cyan-green, misty blue, light gray, light ink), low saturation, clear and soft, high-end texture. The main subject of the picture is steep and majestic mountains, rising from both sides of the calm lake in the middle, occupying the left and right sides of the picture, The mountain bodies are expressed with ink wash blending, rich in changes of shades, dryness and wetness, partially integrated with light cyan-green rendering, reflecting the vitality of spring. The mountain peaks are wrapped in moist and gentle morning mist, the mist progresses layer by layer, naturally blending with the light cyan-blue sky, forming aerial perspective and spatial depth. The lake surface is as calm as a mirror, showing a slightly cyan-green tone, reflecting the mountains and the sky, the reflection slightly has a soft focus and atomization diffusion effect, enhancing the spring moist and dreamy atmosphere. In the midground, a small wooden boat with an arched canopy floats slowly, the oars lightly touch the water surface to form delicate ripples, the water patterns spread naturally, maintaining an extremely quiet state overall. On the boat is a fisherwoman in red, with a small volume (distant view proportion), the character is simplified into an ink wash silhouette + slight coloring, wearing a low-saturation cinnabar red traditional costume (not bright red), the color is slightly softened by the mist, no facial details are depicted for the character, only retaining the outline and posture (such as gently holding the boat canopy or holding the oar), the red color forms a faint reflection on the water surface, serving as the only warm color visual focus in the picture. The shore is dotted with sparse woods and spring newborn vegetation, using light ink + light cyan-green dot dyeing, combining virtuality and reality, enhancing rhythm and breath of life. A small number of flying birds skim across the distant sky, distributed lightly and loosely, enhancing the spatial layers and sense of agility. At the top center of the picture, vertical calligraphy: "Oriental Aesthetics", adopting traditional handwritten running script or running-cursive style (intention of Wang Xizhi's brushwork), brushstrokes naturally undulate, lifting and pressing are distinct, with flying white and ink rhyme diffusion effects, avoiding a sense of font. The calligraphy color is dark ink cyan or soft ink black, unified with the overall picture. Overall style: ink wash + modern minimalist design fusion, spring Zen, ethereal and moist, tranquil atmosphere, restrained cold and warm contrast, cinematic light and shadow, high-end art poster texture, 8K ultra-clear details.
+```
+
+By [@liyue\_ai](https://x.com/liyue_ai/status/2046215276249993720)
+
+---
+
+<a id="freestylefly-case-224"></a>
+
+## 机甲少女立于废弃海城
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case224.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case224.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+[中文] 一名十几岁的机甲少女，苍白的肌肤上沾着烟尘与海水飞沫，锐利的琥珀色眼眸中映出发光的 HUD 瞄准标线；及腰的灰白色长发扎成高马尾，在海风中肆意飞扬。哑光枪灰色外骨骼装甲覆盖双肩、前臂与小腿，关节处裸露着液压活塞，胸挂布有发光的青蓝色冷却管线。一件沾着油污的超大号机库外套半滑落在一侧肩头，一门巨型轨道炮架在右肩，衣领处挂着士兵牌与磨损的红色丝带。 她站在向左略微偏移的位置，立于倾斜钢铁平台的锈蚀边缘，平台向外延伸至漆黑海面之上；重心落在单腿上，左手紧握炮带，头部微转向镜头，投来沉静而桀骜的目光。背部推进器不断喷出蒸汽，马尾与外套在咸腥海风里向一侧狂乱飘动。 背景是黄昏时分广袤的废弃海上都市，用途不明的巨型超级建筑从海洋中拔地而起，形成错落的剪影；骨白色的巨型塔楼与附着藤壶的钢铁结构融为一体，巨大的环形建筑以破碎的角度倾斜矗立，锈蚀的桁架骨架间缠绕着废弃线缆，深色浪涛在支撑柱间翻涌，数艘沉船半淹在柱脚。厚重的海雾萦绕在建筑底部，高耸的结构直刺入暗沉的天空，塔楼高处零星闪烁着微弱灯光，宛如遥远的眼眸。 画面采用阴郁低调的光影：阴沉天空透出冷调青蓝环境光，画面右侧远处建筑漏出温暖的琥珀色钠灯光晕，塔楼后方低垂的太阳形成强烈逆光，勾勒出她的轮廓；体积光穿透海雾，装甲上呈现湿润的镜面高光。 镜头使用 35mm 变形宽银幕镜头，略微低角度仰拍，越过她的肩膀望向远处建筑群；中全景构图，浅景深使前景的锈蚀景物虚化，带有横向镜头眩光，细腻的大气薄雾将远处巨型建筑压缩为层次分明的剪影。 整体为电影感动漫主视觉风格，绘画感数字插画搭配利落线稿，采用青蓝、骨白与铁锈色为主的低饱和海洋色调，点缀少量暖色调高光；添加胶片颗粒，呈现高对比度的艺术海报质感，画幅比例 16:9。 [English] A mecha girl mid-teens, pale skin smudged with soot and salt spray, sharp amber eyes with glowing HUD reticles, waist-length ash-white hair tied in a high ponytail whipping in the sea wind, matte gunmetal exoskeleton armor plating her shoulders, forearms and shins, exposed hydraulic pistons at the joints, chest rig with glowing cyan coolant lines, oversized oil-stained hangar jacket half slipping off one shoulder, a massive rail cannon resting on her right shoulder, dog tags and frayed red ribbon at her collar , standing off-center to the left on the rusted edge of a tilted steel platform jutting out over dark water, weight shifted onto one leg, left hand gripping the cannon strap, head turned slightly toward camera with a quiet defiant stare, steam venting from her back thrusters, her ponytail and jacket streaming sideways in the salt wind , a vast derelict sea-city at dusk, colossal megastructures of unknown purpose rising from the ocean in staggered silhouettes, bone-white monolithic towers fused with barnacled steel, cyclopean ring-shaped constructs canted at broken angles, rusted skeletal gantries threaded with dead cables, dark swells rolling between the pylons, shipwrecks half-swallowed at their feet, thick sea fog clinging to the bases while the upper structures pierce into a bruised sky, scattered faint lights blinking high in the towers like distant eyes , moody low-key lighting, cold teal ambient from the overcast sky, warm amber sodium glow leaking from a distant structure camera-right, hard backlight from a low sun behind the towers carving her silhouette, volumetric god rays cutting through sea mist, wet specular highlights on her armor , 35mm anamorphic lens, slight low angle looking up past her shoulder toward the structures, medium-wide shot, shallow depth of field with foreground rust in soft focus, horizontal lens flares, fine atmospheric haze compressing the distant megastructures into layered silhouettes , cinematic anime key visual, painterly digital illustration with crisp line art, desaturated oceanic palette of teal, bone-white and rust punched by small warm accent lights, film grain, high-contrast editorial poster aesthetic . Format 16:9.
+```
+
+By [@old\_pgmrs\_will](https://x.com/old_pgmrs_will/status/2046144801071079612)
+
+---
+
+<a id="freestylefly-case-228"></a>
+
+## 完美匹配的海报广告图
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case228.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case228.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+[中文] 生成一张与这张图片完美匹配的广告图片。信息量要多一些。 [English] Generate an advertising image that perfectly matches this image. There should be a lot of information.
+```
+
+By [@Kashiko\_AIart](https://x.com/Kashiko_AIart/status/2045787856292151322)
+
+---
+
+<a id="freestylefly-case-230"></a>
+
+## 极简国潮鎏金广州塔海报
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case230.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case230.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+[中文] 新中式极简风格高端城市海报，9:16竖版构图，以广州为核心主题，画面中心为抽象几何化的广州塔，造型简洁但具有辨识度， 整体采用S型流动构图，从下方向上延展，珠江水系被设计为流动的水波纹与传统祥云纹样融合，环绕整个画面形成视觉动线， 广州地标建筑以“留白+线描+局部色块”的方式点缀其中：珠江新城双塔、猎德大桥、白云山轮廓、岭南骑楼， 传统与现代建筑自然融合，层次递进，远近虚实分明， 风格控制：极简 + 高级 + 东方意境，不杂乱不过度写实， 色彩方案（重点）： 高饱和但克制 ，中国红、青蓝、鎏金为主色， 辅以少量暖金高光点缀，形成强烈视觉冲击但不俗艳， 背景：大面积纯净留白或淡宣纸肌理，增强呼吸感与高级感， 细节：祥云与水纹具有轻微浮雕/烫金质感， 局部加入微光粒子或流动光线，增强现代感， 光影：柔和渐变光+局部高光，突出恢弘大气氛围， 整体风格：国潮高级插画 / 品牌海报级质感 / 8K / 超清细节 [English] Neo-Chinese minimalist style high-end city poster, 9:16 vertical composition, with Guangzhou as the core theme, the center of the image is an abstract geometric Canton Tower, simple in shape but highly recognizable, The overall adopts an S-shaped flowing composition, extending from bottom to top, the Pearl River water system is designed as flowing water ripples fused with traditional auspicious cloud patterns, surrounding the entire image to form a visual dynamic line, Guangzhou landmark buildings are embellished in it in the way of "blank space + line drawing + local color blocks": Zhujiang New Town Twin Towers, Liede Bridge, Baiyun Mountain outline, Lingnan arcade houses, Traditional and modern architecture naturally blend, progressive layers, clear distinction between far and near, virtual and real, Style control: minimalist + high-end + Eastern artistic conception, not cluttered and not overly realistic, Color scheme (key point): High saturation but restrained, Chinese red, cyan blue, and gilded gold as the main colors, Supplemented by a small amount of warm gold highlight embellishments, forming a strong visual impact but not tacky, Background: large area of pure blank space or light Xuan paper texture, enhancing a sense of breathing and high-end feel, Details: auspicious clouds and water ripples have a slight relief/gold stamping texture, Locally add faint light particles or flowing light lines to enhance modernity, Light and shadow: soft gradient light + local highlights, highlighting a magnificent and grand atmosphere, Overall style: Guochao high-end illustration / brand poster-level texture / 8K / ultra-clear details
+```
+
+By [@liyue\_ai](https://x.com/liyue_ai/status/2045744531686166878)
+
+---
+
+<a id="freestylefly-case-235"></a>
+
+## 治愈系助眠指南九宫格
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case235.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case235.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+[中文] 生成一张适合小红书发布的 3:4 竖版九宫格海报，整体为 3列 × 3行 排版，九个宫格边界清晰，方便后期直接切割成 9 张单图发布。整体风格干净、高级、统一，适合女性向健康生活方式内容，具有小红书爆款封面气质。画面要求 信息排版清晰、文字大、可读性强、留白舒服、配色温柔治愈。 整体视觉风格： 奶油白、浅米色、淡燕麦色、浅焦糖色为主色调，搭配少量深棕色文字，ins风、治愈感、睡眠疗愈主题，简约排版，轻拟物插画点缀，可加入枕头、月亮、星星、热牛奶、香薰、书本、眼罩、窗帘、床铺等元素。整体像专业新媒体设计图，字体工整，适合做知识科普类小红书九宫格。 排版要求： 整张图必须是标准九宫格构图，切分后每一格都能独立成图 每个宫格内容完整居中，不要把标题或正文压在分割线附近 每个格子之间保留明显间隔或细边框，保证裁切后不影响阅读 所有文字使用中文，清晰易读，不要乱码，不要英文 每个宫格都像独立的小红书图文卡片，但视觉风格保持统一 画面精致、真实、自然，不要廉价营销感，不要过度花哨 九宫格具体内容： 第1格（封面） 大标题：让你倒头就睡的8个 tips 副标题：失眠党、熬夜党一定要收藏 封面视觉最吸睛，适合做首图，加入柔软床铺、月亮、枕头、眼罩等治愈睡眠元素，标题突出，排版高级。 第2格 标题：1. 睡前1小时别玩手机 正文：蓝光会让大脑更清醒，越刷越睡不着。 配图元素：手机、月亮、困倦表情的小插画 第3格 标题：2. 睡前把灯光调暗 正文：暖光环境能帮助身体进入“准备睡觉”的状态。 配图元素：床头灯、暖黄色灯光、窗帘 第4格 标题：3. 房间温度别太高 正文：稍微凉一点，更容易快速入睡。 配图元素：空调、温度计、被子 第5格 标题：4. 晚上别喝浓茶咖啡 正文：咖啡因会延迟困意，让你躺很久还睡不着。 配图元素：咖啡杯、茶杯、禁止符号 第6格 标题：5. 睡前洗个热水澡 正文：能让身体放松下来，入睡速度更快。 配图元素：浴室蒸汽、毛巾、热水 第7格 标题：6. 脑子停不下来就写下来 正文：把烦心事和待办清单写下，大脑会更容易放松。 配图元素：笔记本、钢笔、小台灯 第8格 标题：7. 固定上床时间 正文：每天差不多时间睡，生物钟会越来越稳定。 配图元素：时钟、月亮、床 第9格 标题：8. 试试深呼吸放松法 正文：吸气4秒，停4秒，呼气6秒，慢慢就有困意了。 底部小字：收藏这组，今晚试试看 配图元素：呼吸线条、闭眼人物、星星 画质要求： 高清，高级排版，杂志感，真实可发布，新媒体运营审美，小红书爆款图文风格，文字布局规整，适合直接切图。 [English] Generate a 3:4 vertical 9-grid poster suitable for publishing on Xiaohongshu, with an overall layout of 3 columns × 3 rows. The boundaries of the nine grids are clear, making it easy to directly cut into 9 single images for later publishing. The overall style is clean, premium, and unified, suitable for female-oriented healthy lifestyle content, possessing the vibe of a viral Xiaohongshu cover. Image requirements: clear information layout, large text, strong readability, comfortable white space, gentle and healing color palette. Overall visual style: Cream white, light beige, light oat color, and light caramel color as the main color tones, paired with a small amount of dark brown text. Ins style, healing sense, sleep therapy theme, minimalist layout, light skeuomorphic illustration embellishments. Elements such as pillows, moons, stars, hot milk, aromatherapy, books, eye masks, curtains, and beds can be added. The overall look should be like a professional new media design graphic, with neat fonts, suitable for a knowledge-based popular science Xiaohongshu 9-grid. Layout requirements: The entire image must be a standard 9-grid composition, and each grid can stand alone as an independent image after being cut. The content of each grid should be completely centered; do not place titles or body text near the dividing lines. Keep obvious gaps or thin borders between each grid to ensure that reading is not affected after cropping. All text must use Chinese, be clear and readable, no garbled characters, no English. Each grid should look like an independent Xiaohongshu image-and-text card, but the visual style must remain unified. The image should be exquisite, realistic, and natural, without a cheap marketing feel, and not overly flashy. Specific content of the 9-grid: Grid 1 (Cover) Main title: 8 tips to make you fall asleep instantly Subtitle: Insomniacs and night owls must save this The cover visuals should be the most eye-catching, suitable for the first image. Add healing sleep elements such as soft beds, moons, pillows, and eye masks. The title should be prominent with a premium layout. Grid 2 Title: 1. Don't play with your phone 1 hour before bed Body text: Blue light makes the brain more awake; the more you scroll, the harder it is to fall asleep. Image elements: Mobile phone, moon, small illustration of a sleepy expression Grid 3 Title: 2. Dim the lights before bed Body text: A warm light environment can help the body enter a "ready to sleep" state. Image elements: Bedside lamp, warm yellow light, curtains Grid 4 Title: 3. Don't keep the room temperature too high Body text: Keeping it a bit cooler makes it easier to fall asleep quickly. Image elements: Air conditioner, thermometer, quilt Grid 5 Title: 4. Don't drink strong tea or coffee at night Body text: Caffeine delays sleepiness, making you lie in bed for a long time unable to sleep. Image elements: Coffee cup, teacup, prohibition sign Grid 6 Title: 5. Take a hot shower before bed Body text: It can relax the body and help you fall asleep faster. Image elements: Bathroom steam, towel, hot water Grid 7 Title: 6. Write it down if your brain won't stop Body text: Writing down your worries and to-do lists makes it easier for your brain to relax. Image elements: Notebook, fountain pen, small desk lamp Grid 8 Title: 7. Fix your bedtime Body text: Going to bed at about the same time every day will make your biological clock increasingly stable. Image elements: Clock, moon, bed Grid 9 Title: 8. Try deep breathing relaxation Body text: Inhale for 4 seconds, hold for 4 seconds, exhale for 6 seconds, and sleepiness will gradually come. Bottom small text: Save this set and try it tonight Image elements: Breathing lines, person with closed eyes, stars Image quality requirements: High definition, premium layout, magazine feel, realistically publishable, new media operation aesthetics, Xiaohongshu viral image-and-text style, neat text layout, suitable for direct image cutting.
+```
+
+By [@austinit](https://x.com/austinit/status/2046037688969769346)
+
+---
+
+<a id="freestylefly-case-236"></a>
+
+## 粤超联赛国潮风邀请函海报
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case236.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case236.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+[中文] 广东省城市足球超级联赛（粤超）邀请函海报设计，比例9:16； S型流动构图，画面从下方向上延展，一条由足球运动轨迹形成的动态能量流贯穿画面， 中心为一颗发光的足球，带有动感轨迹与能量光效； 沿S型动线融合广东城市地标与文化元素： 广州塔、深圳平安金融中心、珠海渔女雕像、岭南建筑与佛山武术剪影、中山孙中山文化象征、潮汕英歌舞动态人物轮廓、清远山水自然景观， 所有元素采用“线描 + 局部色块 + 留白”融合表现，层次递进、远近虚实结合； 加入抽象足球运动员剪影，弱化人物细节，强化动势与竞技氛围，视觉重点仍为足球； 风格：现代国潮高级海报，极简风格但富有设计感，高级、干净、统一， 融合东方美学与现代体育视觉； 色彩方案：高饱和但克制，中国红为主视觉，青蓝色辅助，金色点缀高光， 高对比但不杂乱，具有品牌级视觉冲击力； 顶部中央横版视觉主标题 「广东省城市足球超级联赛」：中字，宋体， 中央竖排文字排版： 「粤超」，大字，手写书法艺术字体， 「邀请函」：中字，宋体，纵向排列，间距较大， 底部中央第一排横排： 「2026年4月25日」，小字，宋体，第二排：「广州越秀山体育场」，小字，宋体， 预留文字排版空间； 整体版式平衡、具有高级品牌海报质感，极致精细，构图简洁干净，无杂乱元素，电影级光影，8K 分辨率，高端设计感。融入源自中国传统祥云纹的雅致云纹与水波纹元素，浮动光效粒子，富有动感与生机。 [English] Guangdong Provincial City Football Super League (Yuechao) invitation poster design, aspect ratio 9:16; S-shaped flowing composition, the picture extends from bottom to top, a dynamic energy flow formed by the trajectory of football movement runs through the picture, the center is a glowing football, with dynamic trajectory and energy light effects; Along the S-shaped motion line, integrate Guangdong city landmarks and cultural elements: Canton Tower, Shenzhen Ping An Finance Centre, Zhuhai Fisher Girl statue, Lingnan architecture and Foshan martial arts silhouettes, Zhongshan Sun Yat-sen cultural symbols, Chaoshan Yingge dance dynamic character outlines, Qingyuan landscape natural scenery, all elements adopt the integrated expression of "line drawing + partial color blocks + blank space", progressive layers, combination of distance and virtual-real; Add abstract football player silhouettes, weaken character details, strengthen momentum and competitive atmosphere, the visual focus remains on the football; Style: modern Guochao high-end poster, minimalist style but rich in design sense, high-end, clean, unified, integrating oriental aesthetics and modern sports vision; Color scheme: high saturation but restrained, Chinese red as the main visual, cyan-blue as auxiliary, gold embellished highlights, high contrast but not cluttered, with brand-level visual impact; Top center horizontal visual main title "Guangdong Provincial City Football Super League": medium font, Song typeface, center vertical text layout: "Yuechao", large font, handwritten calligraphy art font, "Invitation": medium font, Song typeface, vertical arrangement, large spacing, bottom center first row horizontal: "April 25, 2026", small font, Song typeface, second row: "Guangzhou Yuexiushan Stadium", small font, Song typeface, reserve text layout space; The overall layout is balanced, has a high-end brand poster texture, extremely detailed, the composition is simple and clean, no cluttered elements, cinematic light and shadow, 8K resolution, high-end design sense. Integrate elegant cloud patterns and water wave patterns derived from traditional Chinese auspicious clouds, floating light effect particles, full of dynamics and vitality.
+```
+
+By [@liyue\_ai](https://x.com/liyue_ai/status/2045772039521542202)
+
+---
+
+<a id="freestylefly-case-237"></a>
+
+## 夏日柑橘苏打高转化广告图
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case237.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case237.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+[中文] 图像生成: 商品广告照片, 适合夏天的季节商品, 碳酸饮料, 名称="夏柑SODA", 形状=PET瓶500ml, 研究2025年作为饮料广告的高CTA设计后设计并生成图像规格, 宽高比3:4 [English] Image generation: Product advertising photo, Seasonal product suitable for summer, Carbonated beverage, Name="Summer Citrus SODA", Shape=500ml PET bottle, Design and generate image specifications after researching high CTA design as a beverage advertisement in 2025, Aspect ratio 3:4
+```
+
+By [@old\_pgmrs\_will](https://x.com/old_pgmrs_will/status/2045852114673635507)
+
+---
+
+<a id="freestylefly-case-264"></a>
+
+## 美妆产品广告图
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case264.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case264.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+[中文] 为Z世代设计的可爱Y2K风格的平价化妆品广告图像。使用鲜艳的配色，包括荧光色。纵横比为3:4。 [English] Cute Y2K style affordable cosmetics advertising image designed for Gen Z. Using vibrant color schemes, including neon colors. Aspect ratio is 3:4.
+```
+
+By [@midori\_tatsuta](https://x.com/midori_tatsuta/status/2045378877363798279)
+
+---
+
+<a id="freestylefly-case-265"></a>
+
+## 日式潮流广告四联画
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case265.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case265.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+[中文] 生成四张虚构的日式广告图片，涵盖不同类型并排排列。采用专业设计师创作的潮流设计。宽高比为1:1 [English] Generate four fictional Japanese advertisement images, covering different types arranged side by side. Trendy design created by professional designers. Aspect ratio 1:1
+```
+
+By [@midori\_tatsuta](https://x.com/midori_tatsuta/status/2045253072289767815)
+
+---
+
+[1](posters.md) · [2](posters-2.md) · **3** · [4](posters-4.md) · [5](posters-5.md) · [6](posters-6.md)
 
 [← Home](../README.md)

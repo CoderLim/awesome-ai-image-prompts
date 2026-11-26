@@ -1,8 +1,8 @@
 # ui mockups
 
-[← Home](../README.md) · Page 1 / 3
+[← Home](../README.md) · Page 1 / 2
 
-**1** · [2](ui-mockups-2.md) · [3](ui-mockups-3.md)
+**1** · [2](ui-mockups-2.md)
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
@@ -35,22 +35,6 @@ A 9:16 aspect ratio image, generating a screenshot of a Douyin livestream where 
 ```
 
 By [@kylegeeks](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-48)
-
----
-
-<a id="freestylefly-case-49"></a>
-
-## 直播界面设计图
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case49.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case49.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-A 9:16 aspect ratio image, generating a screenshot of a Douyin livestream where {argument name="celebrity" default="Liu Yifei"} is broadcasting, holding a sign that says "{argument name="sign text" default="Streaming tonight, welcome to join Yifei's chat!"}"
-```
-
-By [@kylegeeks](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-49)
 
 ---
 
@@ -326,6 +310,22 @@ By [@Tz\_2022](https://x.com/Tz_2022/status/2046523491940225366)
 
 ---
 
-**1** · [2](ui-mockups-2.md) · [3](ui-mockups-3.md)
+<a id="freestylefly-case-176"></a>
+
+## 苏轼被贬首日朋友圈曝光
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case176.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case176.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+[中文] 苏轼被贬第一天小红书截图 [English] Su Shi's first day of exile Xiaohongshu screenshot
+```
+
+By [@MrLarus](https://x.com/MrLarus/status/2046585220393324553)
+
+---
+
+**1** · [2](ui-mockups-2.md)
 
 [← Home](../README.md)

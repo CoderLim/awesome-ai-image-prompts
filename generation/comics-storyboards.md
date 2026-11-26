@@ -86,22 +86,6 @@ By [@DeepBlueX0](https://x.com/DeepBlueX0/status/2100172521664573551)
 
 ---
 
-<a id="evolink-sequential-art-case-245"></a>
-
-## Twelve-Panel Character Transformation Storyboard
-
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2100136028799713281.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2100136028799713281.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Create a 12-panel transformation storyboard for the character in the uploaded reference image, arranged in a clean 3-column × 4-row grid, read left to right and top to bottom. CHARACTER AND CONCEPT First, visually analyze the character’s identity, outfit, signature accessories, color palette, personality, and apparent world or profession. Use these details to invent a distinctive transformation theme that feels like a natural evolution of this specific character. Choose a coherent power source, visual effects, transformation mechanism, and final evolved form. Derive these from the character rather than defaulting to generic demon wings, horns, purple lightning, or an unrelated costume. The final form must show a substantial, deliberate change in silhouette, costume structure, materials, and signature accessories—not merely the original outfit with a glowing aura. Preserve enough recognizable motifs that the result unmistakably feels like the same character. IDENTITY CONSISTENCY Keep the same face, apparent age, body proportions, skin tone, and defining features throughout all 12 panels. Preserve the character’s signature hair color and recognizable hairstyle, allowing natural movement and subtle styling changes. Maintain the reference image’s illustration style. Begin with the original outfit faithfully reproduced. Design one coherent final outfit and reveal it progressively. Once a transformed element appears, keep its design consistent in all subsequent panels. 12-PANEL SEQUENCE Panel 1 — Original state: Clearly establish the reference character in their original outfit, with a readable full-body silhouette in an appropriate setting. Panel 2 — Trigger: A signature accessory, gesture, or environmental element activates the character’s latent power. Panel 3 — Response: The character notices the change and makes a purposeful movement. Small thematic effects begin to gather. Panel 4 — Gathering power: The transformation energy establishes a clear direction and motion around the character. Panel 5 — First visible change: One important costume element or accessory evolves, clearly showing the transformation mechanism. Panel 6 — Progression: The transformation travels across the body, forming new clothing, armor, ornamentation, or other theme-appropriate details. Panel 7 — Defining detail: Show a closer view of a major identity-linked upgrade, such as headwear, shoulder pieces, a weapon, or a magical accessory. Panel 8 — Silhouette expansion: Reveal the largest structural change, such as a flowing mantle, elongated coat, layered armor, or another character-specific feature. Panel 9 — Climax: Show the peak of the transformation with a powerful pose and dramatic thematic effects. Keep the character readable. Panel 10 — Full reveal: Effects clear to reveal the complete evolved form in a clean full-body view. Panel 11 — Personality moment: The character makes a small expressive gesture that conveys their personality and newfound confidence. Panel 12 — Final hero image: Finish with a striking full-body pose that clearly displays the completed design, with restrained residual effects and a resolved background. VISUAL DIRECTION Build a clear emotional progression from anticipation to awakening to mastery, adapted to the character’s personality. The character actively participates in the transformation rather than simply standing still. Use a cohesive environment and lighting progression across the sequence. Vary framing between full-body, three-quarter, and selective detail shots while maintaining spatial continuity. Prioritize full-body views for the original state, major silhouette changes, and final reveal. Make every panel advance the transformation. Show intermediate stages with clear visual cause and effect; do not jump abruptly from the original outfit to the final costume. Use elegant, theme-specific transitions such as flowing material, particles assembling into solid forms, unfolding structures, or energy passing over and revealing new costume elements. Keep anatomy stable and clothing coherent. No nudity or erotic framing. OUTPUT One polished, high-resolution storyboard image containing exactly 12 distinct panels with thin, consistent borders. Balance character detail with visual clarity. No captions, labels, speech bubbles, logos, or watermarks. Do not reproduce the uploaded reference sheet’s layout or duplicate its multiple views. Use the uploaded image to identify one character, then depict that same character across a new, continuous transformation sequence.
-```
-
-By [@Mayz1169](https://x.com/Mayz1169/status/2100136174446936508)
-
----
-
 <a id="evolink-sequential-art-case-247"></a>
 
 ## Character Guangzhou Travel Album
@@ -294,22 +278,6 @@ By [@Fujimoto\_hina](https://x.com/Fujimoto_hina/status/2027748030825500722)
 
 ---
 
-<a id="freestylefly-case-347"></a>
-
-## 4×4 动作分解参考表
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case347.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case347.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-[STYLE] Monochrome grayscale illustration, 3D-rendered character, clean instructional reference sheet, white background, comic-style cell grid layout, technical diagram aesthetic. [LAYOUT] 4×4 grid layout with a total of 16 panels. Each panel is separated by thin black border lines. Cells are numbered from 1 to 16, with consistent panel sizes. [CHARACTER] image1 (the same character appears consistently in all panels) [PANEL STRUCTURE – per cell] Top-left: bold number badge + English title text Center: full-body character pose illustration Bottom-left: English description text (3–4 lines) Overlay: directional arrows indicating movement [ARROWS / MOTION INDICATORS] Curved arrows, straight arrows, and circular rotation indicators placed around the character to show motion flow and direction. [RENDERING STYLE] Highly detailed 3D sculpted style, soft studio lighting, subtle shadows, no color, grayscale shading, clean linework, game concept art quality. [NEGATIVE] No background scenery, no color tones, no additional characters, no complex background.
-```
-
-By [@oggii\_0](https://x.com/oggii_0/status/2048614158699217302)
-
----
-
 <a id="freestylefly-case-349"></a>
 
 ## 运动时尚三联 Campaign
@@ -323,6 +291,38 @@ Cinematic sports fashion collage, 3-panel layout, top panel large hero shot of a
 ```
 
 By [@AIwithkhan](https://x.com/AIwithkhan/status/2048606301039820821)
+
+---
+
+<a id="freestylefly-case-419"></a>
+
+## 可颂烘焙流程 Storyboard
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case419.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case419.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+Create a crisp, clean infographic storyboard poster for THE CROISSANT BAKER. Wide 16:9 layout, white background, black borders, bold black typography, premium Pixar 3D stylized rendering, bright vivid colors — warm golden yellows, rich buttery creams, flaky browns, soft pastry whites, warm French bakery morning light. Top header: THE CROISSANT BAKER TOTAL VIDEO TIME: 12 SECONDS 8 SHOTS · WARM · FLAKY · IRRESISTIBLE Legend icons: ACTION, HEAT, TIME HINT, INGREDIENT Thin warm golden accent line running full width beneath header Same Pixar-style young French male baker throughout: white baker's jacket, flour-dusted hands, warm authentic French boulangerie setting, marble countertop, warm morning light streaming through windows, bread racks in background. Bright, warm, delicious. Every panel a completely different composition and color. 8 panels: THE OPENER — Wide shot of baker arriving at the boulangerie before dawn, tying apron, switching on the warm kitchen lights, marble counter visible, bread racks behind, flour dusting the air, full world established, bright and cinematic THE BUTTER BLOCK — Baker slams a massive cold block of European butter onto the marble counter with both hands, dramatic impact, flour cloud puffing up, close-up on hands, this is the bones moment — the start of everything THE LAMINATION — Baker folding the dough over the butter block precisely, rolling pin pressing down hard, layers building, side angle shot showing the beautiful layering beginning, confident and skilled THE ROLL — Dough rolled out into a large thin sheet, baker leaning into the rolling pin with full body weight, marble counter, flour dusting everywhere, wide shot showing the scale of the dough THE SHAPE — Triangles cut from the dough, baker rolling each one from the wide end into a tight crescent, hands moving fast and confident, close-up on the shaping, beautiful and precise THE EGG WASH — Baker brushing golden egg wash over each shaped croissant with a pastry brush, each one glistening beautifully, close-up overhead angle, warm golden color, stunning composition THE OVEN — Croissants slid into the blazing hot oven on a tray, oven door closed, through the oven glass croissants visibly puffing and turning deep golden, layers separating dramatically, warm orange glow THE TEAR — Baker pulls a perfect golden croissant from the rack, holds it up, tears it open slowly revealing hundreds of impossibly flaky buttery layers inside, steam escaping, butter glistening — this is the cheese pull moment, the hero shot of the entire video Footer: VIDEO FLOW: 8 shots × 1.5s = 12 seconds. Butter block to the tear. CAMERA TIPS: wide on opener, close-up on butter slam and shaping, side angle on lamination, overhead on egg wash, oven glass for panel 7, extreme close-up on the tear reveal LIGHT & STYLE: warm golden French bakery morning light, buttery cream tones, flour dust in the air, bright vivid Pixar colors, shallow depth of field on close-ups BAKER NOTES: one baker, one perfect croissant, one irresistible tear. The lamination layers and the final tear are everything — make them stunning.
+```
+
+By [@TechieBySA](https://x.com/TechieBySA/status/2053523784481554759)
+
+---
+
+<a id="freestylefly-case-422"></a>
+
+## 冬季生存惊悚 Storyboard
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case422.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case422.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+Cinematic Survival Thriller Storyboard Prompt Create a premium cinematic storyboard presentation sheet for a prestige winter survival thriller. Ultra-detailed professional film pre-production layout, clean editorial design, grayscale blueprint background with labeled sections and technical annotations. Aspect ratio 16:9 horizontal master board. SHARED CHOICES HEADER * Cut Count: 10 * Color Palette: icy blue + steel gray + pine green + ember amber * Environment Fingerprint: snow-covered pine clearing, overturned horse carcass, torn campsite debris, looming conifer forest, drifting winter fog --- 1. CHARACTER REFERENCE A realistic South Asian man in his early 30s wearing a dark charcoal business suit, white dress shirt, black tie, polished black shoes. Snow dusted across shoulders and hair. Calm but haunted expression. Show: * front view * side profile * back view * facial close-up * side close-up * costume fabric detail * damaged sleeve detail * shoes in snow Character notes: “An intelligent city professional trapped in a brutal wilderness. Outer composure slowly cracks under primal fear. Suit = identity, burden, and last thread of control.” Palette swatches: * icy blue * steel gray * pine green * ember amber --- 2. ENVIRONMENT / SET DESIGN Top-down aerial map of a snowy forest clearing at dusk. Dead horses partially buried in snow. Destroyed campsite tents. Blood trails across frozen ground. Dense dark pine trees forming a claustrophobic wall around the clearing. Heavy winter fog drifting through the forest. Add cinematic camera movement markers: 1. Crane-down 2. Track 3. Push-in 4. Handheld 5. Steadicam 6. Pan-right 7. Dolly-in 8. Rack-focus 9. Arc shot 10. Pull-out Include arrows and overhead cinematic blocking diagram. Side elevation panel: * descending crane shot * fog layers * silhouette scale reference * conifer enclosure composition Location elements legend: * tree line * torn campsite * horse carcass debris * blood-stained snow * main character * wolf approach zones --- 3. STORYBOARD (10 CUTS) CUT 1 Wide aerial crane-down shot over frozen clearing. Tiny suited man surrounded by devastation. Moody blue dusk lighting. CUT 2 Tracking medium shot beside the man walking cautiously through snow and ripped tents. Wind moving fabric debris. CUT 3 75mm close-up push-in on face. Cold breath visible. Fear slowly emerging in his eyes. CUT 4 Extreme close-up handheld shot of trembling hand gripping torn frozen fabric near blood-covered snow. CUT 5 Steadicam medium shot revealing wolves emerging between trees behind him. CUT 6 Pan-right wide shot sweeping across forest edge. Multiple wolf silhouettes visible in fog. CUT 7 Over-the-shoulder dolly-in toward alpha wolf approaching slowly through snow. CUT 8 Rack-focus insert shot shifting focus from frozen hand to wolf tracks in snow. CUT 9 Arc shot circling around the man as wolves tighten formation. Snow and pine branches moving in icy wind. CUT 10 Close-up pull-out shot from his exhausted face revealing the full massacre behind him in fading ember dusk light. --- 4. LIGHTING / MOOD / STYLE NOTES * icy dusk ambience * cold blue backlight * ember sunset glow fading through fog * wet fabric specular highlights * cinematic volumetric fog * snow particles drifting through frame * high-contrast prestige thriller realism Mood keywords: * isolation * winter dread * survival instinct * prestige thriller realism * primal tension * psychological fear Cinematography notes: * anamorphic lenses (40mm / 50mm / 75mm / 100mm) * shallow depth of field * compressed forest layers * natural handheld movement * realistic snow atmosphere * cinematic Hollywood survival thriller aesthetic * ultra detailed * photorealistic * film grain * 8k production design board * premium movie pitch deck style
+```
+
+By [@zulkarnaimx](https://x.com/zulkarnaimx/status/2053723774680535538)
 
 ---
 

@@ -70,22 +70,6 @@ By [@xiaoxiaodong01](https://x.com/xiaoxiaodong01/status/2046556758521573546)
 
 ---
 
-<a id="freestylefly-case-226"></a>
-
-## 古风明朝帝王群像长卷
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case226.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case226.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-[中文] 根据上传图片的风格，生成明朝各个皇帝的头像，头像下面有他们的谥号和名字 [English] Based on the style of the uploaded image, generate portraits of the emperors of the Ming Dynasty, with their posthumous titles and names below the portraits
-```
-
-By [@liyue\_ai](https://x.com/liyue_ai/status/2045071977279635962)
-
----
-
 <a id="freestylefly-case-302"></a>
 
 ## 九位大师的机械键盘设计图鉴
