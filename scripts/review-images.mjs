@@ -9,6 +9,7 @@ import { readCatalog, readQueue } from './audit-prompt-similarity.mjs';
 import { readExclusions, writeExclusions, exclusionMatches, makeExclusion } from './review-exclusions.mjs';
 
 import { readFeatured, writeFeatured } from './review-featured.mjs';
+import { readLocalReviewQueues } from './review-local-queues.mjs';
 
 const root=path.resolve(path.dirname(fileURLToPath(import.meta.url)),'..');
 const args=process.argv.slice(2);
@@ -33,6 +34,7 @@ for(const r of queue){
   provenance:{originalSource:{postId:r.case_id,url:r.source_url,author:r.author||null},collectedFrom:[{sourceId:'prompthero',url:r.source_url}]},
   sourceMeta:{model:r.model},candidate:true});
 }
+candidates.push(...readLocalReviewQueues(root,known));
 const all=[...catalog,...candidates],display=[...published,...candidates];
 const displayIds=new Set(display.map(r=>r.id));
 const safeUrl=s=>{try{const u=new URL(s);return u.protocol==='https:'&&!u.username&&!u.password?u.href:null;}catch{return null;}};

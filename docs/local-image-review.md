@@ -26,6 +26,12 @@ Inspect generated diffs, then commit exclusions and generated gallery/governance
 
 This tool records removal preferences only. It does not automatically approve image quality, input/output roles, model reproduction, or rights. The existing release gates still apply.
 
+## Additional local source queues
+
+The reviewer automatically loads full-record JSON arrays in `.cache/review-queues/*.json`, in filename order. The directory is ignored by Git. Each record uses the catalog schema (stable ID, title, full prompt, category, input mode, source image URLs, provenance and rights). Records are marked as pending candidates, never as published gallery examples. Existing catalog and explicit PromptHero queue IDs take precedence. Invalid rows fail with a filename and case ID rather than disappearing silently.
+
+Keep collector files and uncertain-rights material local. The full-record queue supports source filtering, image inspection, prompt expansion, deletion/restoration and featured selection through the same reviewer. It does not approve or publish records. Restart the server to reload changed queues.
+
 ## README featured examples
 
 Click ☆ 精选 on a card or in the enlarged image, or use the batch feature/unfeature controls. Use the featured filter to review your picks. Selections are saved immediately in data/review/featured.json, in selection order. Initial null keeps the existing automatic README previews until the first selection; after that only manual selections are shown, including when the list is empty. Both READMEs use the same list and retain the existing three-column layout, separate generation/reference sections and category navigation. Empty sections are omitted.
