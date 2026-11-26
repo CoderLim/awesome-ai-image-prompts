@@ -138,3 +138,7 @@ VCL is an explicitly licensed, manually imported pinned snapshot. The automatic 
 ## Local PromptHero candidate review
 
 For collector exports follow [the local review workflow](docs/prompthero-review-workflow.md). Use `node scripts/prompthero-preflight.mjs <collector.jsonl> <new-local-output-dir>` from the repository root to reconstruct the queue across all current index shards, with exact duplicate mappings. Keep raw exports and review decisions outside the public repository. Preflight flags are not semantic or visual verdicts; never auto-publish candidates. Record separate text, visual, source and rights evidence, preserve stable IDs and review versions, and apply the existing import/build/check and rights gates before publishing. CLAUDE.md delegates to this authoritative guide.
+
+## Local visual curation
+
+Use [the local image reviewer](docs/local-image-review.md) via `npm run review:images` (optional `-- --queue /absolute/path/to/V3.jsonl`). The explicitly owner-requested local-only reviewer writes `data/review/exclusions.json`. Keep this durable input separate from source shards; build and future import plans honor exclusions across exact post/prompt components. Do not silently reset it during sync. Raw records remain for audit. Rebuild and check after changing exclusions; retaining an item is not visual or rights approval. Do not commit private queues, image caches or credentials.
