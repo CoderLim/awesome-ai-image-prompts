@@ -70,6 +70,22 @@ By [小红书号Roy\_Jay](https://github.com/freestylefly/awesome-gpt-image-2/bl
 
 ---
 
+<a id="freestylefly-case-17"></a>
+
+## 界面交互设计图
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case17.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case17.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+{ "type": "exploded view product diagram poster", "subject": "VR headset", "style": "clean high-tech 3D render, studio lighting, glowing accents", "background": "{argument name=\"background color\" default=\"soft purple and blue gradient\"}", "header": { "logo": "∞ {argument name=\"product name\" default=\"Meta Quest 3\"}", "subtitle": "{argument name=\"main catchphrase\" default=\"まったく新しい現実を、まったく新しい構造から。\"}" }, "layout": { "centerpiece": "vertically stacked exploded view of a VR headset showing 9 distinct layers of internal components: outer shell, camera sensors, motherboard with chip, pancake lenses, internal frame, battery packs, side straps, top strap, and facial interface cushion.", "callout_labels": { "count": 8, "left_side": [ "Snapdragon® XR2 Gen 2\n圧倒的な処理性能でリアルタイムな体験を。", "調整可能なIPD機構\n幅広いユーザーに快適なフィット感を。", "精密設計されたヘッドストラップ\n快適さと安定性を追求したエルゴノミクス。" ], "right_side": [ "フェイスプレート\n洗練されたデザインと最適な重量バランス。", "トラッキングカメラ\n高精度な位置トラッキングと環境認識を実現。", "パンケーキレンズ\n薄型設計で広い視野角と鮮明な映像を提供。", "高性能バッテリー\n長時間駆動を支える最適化された電源設計。", "柔らかなフェイスインターフェース\n長時間でも快適な装着感を実現。" ] }, "footer": { "left_text_block": { "headline": "{argument name=\"bottom headline\" default=\"体験は、構造から進化する。\"}", "body": "一つひとつのパーツに、没入体験を支える最先端テクノロジーとこだわりの設計。Meta Quest 3は、未来を感じさせる体験を内部から生み出しています。" }, "right_logo": "∞ Meta" } } }
+```
+
+By [@wory37303852](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-17)
+
+---
+
 <a id="freestylefly-case-18"></a>
 
 ## 信息图可视化设计
@@ -307,22 +323,6 @@ By [@hx831126](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa
 ```
 
 By [@hx831126](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-72)
-
----
-
-<a id="freestylefly-case-73"></a>
-
-## 信息图可视化设计
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case73.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case73.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-{ "type": "complex urban systems atlas infographic", "style": "{argument name=\"color palette\" default=\"dark background with glowing blue, gold, and purple accents\"}, highly detailed technical illustration, 3D isometric cutaway", "header": { "title": "{argument name=\"chinese city name\" default=\"上海\"}城市系统剖面 {argument name=\"english city name\" default=\"SHANGHAI\"} URBAN SYSTEMS ATLAS", "subtitles": [ "地表之上，是城市；地表之下，是秩序 {argument name=\"english subtitle\" default=\"Beneath the skyline lies the machine.\"}", "一座城市如何运转 How a Megacity Actually Works" ] }, "layout": { "top_left": "Compass rose and city map labeled '上海市域位置 SHANGHAI LOCATION'", "top_right": "Data table titled '城市数据 CITY DATA' with 7 rows of statistics", "centerpiece": { "description": "{argument name=\"centerpiece style\" default=\"highly detailed 3D isometric cutaway render\"} of a megacity river landscape", "layers": [ "地面层 SURFACE", "排水层 DRAINAGE LAYER", "电力层 POWER LAYER", "通信层 COMMUNICATION LAYER", "轨道交通层 METRO LAYER", "道路隧道层 ROAD TUNNEL LAYER", "管廊综合层 UTILITY CORRIDOR LAYER" ] }, "side_panels": [ { "id": "01", "title": "城市主骨架 URBAN SKELETON", "elements": "Map with 8 legend items" }, { "id": "02", "title": "排水与地下水网 DRAINAGE + STORMWATER", "elements": "Cross-section diagram '典型排水剖面 DRAINAGE SECTION' with 5 legend items" }, { "id": "03", "title": "电网与能源分配 POWER GRID + ENERGY", "elements": "Cross-section diagram '典型变电站剖面 SUBSTATION SECTION' with 6 legend items" }, { "id": "04", "title": "通信与网络骨干 TELECOM + INTERNET", "elements": "Cross-section diagram '数据中心剖面 DATA CENTER SECTION' with 6 legend items" }, { "id": "05", "title": "地铁与地下交通 METRO + SUBSURFACE MOBILITY", "elements": "Cross-section diagram '人民广场站剖面 PEOPLE'S SQUARE STATION' with 6 legend items" }, { "id": "06", "title": "道路、高架与循环 ROADS + ELEVATED MOBILITY", "elements": "Cross-section diagram '南浦大桥剖面 NANPU BRIDGE SECTION' with 6 legend items" }, { "id": "07", "title": "管廊与地下设施 UTILITY CORRIDORS + PLUMBING", "elements": "Cross-section diagram '综合管廊 UTILITY CORRIDOR' with 8 legend items" }, { "id": "08", "title": "城市流量与系统协同 URBAN FLOWS + COORDINATION", "elements": "Map diagram '城市运行指挥中心 CITY OPERATIONS CENTER' with 6 legend items" } ], "bottom_panels": { "system_logic": { "title": "城市系统协同逻辑 SYSTEM COORDINATION LOGIC", "steps": 4, "labels": ["感知层 SENSING LAYER", "网络层 NETWORK LAYER", "平台层 PLATFORM LAYER", "应用层 APPLICATION LAYER"] }, "city_brain": { "title": "城市大脑 CITY BRAIN", "central_node": 1, "peripheral_nodes": 8 }, "references": { "depth_scale": { "title": "深度与尺度 DEPTH & SCALE REFERENCE", "icons": 5 }, "map_scale": { "title": "比例尺 SCALE", "markers": 4 } } } } }
-```
-
-By [@hx831126](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-73)
 
 ---
 

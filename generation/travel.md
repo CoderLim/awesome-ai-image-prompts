@@ -6,83 +6,35 @@
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
-<a id="evolink-sequential-art-case-247"></a>
+<a id="evolink-advertising-case-190"></a>
 
-## Character Guangzhou Travel Album
+## Hot Spring Inn Nine-Panel Storyboard
 
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2099684722901401600.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2099684722901401600.jpg" width="480" alt="Source example"></a>
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2100162827776557056.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2100162827776557056.jpg" width="480" alt="Source example"></a>
 
 **Prompt**
 
 ```text
-玛奇玛 ×广州游iPhone 相册截图×iOS 27
+温泉旅館「KAWANE」のブランドムービー用フォトストーリーボードを、1枚の画像として生成してください。 【広告コンセプト】 「ほどける時間へ。」 都会で忙しく働く女性が山間の温泉旅館を訪れ、景色、お茶、温泉、食事を通じて、少しずつ心を解放していく物語。観光地の華やかさではなく、静かな時間と丁寧なおもてなしを価値として描く。 【画面構成】 全体は16:9の横長。 3列×3行、全9コマの均等なフォトグリッド。 各コマも横長16:9。 コマの間には細いアイボリー色の余白を入れる。 左上から右方向へ「01」〜「09」の小さな白い番号を、各コマ左上に配置する。 説明文やカット名は表示しない。 すべてのコマを、実際に撮影された高級旅館のTVCMから切り出したようなフォトリアルな映像品質にする。 【主人公】 30代前半の日本人女性。 肩に触れる長さの自然な黒髪。 上品で親しみやすい顔立ち、自然な瞳、控えめなメイク。 肌の毛穴や柔らかな陰影を残し、過度な美肌加工は行わない。 到着時は生成りのニット、ダークブラウンのロングスカート、革靴、小さな旅行バッグ。 館内では同じ女性が落ち着いたベージュ系の浴衣を着用する。 顔、髪型、体格を全カットで統一する。 【ロケーション】 山と清流に囲まれた現代的な温泉旅館。 木、石、和紙、土壁を取り入れた静かな和モダン建築。 窓の外には色づき始めた山、川、紅葉。 観光施設らしい派手さを避け、品のある落ち着いた空間にする。 【9コマの内容】 01： 午後の山間に佇む旅館の外観。 女性が小さな旅行バッグを持ち、石畳を歩いて玄関へ向かっている。 旅館、川、山、紅葉がひとつの画面に収まる広い導入カット。 02： 吹き抜けのロビー。 女性が大きな窓の前で立ち止まり、山と川を眺めている。 後ろ斜めから撮影したミディアムワイド。 木造建築と窓から入る自然光を美しく見せる。 03： スタッフの手がお茶と小さな和菓子を木製テーブルへ置く瞬間の接写。 陶器の質感、薄い湯気、菓子の繊細な造形、丁寧な所作を描く。 04： 女性が客室の障子を開ける場面。 手元と横顔を近距離から捉え、障子の向こうに山の景色と柔らかな光が広がる。 05： 露天風呂の湯面を捉えたマクロショット。 水面に赤い落ち葉が一枚浮かび、細かな波紋と湯気が広がる。 人物は映さない。 06： 浴衣姿の女性が窓辺の椅子に座り、両手で湯呑みを持ってお茶を飲む。 横顔に午後の柔らかな光が当たり、緊張が解けた穏やかな表情。 07： 夕食の会席料理を真上から撮影したフラットレイ。 川魚、季節の野菜、土鍋、小鉢、酒器を端正に配置する。 器、木目、料理の色彩を高精細に描く。 08： 夕暮れの縁側に座る女性の親密なポートレート。 目を静かに閉じ、秋の空気を吸い込むような自然な表情。 山のシルエットと行灯の光が背景で柔らかくぼける。 09： 夜の客室と縁側を捉えた締めのブランドカット。 右側に暖簾、木の格子、光る行灯。 左側には暗い山と文字用の余白を確保する。 左側に正確な日本語で「ほどける時間へ。」 その下に、字間を広く取った上品なセリフ体で「KAWANE」。 【撮影表現】 日本の高級旅館広告。 標準〜中望遠レンズを中心に、料理やお茶はマクロレンズ。 午後から夕暮れ、夜へ自然に時間が進行する。 木の温かさ、石の冷たさ、湯気、紙、陶器の質感を丁寧に描く。 滑らかなハイライト、奥行きのある影、微細なフィルムグレイン。 【禁止事項】 アニメ、イラスト、CG感の強い表現、過度なオレンジ加工、強い霞、非現実的な豪華さ、人物の顔の変化、手指の破綻、余分な人物、指定外のコピー、透かし、余分なロゴを入れない。
 ```
 
-By [@DeepBlueX0](https://x.com/DeepBlueX0/status/2099684732950958440)
+By [@husky\_\_create](https://x.com/husky__create/status/2100162874132087109)
 
 ---
 
-<a id="evolink-travel-journals-case-194"></a>
+<a id="evolink-gpt-image-2-6-case-262"></a>
 
-## Autumn Watercolor Travel Journal
+## Nostalgic Landmark Street Photography
 
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2108403887631929344.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2108403887631929344.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Create a premium 4:5 vertical autumn travel-journal artwork for [COUNTRY / CITY / LOCATION / SUBJECT]. TEXT-TO-IMAGE ONLY — generate every element from the written destination or subject alone. Do not request, upload, use, or depend on any reference image, existing photograph, or source image. MASTER STYLE LOCK: Hand-painted autumn watercolor on warm ivory paper, minimalist travel-editorial illustration, transparent watercolor washes mixed with soft gouache, delicate imperfect ink outlines, visible paper grain, natural pigment blooms, soft edges, muted autumn colors, generous negative space, warm nostalgic atmosphere, premium handcrafted art-book aesthetic. COMPOSITION: Divide the vertical canvas into two equal halves using a precise 50/50 left-right split. LEFT HALF — REALISTIC DESTINATION: Generate an original, natural-looking photograph-style scene of [COUNTRY / CITY / LOCATION / SUBJECT]. Automatically determine its recognizable architecture, scenery, atmosphere, and natural lighting. Preserve realistic textures, authentic colors, and believable perspective. Keep this entire half clean, with no text, labels, illustrations, borders, or decorative elements. RIGHT HALF — AUTUMN WATERCOLOR JOURNAL: Reimagine the same destination as a delicate, handmade autumn watercolor illustration. Use simplified rounded architecture, warm glowing windows, a small tree with dusty rose, apricot, and amber foliage, a few drifting leaves, and subtle watercolor clouds. Include only a few meaningful local details, keeping the composition airy and uncluttered. COLOR PALETTE: Caramel brown, dusty rose, apricot orange, creamy yellow, muted maple red, warm ivory, and faint lavender-grey shadows. Use soft, low-saturation afternoon light. No neon colors or harsh black. HANDMADE DETAILS: Add one or two narrow kraft-brown or dusty-pink washi tape strips, a small pressed autumn leaf, and a few delicate hand-drawn stars or arrows. Integrate these details naturally without overcrowding the illustration. DESTINATION LABEL: Place a small cream-colored paper label near the upper-left corner of the RIGHT HALF. Main title: [LOCATION NAME] Subtitle: [ENGLISH LOCATION NAME] Use rounded, handwritten Japanese-inspired lettering for the main title and smaller, widely spaced handwritten English lettering for the subtitle. Keep spelling accurate and typography legible. SIGNATURE LABEL: Near the bottom-right corner of the RIGHT HALF, add a small kraft-paper label with exactly this text: RYOBIYORI No. [NUMBER] / [YEAR] Use subtle, fine dark-brown lettering. STRICT LAYOUT RULES: All text, labels, washi tape, and decorative elements must remain entirely within the right half. The left half must contain only the original generated realistic destination scene. Never reproduce or modify an existing photograph. PAPER & FINISH: Warm ivory watercolor-paper texture, delicate fibers, subtle grain, organic pigment edges, and a carefully assembled travel-journal feeling. FINAL AESTHETIC: Realistic destination imagery × autumn watercolor illustration × handmade travel journal × nostalgic seasonal palette × premium editorial design. AVOID: Reference-image requests, image-editing instructions, existing-photo preservation, unequal panel widths, text crossing the center divider, excessive decoration, oversaturated colors, glossy digital painting, 3D rendering, misspelled text, extra logos, watermarks, and interface elements. OUTPUT: 4:5 vertical portrait, exact 50/50 left-right composition, realistic generated destination scene on the left, watercolor travel-journal illustration on the right, ultra-high definition.
-```
-
-By [@Goodmanprotocol](https://x.com/Goodmanprotocol/status/2108403968372306010)
-
----
-
-<a id="evolink-travel-journals-case-195"></a>
-
-## Watercolor Travel Magazine Spread
-
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2108198950264270848.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2108198950264270848.jpg" width="480" alt="Source example"></a>
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/2118968646475419648.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/2118968646475419648.jpg" width="480" alt="Source example"></a>
 
 **Prompt**
 
 ```text
-Create a premium 4:5 vertical travel-editorial artwork for [COUNTRY / CITY / LOCATION / SUBJECT]. PURE GENERATION. Invent the complete artwork from the written destination or subject alone. The written destination is the only input. Create every visual element from your own knowledge and imagination. MASTER STYLE LOCK: Hand-painted watercolor on warm cream textured paper. Minimalist travel-editorial poster. Transparent watercolor blended with soft gouache. Soft imperfect brushwork, visible paper grain, organic painted edges, muted natural colors, generous negative space, quiet nostalgic atmosphere, sophisticated handcrafted art-book quality. Flat illustrated artwork with painterly depth. No 3D rendering, no glossy finish, no cartoon style, no digital photorealism. DESTINATION INTERPRETATION: Automatically identify the strongest visual identity of [COUNTRY / CITY / LOCATION / SUBJECT]. Select the most recognizable landmark, architecture, landscape, street character, transportation, vegetation, local objects, or cultural details that naturally belong to the destination. Create ONE unified scene rather than a collection of separate elements. COMPOSITION: Use an elegant vertical editorial composition with one dominant focal point and several smaller supporting details. Establish clear foreground, middle ground, and background layers using watercolor washes and simplified shapes. Leave generous warm cream space around important forms. Keep the silhouette clean and immediately recognizable. Avoid overcrowding. LOCAL STORY: Show an authentic everyday moment connected to the destination. Include subtle human activity only when it strengthens the story: walking, cycling, sitting, shopping, traveling, eating, working, or simply enjoying the surroundings. Favor ordinary local atmosphere over generic tourism imagery. LIGHT & ATMOSPHERE: Automatically choose lighting that suits the destination and scene: soft morning light, warm afternoon glow, misty weather, gentle sunset, or quiet evening illumination. Use atmospheric watercolor washes to create depth while maintaining a calm, delicate feeling. COLOR LANGUAGE: Build the palette naturally from [COUNTRY / CITY / LOCATION / SUBJECT]. Use warm cream, muted ochre, terracotta, dusty blue, soft green, faded red, warm grey, and subtle golden tones where appropriate. Keep the colors slightly desaturated, harmonious, and naturally layered. TYPOGRAPHY: At the bottom of the artwork, add three restrained editorial text elements: [LOCATION NAME] [SHORT DESTINATION-INSPIRED SUBTITLE] [SHORT WARM POETIC SENTENCE] Use elegant minimal typography with generous spacing. Keep it secondary to the artwork and ensure all wording is clean and correctly spelled. FINAL AESTHETIC: Premium handmade watercolor travel poster × contemporary editorial illustration × nostalgic travel memory × quiet everyday life × sophisticated art-book design. The finished artwork should feel like a beautifully remembered place painted by hand: atmospheric, personal, refined, understated, and unmistakably connected to [COUNTRY / CITY / LOCATION / SUBJECT]. AVOID: Any editing workflow, source material, references, existing compositions, copied imagery, collage construction, unrelated landmarks, generic scenery, excessive detail, oversaturated colors, harsh outlines, glossy digital effects, CGI, 3D objects, cartoon characters, clutter, excessive typography, logos, watermarks, interface elements. FORMAT: 4:5 vertical portrait composition, warm cream paper, handcrafted watercolor texture, generous negative space, premium print-quality finish.
+Create an ultra-realistic cinematic street photography image of [LANDMARK / CITY / COUNTRY], inspired by the nostalgic atmosphere of old Japanese neighbourhoods. Instead of presenting the landmark as a typical tourist postcard, capture an authentic everyday street corner near the iconic location. Include traditional wooden architecture, weathered shopfronts, hanging fabric signs, glowing red lanterns, vintage bicycles parked along the pavement, handwritten menus, narrow stone walkways, overhead utility pipes and subtle cultural details unique to the destination. The iconic landmark should be naturally visible in the background or subtly integrated into the street composition, recognizable but not dominating the frame. Photography style: Premium editorial travel photography, eye-level perspective, candid documentary composition, rich architectural textures, natural imperfections, cinematic shadows, muted earthy tones, warm amber highlights, deep charcoal shadows and subtle film grain. Mood: Quiet nostalgia, authentic local life, timeless urban beauty, intimate travel journal aesthetic. Camera: Full-frame DSLR, 35mm lens, natural available light, realistic depth, exceptional detail, photorealistic textures. Vertical 4:5 composition. No artificial HDR, no exaggerated colours, no cartoon effects, no generic tourist-poster styling.
 ```
 
-By [@Goodmanprotocol](https://x.com/Goodmanprotocol/status/2108199004546933097)
-
----
-
-<a id="evolink-travel-journals-case-196"></a>
-
-## Travel Photo and Open Journal
-
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2107760162387939328.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2107760162387939328.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Create a premium 3:4 vertical editorial travel-memory poster for [COUNTRY / CITY / LOCATION / SUBJECT]. TEXT-TO-IMAGE ONLY — generate the entire artwork creatively from [COUNTRY / CITY / LOCATION / SUBJECT] alone. No reference image required. COMPOSITION Divide the poster into two perfectly equal horizontal halves with no gap. TOP HALF — CINEMATIC PHOTOGRAPH Create a wide horizontal, photorealistic travel photograph representing [COUNTRY / CITY / LOCATION / SUBJECT]. Automatically choose the most meaningful subject, architecture, landscape, or moment associated with the destination. The image must feel like an authentic editorial photograph: natural perspective, realistic lighting, subtle color grading, strong central subject, cinematic atmosphere, and believable environmental details. BOTTOM HALF — OPEN-BOOK JOURNAL Create one fully opened horizontal hardcover photography book centered in the lower half, viewed almost from above with slight realistic perspective. The book should occupy roughly 86% of the lower-half width. The spine must sit exactly in the center, with perfectly equal left and right pages. Show realistic paper edges, thickness, spine curvature, soft shadows, and premium tactile paper. LEFT PAGE Fill the entire left page with one dominant color naturally extracted from the destination’s visual identity. Place a smaller horizontal landscape photograph at the center of the page, showing the same destination or subject from the upper scene. Keep it rectangular, clean, and surrounded by an even generous border. RIGHT PAGE Use warm ivory paper with abundant negative space. At the upper center, add one elegant 3–5 word ALL-CAPS English title inspired by the mood of the destination. Use small black typewriter-style serif lettering with subtle letter spacing. Below it, place ONE perfectly upright vintage vertical postage stamp. Give it a cream perforated border, subtle paper texture, and a delicate shadow. Inside the stamp, do not simply reproduce the main photograph. Instead, reinterpret 2–4 recognizable elements from the destination as a playful editorial illustration using bold hand-drawn black outlines, simplified shapes, and ONE bright accent color drawn from the scene. Below the stamp, add two short centered lines of gentle poetic English text. BACKGROUND Outside the open book, create a softly blurred continuation of the destination’s environment. Preserve only its general colors, light, and atmosphere while keeping individual objects indistinct. STYLE Cinematic travel photography × contemporary photography monograph × open-book visual diary × vintage postage illustration × minimalist editorial design. Warm, quiet, sophisticated, tactile, intimate, and collectible. PRIORITIES Perfect 50/50 top-bottom division → perfectly centered book spine → equal pages → strong horizontal photography → intact upright stamp → generous negative space. Avoid portrait-oriented photo panels, blurred side bars, stretched imagery, invented landmarks, distorted architecture, uneven pages, tilted or cropped books, multiple stamps, excessive decoration, clutter, logos, watermarks, UI elements, or unnecessary typography. FORMAT 3:4 vertical, two equal halves, premium editorial photography, realistic open-book construction, refined typography, cohesive travel-journal aesthetic.
-```
-
-By [@Goodmanprotocol](https://x.com/Goodmanprotocol/status/2107760212962898088)
-
----
-
-<a id="evolink-travel-journals-case-197"></a>
-
-## Travel Landscape and Miniature Diorama
-
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2107675180701241344.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2107675180701241344.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Create a premium 3:4 vertical editorial travel poster for [COUNTRY / CITY / LOCATION / SUBJECT]. TEXT-TO-IMAGE ONLY — generate the entire artwork creatively from [COUNTRY / CITY / LOCATION / SUBJECT] alone. No reference image required. COMPOSITION Divide the poster into two seamless stacked halves with no gap. TOP HALF: Create a full-width photorealistic cinematic travel scene representing [COUNTRY / CITY / LOCATION / SUBJECT]. Automatically choose its most recognizable architecture, surroundings, atmosphere, materials, colors, and natural lighting. Treat this as the authentic photographic view of the destination. BOTTOM HALF: Transform the same scene into a highly detailed isometric miniature diorama viewed from approximately a 45° elevated angle. Rebuild the recognizable architecture, streets, landscape, vegetation, and surrounding elements as a physically believable miniature world on a thin dark-gray rectangular base slab. Maintain visual continuity between the upper photograph and lower diorama — same architecture, same environment, same lighting mood, and recognizable details — while making the lower section clearly handcrafted as a miniature. EDITORIAL LAYOUT Place the diorama toward the lower-right area, leaving generous warm off-white negative space around it. Use thin dark-navy sans-serif typography in the empty space: - a poetic 3-line uppercase title - “/” - a short 4-line travel verse - bottom-left: “001” followed by a thin horizontal rule and [CITY / COUNTRY] - bottom-right: a thin horizontal rule followed by accurate GPS coordinates Automatically determine the appropriate city, country, landmark, and coordinates from [COUNTRY / CITY / LOCATION / SUBJECT]. STYLE Photorealistic travel photography × hyper-detailed architectural miniature × premium editorial design × quiet luxury travel journal. Use realistic materials, miniature-scale details, natural shadows, subtle depth of field, warm off-white paper, restrained dark-navy typography, and sophisticated negative space. The lower diorama must feel physically constructed rather than like a flat illustration — tiny buildings, roads, vegetation, textures, shadows, and architectural details should have believable scale and depth. FINAL AESTHETIC Minimal, intelligent, atmospheric, collectible, and highly refined — a contemporary travel journal combining the real destination with its miniature architectural memory. Avoid collage seams, separate unrelated scenes, generic architecture, invented landmarks, excessive typography, glossy CGI, cartoon styling, clutter, logos, watermarks, borders, and UI elements. FORMAT 3:4 vertical, two stacked halves, no gap, upper photorealistic destination scene, lower isometric miniature diorama, premium editorial finish.
-```
-
-By [@Goodmanprotocol](https://x.com/Goodmanprotocol/status/2107675234858131544)
+By [@Naiknelofar788](https://x.com/Naiknelofar788/status/2118968665769197976)
 
 ---
 
@@ -102,70 +54,6 @@ By [@ozansihay](https://x.com/ozansihay/status/2107544398531637407)
 
 ---
 
-<a id="evolink-travel-journals-case-200"></a>
-
-## Italian Coast and French Estate
-
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2106906610828537856.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2106906610828537856.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Create a premium cinematic travel editorial artwork combining the two uploaded references into one cohesive destination story. Blend the colorful Italian Mediterranean coastal village with an elegant French countryside château and formal rose garden. The main composition should feature a dramatic cliffside coastal village with tightly packed pastel houses, terracotta rooftops, rugged rocky cliffs, deep blue Mediterranean water, small boats, and a bright peaceful sky. Seamlessly transition the scene into a grand historic European château surrounded by beautifully maintained symmetrical gardens, trimmed hedges, blooming pink and white roses, lavender, stone pathways, and lush countryside stretching into the distance. Include a stylish woman seen naturally from behind, wearing a refined cream/beige long coat, flowing light-colored outfit, elegant wide-brimmed straw hat, and carrying a small woven handbag as she walks quietly through the garden. Keep her pose graceful and candid, with realistic proportions. The artwork should use the same photo-to-watercolor travel-poster concept as the references: upper section highly realistic cinematic photography with natural textures and lighting, gradually transforming into delicate hand-painted watercolor toward the lower section. Add subtle watercolor splashes around the edges on warm textured off-white paper. Use soft sunlight, sophisticated pastel tones, atmospheric depth, fine architectural details, realistic water reflections, elegant European travel mood, nostalgic luxury editorial styling, 8K detail, beautifully balanced composition. Add refined handwritten typography near the bottom: “COASTAL DREAM” and beneath it in smaller elegant lettering: “A QUIET ESCAPE” Minimal, sophisticated, timeless travel-journal aesthetic, no clutter, no distorted buildings, no unnecessary text.
-```
-
-By [@KrishnaBio1](https://x.com/KrishnaBio1/status/2106906926726717843)
-
----
-
-<a id="evolink-travel-journals-case-201"></a>
-
-## Double-Exposure Travel Silhouette
-
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2106607088252428288.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2106607088252428288.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Create a premium cinematic travel poster in a sophisticated double-exposure / silhouette collage style. A stylish young adult woman walking toward the right side of the frame, wearing a beige wide-brimmed safari hat, dark sunglasses, elegant white oversized button-up shirt with rolled sleeves, high-waisted cream trousers, white sneakers, and a small brown leather crossbody bag. Preserve realistic human proportions and natural walking posture. Behind and partially merged into the woman’s silhouette is a breathtaking golden Sahara desert landscape at sunset: vast rolling sand dunes, dramatic layered mountains, warm orange sunlight, a glowing sun near the horizon, palm trees surrounding a small desert oasis, traditional desert village architecture, ancient stone towers, tents, and a small camel caravan crossing the dunes. The desert landscape forms an artistic human-profile silhouette on the left side, seamlessly blending into the woman's walking composition on the right. Elegant paint-splash and ink-brush edges around the landscape, subtle dust particles, soft atmospheric haze, warm golden-hour lighting, luxury travel editorial aesthetic, sophisticated minimal composition. Background: clean warm ivory/cream paper texture with large negative space on the right and lower area. High-end tourism campaign poster, artistic commercial photography, photorealistic desert details, realistic fabric texture, cinematic depth, refined composition, premium magazine advertising style. Composition: vertical 4:5, full-body woman on the right, desert silhouette dominating the left, balanced negative space, clean edges, no text, no logo, no watermark, ultra-detailed, high resolution.
-```
-
-By [@AiwithLariab](https://x.com/AiwithLariab/status/2106607115733553225)
-
----
-
-<a id="evolink-travel-journals-case-202"></a>
-
-## Kinosaki and Hakone Hot Spring Art
-
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2106415928753963008.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2106415928753963008.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Create a cinematic, ultra-realistic travel editorial scene inspired by the uploaded references, blending the atmosphere of Kinosaki and Hakone, Japan into one cohesive composition. Show a peaceful traditional Japanese onsen town at evening, with narrow stone streets, elegant wooden ryokan buildings, dark tiled roofs, warm glowing paper lanterns, small traditional shops, noren curtains, and a quiet flowing canal lined with graceful willow trees. Add a misty mountain landscape in the background, with subtle steam rising from hot-spring vents and a calm, authentic Japanese atmosphere. Include a small group of naturally dressed travelers walking through the street, with realistic proportions and candid body language. Combine the warm lantern-lit nighttime mood of Kinosaki with the tranquil misty hot-spring atmosphere of Hakone. Use soft cinematic lighting, realistic textures, gentle reflections on the water, atmospheric depth, natural colors, and highly detailed architecture. Present the final artwork as a premium vintage travel-poster / watercolor art-book composition: the upper/main scene should feel photographic and photorealistic, while the lower portion gradually transforms into delicate hand-painted watercolor with artistic paint splashes and textured off-white paper. Keep the transition seamless and elegant. Add refined handwritten-style typography at the bottom: “KINOSAKI — LANTERN NIGHTS” “HAKONE — QUIET ONSEN STREETS” Minimal, sophisticated Japanese travel aesthetic, nostalgic winter/early-evening mood, editorial composition, 8K detail, realistic photography blended with refined watercolor illustration, no clutter, no distorted architecture, no extra text.
-```
-
-By [@KrishnaBio1](https://x.com/KrishnaBio1/status/2106416165241418042)
-
----
-
-<a id="evolink-travel-journals-case-203"></a>
-
-## Istanbul and Venice Watercolors
-
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2106326192421064704.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2106326192421064704.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Create a single elegant vintage watercolor travel poster that beautifully combines the atmosphere of Istanbul, Turkey and Venice, Italy into one cohesive artistic scene. Blend Istanbul’s magnificent Ottoman mosques, elegant domes, tall slender minarets, Bosphorus waterfront, small ferries and sailboats with Venice’s historic Venetian buildings, Grand Canal, Rialto-style stone bridge, gondolas and romantic waterways. Use a refined hand-painted watercolor illustration style on textured warm ivory paper, with soft blue, muted teal, warm beige, dusty lavender and subtle terracotta tones. Add natural watercolor splashes, paint bleeds, delicate ink details and slightly imperfect hand-painted edges around the main composition. The architecture should be highly detailed yet artistic, with realistic reflections across the water, atmospheric distant buildings, gentle sunlight, elegant boats and a peaceful travel-diary feeling. Make Istanbul and Venice visually merge through the waterways so the whole artwork feels like one magical city where two historic worlds meet, not two separate pictures. Add sophisticated handwritten-style typography at the bottom: “ISTANBUL & VENICE” and underneath in smaller elegant script: “Where Worlds Meet • Cities on Water” Overall look: luxury vintage travel poster, European travel journal, premium watercolor artwork, nostalgic, artistic, sophisticated, highly detailed, cinematic composition, realistic watercolor texture, 8K quality.
-```
-
-By [@KrishnaBio1](https://x.com/KrishnaBio1/status/2106326234322059308)
-
----
-
 <a id="evolink-travel-journals-case-204"></a>
 
 ## Natural Pool Travel Journal
@@ -179,86 +67,6 @@ Create a premium travel journal poster combining a realistic photograph with a d
 ```
 
 By [@KrishnaBio1](https://x.com/KrishnaBio1/status/2105858125752623434)
-
----
-
-<a id="evolink-travel-journals-case-205"></a>
-
-## Subway and Mountain Lake Travel Art
-
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2105011817076674560.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2105011817076674560.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Create a premium vertical travel-art editorial poster by creatively mixing the visual properties of both reference images. Combine a bright, modern city metro/subway interior with a peaceful alpine lakeside summer scene. The composition should feel like one cohesive travel journal page: the upper section features a clean, spacious metro carriage with white interiors, large windows, blue-and-yellow seats, overhead hand straps, soft natural daylight and a quiet empty atmosphere. Transition naturally into the lower section showing a turquoise mountain lake, dramatic green mountains, rocky shoreline, fresh green grass, a few relaxed people enjoying the lakeside and a clear blue summer sky. Preserve the realistic photographic quality in the main scenes while blending into a refined hand-painted watercolor illustration toward the lower portion. Use warm off-white textured paper around the artwork, subtle vintage travel-poster styling, elegant minimal composition, soft natural colors, realistic details, delicate watercolor brushwork, cinematic depth, peaceful summer mood and sophisticated editorial aesthetics. Add tasteful typography near the bottom: “CITY TO LAKE” and a smaller subtitle: “a quiet summer journey” Vertical 4:5 composition, high detail, photorealistic + watercolor fusion, premium travel magazine aesthetic, balanced layout, clean typography, no unnecessary objects, no distorted people, no extra text.
-```
-
-By [@KrishnaBio1](https://x.com/KrishnaBio1/status/2105086976022188110)
-
----
-
-<a id="evolink-travel-journals-case-207"></a>
-
-## Amsterdam Canal Travel Art
-
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2104369582614216704.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2104369582614216704.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Create a vertical 9:16 luxury travel-art poster featuring a peaceful Amsterdam canal scene. In the upper section, show a realistic black Dutch bicycle parked beside a narrow canal, with a woven front basket filled with fresh red roses. Surround it with classic Amsterdam brick canal houses, bicycles along the waterfront, a small arched bridge, calm reflective water, soft overcast daylight, and natural cinematic depth. The lower section should transform the same scene into a delicate hand-painted watercolor illustration, keeping the bicycle, red roses, canal, bridge, buildings, and overall composition recognizable. Use soft paper texture, subtle watercolor washes, elegant travel-journal aesthetics, and refined artistic details. Keep the composition clean with warm off-white paper margins. Add elegant handwritten-style text at the bottom: “amsterdam - a bicycle and roses” with a thin minimal line underneath. Photorealistic upper image + soft watercolor lower illustration, sophisticated European travel poster, premium editorial design, highly detailed.
-```
-
-By [@KrishnaBio1](https://x.com/KrishnaBio1/status/2104369643146346759)
-
----
-
-<a id="evolink-travel-journals-case-208"></a>
-
-## Male Traveler Double Exposure
-
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2104183816990629888.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2104183816990629888.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Create a premium travel-themed double-exposure silhouette poster on a clean warm-white background. A young male traveler is shown in a full-body side-profile walking pose, facing right. He wears a burgundy baseball cap, dark sunglasses, a burgundy open shirt over a plain white T-shirt, fitted blue jeans, white sneakers, and a black backpack. Natural confident walking posture, realistic masculine anatomy, photorealistic face and clothing details. Behind and around the man, create a large artistic silhouette of a male traveler wearing a baseball cap, filled with a breathtaking travel photograph. Inside the silhouette, show an Indian riverside temple at golden sunset, with a tall detailed historic temple, warm orange sunlight, river reflections, boats, riverside architecture and atmospheric evening light. The travel photograph must be perfectly contained inside the male head-and-upper-body silhouette, creating a sophisticated double-exposure / photo-within-silhouette effect. Add expressive burgundy, navy-blue and pale watercolor ink splashes spreading naturally from the bottom edges of the composition, blending elegantly with the silhouette and travel scene. COMPOSITION: Centered vertical poster, full-body male traveler in the foreground, oversized male cap-and-head silhouette behind him, strong visual hierarchy, generous warm-white negative space, balanced professional graphic-design composition, elegant premium travel-poster layout. STYLE: Luxury travel advertisement, editorial poster design, cinematic photography, photorealistic, high detail, warm golden-hour lighting, realistic water reflections, subtle watercolor texture, premium commercial artwork, clean edges, sophisticated double exposure. CHARACTER CONSISTENCY: The foreground male and the large silhouette must clearly represent the same person. Preserve consistent facial structure, hairstyle, skin tone, body proportions, clothing, burgundy cap and sunglasses. Natural realistic masculine appearance. TECHNICAL: Ultra-detailed, sharp subject, realistic skin texture, realistic fabric texture, natural shadows, high dynamic range, professional color grading, 4K, polished advertising artwork, premium print-poster quality. NEGATIVE PROMPT: blurry, low resolution, distorted face, extra fingers, extra limbs, bad anatomy, duplicate person, warped body, feminine facial features, cartoon, anime, 3D render, oversaturated colors, messy composition, excessive text, watermark, logo, artificial-looking skin, deformed hands, distorted clothing, poorly contained double exposure.
-```
-
-By [@AiWithTariq](https://x.com/AiWithTariq/status/2104183973991817236)
-
----
-
-<a id="evolink-travel-journals-case-209"></a>
-
-## Three-Photo Art Book Series
-
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2104135784614051840.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2104135784614051840.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Use all three uploaded images as the EXACT visual references. Recreate the three original scenes faithfully as a single cohesive premium editorial art-book poster collection, preserving the visual identity, composition, subjects, objects, architecture, café elements, camera perspectives, framing, lighting, colors, proportions, and atmosphere of each reference image. Do NOT redesign, replace, add, remove, merge, or reinterpret any major element from the three original scenes. Each scene must remain clearly recognizable and faithful to its respective reference image. STRICT 3:4 vertical format. Create a sophisticated three-part editorial poster composition, with each of the three original scenes presented as a distinct visual section while maintaining one consistent premium art-book aesthetic. SCENE 1 — VIENNA: Faithfully preserve the original Vienna café scene, including the red rose in the clear glass vase, white coffee cup and saucer with latte art, slice of chocolate cake with cream, silver cutlery, folded napkins, rustic wooden café table, decorative black metal railing, outdoor café seating, potted plants, softly blurred historic European buildings, street, natural depth of field, warm ambient lighting, and exact spatial relationships. SCENE 2 — ISTANBUL: Faithfully preserve the original Istanbul café scene, including the red rose in the clear glass vase, traditional Turkish tea in the tulip-shaped glass, silver spoon and saucer, rustic wooden café table, folded napkin, outdoor café seating, potted plants, historic buildings on both sides of the narrow cobblestone street, the centered Galata Tower in the distance, pedestrians, storefronts, natural sunlight, and exact spatial relationships. SCENE 3 — PRAGUE: Faithfully preserve the original Prague café scene, including the red rose in the clear glass vase, white coffee cup and saucer, spoon, folded napkin, rustic wooden café table, café chairs, potted red flowers, historic European buildings, cobblestone pavement, softly blurred distant architecture and street, warm natural lighting, and exact spatial relationships. PHOTOGRAPHIC TREATMENT: Keep the original photographic portions almost completely unchanged. Preserve all original objects, architecture, food and drinks, flowers, tables, streets, perspective, depth of field, lighting, and composition. Apply only subtle cinematic editorial color grading, natural contrast, refined tonal balance, realistic textures, and premium film texture. ILLUSTRATION TREATMENT: For each of the three scenes, create a small centered minimalist handmade-paper illustration based ONLY on the recognizable elements belonging to that specific original scene. For Vienna: the red rose, coffee cup, chocolate cake, café table, railing, chairs, plants, and historic European street. For Istanbul: the red rose, Turkish tea glass, café table, Galata Tower, historic Istanbul buildings, cobblestone street, storefronts, and café details. For Prague: the red rose, coffee cup, café table, chairs, potted flowers, cobblestone street, and historic Prague architecture. Use delicate imperfect ink lines, simple refined flat shapes, organic handmade edges, subtle paper grain, and restrained palettes extracted directly from each original photograph. Keep the illustrations elegant and understated, with generous warm ivory/off-white negative space around them. Maintain a consistent premium handmade editorial art-book language across all three scenes while keeping each location visually distinct and faithful to its reference. Optional typography: Use very small refined editorial serif or delicate handwritten-style typography beneath each corresponding scene: “vienna - a rose at the cafe” “istanbul - a rose at the cafe” “prague - a rose at the cafe” Keep all typography minimal, elegant, subtle, and museum-quality. Overall aesthetic: independent art-book cover, premium editorial photography, quiet storytelling, poetic, sophisticated, timeless, handcrafted, minimal, European travel journal, refined museum-quality presentation. Color direction: warm ivory paper, muted architectural neutrals, natural greens, restrained reds from the roses, warm coffee and tea tones, subtle cinematic shadows. Avoid excessive saturation. Composition: Keep the three locations clearly separated and recognizable. Do not blend the architecture, objects, food, drinks, landmarks, or visual identities between the scenes. Each reference should retain its own original visual story while the complete poster feels like one cohesive luxury art-book collection. Avoid: cartoon style, anime, watercolor-heavy appearance, colored-pencil effect, 3D rendering, glossy graphics, excessive decoration, busy layout, oversaturated colors, artificial architecture, distorted landmarks, distorted food or drinks, extra roses, extra cups, extra tables, extra people, extra animals, altered identities, incorrect perspective, merged locations, or commercial advertising aesthetics. Most important requirement: Preserve the original visual identity and composition of ALL THREE uploaded images with maximum fidelity. Do not change the recognizable scenes, objects, architecture, roses, drinks, café tables, streets, landmarks, perspectives, or spatial relationships. The final result should feel like a premium handcrafted editorial art-book interpretation of the SAME three original photographs, not a newly invented scene.
-```
-
-By [@KrishnaBio1](https://x.com/KrishnaBio1/status/2104135877220028666)
-
----
-
-<a id="evolink-travel-journals-case-210"></a>
-
-## Ancient Egypt Travel Double Exposure
-
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2104065763535679488.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2104065763535679488.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Create a premium cinematic historical-travel double-exposure silhouette poster on a clean warm-white background. A young female traveler is shown in a full-body side-profile walking pose, facing right. She wears a cream linen shirt, fitted beige trousers, a tan wide-brim travel hat, subtle round sunglasses and white sneakers, carrying a small vintage leather crossbody bag. Natural elegant walking posture, realistic feminine anatomy, photorealistic face and clothing details. Behind and around the woman, create a large artistic silhouette of the SAME female traveler. The oversized silhouette must clearly match her facial profile, hat, hairstyle, skin tone and body proportions. Inside the oversized female head-and-upper-body silhouette, reveal a breathtaking ancient Egyptian landscape at sunset. Show the Great Pyramids rising from the golden desert, the Sphinx in the foreground, distant palm trees, a small caravan of camels, warm orange sunlight, atmospheric desert dust and a dramatic golden sky. Add subtle reflections of warm sunlight across the sand. The entire Egyptian landscape must be perfectly contained inside the female silhouette, creating a sophisticated photo-within-silhouette double-exposure effect. Add elegant sand-beige, burnt-orange, deep navy and muted gold watercolor ink splashes spreading naturally from the lower edges and subtly merging with the desert scene. COMPOSITION: Centered vertical luxury travel poster, full-body female traveler in the foreground, oversized matching female silhouette behind her, strong visual hierarchy, generous warm-white negative space, sophisticated editorial layout. STYLE: Luxury historical travel campaign, cinematic photography, photorealistic desert landscape, premium editorial poster, golden-hour lighting, realistic architectural detail, atmospheric depth, subtle watercolor texture, sophisticated double exposure. CHARACTER CONSISTENCY: The foreground woman and oversized silhouette MUST clearly represent the exact same person. Preserve identical facial structure, hairstyle, skin tone, body proportions, hat, sunglasses and clothing. TECHNICAL: Ultra-detailed, photorealistic, realistic skin and fabric texture, realistic sand, natural shadows, cinematic lighting, high dynamic range, professional color grading, 4K, premium print-poster quality. NEGATIVE PROMPT: blurry, low resolution, distorted face, different person, duplicate person, extra limbs, extra fingers, bad anatomy, masculine features, cartoon, anime, 3D render, unrealistic pyramids, oversaturated colors, messy composition, desert outside silhouette, poorly contained double exposure, warped clothing, watermark, logo, excessive text.
-```
-
-By [@Kubra\_286](https://x.com/Kubra_286/status/2104065786142916926)
 
 ---
 
@@ -278,38 +86,6 @@ By [@KrishnaBio1](https://x.com/KrishnaBio1/status/2103772396486308259)
 
 ---
 
-<a id="evolink-travel-journals-case-215"></a>
-
-## Female Traveler Double Exposure
-
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2103696129615683584.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2103696129615683584.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Create a premium travel-themed double-exposure silhouette poster on a clean warm-white background. A young female traveler is shown in a full-body side-profile walking pose, facing right. She wears a burgundy baseball cap, dark sunglasses, burgundy open shirt over a plain white T-shirt, fitted blue jeans, white sneakers, and a black backpack. Natural confident walking posture, realistic anatomy, photorealistic face and clothing details. Behind and around the woman, create a large artistic silhouette of a female traveler wearing a baseball cap, filled with a breathtaking travel photograph. Inside the silhouette, show an Indian riverside temple at golden sunset, with a tall detailed historic temple, warm orange sunlight, river reflections, boats, riverside architecture and atmospheric evening light. The travel photograph should be perfectly contained inside the silhouette, creating a sophisticated double-exposure / photo-within-silhouette effect. Add expressive burgundy, navy-blue and pale watercolor ink splashes spreading naturally from the bottom edges of the composition, blending with the silhouette and travel scene. Composition: centered vertical poster, full-body traveler in foreground, oversized cap-and-head silhouette behind her, strong visual hierarchy, generous white negative space, balanced professional graphic-design composition. Style: luxury travel advertisement, editorial poster design, cinematic photography, photorealistic, high detail, warm golden-hour lighting, realistic water reflections, subtle watercolor texture, premium commercial artwork, clean edges, sophisticated double exposure. Technical: ultra-detailed, sharp subject, realistic skin texture, realistic fabric, natural shadows, high dynamic range, professional color grading, 4K, polished advertising artwork. Negative Prompt: blurry, low resolution, distorted face, extra fingers, extra limbs, bad anatomy, duplicate person, warped body, cartoon, anime, 3D render, oversaturated colors, messy composition, excessive text, watermark, logo, artificial-looking skin.
-```
-
-By [@Arina\_hoqe](https://x.com/Arina_hoqe/status/2103696199488520632)
-
----
-
-<a id="evolink-travel-journals-case-216"></a>
-
-## Skyward Travel Double Exposure
-
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2103694972910456832.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2103694972910456832.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-A breathtaking surreal double-exposure fine-art photograph and masterwork cinematic composite featuring an adventurous, reflective traveler with the uploaded face as reference, depicted in a dramatic low-angle three-quarter profile with their neck gently extended and gaze cast reverently upward toward the sky. The character is dressed in a travel-worn, dusty khaki button-down utility shirt with rolled sleeves and textured denim trousers, carrying a heavy weathered expedition backpack. Seamlessly integrated and blending directly into the wanderer’s torso, jacket, and pack is an enchanting, luminous miniature landscape centered around a colossal, incandescent golden sunset that bathes the scene in warm radiant amber brilliance. Within this surreal chest portal, a winding path of stone steps ascends toward the blazing horizon, flanked by the dark silhouette of an ancient acacia tree and fiery autumn groves of deep orange and crimson foliage that disintegrate into floating embers, billowing dust clouds, and miniature flying bird silhouettes drifting into the open air. Soaring through the surrounding atmosphere are two photorealistic, glossy black ravens with meticulously rendered wing feathers and sharp talons, one carving dynamically across the left foreground and the other descending from the upper right amid ethereal tendrils of gray smoke. The backdrop consists of expansive, muted slate-blue overcast clouds with soft diffused daylight, establishing a poignant color temperature juxtaposition between the cool, cinematic ambient exterior and the molten, hyper-saturated warm glow emanating from the core. Captured from a low-angle medium shot with a prime 85mm portrait lens, deep depth of field rendering crisp tactile details from the rugged cotton weave and feathered edges to the dynamic particulate clouds, featuring high-contrast cinematic color grading, balanced chiaroscuro lighting, and poetic surrealist visual storytelling.
-```
-
-By [@AiWithTariq](https://x.com/AiWithTariq/status/2103695262522696075)
-
----
-
 <a id="evolink-travel-journals-case-218"></a>
 
 ## Clear Pool Travel Journal
@@ -323,6 +99,230 @@ Create a refined editorial travel-art composition based on the uploaded referenc
 ```
 
 By [@KrishnaBio1](https://x.com/KrishnaBio1/status/2103515142495551767)
+
+---
+
+<a id="evolink-travel-journals-case-223"></a>
+
+## Four-Part Watercolor Travel Journal
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2102792836559122432.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2102792836559122432.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+Create a refined luxury editorial travel-art composition inspired by all four reference photographs, seamlessly combining four distinct travel moments into one sophisticated vertical travel journal artwork: Dubai coastline with the iconic sail-shaped Burj Al Arab and a stylish woman in a beige trench coat during golden hour; Icelandic snowy mountains beneath a dramatic glowing green and violet Northern Lights sky, with the woman wearing a warm beige knit beanie, turtleneck and coat; lush tropical Bali rice terraces surrounded by palm trees and misty green mountains, with the woman in a beige trench coat and soft cream knitwear; and a dreamy tropical island setting with turquoise ocean, traditional overwater thatched villas, palm trees and a dramatic volcanic mountain in the background, with the woman wearing a beige trench coat over a black top. Upper section: create a sophisticated realistic cinematic travel photography sequence that naturally blends these four destinations while keeping each environment visually recognizable and beautifully composed. Preserve the woman’s facial identity, facial proportions, hairstyle, skin tone, expression and overall appearance consistently across the different scenes. Authentic candid travel photography, natural realistic lighting appropriate to each destination, subtle film grain, detailed textures, realistic skin and clothing, atmospheric depth, elegant muted color grading, premium high-end travel magazine photography, cinematic composition, refined European-editorial travel aesthetic. Lower section: transform the exact same four travel scenes into delicate handmade watercolor illustrations, maintaining the recognizable landscapes, architecture, mountains, ocean, rice terraces, Burj Al Arab, Northern Lights, overwater villas, palm trees, clothing, poses and overall composition from the photographic scenes. Use loose translucent watercolor washes, delicate ink outlines, soft pigment bleeding, imperfect hand-painted brushwork, visible paper texture, airy negative space, subtle pastel tones and naturally faded watercolor edges. Keep the woman recognizable and consistent across all four illustrated scenes. Arrange the four destinations as one harmonious artistic travel story rather than four unrelated images, with smooth visual transitions and balanced spacing. Surround the artwork with generous warm ivory/off-white textured handmade paper. Add a small elegant handwritten travel-journal caption near the bottom, such as “Four Places, One Journey” or “Wander Beyond the Ordinary”, followed by a thin minimalist horizontal line. Overall aesthetic: luxury travel journal, fine-art watercolor postcard, cinematic travel photography, nostalgic wanderlust, contemporary editorial design, sophisticated and serene, tactile handmade paper, premium art direction, elegant natural proportions, highly detailed realistic photography transitioning beautifully into airy watercolor artwork, clean composition, no clutter, no heavy borders, no unnecessary graphic elements. Portrait orientation, premium editorial layout, cohesive visual storytelling, realistic-to-watercolor transformation, sophisticated travel magazine quality, high detail.
+```
+
+By [@KrishnaBio1](https://x.com/KrishnaBio1/status/2102793013143412829)
+
+---
+
+<a id="evolink-travel-journals-case-229"></a>
+
+## Paris Watercolor Travel Journal
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2101465756567232512.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2101465756567232512.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+Create a beautiful Paris, France 2025 vintage watercolor travel scrapbook poster with the same elegant composition and artistic style. On the left side, feature the Eiffel Tower prominently beside the Seine River, classic Parisian buildings, stone bridges, river boats, trees and a soft atmospheric Paris skyline. The landmark and surroundings should look recognizable, detailed and beautifully painted in realistic watercolor. On the right side, place the same beautiful young woman with long, thick, naturally wavy dark-brown hair, wearing a light powder-blue knitted cardigan, cream/white top and flowing beige pleated skirt. She has a gentle natural smile, elegant minimal makeup, realistic facial details and a relaxed travel pose, looking slightly toward the Paris scenery. Keep her appearance natural and seamlessly blended into the watercolor travel-poster aesthetic. Use a warm aged-paper background with pastel blue, cream, beige and subtle pink watercolor washes. Decorate the edges with hand-painted flowers, leaves, small hearts, stars, birds, paper tape, clouds, a paper airplane, compass and delicate travel doodles. At the top center write “Paris • 2025” in elegant handwritten calligraphy. Bottom text should include “Eiffel Tower • Paris • 2025”, “Dreamy Paris afternoon”, “posing by the Seine”, “soft cozy day”, and “memories made”. Add a vintage postage-stamp label in the lower-right reading “PARIS • FRANCE • 2025”. Premium travel scrapbook, nostalgic handmade postcard, soft dreamy watercolor, realistic woman, detailed landmarks, elegant composition, high-resolution, 16:9 landscape.
+```
+
+By [@KrishnaBio1](https://x.com/KrishnaBio1/status/2101465897814962381)
+
+---
+
+<a id="evolink-travel-journals-case-230"></a>
+
+## Dubai Watercolor Travel Journal
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2101465756118532096.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2101465756118532096.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+Create a high-quality vintage watercolor travel scrapbook poster for Dubai, UAE, 2025, in a soft dreamy luxury travel-journal aesthetic. On the left side, show a beautiful detailed Dubai skyline featuring the Burj Khalifa, surrounding modern skyscrapers, Dubai Mall area, elegant architecture, turquoise fountain/water canal and palm trees, painted with realistic yet artistic watercolor textures. On the right side, place a beautiful young woman with long, thick, naturally wavy dark-brown hair, wearing a light powder-blue knitted cardigan over a cream/white top and a flowing beige pleated skirt. She has a soft natural smile, delicate facial features, minimal elegant makeup and a relaxed travel-photo pose, looking slightly toward the left. Keep her realistic and naturally integrated with the watercolor artwork. Use an aged cream paper background with subtle paper texture, pastel blue and warm beige watercolor washes, hand-painted flowers, leaves, tiny stars, hearts, birds, clouds, paper-tape elements, compass and small travel scrapbook decorations around the borders. At the top center write “Dubai • 2025” in elegant handwritten calligraphy. At the bottom include tasteful travel-journal text such as “Burj Khalifa • Dubai • 2025”, “Dreamy desert afternoon”, “golden city lights”, “unforgettable memories”, and “posing by the fountain”. Add a small vintage postage-stamp style label reading “DUBAI • UAE • 2025” in the bottom-right corner. Balanced composition, premium travel postcard, soft pastel colors, detailed watercolor illustration mixed with realistic portrait photography, elegant feminine aesthetic, nostalgic handmade scrapbook look, high detail, clean typography, 16:9 landscape.
+```
+
+By [@KrishnaBio1](https://x.com/KrishnaBio1/status/2101465893293392100)
+
+---
+
+<a id="freestylefly-case-11"></a>
+
+## 一张手绘风格的城市美食地图，以台州为主题
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case11.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case11.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+一张手绘风格的城市美食地图，以台州为主题。画面以鸟瞰视角的手绘简化城市地图为底，标注椒江、路桥、黄岩等区域和灵江、台州湾等水系地标，不追求精确比例而是追求可爱的水彩手绘感。地图上分布着12个美食地点的精致手绘小插画：1. 椒江老粮坊的蛋清羊尾（金黄蓬松的蛋泡甜点撒着糖粉，筷子夹起拉丝）2. 临海紫阳古街的食饼筒（一个饱满的麦饼卷切开露出肉丝、蛋皮、米面等丰富馅料）3. 三门的青蟹（一只肥硕的青壳大蟹张着大钳子，旁边一小碟姜醋）4. 温岭石塘渔港的海鲜面（粗瓷大碗浓白鱼汤面铺满虾、蛏子、小黄鱼）5. 路桥的糟羹（一锅稠厚的五彩羹，芥菜、冬笋、香干、牡蛎粒粒可见）6. 玉环坎门的炊圆（三四个白胖糯米团子卧在笼屉里，旁边酱油碟滴着麻油）7. 黄岩的麦虾（陶锅里面疙瘩配蛤蜊、青菜翻滚冒泡）8. 仙居的八大碗（八只粗陶小碗围成一圈——土鸡、溪鱼、豆腐皮俱全）9. 天台的饺饼筒（几卷金黄酥脆的薄饼整齐码放，露出红烧肉和豆面馅）10. 临海的麦油脂（竹盘上摊着薄如蝉翼的饼皮卷着肉末、豆芽、鸡蛋丝）11. 温岭的嵌糕（厚实的年糕饼中间嵌着红烧肉和油条，正在铁板上滋滋作响）12. 椒江的姜汁调蛋（一只青花碗里琥珀色姜汤卧着嫩滑蛋花，撒几粒核桃碎）。每个插画约占地图5%面积，旁边用手写体标注店名和一句推荐语如“阿婆凌晨四点就起来和面”“本地人认准这口锅”。地图边缘用手绘藤蔓、杨梅枝和小海鲜（虾、蟹、贝壳）装饰形成边框。右下角有一个手绘指南针（标注“东海”方向）和图例说明。左上角标题“台州·山海食光地图”使用胖圆的手绘美术字，用杨梅和小黄鱼点缀装饰。整体画风为水彩+彩铅混合的手绘质感，颜色以杨梅红、姜黄、海蓝、翠绿为主，图片比例1:1。
+```
+
+By [小红书号510244722](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-11)
+
+---
+
+<a id="freestylefly-case-229"></a>
+
+## 琉璃透明画眉鸟飞舞羊城墨卷
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case229.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case229.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+[中文] 【背景与骨架线条】 纯黑深邃底色，一条粗壮有力的墨色书法S型曲线自画面一端蜿蜒贯穿至另一端，笔触苍劲，墨迹浓淡有致，如大写意行笔，构成整幅画面的视觉骨架与叙事动线。 【主体：透明燕子】 曲线上方，一只展翅飞翔的画眉鸟占据视觉核心；身体呈玻璃透明质感，内部映射传统建筑群叠影，蓝绿色光流在透明羽翼间流转折射，仿佛时间长河与文明记忆凝缩其中；轮廓以极细金线勾边，增强立体感与神圣感。 【中景：古典建筑序列】 燕子下方，沿墨线曲线错落分布广州的各种风景名胜：白云山、陈家祠、双子塔、广州塔、猎德大桥、海珠塔依次浮现；主色调青绿与淡金，建筑细节清晰，琉璃瓦、飞檐翘角、石阶回廊；木棉花簇拥点缀于建筑周围，花瓣随风轻散，静谧而悠远；几朵水墨云朵轻盈飘浮其间，增添空灵层次。 【前景：白鹤与水面】 前景湖畔：数只白鹤或静立水边、或振翅腾飞，姿态各异，优雅从容；浅蓝湖面如镜，倒影荡漾，波光细碎，营造宁静氛围。 【远景：山峦】 远处山峦层叠起伏，青黛色晕染，墨色由浓至淡，朦胧氤氲，富有水墨层次；与前景形成近实远虚的空间纵深。 【构图与光影】 非线性透视构图，墨线曲线为叙事主轴，古今元素沿线嵌入；光源自画面中心向外辐射扩散，形成强烈明暗对比，中心亮、四周渐暗；冷色调主导（深蓝、青绿、银白），暖色点缀（樱花粉、淡金），和谐而神秘；东方美学与现代意象交融，超现实诗意意境。 【技术规格】 8K超高清渲染，极致细节精度，最佳画质，比例 9:16 [English] [ Background and Skeleton Lines ] Pure black deep background, a thick and powerful ink calligraphy S-shaped curve meanders from one end of the picture to the other, with vigorous brushstrokes and well-proportioned ink shades, like freehand brushwork, forming the visual skeleton and narrative dynamic line of the entire picture. [ Subject: Transparent Swallow ] Above the curve, a flying thrush with spread wings occupies the visual core; the body has a glass transparent texture, with overlapping shadows of traditional architectural complexes mapped inside, blue-green light flows circulate and refract between the transparent wings, as if the long river of time and civilized memories are condensed within it; the outline is bordered with extremely thin gold lines to enhance three-dimensionality and sacredness. [ Midground: Classical Architecture Sequence ] Below the swallow, various scenic spots in Guangzhou are scattered along the ink curve: Baiyun Mountain, Chen Clan Ancestral Hall, Twin Towers, Canton Tower, Liede Bridge, Haizhu Tower appear in sequence; the main tone is cyan-green and pale gold, architectural details are clear, glazed tiles, flying eaves, stone steps and corridors; kapok flowers cluster and decorate around the buildings, petals scatter lightly with the wind, quiet and distant; a few ink clouds float lightly among them, adding ethereal layers. [ Foreground: White Cranes and Water Surface ] Lakeside in the foreground: several white cranes either stand quietly by the water or flap their wings to soar, with different postures, elegant and calm; the light blue lake surface is like a mirror, reflections rippling, shimmering light, creating a tranquil atmosphere. [ Distance: Mountains ] Distant mountains rise and fall in layers, smudged in cyan-black, ink shades from thick to light, hazy and misty, rich in ink wash layers; forming a spatial depth with solid foreground and empty distance with the foreground. [ Composition and Light and Shadow ] Non-linear perspective composition, the ink curve is the main narrative axis, ancient and modern elements are embedded along the line; the light source radiates and diffuses outward from the center of the picture, forming a strong contrast between light and dark, bright in the center and gradually darkening around; cool tones dominate (dark blue, cyan-green, silver white), warm tones embellish (cherry blossom pink, pale gold), harmonious and mysterious; Eastern aesthetics blend with modern imagery, surreal poetic mood. [ Technical Specifications ] 8K ultra-high definition rendering, extreme detail precision, best image quality, ratio 9:16
+```
+
+By [@liyue\_ai](https://x.com/liyue_ai/status/2045873940883808523)
+
+---
+
+<a id="freestylefly-case-274"></a>
+
+## 成都吃货暴走手绘美食地图
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case274.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case274.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+[中文] 一张手绘风格的城市美食地图，以成都为主题。画面以鸟瞰视角的手绘简化城市地图为底，标注主要道路和地标但不追求精确比例而是追求可爱的手绘感。地图上分布着 12 个美食地点的精致手绘小插画：春熙路的串串香（一把竹签插着各种食材冒着热气）、宽窄巷子的三大炮（三个糯米团子飞向铜盘）、建设路的蛋烘糕（金黄酥脆正在翻面）、玉林路的火锅（九宫格锅翻滚冒泡）等，每个插画约占地图的 5% 面积，旁边用手写体标注店名和一句推荐语"凌晨两点还在排队的那家"。地图边缘用手绘藤蔓和辣椒装饰形成边框。右下角有一个手绘指南针和图例说明。左上角标题"成都·吃货暴走地图"使用胖圆的手绘美术字配辣椒装饰。整体画风为水彩+彩铅混合的手绘质感，颜色以暖色系（辣椒红、姜黄、翠绿）为主，图片比例 1:1。 [English] A hand-drawn style city food map themed around Chengdu. The background is a bird's-eye view hand-drawn simplified city map, marking main roads and landmarks, not pursuing precise proportions but pursuing a cute hand-drawn feel. Distributed on the map are exquisite hand-drawn small illustrations of 12 food locations: Chuandu Chuanxiang skewers at Chunxi Road (a bunch of bamboo skewers with various ingredients emitting steam), Sandapao at Kuanzhai Alley (three glutinous rice balls flying towards a copper plate), Danhonggao at Jianshe Road (golden and crispy, being flipped), hotpot at Yulin Road (nine-grid pot rolling and bubbling), etc. Each illustration accounts for about 5% of the map area, with handwritten store names and a recommendation phrase "the one with a queue even at 2 AM" next to it. The edge of the map is decorated with hand-drawn vines and chili peppers to form a border. There is a hand-drawn compass and legend description in the bottom right corner. The title "Chengdu · Foodie Walking Map" in the top left corner uses chubby round hand-drawn artistic fonts decorated with chili peppers. The overall art style is a mixed hand-drawn texture of watercolor and colored pencils, with colors mainly in warm tones (chili red, ginger yellow, emerald green), image ratio 1:1.
+```
+
+By [@Panda20230902](https://x.com/Panda20230902/status/2045396918965285111)
+
+---
+
+<a id="freestylefly-case-279"></a>
+
+## 裂痕里的水墨东方山水画卷
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case279.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case279.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+[中文] 极简新中式美学风格，画面以淡雅的灰白色为底，呈现出一种纸艺剪影般的立体感。 一条S形蜿蜒的裂痕状边缘将画面分割，仿佛撕开了一层纸面，露出内部色彩斑斓的东方山水景象。 裂口内，一条蜿蜒的河流自上而下贯穿整个构图，河水以深浅不一的蓝色渲染，层次分明，仿佛流动的丝带。 河岸两侧点缀着青翠的山丘与梯田，色彩柔和，绿红交织，展现出田园的宁静之美。 沿河而建的古风建筑错落有致，飞檐翘角，白墙黛瓦，在光影的映衬下更显古朴典雅。 岸边树木葱茏，枝叶轻盈，一艘小船静泊于水中央，增添了几分悠然意境。 整体构图呈S形曲线，富有韵律感，仿佛自然与人文的和谐共生。 画作边缘采用撕纸效果，营造出立体浮雕般的视觉体验。 下方题字"东方美学"以黑色楷体书写，日期"2026/04/18"与红色印章相呼应，底部"CHINA"字样庄重醒目，署名"@LIYUE"低调收尾，整体氛围静谧深远，充满诗意与哲思。 [English] Minimalist neo-Chinese aesthetic style, the picture uses an elegant grayish-white as the background, presenting a three-dimensional sense like paper art silhouettes. A winding S-shaped crack-like edge divides the picture, as if tearing open a layer of paper, revealing the colorful oriental landscape scene inside. Inside the crack, a winding river runs through the entire composition from top to bottom, the river water is rendered in different shades of blue, with clear layers, like a flowing ribbon. Both sides of the riverbank are dotted with verdant hills and terraced fields, the colors are soft, green and red interwoven, showing the tranquil beauty of the pastoral. Ancient-style buildings built along the river are well-proportioned, with flying eaves and upturned corners, white walls and black tiles, appearing more quaint and elegant against the light and shadow. The trees on the bank are lush, the branches and leaves are light and graceful, a small boat is quietly moored in the middle of the water, adding a bit of leisurely artistic conception. The overall composition presents an S-shaped curve, full of rhythm, as if the harmonious coexistence of nature and humanity. The edges of the painting adopt a torn paper effect, creating a visual experience like a three-dimensional relief. The inscription "东方美学" at the bottom is written in black regular script, the date "2026/04/18" echoes with the red seal, the word "CHINA" at the bottom is solemn and eye-catching, and the signature "@LIYUE" ends in a low-key way. The overall atmosphere is quiet and profound, full of poetry and philosophical thinking.
+```
+
+By [@liyue\_ai](https://x.com/liyue_ai/status/2045368305079447853)
+
+---
+
+<a id="freestylefly-case-304"></a>
+
+## 荧光蓝穷奇新中式山水画
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case304.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case304.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+[中文] 极简主义，新中式风格立体图形设计，图像下端有楷体中国文字：“东方美学”，“2026/04/18”，署名 “CHINA”，和“ @LIYUE "； 平整纯白色的亚光质感厚艺术纸上绘充满东方诗意氛围的山水创意画，不规则的撕纸效果； 中国的神兽：穷奇，身形图案完整，美轮美奂，，线条柔美灵动,眼睛炯炯有神，威严的神态，优雅的姿势，奢华装饰艺术，中国传统纹饰； 荧光蓝色线条，0.5mm极细金色金属质感勾边，泼白墨大笔触，色彩渲染，红底，蓝色的浪漫诗意视觉； 冷暖光交织的梦幻唯美场景，强烈的光影对比氛围，花轻舞的时光叙事，东风禅意，画面有大面积留白，框架构图，底部留白，细节清晰。 [English] Minimalism, Neo-Chinese style three-dimensional graphic design, at the bottom of the image there are Chinese characters in regular script: "东方美学", "2026/04/18", signature "CHINA", and " @LIYUE "; Drawn on flat, pure white matte textured thick art paper, a creative landscape painting full of oriental poetic atmosphere, irregular torn paper effect; Chinese mythical beast: Qiongqi, complete body pattern, magnificent,, soft and agile lines, bright piercing eyes, majestic demeanor, elegant posture, luxury decorative art, Chinese traditional patterns; Fluorescent blue lines, 0.5mm ultra-fine gold metallic texture outlining, large strokes of splashed white ink, color rendering, red background, romantic and poetic blue vision; Dreamy and aesthetic scene where cold and warm lights intertwine, strong light and shadow contrast atmosphere, time narrative of flowers dancing lightly, Oriental Zen, the picture has a large area of blank space, framework composition, blank space at the bottom, clear details.
+```
+
+By [@liyue\_ai](https://x.com/liyue_ai/status/2045506567735558336)
+
+---
+
+<a id="freestylefly-case-324"></a>
+
+## 复古巴士上的红风衣女郎
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case324.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case324.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+[中文] 一位时尚年轻女子坐在老式复古巴士的前缘，身穿红色长风衣、羊毛无檐小便帽、圆形蓝色反光太阳镜、叠层项链和粗犷的棕色皮靴。她有着波浪状金发，带着自信而梦幻的表情，仰望天空。巴士漆面剥落，呈青绿色与铁锈红色调。明亮清澈的蓝天，城市背景建筑极少，柔和日光，电影级色彩分级，浅景深，高端时尚旅行氛围，编辑摄影，超写实，4K分辨率，锐利对焦，自然肌肤质感，戏剧性构图，电影静帧美学。 [English] A stylish young woman sitting on the front edge of an old vintage bus, wearing a long red trench coat, woolen beanie cap, round blue reflective sunglasses, layered necklaces, and rugged brown leather boots. She has wavy blonde hair and a confident, dreamy expression, looking upward toward the sky. The bus is weathered with peeling paint in turquoise and rust red tones.Bright clear blue sky, urban background with minimal buildings, soft daylight, cinematic color grading, shallow depth of field, high fashion travel vibe, editorial photography, ultra-realistic, 4K resolution, sharp focus, natural skin texture, dramatic composition, film still aesthetic.
+```
+
+By [@iamsofiaijaz](https://x.com/iamsofiaijaz/status/2015337737860403283)
+
+---
+
+<a id="freestylefly-case-331"></a>
+
+## 西安手绘水彩城市地图
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case331.png"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case331.png" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+生成一张手绘水彩风格的「西安」城市地图，包含当地特色美食、地标建筑及城市特色
+```
+
+By [苍何原创实测（公众号文章《我逆向了 329 条 GPT-Image2 提示词模板，全部开源！》）](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-331)
+
+---
+
+<a id="freestylefly-case-369"></a>
+
+## 明洞旅游区域地图
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case369.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case369.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+[エリア]の観光エリアマップを画像で作成して
+```
+
+By [@so\_ainsight](https://x.com/so_ainsight/status/2050354639036654048)
+
+---
+
+<a id="freestylefly-case-489"></a>
+
+## 城市地图微缩旅行海报
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case489.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case489.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+Create a highly detailed cinematic miniature tilt-shift travel scene of [CITY NAME] featuring a realistic [VEHICLE NAME] driving along a winding elevated road that emerges naturally from a printed vintage-style city map. The road should curve dramatically toward the background skyline and landmarks of [CITY NAME], while the vehicle remains the clear focal point in the foreground. Blend the real city seamlessly with the illustrated map surface so the road appears integrated into the map itself. Include recognizable local landmarks, waterways, architecture, vegetation, and atmosphere associated with [CITY NAME], but keep the composition clean and uncluttered. Show large bold typography of "[CITY NAME]" printed directly on the map in the foreground. Use warm golden-hour lighting, shallow depth of field, realistic textures, cinematic shadows, aerial perspective, and photorealistic detail. The overall aesthetic should feel like a premium Instagram travel poster mixed with a miniature diorama. Aspect ratio 1:1.
+```
+
+By [@SimplyAnnisa](https://x.com/SimplyAnnisa/status/2062358269172101240)
+
+---
+
+<a id="freestylefly-case-523"></a>
+
+## 曼哈顿公园水彩旅行插画
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case523.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case523.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+Create a vertical editorial travel illustration inspired by vintage European travel posters, featuring a peaceful summer afternoon in a grand city park with a recognizable Manhattan-style skyline in the background. Use delicate hand-drawn ink outlines combined with soft, slightly imperfect watercolor washes on warm textured cream paper. Show a wide green lawn filled with people relaxing, reading, walking, jogging, cycling, and having picnics. In the foreground, a casually dressed young couple sits together on a picnic blanket beside a woven basket. Include elegant black vintage park lamps, winding pathways, dense leafy trees framing the composition, and detailed historic and modern skyscrapers rising behind the park. Add a small picturesque stone arch bridge over a calm pond near the bottom of the artwork. Use muted sage green, olive, warm beige, soft blue, pale gray, and subtle golden sunlight, with natural watercolor bleeding, paper grain, fine pen hatching, and an airy sophisticated travel-journal aesthetic. No text, no letters, no logos, no typography, no captions, no signs. Vertical 4:5 composition, highly detailed, elegant, nostalgic, handcrafted watercolor-and-ink illustration.
+```
+
+By [@Taaruk\_](https://x.com/Taaruk_/status/2090307485374578755)
+
+---
+
+<a id="freestylefly-case-543"></a>
+
+## 旅行纪念珐琅徽章
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case543.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case543.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+Turn the reference photo into a travel souvenir enamel pin badge. Compose it as a SCENE, not a single isolated object. Subject hierarchy: the defining landscape, terrain or landmark of the photo forms the main body of the badge and occupies most of its area. If a person appears prominently in the photo, keep them in the badge as a small, simplified figure at true relative scale within that landscape — the person is an accent, the landscape is the subject. Preserve the original spatial relationship and scale between the figure and the surroundings. How to render the person: flat enamel color blocks matching their real clothing and hair color from the photo. The face is a smooth plain area of light skin-tone enamel with no drawn facial features — do NOT render the person as a dark or black silhouette, and do NOT black out the face or head. Skin reads as a warm light enamel color, clearly lighter than the clothing. Styling: thin polished gold outline around the silhouette and along every internal divider, glossy enamel color fill, gentle even lighting with only a soft sheen on the gold lines, very subtle drop shadow. Outer contour follows the scene's own shape, not a plain rectangle. Background: flat dark navy coarse linen texture. Badge centered, filling about 60% of the frame. Avoid: black silhouette figure, blacked-out face, dark featureless head, portrait close-up, detailed facial features, person dominating the badge, cropping out the landscape, three-quarter angle, macro product photography, heavy specular glare, cartoon, realistic scene, text, watermark.
+```
+
+By [@Emmma\_\_0](https://x.com/Emmma__0/status/2093194689222705645)
 
 ---
 

@@ -1,152 +1,24 @@
 # illustrations
 
-[← Home](../README.md) · Page 2 / 4
+[← Home](../README.md) · Page 2 / 5
 
-[1](illustrations.md) · **2** · [3](illustrations-3.md) · [4](illustrations-4.md)
+[1](illustrations.md) · **2** · [3](illustrations-3.md) · [4](illustrations-4.md) · [5](illustrations-5.md)
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
-<a id="evolink-illustration-case-142"></a>
+<a id="evolink-illustration-case-153"></a>
 
-## Vintage Screen-Printed Lighthouse
+## Raised-Arms Watercolor Portrait
 
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2107535244148473856.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2107535244148473856.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-A spectacular vintage screen-print illustration of a tall colorful lighthouse standing alone on a dark rocky island in a vast nighttime ocean. The lighthouse has geometric blocks of cream, hot pink, yellow and cobalt blue, with a dark blue roof. Its powerful yellow beam sweeps across the sky in a huge curved arc. Deep blue ocean with stylized white waves fills the bottom of the image. Dense halftone dots cover every surface, with rough paper texture and imperfect ink registration. Limited retro CMYK palette, flat graphic shapes, 1970s children's storybook screen-print aesthetic, mysterious and magical atmosphere, no text, 16:9.
-```
-
-By [@hakmgpt](https://x.com/hakmgpt/status/2107535382183387282)
-
----
-
-<a id="evolink-illustration-case-143"></a>
-
-## Gongbi Fan Painting and Figure
-
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2107410807260930048.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2107410807260930048.jpg" width="480" alt="Source example"></a>
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2103714767756259328.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2103714767756259328.jpg" width="480" alt="Source example"></a>
 
 **Prompt**
 
 ```text
-【角色】 × 宋式工笔人物扇面 × 真人与扇中自画像对应 × 半脸遮挡 × CCD柔焦
+Use the uploaded image ONLY as the FACE REFERENCE. Preserve the exact facial identity from the reference image, including facial structure, eyes, eyebrows, nose, lips, jawline, cheekbones, skin tone, hairline, and overall recognizable appearance. POSE: A young woman leaning slightly forward toward the camera, her upper body angled naturally, both arms raised above and around her head, shoulders lifted, head slightly tilted toward the camera, face turned directly toward the viewer, eyes looking into the camera. One hand is positioned behind the head while the other arm is raised beside the head. Maintain a relaxed yet elegant fashion pose with natural body proportions and realistic anatomy. CAMERA: Close-up portrait, slightly low camera angle, intimate framing, upper body filling most of the frame, cinematic perspective. STYLE: Elegant hand-painted watercolor and fine ink illustration, expressive brush strokes, soft watercolor washes, textured cold-pressed watercolor paper, delicate ink outlines, subtle paint bleeding, warm Mediterranean travel aesthetic, sophisticated editorial fashion illustration, highly detailed face, natural skin shading, artistic handmade texture. IMPORTANT: The uploaded image is ONLY for facial identity. Do not copy its pose, clothing, background, composition, or body position. Create a completely new composition using the pose described above. NEGATIVE PROMPT: different face, altered facial identity, face distortion, face swap artifacts, different pose, stiff posture, unnatural anatomy, extra fingers, missing fingers, deformed hands, 3D render, anime, cartoon, photorealistic photography.
 ```
 
-By [@DeepBlueX0](https://x.com/DeepBlueX0/status/2107410819294343507)
-
----
-
-<a id="evolink-illustration-case-144"></a>
-
-## Geometric Art Mathematics Atlas
-
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2107369008169422848.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2107369008169422848.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-【主体】 × 几何艺术 × 数学原理 × 数学解析标注 × 极简科学图谱
-```
-
-By [@DeepBlueX0](https://x.com/DeepBlueX0/status/2107369025366016200)
-
----
-
-<a id="evolink-illustration-case-145"></a>
-
-## Photo and Narrative Subject Poster
-
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2107346505829056512.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2107346505829056512.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Create one independent high-end editorial poster for each uploaded photo. Never combine photos. FORMAT Strict 3:4 vertical composition with an exact 50/50 horizontal split. The top and bottom halves must be equal in height and visually connected as one refined editorial cover. TOP HALF: ORIGINAL PHOTO Use the original photo faithfully. Preserve the subject, identity, facial features, proportions, pose, clothing, objects, composition, lighting, shadows, atmosphere, and color mood. Keep it fully photorealistic with only subtle premium editorial color grading. Never stylize, distort, replace, or alter the main subject. Extend only surrounding background when necessary, seamlessly and naturally. BOTTOM HALF: HAND-DRAWN ILLUSTRATION Reinterpret the same scene as a minimalist handmade paper illustration. Preserve the recognizable subject, silhouette, pose, key objects, and main visual story. Use delicate imperfect lines, simple acrylic-style flat color shapes, visible brush marks, rough paper texture, organic edges, and subtle handmade imperfections. Keep the illustration small and centered, occupying about 10–20% of the bottom half, with generous negative space. Use a rough white, warm off-white, or pale natural paper background with only minimal environmental details. COLOR Extract colors from the original photo and reduce them to a maximum of 4 restrained, harmonious colors. Use controlled flat color blocks while maintaining subtle paper grain and brush texture. TYPOGRAPHY Optional minimal editorial text only when appropriate, such as a short title, keyword, location, or number. Keep it understated and never force text into the design. STYLE Quiet, poetic, refined, minimal, relaxed, artistic, thoughtful, premium, high-recognition. FINAL Maintain the exact 50/50 split. The top must remain a faithful photograph, while the bottom is a simplified handmade illustration of the same scene. Avoid clutter, excessive colors, heavy typography, artificial effects, or unnecessary details. The result should feel like a premium contemporary independent art publication cover.
-```
-
-By [@harboriis](https://x.com/harboriis/status/2107346549542203400)
-
----
-
-<a id="evolink-illustration-case-146"></a>
-
-## Historical Costume Layer Diagram
-
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2106765639809708032.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2106765639809708032.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-【朝代】女性贴身衣物 × 穿着层次 × 结构展开 × 材质与裁片 × 服饰复原 × 竖版9:16
-```
-
-By [@DeepBlueX0](https://x.com/DeepBlueX0/status/2106765651952140743)
-
----
-
-<a id="evolink-illustration-case-147"></a>
-
-## Character and Twelve App Cards
-
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2106691563309187072.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2106691563309187072.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Create a high-quality 3D digital artwork featuring the same young woman consistently across all 12 app panels. Arrange 12 separate rounded-square app cards in a 4×3 grid on a dark charcoal background with soft cinematic lighting and realistic shadows. Panel 1: Threads — woman wearing a black hoodie, pointing toward the Threads logo. Panel 2: Alight Motion — woman in a black hoodie holding a tablet and pointing toward the Alight Motion interface. Panel 3: Gmail — woman wearing a white hoodie, sitting behind an open laptop and pointing toward the Gmail logo. Panel 4: Google — woman wearing a bright blue hoodie with one hand near her chin. Panel 5: WhatsApp — woman wearing a green hoodie, holding a smartphone and pointing toward the WhatsApp logo. Panel 6: Telegram — woman wearing a blue hoodie giving a thumbs-up. Panel 7: Chrome — woman wearing a black jacket over a white shirt, sitting beside a laptop. Panel 8: ChatGPT — woman wearing a black hoodie, pointing toward the ChatGPT logo with her other hand raised. Panel 9: CapCut — woman wearing a black jacket, making a playful hand gesture. Panel 10: Instagram — woman holding a smartphone, wearing a beige jacket over a white shirt. Panel 11: Facebook — woman wearing a blue denim jacket, leaning naturally against the Facebook logo. Panel 12: Notes — woman wearing a yellow hoodie, holding a pen and notebook with “Big Dreams...” written on it. Keep the same face, hairstyle and identity throughout all panels. Highly detailed, polished 3D app-card aesthetic, realistic facial features, glossy rounded edges, vibrant app-themed backgrounds, professional composition, sharp details, premium social-media graphic, 4K.
-```
-
-By [@Arzoo12sh](https://x.com/Arzoo12sh/status/2106691981275721881)
-
----
-
-<a id="evolink-illustration-case-149"></a>
-
-## Country-Themed Miniature Fairy-Tale World
-
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2106233129765945345.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2106233129765945345.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Create a whimsical, highly detailed miniature world inspired by [COUNTRY], as if the entire country has been transformed into a handcrafted storybook landscape. Rolling hills covered in rich, tactile, velvety vegetation rise from a calm body of water, with clusters of tiny charming buildings inspired by the authentic architecture of [COUNTRY] scattered naturally across the hills. Every building has unique shapes, colors, windows, roofs, balconies, and architectural details characteristic of the country. Surround the villages with exaggerated ornamental trees, sculpted shrubs, colorful flowers, winding paths, and tiny environmental details, all appearing handcrafted from soft clay, wool, felt, paper and tiny textured beads. Add small boats on the water reflecting the colorful landscape. The entire scene should feel like a luxury handcrafted miniature diorama, playful yet sophisticated, with surreal proportions, rich saturated colors, intricate surface texture, soft atmospheric lighting, dramatic cloudy sky, cinematic depth, realistic water reflections, and an enchanting storybook atmosphere. Subtly incorporate recognizable visual elements of [COUNTRY] into the architecture and landscape without using obvious flags, text, or tourist clichés. Ultra-detailed, tactile textures, miniature photography aesthetic, whimsical fantasy realism, cinematic composition, soft volumetric light, shallow depth of field, highly polished 3D artwork, visually captivating, no people, no text.
-```
-
-By [@Naiknelofar788](https://x.com/Naiknelofar788/status/2106233142994481153)
-
----
-
-<a id="evolink-illustration-case-150"></a>
-
-## Teapot and Storybook Miniature Worlds
-
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2105936934677655552.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2105936934677655552.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Create one ultra-realistic cinematic fantasy scene combining the main elements from all three references: an antique brass teapot on a rustic wooden table, its lid slightly open with warm steam rising and transforming into a miniature glowing city skyline; beside it, an old open storybook with a tiny enchanted forest emerging from its pages, including moss-covered ground, miniature pine trees, a cozy wooden cabin, a small flowing stream and warm golden fairy lights; also include a large white ceramic coffee cup filled with deep blue ocean water, with a tiny sailing boat floating on the surface and a miniature tropical island with palm trees. Set everything inside a cozy vintage café/library with wooden shelves, old books, dried herbs, candles and soft warm bokeh lighting. Highly detailed textures, realistic steam, magical atmosphere, shallow depth of field, cinematic composition, warm amber tones, photorealistic, 8K, realistic lighting, premium fantasy editorial photography.
-```
-
-By [@KrishnaBio1](https://x.com/KrishnaBio1/status/2105951925640589394)
-
----
-
-<a id="evolink-illustration-case-152"></a>
-
-## Diagonal Photo and Pencil Drawing
-
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2104162028634165248.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2104162028634165248.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Create a high-end editorial split-screen portrait using the uploaded reference image as the identity reference. Preserve the person’s facial identity, facial structure, skin tone, hairstyle, and natural features accurately. Composition: A square 1:1 image divided diagonally into two artistic halves. LEFT SIDE: Create a photorealistic full-body lifestyle portrait of the person sitting comfortably on outdoor stone stairs in front of a modern luxury building entrance. The person is wearing a clean navy blue oversized hoodie, slim-fit beige trousers, and crisp white low-top sneakers. Their legs are naturally positioned forward, with both hands relaxed and loosely clasped together near the knees. Add a premium silver luxury wristwatch. Natural confident smile, relaxed expression, realistic skin texture, detailed hands, realistic fabric folds. The background should feature modern dark glass doors, subtle warm golden interior lights, elegant architectural details, and a large green potted plant on the side. Soft natural daylight, cinematic depth of field, realistic shadows, luxury lifestyle photography, professional fashion editorial aesthetic. RIGHT SIDE: Transform the same person into a highly detailed monochrome graphite pencil sketch while preserving the exact facial identity, hairstyle, body proportions, clothing, and pose. Show the person standing casually against a lightly sketched architectural wall, wearing a hoodie, jeans, and white sneakers. One leg slightly crossed over the other, both hands naturally placed inside the hoodie pockets. Add intricate pencil strokes, realistic shading, fine cross-hatching, detailed fabric texture, subtle architectural line work, and hand-drawn imperfections. Blend the two halves together with an artistic rough black-and-white paint-brush transition in the center, making the photorealistic version seamlessly transform into the pencil-sketch version. Ultra-detailed, realistic anatomy, accurate proportions, natural hands and fingers, cinematic lighting, premium fashion campaign aesthetic, sharp facial details, sophisticated composition, 8K quality, photorealistic on the left and realistic graphite illustration on the right, no text, no logos, no watermark.
-```
-
-By [@mehwishkiran07](https://x.com/mehwishkiran07/status/2104162122435580191)
+By [@Arina\_hoqe](https://x.com/Arina_hoqe/status/2103714798324125892)
 
 ---
 
@@ -163,22 +35,6 @@ Create a high-resolution vertical 3D CGI character composition on a clean light 
 ```
 
 By [@Arzoo12sh](https://x.com/Arzoo12sh/status/2103672438798360854)
-
----
-
-<a id="evolink-illustration-case-155"></a>
-
-## Night Bench with Cartoon Companion
-
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2102960730429665280.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2102960730429665280.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Create a cinematic vertical 9:16 nighttime portrait based closely on the reference image. A young woman is sitting casually on a rustic wooden park bench at night beside an adorable small 3D animated girl. Preserve the overall composition, camera angle, poses, proportions, lighting, and atmosphere of the reference. The young woman has long dark brown hair and wears masculine oversized streetwear: a dark olive/black oversized utility jacket over a black hoodie, extremely loose black cargo pants, and clean white chunky sneakers. She is seated in a relaxed pose with one knee raised, one leg extended toward the camera, one arm resting naturally on her knee, and the other hand resting on the bench. Keep her appearance photorealistic with natural facial features and realistic skin texture. Beside her is a very cute miniature 3D animated girl with a small body, oversized expressive brown eyes, rosy cheeks, a tiny face, dark brown hair tied into a messy high bun with loose strands, and an adorable playful expression. She wears an oversized black hoodie with a small crown emblem, loose black cargo pants, and white chunky sneakers. Keep her clearly stylized as a high-quality cute 3D animated character, not photorealistic. The girl is standing beside the seated woman on the bench, looking slightly toward the camera. Add a small glowing hand-drawn crown above her head, subtle glowing doodle lines, and small glowing heart doodles around her. Set the scene in a beautiful nighttime park with dark leafy trees, distant city lights, warm glowing street lamps, strong golden rim lighting around the characters, soft cinematic bokeh, realistic shadows, and a cozy magical atmosphere. Photorealistic adult woman seamlessly combined with a cute high-quality 3D animated character, realistic textures, cinematic depth of field, warm golden nighttime color grading, detailed clothing, natural proportions, professional photography, ultra-detailed, sharp focus, vertical 9:16. Keep the cute animated girl's appearance consistent and adorable. Do not make her realistic. Do not change her outfit or facial style.
-```
-
-By [@Alina\_with\_Ai](https://x.com/Alina_with_Ai/status/2102960956280299535)
 
 ---
 
@@ -214,83 +70,19 @@ By [@mehwishkiran07](https://x.com/mehwishkiran07/status/2102244437032354046)
 
 ---
 
-<a id="evolink-illustration-case-159"></a>
+<a id="evolink-illustration-case-164"></a>
 
-## Pet Cube Papercraft Design
+## Reference Portrait Watercolor Fashion Art
 
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2101353492598145024.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2101353492598145024.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Use my uploaded pet photo as the only source of the animal’s appearance. Create a realistic printable papercraft cube toy template of my pet, preserving 100% its identity and unique features: fur color, fur pattern, eyes, face shape, ears, body proportions, markings and expression. Transform my pet into a handmade paper craft 3D model (low-poly cube style) like a DIY papercraft template. Show the unfolded cut-out template pieces laid flat on a white background: head, body, legs, ears and tail separated, with folding lines, tabs and cutting edges clearly visible. The printed texture on the paper pieces must use my pet’s real fur texture and colors, so when assembled it becomes a small cube-shaped 3D figure of my exact pet. Include: cube-shaped head with my pet’s real face on it cube-shaped body with realistic fur texture four legs matching my pet’s appearance ears with correct shape and inner ear details tail matching my pet’s size and color pattern Style: realistic papercraft template, high-quality product photography, clean white background, detailed printable craft design, sharp edges, realistic fur texture printed on paper. Do not change my pet’s appearance. Do not turn it into a different animal, cartoon, plush toy or generic cat/dog. It must look like my actual pet converted into a cube papercraft model
-```
-
-By [@icreatelife](https://x.com/icreatelife/status/2101353512210710690)
-
----
-
-<a id="evolink-illustration-case-160"></a>
-
-## Mediterranean Courtyard Warrior Woman
-
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2101261852772818944.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2101261852772818944.jpg" width="480" alt="Source example"></a>
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2100423427773599744.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2100423427773599744.jpg" width="480" alt="Source example"></a>
 
 **Prompt**
 
 ```text
-A cinematic fantasy female warrior standing confidently in an ancient Mediterranean-inspired temple courtyard, full-body view, long flowing brown hair styled with subtle braids, soft natural facial features, calm but powerful expression, wearing an elegant dark charcoal-green warrior dress with a fitted leather-like bodice, metallic shoulder details, wide brown belt around the waist, deep red sash hanging from the waist, dark flowing skirt, subtle ancient warrior accessories, holding a tall black spear vertically in her right hand with a large dark green metallic spearhead, realistic skin texture, detailed fabric and leather textures, graceful heroic posture, ancient stone architecture in the background, massive carved archway, tall stone columns, turquoise water pools surrounding the courtyard, bright daylight, cinematic sunlight, soft atmospheric haze, dramatic lens flare, shallow depth of field, epic fantasy movie aesthetic, photorealistic, ultra-detailed, realistic proportions, natural lighting, 35mm cinematic photography, high-end film still, 8K detail, no text, no logo, no watermark.
+Face Reference: Use the uploaded face reference image as the primary facial identity reference. Preserve the woman’s recognizable facial structure, proportions, eyes, nose, lips, jawline, cheekbones, and overall likeness. Do not copy the photo’s lighting or photographic texture; reinterpret the same face naturally in a traditional watercolor and pen-and-ink fashion illustration style. Create a stunning 4:5 chest-up fashion portrait of the reference woman, centrally framed. She wears a light blue denim jacket with realistic stitching, flap pockets, and metallic silver buttons over a crisp white button-down shirt. A brown leather crossbody strap runs diagonally across her torso. She wears a wide-brimmed woven straw sun hat, polished silver hoop earrings, and reflective silver-framed round sunglasses. Her head is tilted slightly upward toward her right (viewer’s left), with shoulders subtly angled. Her expression is serene, confident, sophisticated, and effortlessly chic. Her lips are slightly parted with vibrant glossy red lipstick. Her medium-length hair is gathered into a loose, messy low bun, with delicate wispy strands escaping around her face and neck and gently lifted by a soft breeze. Render the skin using transparent watercolor layers, subtle blush tones, delicate ink contours, and soft shadow transitions. Use expressive hand-painted watercolor washes with wet-on-wet blending, pigment blooms, visible brushstrokes, organic edges, and subtle spontaneous paint splatters. Sunglasses Reflection: Make the round lenses highly detailed and reflective, showing tall tropical palm trees silhouetted against a brilliant bright-blue sky. The reflections should look crisp and believable while remaining naturally integrated into the watercolor illustration. Lighting: Bright natural summer sunlight entering from the upper left, creating defined shadows beneath the hat brim and warm, gentle gradients across the forehead, cheeks, neck, jawline, and clothing folds. Fresh, sun-drenched vacation atmosphere. Background: Pure clean white background with delicate scattered watercolor droplets, pigment specks, and loose paint splashes in muted blue, beige, brown, and gray. Keep the background airy and minimalist without distracting from the subject. Art Style: Traditional watercolor illustration, fine pen-and-ink drawing, luxury fashion sketch, editorial magazine artwork, expressive brushwork, loose watercolor washes, hand-painted texture, elegant feminine fashion, tropical travel lifestyle aesthetic, realistic facial likeness, sophisticated composition, high detail, organic watercolor imperfections. Composition: Close-up portrait, eye-level camera perspective with a subtle upward emphasis, chest-up framing, centered subject, elegant proportions, refined editorial fashion illustration. Aspect Ratio: 4:5 Negative Prompt: distorted face, altered facial identity, different person, excessive makeup, plastic skin, cartoon face, anime style, 3D render, photorealistic photography, blurry sunglasses, distorted reflections, extra fingers, deformed hands, duplicate accessories, messy anatomy, harsh background, oversaturated colors, heavy outlines, artificial digital texture.
 ```
 
-By [@Arzoo12sh](https://x.com/Arzoo12sh/status/2101262041533313249)
-
----
-
-<a id="evolink-illustration-case-161"></a>
-
-## Giant Luxury Bed Surreal Interior
-
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2100900235442896896.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2100900235442896896.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Create an ultra-realistic, surreal luxury interior featuring an enormous king-size bed that is unbelievably tall and oversized, almost reaching the upper part of a grand palace room. The bed has an extremely thick, luxurious cream-white mattress with a beautifully tufted upholstered base, deep diamond-shaped button detailing, soft padded leather/fabric texture, and elegant rounded edges. Cover the giant bed with multiple layers of oversized fluffy white and ivory duvets and blankets. Add several enormous soft pillows stacked toward the head of the bed, each pillow looking plush, fluffy, premium, and slightly oversized. The bedding should have realistic folds, wrinkles, soft fabric fibers, subtle shadows, and luxurious high-end hotel quality. Place a slim elegant golden ladder leaning against the side of the gigantic bed, emphasizing its enormous scale. On the right side of the room, create a futuristic transparent glass elevator attached to the bedroom wall, surrounded by polished gold/brass metallic framing, vertical golden columns, reflective glass panels, and warm circular ceiling lights inside the elevator. Inside the glass elevator, show a small elegant woman wearing a long flowing light-blue dress, standing naturally and looking toward the giant bed. She should appear small compared with the enormous furniture, making the room feel surreal and fantastical while still photorealistic. The room should look like an extravagant royal palace bedroom with huge arched architectural windows on the left side. Warm golden sunlight should enter through the windows, creating beautiful cinematic rays, soft glowing highlights, realistic reflections, and long natural shadows across the polished marble floor. Use an elegant cream, ivory, champagne, and warm gold color palette. The marble floor should have realistic glossy reflections of the bed, ladder, elevator, and sunlight. Add highly detailed architectural arches, luxurious walls, subtle decorative molding, premium materials, realistic depth, and sophisticated interior design. Composition should be vertical 9:16, cinematic wide-angle perspective, dramatic sense of scale, realistic proportions, physically accurate lighting, global illumination, soft volumetric sunlight, realistic reflections, detailed fabric textures, sharp foreground details, natural depth of field, high dynamic range, photorealistic rendering, luxury architectural photography, surreal fantasy realism, extremely detailed, 8K quality. No text, no letters, no logos, no watermark, no captions, no unnecessary objects, no distorted anatomy, no duplicate people, no blurry details.
-```
-
-By [@Arzoo12sh](https://x.com/Arzoo12sh/status/2100900343358030040)
-
----
-
-<a id="evolink-illustration-case-162"></a>
-
-## Art Studio and Cartoon Layered Scene
-
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2100539089946828800.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2100539089946828800.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Create a premium vertical 9:16 editorial artwork featuring the same scene presented in two stacked panels. TOP PANEL: Create a highly realistic cinematic photograph of a young woman sitting comfortably inside a cozy, sunlit artist studio. She has her hair tied in a messy bun, natural realistic facial features, and a playful wink. She rests one cheek gently on her hand while extending a paintbrush toward the camera. She wears an oversized cream-colored sweater covered with colorful paint splashes and loose olive-green pants also marked with artistic paint stains. Beside her is a large wooden easel holding a colorful canvas featuring a cute original cartoon version of the woman, with oversized expressive eyes, messy dark hair, a playful wink, colorful clothing, and a small fluffy kitten. The studio is filled with potted plants, flowers, warm lamps, candles, shelves, paint tubes, brushes, palettes, books, wooden crates, and other authentic art supplies. A small kitten sits comfortably near the woman's legs. Use warm natural sunlight coming through a large window, realistic skin texture, detailed hair strands, cinematic depth of field, soft background bokeh, realistic shadows, premium lifestyle photography, 35mm lens aesthetic, highly detailed, photorealistic, 8K quality. BOTTOM PANEL: Recreate the same creative moment as a completely different artistic interpretation rather than a duplicate photograph. Transform the entire scene into a beautiful hand-painted watercolor and mixed-media illustration. Use visible watercolor paper texture, delicate brush strokes, soft color bleeding, artistic paint splatters, slightly simplified facial details, and a charming handmade illustration aesthetic. Keep the woman, kitten, easel, cartoon artwork, plants, flowers, palette, brushes, and overall story recognizable, but reinterpret them through the watercolor illustration style. LAYOUT: Place the photorealistic version in the upper half and the watercolor version in the lower half. Separate the two panels with a clean white artistic transition. Add subtle watercolor splashes around the edges of the bottom panel. At the bottom, add elegant handwritten typography: “Same Girl... Different Art” Underneath, add small minimal text: “REAL MOMENTS  •  ARTISTIC STORIES  •  BRIGHTER DAYS” Create a sophisticated Pinterest/editorial aesthetic, balanced composition, premium color grading, clean typography, soft white margins, artistic scrapbook presentation, vertical 9:16 format. Do not copy any existing artwork, watermark, logo, username, or signature. The cartoon character and artwork must be completely original.
-```
-
-By [@mehwishkiran07](https://x.com/mehwishkiran07/status/2100539261628080282)
-
----
-
-<a id="evolink-illustration-case-163"></a>
-
-## High-Contrast Profile Ink Illustration
-
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2100427260704804864.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2100427260704804864.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Use the uploaded image as the main composition and style reference. Recreate the artwork almost exactly, keeping the same overall pose, side-profile angle, moody expression, rough painterly texture, abstract ink treatment, distressed overlays, and minimal beige background. Create a high-contrast black-and-white editorial portrait illustration of a stylish man shown in left-facing side profile, wearing round dark sunglasses and a dark jacket, with his head slightly lowered in a thoughtful pose. Keep one hand raised near his mouth/chin in the same position as the reference. Important change: Everything else should remain primarily monochrome black, charcoal, gray, and off-white/beige. Preserve the same grunge fine-art aesthetic: * rough ink wash textures * distressed brush strokes * splattered paint effects * abstract smudges * layered handwritten scribbles and sketch marks around the figure * fragmented editorial collage feeling * subtle textural blocks and faded typographic elements integrated into the background Keep the figure vertically centered with a clean off-white / warm beige background, lots of negative space, and the lower body dissolving into abstract painterly textures. Maintain the same premium fashion-poster / gallery-art vibe. Style: ultra-detailed monochrome mixed-media portrait, contemporary editorial wall art, expressive ink illustration, dramatic contrast, textured fine-art poster, premium minimalist composition.
-```
-
-By [@AiWithTariq](https://x.com/AiWithTariq/status/2100427354216841263)
+By [@Kubra\_286](https://x.com/Kubra_286/status/2100423487601123731)
 
 ---
 
@@ -310,22 +102,230 @@ By [@Alina\_with\_Ai](https://x.com/Alina_with_Ai/status/2100412898363547998)
 
 ---
 
-<a id="evolink-illustration-case-169"></a>
+<a id="evolink-illustration-case-166"></a>
 
-## Standalone Art Poster from a Photo
+## Rainy New York Male Watercolor Portrait
 
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2099343599049773056.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2099343599049773056.jpg" width="480" alt="Source example"></a>
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2100063625985839104.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2100063625985839104.jpg" width="480" alt="Source example"></a>
 
 **Prompt**
 
 ```text
-Create one independent high-end editorial poster for each uploaded photo. Do not combine multiple photos into a collage. Each photo must be processed and output as a separate poster. OVERALL FORMAT Strict 3:4 vertical composition. Divide the canvas horizontally into two exactly equal sections, with a precise 1:1 height ratio. The top half occupies exactly 50% of the canvas. The bottom half occupies exactly 50% of the canvas. The two sections should feel visually connected as one refined art publication cover. TOP HALF — ORIGINAL PHOTOGRAPH Preserve the original photograph as faithfully as possible. Keep the main composition, subjects, identity, facial features, body proportions, poses, expressions, clothing, objects, and spatial relationships unchanged. Preserve the realistic photographic texture, natural lighting, shadows, atmosphere, and original color mood. Apply only subtle, sophisticated editorial color grading, creating the feeling of a premium magazine photograph, contemporary art book, or high-end independent publication. The image should remain photorealistic and authentic, never overly retouched or artificially stylized. If necessary to fit the 3:4 composition naturally, extend the sky, ground, walls, or surrounding environmental background. Background extension must feel seamless and photographic. Never stretch, distort, reshape, replace, or alter the main subject. BOTTOM HALF — MINIMAL HAND-DRAWN PAPER ILLUSTRATION Extract the most recognizable visual elements from the original photograph and reinterpret them as a minimalist hand-drawn paper-cover illustration. Preserve: The most recognizable subject Essential silhouette and proportions Key pose or gesture Important objects The core narrative relationship between people and objects Highly simplify the image. Remove unnecessary details and retain only the visual information needed for immediate recognition. Use: Delicate, slightly imperfect hand-drawn lines A small number of bold, clearly defined acrylic-style flat color shapes Rough paper texture Visible handmade brush marks Slightly irregular, organic edges Subtle imperfections that make it feel genuinely handmade The main illustrated subject should be small, centered, and carefully composed, occupying approximately 10–20% of the bottom half. Leave a large amount of negative space around the illustration. The background should primarily resemble: Rough white paper Warm off-white paper Pale natural paper Minimal editorial book-cover stock Use only a few lines or small color shapes to suggest the surrounding environment. COLOR PALETTE Extract the dominant colors directly from the original photograph. Compress the palette into no more than 4 main colors. Keep the colors restrained, sophisticated, and harmonious. Use bold but controlled flat color blocks. Avoid excessive color variation. Preserve subtle paper grain and handmade brush texture. The illustration should visually feel like a simplified color interpretation of the photograph. TYPOGRAPHY A small amount of simple typography may be included when appropriate. Possible elements: A short title Keyword Object name Location Year Number Short phrase Text should be minimal, understated, and editorial. Typography should naturally interact with the large areas of negative space and the small illustration, evoking: Art book covers Independent publishing Contemporary editorial design Thoughtful children's picture books Do not force text into the composition if it does not naturally fit the photograph. VISUAL LANGUAGE The final poster should feel: Quiet · Poetic · Refined · Minimal · Innocent · Relaxed · Artistic · Thoughtful · High-recognition · Premium
+TITLE: New York Rainy Day — Male Character Watercolor Portrait ASPECT RATIO: 9:16 REFERENCE INPUTS: <<<FACE_REFERENCE>>> Use the uploaded male face reference as the exact facial identity reference. FACE REFERENCE RULES: Preserve the male character's exact facial identity, facial structure, eyes, eyebrows, nose, lips, jawline, skin tone, hairstyle characteristics, and overall recognizable appearance from <<<FACE_REFERENCE>>>. Do not redesign, replace, beautify into a different person, feminize, or alter his identity. Maintain consistent facial proportions throughout the image. SCENE: A beautiful cinematic urban watercolor illustration of the male character standing on a rain-soaked Manhattan street with the Empire State Building towering dramatically in the background. POSE: The man is positioned in the foreground, slightly turned three-quarters toward the camera. He gently holds a black elegant umbrella with one hand while his other hand naturally adjusts a strand of hair near his forehead. His face is clearly visible. He looks directly toward the viewer with a subtle confident expression and calm, sophisticated gaze. Natural fashion-editorial pose, graceful posture, relaxed shoulders, elegant masculine body language. The pose should feel like a trending cinematic Instagram/Pinterest portrait captured during a rainy New York evening. OUTFIT: Elegant modern men's city-fashion outfit, sophisticated neutral trench coat over a premium fitted outfit, subtle accessories such as a minimalist watch, natural textured hairstyle. Premium men's fashion editorial aesthetic without looking artificial. ENVIRONMENT: Rainy Manhattan street, Empire State Building as the dominant architectural form in the center background, tall Art Deco buildings on both sides, wet asphalt, pedestrians with umbrellas, classic yellow taxis and modern cars, glowing street lamps, reflections in puddles. ART STYLE: Watercolor style combined with loose architectural acrylic painting; fine ink sketching blended with soft watercolor washes; urban sketch illustration; expressive brushstrokes; ink splatter and bleeding effects; unfinished white borders; cold-pressed textured watercolor paper; highly detailed yet loose and airy. COLOR PALETTE: Warm earth tones—creamy beige, warm sand, burnt sienna, terracotta ochre, light umber, pale white, cool slate gray, soft Payne's gray-blue, touches of olive green and burnt orange. Subtle warm golden highlights from street lights. LIGHTING: Soft rainy afternoon transitioning into warm evening light; gentle glowing street lamps; luminous reflections on wet pavement; soft atmospheric perspective; delicate shadows; one dominant form—the Empire State Building—rendered sharp and bold. DETAILS: Intricate architectural details; fine cross-hatched ink work; wet-on-wet watercolor bleeding; visible paper texture; expressive loose shadow strokes; natural watercolor imperfections; subtle ink splatters; beautiful reflections of the man, umbrella, buildings and lights in the wet street. COMPOSITION: Vertical 9:16 cinematic composition. Male character prominent in the foreground while the Empire State Building creates a powerful visual backdrop. Balanced leading lines from the street toward the building. Elegant negative space around the character. Fashion editorial + travel postcard + premium watercolor illustration. IMPORTANT: Photorealistic male facial identity translated into watercolor illustration. Preserve masculine facial characteristics from <<<FACE_REFERENCE>>>. Do not make the character cartoonish. No anime. No 3D render. No plastic-looking skin. No distorted hands. No extra fingers. No duplicated person. No distorted face. No feminized facial features. No altered facial proportions. Keep the artwork painterly, sophisticated, loose, atmospheric and premium. --ar 9:16 --style raw --stylize 250
 ```
 
-By [@icreatelife](https://x.com/icreatelife/status/2099343611389219254)
+By [@AiWithTariq](https://x.com/AiWithTariq/status/2100063691198669194)
 
 ---
 
-[1](illustrations.md) · **2** · [3](illustrations-3.md) · [4](illustrations-4.md)
+<a id="evolink-illustration-case-167"></a>
+
+## Over-the-Shoulder Watercolor Ink Portrait
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2100062988921446400.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2100062988921446400.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+Use the uploaded image ONLY for face and identity reference. Do not change facial structure, proportions, or realism. Create a high-detail mixed-media watercolor portrait of a woman with POSE STRICTLY LOCKED: Three-quarter view from back Upper body slightly turned away from camera Head turned back over shoulder toward viewer Direct eye contact Frame includes head, neck, and partial shoulder Composition tightly cropped (portrait focus) Expression (IMPORTANT): Calm yet emotionally intense, soft but piercing gaze, slightly parted lips, natural subtle tension in face — no exaggerated emotion. Rendering Style (LOCKED) Watercolor + ink hybrid illustration Soft fluid washes + sharp ink linework Fine dark lines defining eyes, nose, lips, jawline No painterly blur, no oil painting effect Color & Lighting (STRUCTURED) Strong split color contrast: Left side → warm (yellow, orange, magenta) Right side → cool (blue, cyan, violet) Abstract light from upper-left (represented as color bursts, not realistic light) Skin tones blend naturally with watercolor pigments (not flat coloring) Watercolor Behavior (VERY IMPORTANT) Wet-on-wet blending on face and skin Visible paint splashes around subject Controlled splatter and ink drops Subtle vertical drips (especially lower area) Organic color blooms and pigment edges Colors slightly bleed beyond edges (natural watercolor feel) Hair (MATCH STYLE) Loose tied or messy bun Wispy strands around face Hair absorbs surrounding colors (blue, purple, warm highlights) Slight motion feel, not static Background Clean white base Dynamic watercolor splashes behind subject (not random — composition-aware) No clutter, no objects Texture Visible cold-press watercolor paper grain Slight rough pigment edges Natural watercolor imperfections preserved Style: expressive watercolor + ink illustration Mood: artistic, soulful, emotionally engaging Aspect ratio: 4:5
+```
+
+By [@Kubra\_286](https://x.com/Kubra_286/status/2100063244324889037)
+
+---
+
+<a id="evolink-illustration-case-168"></a>
+
+## Rainy New York Female Watercolor Portrait
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2099864394255785984.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2099864394255785984.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+TITLE: New York Rainy Day — Female Character Watercolor Portrait ASPECT RATIO: 9:16 REFERENCE INPUTS: <<<FACE_REFERENCE>>> Use the uploaded female face reference as the exact facial identity reference. FACE REFERENCE RULES: Preserve the female character's exact facial identity, facial structure, eyes, eyebrows, nose, lips, jawline, skin tone, and overall recognizable appearance from <<<FACE_REFERENCE>>>. Do not redesign, replace, beautify into a different person, or alter her identity. Maintain consistent facial proportions throughout the image. SCENE: A beautiful cinematic urban watercolor illustration of the female character standing on a rain-soaked Manhattan street with the Empire State Building towering dramatically in the background. POSE: The woman is positioned in the foreground, slightly turned three-quarters toward the camera. She gently holds a black elegant umbrella with one hand while her other hand lightly adjusts a strand of hair near her face. Her face is clearly visible. She looks directly toward the viewer with a subtle confident smile and calm, sophisticated expression. Natural fashion-editorial pose, graceful posture, relaxed shoulders, elegant body language. The pose should feel like a trending cinematic Instagram/Pinterest portrait captured during a rainy New York evening. OUTFIT: Elegant modern city-fashion outfit, sophisticated neutral trench coat over a stylish fitted outfit, subtle accessories, natural flowing hair. Premium fashion editorial aesthetic without looking artificial. ENVIRONMENT: Rainy Manhattan street, Empire State Building as the dominant architectural form in the center background, tall Art Deco buildings on both sides, wet asphalt, pedestrians with umbrellas, classic yellow taxis and modern cars, glowing street lamps, reflections in puddles. ART STYLE: Watercolor style combined with loose architectural acrylic painting; fine ink sketching blended with soft watercolor washes; urban sketch illustration; expressive brushstrokes; ink splatter and bleeding effects; unfinished white borders; cold-pressed textured watercolor paper; highly detailed yet loose and airy. COLOR PALETTE: Warm earth tones—creamy beige, warm sand, burnt sienna, terracotta ochre, light umber, pale white, cool slate gray, soft Payne's gray-blue, touches of olive green and burnt orange. Subtle warm golden highlights from street lights. LIGHTING: Soft rainy afternoon transitioning into warm evening light; gentle glowing street lamps; luminous reflections on wet pavement; soft atmospheric perspective; delicate shadows; one dominant form—the Empire State Building—rendered sharp and bold. DETAILS: Intricate architectural details; fine cross-hatched ink work; wet-on-wet watercolor bleeding; visible paper texture; expressive loose shadow strokes; natural watercolor imperfections; subtle ink splatters; beautiful reflections of the woman, umbrella, buildings and lights in the wet street. COMPOSITION: Vertical 9:16 cinematic composition. Female character prominent in the foreground while the Empire State Building creates a powerful visual backdrop. Balanced leading lines from the street toward the building. Elegant negative space around the character. Fashion editorial + travel postcard + premium watercolor illustration. IMPORTANT: Photorealistic facial identity translated into watercolor illustration. Do not make the character cartoonish. No anime. No 3D render. No plastic-looking skin. No distorted hands. No extra fingers. No duplicated person. No distorted face. Keep the artwork painterly, sophisticated, loose, atmospheric and premium. --ar 9:16 --style raw --stylize 250
+```
+
+By [@Kubra\_286](https://x.com/Kubra_286/status/2099864465013629192)
+
+---
+
+<a id="evolink-sequential-art-case-246"></a>
+
+## Sixteen-Panel Dance Reference Sheet
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2099797756776677377.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2099797756776677377.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+Create a polished square-format dance reference sheet featuring the character from the uploaded reference image. The final image should be arranged as a clean 4×4 grid containing exactly 16 equally sized panels. Each panel represents the next key pose in a single uninterrupted dance sequence, read from left to right and then top to bottom. Reference Fidelity Treat the uploaded character as the definitive visual reference throughout the sheet. Across all 16 frames, keep the character’s identity completely stable, including: face and facial features hairstyle and hair length color palette body proportions and species clothing and garment construction accessories overall illustration and rendering style Any part of the character that is not visible in the reference should be inferred conservatively and then depicted the same way throughout the entire sequence. Choose a style of dance that feels natural for the character’s personality, anatomy, outfit, and available range of motion. Movement Logic The sixteen images are consecutive moments from one continuous routine, not sixteen unrelated dance poses. Every pose should flow naturally into the next through small steps, weight transfers, pivots, or continuing arm gestures. Keep the supporting limbs and direction of rotation physically consistent from frame to frame. Changes in orientation, body height, balance, and momentum should happen progressively rather than suddenly. Each frame should remain visually distinct while the overall routine develops through a clear progression: a relaxed opening, gradual build-up, expressive peak, and controlled settling finish. Choreography Follow this exact movement sequence: 1. Begin with feet comfortably apart, knees relaxed, and arms resting low. 2. Shift weight left, tapping the right foot outward as the hands drift left. 3. Transfer weight onto the right foot, letting both hands sweep low toward the right. 4. Draw the left foot inward while the hands continue upward to waist height. 5. Step the left foot forward diagonally, turning the torso slightly left as the arms round forward. 6. Rock onto the front left foot, allowing the rounded arms to rise toward chest height. 7. Push gently back onto the right foot, drawing the elbows toward the ribs. 8. Step the left foot out to the left, opening the left arm in the same direction. 9. Settle into a shallow left lunge while the right arm sweeps across the chest toward the left. 10. Deepen the lunge slightly as the right arm continues its arc overhead into a gentle left side bend. 11. Straighten gradually, keeping the right arm overhead while the left arm opens outward. 12. Reach the routine’s peak in a tall, grounded stance, extending both arms into an open upward diagonal. 13. Soften the knees and lower both arms outward through shoulder height. 14. Shift weight onto the left foot and pivot a quarter-turn left, letting the arms continue downward. 15. Bring the right foot forward into a small staggered stance, lifting the chest as the arms settle low behind the hips. 16. Finish in that same stance, turning the head toward the viewer with a character-appropriate expression and relaxed, deliberate hands. If the character has nonhuman anatomy, reinterpret the steps and gestures as the closest anatomically appropriate equivalents while preserving the same order, rhythm, direction, and continuity. Secondary Motion Hair, loose garments, and hanging accessories should react naturally to the choreography rather than remaining static. Their movement should follow the character’s momentum: hair and fabric lag slightly behind steps and sweeping gestures loose elements swing naturally during turns hair and garments fall with gravity during bends movement gradually settles as the routine approaches the final pose light fabrics flutter subtly heavier fabrics move with greater weight and slower follow-through fitted clothing develops believable folds around bending and twisting joints Keep all secondary motion proportional to this relatively gentle routine. Hair length, clothing construction, and accessory placement must remain consistent in every frame. Communicate movement through the changing shapes and positions of the hair and fabric themselves. Do not use motion lines, speed lines, ghosting, or movement trails. Sheet Presentation Use a square canvas containing a precise 4×4 grid. The presentation should include: exactly 16 equally sized panels one full-body character in every panel small, clearly readable numbers 1–16 in the upper-left corner of their corresponding panels a clean white background thin grid lines consistent character scale a fixed camera viewpoint consistent lighting and rendering comfortable empty space around every limb, hairstyle, ear, wing, tail, garment, and accessory subtle ground shadows clear silhouettes anatomically plausible joints convincing weight distribution and balance The character should never be cropped by the panel boundaries. Constraints Do not introduce repeated or near-identical poses, abrupt movement transitions, identity drift, costume changes, additional characters, new props, scenery, captions, or watermarks. Avoid extra or missing limbs, malformed hands, implausible joints, inconsistent supporting feet, accidental panel overlap, cropped features, sudden changes in character scale, or unexplained changes in orientation. The finished sheet should read immediately as sixteen carefully selected consecutive keyframes from one coherent dance performance by the same character.
+```
+
+By [@Scenario\_gg](https://x.com/Scenario_gg/status/2099797798388482395)
+
+---
+
+<a id="evolink-travel-journals-case-194"></a>
+
+## Autumn Watercolor Travel Journal
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2108403887631929344.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2108403887631929344.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+Create a premium 4:5 vertical autumn travel-journal artwork for [COUNTRY / CITY / LOCATION / SUBJECT]. TEXT-TO-IMAGE ONLY — generate every element from the written destination or subject alone. Do not request, upload, use, or depend on any reference image, existing photograph, or source image. MASTER STYLE LOCK: Hand-painted autumn watercolor on warm ivory paper, minimalist travel-editorial illustration, transparent watercolor washes mixed with soft gouache, delicate imperfect ink outlines, visible paper grain, natural pigment blooms, soft edges, muted autumn colors, generous negative space, warm nostalgic atmosphere, premium handcrafted art-book aesthetic. COMPOSITION: Divide the vertical canvas into two equal halves using a precise 50/50 left-right split. LEFT HALF — REALISTIC DESTINATION: Generate an original, natural-looking photograph-style scene of [COUNTRY / CITY / LOCATION / SUBJECT]. Automatically determine its recognizable architecture, scenery, atmosphere, and natural lighting. Preserve realistic textures, authentic colors, and believable perspective. Keep this entire half clean, with no text, labels, illustrations, borders, or decorative elements. RIGHT HALF — AUTUMN WATERCOLOR JOURNAL: Reimagine the same destination as a delicate, handmade autumn watercolor illustration. Use simplified rounded architecture, warm glowing windows, a small tree with dusty rose, apricot, and amber foliage, a few drifting leaves, and subtle watercolor clouds. Include only a few meaningful local details, keeping the composition airy and uncluttered. COLOR PALETTE: Caramel brown, dusty rose, apricot orange, creamy yellow, muted maple red, warm ivory, and faint lavender-grey shadows. Use soft, low-saturation afternoon light. No neon colors or harsh black. HANDMADE DETAILS: Add one or two narrow kraft-brown or dusty-pink washi tape strips, a small pressed autumn leaf, and a few delicate hand-drawn stars or arrows. Integrate these details naturally without overcrowding the illustration. DESTINATION LABEL: Place a small cream-colored paper label near the upper-left corner of the RIGHT HALF. Main title: [LOCATION NAME] Subtitle: [ENGLISH LOCATION NAME] Use rounded, handwritten Japanese-inspired lettering for the main title and smaller, widely spaced handwritten English lettering for the subtitle. Keep spelling accurate and typography legible. SIGNATURE LABEL: Near the bottom-right corner of the RIGHT HALF, add a small kraft-paper label with exactly this text: RYOBIYORI No. [NUMBER] / [YEAR] Use subtle, fine dark-brown lettering. STRICT LAYOUT RULES: All text, labels, washi tape, and decorative elements must remain entirely within the right half. The left half must contain only the original generated realistic destination scene. Never reproduce or modify an existing photograph. PAPER & FINISH: Warm ivory watercolor-paper texture, delicate fibers, subtle grain, organic pigment edges, and a carefully assembled travel-journal feeling. FINAL AESTHETIC: Realistic destination imagery × autumn watercolor illustration × handmade travel journal × nostalgic seasonal palette × premium editorial design. AVOID: Reference-image requests, image-editing instructions, existing-photo preservation, unequal panel widths, text crossing the center divider, excessive decoration, oversaturated colors, glossy digital painting, 3D rendering, misspelled text, extra logos, watermarks, and interface elements. OUTPUT: 4:5 vertical portrait, exact 50/50 left-right composition, realistic generated destination scene on the left, watercolor travel-journal illustration on the right, ultra-high definition.
+```
+
+By [@Goodmanprotocol](https://x.com/Goodmanprotocol/status/2108403968372306010)
+
+---
+
+<a id="evolink-travel-journals-case-195"></a>
+
+## Watercolor Travel Magazine Spread
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2108198950264270848.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2108198950264270848.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+Create a premium 4:5 vertical travel-editorial artwork for [COUNTRY / CITY / LOCATION / SUBJECT]. PURE GENERATION. Invent the complete artwork from the written destination or subject alone. The written destination is the only input. Create every visual element from your own knowledge and imagination. MASTER STYLE LOCK: Hand-painted watercolor on warm cream textured paper. Minimalist travel-editorial poster. Transparent watercolor blended with soft gouache. Soft imperfect brushwork, visible paper grain, organic painted edges, muted natural colors, generous negative space, quiet nostalgic atmosphere, sophisticated handcrafted art-book quality. Flat illustrated artwork with painterly depth. No 3D rendering, no glossy finish, no cartoon style, no digital photorealism. DESTINATION INTERPRETATION: Automatically identify the strongest visual identity of [COUNTRY / CITY / LOCATION / SUBJECT]. Select the most recognizable landmark, architecture, landscape, street character, transportation, vegetation, local objects, or cultural details that naturally belong to the destination. Create ONE unified scene rather than a collection of separate elements. COMPOSITION: Use an elegant vertical editorial composition with one dominant focal point and several smaller supporting details. Establish clear foreground, middle ground, and background layers using watercolor washes and simplified shapes. Leave generous warm cream space around important forms. Keep the silhouette clean and immediately recognizable. Avoid overcrowding. LOCAL STORY: Show an authentic everyday moment connected to the destination. Include subtle human activity only when it strengthens the story: walking, cycling, sitting, shopping, traveling, eating, working, or simply enjoying the surroundings. Favor ordinary local atmosphere over generic tourism imagery. LIGHT & ATMOSPHERE: Automatically choose lighting that suits the destination and scene: soft morning light, warm afternoon glow, misty weather, gentle sunset, or quiet evening illumination. Use atmospheric watercolor washes to create depth while maintaining a calm, delicate feeling. COLOR LANGUAGE: Build the palette naturally from [COUNTRY / CITY / LOCATION / SUBJECT]. Use warm cream, muted ochre, terracotta, dusty blue, soft green, faded red, warm grey, and subtle golden tones where appropriate. Keep the colors slightly desaturated, harmonious, and naturally layered. TYPOGRAPHY: At the bottom of the artwork, add three restrained editorial text elements: [LOCATION NAME] [SHORT DESTINATION-INSPIRED SUBTITLE] [SHORT WARM POETIC SENTENCE] Use elegant minimal typography with generous spacing. Keep it secondary to the artwork and ensure all wording is clean and correctly spelled. FINAL AESTHETIC: Premium handmade watercolor travel poster × contemporary editorial illustration × nostalgic travel memory × quiet everyday life × sophisticated art-book design. The finished artwork should feel like a beautifully remembered place painted by hand: atmospheric, personal, refined, understated, and unmistakably connected to [COUNTRY / CITY / LOCATION / SUBJECT]. AVOID: Any editing workflow, source material, references, existing compositions, copied imagery, collage construction, unrelated landmarks, generic scenery, excessive detail, oversaturated colors, harsh outlines, glossy digital effects, CGI, 3D objects, cartoon characters, clutter, excessive typography, logos, watermarks, interface elements. FORMAT: 4:5 vertical portrait composition, warm cream paper, handcrafted watercolor texture, generous negative space, premium print-quality finish.
+```
+
+By [@Goodmanprotocol](https://x.com/Goodmanprotocol/status/2108199004546933097)
+
+---
+
+<a id="evolink-travel-journals-case-203"></a>
+
+## Istanbul and Venice Watercolors
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2106326192421064704.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2106326192421064704.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+Create a single elegant vintage watercolor travel poster that beautifully combines the atmosphere of Istanbul, Turkey and Venice, Italy into one cohesive artistic scene. Blend Istanbul’s magnificent Ottoman mosques, elegant domes, tall slender minarets, Bosphorus waterfront, small ferries and sailboats with Venice’s historic Venetian buildings, Grand Canal, Rialto-style stone bridge, gondolas and romantic waterways. Use a refined hand-painted watercolor illustration style on textured warm ivory paper, with soft blue, muted teal, warm beige, dusty lavender and subtle terracotta tones. Add natural watercolor splashes, paint bleeds, delicate ink details and slightly imperfect hand-painted edges around the main composition. The architecture should be highly detailed yet artistic, with realistic reflections across the water, atmospheric distant buildings, gentle sunlight, elegant boats and a peaceful travel-diary feeling. Make Istanbul and Venice visually merge through the waterways so the whole artwork feels like one magical city where two historic worlds meet, not two separate pictures. Add sophisticated handwritten-style typography at the bottom: “ISTANBUL & VENICE” and underneath in smaller elegant script: “Where Worlds Meet • Cities on Water” Overall look: luxury vintage travel poster, European travel journal, premium watercolor artwork, nostalgic, artistic, sophisticated, highly detailed, cinematic composition, realistic watercolor texture, 8K quality.
+```
+
+By [@KrishnaBio1](https://x.com/KrishnaBio1/status/2106326234322059308)
+
+---
+
+<a id="evolink-travel-journals-case-214"></a>
+
+## Travel Photo and Watercolor Poster
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2103717888377176064.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2103717888377176064.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+Create a refined editorial travel-art composition based on a reference photograph. The image is divided vertically into two parts: the upper section is a realistic cinematic travel photograph, while the lower section transforms the exact same scene into a delicate hand-painted watercolor illustration. Upper section: authentic candid travel photography, natural daylight, soft shadows, subtle film grain, realistic textures, sophisticated European atmosphere, documentary-style composition, people naturally walking through the scene, beautiful architectural details, slightly muted elegant colors, high-end travel magazine photography. Lower section: a minimalist handmade watercolor painting of the exact same scene, preserving the recognizable composition, architecture, people, poses, perspective and major visual elements from the photograph. Loose translucent watercolor washes, delicate ink details, visible paper texture, soft edges, imperfect brushwork, subtle pigment bleeding, airy negative space, understated pastel tones, artistic but realistic. Leave generous warm ivory/off-white textured paper space surrounding the watercolor illustration. Add a small elegant handwritten caption near the bottom, such as “summer days” or “a quiet afternoon”, with a thin minimalist horizontal line underneath. Overall aesthetic: luxury travel journal, fine-art watercolor postcard, contemporary editorial design, nostalgic European summer, understated elegance, tactile handmade paper, sophisticated and serene. Portrait orientation, clean composition, premium art direction, no clutter, no borders, natural proportions, highly detailed photograph transitioning into an airy watercolor illustration.
+```
+
+By [@novaXsignals](https://x.com/novaXsignals/status/2103717928634122598)
+
+---
+
+<a id="evolink-travel-journals-case-220"></a>
+
+## Sunny and Rainy Tropical Beach
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2103099902935126016.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2103099902935126016.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+A breathtaking tropical beach at sunset, with a dramatic split-weather sky. On the left, a warm golden sunset glows over the horizon, casting shimmering reflections across the calm turquoise ocean, with a small sailboat silhouetted near the sun. On the right, enormous dark storm clouds build over the ocean, with heavy rain falling in the distance and bright lightning striking beneath the clouds. Powerful ocean waves crash onto a sandy tropical beach, creating detailed white foam and reflections. Tall coconut palm trees frame both sides of the composition, with tropical vegetation, scattered rocks, driftwood, and a colorful beach kite on the right shoreline. Cinematic lighting, dramatic contrast between warm sunset and cool storm, ultra-realistic, highly detailed, photorealistic, vibrant colors, atmospheric depth, 8K. Below, recreate the exact same beach scene as a beautiful hand-painted watercolor and ink artwork on warm off-white textured paper. Preserve the same composition, sunset, storm clouds, lightning, ocean waves, palm trees, sailboat, beach, rocks, driftwood, and kite. Use delicate watercolor washes, expressive brush strokes, subtle ink outlines, natural color blending, visible paper texture, and irregular watercolor edges with artistic paint splashes around the border. Elegant traditional watercolor aesthetic, highly detailed, no text, no watermark.
+```
+
+By [@mehwishkiran07](https://x.com/mehwishkiran07/status/2103100544957223253)
+
+---
+
+<a id="evolink-travel-journals-case-221"></a>
+
+## Editorial Photo Scrapbook
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2103079736297881600.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2103079736297881600.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+Create a vertical editorial scrapbook-style photo composition using the uploaded image as the main subject and preserve the woman’s exact facial identity, hairstyle, black outfit, pose, and overall appearance. Place the original photorealistic image in the upper section on textured cream paper with slightly torn, irregular edges. Below it, create a second version of the exact same scene as a beautiful hand-painted watercolor and ink artwork, keeping the woman, pose, sunset, stone wall, wet pathway, glowing lanterns, lake, mountains, city, trees, and dramatic orange clouds recognizable and consistent. The lower watercolor version should have natural watercolor washes, visible paper texture, soft ink outlines, artistic paint bleeding, irregular colorful watercolor splashes around the edges, and a handcrafted premium art-journal aesthetic. Keep the composition elegant and balanced with generous cream-paper space around both images. At the bottom, add tasteful handwritten-style text reading “Fiery Sunset”, with a thin horizontal line on each side and a small heart underneath. Warm cinematic lighting, highly detailed, realistic upper photo, artistic watercolor lower image, sophisticated Instagram editorial design, vertical 4:5 composition.
+```
+
+By [@Alina\_with\_Ai](https://x.com/Alina_with_Ai/status/2103079961490075859)
+
+---
+
+<a id="evolink-travel-journals-case-222"></a>
+
+## Japanese Cafe Memory Journal
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2103047734710145024.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2103047734710145024.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+Create a premium editorial “memory journal” page combining a real lifestyle photograph with a hand-drawn illustrated interpretation of the same moment. Use a vertical 4:5 composition divided diagonally/vertically into two complementary sections: the left side is a warm, natural, slightly film-grainy photograph of a Japanese café scene, showing beautifully plated food or dessert and coffee on a wooden table, with realistic ambient café details, soft window light, shallow depth of field, and subtle nostalgic tones; the right side is a minimalist hand-painted watercolor/colored-pencil illustration recreating the same food and drink with delicate imperfect ink outlines, muted earthy colors, visible paper texture, and an artistic handmade feel. Keep the right side mostly warm ivory textured paper with generous negative space. Beneath the illustration, add small typewriter-style archival text containing the location, item number, short memory keywords, and year, such as “Tokyo, Japan / No. 0018 / coffee / toast / quiet time / 2026”. The design should feel like a curated Japanese travel diary, café memory archive, contemporary scrapbook, and vintage lifestyle magazine, with sophisticated editorial composition, warm cream paper, muted teal, brown, beige and dusty colors, subtle grain, imperfect printing, understated typography, authentic tactile paper texture, elegant minimalism, photorealistic photography seamlessly paired with handmade illustration, high detail, cohesive visual storytelling, no logos, no watermark.
+```
+
+By [@KrishnaBio1](https://x.com/KrishnaBio1/status/2103047859281019130)
+
+---
+
+<a id="evolink-travel-journals-case-225"></a>
+
+## Three-City Travel Story
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2102691065195282432.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2102691065195282432.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+Create a premium vertical 9:16 luxury travel artwork by seamlessly combining all three uploaded reference images into one cohesive visual story. Show the same stylish woman traveling through three iconic destinations: 1. Paris — elegant Parisian streets with the Eiffel Tower, beige sophisticated outfit, black sunglasses and luxury city-walk atmosphere. 2. Dubai — modern waterfront promenade with Burj Khalifa, soft neutral modest outfit with a flowing scarf, warm upscale atmosphere. 3. Sydney — Sydney Opera House beside the waterfront, casual white top, light blue jeans, sneakers and relaxed summer-travel mood. Blend all three destinations together with elegant watercolor splash transitions, soft artistic paint textures, subtle paper details and realistic photographic elements. Keep the woman’s appearance, facial identity, proportions and styling natural and consistent throughout the three scenes. Luxury travel editorial aesthetic, cinematic natural lighting, premium composition, soft pastel tones, realistic details mixed with artistic watercolor, clean elegant background, sophisticated lifestyle photography, high-end travel magazine design, ultra-detailed, sharp subject, balanced composition, 8K quality. Add a tasteful handwritten-style title near the bottom: “WANDER • DREAM • DISCOVER” Make the final image feel like one beautiful international travel story rather than three unrelated pictures.
+```
+
+By [@KrishnaBio1](https://x.com/KrishnaBio1/status/2102691226902552591)
+
+---
+
+<a id="evolink-travel-journals-case-236"></a>
+
+## New York Photo and Travel Postcard
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2098961132820258816.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2098961132820258816.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+Create a premium vertical 4:5 travel postcard-style composition with two sections. TOP SECTION — PHOTOREALISTIC TRAVEL PHOTOGRAPH: Show a breathtaking cinematic view of New York City, United States, from a charming riverside café terrace during golden hour. The Brooklyn Bridge stretches across the river, with the Manhattan skyline and One World Trade Center clearly visible in the background. A large American flag 🇺🇸 hangs naturally from a historic building in the foreground. Include beautiful flower planters, wooden café tables and chairs, warm vintage lanterns, small candles, lush greenery, riverboats, and realistic reflections on the water. The sky has dramatic orange, peach, pink and soft blue clouds with the sun low near the horizon. Warm cinematic lighting, realistic architecture, rich details, professional travel photography, luxury tourism magazine aesthetic, natural depth of field, highly realistic. Add a small elegant black hanging sign on the left with tasteful decorative text. BOTTOM SECTION — WATERCOLOR POSTCARD: Recreate the same scene as a beautiful hand-painted watercolor illustration on premium textured ivory/cream paper. Preserve the Brooklyn Bridge, Manhattan skyline, American flag, café terrace, flowers, river and major architectural elements, but transform everything into delicate watercolor brushwork with soft artistic edges. Use a sophisticated travel-journal/postcard aesthetic with subtle paper texture and elegant negative space. At the bottom center, add refined handwritten typography: “New York City” Below it: “UNITED STATES” Then a small American flag 🇺🇸 Then: “2025” OVERALL STYLE: Luxury travel postcard, editorial tourism campaign, cinematic photography combined with watercolor illustration, sophisticated composition, premium paper texture, warm romantic atmosphere, highly detailed, visually polished, elegant typography. IMPORTANT: Keep the overall two-section layout: realistic photograph on top + watercolor interpretation underneath. The watercolor should clearly correspond to the photograph. Use a vertical 4:5 composition. No people as the main subject.
+```
+
+By [@Alina\_with\_Ai](https://x.com/Alina_with_Ai/status/2098962796893651067)
+
+---
+
+<a id="freestylefly-case-6"></a>
+
+## 插画艺术创作图
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case6.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case6.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+参考图是角色人设图，为参考图的少女绘制一副日系唯美奇幻风格插画。 【构图】这是一个宏大的中景日系奇幻插画构图，画面中心是完全保留了完整细节的可爱少女，她站立在无边的、如镜面般平滑的水面中心。天空呈现出高饱和度的粉紫与深蓝交织，一条耀眼的蓝色巨型流星划破天际，配合着边缘发光的瑰丽层云。女孩处于背光状态，形成一个暗调但依然清晰可辨其服装和紫色明亮眼眸的剪影，被流星和星空的边缘光细腻勾勒，她微微仰头，一只手轻轻张开。下方的水面完美、对称地反射出整个壮丽的星空、流星、云彩，以及女孩清晰的倒影，点缀着微小的发光点，营造出天人合一、空灵静谧的唯美梦境意境。 【日系唯美奇幻风格说明】该风格以高饱和度的粉紫冷暖色调交织出浩瀚星空，并辅以壮丽的流星与边缘发光的层云作为视觉奇观；画面巧妙利用“天空之镜”般的完美水面反射，将宏大的宇宙背景与孤独静立的人物剪影相融合，通过极具电影感的光影渲染与高对比度的表现手法，营造出一种空灵、静谧且带有超现实宿命感的梦境氛围。 【要求】生成图片的比例9:16，分辨率 4k。
+```
+
+By [小红书号yi\_xiao\_jiu](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-6)
+
+---
+
+[1](illustrations.md) · **2** · [3](illustrations-3.md) · [4](illustrations-4.md) · [5](illustrations-5.md)
 
 [← Home](../README.md)

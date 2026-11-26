@@ -6,6 +6,22 @@
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
+<a id="freestylefly-case-73"></a>
+
+## 信息图可视化设计
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case73.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case73.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+{ "type": "complex urban systems atlas infographic", "style": "{argument name=\"color palette\" default=\"dark background with glowing blue, gold, and purple accents\"}, highly detailed technical illustration, 3D isometric cutaway", "header": { "title": "{argument name=\"chinese city name\" default=\"上海\"}城市系统剖面 {argument name=\"english city name\" default=\"SHANGHAI\"} URBAN SYSTEMS ATLAS", "subtitles": [ "地表之上，是城市；地表之下，是秩序 {argument name=\"english subtitle\" default=\"Beneath the skyline lies the machine.\"}", "一座城市如何运转 How a Megacity Actually Works" ] }, "layout": { "top_left": "Compass rose and city map labeled '上海市域位置 SHANGHAI LOCATION'", "top_right": "Data table titled '城市数据 CITY DATA' with 7 rows of statistics", "centerpiece": { "description": "{argument name=\"centerpiece style\" default=\"highly detailed 3D isometric cutaway render\"} of a megacity river landscape", "layers": [ "地面层 SURFACE", "排水层 DRAINAGE LAYER", "电力层 POWER LAYER", "通信层 COMMUNICATION LAYER", "轨道交通层 METRO LAYER", "道路隧道层 ROAD TUNNEL LAYER", "管廊综合层 UTILITY CORRIDOR LAYER" ] }, "side_panels": [ { "id": "01", "title": "城市主骨架 URBAN SKELETON", "elements": "Map with 8 legend items" }, { "id": "02", "title": "排水与地下水网 DRAINAGE + STORMWATER", "elements": "Cross-section diagram '典型排水剖面 DRAINAGE SECTION' with 5 legend items" }, { "id": "03", "title": "电网与能源分配 POWER GRID + ENERGY", "elements": "Cross-section diagram '典型变电站剖面 SUBSTATION SECTION' with 6 legend items" }, { "id": "04", "title": "通信与网络骨干 TELECOM + INTERNET", "elements": "Cross-section diagram '数据中心剖面 DATA CENTER SECTION' with 6 legend items" }, { "id": "05", "title": "地铁与地下交通 METRO + SUBSURFACE MOBILITY", "elements": "Cross-section diagram '人民广场站剖面 PEOPLE'S SQUARE STATION' with 6 legend items" }, { "id": "06", "title": "道路、高架与循环 ROADS + ELEVATED MOBILITY", "elements": "Cross-section diagram '南浦大桥剖面 NANPU BRIDGE SECTION' with 6 legend items" }, { "id": "07", "title": "管廊与地下设施 UTILITY CORRIDORS + PLUMBING", "elements": "Cross-section diagram '综合管廊 UTILITY CORRIDOR' with 8 legend items" }, { "id": "08", "title": "城市流量与系统协同 URBAN FLOWS + COORDINATION", "elements": "Map diagram '城市运行指挥中心 CITY OPERATIONS CENTER' with 6 legend items" } ], "bottom_panels": { "system_logic": { "title": "城市系统协同逻辑 SYSTEM COORDINATION LOGIC", "steps": 4, "labels": ["感知层 SENSING LAYER", "网络层 NETWORK LAYER", "平台层 PLATFORM LAYER", "应用层 APPLICATION LAYER"] }, "city_brain": { "title": "城市大脑 CITY BRAIN", "central_node": 1, "peripheral_nodes": 8 }, "references": { "depth_scale": { "title": "深度与尺度 DEPTH & SCALE REFERENCE", "icons": 5 }, "map_scale": { "title": "比例尺 SCALE", "markers": 4 } } } } }
+```
+
+By [@hx831126](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-73)
+
+---
+
 <a id="freestylefly-case-74"></a>
 
 ## 关系图谱信息图
@@ -99,70 +115,6 @@ By [@HumanOS\_v2](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999c
 ```
 
 By [@NumeroBTC](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-83)
-
----
-
-<a id="freestylefly-case-84"></a>
-
-## 关系图谱信息图
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case84.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case84.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Please generate a high-design character relationship map poster based on {argument name="theme" default="Demon Slayer"}. This image should not be a simple illustration, but a character relationship map that combines information visualization, narrative structure, poster design sense, and stylistic fidelity. Please automatically complete the following: - Identify the work and core settings corresponding to the theme - Extract the most representative 6–12 key characters, not exceeding 15 if necessary - Identify and display key character relationships, including blood ties, romance, friendship, alliances, hostility, master-disciple, etc. - Automatically choose a composition method based on the work's characteristics, such as protagonist-centered, dual-core confrontation, faction-based, family tree, or chronological evolution - Automatically refine the work's style DNA, including color, worldview symbols, textures, mood, typography, and representative elements - Transform these stylistic elements into an overall visual design for the relationship map, rather than simply copying an official poster - Use different colors, line types, and arrows to distinguish different relationships, ensuring clear lines and layers without clutter - Make core characters most prominent, followed by important characters, and subordinate characters weakened to form a clear visual hierarchy - Ensure every character name is legible, with identity or faction labels if necessary The final product should satisfy: - Immediate understanding of character hierarchy and key relationships - Obvious alignment with the original work's temperament and setting - Combines the clarity of an infographic with the premium design of a poster - Unified, exquisite, complete, and suitable for social media sharing or poster display - Avoids a cheap flowchart feel, messy piling, and information overload.
-```
-
-By [@MrLarus](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-84)
-
----
-
-<a id="freestylefly-case-85"></a>
-
-## 关系图谱信息图
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case85.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case85.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Please generate a high-design character relationship map poster based on {argument name="theme" default="Demon Slayer"}. This image should not be a simple illustration, but a character relationship map that combines information visualization, narrative structure, poster design sense, and stylistic fidelity. Please automatically complete the following: - Identify the work and core settings corresponding to the theme - Extract the most representative 6–12 key characters, not exceeding 15 if necessary - Identify and display key character relationships, including blood ties, romance, friendship, alliances, hostility, master-disciple, etc. - Automatically choose a composition method based on the work's characteristics, such as protagonist-centered, dual-core confrontation, faction-based, family tree, or chronological evolution - Automatically refine the work's style DNA, including color, worldview symbols, textures, mood, typography, and representative elements - Transform these stylistic elements into an overall visual design for the relationship map, rather than simply copying an official poster - Use different colors, line types, and arrows to distinguish different relationships, ensuring clear lines and layers without clutter - Make core characters most prominent, followed by important characters, and subordinate characters weakened to form a clear visual hierarchy - Ensure every character name is legible, with identity or faction labels if necessary The final product should satisfy: - Immediate understanding of character hierarchy and key relationships - Obvious alignment with the original work's temperament and setting - Combines the clarity of an infographic with the premium design of a poster - Unified, exquisite, complete, and suitable for social media sharing or poster display - Avoids a cheap flowchart feel, messy piling, and information overload.
-```
-
-By [@MrLarus](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-85)
-
----
-
-<a id="freestylefly-case-86"></a>
-
-## 关系图谱信息图
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case86.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case86.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Please generate a high-design character relationship map poster based on {argument name="theme" default="Demon Slayer"}. This image should not be a simple illustration, but a character relationship map that combines information visualization, narrative structure, poster design sense, and stylistic fidelity. Please automatically complete the following: - Identify the work and core settings corresponding to the theme - Extract the most representative 6–12 key characters, not exceeding 15 if necessary - Identify and display key character relationships, including blood ties, romance, friendship, alliances, hostility, master-disciple, etc. - Automatically choose a composition method based on the work's characteristics, such as protagonist-centered, dual-core confrontation, faction-based, family tree, or chronological evolution - Automatically refine the work's style DNA, including color, worldview symbols, textures, mood, typography, and representative elements - Transform these stylistic elements into an overall visual design for the relationship map, rather than simply copying an official poster - Use different colors, line types, and arrows to distinguish different relationships, ensuring clear lines and layers without clutter - Make core characters most prominent, followed by important characters, and subordinate characters weakened to form a clear visual hierarchy - Ensure every character name is legible, with identity or faction labels if necessary The final product should satisfy: - Immediate understanding of character hierarchy and key relationships - Obvious alignment with the original work's temperament and setting - Combines the clarity of an infographic with the premium design of a poster - Unified, exquisite, complete, and suitable for social media sharing or poster display - Avoids a cheap flowchart feel, messy piling, and information overload.
-```
-
-By [@MrLarus](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-86)
-
----
-
-<a id="freestylefly-case-87"></a>
-
-## 关系图谱信息图
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case87.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case87.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Please generate a high-design character relationship map poster based on {argument name="theme" default="Demon Slayer"}. This image should not be a simple illustration, but a character relationship map that combines information visualization, narrative structure, poster design sense, and stylistic fidelity. Please automatically complete the following: - Identify the work and core settings corresponding to the theme - Extract the most representative 6–12 key characters, not exceeding 15 if necessary - Identify and display key character relationships, including blood ties, romance, friendship, alliances, hostility, master-disciple, etc. - Automatically choose a composition method based on the work's characteristics, such as protagonist-centered, dual-core confrontation, faction-based, family tree, or chronological evolution - Automatically refine the work's style DNA, including color, worldview symbols, textures, mood, typography, and representative elements - Transform these stylistic elements into an overall visual design for the relationship map, rather than simply copying an official poster - Use different colors, line types, and arrows to distinguish different relationships, ensuring clear lines and layers without clutter - Make core characters most prominent, followed by important characters, and subordinate characters weakened to form a clear visual hierarchy - Ensure every character name is legible, with identity or faction labels if necessary The final product should satisfy: - Immediate understanding of character hierarchy and key relationships - Obvious alignment with the original work's temperament and setting - Combines the clarity of an infographic with the premium design of a poster - Unified, exquisite, complete, and suitable for social media sharing or poster display - Avoids a cheap flowchart feel, messy piling, and information overload.
-```
-
-By [@MrLarus](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-87)
 
 ---
 
@@ -262,6 +214,22 @@ By [@umesh\_ai](https://x.com/umesh_ai/status/2046510988367945983)
 
 ---
 
+<a id="freestylefly-case-179"></a>
+
+## 蒸汽朋克射手座解剖图谱
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case179.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case179.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+[中文] （Steampunk Scientific Illustrator）你是一位专业复古蒸汽朋克解剖图谱设计师，擅长星座机械结构科普海报。根据用户指定的【{constellation_name}】，生成一张复古蒸汽朋克风格星座解剖图谱海报：顶部标题栏为“{constellation_name}解剖图谱”或“ANATOMIA {constellation_en}”，采用复古丝带横幅设计；背景为做旧羊皮纸/泛黄旧纸张纹理，带自然污渍与折痕，营造复古科学手稿质感；中心主体为该星座经典神话形象，内部结构替换为精密齿轮、管线、金属骨骼等蒸汽朋克元素；所有图标与插画为手绘线稿风格，用箭头或连线展示逻辑关系；主色调为暖棕、米黄、古铜色，点缀少量高对比色彩突出重点；画面分左右两栏，中心为主体形象，两侧分布功能模块，底部为总结与表格。左侧含3-5个功能模块（含图标、标题、描述）及“五层性格结构”分层图示；右侧含3-5个特质模块（含图标、标签）及“Relationship classification”“Ecological niche”板块；底部设“Advantages/Risks comparison table”优势风险对比表、“Survival guide”生存指南、底部人生哲学宣言横幅。整体严谨精致、复古机械美学，文字清晰可读 4K高清，直接出图，星座为【射手座 / Sagittarius】。 [English] (Steampunk Scientific Illustrator) You are a professional vintage steampunk anatomy atlas designer, specializing in constellation mechanical structure popular science posters. Based on the user-specified [{constellation_name}], generate a vintage steampunk style constellation anatomy atlas poster: The top title bar is "{constellation_name} anatomy atlas" or "ANATOMIA {constellation_en}", adopting a vintage ribbon banner design; The background is distressed parchment/yellowed old paper texture, with natural stains and creases, creating a vintage scientific manuscript texture; The central subject is the classic mythological image of this constellation, with the internal structure replaced by steampunk elements such as precision gears, pipelines, and metal skeletons; All icons and illustrations are in hand-drawn line art style, using arrows or connecting lines to show logical relationships; The main color tone is warm brown, beige, and bronze, dotted with a small amount of high-contrast colors to highlight key points; The picture is divided into left and right columns, the center is the main image, functional modules are distributed on both sides, and the bottom is a summary and table. The left side contains 3-5 functional modules (including icons, titles, descriptions) and a "Five-layer personality structure" layered diagram; The right side contains 3-5 trait modules (including icons, labels) and "Relationship classification" and "Ecological niche" sections; The bottom features an "Advantages/Risks comparison table", "Survival guide", and a bottom life philosophy manifesto banner. Overall rigorous and exquisite, vintage mechanical aesthetics, text is clear and readable 4K high definition, direct image output, the constellation is [Sagittarius / Sagittarius].
+```
+
+By [@GeekCatX](https://x.com/GeekCatX/status/2046574334572212694)
+
+---
+
 <a id="freestylefly-case-183"></a>
 
 ## 一张中文健身信息图
@@ -278,6 +246,70 @@ By [@MrLarus](https://x.com/MrLarus/status/2046560406760505727)
 
 ---
 
+<a id="freestylefly-case-210"></a>
+
+## 萌系大模型训练图解
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case210.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case210.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+[中文] 可爱地解释一下大语言模型训练过程 [English] Cute explanation of the large language model training process
+```
+
+By [@op7418](https://x.com/op7418/status/2046502136973001143)
+
+---
+
+<a id="freestylefly-case-211"></a>
+
+## 天坛古建拆解全图
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case211.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case211.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+[中文] 生成一个天坛的建筑拆解图，有详细的说明，中式美学风格 [English] Generate an architectural exploded view of the Temple of Heaven, with detailed annotations, Chinese aesthetic style
+```
+
+By [@TanShilong](https://x.com/TanShilong/status/2046524996013662380)
+
+---
+
+<a id="freestylefly-case-214"></a>
+
+## 绘制金瓶梅知识图谱
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case214.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case214.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+Role: World-class Scientific Encyclopedia Illustrator & Knowledge Graph Architect. Task: Generate a highly detailed, extremely intricate, and visually stunning "Universal Illustrated Encyclopedia Science Infographic" in a classic, unbranded (NO logos) scientific encyclopedia style. Subject Matter: Choose one from [People, Plants, or Animals]. Specific Subject: [e.g., The Giant Squid / Leonardo da Vinci / The Sequoia Tree]. Style: Fine, detailed scientific illustration on a retro, aged beige paper background. Delicate linework. Intricately complex and professional. Key Visual Requirements: 1.  Lifelike 3D Effect (The Central Subject): The central subject in the "C position" must be rendered with extraordinary realism and dynamism. Create a dramatic sense of depth where the character, plant, or animal appears to break the frame, leaping or bursting out of the flat paper towards the viewer (an effect similar to anamorphic 3D or dynamic pop-out, with high-precision realism). 2.  Layout & Strategic White Space: * Central Subject: Dominates the center, with intentional "strategic white space" around it to enhance the popping-out effect and make the figure the clear focal point. * Surrounding Modules: The surrounding area (left, right, top, bottom, and corners) must be filled with 6-8 distinct, highly organized knowledge modules, depending on the subject. There should be a sense of organized density, not random clutter. The modules themselves must have clear borders, headers, and extensive, detailed content. 3.  Connections: Use a complex, logical network of fine leader lines, arrows, brackets, dotted lines, and small connection points to link the central figure to all surrounding modules, and interconnect the modules themselves into a cohesive knowledge web. 4.  Text & Annotation (Hard Requirement - Must be CLEAR Chinese): * Main Title: A large, prominent, beautifully executed **Chinese calligraphy** (书法体) of the specific subject's name [e.g., "大王乌贼"]. * Calligraphic Accents: Scattered throughout the main content and module titles, use beautiful, clear Chinese calligraphy for important terms. * Standard Chinese Text: All other descriptive text, handwritten notes (大量清晰中文手写注释), module content, and annotations must be clear, legible Chinese characters (简体中文), not gibberish or unreadable symbols. Ensure text clarity is prioritized. * Leader Line Annotations: Every single small component, detail, submodule, diagram, or illustration within the modules must have detailed leader line annotations (拟解剖图) pointing directly to it for maximum professionalism and educational value. Every part should be labeled. Subject-Specific Module Structure (Example for general reference): A. For Humans [People]: - Module 1: Anatomy & Skeletal Structure (w/ magnified cross-sections) - Module 2: Physiological Processes (e.g., Circulatory/Nervous System) - Module 3: Historical Context & Timeline (Key Achievements) - Module 4: Major Contribution Diagram (Detailed breakdown) - Module 5: Cognitive Process / Psychological Insight - Module 6: Genetic Profile / Evolution - Module 7: Global Influence & Cultural Impact - Module 8: Cultural Representations / Legacy B. For Animals: - Module 1: Full External Sketch & Anatomy (w/ microscope magnified detail circular windows) - Module 2: Behavioral Patterns & Lifecycle (e.g., Mating/Migration, Flowchart style) - Module 3: Digestive & Skeletal System - Module 4: Habitats & Distribution Map (with environmental details) - Module 5: Unique Adaptations (e.g., camouflage, hunting tools) - Module 6: Evolutionary History & Relatives - Module 7: Symbiotic Relationships / Ecosystem Role - Module 8: Conservation Status & Human Interaction C. For Plants: - Module 1: Full Plant Sketch & Anatomy (w/ magnified leaf/root details) - Module 2: Photosynthesis & Lifecycle Flow (w/ icons for environment) - Module 3: Cellular Structure (Magnified circular views) - Module 4: Medicinal Properties / Practical Applications (as in original original prompt) - Module 5: Environmental Adaptations / Unique Features - Module 6: Distribution Map & Environmental Context - Module 7: Genetic Variations & Cultivation - Module 8: Historical Usage & Folklore Overall Composition: Extremely dense with information, organized into 6-8 structured modules, but balanced with strategic empty space around the center to allow the main, hyper-realistic figure to pop. Hard-core, professional, academic, but visually engaging due to the dynamic 3D central figure. No branding from any specific encyclopedia (e.g., no "DK" logos). All annotations must be legible. All handwritten notes must be clear. Main titles in Chinese calligraphy. Aspect Ratio: 3:4. 主题内容：潘金莲
+```
+
+By [@xiaoxiaodong01](https://x.com/xiaoxiaodong01/status/2046252164717416641)
+
+---
+
+<a id="freestylefly-case-218"></a>
+
+## 绘制科学百科知识图谱
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case218.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case218.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+[中文] 角色：世界级科学百科插画师兼知识图谱架构师 任务：以经典、无品牌标识（无任何 Logo）的科学百科风格，创作一幅细节极致丰富、结构极其精巧、视觉效果惊艳的「环球图解百科科学信息图」。 题材选择：从【人物、植物、动物】中任选其一。 具体对象：【例如：大王乌贼 / 列奥纳多・达・芬奇 / 红杉树】 风格：采用复古泛黄米色纸张背景，绘制精细工整的科学插画；线条细腻精致，整体繁复专业、严谨考究。 核心视觉要求 主体逼真 3D 效果 位于画面视觉中心（C 位）的主体形象，需具备极致的写实感与动态张力。营造强烈的空间纵深感，让人物、植物或动物仿佛突破画框，从平面纸张中跃出、冲向观者（效果类似变形 3D 或动态弹出效果，高精度写实呈现）。 版式布局与留白设计 主体位置：占据画面中心，周围刻意设置规划式留白，强化立体弹出效果，使其成为绝对视觉焦点。 周边模块：根据所选题材，在画面四周（上下左右及四角）排布 6–8 个独立且规整有序的知识模块。整体呈现规整的信息密度感，而非杂乱堆砌。每个模块需带有清晰边框、标题栏与详尽丰富的内容。 关联结构 运用纤细的指示线、箭头、括号、虚线与小型连接点，构建复杂且逻辑清晰的网络，将中心主体与所有周边模块相连，并使各模块之间相互关联，形成完整统一的知识体系。 文字与标注（硬性要求：必须为清晰中文） 主标题：以醒目大气、笔法优美的中文书法字体呈现具体对象名称【例如：大王乌贼】。 书法点缀：在主体画面与模块标题中，对关键术语使用工整美观的中文书法字体标注。 标准中文文本：其余所有说明文字、大量清晰中文手写注释、模块内容及注解均使用清晰可辨的简体汉字，不得出现乱码或无法识别符号，优先保证文字可读性。 指示线标注：模块内所有细小结构、细节、子模块、图表与插画，均需搭配详尽的指示线标注（仿解剖图形式），直接指向对应部位，最大化体现专业性与科普价值，做到每一处结构均有标注。 分题材模块结构（参考示例） A. 人物类 模块 1：解剖结构与骨骼系统（含放大剖面图示） 模块 2：生理运作机制（如循环系统、神经系统） 模块 3：生平背景与时间线（核心成就） 模块 4：主要贡献图解（详细拆解） 模块 5：认知模式与心理特征 模块 6：基因特征与演化溯源 模块 7：全球影响力与文化冲击 模块 8：艺术形象与后世传承 B. 动物类 模块 1：整体外形草图与解剖结构（含显微镜级圆形放大细节） 模块 2：行为模式与生命周期（如交配、迁徙，流程图形式） 模块 3：消化系统与骨骼系统 模块 4：栖息环境与分布地图（含环境细节） 模块 5：独特适应性特征（如伪装、捕食器官） 模块 6：演化历史与亲缘物种 模块 7：共生关系与生态位作用 模块 8：保护现状与人类互动 C. 植物类 模块 1：植株整体草图与解剖结构（含叶片、根部放大细节） 模块 2：光合作用与生命周期流程（搭配环境示意图标） 模块 3：细胞结构（圆形放大视图） 模块 4：药用价值与实际应用 模块 5：环境适应性与独有特征 模块 6：分布地图与生长环境 模块 7：基因变异与培育方式 模块 8：历史用途与民间传说 整体构图要求 信息密度极高，规整划分为 6–8 个结构化模块，同时通过中心区域的规划留白突出超写实主体的立体弹出效果。风格硬核、专业、学术化，凭借动态 3D 主体实现极强视觉吸引力。 无任何百科品牌标识（如 DK 等 Logo）。 所有标注清晰可辨，所有手写注释工整可读。 主标题采用中文书法字体。 画面比例：3:4。 【主题内容】 [English] Role: World-class Scientific Encyclopedia Illustrator & Knowledge Graph Architect. Task: Generate a highly detailed, extremely intricate, and visually stunning "Universal Illustrated Encyclopedia Science Infographic" in a classic, unbranded (NO logos) scientific encyclopedia style. Subject Matter: Choose one from [People, Plants, or Animals]. Specific Subject: [e.g., The Giant Squid / Leonardo da Vinci / The Sequoia Tree]. Style: Fine, detailed scientific illustration on a retro, aged beige paper background. Delicate linework. Intricately complex and professional. Key Visual Requirements: 1.  Lifelike 3D Effect (The Central Subject): The central subject in the "C position" must be rendered with extraordinary realism and dynamism. Create a dramatic sense of depth where the character, plant, or animal appears to break the frame, leaping or bursting out of the flat paper towards the viewer (an effect similar to anamorphic 3D or dynamic pop-out, with high-precision realism). 2.  Layout & Strategic White Space: * Central Subject: Dominates the center, with intentional "strategic white space" around it to enhance the popping-out effect and make the figure the clear focal point. * Surrounding Modules: The surrounding area (left, right, top, bottom, and corners) must be filled with 6-8 distinct, highly organized knowledge modules, depending on the subject. There should be a sense of organized density, not random clutter. The modules themselves must have clear borders, headers, and extensive, detailed content. 3.  Connections: Use a complex, logical network of fine leader lines, arrows, brackets, dotted lines, and small connection points to link the central figure to all surrounding modules, and interconnect the modules themselves into a cohesive knowledge web. 4.  Text & Annotation (Hard Requirement - Must be CLEAR Chinese): * Main Title: A large, prominent, beautifully executed **Chinese calligraphy** (书法体) of the specific subject's name [e.g., "大王乌贼"]. * Calligraphic Accents: Scattered throughout the main content and module titles, use beautiful, clear Chinese calligraphy for important terms. * Standard Chinese Text: All other descriptive text, handwritten notes (大量清晰中文手写注释), module content, and annotations must be clear, legible Chinese characters (简体中文), not gibberish or unreadable symbols. Ensure text clarity is prioritized. * Leader Line Annotations: Every single small component, detail, submodule, diagram, or illustration within the modules must have detailed leader line annotations (拟解剖图) pointing directly to it for maximum professionalism and educational value. Every part should be labeled. Subject-Specific Module Structure (Example for general reference): A. For Humans [People]: - Module 1: Anatomy & Skeletal Structure (w/ magnified cross-sections) - Module 2: Physiological Processes (e.g., Circulatory/Nervous System) - Module 3: Historical Context & Timeline (Key Achievements) - Module 4: Major Contribution Diagram (Detailed breakdown) - Module 5: Cognitive Process / Psychological Insight - Module 6: Genetic Profile / Evolution - Module 7: Global Influence & Cultural Impact - Module 8: Cultural Representations / Legacy B. For Animals: - Module 1: Full External Sketch & Anatomy (w/ microscope magnified detail circular windows) - Module 2: Behavioral Patterns & Lifecycle (e.g., Mating/Migration, Flowchart style) - Module 3: Digestive & Skeletal System - Module 4: Habitats & Distribution Map (with environmental details) - Module 5: Unique Adaptations (e.g., camouflage, hunting tools) - Module 6: Evolutionary History & Relatives - Module 7: Symbiotic Relationships / Ecosystem Role - Module 8: Conservation Status & Human Interaction C. For Plants: - Module 1: Full Plant Sketch & Anatomy (w/ magnified leaf/root details) - Module 2: Photosynthesis & Lifecycle Flow (w/ icons for environment) - Module 3: Cellular Structure (Magnified circular views) - Module 4: Medicinal Properties / Practical Applications (as in original original prompt) - Module 5: Environmental Adaptations / Unique Features - Module 6: Distribution Map & Environmental Context - Module 7: Genetic Variations & Cultivation - Module 8: Historical Usage & Folklore Overall Composition: Extremely dense with information, organized into 6-8 structured modules, but balanced with strategic empty space around the center to allow the main, hyper-realistic figure to pop. Hard-core, professional, academic, but visually engaging due to the dynamic 3D central figure. No branding from any specific encyclopedia (e.g., no "DK" logos). All annotations must be legible. All handwritten notes must be clear. Main titles in Chinese calligraphy. Aspect Ratio: 3:4. [主题内容]
+```
+
+By [@GeekCatX](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-218)
+
+---
+
 <a id="freestylefly-case-222"></a>
 
 ## 精致模块化科普百科图鉴
@@ -291,38 +323,6 @@ By [@MrLarus](https://x.com/MrLarus/status/2046560406760505727)
 ```
 
 By [@MrLarus](https://x.com/MrLarus/status/2046231542817497392)
-
----
-
-<a id="freestylefly-case-270"></a>
-
-## 信息图可视化设计
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case270.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case270.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-[中文] このキャラクターと背景を元に、 公式設定資料のようなキャラクターシートを作成してください。 ・正面、側面、背面の3面図を含める ・キャラクターの表情バリエーションを追加 ・衣装や装備の詳細パーツを分解して表示 ・カラーパレットを追加 ・世界観の簡単な説明を入れる ・全体は整理されたレイアウト （白背景、図解風） ・アスペクト比16：9 　← 高解像度、プロのコンセプトアートスタイル [English] Based on this character and background, please create a character sheet like an official setting material. ・Include front, side, and back 3-view drawings ・Add character expression variations ・Disassemble and display detailed parts of costumes and equipment ・Add a color palette ・Include a brief explanation of the world view ・Overall organized layout (White background, diagrammatic style) ・Aspect ratio 16:9 　← High resolution, professional concept art style
-```
-
-By [@Toshi\_nyaruo\_AI](https://x.com/Toshi_nyaruo_AI/status/2045025277538107420)
-
----
-
-<a id="freestylefly-case-296"></a>
-
-## 博物馆级中文拆解信息图鉴
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case296.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case296.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-[中文] 请根据【主题】自动生成一张“博物馆图鉴式中文拆解信息图”。 要求整张图兼具真实写实主视觉、结构拆解、中文标注、材质说明、纹样寓意、色彩含义和核心特征总结。你需要根据【主题】自动判断最合适的主体对象、服饰体系、器物结构、时代风格、关键部件、材质工艺、颜色方案与版式结构，用户无需再提供其他信息。 整体风格应为：国家博物馆展板、历史服饰图鉴、文博专题信息图，而不是普通海报、古风写真、电商详情页或动漫插画。背景采用米白、绢纸白、浅茶色等纸张质感，整体高级、克制、专业、可收藏。 版式固定为： - 顶部：中文主标题 + 副标题 + 导语 - 左侧：结构拆解区，中文引线标注关键部件，并配局部特写 - 右上：材质 / 工艺 / 质感区，展示真实纹理小样并附说明 - 右中：纹样 / 色彩 / 寓意区，展示主色板、纹样样本和文化解释 - 底部：穿着顺序 / 构成流程图 + 核心特征总结 若主题适合人物展示，则以真实人物全身站姿为中央主体；若更适合器物或单体结构，则改为中心主体拆解图，但整体仍保持完整中文信息图形式。所有文字必须为简体中文，清晰、规整、可读，不要乱码、错字、英文或拼音。重点突出真实结构、材质差异、文化说明与图鉴气质。 避免：海报感、影楼感、电商感、动漫感、cosplay感、乱标注、错结构、糊字、假材质、过度装饰。 [English] Please automatically generate a "museum catalog-style Chinese disassembly infographic" based on the [Subject]. The entire image is required to combine a realistic main visual, structural disassembly, Chinese annotations, material descriptions, pattern meanings, color meanings, and core feature summaries. You need to automatically determine the most appropriate main subject, clothing system, artifact structure, era style, key components, material craftsmanship, color scheme, and layout structure based on the [Subject], and the user does not need to provide any other information. The overall style should be: national museum exhibition boards, historical clothing catalogs, and cultural/museum thematic infographics, rather than ordinary posters, ancient-style portraits, e-commerce detail pages, or anime illustrations. The background uses paper textures such as off-white, silk white, and light tea color, making the overall look premium, restrained, professional, and collectible. The layout is fixed as: - Top: Chinese main title + subtitle + introduction - Left: Structural disassembly area, with Chinese lead lines annotating key components, accompanied by close-up details - Upper right: Material / craftsmanship / texture area, displaying real texture samples with descriptions - Middle right: Pattern / color / meaning area, displaying the main color palette, pattern samples, and cultural explanations - Bottom: Dressing order / composition flowchart + core feature summary If the subject is suitable for character display, use a full-body standing posture of a real person as the central subject; if it is more suitable for artifacts or single structures, change it to a central subject disassembly diagram, but the overall form remains a complete Chinese infographic. All text must be in Simplified Chinese, clear, neat, and readable, without garbled characters, typos, English, or pinyin. The focus is on highlighting real structures, material differences, cultural explanations, and a catalog atmosphere. Avoid: poster feel, studio portrait feel, e-commerce feel, anime feel, cosplay feel, random annotations, incorrect structures, blurry text, fake materials, excessive decoration.
-```
-
-By [@MrLarus](https://x.com/MrLarus/status/2045504669401653414)
 
 ---
 

@@ -1,8 +1,8 @@
 # characters
 
-[← Home](../README.md) · Page 3 / 4
+[← Home](../README.md) · Page 3 / 5
 
-[1](characters.md) · [2](characters-2.md) · **3** · [4](characters-4.md)
+[1](characters.md) · [2](characters-2.md) · **3** · [4](characters-4.md) · [5](characters-5.md)
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
@@ -326,6 +326,6 @@ By [@TechieBySA](https://x.com/TechieBySA/status/2100226095320580331)
 
 ---
 
-[1](characters.md) · [2](characters-2.md) · **3** · [4](characters-4.md)
+[1](characters.md) · [2](characters-2.md) · **3** · [4](characters-4.md) · [5](characters-5.md)
 
 [← Home](../README.md)

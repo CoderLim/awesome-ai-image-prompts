@@ -6,6 +6,102 @@
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
+<a id="freestylefly-case-241"></a>
+
+## 关键人物关系图谱
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case241.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case241.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+[中文] 请你生成 《XXX》 的关键人物关系图。 [English] Please generate a key character relationship diagram for "XXX".
+```
+
+By [@yihui\_indie](https://x.com/yihui_indie/status/2045179926270361890)
+
+---
+
+<a id="freestylefly-case-248"></a>
+
+## 景德镇青花瓷全景解说图谱
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case248.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case248.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+[中文] 为我生成景德镇青花瓷的详细解说图，配上详细的中文知识解析 [English] Generate a detailed explanatory diagram of Jingdezhen blue and white porcelain, accompanied by detailed Chinese knowledge analysis.
+```
+
+By [@joshesye](https://x.com/joshesye/status/2045764695827562686)
+
+---
+
+<a id="freestylefly-case-296"></a>
+
+## 博物馆级中文拆解信息图鉴
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case296.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case296.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+[中文] 请根据【主题】自动生成一张“博物馆图鉴式中文拆解信息图”。 要求整张图兼具真实写实主视觉、结构拆解、中文标注、材质说明、纹样寓意、色彩含义和核心特征总结。你需要根据【主题】自动判断最合适的主体对象、服饰体系、器物结构、时代风格、关键部件、材质工艺、颜色方案与版式结构，用户无需再提供其他信息。 整体风格应为：国家博物馆展板、历史服饰图鉴、文博专题信息图，而不是普通海报、古风写真、电商详情页或动漫插画。背景采用米白、绢纸白、浅茶色等纸张质感，整体高级、克制、专业、可收藏。 版式固定为： - 顶部：中文主标题 + 副标题 + 导语 - 左侧：结构拆解区，中文引线标注关键部件，并配局部特写 - 右上：材质 / 工艺 / 质感区，展示真实纹理小样并附说明 - 右中：纹样 / 色彩 / 寓意区，展示主色板、纹样样本和文化解释 - 底部：穿着顺序 / 构成流程图 + 核心特征总结 若主题适合人物展示，则以真实人物全身站姿为中央主体；若更适合器物或单体结构，则改为中心主体拆解图，但整体仍保持完整中文信息图形式。所有文字必须为简体中文，清晰、规整、可读，不要乱码、错字、英文或拼音。重点突出真实结构、材质差异、文化说明与图鉴气质。 避免：海报感、影楼感、电商感、动漫感、cosplay感、乱标注、错结构、糊字、假材质、过度装饰。 [English] Please automatically generate a "museum catalog-style Chinese disassembly infographic" based on the [Subject]. The entire image is required to combine a realistic main visual, structural disassembly, Chinese annotations, material descriptions, pattern meanings, color meanings, and core feature summaries. You need to automatically determine the most appropriate main subject, clothing system, artifact structure, era style, key components, material craftsmanship, color scheme, and layout structure based on the [Subject], and the user does not need to provide any other information. The overall style should be: national museum exhibition boards, historical clothing catalogs, and cultural/museum thematic infographics, rather than ordinary posters, ancient-style portraits, e-commerce detail pages, or anime illustrations. The background uses paper textures such as off-white, silk white, and light tea color, making the overall look premium, restrained, professional, and collectible. The layout is fixed as: - Top: Chinese main title + subtitle + introduction - Left: Structural disassembly area, with Chinese lead lines annotating key components, accompanied by close-up details - Upper right: Material / craftsmanship / texture area, displaying real texture samples with descriptions - Middle right: Pattern / color / meaning area, displaying the main color palette, pattern samples, and cultural explanations - Bottom: Dressing order / composition flowchart + core feature summary If the subject is suitable for character display, use a full-body standing posture of a real person as the central subject; if it is more suitable for artifacts or single structures, change it to a central subject disassembly diagram, but the overall form remains a complete Chinese infographic. All text must be in Simplified Chinese, clear, neat, and readable, without garbled characters, typos, English, or pinyin. The focus is on highlighting real structures, material differences, cultural explanations, and a catalog atmosphere. Avoid: poster feel, studio portrait feel, e-commerce feel, anime feel, cosplay feel, random annotations, incorrect structures, blurry text, fake materials, excessive decoration.
+```
+
+By [@MrLarus](https://x.com/MrLarus/status/2045504669401653414)
+
+---
+
+<a id="freestylefly-case-310"></a>
+
+## 零食品牌技术分解图
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case310.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case310.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+[中文] 创建一个 [SNACK] 的品牌技术信息图，结合产品的真实照片或照片级真实渲染，并将技术注释覆盖层直接置于其上。在纯白摄影棚背景上使用带有策略性 [BRAND COLOR] 点缀的黑色墨水风格线条画（建筑草图外观），包括： • 关键组件标签 • 显示结构、分层或内部设计的内部截面图 • 测量数据、尺寸和规格 • 带有成分和数量的材料标注 • 指示主要功能和结构完整性的箭头 • 显示关键机械或设计元素的简单示意图或剖面图 • 可持续性标注 标题位置：位于手绘技术注释框内，带有强调色边框，粗体字显示产品名称，置于上角。 风格与布局规则： • 真实产品保持清晰可见 • 注释具有素描感、技术感和建筑感 • 强调色用于高光（占线条工作的 20-30%），黑色用于主要技术线条（70-80%） • 构图整洁，负空间平衡 • 具有教育意义、食品工程氛围和高端品牌感 • 在角落包含微妙的品牌标志 视觉风格：极简技术插画美学，黑色线条在真实图像上带有点缀，精确但略带手绘感。 调色板：白色背景，黑色注释线/文本，[BRAND COLOR] 仅用于点缀和关键标注。 输出：1080×1080，超清晰，社交媒体动态优化，无水印。 [English] Create a branded technical infographic of a [SNACK], combining a realistic photograph or photoreal render of the product with technical annotation overlays placed directly on top. Use black ink–style line drawings with strategic [BRAND COLOR] accents (architectural sketch look) on a pure white studio background, including: • Key component labels • Internal cross-section showing structure, layering, or internal design • Measurements, dimensions, and specifications • Material callouts with composition and quantities • Arrows indicating function for primary features and structural integrity • Simple schematic or sectional diagram showing key mechanical or design elements • Sustainability callouts Title placement: Inside a hand-drawn technical annotation box with accent border reading the product name in bold font, positioned in upper corner. Style & layout rules: • The realistic product remains clearly visible • Annotations feel sketched, technical, and architectural • Accents used for highlight (20-30% of linework), black for primary technical lines (70-80%) • Clean composition with balanced negative space • Educational, food-engineering vibe with premium branding • Include subtle brand logo mark in corner Visual style: Minimal technical illustration aesthetic, black linework with accents over realistic imagery, precise but slightly hand-drawn feel. Color palette: White background, black annotation lines/text, [BRAND COLOR] for accents and key callouts only. Output: 1080×1080, ultra-crisp, social-feed optimized, no watermark.​​​​​​​​​​​​​​​​
+```
+
+By [@TechieBySA](https://x.com/TechieBySA/status/2031795709243019280)
+
+---
+
+<a id="freestylefly-case-333"></a>
+
+## AI 眼镜爆炸拆解图
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case333.png"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case333.png" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+生成一张AI眼镜的爆炸视图，包含每个组件的名称以及这款产品的几大核心卖点。
+```
+
+By [苍何原创实测（公众号文章《我逆向了 329 条 GPT-Image2 提示词模板，全部开源！》）](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-333)
+
+---
+
+<a id="freestylefly-case-339"></a>
+
+## Apple 风格自然科普海报
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case339.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case339.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+你是一个高端自然科普海报生成系统，目标是为稀有动物、昆虫、爬行动物、哺乳动物或其他小众生物生成 Apple keynote 风格的高级科普视觉海报。 整体视觉方向： 生成一张 9:16 竖版高级科普海报，画面采用极简、纯白、干净、现代、Apple 式产品发布海报语言。背景应为纯白或极浅灰白渐变，保持大量留白。整体设计应具备高级感、克制感、视觉冲击力和科学展示感。 核心设计原则： 1. 主体动物必须被极度放大，成为画面最强视觉中心。 2. 主体应具有强烈立体感、真实质感、高清细节和柔和棚拍光影。 3. 海报信息要少而准，避免拥挤。 4. 不使用传统信息图的卡片、圆角框、复杂底纹、淡黄色纸张质感或装饰性边框。 5. 底部信息区只使用四列极简 icon + 标题 + 短说明，通过细竖线分隔。 6. 文字排版要像高端发布会视觉，标题巨大，副标题克制，正文小而清晰。 7. 风格关键词：Apple-inspired, premium editorial, pure white background, hero subject, clean typography, minimal infographic, high-end science poster. 画面结构： 顶部左侧为标题区： 中文大标题：{中文物种名} 中文副标题：{一句有吸引力的物种定位} 细短横线 英文名：{英文物种名} 分布信息：主要分布：{分布区域} 中部与下中部为主体视觉： 生成一个超高清、真实、具有强烈立体感的 {中文物种名}。 主体应占据画面 50% 到 70% 的视觉面积。 主体姿态应具有展示性、力量感或识别度。 保持白色背景，不添加复杂自然环境。 可以保留少量必要承托物，例如树枝、岩石、雪地、沙土或木皮，但必须简洁。 主体要有真实阴影，使其像高级产品摄影一样立在画面中。 底部信息区： 用四个极简信息栏目展示科普信息。 每个栏目包含： 一个细线 icon 一个彩色小标题 一段 1 到 3 行短文字 栏目之间用极细浅灰竖线分隔。 不使用卡片框，不使用圆角背景，不使用大面积色块。 四个信息栏目： 栏目 1： 标题：{重点特征1标题} 说明：{重点特征1短说明} 栏目 2： 标题：{重点特征2标题} 说明：{重点特征2短说明} 栏目 3： 标题：{重点特征3标题} 说明：{重点特征3短说明} 栏目 4： 标题：{重点特征4标题} 说明：{重点特征4短说明} 底部总结句： 在最底部居中放置一句灰色小字总结： {一句高级、克制、有记忆点的科普总结} 字体与排版： 中文标题使用大号黑色、高级、稳重、有力量感的字体。 副标题使用灰色，中等字号，字距略宽。 英文名使用小号灰色，简洁现代。 正文使用清晰现代中文字体，保持可读。 所有文字必须留有足够呼吸感。 色彩规范： 背景：纯白、极浅灰、轻微柔光渐变。 主标题：黑色或深石墨色。 副标题与正文：中性灰。 底部四个信息标题可使用低饱和强调色： 暖棕、冷蓝、松石绿、紫色、橙色。 颜色只用于 icon 和小标题，不要大面积铺色。 图像质量： 2K 高清质感，细节清晰，主体锐利，光影真实。 主体纹理必须可信，例如毛发、鳞片、甲壳、皮肤褶皱、羽毛或斑纹。 避免变形、错误肢体、错误解剖结构、模糊主体、低质贴图、塑料感、卡通感。 禁止项： 不要使用淡黄色旧纸背景。 不要使用复杂信息图网格。 不要使用圆角卡片。 不要使用厚边框。 不要使用大面积装饰图形。 不要添加无关 logo。 不要添加多余小字。 不要让主体太小。 不要让文字压住主体。 不要让底部信息区过度拥挤。 不要出现儿童科普风、卡通风、低端展板风。 最终输出： 生成一张 9:16 竖版、高级、干净、强视觉冲击的 Apple 风自然科普海报。
+```
+
+By [@berryxia](https://x.com/berryxia/status/2048251413147644100)
+
+---
+
 <a id="freestylefly-case-341"></a>
 
 ## AP Calculus 学习表信息图
@@ -19,22 +115,6 @@ Please create a mathematical visualization infographic about "[math concept / to
 ```
 
 By [@hqmank](https://x.com/hqmank/status/2048587150544028084)
-
----
-
-<a id="freestylefly-case-353"></a>
-
-## 品牌口红推荐报告信息图
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case353.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case353.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-一、系统角色 你是一个专业美妆顾问 + 人脸分析系统 + 品牌视觉设计系统。 你的任务是：基于用户上传自拍与指定口红品牌，生成一张具有品牌调性的“口红推荐报告信息结构图”。 二、输入参数 用户图像：{用户自拍} 品牌：{口红品牌，如 Dior / YSL / Armani / Chanel / TF} 风格偏好（可选）：{通勤 / 温柔 / 气场 / 氛围感 / 显白优先} 推荐数量：3–5 三、品牌视觉层（新增核心模块） 根据 {品牌} 自动构建视觉风格（Brand Visual Identity），提取品牌调性，例如： Dior： 优雅、高级、法式、灰白 + 银色、柔光 YSL： 黑金、性感、强对比、时尚编辑感 Armani： 低饱和、雾面、克制、灰调高级感 Chanel： 极简黑白、高级、理性、结构清晰 Tom Ford： 深色、高对比、奢华、电影感 视觉应用到海报： 1. 主色调（背景微变化，不是大面积铺色） 2. 强调色（用于色号标题/细线/小元素） 3. 光影风格（柔光 / 强对比 / 冷调 / 暖调） 4. 字体气质（优雅 / 现代 / 冷感 / 力量感） 四、分析层 对用户进行分析： - 肤色：冷 / 暖 / 中性（+ 明度） - 气质：清冷 / 温柔 / 明艳 / 干净 / 成熟 - 唇部特征：薄 / 厚 / 唇色基础 - 妆容状态：素颜 / 日常 / 精致 输出一句总结：「更适合 {色系} + {饱和度} + {质地} 的口红方向」 五、推荐层（增强差异） 从 {品牌} 推荐 3–5 个色号： 每个包含： - 色号名称（#999） - 色系（正红 / 豆沙 / 枫叶 / 奶茶 / 玫瑰） - 上脸效果（显白 / 提气色 / 氛围感 / 气场增强） - 场景（逛街 / 通勤 / 聚餐 / 约会 / 宴会） 要求：每个色号“风格明确区分”（一个日常、一个气场、一个氛围感等） 六、信息结构图 生成竖版信息结构图 整体风格：美妆时尚大片质感 + 结构化信息可视化排版 + 品牌视觉体系深度融合 极简但不单调，高级但有视觉层次 【整体布局】 左上：用户输入区 右上：分析结论 中部：试色矩阵（核心） 底部：总结 ## 1️⃣ 左上（用户区） 用户自拍（真实质感） + 小标题：「肤色分析」 + 一句话结论：「适合低饱和玫瑰调，避免高荧光色」 极细品牌色线条（如 YSL 金线 / Dior 灰线） ## 2️⃣ 中部（核心试色矩阵） 这是视觉重点区域（占比60%以上） 展示方式：将 3–5 个色号以“人脸试色对比”的形式排列： 每一列 = 一个色号 每个色号包含： - 小型人脸图（同一张脸，不同唇色） - 色号名称（如 #999） - 色系标签（如 Classic Red） - 一句话效果说明 要求：所有人脸保持一致，仅唇色变化，真实试色效果（lip color try-on），肤质真实，不塑料，光影统一。 排列方式：横向排布 或 网格排布（整齐但不死板） 品牌增强点： - Dior：轻柔渐变背景 + 柔光阴影 - YSL：更强对比 + 黑色细分割线 - Armani：整体灰调统一，低对比 - Chanel：严格对齐，极简黑白 - TF：局部暗背景 + 高光强调 ## 3️⃣ 每个色号模块 包含： 色号名（突出） 色系标签 一句推荐语 场景标签（逛街/通勤/聚餐/约会/宴会等） 品牌化处理： - 用“品牌强调色”做： - 色号标题 - 细分隔线 - 小icon （不是色块，而是“精致点缀”） ## 4️⃣ 底部总结 一段“有判断力的建议”， 例如：「日常建议选择低饱和豆沙色提升气色，重要场合可使用正红增强气场」 或：「你的肤色更适合柔和玫瑰调，避免高荧光色系」 但不要完全引用以上2个例子的建议，根据用户实际肤色来建议。 品牌增强：底部可加极淡品牌风格横线 / 极小品牌字样（非logo） 七、UI设计 - 不使用圆角卡片 UI - 不使用厚边框 1. 引入“层级对比”： - 主体亮 - 次要信息弱 2. 使用“微对比”： - 细线 - 灰度差 - 字重变化 3. 加入“节奏感”： - 疏密变化 - 模块呼吸 4. 品牌点缀： - 只用 5% 强调 - 不破坏极简结构 八、图像质量 真实皮肤质感 唇色精准 统一光影 商业级美妆摄影 8K ——— 品牌：YSL
-```
-
-By [@liyue\_ai](https://x.com/liyue_ai/status/2048667226195317219)
 
 ---
 
@@ -54,19 +134,19 @@ By [@Gemalpha\_88](https://x.com/Gemalpha_88/status/2048918707343401034)
 
 ---
 
-<a id="freestylefly-case-364"></a>
+<a id="freestylefly-case-361"></a>
 
-## 奢华个人色彩档案信息图
+## 手机爆炸拆解图
 
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case364.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case364.jpg" width="480" alt="Source example"></a>
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case361.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case361.jpg" width="480" alt="Source example"></a>
 
 **Prompt**
 
 ```text
-LUXURY PERSONAL COLOR PROFILE — EDITORIAL LAYOUT Studio portrait of subject as anchor — skin retouched to luminous glass-like perfection, preserved natural structure, realistic pore texture, soft directional key lighting, no facial alteration. Background: warm ecru parchment with subtle linen grain texture. Layout reads like a Vogue Italia beauty supplement printed on heavyweight matte stock. Structured editorial grid, 3-column asymmetric, wide negative space, serif condensed display headers, all labels in spaced uppercase tracking, cohesive warm ivory/sand/ecru background system throughout all panels, ultra-photorealistic 8K, soft diffused studio lighting, flat elegant surfaces, no drop shadows. PANELS: ① UNDERTONE DIAGNOSIS — Tonal spectrum bar from cool ash to warm amber, precision needle marker on subject's reading. Labels: Cool / Neutral-Cool / Neutral / Neutral-Warm / Warm. Fine annotation text. ② SEASONAL COLOR PALETTE — 10–12 fabric-textured swatches in subject's optimal season. Each labeled with poetic color name and HEX. Grouped: Power Colors / Softest Options / Harmonizing Neutrals. ③ COLORS TO AVOID — Desaturated row of clashing tones with fine editorial strikethrough. Clean, non-harsh presentation. ④ MAKEUP CARTOGRAPHY — Eyeshadow gradient dust swatches / blush tones fanned on skin strip / lip spectrum barely-there to bold / highlighter finishes labeled: champagne, rose gold, pearlescent ivory. ⑤ HAIR COLOR SPECTRUM — Curved gradient strip: base, dimension, highlight, contrast tones. Gold bracket indicators on best options. ⑥ JEWELRY & METAL GUIDE — Flat-lay editorial render: yellow gold, rose gold, oxidized silver, platinum finishes alongside complementary stone tones. Minimal styling. ⑦ YOU IN YOUR PALETTE — 3–4 editorial lookbook frames, subject in palette-correct outfits. Mood labels: Quiet Luxury / Off-Duty Editorial / Evening Presence. ⑧ CAPSULE WARDROBE GRID — Outfit flatlay: tops, bottoms, outerwear, shoes, bag — all palette-correct. Coordinating lines showing interchangeability. Net-a-Porter editorial aesthetic. ⑨ PRINTS & PATTERNS — 4 fabric print thumbnails: micro geometric, tonal abstract, classic stripe, floral scale. One-line styling note per print. ⑩ STYLE ARCHETYPE — Single typographic panel. Style identity title set large (e.g. "Modern Romantic / Warm Classicist"). Three defining aesthetic words. Four-line editorial wardrobe philosophy note. RENDER SPECS: Ultra-photorealistic, 8K, editorial magazine print quality, warm neutral color grading, soft diffused studio lighting consistent across all panels, one serif display font + one fine sans-serif body font, no gradients, flat matte surfaces only.
+Create a 3D Insane detailed exploded assembly drawing of [subject or object]
 ```
 
-By [@meng\_dagg695](https://x.com/meng_dagg695/status/2049822844918575586)
+By [@Ankit\_patel211](https://x.com/Ankit_patel211/status/2048834306379075759)
 
 ---
 
@@ -118,6 +198,22 @@ By [@YaZoraiz](https://x.com/YaZoraiz/status/2052968427514708371)
 
 ---
 
+<a id="freestylefly-case-415"></a>
+
+## 东方神话人物志百科海报
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case415.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case415.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+请基于【孙悟空】生成一张竖版 A4「东方神话人物志」百科海报。 你是一名东方神话视觉设定师、古籍图谱设计师和中文信息图设计师。请根据【人物名称】在东方神话、民间传说、古籍、戏曲、文学或传统文化中的已知形象，生成一张内容完整、视觉统一、具有东方神话气质的人物档案海报。 最重要原则： 全部内容必须围绕【人物名称】展开，不要套用通用神仙模板。 人物形象、法器、坐骑、神通、典故、象征物、背景场景都必须符合【人物名称】的神话设定。 如果该人物存在多个传说版本，请采用最广为人知的版本；存在异文时，可以在相关板块简短标注“传说版本不一”。 不确定的信息不要强行编造，可写“民间传说中多有异文”或“相关记载较少”。 不要使用北欧符文、维京图腾、哥特边框、西方盔甲、欧式城堡、西幻恶魔角、赛博朋克元素。 整体必须是东方神话审美，而不是“西幻人物换中式衣服”。 整体视觉风格： 东方神话史诗感，融合《山海经》异兽图谱、敦煌壁画、青绿山水、唐代人物画、宋元古画、青铜器纹样、古籍注疏和符箓篆刻风格。画面庄重、神秘、古雅、华丽但克制。 画面构图： 竖版 A4 海报，中轴对称布局。中央为【人物名称】的全身或半身主视觉，姿态庄严，有神性和叙事感。人物服饰、发冠、法器、神态、灵兽、背景都要符合该人物传说。左右两侧为信息卡片，底部为核心总结。四周使用云雷纹、回纹、青铜纹、祥云纹、卷草纹、山海纹、篆刻印章式边框。 主标题：“【人物名称】” 副标题：“东方神话人物志｜根据该人物神话传说生成” 顶部精神题记：请根据【人物名称】的核心精神，自动生成一句古雅、凝练、有哲学意味的题记。题记要体现该人物背后的价值观、生命姿态或精神内核，而不是说明性文字。不要写“非史实考证”“仅供参考”“传说版本”等免责声明。字数控制在 12-28 字，适合放在标题下方。题记应与人物高度绑定，不要套用“守护苍生”“大道无边”等空泛句式。 请生成以下内容板块： 【1. 神格身份】说明【人物名称】在东方神话体系中的身份定位。 【2. 神话源流】说明该人物主要出自哪些神话、古籍、民间传说、小说、戏曲或宗教信仰。 【3. 司职权柄】总结该人物掌管或象征的领域。 【4. 形象特征】描述该人物的典型外貌、服饰、神态、姿态和视觉气质。 【5. 法器神通】展示该人物最具代表性的法器、兵器、符咒、神通或能力。 【6. 灵兽坐骑 / 随身象征】如果【人物名称】有坐骑、灵兽、伴生生灵，请展示其名称、形态和寓意。如果没有明确坐骑，请改为“随身象征物”或“相关意象”。不要强行给每个人物安排龙、凤、仙鹤或麒麟。 【7. 典故出处】列出 2-4 个与【人物名称】相关的经典故事、传说片段或文化典故。不要虚构不存在的典故。若版本不一，请标注“异文较多”。 【8. 象征意象】提炼该人物最核心的视觉符号。符号必须与【人物名称】相关。 【9. 神话谱系】说明该人物与其他神话人物、阵营、族属或体系的关系。如果谱系不明确，请写“谱系传说不一”。 【10. 文化影响】说明该人物在民俗、节日、祭祀、文学、戏曲、绘画、庙宇、影视或现代文化中的影响。 【11. 精神内核】从神话叙事角度总结该人物象征的精神。这里只分析神话形象，不推断真实人物性格。 【12. 核心总结】用一段古雅但易懂的中文总结【人物名称】：“【人物名称】在东方神话中象征……，其形象融合了……，代表着……。” 视觉版式要求： 顶部：大标题 + 副标题 + 精神题记。 中央：人物主视觉，气势庄重，细节丰富。 左侧栏目：神格身份、神话源流、司职权柄、形象特征、法器神通。 右侧栏目：灵兽坐骑/随身象征、典故出处、象征意象、神话谱系、文化影响。 底部：精神内核 + 核心总结。 可加入小型图标、注释线、古籍标签、卷轴卡片、青铜铭牌、朱砂印章、符箓纹样。 信息卡片像古书页、玉简、青铜牌、卷轴或碑铭，不要像现代科技 UI。 材质与纹样： 宣纸肌理、矿物颜料、鎏金线条、朱砂印章、墨色晕染、青铜器铭文、云雷纹、回纹、祥云纹、山水纹、敦煌藻井纹样。 配色规则： 根据【人物名称】的属性自动选择东方配色。火焰 / 战斗 / 护法：朱砂、玄黑、鎏金、赤红。月亮 / 水系 / 清冷神祇：黛青、银白、月白、石蓝。山川 / 木系 / 自然神灵：石绿、青黛、玉白、赭石。帝王 / 天庭 / 尊神：鎏金、玄黑、朱砂、玉白。妖灵 / 山海异兽：墨黑、铜绿、暗金、赭红。不要所有人物都使用同一套配色。 文字要求： 中文必须清晰可读，标题大气，正文简短准确。不要乱码、伪文字、错别字、文字重叠或裁切。如果空间不足，优先压缩正文，但保留所有板块标题。 避免： 北欧符文、维京风、哥特边框、西方盔甲、欧式城堡、魔幻游戏 UI、赛博朋克、现代科技感、过度暗黑、随机龙凤、无关法器、模板化神仙形象、与【人物名称】无关的典故、空泛精神题记。
+```
+
+By [@TanLuAI](https://x.com/TanLuAI/status/2053073436122243364)
+
+---
+
 <a id="freestylefly-case-443"></a>
 
 ## 塔可爆炸拆解信息图
@@ -147,6 +243,22 @@ Create a premium square “reference-style urban transportation infographic” c
 ```
 
 By [@j\_smeaton99](https://x.com/j_smeaton99/status/2056950969083343077)
+
+---
+
+<a id="freestylefly-case-456"></a>
+
+## 历史事件 2x2 可视化地图
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case456.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case456.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+2x2 grid, 16:9, do this for 4 famous historical events: Render_Target = ( 3D_Diorama_Map_Of_[HISTORICAL_EVENT]_In_[CITY] * 1.2 ) + ( First-Person_Account_Infographic_UI_From_The_Perspective_Of_[ROLE] * 1.5 ) + ( Period-Accurate_Studio_Background_With_[ERA]_Artifacts * 1.0 ) + ( Newspaper_Headline_Generator_Widget_With_Your_Byline * 0.8 ) - ( Generic_Time_Machine_Gears_And_Clock_Dials / 3.0 ) - ( Anachronistic_Props_From_Wrong_Decade / 2.5 ) - ( Flat_Wikipedia_Timeline_Graphic / 2.0 )
+```
+
+By [@Gdgtify](https://x.com/Gdgtify/status/2057277698607599692)
 
 ---
 

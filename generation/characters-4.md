@@ -1,8 +1,8 @@
 # characters
 
-[← Home](../README.md) · Page 4 / 4
+[← Home](../README.md) · Page 4 / 5
 
-[1](characters.md) · [2](characters-2.md) · [3](characters-3.md) · **4**
+[1](characters.md) · [2](characters-2.md) · [3](characters-3.md) · **4** · [5](characters-5.md)
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
@@ -35,22 +35,6 @@ Create a premium cinematic character bible sheet for RAMBO. Use uploaded charact
 ```
 
 By [@TechieBySA](https://x.com/TechieBySA/status/2099865500746485837)
-
----
-
-<a id="evolink-character-sheets-case-114"></a>
-
-## Ophelia Celestial Puppeteer Character Sheet
-
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2099706633488338944.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2099706633488338944.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Create a premium modern high-fashion CHARACTER CONCEPT ART SHEET in a 16:9 widescreen layout on a pure white background. THE ATTACHED REFERENCE IMAGE DEFINES THE ART STYLE. [STYLE — MIRROR THE REFERENCE EXACTLY]: Replicate reference image verbatim: painterly matte digital gouache, flat posterized color blocks, NO outlines, hard-edged brush shapes, identical muted palette and bright white background. [STYLE PROHIBITIONS — ABSOLUTE]: no outlines, no ink lines, no cel-shading, no 3D render, no glossy highlights, no photorealism, no petite proportions. [PROPORTIONS]: Match reference exactly: 10 heads tall, elongated fashion anatomy, long slender limbs, small head. [SUBJECT_DESCRIPTION]: Extremely tall adult woman in early 20s, wide black visor-hat with gold script, floating orbital halo, black prosthetic arms with trailing puppet strings. Outfit: massive ballooning obsidian cloak with gold buttons, structured cream draped gown with high slit, chunky platform heels. Ability: Controls invisible gravitational tethers to manipulate reality and celestial fragments. Layout Composition: 1. LEFT PANEL: METADATA & TURNAROUND — Name "OPHELIA", metadata block ("ROLE: Graviton Oracle", "CORE MOOD: Detached Supremacy", "VISUAL SIGNATURE: Orbital Halo & Gravity Strings"), 3 turnaround figures, 3 silhouettes, 4 expression crops (obscured visor glare, slight chin lift, gold glyphs glowing, cold smirk). 2. CENTRAL PANEL: Dominant full-body centerpiece in towering signature pose with trailing strings and floating halo. 3. RIGHT PANEL: 4 dynamic pose studies (pulling gravity threads, levitating above ground, cloak billowing wide, adjusting hat) with handwritten labels. 4. BOTTOM RIGHT PANEL: 5 square detail crops (visor gold glyphs, orbital halo sphere, black prosthetic hand/strings, gown drape, platform heels).
-```
-
-By [@itsPixieVerse](https://x.com/itsPixieVerse/status/2099712708908319052)
 
 ---
 
@@ -166,6 +150,70 @@ By [@TechieBySA](https://x.com/TechieBySA/status/2098731888617689164)
 
 ---
 
+<a id="evolink-sequential-art-case-241"></a>
+
+## Sixteen-Panel Character Dance Poses
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2104568292325408769.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2104568292325408769.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+Create a 4×4 dance pose sheet featuring the character in the uploaded reference image, with exactly 16 equally sized panels in one square image. CHARACTER CONSISTENCY Use the uploaded character as the sole reference for character identity and appearance. Preserve the character’s face, hairstyle, colors, body proportions, species, outfit, accessories, and original art style across all 16 panels. Do not redesign the character or add an idol costume. If any body or costume details are not visible in the reference, infer them conservatively and keep them consistent throughout. ADAPTIVE CHOREOGRAPHY Design a cohesive dance sequence tailored to this specific character’s personality, appearance, anatomy, clothing, and range of motion. Choose a suitable dance style automatically: lively for an energetic character, graceful for an elegant character, confident for a bold character, playful for a cute character, or restrained for a serious character. Do not force every character into cute idol poses. Show 16 distinct key poses from the same dance routine, ordered from left to right and top to bottom. Make the sequence feel connected, with natural transitions and a clear beginning, build-up, climax, and ending. Use the following movement structure, adapting each action to the character: 1. Opening pose that establishes the character’s personality. 2. Small rhythmic step with a coordinated arm gesture. 3. Side step with one arm extended. 4. Compact expressive gesture near the face or upper body. 5. Grounded stance with arms crossing or sweeping inward. 6. Knee lift or an anatomically appropriate weight shift. 7. Open, expansive pose with arms spread. 8. Playful or expressive balance pose. 9. Turning pose showing a three-quarter rear view. 10. Forward-reaching movement with a diagonal body lean. 11. Strong upward-reaching accent. 12. Climactic jump or a grounded full-body extension if jumping is unsuitable. 13. Lowered stance with a forward gesture. 14. Elegant or dynamic side-facing transition. 15. Signature gesture that suits the character. 16. Confident final pose with a clear finishing silhouette. COMPOSITION AND PRESENTATION Use a clean white background, thin grid lines, and small readable numbers 1–16 in the upper-left corner of each panel. Include exactly one full-body depiction of the same character per panel. Keep the character’s scale, camera distance, lighting, and rendering style consistent. Use a fixed camera while allowing the character to turn naturally. Keep the entire character, including hair, ears, horns, wings, tail, hands, feet, and accessories, inside each panel with comfortable margins. Allow room for extended limbs and jumps. Add subtle ground shadows. Show natural secondary movement in hair, fabric, and accessories. Every pose must have a clear silhouette, convincing balance, anatomically plausible joints, and expressive body language. Adapt all movements to nonhuman anatomy when applicable. AVOID Repeated or nearly identical poses, character identity drift, costume changes, inconsistent proportions, extra or missing limbs, malformed hands, cropped body parts, overlapping panels, additional characters, motion trails, background scenery, props not present in the reference, speech bubbles, captions, and watermarks. Final output: one polished square image containing a clearly organized 4×4 grid of 16 distinct, character-appropriate dance poses.
+```
+
+By [@Mayz1169](https://x.com/Mayz1169/status/2104568538694611150)
+
+---
+
+<a id="evolink-sequential-art-case-242"></a>
+
+## Queen Sixteen-Panel Dance Sheet
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2100836695319171074-poster.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2100836695319171074-poster.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+Create a 4×4 dance pose sheet featuring one original character, with exactly 16 equally sized panels in one square image. CHARACTER DESIGN Design a regal queen character with an elegant braided crown-updo topped with a small gold circlet, calm violet eyes, a deep-sapphire velvet gown with long draped sleeves and an embroidered hem, and a light cape that trails behind her. Keep her exact face, hairstyle, colors, proportions, outfit, and accessories fully consistent across all 16 panels — no redesigns, recolors, or costume changes between panels. ART STYLE Render in classical painterly 2D illustration, rich jewel-toned shading, with crisp outlines and consistent lighting across every panel. CHOREOGRAPHY Design a cohesive 16-pose dance sequence with a clear beginning, build-up, climax, and ending, ordered left to right, top to bottom. Include: an opening pose that establishes personality; a small rhythmic step with a coordinated arm gesture; a side step with one arm extended; a compact expressive gesture near the face; a grounded stance with arms crossing or sweeping inward; a knee lift or weight shift; an open expansive pose with arms spread; a playful balance pose; a turning pose showing a three-quarter rear view; a forward-reaching diagonal lean; a strong upward-reaching accent; a climactic jump (or full-body extension if jumping doesn't suit the character); a lowered stance with a forward gesture; a dynamic side-facing transition; a signature gesture unique to the character; and a confident final pose with a clear finishing silhouette. COMPOSITION Use a clean white background, thin grid lines, and small readable numbers 1–16 in the upper-left corner of each panel. One full-body depiction of the character per panel, consistent scale, camera distance, lighting, and rendering style throughout. Fixed camera angle while the character turns naturally. Keep the entire character — hair, hands, feet, and accessories — inside each panel with comfortable margins, with subtle ground shadows and natural secondary movement in hair and fabric. Preserve the outfit's original coverage in every panel — no wardrobe shifts, added exposure, or altered necklines between poses. AVOID Repeated or near-identical poses, identity drift, costume changes, inconsistent proportions, extra or missing limbs, malformed hands, cropped body parts, overlapping panels, additional characters, motion trails, background scenery, unlisted props, speech bubbles, and watermarks. Final output: one polished square image, a clearly organized 4×4 grid of 16 distinct, character-appropriate dance poses.
+```
+
+By [@MahnoorAi12](https://x.com/MahnoorAi12/status/2101132922560430481)
+
+---
+
+<a id="evolink-sequential-art-case-249"></a>
+
+## Mecha Pilot Sixteen-Panel Dance Sheet
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2099099113833005056-poster.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2099099113833005056-poster.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+Create a 4×4 dance pose sheet featuring one original character, with exactly 16 equally sized panels in one square image. CHARACTER DESIGN Design a confident mecha pilot with a short auburn ponytail, sharp amber eyes, a fitted white-and-orange flight suit with panel seams and a squadron emblem on the chest, a popped collar, and reinforced boots. Keep her exact face, hairstyle, colors, proportions, outfit, and accessories fully consistent across all 16 panels — no redesigns, recolors, or costume changes between panels. ART STYLE Render in 2D anime, crisp mechanical linework, with crisp outlines and consistent lighting across every panel. CHOREOGRAPHY Design a cohesive 16-pose dance sequence with a clear beginning, build-up, climax, and ending, ordered left to right, top to bottom. Include: an opening pose that establishes personality; a small rhythmic step with a coordinated arm gesture; a side step with one arm extended; a compact expressive gesture near the face; a grounded stance with arms crossing or sweeping inward; a knee lift or weight shift; an open expansive pose with arms spread; a playful balance pose; a turning pose showing a three-quarter rear view; a forward-reaching diagonal lean; a strong upward-reaching accent; a climactic jump (or full-body extension if jumping doesn't suit the character); a lowered stance with a forward gesture; a dynamic side-facing transition; a signature gesture unique to the character; and a confident final pose with a clear finishing silhouette. COMPOSITION Use a clean white background, thin grid lines, and small readable numbers 1–16 in the upper-left corner of each panel. One full-body depiction of the character per panel, consistent scale, camera distance, lighting, and rendering style throughout. Fixed camera angle while the character turns naturally. Keep the entire character — hair, hands, feet, wings, tails, and accessories — inside each panel with comfortable margins, with subtle ground shadows and natural secondary movement in hair and fabric. AVOID Repeated or near-identical poses, identity drift, costume changes, inconsistent proportions, extra or missing limbs, malformed hands, cropped body parts, overlapping panels, additional characters, motion trails, background scenery, unlisted props, speech bubbles, and watermarks. Final output: one polished square image, a clearly organized 4×4 grid of 16 distinct, character-appropriate dance poses.
+```
+
+By [@MahnoorAi12](https://x.com/MahnoorAi12/status/2099099834867134695)
+
+---
+
+<a id="evolink-travel-journals-case-235"></a>
+
+## Paris Art Travel Portrait
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2100057099766214656.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2100057099766214656.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+Use the same uploaded woman as the character reference and preserve her identity, hairstyle, and overall appearance. Create a completely different artistic interpretation of Paris, France, inspired by a premium travel magazine illustration. Show the same woman from behind, sitting peacefully on a beautiful stone terrace overlooking Paris at sunset, with the Eiffel Tower, Seine River, bridges, classic Parisian rooftops, boats, trees, and warm evening light. Transform the entire scene into a sophisticated hand-painted watercolor and editorial travel illustration while keeping the woman recognizable. Use delicate paper texture, soft watercolor washes, elegant architectural details, subtle brush strokes, dreamy pastel skies, and a refined luxury travel-poster aesthetic. Add tasteful minimal typography such as: “PARIS” “FRANCE” “Different Views, Same Dreams” “Travel • Explore • Discover • Grow” The lower scene should feel artistic and motivational rather than photorealistic, clearly different from the realistic photograph above. Premium editorial composition, balanced layout, beautiful visual storytelling, vertical poster format, no watermark.
+```
+
+By [@Alina\_with\_Ai](https://x.com/Alina_with_Ai/status/2100057357376192992)
+
+---
+
 <a id="freestylefly-case-27"></a>
 
 ## 人物角色设定图
@@ -182,19 +230,19 @@ By [@anemone\_sd](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999c
 
 ---
 
-<a id="freestylefly-case-54"></a>
+<a id="freestylefly-case-123"></a>
 
-## 人物角色设定图
+## 插画艺术创作图
 
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case54.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case54.jpg" width="480" alt="Source example"></a>
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case123.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case123.jpg" width="480" alt="Source example"></a>
 
 **Prompt**
 
 ```text
-{ "type": "4-panel satirical product advertisement grid", "layout": { "grid": "2x2", "panels": [ { "position": "top-left", "product_name": "{argument name=\"top left product name\" default=\"座る石\"}", "visual": "man in white shirt and dark pants sitting on a large round stone in a park", "catchphrase": "いつでも、どこでも、落ち着ける。", "sales_badge": "累計販売数 12,000個 突破!", "vertical_text": "公園のベンチが埋まっていた日に。", "features_count": 3, "features_labels": [ "重さ約8kgで安定感抜群", "底面フェルト加工で傷つけにくい", "付属の専用ベルトで持ち運び簡単" ], "extra_visual": "small inset image of the stone with a leather carrying strap", "specs": [ "耐荷重 150kg", "安心の日本製" ] }, { "position": "top-right", "product_name": "{argument name=\"top right product name\" default=\"磨きたくない人の歯ブラシ\"}", "visual": "sleek light blue toothbrush angled diagonally on a dark blue background", "toothbrush_text": "I don't want to brush my yeeth.", "catchphrase": "持っているだけで安心感", "vertical_text": "歯を磨く代わりに、これを持つ。", "sales_badge": "シリーズ累計販売数 85,000本 突破!", "features_count": 3, "features_labels": [ "気持ちを落ち着けるお守り代わりに", "会議や商談前のエチケットに", "磨かない選択を、もっと自由に。" ], "bottom_banner": "歯磨きストレスから、あなたを解放する。" }, { "position": "bottom-left", "product_name": "{argument name=\"bottom left product name\" default=\"雲の貯金箱\"}", "visual": "hand inserting a coin into a fluffy white cloud-shaped piggy bank", "catchphrase": "空気より軽い、安心感。", "sales_badge": "累計販売数 23,567個 突破!", "features_count": 3, "features_labels": [ "ふわふわの触り心地", "割れないから安心", "インテリアに馴染むデザイン" ], "color_variants_count": 3, "color_variants_labels": [ "blue", "pink", "white" ], "price": "¥2,980 (税込)", "bottom_text": "今日から、空に向かってコツコツ貯めよう。" }, { "position": "bottom-right", "product_name": "{argument name=\"bottom right product name\" default=\"叱ってくれる石\"}", "visual": "round stone on a wooden desk with a pen, text written on the stone", "stone_text": "{argument name=\"scolding phrase\" default=\"いいかげんやれ\"}", "catchphrase": "やる気が出ないあなたへ。", "sales_badge": "累計販売数 18,000個 突破!", "features_count": 3, "features_labels": [ "見るたびに心を奮い立たせる", "厳選された言葉をランダム表示", "電池不要、半永久的に叱ってくれる" ], "phrase_variants_count": 10, "phrase_variants_labels": [ "甘えるな", "考えるな", "動け", "現実を見ろ", "逃げるな", "寝るな", "やればできる", "お前ならできる", "寝るな", "もう言い訳するな" ], "price": "¥3,500 (税込)" } ] } }
+{ "type": "anime character reference sheet", "character": { "name": "{argument name=\"character name\" default=\"真田大助\"}", "appearance": "young warrior with long brown hair, wearing samurai-inspired armor, {argument name=\"main color\" default=\"red\"} chest plate and guards, {argument name=\"secondary color\" default=\"navy blue\"} pleated hakama, white short cape" }, "layout": { "header": { "title": "{argument name=\"character name\" default=\"真田大助\"}", "subtitle": "{argument name=\"character concept\" default=\"戦国時代を舞台にした物語の主人公。日英クォーターの若き武将。\"}", "badge": "設定資料" }, "right_side": { "main_portrait": "large full-body standing pose, confident smile", "background_elements": { "emblem": "six-coin crest", "quote": "{argument name=\"catchphrase\" default=\"この国を守る。その誇りと共に。\"}", "scenery": "monochrome Japanese castle with army banners at the bottom right" } }, "sections": [ { "title": "プロフィール", "position": "top-left", "content": "table with 6 rows and descriptive text" }, { "title": "三面図", "position": "mid-left", "count": 3, "labels": ["正面", "側面", "背面"] }, { "title": "表情差分", "position": "top-center", "count": 6, "labels": ["通常", "微笑み", "真剣", "怒り", "驚き", "考え中"] }, { "title": "衣装・装備詳細", "position": "bottom-left", "count": 9, "labels": ["胸当て", "肩当て", "腕甲(籠手)", "脚甲(脛当て・膝当て)", "革靴", "白マント(短)", "帯", "袴/着物部分", "打刀"] }, { "title": "カラーパレット", "position": "bottom-center", "count": 8, "labels": ["真田赤", "濃紺", "金", "白", "茶", "茶褐色", "肌色", "銀"] }, { "title": "世界観", "position": "bottom-center-right", "content": "paragraph of text describing the setting" } ] } }
 ```
 
-By [@fukumy\_ai](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-54)
+By [@Luvune](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-123)
 
 ---
 
@@ -230,6 +278,38 @@ By [@nicdunz](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1
 
 ---
 
+<a id="freestylefly-case-208"></a>
+
+## 樱花树下害羞双马尾少女
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case208.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case208.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+[中文] 生成一张高质量二次元美少女图片。 角色设定： - 年龄：17岁 - 发型：双马尾，颜色：樱花粉，发梢带点渐变紫色 - 眼睛：大而明亮，紫色瞳孔，有星星高光 - 服装：JK制服，白色衬衫，深蓝色格子裙，红色领结 - 配饰：白色过膝袜，棕色小皮鞋，头上戴一个粉色蝴蝶结 风格要求： - 日系动画风格，线条清晰 - 色彩鲜艳，对比度高 - 光影柔和，有层次感 - 背景：樱花树下，花瓣飘落，远处是学校教学楼  表情：微笑，有点害羞 姿势：站姿，双手放在身后，身体微微前倾 比例：16:9（手机壁纸） 质量：8K，超精细，细节丰富 [English] Generate a high-quality anime beautiful girl image. Character setting: - Age: 17 years old - Hairstyle: twin tails, color: cherry blossom pink, hair tips with a bit of gradient purple - Eyes: large and bright, purple pupils, with star highlights - Clothing: JK uniform, white shirt, dark blue plaid skirt, red bow tie - Accessories: white over-the-knee socks, brown leather shoes, wearing a pink bow on the head Style requirements: - Japanese animation style, clear lines - bright colors, high contrast - soft light and shadow, with a sense of layering - Background: under the cherry blossom tree, petals falling, school teaching building in the distance  Expression: smiling, a bit shy Pose: standing posture, hands placed behind the back, body slightly leaning forward Proportion: 16:9 (mobile wallpaper) Quality: 8K, ultra-fine, rich in details
+```
+
+By [@joshesye](https://x.com/joshesye/status/2046593124646928397)
+
+---
+
+<a id="freestylefly-case-270"></a>
+
+## 信息图可视化设计
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case270.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case270.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+[中文] このキャラクターと背景を元に、 公式設定資料のようなキャラクターシートを作成してください。 ・正面、側面、背面の3面図を含める ・キャラクターの表情バリエーションを追加 ・衣装や装備の詳細パーツを分解して表示 ・カラーパレットを追加 ・世界観の簡単な説明を入れる ・全体は整理されたレイアウト （白背景、図解風） ・アスペクト比16：9 　← 高解像度、プロのコンセプトアートスタイル [English] Based on this character and background, please create a character sheet like an official setting material. ・Include front, side, and back 3-view drawings ・Add character expression variations ・Disassemble and display detailed parts of costumes and equipment ・Add a color palette ・Include a brief explanation of the world view ・Overall organized layout (White background, diagrammatic style) ・Aspect ratio 16:9 　← High resolution, professional concept art style
+```
+
+By [@Toshi\_nyaruo\_AI](https://x.com/Toshi_nyaruo_AI/status/2045025277538107420)
+
+---
+
 <a id="freestylefly-case-271"></a>
 
 ## 人物角色设定图
@@ -246,86 +326,6 @@ By [@tsubaki\_ew](https://x.com/tsubaki_ew/status/2045259289993048284)
 
 ---
 
-<a id="freestylefly-case-306"></a>
-
-## 官方角色设定资料卡
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case306.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case306.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-[中文] 基于此角色和背景，请制作一份类似官方设定资料的角色资料卡。 ・包含三视图：正面、侧面和背面 ・添加角色面部表情的变化・分解并展示服装和装备的详细部分 ・添加色板・包含世界观设定的简要说明 ・总体上，使用有组织的布局（白色背景，插画风格） [English] Based on this character and background, please create a character reference sheet similar to official setting materials. ・Includes three-view drawings: front view, side view, and back view ・Add variations of the character's facial expressions ・Break down and display detailed parts of the clothing and equipment ・Add a color palette ・Include a brief explanation of the worldview setting ・Overall, use an organized layout (white background, illustration style)
-```
-
-By [@MANISH1027512](https://x.com/MANISH1027512/status/2045013913901867334)
-
----
-
-<a id="freestylefly-case-372"></a>
-
-## 可爱角色设定表
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case372.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case372.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Create a cute female character design sheet inspired by the uploaded image. Style: warm, soft, semi-realistic cartoon illustration with a cozy Japanese kawaii vibe (pastel tones, smooth shading, clean lineart). Make it a clean character concept poster layout including: One large main female portrait (front view, detailed) Facial expression set (happy, shy, annoyed, sleepy, surprised, excited) 2–3 full-body poses (standing, walking/running, playful pose) Small accessory/object icons that match her personality (hair clip, cute bag, phone charm, coffee cup, keychain) A simple color palette section (skin, hair, outfit, accent colors) A profile info box with: name, age range, personality traits, likes/dislikes, short description Overall look should feel charming, cozy, feminine, and professionally arranged like an animation character design sheet. High quality, clean background, soft lighting.
-```
-
-By [@xRahultripathi](https://x.com/xRahultripathi/status/2050152865566708134)
-
----
-
-<a id="freestylefly-case-397"></a>
-
-## 街舞角色设定参考图
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case397.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case397.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-角色设定图布局，聚焦于一位18岁的亚裔女性街舞舞者。包含4个大型、高细节度的全身动态舞姿（突出舞蹈动作，面部清晰）。侧边附一条清晰的多角度参考条，仅含3个精细头部特写（正面、侧面、3/4侧面）。最大限度减少文字元素，将像素空间优先用于面部细节刻画。背景为粗砺工业风，搭配写实光影效果
-```
-
-By [@ChangningL29508](https://x.com/ChangningL29508/status/2052229452080591276)
-
----
-
-<a id="freestylefly-case-439"></a>
-
-## 赛博黑客角色设定表
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case439.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case439.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Ultra-detailed cyberpunk anime character design sheet of a teenage genius hacker girl named “NEO // RIN”, full body turnaround (front, side, back) plus close-up portrait and accessory callouts. Short silver-white bob haircut with neon cyan and magenta gradient streaks, glowing translucent cyber visor over one eye, pale skin, sharp violet eyes, calm confident expression. Oversized techwear jacket with black tactical cargo pants, belts, straps, dangling utility tags, cropped top, futuristic sneakers, holographic accessories, barcode decals, warning symbols, “BYTE//NULL” typography, hacker aesthetic. Color palette: matte black, dark gray, white, neon cyan, neon pink. Style inspired by high-end Japanese concept art, futuristic streetwear, cyberpunk fashion, Akira + Ghost in the Shell + modern anime key visual aesthetics. Include clean character reference sheet layout with labeled details, logo designs, UI graphics, gadget closeups, and color palette on white background. Highly polished cel shading, crisp lineart, soft glow effects, intricate clothing folds, layered accessories, dynamic fashion silhouette, professional game concept art quality, 4k, ultra detailed.
-```
-
-By [@Kashberg\_0](https://x.com/Kashberg_0/status/2055865126335762902)
-
----
-
-<a id="freestylefly-case-512"></a>
-
-## Brutalist Freestyle 角色设定表
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case512.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case512.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Use the uploaded reference image as the primary character design reference, preserving the overall silhouette, proportions, futuristic apparel layering, helmet geometry, visor shape, stone-like brutalist armor surfaces, black hooded coat, tactical streetwear construction, gloves, boots, utility belt, and monochrome industrial aesthetic. Create a premium production character sheet for a 2D stylized futuristic freestyle road soccer protagonist inspired by Brutalist architecture, industrial concrete textures, geometric forms, and minimalist sci-fi design language.  The presentation should resemble a AAA game character turnaround sheet mixed with a Nike commercial concept presentation. The character should feel agile, stylish, confident, athletic, and built for urban freestyle football.  Maintain the concrete-textured helmet with glowing orange visor, oversized hood, tactical long coat, mechanical gauntlets, armored boots, and industrial detailing exactly as the design language.  The football should be integrated naturally into the presentation.  Minimal off-white background (#F7F5F0). Professional production sheet layout.  Extremely clean linework.  Cinematic concept art.  Premium graphic design.  No photorealism.  High-end stylized illustration.  CHARACTER ANGLES Front View  Neutral hero pose.  Left Side View Right Side View Back View 3/4 Front View Dynamic Freestyle Pose  Standing on one foot while balancing the football.  Hero Pose  Football under foot.  Long coat flowing.  Confident posture.  CLOSE-UP CALLOUTS  Helmet Design  Orange illuminated visor  Concrete brutalist surface  Industrial wear  Panel breakdown  Upper Body  Coat construction  Buckles  Fabric folds  Armor integration  Mechanical Gloves  Finger articulation  Industrial joints  Material breakdown  Utility Belt  Equipment  Fasteners  Soccer accessory pouch  Boot Design  Heavy brutalist geometry  Street football grip  Orange illuminated sole accents  Football Design  Minimal futuristic street football  Concrete-inspired panel graphics  Orange accent details  MATERIAL CALLOUTS  Concrete Composite Armor  Carbon Tactical Fabric  Matte Black Nylon  Industrial Rubber  Forged Titanium Components  Orange Energy Lighting  COLOR PALETTE  Concrete White  Matte Black  Graphite Gray  Charcoal  Burnt Orange Glow  Dark Steel  EXPRESSION SHEET  Neutral  Focused  Competitive  Confident Smile  Game Face  Victory Expression  ACTION SILHOUETTES  Ball Juggle  Around The World  Elastico  Rainbow Flick  Backheel  Crossover  Street Sprint  Ball Stall  CAMERA CALLOUTS  Hero Shot Low Angle  Turnaround Orthographic  Close-up Macro Lens  Dynamic Pose 35mm Tracking Camera  Hero Pose 24mm Cinematic Lens  SFX LABELS  WHOOSH  SWISH  TAP  BOUNCE  THUD  ZIP  SPIN  SKRT  VROOM  RUSH  MUSIC HIT  CROWD CHEER  SLOW MOTION LABELS  120 FPS  240 FPS  Freeze Frame  Motion Trails  Speed Ramping  GUIDELINES  Maintain consistent proportions across all views.  Keep the brutalist design language consistent.  Emphasize concrete-inspired hard surfaces contrasted with flexible tactical fabrics.  Preserve the glowing orange visor as the primary focal point.  Use clean production callouts with arrows and labels.  Include measurement guides, material notes, and design annotations.  Keep presentation minimal and premium.  Avoid clutter.  Professional concept art quality suitable for AAA game development, cinematic production, and advertising pitch decks.  LAYOUT  16:9 Landscape  Top Center: MAIN TITLE STREET FLOW // BRUTALIST FREESTYLE  Below: Production Character Sheet  Center: Large Hero Character  Left: Front • Side • Back Views  Right: 3/4 View • Action Pose • Hero Pose  Bottom: Close-ups • Materials • Color Palette • Equipment • Football Design • Expressions • Camera Notes • SFX • Slow Motion • Production Annotations  Minimal off-white background with subtle grid guides, technical drawing arrows, clean typography, and premium commercial presentation quality.
-```
-
-By [@ShamsAmin56](https://x.com/ShamsAmin56/status/2071590431725670517)
-
----
-
-[1](characters.md) · [2](characters-2.md) · [3](characters-3.md) · **4**
+[1](characters.md) · [2](characters-2.md) · [3](characters-3.md) · **4** · [5](characters-5.md)
 
 [← Home](../README.md)
