@@ -1,3 +1,3 @@
 # Contributing
 
-Add source-index entries with accurate creator attribution, source URL, pinned collector commit and anchor. Use existing upstream images; do not fabricate results. Keep full third-party prompts at their source unless redistribution permission is documented. Run `npm run build` and `npm run check`. Generated Markdown must not be edited manually. Open an issue for corrections or removal requests.
+Add entries with accurate creator attribution, original source URL, pinned collector commit and anchor. Use existing source images; do not fabricate results. Preserve original prompt formatting in JSON and use a single-line code block in the generated Markdown. Record permission evidence separately; never infer a license from publication or attribution. Run `npm run build` and `npm run check`. Generated Markdown must not be edited manually. Open an issue for corrections or removal requests.

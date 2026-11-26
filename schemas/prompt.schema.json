@@ -44,7 +44,16 @@
       "const": "index-only"
     },
     "prompt": {
-      "type": "null"
+      "type": "object",
+      "required": [
+        "original"
+      ],
+      "properties": {
+        "original": {
+          "type": "string",
+          "minLength": 1
+        }
+      }
     },
     "media": {
       "type": "array",
