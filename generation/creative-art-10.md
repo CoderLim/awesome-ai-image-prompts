@@ -6,86 +6,6 @@
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
-<a id="prompthero-afc0343e9c8"></a>
-
-## My Bloody Valentine
-
-<a href="https://cdn.prompthero.com/mtkswvlfhux1niiua08wy992j66p-stable-diffusion-xl-base-09-my-bloody-valentine.png"><img src="https://cdn.prompthero.com/mtkswvlfhux1niiua08wy992j66p-stable-diffusion-xl-base-09-my-bloody-valentine.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-close-up photo of a beautiful red rose breaking through a cube made of ice , splintered cracked ice surface, frosted colors, blood dripping from rose, melting ice, Valentine’s Day vibes, cinematic, sharp focus, intricate, cinematic, dramatic light
-```
-
-[Source](https://prompthero.com/prompt/afc0343e9c8-stable-diffusion-xl-base-09-my-bloody-valentine)
-
----
-
-<a id="prompthero-afe4941b1ea"></a>
-
-## studio image, surreal art, top down product angle,\.\.\.
-
-<a href="https://cdn.prompthero.com/zbe4d9yawwf3mrx8k4b83o0zgy-midjourney-shatter-studio-image-surreal-art-top-down-product-angle-perfectly-centered-vampires-tooth-long-tongue-rotten-purplish-skin-texture-sealed-inside.png"><img src="https://cdn.prompthero.com/zbe4d9yawwf3mrx8k4b83o0zgy-midjourney-shatter-studio-image-surreal-art-top-down-product-angle-perfectly-centered-vampires-tooth-long-tongue-rotten-purplish-skin-texture-sealed-inside.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-studio image, surreal art, top down product angle, perfectly centered, vampire's tooth, long tongue, rotten purplish skin texture, sealed inside rectangular plastic display tray, deep purple tray, wrapped in transparent plastic film, film tension lines, folds, reflections, glare, condensations, water droplets, scratches --ar 9:16 --raw --stylize 200
-```
-
-By [@Grayve](https://prompthero.com/prompt/afe4941b1ea-midjourney-shatter-studio-image-surreal-art-top-down-product-angle-perfectly-centered-vampires-tooth-long-tongue-rotten-purplish-skin-texture-sealed-inside)
-
----
-
-<a id="prompthero-b4f0db61d10"></a>
-
-## Teenage Mutant Ninja Turtles, professional portr\.\.\.
-
-<a href="https://cdn.prompthero.com/sc5pcv90zpcx912ldx2qvv1jwevn-midjourney-niji-mode-teenage-mutant-ninja-turtles-professional-portrait-hyper-realistic-ultra-detailed-photograph-captured-with-a-85mm-lens-f4-6-bokeh-ultra.png"><img src="https://cdn.prompthero.com/sc5pcv90zpcx912ldx2qvv1jwevn-midjourney-niji-mode-teenage-mutant-ninja-turtles-professional-portrait-hyper-realistic-ultra-detailed-photograph-captured-with-a-85mm-lens-f4-6-bokeh-ultra.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-Teenage Mutant Ninja Turtles, professional portrait, hyper realistic, ultra detailed photograph, captured with a 85mm lens, f4. 6, bokeh, ultra detailed, ultra accurate detailed, bokeh lighting, surrealism, urban settin, ultra unreal engine, intricate, kitsch, -- ar 51:81
-```
-
-[Source](https://prompthero.com/prompt/b4f0db61d10-midjourney-niji-mode-teenage-mutant-ninja-turtles-professional-portrait-hyper-realistic-ultra-detailed-photograph-captured-with-a-85mm-lens-f4-6-bokeh-ultra)
-
----
-
-<a id="prompthero-b6effb27840"></a>
-
-## Surrealism theme, master photography, high-end gra\.\.\.
-
-<a href="https://cdn.prompthero.com/11tsw19q9q1s7t5sk21kuetdqnba-flux-flux1-dev-surrealism-theme-master-photography-high-end-gray-background-close-up-of-the-upper-body-of-a-white-mushroom-headed-short.png"><img src="https://cdn.prompthero.com/11tsw19q9q1s7t5sk21kuetdqnba-flux-flux1-dev-surrealism-theme-master-photography-high-end-gray-background-close-up-of-the-upper-body-of-a-white-mushroom-headed-short.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-Surrealism theme, master photography, high-end gray background, close-up of the upper body of a white mushroom-headed short-haired beauty, beautiful neck and collarbone, she has no face, her face is replaced by flowers of various colors, the focus of the picture is the weird combination of these flowers and people, beauty and horror,
-```
-
-[Source](https://prompthero.com/prompt/b6effb27840-flux-flux1-dev-surrealism-theme-master-photography-high-end-gray-background-close-up-of-the-upper-body-of-a-white-mushroom-headed-short)
-
----
-
-<a id="prompthero-b57e0428e9f"></a>
-
-## Alessi Kettle with a bird whistle, Sony A7R IV, Ze\.\.\.
-
-<a href="https://cdn.prompthero.com/r2d2x48nvoz9v5s4wmvc4wyh7u8e-midjourney-6-more-info-wwwgraytheorystudiocom-httpswwwinstagramcomspacemakergrayve-httpspromptbasecomprofilespacemakergrayve-alessi-kettle-with-a-bird-whistle-sony-a7r-iv-zeiss-batis-85mm-f18-lens-showcase-the-kettles-reflective-stainless-steel.png"><img src="https://cdn.prompthero.com/r2d2x48nvoz9v5s4wmvc4wyh7u8e-midjourney-6-more-info-wwwgraytheorystudiocom-httpswwwinstagramcomspacemakergrayve-httpspromptbasecomprofilespacemakergrayve-alessi-kettle-with-a-bird-whistle-sony-a7r-iv-zeiss-batis-85mm-f18-lens-showcase-the-kettles-reflective-stainless-steel.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-Alessi Kettle with a bird whistle, Sony A7R IV, Zeiss Batis 85mm f/1.8 lens, Showcase the kettle's reflective stainless steel surface and whimsical design, against a soft color background with diffused lighting
-```
-
-By [@Grayve](https://prompthero.com/prompt/b57e0428e9f-midjourney-6-more-info-wwwgraytheorystudiocom-httpswwwinstagramcomspacemakergrayve-httpspromptbasecomprofilespacemakergrayve-alessi-kettle-with-a-bird-whistle-sony-a7r-iv-zeiss-batis-85mm-f18-lens-showcase-the-kettles-reflective-stainless-steel)
-
----
-
 <a id="prompthero-b60c97a9988"></a>
 
 ## Hunt for Diablo: Ivanah
@@ -323,6 +243,86 @@ Dark fantasy, shadow knights, (( white and gold plug suit, black smoke in plug s
 ```
 
 By [@Atheist](https://prompthero.com/prompt/be786c542ab-stable-diffusion-xl-base-09-raged-out-magician)
+
+---
+
+<a id="prompthero-bf61311dfdf"></a>
+
+## \(masterpiece:1\.1\), \(best quality:1\.1\), \(anatomical\.\.\.
+
+<a href="https://cdn.prompthero.com/2u74ftppyymbiig8k8yl3kmxwdgv-deliberate-2-masterpiece11-best-quality11-anatomically-correct11-perfect-arms11-detailed-face13-detailed-skin-perfect-eyes-perfect-nose-realistic-octane-render-sharp-focus8k.png"><img src="https://cdn.prompthero.com/2u74ftppyymbiig8k8yl3kmxwdgv-deliberate-2-masterpiece11-best-quality11-anatomically-correct11-perfect-arms11-detailed-face13-detailed-skin-perfect-eyes-perfect-nose-realistic-octane-render-sharp-focus8k.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+(masterpiece:1.1), (best quality:1.1), (anatomically correct:1.1), (perfect arms:1.1), ((detailed face:1.3)), (detailed skin), (perfect eyes), (perfect nose), (realistic), octane render, sharp focus,(8k), (4k), (Masterpiece), (Best Quality), ((huge lips:1.3)), detailed background, art by artgerm and greg rutkowski, cinematic lighting, 8k
+```
+
+By [@heeyrina](https://prompthero.com/prompt/bf61311dfdf-deliberate-2-masterpiece11-best-quality11-anatomically-correct11-perfect-arms11-detailed-face13-detailed-skin-perfect-eyes-perfect-nose-realistic-octane-render-sharp-focus8k)
+
+---
+
+<a id="prompthero-c4d6d5c385b"></a>
+
+## A scene of an isle of white motorcycle racing down\.\.\.
+
+<a href="https://cdn.prompthero.com/72e4t4keoprs8z133y40rpwm6okj-midjourney-6-a-scene-of-an-isle-of-white-motorcycle-racing-down-a-cobblestone-victorian-era-street-merging-the-elegance-of-the.png"><img src="https://cdn.prompthero.com/72e4t4keoprs8z133y40rpwm6okj-midjourney-6-a-scene-of-an-isle-of-white-motorcycle-racing-down-a-cobblestone-victorian-era-street-merging-the-elegance-of-the.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+A scene of an isle of white motorcycle racing down a cobblestone Victorian-era street, merging the elegance of the past with the sleek design of the future. Zooms past gas-lit street lamps and ornate wrought-iron fences. The ride leans forward, gripping the handlebars tightly as the bike's headlights cast a bright beam ahead. The Victorian architecture, with its intricate facades and vintage shop signs, contrasts sharply with the modern vehicle, creating a surreal blend of eras. The street is slightly misty, with a few rain puddles reflecting the neon lights from the bike, enhancing the atmospheric and cinematic feel of the scene --quality 2 --stylize 750 --v 6.1
+```
+
+[Source](https://prompthero.com/prompt/c4d6d5c385b-midjourney-6-a-scene-of-an-isle-of-white-motorcycle-racing-down-a-cobblestone-victorian-era-street-merging-the-elegance-of-the)
+
+---
+
+<a id="prompthero-c5cde05631e"></a>
+
+## a high-resolution image that captures the essence \.\.\.
+
+<a href="https://cdn.prompthero.com/o9hocvteedf2r597uedvlixmggyl-flux-flux-11-pro-ultra-a-high-resolution-image-that-captures-the-essence-of-a-dynamic-character-in-a-futuristic-setting-she-is-an-shining.jpg"><img src="https://cdn.prompthero.com/o9hocvteedf2r597uedvlixmggyl-flux-flux-11-pro-ultra-a-high-resolution-image-that-captures-the-essence-of-a-dynamic-character-in-a-futuristic-setting-she-is-an-shining.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+a high-resolution image that captures the essence of a dynamic character in a futuristic setting. she is an shining AI that her face looks like human. she is wearing metal suit, she wear helmet, The character is poised energetically, with flowing garments suggesting motion. Incorporate a vivid color scheme with pink, and reflective silvers, reminiscent of nightcore aesthetics. Use dramatic backlighting to emulate a neon glow, contrasting with the darker hues of a cosmic backdrop , she is bright , The image should mimic the depth of field and clarity with sharp focus on the character and a blurred background. Add realistic textures to the character's clothing and hair, and include a visible light source in their hands, producing a gleaming, otherworldly effect. Ensure the overall composition resembles a candid snapshot, capturing a spontaneous moment of action in a surreal, sci-fi universe, Her eyes are purple, her entire body, she is making a gesture of reaching out for something above, a leaping pose, she is gazing at something above. , GoPro HERO10 Black, Cinestill 800T, cyberpunk, a cinematic scene, --ar 9:16 --s 750
+```
+
+[Source](https://prompthero.com/prompt/c5cde05631e-flux-flux-11-pro-ultra-a-high-resolution-image-that-captures-the-essence-of-a-dynamic-character-in-a-futuristic-setting-she-is-an-shining)
+
+---
+
+<a id="prompthero-c9e2bd82708"></a>
+
+## Creature Feature: Leprechaun
+
+<a href="https://cdn.prompthero.com/k48k7m4pjmyeadbcrvip10s449io-stable-diffusion-xl-base-09-creature-feature-leprechaun.jpg"><img src="https://cdn.prompthero.com/k48k7m4pjmyeadbcrvip10s449io-stable-diffusion-xl-base-09-creature-feature-leprechaun.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+A photo of a mischievous leprechaun, wrinkled facial features, prominent green colors, cinematic, melancholy, dynamic lighting, dark background, <lora:ClassipeintXL1.9:1>
+```
+
+By [@abyishot](https://prompthero.com/prompt/c9e2bd82708-stable-diffusion-xl-base-09-creature-feature-leprechaun)
+
+---
+
+<a id="prompthero-c39167eea21"></a>
+
+## A piece of concept art depicting a male horrific d\.\.\.
+
+<a href="https://cdn.prompthero.com/dh95l8dp8gqj8sa4fh8if3ylcolc-stable-diffusion-xl-base-09-comfyui-based-workflow-seargesdxl432-checkpoints-models-used-dreamshaper-xl-turbo-turbovisionxlsuperfastxl-realvisxlv30turbov30-juggernautxlv7rundiffusion-dreamshaperxlturbo-full-credits-shall-go-to-the-a-piece-of-concept-art-depicting-a-male-horrific-demon-with-realistic-intricate-details-the-artwork-should-contain-chaotic-brush.png"><img src="https://cdn.prompthero.com/dh95l8dp8gqj8sa4fh8if3ylcolc-stable-diffusion-xl-base-09-comfyui-based-workflow-seargesdxl432-checkpoints-models-used-dreamshaper-xl-turbo-turbovisionxlsuperfastxl-realvisxlv30turbov30-juggernautxlv7rundiffusion-dreamshaperxlturbo-full-credits-shall-go-to-the-a-piece-of-concept-art-depicting-a-male-horrific-demon-with-realistic-intricate-details-the-artwork-should-contain-chaotic-brush.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+A piece of concept art depicting a male horrific demon with realistic, intricate details. The artwork should contain chaotic brush strokes reminiscent of the style commonly seen in late 20th-century concept art. Focus on a dynamic, flowing composition with high contrast and a primarily color scheme, to evoke a sense of movement and drama.
+```
+
+By [@JBlack16062205](https://prompthero.com/prompt/c39167eea21-stable-diffusion-xl-base-09-comfyui-based-workflow-seargesdxl432-checkpoints-models-used-dreamshaper-xl-turbo-turbovisionxlsuperfastxl-realvisxlv30turbov30-juggernautxlv7rundiffusion-dreamshaperxlturbo-full-credits-shall-go-to-the-a-piece-of-concept-art-depicting-a-male-horrific-demon-with-realistic-intricate-details-the-artwork-should-contain-chaotic-brush)
 
 ---
 

@@ -6,70 +6,6 @@
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
-<a id="prompthero-027115638da"></a>
-
-## A surreal and slightly humorous, realistic-style s\.\.\.
-
-<a href="https://cdn.prompthero.com/me9eeafpbapxehrckd1zswf0xml1-flux-flux-11-pro-a-surreal-and-slightly-humorous-realistic-style-scene-inspired-by-the-famous-windows-xp-bliss-background-the-landscape-features-lush.jpg"><img src="https://cdn.prompthero.com/me9eeafpbapxehrckd1zswf0xml1-flux-flux-11-pro-a-surreal-and-slightly-humorous-realistic-style-scene-inspired-by-the-famous-windows-xp-bliss-background-the-landscape-features-lush.jpg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-A surreal and slightly humorous, realistic-style scene inspired by the famous Windows XP "Bliss" background. The landscape features lush green rolling hills and a clear blue sky. From behind one of the hills, the top part of Mark Zuckerberg’s head—his eyes and forehead—emerges. His head is slightly tilted from the edge of the hill, as if he is peeking. He is staring directly at the viewer with a curious and slightly unsettling expression, as though he is secretly watching them.
-```
-
-By [@chorlo](https://prompthero.com/prompt/027115638da-flux-flux-11-pro-a-surreal-and-slightly-humorous-realistic-style-scene-inspired-by-the-famous-windows-xp-bliss-background-the-landscape-features-lush)
-
----
-
-<a id="prompthero-a7d52d5606c"></a>
-
-## A majestic and ethereal scene of two historical fi\.\.\.
-
-<a href="https://cdn.prompthero.com/746emagtmkli5px1aj2rg3ol231r-flux-flux-11-pro-a-majestic-and-ethereal-scene-of-two-historical-figures-walking-towards-a-divine-celestial-gateway-their-silhouettes-are-illuminated-by.jpg"><img src="https://cdn.prompthero.com/746emagtmkli5px1aj2rg3ol231r-flux-flux-11-pro-a-majestic-and-ethereal-scene-of-two-historical-figures-walking-towards-a-divine-celestial-gateway-their-silhouettes-are-illuminated-by.jpg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-A majestic and ethereal scene of two historical figures walking towards a divine, celestial gateway. Their silhouettes are illuminated by a radiant, golden light, symbolizing a journey beyond time. The environment is a blend of Ottoman and early Republican architecture, floating in the clouds, with a grand, heavenly entrance in the background. Ultra-detailed facial features, lifelike expressions, and historically accurate clothing. The atmosphere is filled with divine energy, misty golden light, and a serene yet powerful presence. The figures are surrounded by a mystical aura, with soft, glowing particles floating in the air. Cinematic lighting, hyperrealistic rendering, and intricate fabric details. Epic and inspiring composition, evoking a sense of honor and transcendence.
-```
-
-[Source](https://prompthero.com/prompt/a7d52d5606c-flux-flux-11-pro-a-majestic-and-ethereal-scene-of-two-historical-figures-walking-towards-a-divine-celestial-gateway-their-silhouettes-are-illuminated-by)
-
----
-
-<a id="prompthero-a7d272f18c5"></a>
-
-## \(\(multiple photos beautiful monster , old men repe\.\.\.
-
-<a href="https://cdn.prompthero.com/t3383msbjze43upisi4q1sret12l-stable-diffusion-35-large-multiple-photos-beautiful-monster-old-men-repeated-on-a-page-cut-off-double-exposure-close-up-medical-illustration-trailer-park.jpg"><img src="https://cdn.prompthero.com/t3383msbjze43upisi4q1sret12l-stable-diffusion-35-large-multiple-photos-beautiful-monster-old-men-repeated-on-a-page-cut-off-double-exposure-close-up-medical-illustration-trailer-park.jpg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-((multiple photos beautiful monster , old men repeated on a page, cut off)), double exposure, close up, medical illustration, trailer park, beach, overlapping, industrial, fine arts, pine tree, uneven, rows, grid, extreme screen print, faded images, white space, large pictures, cut, off center, tape, negative space, split image, blank space, circles, vintage, Shepard Fairey, carnival poster, color overprint, light blue, red, brown, yellow , green
-```
-
-[Source](https://prompthero.com/prompt/a7d272f18c5-stable-diffusion-35-large-multiple-photos-beautiful-monster-old-men-repeated-on-a-page-cut-off-double-exposure-close-up-medical-illustration-trailer-park)
-
----
-
-<a id="prompthero-a7e589d5ce2"></a>
-
-## Hyper realistic fisheye exterior photo of a tarot \.\.\.
-
-<a href="https://cdn.prompthero.com/5fp1q6wcrisa02leps7lkipp8upk-flux-flux-11-pro-ultra-hyper-realistic-fisheye-exterior-photo-of-a-tarot-card-13th-gothic-style-overlooking-the-scene-cinematic-lighting-indirect-lighting-ad.jpg"><img src="https://cdn.prompthero.com/5fp1q6wcrisa02leps7lkipp8upk-flux-flux-11-pro-ultra-hyper-realistic-fisheye-exterior-photo-of-a-tarot-card-13th-gothic-style-overlooking-the-scene-cinematic-lighting-indirect-lighting-ad.jpg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-Hyper realistic fisheye exterior photo of a tarot card “13th” gothic style ,overlooking the scene, cinematic lighting, indirect lighting, AD magazine, Tim Burton , Eames, Mies van der Rohe.
-```
-
-[Source](https://prompthero.com/prompt/a7e589d5ce2-flux-flux-11-pro-ultra-hyper-realistic-fisheye-exterior-photo-of-a-tarot-card-13th-gothic-style-overlooking-the-scene-cinematic-lighting-indirect-lighting-ad)
-
----
-
 <a id="prompthero-a8dc2791743"></a>
 
 ## A Wolf Got The Job Too
@@ -99,22 +35,6 @@ a cinematic photograph of intricately designed golden chess pieces strategically
 ```
 
 [Source](https://prompthero.com/prompt/a28c54d1312-flux-flux-11-pro-a-cinematic-photograph-of-intricately-designed-golden-chess-pieces-strategically-positioned-on-a-richly-textured-board-composed-of-vintage-world)
-
----
-
-<a id="prompthero-a944f9cc600"></a>
-
-## &quot;Freddy Krueger standing menacingly in a thick, sw\.\.\.
-
-<a href="https://cdn.prompthero.com/ufbl1jcl6n27geamzpbrya9wbn-freddy-krueger-standing-menacingly-in-a-thick-swirling-fog-of-dark-smoke-horror-movie-style-he-wears-his-iconic-dirty.jpeg"><img src="https://cdn.prompthero.com/ufbl1jcl6n27geamzpbrya9wbn-freddy-krueger-standing-menacingly-in-a-thick-swirling-fog-of-dark-smoke-horror-movie-style-he-wears-his-iconic-dirty.jpeg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-"Freddy Krueger standing menacingly in a thick, swirling fog of dark smoke, horror movie style. He wears his iconic dirty red-and-black striped sweater with tattered edges. Dramatic low-key cinematic lighting with strong contrast and deep shadows. He slowly raises his iconic bladed glove toward the camera, razor-sharp metal claws glinting. His face is partially obscured by smoke and shadow, revealing only his burned, scarred skin and sinister grin. An eerie, pulsating ethereal green glow emanates from behind him, cutting through the smoke and casting ghostly highlights. He leans forward slightly and whispers in a raspy, gravelly voice 'Pleasant dreams...' before suddenly throwing his head back in a wild, maniacal laugh. Cinematic composition, atmospheric horror, highly detailed, photorealistic, moody color grading, 8k --ar 16:9 --stylize 250"
-```
-
-[Source](https://prompthero.com/prompt/a944f9cc600-freddy-krueger-standing-menacingly-in-a-thick-swirling-fog-of-dark-smoke-horror-movie-style-he-wears-his-iconic-dirty)
 
 ---
 
@@ -323,6 +243,86 @@ dark haired woman is standing in front of orange light, in glossy transparent pl
 ```
 
 By [@Atheist](https://prompthero.com/prompt/af8b127ccfc-stable-diffusion-xl-base-09-japanese-oni-mask)
+
+---
+
+<a id="prompthero-afc0343e9c8"></a>
+
+## My Bloody Valentine
+
+<a href="https://cdn.prompthero.com/mtkswvlfhux1niiua08wy992j66p-stable-diffusion-xl-base-09-my-bloody-valentine.png"><img src="https://cdn.prompthero.com/mtkswvlfhux1niiua08wy992j66p-stable-diffusion-xl-base-09-my-bloody-valentine.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+close-up photo of a beautiful red rose breaking through a cube made of ice , splintered cracked ice surface, frosted colors, blood dripping from rose, melting ice, Valentine’s Day vibes, cinematic, sharp focus, intricate, cinematic, dramatic light
+```
+
+[Source](https://prompthero.com/prompt/afc0343e9c8-stable-diffusion-xl-base-09-my-bloody-valentine)
+
+---
+
+<a id="prompthero-afe4941b1ea"></a>
+
+## studio image, surreal art, top down product angle,\.\.\.
+
+<a href="https://cdn.prompthero.com/zbe4d9yawwf3mrx8k4b83o0zgy-midjourney-shatter-studio-image-surreal-art-top-down-product-angle-perfectly-centered-vampires-tooth-long-tongue-rotten-purplish-skin-texture-sealed-inside.png"><img src="https://cdn.prompthero.com/zbe4d9yawwf3mrx8k4b83o0zgy-midjourney-shatter-studio-image-surreal-art-top-down-product-angle-perfectly-centered-vampires-tooth-long-tongue-rotten-purplish-skin-texture-sealed-inside.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+studio image, surreal art, top down product angle, perfectly centered, vampire's tooth, long tongue, rotten purplish skin texture, sealed inside rectangular plastic display tray, deep purple tray, wrapped in transparent plastic film, film tension lines, folds, reflections, glare, condensations, water droplets, scratches --ar 9:16 --raw --stylize 200
+```
+
+By [@Grayve](https://prompthero.com/prompt/afe4941b1ea-midjourney-shatter-studio-image-surreal-art-top-down-product-angle-perfectly-centered-vampires-tooth-long-tongue-rotten-purplish-skin-texture-sealed-inside)
+
+---
+
+<a id="prompthero-b4f0db61d10"></a>
+
+## Teenage Mutant Ninja Turtles, professional portr\.\.\.
+
+<a href="https://cdn.prompthero.com/sc5pcv90zpcx912ldx2qvv1jwevn-midjourney-niji-mode-teenage-mutant-ninja-turtles-professional-portrait-hyper-realistic-ultra-detailed-photograph-captured-with-a-85mm-lens-f4-6-bokeh-ultra.png"><img src="https://cdn.prompthero.com/sc5pcv90zpcx912ldx2qvv1jwevn-midjourney-niji-mode-teenage-mutant-ninja-turtles-professional-portrait-hyper-realistic-ultra-detailed-photograph-captured-with-a-85mm-lens-f4-6-bokeh-ultra.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+Teenage Mutant Ninja Turtles, professional portrait, hyper realistic, ultra detailed photograph, captured with a 85mm lens, f4. 6, bokeh, ultra detailed, ultra accurate detailed, bokeh lighting, surrealism, urban settin, ultra unreal engine, intricate, kitsch, -- ar 51:81
+```
+
+[Source](https://prompthero.com/prompt/b4f0db61d10-midjourney-niji-mode-teenage-mutant-ninja-turtles-professional-portrait-hyper-realistic-ultra-detailed-photograph-captured-with-a-85mm-lens-f4-6-bokeh-ultra)
+
+---
+
+<a id="prompthero-b6effb27840"></a>
+
+## Surrealism theme, master photography, high-end gra\.\.\.
+
+<a href="https://cdn.prompthero.com/11tsw19q9q1s7t5sk21kuetdqnba-flux-flux1-dev-surrealism-theme-master-photography-high-end-gray-background-close-up-of-the-upper-body-of-a-white-mushroom-headed-short.png"><img src="https://cdn.prompthero.com/11tsw19q9q1s7t5sk21kuetdqnba-flux-flux1-dev-surrealism-theme-master-photography-high-end-gray-background-close-up-of-the-upper-body-of-a-white-mushroom-headed-short.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+Surrealism theme, master photography, high-end gray background, close-up of the upper body of a white mushroom-headed short-haired beauty, beautiful neck and collarbone, she has no face, her face is replaced by flowers of various colors, the focus of the picture is the weird combination of these flowers and people, beauty and horror,
+```
+
+[Source](https://prompthero.com/prompt/b6effb27840-flux-flux1-dev-surrealism-theme-master-photography-high-end-gray-background-close-up-of-the-upper-body-of-a-white-mushroom-headed-short)
+
+---
+
+<a id="prompthero-b57e0428e9f"></a>
+
+## Alessi Kettle with a bird whistle, Sony A7R IV, Ze\.\.\.
+
+<a href="https://cdn.prompthero.com/r2d2x48nvoz9v5s4wmvc4wyh7u8e-midjourney-6-more-info-wwwgraytheorystudiocom-httpswwwinstagramcomspacemakergrayve-httpspromptbasecomprofilespacemakergrayve-alessi-kettle-with-a-bird-whistle-sony-a7r-iv-zeiss-batis-85mm-f18-lens-showcase-the-kettles-reflective-stainless-steel.png"><img src="https://cdn.prompthero.com/r2d2x48nvoz9v5s4wmvc4wyh7u8e-midjourney-6-more-info-wwwgraytheorystudiocom-httpswwwinstagramcomspacemakergrayve-httpspromptbasecomprofilespacemakergrayve-alessi-kettle-with-a-bird-whistle-sony-a7r-iv-zeiss-batis-85mm-f18-lens-showcase-the-kettles-reflective-stainless-steel.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+Alessi Kettle with a bird whistle, Sony A7R IV, Zeiss Batis 85mm f/1.8 lens, Showcase the kettle's reflective stainless steel surface and whimsical design, against a soft color background with diffused lighting
+```
+
+By [@Grayve](https://prompthero.com/prompt/b57e0428e9f-midjourney-6-more-info-wwwgraytheorystudiocom-httpswwwinstagramcomspacemakergrayve-httpspromptbasecomprofilespacemakergrayve-alessi-kettle-with-a-bird-whistle-sony-a7r-iv-zeiss-batis-85mm-f18-lens-showcase-the-kettles-reflective-stainless-steel)
 
 ---
 

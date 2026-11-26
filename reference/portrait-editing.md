@@ -70,22 +70,6 @@ By [@danieldmai](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cb
 
 ---
 
-<a id="prompthero-99914169091"></a>
-
-## Subject: do not change facial features keep my fac\.\.\.
-
-<a href="https://cdn.prompthero.com/cmd7jzi0yvkg6o5s2uaf1ma7or-hero-10-subject-do-not-change-facial-features-keep-my-facial-expressions-and-looks-the-same-with-almost-light-brown-eyes-with.jpeg"><img src="https://cdn.prompthero.com/cmd7jzi0yvkg6o5s2uaf1ma7or-hero-10-subject-do-not-change-facial-features-keep-my-facial-expressions-and-looks-the-same-with-almost-light-brown-eyes-with.jpeg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-Subject: do not change facial features keep my facial expressions and looks the same , with almost light brown eyes with a glowing tint. Petite frame wearing black cut off short shorts. With long auburn light red hair. keep freckles put me in a white tank top tee. With flowing but sexy hair, relaxed seated looking seductive in my eyes. Head down but eyes looking up. posture on the tufted leather sofa, hands resting lightly on the edge. Put me in a slightly dim room with candles lit. Give me visible thigh and leg tattoos. In a pair of ankle top pink and black and white vans and a glass window with sun setting through.
-```
-
-[Source](https://prompthero.com/prompt/99914169091-hero-10-subject-do-not-change-facial-features-keep-my-facial-expressions-and-looks-the-same-with-almost-light-brown-eyes-with)
-
----
-
 **1**
 
 [← Home](../README.md)

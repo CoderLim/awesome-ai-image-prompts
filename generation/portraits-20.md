@@ -6,38 +6,6 @@
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
-<a id="prompthero-889d7175cc0"></a>
-
-## young man with mustache and short hair, wearing wh\.\.\.
-
-<a href="https://cdn.prompthero.com/gz1a0qnq2ic1k1uyz2lyy027chgf-midjourney-52-young-man-with-mustache-and-short-hair-wearing-white-tunic-drawing-in-the-style-of-da-vinci-black-grey-on.png"><img src="https://cdn.prompthero.com/gz1a0qnq2ic1k1uyz2lyy027chgf-midjourney-52-young-man-with-mustache-and-short-hair-wearing-white-tunic-drawing-in-the-style-of-da-vinci-black-grey-on.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-young man with mustache and short hair, wearing white tunic, drawing in the style of Da Vinci, black & grey, on a white background --ar 9:10 --style raw --v 5.2
-```
-
-By [@Dallas59](https://prompthero.com/prompt/889d7175cc0-midjourney-52-young-man-with-mustache-and-short-hair-wearing-white-tunic-drawing-in-the-style-of-da-vinci-black-grey-on)
-
----
-
-<a id="prompthero-891ce84337d"></a>
-
-## front shot, upper body, professional model, greek \.\.\.
-
-<a href="https://cdn.prompthero.com/4vc7689jskebl0g7adg82nzx8hht-flux-pro-front-shot-upper-body-professional-model-greek-dark-face-features-different-colored-eyes-blue-and-brown-shot-with-hasselblad-x2d.jpeg"><img src="https://cdn.prompthero.com/4vc7689jskebl0g7adg82nzx8hht-flux-pro-front-shot-upper-body-professional-model-greek-dark-face-features-different-colored-eyes-blue-and-brown-shot-with-hasselblad-x2d.jpeg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-front shot, upper body, professional model, greek dark face features, different colored eyes blue and brown, shot with hasselblad x2d 100c, xcd 90mm f/2.5 lens, cinematic red color grading with golden hour warmth, dramatic black silhouette against burnt umber to red ruby gradient backdrop, avant-garde composition with tilted head pose, staring to camera, profound gaze, elongated body stance, flowing black turtleneck, professional main fresnel light at 60 degree angle with silk diffusion, rim light with cto gel at 75 degree angle, haze machine for ethereal atmosphere, feathered shadows, contrast curve manipulation, selective dodge and burn, grain texture overlay, color temperature adjustment at 5500k to 3200k gradient, ultra sharp details, raw format, inspired by paolo roversi lighting technique, hyper realistic, 16K, rich detail --ar 9:16 --quality 2 --style raw --personalize nq7rq2j --stylize 500 --v 6.1
-```
-
-By [@chorlo](https://prompthero.com/prompt/891ce84337d-flux-pro-front-shot-upper-body-professional-model-greek-dark-face-features-different-colored-eyes-blue-and-brown-shot-with-hasselblad-x2d)
-
----
-
 <a id="prompthero-898a92917e9"></a>
 
 ## Realistic Survivalist Portrait
@@ -323,6 +291,38 @@ high resolution cinematic photo, arri alexa mini, carl zeiss cp-2 lens set, aper
 ```
 
 By [@Grayve](https://prompthero.com/prompt/3850d818941-midjourney-6-high-resolution-cinematic-photo-arri-alexa-mini-carl-zeiss-cp-2-lens-set-aperture-f28-or-f4-iso-100-shutter)
+
+---
+
+<a id="prompthero-3853d49ec67"></a>
+
+## A dark, intimate fine art portrait of a woman stan\.\.\.
+
+<a href="https://cdn.prompthero.com/itrzn0eubus45xxl3jpyxm5dl722-flux-dev-a-dark-intimate-fine-art-portrait-of-a-woman-standing-confidently-against-a-deep-moody-background-soft-directional-lighting-highlights.png"><img src="https://cdn.prompthero.com/itrzn0eubus45xxl3jpyxm5dl722-flux-dev-a-dark-intimate-fine-art-portrait-of-a-woman-standing-confidently-against-a-deep-moody-background-soft-directional-lighting-highlights.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+A dark, intimate fine art portrait of a woman standing confidently against a deep, moody background. Soft, directional lighting highlights her form, creating a subtle contrast that brings out the contours and textures of her skin with a painterly quality. Shadows play across her face, partially obscuring her expression, lending an air of mystery and allure. Her pose is both powerful and graceful, exuding quiet strength and natural beauty. The overall composition uses rich, low-key lighting with carefully controlled highlights, capturing an essence of quiet intensity. The background fades into darkness, allowing the subject’s figure to emerge as the focal point, embodying a timeless elegance and cinematic depth
+```
+
+[Source](https://prompthero.com/prompt/3853d49ec67-flux-dev-a-dark-intimate-fine-art-portrait-of-a-woman-standing-confidently-against-a-deep-moody-background-soft-directional-lighting-highlights)
+
+---
+
+<a id="prompthero-4461bf26bb3"></a>
+
+## photography, upper body, female model in dramatic \.\.\.
+
+<a href="https://cdn.prompthero.com/xtbmjckack5yy414ac7m7uophirj-midjourney-6-photography-upper-body-female-model-in-dramatic-side-pose-leaning-backwards-at-15-degree-angle-head-tilted-down-stylish-hair.png"><img src="https://cdn.prompthero.com/xtbmjckack5yy414ac7m7uophirj-midjourney-6-photography-upper-body-female-model-in-dramatic-side-pose-leaning-backwards-at-15-degree-angle-head-tilted-down-stylish-hair.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+photography, upper body, female model in dramatic side pose, leaning backwards at 15-degree angle, head tilted down, stylish hair style, provocative look, minimalist full length black coat, black cargo jean, untied shoelaces matte black military boots, minimalist fashion, dramatic silhouette against cool emerald gradient background, rich detail --ar 9:16 --style raw --personalize flveq4x --v 6.1
+```
+
+By [@Grayve](https://prompthero.com/prompt/4461bf26bb3-midjourney-6-photography-upper-body-female-model-in-dramatic-side-pose-leaning-backwards-at-15-degree-angle-head-tilted-down-stylish-hair)
 
 ---
 

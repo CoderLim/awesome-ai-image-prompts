@@ -6,38 +6,6 @@
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
-<a id="prompthero-490cf31d4d1"></a>
-
-## &quot;A close-up portrait of a young woman with glowing\.\.\.
-
-<a href="https://cdn.prompthero.com/l48hvahc7439vteu430plu3t2k7p-stable-diffusion-xl-base-09-all-my-works-use-advanced-process-ie-comfyui-baseline-model-juggernautxlv5-refiner-model-sdxl-1009safetensors-workflow-seargesdxl43-prompt-generator-llama2-a-close-up-portrait-of-a-young-woman-with-glowing-skin-and-full-lips-she-should-have-large-expressive-golden.png"><img src="https://cdn.prompthero.com/l48hvahc7439vteu430plu3t2k7p-stable-diffusion-xl-base-09-all-my-works-use-advanced-process-ie-comfyui-baseline-model-juggernautxlv5-refiner-model-sdxl-1009safetensors-workflow-seargesdxl43-prompt-generator-llama2-a-close-up-portrait-of-a-young-woman-with-glowing-skin-and-full-lips-she-should-have-large-expressive-golden.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-"A close-up portrait of a young woman with glowing skin and full lips. She should have large, expressive golden-brown eyes and well-defined eyebrows, giving her a serene and engaging expression. The woman's face is partially framed by a textured blue scarf or shawl, which adds a touch of elegance. The lighting should be soft and dramatic, emphasizing her facial features and the fabric's texture. The background is to be out of focus to keep the attention on her."
-```
-
-By [@JBlack16062205](https://prompthero.com/prompt/490cf31d4d1-stable-diffusion-xl-base-09-all-my-works-use-advanced-process-ie-comfyui-baseline-model-juggernautxlv5-refiner-model-sdxl-1009safetensors-workflow-seargesdxl43-prompt-generator-llama2-a-close-up-portrait-of-a-young-woman-with-glowing-skin-and-full-lips-she-should-have-large-expressive-golden)
-
----
-
-<a id="prompthero-508a0fd8008"></a>
-
-## Turkish muslim women
-
-<a href="https://cdn.prompthero.com/pthfnsi1et1dz2lsyj8kd6nd526e-dreamshaper-5-inpainting-turkish-muslim-women.jpg"><img src="https://cdn.prompthero.com/pthfnsi1et1dz2lsyj8kd6nd526e-dreamshaper-5-inpainting-turkish-muslim-women.jpg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-Create a realistic style portrait of a gorgeous Turkish muslim women wearing pink color hijab , gorgeous face, cute pink lips , romantic eyes , beautiful eyes , full head portrait image , unzoom , 8k quality, high definition, depth field, clear focus, natural lighting
-```
-
-[Source](https://prompthero.com/prompt/508a0fd8008-dreamshaper-5-inpainting-turkish-muslim-women)
-
----
-
 <a id="prompthero-544eb80bf89"></a>
 
 ## Alien landscape
@@ -323,6 +291,38 @@ woman's profile, in the style of iconic civil rights imagery, light indigo and d
 ```
 
 By [@NorthmoorAI](https://prompthero.com/prompt/845d6b85510-midjourney-6-womans-profile-in-the-style-of-iconic-civil-rights-imagery-light-indigo-and-dark-amber-colorfully-abstracted-faces-iconic-album)
+
+---
+
+<a id="prompthero-889d7175cc0"></a>
+
+## young man with mustache and short hair, wearing wh\.\.\.
+
+<a href="https://cdn.prompthero.com/gz1a0qnq2ic1k1uyz2lyy027chgf-midjourney-52-young-man-with-mustache-and-short-hair-wearing-white-tunic-drawing-in-the-style-of-da-vinci-black-grey-on.png"><img src="https://cdn.prompthero.com/gz1a0qnq2ic1k1uyz2lyy027chgf-midjourney-52-young-man-with-mustache-and-short-hair-wearing-white-tunic-drawing-in-the-style-of-da-vinci-black-grey-on.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+young man with mustache and short hair, wearing white tunic, drawing in the style of Da Vinci, black & grey, on a white background --ar 9:10 --style raw --v 5.2
+```
+
+By [@Dallas59](https://prompthero.com/prompt/889d7175cc0-midjourney-52-young-man-with-mustache-and-short-hair-wearing-white-tunic-drawing-in-the-style-of-da-vinci-black-grey-on)
+
+---
+
+<a id="prompthero-891ce84337d"></a>
+
+## front shot, upper body, professional model, greek \.\.\.
+
+<a href="https://cdn.prompthero.com/4vc7689jskebl0g7adg82nzx8hht-flux-pro-front-shot-upper-body-professional-model-greek-dark-face-features-different-colored-eyes-blue-and-brown-shot-with-hasselblad-x2d.jpeg"><img src="https://cdn.prompthero.com/4vc7689jskebl0g7adg82nzx8hht-flux-pro-front-shot-upper-body-professional-model-greek-dark-face-features-different-colored-eyes-blue-and-brown-shot-with-hasselblad-x2d.jpeg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+front shot, upper body, professional model, greek dark face features, different colored eyes blue and brown, shot with hasselblad x2d 100c, xcd 90mm f/2.5 lens, cinematic red color grading with golden hour warmth, dramatic black silhouette against burnt umber to red ruby gradient backdrop, avant-garde composition with tilted head pose, staring to camera, profound gaze, elongated body stance, flowing black turtleneck, professional main fresnel light at 60 degree angle with silk diffusion, rim light with cto gel at 75 degree angle, haze machine for ethereal atmosphere, feathered shadows, contrast curve manipulation, selective dodge and burn, grain texture overlay, color temperature adjustment at 5500k to 3200k gradient, ultra sharp details, raw format, inspired by paolo roversi lighting technique, hyper realistic, 16K, rich detail --ar 9:16 --quality 2 --style raw --personalize nq7rq2j --stylize 500 --v 6.1
+```
+
+By [@chorlo](https://prompthero.com/prompt/891ce84337d-flux-pro-front-shot-upper-body-professional-model-greek-dark-face-features-different-colored-eyes-blue-and-brown-shot-with-hasselblad-x2d)
 
 ---
 

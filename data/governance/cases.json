@@ -1161,17 +1161,18 @@
       "multi-panel"
     ],
     "quality": {
-      "status": "metadata-complete",
-      "score": 5,
+      "status": "manual-excluded",
+      "score": 3,
       "flags": [
-        "rights-review"
+        "rights-review",
+        "manual-excluded"
       ],
       "imageAvailability": "unchecked",
       "imagePromptMatch": "unchecked",
       "reproduction": "untested",
       "rights": "pending-review"
     },
-    "visible": true
+    "visible": false
   },
   "evolink-advertising-case-187": {
     "type": "generation",
@@ -22345,17 +22346,18 @@
       "minimalist"
     ],
     "quality": {
-      "status": "metadata-complete",
-      "score": 4,
+      "status": "manual-excluded",
+      "score": 2,
       "flags": [
-        "rights-review"
+        "rights-review",
+        "manual-excluded"
       ],
       "imageAvailability": "unchecked",
       "imagePromptMatch": "unchecked",
       "reproduction": "untested",
       "rights": "pending-review"
     },
-    "visible": true
+    "visible": false
   },
   "prompthero-02c8c40e726": {
     "type": "generation",
@@ -23023,17 +23025,18 @@
     "reason": "reviewed-collector-export",
     "tags": [],
     "quality": {
-      "status": "metadata-complete",
-      "score": 5,
+      "status": "manual-excluded",
+      "score": 3,
       "flags": [
-        "rights-review"
+        "rights-review",
+        "manual-excluded"
       ],
       "imageAvailability": "unchecked",
       "imagePromptMatch": "unchecked",
       "reproduction": "untested",
       "rights": "pending-review"
     },
-    "visible": true
+    "visible": false
   },
   "prompthero-3b0d4896f5f": {
     "type": "generation",
@@ -23660,17 +23663,18 @@
       "reference-image"
     ],
     "quality": {
-      "status": "metadata-complete",
-      "score": 4,
+      "status": "manual-excluded",
+      "score": 2,
       "flags": [
-        "rights-review"
+        "rights-review",
+        "manual-excluded"
       ],
       "imageAvailability": "unchecked",
       "imagePromptMatch": "unchecked",
       "reproduction": "untested",
       "rights": "pending-review"
     },
-    "visible": true
+    "visible": false
   },
   "prompthero-3f8e7acbd94": {
     "type": "generation",
@@ -26384,17 +26388,18 @@
       "minimalist"
     ],
     "quality": {
-      "status": "metadata-complete",
-      "score": 4,
+      "status": "manual-excluded",
+      "score": 2,
       "flags": [
-        "rights-review"
+        "rights-review",
+        "manual-excluded"
       ],
       "imageAvailability": "unchecked",
       "imagePromptMatch": "unchecked",
       "reproduction": "untested",
       "rights": "pending-review"
     },
-    "visible": true
+    "visible": false
   },
   "prompthero-7f83b88d0ab": {
     "type": "generation",
@@ -26820,17 +26825,18 @@
     "reason": "reviewed-collector-export",
     "tags": [],
     "quality": {
-      "status": "metadata-complete",
-      "score": 4,
+      "status": "manual-excluded",
+      "score": 2,
       "flags": [
-        "rights-review"
+        "rights-review",
+        "manual-excluded"
       ],
       "imageAvailability": "unchecked",
       "imagePromptMatch": "unchecked",
       "reproduction": "untested",
       "rights": "pending-review"
     },
-    "visible": true
+    "visible": false
   },
   "prompthero-8c09b02c978": {
     "type": "generation",
@@ -27066,17 +27072,18 @@
       "minimalist"
     ],
     "quality": {
-      "status": "metadata-complete",
-      "score": 5,
+      "status": "manual-excluded",
+      "score": 3,
       "flags": [
-        "rights-review"
+        "rights-review",
+        "manual-excluded"
       ],
       "imageAvailability": "unchecked",
       "imagePromptMatch": "unchecked",
       "reproduction": "untested",
       "rights": "pending-review"
     },
-    "visible": true
+    "visible": false
   },
   "prompthero-8dac2bfa681": {
     "type": "generation",
@@ -29487,17 +29494,18 @@
     "reason": "reviewed-collector-export",
     "tags": [],
     "quality": {
-      "status": "metadata-complete",
-      "score": 5,
+      "status": "manual-excluded",
+      "score": 3,
       "flags": [
-        "rights-review"
+        "rights-review",
+        "manual-excluded"
       ],
       "imageAvailability": "unchecked",
       "imagePromptMatch": "unchecked",
       "reproduction": "untested",
       "rights": "pending-review"
     },
-    "visible": true
+    "visible": false
   },
   "prompthero-33e4329963a": {
     "type": "generation",
@@ -29664,17 +29672,18 @@
     "reason": "reviewed-collector-export",
     "tags": [],
     "quality": {
-      "status": "metadata-complete",
-      "score": 4,
+      "status": "manual-excluded",
+      "score": 2,
       "flags": [
-        "rights-review"
+        "rights-review",
+        "manual-excluded"
       ],
       "imageAvailability": "unchecked",
       "imagePromptMatch": "unchecked",
       "reproduction": "untested",
       "rights": "pending-review"
     },
-    "visible": true
+    "visible": false
   },
   "prompthero-40b50c6e772": {
     "type": "generation",
@@ -29728,17 +29737,18 @@
     "reason": "reviewed-collector-export",
     "tags": [],
     "quality": {
-      "status": "metadata-complete",
-      "score": 5,
+      "status": "manual-excluded",
+      "score": 3,
       "flags": [
-        "rights-review"
+        "rights-review",
+        "manual-excluded"
       ],
       "imageAvailability": "unchecked",
       "imagePromptMatch": "unchecked",
       "reproduction": "untested",
       "rights": "pending-review"
     },
-    "visible": true
+    "visible": false
   },
   "prompthero-41a67f56271": {
     "type": "generation",
@@ -30015,17 +30025,18 @@
       "product"
     ],
     "quality": {
-      "status": "metadata-complete",
-      "score": 5,
+      "status": "manual-excluded",
+      "score": 3,
       "flags": [
-        "rights-review"
+        "rights-review",
+        "manual-excluded"
       ],
       "imageAvailability": "unchecked",
       "imagePromptMatch": "unchecked",
       "reproduction": "untested",
       "rights": "pending-review"
     },
-    "visible": true
+    "visible": false
   },
   "prompthero-47e2384be51": {
     "type": "generation",
@@ -34596,17 +34607,18 @@
       "reference-image"
     ],
     "quality": {
-      "status": "metadata-complete",
-      "score": 4,
+      "status": "manual-excluded",
+      "score": 2,
       "flags": [
-        "rights-review"
+        "rights-review",
+        "manual-excluded"
       ],
       "imageAvailability": "unchecked",
       "imagePromptMatch": "unchecked",
       "reproduction": "untested",
       "rights": "pending-review"
     },
-    "visible": true
+    "visible": false
   },
   "prompthero-970ebe51760": {
     "type": "generation",
@@ -35259,18 +35271,19 @@
     "reason": "reviewed-collector-export",
     "tags": [],
     "quality": {
-      "status": "metadata-complete",
-      "score": 4,
+      "status": "manual-excluded",
+      "score": 2,
       "flags": [
         "classification-review",
-        "rights-review"
+        "rights-review",
+        "manual-excluded"
       ],
       "imageAvailability": "unchecked",
       "imagePromptMatch": "unchecked",
       "reproduction": "untested",
       "rights": "pending-review"
     },
-    "visible": true
+    "visible": false
   },
   "prompthero-03500d2a169": {
     "type": "generation",
@@ -35856,17 +35869,18 @@
       "minimalist"
     ],
     "quality": {
-      "status": "metadata-complete",
-      "score": 5,
+      "status": "manual-excluded",
+      "score": 3,
       "flags": [
-        "rights-review"
+        "rights-review",
+        "manual-excluded"
       ],
       "imageAvailability": "unchecked",
       "imagePromptMatch": "unchecked",
       "reproduction": "untested",
       "rights": "pending-review"
     },
-    "visible": true
+    "visible": false
   },
   "prompthero-8074f6fa3df": {
     "type": "generation",
@@ -37161,18 +37175,19 @@
     "reason": "reviewed-collector-export",
     "tags": [],
     "quality": {
-      "status": "metadata-complete",
-      "score": 4,
+      "status": "manual-excluded",
+      "score": 2,
       "flags": [
         "classification-review",
-        "rights-review"
+        "rights-review",
+        "manual-excluded"
       ],
       "imageAvailability": "unchecked",
       "imagePromptMatch": "unchecked",
       "reproduction": "untested",
       "rights": "pending-review"
     },
-    "visible": true
+    "visible": false
   },
   "prompthero-222752c8117": {
     "type": "generation",
@@ -37204,17 +37219,18 @@
       "photorealistic"
     ],
     "quality": {
-      "status": "metadata-complete",
-      "score": 5,
+      "status": "manual-excluded",
+      "score": 3,
       "flags": [
-        "rights-review"
+        "rights-review",
+        "manual-excluded"
       ],
       "imageAvailability": "unchecked",
       "imagePromptMatch": "unchecked",
       "reproduction": "untested",
       "rights": "pending-review"
     },
-    "visible": true
+    "visible": false
   },
   "prompthero-231182fd1ce": {
     "type": "generation",
@@ -37813,17 +37829,18 @@
       "minimalist"
     ],
     "quality": {
-      "status": "metadata-complete",
-      "score": 4,
+      "status": "manual-excluded",
+      "score": 2,
       "flags": [
-        "rights-review"
+        "rights-review",
+        "manual-excluded"
       ],
       "imageAvailability": "unchecked",
       "imagePromptMatch": "unchecked",
       "reproduction": "untested",
       "rights": "pending-review"
     },
-    "visible": true
+    "visible": false
   },
   "prompthero-3005193e3d4": {
     "type": "generation",
@@ -38643,17 +38660,18 @@
       "image-editing"
     ],
     "quality": {
-      "status": "metadata-complete",
-      "score": 4,
+      "status": "manual-excluded",
+      "score": 2,
       "flags": [
-        "rights-review"
+        "rights-review",
+        "manual-excluded"
       ],
       "imageAvailability": "unchecked",
       "imagePromptMatch": "unchecked",
       "reproduction": "untested",
       "rights": "pending-review"
     },
-    "visible": true
+    "visible": false
   },
   "prompthero-a1a594c08d4": {
     "type": "generation",
@@ -39339,17 +39357,18 @@
       "photorealistic"
     ],
     "quality": {
-      "status": "metadata-complete",
-      "score": 4,
+      "status": "manual-excluded",
+      "score": 2,
       "flags": [
-        "rights-review"
+        "rights-review",
+        "manual-excluded"
       ],
       "imageAvailability": "unchecked",
       "imagePromptMatch": "unchecked",
       "reproduction": "untested",
       "rights": "pending-review"
     },
-    "visible": true
+    "visible": false
   },
   "prompthero-a968bd0164c": {
     "type": "generation",
@@ -42033,17 +42052,18 @@
     "reason": "reviewed-collector-export",
     "tags": [],
     "quality": {
-      "status": "metadata-complete",
-      "score": 4,
+      "status": "manual-excluded",
+      "score": 2,
       "flags": [
-        "rights-review"
+        "rights-review",
+        "manual-excluded"
       ],
       "imageAvailability": "unchecked",
       "imagePromptMatch": "unchecked",
       "reproduction": "untested",
       "rights": "pending-review"
     },
-    "visible": true
+    "visible": false
   },
   "prompthero-be48d1236d0": {
     "type": "generation",
@@ -43492,17 +43512,18 @@
       "animation"
     ],
     "quality": {
-      "status": "metadata-complete",
-      "score": 4,
+      "status": "manual-excluded",
+      "score": 2,
       "flags": [
-        "rights-review"
+        "rights-review",
+        "manual-excluded"
       ],
       "imageAvailability": "unchecked",
       "imagePromptMatch": "unchecked",
       "reproduction": "untested",
       "rights": "pending-review"
     },
-    "visible": true
+    "visible": false
   },
   "prompthero-cc81258b533": {
     "type": "generation",
@@ -45099,17 +45120,18 @@
     "reason": "reviewed-collector-export",
     "tags": [],
     "quality": {
-      "status": "metadata-complete",
-      "score": 4,
+      "status": "manual-excluded",
+      "score": 2,
       "flags": [
-        "rights-review"
+        "rights-review",
+        "manual-excluded"
       ],
       "imageAvailability": "unchecked",
       "imagePromptMatch": "unchecked",
       "reproduction": "untested",
       "rights": "pending-review"
     },
-    "visible": true
+    "visible": false
   },
   "prompthero-dc44e44d414": {
     "type": "generation",
@@ -46736,18 +46758,19 @@
       "photorealistic"
     ],
     "quality": {
-      "status": "metadata-complete",
-      "score": 4,
+      "status": "manual-excluded",
+      "score": 2,
       "flags": [
         "classification-review",
-        "rights-review"
+        "rights-review",
+        "manual-excluded"
       ],
       "imageAvailability": "unchecked",
       "imagePromptMatch": "unchecked",
       "reproduction": "untested",
       "rights": "pending-review"
     },
-    "visible": true
+    "visible": false
   },
   "prompthero-ec6492b9f4b": {
     "type": "generation",
@@ -49016,15 +49039,17 @@
     "reason": "reviewed-source-recipe",
     "tags": [],
     "quality": {
-      "status": "metadata-complete",
-      "score": 5,
-      "flags": [],
+      "status": "manual-excluded",
+      "score": 3,
+      "flags": [
+        "manual-excluded"
+      ],
       "imageAvailability": "unchecked",
       "imagePromptMatch": "unchecked",
       "reproduction": "untested",
       "rights": "license-documented"
     },
-    "visible": true
+    "visible": false
   },
   "vcl-cutaway": {
     "type": "generation",
@@ -49095,15 +49120,17 @@
       "product"
     ],
     "quality": {
-      "status": "metadata-complete",
-      "score": 5,
-      "flags": [],
+      "status": "manual-excluded",
+      "score": 3,
+      "flags": [
+        "manual-excluded"
+      ],
       "imageAvailability": "unchecked",
       "imagePromptMatch": "unchecked",
       "reproduction": "untested",
       "rights": "license-documented"
     },
-    "visible": true
+    "visible": false
   },
   "vcl-landingpage": {
     "type": "generation",
@@ -49169,15 +49196,17 @@
     "reason": "reviewed-source-recipe",
     "tags": [],
     "quality": {
-      "status": "metadata-complete",
-      "score": 5,
-      "flags": [],
+      "status": "manual-excluded",
+      "score": 3,
+      "flags": [
+        "manual-excluded"
+      ],
       "imageAvailability": "unchecked",
       "imagePromptMatch": "unchecked",
       "reproduction": "untested",
       "rights": "license-documented"
     },
-    "visible": true
+    "visible": false
   },
   "vcl-youtubethumbnail": {
     "type": "generation",

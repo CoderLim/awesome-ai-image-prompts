@@ -6,70 +6,6 @@
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
-<a id="prompthero-287382fdb91"></a>
-
-## On The Moon
-
-<a href="https://cdn.prompthero.com/44jjy1emg99tavaxe6yifqlsf1uf-stable-diffusion-xl-base-09-on-the-moon.jpg"><img src="https://cdn.prompthero.com/44jjy1emg99tavaxe6yifqlsf1uf-stable-diffusion-xl-base-09-on-the-moon.jpg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-Insanely Detailed, Photorealistic back shot of a beautiful punkangel sitting on a crescent moon, night, purple and black punk clothes, large black wings, long pigtails, haunting, blurry background, angsty, professional photography, dynamic lighting, intricate details, 16k resolution, beautifully shot, hyperrealistic, clean sharp focus, bokeh, perfect composition, high contrast, bright colors, bold colors, film grain
-```
-
-By [@Atheist](https://prompthero.com/prompt/287382fdb91-stable-diffusion-xl-base-09-on-the-moon)
-
----
-
-<a id="prompthero-351329a99ee"></a>
-
-## Amazing animals Fashion Photoshoot
-
-<a href="https://cdn.prompthero.com/9zmun1weh978vimag47eet3zoefx-midjourney-52-amazing-animals-fashion-photoshoot.png"><img src="https://cdn.prompthero.com/9zmun1weh978vimag47eet3zoefx-midjourney-52-amazing-animals-fashion-photoshoot.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-Vogue Magazine Cover, [Animal] in a candid pose wearing [clothes], [half body/full body] photoshoot, Magazine photoshoot, Studio Lighting, Creative trippy aesthetic background, Modern look --v 5.2
-```
-
-[Source](https://prompthero.com/prompt/351329a99ee-midjourney-52-amazing-animals-fashion-photoshoot)
-
----
-
-<a id="prompthero-658447a57a8"></a>
-
-## \{ &quot;scene&quot;: \{ &quot;type&quot;: &quot;fashion editorial&quot;, \.\.\.
-
-<a href="https://cdn.prompthero.com/v1_6e7987d7caa5baa5fb66c72583-chatgpt-image-gpt-image-25-scene-type-fashion-editorial-theme-gucci-vintage-luxury-setting-environment-interior-fashion-set-background-wallpaper-pattern-ornate-looped-gold-and.jpeg"><img src="https://cdn.prompthero.com/v1_6e7987d7caa5baa5fb66c72583-chatgpt-image-gpt-image-25-scene-type-fashion-editorial-theme-gucci-vintage-luxury-setting-environment-interior-fashion-set-background-wallpaper-pattern-ornate-looped-gold-and.jpeg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-{ "scene": { "type": "fashion editorial", "theme": "Gucci vintage luxury", "setting": { "environment": "interior fashion set", "background": { "wallpaper": { "pattern": "ornate looped gold and green design", "texture": "rich, vintage-inspired" } }, "floor": { "type": "deep red carpet", "texture": "velvet, slightly worn" }, "furniture": { "type": "antique sofa", "color": "red velvet", "details": "wood-carved frame with plush upholstery" }, "lighting": "editorial moody lighting with soft highlights" } }, "model": { "gender": "female", "pose": "seated on sofa, legs apart, leaning forward", "expression": "confident, lips slightly parted", "hair": { "style": "vintage-inspired wave, side-parted", "color": "dark brown" }, "outfit": { "style": "luxury fashion", "brand": "Gucci", "pattern": "signature Gucci monogram print suit", "details": { "shirt": "gold satin blouse with bow", "cuffs": "golden cuffs peeking from blazer", "belt": "Gucci-style ornate belt", "pants": "matching monogram trousers" }, "shoes": "metallic platform heels with red embellishments", "accessories": { "sunglasses": "round oversized brown-orange lenses", "earrings": "large gold hoop or chandelier style", "bag": "Gucci monogram handbag with green-red stripe and gold hardware" } } }, "camera": { "angle": "eye-level", "framing": "mid-body editorial crop", "lighting": "moody studio setup", "color_grade": "rich tones with vintage contrast" }, "visual_effects": { "style": "Vogue editorial cover look", "mood": "fashion-forward, luxurious, bold", "palette": ["red", "gold", "cream", "green"] } }
-```
-
-By [@miladlotfalii](https://prompthero.com/prompt/658447a57a8-chatgpt-image-gpt-image-25-scene-type-fashion-editorial-theme-gucci-vintage-luxury-setting-environment-interior-fashion-set-background-wallpaper-pattern-ornate-looped-gold-and)
-
----
-
-<a id="prompthero-723106a7952"></a>
-
-## Psychedelic Dune portrait, A detailed, central por\.\.\.
-
-<a href="https://cdn.prompthero.com/n185bxjzgmo8nre5tgbzprl6pibr-midjourney-niji-mode-psychedelic-dune-portrait-a-detailed-central-portrait-of-a-rugged-male-dune-character-with-characteristic-blue-eyes-weather-beaten-skin.png"><img src="https://cdn.prompthero.com/n185bxjzgmo8nre5tgbzprl6pibr-midjourney-niji-mode-psychedelic-dune-portrait-a-detailed-central-portrait-of-a-rugged-male-dune-character-with-characteristic-blue-eyes-weather-beaten-skin.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-Psychedelic Dune portrait, A detailed, central portrait of a rugged male Dune character, with characteristic blue eyes, weather-beaten skin, and a hint of stern determination on his face. He's dressed in worn desert garb, the fabric seeming to ripple with the unseen desert winds, The background is a surreal blend of vibrant, psychedelic colors, swirling and undulating like a fantastical, otherworldly sky. Small but precise details such as the intricate patterns on his garments, the shimmering sand particles on his skin, and the minute reflections in his eyes add to the overall impact, The scene radiates a surreal, ethereal mood, in tune with the Dune universe's enigmatic spirit. The air carries an aura of quiet power and tension, reflecting the character's struggles and victories, Painting inspired by Conrad Roset, Greg Rutkowski, and Makoto Shinkai, Combining Roset's vibrant palette and flowing lines, Rutkowski's impeccable lighting and detailing, and Shinkai's grand sense of scale and drama, this painting captures the essence of the Dune character in a uniquely beautiful and surreal style, --aspect 2:1 --quality 2 --chaos 35 --niji 5 --s 750 --niji 5
-```
-
-[Source](https://prompthero.com/prompt/723106a7952-midjourney-niji-mode-psychedelic-dune-portrait-a-detailed-central-portrait-of-a-rugged-male-dune-character-with-characteristic-blue-eyes-weather-beaten-skin)
-
----
-
 <a id="prompthero-875314cccb3"></a>
 
 ## a poster depicts a boy holding a heart shaped ball\.\.\.
@@ -323,6 +259,70 @@ a man in a trench coat and hat walking down a street in the rain with a car behi
 ```
 
 [Source](https://prompthero.com/prompt/148858911ae-dreamshaper-5-baked-vae-a-man-in-a-trench-coat-and-hat-walking-down-a-street-in-the-rain-with-a-car-behind-him)
+
+---
+
+<a id="prompthero-208973422ad"></a>
+
+## Vivacious and Free-Spirited
+
+<a href="https://cdn.prompthero.com/s0uu74ipnzd5ir53t3rpi9fdqxh8-stable-diffusion-xl-base-09-vivacious-and-free-spirited.jpg"><img src="https://cdn.prompthero.com/s0uu74ipnzd5ir53t3rpi9fdqxh8-stable-diffusion-xl-base-09-vivacious-and-free-spirited.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+(masterpiece, best quality), a beautiful 20 yr old woman wearing a black hoodie and sexy black jeans shorts with a backpack, curvy body, long blonde hair, walking in the street, city lights, soothing tones, muted colors, high contrast, natural skin texture, soft light
+```
+
+By [@abyishot](https://prompthero.com/prompt/208973422ad-stable-diffusion-xl-base-09-vivacious-and-free-spirited)
+
+---
+
+<a id="prompthero-366392108e6"></a>
+
+## \{ &quot;scene&quot;: &quot;Parallel black slits over a blue por\.\.\.
+
+<a href="https://cdn.prompthero.com/myhfa8rka75k9vr7w5jsduanv9-orangechillmix-v50-scene-parallel-black-slits-over-a-blue-portrait-halftone-create-a-hidden-face-that-appears-only-from-one-viewing-angle.png"><img src="https://cdn.prompthero.com/myhfa8rka75k9vr7w5jsduanv9-orangechillmix-v50-scene-parallel-black-slits-over-a-blue-portrait-halftone-create-a-hidden-face-that-appears-only-from-one-viewing-angle.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+{ "scene": "Parallel black slits over a blue portrait halftone create a hidden face that appears only from one viewing angle.", "subjects": [ { "type": "Slit mask over halftone", "description": "Fine vertical slits and a cyan dot portrait perfectly phased", "position": "Face center on right third", "pose": "Planar overlay", "expression": "Quiet apparition", "interaction": "Face vanishes if the viewpoint shifts" } ], "style": "Print realism with gallery mount", "color_palette": ["black", "cyan", "ivory"], "lighting": {"type":"Even gallery light","direction":"Front","intensity":"Medium","color_temperature":"Neutral"}, "composition": {"framing":"Rule of thirds with golden spiral sweep from left to face","perspective":"Planar","focus":"Global sharp"}, "atmosphere": {"mood":"Subtle surprise","time_of_day":"N A","weather":"N A"}, "camera":"Fuji GFX","lens":"One hundred ten millimeter", "settings":{"ISO":"200","shutter_speed":"1/125s","aperture":"f 9"}, "post_processing":{"film_look":"Neutral","color_grading":"Cool cyan lift","effects":["paper texture","micro contrast on slits"]} }
+```
+
+[Source](https://prompthero.com/prompt/366392108e6-orangechillmix-v50-scene-parallel-black-slits-over-a-blue-portrait-halftone-create-a-hidden-face-that-appears-only-from-one-viewing-angle)
+
+---
+
+<a id="prompthero-509832595d6"></a>
+
+## Barbie space tech
+
+<a href="https://cdn.prompthero.com/esmv240g49cm5t1bcnppk5o341gd-midjourney-52-barbie-space-tech.png"><img src="https://cdn.prompthero.com/esmv240g49cm5t1bcnppk5o341gd-midjourney-52-barbie-space-tech.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+a person in a metal suit with a chain, in the style of gum bichromate, camilla d'errico, light bronze and pink, disfigured forms, webcam photography, religious subjects, donna huanca --ar 70:87 --s 1000 --c 100 --w 1000 --v 5.2 --style raw
+```
+
+By [@jefharris](https://prompthero.com/prompt/509832595d6-midjourney-52-barbie-space-tech)
+
+---
+
+<a id="prompthero-882755561fe"></a>
+
+## \{ &quot;subject&quot;: \{ &quot;type&quot;: &quot;portrait&quot;, &quot;g\.\.\.
+
+<a href="https://cdn.prompthero.com/v1_e9c2dea3f4c3fabda46b0ac9ea-chatgpt-image-gpt-image-2-subject-type-portrait-gender-female-age-young-adult-ethnicity-ambiguous-european-skintone-fair-porcelain-like-skintexture-smooth-and-flawless-with.jpeg"><img src="https://cdn.prompthero.com/v1_e9c2dea3f4c3fabda46b0ac9ea-chatgpt-image-gpt-image-2-subject-type-portrait-gender-female-age-young-adult-ethnicity-ambiguous-european-skintone-fair-porcelain-like-skintexture-smooth-and-flawless-with.jpeg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+{ "subject": { "type": "portrait", "gender": "female", "age": "young adult", "ethnicity": "ambiguous European", "skin_tone": "fair, porcelain-like", "skin_texture": "smooth and flawless, with matte finish", "facial_features": { "eyes": { "color": "light blue with aqua tones", "shape": "almond-shaped", "makeup": { "eyeshadow": "gold shimmer with inner-corner highlight", "eyeliner": "black, fine, enhancing lash line", "lashes": "long, voluminous, curled" } }, "eyebrows": { "shape": "full and straight with natural arch", "color": "medium brown" }, "lips": { "shape": "full and symmetrical", "color": "soft peach with a glossy finish" }, "nose": "small and straight", "cheekbones": "high and softly contoured" }, "hair": { "style": "tucked under hat, hidden from view", "color": "light brown or blonde (not visible)" }, "accessories": [ { "type": "earrings", "style": "diamond stud with halo setting", "size": "small to medium" }, { "type": "hat", "style": "wide-brim fashion hat", "color": "bright yellow" } ] }, "clothing": { "type": "high-collared garment", "color": "bright yellow", "style": "minimalist, smooth fabric" }, "pose": { "framing": "tight close-up, face centered", "expression": "neutral with slightly parted lips", "eye_contact": "direct to camera" }, "lighting": { "type": "soft, diffused", "direction": "frontal, even illumination", "effect": "enhances smoothness of skin and brightness of colors" }, "background": { "color": "soft pastel blue", "style": "solid, smooth", "depth_of_field": "shallow (sharp focus on subject)" }, "image_quality": { "style": "ultra-high resolution, fashion editorial", "focus": "sharp on eyes and facial features", "color_grade": "bright and clean" } }
+```
+
+[Source](https://prompthero.com/prompt/882755561fe-chatgpt-image-gpt-image-2-subject-type-portrait-gender-female-age-young-adult-ethnicity-ambiguous-european-skintone-fair-porcelain-like-skintexture-smooth-and-flawless-with)
 
 ---
 

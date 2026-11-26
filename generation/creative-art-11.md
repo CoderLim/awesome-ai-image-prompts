@@ -6,86 +6,6 @@
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
-<a id="prompthero-bf61311dfdf"></a>
-
-## \(masterpiece:1\.1\), \(best quality:1\.1\), \(anatomical\.\.\.
-
-<a href="https://cdn.prompthero.com/2u74ftppyymbiig8k8yl3kmxwdgv-deliberate-2-masterpiece11-best-quality11-anatomically-correct11-perfect-arms11-detailed-face13-detailed-skin-perfect-eyes-perfect-nose-realistic-octane-render-sharp-focus8k.png"><img src="https://cdn.prompthero.com/2u74ftppyymbiig8k8yl3kmxwdgv-deliberate-2-masterpiece11-best-quality11-anatomically-correct11-perfect-arms11-detailed-face13-detailed-skin-perfect-eyes-perfect-nose-realistic-octane-render-sharp-focus8k.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-(masterpiece:1.1), (best quality:1.1), (anatomically correct:1.1), (perfect arms:1.1), ((detailed face:1.3)), (detailed skin), (perfect eyes), (perfect nose), (realistic), octane render, sharp focus,(8k), (4k), (Masterpiece), (Best Quality), ((huge lips:1.3)), detailed background, art by artgerm and greg rutkowski, cinematic lighting, 8k
-```
-
-By [@heeyrina](https://prompthero.com/prompt/bf61311dfdf-deliberate-2-masterpiece11-best-quality11-anatomically-correct11-perfect-arms11-detailed-face13-detailed-skin-perfect-eyes-perfect-nose-realistic-octane-render-sharp-focus8k)
-
----
-
-<a id="prompthero-c4d6d5c385b"></a>
-
-## A scene of an isle of white motorcycle racing down\.\.\.
-
-<a href="https://cdn.prompthero.com/72e4t4keoprs8z133y40rpwm6okj-midjourney-6-a-scene-of-an-isle-of-white-motorcycle-racing-down-a-cobblestone-victorian-era-street-merging-the-elegance-of-the.png"><img src="https://cdn.prompthero.com/72e4t4keoprs8z133y40rpwm6okj-midjourney-6-a-scene-of-an-isle-of-white-motorcycle-racing-down-a-cobblestone-victorian-era-street-merging-the-elegance-of-the.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-A scene of an isle of white motorcycle racing down a cobblestone Victorian-era street, merging the elegance of the past with the sleek design of the future. Zooms past gas-lit street lamps and ornate wrought-iron fences. The ride leans forward, gripping the handlebars tightly as the bike's headlights cast a bright beam ahead. The Victorian architecture, with its intricate facades and vintage shop signs, contrasts sharply with the modern vehicle, creating a surreal blend of eras. The street is slightly misty, with a few rain puddles reflecting the neon lights from the bike, enhancing the atmospheric and cinematic feel of the scene --quality 2 --stylize 750 --v 6.1
-```
-
-[Source](https://prompthero.com/prompt/c4d6d5c385b-midjourney-6-a-scene-of-an-isle-of-white-motorcycle-racing-down-a-cobblestone-victorian-era-street-merging-the-elegance-of-the)
-
----
-
-<a id="prompthero-c5cde05631e"></a>
-
-## a high-resolution image that captures the essence \.\.\.
-
-<a href="https://cdn.prompthero.com/o9hocvteedf2r597uedvlixmggyl-flux-flux-11-pro-ultra-a-high-resolution-image-that-captures-the-essence-of-a-dynamic-character-in-a-futuristic-setting-she-is-an-shining.jpg"><img src="https://cdn.prompthero.com/o9hocvteedf2r597uedvlixmggyl-flux-flux-11-pro-ultra-a-high-resolution-image-that-captures-the-essence-of-a-dynamic-character-in-a-futuristic-setting-she-is-an-shining.jpg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-a high-resolution image that captures the essence of a dynamic character in a futuristic setting. she is an shining AI that her face looks like human. she is wearing metal suit, she wear helmet, The character is poised energetically, with flowing garments suggesting motion. Incorporate a vivid color scheme with pink, and reflective silvers, reminiscent of nightcore aesthetics. Use dramatic backlighting to emulate a neon glow, contrasting with the darker hues of a cosmic backdrop , she is bright , The image should mimic the depth of field and clarity with sharp focus on the character and a blurred background. Add realistic textures to the character's clothing and hair, and include a visible light source in their hands, producing a gleaming, otherworldly effect. Ensure the overall composition resembles a candid snapshot, capturing a spontaneous moment of action in a surreal, sci-fi universe, Her eyes are purple, her entire body, she is making a gesture of reaching out for something above, a leaping pose, she is gazing at something above. , GoPro HERO10 Black, Cinestill 800T, cyberpunk, a cinematic scene, --ar 9:16 --s 750
-```
-
-[Source](https://prompthero.com/prompt/c5cde05631e-flux-flux-11-pro-ultra-a-high-resolution-image-that-captures-the-essence-of-a-dynamic-character-in-a-futuristic-setting-she-is-an-shining)
-
----
-
-<a id="prompthero-c9e2bd82708"></a>
-
-## Creature Feature: Leprechaun
-
-<a href="https://cdn.prompthero.com/k48k7m4pjmyeadbcrvip10s449io-stable-diffusion-xl-base-09-creature-feature-leprechaun.jpg"><img src="https://cdn.prompthero.com/k48k7m4pjmyeadbcrvip10s449io-stable-diffusion-xl-base-09-creature-feature-leprechaun.jpg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-A photo of a mischievous leprechaun, wrinkled facial features, prominent green colors, cinematic, melancholy, dynamic lighting, dark background, <lora:ClassipeintXL1.9:1>
-```
-
-By [@abyishot](https://prompthero.com/prompt/c9e2bd82708-stable-diffusion-xl-base-09-creature-feature-leprechaun)
-
----
-
-<a id="prompthero-c39167eea21"></a>
-
-## A piece of concept art depicting a male horrific d\.\.\.
-
-<a href="https://cdn.prompthero.com/dh95l8dp8gqj8sa4fh8if3ylcolc-stable-diffusion-xl-base-09-comfyui-based-workflow-seargesdxl432-checkpoints-models-used-dreamshaper-xl-turbo-turbovisionxlsuperfastxl-realvisxlv30turbov30-juggernautxlv7rundiffusion-dreamshaperxlturbo-full-credits-shall-go-to-the-a-piece-of-concept-art-depicting-a-male-horrific-demon-with-realistic-intricate-details-the-artwork-should-contain-chaotic-brush.png"><img src="https://cdn.prompthero.com/dh95l8dp8gqj8sa4fh8if3ylcolc-stable-diffusion-xl-base-09-comfyui-based-workflow-seargesdxl432-checkpoints-models-used-dreamshaper-xl-turbo-turbovisionxlsuperfastxl-realvisxlv30turbov30-juggernautxlv7rundiffusion-dreamshaperxlturbo-full-credits-shall-go-to-the-a-piece-of-concept-art-depicting-a-male-horrific-demon-with-realistic-intricate-details-the-artwork-should-contain-chaotic-brush.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-A piece of concept art depicting a male horrific demon with realistic, intricate details. The artwork should contain chaotic brush strokes reminiscent of the style commonly seen in late 20th-century concept art. Focus on a dynamic, flowing composition with high contrast and a primarily color scheme, to evoke a sense of movement and drama.
-```
-
-By [@JBlack16062205](https://prompthero.com/prompt/c39167eea21-stable-diffusion-xl-base-09-comfyui-based-workflow-seargesdxl432-checkpoints-models-used-dreamshaper-xl-turbo-turbovisionxlsuperfastxl-realvisxlv30turbov30-juggernautxlv7rundiffusion-dreamshaperxlturbo-full-credits-shall-go-to-the-a-piece-of-concept-art-depicting-a-male-horrific-demon-with-realistic-intricate-details-the-artwork-should-contain-chaotic-brush)
-
----
-
 <a id="prompthero-ca065b7d9f0"></a>
 
 ## a samurai in a boat in the middle of the cherry bl\.\.\.
@@ -163,22 +83,6 @@ The Nightmare Before Valentines Day, Jack Skellington and Sally showing affectio
 ```
 
 [Source](https://prompthero.com/prompt/cc60263afed-stable-diffusion-xl-base-09-nightmare-before-valentines)
-
----
-
-<a id="prompthero-cc64902cfc3"></a>
-
-## A monumental 6-meter-tall sculpture stands in a pr\.\.\.
-
-<a href="https://cdn.prompthero.com/76owom0twxtlwb0jtabh0u2n08xj-flux-flux-11-pro-a-monumental-6-meter-tall-sculpture-stands-in-a-pristine-white-walled-exhibition-space-its-form-is-ambiguous-yet-resonant.jpg"><img src="https://cdn.prompthero.com/76owom0twxtlwb0jtabh0u2n08xj-flux-flux-11-pro-a-monumental-6-meter-tall-sculpture-stands-in-a-pristine-white-walled-exhibition-space-its-form-is-ambiguous-yet-resonant.jpg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-A monumental 6-meter-tall sculpture stands in a pristine, white-walled exhibition space. Its form is ambiguous yet resonant — suggesting a toy-like humanoid figure made of a single, inflated continuous surface. The geometry is mathematically generated and defined by the following parametric equation: x(u, v) = (1.5 + 0.3 \cdot \sin(5v)) \cdot \cos(v) + 0.2 \cdot \cos(2u) y(u, v) = (1.5 + 0.3 \cdot \sin(5v)) \cdot \sin(v) + 0.2 \cdot \sin(2u) z(u, v) = 0.6 \cdot u + 0.5 \cdot \sin(3v + \frac{\pi}{4}) for u \in [0, 3\pi] and v \in [0, 2\pi]. The resulting form undulates gently, swelling and contracting with bulbous, limb-like protrusions. It evokes the figure of a soft, abstract humanoid — one whose “head” is slightly larger than the lower forms, suggesting animation or presence without literal anatomy. Its skin is chrome-polished, with a translucent lavender glaze that reflects and distorts its surroundings. Subtle ridges on the upper surface imply crossed eyes without carving them, integrating symbolism through topological features. The figure leans forward slightly, balanced, as if breathing or listening. The feet-like base is wide and pressing softly into a terrazzo floor. The sculpture feels both digital and intimate — a monumental ballooned body born from mathematics, standing alone in a room filled with diffused white light and long, warped shadows. The face has two deep oval hollows, symmetrically set wide apart — not literal eyes, but alien symbols. Below them, a shallow, arc-shaped crease bends gently across the lower face, like a ghost of a smile. The geometry is playful but still and quiet — mixing a graphic clarity with an alien like face. The head is slightly oversized in proportion, giving the figure an animated presence. Reflections warp and flow across its curved face, refracting the viewer’s image within a facial field that feels curious but unknowable.
-```
-
-By [@chorlo](https://prompthero.com/prompt/cc64902cfc3-flux-flux-11-pro-a-monumental-6-meter-tall-sculpture-stands-in-a-pristine-white-walled-exhibition-space-its-form-is-ambiguous-yet-resonant)
 
 ---
 
@@ -323,6 +227,102 @@ A hyperrealistic, exquisite photo of an unexpected moment caught perfectly: Alon
 ```
 
 By [@chorlo](https://prompthero.com/prompt/d28403c7b55-flux-flux-11-pro-a-hyperrealistic-exquisite-photo-of-an-unexpected-moment-caught-perfectly-along-the-sun-drenched-shores-of-santorini-where-pristine-white)
+
+---
+
+<a id="prompthero-da08a62f0c6"></a>
+
+## used model DreamShaperV6
+
+<a href="https://cdn.prompthero.com/tny6ccrn0kps9tlkkqz8iym6wt94-stable-diffusion-15-used-model-dreamshaperv6.png"><img src="https://cdn.prompthero.com/tny6ccrn0kps9tlkkqz8iym6wt94-stable-diffusion-15-used-model-dreamshaperv6.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+(a girlfriend), (wearing a blood-soaked white dress:1. 3), (dark alley, night, raining:1. 3), (glowing eyes),(yameroyandere),(),(),horror, (fangs, sharp teeth), (inspired by tim burton), blood splatter, yameroyandere, evil laugh, (dynamic pose), (immersive background), (dramatic lighting), ultra highres, (realistic, photo-realistic:1), 8k, raw photo, hyperrealism, photography, (photon mapping, physically-based rendering), illustration, <lora:add_detail:1>, <lora:GlowingRunesAIv4-000005:0.3>
+```
+
+[Source](https://prompthero.com/prompt/da08a62f0c6-stable-diffusion-15-used-model-dreamshaperv6)
+
+---
+
+<a id="prompthero-da6287037cd"></a>
+
+## girl of the future, futuristic design, electronic \.\.\.
+
+<a href="https://cdn.prompthero.com/29e94nfwo9y7ym4hj2qmlrchztn2-stable-diffusion-xl-base-09-girl-of-the-future-futuristic-design-electronic-artwork-manga-character-techno-noir-animated-drawing-vintage-futurism-pan-futurism-dystopian-cyberpunk.png"><img src="https://cdn.prompthero.com/29e94nfwo9y7ym4hj2qmlrchztn2-stable-diffusion-xl-base-09-girl-of-the-future-futuristic-design-electronic-artwork-manga-character-techno-noir-animated-drawing-vintage-futurism-pan-futurism-dystopian-cyberpunk.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+girl of the future, futuristic design, electronic artwork, manga character, techno-noir, animated drawing, vintage futurism, pan futurism, dystopian cyberpunk, neon-lit urban landscape, dark and gritty, high-tech, graffiti, futuristic gadgets, cinematic, detailed cityscape, moody lighting, ultra-detailed, urban landscape, high-tech implants, augmented reality
+```
+
+[Source](https://prompthero.com/prompt/da6287037cd-stable-diffusion-xl-base-09-girl-of-the-future-futuristic-design-electronic-artwork-manga-character-techno-noir-animated-drawing-vintage-futurism-pan-futurism-dystopian-cyberpunk)
+
+---
+
+<a id="prompthero-dacc7604443"></a>
+
+## Ethereal beauty, soft pastel tones, backlighting, \.\.\.
+
+<a href="https://cdn.prompthero.com/txuaqacne7ydqswzksamktkoyew2-midjourney-52-ethereal-beauty-soft-pastel-tones-backlighting-long-exposure-flowing-fabric-portrait-of-a-dancer-in-midair13-style-of-kirsty-mitchell.png"><img src="https://cdn.prompthero.com/txuaqacne7ydqswzksamktkoyew2-midjourney-52-ethereal-beauty-soft-pastel-tones-backlighting-long-exposure-flowing-fabric-portrait-of-a-dancer-in-midair13-style-of-kirsty-mitchell.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+Ethereal beauty, soft pastel tones, backlighting, long exposure, flowing fabric, portrait of a dancer in midair::1.3, style of Kirsty Mitchell, surreal, delicate movement, dreamlike, cinematic lighting, ultra high resolution --ar 66:101
+```
+
+[Source](https://prompthero.com/prompt/dacc7604443-midjourney-52-ethereal-beauty-soft-pastel-tones-backlighting-long-exposure-flowing-fabric-portrait-of-a-dancer-in-midair13-style-of-kirsty-mitchell)
+
+---
+
+<a id="prompthero-dc44e44d414"></a>
+
+## photorealistic, detailed flying debris,a bulk fema\.\.\.
+
+<a href="https://cdn.prompthero.com/x00ae8u94yy2re5a6iw7asgy9opn-dalle-3-photorealistic-detailed-flying-debrisa-bulk-female-warrior-in-halo-spartan-armor-fighting-strongly-an-army-of-aliens-perfect-fit-body.jpg"><img src="https://cdn.prompthero.com/x00ae8u94yy2re5a6iw7asgy9opn-dalle-3-photorealistic-detailed-flying-debrisa-bulk-female-warrior-in-halo-spartan-armor-fighting-strongly-an-army-of-aliens-perfect-fit-body.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+photorealistic, detailed flying debris,a bulk female warrior in halo spartan armor fighting strongly an army of aliens, perfect fit body, purple aura fire around her, body dynamic epic action pose, bladerunner city street ruined background, trending on artstation, extreme details, cinematic, surreal, manga, anime, intricate details, very detailed and intricate armor, octane render, dynamic epic action pose
+```
+
+[Source](https://prompthero.com/prompt/dc44e44d414-dalle-3-photorealistic-detailed-flying-debrisa-bulk-female-warrior-in-halo-spartan-armor-fighting-strongly-an-army-of-aliens-perfect-fit-body)
+
+---
+
+<a id="prompthero-decac8256df"></a>
+
+## A DEMONIAC ​​CAT WITH RED EYES AND AN EVIL LOOK, W\.\.\.
+
+<a href="https://cdn.prompthero.com/2ll9nl201zs9dt06aa9km7ady6ol-flux-flux-11-pro-ultra-a-demoniac-cat-with-red-eyes-and-an-evil-look-with-a-jet-black-fur-with-some-touches-of-grey.jpg"><img src="https://cdn.prompthero.com/2ll9nl201zs9dt06aa9km7ady6ol-flux-flux-11-pro-ultra-a-demoniac-cat-with-red-eyes-and-an-evil-look-with-a-jet-black-fur-with-some-touches-of-grey.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+A DEMONIAC ​​CAT WITH RED EYES AND AN EVIL LOOK, WITH A JET BLACK FUR, WITH SOME TOUCHES OF GREY FUR ON THE FLOOR OF AN ELEGANT APARTMENT, WHICH STEPS ON A GREEN CARPET THAT REFLECTS DANTE'S INFERNO LIKE A MIRROR, THE BLACK OF THE CAT STANDS OUT TOTALLY AGAINST THE WHITE WALLS OF THE APARTMENT AS IT COMES OUT OF THE HALLWAY AS DARK AS IT IS. THAT THE ANGLE IS VIEWED CLOSE TO THE SKY, WHERE THE CAT'S FEATURES ARE EXTREMELY REALISTIC
+```
+
+[Source](https://prompthero.com/prompt/decac8256df-flux-flux-11-pro-ultra-a-demoniac-cat-with-red-eyes-and-an-evil-look-with-a-jet-black-fur-with-some-touches-of-grey)
+
+---
+
+<a id="prompthero-df4330e66b4"></a>
+
+## Gilded Batman
+
+<a href="https://cdn.prompthero.com/xilpxmv1dahrk7bklmqtu8nu291y-stable-diffusion-21-768-gilded-batman.png"><img src="https://cdn.prompthero.com/xilpxmv1dahrk7bklmqtu8nu291y-stable-diffusion-21-768-gilded-batman.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+octane render of cyberpunk batman by Tsutomu nihei, looking at the camera, (chrome silk with intricate ornate weaved golden filiegree:1.4), highly ornate, dark mysterious background
+```
+
+[Source](https://prompthero.com/prompt/df4330e66b4-stable-diffusion-21-768-gilded-batman)
 
 ---
 

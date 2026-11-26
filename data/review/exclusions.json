@@ -8,6 +8,14 @@
     ]
   },
   {
+    "id": "evolink-advertising-case-186",
+    "keys": [
+      "id:evolink-advertising-case-186",
+      "post:2102337239443522023",
+      "prompt:9edbf6c446927a12c3f05353109463aea5267b8766e5a32f332bebaf883cb9ee"
+    ]
+  },
+  {
     "id": "evolink-advertising-case-189",
     "keys": [
       "id:evolink-advertising-case-189",
@@ -975,6 +983,14 @@
     "reviewSource": "catalog-trigram-review-2026-11-26"
   },
   {
+    "id": "prompthero-191114bec59",
+    "keys": [
+      "id:prompthero-191114bec59",
+      "post:191114bec59",
+      "prompt:d9eb0b2a8ac3e448863b3b85c91c54206b6197ced8235414fe9fb773babb7f95"
+    ]
+  },
+  {
     "id": "prompthero-1da158ccf43",
     "keys": [
       "id:prompthero-1da158ccf43",
@@ -986,6 +1002,14 @@
     "reviewSource": "v3-pair-75"
   },
   {
+    "id": "prompthero-2163382f1ab",
+    "keys": [
+      "id:prompthero-2163382f1ab",
+      "post:2163382f1ab",
+      "prompt:be52c5d20c3d9ebd7a6aa1e1acfc786240bd104f650b6665e6a1640d773ff18c"
+    ]
+  },
+  {
     "id": "prompthero-221c8121a4f",
     "keys": [
       "id:prompthero-221c8121a4f",
@@ -995,6 +1019,14 @@
     "reason": "template-duplicate",
     "keepId": "prompthero-8e361dcd578",
     "reviewSource": "catalog-trigram-review-2026-11-26"
+  },
+  {
+    "id": "prompthero-228225dbf3a",
+    "keys": [
+      "id:prompthero-228225dbf3a",
+      "post:228225dbf3a",
+      "prompt:384f37acf169b67fad2a5d26b4c7f8e4dcf0470d41add3e4fbaab0f4e3e2db6f"
+    ]
   },
   {
     "id": "prompthero-231fbf23b35",
@@ -1030,6 +1062,14 @@
     "reviewSource": "v3-pair-70"
   },
   {
+    "id": "prompthero-2bee235572f",
+    "keys": [
+      "id:prompthero-2bee235572f",
+      "post:2bee235572f",
+      "prompt:00ddc6df945036179fbd6dcc39bd086a1c8fec9d5067fa7821e7775b08ef0c86"
+    ]
+  },
+  {
     "id": "prompthero-2c7973a4a8c",
     "keys": [
       "id:prompthero-2c7973a4a8c",
@@ -1052,6 +1092,30 @@
     "reviewSource": "catalog-trigram-review-2026-11-26"
   },
   {
+    "id": "prompthero-3261f17c93d",
+    "keys": [
+      "id:prompthero-3261f17c93d",
+      "post:3261f17c93d",
+      "prompt:e7f462ef9ecf2ad3a9d5a3ed10c18a74e5540fc80000f8fb8767ad1891e8fb18"
+    ]
+  },
+  {
+    "id": "prompthero-33a70076e80",
+    "keys": [
+      "id:prompthero-33a70076e80",
+      "post:33a70076e80",
+      "prompt:a8326136513fec2253c06efbbb21b120cc8de4baedaa1e628fb3c1c817107c68"
+    ]
+  },
+  {
+    "id": "prompthero-38b4efc8259",
+    "keys": [
+      "id:prompthero-38b4efc8259",
+      "post:38b4efc8259",
+      "prompt:53019487b07e232c902b762164691622de046a5c8fce70d2bf9b76d30918da15"
+    ]
+  },
+  {
     "id": "prompthero-3947bccd8c2",
     "keys": [
       "id:prompthero-3947bccd8c2",
@@ -1072,6 +1136,14 @@
     "reason": "template-duplicate",
     "keepId": "prompthero-0afc90760f5",
     "reviewSource": "v3-pair-47"
+  },
+  {
+    "id": "prompthero-3af2913335f",
+    "keys": [
+      "id:prompthero-3af2913335f",
+      "post:3af2913335f",
+      "prompt:66042b6a2f4ab5db756efcfc0f2c8020d7176afd38c74816e41d16ae6741780f"
+    ]
   },
   {
     "id": "prompthero-3d8d834076b",
@@ -1107,6 +1179,22 @@
     "reviewSource": "catalog-trigram-review-2026-11-26"
   },
   {
+    "id": "prompthero-3f1c91c3572",
+    "keys": [
+      "id:prompthero-3f1c91c3572",
+      "post:3f1c91c3572",
+      "prompt:fa372312ada6e3433507d7aa09f9db152a33abf60d7a154ffc38c33be2686139"
+    ]
+  },
+  {
+    "id": "prompthero-40f76d97dff",
+    "keys": [
+      "id:prompthero-40f76d97dff",
+      "post:40f76d97dff",
+      "prompt:c3317f027506fcf96f154cbb530691186290b268968e8098df05e335351fd21c"
+    ]
+  },
+  {
     "id": "prompthero-4500233a013",
     "keys": [
       "id:prompthero-4500233a013",
@@ -1116,6 +1204,14 @@
     "reason": "template-duplicate",
     "keepId": "prompthero-bd19d9b3b85",
     "reviewSource": "catalog-trigram-review-2026-11-26"
+  },
+  {
+    "id": "prompthero-47e60d34b73",
+    "keys": [
+      "id:prompthero-47e60d34b73",
+      "post:47e60d34b73",
+      "prompt:02a7274f79e50dfb1f695f82293d0df8b51c882259807c6d8302a956fb24d7c6"
+    ]
   },
   {
     "id": "prompthero-47f275a2c8e",
@@ -1316,6 +1412,14 @@
     "reviewSource": "v3-pair-17"
   },
   {
+    "id": "prompthero-7840f701468",
+    "keys": [
+      "id:prompthero-7840f701468",
+      "post:7840f701468",
+      "prompt:0a774740915467b0529ca6efedb91a590653a9916f6957e80104567e7ec64051"
+    ]
+  },
+  {
     "id": "prompthero-7d23fe868a4",
     "keys": [
       "id:prompthero-7d23fe868a4",
@@ -1347,6 +1451,14 @@
     "reason": "template-duplicate",
     "keepId": "prompthero-8887d8e2e22",
     "reviewSource": "catalog-trigram-review-2026-11-26"
+  },
+  {
+    "id": "prompthero-7ee3e9f9ac7",
+    "keys": [
+      "id:prompthero-7ee3e9f9ac7",
+      "post:7ee3e9f9ac7",
+      "prompt:8e65f10680c5a4c912deb700dfcf27f6ead442e515f793316b7078920fa210d9"
+    ]
   },
   {
     "id": "prompthero-863dbd8cfdb",
@@ -1382,6 +1494,22 @@
     "reviewSource": "v3-pair-73"
   },
   {
+    "id": "prompthero-8c6be699cce",
+    "keys": [
+      "id:prompthero-8c6be699cce",
+      "post:8c6be699cce",
+      "prompt:18484a2f00cccc37545c0b6ae857a9f4518ff7e7f3d06588004fde5537bb2349"
+    ]
+  },
+  {
+    "id": "prompthero-8d9551bd886",
+    "keys": [
+      "id:prompthero-8d9551bd886",
+      "post:8d9551bd886",
+      "prompt:1e67a6e60be7b6ce4c0b1b610a73463a2f1bb1bb247110e5cbd03e9b4b005de9"
+    ]
+  },
+  {
     "id": "prompthero-8e959ac0002",
     "keys": [
       "id:prompthero-8e959ac0002",
@@ -1415,6 +1543,14 @@
     "reviewSource": "catalog-trigram-review-2026-11-26"
   },
   {
+    "id": "prompthero-964cb87550b",
+    "keys": [
+      "id:prompthero-964cb87550b",
+      "post:964cb87550b",
+      "prompt:db9a32efabb4e78cc4c30ed35175ca32c2e6d0dab1cc53722e4dd2ed1fe663d1"
+    ]
+  },
+  {
     "id": "prompthero-96ec4368edf",
     "keys": [
       "id:prompthero-96ec4368edf",
@@ -1446,6 +1582,14 @@
     "reason": "template-duplicate",
     "keepId": "prompthero-9d2abdb1231",
     "reviewSource": "v3-pair-8"
+  },
+  {
+    "id": "prompthero-99914169091",
+    "keys": [
+      "id:prompthero-99914169091",
+      "post:99914169091",
+      "prompt:62086414b673c01a47f33618480579625a0b1391f81bf2e8cc8831b9e3dc396c"
+    ]
   },
   {
     "id": "prompthero-99b54c0af88",
@@ -1490,6 +1634,14 @@
     "reason": "template-duplicate",
     "keepId": "prompthero-2c257f9cf57",
     "reviewSource": "catalog-trigram-review-2026-11-26"
+  },
+  {
+    "id": "prompthero-a944f9cc600",
+    "keys": [
+      "id:prompthero-a944f9cc600",
+      "post:a944f9cc600",
+      "prompt:8f64bf48d1e0d648751030629d4369e518f614aea652a470c8313ba030b1ac1c"
+    ]
   },
   {
     "id": "prompthero-ab0158d13f8",
@@ -1580,6 +1732,14 @@
     "reviewSource": "v3-pair-79"
   },
   {
+    "id": "prompthero-be38c986ba4",
+    "keys": [
+      "id:prompthero-be38c986ba4",
+      "post:be38c986ba4",
+      "prompt:b5d93c902a0d2df38d5a82112eac99bdc8b8165e66513b67f6ae71414dfaac28"
+    ]
+  },
+  {
     "id": "prompthero-c5006e67961",
     "keys": [
       "id:prompthero-c5006e67961",
@@ -1600,6 +1760,14 @@
     "reason": "template-duplicate",
     "keepId": "prompthero-dcadf764f8a",
     "reviewSource": "v3-pair-53"
+  },
+  {
+    "id": "prompthero-cc64902cfc3",
+    "keys": [
+      "id:prompthero-cc64902cfc3",
+      "post:cc64902cfc3",
+      "prompt:1d2e98b06178df30c453feba327e3424c7ad8550692f8aeb2b5d748b4d3775e2"
+    ]
   },
   {
     "id": "prompthero-cc6ba0f91ff",
@@ -1723,6 +1891,14 @@
     "reviewSource": "v3-pair-40"
   },
   {
+    "id": "prompthero-dbcb2e8a34b",
+    "keys": [
+      "id:prompthero-dbcb2e8a34b",
+      "post:dbcb2e8a34b",
+      "prompt:59ea41e689bf75926db0c9da590b6f8d49cf33314df53a8260a922567db86555"
+    ]
+  },
+  {
     "id": "prompthero-dc66f12f3cd",
     "keys": [
       "id:prompthero-dc66f12f3cd",
@@ -1765,6 +1941,14 @@
     "reason": "template-duplicate",
     "keepId": "prompthero-8f33d846c6a",
     "reviewSource": "v3-pair-80"
+  },
+  {
+    "id": "prompthero-ec71dd8b411",
+    "keys": [
+      "id:prompthero-ec71dd8b411",
+      "post:ec71dd8b411",
+      "prompt:25065c19c65baeac75051d49ebb4248691eaa90a7bb840835d9130b22d049472"
+    ]
   },
   {
     "id": "prompthero-ed6fcad273e",
@@ -1853,5 +2037,26 @@
     "reason": "template-duplicate",
     "keepId": "prompthero-4577a444ffa",
     "reviewSource": "v3-pair-49"
+  },
+  {
+    "id": "vcl-crosssection",
+    "keys": [
+      "id:vcl-crosssection",
+      "prompt:bf16e5e9aa7a063db742d07c211a994d191c5b92e65afe127db532494fc475fd"
+    ]
+  },
+  {
+    "id": "vcl-isometric",
+    "keys": [
+      "id:vcl-isometric",
+      "prompt:08398a8573a2a42dc08b5f6f1022256353668ef637b47a9fca456b38603d1410"
+    ]
+  },
+  {
+    "id": "vcl-xray",
+    "keys": [
+      "id:vcl-xray",
+      "prompt:ef51cc6f0fc207bf947cf0baec72796454ad241f075e3a23c3511051e589e7bf"
+    ]
   }
 ]

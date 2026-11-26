@@ -6,54 +6,6 @@
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
-<a id="prompthero-27e141ad9e7"></a>
-
-## A mesmerizing photograph capturing the ethereal be\.\.\.
-
-<a href="https://cdn.prompthero.com/2u2znk2cgbkwxbkb6cr90tqbbn8f-midjourney-6-a-mesmerizing-photograph-capturing-the-ethereal-beauty-of-the-terminator-girl-with-her-cyborg-features-half-shrouded-in-shadow-as.png"><img src="https://cdn.prompthero.com/2u2znk2cgbkwxbkb6cr90tqbbn8f-midjourney-6-a-mesmerizing-photograph-capturing-the-ethereal-beauty-of-the-terminator-girl-with-her-cyborg-features-half-shrouded-in-shadow-as.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-A mesmerizing photograph capturing the ethereal beauty of the Terminator Girl, with her cyborg features half-shrouded in shadow as she stands defiantly against a stark, desolate landscape, her glowing Yellow eye piercing through the gloom. Canon L Series 70-200mm f/2.8 lens, ISO 1600, monochromatic futuristic style --ar 9:16 --v 6.0
-```
-
-[Source](https://prompthero.com/prompt/27e141ad9e7-midjourney-6-a-mesmerizing-photograph-capturing-the-ethereal-beauty-of-the-terminator-girl-with-her-cyborg-features-half-shrouded-in-shadow-as)
-
----
-
-<a id="prompthero-27eeca8f0b7"></a>
-
-## Delicate magical fairy dust in a bottle smoking wi\.\.\.
-
-<a href="https://cdn.prompthero.com/gsct0v27sv345ux0f761pth8u0z9-stable-diffusion-xl-base-09-delicate-magical-fairy-dust-in-a-bottle-smoking-with-cosmic-magical-energy-highly-detailed-painting-deep-color-fantastical-intricate-detail.png"><img src="https://cdn.prompthero.com/gsct0v27sv345ux0f761pth8u0z9-stable-diffusion-xl-base-09-delicate-magical-fairy-dust-in-a-bottle-smoking-with-cosmic-magical-energy-highly-detailed-painting-deep-color-fantastical-intricate-detail.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-Delicate magical fairy dust in a bottle smoking with cosmic magical energy, highly detailed painting, deep color, fantastical, intricate detail, complementary colors, fantasy concept art, trending on Artstation Unreal Engine 5, by artist "anime", Anime Key Visual, Japanese Manga, Pixiv, Zerochan, Anime art, Fantia, Hyperrealistic, splash art, concept art, mid shot, intricately detailed, color depth, dramatic, 2/3 face angle, side light, colorful background, SAI Pixel Art
-```
-
-[Source](https://prompthero.com/prompt/27eeca8f0b7-stable-diffusion-xl-base-09-delicate-magical-fairy-dust-in-a-bottle-smoking-with-cosmic-magical-energy-highly-detailed-painting-deep-color-fantastical-intricate-detail)
-
----
-
-<a id="prompthero-33a70076e80"></a>
-
-## A surreal, joyful scene featuring a brown horse ga\.\.\.
-
-<a href="https://cdn.prompthero.com/t5ye4btcvmiozj3u5jnn4hivd9bs-sora-v1-a-surreal-joyful-scene-featuring-a-brown-horse-galloping-through-ocean-waves-with-a-dolphin-leaping-beside-it-under-a.png"><img src="https://cdn.prompthero.com/t5ye4btcvmiozj3u5jnn4hivd9bs-sora-v1-a-surreal-joyful-scene-featuring-a-brown-horse-galloping-through-ocean-waves-with-a-dolphin-leaping-beside-it-under-a.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-A surreal, joyful scene featuring a brown horse galloping through ocean waves with a dolphin leaping beside it under a radiant sunset sky. The atmosphere is vibrant, magical, and full of motion, evoking a sense of freedom and harmony. Bold white text with a black outline overlays the image, reading: 'How life feels after you stop gatekeeping prompts and start sharing them on Prompthero'. The image combines hyperrealistic animal illustration with a nostalgic 90s fantasy poster vibe, designed to inspire community and creative generosity.
-```
-
-By [@chorlo](https://prompthero.com/prompt/33a70076e80-sora-v1-a-surreal-joyful-scene-featuring-a-brown-horse-galloping-through-ocean-waves-with-a-dolphin-leaping-beside-it-under-a)
-
----
-
 <a id="prompthero-36d4a0cca0f"></a>
 
 ## Cute Baby cat with huge eyes, sad eyes, holding a \.\.\.
@@ -323,6 +275,54 @@ An adorable baby otter standing upright on a rustic wooden kitchen table, tiny p
 ```
 
 [Source](https://prompthero.com/prompt/86c997a6f00-hero-10-an-adorable-baby-otter-standing-upright-on-a-rustic-wooden-kitchen-table-tiny-paws-resting-naturally-in-front-of-its)
+
+---
+
+<a id="prompthero-90ad9d9b114"></a>
+
+## A majestic carnival scene unfolding in the heart \.\.\.
+
+<a href="https://cdn.prompthero.com/yjdztal5nvxet1e50kf08ui8joub-flux-flux-11-pro-ultra-a-majestic-carnival-scene-unfolding-in-the-heart-of-venice-with-ornate-masks-and-lavish-attire-set-against-a-backdrop.png"><img src="https://cdn.prompthero.com/yjdztal5nvxet1e50kf08ui8joub-flux-flux-11-pro-ultra-a-majestic-carnival-scene-unfolding-in-the-heart-of-venice-with-ornate-masks-and-lavish-attire-set-against-a-backdrop.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+A majestic carnival scene unfolding in the heart of Venice, with ornate masks and lavish attire, set against a backdrop of grand, baroque architecture, in the style of intricately detailed, symmetrical compositions reminiscent of James Gurney's imaginative cityscapes, the vibrant colors and whimsical flourishes of Camille Rose Garcia's fantastical illustrations, and the opulent, mystical atmosphere of Kinuko Y. Craft's dreamlike paintings, with a palette dominated by rich navy blues and shimmering aquamarine hues, adorned with delicate, gothic filigree and ornate spiral patterns, featuring a diverse cast of characters with distinctive, elongated noses, amidst a whirlwind of colorful silks and velvets, as if conjured from the pages of a fantastical, carnivalesque tale.
+```
+
+[Source](https://prompthero.com/prompt/90ad9d9b114-flux-flux-11-pro-ultra-a-majestic-carnival-scene-unfolding-in-the-heart-of-venice-with-ornate-masks-and-lavish-attire-set-against-a-backdrop)
+
+---
+
+<a id="prompthero-94a957218b7"></a>
+
+## neon glow classical bust, front view, deep purple \.\.\.
+
+<a href="https://cdn.prompthero.com/2wdvvilwi1yuyko84mtp81welivy-midjourney-6-neon-glow-classical-bust-front-view-deep-purple-and-blue-isolated-on-a-dark-background-dramatic-lighting-deep-contrast-low.png"><img src="https://cdn.prompthero.com/2wdvvilwi1yuyko84mtp81welivy-midjourney-6-neon-glow-classical-bust-front-view-deep-purple-and-blue-isolated-on-a-dark-background-dramatic-lighting-deep-contrast-low.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+neon glow classical bust, front view, deep purple and blue, isolated on a dark background, dramatic lighting, deep contrast, low-key light, emphasis on texture and contrast, hyper realism, rich detail --chaos 1.2 --ar 9:16 --style raw --stylize 200
+```
+
+By [@Grayve](https://prompthero.com/prompt/94a957218b7-midjourney-6-neon-glow-classical-bust-front-view-deep-purple-and-blue-isolated-on-a-dark-background-dramatic-lighting-deep-contrast-low)
+
+---
+
+<a id="prompthero-94d91fc9f8e"></a>
+
+## On a desk, a laptop displays a wallpaper of a coun\.\.\.
+
+<a href="https://cdn.prompthero.com/v1_a2f01515ca1296a355bc83e582-nano-banana-nano-banana-21-on-a-desk-a-laptop-displays-a-wallpaper-of-a-countryside-landscape-with-a-small-river-the-landscape-extends-beyond.png"><img src="https://cdn.prompthero.com/v1_a2f01515ca1296a355bc83e582-nano-banana-nano-banana-21-on-a-desk-a-laptop-displays-a-wallpaper-of-a-countryside-landscape-with-a-small-river-the-landscape-extends-beyond.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+On a desk, a laptop displays a wallpaper of a countryside landscape with a small river. The landscape extends beyond the computer screen, invading the desk, the walls, and the room. The river overflows the screen, and plants and trees grow beyond its boundaries, blending seamlessly with the surrounding environment. The style is a stunning 3D rendering, with deep, cinematic lighting.
+```
+
+By [@chorlo](https://prompthero.com/prompt/94d91fc9f8e-nano-banana-nano-banana-21-on-a-desk-a-laptop-displays-a-wallpaper-of-a-countryside-landscape-with-a-small-river-the-landscape-extends-beyond)
 
 ---
 

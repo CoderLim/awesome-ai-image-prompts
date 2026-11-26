@@ -6,54 +6,6 @@
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
-<a id="prompthero-1255b332eec"></a>
-
-## Masterpiece, full-body shot, intricate raw photogr\.\.\.
-
-<a href="https://cdn.prompthero.com/pqk59cziz38pgbx6pi134dqkvwce-stable-diffusion-15-masterpiece-full-body-shot-intricate-raw-photography-cyberpunk-realistic-highly-detailed-3d-rendering-top-quality-masterpiece-ultra-high-resolution-cowboy.png"><img src="https://cdn.prompthero.com/pqk59cziz38pgbx6pi134dqkvwce-stable-diffusion-15-masterpiece-full-body-shot-intricate-raw-photography-cyberpunk-realistic-highly-detailed-3d-rendering-top-quality-masterpiece-ultra-high-resolution-cowboy.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-Masterpiece, full-body shot, intricate raw photography. Cyberpunk, realistic, highly detailed 3D rendering, top quality, masterpiece, ultra-high-resolution. Cowboy-themed photo, photorealistic (1.4), raw photo, official art, close-up, complex background, surreal, atmospheric, sinister, tank, dynamic angle, advanced cyber helmet, mecha, robot, armor, mechanical arms, exo-suit, science fiction, no humans, worn asymmetric clothing. Tactical oversized black hoodie, advanced black helmet, HUD, modern ultra-realistic style, Daft Punk-inspired cyber helmet, black tactical gloves, black techwear cargo pants, futuristic clothing, mohawk, punk, rebel, punk-rock, cinematic, sci-fi scene, synthwave, night, dark, intricate, futuristic, sharp, precise focus, aggressive pose, high-tech weapons, vibrant colors, serious, cyberpunk city, street neon lights, Insta-worthy photo, Photo of the Year, cinema4d, dramatic, lights and shadows, realistic visual effects, realistic Octane render, highest-quality photorealistic image
-```
-
-[Source](https://prompthero.com/prompt/1255b332eec-stable-diffusion-15-masterpiece-full-body-shot-intricate-raw-photography-cyberpunk-realistic-highly-detailed-3d-rendering-top-quality-masterpiece-ultra-high-resolution-cowboy)
-
----
-
-<a id="prompthero-1893aac9fab"></a>
-
-## A 30-year-old realistic man height 5&\#39;8 stands in \.\.\.
-
-<a href="https://cdn.prompthero.com/011m4lsalqz4a2z7r26sn3c8jbk2-flux-flux-11-pro-a-30-year-old-realistic-man-height-58-stands-in-a-serene-forest-blanketed-in-snow-surrounded-by-tall-trees.jpg"><img src="https://cdn.prompthero.com/011m4lsalqz4a2z7r26sn3c8jbk2-flux-flux-11-pro-a-30-year-old-realistic-man-height-58-stands-in-a-serene-forest-blanketed-in-snow-surrounded-by-tall-trees.jpg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-A 30-year-old realistic  man height 5'8 stands in a serene forest blanketed in snow, surrounded by tall trees cloaked in white. The ground glistens with fresh snowfall, and the air feels crisp and still. Large mirrors are positioned around him, reflecting his image from every angle, creating a surreal and mystical atmosphere. He wears a luxurious white fur long coat and matching white trousers, blending harmoniously with the snowy environment. Soft sunlight filters through the trees, casting a gentle glow on the scene, enhancing the ethereal winter beauty.
-```
-
-[Source](https://prompthero.com/prompt/1893aac9fab-flux-flux-11-pro-a-30-year-old-realistic-man-height-58-stands-in-a-serene-forest-blanketed-in-snow-surrounded-by-tall-trees)
-
----
-
-<a id="prompthero-3052e202fd9"></a>
-
-## Create a hyper-realistic bird’s-eye view of a 16th\.\.\.
-
-<a href="https://cdn.prompthero.com/rshk2rt5d7u35nrc4l1po5brimam-flux-flux-11-pro-ultra-create-a-hyper-realistic-birds-eye-view-of-a-16th-century-pirate-ship-stranded-in-the-middle-of-a-flooded.png"><img src="https://cdn.prompthero.com/rshk2rt5d7u35nrc4l1po5brimam-flux-flux-11-pro-ultra-create-a-hyper-realistic-birds-eye-view-of-a-16th-century-pirate-ship-stranded-in-the-middle-of-a-flooded.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-Create a hyper-realistic bird’s-eye view of a 16th-century pirate ship stranded in the middle of a flooded highway in Makassar, Indonesia. The massive ship, now very old, has tall sails that are no longer fully intact, with the wood and paint faded and weathered from time and exposure. The ship is surrounded by the floodwaters that have submerged the street, with elevated flyovers full of stopped cars due to a traffic jam caused by heavy rain. In the background, you can see the University of Makassar (UNM) campus building standing tall, and nearby, several Pinisi ships and small boats float helplessly in the rising floodwaters. The atmosphere is dramatic and chaotic, with dark clouds looming overhead, and the sky frequently pierced by lightning strikes that illuminate the scene. The rain is torrential, creating a misty fog over the city, while water ripples from the rain create an eerie reflection of the scene in the flooded streets. The contrast between the ancient pirate ship, the modern city with jammed traffic, and the presence of the Pinisi ships creates a surreal, cinematic effect. The stormy weather, the overwhelming flood, and the historical ship stranded in a modern setting evoke a sense of nature’s power and the unexpected clash of time and place.
-```
-
-[Source](https://prompthero.com/prompt/3052e202fd9-flux-flux-11-pro-ultra-create-a-hyper-realistic-birds-eye-view-of-a-16th-century-pirate-ship-stranded-in-the-middle-of-a-flooded)
-
----
-
 <a id="prompthero-6773cf21881"></a>
 
 ## celestial sailing ship
@@ -67,22 +19,6 @@ Create a hyper-realistic bird’s-eye view of a 16th-century pirate ship strande
 ```
 
 [Source](https://prompthero.com/prompt/6773cf21881-dreamshaper-5-baked-vae-celestial-sailing-ship)
-
----
-
-<a id="prompthero-7840f701468"></a>
-
-## blurry image of snowy winter puffer jacket fashion\.\.\.
-
-<a href="https://cdn.prompthero.com/l4b2fgx9qk8j5m01a1123c78bzat-midjourney-61-blurry-image-of-snowy-winter-puffer-jacket-fashion-at-night-surreal-sky-filled-of-change-and-wind-dominated-by-shades.png"><img src="https://cdn.prompthero.com/l4b2fgx9qk8j5m01a1123c78bzat-midjourney-61-blurry-image-of-snowy-winter-puffer-jacket-fashion-at-night-surreal-sky-filled-of-change-and-wind-dominated-by-shades.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-blurry image of snowy winter puffer jacket fashion, at night, surreal sky filled of change and wind dominated by shades of red and blue, with Realistic looking butterflies emitting a soft glow in a dark forest, in the style of minimalist beauty, androgynous, light black, cold palette, cosmopolitan energy, serene faces, loose and fluid, ethereal abstractions --chaos 15 --ar 2:3 --profile g9mew5f --stylize 1000 --v 6.1
-```
-
-By [@chorlo](https://prompthero.com/prompt/7840f701468-midjourney-61-blurry-image-of-snowy-winter-puffer-jacket-fashion-at-night-surreal-sky-filled-of-change-and-wind-dominated-by-shades)
 
 ---
 
@@ -323,6 +259,70 @@ In overgrown stone ruins where waterfalls spill between mossy walls, 2 savage wo
 ```
 
 By [@johns1670](https://prompthero.com/prompt/872900f88d1-seedream-5-seedream-5-pro-in-overgrown-stone-ruins-where-waterfalls-spill-between-mossy-walls-2-savage-wolves-ravage-a-dead-carcass-nearby-a-pale)
+
+---
+
+<a id="prompthero-027115638da"></a>
+
+## A surreal and slightly humorous, realistic-style s\.\.\.
+
+<a href="https://cdn.prompthero.com/me9eeafpbapxehrckd1zswf0xml1-flux-flux-11-pro-a-surreal-and-slightly-humorous-realistic-style-scene-inspired-by-the-famous-windows-xp-bliss-background-the-landscape-features-lush.jpg"><img src="https://cdn.prompthero.com/me9eeafpbapxehrckd1zswf0xml1-flux-flux-11-pro-a-surreal-and-slightly-humorous-realistic-style-scene-inspired-by-the-famous-windows-xp-bliss-background-the-landscape-features-lush.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+A surreal and slightly humorous, realistic-style scene inspired by the famous Windows XP "Bliss" background. The landscape features lush green rolling hills and a clear blue sky. From behind one of the hills, the top part of Mark Zuckerberg’s head—his eyes and forehead—emerges. His head is slightly tilted from the edge of the hill, as if he is peeking. He is staring directly at the viewer with a curious and slightly unsettling expression, as though he is secretly watching them.
+```
+
+By [@chorlo](https://prompthero.com/prompt/027115638da-flux-flux-11-pro-a-surreal-and-slightly-humorous-realistic-style-scene-inspired-by-the-famous-windows-xp-bliss-background-the-landscape-features-lush)
+
+---
+
+<a id="prompthero-a7d52d5606c"></a>
+
+## A majestic and ethereal scene of two historical fi\.\.\.
+
+<a href="https://cdn.prompthero.com/746emagtmkli5px1aj2rg3ol231r-flux-flux-11-pro-a-majestic-and-ethereal-scene-of-two-historical-figures-walking-towards-a-divine-celestial-gateway-their-silhouettes-are-illuminated-by.jpg"><img src="https://cdn.prompthero.com/746emagtmkli5px1aj2rg3ol231r-flux-flux-11-pro-a-majestic-and-ethereal-scene-of-two-historical-figures-walking-towards-a-divine-celestial-gateway-their-silhouettes-are-illuminated-by.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+A majestic and ethereal scene of two historical figures walking towards a divine, celestial gateway. Their silhouettes are illuminated by a radiant, golden light, symbolizing a journey beyond time. The environment is a blend of Ottoman and early Republican architecture, floating in the clouds, with a grand, heavenly entrance in the background. Ultra-detailed facial features, lifelike expressions, and historically accurate clothing. The atmosphere is filled with divine energy, misty golden light, and a serene yet powerful presence. The figures are surrounded by a mystical aura, with soft, glowing particles floating in the air. Cinematic lighting, hyperrealistic rendering, and intricate fabric details. Epic and inspiring composition, evoking a sense of honor and transcendence.
+```
+
+[Source](https://prompthero.com/prompt/a7d52d5606c-flux-flux-11-pro-a-majestic-and-ethereal-scene-of-two-historical-figures-walking-towards-a-divine-celestial-gateway-their-silhouettes-are-illuminated-by)
+
+---
+
+<a id="prompthero-a7d272f18c5"></a>
+
+## \(\(multiple photos beautiful monster , old men repe\.\.\.
+
+<a href="https://cdn.prompthero.com/t3383msbjze43upisi4q1sret12l-stable-diffusion-35-large-multiple-photos-beautiful-monster-old-men-repeated-on-a-page-cut-off-double-exposure-close-up-medical-illustration-trailer-park.jpg"><img src="https://cdn.prompthero.com/t3383msbjze43upisi4q1sret12l-stable-diffusion-35-large-multiple-photos-beautiful-monster-old-men-repeated-on-a-page-cut-off-double-exposure-close-up-medical-illustration-trailer-park.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+((multiple photos beautiful monster , old men repeated on a page, cut off)), double exposure, close up, medical illustration, trailer park, beach, overlapping, industrial, fine arts, pine tree, uneven, rows, grid, extreme screen print, faded images, white space, large pictures, cut, off center, tape, negative space, split image, blank space, circles, vintage, Shepard Fairey, carnival poster, color overprint, light blue, red, brown, yellow , green
+```
+
+[Source](https://prompthero.com/prompt/a7d272f18c5-stable-diffusion-35-large-multiple-photos-beautiful-monster-old-men-repeated-on-a-page-cut-off-double-exposure-close-up-medical-illustration-trailer-park)
+
+---
+
+<a id="prompthero-a7e589d5ce2"></a>
+
+## Hyper realistic fisheye exterior photo of a tarot \.\.\.
+
+<a href="https://cdn.prompthero.com/5fp1q6wcrisa02leps7lkipp8upk-flux-flux-11-pro-ultra-hyper-realistic-fisheye-exterior-photo-of-a-tarot-card-13th-gothic-style-overlooking-the-scene-cinematic-lighting-indirect-lighting-ad.jpg"><img src="https://cdn.prompthero.com/5fp1q6wcrisa02leps7lkipp8upk-flux-flux-11-pro-ultra-hyper-realistic-fisheye-exterior-photo-of-a-tarot-card-13th-gothic-style-overlooking-the-scene-cinematic-lighting-indirect-lighting-ad.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+Hyper realistic fisheye exterior photo of a tarot card “13th” gothic style ,overlooking the scene, cinematic lighting, indirect lighting, AD magazine, Tim Burton , Eames, Mies van der Rohe.
+```
+
+[Source](https://prompthero.com/prompt/a7e589d5ce2-flux-flux-11-pro-ultra-hyper-realistic-fisheye-exterior-photo-of-a-tarot-card-13th-gothic-style-overlooking-the-scene-cinematic-lighting-indirect-lighting-ad)
 
 ---
 

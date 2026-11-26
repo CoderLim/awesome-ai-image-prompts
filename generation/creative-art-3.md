@@ -166,22 +166,6 @@ An ultra-minimalist, conceptual photographic image of a crow silhouette centered
 
 ---
 
-<a id="prompthero-2bee235572f"></a>
-
-## Sculpture of a bionic male face made of bright pin\.\.\.
-
-<a href="https://cdn.prompthero.com/x6jnjld9yvp1j6gfqp0phoxaoq-flux-kontext-flux-kontext-pro-sculpture-of-a-bionic-male-face-made-of-bright-pink-ceramic-with-diamonds-standing-out-against-the-background-front-view.jpeg"><img src="https://cdn.prompthero.com/x6jnjld9yvp1j6gfqp0phoxaoq-flux-kontext-flux-kontext-pro-sculpture-of-a-bionic-male-face-made-of-bright-pink-ceramic-with-diamonds-standing-out-against-the-background-front-view.jpeg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-Sculpture of a bionic male face made of bright pink ceramic with diamonds, standing out against the background, front view, well-lit, ultra-realistic, modern minimalism, futuristic, --raw style --aspect ratio 3:4 --resolution 350 --version 6.0
-```
-
-[Source](https://prompthero.com/prompt/2bee235572f-flux-kontext-flux-kontext-pro-sculpture-of-a-bionic-male-face-made-of-bright-pink-ceramic-with-diamonds-standing-out-against-the-background-front-view)
-
----
-
 <a id="prompthero-2cfd462d18a"></a>
 
 ## a Japan traditional art style illustration that ca\.\.\.
@@ -262,22 +246,6 @@ a 3d realistic image of a skull made of glass, with blue light shining through, 
 
 ---
 
-<a id="prompthero-3af2913335f"></a>
-
-## An abstract psychedelic pattern made of smooth, wa\.\.\.
-
-<a href="https://cdn.prompthero.com/r4n4yrt23v7t2e5moroutekoeasr-flux-flux-kontext-pro-an-abstract-psychedelic-pattern-made-of-smooth-wavy-yellow-lines-on-a-transparent-or-black-background-the-lines-ripple-outwards.png"><img src="https://cdn.prompthero.com/r4n4yrt23v7t2e5moroutekoeasr-flux-flux-kontext-pro-an-abstract-psychedelic-pattern-made-of-smooth-wavy-yellow-lines-on-a-transparent-or-black-background-the-lines-ripple-outwards.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-An abstract psychedelic pattern made of smooth, wavy yellow lines on a transparent or black background. The lines ripple outwards from a central focal point in irregular concentric shapes, creating a hypnotic, organic flow. The style is bold and graphic, with a hand-drawn feel but digitally clean. Use high contrast, sharp edges, and a sense of motion, resembling topographic or liquid energy waves.
-```
-
-[Source](https://prompthero.com/prompt/3af2913335f-flux-flux-kontext-pro-an-abstract-psychedelic-pattern-made-of-smooth-wavy-yellow-lines-on-a-transparent-or-black-background-the-lines-ripple-outwards)
-
----
-
 <a id="prompthero-3c57d88bae9"></a>
 
 ## \(Top Quality, Top Quality, Masterpiece\), Beautiful\.\.\.
@@ -323,6 +291,38 @@ Cinematic photorealistic vertical shot from inside a stationary car parked safel
 ```
 
 By [@chorlo](https://prompthero.com/prompt/4b9ec3d60cc-hunyuan-hunyuan-3-cinematic-photorealistic-vertical-shot-from-inside-a-stationary-car-parked-safely-on-the-shoulder-of-a-highway-looking-through-the)
+
+---
+
+<a id="prompthero-4b508ad4c76"></a>
+
+## \(A hyper-realistic, cinematic photograph in the st\.\.\.
+
+<a href="https://cdn.prompthero.com/6x3h1v3y8ze97cqfw9eusqrw2eni-flux-flux-11-pro-ultra-a-hyper-realistic-cinematic-photograph-in-the-style-of-1970s-soviet-sci-fi13-depicting-a-lone-soviet-arctic-explorer-struggling.jpg"><img src="https://cdn.prompthero.com/6x3h1v3y8ze97cqfw9eusqrw2eni-flux-flux-11-pro-ultra-a-hyper-realistic-cinematic-photograph-in-the-style-of-1970s-soviet-sci-fi13-depicting-a-lone-soviet-arctic-explorer-struggling.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+(A hyper-realistic, cinematic photograph in the style of 1970s Soviet sci-fi:1.3), depicting a lone Soviet Arctic explorer struggling through an intense blizzard (flying snow particles:1.7) as the setting sun (setting sun through blizzard:1.5) tries to pierce through the swirling storm. The explorer is clad in a bulky, worn, and weathered retro-futuristic spacesuit, with faded red and white accents and a prominently displayed CCCP insignia across the chest (CCCP insignia:1.5). His suit is covered in frost and ice, battered by the harsh Arctic conditions, with snow clinging to the edges and joints. The blizzard is fierce, with snow and ice particles violently flying through the air (flying snow particles:1.7), obscuring the landscape and making the explorer’s journey even more treacherous. The air is thick with whipping snow, which interacts with the faint light from the setting sun (sunlight piercing through storm:1.5), casting dim, golden beams that struggle to penetrate the storm. The light creates fleeting, volumetric shafts through the blizzard, catching on the swirling snowflakes and illuminating the scene in brief, ghostly flashes. Despite the fading light and harsh conditions, the explorer presses on toward a barely visible nuclear generator (nuclear generator:1.4), half-buried under the snow. His steps are slow and heavy, with snow building up around his legs as he fights against the wind. The worn spacesuit shows signs of prolonged use, with cracks in the visor fogging over, and his breath visible inside the helmet. Snow particles whip violently around him, catching the last of the day’s light, while patches of golden sunlight filter through the blizzard, giving a surreal and fleeting glow to the harsh, frozen landscape. The setting sun casts long, dramatic shadows across the snow-covered ground, but the intensity of the storm continually threatens to snuff out the light, making the environment feel overwhelming and unforgiving. The blizzard is relentless, with snow and ice clinging to the explorer’s spacesuit, and the setting sun adds a feeling of urgency, as if time is running out. The last beams of sunlight interact with the flying snow particles, creating a flickering effect, with the light constantly shifting and fading as the explorer marches forward.
+```
+
+[Source](https://prompthero.com/prompt/4b508ad4c76-flux-flux-11-pro-ultra-a-hyper-realistic-cinematic-photograph-in-the-style-of-1970s-soviet-sci-fi13-depicting-a-lone-soviet-arctic-explorer-struggling)
+
+---
+
+<a id="prompthero-4b7282bf72f"></a>
+
+## A close up of mysterious woman in orange veil cloa\.\.\.
+
+<a href="https://cdn.prompthero.com/ell70gj9hnrt3xmusn1o9th20yvd-stable-diffusion-2-base-a-close-up-of-mysterious-woman-in-orange-veil-cloak-walking-in-autumn-forest-sharp-detail-and-dramatic-focus-highres.png"><img src="https://cdn.prompthero.com/ell70gj9hnrt3xmusn1o9th20yvd-stable-diffusion-2-base-a-close-up-of-mysterious-woman-in-orange-veil-cloak-walking-in-autumn-forest-sharp-detail-and-dramatic-focus-highres.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+A close up of mysterious woman in orange veil cloak walking in autumn forest, sharp detail and dramatic focus, highres, realistic photo, professional photography, cinematic angle, dynamic light back shining, bokeh,
+```
+
+[Source](https://prompthero.com/prompt/4b7282bf72f-stable-diffusion-2-base-a-close-up-of-mysterious-woman-in-orange-veil-cloak-walking-in-autumn-forest-sharp-detail-and-dramatic-focus-highres)
 
 ---
 

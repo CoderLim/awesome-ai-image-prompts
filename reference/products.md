@@ -38,22 +38,6 @@ By [@lovimg\_com](https://x.com/lovimg_com/status/2077036313832996893)
 
 ---
 
-<a id="prompthero-964cb87550b"></a>
-
-## Use the provided reference image as the primary vi\.\.\.
-
-<a href="https://cdn.prompthero.com/v1_fa176134349f2fb8eee5cde172-riverflow-riverflow-25-use-the-provided-reference-image-as-the-primary-visual-style-reference-match-its-color-palette-lighting-texture-composition-rhythm-and.jpg"><img src="https://cdn.prompthero.com/v1_fa176134349f2fb8eee5cde172-riverflow-riverflow-25-use-the-provided-reference-image-as-the-primary-visual-style-reference-match-its-color-palette-lighting-texture-composition-rhythm-and.jpg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-Use the provided reference image as the primary visual style reference. Match its color palette, lighting, texture, composition rhythm, and artistic treatment while creating the inside of a realistic gaming computer
-```
-
-By [@chorlo](https://prompthero.com/prompt/964cb87550b-riverflow-riverflow-25-use-the-provided-reference-image-as-the-primary-visual-style-reference-match-its-color-palette-lighting-texture-composition-rhythm-and)
-
----
-
 <a id="prompthero-a2b88615720"></a>
 
 ## Ultra-realistic fashion beauty crop of a female mo\.\.\.

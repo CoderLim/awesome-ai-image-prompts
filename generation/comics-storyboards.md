@@ -6,22 +6,6 @@
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
-<a id="evolink-advertising-case-186"></a>
-
-## Construction Brand Nine-Panel Storyboard
-
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2102337186846978048-poster.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2102337186846978048-poster.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Create one premium photorealistic 3×3 storyboard for a 10-second Japanese construction-company corporate commercial. Brand: “NEXARC CONSTRUCTION” Audience: commercial-property owners, developers, business leaders and engineering recruits. Central message: disciplined design and construction create the places where tomorrow’s work and life begin. LAYOUT One overall landscape 16:9 image. Exactly nine equal 16:9 panels arranged in three columns and three rows. Thin ivory gutters. Small white panel numbers 01–09 in the upper-left corner of each panel. Read left to right, top row to bottom row. No captions, arrows, watermarks or production notes. Only panel numbers and the final brand typography in panel 09. CONTINUITY Recurring lead architect: the same 36-year-old Japanese man, lean build, calm intelligent face, short neatly parted black hair and natural skin texture. He wears a crisp white shirt, dark navy work jacket and charcoal trousers. At the active construction site, add the same white safety helmet, reflective charcoal vest, gloves and safety boots. The recurring development contains one central 18-story rectangular office tower with blue-gray glass, vertical silver fins and a transparent entrance canopy, plus two six-story side buildings, a pedestrian plaza, warm timber accents and young street trees. Keep this building geometry consistent through every construction phase. A thin cobalt-blue line is the visual motif. It appears first on tracing paper and then as a physical survey line at the construction site. It never magically transforms into a building. NINE PANELS 01 — Overhead macro in a dawn architecture studio. The architect draws one precise cobalt-blue line across translucent tracing paper using a ruler and technical pencil. 02 — Low close-up at an empty prepared construction site. A surveyor wearing correct PPE marks one straight cobalt-blue line on the ground. Survey tripod behind. 03 — Wide active foundation stage with excavation, rebar, formwork and concrete pumping. Workers remain in organized safe zones. 04 — Low-angle steel erection. A crane lifts one steel beam into position while properly equipped riggers guide it from safe positions. No worker beneath the load. 05 — Detailed façade installation. Workers using approved lifting equipment and fall protection install one blue-gray glass panel and silver vertical fins. 06 — Elevated wide of the nearly finished development. Crews install pale stone paving, timber benches and young trees around the coherent completed buildings. 07 — Finished office lobby. The same architect, without his helmet but wearing the navy jacket, opens the glass entrance as the first office workers enter. 08 — Grand golden-hour wide of the completed district. Office workers, pedestrians, parked bicycles and a café terrace bring the architecture to life. 09 — Symmetrical blue-hour hero shot of the completed district. Illuminated offices and plaza. Stable centered white text: “NEXARC CONSTRUCTION”. Beneath it: “まだない景色を、つくる。” PHOTOGRAPHY High-end live-action Japanese corporate commercial. Natural full-frame cinema-camera perspective, realistic concrete, structural steel, glass, timber, cables, asphalt and foliage. Cool dawn progressing through clear daylight, golden hour and blue hour. Key light consistently from frame left. Architectural white, graphite, silver, blue-gray glass, warm timber and restrained cobalt blue. Smooth highlight roll-off, moderate depth of field and subtle film grain. SAFETY All construction activity must be physically believable. Correct PPE, fall protection, crane rigging, exclusion zones and stable scaffolding. No workers beneath suspended loads. AVOID Magical construction, object morphing, teleporting materials, instant trees, collapsing structures, demolition, unsafe workers, missing helmets, floating beams, bent cranes, impossible machinery, inconsistent architecture, changing façade colors, duplicate people, malformed hands, CGI-plastic surfaces, miniature-diorama appearance, cartoon styling, futuristic fantasy cities, extra logos, unreadable text or panels other than 01–09.
-```
-
-By [@husky\_\_create](https://x.com/husky__create/status/2102337239443522023)
-
----
-
 <a id="evolink-sequential-art-case-243"></a>
 
 ## Four-Panel Photo Mistake Template
@@ -291,22 +275,6 @@ A retro icon of a rotary telephone, 1930s Era Comic Strip style, bold and contra
 ```
 
 [Source](https://prompthero.com/prompt/25639a01694-midjourney-5-a-retro-icon-of-a-rotary-telephone-1930s-era-comic-strip-style-bold-and-contrasting-palette-art-by-paul-gauguin)
-
----
-
-<a id="prompthero-be38c986ba4"></a>
-
-## The image shows a female superhero standing in fro\.\.\.
-
-<a href="https://cdn.prompthero.com/7gvdctd34v8asyd85onucqye0731-flux-flux-11-pro-the-image-shows-a-female-superhero-standing-in-front-of-a-stormy-sky-with-lightning-bolts-she-is-holding-a.png"><img src="https://cdn.prompthero.com/7gvdctd34v8asyd85onucqye0731-flux-flux-11-pro-the-image-shows-a-female-superhero-standing-in-front-of-a-stormy-sky-with-lightning-bolts-she-is-holding-a.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-The image shows a female superhero standing in front of a stormy sky with lightning bolts. She is holding a sword in her right hand and her left hand is raised in the air, as if she is ready to strike. The superhero is wearing a futuristic-looking outfit with a white and blue color scheme. Her hair is styled in an afro and she has a fierce expression on her face. The background is filled with dark clouds and lightning bolts, creating a dramatic and powerful atmosphere. The overall mood of the image is intense and dramatic. epic comic, graphic novel
-```
-
-[Source](https://prompthero.com/prompt/be38c986ba4-flux-flux-11-pro-the-image-shows-a-female-superhero-standing-in-front-of-a-stormy-sky-with-lightning-bolts-she-is-holding-a)
 
 ---
 

@@ -6,38 +6,6 @@
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
-<a id="prompthero-73fd92dfc20"></a>
-
-## a confident woman detective with a sleek bobbed ha\.\.\.
-
-<a href="https://cdn.prompthero.com/fsdeube7w9zeyertwnud3lbt30tf-midjourney-niji-mode-a-confident-woman-detective-with-a-sleek-bobbed-hairstyle-cut-and-observant-brown-eyes-wearing-a-gray-detective-coat-is.jpg"><img src="https://cdn.prompthero.com/fsdeube7w9zeyertwnud3lbt30tf-midjourney-niji-mode-a-confident-woman-detective-with-a-sleek-bobbed-hairstyle-cut-and-observant-brown-eyes-wearing-a-gray-detective-coat-is.jpg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-a confident woman detective with a sleek bobbed hairstyle cut and observant brown eyes, wearing a gray detective coat, is examining clues in a dimly lit crime scene, half-body:: portraited, face drawn by the masterful artist Wes Anderson, detailed, against a gritty background --ar 2:3 --niji 5 --style expressive --q 2
-```
-
-[Source](https://prompthero.com/prompt/73fd92dfc20-midjourney-niji-mode-a-confident-woman-detective-with-a-sleek-bobbed-hairstyle-cut-and-observant-brown-eyes-wearing-a-gray-detective-coat-is)
-
----
-
-<a id="prompthero-74aac4ec8ba"></a>
-
-## A sultry cyberpunk street siren stands under neon \.\.\.
-
-<a href="https://cdn.prompthero.com/snzm35la7uun9wdlzfi7swp7c1-hero-10-a-sultry-cyberpunk-street-siren-stands-under-neon-rain-her-long-silken-hair-streaked-with-electric-blue-and-violet-cascading.jpeg"><img src="https://cdn.prompthero.com/snzm35la7uun9wdlzfi7swp7c1-hero-10-a-sultry-cyberpunk-street-siren-stands-under-neon-rain-her-long-silken-hair-streaked-with-electric-blue-and-violet-cascading.jpeg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-A sultry cyberpunk street siren stands under neon rain, her long, silken hair streaked with electric blue and violet cascading over her toned, hourglass frame. She wears unzipped, reflective cybernetic armor that barely conceals her glowing tattoos tracing her collarbones and cleavage, wet leather boots glinting on rain-slick pavement. Neon pinks and blues shimmer off puddles, smoke curling around holographic signs, blending gothic melancholy with magical fantasy. The scene channels the haunting, ethereal style of WLOP, Rossdraws, and Greg Rutkowski, with cinematic lighting and epic, hyper-detailed realism.
-```
-
-[Source](https://prompthero.com/prompt/74aac4ec8ba-hero-10-a-sultry-cyberpunk-street-siren-stands-under-neon-rain-her-long-silken-hair-streaked-with-electric-blue-and-violet-cascading)
-
----
-
 <a id="prompthero-74db505d867"></a>
 
 ## portrait the egyptian male anubis, cyberpunk, blac\.\.\.
@@ -323,6 +291,38 @@ artistic, oil painting, right face composition, portrait of girl, empty eyes, ga
 ```
 
 By [@Grayve](https://prompthero.com/prompt/99df324d537-midjourney-6-artistic-oil-painting-right-face-composition-portrait-of-girl-empty-eyes-gaze-grainy-touch-minimalist-avant-garde-rich-detailing-style)
+
+---
+
+<a id="prompthero-122ae4fe279"></a>
+
+## Close-up photograph of a 20-year-old woman, \(highl\.\.\.
+
+<a href="https://cdn.prompthero.com/dkx67hge5lq7uj4zaqebs7y8gg9e-stable-diffusion-15-daine-daine-is-a-captivating-mix-south-american-lady-from-venezuela-who-embodies-the-spirit-of-the-outdoors-despite-her-stunning-close-up-photograph-of-a-20-year-old-woman-highly-detailed-face14-smile07-dark-background13-loraepinoiseoffsetv212-nikon-d850-nikon-af.jpg"><img src="https://cdn.prompthero.com/dkx67hge5lq7uj4zaqebs7y8gg9e-stable-diffusion-15-daine-daine-is-a-captivating-mix-south-american-lady-from-venezuela-who-embodies-the-spirit-of-the-outdoors-despite-her-stunning-close-up-photograph-of-a-20-year-old-woman-highly-detailed-face14-smile07-dark-background13-loraepinoiseoffsetv212-nikon-d850-nikon-af.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+Close-up photograph of a 20-year-old woman, (highly detailed face:1.4) (smile:0.7) (dark background:1.3) <lora:epiNoiseoffset_v2:1.2>, Nikon D850, Nikon AF-S 85mm f/1.4G lens, 8k,hyper-realistic, lifelike texture, dramatic lighting
+```
+
+By [@abyishot](https://prompthero.com/prompt/122ae4fe279-stable-diffusion-15-daine-daine-is-a-captivating-mix-south-american-lady-from-venezuela-who-embodies-the-spirit-of-the-outdoors-despite-her-stunning-close-up-photograph-of-a-20-year-old-woman-highly-detailed-face14-smile07-dark-background13-loraepinoiseoffsetv212-nikon-d850-nikon-af)
+
+---
+
+<a id="prompthero-133b79e0a2e"></a>
+
+## A photo of an eccentric black woman sitting on top\.\.\.
+
+<a href="https://cdn.prompthero.com/iv66va5ki020f5b0tsbh63wop6up-flux-flux-11-pro-a-photo-of-an-eccentric-black-woman-sitting-on-top-of-white-fluffy-clouds-wearing-big-sunglasses-and-a-designer.jpg"><img src="https://cdn.prompthero.com/iv66va5ki020f5b0tsbh63wop6up-flux-flux-11-pro-a-photo-of-an-eccentric-black-woman-sitting-on-top-of-white-fluffy-clouds-wearing-big-sunglasses-and-a-designer.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+A photo of an eccentric black woman sitting on top of white fluffy clouds wearing big sunglasses and a designer dress from Givenchy  with the Givenchy logo on dress, she has severe blond bob hairstyle, the background is baby blue sky with white cloud formations, shot by Jimmy Marble, muted earthy colors, soft tones
+```
+
+[Source](https://prompthero.com/prompt/133b79e0a2e-flux-flux-11-pro-a-photo-of-an-eccentric-black-woman-sitting-on-top-of-white-fluffy-clouds-wearing-big-sunglasses-and-a-designer)
 
 ---
 

@@ -6,38 +6,6 @@
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
-<a id="prompthero-3853d49ec67"></a>
-
-## A dark, intimate fine art portrait of a woman stan\.\.\.
-
-<a href="https://cdn.prompthero.com/itrzn0eubus45xxl3jpyxm5dl722-flux-dev-a-dark-intimate-fine-art-portrait-of-a-woman-standing-confidently-against-a-deep-moody-background-soft-directional-lighting-highlights.png"><img src="https://cdn.prompthero.com/itrzn0eubus45xxl3jpyxm5dl722-flux-dev-a-dark-intimate-fine-art-portrait-of-a-woman-standing-confidently-against-a-deep-moody-background-soft-directional-lighting-highlights.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-A dark, intimate fine art portrait of a woman standing confidently against a deep, moody background. Soft, directional lighting highlights her form, creating a subtle contrast that brings out the contours and textures of her skin with a painterly quality. Shadows play across her face, partially obscuring her expression, lending an air of mystery and allure. Her pose is both powerful and graceful, exuding quiet strength and natural beauty. The overall composition uses rich, low-key lighting with carefully controlled highlights, capturing an essence of quiet intensity. The background fades into darkness, allowing the subject’s figure to emerge as the focal point, embodying a timeless elegance and cinematic depth
-```
-
-[Source](https://prompthero.com/prompt/3853d49ec67-flux-dev-a-dark-intimate-fine-art-portrait-of-a-woman-standing-confidently-against-a-deep-moody-background-soft-directional-lighting-highlights)
-
----
-
-<a id="prompthero-4461bf26bb3"></a>
-
-## photography, upper body, female model in dramatic \.\.\.
-
-<a href="https://cdn.prompthero.com/xtbmjckack5yy414ac7m7uophirj-midjourney-6-photography-upper-body-female-model-in-dramatic-side-pose-leaning-backwards-at-15-degree-angle-head-tilted-down-stylish-hair.png"><img src="https://cdn.prompthero.com/xtbmjckack5yy414ac7m7uophirj-midjourney-6-photography-upper-body-female-model-in-dramatic-side-pose-leaning-backwards-at-15-degree-angle-head-tilted-down-stylish-hair.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-photography, upper body, female model in dramatic side pose, leaning backwards at 15-degree angle, head tilted down, stylish hair style, provocative look, minimalist full length black coat, black cargo jean, untied shoelaces matte black military boots, minimalist fashion, dramatic silhouette against cool emerald gradient background, rich detail --ar 9:16 --style raw --personalize flveq4x --v 6.1
-```
-
-By [@Grayve](https://prompthero.com/prompt/4461bf26bb3-midjourney-6-photography-upper-body-female-model-in-dramatic-side-pose-leaning-backwards-at-15-degree-angle-head-tilted-down-stylish-hair)
-
----
-
 <a id="prompthero-4497d8a6279"></a>
 
 ## \(1girl, full body\), \(spider Gwen\), action scene, d\.\.\.
@@ -323,6 +291,38 @@ an older man, in the style of steampunk, atompunk, aaron jasinski, intense light
 ```
 
 [Source](https://prompthero.com/prompt/14535ae347f-stable-diffusion-xl-base-09-an-older-man-in-the-style-of-steampunk-atompunk-aaron-jasinski-intense-lighting-and-shadow-baroque-maritime-smokey-background-dd)
+
+---
+
+<a id="prompthero-14651a312c1"></a>
+
+## Woman, masterpiece, high quality, whole body, at a\.\.\.
+
+<a href="https://cdn.prompthero.com/hcomvtokj9h6nd1rlsmbav6k78tm-midjourney-4-woman-masterpiece-high-quality-whole-body-at-a-high-angle-perfect-face-1-1-complex-great-detail-1-1-body.png"><img src="https://cdn.prompthero.com/hcomvtokj9h6nd1rlsmbav6k78tm-midjourney-4-woman-masterpiece-high-quality-whole-body-at-a-high-angle-perfect-face-1-1-complex-great-detail-1-1-body.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+Woman, masterpiece, high quality, whole body, at a high angle, ( perfect face: 1. 1) complex( great detail: 1. 1) body, closed navel, closed, eyes up, extremely detailed eyes and face, big brown eyes, dark skin, city in background, Nikon d850 4 kodak portra 400 camera, f1. 6 lens, rich colors, hyperrealistic texture
+```
+
+[Source](https://prompthero.com/prompt/14651a312c1-midjourney-4-woman-masterpiece-high-quality-whole-body-at-a-high-angle-perfect-face-1-1-complex-great-detail-1-1-body)
+
+---
+
+<a id="prompthero-16220e841b2"></a>
+
+## A bad ass Scottish ginger
+
+<a href="https://cdn.prompthero.com/rkjil9mu9wacyze2hclcdoxxq0su-midjourney-5-a-bad-ass-scottish-ginger.png"><img src="https://cdn.prompthero.com/rkjil9mu9wacyze2hclcdoxxq0su-midjourney-5-a-bad-ass-scottish-ginger.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+Create a photorealistic, high-resolution 16k image of a 35-year-old man embodying cyberpunk aesthetics. His fiery ginger hair should be styled in a rebellious manner, contrasting against the monochromatic world. His long, well-groomed ginger beard should be captured in detail, showcasing his meticulous nature. He should be wearing a grey hoodie adorned with cryptic symbols and neon accents, and rugged indigo jeans. His piercing blue eyes and wry smile should be the focal points, adding to his intriguing persona. Use a Canon EOS 5D Mark IV DSLR camera with an EF 24-70mm f/2.8L II USM lens for this shot. The lighting should be dramatic, with high contrast to highlight his features and attire. The color palette should be vibrant, with a focus on blues, greys, and the fiery ginger of his hair and beard. The composition should be a full-body shot, with the man positioned centrally and looking directly into the camera. --style raw --q 2 --s 750 -
+```
+
+[Source](https://prompthero.com/prompt/16220e841b2-midjourney-5-a-bad-ass-scottish-ginger)
 
 ---
 

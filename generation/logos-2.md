@@ -6,22 +6,6 @@
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
-<a id="prompthero-34bcc4b30db"></a>
-
-## A 3D metallic chrome text logo that says &quot;GHASEM&quot;,\.\.\.
-
-<a href="https://cdn.prompthero.com/v1_70077717c351c120d783bed138-hero-10-a-3d-metallic-chrome-text-logo-that-says-ghasem-designed-in-a-fluid-molten-style-with-reflective-golden-orange-surfaces.jpg"><img src="https://cdn.prompthero.com/v1_70077717c351c120d783bed138-hero-10-a-3d-metallic-chrome-text-logo-that-says-ghasem-designed-in-a-fluid-molten-style-with-reflective-golden-orange-surfaces.jpg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-A 3D metallic chrome text logo that says "GHASEM", designed in a fluid, molten style with reflective golden-orange surfaces. The letters have a glossy, liquid metal appearance with highlights and shiny edges. Background is a smooth gradient transitioning from deep black at the top to vibrant orange at the bottom, creating contrast and depth. Ultra-detailed reflections, glowing metallic texture, modern graphic design, bold futuristic typography.
-```
-
-[Source](https://prompthero.com/prompt/34bcc4b30db-hero-10-a-3d-metallic-chrome-text-logo-that-says-ghasem-designed-in-a-fluid-molten-style-with-reflective-golden-orange-surfaces)
-
----
-
 <a id="prompthero-4051de7c67f"></a>
 
 ## ChatGPT JSON:

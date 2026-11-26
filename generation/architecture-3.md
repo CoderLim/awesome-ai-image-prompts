@@ -6,22 +6,6 @@
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
-<a id="prompthero-dc660565919"></a>
-
-## create a photorealistic image showcasing the timel\.\.\.
-
-<a href="https://cdn.prompthero.com/356yof4xz0hek9xcclpxdujn0vii-midjourney-6-create-a-photorealistic-image-showcasing-the-timeless-elegance-of-the-wegner-wishbone-chair-use-a-leica-q2-with-a-fixed.png"><img src="https://cdn.prompthero.com/356yof4xz0hek9xcclpxdujn0vii-midjourney-6-create-a-photorealistic-image-showcasing-the-timeless-elegance-of-the-wegner-wishbone-chair-use-a-leica-q2-with-a-fixed.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-create a photorealistic image showcasing the timeless elegance of the wegner wishbone chair, Use a Leica Q2 with a fixed Summilux 28mm f/1.7 lens to capture the chair's iconic Y-back design and the natural wood finish., position the chair in a well-lit studio with a minimalist aesthetic, allowing the morning light to accentuate its curves and shadows, backdrop should be a subtle beige to complement the chair's warm tones, 32K UHD resolution with many details, ensuring the image communicates the chair's status as a beloved staple of modern interior design --ar 9:16 --stylize 650
-```
-
-By [@Grayve](https://prompthero.com/prompt/dc660565919-midjourney-6-create-a-photorealistic-image-showcasing-the-timeless-elegance-of-the-wegner-wishbone-chair-use-a-leica-q2-with-a-fixed)
-
----
-
 <a id="prompthero-de45743342c"></a>
 
 ## A detailed crosssection of the ancient Chinese tow\.\.\.
@@ -51,22 +35,6 @@ High resolution photography interior design, dreamy sunken living room conversat
 ```
 
 By [@robiness](https://prompthero.com/prompt/e8415bd8a23-realistic-vision-v20-v20-high-resolution-photography-interior-design-dreamy-sunken-living-room-conversation-pit-wooden-floor-small-windows-opening-onto-the-garden-bauhaus)
-
----
-
-<a id="prompthero-ec71dd8b411"></a>
-
-## Hyper realistic eye level photo of a cyberpunk cen\.\.\.
-
-<a href="https://cdn.prompthero.com/cbb2ou6uprkwjtd4aldmt9hjatqw-openjourney-4-hyper-realistic-eye-level-photo-of-a-cyberpunk-century-modern-style-house-overlooking-the-horizon-indirect-lighting-raytracing-neon.png"><img src="https://cdn.prompthero.com/cbb2ou6uprkwjtd4aldmt9hjatqw-openjourney-4-hyper-realistic-eye-level-photo-of-a-cyberpunk-century-modern-style-house-overlooking-the-horizon-indirect-lighting-raytracing-neon.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-Hyper realistic eye level photo of a cyberpunk century modern style house overlooking the horizon, indirect lighting, raytracing, neon
-```
-
-[Source](https://prompthero.com/prompt/ec71dd8b411-openjourney-4-hyper-realistic-eye-level-photo-of-a-cyberpunk-century-modern-style-house-overlooking-the-horizon-indirect-lighting-raytracing-neon)
 
 ---
 

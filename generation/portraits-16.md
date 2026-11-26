@@ -6,38 +6,6 @@
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
-<a id="prompthero-52a4a35de7c"></a>
-
-## The Empty Loop - Main character 1
-
-<a href="https://cdn.prompthero.com/or7jrlcky29oh6xian2wx44archy-flux-dev-the-empty-loop-main-character-1.png"><img src="https://cdn.prompthero.com/or7jrlcky29oh6xian2wx44archy-flux-dev-the-empty-loop-main-character-1.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-Full-body portrait of a futuristic woman with a retro hacker aesthetic. She has a melancholic and slightly depressed expression, yet her beauty and confidence are undeniable. Her outfit reflects the style of a high-fashion enthusiast, blending futuristic materials like metallics and neon accents with retro elements like oversized jackets, geometric patterns, or cyberpunk-inspired details. She has a fit and well-proportioned physique. Her hair is short, straight, and cut just above the shoulders, with a sleek and modern style. The background is a plain gray, allowing her unique style and aura to stand out. Add subtle lighting to emphasize her features and outfit without overwhelming the scene.
-```
-
-[Source](https://prompthero.com/prompt/52a4a35de7c-flux-dev-the-empty-loop-main-character-1)
-
----
-
-<a id="prompthero-52b0fe0270a"></a>
-
-## A young Caucasian woman with striking makeup and b\.\.\.
-
-<a href="https://cdn.prompthero.com/vq95mdq6nh5rvisez4ghknrm3p-a-young-caucasian-woman-with-striking-makeup-and-black-hair-styled-with-a-pink-and-black-polka-dot-bow-and.png"><img src="https://cdn.prompthero.com/vq95mdq6nh5rvisez4ghknrm3p-a-young-caucasian-woman-with-striking-makeup-and-black-hair-styled-with-a-pink-and-black-polka-dot-bow-and.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-A young Caucasian woman with striking makeup and black hair, styled with a pink and black polka dot bow and large black mouse ears, sits in a vintage leather armchair. She is wearing an off-the-shoulder, long-sleeved crop top and high-waisted, form-fitting pants, both featuring a bold black and hot pink stripe pattern. A studded choker and a chain belt with ring details complete her edgy ensemble. Her expression is intense, with dark, smoky eyeshadow, dramatic eyeliner, and glossy black lipstick, looking directly at the viewer. She is seated in a three-quarter pose, with her left leg crossed over her right, her body leaning back into the chair. The setting appears to be an indoor, dimly lit space with a textured, muted background. The lighting casts shadows, highlighting her features and the sheen of her clothing, creating a dramatic and slightly provocative atmosphere. The perspective is medium shot, focusing on the woman and her bold fashion statement.
-```
-
-[Source](https://prompthero.com/prompt/52b0fe0270a-a-young-caucasian-woman-with-striking-makeup-and-black-hair-styled-with-a-pink-and-black-polka-dot-bow-and)
-
----
-
 <a id="prompthero-52ddd9d20f6"></a>
 
 ## A young woman with long blonde hair styled in loos\.\.\.
@@ -325,6 +293,38 @@ photography, female model, bottom tilt shot, front central composition, full-bod
 ```
 
 By [@Grayve](https://prompthero.com/prompt/072d7fd3c00-midjourney-shatter-photography-female-model-bottom-tilt-shot-front-central-composition-full-body-profile-pose-gaze-used-camera-is-canon-eos-r3)
+
+---
+
+<a id="prompthero-73fd92dfc20"></a>
+
+## a confident woman detective with a sleek bobbed ha\.\.\.
+
+<a href="https://cdn.prompthero.com/fsdeube7w9zeyertwnud3lbt30tf-midjourney-niji-mode-a-confident-woman-detective-with-a-sleek-bobbed-hairstyle-cut-and-observant-brown-eyes-wearing-a-gray-detective-coat-is.jpg"><img src="https://cdn.prompthero.com/fsdeube7w9zeyertwnud3lbt30tf-midjourney-niji-mode-a-confident-woman-detective-with-a-sleek-bobbed-hairstyle-cut-and-observant-brown-eyes-wearing-a-gray-detective-coat-is.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+a confident woman detective with a sleek bobbed hairstyle cut and observant brown eyes, wearing a gray detective coat, is examining clues in a dimly lit crime scene, half-body:: portraited, face drawn by the masterful artist Wes Anderson, detailed, against a gritty background --ar 2:3 --niji 5 --style expressive --q 2
+```
+
+[Source](https://prompthero.com/prompt/73fd92dfc20-midjourney-niji-mode-a-confident-woman-detective-with-a-sleek-bobbed-hairstyle-cut-and-observant-brown-eyes-wearing-a-gray-detective-coat-is)
+
+---
+
+<a id="prompthero-74aac4ec8ba"></a>
+
+## A sultry cyberpunk street siren stands under neon \.\.\.
+
+<a href="https://cdn.prompthero.com/snzm35la7uun9wdlzfi7swp7c1-hero-10-a-sultry-cyberpunk-street-siren-stands-under-neon-rain-her-long-silken-hair-streaked-with-electric-blue-and-violet-cascading.jpeg"><img src="https://cdn.prompthero.com/snzm35la7uun9wdlzfi7swp7c1-hero-10-a-sultry-cyberpunk-street-siren-stands-under-neon-rain-her-long-silken-hair-streaked-with-electric-blue-and-violet-cascading.jpeg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+A sultry cyberpunk street siren stands under neon rain, her long, silken hair streaked with electric blue and violet cascading over her toned, hourglass frame. She wears unzipped, reflective cybernetic armor that barely conceals her glowing tattoos tracing her collarbones and cleavage, wet leather boots glinting on rain-slick pavement. Neon pinks and blues shimmer off puddles, smoke curling around holographic signs, blending gothic melancholy with magical fantasy. The scene channels the haunting, ethereal style of WLOP, Rossdraws, and Greg Rutkowski, with cinematic lighting and epic, hyper-detailed realism.
+```
+
+[Source](https://prompthero.com/prompt/74aac4ec8ba-hero-10-a-sultry-cyberpunk-street-siren-stands-under-neon-rain-her-long-silken-hair-streaked-with-electric-blue-and-violet-cascading)
 
 ---
 

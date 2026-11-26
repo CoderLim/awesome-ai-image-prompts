@@ -134,22 +134,6 @@ By [Vibe Coder&\#39;s Life \(kondasviktor\)](https://github.com/kondasviktor/vcl
 
 ---
 
-<a id="vcl-crosssection"></a>
-
-## Crosssection — electric motor
-
-<a href="https://raw.githubusercontent.com/kondasviktor/vcl-ai-image-prompts/695e086fc3043c0ca39f1ad2b33fdcf3b94a35b4/examples/crosssection/demo.png"><img src="https://raw.githubusercontent.com/kondasviktor/vcl-ai-image-prompts/695e086fc3043c0ca39f1ad2b33fdcf3b94a35b4/examples/crosssection/demo.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-Create a technical cross-section of a small industrial electric motor. One vertical cutting plane through the axis. Show stator, rotor, windings, shaft, bearings, housing. Cut face in true materials; uncut side remains intact. Neutral studio background, 16:9, sparse labels only if they stay readable. Not an exploded view. Not a four-panel diagram.
-```
-
-By [Vibe Coder&\#39;s Life \(kondasviktor\)](https://github.com/kondasviktor/vcl-ai-image-prompts/blob/695e086fc3043c0ca39f1ad2b33fdcf3b94a35b4/recipes/crosssection.md) · [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) · Prompt line breaks flattened
-
----
-
 <a id="vcl-explodedview"></a>
 
 ## Explodedview — Apple MacBook
@@ -179,22 +163,6 @@ Create a clean infographic: How HTTPS works, for developers. Four or five steps 
 ```
 
 By [Vibe Coder&\#39;s Life \(kondasviktor\)](https://github.com/kondasviktor/vcl-ai-image-prompts/blob/695e086fc3043c0ca39f1ad2b33fdcf3b94a35b4/recipes/infographic.md) · [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) · Prompt line breaks flattened
-
----
-
-<a id="vcl-xray"></a>
-
-## Xray — mechanical keyboard
-
-<a href="https://raw.githubusercontent.com/kondasviktor/vcl-ai-image-prompts/695e086fc3043c0ca39f1ad2b33fdcf3b94a35b4/examples/xray/demo.png"><img src="https://raw.githubusercontent.com/kondasviktor/vcl-ai-image-prompts/695e086fc3043c0ca39f1ad2b33fdcf3b94a35b4/examples/xray/demo.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-Create a detailed X-ray visualization of a modern mechanical keyboard. Show: - switches - PCB - stabilizers - plate - USB controller - wiring - case construction Semi-transparent outer shell. Clean technical visualization. Dark neutral background. No unnecessary text. 16:9.
-```
-
-By [Vibe Coder&\#39;s Life \(kondasviktor\)](https://github.com/kondasviktor/vcl-ai-image-prompts/blob/695e086fc3043c0ca39f1ad2b33fdcf3b94a35b4/recipes/xray.md) · [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) · Prompt line breaks flattened
 
 ---
 

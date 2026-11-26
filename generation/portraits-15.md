@@ -102,22 +102,6 @@ Ultra-realistic female Spider-Woman, full-body view, photorealistic 8K rendering
 
 ---
 
-<a id="prompthero-38b4efc8259"></a>
-
-## a lo-fi 2010s-era, diagonally taken, low-quality i\.\.\.
-
-<a href="https://cdn.prompthero.com/lp25jtfiq78p027qcud845bwcv-hero-10-a-lo-fi-2010s-era-diagonally-taken-low-quality-iphone-photo-of-baddie-the-shot-is-imperfect-grainy-off-center.jpeg"><img src="https://cdn.prompthero.com/lp25jtfiq78p027qcud845bwcv-hero-10-a-lo-fi-2010s-era-diagonally-taken-low-quality-iphone-photo-of-baddie-the-shot-is-imperfect-grainy-off-center.jpeg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-a lo-fi 2010s-era, diagonally taken, low-quality iPhone photo of baddie. The shot is imperfect — grainy, off-center, motion-blurred, and raw. The lighting is uneven and yellowish, like a flash bounced off a mirror or cheap LED strip. She’s captured head-to-hip, wearing a cropped hoodie and low-rise jeans with a rhinestone belt and tanga peeking, a tiny purse hanging off her shoulder. Her long dark hair partially covers her face as she moves mid-pose, expression unreadable.
-```
-
-[Source](https://prompthero.com/prompt/38b4efc8259-hero-10-a-lo-fi-2010s-era-diagonally-taken-low-quality-iphone-photo-of-baddie-the-shot-is-imperfect-grainy-off-center)
-
----
-
 <a id="prompthero-40c9b0be018"></a>
 
 ## acid lighting, from below, hyperdetailed, hyper re\.\.\.
@@ -131,22 +115,6 @@ acid lighting, from below, hyperdetailed, hyper realistic, epic action full body
 ```
 
 [Source](https://prompthero.com/prompt/40c9b0be018-stable-diffusion-xl-base-09-bird-acid-lighting-from-below-hyperdetailed-hyper-realistic-epic-action-full-body-portrait-incredible-beautiful-of-firebird-girl-with-the-merger)
-
----
-
-<a id="prompthero-40f76d97dff"></a>
-
-## full shot, full-length portrait, wide field of vie\.\.\.
-
-<a href="https://cdn.prompthero.com/u38guplsu7t10bsucuej0x3qtegw-midjourney-61-full-shot-full-length-portrait-wide-field-of-view-centered-showing-entire-body-award-winning-cinematography-award-winning-photography-of.png"><img src="https://cdn.prompthero.com/u38guplsu7t10bsucuej0x3qtegw-midjourney-61-full-shot-full-length-portrait-wide-field-of-view-centered-showing-entire-body-award-winning-cinematography-award-winning-photography-of.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-full shot, full-length portrait, wide field of view, centered, showing entire body, award-winning cinematography, award-winning photography of an athletic, handsome, and masculine cuban man, standing, very hairy chest, abs, fit, asymmetrical eyes, showing off his legs, posing for the camera in a photo-realistic style Photo of an extremely handsome, tall, man, is in a standing pose. He has a beard stubble, a masculine and athletic build, strong shoulders, a hairy chest, and solid muscle definition, including visible abs. --chaos 35 --v 6.1
-```
-
-By [@Dallas59](https://prompthero.com/prompt/40f76d97dff-midjourney-61-full-shot-full-length-portrait-wide-field-of-view-centered-showing-entire-body-award-winning-cinematography-award-winning-photography-of)
 
 ---
 
@@ -323,6 +291,38 @@ black and white photography in style by Bruce Davidson, fashion editorial, dark 
 ```
 
 [Source](https://prompthero.com/prompt/50be690a936-stable-diffusion-2-base-black-and-white-photography-in-style-by-bruce-davidson-fashion-editorial-dark-haired-woman-of-long-exposure-photography-through-artistic)
+
+---
+
+<a id="prompthero-52a4a35de7c"></a>
+
+## The Empty Loop - Main character 1
+
+<a href="https://cdn.prompthero.com/or7jrlcky29oh6xian2wx44archy-flux-dev-the-empty-loop-main-character-1.png"><img src="https://cdn.prompthero.com/or7jrlcky29oh6xian2wx44archy-flux-dev-the-empty-loop-main-character-1.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+Full-body portrait of a futuristic woman with a retro hacker aesthetic. She has a melancholic and slightly depressed expression, yet her beauty and confidence are undeniable. Her outfit reflects the style of a high-fashion enthusiast, blending futuristic materials like metallics and neon accents with retro elements like oversized jackets, geometric patterns, or cyberpunk-inspired details. She has a fit and well-proportioned physique. Her hair is short, straight, and cut just above the shoulders, with a sleek and modern style. The background is a plain gray, allowing her unique style and aura to stand out. Add subtle lighting to emphasize her features and outfit without overwhelming the scene.
+```
+
+[Source](https://prompthero.com/prompt/52a4a35de7c-flux-dev-the-empty-loop-main-character-1)
+
+---
+
+<a id="prompthero-52b0fe0270a"></a>
+
+## A young Caucasian woman with striking makeup and b\.\.\.
+
+<a href="https://cdn.prompthero.com/vq95mdq6nh5rvisez4ghknrm3p-a-young-caucasian-woman-with-striking-makeup-and-black-hair-styled-with-a-pink-and-black-polka-dot-bow-and.png"><img src="https://cdn.prompthero.com/vq95mdq6nh5rvisez4ghknrm3p-a-young-caucasian-woman-with-striking-makeup-and-black-hair-styled-with-a-pink-and-black-polka-dot-bow-and.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+A young Caucasian woman with striking makeup and black hair, styled with a pink and black polka dot bow and large black mouse ears, sits in a vintage leather armchair. She is wearing an off-the-shoulder, long-sleeved crop top and high-waisted, form-fitting pants, both featuring a bold black and hot pink stripe pattern. A studded choker and a chain belt with ring details complete her edgy ensemble. Her expression is intense, with dark, smoky eyeshadow, dramatic eyeliner, and glossy black lipstick, looking directly at the viewer. She is seated in a three-quarter pose, with her left leg crossed over her right, her body leaning back into the chair. The setting appears to be an indoor, dimly lit space with a textured, muted background. The lighting casts shadows, highlighting her features and the sheen of her clothing, creating a dramatic and slightly provocative atmosphere. The perspective is medium shot, focusing on the woman and her bold fashion statement.
+```
+
+[Source](https://prompthero.com/prompt/52b0fe0270a-a-young-caucasian-woman-with-striking-makeup-and-black-hair-styled-with-a-pink-and-black-polka-dot-bow-and)
 
 ---
 

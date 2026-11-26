@@ -214,22 +214,6 @@ high resolution photography interior design, dreamy sunken living room conversat
 
 ---
 
-<a id="prompthero-2163382f1ab"></a>
-
-## photography, minimalist kitchen,front, sleek, matt\.\.\.
-
-<a href="https://cdn.prompthero.com/jpd3leqsbaph8qs23u2dyshyfhqw-midjourney-6-photography-minimalist-kitchenfront-sleek-matte-coral-finish-clean-modern-silver-faucet-integrated-high-end-appliances-maintaining-the-streamlined-look-the.png"><img src="https://cdn.prompthero.com/jpd3leqsbaph8qs23u2dyshyfhqw-midjourney-6-photography-minimalist-kitchenfront-sleek-matte-coral-finish-clean-modern-silver-faucet-integrated-high-end-appliances-maintaining-the-streamlined-look-the.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-photography, minimalist kitchen,front, sleek, matte coral finish, clean, modern silver faucet, integrated high-end appliances, maintaining the streamlined look, the flooring is matte warm grey tile laid , adding cool and texture to the space, recessed lighting in the ceiling casts even, simple ceiling, soft light across the kitchen, highlighting the smooth surfaces and clean lines, UHD --ar 9:16
-```
-
-By [@Grayve](https://prompthero.com/prompt/2163382f1ab-midjourney-6-photography-minimalist-kitchenfront-sleek-matte-coral-finish-clean-modern-silver-faucet-integrated-high-end-appliances-maintaining-the-streamlined-look-the)
-
----
-
 <a id="prompthero-68328549fa2"></a>
 
 ## Home office interior
@@ -323,6 +307,22 @@ photorealistic, perspective view, minimalist co-working space, bright finished a
 ```
 
 By [@Grayve](https://prompthero.com/prompt/d2132428ab6-midjourney-6-more-info-wwwgraytheorystudiocom-admingraytheorystudiocom-wwwpromptbasecomprofilespacemakergrayve-wwwinstagramcomspacemakergrayve-photorealistic-perspective-view-minimalist-co-working-space-bright-finished-and-embient-elaborate-vertical-horizontality-minimalism-lighting-4500k-indirect-light-and)
+
+---
+
+<a id="prompthero-dc660565919"></a>
+
+## create a photorealistic image showcasing the timel\.\.\.
+
+<a href="https://cdn.prompthero.com/356yof4xz0hek9xcclpxdujn0vii-midjourney-6-create-a-photorealistic-image-showcasing-the-timeless-elegance-of-the-wegner-wishbone-chair-use-a-leica-q2-with-a-fixed.png"><img src="https://cdn.prompthero.com/356yof4xz0hek9xcclpxdujn0vii-midjourney-6-create-a-photorealistic-image-showcasing-the-timeless-elegance-of-the-wegner-wishbone-chair-use-a-leica-q2-with-a-fixed.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+create a photorealistic image showcasing the timeless elegance of the wegner wishbone chair, Use a Leica Q2 with a fixed Summilux 28mm f/1.7 lens to capture the chair's iconic Y-back design and the natural wood finish., position the chair in a well-lit studio with a minimalist aesthetic, allowing the morning light to accentuate its curves and shadows, backdrop should be a subtle beige to complement the chair's warm tones, 32K UHD resolution with many details, ensuring the image communicates the chair's status as a beloved staple of modern interior design --ar 9:16 --stylize 650
+```
+
+By [@Grayve](https://prompthero.com/prompt/dc660565919-midjourney-6-create-a-photorealistic-image-showcasing-the-timeless-elegance-of-the-wegner-wishbone-chair-use-a-leica-q2-with-a-fixed)
 
 ---
 

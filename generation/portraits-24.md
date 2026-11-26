@@ -6,70 +6,6 @@
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
-<a id="prompthero-208973422ad"></a>
-
-## Vivacious and Free-Spirited
-
-<a href="https://cdn.prompthero.com/s0uu74ipnzd5ir53t3rpi9fdqxh8-stable-diffusion-xl-base-09-vivacious-and-free-spirited.jpg"><img src="https://cdn.prompthero.com/s0uu74ipnzd5ir53t3rpi9fdqxh8-stable-diffusion-xl-base-09-vivacious-and-free-spirited.jpg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-(masterpiece, best quality), a beautiful 20 yr old woman wearing a black hoodie and sexy black jeans shorts with a backpack, curvy body, long blonde hair, walking in the street, city lights, soothing tones, muted colors, high contrast, natural skin texture, soft light
-```
-
-By [@abyishot](https://prompthero.com/prompt/208973422ad-stable-diffusion-xl-base-09-vivacious-and-free-spirited)
-
----
-
-<a id="prompthero-366392108e6"></a>
-
-## \{ &quot;scene&quot;: &quot;Parallel black slits over a blue por\.\.\.
-
-<a href="https://cdn.prompthero.com/myhfa8rka75k9vr7w5jsduanv9-orangechillmix-v50-scene-parallel-black-slits-over-a-blue-portrait-halftone-create-a-hidden-face-that-appears-only-from-one-viewing-angle.png"><img src="https://cdn.prompthero.com/myhfa8rka75k9vr7w5jsduanv9-orangechillmix-v50-scene-parallel-black-slits-over-a-blue-portrait-halftone-create-a-hidden-face-that-appears-only-from-one-viewing-angle.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-{ "scene": "Parallel black slits over a blue portrait halftone create a hidden face that appears only from one viewing angle.", "subjects": [ { "type": "Slit mask over halftone", "description": "Fine vertical slits and a cyan dot portrait perfectly phased", "position": "Face center on right third", "pose": "Planar overlay", "expression": "Quiet apparition", "interaction": "Face vanishes if the viewpoint shifts" } ], "style": "Print realism with gallery mount", "color_palette": ["black", "cyan", "ivory"], "lighting": {"type":"Even gallery light","direction":"Front","intensity":"Medium","color_temperature":"Neutral"}, "composition": {"framing":"Rule of thirds with golden spiral sweep from left to face","perspective":"Planar","focus":"Global sharp"}, "atmosphere": {"mood":"Subtle surprise","time_of_day":"N A","weather":"N A"}, "camera":"Fuji GFX","lens":"One hundred ten millimeter", "settings":{"ISO":"200","shutter_speed":"1/125s","aperture":"f 9"}, "post_processing":{"film_look":"Neutral","color_grading":"Cool cyan lift","effects":["paper texture","micro contrast on slits"]} }
-```
-
-[Source](https://prompthero.com/prompt/366392108e6-orangechillmix-v50-scene-parallel-black-slits-over-a-blue-portrait-halftone-create-a-hidden-face-that-appears-only-from-one-viewing-angle)
-
----
-
-<a id="prompthero-509832595d6"></a>
-
-## Barbie space tech
-
-<a href="https://cdn.prompthero.com/esmv240g49cm5t1bcnppk5o341gd-midjourney-52-barbie-space-tech.png"><img src="https://cdn.prompthero.com/esmv240g49cm5t1bcnppk5o341gd-midjourney-52-barbie-space-tech.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-a person in a metal suit with a chain, in the style of gum bichromate, camilla d'errico, light bronze and pink, disfigured forms, webcam photography, religious subjects, donna huanca --ar 70:87 --s 1000 --c 100 --w 1000 --v 5.2 --style raw
-```
-
-By [@jefharris](https://prompthero.com/prompt/509832595d6-midjourney-52-barbie-space-tech)
-
----
-
-<a id="prompthero-882755561fe"></a>
-
-## \{ &quot;subject&quot;: \{ &quot;type&quot;: &quot;portrait&quot;, &quot;g\.\.\.
-
-<a href="https://cdn.prompthero.com/v1_e9c2dea3f4c3fabda46b0ac9ea-chatgpt-image-gpt-image-2-subject-type-portrait-gender-female-age-young-adult-ethnicity-ambiguous-european-skintone-fair-porcelain-like-skintexture-smooth-and-flawless-with.jpeg"><img src="https://cdn.prompthero.com/v1_e9c2dea3f4c3fabda46b0ac9ea-chatgpt-image-gpt-image-2-subject-type-portrait-gender-female-age-young-adult-ethnicity-ambiguous-european-skintone-fair-porcelain-like-skintexture-smooth-and-flawless-with.jpeg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-{ "subject": { "type": "portrait", "gender": "female", "age": "young adult", "ethnicity": "ambiguous European", "skin_tone": "fair, porcelain-like", "skin_texture": "smooth and flawless, with matte finish", "facial_features": { "eyes": { "color": "light blue with aqua tones", "shape": "almond-shaped", "makeup": { "eyeshadow": "gold shimmer with inner-corner highlight", "eyeliner": "black, fine, enhancing lash line", "lashes": "long, voluminous, curled" } }, "eyebrows": { "shape": "full and straight with natural arch", "color": "medium brown" }, "lips": { "shape": "full and symmetrical", "color": "soft peach with a glossy finish" }, "nose": "small and straight", "cheekbones": "high and softly contoured" }, "hair": { "style": "tucked under hat, hidden from view", "color": "light brown or blonde (not visible)" }, "accessories": [ { "type": "earrings", "style": "diamond stud with halo setting", "size": "small to medium" }, { "type": "hat", "style": "wide-brim fashion hat", "color": "bright yellow" } ] }, "clothing": { "type": "high-collared garment", "color": "bright yellow", "style": "minimalist, smooth fabric" }, "pose": { "framing": "tight close-up, face centered", "expression": "neutral with slightly parted lips", "eye_contact": "direct to camera" }, "lighting": { "type": "soft, diffused", "direction": "frontal, even illumination", "effect": "enhances smoothness of skin and brightness of colors" }, "background": { "color": "soft pastel blue", "style": "solid, smooth", "depth_of_field": "shallow (sharp focus on subject)" }, "image_quality": { "style": "ultra-high resolution, fashion editorial", "focus": "sharp on eyes and facial features", "color_grade": "bright and clean" } }
-```
-
-[Source](https://prompthero.com/prompt/882755561fe-chatgpt-image-gpt-image-2-subject-type-portrait-gender-female-age-young-adult-ethnicity-ambiguous-european-skintone-fair-porcelain-like-skintexture-smooth-and-flawless-with)
-
----
-
 <a id="prompthero-35859341517"></a>
 
 ## hot blond hair girl, looking at viewer, portrait, \.\.\.
@@ -323,6 +259,70 @@ hair photography, woman, bob cut hair, silver color, ivory hue background, studi
 ```
 
 By [@Grayve](https://prompthero.com/prompt/a435c81716f-midjourney-61-female-hair-photogrphy)
+
+---
+
+<a id="prompthero-a922b85fb95"></a>
+
+## an extremely detailed digital illustration, high r\.\.\.
+
+<a href="https://cdn.prompthero.com/dwze1dc4jz3fpyc53e4btwaln2xz-rev-animated-v10-an-extremely-detailed-digital-illustration-high-resolution-masterpiece-of-chr1st1nar1cc1-as-wednesday-addams-black-hair-twin-braids12-cowboy-shot-long.jpeg"><img src="https://cdn.prompthero.com/dwze1dc4jz3fpyc53e4btwaln2xz-rev-animated-v10-an-extremely-detailed-digital-illustration-high-resolution-masterpiece-of-chr1st1nar1cc1-as-wednesday-addams-black-hair-twin-braids12-cowboy-shot-long.jpeg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+an extremely detailed digital illustration, high resolution, masterpiece, (of Chr1st1naR1cc1 as Wednesday Addams), black hair, (twin braids:1.2),   cowboy shot, long hair, looking at viewer, (black onepiece with white polka dots, with white collar),  bangs, black eyes, short sword, grumpy face, glaring,  from above, front view, at night, dark ambient lighting, , <lora:Chr1st1naR1cc1v11:0.75>, <lora:Wednesday Addams:0.25>wednesday addams, lightning <lora:add_detail:0.5>
+```
+
+By [@heeyrina](https://prompthero.com/prompt/a922b85fb95-rev-animated-v10-an-extremely-detailed-digital-illustration-high-resolution-masterpiece-of-chr1st1nar1cc1-as-wednesday-addams-black-hair-twin-braids12-cowboy-shot-long)
+
+---
+
+<a id="prompthero-a7607dc2d4e"></a>
+
+## Epic slow-motion scene of a young female superhero\.\.\.
+
+<a href="https://cdn.prompthero.com/01p4w2qphbvr9oq0jq2hgqy24766-flux-flux-11-pro-epic-slow-motion-scene-of-a-young-female-superhero-inspired-by-wonder-woman-leaping-from-a-cliff-into-a-stormy.jpg"><img src="https://cdn.prompthero.com/01p4w2qphbvr9oq0jq2hgqy24766-flux-flux-11-pro-epic-slow-motion-scene-of-a-young-female-superhero-inspired-by-wonder-woman-leaping-from-a-cliff-into-a-stormy.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+Epic slow-motion scene of a young female superhero inspired by Wonder Woman leaping from a cliff into a stormy battlefield. Dark clouds swirl above, lit by dramatic flashes of lightning. The camera follows her from below as she soars through the sky, her cape flowing and armor gleaming. Her shield is locked to her arm, and her eyes glow with intensity. Upon landing, she creates a shockwave that cracks the earth, sending dust and energy outward. The enemy forces recoil in fear. The environment is cinematic, stormy, and full of dramatic lighting. Ultra-realistic visuals with high-quality animation.
+```
+
+[Source](https://prompthero.com/prompt/a7607dc2d4e-flux-flux-11-pro-epic-slow-motion-scene-of-a-young-female-superhero-inspired-by-wonder-woman-leaping-from-a-cliff-into-a-stormy)
+
+---
+
+<a id="prompthero-a28931d3c32"></a>
+
+## a realistic photo of a \[very pretty 26 year old wo\.\.\.
+
+<a href="https://cdn.prompthero.com/npfxd68hcj8f2msclywjmztgq7kz-midjourney-6-a-realistic-photo-of-a-very-pretty-26-year-old-woman-with-long-wavy-dark-hair-looks-like-dakota-johnson.png"><img src="https://cdn.prompthero.com/npfxd68hcj8f2msclywjmztgq7kz-midjourney-6-a-realistic-photo-of-a-very-pretty-26-year-old-woman-with-long-wavy-dark-hair-looks-like-dakota-johnson.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+a realistic photo of a [very pretty 26 year old woman], with [long, wavy, dark hair], looks like [Dakota Johnson] and [Felicity Jones], wearing [thick nerd glasses], light makeup, looking [innocent, cute, flushed], [light] skin --ar 9:16 --stylize 750 --v 6
+```
+
+[Source](https://prompthero.com/prompt/a28931d3c32-midjourney-6-a-realistic-photo-of-a-very-pretty-26-year-old-woman-with-long-wavy-dark-hair-looks-like-dakota-johnson)
+
+---
+
+<a id="prompthero-a912514fefc"></a>
+
+## A beautiful woman seductively posing by a large wi\.\.\.
+
+<a href="https://cdn.prompthero.com/oor8wf676o2abuv32lxzzy1lndql-stable-diffusion-xl-base-09-tanya-tanya-a-brilliant-actress-with-a-gift-for-daring-roles-that-set-the-screen-ablaze-often-found-herself-caught-in-a-beautiful-woman-seductively-posing-by-a-large-window-wearing-a-sweatshirt-and-underwear-only-daring-photography-minimal-lighting-shadows.jpg"><img src="https://cdn.prompthero.com/oor8wf676o2abuv32lxzzy1lndql-stable-diffusion-xl-base-09-tanya-tanya-a-brilliant-actress-with-a-gift-for-daring-roles-that-set-the-screen-ablaze-often-found-herself-caught-in-a-beautiful-woman-seductively-posing-by-a-large-window-wearing-a-sweatshirt-and-underwear-only-daring-photography-minimal-lighting-shadows.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+A beautiful woman seductively posing by a large window, wearing a sweatshirt and underwear only, daring photography, minimal lighting, shadows, film grain
+```
+
+By [@abyishot](https://prompthero.com/prompt/a912514fefc-stable-diffusion-xl-base-09-tanya-tanya-a-brilliant-actress-with-a-gift-for-daring-roles-that-set-the-screen-ablaze-often-found-herself-caught-in-a-beautiful-woman-seductively-posing-by-a-large-window-wearing-a-sweatshirt-and-underwear-only-daring-photography-minimal-lighting-shadows)
 
 ---
 

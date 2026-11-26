@@ -6,38 +6,6 @@
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
-<a id="prompthero-122ae4fe279"></a>
-
-## Close-up photograph of a 20-year-old woman, \(highl\.\.\.
-
-<a href="https://cdn.prompthero.com/dkx67hge5lq7uj4zaqebs7y8gg9e-stable-diffusion-15-daine-daine-is-a-captivating-mix-south-american-lady-from-venezuela-who-embodies-the-spirit-of-the-outdoors-despite-her-stunning-close-up-photograph-of-a-20-year-old-woman-highly-detailed-face14-smile07-dark-background13-loraepinoiseoffsetv212-nikon-d850-nikon-af.jpg"><img src="https://cdn.prompthero.com/dkx67hge5lq7uj4zaqebs7y8gg9e-stable-diffusion-15-daine-daine-is-a-captivating-mix-south-american-lady-from-venezuela-who-embodies-the-spirit-of-the-outdoors-despite-her-stunning-close-up-photograph-of-a-20-year-old-woman-highly-detailed-face14-smile07-dark-background13-loraepinoiseoffsetv212-nikon-d850-nikon-af.jpg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-Close-up photograph of a 20-year-old woman, (highly detailed face:1.4) (smile:0.7) (dark background:1.3) <lora:epiNoiseoffset_v2:1.2>, Nikon D850, Nikon AF-S 85mm f/1.4G lens, 8k,hyper-realistic, lifelike texture, dramatic lighting
-```
-
-By [@abyishot](https://prompthero.com/prompt/122ae4fe279-stable-diffusion-15-daine-daine-is-a-captivating-mix-south-american-lady-from-venezuela-who-embodies-the-spirit-of-the-outdoors-despite-her-stunning-close-up-photograph-of-a-20-year-old-woman-highly-detailed-face14-smile07-dark-background13-loraepinoiseoffsetv212-nikon-d850-nikon-af)
-
----
-
-<a id="prompthero-133b79e0a2e"></a>
-
-## A photo of an eccentric black woman sitting on top\.\.\.
-
-<a href="https://cdn.prompthero.com/iv66va5ki020f5b0tsbh63wop6up-flux-flux-11-pro-a-photo-of-an-eccentric-black-woman-sitting-on-top-of-white-fluffy-clouds-wearing-big-sunglasses-and-a-designer.jpg"><img src="https://cdn.prompthero.com/iv66va5ki020f5b0tsbh63wop6up-flux-flux-11-pro-a-photo-of-an-eccentric-black-woman-sitting-on-top-of-white-fluffy-clouds-wearing-big-sunglasses-and-a-designer.jpg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-A photo of an eccentric black woman sitting on top of white fluffy clouds wearing big sunglasses and a designer dress from Givenchy  with the Givenchy logo on dress, she has severe blond bob hairstyle, the background is baby blue sky with white cloud formations, shot by Jimmy Marble, muted earthy colors, soft tones
-```
-
-[Source](https://prompthero.com/prompt/133b79e0a2e-flux-flux-11-pro-a-photo-of-an-eccentric-black-woman-sitting-on-top-of-white-fluffy-clouds-wearing-big-sunglasses-and-a-designer)
-
----
-
 <a id="prompthero-153e921b278"></a>
 
 ## A stunning portrait of a woman, art nouveau style,\.\.\.
@@ -323,6 +291,38 @@ By [@NorthmoorAI](https://prompthero.com/prompt/0463c341d05-midjourney-6-disha-p
 ```
 
 [Source](https://prompthero.com/prompt/486ddea5768-flux-flux-11-pro-ultra-a-professional-high-fashion-photograph-of-a-lithe-female-model-early-20s-with-platinum-blonde-hair-and-striking-blue-silver)
+
+---
+
+<a id="prompthero-490cf31d4d1"></a>
+
+## &quot;A close-up portrait of a young woman with glowing\.\.\.
+
+<a href="https://cdn.prompthero.com/l48hvahc7439vteu430plu3t2k7p-stable-diffusion-xl-base-09-all-my-works-use-advanced-process-ie-comfyui-baseline-model-juggernautxlv5-refiner-model-sdxl-1009safetensors-workflow-seargesdxl43-prompt-generator-llama2-a-close-up-portrait-of-a-young-woman-with-glowing-skin-and-full-lips-she-should-have-large-expressive-golden.png"><img src="https://cdn.prompthero.com/l48hvahc7439vteu430plu3t2k7p-stable-diffusion-xl-base-09-all-my-works-use-advanced-process-ie-comfyui-baseline-model-juggernautxlv5-refiner-model-sdxl-1009safetensors-workflow-seargesdxl43-prompt-generator-llama2-a-close-up-portrait-of-a-young-woman-with-glowing-skin-and-full-lips-she-should-have-large-expressive-golden.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+"A close-up portrait of a young woman with glowing skin and full lips. She should have large, expressive golden-brown eyes and well-defined eyebrows, giving her a serene and engaging expression. The woman's face is partially framed by a textured blue scarf or shawl, which adds a touch of elegance. The lighting should be soft and dramatic, emphasizing her facial features and the fabric's texture. The background is to be out of focus to keep the attention on her."
+```
+
+By [@JBlack16062205](https://prompthero.com/prompt/490cf31d4d1-stable-diffusion-xl-base-09-all-my-works-use-advanced-process-ie-comfyui-baseline-model-juggernautxlv5-refiner-model-sdxl-1009safetensors-workflow-seargesdxl43-prompt-generator-llama2-a-close-up-portrait-of-a-young-woman-with-glowing-skin-and-full-lips-she-should-have-large-expressive-golden)
+
+---
+
+<a id="prompthero-508a0fd8008"></a>
+
+## Turkish muslim women
+
+<a href="https://cdn.prompthero.com/pthfnsi1et1dz2lsyj8kd6nd526e-dreamshaper-5-inpainting-turkish-muslim-women.jpg"><img src="https://cdn.prompthero.com/pthfnsi1et1dz2lsyj8kd6nd526e-dreamshaper-5-inpainting-turkish-muslim-women.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+Create a realistic style portrait of a gorgeous Turkish muslim women wearing pink color hijab , gorgeous face, cute pink lips , romantic eyes , beautiful eyes , full head portrait image , unzoom , 8k quality, high definition, depth field, clear focus, natural lighting
+```
+
+[Source](https://prompthero.com/prompt/508a0fd8008-dreamshaper-5-inpainting-turkish-muslim-women)
 
 ---
 

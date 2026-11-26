@@ -294,22 +294,6 @@ By [@iamaiistudio](https://x.com/iamaiistudio/status/2071923809788285125)
 
 ---
 
-<a id="prompthero-7ee3e9f9ac7"></a>
-
-## A minimalist design of the word &quot;PROMPTHERO&quot; forme\.\.\.
-
-<a href="https://cdn.prompthero.com/ovfy1m3snqw4a4wn1wojjaetnik0-ideogram-2-a-minimalist-design-of-the-word-prompthero-formed-by-a-single-piece-of-red-rope-against-a-white-background-the.png"><img src="https://cdn.prompthero.com/ovfy1m3snqw4a4wn1wojjaetnik0-ideogram-2-a-minimalist-design-of-the-word-prompthero-formed-by-a-single-piece-of-red-rope-against-a-white-background-the.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-A minimalist design of the word "PROMPTHERO" formed by a single piece of red rope against a white background. The rope twists and bends intricately to create the letterforms without breaks. The negative space within the loops helps define the letters. The design symbolizes connection and strength. The composition is simple yet detailed. The overall aesthetic is elegant, meaningful, and creatively brilliant, offering a unique interpretation of love through the art of knots.
-```
-
-By [@chorlo](https://prompthero.com/prompt/7ee3e9f9ac7-ideogram-2-a-minimalist-design-of-the-word-prompthero-formed-by-a-single-piece-of-red-rope-against-a-white-background-the)
-
----
-
 <a id="prompthero-20e7743dd91"></a>
 
 ## An icon design, 3D, transportation icon, bicycles,\.\.\.
@@ -323,6 +307,22 @@ An icon design, 3D, transportation icon, bicycles, soft light, nostalgic feeling
 ```
 
 [Source](https://prompthero.com/prompt/20e7743dd91-midjourney-niji-mode-an-icon-design-3d-transportation-icon-bicycles-soft-light-nostalgic-feeling-pastel-colors-vintage-colors-muted-colors-classic-jerry-pinkney)
+
+---
+
+<a id="prompthero-34bcc4b30db"></a>
+
+## A 3D metallic chrome text logo that says &quot;GHASEM&quot;,\.\.\.
+
+<a href="https://cdn.prompthero.com/v1_70077717c351c120d783bed138-hero-10-a-3d-metallic-chrome-text-logo-that-says-ghasem-designed-in-a-fluid-molten-style-with-reflective-golden-orange-surfaces.jpg"><img src="https://cdn.prompthero.com/v1_70077717c351c120d783bed138-hero-10-a-3d-metallic-chrome-text-logo-that-says-ghasem-designed-in-a-fluid-molten-style-with-reflective-golden-orange-surfaces.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+A 3D metallic chrome text logo that says "GHASEM", designed in a fluid, molten style with reflective golden-orange surfaces. The letters have a glossy, liquid metal appearance with highlights and shiny edges. Background is a smooth gradient transitioning from deep black at the top to vibrant orange at the bottom, creating contrast and depth. Ultra-detailed reflections, glowing metallic texture, modern graphic design, bold futuristic typography.
+```
+
+[Source](https://prompthero.com/prompt/34bcc4b30db-hero-10-a-3d-metallic-chrome-text-logo-that-says-ghasem-designed-in-a-fluid-molten-style-with-reflective-golden-orange-surfaces)
 
 ---
 

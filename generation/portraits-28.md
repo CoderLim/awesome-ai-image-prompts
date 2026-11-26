@@ -6,70 +6,6 @@
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
-<a id="prompthero-befbe31a639"></a>
-
-## https://s\.mj\.run/VnhTCG9d4Mc a black background wi\.\.\.
-
-<a href="https://cdn.prompthero.com/olirhnm6bm469farnfolqu5sm4ww-midjourney-6-httpssmjrunvnhtcg9d4mc-a-black-background-with-a-woman-with-opalescent-hair-in-the-style-of-trippy-photography-fluid-expressionism-distorted-bodies.png"><img src="https://cdn.prompthero.com/olirhnm6bm469farnfolqu5sm4ww-midjourney-6-httpssmjrunvnhtcg9d4mc-a-black-background-with-a-woman-with-opalescent-hair-in-the-style-of-trippy-photography-fluid-expressionism-distorted-bodies.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-https://s.mj.run/VnhTCG9d4Mc a black background with a woman with opalescent hair, in the style of trippy photography, fluid expressionism, distorted bodies, detailed facial features, dark white and light cyan, ghostcore, glowing pastels --s 750 --ar 14:25 --v 6.0
-```
-
-[Source](https://prompthero.com/prompt/befbe31a639-midjourney-6-httpssmjrunvnhtcg9d4mc-a-black-background-with-a-woman-with-opalescent-hair-in-the-style-of-trippy-photography-fluid-expressionism-distorted-bodies)
-
----
-
-<a id="prompthero-bf749cb17c5"></a>
-
-## Create a striking, realistic illustration for a me\.\.\.
-
-<a href="https://cdn.prompthero.com/l0eiq4jo84kjk2b4snosn14rwcw6-flux-flux-11-pro-create-a-striking-realistic-illustration-for-a-mens-phone-case-featuring-an-australian-man-with-his-dog-the-character-should.png"><img src="https://cdn.prompthero.com/l0eiq4jo84kjk2b4snosn14rwcw6-flux-flux-11-pro-create-a-striking-realistic-illustration-for-a-mens-phone-case-featuring-an-australian-man-with-his-dog-the-character-should.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-Create a striking, realistic illustration for a men's phone case, featuring an Australian man with his dog. The character should embody the rugged, adventurous spirit of Australia, showcasing a sense of strength, loyalty, and connection to the outdoors. All elements should reflect the man's personality and his bond with his dog, with a focus on realism and detail. Character Description: Australian Man: The man is in his late 20s to early 30s, with a strong, athletic build. His skin is sun-kissed and weathered from outdoor adventures. His face is rugged, with a strong jawline, light stubble, and piercing blue eyes that exude confidence and warmth. His hair is short and messy, slightly tousled by the wind, with natural brown highlights. His expression should be one of calm strength, a slight smile or smirk on his lips, and his posture should convey ease and readiness for any challenge. Outfit: He is wearing a casual, practical outfit for outdoor activities: an olive-green, short-sleeve shirt with sleeves rolled up to expose his muscular forearms. His khaki cargo shorts are weathered, indicating regular use, with small rips or dirt marks that show his active lifestyle. His sturdy boots, worn but reliable, are perfect for hiking, and a brown leather belt holds a multi-tool and a flashlight, signaling his preparedness for adventure. Pose: The man is standing tall and relaxed, one hand gently resting on the back of his dog, showcasing the deep bond between them. His other hand hangs by his side or slightly raised as if ready for action. His posture is confident yet approachable, giving off an aura of strength and security. Dog Description: Australian Kelpie: The dog is an Australian Kelpie, sleek and agile, with a glossy black and tan coat that shines under natural light. Its ears are upright, and its eyes are bright and alert, filled with intelligence and loyalty. The Kelpie should stand at the man’s side, slightly leaning towards him, with its tail slightly raised in excitement or alertness. Its athletic build and energetic stance emphasize the dog’s agility, complementing the man’s ruggedness. Background: The background should remain minimalistic with a pure white color to ensure the focus is on the character and the dog. A subtle hint of the Australian outback or terrain could be incorporated in the background, like a blurred silhouette of the red earth, sparse trees, or distant mountains, but it should not overpower the characters. Lighting and Color Palette: Natural, warm lighting should illuminate the character and dog, enhancing their features. Use earthy tones like deep greens, browns, and sandy yellows to highlight the textures of the man’s clothing and the dog’s fur. The lighting should create soft shadows that emphasize the muscular build of the man and the sleekness of the dog’s coat. Tone and Appeal: The design should convey a sense of adventure, strength, and companionship. The man and his dog should appear as an inseparable team, ready to take on any challenge in the rugged Australian wilderness. The design should evoke feelings of loyalty, courage, and connection to nature, appealing to men who love adventure, the outdoors, and the Australian way of life. This detailed, realistic design will capture the attention of anyone who appreciates a strong, adventurous spirit paired with the loyalty of a canine companion. It is a perfect fit for a phone case, designed to stand out with its unique, rugged Australian vibe.
-```
-
-[Source](https://prompthero.com/prompt/bf749cb17c5-flux-flux-11-pro-create-a-striking-realistic-illustration-for-a-mens-phone-case-featuring-an-australian-man-with-his-dog-the-character-should)
-
----
-
-<a id="prompthero-c0cdf8ec0f7"></a>
-
-## woman wearing a cyberpunk style shiny black helmet\.\.\.
-
-<a href="https://cdn.prompthero.com/sgal4q2hrgf1b1dm7b7pmc48krrh-midjourney-6-woman-wearing-a-cyberpunk-style-shiny-black-helmet-with-robotic-features-the-reflection-on-her-face-is-made-of-glowing.png"><img src="https://cdn.prompthero.com/sgal4q2hrgf1b1dm7b7pmc48krrh-midjourney-6-woman-wearing-a-cyberpunk-style-shiny-black-helmet-with-robotic-features-the-reflection-on-her-face-is-made-of-glowing.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-woman wearing a cyberpunk style shiny black helmet with robotic features, the reflection on her face is made of glowing golden wires with intricate details, hyper realistic photography in the style of editorial pose, photorealistic, 8k, high render --v 6.0 --ar 9:16
-```
-
-[Source](https://prompthero.com/prompt/c0cdf8ec0f7-midjourney-6-woman-wearing-a-cyberpunk-style-shiny-black-helmet-with-robotic-features-the-reflection-on-her-face-is-made-of-glowing)
-
----
-
-<a id="prompthero-c0e78bf78ea"></a>
-
-## A teen girl in a futuristic cyber armor\.
-
-<a href="https://cdn.prompthero.com/0zrvcg0u3ntoj0k9jxevyr6xznhh-stable-diffusion-15-a-teen-girl-in-a-futuristic-cyber-armor.jpg"><img src="https://cdn.prompthero.com/0zrvcg0u3ntoj0k9jxevyr6xznhh-stable-diffusion-15-a-teen-girl-in-a-futuristic-cyber-armor.jpg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-8K, (masterpiece*high detailed*highres), (portrait shot), sharp focus, soft lighting, robotic skull, futuristic, cyber city in the background, <lora:3DMM_V11:0.8>
-```
-
-[Source](https://prompthero.com/prompt/c0e78bf78ea-stable-diffusion-15-a-teen-girl-in-a-futuristic-cyber-armor)
-
----
-
 <a id="prompthero-c0eeb7d5daa"></a>
 
 ## medium close-up photograph of a perky young woman \.\.\.
@@ -323,6 +259,70 @@ a woman's face in pop art style illustration, in the style of glamorous hollywoo
 ```
 
 By [@ArtEnthusiast](https://prompthero.com/prompt/c3336ef886a-stable-diffusion-xl-base-09-a-womans-face-in-pop-art-style-illustration-in-the-style-of-glamorous-hollywood-portraits-dark-gray-and-light-black)
+
+---
+
+<a id="prompthero-c7009d3595e"></a>
+
+## A woman in a pink sweater covers her eyes with o\.\.\.
+
+<a href="https://cdn.prompthero.com/chhn4ao5241gy5akjhrxoclo6jl1-flux-pro-a-woman-in-a-pink-sweater-covers-her-eyes-with-one-hand-stands-on-the-beach-as-waves-crash-against.jpg"><img src="https://cdn.prompthero.com/chhn4ao5241gy5akjhrxoclo6jl1-flux-pro-a-woman-in-a-pink-sweater-covers-her-eyes-with-one-hand-stands-on-the-beach-as-waves-crash-against.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+A woman in a pink sweater covers her eyes with one hand, stands on the beach as waves crash against the shore. The wind blows, causing her hair and to billow. The photo was taken from a distance, with a film grain effect and a 35mm film lens, in the style of Kodak Portra 400T. The ocean horizon is visible, and the pink shirt creates a motion blur. --ar 3:4 --v 6.1 --stylize 500 --personalize 53tzzks
+```
+
+By [@chorlo](https://prompthero.com/prompt/c7009d3595e-flux-pro-a-woman-in-a-pink-sweater-covers-her-eyes-with-one-hand-stands-on-the-beach-as-waves-crash-against)
+
+---
+
+<a id="prompthero-c50666c57b2"></a>
+
+## Foot Bow Archer
+
+<a href="https://cdn.prompthero.com/zwmflhhji52wgtf4nj5z7rfqi4lm-stable-diffusion-xl-base-09-foot-bow-archer.jpg"><img src="https://cdn.prompthero.com/zwmflhhji52wgtf4nj5z7rfqi4lm-stable-diffusion-xl-base-09-foot-bow-archer.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+professional athlete woman, fit, beautiful, slender, natural curves, attractive, dark red hair, ((foot-bow)), fully clothed, wearing athlete t-shirt, cozy ((pants)), flushed cheeks, warm sunny day, movement, motion, zoomed-out, suspended in the air, holding on to poles, 3d digital art, amazing wallpaper in 8k sharp focus, upscaling image art, ((full body character concept)), ((((amazing masterpiece digital art, hdr, uhd, depth of field, detailed background)))), ::: PERFECT HANDS, :::PERFECT ANOTOMY, :::PERFECT BODY, :::PERFECT SYMMETRY, ::: PERFECT FEET, ::: PERFECT FACE, ::: PERFECT POSE, ::: PERFECT BOW
+```
+
+By [@Atheist](https://prompthero.com/prompt/c50666c57b2-stable-diffusion-xl-base-09-foot-bow-archer)
+
+---
+
+<a id="prompthero-c50741d973f"></a>
+
+## the face of a woman with brown eyes the face of a \.\.\.
+
+<a href="https://cdn.prompthero.com/rmhui3lop7uqilke91aulwrae1jf-midjourney-52-the-face-of-a-woman-with-brown-eyes-the-face-of-a-person-in-the-style-of-yigal-ozeri-light.png"><img src="https://cdn.prompthero.com/rmhui3lop7uqilke91aulwrae1jf-midjourney-52-the-face-of-a-woman-with-brown-eyes-the-face-of-a-person-in-the-style-of-yigal-ozeri-light.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+the face of a woman with brown eyes the face of a person, in the style of yigal ozeri, light navy and light gray, patrick demarchelier, alayna lemmer, focus on joints/connections, caravaggism, studio light --ar 44:65 --stylize 750 --v 5.2
+```
+
+By [@NorthmoorAI](https://prompthero.com/prompt/c50741d973f-midjourney-52-the-face-of-a-woman-with-brown-eyes-the-face-of-a-person-in-the-style-of-yigal-ozeri-light)
+
+---
+
+<a id="prompthero-c60676db61a"></a>
+
+## Ultra-cinematic black-and-white portrait of a youn\.\.\.
+
+<a href="https://cdn.prompthero.com/v1_2b94acd9ac6c1ab51f156582bf-stable-diffusion-35-large-ultra-cinematic-black-and-white-portrait-of-a-young-man-standing-in-a-dark-minimalist-studio-wearing-a-long-black.jpeg"><img src="https://cdn.prompthero.com/v1_2b94acd9ac6c1ab51f156582bf-stable-diffusion-35-large-ultra-cinematic-black-and-white-portrait-of-a-young-man-standing-in-a-dark-minimalist-studio-wearing-a-long-black.jpeg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+Ultra-cinematic black-and-white portrait of a young man standing in a dark minimalist studio, wearing a long black wool overcoat and black knit sweater. Dramatic single spotlight from the upper left corner creates a strong diagonal beam of light across the background and partially illuminates the face. Subject positioned slightly off-center, looking away from the camera with a contemplative, melancholic expression. Sharp jawline, textured messy hair, subtle skin detail, high-fashion editorial styling. Deep shadows, high contrast monochrome photography, moody atmosphere, fine art portrait, luxury fashion campaign aesthetic, minimal composition, negative space, soft falloff lighting, volumetric light beam, chiaroscuro lighting inspired by classic cinema and modern fashion editorials. Professional studio photography, medium shot, 85mm lens, f/2.0, shallow depth of field, ultra-detailed facial features, realistic skin texture, cinematic tonal range, rich blacks, smooth grayscale transitions, premium magazine cover quality, dramatic mood, timeless elegance. Background completely dark except for the diagonal spotlight, subtle haze to enhance the light beam, clean composition, no distractions, no props, photorealistic, masterpiece quality, 8k resolution.
+```
+
+[Source](https://prompthero.com/prompt/c60676db61a-stable-diffusion-35-large-ultra-cinematic-black-and-white-portrait-of-a-young-man-standing-in-a-dark-minimalist-studio-wearing-a-long-black)
 
 ---
 

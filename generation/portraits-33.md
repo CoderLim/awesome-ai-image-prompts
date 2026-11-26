@@ -6,70 +6,6 @@
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
-<a id="prompthero-ee8f297f9ac"></a>
-
-## A highly detailed photorealistic digital illustrat\.\.\.
-
-<a href="https://cdn.prompthero.com/1st8cekbscppro0jd08ilho8o6qz-midjourney-6-a-highly-detailed-photorealistic-digital-illustration-of-a-roman-gladiator-captured-in-a-commanding-and-intense-pose-staring-directly-at.png"><img src="https://cdn.prompthero.com/1st8cekbscppro0jd08ilho8o6qz-midjourney-6-a-highly-detailed-photorealistic-digital-illustration-of-a-roman-gladiator-captured-in-a-commanding-and-intense-pose-staring-directly-at.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-A highly detailed photorealistic digital illustration of a Roman gladiator, captured in a commanding and intense pose, staring directly at the viewer. The gladiator is adorned with a traditional galea helmet, featuring intricate engravings and a crimson plume. His muscular frame is protected by a lorica segmentata armor, detailed with ornate patterns and metallic sheen. The gladiator's eyes glow with a fierce, determined light, symbolizing courage and strength. The background is a dark, moody arena, with faint shadows of the crowd and ancient architecture, enhancing the dramatic and powerful atmosphere --ar 47:101 --quality 2 --style raw --stylize 750 --v 6.1
-```
-
-[Source](https://prompthero.com/prompt/ee8f297f9ac-midjourney-6-a-highly-detailed-photorealistic-digital-illustration-of-a-roman-gladiator-captured-in-a-commanding-and-intense-pose-staring-directly-at)
-
----
-
-<a id="prompthero-eed8e57b409"></a>
-
-## \(1 girl, full body\), \(beautiful Korean girl, kpop \.\.\.
-
-<a href="https://cdn.prompthero.com/r2713mzb8v068iu1jccsjqv5g455-chilloutmix-chilloutmix-ni-pruned-fp32-fix-1-girl-full-body-beautiful-korean-girl-kpop-idol15-cute-loose-bob-hair15-wearing-a-cropped-hoodie-capri-sweatpants-high.png"><img src="https://cdn.prompthero.com/r2713mzb8v068iu1jccsjqv5g455-chilloutmix-chilloutmix-ni-pruned-fp32-fix-1-girl-full-body-beautiful-korean-girl-kpop-idol15-cute-loose-bob-hair15-wearing-a-cropped-hoodie-capri-sweatpants-high.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-(1 girl, full body), (beautiful Korean girl, kpop idol:1.5), (Cute Loose Bob hair:1.5), (wearing a cropped hoodie, capri sweatpants, high hills:1.5), (red lips, small breasts, toned stomach, eyelashes, aegyo sal:1.5), immersive background, depth of field, (detailed face, beautiful detailed eyes, symmetrical eyes), (volumetric haze, global illumination, dynamic lighting, best illumination, volumetric lighting), (ultra highres, 8k, realistic, photorealism, photorealistic, hyperrealism:1.5), (photon mapping, physically-based rendering), <lora:add_detail:1>
-```
-
-[Source](https://prompthero.com/prompt/eed8e57b409-chilloutmix-chilloutmix-ni-pruned-fp32-fix-1-girl-full-body-beautiful-korean-girl-kpop-idol15-cute-loose-bob-hair15-wearing-a-cropped-hoodie-capri-sweatpants-high)
-
----
-
-<a id="prompthero-efa64999bb7"></a>
-
-## 2-stage comfyui workflow, Hybrid Models
-
-<a href="https://cdn.prompthero.com/2k4a38zkurmhb04ia3flebi9hmc7-juggernaut-xl-v9-rundiffusionphoto-2-2-stage-comfyui-workflow-hybrid-models.png"><img src="https://cdn.prompthero.com/2k4a38zkurmhb04ia3flebi9hmc7-juggernaut-xl-v9-rundiffusionphoto-2-2-stage-comfyui-workflow-hybrid-models.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-A full body portrait of a cheerful gorgeous young (Italian|Japanese|Irish) woman, walking down the street of Paris, seductive, highly details, 16K, Asymmetrical Cut hairstyle, extreme quality, mesmerizing,  high vibrance, very intricate, award winning, dramatic. In the style of Frederick Arthur Verner
-```
-
-By [@JBlack16062205](https://prompthero.com/prompt/efa64999bb7-juggernaut-xl-v9-rundiffusionphoto-2-2-stage-comfyui-workflow-hybrid-models)
-
----
-
-<a id="prompthero-efd6326354a"></a>
-
-## A full body view of a \(\(\(barefoot\)\)\) Female Warrio\.\.\.
-
-<a href="https://cdn.prompthero.com/chkdq6xyv2etkjux692pjbg6jl64-flux-flux-11-pro-a-full-body-view-of-a-barefoot-female-warrior-killing-several-little-demons-in-grotto-extremely-dynamic-scene-black-hair.jpg"><img src="https://cdn.prompthero.com/chkdq6xyv2etkjux692pjbg6jl64-flux-flux-11-pro-a-full-body-view-of-a-barefoot-female-warrior-killing-several-little-demons-in-grotto-extremely-dynamic-scene-black-hair.jpg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-A full body view of a (((barefoot))) Female Warrior, killing several little demons in grotto. extremely dynamic scene. black hair in a Pixie cut, wearing a chainmail loincloth, chainmail bra, holding two katana sword, tattoo
-```
-
-[Source](https://prompthero.com/prompt/efd6326354a-flux-flux-11-pro-a-full-body-view-of-a-barefoot-female-warrior-killing-several-little-demons-in-grotto-extremely-dynamic-scene-black-hair)
-
----
-
 <a id="prompthero-efe70985326"></a>
 
 ## An image of a young woman with a medium complexion\.\.\.
@@ -323,6 +259,70 @@ A luxury high-fashion magazine cover. Magazine name at the very top in massive e
 ```
 
 [Source](https://prompthero.com/prompt/f398cec045c-sd-xl-v10-vae-fix-surrailism-fashion-bw)
+
+---
+
+<a id="prompthero-f695cd927aa"></a>
+
+## Girl at the beach
+
+<a href="https://cdn.prompthero.com/7dszd3hx4irtmn6gpz0uv8r6whdu-stable-diffusion-15-girl-at-the-beach.png"><img src="https://cdn.prompthero.com/7dszd3hx4irtmn6gpz0uv8r6whdu-stable-diffusion-15-girl-at-the-beach.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+detailed skin, photograph, hyper detailed, supermodel, stomach cutout, at the beach, (short messy black hair) , (skinny, toned, abs, flat chest) , between the stars, wearing clothes designed by Chanel, Sitting with elbows on knees, Sami Mechanical Legs, Smoky Conditions, shallow depth of field, broad lighting, film grain, dslr, F/14, CMYK Colors, sunbeam, delicate, (highly detailed skin, full sharp:1.2) <lora:add_detail:1> <lora:skinny_new_skin:0.3>
+```
+
+By [@AkiraS](https://prompthero.com/prompt/f695cd927aa-stable-diffusion-15-girl-at-the-beach)
+
+---
+
+<a id="prompthero-f898b892b94"></a>
+
+## a woman wearing black sunglasses and a hat, in the\.\.\.
+
+<a href="https://cdn.prompthero.com/r1c1k5s3c6yrjcj8vdioezxz4vps-midjourney-6-a-woman-wearing-black-sunglasses-and-a-hat-in-the-style-of-black-and-white-imagery-vray-tracing-tamron-sp.png"><img src="https://cdn.prompthero.com/r1c1k5s3c6yrjcj8vdioezxz4vps-midjourney-6-a-woman-wearing-black-sunglasses-and-a-hat-in-the-style-of-black-and-white-imagery-vray-tracing-tamron-sp.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+a woman wearing black sunglasses and a hat, in the style of black and white imagery, vray tracing, tamron sp 70-200mm f/2.8 di vc usd g2, bold fashion photography, luminous shadowing, close-up, crisp and clean look --ar 14:25 --stylize 750 --v 6
+```
+
+By [@NorthmoorAI](https://prompthero.com/prompt/f898b892b94-midjourney-6-a-woman-wearing-black-sunglasses-and-a-hat-in-the-style-of-black-and-white-imagery-vray-tracing-tamron-sp)
+
+---
+
+<a id="prompthero-f956e110f7e"></a>
+
+## Mrs\. Linda &quot;The Grandmother&quot;
+
+<a href="https://cdn.prompthero.com/t4r6h8rlrl6gv684cy3iph0e00oq-midjourney-51-mrs-linda-the-grandmother.jpg"><img src="https://cdn.prompthero.com/t4r6h8rlrl6gv684cy3iph0e00oq-midjourney-51-mrs-linda-the-grandmother.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+Menacing creepy old lady ghost, black background, white pupil eyes, blue-grey lighting on the face, close-up, horror, dark and haunting, hyperrealism, ultra-detailed, 8k --ar 9:16 --q 2 --s 750
+```
+
+By [@abyishot](https://prompthero.com/prompt/f956e110f7e-midjourney-51-mrs-linda-the-grandmother)
+
+---
+
+<a id="prompthero-f1830b6ad6e"></a>
+
+## a girl, a lady, and a man in front of a house, in \.\.\.
+
+<a href="https://cdn.prompthero.com/5969cxmoozhcogky3wzcd7rxqrt0-midjourney-52-a-girl-a-lady-and-a-man-in-front-of-a-house-in-the-style-of-light-turquoise-and-light.png"><img src="https://cdn.prompthero.com/5969cxmoozhcogky3wzcd7rxqrt0-midjourney-52-a-girl-a-lady-and-a-man-in-front-of-a-house-in-the-style-of-light-turquoise-and-light.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+a girl, a lady, and a man in front of a house, in the style of light turquoise and light yellow, post-'70s ego generation, calotype, alex hirsch, mommy's on-the-phonecore, full body, olive cotton --v 5.2
+```
+
+By [@Dallas59](https://prompthero.com/prompt/f1830b6ad6e-midjourney-52-a-girl-a-lady-and-a-man-in-front-of-a-house-in-the-style-of-light-turquoise-and-light)
 
 ---
 

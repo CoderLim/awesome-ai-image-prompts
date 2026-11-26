@@ -6,70 +6,6 @@
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
-<a id="prompthero-db626f9a2b8"></a>
-
-## Layered fabrications
-
-<a href="https://cdn.prompthero.com/wbcaa1ws57hoyl7bn8t6z4cqjch0-midjourney-6-layered-fabrications.png"><img src="https://cdn.prompthero.com/wbcaa1ws57hoyl7bn8t6z4cqjch0-midjourney-6-layered-fabrications.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-a woman with roses on her nose, in the style of made of liquid metal, layered fabrications, nicola samori, brian jungen, exquisite detail, leo putz, light silver and dark brown --ar 51:64 --s 250 --v 6.0 --style raw
-```
-
-By [@jefharris](https://prompthero.com/prompt/db626f9a2b8-midjourney-6-layered-fabrications)
-
----
-
-<a id="prompthero-dc3509e86fb"></a>
-
-## a Goku like character, close up portrait, extra lo\.\.\.
-
-<a href="https://cdn.prompthero.com/xapyj2hknlxk0kf0srijviyccjxj-dalle-3-a-goku-like-character-close-up-portrait-extra-long-yellow-hair-fighting-at-war-extreme-rage-berserk-screaming-charging-his.jpg"><img src="https://cdn.prompthero.com/xapyj2hknlxk0kf0srijviyccjxj-dalle-3-a-goku-like-character-close-up-portrait-extra-long-yellow-hair-fighting-at-war-extreme-rage-berserk-screaming-charging-his.jpg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-a Goku like character, close up portrait, extra long yellow hair, fighting at war, extreme rage, berserk, screaming, charging his massive energy around him, injured and dirty, serious mood, body is adorned with glowing yellow runes, orange and yellow aura around him fire like, mountains desert background, body dynamic epic action pose, in the style of futuristic glamour, symmetrical composition, redshift, energy-filled illustrations, dc comics, spectacular backdrops, jagged edges
-```
-
-[Source](https://prompthero.com/prompt/dc3509e86fb-dalle-3-a-goku-like-character-close-up-portrait-extra-long-yellow-hair-fighting-at-war-extreme-rage-berserk-screaming-charging-his)
-
----
-
-<a id="prompthero-dd2d6f04d4e"></a>
-
-## 1 adult Egyptian woman, green eyes, black hair fla\.\.\.
-
-<a href="https://cdn.prompthero.com/fp8ggp3zvk7upxa9zt6nrn0eunad-stable-diffusion-xl-base-09-1-adult-egyptian-woman-green-eyes-black-hair-flaps-makeups-upper-body-looking-at-viewer-detailed-background-detailed-face-oldegyptai.png"><img src="https://cdn.prompthero.com/fp8ggp3zvk7upxa9zt6nrn0eunad-stable-diffusion-xl-base-09-1-adult-egyptian-woman-green-eyes-black-hair-flaps-makeups-upper-body-looking-at-viewer-detailed-background-detailed-face-oldegyptai.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-1 adult Egyptian woman, green eyes, black hair flaps, makeups , upper body, looking at viewer, detailed background, detailed face, OldEgyptAI, ancient egyptian theme, feral jungle warrior, obsidian, ((defensive stance)), stone knife, bushes, poisonous plants, rocks, humid climate, darkness, cinematic atmosphere, dark chamber, dim light, (zentangle, mandala, tangle, entangle:0.5) (35mmstyle:1.1), front, masterpiece, 1970s film, high frequency details, 35mm film, (film grain), film noise, SAI Pixel Art
-```
-
-[Source](https://prompthero.com/prompt/dd2d6f04d4e-stable-diffusion-xl-base-09-1-adult-egyptian-woman-green-eyes-black-hair-flaps-makeups-upper-body-looking-at-viewer-detailed-background-detailed-face-oldegyptai)
-
----
-
-<a id="prompthero-dddb699b223"></a>
-
-## Create a hyper-stylized 3D floating head of a brat\.\.\.
-
-<a href="https://cdn.prompthero.com/ioupxtr9qa730y9jtevw6u3dr1xm-ideogram-ideogram-v3-quality-create-a-hyper-stylized-3d-floating-head-of-a-bratty-glamorous-female-avatar-with-a-bothered-unimpressed-expression-half-lidded.png"><img src="https://cdn.prompthero.com/ioupxtr9qa730y9jtevw6u3dr1xm-ideogram-ideogram-v3-quality-create-a-hyper-stylized-3d-floating-head-of-a-bratty-glamorous-female-avatar-with-a-bothered-unimpressed-expression-half-lidded.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-Create a hyper-stylized 3D floating head of a bratty, glamorous female avatar with a bothered, unimpressed expression — half-lidded eyes, arched brows, and a subtle lip curl that conveys classic 'mean girl' attitude. Her skin is fair, porcelain-smooth with a glossy, almost airbrushed vinyl finish. Highlighter is dramatically applied to her cheekbones and the tip of her nose, catching the soft studio lighting with a dewy, reflective glow. It has a text behind: Write "PROMPTHERO" in caps in Bold Black Helvetica behind the subject, covered by the head but visible enough to read it Her eyes are adorned with shimmering holographic eyeshadow — iridescent and multidimensional, shifting from purples to teals with realistic specular glints. Her thick, jet-black hair is slick, glossy, and styled with precision, falling in sculpted waves or a sleek updo, reflecting light like polished acrylic. A small metallic nose piercing (stud or hoop) sits on one nostril — the surface is chrome-like, with subtle reflections and a brushed metal texture, adding a touch of edge to her polished look. The head is fully isolated with a 15 degree tilt - floating cleanly against a plain white neutral background, mimicking a premium product render. The lighting is bright and diffuse, like a fashion studio setup, with no harsh shadows — emphasizing the gloss and plasticity of surfaces. Use subsurface scattering to give the skin depth and warmtxh Mood: bratty, fashionable, coolly detached Camera angle: close-up portrait, straight-on view. Focal length: 85mm, to slightly compress facial features and enhance softness. Textures: ultra-smooth, cartoon-style with high gloss, smooth plastic surface finish skin, lips, and hair.
-```
-
-By [@chorlo](https://prompthero.com/prompt/dddb699b223-ideogram-ideogram-v3-quality-create-a-hyper-stylized-3d-floating-head-of-a-bratty-glamorous-female-avatar-with-a-bothered-unimpressed-expression-half-lidded)
-
----
-
 <a id="prompthero-de1819b1b14"></a>
 
 ## A photo of an eccentric woman sitting on top of wh\.\.\.
@@ -323,6 +259,70 @@ By [@abyishot](https://prompthero.com/prompt/e11a8fcaf00-midjourney-51-the-model
 ```
 
 [Source](https://prompthero.com/prompt/e14a73c4576-chatgpt-image-gpt-image-2-title-ultra-realistic-close-up-portrait-with-water-droplets-intent-capture-an-extreme-macro-portrait-emphasizing-skin-texture-moisture-and)
+
+---
+
+<a id="prompthero-e63af2520cb"></a>
+
+## very detailed image of a gorgeous young Asian woma\.\.\.
+
+<a href="https://cdn.prompthero.com/22s8ehu4xgtmladpqfbt99cfbu5r-midjourney-52-very-detailed-image-of-a-gorgeous-young-asian-woman-standing-on-a-bustling-city-street-observing-the-world-around-her.png"><img src="https://cdn.prompthero.com/22s8ehu4xgtmladpqfbt99cfbu5r-midjourney-52-very-detailed-image-of-a-gorgeous-young-asian-woman-standing-on-a-bustling-city-street-observing-the-world-around-her.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+very detailed image of a gorgeous young Asian woman standing on a bustling city street, observing the world around her during a lively late afternoon, cinematic, taken with a Sony A9 mark II, using a 50mm prime lens, taken on a revolog 600 nm film, with dynamic mix of sunlight and urban lighting creating a vivid backdrop as illumination --no monochrome, semi-realistic, cgi, 3d, paintings, comic, animation, sleepy, ugly, closed eyes, deformed pupils, facial distortion, teeth distortion, different eye sizes, greased hair, plastic like, overexposure, deformed fingers --v 5.2 --ar 1:1 --q 2 --iw 0.5 --uplight
+```
+
+[Source](https://prompthero.com/prompt/e63af2520cb-midjourney-52-very-detailed-image-of-a-gorgeous-young-asian-woman-standing-on-a-bustling-city-street-observing-the-world-around-her)
+
+---
+
+<a id="prompthero-e78b7464b18"></a>
+
+## photo of a middle-aged british woman, punk, vulgar\.\.\.
+
+<a href="https://cdn.prompthero.com/51nwba7nwkqkjc4q2d634hm423if-flux-flux1-dev-photo-of-a-middle-aged-british-woman-punk-vulgar-look-short-redhead-hair-messy-hair-bored-full-body-wearing-worn.png"><img src="https://cdn.prompthero.com/51nwba7nwkqkjc4q2d634hm423if-flux-flux1-dev-photo-of-a-middle-aged-british-woman-punk-vulgar-look-short-redhead-hair-messy-hair-bored-full-body-wearing-worn.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+photo of a middle-aged british woman, punk, vulgar look, (short redhead hair), messy hair, bored, full body, wearing worn-out:1.2 leather jacket, trousers, boots, white lace bra, holding a black helmet, ( skin pores), (freckles:0.8), (standing against a harley-davidson ), restaurant parking in background, dim light
+```
+
+[Source](https://prompthero.com/prompt/e78b7464b18-flux-flux1-dev-photo-of-a-middle-aged-british-woman-punk-vulgar-look-short-redhead-hair-messy-hair-bored-full-body-wearing-worn)
+
+---
+
+<a id="prompthero-e82dd7f5523"></a>
+
+## Visualize an ultra-high definition, meticulously d\.\.\.
+
+<a href="https://cdn.prompthero.com/9rjkdh5v6nfnjsirq3vqx9svz6ql-midjourney-51-visualize-an-ultra-high-definition-meticulously-detailed-full-body-portrait-of-a-miniature-anthropomorphic-fairy-girl-a-small-magical-creature.png"><img src="https://cdn.prompthero.com/9rjkdh5v6nfnjsirq3vqx9svz6ql-midjourney-51-visualize-an-ultra-high-definition-meticulously-detailed-full-body-portrait-of-a-miniature-anthropomorphic-fairy-girl-a-small-magical-creature.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+Visualize an ultra-high definition, meticulously detailed full body portrait of a miniature, anthropomorphic fairy girl, a small magical creature exuding enchanting elegance and grace. She appears as a delightful blend of the familiar and the fantastical. This petite fairy, an embodiment of African beauty, boasts rich, dark skin that glows with a warm, iridescent sheen, highlighting the contours of her delicate features. Her eyes sparkle with vivacious curiosity and youthful zest, matching the playful coils of her short, black hair that defy gravity. She is adorned in a dress woven from the petals of the most vibrant and colorful flowers, the unique outfit clinging delicately to her petite form, complementing her animated personality. The girl’s most distinct feature, her shimmering wings, unfold from her back, catching the light with every flutter. They resemble those of a dragonfly, a mosaic of luminescent colors, delicate and yet powerful, hinting at her ability to transcend the world of humans and enter the realm of enchantment. She perches confidently in a human hand. The realistic rendering of the hand contrasts with her fantastical existence, displaying a myriad of textures from the fine lines of the skin to the smoothness of the nails, the size comparison further emphasizing the fairy’s petite charm. Despite the size difference, the interaction is harmonious, suggesting a magical symbiosis between the human and fairy realms. Her gaze meets the viewer’s, carrying a silent conversation, a secret shared between the magical and human worlds. The viewer is left with an impression of an encounter that blurs the line between reality and fantasy, a moment frozen in time where anything is possible. --s 250
+```
+
+[Source](https://prompthero.com/prompt/e82dd7f5523-midjourney-51-visualize-an-ultra-high-definition-meticulously-detailed-full-body-portrait-of-a-miniature-anthropomorphic-fairy-girl-a-small-magical-creature)
+
+---
+
+<a id="prompthero-e4623ed1f21"></a>
+
+## Close-up retro FlicFilm Elektra 100 photo of a cla\.\.\.
+
+<a href="https://cdn.prompthero.com/zkysoz35o4g8ok5oegr8u7vq0h0u-flux-flux-11-pro-ultra-close-up-retro-flicfilm-elektra-100-photo-of-a-classy-model-wearing-a-muted-pastel-blue-western-suit-with-a.jpg"><img src="https://cdn.prompthero.com/zkysoz35o4g8ok5oegr8u7vq0h0u-flux-flux-11-pro-ultra-close-up-retro-flicfilm-elektra-100-photo-of-a-classy-model-wearing-a-muted-pastel-blue-western-suit-with-a.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+Close-up retro FlicFilm Elektra 100 photo of a classy model wearing a muted pastel blue western suit with a white shirt and bolo tie with a beutiful orange rock, sitting on a chair. looking away from the camera. The model has dark skin, brown hair curly, and is wearing ring earrings and jewelry. The model is holding a hand near their face and is wearing a short-sleeved shirt. This fashion editorial was for the French Vogue magazine, in the style of Jacquemus, and features a pink Italian leather belt. sitting in a restroom
+```
+
+[Source](https://prompthero.com/prompt/e4623ed1f21-flux-flux-11-pro-ultra-close-up-retro-flicfilm-elektra-100-photo-of-a-classy-model-wearing-a-muted-pastel-blue-western-suit-with-a)
 
 ---
 

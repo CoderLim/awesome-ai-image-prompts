@@ -38,22 +38,6 @@ By [@ShamsAmin56](https://x.com/ShamsAmin56/status/2071590431725670517)
 
 ---
 
-<a id="prompthero-3f1c91c3572"></a>
-
-## can you make a slay the spire 2 portrait for this \.\.\.
-
-<a href="https://cdn.prompthero.com/v1_2d2c2818fa3f904162254d533c-chatgpt-image-gpt-image-26-flare-can-you-make-a-slay-the-spire-2-portrait-for-this-character-just-need-it-simple-clean-and-have-his.png"><img src="https://cdn.prompthero.com/v1_2d2c2818fa3f904162254d533c-chatgpt-image-gpt-image-26-flare-can-you-make-a-slay-the-spire-2-portrait-for-this-character-just-need-it-simple-clean-and-have-his.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-can you make a slay the spire 2 portrait for this character? just need it simple, clean, and have his blank face and ears there with just a clean maybe sparkly blue accent background
-```
-
-By [@joshuahunter](https://prompthero.com/prompt/3f1c91c3572-chatgpt-image-gpt-image-26-flare-can-you-make-a-slay-the-spire-2-portrait-for-this-character-just-need-it-simple-clean-and-have-his)
-
----
-
 <a id="prompthero-379a7460b08"></a>
 
 ## A lone desert scout riding a robotic reptile-like \.\.\.

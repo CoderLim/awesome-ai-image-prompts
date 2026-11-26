@@ -6,70 +6,6 @@
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
-<a id="prompthero-d09d76cf9bd"></a>
-
-## RAW photo, solo, A highly detailed portrait of an \.\.\.
-
-<a href="https://cdn.prompthero.com/hvdirvfe995ba8531w49sx16cooz-flux-flux1-dev-raw-photo-solo-a-highly-detailed-portrait-of-an-alien-creature-inspired-by-the-xenomorph-from-the-alien-movies-the.png"><img src="https://cdn.prompthero.com/hvdirvfe995ba8531w49sx16cooz-flux-flux1-dev-raw-photo-solo-a-highly-detailed-portrait-of-an-alien-creature-inspired-by-the-xenomorph-from-the-alien-movies-the.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-RAW photo, solo, A highly detailed portrait of an alien creature inspired by the Xenomorph from the Alien movies. The creature has a sleek, elongated head with a smooth, dome-like surface, full, devoid of visible eyes, creating an eerie and unsettling appearance. Its mouth is filled with short razor-sharp, metallic color teeth, with a second smaller set of teeth emerging from within its mouth like a small black box coming out of its mouth with sharp teeth at the end. The skin is a glossy, black exoskeleton that reflects light in a sinister way, with biomechanical ridges and tubes running along the head and neck. The background is a dark, industrial environment with metallic walls, dripping water, and wisps of steam, adding to the creature's menacing presence. The lighting casts deep shadows across the alien's features, emphasizing its terrifying and otherworldly nature. the alien is inside a dark spaceshipp with steam and water drips
-```
-
-[Source](https://prompthero.com/prompt/d09d76cf9bd-flux-flux1-dev-raw-photo-solo-a-highly-detailed-portrait-of-an-alien-creature-inspired-by-the-xenomorph-from-the-alien-movies-the)
-
----
-
-<a id="prompthero-d11cfb2cea3"></a>
-
-## photography, full-body, older man model standing a\.\.\.
-
-<a href="https://cdn.prompthero.com/qpy4gx7z7ccahug9433kw4m0xi6n-midjourney-6-photography-full-body-older-man-model-standing-against-a-textured-rustic-purple-wall-giving-off-an-aura-of-wisdom-and.png"><img src="https://cdn.prompthero.com/qpy4gx7z7ccahug9433kw4m0xi6n-midjourney-6-photography-full-body-older-man-model-standing-against-a-textured-rustic-purple-wall-giving-off-an-aura-of-wisdom-and.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-photography, full-body, older man model standing against a textured rustic purple wall, giving off an aura of wisdom and experience, monochromatic black T-shirt, with a small minimalist tattoo and black Apple watch, and worn black & white low-top sneakers, silver hair styling, complemented by black frame glasses, his hand tucked in his pocket, presenting a portrait of aged grace and street fashion style, confidence, photorealism, ultra realistic, UHD, many detail --ar 9:16 --style raw --stylize 700
-```
-
-By [@Grayve](https://prompthero.com/prompt/d11cfb2cea3-midjourney-6-photography-full-body-older-man-model-standing-against-a-textured-rustic-purple-wall-giving-off-an-aura-of-wisdom-and)
-
----
-
-<a id="prompthero-d14af99959f"></a>
-
-## A photo of an African American woman with long, wa\.\.\.
-
-<a href="https://cdn.prompthero.com/l89204n0fndkouqqp0uibx45a5wu-midjourney-52-a-photo-of-an-african-american-woman-with-long-wavy-hair-in-the-style-of-1960s-fashion-she-is-wearing.png"><img src="https://cdn.prompthero.com/l89204n0fndkouqqp0uibx45a5wu-midjourney-52-a-photo-of-an-african-american-woman-with-long-wavy-hair-in-the-style-of-1960s-fashion-she-is-wearing.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-A photo of an African American woman with long, wavy hair in the style of 1960s fashion. She is wearing white and pink attire, smiling warmly at the camera. The background features soft lighting and vibrant colors typical of that era. This vintage photograph captures her natural beauty and fashionable look from those times. --ar 45:64 --v 5.2
-```
-
-By [@Dallas59](https://prompthero.com/prompt/d14af99959f-midjourney-52-a-photo-of-an-african-american-woman-with-long-wavy-hair-in-the-style-of-1960s-fashion-she-is-wearing)
-
----
-
-<a id="prompthero-d20df414e3c"></a>
-
-## \(Masterpiece:1\. 5\) , RAW photo, film grain, \(best \.\.\.
-
-<a href="https://cdn.prompthero.com/w5vccrbzr83emtm41w1dwxh3duwf-flux-flux-11-pro-masterpiece1-5-raw-photo-film-grain-best-quality1-5-photorealistic-realistic-real-picture-intricate-details-photo-of-full-body-a.jpg"><img src="https://cdn.prompthero.com/w5vccrbzr83emtm41w1dwxh3duwf-flux-flux-11-pro-masterpiece1-5-raw-photo-film-grain-best-quality1-5-photorealistic-realistic-real-picture-intricate-details-photo-of-full-body-a.jpg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-(Masterpiece:1. 5) , RAW photo, film grain, (best quality:1. 5) , (photorealistic) , realistic, real picture, intricate details, photo of full body a cute cat in a super mario bros dress, (wastelands background)
-```
-
-[Source](https://prompthero.com/prompt/d20df414e3c-flux-flux-11-pro-masterpiece1-5-raw-photo-film-grain-best-quality1-5-photorealistic-realistic-real-picture-intricate-details-photo-of-full-body-a)
-
----
-
 <a id="prompthero-d29cd3e6c3e"></a>
 
 ## A beautiful blonde woman wearing cowboy boots and \.\.\.
@@ -323,6 +259,70 @@ Angled photo of a seductive cute young lady wearing goth attire and a sexy mini 
 ```
 
 By [@abyishot](https://prompthero.com/prompt/db435ece3b1-stable-diffusion-xl-base-09-dark-sheena-was-a-captivating-paradox-her-heart-entwined-with-the-allure-of-the-dark-and-mysterious-with-a-penchant-for-angled-photo-of-a-seductive-cute-young-lady-wearing-goth-attire-and-a-sexy-mini-skirt-looking-upward-intimate-facial)
+
+---
+
+<a id="prompthero-db626f9a2b8"></a>
+
+## Layered fabrications
+
+<a href="https://cdn.prompthero.com/wbcaa1ws57hoyl7bn8t6z4cqjch0-midjourney-6-layered-fabrications.png"><img src="https://cdn.prompthero.com/wbcaa1ws57hoyl7bn8t6z4cqjch0-midjourney-6-layered-fabrications.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+a woman with roses on her nose, in the style of made of liquid metal, layered fabrications, nicola samori, brian jungen, exquisite detail, leo putz, light silver and dark brown --ar 51:64 --s 250 --v 6.0 --style raw
+```
+
+By [@jefharris](https://prompthero.com/prompt/db626f9a2b8-midjourney-6-layered-fabrications)
+
+---
+
+<a id="prompthero-dc3509e86fb"></a>
+
+## a Goku like character, close up portrait, extra lo\.\.\.
+
+<a href="https://cdn.prompthero.com/xapyj2hknlxk0kf0srijviyccjxj-dalle-3-a-goku-like-character-close-up-portrait-extra-long-yellow-hair-fighting-at-war-extreme-rage-berserk-screaming-charging-his.jpg"><img src="https://cdn.prompthero.com/xapyj2hknlxk0kf0srijviyccjxj-dalle-3-a-goku-like-character-close-up-portrait-extra-long-yellow-hair-fighting-at-war-extreme-rage-berserk-screaming-charging-his.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+a Goku like character, close up portrait, extra long yellow hair, fighting at war, extreme rage, berserk, screaming, charging his massive energy around him, injured and dirty, serious mood, body is adorned with glowing yellow runes, orange and yellow aura around him fire like, mountains desert background, body dynamic epic action pose, in the style of futuristic glamour, symmetrical composition, redshift, energy-filled illustrations, dc comics, spectacular backdrops, jagged edges
+```
+
+[Source](https://prompthero.com/prompt/dc3509e86fb-dalle-3-a-goku-like-character-close-up-portrait-extra-long-yellow-hair-fighting-at-war-extreme-rage-berserk-screaming-charging-his)
+
+---
+
+<a id="prompthero-dd2d6f04d4e"></a>
+
+## 1 adult Egyptian woman, green eyes, black hair fla\.\.\.
+
+<a href="https://cdn.prompthero.com/fp8ggp3zvk7upxa9zt6nrn0eunad-stable-diffusion-xl-base-09-1-adult-egyptian-woman-green-eyes-black-hair-flaps-makeups-upper-body-looking-at-viewer-detailed-background-detailed-face-oldegyptai.png"><img src="https://cdn.prompthero.com/fp8ggp3zvk7upxa9zt6nrn0eunad-stable-diffusion-xl-base-09-1-adult-egyptian-woman-green-eyes-black-hair-flaps-makeups-upper-body-looking-at-viewer-detailed-background-detailed-face-oldegyptai.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+1 adult Egyptian woman, green eyes, black hair flaps, makeups , upper body, looking at viewer, detailed background, detailed face, OldEgyptAI, ancient egyptian theme, feral jungle warrior, obsidian, ((defensive stance)), stone knife, bushes, poisonous plants, rocks, humid climate, darkness, cinematic atmosphere, dark chamber, dim light, (zentangle, mandala, tangle, entangle:0.5) (35mmstyle:1.1), front, masterpiece, 1970s film, high frequency details, 35mm film, (film grain), film noise, SAI Pixel Art
+```
+
+[Source](https://prompthero.com/prompt/dd2d6f04d4e-stable-diffusion-xl-base-09-1-adult-egyptian-woman-green-eyes-black-hair-flaps-makeups-upper-body-looking-at-viewer-detailed-background-detailed-face-oldegyptai)
+
+---
+
+<a id="prompthero-dddb699b223"></a>
+
+## Create a hyper-stylized 3D floating head of a brat\.\.\.
+
+<a href="https://cdn.prompthero.com/ioupxtr9qa730y9jtevw6u3dr1xm-ideogram-ideogram-v3-quality-create-a-hyper-stylized-3d-floating-head-of-a-bratty-glamorous-female-avatar-with-a-bothered-unimpressed-expression-half-lidded.png"><img src="https://cdn.prompthero.com/ioupxtr9qa730y9jtevw6u3dr1xm-ideogram-ideogram-v3-quality-create-a-hyper-stylized-3d-floating-head-of-a-bratty-glamorous-female-avatar-with-a-bothered-unimpressed-expression-half-lidded.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+Create a hyper-stylized 3D floating head of a bratty, glamorous female avatar with a bothered, unimpressed expression — half-lidded eyes, arched brows, and a subtle lip curl that conveys classic 'mean girl' attitude. Her skin is fair, porcelain-smooth with a glossy, almost airbrushed vinyl finish. Highlighter is dramatically applied to her cheekbones and the tip of her nose, catching the soft studio lighting with a dewy, reflective glow. It has a text behind: Write "PROMPTHERO" in caps in Bold Black Helvetica behind the subject, covered by the head but visible enough to read it Her eyes are adorned with shimmering holographic eyeshadow — iridescent and multidimensional, shifting from purples to teals with realistic specular glints. Her thick, jet-black hair is slick, glossy, and styled with precision, falling in sculpted waves or a sleek updo, reflecting light like polished acrylic. A small metallic nose piercing (stud or hoop) sits on one nostril — the surface is chrome-like, with subtle reflections and a brushed metal texture, adding a touch of edge to her polished look. The head is fully isolated with a 15 degree tilt - floating cleanly against a plain white neutral background, mimicking a premium product render. The lighting is bright and diffuse, like a fashion studio setup, with no harsh shadows — emphasizing the gloss and plasticity of surfaces. Use subsurface scattering to give the skin depth and warmtxh Mood: bratty, fashionable, coolly detached Camera angle: close-up portrait, straight-on view. Focal length: 85mm, to slightly compress facial features and enhance softness. Textures: ultra-smooth, cartoon-style with high gloss, smooth plastic surface finish skin, lips, and hair.
+```
+
+By [@chorlo](https://prompthero.com/prompt/dddb699b223-ideogram-ideogram-v3-quality-create-a-hyper-stylized-3d-floating-head-of-a-bratty-glamorous-female-avatar-with-a-bothered-unimpressed-expression-half-lidded)
 
 ---
 

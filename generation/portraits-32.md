@@ -6,70 +6,6 @@
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
-<a id="prompthero-e63af2520cb"></a>
-
-## very detailed image of a gorgeous young Asian woma\.\.\.
-
-<a href="https://cdn.prompthero.com/22s8ehu4xgtmladpqfbt99cfbu5r-midjourney-52-very-detailed-image-of-a-gorgeous-young-asian-woman-standing-on-a-bustling-city-street-observing-the-world-around-her.png"><img src="https://cdn.prompthero.com/22s8ehu4xgtmladpqfbt99cfbu5r-midjourney-52-very-detailed-image-of-a-gorgeous-young-asian-woman-standing-on-a-bustling-city-street-observing-the-world-around-her.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-very detailed image of a gorgeous young Asian woman standing on a bustling city street, observing the world around her during a lively late afternoon, cinematic, taken with a Sony A9 mark II, using a 50mm prime lens, taken on a revolog 600 nm film, with dynamic mix of sunlight and urban lighting creating a vivid backdrop as illumination --no monochrome, semi-realistic, cgi, 3d, paintings, comic, animation, sleepy, ugly, closed eyes, deformed pupils, facial distortion, teeth distortion, different eye sizes, greased hair, plastic like, overexposure, deformed fingers --v 5.2 --ar 1:1 --q 2 --iw 0.5 --uplight
-```
-
-[Source](https://prompthero.com/prompt/e63af2520cb-midjourney-52-very-detailed-image-of-a-gorgeous-young-asian-woman-standing-on-a-bustling-city-street-observing-the-world-around-her)
-
----
-
-<a id="prompthero-e78b7464b18"></a>
-
-## photo of a middle-aged british woman, punk, vulgar\.\.\.
-
-<a href="https://cdn.prompthero.com/51nwba7nwkqkjc4q2d634hm423if-flux-flux1-dev-photo-of-a-middle-aged-british-woman-punk-vulgar-look-short-redhead-hair-messy-hair-bored-full-body-wearing-worn.png"><img src="https://cdn.prompthero.com/51nwba7nwkqkjc4q2d634hm423if-flux-flux1-dev-photo-of-a-middle-aged-british-woman-punk-vulgar-look-short-redhead-hair-messy-hair-bored-full-body-wearing-worn.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-photo of a middle-aged british woman, punk, vulgar look, (short redhead hair), messy hair, bored, full body, wearing worn-out:1.2 leather jacket, trousers, boots, white lace bra, holding a black helmet, ( skin pores), (freckles:0.8), (standing against a harley-davidson ), restaurant parking in background, dim light
-```
-
-[Source](https://prompthero.com/prompt/e78b7464b18-flux-flux1-dev-photo-of-a-middle-aged-british-woman-punk-vulgar-look-short-redhead-hair-messy-hair-bored-full-body-wearing-worn)
-
----
-
-<a id="prompthero-e82dd7f5523"></a>
-
-## Visualize an ultra-high definition, meticulously d\.\.\.
-
-<a href="https://cdn.prompthero.com/9rjkdh5v6nfnjsirq3vqx9svz6ql-midjourney-51-visualize-an-ultra-high-definition-meticulously-detailed-full-body-portrait-of-a-miniature-anthropomorphic-fairy-girl-a-small-magical-creature.png"><img src="https://cdn.prompthero.com/9rjkdh5v6nfnjsirq3vqx9svz6ql-midjourney-51-visualize-an-ultra-high-definition-meticulously-detailed-full-body-portrait-of-a-miniature-anthropomorphic-fairy-girl-a-small-magical-creature.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-Visualize an ultra-high definition, meticulously detailed full body portrait of a miniature, anthropomorphic fairy girl, a small magical creature exuding enchanting elegance and grace. She appears as a delightful blend of the familiar and the fantastical. This petite fairy, an embodiment of African beauty, boasts rich, dark skin that glows with a warm, iridescent sheen, highlighting the contours of her delicate features. Her eyes sparkle with vivacious curiosity and youthful zest, matching the playful coils of her short, black hair that defy gravity. She is adorned in a dress woven from the petals of the most vibrant and colorful flowers, the unique outfit clinging delicately to her petite form, complementing her animated personality. The girl’s most distinct feature, her shimmering wings, unfold from her back, catching the light with every flutter. They resemble those of a dragonfly, a mosaic of luminescent colors, delicate and yet powerful, hinting at her ability to transcend the world of humans and enter the realm of enchantment. She perches confidently in a human hand. The realistic rendering of the hand contrasts with her fantastical existence, displaying a myriad of textures from the fine lines of the skin to the smoothness of the nails, the size comparison further emphasizing the fairy’s petite charm. Despite the size difference, the interaction is harmonious, suggesting a magical symbiosis between the human and fairy realms. Her gaze meets the viewer’s, carrying a silent conversation, a secret shared between the magical and human worlds. The viewer is left with an impression of an encounter that blurs the line between reality and fantasy, a moment frozen in time where anything is possible. --s 250
-```
-
-[Source](https://prompthero.com/prompt/e82dd7f5523-midjourney-51-visualize-an-ultra-high-definition-meticulously-detailed-full-body-portrait-of-a-miniature-anthropomorphic-fairy-girl-a-small-magical-creature)
-
----
-
-<a id="prompthero-e4623ed1f21"></a>
-
-## Close-up retro FlicFilm Elektra 100 photo of a cla\.\.\.
-
-<a href="https://cdn.prompthero.com/zkysoz35o4g8ok5oegr8u7vq0h0u-flux-flux-11-pro-ultra-close-up-retro-flicfilm-elektra-100-photo-of-a-classy-model-wearing-a-muted-pastel-blue-western-suit-with-a.jpg"><img src="https://cdn.prompthero.com/zkysoz35o4g8ok5oegr8u7vq0h0u-flux-flux-11-pro-ultra-close-up-retro-flicfilm-elektra-100-photo-of-a-classy-model-wearing-a-muted-pastel-blue-western-suit-with-a.jpg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-Close-up retro FlicFilm Elektra 100 photo of a classy model wearing a muted pastel blue western suit with a white shirt and bolo tie with a beutiful orange rock, sitting on a chair. looking away from the camera. The model has dark skin, brown hair curly, and is wearing ring earrings and jewelry. The model is holding a hand near their face and is wearing a short-sleeved shirt. This fashion editorial was for the French Vogue magazine, in the style of Jacquemus, and features a pink Italian leather belt. sitting in a restroom
-```
-
-[Source](https://prompthero.com/prompt/e4623ed1f21-flux-flux-11-pro-ultra-close-up-retro-flicfilm-elektra-100-photo-of-a-classy-model-wearing-a-muted-pastel-blue-western-suit-with-a)
-
----
-
 <a id="prompthero-e6211b8bde2"></a>
 
 ## Paparazzi-style extreme close-up photo of a woman \.\.\.
@@ -323,6 +259,70 @@ detailed and realistic (upper body portrait:1.2) of a woman with a few (freckles
 ```
 
 [Source](https://prompthero.com/prompt/edd9661b619-stable-diffusion-15-detailed-and-realistic-upper-body-portrait12-of-a-woman-with-a-few-freckles08-break-round-eyes-and-short-messy-hair)
+
+---
+
+<a id="prompthero-ee8f297f9ac"></a>
+
+## A highly detailed photorealistic digital illustrat\.\.\.
+
+<a href="https://cdn.prompthero.com/1st8cekbscppro0jd08ilho8o6qz-midjourney-6-a-highly-detailed-photorealistic-digital-illustration-of-a-roman-gladiator-captured-in-a-commanding-and-intense-pose-staring-directly-at.png"><img src="https://cdn.prompthero.com/1st8cekbscppro0jd08ilho8o6qz-midjourney-6-a-highly-detailed-photorealistic-digital-illustration-of-a-roman-gladiator-captured-in-a-commanding-and-intense-pose-staring-directly-at.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+A highly detailed photorealistic digital illustration of a Roman gladiator, captured in a commanding and intense pose, staring directly at the viewer. The gladiator is adorned with a traditional galea helmet, featuring intricate engravings and a crimson plume. His muscular frame is protected by a lorica segmentata armor, detailed with ornate patterns and metallic sheen. The gladiator's eyes glow with a fierce, determined light, symbolizing courage and strength. The background is a dark, moody arena, with faint shadows of the crowd and ancient architecture, enhancing the dramatic and powerful atmosphere --ar 47:101 --quality 2 --style raw --stylize 750 --v 6.1
+```
+
+[Source](https://prompthero.com/prompt/ee8f297f9ac-midjourney-6-a-highly-detailed-photorealistic-digital-illustration-of-a-roman-gladiator-captured-in-a-commanding-and-intense-pose-staring-directly-at)
+
+---
+
+<a id="prompthero-eed8e57b409"></a>
+
+## \(1 girl, full body\), \(beautiful Korean girl, kpop \.\.\.
+
+<a href="https://cdn.prompthero.com/r2713mzb8v068iu1jccsjqv5g455-chilloutmix-chilloutmix-ni-pruned-fp32-fix-1-girl-full-body-beautiful-korean-girl-kpop-idol15-cute-loose-bob-hair15-wearing-a-cropped-hoodie-capri-sweatpants-high.png"><img src="https://cdn.prompthero.com/r2713mzb8v068iu1jccsjqv5g455-chilloutmix-chilloutmix-ni-pruned-fp32-fix-1-girl-full-body-beautiful-korean-girl-kpop-idol15-cute-loose-bob-hair15-wearing-a-cropped-hoodie-capri-sweatpants-high.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+(1 girl, full body), (beautiful Korean girl, kpop idol:1.5), (Cute Loose Bob hair:1.5), (wearing a cropped hoodie, capri sweatpants, high hills:1.5), (red lips, small breasts, toned stomach, eyelashes, aegyo sal:1.5), immersive background, depth of field, (detailed face, beautiful detailed eyes, symmetrical eyes), (volumetric haze, global illumination, dynamic lighting, best illumination, volumetric lighting), (ultra highres, 8k, realistic, photorealism, photorealistic, hyperrealism:1.5), (photon mapping, physically-based rendering), <lora:add_detail:1>
+```
+
+[Source](https://prompthero.com/prompt/eed8e57b409-chilloutmix-chilloutmix-ni-pruned-fp32-fix-1-girl-full-body-beautiful-korean-girl-kpop-idol15-cute-loose-bob-hair15-wearing-a-cropped-hoodie-capri-sweatpants-high)
+
+---
+
+<a id="prompthero-efa64999bb7"></a>
+
+## 2-stage comfyui workflow, Hybrid Models
+
+<a href="https://cdn.prompthero.com/2k4a38zkurmhb04ia3flebi9hmc7-juggernaut-xl-v9-rundiffusionphoto-2-2-stage-comfyui-workflow-hybrid-models.png"><img src="https://cdn.prompthero.com/2k4a38zkurmhb04ia3flebi9hmc7-juggernaut-xl-v9-rundiffusionphoto-2-2-stage-comfyui-workflow-hybrid-models.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+A full body portrait of a cheerful gorgeous young (Italian|Japanese|Irish) woman, walking down the street of Paris, seductive, highly details, 16K, Asymmetrical Cut hairstyle, extreme quality, mesmerizing,  high vibrance, very intricate, award winning, dramatic. In the style of Frederick Arthur Verner
+```
+
+By [@JBlack16062205](https://prompthero.com/prompt/efa64999bb7-juggernaut-xl-v9-rundiffusionphoto-2-2-stage-comfyui-workflow-hybrid-models)
+
+---
+
+<a id="prompthero-efd6326354a"></a>
+
+## A full body view of a \(\(\(barefoot\)\)\) Female Warrio\.\.\.
+
+<a href="https://cdn.prompthero.com/chkdq6xyv2etkjux692pjbg6jl64-flux-flux-11-pro-a-full-body-view-of-a-barefoot-female-warrior-killing-several-little-demons-in-grotto-extremely-dynamic-scene-black-hair.jpg"><img src="https://cdn.prompthero.com/chkdq6xyv2etkjux692pjbg6jl64-flux-flux-11-pro-a-full-body-view-of-a-barefoot-female-warrior-killing-several-little-demons-in-grotto-extremely-dynamic-scene-black-hair.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+A full body view of a (((barefoot))) Female Warrior, killing several little demons in grotto. extremely dynamic scene. black hair in a Pixie cut, wearing a chainmail loincloth, chainmail bra, holding two katana sword, tattoo
+```
+
+[Source](https://prompthero.com/prompt/efd6326354a-flux-flux-11-pro-a-full-body-view-of-a-barefoot-female-warrior-killing-several-little-demons-in-grotto-extremely-dynamic-scene-black-hair)
 
 ---
 

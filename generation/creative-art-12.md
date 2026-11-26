@@ -6,118 +6,6 @@
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
-<a id="prompthero-da08a62f0c6"></a>
-
-## used model DreamShaperV6
-
-<a href="https://cdn.prompthero.com/tny6ccrn0kps9tlkkqz8iym6wt94-stable-diffusion-15-used-model-dreamshaperv6.png"><img src="https://cdn.prompthero.com/tny6ccrn0kps9tlkkqz8iym6wt94-stable-diffusion-15-used-model-dreamshaperv6.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-(a girlfriend), (wearing a blood-soaked white dress:1. 3), (dark alley, night, raining:1. 3), (glowing eyes),(yameroyandere),(),(),horror, (fangs, sharp teeth), (inspired by tim burton), blood splatter, yameroyandere, evil laugh, (dynamic pose), (immersive background), (dramatic lighting), ultra highres, (realistic, photo-realistic:1), 8k, raw photo, hyperrealism, photography, (photon mapping, physically-based rendering), illustration, <lora:add_detail:1>, <lora:GlowingRunesAIv4-000005:0.3>
-```
-
-[Source](https://prompthero.com/prompt/da08a62f0c6-stable-diffusion-15-used-model-dreamshaperv6)
-
----
-
-<a id="prompthero-da6287037cd"></a>
-
-## girl of the future, futuristic design, electronic \.\.\.
-
-<a href="https://cdn.prompthero.com/29e94nfwo9y7ym4hj2qmlrchztn2-stable-diffusion-xl-base-09-girl-of-the-future-futuristic-design-electronic-artwork-manga-character-techno-noir-animated-drawing-vintage-futurism-pan-futurism-dystopian-cyberpunk.png"><img src="https://cdn.prompthero.com/29e94nfwo9y7ym4hj2qmlrchztn2-stable-diffusion-xl-base-09-girl-of-the-future-futuristic-design-electronic-artwork-manga-character-techno-noir-animated-drawing-vintage-futurism-pan-futurism-dystopian-cyberpunk.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-girl of the future, futuristic design, electronic artwork, manga character, techno-noir, animated drawing, vintage futurism, pan futurism, dystopian cyberpunk, neon-lit urban landscape, dark and gritty, high-tech, graffiti, futuristic gadgets, cinematic, detailed cityscape, moody lighting, ultra-detailed, urban landscape, high-tech implants, augmented reality
-```
-
-[Source](https://prompthero.com/prompt/da6287037cd-stable-diffusion-xl-base-09-girl-of-the-future-futuristic-design-electronic-artwork-manga-character-techno-noir-animated-drawing-vintage-futurism-pan-futurism-dystopian-cyberpunk)
-
----
-
-<a id="prompthero-dacc7604443"></a>
-
-## Ethereal beauty, soft pastel tones, backlighting, \.\.\.
-
-<a href="https://cdn.prompthero.com/txuaqacne7ydqswzksamktkoyew2-midjourney-52-ethereal-beauty-soft-pastel-tones-backlighting-long-exposure-flowing-fabric-portrait-of-a-dancer-in-midair13-style-of-kirsty-mitchell.png"><img src="https://cdn.prompthero.com/txuaqacne7ydqswzksamktkoyew2-midjourney-52-ethereal-beauty-soft-pastel-tones-backlighting-long-exposure-flowing-fabric-portrait-of-a-dancer-in-midair13-style-of-kirsty-mitchell.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-Ethereal beauty, soft pastel tones, backlighting, long exposure, flowing fabric, portrait of a dancer in midair::1.3, style of Kirsty Mitchell, surreal, delicate movement, dreamlike, cinematic lighting, ultra high resolution --ar 66:101
-```
-
-[Source](https://prompthero.com/prompt/dacc7604443-midjourney-52-ethereal-beauty-soft-pastel-tones-backlighting-long-exposure-flowing-fabric-portrait-of-a-dancer-in-midair13-style-of-kirsty-mitchell)
-
----
-
-<a id="prompthero-dbcb2e8a34b"></a>
-
-## The image depicts a kitchen scene with a cat sitti\.\.\.
-
-<a href="https://cdn.prompthero.com/uf67pwpxbxf99j2rqji4hax930-hero-10-the-image-depicts-a-kitchen-scene-with-a-cat-sitting-at-a-table-the-cat-has-wide-eyes-and-an.jpeg"><img src="https://cdn.prompthero.com/uf67pwpxbxf99j2rqji4hax930-hero-10-the-image-depicts-a-kitchen-scene-with-a-cat-sitting-at-a-table-the-cat-has-wide-eyes-and-an.jpeg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-The image depicts a kitchen scene with a cat sitting at a table. The cat has wide eyes and an open mouth, appearing surprised or excited, trying to catch a pancake floating in the air in its mouth. In front of the cat is a plate containing three pancakes stacked on top of each other. Above the plate, there's a pancake mid-air, seemingly being thrown towards the cat. The background shows a well-lit kitchen with white cabinets, a tiled backsplash, and various kitchen utensils hanging on the wall. There are also some potted plants visible on the countertop.
-```
-
-[Source](https://prompthero.com/prompt/dbcb2e8a34b-hero-10-the-image-depicts-a-kitchen-scene-with-a-cat-sitting-at-a-table-the-cat-has-wide-eyes-and-an)
-
----
-
-<a id="prompthero-dc44e44d414"></a>
-
-## photorealistic, detailed flying debris,a bulk fema\.\.\.
-
-<a href="https://cdn.prompthero.com/x00ae8u94yy2re5a6iw7asgy9opn-dalle-3-photorealistic-detailed-flying-debrisa-bulk-female-warrior-in-halo-spartan-armor-fighting-strongly-an-army-of-aliens-perfect-fit-body.jpg"><img src="https://cdn.prompthero.com/x00ae8u94yy2re5a6iw7asgy9opn-dalle-3-photorealistic-detailed-flying-debrisa-bulk-female-warrior-in-halo-spartan-armor-fighting-strongly-an-army-of-aliens-perfect-fit-body.jpg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-photorealistic, detailed flying debris,a bulk female warrior in halo spartan armor fighting strongly an army of aliens, perfect fit body, purple aura fire around her, body dynamic epic action pose, bladerunner city street ruined background, trending on artstation, extreme details, cinematic, surreal, manga, anime, intricate details, very detailed and intricate armor, octane render, dynamic epic action pose
-```
-
-[Source](https://prompthero.com/prompt/dc44e44d414-dalle-3-photorealistic-detailed-flying-debrisa-bulk-female-warrior-in-halo-spartan-armor-fighting-strongly-an-army-of-aliens-perfect-fit-body)
-
----
-
-<a id="prompthero-decac8256df"></a>
-
-## A DEMONIAC ​​CAT WITH RED EYES AND AN EVIL LOOK, W\.\.\.
-
-<a href="https://cdn.prompthero.com/2ll9nl201zs9dt06aa9km7ady6ol-flux-flux-11-pro-ultra-a-demoniac-cat-with-red-eyes-and-an-evil-look-with-a-jet-black-fur-with-some-touches-of-grey.jpg"><img src="https://cdn.prompthero.com/2ll9nl201zs9dt06aa9km7ady6ol-flux-flux-11-pro-ultra-a-demoniac-cat-with-red-eyes-and-an-evil-look-with-a-jet-black-fur-with-some-touches-of-grey.jpg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-A DEMONIAC ​​CAT WITH RED EYES AND AN EVIL LOOK, WITH A JET BLACK FUR, WITH SOME TOUCHES OF GREY FUR ON THE FLOOR OF AN ELEGANT APARTMENT, WHICH STEPS ON A GREEN CARPET THAT REFLECTS DANTE'S INFERNO LIKE A MIRROR, THE BLACK OF THE CAT STANDS OUT TOTALLY AGAINST THE WHITE WALLS OF THE APARTMENT AS IT COMES OUT OF THE HALLWAY AS DARK AS IT IS. THAT THE ANGLE IS VIEWED CLOSE TO THE SKY, WHERE THE CAT'S FEATURES ARE EXTREMELY REALISTIC
-```
-
-[Source](https://prompthero.com/prompt/decac8256df-flux-flux-11-pro-ultra-a-demoniac-cat-with-red-eyes-and-an-evil-look-with-a-jet-black-fur-with-some-touches-of-grey)
-
----
-
-<a id="prompthero-df4330e66b4"></a>
-
-## Gilded Batman
-
-<a href="https://cdn.prompthero.com/xilpxmv1dahrk7bklmqtu8nu291y-stable-diffusion-21-768-gilded-batman.png"><img src="https://cdn.prompthero.com/xilpxmv1dahrk7bklmqtu8nu291y-stable-diffusion-21-768-gilded-batman.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-octane render of cyberpunk batman by Tsutomu nihei, looking at the camera, (chrome silk with intricate ornate weaved golden filiegree:1.4), highly ornate, dark mysterious background
-```
-
-[Source](https://prompthero.com/prompt/df4330e66b4-stable-diffusion-21-768-gilded-batman)
-
----
-
 <a id="prompthero-e2a7f55bd14"></a>
 
 ## View from inside a car, shot through the windshiel\.\.\.
@@ -323,6 +211,118 @@ A hyper-realistic, cinematic image of a lone ninja sitting in deep meditation am
 ```
 
 [Source](https://prompthero.com/prompt/f2d3f6bdbee-flux-dev-a-hyper-realistic-cinematic-image-of-a-lone-ninja-sitting-in-deep-meditation-amidst-a-violent-blizzard-his-body-partially)
+
+---
+
+<a id="prompthero-f3cde24ccaf"></a>
+
+## Transform to extreme vivid fantasy realism style a\.\.\.
+
+<a href="https://cdn.prompthero.com/a8z0yev77jve2h1wxb3mw6dqugt7-flux-flux-11-pro-transform-to-extreme-vivid-fantasy-realism-style-art-ultra-detailed-masterpiece-depiction-of-storm-from-marvel-inc-in-hyper-realistic.jpg"><img src="https://cdn.prompthero.com/a8z0yev77jve2h1wxb3mw6dqugt7-flux-flux-11-pro-transform-to-extreme-vivid-fantasy-realism-style-art-ultra-detailed-masterpiece-depiction-of-storm-from-marvel-inc-in-hyper-realistic.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+Transform to extreme vivid fantasy realism style art, ultra-detailed masterpiece, depiction of Storm from Marvel Inc., in hyper-realistic fantasy digital photography, meticulously captured with precision and care, centered, perfect composition, overexposed photography creating a striking and ethereal atmosphere, sharp focus ensuring exquisite details, clear and bright elements highlighting her iconic white attire, expressive eyes filled with power and compassion, the intricate details showcasing her dynamic pose and flowing cape, seamlessly merging realism with fantasy, celebrating the essence of command and weather control in a visually stunning and imaginative setting.
+```
+
+[Source](https://prompthero.com/prompt/f3cde24ccaf-flux-flux-11-pro-transform-to-extreme-vivid-fantasy-realism-style-art-ultra-detailed-masterpiece-depiction-of-storm-from-marvel-inc-in-hyper-realistic)
+
+---
+
+<a id="prompthero-f3e42a93ea2"></a>
+
+## german soldier, world war 2, standing, perfect hum\.\.\.
+
+<a href="https://cdn.prompthero.com/017cfv10oj6ya9wuzhzuwfh20567-midjourney-52-german-soldier-world-war-2-standing-perfect-human-eyes-perfect-human-pupils-male-intricate-artwork-by-joaquin-sorolla-soft-natural.png"><img src="https://cdn.prompthero.com/017cfv10oj6ya9wuzhzuwfh20567-midjourney-52-german-soldier-world-war-2-standing-perfect-human-eyes-perfect-human-pupils-male-intricate-artwork-by-joaquin-sorolla-soft-natural.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+german soldier, world war 2, standing, perfect human eyes, perfect human pupils, male, intricate artwork by Joaquin Sorolla, soft natural light, 85mm, sunshine on his face, cinematic lighting, lumen reflections, photography, stunning environment, Hyperrealism, cgi, octane render, raytracing
+```
+
+By [@Dallas59](https://prompthero.com/prompt/f3e42a93ea2-midjourney-52-german-soldier-world-war-2-standing-perfect-human-eyes-perfect-human-pupils-male-intricate-artwork-by-joaquin-sorolla-soft-natural)
+
+---
+
+<a id="prompthero-f5c35e99a60"></a>
+
+## photograph, front central shot, full-length, unkno\.\.\.
+
+<a href="https://cdn.prompthero.com/gd48x5s3e3vvyzor2bwa0k78yn-midjourney-shatter-photograph-front-central-shot-full-length-unknown-gender-figure-black-and-vibrant-radioactive-green-color-palette-swirling-vibrant-radioactive-green.png"><img src="https://cdn.prompthero.com/gd48x5s3e3vvyzor2bwa0k78yn-midjourney-shatter-photograph-front-central-shot-full-length-unknown-gender-figure-black-and-vibrant-radioactive-green-color-palette-swirling-vibrant-radioactive-green.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+photograph, front central shot, full-length, unknown gender figure, black and vibrant radioactive green color palette, swirling vibrant radioactive green color smoke around figure head, cloud-like formation, mysterious and surreal vibe, figure wears a plain minimalist white wear, enigmatic scene is set against a minimalist, two tone monochrome background to emphasize the smoke's texture and movement, mystical atmosphere, reinterpretation of reality, rich detailing --ar 9:16 --raw
+```
+
+By [@Grayve](https://prompthero.com/prompt/f5c35e99a60-midjourney-shatter-photograph-front-central-shot-full-length-unknown-gender-figure-black-and-vibrant-radioactive-green-color-palette-swirling-vibrant-radioactive-green)
+
+---
+
+<a id="prompthero-f7ee784e445"></a>
+
+## girl of the future using a food vendor machine, fu\.\.\.
+
+<a href="https://cdn.prompthero.com/p8wwk3kaajhp4y8xgrfbgkp2h9kz-flux-flux-11-pro-girl-of-the-future-using-a-food-vendor-machine-futuristic-design-electronic-artwork-manga-character-techno-noir-animated-drawing-vintage.jpg"><img src="https://cdn.prompthero.com/p8wwk3kaajhp4y8xgrfbgkp2h9kz-flux-flux-11-pro-girl-of-the-future-using-a-food-vendor-machine-futuristic-design-electronic-artwork-manga-character-techno-noir-animated-drawing-vintage.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+girl of the future using a food vendor machine, futuristic design, electronic artwork, manga character, techno-noir, animated drawing, vintage futurism, pan futurism, dystopian cyberpunk, neon-lit urban landscape, dark and gritty, high-tech, graffiti, futuristic gadgets, cinematic, detailed cityscape, moody lighting, ultra-detailed, urban landscape, high-tech implants, augmented reality
+```
+
+[Source](https://prompthero.com/prompt/f7ee784e445-flux-flux-11-pro-girl-of-the-future-using-a-food-vendor-machine-futuristic-design-electronic-artwork-manga-character-techno-noir-animated-drawing-vintage)
+
+---
+
+<a id="prompthero-f14a71bd2e8"></a>
+
+## image d&\#39;une personne enveloppée dans un matériau s\.\.\.
+
+<a href="https://cdn.prompthero.com/ewm7yqt26md3ionf1qp9uvhiadku-flux-flux-11-pro-image-dune-personne-enveloppe-dans-un-matriau-semblable-un-linceul-semble-fusionner-avec-lair-qui-lentoure-contraste-lev-entre-le.jpg"><img src="https://cdn.prompthero.com/ewm7yqt26md3ionf1qp9uvhiadku-flux-flux-11-pro-image-dune-personne-enveloppe-dans-un-matriau-semblable-un-linceul-semble-fusionner-avec-lair-qui-lentoure-contraste-lev-entre-le.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+image d'une personne enveloppée dans un matériau semblable à un linceul, semble fusionner avec l'air qui l'entoure, contraste élevé entre le fond sombre et la texture lumineuse et éclatante du matériau pour donner une sensation d'émergence ou de transformation, nuances monochromes pour rehausser l'atmosphère mystérieuse et intense --ar 9:16 --style rawPhoto of a ultra realistic sailing ship, dramatic light, pale sunrise, cinematic lighting, battered, low angle, trending on artstation, 4k, hyper realistic, focused, extreme details, unreal engine 5, cinematic, masterpiece, art by studio ghibli, intricate artwork by john william turner
+```
+
+[Source](https://prompthero.com/prompt/f14a71bd2e8-flux-flux-11-pro-image-dune-personne-enveloppe-dans-un-matriau-semblable-un-linceul-semble-fusionner-avec-lair-qui-lentoure-contraste-lev-entre-le)
+
+---
+
+<a id="prompthero-f40b518f307"></a>
+
+## futuristic man in a sleek tactical suit, vibrant d\.\.\.
+
+<a href="https://cdn.prompthero.com/djsql9eg95tktsbi04avdglgqmpf-flux-flux-11-pro-futuristic-man-in-a-sleek-tactical-suit-vibrant-desert-landscape-intense-blue-sky-dramatic-sunlit-shadows-gun-gripped-firmly-helmet.jpg"><img src="https://cdn.prompthero.com/djsql9eg95tktsbi04avdglgqmpf-flux-flux-11-pro-futuristic-man-in-a-sleek-tactical-suit-vibrant-desert-landscape-intense-blue-sky-dramatic-sunlit-shadows-gun-gripped-firmly-helmet.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+futuristic man in a sleek tactical suit, vibrant desert landscape, intense blue sky, dramatic sunlit shadows, gun gripped firmly, helmet reflective, Charles Fremont Conner in dynamic pose, concept art style, high detail, cinematic atmosphere, stark contrasts, vast sand dunes, unique sci-fi elements, ultra-detailed, vision of an antipodean future, showcasing strength and resilience.
+```
+
+[Source](https://prompthero.com/prompt/f40b518f307-flux-flux-11-pro-futuristic-man-in-a-sleek-tactical-suit-vibrant-desert-landscape-intense-blue-sky-dramatic-sunlit-shadows-gun-gripped-firmly-helmet)
+
+---
+
+<a id="prompthero-f63b728ea0b"></a>
+
+## Specialist &quot;Agile&quot; Kyle
+
+<a href="https://cdn.prompthero.com/pffyuo25anp73gsz1iv0tr8nxmw0-midjourney-51-specialist-agile-kyle.jpg"><img src="https://cdn.prompthero.com/pffyuo25anp73gsz1iv0tr8nxmw0-midjourney-51-specialist-agile-kyle.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+Agile black wolf soldier character, anthropomorphic figure, wearing futuristic soldier armor and weapons, reflection mapping, realistic figure, hyper-detailed, cinematic lighting photography, 32k uhd --ar 9:16 --s 750
+```
+
+By [@abyishot](https://prompthero.com/prompt/f63b728ea0b-midjourney-51-specialist-agile-kyle)
 
 ---
 

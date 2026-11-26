@@ -6,70 +6,6 @@
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
-<a id="prompthero-c7009d3595e"></a>
-
-## A woman in a pink sweater covers her eyes with o\.\.\.
-
-<a href="https://cdn.prompthero.com/chhn4ao5241gy5akjhrxoclo6jl1-flux-pro-a-woman-in-a-pink-sweater-covers-her-eyes-with-one-hand-stands-on-the-beach-as-waves-crash-against.jpg"><img src="https://cdn.prompthero.com/chhn4ao5241gy5akjhrxoclo6jl1-flux-pro-a-woman-in-a-pink-sweater-covers-her-eyes-with-one-hand-stands-on-the-beach-as-waves-crash-against.jpg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-A woman in a pink sweater covers her eyes with one hand, stands on the beach as waves crash against the shore. The wind blows, causing her hair and to billow. The photo was taken from a distance, with a film grain effect and a 35mm film lens, in the style of Kodak Portra 400T. The ocean horizon is visible, and the pink shirt creates a motion blur. --ar 3:4 --v 6.1 --stylize 500 --personalize 53tzzks
-```
-
-By [@chorlo](https://prompthero.com/prompt/c7009d3595e-flux-pro-a-woman-in-a-pink-sweater-covers-her-eyes-with-one-hand-stands-on-the-beach-as-waves-crash-against)
-
----
-
-<a id="prompthero-c50666c57b2"></a>
-
-## Foot Bow Archer
-
-<a href="https://cdn.prompthero.com/zwmflhhji52wgtf4nj5z7rfqi4lm-stable-diffusion-xl-base-09-foot-bow-archer.jpg"><img src="https://cdn.prompthero.com/zwmflhhji52wgtf4nj5z7rfqi4lm-stable-diffusion-xl-base-09-foot-bow-archer.jpg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-professional athlete woman, fit, beautiful, slender, natural curves, attractive, dark red hair, ((foot-bow)), fully clothed, wearing athlete t-shirt, cozy ((pants)), flushed cheeks, warm sunny day, movement, motion, zoomed-out, suspended in the air, holding on to poles, 3d digital art, amazing wallpaper in 8k sharp focus, upscaling image art, ((full body character concept)), ((((amazing masterpiece digital art, hdr, uhd, depth of field, detailed background)))), ::: PERFECT HANDS, :::PERFECT ANOTOMY, :::PERFECT BODY, :::PERFECT SYMMETRY, ::: PERFECT FEET, ::: PERFECT FACE, ::: PERFECT POSE, ::: PERFECT BOW
-```
-
-By [@Atheist](https://prompthero.com/prompt/c50666c57b2-stable-diffusion-xl-base-09-foot-bow-archer)
-
----
-
-<a id="prompthero-c50741d973f"></a>
-
-## the face of a woman with brown eyes the face of a \.\.\.
-
-<a href="https://cdn.prompthero.com/rmhui3lop7uqilke91aulwrae1jf-midjourney-52-the-face-of-a-woman-with-brown-eyes-the-face-of-a-person-in-the-style-of-yigal-ozeri-light.png"><img src="https://cdn.prompthero.com/rmhui3lop7uqilke91aulwrae1jf-midjourney-52-the-face-of-a-woman-with-brown-eyes-the-face-of-a-person-in-the-style-of-yigal-ozeri-light.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-the face of a woman with brown eyes the face of a person, in the style of yigal ozeri, light navy and light gray, patrick demarchelier, alayna lemmer, focus on joints/connections, caravaggism, studio light --ar 44:65 --stylize 750 --v 5.2
-```
-
-By [@NorthmoorAI](https://prompthero.com/prompt/c50741d973f-midjourney-52-the-face-of-a-woman-with-brown-eyes-the-face-of-a-person-in-the-style-of-yigal-ozeri-light)
-
----
-
-<a id="prompthero-c60676db61a"></a>
-
-## Ultra-cinematic black-and-white portrait of a youn\.\.\.
-
-<a href="https://cdn.prompthero.com/v1_2b94acd9ac6c1ab51f156582bf-stable-diffusion-35-large-ultra-cinematic-black-and-white-portrait-of-a-young-man-standing-in-a-dark-minimalist-studio-wearing-a-long-black.jpeg"><img src="https://cdn.prompthero.com/v1_2b94acd9ac6c1ab51f156582bf-stable-diffusion-35-large-ultra-cinematic-black-and-white-portrait-of-a-young-man-standing-in-a-dark-minimalist-studio-wearing-a-long-black.jpeg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-Ultra-cinematic black-and-white portrait of a young man standing in a dark minimalist studio, wearing a long black wool overcoat and black knit sweater. Dramatic single spotlight from the upper left corner creates a strong diagonal beam of light across the background and partially illuminates the face. Subject positioned slightly off-center, looking away from the camera with a contemplative, melancholic expression. Sharp jawline, textured messy hair, subtle skin detail, high-fashion editorial styling. Deep shadows, high contrast monochrome photography, moody atmosphere, fine art portrait, luxury fashion campaign aesthetic, minimal composition, negative space, soft falloff lighting, volumetric light beam, chiaroscuro lighting inspired by classic cinema and modern fashion editorials. Professional studio photography, medium shot, 85mm lens, f/2.0, shallow depth of field, ultra-detailed facial features, realistic skin texture, cinematic tonal range, rich blacks, smooth grayscale transitions, premium magazine cover quality, dramatic mood, timeless elegance. Background completely dark except for the diagonal spotlight, subtle haze to enhance the light beam, clean composition, no distractions, no props, photorealistic, masterpiece quality, 8k resolution.
-```
-
-[Source](https://prompthero.com/prompt/c60676db61a-stable-diffusion-35-large-ultra-cinematic-black-and-white-portrait-of-a-young-man-standing-in-a-dark-minimalist-studio-wearing-a-long-black)
-
----
-
 <a id="prompthero-c9201724801"></a>
 
 ## Hunt for Diablo: Aveline
@@ -323,6 +259,70 @@ A fashion editorial, fashion photography, back view of shorthaired etiopian woma
 ```
 
 [Source](https://prompthero.com/prompt/d5d4e7dd49d-stable-diffusion-35-large-a-fashion-editorial-fashion-photography-back-view-of-shorthaired-etiopian-woman-looking-back-at-us-in-gold-thong-standing-in)
+
+---
+
+<a id="prompthero-d09d76cf9bd"></a>
+
+## RAW photo, solo, A highly detailed portrait of an \.\.\.
+
+<a href="https://cdn.prompthero.com/hvdirvfe995ba8531w49sx16cooz-flux-flux1-dev-raw-photo-solo-a-highly-detailed-portrait-of-an-alien-creature-inspired-by-the-xenomorph-from-the-alien-movies-the.png"><img src="https://cdn.prompthero.com/hvdirvfe995ba8531w49sx16cooz-flux-flux1-dev-raw-photo-solo-a-highly-detailed-portrait-of-an-alien-creature-inspired-by-the-xenomorph-from-the-alien-movies-the.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+RAW photo, solo, A highly detailed portrait of an alien creature inspired by the Xenomorph from the Alien movies. The creature has a sleek, elongated head with a smooth, dome-like surface, full, devoid of visible eyes, creating an eerie and unsettling appearance. Its mouth is filled with short razor-sharp, metallic color teeth, with a second smaller set of teeth emerging from within its mouth like a small black box coming out of its mouth with sharp teeth at the end. The skin is a glossy, black exoskeleton that reflects light in a sinister way, with biomechanical ridges and tubes running along the head and neck. The background is a dark, industrial environment with metallic walls, dripping water, and wisps of steam, adding to the creature's menacing presence. The lighting casts deep shadows across the alien's features, emphasizing its terrifying and otherworldly nature. the alien is inside a dark spaceshipp with steam and water drips
+```
+
+[Source](https://prompthero.com/prompt/d09d76cf9bd-flux-flux1-dev-raw-photo-solo-a-highly-detailed-portrait-of-an-alien-creature-inspired-by-the-xenomorph-from-the-alien-movies-the)
+
+---
+
+<a id="prompthero-d11cfb2cea3"></a>
+
+## photography, full-body, older man model standing a\.\.\.
+
+<a href="https://cdn.prompthero.com/qpy4gx7z7ccahug9433kw4m0xi6n-midjourney-6-photography-full-body-older-man-model-standing-against-a-textured-rustic-purple-wall-giving-off-an-aura-of-wisdom-and.png"><img src="https://cdn.prompthero.com/qpy4gx7z7ccahug9433kw4m0xi6n-midjourney-6-photography-full-body-older-man-model-standing-against-a-textured-rustic-purple-wall-giving-off-an-aura-of-wisdom-and.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+photography, full-body, older man model standing against a textured rustic purple wall, giving off an aura of wisdom and experience, monochromatic black T-shirt, with a small minimalist tattoo and black Apple watch, and worn black & white low-top sneakers, silver hair styling, complemented by black frame glasses, his hand tucked in his pocket, presenting a portrait of aged grace and street fashion style, confidence, photorealism, ultra realistic, UHD, many detail --ar 9:16 --style raw --stylize 700
+```
+
+By [@Grayve](https://prompthero.com/prompt/d11cfb2cea3-midjourney-6-photography-full-body-older-man-model-standing-against-a-textured-rustic-purple-wall-giving-off-an-aura-of-wisdom-and)
+
+---
+
+<a id="prompthero-d14af99959f"></a>
+
+## A photo of an African American woman with long, wa\.\.\.
+
+<a href="https://cdn.prompthero.com/l89204n0fndkouqqp0uibx45a5wu-midjourney-52-a-photo-of-an-african-american-woman-with-long-wavy-hair-in-the-style-of-1960s-fashion-she-is-wearing.png"><img src="https://cdn.prompthero.com/l89204n0fndkouqqp0uibx45a5wu-midjourney-52-a-photo-of-an-african-american-woman-with-long-wavy-hair-in-the-style-of-1960s-fashion-she-is-wearing.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+A photo of an African American woman with long, wavy hair in the style of 1960s fashion. She is wearing white and pink attire, smiling warmly at the camera. The background features soft lighting and vibrant colors typical of that era. This vintage photograph captures her natural beauty and fashionable look from those times. --ar 45:64 --v 5.2
+```
+
+By [@Dallas59](https://prompthero.com/prompt/d14af99959f-midjourney-52-a-photo-of-an-african-american-woman-with-long-wavy-hair-in-the-style-of-1960s-fashion-she-is-wearing)
+
+---
+
+<a id="prompthero-d20df414e3c"></a>
+
+## \(Masterpiece:1\. 5\) , RAW photo, film grain, \(best \.\.\.
+
+<a href="https://cdn.prompthero.com/w5vccrbzr83emtm41w1dwxh3duwf-flux-flux-11-pro-masterpiece1-5-raw-photo-film-grain-best-quality1-5-photorealistic-realistic-real-picture-intricate-details-photo-of-full-body-a.jpg"><img src="https://cdn.prompthero.com/w5vccrbzr83emtm41w1dwxh3duwf-flux-flux-11-pro-masterpiece1-5-raw-photo-film-grain-best-quality1-5-photorealistic-realistic-real-picture-intricate-details-photo-of-full-body-a.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+(Masterpiece:1. 5) , RAW photo, film grain, (best quality:1. 5) , (photorealistic) , realistic, real picture, intricate details, photo of full body a cute cat in a super mario bros dress, (wastelands background)
+```
+
+[Source](https://prompthero.com/prompt/d20df414e3c-flux-flux-11-pro-masterpiece1-5-raw-photo-film-grain-best-quality1-5-photorealistic-realistic-real-picture-intricate-details-photo-of-full-body-a)
 
 ---
 

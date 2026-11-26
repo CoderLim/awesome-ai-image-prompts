@@ -102,22 +102,6 @@ By [@MrLarus](https://x.com/MrLarus/status/2059248197910827364)
 
 ---
 
-<a id="prompthero-8d9551bd886"></a>
-
-## avatar profile of the game channel called GameTouc\.\.\.
-
-<a href="https://cdn.prompthero.com/ya907q7fen45i5sw2e8kkejweo45-dreamshaper-7-avatar-profile-of-the-game-channel-called-gametouch-in-a-minimalist-style-with-a-simple-background-with-the-abbreviation-gt.png"><img src="https://cdn.prompthero.com/ya907q7fen45i5sw2e8kkejweo45-dreamshaper-7-avatar-profile-of-the-game-channel-called-gametouch-in-a-minimalist-style-with-a-simple-background-with-the-abbreviation-gt.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-avatar profile of the game channel called GameTouch, in a minimalist style with a simple background, with the abbreviation GT on the profile avatar,
-```
-
-[Source](https://prompthero.com/prompt/8d9551bd886-dreamshaper-7-avatar-profile-of-the-game-channel-called-gametouch-in-a-minimalist-style-with-a-simple-background-with-the-abbreviation-gt)
-
----
-
 <a id="prompthero-3005193e3d4"></a>
 
 ## centered, masterpiece, a painting of a man in a bo\.\.\.

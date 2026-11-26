@@ -6,70 +6,6 @@
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
-<a id="prompthero-a922b85fb95"></a>
-
-## an extremely detailed digital illustration, high r\.\.\.
-
-<a href="https://cdn.prompthero.com/dwze1dc4jz3fpyc53e4btwaln2xz-rev-animated-v10-an-extremely-detailed-digital-illustration-high-resolution-masterpiece-of-chr1st1nar1cc1-as-wednesday-addams-black-hair-twin-braids12-cowboy-shot-long.jpeg"><img src="https://cdn.prompthero.com/dwze1dc4jz3fpyc53e4btwaln2xz-rev-animated-v10-an-extremely-detailed-digital-illustration-high-resolution-masterpiece-of-chr1st1nar1cc1-as-wednesday-addams-black-hair-twin-braids12-cowboy-shot-long.jpeg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-an extremely detailed digital illustration, high resolution, masterpiece, (of Chr1st1naR1cc1 as Wednesday Addams), black hair, (twin braids:1.2),   cowboy shot, long hair, looking at viewer, (black onepiece with white polka dots, with white collar),  bangs, black eyes, short sword, grumpy face, glaring,  from above, front view, at night, dark ambient lighting, , <lora:Chr1st1naR1cc1v11:0.75>, <lora:Wednesday Addams:0.25>wednesday addams, lightning <lora:add_detail:0.5>
-```
-
-By [@heeyrina](https://prompthero.com/prompt/a922b85fb95-rev-animated-v10-an-extremely-detailed-digital-illustration-high-resolution-masterpiece-of-chr1st1nar1cc1-as-wednesday-addams-black-hair-twin-braids12-cowboy-shot-long)
-
----
-
-<a id="prompthero-a7607dc2d4e"></a>
-
-## Epic slow-motion scene of a young female superhero\.\.\.
-
-<a href="https://cdn.prompthero.com/01p4w2qphbvr9oq0jq2hgqy24766-flux-flux-11-pro-epic-slow-motion-scene-of-a-young-female-superhero-inspired-by-wonder-woman-leaping-from-a-cliff-into-a-stormy.jpg"><img src="https://cdn.prompthero.com/01p4w2qphbvr9oq0jq2hgqy24766-flux-flux-11-pro-epic-slow-motion-scene-of-a-young-female-superhero-inspired-by-wonder-woman-leaping-from-a-cliff-into-a-stormy.jpg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-Epic slow-motion scene of a young female superhero inspired by Wonder Woman leaping from a cliff into a stormy battlefield. Dark clouds swirl above, lit by dramatic flashes of lightning. The camera follows her from below as she soars through the sky, her cape flowing and armor gleaming. Her shield is locked to her arm, and her eyes glow with intensity. Upon landing, she creates a shockwave that cracks the earth, sending dust and energy outward. The enemy forces recoil in fear. The environment is cinematic, stormy, and full of dramatic lighting. Ultra-realistic visuals with high-quality animation.
-```
-
-[Source](https://prompthero.com/prompt/a7607dc2d4e-flux-flux-11-pro-epic-slow-motion-scene-of-a-young-female-superhero-inspired-by-wonder-woman-leaping-from-a-cliff-into-a-stormy)
-
----
-
-<a id="prompthero-a28931d3c32"></a>
-
-## a realistic photo of a \[very pretty 26 year old wo\.\.\.
-
-<a href="https://cdn.prompthero.com/npfxd68hcj8f2msclywjmztgq7kz-midjourney-6-a-realistic-photo-of-a-very-pretty-26-year-old-woman-with-long-wavy-dark-hair-looks-like-dakota-johnson.png"><img src="https://cdn.prompthero.com/npfxd68hcj8f2msclywjmztgq7kz-midjourney-6-a-realistic-photo-of-a-very-pretty-26-year-old-woman-with-long-wavy-dark-hair-looks-like-dakota-johnson.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-a realistic photo of a [very pretty 26 year old woman], with [long, wavy, dark hair], looks like [Dakota Johnson] and [Felicity Jones], wearing [thick nerd glasses], light makeup, looking [innocent, cute, flushed], [light] skin --ar 9:16 --stylize 750 --v 6
-```
-
-[Source](https://prompthero.com/prompt/a28931d3c32-midjourney-6-a-realistic-photo-of-a-very-pretty-26-year-old-woman-with-long-wavy-dark-hair-looks-like-dakota-johnson)
-
----
-
-<a id="prompthero-a912514fefc"></a>
-
-## A beautiful woman seductively posing by a large wi\.\.\.
-
-<a href="https://cdn.prompthero.com/oor8wf676o2abuv32lxzzy1lndql-stable-diffusion-xl-base-09-tanya-tanya-a-brilliant-actress-with-a-gift-for-daring-roles-that-set-the-screen-ablaze-often-found-herself-caught-in-a-beautiful-woman-seductively-posing-by-a-large-window-wearing-a-sweatshirt-and-underwear-only-daring-photography-minimal-lighting-shadows.jpg"><img src="https://cdn.prompthero.com/oor8wf676o2abuv32lxzzy1lndql-stable-diffusion-xl-base-09-tanya-tanya-a-brilliant-actress-with-a-gift-for-daring-roles-that-set-the-screen-ablaze-often-found-herself-caught-in-a-beautiful-woman-seductively-posing-by-a-large-window-wearing-a-sweatshirt-and-underwear-only-daring-photography-minimal-lighting-shadows.jpg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-A beautiful woman seductively posing by a large window, wearing a sweatshirt and underwear only, daring photography, minimal lighting, shadows, film grain
-```
-
-By [@abyishot](https://prompthero.com/prompt/a912514fefc-stable-diffusion-xl-base-09-tanya-tanya-a-brilliant-actress-with-a-gift-for-daring-roles-that-set-the-screen-ablaze-often-found-herself-caught-in-a-beautiful-woman-seductively-posing-by-a-large-window-wearing-a-sweatshirt-and-underwear-only-daring-photography-minimal-lighting-shadows)
-
----
-
 <a id="prompthero-a1304811bbe"></a>
 
 ## GozdeSeker, a 45 years old woman with olive skin a\.\.\.
@@ -323,6 +259,70 @@ blue and orange paint on the face of a woman, in the style of vray tracing, flui
 ```
 
 By [@NorthmoorAI](https://prompthero.com/prompt/b0b469cad14-midjourney-52-blue-and-orange-paint-on-the-face-of-a-woman-in-the-style-of-vray-tracing-fluid-forms-hyper-realistic)
+
+---
+
+<a id="prompthero-b0d9573619e"></a>
+
+## \{ &quot;meta&quot;: \{ &quot;version&quot;: &quot;1\.2&quot;, &quot;locale&quot;: &quot;es-VE&quot;, &quot;\.\.\.
+
+<a href="https://cdn.prompthero.com/grp4mr2nuui8vjvfk89qljpetd-grok-image-grok-imagine-image-meta-version-12-locale-es-ve-type-advancedprofileanimalhumorgaming-globalconfidence-091-subject-species-domestic-cat-apparentbreed-short-haired-mixed-breed-furcolor.jpeg"><img src="https://cdn.prompthero.com/grp4mr2nuui8vjvfk89qljpetd-grok-image-grok-imagine-image-meta-version-12-locale-es-ve-type-advancedprofileanimalhumorgaming-globalconfidence-091-subject-species-domestic-cat-apparentbreed-short-haired-mixed-breed-furcolor.jpeg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+{ "meta": { "version": "1.2", "locale": "es-VE", "type": "advanced_profile_animal_humor_gaming", "global_confidence": 0.91 }, "subject": { "species": "domestic cat", "apparent_breed": "short-haired mixed breed", "fur_color": "light orange with white tones", "expression": "neutral with a fixed gaze", "confidence": 0.88 }, "accessories": { "mask": { "type": "black balaclava", "fit": "covering head and ears, leaving eyes and muzzle visible", "confidence": 0.94 }, "headphones": { "type": "gaming headphones with microphone", "color": "black", "position": "over the mask, well adjusted", "confidence": 0.92 } }, "context": { "location": "indoors in front of monitor", "simulated_activity": "playing FPS video game", "key_elements": [ "monitor with first-person shooter game", "weapon visible on screen", "soft artificial lighting" "Counter-Strike 1.6" ] "confidence": 0.89 }, "composition": { "framing": "centered medium shot", "angle": "slightly high", "background": { "type": "monitor on", "content": "video game scene with rifle", "complexity": "medium", "confidence": 0.86 } }, "lighting": { "type": "mixed (natural and screen)", "direction": "front from monitor", "apparent_temperature": "cold", "uniformity": "medium", "confidence": 0.84 }, "image_quality": { "sharpness": "medium", "noise": "low", "color": "neutral with a predominance of grays", "artifacts": "minimal", "confidence": 0.87 }, "simulated_camera": { "platform": "smartphone or webcam", "equivalent_focal_length": "28-35 mm", "equivalent_aperture": "f/2.2", "white_balance": "auto", "confidence": 0.75 }, "segmentation": { "classes": [ "cat", "clothing/accessories", "headphones", "monitor", "video game", "indoor background" ], "recommended background_mask": "keep screen for humorous context", "confidence": 0.83 }, "interpretation": { "tone": "humorous", "apparent_intent": "parody of a professional gamer", "visual_impact": "high due to contrast between animal and human environment", "confidence": 0.9 }, "authenticity_risks": { "AI_indicators": "not visible", "inconsistencies": "none apparent", "verdict": "realistic photograph with humorous elements", "confidence": 0.88 }, "recommended_uses": { "memes": "excellent for composition and concept", "viral content": "very suitable for social media", "humorous gaming campaigns": "high potential", "confidence": 0.92 }, "prompt_adaptable": { "style": "humorous meme-style photo", "short_description": "cat wearing a balaclava and headset in front of a monitor playing an FPS video game, specifically Counter-Strike 1.6", "parameters": { "subject": "domestic cat", "accessories": "black balaclava, gaming headset with microphone", "background": "monitor on with a shooting game", "light": "front lighting from the screen, cool tone", "composition": "centered medium shot, slightly elevated angle", "context": "indoors, humorous gamer scene", "processing": "natural, without exaggerated filters" } }, "notes": [ "The image plays with anthropomorphism to generate humor." "Ideal for digital content that combines cuteness and gamer comedy." ] }
+```
+
+[Source](https://prompthero.com/prompt/b0d9573619e-grok-image-grok-imagine-image-meta-version-12-locale-es-ve-type-advancedprofileanimalhumorgaming-globalconfidence-091-subject-species-domestic-cat-apparentbreed-short-haired-mixed-breed-furcolor)
+
+---
+
+<a id="prompthero-b1eaa1f9a1d"></a>
+
+## cyberpunk game style a photo of a slim, small brea\.\.\.
+
+<a href="https://cdn.prompthero.com/lhxp91kj868pwwjx2qq30cy2vbk3-flux-dev-cyberpunk-game-style-a-photo-of-a-slim-small-breast-flat-chest-abs-young-asian-female-supermodel-with-short-messy.png"><img src="https://cdn.prompthero.com/lhxp91kj868pwwjx2qq30cy2vbk3-flux-dev-cyberpunk-game-style-a-photo-of-a-slim-small-breast-flat-chest-abs-young-asian-female-supermodel-with-short-messy.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+cyberpunk game style a photo of a slim, small breast, flat chest, abs, young asian female supermodel, with short messy black hair, Nano-weapon concealment jacket, midriff, Biometric lockdown leggings, Executing superhuman parkour sequence, in the background Nanotech contamination quarantine zone . neon, dystopian, futuristic, digital, vibrant, detailed, high contrast, reminiscent of cyberpunk genre video games
+```
+
+By [@AkiraS](https://prompthero.com/prompt/b1eaa1f9a1d-flux-dev-cyberpunk-game-style-a-photo-of-a-slim-small-breast-flat-chest-abs-young-asian-female-supermodel-with-short-messy)
+
+---
+
+<a id="prompthero-b2da23a7940"></a>
+
+## photography, candid shot, a boy and dad, beaming w\.\.\.
+
+<a href="https://cdn.prompthero.com/j1vr6y6vwbsx8yabs784ru0tsgel-midjourney-6-photography-candid-shot-a-boy-and-dad-beaming-with-a-wide-grin-stands-on-a-skateboard-boy-wearing-a-white.png"><img src="https://cdn.prompthero.com/j1vr6y6vwbsx8yabs784ru0tsgel-midjourney-6-photography-candid-shot-a-boy-and-dad-beaming-with-a-wide-grin-stands-on-a-skateboard-boy-wearing-a-white.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+photography, candid shot, a boy and dad, beaming with a wide grin, stands on a skateboard, boy wearing a white loose-fit T-shirt with a playful yet cool vibe, dark grey cargo jogger, they hold onto the strong hands of an adult whose lower half is visible, showing black loose-fit long sleeves and hands adorned with detailed tattoos, both wear Nike SB skateboard shoes, offering a contrast between new and comfortably worn, balance, perfect face-to-body ratio, and shared joy between generations, all set within the soft, natural light of a serene, used camera Sony α9 II with Sony FE 100-400mm f/4.5-5.6 GM OSS lens, emulating a high-contrast effect, UHD --ar 9:16 --style raw --stylize 600
+```
+
+By [@Grayve](https://prompthero.com/prompt/b2da23a7940-midjourney-6-photography-candid-shot-a-boy-and-dad-beaming-with-a-wide-grin-stands-on-a-skateboard-boy-wearing-a-white)
+
+---
+
+<a id="prompthero-b3b36b2a5e9"></a>
+
+## Youth Uprising: Laura
+
+<a href="https://cdn.prompthero.com/hu5fm9l4pzhppy68vrzjgio5g3to-stable-diffusion-xl-base-09-youth-uprising-laura.jpg"><img src="https://cdn.prompthero.com/hu5fm9l4pzhppy68vrzjgio5g3to-stable-diffusion-xl-base-09-youth-uprising-laura.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+(masterpiece,best quality, ultra-realistic, 32k, RAW photo, detailed skin, 8k UHD, high quality:1.2), street grunge style portrait of a young beautiful cyberpunk woman, messy long hair, revolution, riot gear, cyberpunk city background, megacity, sunset, paint style of Mike Winkelmann, high detail, digital art <lora:add-detail-xl:5>
+```
+
+By [@abyishot](https://prompthero.com/prompt/b3b36b2a5e9-stable-diffusion-xl-base-09-youth-uprising-laura)
 
 ---
 

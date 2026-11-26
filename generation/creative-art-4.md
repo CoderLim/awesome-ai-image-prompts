@@ -6,38 +6,6 @@
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
-<a id="prompthero-4b508ad4c76"></a>
-
-## \(A hyper-realistic, cinematic photograph in the st\.\.\.
-
-<a href="https://cdn.prompthero.com/6x3h1v3y8ze97cqfw9eusqrw2eni-flux-flux-11-pro-ultra-a-hyper-realistic-cinematic-photograph-in-the-style-of-1970s-soviet-sci-fi13-depicting-a-lone-soviet-arctic-explorer-struggling.jpg"><img src="https://cdn.prompthero.com/6x3h1v3y8ze97cqfw9eusqrw2eni-flux-flux-11-pro-ultra-a-hyper-realistic-cinematic-photograph-in-the-style-of-1970s-soviet-sci-fi13-depicting-a-lone-soviet-arctic-explorer-struggling.jpg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-(A hyper-realistic, cinematic photograph in the style of 1970s Soviet sci-fi:1.3), depicting a lone Soviet Arctic explorer struggling through an intense blizzard (flying snow particles:1.7) as the setting sun (setting sun through blizzard:1.5) tries to pierce through the swirling storm. The explorer is clad in a bulky, worn, and weathered retro-futuristic spacesuit, with faded red and white accents and a prominently displayed CCCP insignia across the chest (CCCP insignia:1.5). His suit is covered in frost and ice, battered by the harsh Arctic conditions, with snow clinging to the edges and joints. The blizzard is fierce, with snow and ice particles violently flying through the air (flying snow particles:1.7), obscuring the landscape and making the explorer’s journey even more treacherous. The air is thick with whipping snow, which interacts with the faint light from the setting sun (sunlight piercing through storm:1.5), casting dim, golden beams that struggle to penetrate the storm. The light creates fleeting, volumetric shafts through the blizzard, catching on the swirling snowflakes and illuminating the scene in brief, ghostly flashes. Despite the fading light and harsh conditions, the explorer presses on toward a barely visible nuclear generator (nuclear generator:1.4), half-buried under the snow. His steps are slow and heavy, with snow building up around his legs as he fights against the wind. The worn spacesuit shows signs of prolonged use, with cracks in the visor fogging over, and his breath visible inside the helmet. Snow particles whip violently around him, catching the last of the day’s light, while patches of golden sunlight filter through the blizzard, giving a surreal and fleeting glow to the harsh, frozen landscape. The setting sun casts long, dramatic shadows across the snow-covered ground, but the intensity of the storm continually threatens to snuff out the light, making the environment feel overwhelming and unforgiving. The blizzard is relentless, with snow and ice clinging to the explorer’s spacesuit, and the setting sun adds a feeling of urgency, as if time is running out. The last beams of sunlight interact with the flying snow particles, creating a flickering effect, with the light constantly shifting and fading as the explorer marches forward.
-```
-
-[Source](https://prompthero.com/prompt/4b508ad4c76-flux-flux-11-pro-ultra-a-hyper-realistic-cinematic-photograph-in-the-style-of-1970s-soviet-sci-fi13-depicting-a-lone-soviet-arctic-explorer-struggling)
-
----
-
-<a id="prompthero-4b7282bf72f"></a>
-
-## A close up of mysterious woman in orange veil cloa\.\.\.
-
-<a href="https://cdn.prompthero.com/ell70gj9hnrt3xmusn1o9th20yvd-stable-diffusion-2-base-a-close-up-of-mysterious-woman-in-orange-veil-cloak-walking-in-autumn-forest-sharp-detail-and-dramatic-focus-highres.png"><img src="https://cdn.prompthero.com/ell70gj9hnrt3xmusn1o9th20yvd-stable-diffusion-2-base-a-close-up-of-mysterious-woman-in-orange-veil-cloak-walking-in-autumn-forest-sharp-detail-and-dramatic-focus-highres.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-A close up of mysterious woman in orange veil cloak walking in autumn forest, sharp detail and dramatic focus, highres, realistic photo, professional photography, cinematic angle, dynamic light back shining, bokeh,
-```
-
-[Source](https://prompthero.com/prompt/4b7282bf72f-stable-diffusion-2-base-a-close-up-of-mysterious-woman-in-orange-veil-cloak-walking-in-autumn-forest-sharp-detail-and-dramatic-focus-highres)
-
----
-
 <a id="prompthero-4c73fa23b5f"></a>
 
 ## Young Samurai with long black hair and ponytail, w\.\.\.
@@ -323,6 +291,38 @@ A whimsical and surreal illustration featuring a Dr. Seuss-inspired Safari Queen
 ```
 
 [Source](https://prompthero.com/prompt/7a8d18dc8ac-flux-schnell-a-whimsical-and-surreal-illustration-featuring-a-dr-seuss-inspired-safari-queen-adorned-in-an-eclectic-array-of-animal-prints)
+
+---
+
+<a id="prompthero-07ae9c76f5c"></a>
+
+## A surreal, abstract artwork featuring three figure\.\.\.
+
+<a href="https://cdn.prompthero.com/x30aad0z3py9e9iexewtzgo6ilr7-flux-flux-11-pro-ultra-a-surreal-abstract-artwork-featuring-three-figures-the-central-figure-is-seated-in-a-dark-suit-with-an-eerie-faceless.jpg"><img src="https://cdn.prompthero.com/x30aad0z3py9e9iexewtzgo6ilr7-flux-flux-11-pro-ultra-a-surreal-abstract-artwork-featuring-three-figures-the-central-figure-is-seated-in-a-dark-suit-with-an-eerie-faceless.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+A surreal, abstract artwork featuring three figures. The central figure is seated in a dark suit, with an eerie, faceless head and shadowy features. The figure on the left is a distorted humanoid with intricate textures and layers blending with the background. The figure on the right is hunched, wearing dark clothing, with elements of chaos and fragmentation in their form. The background transitions between vibrant blue, red, green, and pink, with digital glitches and abstract strokes blending seamlessly. The overall style is expressive, emotional, and visually fragmented with heavy textures and bold colors.
+```
+
+[Source](https://prompthero.com/prompt/07ae9c76f5c-flux-flux-11-pro-ultra-a-surreal-abstract-artwork-featuring-three-figures-the-central-figure-is-seated-in-a-dark-suit-with-an-eerie-faceless)
+
+---
+
+<a id="prompthero-7c6c4e727b6"></a>
+
+## surrealism, central composition, man, gaze, upper-\.\.\.
+
+<a href="https://cdn.prompthero.com/r1qlf3qsj7pduiyuitdrw9ona0-midjourney-shatter-surrealism-central-composition-man-gaze-upper-body-transparent-skin-revealing-man-skull-glowing-with-a-neon-green-bio-luminescent-effect.png"><img src="https://cdn.prompthero.com/r1qlf3qsj7pduiyuitdrw9ona0-midjourney-shatter-surrealism-central-composition-man-gaze-upper-body-transparent-skin-revealing-man-skull-glowing-with-a-neon-green-bio-luminescent-effect.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+surrealism, central composition, man, gaze, upper-body, transparent skin revealing man skull, glowing with a neon green bio-luminescent effect, minimalist style, sharp details of his bones, background is surreal and sci-fi moody with deep fog, lighting is soft with a cool green tone, illuminating the skeletal structure, translucent textures, cinematic lighting, x-ray vision style --ar 9:16 --raw
+```
+
+By [@Grayve](https://prompthero.com/prompt/7c6c4e727b6-midjourney-shatter-surrealism-central-composition-man-gaze-upper-body-transparent-skin-revealing-man-skull-glowing-with-a-neon-green-bio-luminescent-effect)
 
 ---
 

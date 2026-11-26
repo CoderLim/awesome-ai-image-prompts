@@ -6,22 +6,6 @@
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
-<a id="prompthero-8c6be699cce"></a>
-
-## Graytheory model
-
-<a href="https://cdn.prompthero.com/jw8o6w21b6z7yfpyklfh4p8umjob-midjourney-6-graytheory-model.png"><img src="https://cdn.prompthero.com/jw8o6w21b6z7yfpyklfh4p8umjob-midjourney-6-graytheory-model.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-Focus on a minimal Gloves, textured matte black surface, in a subdued dark grey hue, yellow point, macro lens, f/5.6, to zoom in on the leather pattern and craftsmanship, the lighting is adjusted to cast a defining shadow, grey background, studio lighting
-```
-
-By [@Grayve](https://prompthero.com/prompt/8c6be699cce-midjourney-6-graytheory-model)
-
----
-
 <a id="prompthero-9c77818696f"></a>
 
 ## food photography,vegetable salad in the glass bowl\.\.\.
@@ -67,22 +51,6 @@ A clean top-down flat-lay of exactly 9 hyper-realistic 3D resin fridge magnets o
 ```
 
 [Source](https://prompthero.com/prompt/11fce90ea56-hero-10-a-clean-top-down-flat-lay-of-exactly-9-hyper-realistic-3d-resin-fridge-magnets-on-a-pure-white-background)
-
----
-
-<a id="prompthero-47e60d34b73"></a>
-
-## a pair of surreal raw meat shoes made of splashy \(\.\.\.
-
-<a href="https://cdn.prompthero.com/abtdcila5uf1l9mo924efpzq6ncr-flux-dev-a-pair-of-surreal-raw-meat-shoes-made-of-splashy-raw-meat-structure-meat-raw-meat-with-veins-and-pulp.png"><img src="https://cdn.prompthero.com/abtdcila5uf1l9mo924efpzq6ncr-flux-dev-a-pair-of-surreal-raw-meat-shoes-made-of-splashy-raw-meat-structure-meat-raw-meat-with-veins-and-pulp.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-a pair of surreal raw meat shoes made of splashy (raw meat structure) (meat) (raw) (meat with veins and pulp), (lifelike textures),food product photography
-```
-
-[Source](https://prompthero.com/prompt/47e60d34b73-flux-dev-a-pair-of-surreal-raw-meat-shoes-made-of-splashy-raw-meat-structure-meat-raw-meat-with-veins-and-pulp)
 
 ---
 
@@ -198,22 +166,6 @@ food photography,cheese cake,blueberries,cinnamon,in a luxurious Michelin kitche
 
 ---
 
-<a id="prompthero-3261f17c93d"></a>
-
-## A 32yo Wynona Ryder look-alike as the shepherd of \.\.\.
-
-<a href="https://cdn.prompthero.com/fukewo98y8keb65eygebkl2n4kgj-flux-flux-11-pro-a-32yo-wynona-ryder-look-alike-as-the-shepherd-of-mix-christian-and-bouddhist-future-religion-short-pixie-cut-black.jpg"><img src="https://cdn.prompthero.com/fukewo98y8keb65eygebkl2n4kgj-flux-flux-11-pro-a-32yo-wynona-ryder-look-alike-as-the-shepherd-of-mix-christian-and-bouddhist-future-religion-short-pixie-cut-black.jpg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-A 32yo Wynona Ryder look-alike as the shepherd of mix christian and bouddhist future religion : short pixie cut, black hair, black robe, tiny white lotus pin on the lapel, bright orange clerical collar, matte black latex yoga pants, light make up, no jewelry, a double-strand of small wood beads at her left wrist walking toward the viewer in a Nubia sand desert with a deep blue sky
-```
-
-[Source](https://prompthero.com/prompt/3261f17c93d-flux-flux-11-pro-a-32yo-wynona-ryder-look-alike-as-the-shepherd-of-mix-christian-and-bouddhist-future-religion-short-pixie-cut-black)
-
----
-
 <a id="prompthero-7300b29c8ec"></a>
 
 ## Porshe 911 :: Harsh, directional light from behind\.\.\.
@@ -323,6 +275,54 @@ Front view of a skirt, edgy design, featuring asymmetric ruffles and leather det
 ```
 
 [Source](https://prompthero.com/prompt/c401d89f09a-midjourney-51-front-view-of-a-skirt-edgy-design-featuring-asymmetric-ruffles-and-leather-details-shot-from-a-high-angle-designed-by)
+
+---
+
+<a id="prompthero-d8f70c0668e"></a>
+
+## Front view, soft beige studio background, warm nat\.\.\.
+
+<a href="https://cdn.prompthero.com/qt5uj5fi0n0x5f7kgpgl6pezz7-nano-banana-2-front-view-soft-beige-studio-background-warm-natural-lighting-slight-ground-shadow-editorial-catalogue-style.png"><img src="https://cdn.prompthero.com/qt5uj5fi0n0x5f7kgpgl6pezz7-nano-banana-2-front-view-soft-beige-studio-background-warm-natural-lighting-slight-ground-shadow-editorial-catalogue-style.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+Front view, soft beige studio background, warm natural lighting, slight ground shadow, editorial catalogue style
+```
+
+By [@chorlo](https://prompthero.com/prompt/d8f70c0668e-nano-banana-2-front-view-soft-beige-studio-background-warm-natural-lighting-slight-ground-shadow-editorial-catalogue-style)
+
+---
+
+<a id="prompthero-e3adb577bc2"></a>
+
+## A DJ with a beard and glasses wearing a baseball c\.\.\.
+
+<a href="https://cdn.prompthero.com/upwzaf567o0h1aqce0qna9y9905z-stable-diffusion-2-base-a-dj-with-a-beard-and-glasses-wearing-a-baseball-cap-and-a-black-t-shirt-headphones-entertainment-at-a.png"><img src="https://cdn.prompthero.com/upwzaf567o0h1aqce0qna9y9905z-stable-diffusion-2-base-a-dj-with-a-beard-and-glasses-wearing-a-baseball-cap-and-a-black-t-shirt-headphones-entertainment-at-a.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+A DJ with a beard and glasses wearing a baseball cap and a black T-shirt, headphones, entertainment at a vibrant party nightclub, cinematic lights,
+```
+
+[Source](https://prompthero.com/prompt/e3adb577bc2-stable-diffusion-2-base-a-dj-with-a-beard-and-glasses-wearing-a-baseball-cap-and-a-black-t-shirt-headphones-entertainment-at-a)
+
+---
+
+<a id="prompthero-e718c405936"></a>
+
+## Flying food photography with \[Two Burgers\] as the \.\.\.
+
+<a href="https://cdn.prompthero.com/p0v2nbcarudoaoqkuwohtohkeprp-midjourney-51-flying-food-photography-with-two-burgers-as-the-main-subject-splashes-of-toppings-and-seasonings-rocket-lettuce-cheddar-flavored-cheese.png"><img src="https://cdn.prompthero.com/p0v2nbcarudoaoqkuwohtohkeprp-midjourney-51-flying-food-photography-with-two-burgers-as-the-main-subject-splashes-of-toppings-and-seasonings-rocket-lettuce-cheddar-flavored-cheese.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+Flying food photography with [Two Burgers] as the main subject, Splashes of Toppings and Seasonings, [Rocket Lettuce], [Cheddar Flavored Cheese], [Onion], [Pickles], [Special Sauce], [Sesame Bun], [ sea salt crystals] ::3 Capturing the dynamic splashes of food using high-speed photography , photorealistic, surrealism style, [white background], trending background [clean], Minimalist ::2 [Cuware], [Table], [ Steam], [Smoke], [Vegetable Leaves], [Tomato] ::-0.5 Ad Posters, Pro-Grade Color Grading, Studio Lighting, Rim Lights, [Layered Comps], EOS-1D X Mark III, 500px, Behance, concept art
+```
+
+[Source](https://prompthero.com/prompt/e718c405936-midjourney-51-flying-food-photography-with-two-burgers-as-the-main-subject-splashes-of-toppings-and-seasonings-rocket-lettuce-cheddar-flavored-cheese)
 
 ---
 

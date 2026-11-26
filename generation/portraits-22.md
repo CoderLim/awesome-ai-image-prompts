@@ -6,38 +6,6 @@
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
-<a id="prompthero-14651a312c1"></a>
-
-## Woman, masterpiece, high quality, whole body, at a\.\.\.
-
-<a href="https://cdn.prompthero.com/hcomvtokj9h6nd1rlsmbav6k78tm-midjourney-4-woman-masterpiece-high-quality-whole-body-at-a-high-angle-perfect-face-1-1-complex-great-detail-1-1-body.png"><img src="https://cdn.prompthero.com/hcomvtokj9h6nd1rlsmbav6k78tm-midjourney-4-woman-masterpiece-high-quality-whole-body-at-a-high-angle-perfect-face-1-1-complex-great-detail-1-1-body.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-Woman, masterpiece, high quality, whole body, at a high angle, ( perfect face: 1. 1) complex( great detail: 1. 1) body, closed navel, closed, eyes up, extremely detailed eyes and face, big brown eyes, dark skin, city in background, Nikon d850 4 kodak portra 400 camera, f1. 6 lens, rich colors, hyperrealistic texture
-```
-
-[Source](https://prompthero.com/prompt/14651a312c1-midjourney-4-woman-masterpiece-high-quality-whole-body-at-a-high-angle-perfect-face-1-1-complex-great-detail-1-1-body)
-
----
-
-<a id="prompthero-16220e841b2"></a>
-
-## A bad ass Scottish ginger
-
-<a href="https://cdn.prompthero.com/rkjil9mu9wacyze2hclcdoxxq0su-midjourney-5-a-bad-ass-scottish-ginger.png"><img src="https://cdn.prompthero.com/rkjil9mu9wacyze2hclcdoxxq0su-midjourney-5-a-bad-ass-scottish-ginger.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-Create a photorealistic, high-resolution 16k image of a 35-year-old man embodying cyberpunk aesthetics. His fiery ginger hair should be styled in a rebellious manner, contrasting against the monochromatic world. His long, well-groomed ginger beard should be captured in detail, showcasing his meticulous nature. He should be wearing a grey hoodie adorned with cryptic symbols and neon accents, and rugged indigo jeans. His piercing blue eyes and wry smile should be the focal points, adding to his intriguing persona. Use a Canon EOS 5D Mark IV DSLR camera with an EF 24-70mm f/2.8L II USM lens for this shot. The lighting should be dramatic, with high contrast to highlight his features and attire. The color palette should be vibrant, with a focus on blues, greys, and the fiery ginger of his hair and beard. The composition should be a full-body shot, with the man positioned centrally and looking directly into the camera. --style raw --q 2 --s 750 -
-```
-
-[Source](https://prompthero.com/prompt/16220e841b2-midjourney-5-a-bad-ass-scottish-ginger)
-
----
-
 <a id="prompthero-22713d01d0d"></a>
 
 ## A portrait of a young beautiful girl, under cut ha\.\.\.
@@ -262,38 +230,6 @@ By [@AkiraS](https://prompthero.com/prompt/99495a3d937-rev-animated-v122-cyberpu
 
 ---
 
-<a id="prompthero-191114bec59"></a>
-
-## Warrior of the Dunes
-
-<a href="https://cdn.prompthero.com/zoct6h39o94lbfopahf2xvcqm0y4-midjourney-6-warrior-of-the-dunes.png"><img src="https://cdn.prompthero.com/zoct6h39o94lbfopahf2xvcqm0y4-midjourney-6-warrior-of-the-dunes.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-The Dune movie still shows an anthropomorphic cute cat as Paul Atreides in the desert with dark curly hair, wearing full armor with a scarf around neckon the planet DenisWait, full body, desert background, Sony A7 III with Canon RF 2470mm f/5 L IS USM lens, ultrawide, hyper detailed
-```
-
-[Source](https://prompthero.com/prompt/191114bec59-midjourney-6-warrior-of-the-dunes)
-
----
-
-<a id="prompthero-228225dbf3a"></a>
-
-## full shot, full-length portrait, wide field of vie\.\.\.
-
-<a href="https://cdn.prompthero.com/ax5dm9gm1ch2l06m33flnjjcihxl-midjourney-6-full-shot-full-length-portrait-wide-field-of-view-centered-showing-entire-body-award-winning-cinematography-award-winning-photography-portrait.jpg"><img src="https://cdn.prompthero.com/ax5dm9gm1ch2l06m33flnjjcihxl-midjourney-6-full-shot-full-length-portrait-wide-field-of-view-centered-showing-entire-body-award-winning-cinematography-award-winning-photography-portrait.jpg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-full shot, full-length portrait, wide field of view, centered, showing entire body, award-winning cinematography, award-winning photography, portrait of handsome latino man with black hair and dark eyes, average body, standing, hairy chest, asymmetrical eyes, posing for the camera, showing off his legs, ultra-realistic skin, golden hour, 8kHD
-```
-
-By [@Dallas59](https://prompthero.com/prompt/228225dbf3a-midjourney-6-full-shot-full-length-portrait-wide-field-of-view-centered-showing-entire-body-award-winning-cinematography-award-winning-photography-portrait)
-
----
-
 <a id="prompthero-231182fd1ce"></a>
 
 ## Digital Beauties
@@ -323,6 +259,70 @@ A group of four young men casually hanging out against a weathered, cracked wall
 ```
 
 [Source](https://prompthero.com/prompt/273023ca0f2-chatgpt-image-gpt-image-25-a-group-of-four-young-men-casually-hanging-out-against-a-weathered-cracked-wall-with-peeling-paint-they-each-have)
+
+---
+
+<a id="prompthero-287382fdb91"></a>
+
+## On The Moon
+
+<a href="https://cdn.prompthero.com/44jjy1emg99tavaxe6yifqlsf1uf-stable-diffusion-xl-base-09-on-the-moon.jpg"><img src="https://cdn.prompthero.com/44jjy1emg99tavaxe6yifqlsf1uf-stable-diffusion-xl-base-09-on-the-moon.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+Insanely Detailed, Photorealistic back shot of a beautiful punkangel sitting on a crescent moon, night, purple and black punk clothes, large black wings, long pigtails, haunting, blurry background, angsty, professional photography, dynamic lighting, intricate details, 16k resolution, beautifully shot, hyperrealistic, clean sharp focus, bokeh, perfect composition, high contrast, bright colors, bold colors, film grain
+```
+
+By [@Atheist](https://prompthero.com/prompt/287382fdb91-stable-diffusion-xl-base-09-on-the-moon)
+
+---
+
+<a id="prompthero-351329a99ee"></a>
+
+## Amazing animals Fashion Photoshoot
+
+<a href="https://cdn.prompthero.com/9zmun1weh978vimag47eet3zoefx-midjourney-52-amazing-animals-fashion-photoshoot.png"><img src="https://cdn.prompthero.com/9zmun1weh978vimag47eet3zoefx-midjourney-52-amazing-animals-fashion-photoshoot.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+Vogue Magazine Cover, [Animal] in a candid pose wearing [clothes], [half body/full body] photoshoot, Magazine photoshoot, Studio Lighting, Creative trippy aesthetic background, Modern look --v 5.2
+```
+
+[Source](https://prompthero.com/prompt/351329a99ee-midjourney-52-amazing-animals-fashion-photoshoot)
+
+---
+
+<a id="prompthero-658447a57a8"></a>
+
+## \{ &quot;scene&quot;: \{ &quot;type&quot;: &quot;fashion editorial&quot;, \.\.\.
+
+<a href="https://cdn.prompthero.com/v1_6e7987d7caa5baa5fb66c72583-chatgpt-image-gpt-image-25-scene-type-fashion-editorial-theme-gucci-vintage-luxury-setting-environment-interior-fashion-set-background-wallpaper-pattern-ornate-looped-gold-and.jpeg"><img src="https://cdn.prompthero.com/v1_6e7987d7caa5baa5fb66c72583-chatgpt-image-gpt-image-25-scene-type-fashion-editorial-theme-gucci-vintage-luxury-setting-environment-interior-fashion-set-background-wallpaper-pattern-ornate-looped-gold-and.jpeg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+{ "scene": { "type": "fashion editorial", "theme": "Gucci vintage luxury", "setting": { "environment": "interior fashion set", "background": { "wallpaper": { "pattern": "ornate looped gold and green design", "texture": "rich, vintage-inspired" } }, "floor": { "type": "deep red carpet", "texture": "velvet, slightly worn" }, "furniture": { "type": "antique sofa", "color": "red velvet", "details": "wood-carved frame with plush upholstery" }, "lighting": "editorial moody lighting with soft highlights" } }, "model": { "gender": "female", "pose": "seated on sofa, legs apart, leaning forward", "expression": "confident, lips slightly parted", "hair": { "style": "vintage-inspired wave, side-parted", "color": "dark brown" }, "outfit": { "style": "luxury fashion", "brand": "Gucci", "pattern": "signature Gucci monogram print suit", "details": { "shirt": "gold satin blouse with bow", "cuffs": "golden cuffs peeking from blazer", "belt": "Gucci-style ornate belt", "pants": "matching monogram trousers" }, "shoes": "metallic platform heels with red embellishments", "accessories": { "sunglasses": "round oversized brown-orange lenses", "earrings": "large gold hoop or chandelier style", "bag": "Gucci monogram handbag with green-red stripe and gold hardware" } } }, "camera": { "angle": "eye-level", "framing": "mid-body editorial crop", "lighting": "moody studio setup", "color_grade": "rich tones with vintage contrast" }, "visual_effects": { "style": "Vogue editorial cover look", "mood": "fashion-forward, luxurious, bold", "palette": ["red", "gold", "cream", "green"] } }
+```
+
+By [@miladlotfalii](https://prompthero.com/prompt/658447a57a8-chatgpt-image-gpt-image-25-scene-type-fashion-editorial-theme-gucci-vintage-luxury-setting-environment-interior-fashion-set-background-wallpaper-pattern-ornate-looped-gold-and)
+
+---
+
+<a id="prompthero-723106a7952"></a>
+
+## Psychedelic Dune portrait, A detailed, central por\.\.\.
+
+<a href="https://cdn.prompthero.com/n185bxjzgmo8nre5tgbzprl6pibr-midjourney-niji-mode-psychedelic-dune-portrait-a-detailed-central-portrait-of-a-rugged-male-dune-character-with-characteristic-blue-eyes-weather-beaten-skin.png"><img src="https://cdn.prompthero.com/n185bxjzgmo8nre5tgbzprl6pibr-midjourney-niji-mode-psychedelic-dune-portrait-a-detailed-central-portrait-of-a-rugged-male-dune-character-with-characteristic-blue-eyes-weather-beaten-skin.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+Psychedelic Dune portrait, A detailed, central portrait of a rugged male Dune character, with characteristic blue eyes, weather-beaten skin, and a hint of stern determination on his face. He's dressed in worn desert garb, the fabric seeming to ripple with the unseen desert winds, The background is a surreal blend of vibrant, psychedelic colors, swirling and undulating like a fantastical, otherworldly sky. Small but precise details such as the intricate patterns on his garments, the shimmering sand particles on his skin, and the minute reflections in his eyes add to the overall impact, The scene radiates a surreal, ethereal mood, in tune with the Dune universe's enigmatic spirit. The air carries an aura of quiet power and tension, reflecting the character's struggles and victories, Painting inspired by Conrad Roset, Greg Rutkowski, and Makoto Shinkai, Combining Roset's vibrant palette and flowing lines, Rutkowski's impeccable lighting and detailing, and Shinkai's grand sense of scale and drama, this painting captures the essence of the Dune character in a uniquely beautiful and surreal style, --aspect 2:1 --quality 2 --chaos 35 --niji 5 --s 750 --niji 5
+```
+
+[Source](https://prompthero.com/prompt/723106a7952-midjourney-niji-mode-psychedelic-dune-portrait-a-detailed-central-portrait-of-a-rugged-male-dune-character-with-characteristic-blue-eyes-weather-beaten-skin)
 
 ---
 

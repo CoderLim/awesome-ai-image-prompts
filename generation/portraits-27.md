@@ -6,70 +6,6 @@
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
-<a id="prompthero-b29638ba37e"></a>
-
-## velma from scooby-doo, very sultry look, so hot gi\.\.\.
-
-<a href="https://cdn.prompthero.com/3kmlqkj94l9l9ytye1auozmro1d1-midjourney-niji-mode-velma-from-scooby-doo-very-sultry-look-so-hot-girl-beautiful-charismatic-girl-so-hot-shot-showing-piercing-athletic-body.png"><img src="https://cdn.prompthero.com/3kmlqkj94l9l9ytye1auozmro1d1-midjourney-niji-mode-velma-from-scooby-doo-very-sultry-look-so-hot-girl-beautiful-charismatic-girl-so-hot-shot-showing-piercing-athletic-body.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-velma from scooby-doo, very sultry look, so hot girl, beautiful charismatic girl, so hot shot, showing piercing, athletic body, a woman wearing eye glasses and an orange top, gorgeous figure, full body shot, goth style mood, dark eye makeup, in the style of jessica drossin, life-size figures
-```
-
-[Source](https://prompthero.com/prompt/b29638ba37e-midjourney-niji-mode-velma-from-scooby-doo-very-sultry-look-so-hot-girl-beautiful-charismatic-girl-so-hot-shot-showing-piercing-athletic-body)
-
----
-
-<a id="prompthero-b81237ac146"></a>
-
-## Close-up portrait of a woman illuminated by soft, \.\.\.
-
-<a href="https://cdn.prompthero.com/u17lcdyhk2dqru1maqkhfzcnrqie-flux-flux-11-pro-close-up-portrait-of-a-woman-illuminated-by-soft-warm-afternoon-light-streaming-through-window-blinds-creating-striking-shadow-patterns.jpg"><img src="https://cdn.prompthero.com/u17lcdyhk2dqru1maqkhfzcnrqie-flux-flux-11-pro-close-up-portrait-of-a-woman-illuminated-by-soft-warm-afternoon-light-streaming-through-window-blinds-creating-striking-shadow-patterns.jpg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-Close-up portrait of a woman illuminated by soft, warm afternoon light streaming through window blinds, creating striking shadow patterns across her face. She has a natural, glowing complexion with dewy skin and subtly highlighted cheekbones. Her expressive eyes are accented with long lashes and a hint of soft eyeshadow, while her full lips are painted in a soft peach shade. The background features muted teal walls that enhance the warmth of the scene. She wears a dark, pinstriped blazer, adding a touch of elegance. The overall aesthetic is hyperrealistic, capturing intricate details like the texture of her skin and the delicate play of light and shadow, with a color palette of warm neutrals and soft pastels.
-```
-
-[Source](https://prompthero.com/prompt/b81237ac146-flux-flux-11-pro-close-up-portrait-of-a-woman-illuminated-by-soft-warm-afternoon-light-streaming-through-window-blinds-creating-striking-shadow-patterns)
-
----
-
-<a id="prompthero-b840738a6cd"></a>
-
-## a bold and edgy portrait of a tattoo artist workin\.\.\.
-
-<a href="https://cdn.prompthero.com/wdfpn8c7hgfp37y7x4e1uefqzd-flux-flux-2-pro-a-bold-and-edgy-portrait-of-a-tattoo-artist-working-in-a-vibrant-neon-lit-studio-the-woman-exudes-confidence.jpeg"><img src="https://cdn.prompthero.com/wdfpn8c7hgfp37y7x4e1uefqzd-flux-flux-2-pro-a-bold-and-edgy-portrait-of-a-tattoo-artist-working-in-a-vibrant-neon-lit-studio-the-woman-exudes-confidence.jpeg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-a bold and edgy portrait of a tattoo artist working in a vibrant, neon-lit studio. The woman exudes confidence and creativity, dressed in dark, lacy lingerie adorned with subtle punk-inspired details such as studded accessories and leather straps. Her body is a canvas of art, with intricate, vividly colored tattoos covering her arms, back, and legs, creating a striking visual contrast against her dark outfit.  The setting is a dynamic and artistic tattoo studio filled with character and detail. Vintage tattoo machines and an array of colorful ink bottles are neatly arranged on her workstation, while a classic barber chair sits in the center of the space. The walls are decorated with framed flash art and intricate designs, reflecting the vibrant and rebellious spirit of the environment. The lighting is dim yet dynamic, with soft neon hues—pinks, purples, and blues—casting a moody, atmospheric glow throughout the scene. The interplay of light and shadow enhances the details of her tattoos, the textures of her lingerie, and the edgy decor of the studio.  Her expression is focused and determined as she leans over her work, embodying the boldness and artistry of her craft. The overall composition is hyper-detailed and cinematic, blending the raw energy of the punk aesthetic with the vibrant allure of neon-lit artistry, creating a powerful and visually captivating scene.
-```
-
-[Source](https://prompthero.com/prompt/b840738a6cd-flux-flux-2-pro-a-bold-and-edgy-portrait-of-a-tattoo-artist-working-in-a-vibrant-neon-lit-studio-the-woman-exudes-confidence)
-
----
-
-<a id="prompthero-b4098187b5a"></a>
-
-## Flux\_style\_vibrant\. Hyper-detailed, dynamic full b\.\.\.
-
-<a href="https://cdn.prompthero.com/bvdlfyndhuppwhz8kqfjei5jtsfx-flux-flux-11-pro-ultra-fluxstylevibrant-hyper-detailed-dynamic-full-body-shot-low-angle-view-african-american-woman-with-striking-cornrows-bold-purple-graphic-makeup.jpg"><img src="https://cdn.prompthero.com/bvdlfyndhuppwhz8kqfjei5jtsfx-flux-flux-11-pro-ultra-fluxstylevibrant-hyper-detailed-dynamic-full-body-shot-low-angle-view-african-american-woman-with-striking-cornrows-bold-purple-graphic-makeup.jpg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-Flux_style_vibrant. Hyper-detailed, dynamic full body shot, low angle view. African American woman with striking cornrows. Bold purple graphic makeup. Sharp, glossy purple nails. Wearing a translucent, flowing sheer purple dress; no undergarments visible. Holding a textured purple handbag. Abstract, softly blurred background suggestive of an artistic locale. Intense color focus, dynamic lighting highlighting the purple spectrum and her empowered silhouette.
-```
-
-[Source](https://prompthero.com/prompt/b4098187b5a-flux-flux-11-pro-ultra-fluxstylevibrant-hyper-detailed-dynamic-full-body-shot-low-angle-view-african-american-woman-with-striking-cornrows-bold-purple-graphic-makeup)
-
----
-
 <a id="prompthero-b83128713a6"></a>
 
 ## A confident woman sits casually on a wooden bench,\.\.\.
@@ -323,6 +259,70 @@ a beautiful photo of ohwx woman,(wearing tailored suit) looking at viewer,40 yea
 ```
 
 [Source](https://prompthero.com/prompt/be1c0b729f3-stable-diffusion-15-model-used-qgo-promptingreal-a-beautiful-photo-of-ohwx-womanwearing-tailored-suit-looking-at-viewer40-year-old-woman-full-body-pose-photorealistic-14leica-50mmbest)
+
+---
+
+<a id="prompthero-befbe31a639"></a>
+
+## https://s\.mj\.run/VnhTCG9d4Mc a black background wi\.\.\.
+
+<a href="https://cdn.prompthero.com/olirhnm6bm469farnfolqu5sm4ww-midjourney-6-httpssmjrunvnhtcg9d4mc-a-black-background-with-a-woman-with-opalescent-hair-in-the-style-of-trippy-photography-fluid-expressionism-distorted-bodies.png"><img src="https://cdn.prompthero.com/olirhnm6bm469farnfolqu5sm4ww-midjourney-6-httpssmjrunvnhtcg9d4mc-a-black-background-with-a-woman-with-opalescent-hair-in-the-style-of-trippy-photography-fluid-expressionism-distorted-bodies.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+https://s.mj.run/VnhTCG9d4Mc a black background with a woman with opalescent hair, in the style of trippy photography, fluid expressionism, distorted bodies, detailed facial features, dark white and light cyan, ghostcore, glowing pastels --s 750 --ar 14:25 --v 6.0
+```
+
+[Source](https://prompthero.com/prompt/befbe31a639-midjourney-6-httpssmjrunvnhtcg9d4mc-a-black-background-with-a-woman-with-opalescent-hair-in-the-style-of-trippy-photography-fluid-expressionism-distorted-bodies)
+
+---
+
+<a id="prompthero-bf749cb17c5"></a>
+
+## Create a striking, realistic illustration for a me\.\.\.
+
+<a href="https://cdn.prompthero.com/l0eiq4jo84kjk2b4snosn14rwcw6-flux-flux-11-pro-create-a-striking-realistic-illustration-for-a-mens-phone-case-featuring-an-australian-man-with-his-dog-the-character-should.png"><img src="https://cdn.prompthero.com/l0eiq4jo84kjk2b4snosn14rwcw6-flux-flux-11-pro-create-a-striking-realistic-illustration-for-a-mens-phone-case-featuring-an-australian-man-with-his-dog-the-character-should.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+Create a striking, realistic illustration for a men's phone case, featuring an Australian man with his dog. The character should embody the rugged, adventurous spirit of Australia, showcasing a sense of strength, loyalty, and connection to the outdoors. All elements should reflect the man's personality and his bond with his dog, with a focus on realism and detail. Character Description: Australian Man: The man is in his late 20s to early 30s, with a strong, athletic build. His skin is sun-kissed and weathered from outdoor adventures. His face is rugged, with a strong jawline, light stubble, and piercing blue eyes that exude confidence and warmth. His hair is short and messy, slightly tousled by the wind, with natural brown highlights. His expression should be one of calm strength, a slight smile or smirk on his lips, and his posture should convey ease and readiness for any challenge. Outfit: He is wearing a casual, practical outfit for outdoor activities: an olive-green, short-sleeve shirt with sleeves rolled up to expose his muscular forearms. His khaki cargo shorts are weathered, indicating regular use, with small rips or dirt marks that show his active lifestyle. His sturdy boots, worn but reliable, are perfect for hiking, and a brown leather belt holds a multi-tool and a flashlight, signaling his preparedness for adventure. Pose: The man is standing tall and relaxed, one hand gently resting on the back of his dog, showcasing the deep bond between them. His other hand hangs by his side or slightly raised as if ready for action. His posture is confident yet approachable, giving off an aura of strength and security. Dog Description: Australian Kelpie: The dog is an Australian Kelpie, sleek and agile, with a glossy black and tan coat that shines under natural light. Its ears are upright, and its eyes are bright and alert, filled with intelligence and loyalty. The Kelpie should stand at the man’s side, slightly leaning towards him, with its tail slightly raised in excitement or alertness. Its athletic build and energetic stance emphasize the dog’s agility, complementing the man’s ruggedness. Background: The background should remain minimalistic with a pure white color to ensure the focus is on the character and the dog. A subtle hint of the Australian outback or terrain could be incorporated in the background, like a blurred silhouette of the red earth, sparse trees, or distant mountains, but it should not overpower the characters. Lighting and Color Palette: Natural, warm lighting should illuminate the character and dog, enhancing their features. Use earthy tones like deep greens, browns, and sandy yellows to highlight the textures of the man’s clothing and the dog’s fur. The lighting should create soft shadows that emphasize the muscular build of the man and the sleekness of the dog’s coat. Tone and Appeal: The design should convey a sense of adventure, strength, and companionship. The man and his dog should appear as an inseparable team, ready to take on any challenge in the rugged Australian wilderness. The design should evoke feelings of loyalty, courage, and connection to nature, appealing to men who love adventure, the outdoors, and the Australian way of life. This detailed, realistic design will capture the attention of anyone who appreciates a strong, adventurous spirit paired with the loyalty of a canine companion. It is a perfect fit for a phone case, designed to stand out with its unique, rugged Australian vibe.
+```
+
+[Source](https://prompthero.com/prompt/bf749cb17c5-flux-flux-11-pro-create-a-striking-realistic-illustration-for-a-mens-phone-case-featuring-an-australian-man-with-his-dog-the-character-should)
+
+---
+
+<a id="prompthero-c0cdf8ec0f7"></a>
+
+## woman wearing a cyberpunk style shiny black helmet\.\.\.
+
+<a href="https://cdn.prompthero.com/sgal4q2hrgf1b1dm7b7pmc48krrh-midjourney-6-woman-wearing-a-cyberpunk-style-shiny-black-helmet-with-robotic-features-the-reflection-on-her-face-is-made-of-glowing.png"><img src="https://cdn.prompthero.com/sgal4q2hrgf1b1dm7b7pmc48krrh-midjourney-6-woman-wearing-a-cyberpunk-style-shiny-black-helmet-with-robotic-features-the-reflection-on-her-face-is-made-of-glowing.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+woman wearing a cyberpunk style shiny black helmet with robotic features, the reflection on her face is made of glowing golden wires with intricate details, hyper realistic photography in the style of editorial pose, photorealistic, 8k, high render --v 6.0 --ar 9:16
+```
+
+[Source](https://prompthero.com/prompt/c0cdf8ec0f7-midjourney-6-woman-wearing-a-cyberpunk-style-shiny-black-helmet-with-robotic-features-the-reflection-on-her-face-is-made-of-glowing)
+
+---
+
+<a id="prompthero-c0e78bf78ea"></a>
+
+## A teen girl in a futuristic cyber armor\.
+
+<a href="https://cdn.prompthero.com/0zrvcg0u3ntoj0k9jxevyr6xznhh-stable-diffusion-15-a-teen-girl-in-a-futuristic-cyber-armor.jpg"><img src="https://cdn.prompthero.com/0zrvcg0u3ntoj0k9jxevyr6xznhh-stable-diffusion-15-a-teen-girl-in-a-futuristic-cyber-armor.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+8K, (masterpiece*high detailed*highres), (portrait shot), sharp focus, soft lighting, robotic skull, futuristic, cyber city in the background, <lora:3DMM_V11:0.8>
+```
+
+[Source](https://prompthero.com/prompt/c0e78bf78ea-stable-diffusion-15-a-teen-girl-in-a-futuristic-cyber-armor)
 
 ---
 

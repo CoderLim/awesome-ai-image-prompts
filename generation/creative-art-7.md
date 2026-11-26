@@ -6,54 +6,6 @@
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
-<a id="prompthero-90ad9d9b114"></a>
-
-## A majestic carnival scene unfolding in the heart \.\.\.
-
-<a href="https://cdn.prompthero.com/yjdztal5nvxet1e50kf08ui8joub-flux-flux-11-pro-ultra-a-majestic-carnival-scene-unfolding-in-the-heart-of-venice-with-ornate-masks-and-lavish-attire-set-against-a-backdrop.png"><img src="https://cdn.prompthero.com/yjdztal5nvxet1e50kf08ui8joub-flux-flux-11-pro-ultra-a-majestic-carnival-scene-unfolding-in-the-heart-of-venice-with-ornate-masks-and-lavish-attire-set-against-a-backdrop.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-A majestic carnival scene unfolding in the heart of Venice, with ornate masks and lavish attire, set against a backdrop of grand, baroque architecture, in the style of intricately detailed, symmetrical compositions reminiscent of James Gurney's imaginative cityscapes, the vibrant colors and whimsical flourishes of Camille Rose Garcia's fantastical illustrations, and the opulent, mystical atmosphere of Kinuko Y. Craft's dreamlike paintings, with a palette dominated by rich navy blues and shimmering aquamarine hues, adorned with delicate, gothic filigree and ornate spiral patterns, featuring a diverse cast of characters with distinctive, elongated noses, amidst a whirlwind of colorful silks and velvets, as if conjured from the pages of a fantastical, carnivalesque tale.
-```
-
-[Source](https://prompthero.com/prompt/90ad9d9b114-flux-flux-11-pro-ultra-a-majestic-carnival-scene-unfolding-in-the-heart-of-venice-with-ornate-masks-and-lavish-attire-set-against-a-backdrop)
-
----
-
-<a id="prompthero-94a957218b7"></a>
-
-## neon glow classical bust, front view, deep purple \.\.\.
-
-<a href="https://cdn.prompthero.com/2wdvvilwi1yuyko84mtp81welivy-midjourney-6-neon-glow-classical-bust-front-view-deep-purple-and-blue-isolated-on-a-dark-background-dramatic-lighting-deep-contrast-low.png"><img src="https://cdn.prompthero.com/2wdvvilwi1yuyko84mtp81welivy-midjourney-6-neon-glow-classical-bust-front-view-deep-purple-and-blue-isolated-on-a-dark-background-dramatic-lighting-deep-contrast-low.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-neon glow classical bust, front view, deep purple and blue, isolated on a dark background, dramatic lighting, deep contrast, low-key light, emphasis on texture and contrast, hyper realism, rich detail --chaos 1.2 --ar 9:16 --style raw --stylize 200
-```
-
-By [@Grayve](https://prompthero.com/prompt/94a957218b7-midjourney-6-neon-glow-classical-bust-front-view-deep-purple-and-blue-isolated-on-a-dark-background-dramatic-lighting-deep-contrast-low)
-
----
-
-<a id="prompthero-94d91fc9f8e"></a>
-
-## On a desk, a laptop displays a wallpaper of a coun\.\.\.
-
-<a href="https://cdn.prompthero.com/v1_a2f01515ca1296a355bc83e582-nano-banana-nano-banana-21-on-a-desk-a-laptop-displays-a-wallpaper-of-a-countryside-landscape-with-a-small-river-the-landscape-extends-beyond.png"><img src="https://cdn.prompthero.com/v1_a2f01515ca1296a355bc83e582-nano-banana-nano-banana-21-on-a-desk-a-laptop-displays-a-wallpaper-of-a-countryside-landscape-with-a-small-river-the-landscape-extends-beyond.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-On a desk, a laptop displays a wallpaper of a countryside landscape with a small river. The landscape extends beyond the computer screen, invading the desk, the walls, and the room. The river overflows the screen, and plants and trees grow beyond its boundaries, blending seamlessly with the surrounding environment. The style is a stunning 3D rendering, with deep, cinematic lighting.
-```
-
-By [@chorlo](https://prompthero.com/prompt/94d91fc9f8e-nano-banana-nano-banana-21-on-a-desk-a-laptop-displays-a-wallpaper-of-a-countryside-landscape-with-a-small-river-the-landscape-extends-beyond)
-
----
-
 <a id="prompthero-95fc80b5387"></a>
 
 ## A marble sculpture of a young African American wom\.\.\.
@@ -323,6 +275,54 @@ hyperrealistic art Futuristic soldier with advanced armor, weaponry, and helmet,
 ```
 
 [Source](https://prompthero.com/prompt/1073bb05add-stable-diffusion-15-hyperrealistic-art-futuristic-soldier-with-advanced-armor-weaponry-and-helmet-neon-red-street-overcast-reflection-mapping-intricate-design-and-details)
+
+---
+
+<a id="prompthero-1255b332eec"></a>
+
+## Masterpiece, full-body shot, intricate raw photogr\.\.\.
+
+<a href="https://cdn.prompthero.com/pqk59cziz38pgbx6pi134dqkvwce-stable-diffusion-15-masterpiece-full-body-shot-intricate-raw-photography-cyberpunk-realistic-highly-detailed-3d-rendering-top-quality-masterpiece-ultra-high-resolution-cowboy.png"><img src="https://cdn.prompthero.com/pqk59cziz38pgbx6pi134dqkvwce-stable-diffusion-15-masterpiece-full-body-shot-intricate-raw-photography-cyberpunk-realistic-highly-detailed-3d-rendering-top-quality-masterpiece-ultra-high-resolution-cowboy.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+Masterpiece, full-body shot, intricate raw photography. Cyberpunk, realistic, highly detailed 3D rendering, top quality, masterpiece, ultra-high-resolution. Cowboy-themed photo, photorealistic (1.4), raw photo, official art, close-up, complex background, surreal, atmospheric, sinister, tank, dynamic angle, advanced cyber helmet, mecha, robot, armor, mechanical arms, exo-suit, science fiction, no humans, worn asymmetric clothing. Tactical oversized black hoodie, advanced black helmet, HUD, modern ultra-realistic style, Daft Punk-inspired cyber helmet, black tactical gloves, black techwear cargo pants, futuristic clothing, mohawk, punk, rebel, punk-rock, cinematic, sci-fi scene, synthwave, night, dark, intricate, futuristic, sharp, precise focus, aggressive pose, high-tech weapons, vibrant colors, serious, cyberpunk city, street neon lights, Insta-worthy photo, Photo of the Year, cinema4d, dramatic, lights and shadows, realistic visual effects, realistic Octane render, highest-quality photorealistic image
+```
+
+[Source](https://prompthero.com/prompt/1255b332eec-stable-diffusion-15-masterpiece-full-body-shot-intricate-raw-photography-cyberpunk-realistic-highly-detailed-3d-rendering-top-quality-masterpiece-ultra-high-resolution-cowboy)
+
+---
+
+<a id="prompthero-1893aac9fab"></a>
+
+## A 30-year-old realistic man height 5&\#39;8 stands in \.\.\.
+
+<a href="https://cdn.prompthero.com/011m4lsalqz4a2z7r26sn3c8jbk2-flux-flux-11-pro-a-30-year-old-realistic-man-height-58-stands-in-a-serene-forest-blanketed-in-snow-surrounded-by-tall-trees.jpg"><img src="https://cdn.prompthero.com/011m4lsalqz4a2z7r26sn3c8jbk2-flux-flux-11-pro-a-30-year-old-realistic-man-height-58-stands-in-a-serene-forest-blanketed-in-snow-surrounded-by-tall-trees.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+A 30-year-old realistic  man height 5'8 stands in a serene forest blanketed in snow, surrounded by tall trees cloaked in white. The ground glistens with fresh snowfall, and the air feels crisp and still. Large mirrors are positioned around him, reflecting his image from every angle, creating a surreal and mystical atmosphere. He wears a luxurious white fur long coat and matching white trousers, blending harmoniously with the snowy environment. Soft sunlight filters through the trees, casting a gentle glow on the scene, enhancing the ethereal winter beauty.
+```
+
+[Source](https://prompthero.com/prompt/1893aac9fab-flux-flux-11-pro-a-30-year-old-realistic-man-height-58-stands-in-a-serene-forest-blanketed-in-snow-surrounded-by-tall-trees)
+
+---
+
+<a id="prompthero-3052e202fd9"></a>
+
+## Create a hyper-realistic bird’s-eye view of a 16th\.\.\.
+
+<a href="https://cdn.prompthero.com/rshk2rt5d7u35nrc4l1po5brimam-flux-flux-11-pro-ultra-create-a-hyper-realistic-birds-eye-view-of-a-16th-century-pirate-ship-stranded-in-the-middle-of-a-flooded.png"><img src="https://cdn.prompthero.com/rshk2rt5d7u35nrc4l1po5brimam-flux-flux-11-pro-ultra-create-a-hyper-realistic-birds-eye-view-of-a-16th-century-pirate-ship-stranded-in-the-middle-of-a-flooded.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+Create a hyper-realistic bird’s-eye view of a 16th-century pirate ship stranded in the middle of a flooded highway in Makassar, Indonesia. The massive ship, now very old, has tall sails that are no longer fully intact, with the wood and paint faded and weathered from time and exposure. The ship is surrounded by the floodwaters that have submerged the street, with elevated flyovers full of stopped cars due to a traffic jam caused by heavy rain. In the background, you can see the University of Makassar (UNM) campus building standing tall, and nearby, several Pinisi ships and small boats float helplessly in the rising floodwaters. The atmosphere is dramatic and chaotic, with dark clouds looming overhead, and the sky frequently pierced by lightning strikes that illuminate the scene. The rain is torrential, creating a misty fog over the city, while water ripples from the rain create an eerie reflection of the scene in the flooded streets. The contrast between the ancient pirate ship, the modern city with jammed traffic, and the presence of the Pinisi ships creates a surreal, cinematic effect. The stormy weather, the overwhelming flood, and the historical ship stranded in a modern setting evoke a sense of nature’s power and the unexpected clash of time and place.
+```
+
+[Source](https://prompthero.com/prompt/3052e202fd9-flux-flux-11-pro-ultra-create-a-hyper-realistic-birds-eye-view-of-a-16th-century-pirate-ship-stranded-in-the-middle-of-a-flooded)
 
 ---
 
