@@ -25,3 +25,9 @@ git status
 Inspect generated diffs, then commit exclusions and generated gallery/governance changes together. Raw source shards and discovery records are intentionally preserved. Builds exclude the exact connected group, not just the selected row. Stable case IDs, original post IDs and SHA-256 of normalized full prompts prevent known duplicates from resurfacing after source sync/ID change; changed IDs AND changed prompts/posts with no remaining matching key cannot be recognized automatically. Similar prompts or matching image URLs alone are not deletion keys. Candidate staging plans also respect exclusions. Existing discovery rows remain as historical source links, not browsable gallery records.
 
 This tool records removal preferences only. It does not automatically approve image quality, input/output roles, model reproduction, or rights. The existing release gates still apply.
+
+## README featured examples
+
+Click ☆ 精选 on a card or in the enlarged image, or use the batch feature/unfeature controls. Use the featured filter to review your picks. Selections are saved immediately in data/review/featured.json, in selection order. Initial null keeps the existing automatic README previews until the first selection; after that only manual selections are shown, including when the list is empty. Both READMEs use the same list and retain the existing three-column layout, separate generation/reference sections and category navigation. Empty sections are omitted.
+
+Pending queue candidates can be marked now but will not appear in README until actually published and canonical. Deleted, duplicate-excluded and otherwise unavailable cases are also omitted. Restoring a deleted case can make its saved selection visible again; unfeature to remove the selection itself. No rights or visual approval is implied by selection. Build and check after reviewing, then commit the featured file with the generated README changes.

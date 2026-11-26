@@ -8,6 +8,8 @@ import { govern } from './governance.mjs';
 import { readCatalog, readQueue } from './audit-prompt-similarity.mjs';
 import { readExclusions, writeExclusions, exclusionMatches, makeExclusion } from './review-exclusions.mjs';
 
+import { readFeatured, writeFeatured } from './review-featured.mjs';
+
 const root=path.resolve(path.dirname(fileURLToPath(import.meta.url)),'..');
 const args=process.argv.slice(2);
 let queuePath,port=4178;
@@ -48,8 +50,8 @@ const token=randomBytes(32).toString('hex'),host='127.0.0.1:'+port;
 const html=fs.readFileSync(path.join(root,'scripts/review-images.html'),'utf8');
 const revision=e=>createHash('sha256').update(JSON.stringify(e)).digest('hex');
 function state(){
- const entries=readExclusions(root),matched=exclusionMatches(all,entries);
- return {entries,revision:revision(entries),excluded:Object.fromEntries([...matched].filter(([id])=>displayIds.has(id)))};
+ const entries=readExclusions(root),matched=exclusionMatches(all,entries),featured=readFeatured(root);
+ return {entries,featured,revision:revision({entries,featured}),excluded:Object.fromEntries([...matched].filter(([id])=>displayIds.has(id)))};
 }
 function send(res,status,value,contentType='application/json'){
  res.writeHead(status,{'Content-Type':contentType+'; charset=utf-8','Cache-Control':'no-store','X-Content-Type-Options':'nosniff','Referrer-Policy':'no-referrer','Content-Security-Policy':"default-src 'none'; img-src https: data:; style-src 'unsafe-inline'; script-src 'unsafe-inline'; connect-src 'self'; frame-ancestors 'none'; base-uri 'none'; form-action 'none'"});
@@ -66,7 +68,13 @@ const server=http.createServer(async(req,res)=>{
    let body='';for await(const chunk of req){body+=chunk;if(body.length>200000){send(res,413,{error:'Too many changes'});return;}}
    const {action,ids,expectedRevision}=JSON.parse(body),before=state();
    if(expectedRevision!==before.revision){send(res,409,{error:'Review file changed; refresh and retry'});return;}
-   if(!['exclude','restore'].includes(action)||!Array.isArray(ids)||ids.length<1||ids.length>500||ids.some(id=>!displayIds.has(id)))throw Error('Invalid review action');
+   if(!['exclude','restore','feature','unfeature'].includes(action)||!Array.isArray(ids)||ids.length<1||ids.length>500||ids.some(id=>!displayIds.has(id)))throw Error('Invalid review action');
+   if(action==='feature'||action==='unfeature'){
+    if(action==='feature'&&ids.some(id=>before.excluded[id]))throw Error('Restore excluded cases before featuring');
+    const selected=new Set(before.featured??[]);
+    for(const id of ids){if(action==='feature')selected.add(id);else selected.delete(id);}
+    writeFeatured([...selected],root);send(res,200,state());return;
+   }
    let entries=before.entries;
    if(action==='exclude'){
     const seen=new Set(entries.map(e=>e.id));

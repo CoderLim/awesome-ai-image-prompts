@@ -14,7 +14,7 @@ test('local reviewer persists exclusion, rejects stale writes, restores case', {
  t.after(async()=>{if(child&&child.exitCode===null&&child.signalCode===null){const exited=once(child,'exit');child.kill();await exited;}fs.rmSync(root,{recursive:true,force:true});});
  const scripts=path.dirname(fileURLToPath(import.meta.url));
  fs.mkdirSync(path.join(root,'scripts'),{recursive:true});
- for(const f of ['review-images.mjs','review-images.html','review-exclusions.mjs','governance.mjs','audit-prompt-similarity.mjs','prompthero-preflight.mjs'])fs.copyFileSync(path.join(scripts,f),path.join(root,'scripts',f));
+ for(const f of ['review-images.mjs','review-images.html','review-exclusions.mjs','review-featured.mjs','governance.mjs','audit-prompt-similarity.mjs','prompthero-preflight.mjs'])fs.copyFileSync(path.join(scripts,f),path.join(root,'scripts',f));
  fs.mkdirSync(path.join(root,'data/index'),{recursive:true});
  const make=(id,postId,prompt)=>({id,title:{en:id},prompt:{original:prompt},inputMode:'text-to-image',sourcePreview:{images:[{url:'https://example.com/'+id+'.jpg',role:'output'}]},provenance:{originalSource:{url:'https://example.com/'+id,postId},collectedFrom:[{sourceId:'fixture',path:'docs/gallery.md',url:'https://example.com/'+id}]},rights:{prompt:'unknown',media:'unknown'}});
  fs.writeFileSync(path.join(root,'data/index/test.json'),JSON.stringify([make('a','1','A cinematic portrait'),make('b','2','A different landscape')]));
@@ -45,4 +45,13 @@ test('local reviewer persists exclusion, rejects stale writes, restores case', {
  const restore=await write('restore',['a'],saved.revision);assert.equal(restore.status,200);
  const result=await restore.json();assert.equal(result.entries.length,1);assert(!result.excluded.a);
  assert(result.excluded['prompthero-abcdef01234']);
+ assert.equal(result.featured,null);
+ assert.equal((await write('feature',['prompthero-abcdef01234'],result.revision)).status,400);
+ const featured=await (await write('feature',['b','a'],result.revision)).json();
+ assert.deepEqual(featured.featured,['b','a']);
+ assert.deepEqual(JSON.parse(fs.readFileSync(path.join(root,'data/review/featured.json'),'utf8')),['b','a']);
+ assert.deepEqual((await (await fetch(base+'/api/data')).json()).featured,['b','a']);
+ assert.equal((await write('unfeature',['a'],result.revision)).status,409);
+ const empty=await (await write('unfeature',['a','b'],featured.revision)).json();
+ assert.deepEqual(empty.featured,[]);
 });

@@ -31,3 +31,27 @@ test('compact attribution and conditional full prompt link',()=>{
  assert(!page.includes('<blockquote>'));
  assert(rows[0].prompt.original.includes('\n'));
 });
+
+test('manual README features replace automatic previews, preserve order and category navigation',()=>{
+ const [base]=merge(parse(source,'docs/gallery-part-1.md',sha,fixture));
+ const mk=(id,type)=>({...base,id,type,category:'portraits',title:{en:id},sourcePreview:{...base.sourcePreview,images:[{role:'output',url:'https://example.com/'+id+'.jpg'}]}});
+ const rows=[mk('a','generation'),mk('b','generation'),mk('c','reference')];
+ const taxonomy={generation:['portraits'],reference:['portraits']};
+ const auto=render([],rows,taxonomy,null);
+ assert(auto['README.md'].includes('https://example.com/a.jpg'));
+ const manual=render([],rows,taxonomy,['c','b','missing','b']);
+ for(const name of ['README.md','README.zh-CN.md']){
+  assert(!manual[name].includes('https://example.com/a.jpg'));
+  assert(manual[name].includes('https://example.com/b.jpg'));
+  assert(manual[name].includes('https://example.com/c.jpg'));
+  assert(manual[name].includes('generation/portraits.md#b'));
+  assert(manual[name].includes('reference/portraits.md#c'));
+  assert(!manual[name].includes('#missing'));
+  assert.equal(manual[name].split('https://example.com/b.jpg').length-1,1);
+ }
+ assert.equal(manual['generation/portraits.md'],auto['generation/portraits.md']);
+ const reordered=render([],rows,taxonomy,['b','a'])['README.md'];
+ assert(reordered.indexOf('#b')<reordered.indexOf('#a'));
+ const empty=render([],rows,taxonomy,[])['README.md'];
+ assert(!empty.includes('<table>'));assert(empty.includes('## Browse by category'));
+});
