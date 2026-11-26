@@ -86,6 +86,22 @@ contemporary art gallery interior, minimal museum space, polished concrete floor
 
 ---
 
+<a id="prompthero-aabb9ec6024"></a>
+
+## MAKE THE IMAGE I HAVE ATTACHED INTO A EPIC HYPERRE\.\.\.
+
+<a href="https://cdn.prompthero.com/jxdbub6048sfnlizq6bql85qxf-nano-banana-nano-banana-2-make-the-image-i-have-attached-into-a-epic-hyperrealistic-image-add-a-epic-angry-snake-with-a-white-glow.jpeg"><img src="https://cdn.prompthero.com/jxdbub6048sfnlizq6bql85qxf-nano-banana-nano-banana-2-make-the-image-i-have-attached-into-a-epic-hyperrealistic-image-add-a-epic-angry-snake-with-a-white-glow.jpeg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+MAKE THE IMAGE I HAVE ATTACHED INTO A EPIC HYPERREALISTIC IMAGE ADD A EPIC ANGRY SNAKE WITH A WHITE GLOW IN ITS EYES WRAPPING FROM OVER HER SHOULDER AND ADD SOME FLOWERS ECT . MAKE IT EPIC AND MAKE IT LOOK LIKE A JAPANESE SYLE SNAKE WITH MOUTH OPEN ANGRY . IT ALL NEEDS TO BE JAPANESE THEMED
+```
+
+[Source](https://prompthero.com/prompt/aabb9ec6024-nano-banana-nano-banana-2-make-the-image-i-have-attached-into-a-epic-hyperrealistic-image-add-a-epic-angry-snake-with-a-white-glow)
+
+---
+
 **1**
 
 [← Home](../README.md)

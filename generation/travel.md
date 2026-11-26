@@ -1,8 +1,8 @@
 # travel
 
-[← Home](../README.md) · Page 1 / 2
+[← Home](../README.md) · Page 1 / 3
 
-**1** · [2](travel-2.md)
+**1** · [2](travel-2.md) · [3](travel-3.md)
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
@@ -294,38 +294,38 @@ By [@Naiknelofar788](https://x.com/Naiknelofar788/status/2093679919473840378)
 
 ---
 
-<a id="prompthero-0e300d1c33b"></a>
+<a id="prompthero-0acd2996dd5"></a>
 
-## scenic view landscape cyberpunk city of highly det\.\.\.
+## Create a whimsical illustration depicting Albi, th\.\.\.
 
-<a href="https://cdn.prompthero.com/729cw0maqgzi96o6vs68g2itft3c-stable-diffusion-21-768-scenic-view-landscape-cyberpunk-city-of-highly-detailed-water-color-pastel-mix-ultra-realistic-robotic-dog-hyperdetailed-full-body-visible.jpg"><img src="https://cdn.prompthero.com/729cw0maqgzi96o6vs68g2itft3c-stable-diffusion-21-768-scenic-view-landscape-cyberpunk-city-of-highly-detailed-water-color-pastel-mix-ultra-realistic-robotic-dog-hyperdetailed-full-body-visible.jpg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-scenic view landscape cyberpunk city of highly detailed water color pastel mix ultra realistic, robotic dog, hyperdetailed full body visible, looking from below
-```
-
-[Source](https://prompthero.com/prompt/0e300d1c33b-stable-diffusion-21-768-scenic-view-landscape-cyberpunk-city-of-highly-detailed-water-color-pastel-mix-ultra-realistic-robotic-dog-hyperdetailed-full-body-visible)
-
----
-
-<a id="prompthero-1b9ce410a6c"></a>
-
-## cinematic seascape, warm color grading, long-lens \.\.\.
-
-<a href="https://cdn.prompthero.com/m4n05u4o7cwbdqsrponsny9ctiqw-midjourney-7-cinematic-seascape-warm-color-grading-long-lens-compression-straight-horizon-large-sun-near-upper-third-low-vantage-from-wet-sand.png"><img src="https://cdn.prompthero.com/m4n05u4o7cwbdqsrponsny9ctiqw-midjourney-7-cinematic-seascape-warm-color-grading-long-lens-compression-straight-horizon-large-sun-near-upper-third-low-vantage-from-wet-sand.png" width="480" alt="After"></a>
+<a href="https://cdn.prompthero.com/td0nxzjk5djhlh270mea0x1wwhfn-midjourney-52-create-a-whimsical-illustration-depicting-albi-the-friendly-blue-dragon-and-the-lemony-llama-exploring-the-candy-land-show-them.png"><img src="https://cdn.prompthero.com/td0nxzjk5djhlh270mea0x1wwhfn-midjourney-52-create-a-whimsical-illustration-depicting-albi-the-friendly-blue-dragon-and-the-lemony-llama-exploring-the-candy-land-show-them.png" width="480" alt="After"></a>
 
 **Prompt**
 
 ```text
-cinematic seascape, warm color grading, long-lens compression, straight horizon, large sun near upper third, low vantage from wet sand, gentle shoreline leading lines, full-frame mirrorless, 200-300mm telephoto lens, f/4, 1/800s, ISO100, single-point AF on subject, slight background motion blur on waves, woman seated on a folding beach chair, side-profile silhouette, windswept hair in sea breeze, relaxed posture, subtle rim light on edges, ocean shore with breaking surf and reflective wet sand, sun color bleeding on wet sand, intense orange-red golden-hour backlight, soft atmospheric haze, crisp horizon, delicate water-droplet bokeh, vermilion-to-amber sky gradient --ar 9:16 --raw --stylize 200
+Create a whimsical illustration depicting Albi, the friendly blue dragon, and the lemony llama exploring the candy land. Show them surrounded by candy cane trees, lollipop flowers, and a river of honey flowing through the sugary landscape. Capture the joy and wonder on their faces as they embark on their adventure together. Let your imagination run wild and bring the magical world to life with vibrant colors and delightful details. --ar 16:9 --v 5.2 --style raw --s 750
 ```
 
-By [@Grayve](https://prompthero.com/prompt/1b9ce410a6c-midjourney-7-cinematic-seascape-warm-color-grading-long-lens-compression-straight-horizon-large-sun-near-upper-third-low-vantage-from-wet-sand)
+[Source](https://prompthero.com/prompt/0acd2996dd5-midjourney-52-create-a-whimsical-illustration-depicting-albi-the-friendly-blue-dragon-and-the-lemony-llama-exploring-the-candy-land-show-them)
 
 ---
 
-**1** · [2](travel-2.md)
+<a id="prompthero-0df6a38be62"></a>
+
+## dynamic, high-speed action, encapsulated in a warm\.\.\.
+
+<a href="https://cdn.prompthero.com/y0m10n9faswvsluc8qe61bxrx5vq-midjourney-6-wwwgraytheorystudiocom-admingraytheorystudiocom-httpssoundcloudcomsolid-breaks-recordsak47-jumping-original-mixutmsourcemobiutmcampaignsocialsharing-dynamic-high-speed-action-encapsulated-in-a-warm-vibrant-sunset-backdrop-a-tight-crop-focusing-on-the-airborne-skateboard-and.png"><img src="https://cdn.prompthero.com/y0m10n9faswvsluc8qe61bxrx5vq-midjourney-6-wwwgraytheorystudiocom-admingraytheorystudiocom-httpssoundcloudcomsolid-breaks-recordsak47-jumping-original-mixutmsourcemobiutmcampaignsocialsharing-dynamic-high-speed-action-encapsulated-in-a-warm-vibrant-sunset-backdrop-a-tight-crop-focusing-on-the-airborne-skateboard-and.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+dynamic, high-speed action, encapsulated in a warm, vibrant sunset backdrop, a tight crop focusing on the airborne skateboard and the soles of shoes, amidst a dance of water droplets, high-resolution photography that captures the brisk movement and subtle details, like water splashing and texture contrasts, Nikon D850 for its fast shutter speeds and high dynamic range, which preserves the rich sunset hues and details in both highlights and shadows, Nikon AF-S NIKKOR 70-200mm f/2.8E FL ED VR, chosen for its sharpness and ability to freeze fast action with a creamy bokeh that isolates the subject, high-speed burst mode, a fast shutter of 1/4000 sec to freeze the droplets, and a low ISO to minimize noise, dynamic underbelly of a skateboard, adorned with gritty street art stickers, and the skater's shoes, mid-flip, black Vans Old school high-top sneakers, laces tied tightly for secure footwork, grip the board's edge, while the grip tape on the board's surface shows wear from many rides. an urban playground, likely a skate park or a rain-slicked street, where reflective puddles mirror the fiery sky, ground glistens with recent rain, and in the background, the silhouettes of city structures stand against the gradient of the sunset, sun's dying light casts everything in a rich amber, with silhouettes sharply defined and water droplets glittering like jewels in the air, every splash and ripple, the texture of the skateboard's underside, the treads of the sneakers, and the distant clouds all sing with clarity, scene is a high-contrast, vibrant end-of-day street scene where nature's beauty meets the raw energy of street sports, all heightened by the dramatic lighting of dusk, UHD, many details --ar 9:16 --style raw --stylize 700
+```
+
+By [@Grayve](https://prompthero.com/prompt/0df6a38be62-midjourney-6-wwwgraytheorystudiocom-admingraytheorystudiocom-httpssoundcloudcomsolid-breaks-recordsak47-jumping-original-mixutmsourcemobiutmcampaignsocialsharing-dynamic-high-speed-action-encapsulated-in-a-warm-vibrant-sunset-backdrop-a-tight-crop-focusing-on-the-airborne-skateboard-and)
+
+---
+
+**1** · [2](travel-2.md) · [3](travel-3.md)
 
 [← Home](../README.md)

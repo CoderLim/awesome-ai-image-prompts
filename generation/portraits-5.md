@@ -1,8 +1,8 @@
 # portraits
 
-[← Home](../README.md) · Page 5 / 21
+[← Home](../README.md) · Page 5 / 36
 
-[1](portraits.md) · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · **5** · [6](portraits-6.md) · [7](portraits-7.md) · [8](portraits-8.md) · [9](portraits-9.md) · [10](portraits-10.md) · [11](portraits-11.md) · [12](portraits-12.md) · [13](portraits-13.md) · [14](portraits-14.md) · [15](portraits-15.md) · [16](portraits-16.md) · [17](portraits-17.md) · [18](portraits-18.md) · [19](portraits-19.md) · [20](portraits-20.md) · [21](portraits-21.md)
+[1](portraits.md) · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · **5** · [6](portraits-6.md) · [7](portraits-7.md) · [8](portraits-8.md) · [9](portraits-9.md) · [10](portraits-10.md) · [11](portraits-11.md) · [12](portraits-12.md) · [13](portraits-13.md) · [14](portraits-14.md) · [15](portraits-15.md) · [16](portraits-16.md) · [17](portraits-17.md) · [18](portraits-18.md) · [19](portraits-19.md) · [20](portraits-20.md) · [21](portraits-21.md) · [22](portraits-22.md) · [23](portraits-23.md) · [24](portraits-24.md) · [25](portraits-25.md) · [26](portraits-26.md) · [27](portraits-27.md) · [28](portraits-28.md) · [29](portraits-29.md) · [30](portraits-30.md) · [31](portraits-31.md) · [32](portraits-32.md) · [33](portraits-33.md) · [34](portraits-34.md) · [35](portraits-35.md) · [36](portraits-36.md)
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
@@ -294,6 +294,22 @@ By [@SheBuildsAI\_](https://x.com/SheBuildsAI_/status/2092431090095149533)
 
 ---
 
+<a id="prompthero-0b01c8cb23f"></a>
+
+## ultrarealistic, fashion photography style, a beaut\.\.\.
+
+<a href="https://cdn.prompthero.com/d1b8wr1hhxqx3nu9bn1sk73b2vzg-flux-flux-11-pro-ultra-ultrarealistic-fashion-photography-style-a-beautiful-voluptuous-witch-in-a-long-form-fitting-gown-adorned-with-mystic-symbols-is-riding.jpg"><img src="https://cdn.prompthero.com/d1b8wr1hhxqx3nu9bn1sk73b2vzg-flux-flux-11-pro-ultra-ultrarealistic-fashion-photography-style-a-beautiful-voluptuous-witch-in-a-long-form-fitting-gown-adorned-with-mystic-symbols-is-riding.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+ultrarealistic, fashion photography style, a beautiful, voluptuous witch in a long, form fitting gown adorned with mystic symbols is riding a broom across the full moon in the background.  Sideview, accentuating her bottom, she looks at the viewer with a mischevious smile.  Below, a sleepy town in the midst of halloween celebrations with trick or treaters and their parents looking up at the witch, pointing and smiling. ultrarealistic, ansel adams style,  ultra detailed, masterpiece
+```
+
+[Source](https://prompthero.com/prompt/0b01c8cb23f-flux-flux-11-pro-ultra-ultrarealistic-fashion-photography-style-a-beautiful-voluptuous-witch-in-a-long-form-fitting-gown-adorned-with-mystic-symbols-is-riding)
+
+---
+
 <a id="prompthero-0c109f6343c"></a>
 
 ## shadowed model against a background that shifts fr\.\.\.
@@ -310,22 +326,6 @@ By [@chorlo](https://prompthero.com/prompt/0c109f6343c-flux-pro-shadowed-model-a
 
 ---
 
-<a id="prompthero-0cc18598e48"></a>
-
-## &quot;The Cosmic Eternal Empress of Celestia&quot;
-
-<a href="https://cdn.prompthero.com/8t0thhgctzkapqfylbo5b2839hvk-stable-diffusion-21-768-the-cosmic-eternal-empress-of-celestia.jpg"><img src="https://cdn.prompthero.com/8t0thhgctzkapqfylbo5b2839hvk-stable-diffusion-21-768-the-cosmic-eternal-empress-of-celestia.jpg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-((a portrait)) in the (fantasy style of luis royo and H.R Giger)), of an ancient female ethereal otherwordly queen, attractive, white ash smooth skin, athletic, (muted colors) conveying powerful emotions, the scene features a close up portrait theme setting, very detailed, bright, highly detailed digital art, features (magic, sorcery), imaginative Fantasy and Science Fiction themes alongside Mythological, all brought together in an epic setting that evokes a sense of adventure,  truly impressive graphics, with intricate compositions and fantastical subject matter that transport viewers into a world of surreal imagination, highly detailed, art by julie bell))) finely detailed, (((masterpiece, good quality, intricate details, high quality, best quality, 8k, in focus, sharp focus)))intricate details))), ((((masterpiece, good quality
-```
-
-[Source](https://prompthero.com/prompt/0cc18598e48-stable-diffusion-21-768-the-cosmic-eternal-empress-of-celestia)
-
----
-
-[1](portraits.md) · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · **5** · [6](portraits-6.md) · [7](portraits-7.md) · [8](portraits-8.md) · [9](portraits-9.md) · [10](portraits-10.md) · [11](portraits-11.md) · [12](portraits-12.md) · [13](portraits-13.md) · [14](portraits-14.md) · [15](portraits-15.md) · [16](portraits-16.md) · [17](portraits-17.md) · [18](portraits-18.md) · [19](portraits-19.md) · [20](portraits-20.md) · [21](portraits-21.md)
+[1](portraits.md) · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · **5** · [6](portraits-6.md) · [7](portraits-7.md) · [8](portraits-8.md) · [9](portraits-9.md) · [10](portraits-10.md) · [11](portraits-11.md) · [12](portraits-12.md) · [13](portraits-13.md) · [14](portraits-14.md) · [15](portraits-15.md) · [16](portraits-16.md) · [17](portraits-17.md) · [18](portraits-18.md) · [19](portraits-19.md) · [20](portraits-20.md) · [21](portraits-21.md) · [22](portraits-22.md) · [23](portraits-23.md) · [24](portraits-24.md) · [25](portraits-25.md) · [26](portraits-26.md) · [27](portraits-27.md) · [28](portraits-28.md) · [29](portraits-29.md) · [30](portraits-30.md) · [31](portraits-31.md) · [32](portraits-32.md) · [33](portraits-33.md) · [34](portraits-34.md) · [35](portraits-35.md) · [36](portraits-36.md)
 
 [← Home](../README.md)

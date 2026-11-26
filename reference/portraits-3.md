@@ -134,6 +134,22 @@ The uploaded woman stands by a river. The setting sun, a fiery sunset, golden cl
 
 ---
 
+<a id="prompthero-56909e59074"></a>
+
+## Use the provided reference image 1 as the primary \.\.\.
+
+<a href="https://cdn.prompthero.com/v1_7ec571e21e0c7b1e777951c235-riverflow-riverflow-25-use-the-provided-reference-image-1-as-the-primary-visual-style-reference-match-its-color-palette-lighting-texture-composition-rhythm.jpg"><img src="https://cdn.prompthero.com/v1_7ec571e21e0c7b1e777951c235-riverflow-riverflow-25-use-the-provided-reference-image-1-as-the-primary-visual-style-reference-match-its-color-palette-lighting-texture-composition-rhythm.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+Use the provided reference image 1 as the primary visual style reference. Match its color palette, lighting, texture, composition rhythm, and artistic treatment while recreating the person from image 2
+```
+
+By [@chorlo](https://prompthero.com/prompt/56909e59074-riverflow-riverflow-25-use-the-provided-reference-image-1-as-the-primary-visual-style-reference-match-its-color-palette-lighting-texture-composition-rhythm)
+
+---
+
 <a id="prompthero-6621703c42a"></a>
 
 ## A portrait of a young beautiful girl, smiling, Asy\.\.\.
@@ -163,6 +179,22 @@ Ultra-realistic podcast setup with a stylish woman seated at a wooden table, min
 ```
 
 [Source](https://prompthero.com/prompt/334682387fa-nano-banana-nano-banana-ultra-realistic-podcast-setup-with-a-stylish-woman-seated-at-a-wooden-table-minimalist-decor-with-a-small-green-plant)
+
+---
+
+<a id="prompthero-ab7e4defbcd"></a>
+
+## Selfie en primer plano, tomado con teléfono móvil\.\.\.\.
+
+<a href="https://cdn.prompthero.com/exo2mtma99rxezysg17dsnq81s-nano-banana-nano-banana-pro-selfie-en-primer-plano-tomado-con-telfono-mvil-yo-usa-la-cara-del-modelo-de-la-imagen-referencia-del-usuario.jpeg"><img src="https://cdn.prompthero.com/exo2mtma99rxezysg17dsnq81s-nano-banana-nano-banana-pro-selfie-en-primer-plano-tomado-con-telfono-mvil-yo-usa-la-cara-del-modelo-de-la-imagen-referencia-del-usuario.jpeg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+Selfie en primer plano, tomado con teléfono móvil. Yo (usa la cara del modelo de la imagen referencia del usuario) aparezco a la izquierda de la imagen. El esta se seca un selfie con el personaje de Saruman del Señor de los anillos, en una locación icónica de la pelicula del protagonista. Estilo realista fotográfico. Se vislumbran algunos elementos (pocos) que delatan que estamos en un set de grabación. NO debe verse ningún celular tomando la foto en las escenas. Todo tiene un ambiente navideño, los personajes llevan jersey navideños pero sin perder sus ropas reconocidas
+```
+
+[Source](https://prompthero.com/prompt/ab7e4defbcd-nano-banana-nano-banana-pro-selfie-en-primer-plano-tomado-con-telfono-mvil-yo-usa-la-cara-del-modelo-de-la-imagen-referencia-del-usuario)
 
 ---
 

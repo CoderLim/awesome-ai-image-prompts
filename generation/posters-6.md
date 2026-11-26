@@ -230,6 +230,38 @@ By [@ScArecrow23](https://prompthero.com/prompt/0be23a4fd11-dreamshaper-5-baked-
 
 ---
 
+<a id="prompthero-6cc65fc36e1"></a>
+
+## Sergeant Michelle Miller
+
+<a href="https://cdn.prompthero.com/ezbvflmu1f004rteqrac235xiob5-stable-diffusion-xl-base-09-sergeant-michelle-miller.jpg"><img src="https://cdn.prompthero.com/ezbvflmu1f004rteqrac235xiob5-stable-diffusion-xl-base-09-sergeant-michelle-miller.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+(masterpiece, best quality, ultra-realistic, RAW photo, detailed skin, 8k UHD, high quality:1.2), digital style painting photo of a young beautiful soldier woman, attacking stance, long hair, dirty military attire and gear, sunset, WW2, war city background, ruin city, high saturation, highly detailed, digital art, film grain, movie poster style <lora:add-detail-xl:5>
+```
+
+By [@abyishot](https://prompthero.com/prompt/6cc65fc36e1-stable-diffusion-xl-base-09-sergeant-michelle-miller)
+
+---
+
+<a id="prompthero-7a471730a9e"></a>
+
+## Ragnar Lothbrok, covered in mud and blood, wields \.\.\.
+
+<a href="https://cdn.prompthero.com/96djq0biu4j02mj7wie72b2uot7x-flux-flux-11-pro-ragnar-lothbrok-covered-in-mud-and-blood-wields-a-notched-viking-sword-against-his-brother-rollo-who-parries-with-a.jpg"><img src="https://cdn.prompthero.com/96djq0biu4j02mj7wie72b2uot7x-flux-flux-11-pro-ragnar-lothbrok-covered-in-mud-and-blood-wields-a-notched-viking-sword-against-his-brother-rollo-who-parries-with-a.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+Ragnar Lothbrok, covered in mud and blood, wields a notched Viking sword against his brother Rollo, who parries with a Frankish broadsword, their blades locked in a spray of sparks. Around them, a chaotic melee rages: Viking warriors in fur and chainmail clash with Frankish soldiers, axes splitting shields, spears impaling foes. A massive long-haired berserker hacks through two enemies in the background, while a dying warrior crawls toward a fallen banner. The ground is littered with shattered swords, arrows, and Rollo's baptismal cross trampled into the mud. Smoke from burning huts obscures the Parisian skyline, with a stone church tower looming in the distance.
+```
+
+[Source](https://prompthero.com/prompt/7a471730a9e-flux-flux-11-pro-ragnar-lothbrok-covered-in-mud-and-blood-wields-a-notched-viking-sword-against-his-brother-rollo-who-parries-with-a)
+
+---
+
 <a id="prompthero-8a264b71ad2"></a>
 
 ## 3w Exactly 7 individual premium sale-themed stick\.\.\.
@@ -291,38 +323,6 @@ dynamic, full shot of the Joker character,  from the movie "Joker",  a Caucasian
 ```
 
 [Source](https://prompthero.com/prompt/49f80606c2a-midjourney-61-dynamic-full-shot-of-the-joker-character-from-the-movie-joker-a-caucasian-man-likely-in-his-late-20s-or)
-
----
-
-<a id="prompthero-254f00503a2"></a>
-
-## At the center of the image is the OKC Thunder logo\.\.\.
-
-<a href="https://cdn.prompthero.com/td408iyta7ekze3y56p4mtjcb6-hero-10-at-the-center-of-the-image-is-the-okc-thunder-logo-positioned-over-the-face-of-a-powerful-human-like.jpeg"><img src="https://cdn.prompthero.com/td408iyta7ekze3y56p4mtjcb6-hero-10-at-the-center-of-the-image-is-the-okc-thunder-logo-positioned-over-the-face-of-a-powerful-human-like.jpeg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-At the center of the image is the OKC Thunder logo, positioned over the face of a powerful, human-like storm figure rising from thick, turbulent clouds. Above it, the word “THUNDER” curves across the top in bold, metallic lettering. The figure’s glowing blue eyes create an intense, almost supernatural presence. The composition is framed by dark, swirling storm clouds, bright blue lightning bolts, and strong contrast with glowing highlights. A deep blue palette, accented with white and electric blue, gives the image a cold, charged, and dramatic atmosphere. Overall, the artwork feels cinematic, aggressive, and full of energy, like a striking fan poster that captures the raw power and identity of the Oklahoma City Thunder.
-```
-
-[Source](https://prompthero.com/prompt/254f00503a2-hero-10-at-the-center-of-the-image-is-the-okc-thunder-logo-positioned-over-the-face-of-a-powerful-human-like)
-
----
-
-<a id="prompthero-311c87d60a0"></a>
-
-## \{ &quot;meta&quot;: \{ &quot;aesthetic\_goal&quot;: &quot;Ultra Realistic Cin\.\.\.
-
-<a href="https://cdn.prompthero.com/emf0bvquv90rtm621huah6qk5w-chatgpt-image-v1-meta-aestheticgoal-ultra-realistic-cinematic-music-cover-soft-cyberpunk-pastel-vibemode-dreamy-rooftop-night-soft-neon-atmosphere-imagequality-ultra-high.png"><img src="https://cdn.prompthero.com/emf0bvquv90rtm621huah6qk5w-chatgpt-image-v1-meta-aestheticgoal-ultra-realistic-cinematic-music-cover-soft-cyberpunk-pastel-vibemode-dreamy-rooftop-night-soft-neon-atmosphere-imagequality-ultra-high.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-{ "meta": { "aesthetic_goal": "Ultra Realistic Cinematic Music Cover / Soft Cyberpunk Pastel", "vibe_mode": "Dreamy Rooftop Night / Soft Neon Atmosphere", "image_quality": "Ultra High / Photorealistic Album Cover", "image_type": "Photo", "device_simulation": "Full-frame mirrorless cinematic portrait", "render_settings": { "resolution": "1792x1024", "aspect_ratio": "16:9", "quality_tags": "ultra realistic, pastel cyberpunk, soft glow, cinematic lighting, shallow depth of field, film grain, high dynamic range" } }, "global_context": { "scene_description": "A highly realistic cinematic portrait of a young woman standing on a skyscraper rooftop at night, overlooking a dreamy cyberpunk city filled with soft pastel neon lights (muted cyan, soft pink, lavender, pale amber).", "time_of_day": "Late Night", "weather_atmosphere": "Cool air, gentle wind, thin mist, diffused neon haze, soft atmospheric bloom" }, "artistic_elements": { "mood": "Quiet, emotional, introspective, slightly melancholic but peaceful", "style": "Soft Cyberpunk Realism / Dreamwave", "theme": "Loneliness in a connected world", "narrative": "A solitary figure observing a calm futuristic city glowing softly beneath, representing emotional distance softened by quiet acceptance.", "compositional_technique": "Centered subject with layered depth (foreground softness, mid subject sharp, background blur)", "authenticity_marker": "natural skin texture, subtle wind motion, realistic light falloff, soft RGB split, cinematic imperfections" }, "color_palette": { "dominant_hex_estimates": [ "#0e1117", "#10131c" ], "accent_colors": [ "Soft Cyan", "Pastel Pink", "Lavender Purple", "Muted Amber Highlights" ], "contrast_level": "Medium-Low", "overall_mood": "Dark base with gentle pastel neon glow" }, "composition": { "layout_type": "Music Cover", "camera_angle": "Eye Level", "framing": "Waist Up", "depth_of_field": "Very shallow (creamy bokeh city lights)", "focal_point": "Eyes", "balance": "Centered with subtle asymmetry from city lights", "key_elements": [ "Emotional eyes with soft reflections", "Rooftop edge slightly visible", "Dreamy skyline bokeh", "Soft neon reflections on skin", "Floating typography" ] }, "subject_analysis": { "identity_summary": "Young woman (20-25), calm, introspective, emotionally distant yet peaceful", "visual_signature": { "face_shape": "Soft oval", "eye_details": "Glossy reflective eyes with soft cyan and pink highlights, slight moisture for realism", "skin_complexion": "Highly realistic skin with visible pores, subtle imperfections, soft pastel light reflection", "unique_features": "Micro-expression sadness, relaxed lips, natural asymmetry" }, "hair_logic": { "style": "Loose, slightly messy", "texture": "Soft and natural", "color": "Dark brown / black", "physics": "Gentle wind movement, subtle strand separation, soft rim lighting in pastel tones" }, "pose_and_action": { "description": "Standing calmly near rooftop edge", "facial_expression": "Soft, distant, emotionally reflective", "gaze_direction": "Looking toward city, not directly at camera" } }, "wardrobe": { "top": { "type": "Futuristic techwear jacket", "color": "Matte black", "material": "Soft synthetic fabric with light reflective seams", "style": "Minimalist cyberpunk", "details": "Subtle reflective piping catching pastel neon light, slightly oversized fit", "fit": "Relaxed" } }, "typography": { "title_text": { "content": "PAPERCUT", "position": "Behind subject in sky area", "style": "Grunge Bush-style sans-serif (distressed, eroded edges)", "color": "Soft gradient (Pastel Cyan → Soft Pink)", "texture": "Subtle noise + worn texture overlay", "opacity": "Medium-low", "blend_mode": "Screen", "depth_blur": "Slightly out of focus", "effects": "Light glitch flicker + soft neon bleed" }, "artist_label": { "content": "LINKIN PARK", "position": "Right mid", "style": "Bold uppercase grunge sans-serif", "color": "Soft white with slight texture", "opacity": "Medium", "effects": "Very subtle distortion" }, "secondary_text": { "content": "MoonChill • NIGHT MODE • EDM", "position": "Left mid", "style": "Thin modern sans-serif (clean contrast to grunge)", "color": "Pale cyan", "opacity": "Soft" } }, "environment": { "setting_type": "Skyscraper Rooftop", "location_details": "Minimal rooftop edge visible, expansive futuristic skyline with soft holographic lights", "background_chaos": "Smooth bokeh lights, layered haze, diffused neon glow, no harsh shapes" }, "lighting": { "source": "Diffused pastel neon lights from city below", "fill_light": "Soft frontal glow (cool cyan)", "direction": "Soft upward ambient + gentle side rim lighting", "quality": "Very soft, cinematic, diffused", "shadows": "Soft and natural", "highlights": "Subtle pastel rim light on hair and cheekbones" }, "cinematography": { "optical_physics": { "lens_distortion": "Minimal", "chromatic_aberration": "Very subtle", "bokeh_style": "Creamy circular bokeh" }, "shutter_mechanics": { "motion_blur": "Very minimal" } }, "tech_specs": { "iso": "400", "aperture": "f/1.6", "focal_length": "50mm", "shutter_speed": "1/125s" }, "technical_imperfections": { "focus": "Eyes critically sharp", "sensor_noise": "Fine film grain", "digital_processing": "Soft bloom, pastel grading, slight RGB split, natural skin rendering" }, "final_prompts": { "positive": "ultra realistic cinematic portrait of a young woman on a rooftop at night, soft pastel cyberpunk city lights in cyan pink and lavender, dreamy atmosphere, gentle wind in hair, natural skin texture, shallow depth of field, creamy bokeh, soft neon reflections, emotional expression, music cover aesthetic, grunge style text PAPERCUT, LINKIN PARK, subtle glitch, photorealistic, cinematic lighting", "negative": "anime, cartoon, cgi, overexposed neon, harsh contrast, yellow dominant lighting, plastic skin, unrealistic proportions, watermark" } }
-```
-
-[Source](https://prompthero.com/prompt/311c87d60a0-chatgpt-image-v1-meta-aestheticgoal-ultra-realistic-cinematic-music-cover-soft-cyberpunk-pastel-vibemode-dreamy-rooftop-night-soft-neon-atmosphere-imagequality-ultra-high)
 
 ---
 

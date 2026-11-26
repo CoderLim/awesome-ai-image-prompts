@@ -6,6 +6,74 @@
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
+<a id="prompthero-7ee3e9f9ac7"></a>
+
+## A minimalist design of the word &quot;PROMPTHERO&quot; forme\.\.\.
+
+<a href="https://cdn.prompthero.com/ovfy1m3snqw4a4wn1wojjaetnik0-ideogram-2-a-minimalist-design-of-the-word-prompthero-formed-by-a-single-piece-of-red-rope-against-a-white-background-the.png"><img src="https://cdn.prompthero.com/ovfy1m3snqw4a4wn1wojjaetnik0-ideogram-2-a-minimalist-design-of-the-word-prompthero-formed-by-a-single-piece-of-red-rope-against-a-white-background-the.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+A minimalist design of the word "PROMPTHERO" formed by a single piece of red rope against a white background. The rope twists and bends intricately to create the letterforms without breaks. The negative space within the loops helps define the letters. The design symbolizes connection and strength. The composition is simple yet detailed. The overall aesthetic is elegant, meaningful, and creatively brilliant, offering a unique interpretation of love through the art of knots.
+```
+
+By [@chorlo](https://prompthero.com/prompt/7ee3e9f9ac7-ideogram-2-a-minimalist-design-of-the-word-prompthero-formed-by-a-single-piece-of-red-rope-against-a-white-background-the)
+
+---
+
+<a id="prompthero-20e7743dd91"></a>
+
+## An icon design, 3D, transportation icon, bicycles,\.\.\.
+
+<a href="https://cdn.prompthero.com/p0eefi6x80effwi35hivexodpsud-midjourney-niji-mode-an-icon-design-3d-transportation-icon-bicycles-soft-light-nostalgic-feeling-pastel-colors-vintage-colors-muted-colors-classic-jerry-pinkney.png"><img src="https://cdn.prompthero.com/p0eefi6x80effwi35hivexodpsud-midjourney-niji-mode-an-icon-design-3d-transportation-icon-bicycles-soft-light-nostalgic-feeling-pastel-colors-vintage-colors-muted-colors-classic-jerry-pinkney.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+An icon design, 3D, transportation icon, bicycles, soft light, nostalgic feeling, pastel colors, vintage colors, muted colors, classic, Jerry Pinkney, clean and neutral background::2 --q 2 --niji 5
+```
+
+[Source](https://prompthero.com/prompt/20e7743dd91-midjourney-niji-mode-an-icon-design-3d-transportation-icon-bicycles-soft-light-nostalgic-feeling-pastel-colors-vintage-colors-muted-colors-classic-jerry-pinkney)
+
+---
+
+<a id="prompthero-34bcc4b30db"></a>
+
+## A 3D metallic chrome text logo that says &quot;GHASEM&quot;,\.\.\.
+
+<a href="https://cdn.prompthero.com/v1_70077717c351c120d783bed138-hero-10-a-3d-metallic-chrome-text-logo-that-says-ghasem-designed-in-a-fluid-molten-style-with-reflective-golden-orange-surfaces.jpg"><img src="https://cdn.prompthero.com/v1_70077717c351c120d783bed138-hero-10-a-3d-metallic-chrome-text-logo-that-says-ghasem-designed-in-a-fluid-molten-style-with-reflective-golden-orange-surfaces.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+A 3D metallic chrome text logo that says "GHASEM", designed in a fluid, molten style with reflective golden-orange surfaces. The letters have a glossy, liquid metal appearance with highlights and shiny edges. Background is a smooth gradient transitioning from deep black at the top to vibrant orange at the bottom, creating contrast and depth. Ultra-detailed reflections, glowing metallic texture, modern graphic design, bold futuristic typography.
+```
+
+[Source](https://prompthero.com/prompt/34bcc4b30db-hero-10-a-3d-metallic-chrome-text-logo-that-says-ghasem-designed-in-a-fluid-molten-style-with-reflective-golden-orange-surfaces)
+
+---
+
+<a id="prompthero-4051de7c67f"></a>
+
+## ChatGPT JSON:
+
+\{
+  &quot;title&quot;: &quot;Moss Bolt&quot;,
+  &quot;st\.\.\.
+
+<a href="https://cdn.prompthero.com/2k7tk02g4fzwx4x1x8kru767tvop-chatgpt-image-gpt-4o-chatgpt-json-title-moss-bolt-styleaesthetic-overallvibe-natural-and-lush-colorpalette-background-jet-black-accents-forest-green-leafy-lime-materialsandtextures.png"><img src="https://cdn.prompthero.com/2k7tk02g4fzwx4x1x8kru767tvop-chatgpt-image-gpt-4o-chatgpt-json-title-moss-bolt-styleaesthetic-overallvibe-natural-and-lush-colorpalette-background-jet-black-accents-forest-green-leafy-lime-materialsandtextures.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+ChatGPT JSON: { "title": "Moss Bolt", "styleAesthetic": { "overallVibe": "Natural and lush", "colorPalette": { "background": "Jet black", "accents": ["Forest green", "Leafy lime"] }, "materialsAndTextures": [ { "type": "Mossy texture", "description": "Soft, plant-like surface with dense coverage" } ], "lightingAndShadows": { "description": "Overhead softbox simulating natural light" }, "moodKeywords": ["Eco-friendly", "Fresh", "Organic", "Peaceful"] } }
+```
+
+By [@chorlo](https://prompthero.com/prompt/4051de7c67f-chatgpt-image-gpt-4o-chatgpt-json-title-moss-bolt-styleaesthetic-overallvibe-natural-and-lush-colorpalette-background-jet-black-accents-forest-green-leafy-lime-materialsandtextures)
+
+---
+
 <a id="prompthero-b5a90a4a45d"></a>
 
 ## Graytheory model
@@ -19,6 +87,42 @@ photography, 28 woman, pro model, natural pose moment, wearing small text logo w
 ```
 
 By [@Grayve](https://prompthero.com/prompt/b5a90a4a45d-midjourney-6-graytheory-model)
+
+---
+
+<a id="prompthero-ca6c85f4d01"></a>
+
+## A retro icon of a cassette tape, Carbon Fiber styl\.\.\.
+
+<a href="https://cdn.prompthero.com/y93a5sh0199y9icplskf43njidxu-midjourney-5-a-retro-icon-of-a-cassette-tape-carbon-fiber-style-blue-and-purple-palette-art-by-roy-lichtenstein-white-background.png"><img src="https://cdn.prompthero.com/y93a5sh0199y9icplskf43njidxu-midjourney-5-a-retro-icon-of-a-cassette-tape-carbon-fiber-style-blue-and-purple-palette-art-by-roy-lichtenstein-white-background.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+A retro icon of a cassette tape, Carbon Fiber style, blue and purple palette, art by Roy Lichtenstein, white background:: --q 2 --v 5
+```
+
+[Source](https://prompthero.com/prompt/ca6c85f4d01-midjourney-5-a-retro-icon-of-a-cassette-tape-carbon-fiber-style-blue-and-purple-palette-art-by-roy-lichtenstein-white-background)
+
+---
+
+<a id="prompthero-df37c2138ce"></a>
+
+## ChatGPT JSON:
+
+\{
+  &quot;title&quot;: &quot;Fur Bolt&quot;,
+  &quot;sty\.\.\.
+
+<a href="https://cdn.prompthero.com/x0c4gw46esb76bpv0te4ulvcfemb-chatgpt-image-gpt-4o-chatgpt-json-title-fur-bolt-styleaesthetic-overallvibe-tactile-and-cozy-colorpalette-background-pitch-black-accents-ash-gray-materialsandtextures-type-soft.png"><img src="https://cdn.prompthero.com/x0c4gw46esb76bpv0te4ulvcfemb-chatgpt-image-gpt-4o-chatgpt-json-title-fur-bolt-styleaesthetic-overallvibe-tactile-and-cozy-colorpalette-background-pitch-black-accents-ash-gray-materialsandtextures-type-soft.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+ChatGPT JSON: { "title": "Fur Bolt", "styleAesthetic": { "overallVibe": "Tactile and cozy", "colorPalette": { "background": "Pitch black", "accents": ["Ash gray"] }, "materialsAndTextures": [ { "type": "Soft fur", "description": "Long-pile fur with realistic shadowing" } ], "lightingAndShadows": { "description": "Soft rim lighting to emphasize fluffiness" }, "moodKeywords": ["Comfort", "Warmth", "Luxury", "Soft"] } }
+```
+
+By [@chorlo](https://prompthero.com/prompt/df37c2138ce-chatgpt-image-gpt-4o-chatgpt-json-title-fur-bolt-styleaesthetic-overallvibe-tactile-and-cozy-colorpalette-background-pitch-black-accents-ash-gray-materialsandtextures-type-soft)
 
 ---
 

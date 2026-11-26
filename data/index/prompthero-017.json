@@ -1,0 +1,926 @@
+[
+  {
+    "id": "prompthero-62889b9d244",
+    "title": {
+      "en": "A stylized 3D-rendered sculpture of a chubby, cart...",
+      "zh": null
+    },
+    "type": "generation",
+    "category": "creative-art",
+    "inputMode": "text-to-image",
+    "status": "index-only",
+    "prompt": {
+      "original": "A stylized 3D-rendered sculpture of a chubby, cartoonish cat standing upright on a circular base. The model has smooth, clay-like texture and visible quad polygon topology, giving it a wireframe overlay look. The cat has a serene, closed-eye expression, small ears, and a thick tail. Rendered with a neutral gray material on a black background, suitable for digital modeling or character design showcase."
+    },
+    "media": [],
+    "models": [],
+    "sourcePreview": {
+      "images": [
+        {
+          "url": "https://cdn.prompthero.com/clib9qb0l8b84yk000k67p0i0js2-sora-v1-a-stylized-3d-rendered-sculpture-of-a-chubby-cartoonish-cat-standing-upright-on-a-circular-base-the-model-has-smooth.png",
+          "role": "output"
+        }
+      ],
+      "promptExcerpt": "A stylized 3D-rendered sculpture of a chubby, cartoonish cat standing upright on a circular base. Th",
+      "excerptTruncated": true
+    },
+    "provenance": {
+      "originalSource": {
+        "platform": "prompthero",
+        "author": "@chorlo",
+        "url": "https://prompthero.com/prompt/62889b9d244-sora-v1-a-stylized-3d-rendered-sculpture-of-a-chubby-cartoonish-cat-standing-upright-on-a-circular-base-the-model-has-smooth",
+        "postId": "62889b9d244",
+        "publishedAt": "2025-03-27T18:41:00.572Z",
+        "verification": "reported-by-collector"
+      },
+      "collectedFrom": [
+        {
+          "sourceId": "prompthero",
+          "mode": "collector-export",
+          "snapshotSha256": "5b6ec3ba2250eeed1e839b3070b829e07609396f2c3da9710a0262e196571854",
+          "url": "https://prompthero.com/prompt/62889b9d244-sora-v1-a-stylized-3d-rendered-sculpture-of-a-chubby-cartoonish-cat-standing-upright-on-a-circular-base-the-model-has-smooth",
+          "collectedAt": "2026-11-26T04:00:18.059Z"
+        }
+      ]
+    },
+    "rights": {
+      "prompt": "unknown",
+      "media": "unknown"
+    },
+    "sourceMeta": {
+      "authorUrl": "https://prompthero.com/user/3dfcda3e-33d9-4929-b881-49f19900b3dd",
+      "model": "Sora v1",
+      "modelVersion": null,
+      "likes": 3,
+      "views": 282,
+      "tags": [],
+      "review": {
+        "qualityStatus": "recommended",
+        "qualityScore": 44,
+        "classificationConfidence": "low",
+        "classificationMethod": "phase-b-text-review",
+        "authorStatus": "detail-page-uuid-match",
+        "authorEvidenceUrl": "https://prompthero.com/prompt/6f38da7be9b-hero-10-scenery-1boy-male-focus-sitting-looking-away-on-stone-steps-school-uniform-short-sleeve-shirt-dark-pants-sneakers-backpack-calm",
+        "promptCompletenessCheck": "export-only",
+        "inputModeEvidence": "no-explicit-input-cue",
+        "unverifiedReferenceCandidates": [],
+        "inputMode": "text-to-image",
+        "category": "creative-art"
+      },
+      "imageVerification": "source-reported-output; HTTP and visual match unchecked"
+    }
+  },
+  {
+    "id": "prompthero-a7e589d5ce2",
+    "title": {
+      "en": "Hyper realistic fisheye exterior photo of a tarot ...",
+      "zh": null
+    },
+    "type": "generation",
+    "category": "creative-art",
+    "inputMode": "text-to-image",
+    "status": "index-only",
+    "prompt": {
+      "original": "Hyper realistic fisheye exterior photo of a tarot card “13th” gothic style ,overlooking the scene, cinematic lighting, indirect lighting, AD magazine, Tim Burton , Eames, Mies van der Rohe."
+    },
+    "media": [],
+    "models": [],
+    "sourcePreview": {
+      "images": [
+        {
+          "url": "https://cdn.prompthero.com/5fp1q6wcrisa02leps7lkipp8upk-flux-flux-11-pro-ultra-hyper-realistic-fisheye-exterior-photo-of-a-tarot-card-13th-gothic-style-overlooking-the-scene-cinematic-lighting-indirect-lighting-ad.jpg",
+          "role": "output"
+        }
+      ],
+      "promptExcerpt": "Hyper realistic fisheye exterior photo of a tarot card “13th” gothic style ,overlooking the scene, c",
+      "excerptTruncated": true
+    },
+    "provenance": {
+      "originalSource": {
+        "platform": "prompthero",
+        "author": null,
+        "url": "https://prompthero.com/prompt/a7e589d5ce2-flux-flux-11-pro-ultra-hyper-realistic-fisheye-exterior-photo-of-a-tarot-card-13th-gothic-style-overlooking-the-scene-cinematic-lighting-indirect-lighting-ad",
+        "postId": "a7e589d5ce2",
+        "publishedAt": "2024-12-30T05:55:13.806Z",
+        "verification": "reported-by-collector"
+      },
+      "collectedFrom": [
+        {
+          "sourceId": "prompthero",
+          "mode": "collector-export",
+          "snapshotSha256": "5b6ec3ba2250eeed1e839b3070b829e07609396f2c3da9710a0262e196571854",
+          "url": "https://prompthero.com/prompt/a7e589d5ce2-flux-flux-11-pro-ultra-hyper-realistic-fisheye-exterior-photo-of-a-tarot-card-13th-gothic-style-overlooking-the-scene-cinematic-lighting-indirect-lighting-ad",
+          "collectedAt": "2026-11-26T04:00:23.760Z"
+        }
+      ]
+    },
+    "rights": {
+      "prompt": "unknown",
+      "media": "unknown"
+    },
+    "sourceMeta": {
+      "authorUrl": "https://prompthero.com/user/35f98a92-3f1b-45d7-ae21-28e2d12f2339",
+      "model": "FLUX flux-1.1-pro-ultra",
+      "modelVersion": null,
+      "likes": 0,
+      "views": 119,
+      "tags": [],
+      "review": {
+        "qualityStatus": "recommended",
+        "qualityScore": 50,
+        "classificationConfidence": "low",
+        "classificationMethod": "phase-b-text-review",
+        "authorStatus": "unresolved",
+        "authorEvidenceUrl": null,
+        "promptCompletenessCheck": "export-only",
+        "inputModeEvidence": "no-explicit-input-cue",
+        "unverifiedReferenceCandidates": [],
+        "inputMode": "text-to-image",
+        "category": "creative-art"
+      },
+      "imageVerification": "source-reported-output; HTTP and visual match unchecked"
+    }
+  },
+  {
+    "id": "prompthero-a116f897a82",
+    "title": {
+      "en": "<lora:ironcatlora5Sphynx_v10:0.7> ((best quality))...",
+      "zh": null
+    },
+    "type": "generation",
+    "category": "architecture",
+    "inputMode": "text-to-image",
+    "status": "index-only",
+    "prompt": {
+      "original": "<lora:ironcatlora5Sphynx_v10:0.7> ((best quality)), ((masterpiece)), (detailed), sphynx cat wearing armor, outdoors with a castle in the background, (intricate details, hyperdetailed:1.2), RAW Photo, Sharp focus , DSLR, 16k, UHD, HDR,(Masterpiece:1.5), (best quality:1.5), "
+    },
+    "media": [],
+    "models": [],
+    "sourcePreview": {
+      "images": [
+        {
+          "url": "https://cdn.prompthero.com/okw8qlt7vbm5cg7pzz3rioqmr6nc-dreamshaper-sphynx-loraironcatlora5sphynxv1007-best-quality-masterpiece-detailed-sphynx-cat-wearing-armor-outdoors-with-a-castle-in-the-background-intricate-details-hyperdetailed12-raw.png",
+          "role": "output"
+        }
+      ],
+      "promptExcerpt": "<lora:ironcatlora5Sphynx_v10:0.7> ((best quality)), ((masterpiece)), (detailed), sphynx cat wearing ",
+      "excerptTruncated": true
+    },
+    "provenance": {
+      "originalSource": {
+        "platform": "prompthero",
+        "author": "@ScArecrow23",
+        "url": "https://prompthero.com/prompt/a116f897a82-dreamshaper-sphynx-loraironcatlora5sphynxv1007-best-quality-masterpiece-detailed-sphynx-cat-wearing-armor-outdoors-with-a-castle-in-the-background-intricate-details-hyperdetailed12-raw",
+        "postId": "a116f897a82",
+        "publishedAt": "2023-06-11T03:48:57.749Z",
+        "verification": "reported-by-collector"
+      },
+      "collectedFrom": [
+        {
+          "sourceId": "prompthero",
+          "mode": "collector-export",
+          "snapshotSha256": "5b6ec3ba2250eeed1e839b3070b829e07609396f2c3da9710a0262e196571854",
+          "url": "https://prompthero.com/prompt/a116f897a82-dreamshaper-sphynx-loraironcatlora5sphynxv1007-best-quality-masterpiece-detailed-sphynx-cat-wearing-armor-outdoors-with-a-castle-in-the-background-intricate-details-hyperdetailed12-raw",
+          "collectedAt": "2026-11-26T04:01:48.183Z"
+        }
+      ]
+    },
+    "rights": {
+      "prompt": "unknown",
+      "media": "unknown"
+    },
+    "sourceMeta": {
+      "authorUrl": "https://prompthero.com/user/47d3f941-9c85-4e50-9f37-4687e446abff",
+      "model": "DreamShaper",
+      "modelVersion": null,
+      "likes": 6,
+      "views": 381,
+      "tags": [],
+      "review": {
+        "qualityStatus": "recommended",
+        "qualityScore": 40,
+        "classificationConfidence": "low",
+        "classificationMethod": "phase-b-text-review",
+        "authorStatus": "detail-page-uuid-match",
+        "authorEvidenceUrl": "https://prompthero.com/prompt/3beb33c2d55-stable-diffusion-xl-base-09-galactic-bluepencil-xl-masterpiece-stunning-best-quality-a-captivating-space-themed-artwork-featuring-the-ethereal-beauty-of-swirling-nebulas-and-twinkling-stars-with",
+        "promptCompletenessCheck": "export-only",
+        "inputModeEvidence": "no-explicit-input-cue",
+        "unverifiedReferenceCandidates": [],
+        "inputMode": "text-to-image",
+        "category": "architecture"
+      },
+      "imageVerification": "source-reported-output; HTTP and visual match unchecked",
+      "negativePrompt": "(bad-image-v2-39000:0.8), (bad_prompt_version2:0.8), (bad-hands-5:1.1), (EasyNegative:0.8), (NG_DeepNegative_V1_4T:0.8), (bad-artist-anime:0.7),(deformed iris, deformed pupils, bad eyes, semi-realistic:1.4), (worst quality, low quality:1.3), (blurry:1.2), (greyscale, monochrome:1.1), (poorly drawn face), cloned face, cross eyed , extra fingers, mutated hands, (fused fingers), (too many fingers), (missing arms), (missing legs), (extra arms), (extra legs), (poorly drawn hands), (bad anatomy), (bad proportions), cropped, lowres, text, jpeg artifacts, signature, watermark, username, artist name, trademark, watermark, title, multiple view, Reference sheet, long neck, Out of Frame,(Naked, Nude, NSFW, Erotica:2.0)"
+    }
+  },
+  {
+    "id": "prompthero-f4a46601b05",
+    "title": {
+      "en": "Medieval serf cottages, timberframed, strawthatche...",
+      "zh": null
+    },
+    "type": "generation",
+    "category": "architecture",
+    "inputMode": "text-to-image",
+    "status": "index-only",
+    "prompt": {
+      "original": "Medieval serf cottages, timberframed, strawthatched roofs, clustered around a communal pond, rustic, sunset lighting, detailed, pastoral charm, photorealistic, by Vermeer, architectural photography "
+    },
+    "media": [],
+    "models": [],
+    "sourcePreview": {
+      "images": [
+        {
+          "url": "https://cdn.prompthero.com/05qpbn0lpponq4jxk98px0shntmx-midjourney-61-medieval-serf-cottages-timberframed-strawthatched-roofs-clustered-around-a-communal-pond-rustic-sunset-lighting-detailed-pastoral-charm-photorealistic-by-vermeer.png",
+          "role": "output"
+        }
+      ],
+      "promptExcerpt": "Medieval serf cottages, timberframed, strawthatched roofs, clustered around a communal pond, rustic,",
+      "excerptTruncated": true
+    },
+    "provenance": {
+      "originalSource": {
+        "platform": "prompthero",
+        "author": null,
+        "url": "https://prompthero.com/prompt/f4a46601b05-midjourney-61-medieval-serf-cottages-timberframed-strawthatched-roofs-clustered-around-a-communal-pond-rustic-sunset-lighting-detailed-pastoral-charm-photorealistic-by-vermeer",
+        "postId": "f4a46601b05",
+        "publishedAt": "2025-06-15T20:36:14.497Z",
+        "verification": "reported-by-collector"
+      },
+      "collectedFrom": [
+        {
+          "sourceId": "prompthero",
+          "mode": "collector-export",
+          "snapshotSha256": "5b6ec3ba2250eeed1e839b3070b829e07609396f2c3da9710a0262e196571854",
+          "url": "https://prompthero.com/prompt/f4a46601b05-midjourney-61-medieval-serf-cottages-timberframed-strawthatched-roofs-clustered-around-a-communal-pond-rustic-sunset-lighting-detailed-pastoral-charm-photorealistic-by-vermeer",
+          "collectedAt": "2026-11-26T04:00:11.136Z"
+        }
+      ]
+    },
+    "rights": {
+      "prompt": "unknown",
+      "media": "unknown"
+    },
+    "sourceMeta": {
+      "authorUrl": "https://prompthero.com/user/80d37871-19ce-44d5-a8e9-678d0b458702",
+      "model": "Midjourney 6.1",
+      "modelVersion": null,
+      "likes": 7,
+      "views": 261,
+      "tags": [],
+      "review": {
+        "qualityStatus": "recommended",
+        "qualityScore": 38,
+        "classificationConfidence": "high",
+        "classificationMethod": "phase-b-text-review",
+        "authorStatus": "unresolved",
+        "authorEvidenceUrl": null,
+        "promptCompletenessCheck": "export-only",
+        "inputModeEvidence": "no-explicit-input-cue",
+        "unverifiedReferenceCandidates": [],
+        "inputMode": "text-to-image",
+        "category": "architecture"
+      },
+      "imageVerification": "source-reported-output; HTTP and visual match unchecked"
+    }
+  },
+  {
+    "id": "prompthero-002bc1ab721",
+    "title": {
+      "en": "hyper realistic eye level exterior photo of a mid ...",
+      "zh": null
+    },
+    "type": "generation",
+    "category": "architecture",
+    "inputMode": "text-to-image",
+    "status": "index-only",
+    "prompt": {
+      "original": "hyper realistic eye level exterior photo of a mid century modern style house overlooking the ocean, daylight, indirect lighting, AD magazine, Frank Lloyd, Eames, Mies van der Rohe"
+    },
+    "media": [],
+    "models": [],
+    "sourcePreview": {
+      "images": [
+        {
+          "url": "https://cdn.prompthero.com/qrnrq7cbfya2cnvg7o472iv99fd8-openjourney-15-hyper-realistic-eye-level-exterior-photo-of-a-mid-century-modern-style-house-overlooking-the-ocean-daylight-indirect-lighting-ad.png",
+          "role": "output"
+        }
+      ],
+      "promptExcerpt": "hyper realistic eye level exterior photo of a mid century modern style house overlooking the ocean, ",
+      "excerptTruncated": true
+    },
+    "provenance": {
+      "originalSource": {
+        "platform": "prompthero",
+        "author": null,
+        "url": "https://prompthero.com/prompt/002bc1ab721-openjourney-15-hyper-realistic-eye-level-exterior-photo-of-a-mid-century-modern-style-house-overlooking-the-ocean-daylight-indirect-lighting-ad",
+        "postId": "002bc1ab721",
+        "publishedAt": "2023-02-11T20:38:04.077Z",
+        "verification": "reported-by-collector"
+      },
+      "collectedFrom": [
+        {
+          "sourceId": "prompthero",
+          "mode": "collector-export",
+          "snapshotSha256": "5b6ec3ba2250eeed1e839b3070b829e07609396f2c3da9710a0262e196571854",
+          "url": "https://prompthero.com/prompt/002bc1ab721-openjourney-15-hyper-realistic-eye-level-exterior-photo-of-a-mid-century-modern-style-house-overlooking-the-ocean-daylight-indirect-lighting-ad",
+          "collectedAt": "2026-11-26T04:01:49.660Z"
+        }
+      ]
+    },
+    "rights": {
+      "prompt": "unknown",
+      "media": "unknown"
+    },
+    "sourceMeta": {
+      "authorUrl": "https://prompthero.com/user/db5f89e8-c7ba-4cea-9c38-fd7910c658be",
+      "model": "Openjourney 1.5",
+      "modelVersion": null,
+      "likes": 8,
+      "views": 779,
+      "tags": [],
+      "review": {
+        "qualityStatus": "recommended",
+        "qualityScore": 38,
+        "classificationConfidence": "low",
+        "classificationMethod": "phase-b-text-review",
+        "authorStatus": "unresolved",
+        "authorEvidenceUrl": null,
+        "promptCompletenessCheck": "export-only",
+        "inputModeEvidence": "no-explicit-input-cue",
+        "unverifiedReferenceCandidates": [],
+        "inputMode": "text-to-image",
+        "category": "architecture"
+      },
+      "imageVerification": "source-reported-output; HTTP and visual match unchecked"
+    }
+  },
+  {
+    "id": "prompthero-f1e0328b52d",
+    "title": {
+      "en": "very atractive Bulgarian queen, super exposing que...",
+      "zh": null
+    },
+    "type": "generation",
+    "category": "architecture",
+    "inputMode": "text-to-image",
+    "status": "index-only",
+    "prompt": {
+      "original": "very atractive Bulgarian queen, super exposing queen clothes, young, natural, necklace, high heels, hyper realistic, 8k, skin imperfections, skin texture, flirty eyes, in a greek palace, UHD, ULTRA DETAILS . Hyper-realistic. "
+    },
+    "media": [],
+    "models": [],
+    "sourcePreview": {
+      "images": [
+        {
+          "url": "https://cdn.prompthero.com/eobdawh3mtsjoxnkwg0dswnknawh-imagen-imagen-4-very-atractive-bulgarian-queen-super-exposing-queen-clothes-young-natural-necklace-high-heels-hyper-realistic-8k-skin-imperfections-skin-texture.jpg",
+          "role": "output"
+        }
+      ],
+      "promptExcerpt": "very atractive Bulgarian queen, super exposing queen clothes, young, natural, necklace, high heels, ",
+      "excerptTruncated": true
+    },
+    "provenance": {
+      "originalSource": {
+        "platform": "prompthero",
+        "author": null,
+        "url": "https://prompthero.com/prompt/f1e0328b52d-imagen-imagen-4-very-atractive-bulgarian-queen-super-exposing-queen-clothes-young-natural-necklace-high-heels-hyper-realistic-8k-skin-imperfections-skin-texture",
+        "postId": "f1e0328b52d",
+        "publishedAt": "2025-09-01T05:11:43.161Z",
+        "verification": "reported-by-collector"
+      },
+      "collectedFrom": [
+        {
+          "sourceId": "prompthero",
+          "mode": "collector-export",
+          "snapshotSha256": "5b6ec3ba2250eeed1e839b3070b829e07609396f2c3da9710a0262e196571854",
+          "url": "https://prompthero.com/prompt/f1e0328b52d-imagen-imagen-4-very-atractive-bulgarian-queen-super-exposing-queen-clothes-young-natural-necklace-high-heels-hyper-realistic-8k-skin-imperfections-skin-texture",
+          "collectedAt": "2026-11-26T04:00:08.197Z"
+        }
+      ]
+    },
+    "rights": {
+      "prompt": "unknown",
+      "media": "unknown"
+    },
+    "sourceMeta": {
+      "authorUrl": "https://prompthero.com/user/6959bda3-c0cd-47f9-98e9-453f868c789d",
+      "model": "Imagen imagen-4",
+      "modelVersion": null,
+      "likes": 21,
+      "views": 875,
+      "tags": [],
+      "review": {
+        "qualityStatus": "recommended",
+        "qualityScore": 27,
+        "classificationConfidence": "low",
+        "classificationMethod": "phase-b-text-review",
+        "authorStatus": "unresolved",
+        "authorEvidenceUrl": null,
+        "promptCompletenessCheck": "export-only",
+        "inputModeEvidence": "no-explicit-input-cue",
+        "unverifiedReferenceCandidates": [],
+        "inputMode": "text-to-image",
+        "category": "architecture"
+      },
+      "imageVerification": "source-reported-output; HTTP and visual match unchecked"
+    }
+  },
+  {
+    "id": "prompthero-577c98de545",
+    "title": {
+      "en": "Haunted House",
+      "zh": null
+    },
+    "type": "generation",
+    "category": "architecture",
+    "inputMode": "text-to-image",
+    "status": "index-only",
+    "prompt": {
+      "original": "black and white spooky haunted house image, with color glowing jack-o-lanterns, and bats and moon in a haunted forest during a storm --ar 9:11 --stylize 250 --v 6.1"
+    },
+    "media": [],
+    "models": [],
+    "sourcePreview": {
+      "images": [
+        {
+          "url": "https://cdn.prompthero.com/6hgbe6f2rle86cfov22m4roasq1m-midjourney-6-haunted-house.jpg",
+          "role": "output"
+        }
+      ],
+      "promptExcerpt": "black and white spooky haunted house image, with color glowing jack-o-lanterns, and bats and moon in",
+      "excerptTruncated": true
+    },
+    "provenance": {
+      "originalSource": {
+        "platform": "prompthero",
+        "author": null,
+        "url": "https://prompthero.com/prompt/577c98de545-midjourney-6-haunted-house",
+        "postId": "577c98de545",
+        "publishedAt": "2024-08-29T15:06:14.623Z",
+        "verification": "reported-by-collector"
+      },
+      "collectedFrom": [
+        {
+          "sourceId": "prompthero",
+          "mode": "collector-export",
+          "snapshotSha256": "5b6ec3ba2250eeed1e839b3070b829e07609396f2c3da9710a0262e196571854",
+          "url": "https://prompthero.com/prompt/577c98de545-midjourney-6-haunted-house",
+          "collectedAt": "2026-11-26T04:00:40.046Z"
+        }
+      ]
+    },
+    "rights": {
+      "prompt": "unknown",
+      "media": "unknown"
+    },
+    "sourceMeta": {
+      "authorUrl": "https://prompthero.com/user/f0c38c80-fbb5-45d5-8261-66a73bc0239f",
+      "model": "Midjourney 6",
+      "modelVersion": null,
+      "likes": 6,
+      "views": 743,
+      "tags": [],
+      "review": {
+        "qualityStatus": "recommended",
+        "qualityScore": 38,
+        "classificationConfidence": "low",
+        "classificationMethod": "phase-b-text-review",
+        "authorStatus": "unresolved",
+        "authorEvidenceUrl": null,
+        "promptCompletenessCheck": "export-only",
+        "inputModeEvidence": "no-explicit-input-cue",
+        "unverifiedReferenceCandidates": [],
+        "inputMode": "text-to-image",
+        "category": "architecture"
+      },
+      "imageVerification": "source-reported-output; HTTP and visual match unchecked"
+    }
+  },
+  {
+    "id": "prompthero-7e5e0a92eae",
+    "title": {
+      "en": "Close-up double cheeseburger, golden-brown sesame ...",
+      "zh": null
+    },
+    "type": "generation",
+    "category": "products",
+    "inputMode": "text-to-image",
+    "status": "index-only",
+    "prompt": {
+      "original": "Close-up double cheeseburger, golden-brown sesame seed bun, melted cheddar cheese, juicy double patties, fresh lettuce, ripe tomato slices, detailed texture, appetizing "
+    },
+    "media": [],
+    "models": [],
+    "sourcePreview": {
+      "images": [
+        {
+          "url": "https://cdn.prompthero.com/vbkyax3506rh6ovs332scalap15k-midjourney-61-close-up-double-cheeseburger-golden-brown-sesame-seed-bun-melted-cheddar-cheese-juicy-double-patties-fresh-lettuce-ripe-tomato-slices.png",
+          "role": "output"
+        }
+      ],
+      "promptExcerpt": "Close-up double cheeseburger, golden-brown sesame seed bun, melted cheddar cheese, juicy double patt",
+      "excerptTruncated": true
+    },
+    "provenance": {
+      "originalSource": {
+        "platform": "prompthero",
+        "author": null,
+        "url": "https://prompthero.com/prompt/7e5e0a92eae-midjourney-61-close-up-double-cheeseburger-golden-brown-sesame-seed-bun-melted-cheddar-cheese-juicy-double-patties-fresh-lettuce-ripe-tomato-slices",
+        "postId": "7e5e0a92eae",
+        "publishedAt": "2025-06-12T12:07:34.878Z",
+        "verification": "reported-by-collector"
+      },
+      "collectedFrom": [
+        {
+          "sourceId": "prompthero",
+          "mode": "collector-export",
+          "snapshotSha256": "5b6ec3ba2250eeed1e839b3070b829e07609396f2c3da9710a0262e196571854",
+          "url": "https://prompthero.com/prompt/7e5e0a92eae-midjourney-61-close-up-double-cheeseburger-golden-brown-sesame-seed-bun-melted-cheddar-cheese-juicy-double-patties-fresh-lettuce-ripe-tomato-slices",
+          "collectedAt": "2026-11-26T04:00:11.136Z"
+        }
+      ]
+    },
+    "rights": {
+      "prompt": "unknown",
+      "media": "unknown"
+    },
+    "sourceMeta": {
+      "authorUrl": "https://prompthero.com/user/7464bb28-ed6d-4bd9-b94c-feadb81d38b4",
+      "model": "Midjourney 6.1",
+      "modelVersion": null,
+      "likes": 28,
+      "views": 583,
+      "tags": [],
+      "review": {
+        "qualityStatus": "recommended",
+        "qualityScore": 26,
+        "classificationConfidence": "medium",
+        "classificationMethod": "phase-b-text-review",
+        "authorStatus": "unresolved",
+        "authorEvidenceUrl": null,
+        "promptCompletenessCheck": "export-only",
+        "inputModeEvidence": "no-explicit-input-cue",
+        "unverifiedReferenceCandidates": [],
+        "inputMode": "text-to-image",
+        "category": "products"
+      },
+      "imageVerification": "source-reported-output; HTTP and visual match unchecked"
+    }
+  },
+  {
+    "id": "prompthero-8d9551bd886",
+    "title": {
+      "en": "avatar profile of the game channel called GameTouc...",
+      "zh": null
+    },
+    "type": "generation",
+    "category": "avatars",
+    "inputMode": "text-to-image",
+    "status": "index-only",
+    "prompt": {
+      "original": "avatar profile of the game channel called GameTouch, in a minimalist style with a simple background, with the abbreviation GT on the profile avatar, "
+    },
+    "media": [],
+    "models": [],
+    "sourcePreview": {
+      "images": [
+        {
+          "url": "https://cdn.prompthero.com/ya907q7fen45i5sw2e8kkejweo45-dreamshaper-7-avatar-profile-of-the-game-channel-called-gametouch-in-a-minimalist-style-with-a-simple-background-with-the-abbreviation-gt.png",
+          "role": "output"
+        }
+      ],
+      "promptExcerpt": "avatar profile of the game channel called GameTouch, in a minimalist style with a simple background,",
+      "excerptTruncated": true
+    },
+    "provenance": {
+      "originalSource": {
+        "platform": "prompthero",
+        "author": null,
+        "url": "https://prompthero.com/prompt/8d9551bd886-dreamshaper-7-avatar-profile-of-the-game-channel-called-gametouch-in-a-minimalist-style-with-a-simple-background-with-the-abbreviation-gt",
+        "postId": "8d9551bd886",
+        "publishedAt": "2023-07-23T14:52:02.362Z",
+        "verification": "reported-by-collector"
+      },
+      "collectedFrom": [
+        {
+          "sourceId": "prompthero",
+          "mode": "collector-export",
+          "snapshotSha256": "5b6ec3ba2250eeed1e839b3070b829e07609396f2c3da9710a0262e196571854",
+          "url": "https://prompthero.com/prompt/8d9551bd886-dreamshaper-7-avatar-profile-of-the-game-channel-called-gametouch-in-a-minimalist-style-with-a-simple-background-with-the-abbreviation-gt",
+          "collectedAt": "2026-11-26T04:01:30.148Z"
+        }
+      ]
+    },
+    "rights": {
+      "prompt": "unknown",
+      "media": "unknown"
+    },
+    "sourceMeta": {
+      "authorUrl": "https://prompthero.com/user/1f923ecb-3dfc-4e56-9453-a0c2e72bb914",
+      "model": "DreamShaper 7",
+      "modelVersion": null,
+      "likes": 2,
+      "views": 398,
+      "tags": [],
+      "review": {
+        "qualityStatus": "recommended",
+        "qualityScore": 37,
+        "classificationConfidence": "high",
+        "classificationMethod": "phase-b-text-review",
+        "authorStatus": "unresolved",
+        "authorEvidenceUrl": null,
+        "promptCompletenessCheck": "export-only",
+        "inputModeEvidence": "no-explicit-input-cue",
+        "unverifiedReferenceCandidates": [],
+        "inputMode": "text-to-image",
+        "category": "avatars"
+      },
+      "imageVerification": "source-reported-output; HTTP and visual match unchecked"
+    }
+  },
+  {
+    "id": "prompthero-ec71dd8b411",
+    "title": {
+      "en": "Hyper realistic eye level photo of a cyberpunk cen...",
+      "zh": null
+    },
+    "type": "generation",
+    "category": "architecture",
+    "inputMode": "text-to-image",
+    "status": "index-only",
+    "prompt": {
+      "original": "Hyper realistic eye level photo of a cyberpunk century modern style house overlooking the horizon, indirect lighting, raytracing, neon"
+    },
+    "media": [],
+    "models": [],
+    "sourcePreview": {
+      "images": [
+        {
+          "url": "https://cdn.prompthero.com/cbb2ou6uprkwjtd4aldmt9hjatqw-openjourney-4-hyper-realistic-eye-level-photo-of-a-cyberpunk-century-modern-style-house-overlooking-the-horizon-indirect-lighting-raytracing-neon.png",
+          "role": "output"
+        }
+      ],
+      "promptExcerpt": "Hyper realistic eye level photo of a cyberpunk century modern style house overlooking the horizon, i",
+      "excerptTruncated": true
+    },
+    "provenance": {
+      "originalSource": {
+        "platform": "prompthero",
+        "author": null,
+        "url": "https://prompthero.com/prompt/ec71dd8b411-openjourney-4-hyper-realistic-eye-level-photo-of-a-cyberpunk-century-modern-style-house-overlooking-the-horizon-indirect-lighting-raytracing-neon",
+        "postId": "ec71dd8b411",
+        "publishedAt": "2024-11-10T06:37:49.597Z",
+        "verification": "reported-by-collector"
+      },
+      "collectedFrom": [
+        {
+          "sourceId": "prompthero",
+          "mode": "collector-export",
+          "snapshotSha256": "5b6ec3ba2250eeed1e839b3070b829e07609396f2c3da9710a0262e196571854",
+          "url": "https://prompthero.com/prompt/ec71dd8b411-openjourney-4-hyper-realistic-eye-level-photo-of-a-cyberpunk-century-modern-style-house-overlooking-the-horizon-indirect-lighting-raytracing-neon",
+          "collectedAt": "2026-11-26T04:00:38.169Z"
+        }
+      ]
+    },
+    "rights": {
+      "prompt": "unknown",
+      "media": "unknown"
+    },
+    "sourceMeta": {
+      "authorUrl": "https://prompthero.com/user/0aff7cff-6afa-4831-9b07-0a2222f8c26d",
+      "model": "Openjourney 4",
+      "modelVersion": null,
+      "likes": 1,
+      "views": 185,
+      "tags": [],
+      "review": {
+        "qualityStatus": "recommended",
+        "qualityScore": 37,
+        "classificationConfidence": "low",
+        "classificationMethod": "phase-b-text-review",
+        "authorStatus": "unresolved",
+        "authorEvidenceUrl": null,
+        "promptCompletenessCheck": "export-only",
+        "inputModeEvidence": "no-explicit-input-cue",
+        "unverifiedReferenceCandidates": [],
+        "inputMode": "text-to-image",
+        "category": "architecture"
+      },
+      "imageVerification": "source-reported-output; HTTP and visual match unchecked"
+    }
+  },
+  {
+    "id": "prompthero-e3adb577bc2",
+    "title": {
+      "en": "A DJ with a beard and glasses wearing a baseball c...",
+      "zh": null
+    },
+    "type": "generation",
+    "category": "products",
+    "inputMode": "text-to-image",
+    "status": "index-only",
+    "prompt": {
+      "original": "A DJ with a beard and glasses wearing a baseball cap and a black T-shirt, headphones, entertainment at a vibrant party nightclub, cinematic lights,"
+    },
+    "media": [],
+    "models": [],
+    "sourcePreview": {
+      "images": [
+        {
+          "url": "https://cdn.prompthero.com/upwzaf567o0h1aqce0qna9y9905z-stable-diffusion-2-base-a-dj-with-a-beard-and-glasses-wearing-a-baseball-cap-and-a-black-t-shirt-headphones-entertainment-at-a.png",
+          "role": "output"
+        }
+      ],
+      "promptExcerpt": "A DJ with a beard and glasses wearing a baseball cap and a black T-shirt, headphones, entertainment ",
+      "excerptTruncated": true
+    },
+    "provenance": {
+      "originalSource": {
+        "platform": "prompthero",
+        "author": null,
+        "url": "https://prompthero.com/prompt/e3adb577bc2-stable-diffusion-2-base-a-dj-with-a-beard-and-glasses-wearing-a-baseball-cap-and-a-black-t-shirt-headphones-entertainment-at-a",
+        "postId": "e3adb577bc2",
+        "publishedAt": "2024-10-18T15:42:36.112Z",
+        "verification": "reported-by-collector"
+      },
+      "collectedFrom": [
+        {
+          "sourceId": "prompthero",
+          "mode": "collector-export",
+          "snapshotSha256": "5b6ec3ba2250eeed1e839b3070b829e07609396f2c3da9710a0262e196571854",
+          "url": "https://prompthero.com/prompt/e3adb577bc2-stable-diffusion-2-base-a-dj-with-a-beard-and-glasses-wearing-a-baseball-cap-and-a-black-t-shirt-headphones-entertainment-at-a",
+          "collectedAt": "2026-11-26T04:00:40.044Z"
+        }
+      ]
+    },
+    "rights": {
+      "prompt": "unknown",
+      "media": "unknown"
+    },
+    "sourceMeta": {
+      "authorUrl": "https://prompthero.com/user/2ee47ce8-f9e5-4076-85d2-7601f792ac0d",
+      "model": "Stable Diffusion 2 Base",
+      "modelVersion": null,
+      "likes": 9,
+      "views": 1154,
+      "tags": [],
+      "review": {
+        "qualityStatus": "recommended",
+        "qualityScore": 25,
+        "classificationConfidence": "low",
+        "classificationMethod": "phase-b-text-review",
+        "authorStatus": "unresolved",
+        "authorEvidenceUrl": null,
+        "promptCompletenessCheck": "export-only",
+        "inputModeEvidence": "no-explicit-input-cue",
+        "unverifiedReferenceCandidates": [],
+        "inputMode": "text-to-image",
+        "category": "products"
+      },
+      "imageVerification": "source-reported-output; HTTP and visual match unchecked"
+    }
+  },
+  {
+    "id": "prompthero-3261f17c93d",
+    "title": {
+      "en": "A 32yo Wynona Ryder look-alike as the shepherd of ...",
+      "zh": null
+    },
+    "type": "generation",
+    "category": "products",
+    "inputMode": "text-to-image",
+    "status": "index-only",
+    "prompt": {
+      "original": "A 32yo Wynona Ryder look-alike as the shepherd of mix christian and bouddhist future religion : short pixie cut, black hair, black robe, tiny white lotus pin on the lapel, bright orange clerical collar, matte black latex yoga pants, light make up, no jewelry, a double-strand of small wood beads at her left wrist\nwalking toward the viewer\nin a Nubia sand desert \nwith a deep blue sky"
+    },
+    "media": [],
+    "models": [],
+    "sourcePreview": {
+      "images": [
+        {
+          "url": "https://cdn.prompthero.com/fukewo98y8keb65eygebkl2n4kgj-flux-flux-11-pro-a-32yo-wynona-ryder-look-alike-as-the-shepherd-of-mix-christian-and-bouddhist-future-religion-short-pixie-cut-black.jpg",
+          "role": "output"
+        }
+      ],
+      "promptExcerpt": "A 32yo Wynona Ryder look-alike as the shepherd of mix christian and bouddhist future religion : shor",
+      "excerptTruncated": true
+    },
+    "provenance": {
+      "originalSource": {
+        "platform": "prompthero",
+        "author": null,
+        "url": "https://prompthero.com/prompt/3261f17c93d-flux-flux-11-pro-a-32yo-wynona-ryder-look-alike-as-the-shepherd-of-mix-christian-and-bouddhist-future-religion-short-pixie-cut-black",
+        "postId": "3261f17c93d",
+        "publishedAt": "2025-04-08T12:42:12.424Z",
+        "verification": "reported-by-collector"
+      },
+      "collectedFrom": [
+        {
+          "sourceId": "prompthero",
+          "mode": "collector-export",
+          "snapshotSha256": "5b6ec3ba2250eeed1e839b3070b829e07609396f2c3da9710a0262e196571854",
+          "url": "https://prompthero.com/prompt/3261f17c93d-flux-flux-11-pro-a-32yo-wynona-ryder-look-alike-as-the-shepherd-of-mix-christian-and-bouddhist-future-religion-short-pixie-cut-black",
+          "collectedAt": "2026-11-26T04:00:16.138Z"
+        }
+      ]
+    },
+    "rights": {
+      "prompt": "unknown",
+      "media": "unknown"
+    },
+    "sourceMeta": {
+      "authorUrl": "https://prompthero.com/user/acd3e515-2cb5-4548-9c21-0361d6b23af1",
+      "model": "FLUX flux-1.1-pro",
+      "modelVersion": null,
+      "likes": 4,
+      "views": 213,
+      "tags": [],
+      "review": {
+        "qualityStatus": "recommended",
+        "qualityScore": 31,
+        "classificationConfidence": "low",
+        "classificationMethod": "phase-b-text-review",
+        "authorStatus": "unresolved",
+        "authorEvidenceUrl": null,
+        "promptCompletenessCheck": "export-only",
+        "inputModeEvidence": "no-explicit-input-cue",
+        "unverifiedReferenceCandidates": [],
+        "inputMode": "text-to-image",
+        "category": "products"
+      },
+      "imageVerification": "source-reported-output; HTTP and visual match unchecked"
+    }
+  },
+  {
+    "id": "prompthero-347ec9724bf",
+    "title": {
+      "en": "Close up photograph of a slice of layered cake wit...",
+      "zh": null
+    },
+    "type": "generation",
+    "category": "products",
+    "inputMode": "text-to-image",
+    "status": "index-only",
+    "prompt": {
+      "original": "Close up photograph of a slice of layered cake with a cherry blossom theme, a layer of fruit filling between cake layers, decorated with sun shaped designs, with intricate frosting and beautiful details"
+    },
+    "media": [],
+    "models": [],
+    "sourcePreview": {
+      "images": [
+        {
+          "url": "https://cdn.prompthero.com/yho0puxld01o52wb7avwp6xe179b-flux-flux-11-pro-close-up-photograph-of-a-slice-of-layered-cake-with-a-cherry-blossom-theme-a-layer-of-fruit-filling-between.jpg",
+          "role": "output"
+        }
+      ],
+      "promptExcerpt": "Close up photograph of a slice of layered cake with a cherry blossom theme, a layer of fruit filling",
+      "excerptTruncated": true
+    },
+    "provenance": {
+      "originalSource": {
+        "platform": "prompthero",
+        "author": null,
+        "url": "https://prompthero.com/prompt/347ec9724bf-flux-flux-11-pro-close-up-photograph-of-a-slice-of-layered-cake-with-a-cherry-blossom-theme-a-layer-of-fruit-filling-between",
+        "postId": "347ec9724bf",
+        "publishedAt": "2025-03-02T11:26:27.116Z",
+        "verification": "reported-by-collector"
+      },
+      "collectedFrom": [
+        {
+          "sourceId": "prompthero",
+          "mode": "collector-export",
+          "snapshotSha256": "5b6ec3ba2250eeed1e839b3070b829e07609396f2c3da9710a0262e196571854",
+          "url": "https://prompthero.com/prompt/347ec9724bf-flux-flux-11-pro-close-up-photograph-of-a-slice-of-layered-cake-with-a-cherry-blossom-theme-a-layer-of-fruit-filling-between",
+          "collectedAt": "2026-11-26T04:00:19.022Z"
+        }
+      ]
+    },
+    "rights": {
+      "prompt": "unknown",
+      "media": "unknown"
+    },
+    "sourceMeta": {
+      "authorUrl": "https://prompthero.com/user/85917692-a7f8-49a1-b4a7-9054858ab27f",
+      "model": "FLUX flux-1.1-pro",
+      "modelVersion": null,
+      "likes": 5,
+      "views": 185,
+      "tags": [],
+      "review": {
+        "qualityStatus": "recommended",
+        "qualityScore": 27,
+        "classificationConfidence": "medium",
+        "classificationMethod": "phase-b-text-review",
+        "authorStatus": "unresolved",
+        "authorEvidenceUrl": null,
+        "promptCompletenessCheck": "export-only",
+        "inputModeEvidence": "no-explicit-input-cue",
+        "unverifiedReferenceCandidates": [],
+        "inputMode": "text-to-image",
+        "category": "products"
+      },
+      "imageVerification": "source-reported-output; HTTP and visual match unchecked"
+    }
+  }
+]

@@ -6,6 +6,22 @@
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
+<a id="prompthero-3f1c91c3572"></a>
+
+## can you make a slay the spire 2 portrait for this \.\.\.
+
+<a href="https://cdn.prompthero.com/v1_2d2c2818fa3f904162254d533c-chatgpt-image-gpt-image-26-flare-can-you-make-a-slay-the-spire-2-portrait-for-this-character-just-need-it-simple-clean-and-have-his.png"><img src="https://cdn.prompthero.com/v1_2d2c2818fa3f904162254d533c-chatgpt-image-gpt-image-26-flare-can-you-make-a-slay-the-spire-2-portrait-for-this-character-just-need-it-simple-clean-and-have-his.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+can you make a slay the spire 2 portrait for this character? just need it simple, clean, and have his blank face and ears there with just a clean maybe sparkly blue accent background
+```
+
+By [@joshuahunter](https://prompthero.com/prompt/3f1c91c3572-chatgpt-image-gpt-image-26-flare-can-you-make-a-slay-the-spire-2-portrait-for-this-character-just-need-it-simple-clean-and-have-his)
+
+---
+
 <a id="prompthero-379a7460b08"></a>
 
 ## A lone desert scout riding a robotic reptile-like \.\.\.
@@ -19,6 +35,22 @@ A lone desert scout riding a robotic reptile-like pack mount up a rocky slope un
 ```
 
 [Source](https://prompthero.com/prompt/379a7460b08-hero-10-a-lone-desert-scout-riding-a-robotic-reptile-like-pack-mount-up-a-rocky-slope-under-a-wide-open-sky)
+
+---
+
+<a id="prompthero-793278dabcf"></a>
+
+## Utiliser l’image fournie comme image de référence\.\.\.\.
+
+<a href="https://cdn.prompthero.com/fwav4wqyeyefnd76ugpvt6rghb-hero-10-utiliser-limage-fournie-comme-image-de-rfrence-ne-pas-modifier-le-visage-la-coiffure-les-vtements-ni-les-bijoux-du.jpeg"><img src="https://cdn.prompthero.com/fwav4wqyeyefnd76ugpvt6rghb-hero-10-utiliser-limage-fournie-comme-image-de-rfrence-ne-pas-modifier-le-visage-la-coiffure-les-vtements-ni-les-bijoux-du.jpeg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+Utiliser l’image fournie comme image de référence. Ne pas modifier le visage, la coiffure, les vêtements ni les bijoux du personnage. Conserver une ressemblance maximale avec la photo d’origine. Créer une animation photoréaliste d’une figurine chibi ultra détaillée (grosse tête, petit corps) assise sur la paume gauche ouverte d’une main humaine. La main droite s’approche lentement et appuie très délicatement sur le dessus de la tête du personnage, comme si elle touchait une petite figurine précieuse. Pendant cette interaction : * le personnage cligne naturellement des yeux ; * un léger sourire apparaît ; * les joues rosissent légèrement ; * les cheveux bougent doucement ; * la robe blanche suit un léger mouvement naturel ; * les jambes se balancent discrètement ; * lorsque le doigt appuie, la tête s’abaisse légèrement avant de revenir en place avec un petit effet élastique très réaliste ; * le personnage regarde brièvement le doigt puis la caméra avec une expression attendrissante. La peau doit présenter une texture très réaliste. L’arrière-plan reste fortement flou (bokeh) avec les lumières du restaurant transformées en grosses sphères lumineuses. Éclairage chaud, couleurs pastel douces, texture lisse, profondeur de champ très faible. La caméra effectue un lent travelling avant accompagné d’une légère rotation de quelques degrés pour créer un effet cinématographique. Qualité cinéma, HDR, rendu Pixar hyperréaliste, animation extrêmement fluide, 24 fps, sans saccades. Format : vertical 4:5
+```
+
+[Source](https://prompthero.com/prompt/793278dabcf-hero-10-utiliser-limage-fournie-comme-image-de-rfrence-ne-pas-modifier-le-visage-la-coiffure-les-vtements-ni-les-bijoux-du)
 
 ---
 

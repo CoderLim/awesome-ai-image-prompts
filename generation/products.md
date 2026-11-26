@@ -1,8 +1,8 @@
 # products
 
-[← Home](../README.md) · Page 1 / 2
+[← Home](../README.md) · Page 1 / 3
 
-**1** · [2](products-2.md)
+**1** · [2](products-2.md) · [3](products-3.md)
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
@@ -278,54 +278,54 @@ By [@ZetoGroovin](https://x.com/ZetoGroovin/status/2058408514247410003)
 
 ---
 
-<a id="prompthero-9c77818696f"></a>
+<a id="prompthero-0f6e3a2c41c"></a>
 
-## food photography,vegetable salad in the glass bowl\.\.\.
+## Premium Nike sneaker with subtle red energy whisps\.\.\.
 
-<a href="https://cdn.prompthero.com/wgkx1u8xp7a7to0h9zn5ri5kx4jq-midjourney-51-food-photographyvegetable-salad-in-the-glass-bowlwith-olive-oil-bread-in-a-luxurious-michelin-kitchen-style-studio-lighting-depth-of.png"><img src="https://cdn.prompthero.com/wgkx1u8xp7a7to0h9zn5ri5kx4jq-midjourney-51-food-photographyvegetable-salad-in-the-glass-bowlwith-olive-oil-bread-in-a-luxurious-michelin-kitchen-style-studio-lighting-depth-of.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-food photography,vegetable salad in the glass bowl,with olive oil ,bread ,in a luxurious Michelin kitchen style, studio lighting, depth of field, ultra detailed,uplight,natural features,close up --q 1
-```
-
-[Source](https://prompthero.com/prompt/9c77818696f-midjourney-51-food-photographyvegetable-salad-in-the-glass-bowlwith-olive-oil-bread-in-a-luxurious-michelin-kitchen-style-studio-lighting-depth-of)
-
----
-
-<a id="prompthero-9d8ba1a26cb"></a>
-
-## Ultra-realistic 3D miniature diorama of a \*\*My Bur\.\.\.
-
-<a href="https://cdn.prompthero.com/qfeeakxjzu9mevsil48lv1dszr-hero-10-ultra-realistic-3d-miniature-diorama-of-a-my-burger-restaurant-built-inside-a-giant-gourmet-hamburger-shown-in-a-clean.jpeg"><img src="https://cdn.prompthero.com/qfeeakxjzu9mevsil48lv1dszr-hero-10-ultra-realistic-3d-miniature-diorama-of-a-my-burger-restaurant-built-inside-a-giant-gourmet-hamburger-shown-in-a-clean.jpeg" width="480" alt="After"></a>
+<a href="https://cdn.prompthero.com/04h414fnue1knylrbqyhbo6f0lon-flux-flux-11-pro-premium-nike-sneaker-with-subtle-red-energy-whisps-around-edges-initial-particle-formation-luxury-product-shot-perfect-lighting-volumetric-atmosphere.png"><img src="https://cdn.prompthero.com/04h414fnue1knylrbqyhbo6f0lon-flux-flux-11-pro-premium-nike-sneaker-with-subtle-red-energy-whisps-around-edges-initial-particle-formation-luxury-product-shot-perfect-lighting-volumetric-atmosphere.png" width="480" alt="After"></a>
 
 **Prompt**
 
 ```text
-Ultra-realistic 3D miniature diorama of a **My Burger** restaurant built inside a giant gourmet hamburger, shown in a clean cross-section / partially cut-open view revealing a highly detailed miniature interior world. The giant hamburger acts as both the iconic container and the restaurant itself. The sesame bun forms the roof, layers of lettuce, cheese, beef patties, tomatoes, onions, and sauces are seamlessly integrated into the architecture, floors, walls, stairs, and landscape, creating a visually stunning edible environment. Inside the structure, a fully detailed miniature **My Burger** restaurant is alive with realistic activity: chefs grilling burgers, staff preparing fresh meals, cashiers serving customers, people ordering at the counter, families dining, delivery riders collecting orders, and customers enjoying burgers in a warm, lively atmosphere. Display elegant **My Burger** branding throughout the restaurant, including illuminated logos, menu boards, food packaging, cups, trays, uniforms, wall signs, and subtle branded design elements that enhance realism without overwhelming the scene. Add cinematic storytelling details: floating sesame seeds, splashes of ketchup and cheese sauce frozen in mid-air, rising steam from freshly grilled burgers, crispy fries falling naturally, tiny crumbs, seasoning particles, and realistic food preparation moments captured in time. Include volumetric lighting effects with soft steam, light rays passing through the interior, subtle atmospheric haze, and floating particles to create depth and premium cinematic realism. Every surface must feature hyper-realistic micro-details: toasted bun texture, juicy grilled meat, melted cheese stretching naturally, glossy sauces, fresh vegetables with realistic moisture, fingerprints on trays, condensation on drink cups, stainless-steel reflections, tiny scratches, dust particles, oil sheen, and authentic material imperfections. Lighting follows a luxury commercial advertising style with warm golden lighting inside the restaurant contrasted by cooler ambient exterior tones, soft rim lighting outlining every miniature element, realistic global illumination, cinematic shadows, and physically accurate reflections. Composition: slightly angled hero shot with the hamburger cross-section clearly visible, centered composition, premium product-advertising aesthetic, clean cinematic background with soft macro bokeh. Captured using a professional macro lens with shallow depth of field, creamy bokeh, focus stacking, ultra-sharp textures, photorealistic rendering, Octane Render, Unreal Engine 5 quality, ray tracing, HDR, 8K ultra-high resolution, filmic color grading, luxury commercial food photography, masterpiece, hyper-detailed, extremely realistic.
+Premium Nike sneaker with subtle red energy whisps around edges, initial particle formation, luxury product shot, perfect lighting, volumetric atmosphere, dark background with precision spotlights, ultra detailed materials, floating micro particles --ar 9:16
 ```
 
-[Source](https://prompthero.com/prompt/9d8ba1a26cb-hero-10-ultra-realistic-3d-miniature-diorama-of-a-my-burger-restaurant-built-inside-a-giant-gourmet-hamburger-shown-in-a-clean)
+[Source](https://prompthero.com/prompt/0f6e3a2c41c-flux-flux-11-pro-premium-nike-sneaker-with-subtle-red-energy-whisps-around-edges-initial-particle-formation-luxury-product-shot-perfect-lighting-volumetric-atmosphere)
 
 ---
 
-<a id="prompthero-11fce90ea56"></a>
+<a id="prompthero-1ca1ddea92f"></a>
 
-## A clean top-down flat-lay of exactly 9 hyper-reali\.\.\.
+## Product close-up, Dyson, studio setting, using a 9\.\.\.
 
-<a href="https://cdn.prompthero.com/qrphzg8ehb4vxoirid4gcx95gl-hero-10-a-clean-top-down-flat-lay-of-exactly-9-hyper-realistic-3d-resin-fridge-magnets-on-a-pure-white-background.jpeg"><img src="https://cdn.prompthero.com/qrphzg8ehb4vxoirid4gcx95gl-hero-10-a-clean-top-down-flat-lay-of-exactly-9-hyper-realistic-3d-resin-fridge-magnets-on-a-pure-white-background.jpeg" width="480" alt="After"></a>
+<a href="https://cdn.prompthero.com/dvmaq27jxbbq6pwig2634inbta2s-midjourney-6-more-info-wwwgraytheorystudiocom-httpswwwinstagramcomspacemakergrayve-httpspromptbasecomprofilespacemakergrayve-product-close-up-dyson-studio-setting-using-a-90mm-with-lighting-bright-midday-studio-environment-minimalistic-objets.png"><img src="https://cdn.prompthero.com/dvmaq27jxbbq6pwig2634inbta2s-midjourney-6-more-info-wwwgraytheorystudiocom-httpswwwinstagramcomspacemakergrayve-httpspromptbasecomprofilespacemakergrayve-product-close-up-dyson-studio-setting-using-a-90mm-with-lighting-bright-midday-studio-environment-minimalistic-objets.png" width="480" alt="After"></a>
 
 **Prompt**
 
 ```text
-A clean top-down flat-lay of exactly 9 hyper-realistic 3D resin fridge magnets on a pure white background, themed around Starbucks One wide rectangular text magnet at the top center reads "Starbucks " in bold glossy 3D letters using the brand’s signature colors. Below it, 9 small resin magnets are arranged in a precise 3x3 grid with even spacing: official logo badge, hero product, secondary product, third iconic product or packaging, chibi mascot/character, fifth iconic branded item, sixth iconic branded item, seventh iconic branded item, and the brand’s storefront or headquarters building facade. All magnets are slightly raised with soft drop shadows, realistic resin texture, polished finish, bright warm studio lighting, photorealistic commercial product render, minimal white composition, sharp focus, 4:5.
+Product close-up, Dyson, studio setting, using a 90mm, with lighting bright midday studio environment, minimalistic objets
 ```
 
-[Source](https://prompthero.com/prompt/11fce90ea56-hero-10-a-clean-top-down-flat-lay-of-exactly-9-hyper-realistic-3d-resin-fridge-magnets-on-a-pure-white-background)
+By [@Grayve](https://prompthero.com/prompt/1ca1ddea92f-midjourney-6-more-info-wwwgraytheorystudiocom-httpswwwinstagramcomspacemakergrayve-httpspromptbasecomprofilespacemakergrayve-product-close-up-dyson-studio-setting-using-a-90mm-with-lighting-bright-midday-studio-environment-minimalistic-objets)
 
 ---
 
-**1** · [2](products-2.md)
+<a id="prompthero-4aa1b0c5258"></a>
+
+## Food photography, grilled beef,grilled vegetables,\.\.\.
+
+<a href="https://cdn.prompthero.com/v6omprpy0d4dqam0z5pn8c3jjay2-midjourney-51-food-photography-grilled-beefgrilled-vegetablesin-a-luxurious-michelin-kitchen-style-studio-lighting-depth-of-field-ultra-detailed-q-1.png"><img src="https://cdn.prompthero.com/v6omprpy0d4dqam0z5pn8c3jjay2-midjourney-51-food-photography-grilled-beefgrilled-vegetablesin-a-luxurious-michelin-kitchen-style-studio-lighting-depth-of-field-ultra-detailed-q-1.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+Food photography, grilled beef,grilled vegetables,in a luxurious Michelin kitchen style, studio lighting, depth of field, ultra detailed --q 1
+```
+
+[Source](https://prompthero.com/prompt/4aa1b0c5258-midjourney-51-food-photography-grilled-beefgrilled-vegetablesin-a-luxurious-michelin-kitchen-style-studio-lighting-depth-of-field-ultra-detailed-q-1)
+
+---
+
+**1** · [2](products-2.md) · [3](products-3.md)
 
 [← Home](../README.md)

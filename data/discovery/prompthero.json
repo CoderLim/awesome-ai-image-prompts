@@ -89,31 +89,5 @@
     "status": "link-only",
     "rights": "unverified",
     "discoveredAt": "2026-11-26"
-  },
-  {
-    "id": "prompthero-832b65761c4",
-    "title": "Rainy Tokyo ramen shop streetscape",
-    "author": "@chorlo",
-    "publishedAt": "2026-11-20",
-    "category": "travel",
-    "inputMode": "text-to-image",
-    "model": "Ideogram ideogram-4.6",
-    "url": "https://prompthero.com/prompt/832b65761c4-ideogram-ideogram-46-a-cosy-rainy-night-street-in-tokyo-a-small-ramen-shop-with-glowing-paper-lanterns-reflections-on-wet-asphalt-a",
-    "status": "link-only",
-    "rights": "unverified",
-    "discoveredAt": "2026-11-26"
-  },
-  {
-    "id": "prompthero-872900f88d1",
-    "title": "Fantasy ruins cinematic scene",
-    "author": "@johns1670",
-    "publishedAt": "2026-11-19",
-    "category": "creative-art",
-    "inputMode": "text-to-image",
-    "model": "Seedream 5 seedream-5-pro",
-    "url": "https://prompthero.com/prompt/872900f88d1-seedream-5-seedream-5-pro-in-overgrown-stone-ruins-where-waterfalls-spill-between-mossy-walls-2-savage-wolves-ravage-a-dead-carcass-nearby-a-pale",
-    "status": "link-only",
-    "rights": "unverified",
-    "discoveredAt": "2026-11-26"
   }
 ]

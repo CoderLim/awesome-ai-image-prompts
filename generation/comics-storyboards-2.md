@@ -54,6 +54,38 @@ The Joker, a male adult with Caucasian features, is depicted in a dimly lit, sty
 
 ---
 
+<a id="prompthero-25639a01694"></a>
+
+## A retro icon of a rotary telephone, 1930s Era Comi\.\.\.
+
+<a href="https://cdn.prompthero.com/pceozcp6fpp6t7yp91iog2mjs4a3-midjourney-5-a-retro-icon-of-a-rotary-telephone-1930s-era-comic-strip-style-bold-and-contrasting-palette-art-by-paul-gauguin.png"><img src="https://cdn.prompthero.com/pceozcp6fpp6t7yp91iog2mjs4a3-midjourney-5-a-retro-icon-of-a-rotary-telephone-1930s-era-comic-strip-style-bold-and-contrasting-palette-art-by-paul-gauguin.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+A retro icon of a rotary telephone, 1930s Era Comic Strip style, bold and contrasting palette, art by Paul Gauguin, white background:: --q 2 --v 5
+```
+
+[Source](https://prompthero.com/prompt/25639a01694-midjourney-5-a-retro-icon-of-a-rotary-telephone-1930s-era-comic-strip-style-bold-and-contrasting-palette-art-by-paul-gauguin)
+
+---
+
+<a id="prompthero-be38c986ba4"></a>
+
+## The image shows a female superhero standing in fro\.\.\.
+
+<a href="https://cdn.prompthero.com/7gvdctd34v8asyd85onucqye0731-flux-flux-11-pro-the-image-shows-a-female-superhero-standing-in-front-of-a-stormy-sky-with-lightning-bolts-she-is-holding-a.png"><img src="https://cdn.prompthero.com/7gvdctd34v8asyd85onucqye0731-flux-flux-11-pro-the-image-shows-a-female-superhero-standing-in-front-of-a-stormy-sky-with-lightning-bolts-she-is-holding-a.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+The image shows a female superhero standing in front of a stormy sky with lightning bolts. She is holding a sword in her right hand and her left hand is raised in the air, as if she is ready to strike. The superhero is wearing a futuristic-looking outfit with a white and blue color scheme. Her hair is styled in an afro and she has a fierce expression on her face. The background is filled with dark clouds and lightning bolts, creating a dramatic and powerful atmosphere. The overall mood of the image is intense and dramatic. epic comic, graphic novel
+```
+
+[Source](https://prompthero.com/prompt/be38c986ba4-flux-flux-11-pro-the-image-shows-a-female-superhero-standing-in-front-of-a-stormy-sky-with-lightning-bolts-she-is-holding-a)
+
+---
+
 [1](comics-storyboards.md) · **2**
 
 [← Home](../README.md)

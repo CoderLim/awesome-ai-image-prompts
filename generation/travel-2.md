@@ -1,10 +1,58 @@
 # travel
 
-[← Home](../README.md) · Page 2 / 2
+[← Home](../README.md) · Page 2 / 3
 
-[1](travel.md) · **2**
+[1](travel.md) · **2** · [3](travel-3.md)
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
+
+<a id="prompthero-0e300d1c33b"></a>
+
+## scenic view landscape cyberpunk city of highly det\.\.\.
+
+<a href="https://cdn.prompthero.com/729cw0maqgzi96o6vs68g2itft3c-stable-diffusion-21-768-scenic-view-landscape-cyberpunk-city-of-highly-detailed-water-color-pastel-mix-ultra-realistic-robotic-dog-hyperdetailed-full-body-visible.jpg"><img src="https://cdn.prompthero.com/729cw0maqgzi96o6vs68g2itft3c-stable-diffusion-21-768-scenic-view-landscape-cyberpunk-city-of-highly-detailed-water-color-pastel-mix-ultra-realistic-robotic-dog-hyperdetailed-full-body-visible.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+scenic view landscape cyberpunk city of highly detailed water color pastel mix ultra realistic, robotic dog, hyperdetailed full body visible, looking from below
+```
+
+[Source](https://prompthero.com/prompt/0e300d1c33b-stable-diffusion-21-768-scenic-view-landscape-cyberpunk-city-of-highly-detailed-water-color-pastel-mix-ultra-realistic-robotic-dog-hyperdetailed-full-body-visible)
+
+---
+
+<a id="prompthero-1b9ce410a6c"></a>
+
+## cinematic seascape, warm color grading, long-lens \.\.\.
+
+<a href="https://cdn.prompthero.com/m4n05u4o7cwbdqsrponsny9ctiqw-midjourney-7-cinematic-seascape-warm-color-grading-long-lens-compression-straight-horizon-large-sun-near-upper-third-low-vantage-from-wet-sand.png"><img src="https://cdn.prompthero.com/m4n05u4o7cwbdqsrponsny9ctiqw-midjourney-7-cinematic-seascape-warm-color-grading-long-lens-compression-straight-horizon-large-sun-near-upper-third-low-vantage-from-wet-sand.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+cinematic seascape, warm color grading, long-lens compression, straight horizon, large sun near upper third, low vantage from wet sand, gentle shoreline leading lines, full-frame mirrorless, 200-300mm telephoto lens, f/4, 1/800s, ISO100, single-point AF on subject, slight background motion blur on waves, woman seated on a folding beach chair, side-profile silhouette, windswept hair in sea breeze, relaxed posture, subtle rim light on edges, ocean shore with breaking surf and reflective wet sand, sun color bleeding on wet sand, intense orange-red golden-hour backlight, soft atmospheric haze, crisp horizon, delicate water-droplet bokeh, vermilion-to-amber sky gradient --ar 9:16 --raw --stylize 200
+```
+
+By [@Grayve](https://prompthero.com/prompt/1b9ce410a6c-midjourney-7-cinematic-seascape-warm-color-grading-long-lens-compression-straight-horizon-large-sun-near-upper-third-low-vantage-from-wet-sand)
+
+---
+
+<a id="prompthero-3cec4ee8308"></a>
+
+## A small bird perched on a branch, rain falling sof\.\.\.
+
+<a href="https://cdn.prompthero.com/n7nlb1r3w8k6qosbt08vdzed7ovd-flux-flux1-dev-a-small-bird-perched-on-a-branch-rain-falling-softly-everything-around-covered-in-moss-captured-with-a-professional-camera.jpg"><img src="https://cdn.prompthero.com/n7nlb1r3w8k6qosbt08vdzed7ovd-flux-flux1-dev-a-small-bird-perched-on-a-branch-rain-falling-softly-everything-around-covered-in-moss-captured-with-a-professional-camera.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+A small bird perched on a branch, rain falling softly, everything around covered in moss, captured with a professional camera. The scene is tranquil and serene, with earthy tones of greens and browns. The bird’s delicate feathers are detailed, and raindrops gently fall, creating a soft, diffused light. The branch and surrounding area are richly textured with lush moss, adding to the natural and slightly melancholic atmosphere. Dark forest in background 200mm lens, f/4 aperture, ISO 800, shutter speed 1/500s, white balance set to cloudy.
+```
+
+[Source](https://prompthero.com/prompt/3cec4ee8308-flux-flux1-dev-a-small-bird-perched-on-a-branch-rain-falling-softly-everything-around-covered-in-moss-captured-with-a-professional-camera)
+
+---
 
 <a id="prompthero-3d44215c718"></a>
 
@@ -22,6 +70,134 @@ By [@p8258](https://prompthero.com/prompt/3d44215c718-nano-banana-nano-banana-2-
 
 ---
 
+<a id="prompthero-5ff6d2dcd16"></a>
+
+## hyper-realistic photo, jaguar in the wild, close-u\.\.\.
+
+<a href="https://cdn.prompthero.com/oc0srnjrq5x5bz43xhlbih9unfkf-midjourney-6-hyper-realistic-photo-jaguar-in-the-wild-close-up-in-the-style-of-nature-photography-photo-realistic-shot-on-a.png"><img src="https://cdn.prompthero.com/oc0srnjrq5x5bz43xhlbih9unfkf-midjourney-6-hyper-realistic-photo-jaguar-in-the-wild-close-up-in-the-style-of-nature-photography-photo-realistic-shot-on-a.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+hyper-realistic photo, jaguar in the wild, close-up, in the style of nature photography, photo-realistic, shot on a Sony A7III, UHD, natural lighting --ar 1:2 --stylize 750 --weird 1500
+```
+
+By [@NorthmoorAI](https://prompthero.com/prompt/5ff6d2dcd16-midjourney-6-hyper-realistic-photo-jaguar-in-the-wild-close-up-in-the-style-of-nature-photography-photo-realistic-shot-on-a)
+
+---
+
+<a id="prompthero-7a358eab688"></a>
+
+## a blond woman with long hair is standing in the be\.\.\.
+
+<a href="https://cdn.prompthero.com/voxbihngoyy6816c3gxf8gc1fiq4-midjourney-52-a-blond-woman-with-long-hair-is-standing-in-the-beach-in-the-style-of-dark-gold-and-light-bronze.jpeg"><img src="https://cdn.prompthero.com/voxbihngoyy6816c3gxf8gc1fiq4-midjourney-52-a-blond-woman-with-long-hair-is-standing-in-the-beach-in-the-style-of-dark-gold-and-light-bronze.jpeg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+a blond woman with long hair is standing in the beach, in the style of dark gold and light bronze, radiant clusters, flattering lighting, modern jewelry, french countryside, youthful energy, unique and one-of-a-kind pieces
+```
+
+[Source](https://prompthero.com/prompt/7a358eab688-midjourney-52-a-blond-woman-with-long-hair-is-standing-in-the-beach-in-the-style-of-dark-gold-and-light-bronze)
+
+---
+
+<a id="prompthero-7dec66e5d22"></a>
+
+## 3D render of photorealistic image Disney Pixar sty\.\.\.
+
+<a href="https://cdn.prompthero.com/ofop528sdc1jo342qsml82c9bnom-flux-flux-11-pro-3d-render-of-photorealistic-image-disney-pixar-style-snowy-forest-made-of-ice-ice-fairytale-sculptures-of-santa-in-an.jpg"><img src="https://cdn.prompthero.com/ofop528sdc1jo342qsml82c9bnom-flux-flux-11-pro-3d-render-of-photorealistic-image-disney-pixar-style-snowy-forest-made-of-ice-ice-fairytale-sculptures-of-santa-in-an.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+3D render of photorealistic image Disney Pixar style. Snowy forest made of ice. Ice fairytale sculptures of Santa in an ice sleigh pulled by ice deer, ice funny snowman. Squirrel on a Christmas tree. Ice figures with complex details and perfect shapes, creating a breathtaking visual effect. The effect of movement, dynamic. Light shimmers on the snow, casting playful shadows from the figures on the snowy ground. The atmosphere is serene and idyllic, mystical, fabulous, creating ideal conditions for a holiday, where everything is made of ice.
+```
+
+[Source](https://prompthero.com/prompt/7dec66e5d22-flux-flux-11-pro-3d-render-of-photorealistic-image-disney-pixar-style-snowy-forest-made-of-ice-ice-fairytale-sculptures-of-santa-in-an)
+
+---
+
+<a id="prompthero-7e6790663a2"></a>
+
+## Black and white street photography of an attractiv\.\.\.
+
+<a href="https://cdn.prompthero.com/54xz2e9g2xcdm3f28xc308ocfug4-midjourney-6-black-and-white-street-photography-of-an-attractive-woman-in-leather-jacket-with-headscarf-sitting-inside-vintage-convertible-car-on.png"><img src="https://cdn.prompthero.com/54xz2e9g2xcdm3f28xc308ocfug4-midjourney-6-black-and-white-street-photography-of-an-attractive-woman-in-leather-jacket-with-headscarf-sitting-inside-vintage-convertible-car-on.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+Black and white street photography of an attractive woman in leather jacket with headscarf sitting inside vintage convertible car, on the streets of London, shot by arriflex 35 BL Camera Canon K35 Prime Lenses --ar 1:2 --stylize 750
+```
+
+By [@NorthmoorAI](https://prompthero.com/prompt/7e6790663a2-midjourney-6-black-and-white-street-photography-of-an-attractive-woman-in-leather-jacket-with-headscarf-sitting-inside-vintage-convertible-car-on)
+
+---
+
+<a id="prompthero-7fdf6b34517"></a>
+
+## Did Kim know about his future?
+
+<a href="https://cdn.prompthero.com/r0qkzh87vgg3d6usqaghrqkf2obu-midjourney-51-did-kim-know-about-his-future.png"><img src="https://cdn.prompthero.com/r0qkzh87vgg3d6usqaghrqkf2obu-midjourney-51-did-kim-know-about-his-future.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+A 5 year old Kim Jong-un with a northkorean scout uniform and a dirty face from playing with friends, next to him his proud father Kim Jong-il , in the background some of his friends also in uniforms in front of a typical north korean residential street. The scene is captured with a 200mm medium format lens, emulating the artistic style of Elizabeth Messina --v 5.1 --s 750
+```
+
+[Source](https://prompthero.com/prompt/7fdf6b34517-midjourney-51-did-kim-know-about-his-future)
+
+---
+
+<a id="prompthero-8d65fa95b3c"></a>
+
+## Hot Rod Vibing
+
+<a href="https://cdn.prompthero.com/c0kwyyb5jazcatsiuu4onxfiq3vf-sd-xl-v10-refiner-vae-fix-hot-rod-vibing.jpg"><img src="https://cdn.prompthero.com/c0kwyyb5jazcatsiuu4onxfiq3vf-sd-xl-v10-refiner-vae-fix-hot-rod-vibing.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+A vibrant custom illustration featuring a vintage hot rod, cruising along a sunny street lined with palm trees. The retro cityscape in the background showcases colorful buildings, a neon sign, and a bustling crowd of people. The text 'Summer Vibes' is displayed in a retro, distressed style, with each letter in a different color, exuding a sense of nostalgia. The design is perfect for a t-shirt print, with an isolated white background.
+```
+
+By [@Atheist](https://prompthero.com/prompt/8d65fa95b3c-sd-xl-v10-refiner-vae-fix-hot-rod-vibing)
+
+---
+
+<a id="prompthero-9b78cef82fb"></a>
+
+## Futuristic Military Jet
+
+<a href="https://cdn.prompthero.com/wkgr481krpt9kqdep7zbd5gamjaf-stable-diffusion-xl-base-09-futuristic-military-jet.jpg"><img src="https://cdn.prompthero.com/wkgr481krpt9kqdep7zbd5gamjaf-stable-diffusion-xl-base-09-futuristic-military-jet.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+Futuristic Concept Space Craft with Military Jet features and metallic orange with matte black and white details, luxury, ((waterfall landscape), (forest background), (hovering), highly detailed, 8k sharp focus, full wide photo shot, ultra photorealistic, Sci-Fi influenced
+```
+
+By [@Atheist](https://prompthero.com/prompt/9b78cef82fb-stable-diffusion-xl-base-09-futuristic-military-jet)
+
+---
+
+<a id="prompthero-13fb54d3bda"></a>
+
+## funny caricature, graffiti rabbit, 15 years old, u\.\.\.
+
+<a href="https://cdn.prompthero.com/drqlsqmrm29jhfeqo7mxbivb4pt6-midjourney-niji-v6-funny-caricature-graffiti-rabbit-15-years-old-urban-edgy-mischievous-elongated-ears-and-exaggerated-buck-teeth-on-a-spray-paint.png"><img src="https://cdn.prompthero.com/drqlsqmrm29jhfeqo7mxbivb4pt6-midjourney-niji-v6-funny-caricature-graffiti-rabbit-15-years-old-urban-edgy-mischievous-elongated-ears-and-exaggerated-buck-teeth-on-a-spray-paint.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+funny caricature, graffiti rabbit, 15 years old, urban, edgy, mischievous, elongated ears and exaggerated buck teeth on a spray-paint textured body, lanky, spray-can shaped body type, wide eyes, long whiskers, graffiti-style nose, rebellious expression, caricature, the rabbit is wearing street art patterns and dripping paint textures, accessorized with a spray paint can and a bandana, dynamic, spraying pose, gritty city wall covered in colorful graffiti and posters
+```
+
+[Source](https://prompthero.com/prompt/13fb54d3bda-midjourney-niji-v6-funny-caricature-graffiti-rabbit-15-years-old-urban-edgy-mischievous-elongated-ears-and-exaggerated-buck-teeth-on-a-spray-paint)
+
+---
+
 <a id="prompthero-23d0056e2d4"></a>
 
 ## Create a highly realistic and seductive photo of P\.\.\.
@@ -35,6 +211,38 @@ Create a highly realistic and seductive photo of Princess Anna and Olaf from Dis
 ```
 
 [Source](https://prompthero.com/prompt/23d0056e2d4-flux-flux-11-pro-create-a-highly-realistic-and-seductive-photo-of-princess-anna-and-olaf-from-disneys-frozen-depict-anna-in-a-bold)
+
+---
+
+<a id="prompthero-563adcf29a9"></a>
+
+## Black and white street photography of an attractiv\.\.\.
+
+<a href="https://cdn.prompthero.com/3dkx4couagu4ruq5dpchbgcffbv4-midjourney-6-black-and-white-street-photography-of-an-attractive-woman-in-a-leather-jacket-with-a-headscarf-on-the-streets-of.png"><img src="https://cdn.prompthero.com/3dkx4couagu4ruq5dpchbgcffbv4-midjourney-6-black-and-white-street-photography-of-an-attractive-woman-in-a-leather-jacket-with-a-headscarf-on-the-streets-of.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+Black and white street photography of an attractive woman in a leather jacket with a headscarf on the streets of London, vintage, shot by arriflex 35 BL Camera Canon K35 Prime Lenses --ar 1:2 --personalize 2gwf1qc --stylize 750 --v 6.1
+```
+
+By [@NorthmoorAI](https://prompthero.com/prompt/563adcf29a9-midjourney-6-black-and-white-street-photography-of-an-attractive-woman-in-a-leather-jacket-with-a-headscarf-on-the-streets-of)
+
+---
+
+<a id="prompthero-615b4c6b61f"></a>
+
+## hyper realism, high detail, octane render, 8k , so\.\.\.
+
+<a href="https://cdn.prompthero.com/jxp55vm97hq6p9xzpk84h269qwpx-flux-flux-11-pro-ultra-hyper-realism-high-detail-octane-render-8k-some-white-guy-standing-on-the-new-york-higher-street-and-look-at.jpg"><img src="https://cdn.prompthero.com/jxp55vm97hq6p9xzpk84h269qwpx-flux-flux-11-pro-ultra-hyper-realism-high-detail-octane-render-8k-some-white-guy-standing-on-the-new-york-higher-street-and-look-at.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+hyper realism, high detail, octane render, 8k , some white guy standing on the new york higher street and look at the camera, behind it is sunset and sun is clearly visible and some tower visible in background, he is standing in the middle of street and street is going down behind it so he is standing in high ground in the street
+```
+
+[Source](https://prompthero.com/prompt/615b4c6b61f-flux-flux-11-pro-ultra-hyper-realism-high-detail-octane-render-8k-some-white-guy-standing-on-the-new-york-higher-street-and-look-at)
 
 ---
 
@@ -102,150 +310,22 @@ an anthropomorphic cat wearing white linen is depicted in an action pose, swirli
 
 ---
 
-<a id="prompthero-289466f3660"></a>
+<a id="prompthero-028882f3235"></a>
 
-## minimalist sci-fi, solitary figure in tattered clo\.\.\.
+## stunning fiminine body, commercial image, Gal Gado\.\.\.
 
-<a href="https://cdn.prompthero.com/dzg81p661t20xg19f1wxlw3razdm-flux-flux-11-pro-ultra-minimalist-sci-fi-solitary-figure-in-tattered-cloak-stands-atop-barren-hill-holding-glowing-energy-staff-silhouetted-against-vast-starfield.png"><img src="https://cdn.prompthero.com/dzg81p661t20xg19f1wxlw3razdm-flux-flux-11-pro-ultra-minimalist-sci-fi-solitary-figure-in-tattered-cloak-stands-atop-barren-hill-holding-glowing-energy-staff-silhouetted-against-vast-starfield.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-minimalist sci-fi, solitary figure in tattered cloak stands atop barren hill, holding glowing energy staff, silhouetted against vast starfield, empty planet surface stretches to horizon, single figure centered, stark landscape, expansive sky, stark contrasts, clean lines, negative space, minimalism, wide angle view, distant stars and nebulae in background, rocky outcropping and figure in foreground, night, thin hazy atmosphere, foreboding mood, rim lighting blue and white stark shadows lighting, monochromatic color palette
-```
-
-[Source](https://prompthero.com/prompt/289466f3660-flux-flux-11-pro-ultra-minimalist-sci-fi-solitary-figure-in-tattered-cloak-stands-atop-barren-hill-holding-glowing-energy-staff-silhouetted-against-vast-starfield)
-
----
-
-<a id="prompthero-449482c0bc0"></a>
-
-## high-resolution photography, upper-body compositio\.\.\.
-
-<a href="https://cdn.prompthero.com/5n4mxvl0gkxoncxe9v7y0p3kyq0c-midjourney-7-high-resolution-photography-upper-body-composition-front-shot-on-85mm-portrait-lens-depth-of-field-snowboarder-wearing-a-black-ribbed.png"><img src="https://cdn.prompthero.com/5n4mxvl0gkxoncxe9v7y0p3kyq0c-midjourney-7-high-resolution-photography-upper-body-composition-front-shot-on-85mm-portrait-lens-depth-of-field-snowboarder-wearing-a-black-ribbed.png" width="480" alt="After"></a>
+<a href="https://cdn.prompthero.com/hvud7gmw0jcx781udh62kcd4j6x5-midjourney-5-stunning-fiminine-body-commercial-image-gal-gadot-holographic-photography-shoots-in-the-style-of-vanessa-kirby-daz3d-street-pop-luminous.jpg"><img src="https://cdn.prompthero.com/hvud7gmw0jcx781udh62kcd4j6x5-midjourney-5-stunning-fiminine-body-commercial-image-gal-gadot-holographic-photography-shoots-in-the-style-of-vanessa-kirby-daz3d-street-pop-luminous.jpg" width="480" alt="After"></a>
 
 **Prompt**
 
 ```text
-high-resolution photography, upper-body composition, front shot on 85mm portrait lens, depth of field, snowboarder wearing a black ribbed knit beanie and a black balaclava covering the lower face, large and rimless snowboard goggles with iridescent teal green reflective lenses, reflection in the goggles subtly shows a snowy mountain landscape, blurred snowy environment with cool blue sky tones, bokeh effect, bright natural daylight, sharp focus on the eyewear, realistic fabric textures --ar 9:16 --raw --stylize 200
+stunning fiminine body, commercial image, Gal Gadot | holographic photography shoots, in the style of Vanessa Kirby daz3d, street pop, luminous palette, close up, realistic impressionism, shiny/glossy --ar 51:91 --s 750 - #V2
 ```
 
-By [@Grayve](https://prompthero.com/prompt/449482c0bc0-midjourney-7-high-resolution-photography-upper-body-composition-front-shot-on-85mm-portrait-lens-depth-of-field-snowboarder-wearing-a-black-ribbed)
+[Source](https://prompthero.com/prompt/028882f3235-midjourney-5-stunning-fiminine-body-commercial-image-gal-gadot-holographic-photography-shoots-in-the-style-of-vanessa-kirby-daz3d-street-pop-luminous)
 
 ---
 
-<a id="prompthero-a4a8b00b493"></a>
-
-## Elf, warrior woman in chainmail armor wielding a s\.\.\.
-
-<a href="https://cdn.prompthero.com/wjxnlg8l2j63ifmgkrdhou9l2iw5-midjourney-6-elf-warrior-woman-in-chainmail-armor-wielding-a-sword-she-is-a-fierce-warrior-on-the-battlefield-street-photography-low.jpeg"><img src="https://cdn.prompthero.com/wjxnlg8l2j63ifmgkrdhou9l2iw5-midjourney-6-elf-warrior-woman-in-chainmail-armor-wielding-a-sword-she-is-a-fierce-warrior-on-the-battlefield-street-photography-low.jpeg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-Elf, warrior woman in chainmail armor wielding a sword. She is a fierce warrior on the battlefield, Street photography, Low angle, Natural lighting --no mutations, bad anatomy, bad hands --s 658 --ar 1:2 --v 6.0
-```
-
-[Source](https://prompthero.com/prompt/a4a8b00b493-midjourney-6-elf-warrior-woman-in-chainmail-armor-wielding-a-sword-she-is-a-fierce-warrior-on-the-battlefield-street-photography-low)
-
----
-
-<a id="prompthero-c73f0816357"></a>
-
-## photography, action sports shooting, dynamic range\.\.\.
-
-<a href="https://cdn.prompthero.com/bffaunf80r53ghq97wtmm3tr8c2d-midjourney-6-photography-action-sports-shooting-dynamic-range-professional-snowboarder-in-the-snowboard-park-used-camera-is-canon-eos-1d-x-mark.png"><img src="https://cdn.prompthero.com/bffaunf80r53ghq97wtmm3tr8c2d-midjourney-6-photography-action-sports-shooting-dynamic-range-professional-snowboarder-in-the-snowboard-park-used-camera-is-canon-eos-1d-x-mark.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-photography, action sports shooting, dynamic range, professional snowboarder, in the snowboard park, used camera is Canon EOS-1D X Mark III with Canon EF 70-200mm f/2.8L IS III USM lens, depth of field, a clear picture, realism sunlight, fluttering snow, dramatic landscape, rich detail --ar 9:16 --style raw --personalize ue2yzjl --stylize 500 --v 6.1
-```
-
-By [@Grayve](https://prompthero.com/prompt/c73f0816357-midjourney-6-photography-action-sports-shooting-dynamic-range-professional-snowboarder-in-the-snowboard-park-used-camera-is-canon-eos-1d-x-mark)
-
----
-
-<a id="prompthero-cc42b878792"></a>
-
-## \{ &quot;genre&quot;: &quot;cinematic urban realism&quot;, &quot;moo\.\.\.
-
-<a href="https://cdn.prompthero.com/v1_b176f50fb4be263ad9ab05fcab-hero-10-genre-cinematic-urban-realism-mood-tense-cold-isolated-quiet-intensity-theme-a-man-caught-in-a-moment-of-silence-inside.jpg"><img src="https://cdn.prompthero.com/v1_b176f50fb4be263ad9ab05fcab-hero-10-genre-cinematic-urban-realism-mood-tense-cold-isolated-quiet-intensity-theme-a-man-caught-in-a-moment-of-silence-inside.jpg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-{ "genre": "cinematic urban realism", "mood": ["tense", "cold", "isolated", "quiet intensity"], "theme": "a man caught in a moment of silence inside a sterile industrial elevator" }, "subject": { "description": "young man with calm intense expression", "face": { "skin": "natural pores, realistic texture, slight under-eye shadow, no retouching", "beard": "short trimmed beard, natural density", "expression": "neutral but intimidating, relaxed jaw, eyes locked on camera" }, "hair": { "style": "messy short crop", "detail": "slight volume on top, natural uneven strands, not styled too clean" }, "pose": { "body_language": "still and grounded, subtle confidence", "hands": "one arm folded across torso, other arm relaxed downward", "stance": "centered, shoulders slightly forward, minimal movement" } }, "wardrobe": { "top": "oversized black hoodie, heavy fabric, matte texture", "layering": "dark graphic tee slightly visible below the hoodie hem", "bottom": "dark cargo pants with stitched pockets", "styling_notes": "streetwear minimal, clean silhouette, no bright branding" }, "environment": { "location": "metal elevator interior", "materials": ["brushed stainless steel walls", "reflective panels", "subtle fingerprints and smudges"], "lighting_elements": "overhead fluorescent light panels", "atmosphere": "thin mist/smoke floating around subject, faint haze near corners", "background": "no extra people, no clutter, clean symmetrical elevator geometry" }, "cinematography": { "shot_type": "medium-full portrait", "framing": "perfect symmetrical centered composition", "camera_angle": "slightly low angle for dominance and tension", "lens": { "focal_length": "35mm", "look": "cinematic wide portrait with depth", "distortion_control": "minimal distortion, straight vertical elevator lines" }, "depth_of_field": { "aperture": "f/2.8", "focus": "sharp focus on eyes and face", "falloff": "soft background blur but still readable environment" } }, "lighting": { "type": "overhead harsh fluorescent top-light", "contrast": "medium-high with deep shadows under jaw and hoodie folds", "highlights": "soft bloom on metallic walls, controlled, not blown out", "fill": "very subtle ambient bounce to keep facial details visible", "notes": "keep lighting realistic and slightly underexposed for cinematic tension" }, "color_grade": { "style": "dark cinematic teal-green industrial grade", "shadows": "cool teal tint", "highlights": "neutral to slightly cold", "saturation": "muted low saturation", "contrast": "clean but gritty", "black_levels": "slightly crushed blacks, not fully clipped" }, "texture_details": { "skin": "realistic pores and micro texture", "fabric": "hoodie fleece texture visible, natural folds and weight", "metal": "subtle reflections, tiny scratches, elevator realism", "grain": "subtle film grain throughout" }, "post_processing": { "sharpness": "sharp only on face, not over-sharpened", "vignette": "soft vignette around corners", "haze": "light haze for depth separation", "final_finish": "cinematic, grounded, documentary realism" }, "negative_prompt": [ "plastic skin", "beauty retouch", "anime", "cartoon", "overly smooth face", "HDR glow", "over-saturated colors", "extreme bokeh", "warped elevator walls", "extra fingers", "distorted hands", "unrealistic reflections", "text", "logos", "watermark" ], "output_settings": { "aspect_ratio": "3:4 vertical portrait", "resolution": "high detail", "quality": "photorealistic", "style": "cinematic realism" } }
-```
-
-[Source](https://prompthero.com/prompt/cc42b878792-hero-10-genre-cinematic-urban-realism-mood-tense-cold-isolated-quiet-intensity-theme-a-man-caught-in-a-moment-of-silence-inside)
-
----
-
-<a id="prompthero-da2a7513b28"></a>
-
-## A topographical contour map made entirely from lay\.\.\.
-
-<a href="https://cdn.prompthero.com/9gi0d7gzsqz9ppc5kp3ll8wasx7h-flux-flux-kontext-pro-a-topographical-contour-map-made-entirely-from-layers-of-canterbury-cloth-each-contour-line-is-a-precisely-cut-layer-of.png"><img src="https://cdn.prompthero.com/9gi0d7gzsqz9ppc5kp3ll8wasx7h-flux-flux-kontext-pro-a-topographical-contour-map-made-entirely-from-layers-of-canterbury-cloth-each-contour-line-is-a-precisely-cut-layer-of.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-A topographical contour map made entirely from layers of Canterbury cloth. Each contour line is a precisely cut layer of soft, textured wool fabric, with traditional Canterbury cloth patterns subtly visible in the weave. The layers are stacked with delicate spacing to create a rich sense of depth and elevation, as if carved from folded textiles. Light casts soft shadows between the cut-outs, emphasizing the topography. Earthy tones—muted greens, browns, and greys—evoke the English countryside. Shot from a top-down angle, studio lighting, high detail, textile art, realistic fabric textures.
-```
-
-[Source](https://prompthero.com/prompt/da2a7513b28-flux-flux-kontext-pro-a-topographical-contour-map-made-entirely-from-layers-of-canterbury-cloth-each-contour-line-is-a-precisely-cut-layer-of)
-
----
-
-<a id="prompthero-ebbe0727f77"></a>
-
-## anthropomorphic, a cat named ”street style KOL kit\.\.\.
-
-<a href="https://cdn.prompthero.com/sh319pzk3tx8h6guqnsqh38ykl9s-flux-flux-11-pro-anthropomorphic-a-cat-named-street-style-kol-kitty-wearing-dark-brown-flight-jacket-and-white-sneakers-with-coach-bag-against.jpg"><img src="https://cdn.prompthero.com/sh319pzk3tx8h6guqnsqh38ykl9s-flux-flux-11-pro-anthropomorphic-a-cat-named-street-style-kol-kitty-wearing-dark-brown-flight-jacket-and-white-sneakers-with-coach-bag-against.jpg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-anthropomorphic, a cat named ”street style KOL kitty” wearing dark brown flight jacket, and white sneakers, with COACH bag, against an urban street background with wide depth of field, sitting on the stairs, adorned with mori style stripes, portraying a street life scene with a hip-hop flair, master shot, 4K
-```
-
-[Source](https://prompthero.com/prompt/ebbe0727f77-flux-flux-11-pro-anthropomorphic-a-cat-named-street-style-kol-kitty-wearing-dark-brown-flight-jacket-and-white-sneakers-with-coach-bag-against)
-
----
-
-<a id="prompthero-f9b2749fc8b"></a>
-
-## Capture Worldbreaker Sion in a hyper-realistic pho\.\.\.
-
-<a href="https://cdn.prompthero.com/ichgvsk2junwrncohojkader6b7r-dalle-3-capture-worldbreaker-sion-in-a-hyper-realistic-photograph-set-amidst-a-chaotic-and-apocalyptic-landscape-showcase-his-massive-and-towering.jpeg"><img src="https://cdn.prompthero.com/ichgvsk2junwrncohojkader6b7r-dalle-3-capture-worldbreaker-sion-in-a-hyper-realistic-photograph-set-amidst-a-chaotic-and-apocalyptic-landscape-showcase-his-massive-and-towering.jpeg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-Capture Worldbreaker Sion in a hyper-realistic photograph set amidst a chaotic and apocalyptic landscape. Showcase his massive and towering physique, intricate armor, and signature axe with advanced lighting techniques and dynamic posing. Highlight the details of his fierce and unrelenting expression to convey a sense of power and destruction. Utilize a muted and desaturated color palette with pops of red and black to create a photograph that captures the essence of Worldbreaker Sion's catastrophic and world-ending nature
-```
-
-[Source](https://prompthero.com/prompt/f9b2749fc8b-dalle-3-capture-worldbreaker-sion-in-a-hyper-realistic-photograph-set-amidst-a-chaotic-and-apocalyptic-landscape-showcase-his-massive-and-towering)
-
----
-
-<a id="prompthero-f773d8c0917"></a>
-
-## a young man riding an electric dirt bike in the de\.\.\.
-
-<a href="https://cdn.prompthero.com/lw9zhrdw3r7muwila7cc2kpb5nhm-stable-diffusion-15-a-young-man-riding-an-electric-dirt-bike-in-the-desert-black-clothing-expensive-carbon-futuristic-electric-motorbike-battery-powered.jpg"><img src="https://cdn.prompthero.com/lw9zhrdw3r7muwila7cc2kpb5nhm-stable-diffusion-15-a-young-man-riding-an-electric-dirt-bike-in-the-desert-black-clothing-expensive-carbon-futuristic-electric-motorbike-battery-powered.jpg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-a young man riding an electric dirt bike in the desert, black clothing, expensive carbon futuristic electric motorbike, battery-powered, scenic wide shot in landscape, low angle, in the style of contemporary modernist-type photography, high speed, dynamic composition, wheelie::4, motion blur::2, 8k uhd, atmospheric lighting, professionally color graded, moody, polarizing filter, dark blue sky --no vignette, cropped, boring, cheap, combustion engine, petrol engine
-```
-
-[Source](https://prompthero.com/prompt/f773d8c0917-stable-diffusion-15-a-young-man-riding-an-electric-dirt-bike-in-the-desert-black-clothing-expensive-carbon-futuristic-electric-motorbike-battery-powered)
-
----
-
-[1](travel.md) · **2**
+[1](travel.md) · **2** · [3](travel-3.md)
 
 [← Home](../README.md)

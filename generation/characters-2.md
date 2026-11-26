@@ -1,8 +1,8 @@
 # characters
 
-[← Home](../README.md) · Page 2 / 6
+[← Home](../README.md) · Page 2 / 8
 
-[1](characters.md) · **2** · [3](characters-3.md) · [4](characters-4.md) · [5](characters-5.md) · [6](characters-6.md)
+[1](characters.md) · **2** · [3](characters-3.md) · [4](characters-4.md) · [5](characters-5.md) · [6](characters-6.md) · [7](characters-7.md) · [8](characters-8.md)
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
@@ -326,6 +326,6 @@ By [@anemone\_sd](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999c
 
 ---
 
-[1](characters.md) · **2** · [3](characters-3.md) · [4](characters-4.md) · [5](characters-5.md) · [6](characters-6.md)
+[1](characters.md) · **2** · [3](characters-3.md) · [4](characters-4.md) · [5](characters-5.md) · [6](characters-6.md) · [7](characters-7.md) · [8](characters-8.md)
 
 [← Home](../README.md)

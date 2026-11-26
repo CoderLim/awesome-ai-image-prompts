@@ -24,3 +24,7 @@ These five detail pages match visible homepage prompt text and source-reported m
 ## Export integration
 
 The current [discovery index](../data/discovery/prompthero.json) contains 9 link-only entries. 2 previous discovery entries were moved into the catalog import. Historical shortlist above may include moved entries.
+
+## Second export integration
+
+The [discovery index](../data/discovery/prompthero.json) now contains 7 link-only entries. 2 entries moved into the catalog in the second import (653 reviewed cases: 166 from Phase A secondary review and 487 from Phase B). Historical shortlist above may include moved entries.

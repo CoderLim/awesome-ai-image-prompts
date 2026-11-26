@@ -214,6 +214,38 @@ By [@lumetro](https://prompthero.com/prompt/3fa773db382-hero-10-transform-the-up
 
 ---
 
+<a id="prompthero-89df465a940"></a>
+
+## Transform the subject into a glossy designer-toy c\.\.\.
+
+<a href="https://cdn.prompthero.com/v1_03f3e4a27e73c0a539d5403619-chatgpt-image-gpt-image-26-flare-transform-the-subject-into-a-glossy-designer-toy-character-inspired-by-the-reference-image-smooth-and-rounded-proportions-chubby-silhouette.jpeg"><img src="https://cdn.prompthero.com/v1_03f3e4a27e73c0a539d5403619-chatgpt-image-gpt-image-26-flare-transform-the-subject-into-a-glossy-designer-toy-character-inspired-by-the-reference-image-smooth-and-rounded-proportions-chubby-silhouette.jpeg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+Transform the subject into a glossy designer-toy character inspired by the reference image. Smooth and rounded proportions, chubby silhouette, exaggerated cartoon expression, large open mouth, tiny dot eyes, and bold sculpted details. High-gloss vinyl surface with sharp reflections, saturated primary colors (especially bright red), stylized spikes and simple shapes. Toy-figurine aesthetic, studio lighting, clean background, dramatic shadows, ultra-polished plastic texture.
+```
+
+By [@chorlo](https://prompthero.com/prompt/89df465a940-chatgpt-image-gpt-image-26-flare-transform-the-subject-into-a-glossy-designer-toy-character-inspired-by-the-reference-image-smooth-and-rounded-proportions-chubby-silhouette)
+
+---
+
+<a id="prompthero-385a2e49a1e"></a>
+
+## funny caricature, adult man and woman \(input Image\.\.\.
+
+<a href="https://cdn.prompthero.com/binx8k4bc6er122yor1kygv1ve-hero-10-funny-caricature-adult-man-and-woman-input-image-mid-30s-big-cartoonish-head-exaggerated-caricature-features-digital-painting-caricature-style.jpeg"><img src="https://cdn.prompthero.com/binx8k4bc6er122yor1kygv1ve-hero-10-funny-caricature-adult-man-and-woman-input-image-mid-30s-big-cartoonish-head-exaggerated-caricature-features-digital-painting-caricature-style.jpeg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+funny caricature, adult man and woman (input Image), mid-30's, big cartoonish head, exaggerated caricature features,  digital painting caricature style whimsical, playful, satirical.
+```
+
+[Source](https://prompthero.com/prompt/385a2e49a1e-hero-10-funny-caricature-adult-man-and-woman-input-image-mid-30s-big-cartoonish-head-exaggerated-caricature-features-digital-painting-caricature-style)
+
+---
+
 <a id="prompthero-428be2a38be"></a>
 
 ## \{ &quot;prompt\_type&quot;: &quot;descriptive\_replication&quot;, &quot;r\.\.\.
@@ -259,6 +291,22 @@ Use my uploaded photo as the primary facial identity reference. Preserve my real
 ```
 
 By [@josefranciscodu](https://prompthero.com/prompt/1387a39d33d-hero-10-use-my-uploaded-photo-as-the-primary-facial-identity-reference-preserve-my-real-facial-identity-facial-proportions-eye-shape-nose)
+
+---
+
+<a id="prompthero-c2bff160ac9"></a>
+
+## Crear un retrato en estilo ilustración 3D tipo Pix\.\.\.
+
+<a href="https://cdn.prompthero.com/zhiul2482xu3a077d3ojmgj8l7-hero-10-crear-un-retrato-en-estilo-ilustracin-3d-tipo-pixar-de-alta-calidad-manteniendo-rasgos-faciales-realistas-y-reconocibles-identidad-del.jpeg"><img src="https://cdn.prompthero.com/zhiul2482xu3a077d3ojmgj8l7-hero-10-crear-un-retrato-en-estilo-ilustracin-3d-tipo-pixar-de-alta-calidad-manteniendo-rasgos-faciales-realistas-y-reconocibles-identidad-del.jpeg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+Crear un retrato en estilo ilustración 3D tipo Pixar de alta calidad, manteniendo rasgos faciales realistas y reconocibles. IDENTIDAD DEL ROSTRO (NO CAMBIAR): Rostro ovalado con facciones suaves y equilibradas. Piel clara con subtono neutro, acabado luminoso y natural. Ojos medianos ligeramente almendrados, con mirada tranquila y segura, brillo suave natural. Cejas definidas pero naturales. Nariz delicada y proporcionada. Labios medianos bien definidos con tono rosado hidratado. Mejillas con rubor sutil. CABELLO (CARACTERÍSTICO): Cabello cobrizo/anaranjado vibrante. pelo suelto a la altura de los hombros con corte de pelo estilo mariposa y flequillos Textura ligera, esponjosa y natural. EXPRESIÓN: Serena, femenina, dulce y segura. Sonrisa natural y suave. ESTILO VISUAL: Render 3D de alta calidad estilo Pixar, ultra detallado. Mezcla de realismo con estilización. Estética romántica, femenina y soñadora. Paleta de colores pastel. ILUMINACIÓN: Luz natural cálida, suave y difusa. Efecto glow en la piel. Sombras suaves. Rim light sutil alrededor del cabello. ESCENA: Crea una ilustración estilo 3D, con colores pastel y pinceladas ligeras. Mostrar a la misma mujer acostada sobre la hierba verde, con los brazos detrás de la cabeza y los ojos cerrados, en una postura relajada y feliz. Lleva un vestido sencillo pero elegante con encajes finos de color verde. A su lado, incluir un conejito pequeño blanco, acostado tranquilamente junto a ella. La misma mujer esta en medio del campo El entorno es un campo natural con hierba alta y espigas tipo trigo moviéndose suavemente, sugiriendo una brisa ligera. Añadir fondo difuminado con tonos suaves de verde, amarillo y rosado, estilo 3D, sin detalles duros. Iluminación suave y cálida, ambiente de primavera/verano, sensación de paz, libertad, inocencia y conexión con la naturaleza. Composición armoniosa y delicada, estilo artístico orgánico, trazos suaves y difuminados. Sin texto, sin letras, sin marcas de agua, sin logotipos. COMPOSICIÓN: Formato vertical. Plano completo (full body). Fondo ligeramente desenfocado. Profundidad de campo. Composición armoniosa y limpia. Formato jpg Cámara ligeramente alejada (zoom out) Encuadre amplio Formato vertical tipo portada Regla de tercios equilibrada pero centrada EXTRA: Fondo extendido suavemente Elementos distribuidos sin tocar bordes DETALLES: Movimiento suave en el cabello por el viento. Texturas suaves y realistas (piel, tela, flores). Ambiente de fantasía ligera, inocente y calmada. CALIDAD: Alta resolución. Render limpio. Iluminación global. Sombras suaves. Acabado cinematográfico. NEGATIVE PROMPT: No cambiar el rostro. No alterar proporciones faciales. Evitar estilo caricatura exagerado. Evitar otro rostro diferente. Evitar sombras duras. Evitar piel plástica. Evitar baja calidad. Evitar sobrecarga de elementos en el fondo. Crear un retrato en estilo ilustración 3D tipo Pixar de alta calidad, manteniendo rasgos faciales realistas y reconocibles. IDENTIDAD DEL ROSTRO (NO CAMBIAR): Rostro ovalado con facciones suaves y equilibradas. Piel clara con subtono neutro, acabado luminoso y natural. Ojos medianos ligeramente almendrados, con mirada tranquila y segura, brillo suave natural. Cejas definidas pero naturales. Nariz delicada y proporcionada. Labios medianos bien definidos con tono rosado hidratado. Mejillas con rubor sutil. CABELLO (CARACTERÍSTICO): Cabello cobrizo/anaranjado vibrante. pelo suelto a la altura de los hombros con corte de pelo estilo mariposa y flequillos Textura ligera, esponjosa y natural. EXPRESIÓN: Serena, femenina, dulce y segura. Sonrisa natural y suave. ESTILO VISUAL: Render 3D de alta calidad estilo Pixar, ultra detallado. Mezcla de realismo con estilización. Estética romántica, femenina y soñadora. Paleta de colores pastel. ILUMINACIÓN: Luz natural cálida, suave y difusa. Efecto glow en la piel. Sombras suaves. Rim light sutil alrededor del cabello. ESCENA: Crea una ilustración estilo 3D, con colores pastel y pinceladas ligeras. Mostrar a la misma mujer acostada sobre la hierba verde, con los brazos detrás de la cabeza y los ojos cerrados, en una postura relajada y feliz. Lleva un vestido sencillo pero elegante con encajes finos de color verde. A su lado, incluir un conejito pequeño blanco, acostado tranquilamente junto a ella. La misma mujer esta en medio del campo El entorno es un campo natural con hierba alta y espigas tipo trigo moviéndose suavemente, sugiriendo una brisa ligera. Añadir fondo difuminado con tonos suaves de verde, amarillo y rosado, estilo 3D, sin detalles duros. Iluminación suave y cálida, ambiente de primavera/verano, sensación de paz, libertad, inocencia y conexión con la naturaleza. Composición armoniosa y delicada, estilo artístico orgánico, trazos suaves y difuminados. Sin texto, sin letras, sin marcas de agua, sin logotipos. COMPOSICIÓN: Formato vertical. Plano completo (full body). Fondo ligeramente desenfocado. Profundidad de campo. Composición armoniosa y limpia. Formato jpg Cámara ligeramente alejada (zoom out) Encuadre amplio Formato vertical tipo portada Regla de tercios equilibrada pero centrada EXTRA: Fondo extendido suavemente Elementos distribuidos sin tocar bordes DETALLES: Movimiento suave en el cabello por el viento. Texturas suaves y realistas (piel, tela, flores). Ambiente de fantasía ligera, inocente y calmada. CALIDAD: Alta resolución. Render limpio. Iluminación global. Sombras suaves. Acabado cinematográfico. NEGATIVE PROMPT: No cambiar el rostro. No alterar proporciones faciales. Evitar estilo caricatura exagerado. Evitar otro rostro diferente. Evitar sombras duras. Evitar piel plástica. Evitar baja calidad. Evitar sobrecarga de elementos en el fondo.
+```
+
+[Source](https://prompthero.com/prompt/c2bff160ac9-hero-10-crear-un-retrato-en-estilo-ilustracin-3d-tipo-pixar-de-alta-calidad-manteniendo-rasgos-faciales-realistas-y-reconocibles-identidad-del)
 
 ---
 

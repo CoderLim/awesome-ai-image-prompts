@@ -1,8 +1,8 @@
 # characters
 
-[← Home](../README.md) · Page 3 / 6
+[← Home](../README.md) · Page 3 / 8
 
-[1](characters.md) · [2](characters-2.md) · **3** · [4](characters-4.md) · [5](characters-5.md) · [6](characters-6.md)
+[1](characters.md) · [2](characters-2.md) · **3** · [4](characters-4.md) · [5](characters-5.md) · [6](characters-6.md) · [7](characters-7.md) · [8](characters-8.md)
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
@@ -150,6 +150,70 @@ Futuristic android robot Samurai, heavy damages, proud pose, epic composition, w
 
 ---
 
+<a id="prompthero-0f3a7881319"></a>
+
+## a scary looking wood creature with a red eye, in t\.\.\.
+
+<a href="https://cdn.prompthero.com/j850zz1kiifs6jwy9hxshh0wukna-midjourney-52-a-scary-looking-wood-creature-with-a-red-eye-in-the-style-of-filip-hodas-daz3d-sandy-skoglund-natalia-rak.png"><img src="https://cdn.prompthero.com/j850zz1kiifs6jwy9hxshh0wukna-midjourney-52-a-scary-looking-wood-creature-with-a-red-eye-in-the-style-of-filip-hodas-daz3d-sandy-skoglund-natalia-rak.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+a scary looking wood creature with a red eye, in the style of filip hodas, daz3d, sandy skoglund, natalia rak, mysterious jungle, realistic hyper-detailed rendering, anthropological::, a large red eyes monster in the pine forest, in the style of rendered in maya, organic nature-inspired forms, daz3d, wood, close-up, frogcore, storybook illustration:: --v 5.2
+```
+
+[Source](https://prompthero.com/prompt/0f3a7881319-midjourney-52-a-scary-looking-wood-creature-with-a-red-eye-in-the-style-of-filip-hodas-daz3d-sandy-skoglund-natalia-rak)
+
+---
+
+<a id="prompthero-1a3e8b77d16"></a>
+
+## The amazing spidercat
+
+<a href="https://cdn.prompthero.com/452yojwjf1av8gg0k07mbogbuwfm-midjourney-6-the-amazing-spidercat.png"><img src="https://cdn.prompthero.com/452yojwjf1av8gg0k07mbogbuwfm-midjourney-6-the-amazing-spidercat.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+the amazing spidercat, superhero, cat dressed in spiderman costume flying over new york city with his web, hyperrealistic, hr 32k uhd, cinematic light, high detail, perfect detail, high resolution, masterpiece --ar 5:7
+```
+
+[Source](https://prompthero.com/prompt/1a3e8b77d16-midjourney-6-the-amazing-spidercat)
+
+---
+
+<a id="prompthero-1a68fbf7fff"></a>
+
+## in the style of ck-sfc, female cyberpunk robot sam\.\.\.
+
+<a href="https://cdn.prompthero.com/ra4r7p39t4h1qoh5sos6pge78e8f-flux-flux-11-pro-in-the-style-of-ck-sfc-female-cyberpunk-robot-samurai-robot-face-with-mirrored-face-shield-hyperdetailed-helmet-flowing-black.png"><img src="https://cdn.prompthero.com/ra4r7p39t4h1qoh5sos6pge78e8f-flux-flux-11-pro-in-the-style-of-ck-sfc-female-cyberpunk-robot-samurai-robot-face-with-mirrored-face-shield-hyperdetailed-helmet-flowing-black.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+in the style of ck-sfc, female cyberpunk robot samurai, robot face with mirrored face shield, hyperdetailed helmet, flowing black hair, reflective black and neon red armor, robot joints, body made of metals, cables and wires, a katana strapped to her back, abstract background suggesting eastern temple
+```
+
+[Source](https://prompthero.com/prompt/1a68fbf7fff-flux-flux-11-pro-in-the-style-of-ck-sfc-female-cyberpunk-robot-samurai-robot-face-with-mirrored-face-shield-hyperdetailed-helmet-flowing-black)
+
+---
+
+<a id="prompthero-1c584ebcbd2"></a>
+
+## Hyper realistic one piece character design, luffy,\.\.\.
+
+<a href="https://cdn.prompthero.com/uquuy9ank3zppihjvd55gzjucwra-dalle-2-hyper-realistic-one-piece-character-design-luffy-mist-photorealistic-octane-render-unreal-engine-5-1-8k-hyper-detailed-volumetric-lighting.jpg"><img src="https://cdn.prompthero.com/uquuy9ank3zppihjvd55gzjucwra-dalle-2-hyper-realistic-one-piece-character-design-luffy-mist-photorealistic-octane-render-unreal-engine-5-1-8k-hyper-detailed-volumetric-lighting.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+Hyper realistic one piece character design, luffy, mist, photorealistic, octane render, unreal engine 5, 1 8k, hyper detailed, volumetric lighting, hdr. Scene of a raging combat, background of chaos and conflict
+```
+
+[Source](https://prompthero.com/prompt/1c584ebcbd2-dalle-2-hyper-realistic-one-piece-character-design-luffy-mist-photorealistic-octane-render-unreal-engine-5-1-8k-hyper-detailed-volumetric-lighting)
+
+---
+
 <a id="prompthero-1e932504c4a"></a>
 
 ## futuristic cyborg boy featuring a captivating ref\.\.\.
@@ -179,6 +243,38 @@ Masterpiece, (((cute Cubone from pokemon))), solo, Kawaii, sitting in mystical f
 ```
 
 [Source](https://prompthero.com/prompt/1ea03273417-deliberate-2-masterpiece-cute-cubone-from-pokemon-solo-kawaii-sitting-in-mystical-forest-full-character-concept-trending-colour-palette-trending-on-artstation)
+
+---
+
+<a id="prompthero-2c9e407d3e7"></a>
+
+## haunting creature that looks like a spider, full b\.\.\.
+
+<a href="https://cdn.prompthero.com/6qgddmewxw6c5akd0sryy6q6gv5a-midjourney-52-haunting-creature-that-looks-like-a-spider-full-body-reddish-eyes-the-background-is-a-cave-where-there-is-an.png"><img src="https://cdn.prompthero.com/6qgddmewxw6c5akd0sryy6q6gv5a-midjourney-52-haunting-creature-that-looks-like-a-spider-full-body-reddish-eyes-the-background-is-a-cave-where-there-is-an.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+haunting creature that looks like a spider, full body, reddish eyes, the background is a cave where there is an open wooden chest full of emeralds on the ground, horror, intricate details, cinematic, 4k, fantasy style, photo
+```
+
+[Source](https://prompthero.com/prompt/2c9e407d3e7-midjourney-52-haunting-creature-that-looks-like-a-spider-full-body-reddish-eyes-the-background-is-a-cave-where-there-is-an)
+
+---
+
+<a id="prompthero-2de5fbc9bf8"></a>
+
+## Photorealistic artwork of a serene, celestial Asia\.\.\.
+
+<a href="https://cdn.prompthero.com/jlidt8a88wb5giffvc5maw0zv6-seedream-v1-photorealistic-artwork-of-a-serene-celestial-asian-inspired-woman-with-pale-porcelain-skin-and-delicate-features-she-wears-intricate-gold.jpeg"><img src="https://cdn.prompthero.com/jlidt8a88wb5giffvc5maw0zv6-seedream-v1-photorealistic-artwork-of-a-serene-celestial-asian-inspired-woman-with-pale-porcelain-skin-and-delicate-features-she-wears-intricate-gold.jpeg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+Photorealistic artwork of a serene, celestial Asian-inspired woman with pale, porcelain skin and delicate features. She wears intricate gold jewelry—an ornate earring and a detailed headpiece crowned with a golden flower. Her long, dark hair is elegantly styled, accented by a vivid orange blossom. Eyes closed, she radiates calm and quiet divinity. Behind her, a massive glowing golden crescent moon rises against a deep blue, star-filled sky, with a smaller full moon beside it. She wears a flowing white robe with soft blue patterns that blend into the night. Branches with delicate orange flowers frame her, merging natural beauty with a dreamlike, otherworldly atmosphere.
+```
+
+[Source](https://prompthero.com/prompt/2de5fbc9bf8-seedream-v1-photorealistic-artwork-of-a-serene-celestial-asian-inspired-woman-with-pale-porcelain-skin-and-delicate-features-she-wears-intricate-gold)
 
 ---
 
@@ -230,102 +326,6 @@ Create a premium industrial mascot character for a crawler undercarriage and con
 
 ---
 
-<a id="prompthero-4c30f52eae3"></a>
-
-## Pixar-style 3D render, highly detailed character d\.\.\.
-
-<a href="https://cdn.prompthero.com/dwkzo6y1q0tfwpiew9i961oabx-hero-10-pixar-style-3d-render-highly-detailed-character-design-a-muscular-buff-pomegranate-character-with-big-strong-arms-six-pack-abs.jpeg"><img src="https://cdn.prompthero.com/dwkzo6y1q0tfwpiew9i961oabx-hero-10-pixar-style-3d-render-highly-detailed-character-design-a-muscular-buff-pomegranate-character-with-big-strong-arms-six-pack-abs.jpeg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-Pixar-style 3D render, highly detailed character design. A muscular, buff pomegranate character with big strong arms, six-pack abs, and powerful legs. The pomegranate has a tough confident face with expressive cartoon eyes, a fierce smirk, and a royal crown-shaped calyx on top of his head like a natural king's crown. His body is deep crimson red with smooth leathery pomegranate skin texture. His chest is slightly cracked open revealing glowing ruby-red juicy seeds inside like gems beneath the surface. He is flexing his muscles in a powerful heroic pose. Red juice droplets on his skin like warrior sweat. Soft cinematic Pixar lighting, dramatic rim light with deep red and golden tones, subsurface scattering on the red skin, vibrant saturated colors, clean studio background with subtle dark gradient. Ultra detailed, 8K quality, Pixar Disney animation style, 3D CGI, octane render, hyper-realistic cartoon shading
-```
-
-[Source](https://prompthero.com/prompt/4c30f52eae3-hero-10-pixar-style-3d-render-highly-detailed-character-design-a-muscular-buff-pomegranate-character-with-big-strong-arms-six-pack-abs)
-
----
-
-<a id="prompthero-5c11bcbb373"></a>
-
-## Design a premium artistic modular character-buildi\.\.\.
-
-<a href="https://cdn.prompthero.com/hr6h5bavalgjigaa0owpz3tisb-hero-10-design-a-premium-artistic-modular-character-building-system-not-lego-not-toy-like-create-elegant-collectible-pieces-inspired-by-minimalist.jpeg"><img src="https://cdn.prompthero.com/hr6h5bavalgjigaa0owpz3tisb-hero-10-design-a-premium-artistic-modular-character-building-system-not-lego-not-toy-like-create-elegant-collectible-pieces-inspired-by-minimalist.jpeg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-Design a premium artistic modular character-building system (not LEGO, not toy-like). Create elegant collectible pieces inspired by minimalist line art, Bauhaus, and Scandinavian design. Users can assemble expressive characters using interchangeable modular parts like eyes, ears, noses, mouths, and abstract shapes. All parts should be geometric, sculptural, and museum-quality art objects. No printed faces—expression comes from composition. Use magnetic or snap connections. Focus on creating a new category between contemporary sculpture and interactive design objects, suitable for adult collectors and interior display.
-```
-
-[Source](https://prompthero.com/prompt/5c11bcbb373-hero-10-design-a-premium-artistic-modular-character-building-system-not-lego-not-toy-like-create-elegant-collectible-pieces-inspired-by-minimalist)
-
----
-
-<a id="prompthero-5e650f1b0f4"></a>
-
-## \( volumatric lighting , very detail face ,white ba\.\.\.
-
-<a href="https://cdn.prompthero.com/avo3n1cvzb6bgh55n8o0d1y14k90-dreamshaper-5-inpainting-volumatric-lighting-very-detail-face-white-background-3d-model-nendoroid-style-japanese-mascot-art-toys-secret-collectible-figurine-a-cute.jpg"><img src="https://cdn.prompthero.com/avo3n1cvzb6bgh55n8o0d1y14k90-dreamshaper-5-inpainting-volumatric-lighting-very-detail-face-white-background-3d-model-nendoroid-style-japanese-mascot-art-toys-secret-collectible-figurine-a-cute.jpg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-( volumatric lighting , very detail face ,white background)), 3D model , Nendoroid style, Japanese mascot, art toys secret collectible figurine, ((a  cute new pink pokemon , minimalist cartoon,smart smile , happy face , brown eye , glow pastel rainbow, hd beautyful minimal glitter milky way leaf texture , a symphony of visual balance harmony, inspired by Demiguise in fantastic beasts)), beautyful 3D render, product picture , mr. bean character, relax poses ,design by studio ghibli, mood shiny.
-```
-
-[Source](https://prompthero.com/prompt/5e650f1b0f4-dreamshaper-5-inpainting-volumatric-lighting-very-detail-face-white-background-3d-model-nendoroid-style-japanese-mascot-art-toys-secret-collectible-figurine-a-cute)
-
----
-
-<a id="prompthero-5ec208b9807"></a>
-
-## 用途：风格化概念插画 资产类型：奇幻角色半身肖像 主要内容：一位成年幻想风阴阳师巫女，粉色\.\.\.
-
-<a href="https://cdn.prompthero.com/o02ht5j8dcdoiz32nn9bckazck-hero-10.jpeg"><img src="https://cdn.prompthero.com/o02ht5j8dcdoiz32nn9bckazck-hero-10.jpeg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-用途：风格化概念插画 资产类型：奇幻角色半身肖像 主要内容：一位成年幻想风阴阳师巫女，粉色双马尾长发，优雅的鬼角，身穿飘逸的白色祭祀礼服，领 口设计精致但不暴露。 角色特征：成年女性，神情安静睿智，气质温柔，身形优雅，佩戴精致的神社饰品、发饰和符咒装饰。 风格媒介：精致日式幻想插画，带有高级动漫角色设计感，服装布料细节丰富，线条干净，画面完成度 高。 构图：半身肖像构图，重点表现面部、粉色头发、鬼角、上半身礼服和神社装饰，姿态端庄自然。 光影氛围：电影感柔光，神秘的神社氛围，安静、优雅、梦幻，画面明亮精致。 色彩：柔和粉色头发，白色和象牙色礼服，少量红色神社元素点缀，温暖金色高光。 更短一点也可以： 一位成年幻想风阴阳师巫女半身肖像，粉色双马尾长发，优雅鬼角，身穿飘逸白色祭祀礼服，领口设计 精致但不暴露。角色神情安静睿智，气质温柔，佩戴神社发饰、符咒和华丽饰品。精致日式幻想插画风 格，高级动漫角色设计感，布料细节丰富，电影感柔光，神秘神社氛围，画面明亮优雅，完成度高。
-```
-
-[Source](https://prompthero.com/prompt/5ec208b9807-hero-10)
-
----
-
-<a id="prompthero-6a7784be061"></a>
-
-## Full body shot, Julia Roberts, side view, looking \.\.\.
-
-<a href="https://cdn.prompthero.com/bpzl80mmk6bwfahqoyf2pbinq96a-flux-flux-kontext-pro-full-body-shot-julia-roberts-side-view-looking-over-her-shoulder-glamorous-kitsch-high-quality-made-of-wires-grungecore-elaborate.png"><img src="https://cdn.prompthero.com/bpzl80mmk6bwfahqoyf2pbinq96a-flux-flux-kontext-pro-full-body-shot-julia-roberts-side-view-looking-over-her-shoulder-glamorous-kitsch-high-quality-made-of-wires-grungecore-elaborate.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-Full body shot, Julia Roberts, side view, looking over her shoulder, glamorous kitsch, high quality, made of wires, grungecore, elaborate armor beautiful orc girl with the helmet of a devil with big horns, open cyber suit, piercing in the navel, interior of a rusty space station in the background, in the style of dark white and light silver, captivating gaze, ferrania p30, earl norem, mysterious beauty, exaggerated features, dragon art, by Royo and Giger, sci-fi, cyberpunk, dark art --ar 4:5 --stylize 500 --v 6
-```
-
-[Source](https://prompthero.com/prompt/6a7784be061-flux-flux-kontext-pro-full-body-shot-julia-roberts-side-view-looking-over-her-shoulder-glamorous-kitsch-high-quality-made-of-wires-grungecore-elaborate)
-
----
-
-<a id="prompthero-7c4cae91879"></a>
-
-## «Patrol duty on the Radial Highway»
-
-<a href="https://cdn.prompthero.com/4t28canm7nllq6riv31sh1w0y9il-midjourney-61-patrol-duty-on-the-radial-highway.jpg"><img src="https://cdn.prompthero.com/4t28canm7nllq6riv31sh1w0y9il-midjourney-61-patrol-duty-on-the-radial-highway.jpg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-Syd Mead style futuristic cyber dieselpunk hovercraft, full body shot of beautiful European young blonde woman in clothes in dieselpunk style, in the background there is super car and a huge combat robot in dieselpunk style, in Syd Mead style --chaos 3 --ar 4:5 --sref 858769851 --personalize h3vtncs --stylize 900 --v 6.1
-```
-
-[Source](https://prompthero.com/prompt/7c4cae91879-midjourney-61-patrol-duty-on-the-radial-highway)
-
----
-
-[1](characters.md) · [2](characters-2.md) · **3** · [4](characters-4.md) · [5](characters-5.md) · [6](characters-6.md)
+[1](characters.md) · [2](characters-2.md) · **3** · [4](characters-4.md) · [5](characters-5.md) · [6](characters-6.md) · [7](characters-7.md) · [8](characters-8.md)
 
 [← Home](../README.md)

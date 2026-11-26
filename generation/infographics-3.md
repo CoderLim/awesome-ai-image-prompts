@@ -134,6 +134,22 @@ By [@robiness](https://prompthero.com/prompt/02e40ef99e8-chatgpt-image-gpt-4o-vo
 
 ---
 
+<a id="prompthero-77f685f7bad"></a>
+
+## Master Chief from the game Halo holding a beer mug\.\.\.
+
+<a href="https://cdn.prompthero.com/wkz5khypholesb95b2jk51o54j90-deliberate-v2-master-chief-from-the-game-halo-holding-a-beer-mug-and-a-galactic-war-on-the-background-beautiful-hands-intricate.png"><img src="https://cdn.prompthero.com/wkz5khypholesb95b2jk51o54j90-deliberate-v2-master-chief-from-the-game-halo-holding-a-beer-mug-and-a-galactic-war-on-the-background-beautiful-hands-intricate.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+Master Chief from the game Halo holding a beer mug and a galactic war on the background, beautiful hands, intricate, sharp focus, illustration, highly detailed, digital painting, concept art, matte, masterpiece, Jedi lightsaber analysis poster, technical drawing, infographic, engineering drawings, handwritten notes, intricate details, post-soviet illustration, disfigured, not people, surreal, angels from the description in the bible, background of sunny dense clouds, 4k, cinematic lighting, extremely detailed, HDR, not realistic, not realistic photo, realistic shadows, UHD, bloody background
+```
+
+[Source](https://prompthero.com/prompt/77f685f7bad-deliberate-v2-master-chief-from-the-game-halo-holding-a-beer-mug-and-a-galactic-war-on-the-background-beautiful-hands-intricate)
+
+---
+
 <a id="vcl-blueprint"></a>
 
 ## Blueprint — Tesla Cybertruck

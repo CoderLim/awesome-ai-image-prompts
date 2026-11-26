@@ -1,8 +1,8 @@
 # creative art
 
-[← Home](../README.md) · Page 2 / 8
+[← Home](../README.md) · Page 2 / 14
 
-[1](creative-art.md) · **2** · [3](creative-art-3.md) · [4](creative-art-4.md) · [5](creative-art-5.md) · [6](creative-art-6.md) · [7](creative-art-7.md) · [8](creative-art-8.md)
+[1](creative-art.md) · **2** · [3](creative-art-3.md) · [4](creative-art-4.md) · [5](creative-art-5.md) · [6](creative-art-6.md) · [7](creative-art-7.md) · [8](creative-art-8.md) · [9](creative-art-9.md) · [10](creative-art-10.md) · [11](creative-art-11.md) · [12](creative-art-12.md) · [13](creative-art-13.md) · [14](creative-art-14.md)
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
@@ -310,22 +310,22 @@ By [@albertoantoniot](https://prompthero.com/prompt/0b1e8c269a2-hero-10-scene-se
 
 ---
 
-<a id="prompthero-0d3dd87d153"></a>
+<a id="prompthero-0b6df7f515f"></a>
 
-## A rapid aerial tracking shot from the drone&\#39;s pers\.\.\.
+## dachshund dog, red, one eye blue, the other brown,\.\.\.
 
-<a href="https://cdn.prompthero.com/cll1ubjksbcfbqs0sv9b0lst9ji9-flux-flux-11-pro-ultra-a-rapid-aerial-tracking-shot-from-the-drones-perspective-captures-a-surreal-dream-sequence-of-an-ancient-chinese-beauty-dressed.jpg"><img src="https://cdn.prompthero.com/cll1ubjksbcfbqs0sv9b0lst9ji9-flux-flux-11-pro-ultra-a-rapid-aerial-tracking-shot-from-the-drones-perspective-captures-a-surreal-dream-sequence-of-an-ancient-chinese-beauty-dressed.jpg" width="480" alt="After"></a>
+<a href="https://cdn.prompthero.com/uf699nqf9m19j8d0q3ne14denx30-midjourney-niji-v6-dachshund-dog-red-one-eye-blue-the-other-brown-wearing-large-marshall-headphones-a-red-down-jacket-standing-on-the.png"><img src="https://cdn.prompthero.com/uf699nqf9m19j8d0q3ne14denx30-midjourney-niji-v6-dachshund-dog-red-one-eye-blue-the-other-brown-wearing-large-marshall-headphones-a-red-down-jacket-standing-on-the.png" width="480" alt="After"></a>
 
 **Prompt**
 
 ```text
-A rapid aerial tracking shot from the drone's perspective captures a surreal dream sequence of an ancient Chinese beauty dressed in an exquisite Hanfu, flying at high speed in a prone position. She effortlessly glides through the clouds, her body fully extended with arms outstretched to the sides, legs slightly parted, and her head forward, capturing the sensation of smooth horizontal flight. Her Hanfu billows in the wind as the camera closely tracks from a slightly higher angle, moving from the left rear to the right rear, maintaining a continuous view of the prone position as the character swiftly traverses the scene. The environment is dynamic and rapidly changing, with clouds below and white clouds streaking by in the background, a large moon hanging high in the distance, and a sparkling night sky surrounding, with motion blur and light trails enhancing the sense of speed and fluidity. Rapid movement.
+dachshund dog, red, one eye blue, the other brown, wearing large Marshall headphones, a red down jacket, standing on the road against the backdrop of a rainy city, futuristic style --stylize 700
 ```
 
-[Source](https://prompthero.com/prompt/0d3dd87d153-flux-flux-11-pro-ultra-a-rapid-aerial-tracking-shot-from-the-drones-perspective-captures-a-surreal-dream-sequence-of-an-ancient-chinese-beauty-dressed)
+[Source](https://prompthero.com/prompt/0b6df7f515f-midjourney-niji-v6-dachshund-dog-red-one-eye-blue-the-other-brown-wearing-large-marshall-headphones-a-red-down-jacket-standing-on-the)
 
 ---
 
-[1](creative-art.md) · **2** · [3](creative-art-3.md) · [4](creative-art-4.md) · [5](creative-art-5.md) · [6](creative-art-6.md) · [7](creative-art-7.md) · [8](creative-art-8.md)
+[1](creative-art.md) · **2** · [3](creative-art-3.md) · [4](creative-art-4.md) · [5](creative-art-5.md) · [6](creative-art-6.md) · [7](creative-art-7.md) · [8](creative-art-8.md) · [9](creative-art-9.md) · [10](creative-art-10.md) · [11](creative-art-11.md) · [12](creative-art-12.md) · [13](creative-art-13.md) · [14](creative-art-14.md)
 
 [← Home](../README.md)

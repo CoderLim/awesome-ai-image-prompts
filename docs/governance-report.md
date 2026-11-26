@@ -2,64 +2,64 @@
 
 Generated from source JSON. Classification is heuristic and provisional; completeness is not aesthetic quality. No image network, visual matching, reproduction or rights clearance is claimed.
 
-- Source cases: 1450
-- Unique cases: 1388
-- Gallery cases: 1385
+- Source cases: 2103
+- Unique cases: 2041
+- Gallery cases: 2038
 - Duplicate records excluded: 62 (60 previously visible)
 - Unique cases withheld for missing content: 3
-- Rights pending: 1438
+- Rights pending: 2091
 
 ## Gallery groups
 
-- reference: 209
-- generation: 1176
+- reference: 221
+- generation: 1817
 
 ## Internal operation classification
 
 | Category | Count |
 |---|---:|
 | editing/background-change | 2 |
-| editing/composition | 5 |
+| editing/composition | 6 |
 | editing/object-removal | 3 |
 | editing/object-replacement | 1 |
-| editing/outfit-change | 2 |
-| editing/portrait-editing | 5 |
-| editing/restyle | 16 |
-| generation/architecture | 20 |
-| generation/avatars | 8 |
-| generation/characters | 146 |
-| generation/comics-storyboards | 28 |
-| generation/creative-art | 150 |
-| generation/illustrations | 154 |
-| generation/infographics | 57 |
-| generation/logos | 24 |
+| editing/outfit-change | 3 |
+| editing/portrait-editing | 6 |
+| editing/restyle | 19 |
+| generation/architecture | 52 |
+| generation/avatars | 11 |
+| generation/characters | 194 |
+| generation/comics-storyboards | 30 |
+| generation/creative-art | 275 |
+| generation/illustrations | 231 |
+| generation/infographics | 58 |
+| generation/logos | 30 |
 | generation/other | 52 |
-| generation/portraits | 457 |
-| generation/posters | 149 |
-| generation/products | 32 |
-| generation/travel | 38 |
+| generation/portraits | 756 |
+| generation/posters | 159 |
+| generation/products | 54 |
+| generation/travel | 60 |
 | generation/ui-mockups | 36 |
 
 ## Input modes
 
-- reference-to-image: 175
-- text-to-image: 961
+- reference-to-image: 181
+- text-to-image: 1602
 - unknown: 215
-- image-editing: 34
+- image-editing: 40
 
 ## Review flags
 
-- classification-review: 143
+- classification-review: 241
 - duplicate-candidate:exact-prompt: 30
 - duplicate-candidate:same-post: 58
-- duplicate-candidate:same-prompt-prefix: 43
+- duplicate-candidate:same-prompt-prefix: 51
 - duplicate-excluded: 62
 - generic-title-review: 98
 - input-mode-review: 237
 - missing-image-url: 3
 - missing-original-post-url: 180
 - missing-original-prompt: 2
-- rights-review: 1438
+- rights-review: 2091
 
 ## Withheld cases
 

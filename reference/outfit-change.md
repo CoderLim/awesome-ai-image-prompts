@@ -22,6 +22,22 @@ By [@AiwithLariab](https://x.com/AiwithLariab/status/2090297565732585554)
 
 ---
 
+<a id="prompthero-20b18ea4056"></a>
+
+## read first\*\*\* Note: I uploaded a photo with prompt\.\.\.
+
+<a href="https://cdn.prompthero.com/operwfqr1knwifh3jtebnfzcm9-hero-10-read-first-note-i-uploaded-a-photo-with-prompt-of-what-shes-wearing-my-client-just-designed-this-new-clothing.jpeg"><img src="https://cdn.prompthero.com/operwfqr1knwifh3jtebnfzcm9-hero-10-read-first-note-i-uploaded-a-photo-with-prompt-of-what-shes-wearing-my-client-just-designed-this-new-clothing.jpeg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+read first*** Note: I uploaded a photo with prompt of what she's wearing. My Client just designed this new clothing piece and wants me to provide example images of models wearing it so they can see how it looks. The model should be Japanese, beautiful, natural, youthful, curvy, gymnast, POV professional photographer, low angle shot.
+```
+
+[Source](https://prompthero.com/prompt/20b18ea4056-hero-10-read-first-note-i-uploaded-a-photo-with-prompt-of-what-shes-wearing-my-client-just-designed-this-new-clothing)
+
+---
+
 <a id="prompthero-665f837d4e5"></a>
 
 ## Skin must be clean and flawless: no tattoos, no sc\.\.\.

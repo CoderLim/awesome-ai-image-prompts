@@ -118,6 +118,22 @@ By [@robiness](https://prompthero.com/prompt/2eefe1b7a90-dalle-3-commerce-unleas
 
 ---
 
+<a id="prompthero-8363324fdb6"></a>
+
+## This monkey in a sophisticated setting wearing a s\.\.\.
+
+<a href="https://cdn.prompthero.com/v1_45bc4432417465ee9700a4feac-hero-10-this-monkey-in-a-sophisticated-setting-wearing-a-suit-gold-watch-sunset.jpg"><img src="https://cdn.prompthero.com/v1_45bc4432417465ee9700a4feac-hero-10-this-monkey-in-a-sophisticated-setting-wearing-a-suit-gold-watch-sunset.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+This monkey in a sophisticated setting wearing a suit, gold watch. Sunset
+```
+
+[Source](https://prompthero.com/prompt/8363324fdb6-hero-10-this-monkey-in-a-sophisticated-setting-wearing-a-suit-gold-watch-sunset)
+
+---
+
 <a id="prompthero-d601aa396ac"></a>
 
 ## photography, front-profile walk-through, depth of \.\.\.

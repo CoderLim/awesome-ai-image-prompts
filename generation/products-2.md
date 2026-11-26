@@ -1,10 +1,138 @@
 # products
 
-[← Home](../README.md) · Page 2 / 2
+[← Home](../README.md) · Page 2 / 3
 
-[1](products.md) · **2**
+[1](products.md) · **2** · [3](products-3.md)
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
+
+<a id="prompthero-7d8a0035557"></a>
+
+## Detailed shot, Aesop&\#39;s Parsley Seed Anti-Oxidant S\.\.\.
+
+<a href="https://cdn.prompthero.com/fp703hcf89q9i3gpvybb9m6xsedy-midjourney-6-more-info-wwwgraytheorystudiocom-httpswwwinstagramcomspacemakergrayve-httpspromptbasecomprofilespacemakergrayve-detailed-shot-aesops-parsley-seed-anti-oxidant-serum-nikon-z7-ii-emphasizing-the-serums-elegant-packaging-and-organic-appeal-in.png"><img src="https://cdn.prompthero.com/fp703hcf89q9i3gpvybb9m6xsedy-midjourney-6-more-info-wwwgraytheorystudiocom-httpswwwinstagramcomspacemakergrayve-httpspromptbasecomprofilespacemakergrayve-detailed-shot-aesops-parsley-seed-anti-oxidant-serum-nikon-z7-ii-emphasizing-the-serums-elegant-packaging-and-organic-appeal-in.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+Detailed shot, Aesop's Parsley Seed Anti-Oxidant Serum, Nikon Z7 II, emphasizing the serum's elegant packaging and organic appeal, in a warm, soft light setting
+```
+
+By [@Grayve](https://prompthero.com/prompt/7d8a0035557-midjourney-6-more-info-wwwgraytheorystudiocom-httpswwwinstagramcomspacemakergrayve-httpspromptbasecomprofilespacemakergrayve-detailed-shot-aesops-parsley-seed-anti-oxidant-serum-nikon-z7-ii-emphasizing-the-serums-elegant-packaging-and-organic-appeal-in)
+
+---
+
+<a id="prompthero-7e5e0a92eae"></a>
+
+## Close-up double cheeseburger, golden-brown sesame \.\.\.
+
+<a href="https://cdn.prompthero.com/vbkyax3506rh6ovs332scalap15k-midjourney-61-close-up-double-cheeseburger-golden-brown-sesame-seed-bun-melted-cheddar-cheese-juicy-double-patties-fresh-lettuce-ripe-tomato-slices.png"><img src="https://cdn.prompthero.com/vbkyax3506rh6ovs332scalap15k-midjourney-61-close-up-double-cheeseburger-golden-brown-sesame-seed-bun-melted-cheddar-cheese-juicy-double-patties-fresh-lettuce-ripe-tomato-slices.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+Close-up double cheeseburger, golden-brown sesame seed bun, melted cheddar cheese, juicy double patties, fresh lettuce, ripe tomato slices, detailed texture, appetizing
+```
+
+[Source](https://prompthero.com/prompt/7e5e0a92eae-midjourney-61-close-up-double-cheeseburger-golden-brown-sesame-seed-bun-melted-cheddar-cheese-juicy-double-patties-fresh-lettuce-ripe-tomato-slices)
+
+---
+
+<a id="prompthero-8c4cafda9b2"></a>
+
+## A digitally enhanced image of a collection of gems\.\.\.
+
+<a href="https://cdn.prompthero.com/8x5mvvt60s0ykdh15r1s5fdtnj2u-chatgpt-image-gpt-4o-a-digitally-enhanced-image-of-a-collection-of-gemstones-creating-a-mesmerizing-and-luxurious-scene-the-gemstones-are-glowing-with.png"><img src="https://cdn.prompthero.com/8x5mvvt60s0ykdh15r1s5fdtnj2u-chatgpt-image-gpt-4o-a-digitally-enhanced-image-of-a-collection-of-gemstones-creating-a-mesmerizing-and-luxurious-scene-the-gemstones-are-glowing-with.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+A digitally enhanced image of a collection of gemstones, creating a mesmerizing and luxurious scene. The gemstones are glowing with an inner light, casting vivid reflections and refractions on a sleek black surface that looks like polished obsidian. Each gemstone exudes a magical aura, with ethereal wisps of light swirling around them. The ambiance is elevated with sparkling micro-crystals suspended in the air, giving the impression of a mystical treasure trove. The overall atmosphere is otherworldly, with a rich color palette that enhances the deep hues of the gemstones and contrasts with the dark background. robiness. masterprompter.
+```
+
+By [@robiness](https://prompthero.com/prompt/8c4cafda9b2-chatgpt-image-gpt-4o-a-digitally-enhanced-image-of-a-collection-of-gemstones-creating-a-mesmerizing-and-luxurious-scene-the-gemstones-are-glowing-with)
+
+---
+
+<a id="prompthero-8c6be699cce"></a>
+
+## Graytheory model
+
+<a href="https://cdn.prompthero.com/jw8o6w21b6z7yfpyklfh4p8umjob-midjourney-6-graytheory-model.png"><img src="https://cdn.prompthero.com/jw8o6w21b6z7yfpyklfh4p8umjob-midjourney-6-graytheory-model.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+Focus on a minimal Gloves, textured matte black surface, in a subdued dark grey hue, yellow point, macro lens, f/5.6, to zoom in on the leather pattern and craftsmanship, the lighting is adjusted to cast a defining shadow, grey background, studio lighting
+```
+
+By [@Grayve](https://prompthero.com/prompt/8c6be699cce-midjourney-6-graytheory-model)
+
+---
+
+<a id="prompthero-9c77818696f"></a>
+
+## food photography,vegetable salad in the glass bowl\.\.\.
+
+<a href="https://cdn.prompthero.com/wgkx1u8xp7a7to0h9zn5ri5kx4jq-midjourney-51-food-photographyvegetable-salad-in-the-glass-bowlwith-olive-oil-bread-in-a-luxurious-michelin-kitchen-style-studio-lighting-depth-of.png"><img src="https://cdn.prompthero.com/wgkx1u8xp7a7to0h9zn5ri5kx4jq-midjourney-51-food-photographyvegetable-salad-in-the-glass-bowlwith-olive-oil-bread-in-a-luxurious-michelin-kitchen-style-studio-lighting-depth-of.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+food photography,vegetable salad in the glass bowl,with olive oil ,bread ,in a luxurious Michelin kitchen style, studio lighting, depth of field, ultra detailed,uplight,natural features,close up --q 1
+```
+
+[Source](https://prompthero.com/prompt/9c77818696f-midjourney-51-food-photographyvegetable-salad-in-the-glass-bowlwith-olive-oil-bread-in-a-luxurious-michelin-kitchen-style-studio-lighting-depth-of)
+
+---
+
+<a id="prompthero-9d8ba1a26cb"></a>
+
+## Ultra-realistic 3D miniature diorama of a \*\*My Bur\.\.\.
+
+<a href="https://cdn.prompthero.com/qfeeakxjzu9mevsil48lv1dszr-hero-10-ultra-realistic-3d-miniature-diorama-of-a-my-burger-restaurant-built-inside-a-giant-gourmet-hamburger-shown-in-a-clean.jpeg"><img src="https://cdn.prompthero.com/qfeeakxjzu9mevsil48lv1dszr-hero-10-ultra-realistic-3d-miniature-diorama-of-a-my-burger-restaurant-built-inside-a-giant-gourmet-hamburger-shown-in-a-clean.jpeg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+Ultra-realistic 3D miniature diorama of a **My Burger** restaurant built inside a giant gourmet hamburger, shown in a clean cross-section / partially cut-open view revealing a highly detailed miniature interior world. The giant hamburger acts as both the iconic container and the restaurant itself. The sesame bun forms the roof, layers of lettuce, cheese, beef patties, tomatoes, onions, and sauces are seamlessly integrated into the architecture, floors, walls, stairs, and landscape, creating a visually stunning edible environment. Inside the structure, a fully detailed miniature **My Burger** restaurant is alive with realistic activity: chefs grilling burgers, staff preparing fresh meals, cashiers serving customers, people ordering at the counter, families dining, delivery riders collecting orders, and customers enjoying burgers in a warm, lively atmosphere. Display elegant **My Burger** branding throughout the restaurant, including illuminated logos, menu boards, food packaging, cups, trays, uniforms, wall signs, and subtle branded design elements that enhance realism without overwhelming the scene. Add cinematic storytelling details: floating sesame seeds, splashes of ketchup and cheese sauce frozen in mid-air, rising steam from freshly grilled burgers, crispy fries falling naturally, tiny crumbs, seasoning particles, and realistic food preparation moments captured in time. Include volumetric lighting effects with soft steam, light rays passing through the interior, subtle atmospheric haze, and floating particles to create depth and premium cinematic realism. Every surface must feature hyper-realistic micro-details: toasted bun texture, juicy grilled meat, melted cheese stretching naturally, glossy sauces, fresh vegetables with realistic moisture, fingerprints on trays, condensation on drink cups, stainless-steel reflections, tiny scratches, dust particles, oil sheen, and authentic material imperfections. Lighting follows a luxury commercial advertising style with warm golden lighting inside the restaurant contrasted by cooler ambient exterior tones, soft rim lighting outlining every miniature element, realistic global illumination, cinematic shadows, and physically accurate reflections. Composition: slightly angled hero shot with the hamburger cross-section clearly visible, centered composition, premium product-advertising aesthetic, clean cinematic background with soft macro bokeh. Captured using a professional macro lens with shallow depth of field, creamy bokeh, focus stacking, ultra-sharp textures, photorealistic rendering, Octane Render, Unreal Engine 5 quality, ray tracing, HDR, 8K ultra-high resolution, filmic color grading, luxury commercial food photography, masterpiece, hyper-detailed, extremely realistic.
+```
+
+[Source](https://prompthero.com/prompt/9d8ba1a26cb-hero-10-ultra-realistic-3d-miniature-diorama-of-a-my-burger-restaurant-built-inside-a-giant-gourmet-hamburger-shown-in-a-clean)
+
+---
+
+<a id="prompthero-11fce90ea56"></a>
+
+## A clean top-down flat-lay of exactly 9 hyper-reali\.\.\.
+
+<a href="https://cdn.prompthero.com/qrphzg8ehb4vxoirid4gcx95gl-hero-10-a-clean-top-down-flat-lay-of-exactly-9-hyper-realistic-3d-resin-fridge-magnets-on-a-pure-white-background.jpeg"><img src="https://cdn.prompthero.com/qrphzg8ehb4vxoirid4gcx95gl-hero-10-a-clean-top-down-flat-lay-of-exactly-9-hyper-realistic-3d-resin-fridge-magnets-on-a-pure-white-background.jpeg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+A clean top-down flat-lay of exactly 9 hyper-realistic 3D resin fridge magnets on a pure white background, themed around Starbucks One wide rectangular text magnet at the top center reads "Starbucks " in bold glossy 3D letters using the brand’s signature colors. Below it, 9 small resin magnets are arranged in a precise 3x3 grid with even spacing: official logo badge, hero product, secondary product, third iconic product or packaging, chibi mascot/character, fifth iconic branded item, sixth iconic branded item, seventh iconic branded item, and the brand’s storefront or headquarters building facade. All magnets are slightly raised with soft drop shadows, realistic resin texture, polished finish, bright warm studio lighting, photorealistic commercial product render, minimal white composition, sharp focus, 4:5.
+```
+
+[Source](https://prompthero.com/prompt/11fce90ea56-hero-10-a-clean-top-down-flat-lay-of-exactly-9-hyper-realistic-3d-resin-fridge-magnets-on-a-pure-white-background)
+
+---
+
+<a id="prompthero-47e60d34b73"></a>
+
+## a pair of surreal raw meat shoes made of splashy \(\.\.\.
+
+<a href="https://cdn.prompthero.com/abtdcila5uf1l9mo924efpzq6ncr-flux-dev-a-pair-of-surreal-raw-meat-shoes-made-of-splashy-raw-meat-structure-meat-raw-meat-with-veins-and-pulp.png"><img src="https://cdn.prompthero.com/abtdcila5uf1l9mo924efpzq6ncr-flux-dev-a-pair-of-surreal-raw-meat-shoes-made-of-splashy-raw-meat-structure-meat-raw-meat-with-veins-and-pulp.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+a pair of surreal raw meat shoes made of splashy (raw meat structure) (meat) (raw) (meat with veins and pulp), (lifelike textures),food product photography
+```
+
+[Source](https://prompthero.com/prompt/47e60d34b73-flux-dev-a-pair-of-surreal-raw-meat-shoes-made-of-splashy-raw-meat-structure-meat-raw-meat-with-veins-and-pulp)
+
+---
 
 <a id="prompthero-59fc99a3fa2"></a>
 
@@ -19,6 +147,70 @@ Ultra-realistic exploded view of a monster-shaped [Food], individual ingredients
 ```
 
 By [@hanielguadalupe](https://prompthero.com/prompt/59fc99a3fa2-chatgpt-image-gpt-image-26-flare-ultra-realistic-exploded-view-of-a-monster-shaped-food-individual-ingredients-floating-separately-in-their-natural-assembly-order-funny-monster)
+
+---
+
+<a id="prompthero-86abaa06537"></a>
+
+## Rainbow Rope sofa
+
+<a href="https://cdn.prompthero.com/93ebqnw0042z7jnjx93ul171pr6n-midjourney-61-rainbow-rope-sofa.png"><img src="https://cdn.prompthero.com/93ebqnw0042z7jnjx93ul171pr6n-midjourney-61-rainbow-rope-sofa.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+high resolution photography, conceptual single sofa, inspired by rainbow, curved shape form, colorful thick rope texture, Phase One XF IQ4 150MP, tethered shooting, postmodernism, solid white backdrop space, realism sunlight casting soft shadows, rim lighting setup, light wooden leg detail, studio quality finish --ar 9:16 --style raw --stylize 200 --v 6.1
+```
+
+By [@Grayve](https://prompthero.com/prompt/86abaa06537-midjourney-61-rainbow-rope-sofa)
+
+---
+
+<a id="prompthero-164a43066a2"></a>
+
+## productive photography, Dieter Rams&\#39; Braun SK4 rec\.\.\.
+
+<a href="https://cdn.prompthero.com/p7msb9ro1d4h3z8jmi7eau57t4uz-midjourney-7-productive-photography-dieter-rams-braun-sk4-record-player-stainless-steel-with-vivid-green-color-accent-photo-shoot-by-nikon-z9.png"><img src="https://cdn.prompthero.com/p7msb9ro1d4h3z8jmi7eau57t4uz-midjourney-7-productive-photography-dieter-rams-braun-sk4-record-player-stainless-steel-with-vivid-green-color-accent-photo-shoot-by-nikon-z9.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+productive photography, Dieter Rams' Braun SK4 record player, stainless steel with vivid green color accent, photo shoot by Nikon Z9, focusing on its iconic minimalist design and the contrast of the transparent, black color background, rich details, mid-century aesthetic --ar 9:16 --raw
+```
+
+By [@Grayve](https://prompthero.com/prompt/164a43066a2-midjourney-7-productive-photography-dieter-rams-braun-sk4-record-player-stainless-steel-with-vivid-green-color-accent-photo-shoot-by-nikon-z9)
+
+---
+
+<a id="prompthero-336e3c5bbfa"></a>
+
+## fullview hardcase capsule shape white backpack urb\.\.\.
+
+<a href="https://cdn.prompthero.com/s41p3qbw4vcu623h57pq6xbka9sv-flux-flux-11-pro-fullview-hardcase-capsule-shape-white-backpack-urban-stormtrooper-clean-product-design-render-on-white-background-octane-4k-render-intricate-and.jpg"><img src="https://cdn.prompthero.com/s41p3qbw4vcu623h57pq6xbka9sv-flux-flux-11-pro-fullview-hardcase-capsule-shape-white-backpack-urban-stormtrooper-clean-product-design-render-on-white-background-octane-4k-render-intricate-and.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+fullview hardcase capsule shape white backpack urban stormtrooper, clean product design render on white background octane 4K render intricate and detailed texture, design by dieter rams apple
+```
+
+[Source](https://prompthero.com/prompt/336e3c5bbfa-flux-flux-11-pro-fullview-hardcase-capsule-shape-white-backpack-urban-stormtrooper-clean-product-design-render-on-white-background-octane-4k-render-intricate-and)
+
+---
+
+<a id="prompthero-347ec9724bf"></a>
+
+## Close up photograph of a slice of layered cake wit\.\.\.
+
+<a href="https://cdn.prompthero.com/yho0puxld01o52wb7avwp6xe179b-flux-flux-11-pro-close-up-photograph-of-a-slice-of-layered-cake-with-a-cherry-blossom-theme-a-layer-of-fruit-filling-between.jpg"><img src="https://cdn.prompthero.com/yho0puxld01o52wb7avwp6xe179b-flux-flux-11-pro-close-up-photograph-of-a-slice-of-layered-cake-with-a-cherry-blossom-theme-a-layer-of-fruit-filling-between.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+Close up photograph of a slice of layered cake with a cherry blossom theme, a layer of fruit filling between cake layers, decorated with sun shaped designs, with intricate frosting and beautiful details
+```
+
+[Source](https://prompthero.com/prompt/347ec9724bf-flux-flux-11-pro-close-up-photograph-of-a-slice-of-layered-cake-with-a-cherry-blossom-theme-a-layer-of-fruit-filling-between)
 
 ---
 
@@ -38,6 +230,38 @@ By [@chorlo](https://prompthero.com/prompt/609e486c89b-sora-v1-a-minimalistic-mo
 
 ---
 
+<a id="prompthero-2611f1aeb6d"></a>
+
+## food photography,cheese cake,blueberries,cinnamon,\.\.\.
+
+<a href="https://cdn.prompthero.com/jeaks3zzc5ck07dm6xxjq7001mbb-midjourney-51-food-photographycheese-cakeblueberriescinnamonin-a-luxurious-michelin-kitchen-style-depth-of-field-ultra-detaileduplightnatural-features-q-1.png"><img src="https://cdn.prompthero.com/jeaks3zzc5ck07dm6xxjq7001mbb-midjourney-51-food-photographycheese-cakeblueberriescinnamonin-a-luxurious-michelin-kitchen-style-depth-of-field-ultra-detaileduplightnatural-features-q-1.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+food photography,cheese cake,blueberries,cinnamon,in a luxurious Michelin kitchen style, depth of field, ultra detailed,uplight,natural features --q 1
+```
+
+[Source](https://prompthero.com/prompt/2611f1aeb6d-midjourney-51-food-photographycheese-cakeblueberriescinnamonin-a-luxurious-michelin-kitchen-style-depth-of-field-ultra-detaileduplightnatural-features-q-1)
+
+---
+
+<a id="prompthero-3261f17c93d"></a>
+
+## A 32yo Wynona Ryder look-alike as the shepherd of \.\.\.
+
+<a href="https://cdn.prompthero.com/fukewo98y8keb65eygebkl2n4kgj-flux-flux-11-pro-a-32yo-wynona-ryder-look-alike-as-the-shepherd-of-mix-christian-and-bouddhist-future-religion-short-pixie-cut-black.jpg"><img src="https://cdn.prompthero.com/fukewo98y8keb65eygebkl2n4kgj-flux-flux-11-pro-a-32yo-wynona-ryder-look-alike-as-the-shepherd-of-mix-christian-and-bouddhist-future-religion-short-pixie-cut-black.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+A 32yo Wynona Ryder look-alike as the shepherd of mix christian and bouddhist future religion : short pixie cut, black hair, black robe, tiny white lotus pin on the lapel, bright orange clerical collar, matte black latex yoga pants, light make up, no jewelry, a double-strand of small wood beads at her left wrist walking toward the viewer in a Nubia sand desert with a deep blue sky
+```
+
+[Source](https://prompthero.com/prompt/3261f17c93d-flux-flux-11-pro-a-32yo-wynona-ryder-look-alike-as-the-shepherd-of-mix-christian-and-bouddhist-future-religion-short-pixie-cut-black)
+
+---
+
 <a id="prompthero-7300b29c8ec"></a>
 
 ## Porshe 911 :: Harsh, directional light from behind\.\.\.
@@ -54,86 +278,54 @@ Porshe 911 :: Harsh, directional light from behind :: Busy background with lots 
 
 ---
 
-<a id="prompthero-c6f6557e334"></a>
+<a id="prompthero-48770678cd9"></a>
 
-## Product photography, natural light\. A hand holding\.\.\.
+## A hyper-realistic, matte gray armored personnel ca\.\.\.
 
-<a href="https://cdn.prompthero.com/v1_9460d08953bfba8a0352ce985d-chatgpt-image-gpt-image-25-product-photography-natural-light-a-hand-holding-an-amber-coloured-face-serum-bottle-with-a-white-dropper-top-in-a.png"><img src="https://cdn.prompthero.com/v1_9460d08953bfba8a0352ce985d-chatgpt-image-gpt-image-25-product-photography-natural-light-a-hand-holding-an-amber-coloured-face-serum-bottle-with-a-white-dropper-top-in-a.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-Product photography, natural light. A hand holding an amber coloured face serum bottle with a white dropper top in a pool of water surrounded by pink peonies. The water is sparkling and reflecting sunlight with pastel colours . Shot on Leica M6 in the style of nature photography
-```
-
-By [@chorlo](https://prompthero.com/prompt/c6f6557e334-chatgpt-image-gpt-image-25-product-photography-natural-light-a-hand-holding-an-amber-coloured-face-serum-bottle-with-a-white-dropper-top-in-a)
-
----
-
-<a id="prompthero-d8f70c0668e"></a>
-
-## Front view, soft beige studio background, warm nat\.\.\.
-
-<a href="https://cdn.prompthero.com/qt5uj5fi0n0x5f7kgpgl6pezz7-nano-banana-2-front-view-soft-beige-studio-background-warm-natural-lighting-slight-ground-shadow-editorial-catalogue-style.png"><img src="https://cdn.prompthero.com/qt5uj5fi0n0x5f7kgpgl6pezz7-nano-banana-2-front-view-soft-beige-studio-background-warm-natural-lighting-slight-ground-shadow-editorial-catalogue-style.png" width="480" alt="After"></a>
+<a href="https://cdn.prompthero.com/mluilf6w8am073cucnk2gi6xl36a-sora-v1-a-hyper-realistic-matte-gray-armored-personnel-carrier-with-a-boxy-angular-design-the-vehicle-has-a-robust-front-bumper.png"><img src="https://cdn.prompthero.com/mluilf6w8am073cucnk2gi6xl36a-sora-v1-a-hyper-realistic-matte-gray-armored-personnel-carrier-with-a-boxy-angular-design-the-vehicle-has-a-robust-front-bumper.png" width="480" alt="After"></a>
 
 **Prompt**
 
 ```text
-Front view, soft beige studio background, warm natural lighting, slight ground shadow, editorial catalogue style
+A hyper-realistic, matte gray armored personnel carrier with a boxy, angular design. The vehicle has a robust front bumper with integrated circular headlights and a wide horizontal-slat grille. Its windshield and side windows are narrow, tinted black, and appear bullet-resistant. The body is elevated with large, rugged off-road tires featuring deep treads, designed for extreme terrain. The side panels are smooth with multiple small, square hatches or viewports along the length of the vehicle. The vehicle has a functional, military-industrial aesthetic with no visible markings or insignia, set against a minimal, bright background to emphasize the machine’s form and details. The lighting highlights the texture of the armored plating, shadows cast under the vehicle enhance its height and clearance. Style tags: hyper-realistic, military vehicle, armored transport, off-road, industrial design, high detail, clean background
 ```
 
-By [@chorlo](https://prompthero.com/prompt/d8f70c0668e-nano-banana-2-front-view-soft-beige-studio-background-warm-natural-lighting-slight-ground-shadow-editorial-catalogue-style)
+[Source](https://prompthero.com/prompt/48770678cd9-sora-v1-a-hyper-realistic-matte-gray-armored-personnel-carrier-with-a-boxy-angular-design-the-vehicle-has-a-robust-front-bumper)
 
 ---
 
-<a id="prompthero-e718c405936"></a>
+<a id="prompthero-aa11f7dc49f"></a>
 
-## Flying food photography with \[Two Burgers\] as the \.\.\.
+## character wearing headphones, lost in music, dark \.\.\.
 
-<a href="https://cdn.prompthero.com/p0v2nbcarudoaoqkuwohtohkeprp-midjourney-51-flying-food-photography-with-two-burgers-as-the-main-subject-splashes-of-toppings-and-seasonings-rocket-lettuce-cheddar-flavored-cheese.png"><img src="https://cdn.prompthero.com/p0v2nbcarudoaoqkuwohtohkeprp-midjourney-51-flying-food-photography-with-two-burgers-as-the-main-subject-splashes-of-toppings-and-seasonings-rocket-lettuce-cheddar-flavored-cheese.png" width="480" alt="After"></a>
+<a href="https://cdn.prompthero.com/j775o5s8jmj69mhfnxoizyjs0m6b-midjourney-7-character-wearing-headphones-lost-in-music-dark-room-lit-by-neon-signs-any-enthusiastic-listening-to-music-urban-night-club.png"><img src="https://cdn.prompthero.com/j775o5s8jmj69mhfnxoizyjs0m6b-midjourney-7-character-wearing-headphones-lost-in-music-dark-room-lit-by-neon-signs-any-enthusiastic-listening-to-music-urban-night-club.png" width="480" alt="After"></a>
 
 **Prompt**
 
 ```text
-Flying food photography with [Two Burgers] as the main subject, Splashes of Toppings and Seasonings, [Rocket Lettuce], [Cheddar Flavored Cheese], [Onion], [Pickles], [Special Sauce], [Sesame Bun], [ sea salt crystals] ::3 Capturing the dynamic splashes of food using high-speed photography , photorealistic, surrealism style, [white background], trending background [clean], Minimalist ::2 [Cuware], [Table], [ Steam], [Smoke], [Vegetable Leaves], [Tomato] ::-0.5 Ad Posters, Pro-Grade Color Grading, Studio Lighting, Rim Lights, [Layered Comps], EOS-1D X Mark III, 500px, Behance, concept art
+character wearing headphones, lost in music, dark room lit by neon signs, any, Enthusiastic, Listening to music, Urban night club
 ```
 
-[Source](https://prompthero.com/prompt/e718c405936-midjourney-51-flying-food-photography-with-two-burgers-as-the-main-subject-splashes-of-toppings-and-seasonings-rocket-lettuce-cheddar-flavored-cheese)
+[Source](https://prompthero.com/prompt/aa11f7dc49f-midjourney-7-character-wearing-headphones-lost-in-music-dark-room-lit-by-neon-signs-any-enthusiastic-listening-to-music-urban-night-club)
 
 ---
 
-<a id="vcl-isometric"></a>
+<a id="prompthero-b0ea8c28437"></a>
 
-## Isometric — espresso machine
+## 3D printed external hard drive rack, cloud shapess\.\.\.
 
-<a href="https://raw.githubusercontent.com/kondasviktor/vcl-ai-image-prompts/695e086fc3043c0ca39f1ad2b33fdcf3b94a35b4/examples/isometric/demo.png"><img src="https://raw.githubusercontent.com/kondasviktor/vcl-ai-image-prompts/695e086fc3043c0ca39f1ad2b33fdcf3b94a35b4/examples/isometric/demo.png" width="480" alt="After"></a>
+<a href="https://cdn.prompthero.com/04n8oxg70pg1xwrhibzk5chrs765-flux-flux-11-pro-3d-printed-external-hard-drive-rack-cloud-shapess-on-he-sides-high-quality-intricate-details-smooth-curved-surfaces-futuristic-avant.jpg"><img src="https://cdn.prompthero.com/04n8oxg70pg1xwrhibzk5chrs765-flux-flux-11-pro-3d-printed-external-hard-drive-rack-cloud-shapess-on-he-sides-high-quality-intricate-details-smooth-curved-surfaces-futuristic-avant.jpg" width="480" alt="After"></a>
 
 **Prompt**
 
 ```text
-Create a clean isometric illustration of a prosumer espresso machine. True isometric (no perspective vanishing). Show portafilter, steam wand, drip tray, buttons. Soft studio lighting, simple pedestal shadow, 16:9. Product-design viz, not a cartoon city.
+3D printed external hard drive rack, cloud shapess on he sides, high quality intricate details, smooth curved surfaces, futuristic avant-garde design, shiny durable plastic material, white color, dramatic lighting, tech product photography
 ```
 
-By [Vibe Coder&\#39;s Life \(kondasviktor\)](https://github.com/kondasviktor/vcl-ai-image-prompts/blob/695e086fc3043c0ca39f1ad2b33fdcf3b94a35b4/recipes/isometric.md) · [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) · Prompt line breaks flattened
+[Source](https://prompthero.com/prompt/b0ea8c28437-flux-flux-11-pro-3d-printed-external-hard-drive-rack-cloud-shapess-on-he-sides-high-quality-intricate-details-smooth-curved-surfaces-futuristic-avant)
 
 ---
 
-<a id="vcl-productshot"></a>
-
-## Productshot — wireless earbuds
-
-<a href="https://raw.githubusercontent.com/kondasviktor/vcl-ai-image-prompts/695e086fc3043c0ca39f1ad2b33fdcf3b94a35b4/examples/productshot/demo.png"><img src="https://raw.githubusercontent.com/kondasviktor/vcl-ai-image-prompts/695e086fc3043c0ca39f1ad2b33fdcf3b94a35b4/examples/productshot/demo.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-Create a commercial product photograph of a pair of matte-black wireless earbuds in an open charging case. Softbox lighting, subtle reflection on a seamless light-gray cyclorama, 16:9. Sharp, catalog-ready, no people, no logo watermarks, no text overlays.
-```
-
-By [Vibe Coder&\#39;s Life \(kondasviktor\)](https://github.com/kondasviktor/vcl-ai-image-prompts/blob/695e086fc3043c0ca39f1ad2b33fdcf3b94a35b4/recipes/productshot.md) · [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) · Prompt line breaks flattened
-
----
-
-[1](products.md) · **2**
+[1](products.md) · **2** · [3](products-3.md)
 
 [← Home](../README.md)

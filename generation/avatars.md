@@ -102,6 +102,38 @@ By [@MrLarus](https://x.com/MrLarus/status/2059248197910827364)
 
 ---
 
+<a id="prompthero-8d9551bd886"></a>
+
+## avatar profile of the game channel called GameTouc\.\.\.
+
+<a href="https://cdn.prompthero.com/ya907q7fen45i5sw2e8kkejweo45-dreamshaper-7-avatar-profile-of-the-game-channel-called-gametouch-in-a-minimalist-style-with-a-simple-background-with-the-abbreviation-gt.png"><img src="https://cdn.prompthero.com/ya907q7fen45i5sw2e8kkejweo45-dreamshaper-7-avatar-profile-of-the-game-channel-called-gametouch-in-a-minimalist-style-with-a-simple-background-with-the-abbreviation-gt.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+avatar profile of the game channel called GameTouch, in a minimalist style with a simple background, with the abbreviation GT on the profile avatar,
+```
+
+[Source](https://prompthero.com/prompt/8d9551bd886-dreamshaper-7-avatar-profile-of-the-game-channel-called-gametouch-in-a-minimalist-style-with-a-simple-background-with-the-abbreviation-gt)
+
+---
+
+<a id="prompthero-3005193e3d4"></a>
+
+## centered, masterpiece, a painting of a man in a bo\.\.\.
+
+<a href="https://cdn.prompthero.com/32gmc2j8en85mgc0d19ieyyc1k1k-stable-diffusion-21-768-centered-masterpiece-a-painting-of-a-man-in-a-boxing-ring-trending-on-artstation-jazza-and-rossdraws-anime-style-hyper.png"><img src="https://cdn.prompthero.com/32gmc2j8en85mgc0d19ieyyc1k1k-stable-diffusion-21-768-centered-masterpiece-a-painting-of-a-man-in-a-boxing-ring-trending-on-artstation-jazza-and-rossdraws-anime-style-hyper.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+centered, masterpiece, a painting of a man in a boxing ring, trending on Artstation, jazza and rossdraws, anime style hyper detailed, card game illustration, powerful chin, punching, kawacy, profile picture, sachin teng, will smith anime style
+```
+
+[Source](https://prompthero.com/prompt/3005193e3d4-stable-diffusion-21-768-centered-masterpiece-a-painting-of-a-man-in-a-boxing-ring-trending-on-artstation-jazza-and-rossdraws-anime-style-hyper)
+
+---
+
 <a id="prompthero-ee3bde62395"></a>
 
 ## Prompt Credit @NorthmoorAI\. &amp; Tweaked v3
@@ -115,6 +147,22 @@ avatar aang, the last airbender, in the style of furaffinity, orange robes, red,
 ```
 
 By [@Atheist](https://prompthero.com/prompt/ee3bde62395-stable-diffusion-xl-base-09-prompt-credit-northmoorai-tweaked-v3)
+
+---
+
+<a id="prompthero-feb1336da28"></a>
+
+## a close up of a venom with its mouth open, film ke\.\.\.
+
+<a href="https://cdn.prompthero.com/8vnktc89ppeukfekqhxr402rbdty-midjourney-6-a-close-up-of-a-venom-with-its-mouth-open-film-key-art-by-charles-fremont-conner-full-image-clear.jpg"><img src="https://cdn.prompthero.com/8vnktc89ppeukfekqhxr402rbdty-midjourney-6-a-close-up-of-a-venom-with-its-mouth-open-film-key-art-by-charles-fremont-conner-full-image-clear.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+a close up of a venom with its mouth open, film key art, by Charles Fremont Conner, full image, clear dark background, profile picture 1024px, artgeem, the artist has used bright, blue wall, detailed full body portrait, bite, sewer, --v 6 --ar 9:16
+```
+
+[Source](https://prompthero.com/prompt/feb1336da28-midjourney-6-a-close-up-of-a-venom-with-its-mouth-open-film-key-art-by-charles-fremont-conner-full-image-clear)
 
 ---
 
