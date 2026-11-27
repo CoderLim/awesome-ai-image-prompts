@@ -6,6 +6,38 @@
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
+<a id="prompthero-670f2ea860f"></a>
+
+## Kitchen for small Minimalist apartment
+
+<a href="https://cdn.prompthero.com/5cllud1t7v028m33c8xaes43gkqs-stable-diffusion-15-kitchen-for-small-minimalist-apartment.png"><img src="https://cdn.prompthero.com/5cllud1t7v028m33c8xaes43gkqs-stable-diffusion-15-kitchen-for-small-minimalist-apartment.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+a small kitchen with a black and white kitchen set, white marble floor, gray plaster walls, small table and chairs (in the middle), with green plants in flower pots, in the style of minimalism, hi-tech, interior design
+```
+
+[Source](https://prompthero.com/prompt/670f2ea860f-stable-diffusion-15-kitchen-for-small-minimalist-apartment)
+
+---
+
+<a id="prompthero-696fc7e543a"></a>
+
+## Scene Capsule Night-drenched high-rise vanishes in\.\.\.
+
+<a href="https://cdn.prompthero.com/kgofmr9jf6uvvyvbr1cuv9lelikv-flux-flux-11-pro-scene-capsule-night-drenched-high-rise-vanishes-in-burgundy-fog-a-single-emerald-green-window-up-near-the-cantilevered-penthouse.jpg"><img src="https://cdn.prompthero.com/kgofmr9jf6uvvyvbr1cuv9lelikv-flux-flux-11-pro-scene-capsule-night-drenched-high-rise-vanishes-in-burgundy-fog-a-single-emerald-green-window-up-near-the-cantilevered-penthouse.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+Scene Capsule Night-drenched high-rise vanishes in burgundy fog. A single emerald-green window up near the cantilevered penthouse beams volumetric green light from its insights like an light house, hinting at life long after abandonment. Camera Block Sony A1 | 135 mm f/1.8 GM | ISO 3200 1⁄80 s handheld to keep slight micro-blur Framed low to mid-tower for looming scale; focus locked on green pane. Lighting Block Ambient: deep red sodium haze from street lights below. Key: interior CRT glow (~540 nm) spills through blinds, painting vertical bars on mist. No other sources. Motion & Capture Feel Slow slider creep-in; 24 fps; subtle vertical gate weave to mimic old print scan. Post & Colour Dual tone—Ox-blood reds & toxic-green accents. Blacks crushed to 0 IRE; halation bloom around window; fine 35 mm grain. Vibe Tagline “Uplink confirmed—tower heartbeat after twenty silent years.”
+```
+
+By [@chorlo](https://prompthero.com/prompt/696fc7e543a-flux-flux-11-pro-scene-capsule-night-drenched-high-rise-vanishes-in-burgundy-fog-a-single-emerald-green-window-up-near-the-cantilevered-penthouse)
+
+---
+
 <a id="prompthero-715acae1929"></a>
 
 ## A squared white eraser in an isometric environment\.\.\.
@@ -291,38 +323,6 @@ create a photorealistic image showcasing the timeless elegance of the wegner wis
 ```
 
 By [@Grayve](https://prompthero.com/prompt/dc660565919-midjourney-6-create-a-photorealistic-image-showcasing-the-timeless-elegance-of-the-wegner-wishbone-chair-use-a-leica-q2-with-a-fixed)
-
----
-
-<a id="prompthero-de45743342c"></a>
-
-## A detailed crosssection of the ancient Chinese tow\.\.\.
-
-<a href="https://cdn.prompthero.com/hq2dfu0aa4txptnc034a57tekyt2-midjourney-6-a-detailed-crosssection-of-the-ancient-chinese-tower-showcasing-its-construction-techniques-and-design-elements-in-color-pencil-style-with.png"><img src="https://cdn.prompthero.com/hq2dfu0aa4txptnc034a57tekyt2-midjourney-6-a-detailed-crosssection-of-the-ancient-chinese-tower-showcasing-its-construction-techniques-and-design-elements-in-color-pencil-style-with.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-A detailed crosssection of the ancient Chinese tower, showcasing its construction techniques and design elements in color pencil style with realistic shadows, include labels for each level to highlight key features such as rooms, bridges, or architecture details, text panel at bottom shows information about historical significance, frame size, dimensions, height, weight, materials used, form structure type, construction technology, user needs and other related drip icons. white background --ar 67:128 --stylize 750
-```
-
-By [@NorthmoorAI](https://prompthero.com/prompt/de45743342c-midjourney-6-a-detailed-crosssection-of-the-ancient-chinese-tower-showcasing-its-construction-techniques-and-design-elements-in-color-pencil-style-with)
-
----
-
-<a id="prompthero-e8415bd8a23"></a>
-
-## High resolution photography interior design, dream\.\.\.
-
-<a href="https://cdn.prompthero.com/in1700dxxqmfj47g0jyol3nfhgkd-realistic-vision-v20-v20-high-resolution-photography-interior-design-dreamy-sunken-living-room-conversation-pit-wooden-floor-small-windows-opening-onto-the-garden-bauhaus.png"><img src="https://cdn.prompthero.com/in1700dxxqmfj47g0jyol3nfhgkd-realistic-vision-v20-v20-high-resolution-photography-interior-design-dreamy-sunken-living-room-conversation-pit-wooden-floor-small-windows-opening-onto-the-garden-bauhaus.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-High resolution photography interior design, dreamy sunken living room conversation pit, wooden floor, small windows opening onto the garden, bauhaus furniture and decoration, high ceiling, beige blue salmon pastel palette, interior design magazine, cozy atmosphere; 8k, intricate detail, photorealistic, realistic light, wide angle, kinkfolk photography, A+D architecture
-```
-
-By [@robiness](https://prompthero.com/prompt/e8415bd8a23-realistic-vision-v20-v20-high-resolution-photography-interior-design-dreamy-sunken-living-room-conversation-pit-wooden-floor-small-windows-opening-onto-the-garden-bauhaus)
 
 ---
 

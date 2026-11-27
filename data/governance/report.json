@@ -1,46 +1,46 @@
 {
   "total": 2132,
-  "visible": 1907,
-  "hidden": 225,
-  "approved": 1264,
-  "pending": 643,
-  "rejected": 225,
-  "published": 1264,
-  "canonical": 1907,
+  "visible": 1901,
+  "hidden": 231,
+  "approved": 1900,
+  "pending": 1,
+  "rejected": 231,
+  "published": 1900,
+  "canonical": 1901,
   "duplicateExcluded": 62,
-  "duplicateExcludedFromGallery": 51,
+  "duplicateExcludedFromGallery": 45,
   "uniqueCases": 2070,
   "galleryGroups": {
-    "reference": 79,
-    "generation": 1185
+    "reference": 220,
+    "generation": 1680
   },
   "types": {
-    "generation": 1248,
-    "editing": 16
+    "generation": 1862,
+    "editing": 38
   },
   "inputModes": {
-    "reference-to-image": 66,
-    "text-to-image": 1157,
-    "unknown": 28,
-    "image-editing": 13
+    "reference-to-image": 185,
+    "text-to-image": 1480,
+    "unknown": 200,
+    "image-editing": 35
   },
   "categories": {
-    "generation/posters": 160,
+    "generation/posters": 157,
     "generation/illustrations": 229,
     "editing/restyle": 21,
     "generation/creative-art": 270,
     "generation/characters": 138,
     "generation/logos": 27,
     "generation/portraits": 730,
-    "generation/products": 46,
+    "generation/products": 45,
     "generation/travel": 59,
     "generation/architecture": 48,
     "editing/composition": 6,
     "editing/portrait-editing": 4,
-    "generation/other": 48,
+    "generation/other": 47,
     "editing/background-change": 2,
     "editing/object-replacement": 1,
-    "generation/comics-storyboards": 22,
+    "generation/comics-storyboards": 21,
     "generation/infographics": 53,
     "generation/ui-mockups": 29,
     "generation/avatars": 10,
@@ -55,7 +55,7 @@
   "flags": {
     "rights-review": 2120,
     "input-mode-review": 237,
-    "manual-excluded": 169,
+    "manual-excluded": 181,
     "duplicate-candidate:same-prompt-prefix": 51,
     "classification-review": 241,
     "missing-original-post-url": 180,
@@ -77,5 +77,5 @@
     "perceptualHash": "not-run",
     "semanticEmbedding": "not-run"
   },
-  "manualExcluded": 169
+  "manualExcluded": 181
 }

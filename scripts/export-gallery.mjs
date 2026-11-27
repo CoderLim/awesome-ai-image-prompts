@@ -1,7 +1,7 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import { pathToFileURL } from 'node:url';
-import { govern, galleryView, reviewStatus } from './governance.mjs';
+import { govern, galleryView, reviewStatus, readFirstPassApprovals } from './governance.mjs';
 import { render } from './core.mjs';
 import { readFeatured } from './review-featured.mjs';
 import { readExclusions } from './review-exclusions.mjs';
@@ -17,7 +17,7 @@ export function exportGallery(root = '.') {
     .flatMap(f => { const rows = read('data/index/' + f); if (!Array.isArray(rows)) throw Error('Invalid shard ' + f); return rows; });
   const ids = new Set(raw.map(r => r.id));
   if (!raw.length || ids.size !== raw.length) throw Error('Empty or duplicate source records');
-  const result = govern(raw, readExclusions(root));
+  const result = govern(raw, readExclusions(root),readFirstPassApprovals(root));
   const view = galleryView(result.rows, read('data/taxonomy.json'));
   const publicView = galleryView(result.rows, read('data/taxonomy.json'), { publicOnly: true });
   const canonical = read('data/governance/canonical.json');

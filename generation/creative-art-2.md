@@ -1,331 +1,331 @@
 # creative art
 
-[← Home](../README.md) · Page 2 / 11
+[← Home](../README.md) · Page 2 / 13
 
-[1](creative-art.md) · **2** · [3](creative-art-3.md) · [4](creative-art-4.md) · [5](creative-art-5.md) · [6](creative-art-6.md) · [7](creative-art-7.md) · [8](creative-art-8.md) · [9](creative-art-9.md) · [10](creative-art-10.md) · [11](creative-art-11.md)
+[1](creative-art.md) · **2** · [3](creative-art-3.md) · [4](creative-art-4.md) · [5](creative-art-5.md) · [6](creative-art-6.md) · [7](creative-art-7.md) · [8](creative-art-8.md) · [9](creative-art-9.md) · [10](creative-art-10.md) · [11](creative-art-11.md) · [12](creative-art-12.md) · [13](creative-art-13.md)
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
-<a id="prompthero-4b9ec3d60cc"></a>
+<a id="freestylefly-case-286"></a>
 
-## Cinematic photorealistic vertical shot from inside\.\.\.
+## 珠江新城剪纸璀璨夜景
 
-<a href="https://cdn.prompthero.com/v1_6b9658289ab88bc14db6a7b321-hunyuan-hunyuan-3-cinematic-photorealistic-vertical-shot-from-inside-a-stationary-car-parked-safely-on-the-shoulder-of-a-highway-looking-through-the.jpg"><img src="https://cdn.prompthero.com/v1_6b9658289ab88bc14db6a7b321-hunyuan-hunyuan-3-cinematic-photorealistic-vertical-shot-from-inside-a-stationary-car-parked-safely-on-the-shoulder-of-a-highway-looking-through-the.jpg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-Cinematic photorealistic vertical shot from inside a stationary car parked safely on the shoulder of a highway, looking through the passenger side window, other cars passing by on the road, warm pink sunset sky, moody atmospheric lighting, realistic reflections on glass, authentic smartphone photography, quiet contemplative mood, strong visual contrast between the stationary car and moving traffic, clean uncluttered composition, upper middle area suitable for text overlay, no text, no logos
-```
-
-By [@chorlo](https://prompthero.com/prompt/4b9ec3d60cc-hunyuan-hunyuan-3-cinematic-photorealistic-vertical-shot-from-inside-a-stationary-car-parked-safely-on-the-shoulder-of-a-highway-looking-through-the)
-
----
-
-<a id="prompthero-4b508ad4c76"></a>
-
-## \(A hyper-realistic, cinematic photograph in the st\.\.\.
-
-<a href="https://cdn.prompthero.com/6x3h1v3y8ze97cqfw9eusqrw2eni-flux-flux-11-pro-ultra-a-hyper-realistic-cinematic-photograph-in-the-style-of-1970s-soviet-sci-fi13-depicting-a-lone-soviet-arctic-explorer-struggling.jpg"><img src="https://cdn.prompthero.com/6x3h1v3y8ze97cqfw9eusqrw2eni-flux-flux-11-pro-ultra-a-hyper-realistic-cinematic-photograph-in-the-style-of-1970s-soviet-sci-fi13-depicting-a-lone-soviet-arctic-explorer-struggling.jpg" width="480" alt="After"></a>
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case286.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case286.jpg" width="480" alt="Source example"></a>
 
 **Prompt**
 
 ```text
-(A hyper-realistic, cinematic photograph in the style of 1970s Soviet sci-fi:1.3), depicting a lone Soviet Arctic explorer struggling through an intense blizzard (flying snow particles:1.7) as the setting sun (setting sun through blizzard:1.5) tries to pierce through the swirling storm. The explorer is clad in a bulky, worn, and weathered retro-futuristic spacesuit, with faded red and white accents and a prominently displayed CCCP insignia across the chest (CCCP insignia:1.5). His suit is covered in frost and ice, battered by the harsh Arctic conditions, with snow clinging to the edges and joints. The blizzard is fierce, with snow and ice particles violently flying through the air (flying snow particles:1.7), obscuring the landscape and making the explorer’s journey even more treacherous. The air is thick with whipping snow, which interacts with the faint light from the setting sun (sunlight piercing through storm:1.5), casting dim, golden beams that struggle to penetrate the storm. The light creates fleeting, volumetric shafts through the blizzard, catching on the swirling snowflakes and illuminating the scene in brief, ghostly flashes. Despite the fading light and harsh conditions, the explorer presses on toward a barely visible nuclear generator (nuclear generator:1.4), half-buried under the snow. His steps are slow and heavy, with snow building up around his legs as he fights against the wind. The worn spacesuit shows signs of prolonged use, with cracks in the visor fogging over, and his breath visible inside the helmet. Snow particles whip violently around him, catching the last of the day’s light, while patches of golden sunlight filter through the blizzard, giving a surreal and fleeting glow to the harsh, frozen landscape. The setting sun casts long, dramatic shadows across the snow-covered ground, but the intensity of the storm continually threatens to snuff out the light, making the environment feel overwhelming and unforgiving. The blizzard is relentless, with snow and ice clinging to the explorer’s spacesuit, and the setting sun adds a feeling of urgency, as if time is running out. The last beams of sunlight interact with the flying snow particles, creating a flickering effect, with the light constantly shifting and fading as the explorer marches forward.
+[中文] 以珠江新城现代都市景观为灵感的剪纸艺术，通过精巧的镂空手法在一整幅纸上，立体刻画广州塔、东西双塔等地标建筑与繁华城景。 所有建筑与元素均以流畅的线条与结构相连，无孤立部分，构成一幅完整的都市画卷。 画面采用金属箔或光泽纸材质，表面带有细腻的明暗光泽，在光照下呈现柔和的高光与阴影，仿佛被城市灯光轻轻照亮。 背景以虚化的珠江新城天际线为衬，点缀隐约可见的花城广场与树木轮廓，整体透出现代浪漫的氛围。 作品中巧妙融入轻盈的蒲公英绒毛或星光般的动态光点，象征梦想与活力在这座新城中飘散飞扬。整体呈现8K超高清视觉，细节丰富，真实而富有艺术感染力。 [English] Paper-cut art inspired by the modern urban landscape of Zhujiang New Town, through exquisite hollow-carving techniques on a single sheet of paper, three-dimensionally depicting landmark buildings such as Canton Tower, East and West Twin Towers, and the bustling cityscape. All buildings and elements are connected by smooth lines and structures, with no isolated parts, forming a complete urban scroll. The picture uses metallic foil or glossy paper material, with delicate light and dark gloss on the surface, presenting soft highlights and shadows under illumination, as if gently illuminated by city lights. The background is set against a blurred Zhujiang New Town skyline, dotted with faintly visible outlines of Huacheng Square and trees, overall revealing a modern romantic atmosphere. The work cleverly integrates light dandelion fluff or starlight-like dynamic light points, symbolizing dreams and vitality fluttering and flying in this new city. The overall presents 8K ultra-high-definition vision, rich in details, realistic and full of artistic appeal.
 ```
 
-[Source](https://prompthero.com/prompt/4b508ad4c76-flux-flux-11-pro-ultra-a-hyper-realistic-cinematic-photograph-in-the-style-of-1970s-soviet-sci-fi13-depicting-a-lone-soviet-arctic-explorer-struggling)
+By [@liyue\_ai](https://x.com/liyue_ai/status/2045527750606487877)
 
 ---
 
-<a id="prompthero-4b7282bf72f"></a>
+<a id="freestylefly-case-309"></a>
 
-## A close up of mysterious woman in orange veil cloa\.\.\.
+## 创意树叶拼贴构成的角色画像
 
-<a href="https://cdn.prompthero.com/ell70gj9hnrt3xmusn1o9th20yvd-stable-diffusion-2-base-a-close-up-of-mysterious-woman-in-orange-veil-cloak-walking-in-autumn-forest-sharp-detail-and-dramatic-focus-highres.png"><img src="https://cdn.prompthero.com/ell70gj9hnrt3xmusn1o9th20yvd-stable-diffusion-2-base-a-close-up-of-mysterious-woman-in-orange-veil-cloak-walking-in-autumn-forest-sharp-detail-and-dramatic-focus-highres.png" width="480" alt="After"></a>
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case309.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case309.jpg" width="480" alt="Source example"></a>
 
 **Prompt**
 
 ```text
-A close up of mysterious woman in orange veil cloak walking in autumn forest, sharp detail and dramatic focus, highres, realistic photo, professional photography, cinematic angle, dynamic light back shining, bokeh,
+[中文] { 角色名称 } 完全由天然树叶制成，创意树叶拼贴艺术，分层绿叶和干叶构成身体、面部和衣服，可见叶脉和纹理，手工植物艺术风格，干净的白色背景，俯视平铺构图，高度细节，柔和自然光，逼真树叶纹理，8k [English] { CHARACTER NAME } made entirely from natural leaves, creative leaf collage art, layered green and dry leaves forming body, face and clothes, visible leaf veins and textures, handcrafted botanical art style, clean white background, top-down flat lay composition, highly detailed, soft natural lighting, realistic leaf textures, 8k
 ```
 
-[Source](https://prompthero.com/prompt/4b7282bf72f-stable-diffusion-2-base-a-close-up-of-mysterious-woman-in-orange-veil-cloak-walking-in-autumn-forest-sharp-detail-and-dramatic-focus-highres)
+By [@meng\_dagg695](https://x.com/meng_dagg695/status/2032019839070716170)
 
 ---
 
-<a id="prompthero-4c73fa23b5f"></a>
+<a id="freestylefly-case-319"></a>
 
-## Young Samurai with long black hair and ponytail, w\.\.\.
+## 鸟群织就的梦幻高定时装秀
 
-<a href="https://cdn.prompthero.com/z5guoe7bf97ig0a57l6e5j0hnxgl-stable-diffusion-15-young-samurai-with-long-black-hair-and-ponytail-wearing-samurai-armor-standing-in-a-japanese-temple-cherry-blossom-petals-falling.png"><img src="https://cdn.prompthero.com/z5guoe7bf97ig0a57l6e5j0hnxgl-stable-diffusion-15-young-samurai-with-long-black-hair-and-ponytail-wearing-samurai-armor-standing-in-a-japanese-temple-cherry-blossom-petals-falling.png" width="480" alt="After"></a>
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case319.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case319.jpg" width="480" alt="Source example"></a>
 
 **Prompt**
 
 ```text
-Young Samurai with long black hair and ponytail, wearing samurai armor, standing in a Japanese temple, cherry blossom petals falling, illuminated lanterns, glowing sunrise, tranquil lighting, ethereal lighting, delicate shadows, ((beautiful detailed eyes, symmetrical eyes), dramatic lighting, (photorealism:1.5), (photorealistic:1.4), (8k, RAW photo, masterpiece), High detail RAW color photo, a professional photo, realistic, (highest quality), (best shadow), (best illustration), ultra high resolution, highly detailed CG unified 8K wallpapers, physics-based rendering, photo, realistic, realism, high contrast, hyperrealism, photography, f1.6 lens, rich colors, hyper-realistic lifelike texture, cinestill 800)
+[中文] 一个充满趣味的高级时装T台场景，主角是一位自信的女性，正走在奢华时装秀的T台上，身穿一件完全由鸟类制成的非凡高级定制礼服。数百只优雅、色彩鲜艳的鸟类构成了飘逸的雕塑感礼服形状，像活着的羽毛一样层叠，翅膀微微张开，营造出布料和运动的错觉。一些鸟儿在她周围轻轻升入空中，捕捉于飞行瞬间，增添了神奇、超现实的运动感。鸟儿们展现出丰富多样的色彩——彩虹般的蓝色、光芒四射的红色、金黄色和柔和的白色——拥有错综复杂的羽毛细节和自然纹理。她在迈步间摆出姿势，带着快乐、自信的表情，富有表现力的眼睛，以及精致的T台妆容。戏剧性的舞台灯光配以发光的高光，黑暗模糊的观众背景，电影级的景深，奇幻现实主义，超精细纹理，高对比度，清晰聚焦，奇思妙想的奢华时装秀，超现实主义高级定制，4K分辨率，专业调色。 [English] A playful high-fashion runway scene featuring a confident woman walking a luxury fashion show catwalk, wearing an extraordinary couture dress made entirely of birds. Hundreds of elegant, vividly colored birds form the shape of a flowing, sculptural gown, layered like living feathers, with wings partially spread to create the illusion of fabric and motion. Some birds lift gently into the air around her, captured mid-flight, adding a magical, surreal sense of movement. The birds display a rich variety of colors — iridescent blues, radiant reds, golden yellows, and soft whites — with intricate feather details and natural textures. She poses mid-stride with a joyful, confident expression, expressive eyes, and refined runway makeup. Dramatic stage lighting with glowing highlights, dark blurred audience background, cinematic depth of field, fantasy realism, ultra-detailed textures, high contrast, sharp focus, whimsical luxury fashion show, surreal couture, 4K resolution, professional color grading.
 ```
 
-[Source](https://prompthero.com/prompt/4c73fa23b5f-stable-diffusion-15-young-samurai-with-long-black-hair-and-ponytail-wearing-samurai-armor-standing-in-a-japanese-temple-cherry-blossom-petals-falling)
+By [@MrDasOnX](https://x.com/MrDasOnX/status/2026284342549340190)
 
 ---
 
-<a id="prompthero-4c1877ec4f2"></a>
+<a id="freestylefly-case-321"></a>
 
-## a scary looking wood creature with a red eye, in t\.\.\.
+## 都市落日时尚大片
 
-<a href="https://cdn.prompthero.com/3etgyjw7zxwg4v8wa6hjd6px1bps-midjourney-52-a-scary-looking-wood-creature-with-a-red-eye-in-the-style-of-filip-hodas-daz3d-sandy-skoglund-natalia-rak.png"><img src="https://cdn.prompthero.com/3etgyjw7zxwg4v8wa6hjd6px1bps-midjourney-52-a-scary-looking-wood-creature-with-a-red-eye-in-the-style-of-filip-hodas-daz3d-sandy-skoglund-natalia-rak.png" width="480" alt="After"></a>
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case321.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case321.jpg" width="480" alt="Source example"></a>
 
 **Prompt**
 
 ```text
-a scary looking wood creature with a red eye, in the style of filip hodas, daz3d, sandy skoglund, natalia rak, mysterious jungle, anthropological, hyper-realistic details, realistic hyper-detailed rendering, 32k uhd, masterpiece::, a creepy man with a red nose in a tree tree in a dark forest, in the style of zbrush, colorful woodcarvings, frogcore, lovecraftian, characterful animal portraits, daz3d, hyper-realistic details, realistic hyper-detailed rendering, 32k uhd, masterpiece:: --v 5.2
+[中文] 一张超现实电影感时尚照片，一位二十出头惊艳的年轻女性，全身可见，站在现代城市中心，黄金时段。 她随意地单肩靠在交通信号灯杆上，没有意识到相机的存在，仿佛这一刻是自然捕捉的。 她穿着紧身蓝色牛仔裤、棕色皮靴，以及一件短款棕色麂皮夹克，带有柔软羊皮翻领。夹克下，一件极简深色露脐上衣，隐约露出精致的乳沟和紧致的腹部。 她的体型天生女性化，均衡而优雅，姿态自信。 一只手穿过她丰盈的浅棕色长发，将其向后撩起，头部微微转向那一侧，眼睛自然地看向别处，没有摆拍。 肤色为轻微日晒后的奶油般柔和光泽，真实肌肤纹理，细腻毛孔与高光——毫无塑料感。 妆容醒目却精致：清晰的眼部、浓密睫毛、立体腮红、柔和修容，以及自然光泽唇——具备高端美妆广告质感。 光线为温暖金色时段阳光，包裹她的轮廓与发丝，营造柔和高光与电影感对比。 背景为城市街道，汽车与都市灯光以强烈散景呈现，浅景深——焦点锁定在女性身上。 使用全画幅电影摄影机拍摄，85mm镜头，f/1.8，超现实细节，高动态范围，电影级调色，胶片质感，顶级时尚大片美学，高预算电影剧照氛围。 [English] A hyper-realistic cinematic fashion photograph of a stunning young woman in her early 20s, full body visible, standing in a modern city center during golden hour. She leans casually with one shoulder against a traffic light pole, unaware of the camera, as if the moment was captured naturally. She wears skinny blue jeans, brown leather boots, and a cropped brown suede jacket with a soft shearling collar. Under the jacket, a minimal dark crop top reveals a subtle cleavage and toned midriff. Her physique is naturally feminine, balanced and elegant, with confident posture. One hand runs through her long, voluminous curly light-brown hair, lifting it back in motion. Her head is turned slightly toward that side, eyes looking away naturally, not posing. Skin tone is lightly sun-kissed with a soft creamy glow, realistic skin texture, subtle pores and highlights — no plastic look. Makeup is striking but refined: defined eyes, bold lashes, sculpted cheeks, soft contour, and natural glossy lips — editorial beauty campaign quality. Lighting is warm golden hour sunlight, wrapping around her silhouette and hair, creating soft highlights and cinematic contrast. Background is an urban street with cars and city lights rendered in strong bokeh, shallow depth of field — focus locked on the woman. Shot on a full-frame cinema camera, 85mm lens, f/1.8, ultra-realistic detail, high dynamic range, cinematic color grading, film-like tones, premium fashion editorial aesthetic, high-budget movie still feeling.
 ```
 
-[Source](https://prompthero.com/prompt/4c1877ec4f2-midjourney-52-a-scary-looking-wood-creature-with-a-red-eye-in-the-style-of-filip-hodas-daz3d-sandy-skoglund-natalia-rak)
+By [OpenNana](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-321)
 
 ---
 
-<a id="prompthero-4cd72620e40"></a>
+<a id="freestylefly-case-326"></a>
 
-## A serene, ethereal scene where a man sits in a mis\.\.\.
+## 红蓝撞色高跟诱惑
 
-<a href="https://cdn.prompthero.com/lhjerefarrvp6lh41n0mys8x8agq-flux-flux-kontext-pro-a-serene-ethereal-scene-where-a-man-sits-in-a-misty-glowing-landscape-a-radiant-formless-light-symbolizing-god-hovers.png"><img src="https://cdn.prompthero.com/lhjerefarrvp6lh41n0mys8x8agq-flux-flux-kontext-pro-a-serene-ethereal-scene-where-a-man-sits-in-a-misty-glowing-landscape-a-radiant-formless-light-symbolizing-god-hovers.png" width="480" alt="After"></a>
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case326.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case326.jpg" width="480" alt="Source example"></a>
 
 **Prompt**
 
 ```text
-A serene, ethereal scene where a man sits in a misty, glowing landscape. A radiant, formless light (symbolizing God) hovers near him, with golden rays streaming toward his ear. His expression is calm and introspective, with soft light illuminating his face. The background is abstract, blending warm golden hues with cool blues, suggesting a moment of divine revelation
+[中文] { "global_settings": { "resolution": "8K", "quality": "超高清晰度", "aspect_ratio": "2:3", "render_style": "AI编辑、高细节3D渲染", "lighting_quality": "柔和影棚光与逼真阴影", "sharpness": "极致清晰、锐利边缘", "noise": "无", "compression": "无" }, "image_style": { "subject": { "character_type": "风格化3D卡通女性", "pose": "微微后仰靠在背景上", "expression": "俏皮、嘴唇轻撅、眼睛斜视", "hair": { "color": "棕色", "style": "短发、凌乱", "accessories": "红色太阳镜架在头顶" } }, "clothing": { "dress": "贴身蓝色罗纹吊带裙", "footwear": "红色高跟凉鞋配蝴蝶结" }, "color_palette": [ "大胆红色", "深蓝" ], "background": { "color": "纯红色", "texture": "光滑哑光表面" }, "lighting": { "direction": "一侧柔和定向光", "shadow": "在红色背景上投下清晰影子" }, "composition": { "framing": "全身", "pose_emphasis": "弯曲身姿、交叉双腿" } } } [English] { "global_settings": { "resolution": "8K", "quality": "ultra-high definition", "aspect_ratio": "2:3", "render_style": "AI-edited, high-detail 3D render", "lighting_quality": "soft studio lighting with realistic shadows", "sharpness": "extreme clarity, crisp edges", "noise": "none", "compression": "none" }, "image_style": { "subject": { "character_type": "stylized 3D cartoon female", "pose": "leaning slightly backward against background", "expression": "playful, lips slightly pursed, eyes looking sideways", "hair": { "color": "brown", "style": "short, tousled", "accessories": "red sunglasses resting on head" } }, "clothing": { "dress": "form-fitting blue ribbed dress with thin straps", "footwear": "red high-heel sandals with bow detail" }, "color_palette": [ "bold red", "deep blue" ], "background": { "color": "solid red", "texture": "smooth matte surface" }, "lighting": { "direction": "soft directional light from one side", "shadow": "defined shadow cast on red background" }, "composition": { "framing": "full body", "pose_emphasis": "curved posture, crossed legs" } } }
 ```
 
-[Source](https://prompthero.com/prompt/4cd72620e40-flux-flux-kontext-pro-a-serene-ethereal-scene-where-a-man-sits-in-a-misty-glowing-landscape-a-radiant-formless-light-symbolizing-god-hovers)
+By [@meng\_dagg695](https://x.com/meng_dagg695/status/2012437899955097836)
 
 ---
 
-<a id="prompthero-4d19f2fd490"></a>
+<a id="freestylefly-case-329"></a>
 
-## extreme close-up of a racing car wheel at maximum \.\.\.
+## 烬甲猎鹰者与燃翼神禽
 
-<a href="https://cdn.prompthero.com/wfmy00ex5m4eyvscejb2qzxvre-seedream-5-v2-extreme-close-up-of-a-racing-car-wheel-at-maximum-speed-brutal-motion-blur-aggressive-composition-fisheye-angle-cinematic-shot.jpeg"><img src="https://cdn.prompthero.com/wfmy00ex5m4eyvscejb2qzxvre-seedream-5-v2-extreme-close-up-of-a-racing-car-wheel-at-maximum-speed-brutal-motion-blur-aggressive-composition-fisheye-angle-cinematic-shot.jpeg" width="480" alt="After"></a>
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case329.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case329.jpg" width="480" alt="Source example"></a>
 
 **Prompt**
 
 ```text
-extreme close-up of a racing car wheel at maximum speed, brutal motion blur, aggressive composition, fisheye angle cinematic shot, early 2000s japanese automotive ad style, high contrast, glossy metal reflections, neon-like rim glow, dramatic lighting, speed energy, slight chromatic aberration, film grain, raw and powerful, ultra realistic, shot on 35mm lens, high shutter drag effect
+[中文] 一幅充满奇幻色彩的电影场景：一位英姿飒爽的女战士兼猎鹰师，身着饱经战火洗礼、饰以闪耀余烬纹理的皮甲，漫步于幽暗迷雾笼罩的森林之中。她高举手臂，指挥着一头巨大的凤凰与雄鹰的混合体，这头猛禽双翼燃烧，羽毛燃焰，尖端喷吐着火焰。它周身散发着橙红色的熔岩光芒，火星和余烬飞溅。女战士梳着辫子，皮肤上沾满了灰烬，神情坚定，手中拿着绳索和工具袋。画面细节丰富，羽毛纹理逼真，火焰物理效果自然，光照效果极具戏剧性，运用了体积雾、浅景深等技术，营造出史诗般的奇幻氛围，色彩调校极具电影质感，背景阴郁深沉，分辨率高达8K，呈现出概念艺术的精髓，并采用了虚幻引擎的渲染效果。 [English] A cinematic fantasy scene of a fierce female use image for face reference warrior falconer walking through a dark misty forest, wearing battle-worn leather armor infused with glowing ember textures. Her arm is raised, commanding a massive phoenix-eagle hybrid with blazing wings and flaming feathers, fire trailing from its tips. The bird radiates molten orange and red light, casting sparks and embers into the air.The warrior has braided hair, ash-streaked skin, and a determined expression, carrying a rope and utility pouch. Ultra-detailed feathers, realistic fire physics, dramatic lighting, volumetric fog, shallow depth of field, epic fantasy atmosphere, hyper-realistic, cinematic color grading, dark moody background, 8k, concept art, unreal engine quality.
 ```
 
-[Source](https://prompthero.com/prompt/4d19f2fd490-seedream-5-v2-extreme-close-up-of-a-racing-car-wheel-at-maximum-speed-brutal-motion-blur-aggressive-composition-fisheye-angle-cinematic-shot)
+By [@iamsofiaijaz](https://x.com/iamsofiaijaz/status/2008896649901535342)
 
 ---
 
-<a id="prompthero-4de4266467c"></a>
+<a id="freestylefly-case-370"></a>
 
-## A stunningly detailed 3D render of a whimsical sce\.\.\.
+## Crumple Chair 概念沙发研发板
 
-<a href="https://cdn.prompthero.com/7f7ios9mwxalnis5xaily5c3n6yp-flux-flux-11-pro-a-stunningly-detailed-3d-render-of-a-whimsical-scene-where-the-words-prompthero-are-personified-as-a-vibrant-excited-3d.jpg"><img src="https://cdn.prompthero.com/7f7ios9mwxalnis5xaily5c3n6yp-flux-flux-11-pro-a-stunningly-detailed-3d-render-of-a-whimsical-scene-where-the-words-prompthero-are-personified-as-a-vibrant-excited-3d.jpg" width="480" alt="After"></a>
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case370.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case370.jpg" width="480" alt="Source example"></a>
 
 **Prompt**
 
 ```text
-A stunningly detailed 3D render of a whimsical scene where the words "PromptHero" are personified as a vibrant, excited 3D model, bursting with energy and playfulness, set against a richly colored, gradient background that gradates from bright oranges and yellows to deep blues and purples, with exaggerated, cartoon-like features, intricate textures, and realistic lighting, evoking the sense of a fantastical, dreamlike world, crafted using advanced 3D modeling software such as Unreal Engine, Octane Engine, or V-Ray, and inspired by the iconic style of Pixar animations, with bold, rounded lines, and a sense of dynamic movement.
+Design Concept: The Crumple Chair Core Philosophy: Translating the "controlled chaos" of a tossed paper ball into a sculptural, high-comfort seating experience. Stage 1: Observation & Morphological Analysis The goal is to deconstruct the image of the crumpled paper into usable geometric data. Crease Mapping: Identify the primary "valley" and "ridge" lines. These represent potential structural ribs or seams in the chair. Faceted Planes: Break down the sphere into a series of non-uniform polygons. Each flat surface of the paper becomes a potential panel for the chair’s upholstery or shell. Shadow Study: Analyze how the "tossed" form creates deep recesses. These natural pockets guide where the user’s weight will be cradled. Stage 2: Iterative Form Exploration Moving from a sphere to a seat through "Digital Crumpling." Subtractive Sculpting: Imagine the paper ball as a solid mass. Use Boolean operations to "carve out" a seating cavity that fits the human form while maintaining the external jagged texture. Tension Simulation: Use 3D software (like Rhino or Blender) to simulate a flat sheet of material being compressed. This ensures the folds look authentic and not "modeled." The "Toss" Logic: Experiment with gravity-based simulation dropping a digital mesh to see how it settles naturally, mimicking the "tossed" origin. Stage 3: Ergonomic Translation & Blueprinting Refining the raw aesthetic into a functional object. The Comfort Core: Overlay a standard ergonomic template (Seating Angle: 105°–110°) over the crumpled form. Adjust the internal "folds" to provide lumbar support and pressure relief. Blueprint Generation: Create technical orthographic views (Front, Side, Top). Map out the dimensions: Seat Height: 450mm Total Width: 850mm Surface Smoothing: Maintain the sharp "paper edges" on the exterior shell while softening the interior contact points for skin comfort. Stage 4: Structural Integration & Scaling Making the concept physically viable. The Skeleton: Design a hidden internal frame (likely CNC-bent steel rods or a 3D-printed lattice) that follows the most prominent ridges of the paper folds to provide rigidity. Material Selection: * Option A (High-End): Faceted, cast aluminum with a white powder coat. Option B (Soft): Vacuum-formed recycled plastic shell covered in "memory-fold" technical fabric that retains a wrinkled appearance. Stage 5: Final Prototyping & Material Finish Textural Replication: Apply a matte, slightly porous finish to the material to mimic the tactile feel of heavy-bond paper. Lighting Contrast: Use directional studio lighting in the final renders to emphasize the "tossed" shadows, making the chair look like a giant piece of discarded inspiration. Design Tip: To keep the "tossed" look authentic, avoid symmetry. The most compelling aspect of a crumpled paper ball is its unique irregularity—ensure the left and right sides of the chair are balance-equivalent but not identical
 ```
 
-[Source](https://prompthero.com/prompt/4de4266467c-flux-flux-11-pro-a-stunningly-detailed-3d-render-of-a-whimsical-scene-where-the-words-prompthero-are-personified-as-a-vibrant-excited-3d)
+By [@ShamsAmin56](https://x.com/ShamsAmin56/status/2050281206139461780)
 
 ---
 
-<a id="prompthero-5a22ca50a20"></a>
+<a id="freestylefly-case-382"></a>
 
-## A futuristic photoshoot showcasing an advanced, al\.\.\.
+## 春日花田三联竖版写真拼贴
 
-<a href="https://cdn.prompthero.com/r3hx1bo96l3djtdj8gmwuvjixyn8-midjourney-61-a-futuristic-photoshoot-showcasing-an-advanced-alien-full-armor-suspended-and-displayed-with-vibrant-crisscrossing-thick-mooring-straps-that-dominate.png"><img src="https://cdn.prompthero.com/r3hx1bo96l3djtdj8gmwuvjixyn8-midjourney-61-a-futuristic-photoshoot-showcasing-an-advanced-alien-full-armor-suspended-and-displayed-with-vibrant-crisscrossing-thick-mooring-straps-that-dominate.png" width="480" alt="After"></a>
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case382.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case382.jpg" width="480" alt="Source example"></a>
 
 **Prompt**
 
 ```text
-A futuristic photoshoot showcasing an advanced, alien full armor, suspended and displayed with vibrant, crisscrossing thick mooring straps that dominate the composition. The armor is crafted from a translucent, frosted material with a matte finish, giving it a smooth surface with a soft, cloudy translucency that gently reveals the interior, though slightly blurred. Inside, glowing plants and minimal electronic components emit soft hues of orange and green, adding a harmonious fusion of biotechnological and organic elements. The armor's design is abstract and avant-garde, moving away from traditional humanoid forms. It features elongated, flowing curves, irregular geometric shapes, and unexpected joints, evoking an alien-like, organic structure. The sleek, minimalist exterior has no humanoid outline, suggesting a futuristic, imaginative design that's fluid and unconventional. The semi-translucent material provides a faint glimpse into the interior, where plants and components are subtly blurred, enhancing the armor’s ethereal, otherworldly presence. Suspended in mid-air, the armor is secured by vibrant mooring straps in electric blue, neon orange, and vivid green, which contrast sharply with the soft matte finish of the armor. These straps, used to hold the piece in place like a high-end art installation, create a striking juxtaposition between the sleek, futuristic design of the armor and the practical, utilitarian nature of the mooring system. The background is minimalist, featuring neutral tones and soft gradients that keep the focus on the armor. Organic elements like moss, exotic plants, and alien-like flora in vibrant yellows, purples, and greens subtly enhance the futuristic design. This juxtaposition adds a touch of nature and life to the otherwise clean and technological aesthetic. The camera angle is unconventional, extremely close to the armor, allowing for an in-depth view of its intricate details, the texture of the frosted material, and the vibrant, chaotic mooring straps crisscrossing the background. The lighting is soft but precise, creating gentle reflections and highlights on the armor’s surface while emphasizing the contrast between the glowing plants, the minimalist structure, and the bold, bright neon straps. Captured in ultra-realistic, hyper-detailed 35mm photography style, this shot evokes the feel of a high-tech fashion magazine photoshoot, with every detail sharp and vivid, immersing the viewer in this futuristic and ethereal display. photorealistic. technology art magazine. artsy composition
+A high-quality 3-panel vertical photo collage of a stunning uploaded woman with soft, voluminous wavy hair glowing in golden sunlight. She is styled in a cream-colored lace-up vintage blouse with delicate textures, olive green high-waisted flowy trousers, and a wide-brimmed straw hat slightly tilted for a fashionable editorial look. Light golden jewelry (thin chains, rings) adds a subtle luxury touch. The setting is a dreamy, vibrant yellow mustard flower field under a bright blue sky with soft clouds, enhanced by golden hour lighting for a magical glow. Top panel: Back view of the woman standing in the field with arms wide open, sunlight creating a glowing halo around her hair, slight motion blur in flowers for a cinematic feel. Middle panel: Close-up portrait, she smiles naturally at the camera, wind softly moving her hair, her hand reaching toward the lens creating depth and a slightly blurred foreground for a DSLR effect. Bottom panel: Playful pose, she leans sideways in the flowers, making a double peace sign, laughing candidly, capturing an authentic joyful moment. Add cute, trendy white doodle overlays (smiley faces, sparkles, stars, tiny hearts) with a subtle animated/sketchy feel. Include light leaks, sun flares, and soft film grain for a premium Instagram aesthetic. Ultra-realistic, 4K, cinematic lighting, shallow depth of field, high dynamic range, natural skin tones, editorial fashion photography, soft pastel color grading. Aspect ratio: 4:5 Style tags: viral Instagram aesthetic, Pinterest style, dreamy spring vibe, candid luxury
 ```
 
-[Source](https://prompthero.com/prompt/5a22ca50a20-midjourney-61-a-futuristic-photoshoot-showcasing-an-advanced-alien-full-armor-suspended-and-displayed-with-vibrant-crisscrossing-thick-mooring-straps-that-dominate)
+By [@frametheory058](https://x.com/frametheory058/status/2051294907214844249)
 
 ---
 
-<a id="prompthero-5aacd7954b7"></a>
+<a id="freestylefly-case-390"></a>
 
-## A hyper-realistic close-up photograph of a profess\.\.\.
+## 羊毛毡国家微缩世界
 
-<a href="https://cdn.prompthero.com/unxpehqy6trwmt0hizjhy43x40-flux2-a-hyper-realistic-close-up-photograph-of-a-professional-motorcycle-racer-in-profile-head-bowed-slightly-downward-in-a-moment.jpeg"><img src="https://cdn.prompthero.com/unxpehqy6trwmt0hizjhy43x40-flux2-a-hyper-realistic-close-up-photograph-of-a-professional-motorcycle-racer-in-profile-head-bowed-slightly-downward-in-a-moment.jpeg" width="480" alt="After"></a>
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case390.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case390.jpg" width="480" alt="Source example"></a>
 
 **Prompt**
 
 ```text
-A hyper-realistic close-up photograph of a professional motorcycle racer in profile, head bowed slightly downward in a moment of focus. The rider is wearing a glossy, brightly colored racing helmet featuring a complex geometric design in vibrant yellow, electric blue, orange, and neon lime green. Visible branding includes the 'AGV' logo and a green Monster Energy claw print on the side of the helmet. The rider wears a dark navy blue leather racing suit with white sponsor patches and textured fabric details. The background is a deep, solid black, creating a high-contrast studio effect that highlights the sheen of the helmet and the texture of the leather. Shot on a telephoto lens, sharp focus, 8k resolution
+Country: [INSERT COUNTRY NAME] A miniature felt diorama made of fluffy yarn, wool, and needlework, designed as a single cohesive small world (not a collage), reflecting the real landscape, culture, and daily life of the country. Structure: - Select 4–7 naturally integrated elements (landscape, architecture, transport, street life, culture) - Everything must flow together as one environment Foreground: Everyday life — small shops, cafes, markets, people interacting, local clothing, street details, subtle movement, warm human presence Midground: Connecting flow — streets, bridges, rivers, paths, transport, cultural spaces that guide the eye naturally from front to back Background: One strong identity anchor — landmark, skyline, mountain, or symbolic landscape clearly representing the country (keep it clean, not overcrowded) Style: Handmade wool felt, yarn, needle-felt textures, visible fibers, soft edges, miniature craftsmanship, premium diorama realism Lighting: Warm golden hour or bright noon, soft shadows, clear visibility, gentle glow enhancing depth Color: Soft but saturated palette reflecting the country’s natural tones (greens, sky blues, architectural hues, cultural accents), warm and balanced Composition: Vertical frame, balanced or centered perspective, slight top-down or immersive angle, clear foreground–midground–background depth Mood: Warm, emotional, calm, refined — like a handcrafted fairy-tale version of real life (not childish) Rules: - No logos or text overlays - No collage-style composition - No random symbolic clutter - Keep it realistic but stylized as a handmade miniature world Quality: 16K, ultra-detailed, hyper-realistic miniature textures, cinematic depth, sharp focus output_goal: A single, cohesive felt diorama world that instantly conveys the identity and atmosphere of the chosen country through integrated landscape, culture, and daily life
 ```
 
-[Source](https://prompthero.com/prompt/5aacd7954b7-flux2-a-hyper-realistic-close-up-photograph-of-a-professional-motorcycle-racer-in-profile-head-bowed-slightly-downward-in-a-moment)
+By [@volkan\_iras](https://x.com/volkan_iras/status/2051403524966141980)
 
 ---
 
-<a id="prompthero-5db81489467"></a>
+<a id="freestylefly-case-392"></a>
 
-## hyper detailed masterpiece photography of a clown \.\.\.
+## 头发里的微型城市
 
-<a href="https://cdn.prompthero.com/l41zmfmuyswn7pjwhwum28m0fv41-midjourney-52-hyper-detailed-masterpiece-photography-of-a-clown-with-a-hellishly-evil-soul-insane-stunning-dramatic-futuristic-creative-absurd-cinematic-shot.png"><img src="https://cdn.prompthero.com/l41zmfmuyswn7pjwhwum28m0fv41-midjourney-52-hyper-detailed-masterpiece-photography-of-a-clown-with-a-hellishly-evil-soul-insane-stunning-dramatic-futuristic-creative-absurd-cinematic-shot.png" width="480" alt="After"></a>
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case392.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case392.jpg" width="480" alt="Source example"></a>
 
 **Prompt**
 
 ```text
-hyper detailed masterpiece photography of a clown with a hellishly evil soul, (insane, stunning, dramatic, futuristic, creative, absurd, cinematic shot, concept art character design, cinematic lightning, epic fantasy, hyper realistic, extreme details, detail 8k)
+Macro photograph of a miniature city hidden in human hair, clearly on a real human head, with part of the forehead and hairline visible, realistic skin texture with pores, tiny people walking through the streets between the hair strands, extremely small but realistic proportions, macro photography, 85mm lens, shallow depth of field, natural lighting, neutral colors, no warm tones, ultra realistic hair with visible roots, natural imperfections, slightly messy strands, realistic materials, slightly dirty buildings, no perfect surfaces, photorealistic, looks like a real photo, no illustration, no CGI, no glow
 ```
 
-[Source](https://prompthero.com/prompt/5db81489467-midjourney-52-hyper-detailed-masterpiece-photography-of-a-clown-with-a-hellishly-evil-soul-insane-stunning-dramatic-futuristic-creative-absurd-cinematic-shot)
+By [@krafterlab](https://x.com/krafterlab/status/2051399740986740986)
 
 ---
 
-<a id="prompthero-5defe5deb79"></a>
+<a id="freestylefly-case-394"></a>
 
-## futuristic character blending advanced technology \.\.\.
+## 中世纪村庄双精灵冒险者
 
-<a href="https://cdn.prompthero.com/jalclgdzf9rsapk2bdzow1zfe56a-midjourney-7-futuristic-character-blending-advanced-technology-with-traditional-rugged-clothing-the-black-background-emphasizes-the-character-giving-it-a-dramatic-and.png"><img src="https://cdn.prompthero.com/jalclgdzf9rsapk2bdzow1zfe56a-midjourney-7-futuristic-character-blending-advanced-technology-with-traditional-rugged-clothing-the-black-background-emphasizes-the-character-giving-it-a-dramatic-and.png" width="480" alt="After"></a>
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case394.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case394.jpg" width="480" alt="Source example"></a>
 
 **Prompt**
 
 ```text
-futuristic character blending advanced technology with traditional, rugged clothing. The black background emphasizes the character, giving it a dramatic and striking appearance. Visual Details:  Clothing: Yellow Hoodie: The character is wearing a vibrant yellow hoodie with a rugged texture. The fabric appears durable, with functional details such as zippers and straps, adding a sense of practicality to the design. Torn Pants: The pants are made of coarse, worn-out fabric with intentional tears, suggesting the character operates in a harsh or post-apocalyptic environment. The earthy tones of the pants complement the overall rugged aesthetic. Fabric Belt: A rough, hand-tied fabric belt adds a traditional and handcrafted touch to the outfit, reinforcing the character's resourcefulness.  Mechanical Arm: The left arm is enhanced with advanced technology, featuring intricate details like wires, metallic joints, and panels. This suggests the arm is either a prosthetic or augmented for enhanced functionality. Knee and Footwear: The knee is protected by a metallic brace connected to similar technological elements as the arm. The footwear is a modern, high-top sneaker in yellow, inspired by contemporary athletic shoe designs, adding a sleek and stylish contrast to the rugged outfit
+Create a cinematic dark-fantasy medieval street scene in ultra-realistic 3D game concept art style, widescreen 16:9. In the foreground, show two adult elven adventurers walking side by side toward the viewer through a muddy cobblestone village road. The left character is a pale-skinned elf woman with long messy {argument name="left character hair color" default="ash blonde"} braided hair, pointed ears, layered olive-green druid robes, leather belts, pouches, dangling metal charms, necklaces, torn fabric strips, leaf-and-feather details, and glowing white vine-like magical tattoos spiraling down both forearms. The right character is a darker-skinned elf woman with long thick {argument name="right character hair color" default="dark brown"} dreadlocked hair, pointed ears, a green-and-brown leather ranger outfit, fur shoulder mantle, feather ornaments, arm wraps, belts, chains, talismans, and a confident warrior posture. Both faces are intentionally hidden by plain opaque {argument name="face covering color" default="dark brown"} square censor blocks, centered over their faces. Set the background in a richly detailed medieval market village with timber-and-thatch houses, hanging bundles of dried herbs on the right-side shopfront, barrels, baskets, wooden stalls, distant townspeople, and a large stone castle with towers and battlements rising in the background. Use {argument name="lighting mood" default="warm late-afternoon golden sunlight"}, dramatic shadows, volumetric haze, shallow depth of field, realistic fabric and leather textures, high detail, moody fantasy atmosphere, cinematic composition, Unreal Engine quality, no text, no logos.
 ```
 
-[Source](https://prompthero.com/prompt/5defe5deb79-midjourney-7-futuristic-character-blending-advanced-technology-with-traditional-rugged-clothing-the-black-background-emphasizes-the-character-giving-it-a-dramatic-and)
+By [@RamonVi25791296](https://x.com/RamonVi25791296/status/2051568239142973832)
 
 ---
 
-<a id="prompthero-5eee619ffdf"></a>
+<a id="freestylefly-case-398"></a>
 
-## A playful, surreal 3D illustration of a pink popsi\.\.\.
+## 8 套日常穿搭编辑拼贴
 
-<a href="https://cdn.prompthero.com/9wp5iod0cfmunyg1iunq5xneqpld-sora-v1-a-playful-surreal-3d-illustration-of-a-pink-popsicle-melting-into-a-glossy-puddle-on-a-pastel-blue-background-with.png"><img src="https://cdn.prompthero.com/9wp5iod0cfmunyg1iunq5xneqpld-sora-v1-a-playful-surreal-3d-illustration-of-a-pink-popsicle-melting-into-a-glossy-puddle-on-a-pastel-blue-background-with.png" width="480" alt="After"></a>
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case398.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case398.jpg" width="480" alt="Source example"></a>
 
 **Prompt**
 
 ```text
-A playful, surreal 3D illustration of a pink popsicle melting into a glossy puddle on a pastel blue background with clouds. The popsicle stick remains upright while a tiny inflatable flamingo pool float sits on the melted liquid, adding a whimsical summer vibe. The colors are vibrant and clean, with a soft, smooth aesthetic and minimalistic composition.
+Create a freeform fashion-editorial collage of me in 8 distinct full-body casual wear, arranged organically on a clean cream studio backdrop. Keep my face identical across all looks, w/ consistent proportions that visually read as around (height) w/o stating height. Include subtle handwritten-style arrows & labels highlighting key pieces. Avoid any grids, borders, or boxed layouts.
 ```
 
-By [@chorlo](https://prompthero.com/prompt/5eee619ffdf-sora-v1-a-playful-surreal-3d-illustration-of-a-pink-popsicle-melting-into-a-glossy-puddle-on-a-pastel-blue-background-with)
+By [@aiwithaly](https://x.com/aiwithaly/status/2052218645951205463)
 
 ---
 
-<a id="prompthero-5f524bea51b"></a>
+<a id="freestylefly-case-461"></a>
 
-## front view of an old 1980 nyc subway car with colo\.\.\.
+## 家庭旅行纸雕拼贴
 
-<a href="https://cdn.prompthero.com/u7txok5ddhdofk82iic9j9c2gwd7-flux-flux-11-pro-ultra-front-view-of-an-old-1980-nyc-subway-car-with-color-highlights-on-it-moving-forward-behind-the-train-in.jpg"><img src="https://cdn.prompthero.com/u7txok5ddhdofk82iic9j9c2gwd7-flux-flux-11-pro-ultra-front-view-of-an-old-1980-nyc-subway-car-with-color-highlights-on-it-moving-forward-behind-the-train-in.jpg" width="480" alt="After"></a>
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case461.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case461.jpg" width="480" alt="Source example"></a>
 
 **Prompt**
 
 ```text
-front view of an old 1980 nyc subway car with color highlights on it moving forward, behind the train in the background you can see the rundown decaying tenement buildings skyline, even though the background is rundown overall there should be bright colors, cinematic, hyper realism, high detail, dynamic, 3d illustration
+Adorable kawaii family travel collage, combining four different scenes in one composition, cute anime-inspired parents, friends and children taking selfies and exploring together, handcrafted paper-cut diorama style, layered cardboard and felt textures, miniature world aesthetic, cozy pastel color palette, soft cinematic lighting, playful vacation atmosphere, urban city station scene, shopping mall selfie corner, outdoor nature park, and crowded playground blended into one seamless scrapbook-style artwork, charming sticker-like white outlines around characters, tiny tourists and pedestrians in background, whimsical handcrafted textures, soft depth of field, highly detailed paper craft illustration, warm nostalgic mood, cute casual outfits with glasses, caps, bags and sandals, dreamy Instagram kawaii aesthetic, storybook composition, ultra detailed miniature environment, 3D layered paper art, tilt-shift effect, cozy wholesome family travel vibes, premium handcrafted look, high detail, 8k, vertical composition
 ```
 
-[Source](https://prompthero.com/prompt/5f524bea51b-flux-flux-11-pro-ultra-front-view-of-an-old-1980-nyc-subway-car-with-color-highlights-on-it-moving-forward-behind-the-train-in)
+By [@Taaruk\_](https://x.com/Taaruk_/status/2058400056722731079)
 
 ---
 
-<a id="prompthero-6ad258dbbc7"></a>
+<a id="freestylefly-case-473"></a>
 
-## An intricate and surreal illustration of the head \.\.\.
+## ROGUE VIPER 游戏概念设定板
 
-<a href="https://cdn.prompthero.com/b4p9n90ewfp5rib9yh9uqnsgmp2w-midjourney-61-an-intricate-and-surreal-illustration-of-the-head-of-an-angel-with-wings-made-from-paper-collage-in-monochrome-shades.png"><img src="https://cdn.prompthero.com/b4p9n90ewfp5rib9yh9uqnsgmp2w-midjourney-61-an-intricate-and-surreal-illustration-of-the-head-of-an-angel-with-wings-made-from-paper-collage-in-monochrome-shades.png" width="480" alt="After"></a>
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case473.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case473.jpg" width="480" alt="Source example"></a>
 
 **Prompt**
 
 ```text
-An intricate and surreal illustration of the head of an angel, with wings made from paper collage in monochrome shades of grey. The background is a textured surface that adds depth to the composition. The artwork has soft edges and subtle lighting effects for depth. by abstract drawing, digital art technique. --ar 1:2 --style raw --v 7
+**ROGUE VIPER — VIDEO GAME CONCEPT ART SHEET PROMPT** --- Official AAA video game concept art sheet titled **'ROGUE VIPER'** for an Unreal Engine 5 third-person action-stealth game. Professional game development documentation layout on a dark charcoal #1A1A1A background with gold stencil label typography throughout. Four clearly labeled panels arranged in a 2×2 grid with a header and footer. --- **SHEET HEADER** — Bold gold stencil font title text: **ROGUE VIPER** centered at top. Subtitle beneath in smaller tracking-heavy label font: **CHARACTER & ENVIRONMENT CONCEPT SHEET | UNREAL ENGINE 5 | ACTION / STEALTH — THIRD PERSON** --- **PANEL 1 — TOP LEFT — Label: "PROTAGONIST: MEI LIU / ROGUE VIPER"** Full-body character turntable reference of a 30-year-old East Asian Chinese-American female operative. Athletic and toned, 5'8", long straight black hair worn loose, calm neutral expression with sharp eyes. Wearing a form-fitting matte black tactical bodysuit with gold accent seams running along the shoulders, forearms, and thighs, gold cobra snake belt buckle at the waist, calf-high black tactical boots with subtle gold trim. Armed with twin suppressed 9mm pistols holstered on each hip with custom viper-scale grip texture, a serrated combat knife sheathed vertically on the right thigh, and a compact pneumatic grappling hook launcher mounted on the left forearm. Three views arranged side-by-side: front, 3/4, and back. Unreal Engine 5 physically-based rendering, photorealistic skin and fabric materials, neutral 3-point studio lighting for maximum clarity, gold and matte black color scheme throughout. --- **PANEL 2 — TOP RIGHT — Label: "ENEMY TYPE 01: OBSIDIAN PROTOCOL ENFORCER"** Three enemy soldiers shown as character references against a dark background. These are elite private military contractors working for a shadow arms cartel called Obsidian Protocol. Their uniform: slate-gray and black modular plate carriers with deep crimson geometric hex-patch insignia on the shoulder, full-face ballistic visors with a dark red tinted lens, black tactical gloves, reinforced combat boots. Armed with compact bullpup assault rifles with red laser sights. One figure standing in neutral patrol stance, one crouched in a ready alert position, one depicted mid-aim with rifle raised. All three shown at the same scale for comparison. Same UE5 photorealistic PBR render style. Crimson and slate-gray color language to contrast Viper's gold and black. --- **PANEL 3 — BOTTOM LEFT — Label: "STEALTH ENVIRONMENT: OBSIDIAN PROTOCOL BLACK SITE — ALPINE RESEARCH FACILITY"** Wide cinematic establishing shot of a stealth mission environment. A hidden high-altitude research facility buried inside a snow-covered mountain, accessible only via an underground tram. Interior architecture is brutalist concrete and frosted glass, dimly lit with cold white fluorescent overhead strips and amber emergency lighting casting long dramatic shadows across polished concrete floors. Rows of classified server terminals and cryogenic storage units line the walls. Ventilation shafts visible in the ceiling above catwalks. A security camera sweeps a slow arc over a central corridor below. In the foreground, Rogue Viper is pressed flat against a concrete pillar in deep shadow, body low, watching two Obsidian Protocol enforcers on patrol below, one holding a flashlight. The scene communicates tension, patience, and tactical opportunity. Unreal Engine 5 Lumen global illumination, volumetric cold air haze, photorealistic ice and concrete materials, deep crushed blacks with cold white and amber lighting contrast. Cinematic wide 2.39:1 style composition within the panel. --- **PANEL 4 — BOTTOM RIGHT — Label: "ACTION SET PIECE: OBSIDIAN PROTOCOL FREIGHT DEPOT — COLLAPSED BRIDGE CANYON"** Wide cinematic action shot of a high-octane firefight environment. A sprawling open-air industrial freight depot at the edge of a sheer cliff canyon at dusk, with a collapsed suspension bridge dangling over the chasm below. Shipping containers and heavy crane equipment provide cover geometry. Rogue Viper is captured mid-movement in a dynamic gunfight pose — body low, both suppressed pistols raised and firing, muzzle flashes illuminating her face with sharp white light. Three Obsidian Protocol enforcers are positioned around her — one diving behind a container, one firing from atop a crane platform, one falling backward off the edge of the depot platform. Background: deep canyon with a river of orange reflected sunset light far below, dust and smoke rising from the firefight, a military helicopter approaching in the far distance. Warm dusk amber and cool canyon shadow blue provide dramatic color contrast. UE5 ray-traced reflections on metal container surfaces, particle systems for dust and muzzle smoke, cinematic depth of field on background elements. --- **SHEET FOOTER** — Color palette chip row along the bottom of the sheet: matte black #1A1A1A, dark charcoal #2B2B2B, viper gold #D4AF37, gunmetal #3E3E3E, obsidian crimson #8B1A1A, slate gray #6B7280, cold white #E8EEF4. Label above chips: **COLOR PALETTE**. Footer text beneath: **ACTION / STEALTH — THIRD PERSON — UNREAL ENGINE 5 — © ROGUE VIPER GAME STUDIOS** --- **UNIVERSAL STYLE CONSTRAINTS — APPLY TO ALL PANELS:** Photorealistic only throughout the entire sheet. No anime, no cartoon, no stylized illustration, no cel shading, no comic book rendering. Unreal Engine 5 cinematic render quality with physically-based materials. Anamorphic lens character on all environment shots. Crushed blacks and desaturated mid-tones across all panels. Professional AAA game studio concept documentation format comparable to Naughty Dog, Ubisoft, or Guerrilla Games internal production art.
 ```
 
-[Source](https://prompthero.com/prompt/6ad258dbbc7-midjourney-61-an-intricate-and-surreal-illustration-of-the-head-of-an-angel-with-wings-made-from-paper-collage-in-monochrome-shades)
+By [@KimAkiyama81](https://x.com/KimAkiyama81/status/2059394334378566063)
 
 ---
 
-<a id="prompthero-6bd27262803"></a>
+<a id="freestylefly-case-476"></a>
 
-## A crystal skull surrounded by roses\. Dark Fantasy \.\.\.
+## 早安拿铁微缩女孩
 
-<a href="https://cdn.prompthero.com/o87c2shz1nodq5uk28u6pzpe08up-dreamshaper-5-inpainting-fey-comfyui-dreamshaperxl-a-crystal-skull-surrounded-by-roses-dark-fantasy-ethereal-and-magical-an-epic-shot-with-cinematic-lighting-wallpaper-extreme-detail.png"><img src="https://cdn.prompthero.com/o87c2shz1nodq5uk28u6pzpe08up-dreamshaper-5-inpainting-fey-comfyui-dreamshaperxl-a-crystal-skull-surrounded-by-roses-dark-fantasy-ethereal-and-magical-an-epic-shot-with-cinematic-lighting-wallpaper-extreme-detail.png" width="480" alt="After"></a>
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case476.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case476.jpg" width="480" alt="Source example"></a>
 
 **Prompt**
 
 ```text
-A crystal skull surrounded by roses. Dark Fantasy ethereal and magical, an epic shot with cinematic lighting, Wallpaper , extreme detail, very ornate, A crystal skull surrounded by roses. Dark Fantasy ethereal and magical, an epic shot with cinematic lighting, Wallpaper , extreme detail, very ornate, style of Brian Froud, ~*~enhance~*~,~*~Fantasy Art~*~, UHD, HDR, 8k,
+Create ultra-fine highly detailed 3D realistic miniature chibi-like cute girl, wearing cream colour top and jeans, resting and floating on creamy latte cup, stylized textured ceramic cup, sleeping expression, satin soft pillow tucked behind her head. The latte cream forms a text "Good Morning" in a cute handwriting. Soft-focus minimalist background, bright natural light, 8K UHD.
 ```
 
-By [@ScArecrow23](https://prompthero.com/prompt/6bd27262803-dreamshaper-5-inpainting-fey-comfyui-dreamshaperxl-a-crystal-skull-surrounded-by-roses-dark-fantasy-ethereal-and-magical-an-epic-shot-with-cinematic-lighting-wallpaper-extreme-detail)
+By [@Zyrellix](https://x.com/Zyrellix/status/2059443447602561444)
 
 ---
 
-<a id="prompthero-6c08a9397b1"></a>
+<a id="freestylefly-case-485"></a>
 
-## a lion walking in the savana, side view, Dark fant\.\.\.
+## 时尚目录电商拼贴
 
-<a href="https://cdn.prompthero.com/c0nne6zuzqe9rk8cssmgx7va7z-a-lion-walking-in-the-savana-side-view-dark-fantasy-highly-detailed-anatomy-hyper-realistic-muscles-strong-chiaroscuro-lighting-top.jpeg"><img src="https://cdn.prompthero.com/c0nne6zuzqe9rk8cssmgx7va7z-a-lion-walking-in-the-savana-side-view-dark-fantasy-highly-detailed-anatomy-hyper-realistic-muscles-strong-chiaroscuro-lighting-top.jpeg" width="480" alt="After"></a>
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case485.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case485.jpg" width="480" alt="Source example"></a>
 
 **Prompt**
 
 ```text
-a lion walking in the savana, side view, Dark fantasy, highly detailed anatomy, hyper-realistic muscles, strong chiaroscuro lighting, top-down light, deep shadows, sculptural form, cinematic contrast, black and white illustration, grayscale palette, painterly digital art, textured brushwork, realistic skin and metal rendering, misty background, atmospheric fog, floating particles (snow or dust), soft depth of field, epic and moody ambiance, centered composition, symmetrical framing, heroic scale, concept art, ultra-detailed, 4k, sharp focus. format9:16
+Stylish fashion catalog shoot blending streetwear and luxury branding. Female model wearing burgundy slim-fit top and ivory tailored pants, posed in confident relaxed positions across multiple duplicated frames. Slight perspective tilt, dynamic layout collage, soft daylight studio lighting with warm tone grading. Modern shopping website aesthetic, minimal UI-inspired composition, high resolution fashion photography.
 ```
 
-[Source](https://prompthero.com/prompt/6c08a9397b1-a-lion-walking-in-the-savana-side-view-dark-fantasy-highly-detailed-anatomy-hyper-realistic-muscles-strong-chiaroscuro-lighting-top)
+By [@Mind\_Boticni](https://x.com/Mind_Boticni/status/2061310969192870028)
 
 ---
 
-<a id="prompthero-06d24cf5f09"></a>
+<a id="freestylefly-case-537"></a>
 
-## Enchanted forest
+## 地下档案馆暗黑概念海报
 
-<a href="https://cdn.prompthero.com/k27u1b7ga1l5h4d3ri3qtgor8323-midjourney-52-enchanted-forest.png"><img src="https://cdn.prompthero.com/k27u1b7ga1l5h4d3ri3qtgor8323-midjourney-52-enchanted-forest.png" width="480" alt="After"></a>
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case537.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case537.jpg" width="480" alt="Source example"></a>
 
 **Prompt**
 
 ```text
-Oscar winning detailed photography, cinematic scene, Enchanted forest, with elves, with a giant fantastical flowers, creative, absurd, cinematic shot, concept art, --ar 14:9 --s 750 --chaos 100
+Use case: stylized-concept Asset type: vertical social-media artwork for the “Your Dark Side” theme Create an original psychological dark-surrealist scene in a colossal underground archive. Endless shelves of sealed black books rise like skyscrapers and vanish into fog. In the central aisle, a solitary human figure in bone-white clothing kneels before one open book on the floor. No words are visible. From the blank pages rises a delicate life-size figure made entirely of dense black smoke, standing face-to-face with the kneeling person. The smoke figure has no eyes or mouth; instead, its chest contains a small locked crimson door. Thin threads connect that door to the kneeling person’s hands, suggesting a secret self finally acknowledged. Vertical 9:16 framing, towering shelves create a narrow symmetrical canyon, high-angle shaft of cold silver light, the two figures positioned small in the lower center, immense oppressive scale above them. Black paper, aged stone, floating ash, volumetric fog, subtle polished-floor reflections, premium photorealistic dark concept art, refined editorial composition, quiet dread and introspection rather than horror spectacle. Color palette: obsidian black, graphite, bone white, cold silver, a single muted crimson accent at the tiny door. Constraints: entirely original metaphor; blank book pages with absolutely no writing; no recognizable person; no text, symbols, logos, signatures, borders, or watermark. Avoid: visible letters or runes, portrait close-up, split face, black substance on skin, glowing eyes, gore, skulls, conventional ghosts, fantasy wizard styling, imitation of any named artist.
 ```
 
-[Source](https://prompthero.com/prompt/06d24cf5f09-midjourney-52-enchanted-forest)
+By [@PromptSin](https://x.com/PromptSin/status/2092390329890849163)
 
 ---
 
-<a id="prompthero-6fd7bb4a9cd"></a>
+<a id="prompthero-0b1e8c269a2"></a>
 
-## Spiderwoman
+## \{ &quot;scene&quot;: \{ &quot;setting&quot;: &quot;inside a swirling t\.\.\.
 
-<a href="https://cdn.prompthero.com/tfx3r5z80gkfv4wntzjqtibba1u2-midjourney-6-spiderwoman.png"><img src="https://cdn.prompthero.com/tfx3r5z80gkfv4wntzjqtibba1u2-midjourney-6-spiderwoman.png" width="480" alt="After"></a>
+<a href="https://cdn.prompthero.com/v1_a99224c8869cbccfd372051d1a-hero-10-scene-setting-inside-a-swirling-tornado-mood-dramatic-and-surreal-style-hyper-realistic-fashion-editorial-lighting-high-contrast-with-stormy.jpeg"><img src="https://cdn.prompthero.com/v1_a99224c8869cbccfd372051d1a-hero-10-scene-setting-inside-a-swirling-tornado-mood-dramatic-and-surreal-style-hyper-realistic-fashion-editorial-lighting-high-contrast-with-stormy.jpeg" width="480" alt="After"></a>
 
 **Prompt**
 
 ```text
-Spiderwoman with Power to change reality, neon lights on costume, neon glowing, ultra realistic, 8k, hyper realistic, perfect rendered, perfect composition, 8k, extremely detailed, sharp focus, intimidating lighting, beautiful picture, Ultra Realistic, 4k, Highly Detail, Cinematic Lighting, Extreme Detail, Digital Art, 4k, Ultra Hd
+{ "scene": { "setting": "inside a swirling tornado", "mood": "dramatic and surreal", "style": "hyper-realistic, fashion editorial", "lighting": "high contrast with stormy overcast sky", "atmosphere": "intense, with debris flying and motion blur around edges" }, "subject": { "type": "girl", "age": "20", "expression": "focused, intense", "pose": "falling or flying upwards with foot toward camera", "outfit": { "top": "blue gingham dress", "shoes": "bold red Crocs" }, "hair": "braided, swept upward by wind", "accessories": { "animal": "small fluffy dog held under her arm" } }, "camera": { "angle": "extreme wide-angle, low perspective from foot upward", "lens": "ultra wide-angle", "motion": "dynamic motion blur on foot and background debris", "focus": "sharp on girl’s face and dress, blurred background" }, "effects": { "wind": "clothes and hair dramatically lifted", "debris": "leaves and dirt spiraling around", "sky": "dark and stormy with funnel clouds" }, "composition": { "foreground": "large red Croc in extreme perspective", "background": "tornado spiral and flying particles" } }
 ```
 
-[Source](https://prompthero.com/prompt/6fd7bb4a9cd-midjourney-6-spiderwoman)
+By [@albertoantoniot](https://prompthero.com/prompt/0b1e8c269a2-hero-10-scene-setting-inside-a-swirling-tornado-mood-dramatic-and-surreal-style-hyper-realistic-fashion-editorial-lighting-high-contrast-with-stormy)
 
 ---
 
-<a id="prompthero-6fd97df811d"></a>
+<a id="prompthero-0b6df7f515f"></a>
 
-## photography, sleek and minimalist elevator lobby i\.\.\.
+## dachshund dog, red, one eye blue, the other brown,\.\.\.
 
-<a href="https://cdn.prompthero.com/68372y4j80cc9yxt3ph9lsp2ric9-midjourney-6-more-info-wwwgraytheorystudiocom-admingraytheorystudiocom-wwwpromptbasecomprofilespacemakergrayve-wwwinstagramcomspacemakergrayve-photography-sleek-and-minimalist-elevator-lobby-in-a-corporate-building-front-view-eye-level-shot-canon-eos-5d-mark-iv.png"><img src="https://cdn.prompthero.com/68372y4j80cc9yxt3ph9lsp2ric9-midjourney-6-more-info-wwwgraytheorystudiocom-admingraytheorystudiocom-wwwpromptbasecomprofilespacemakergrayve-wwwinstagramcomspacemakergrayve-photography-sleek-and-minimalist-elevator-lobby-in-a-corporate-building-front-view-eye-level-shot-canon-eos-5d-mark-iv.png" width="480" alt="After"></a>
+<a href="https://cdn.prompthero.com/uf699nqf9m19j8d0q3ne14denx30-midjourney-niji-v6-dachshund-dog-red-one-eye-blue-the-other-brown-wearing-large-marshall-headphones-a-red-down-jacket-standing-on-the.png"><img src="https://cdn.prompthero.com/uf699nqf9m19j8d0q3ne14denx30-midjourney-niji-v6-dachshund-dog-red-one-eye-blue-the-other-brown-wearing-large-marshall-headphones-a-red-down-jacket-standing-on-the.png" width="480" alt="After"></a>
 
 **Prompt**
 
 ```text
-photography, sleek and minimalist elevator lobby in a corporate building, front view, eye level shot, Canon EOS 5D Mark IV, EF 24mm f/1.4L II USM lens, f/2.8, vertical media art installation as the centerpiece, the art should exude a fluid, metallic sheen with shades of blue that ripple across its surface, providing a vibrant contrast to the understated elegance of the surroundings, lobby is defined by clean lines with a modern control gate system for secure access, materials used throughout are premium and carefully chosen for their texture and reflective qualities, enhancing the luxurious feel of the space, showcasing the height and grandeur of the lobby, with a focus on the harmony between technology and art, ultra resolution detail to emphasize the material finishes and the ambient lighting of the setting, realism light --ar 9:16 --style raw --stylize 700 --chaos 1 --v 6
+dachshund dog, red, one eye blue, the other brown, wearing large Marshall headphones, a red down jacket, standing on the road against the backdrop of a rainy city, futuristic style --stylize 700
 ```
 
-By [@Grayve](https://prompthero.com/prompt/6fd97df811d-midjourney-6-more-info-wwwgraytheorystudiocom-admingraytheorystudiocom-wwwpromptbasecomprofilespacemakergrayve-wwwinstagramcomspacemakergrayve-photography-sleek-and-minimalist-elevator-lobby-in-a-corporate-building-front-view-eye-level-shot-canon-eos-5d-mark-iv)
+[Source](https://prompthero.com/prompt/0b6df7f515f-midjourney-niji-v6-dachshund-dog-red-one-eye-blue-the-other-brown-wearing-large-marshall-headphones-a-red-down-jacket-standing-on-the)
 
 ---
 
-[1](creative-art.md) · **2** · [3](creative-art-3.md) · [4](creative-art-4.md) · [5](creative-art-5.md) · [6](creative-art-6.md) · [7](creative-art-7.md) · [8](creative-art-8.md) · [9](creative-art-9.md) · [10](creative-art-10.md) · [11](creative-art-11.md)
+<a id="prompthero-0c97785b276"></a>
+
+## Transform to extreme vivid fantasy realism style a\.\.\.
+
+<a href="https://cdn.prompthero.com/tji7lpvibmvsu5nykoibu5h8yb4r-flux-flux-11-pro-transform-to-extreme-vivid-fantasy-realism-style-art-ultra-detailed-masterpiece-depiction-of-medusa-from-marvel-inc-in-hyper-realistic.jpg"><img src="https://cdn.prompthero.com/tji7lpvibmvsu5nykoibu5h8yb4r-flux-flux-11-pro-transform-to-extreme-vivid-fantasy-realism-style-art-ultra-detailed-masterpiece-depiction-of-medusa-from-marvel-inc-in-hyper-realistic.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+Transform to extreme vivid fantasy realism style art, ultra-detailed masterpiece, depiction of Medusa from Marvel Inc., in hyper-realistic fantasy digital photography, meticulously captured with precision and care, centered, perfect composition, overexposed photography creating a striking and ethereal atmosphere, sharp focus ensuring exquisite details, clear and bright elements highlighting her iconic red hair, expressive eyes filled with regal command and inner turmoil, the intricate details showcasing her flowing hair and stoic pose, seamlessly merging realism with fantasy, celebrating the essence of power and her inner conflicts in a visually stunning and imaginative setting.
+```
+
+[Source](https://prompthero.com/prompt/0c97785b276-flux-flux-11-pro-transform-to-extreme-vivid-fantasy-realism-style-art-ultra-detailed-masterpiece-depiction-of-medusa-from-marvel-inc-in-hyper-realistic)
+
+---
+
+[1](creative-art.md) · **2** · [3](creative-art-3.md) · [4](creative-art-4.md) · [5](creative-art-5.md) · [6](creative-art-6.md) · [7](creative-art-7.md) · [8](creative-art-8.md) · [9](creative-art-9.md) · [10](creative-art-10.md) · [11](creative-art-11.md) · [12](creative-art-12.md) · [13](creative-art-13.md)
 
 [← Home](../README.md)

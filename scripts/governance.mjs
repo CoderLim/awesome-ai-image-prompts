@@ -1,3 +1,6 @@
+import fs from 'node:fs';
+import path from 'node:path';
+import { createHash } from 'node:crypto';
 import { exclusionMatches } from './review-exclusions.mjs';
 import { isXCollector,hasXPermission } from './x-source.mjs';
 // Deterministic content triage. Scores are metadata completeness, not aesthetic/model verification.
@@ -94,7 +97,7 @@ export function selectCanonical(rows,duplicateGroups){
  return {removed,kept};
 }
 
-export function govern(records,exclusions=[]){
+export function govern(records,exclusions=[],approvals={}){
  const manual=exclusionMatches(records,exclusions);
  const exact=new Map(),posts=new Map(),images=new Map(),prefixes=new Map();
  const add=(map,k,id)=>{if(!k)return;const a=map.get(k)??[];if(!a.includes(id))a.push(id);map.set(k,a);};
@@ -118,7 +121,7 @@ export function govern(records,exclusions=[]){
  if(c.type==='editing')tagList.push('image-editing');
  const score=(visible?2:0)+(r.provenance.originalSource.url?1:0)+(c.confidence==='high'?1:0)+(c.inputMode!=='unknown'?1:0);
  const item={...c,tags:[...new Set(tagList)],quality:{status:manual.has(r.id)?'manual-excluded':visible?'metadata-complete':'needs-content-review',score,flags,imageAvailability:'unchecked',imagePromptMatch:'unchecked',reproduction:'untested',rights:r.rights.prompt==='CC-BY-4.0'&&r.rights.media==='CC-BY-4.0'&&r.rights.evidence?'license-documented':hasXPermission(r)?'permission-documented':'pending-review'},visible};
- metadata[r.id]=item;rows.push({...r,...c,tags:item.tags,quality:item.quality,visible});
+ metadata[r.id]=item;rows.push({...r,...c,tags:item.tags,quality:item.quality,visible,firstPassApproved:Object.hasOwn(approvals,r.id)&&approvals[r.id]===firstPassFingerprint(r)});
  }
  const dedup=selectCanonical(rows,duplicates), removedById=new Map(dedup.removed.map(r=>[r.id,r]));
  for(const r of rows){const dropped=removedById.get(r.id);if(dropped){r.visible=false;r.quality={...r.quality,status:manual.has(r.id)?'manual-excluded':'duplicate-excluded',flags:[...r.quality.flags,'duplicate-excluded']};metadata[r.id]={...metadata[r.id],visible:false,quality:r.quality,duplicateOf:dropped.keptId};}}
@@ -130,8 +133,19 @@ export function govern(records,exclusions=[]){
  * Public gallery / Cloudflare sync only publish `approved`.
  * Source-license / redistribution permission is no longer a publication gate.
  */
+export function firstPassFingerprint(r){
+ return createHash('sha256').update(JSON.stringify([r.prompt.original,r.sourcePreview.images.map(m=>[m.url,m.role]),r.provenance.originalSource.url??null,r.provenance.originalSource.postId??null])).digest('hex');
+}
+export function readFirstPassApprovals(root='.'){
+ const file=path.join(root,'data/review/first-pass-approvals.json');
+ if(!fs.existsSync(file))return {};
+ const entries=JSON.parse(fs.readFileSync(file,'utf8'));
+ if(!entries||typeof entries!=='object'||Array.isArray(entries)||Object.entries(entries).some(([id,hash])=>!(/^[a-z0-9-]+$/).test(id)||typeof hash!=='string'||!(/^[a-f0-9]{64}$/).test(hash)))throw Error('Invalid first-pass review approvals');
+ return entries;
+}
 export function reviewStatus(r){
  if(!r.visible)return 'rejected';
+ if(r.firstPassApproved===true)return 'approved';
  if(r.sourceMeta?.review?.qualityStatus==='recommended')return 'approved';
  // Curated recipe sources already passed source-level content review.
  if(r.provenance?.collectedFrom?.[0]?.sourceId==='vcl')return 'approved';
