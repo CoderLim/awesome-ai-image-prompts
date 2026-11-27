@@ -185,3 +185,24 @@ migrations/0001_prompts.sql
 上层网站调用、页面、搜索、SEO、用户数据；视频实际处理；发布快照和 gallery_state；增量记录修订、任务数据库、复杂分布式协调；自动 R2 GC 和定期对账。
 
 最终交付是可重复执行的单向数据发布脚本、一张 D1 表和一个自动化 workflow。接受同步期间短暂缺失或新旧混合；不接受误删全表、跨类型覆盖、无资格发布或引用未上传资源。
+
+## 9. 实施配置与操作
+
+代码已在本仓库实现；云端首次执行仍需配置资源并完成验证。
+
+1. 在 Cloudflare 创建独立 D1（建议 prompts-db）及 R2 bucket（建议 prompt-media）。用 D1 控制台执行 `migrations/0001_prompts.sql`，不要在业务数据库执行。
+2. 仓库 Settings → Secrets and variables → Actions：
+   - Variables：`CLOUDFLARE_ACCOUNT_ID`、`GALLERY_D1_DATABASE_ID`、`GALLERY_R2_BUCKET`。
+   - Secrets：`GALLERY_D1_API_TOKEN`（目标 D1 读写）、`GALLERY_R2_ACCESS_KEY_ID`、`GALLERY_R2_SECRET_ACCESS_KEY`（目标 bucket 对象读写）。
+   - `GALLERY_SYNC_ENABLED` 初始不设置；此时 Actions 只跑仓库校验和导出统计。创建资源、执行迁移、核对目标及权限后设为 `true`。配置启用之后 main 相关变更会自动同步。
+3. 手动运行 Sync prompt gallery，保持 dry_run=true，核对数量和删除计划；此模式仅查询 D1，不下载媒体或写入 D1/R2。首次确认后手动关闭 dry_run 正式同步。
+4. 同步失败可直接重跑。需要重新下载媒体时开启 force_media_refresh；大规模普通删除必须检查计划后显式开启 allow_large_delete。
+5. 本地只检查导出：`node scripts/export-gallery.mjs` 或 `node scripts/sync-gallery.mjs --export-only`，均不需要云端凭据。生产写入仅走同一 Actions workflow。
+
+实现说明：
+- D1 使用参数化 REST SQL，每次最多 5 条 UPSERT；R2 使用 AWS CLI S3 兼容 API，图片通过 Pillow 11.3.0 校验、缩略图压缩。不新增 npm 运行时依赖。
+- 手工精选完整列表全部同步，README 的 30 条展示上限不限制 D1；legacy null 自动精选沿用现有 README 选择逻辑。缺失描述/模型时为空。
+- 目前仅允许仓库已有明确 CC BY 4.0 双项授权证据或 X 逐资产许可的案例；其他来源保持待审。授权及归属元数据保留在 author JSON 中。实际可导出数量以运行结果为准。
+- 权利撤回先下架已知失去许可的记录并检查 D1 图片/视频引用再清理 R2。如果撤回删除失败，Actions 日志保存候选对象 key；人工再次检查两种类型全部引用后重试 R2 删除，必要时清理已知 CDN 缓存。普通下架不做 R2 清理。
+- 目前可处理 JPEG、PNG、WebP 和 GIF，单文件上限 25 MiB，缩略图最长边 640px；其他格式明确报错，不会将失败当成已同步。
+- `npm test` 包含同步流程的模拟适配器测试和 SQLite 迁移测试；真实 D1/R2 集成验证需配置隔离测试资源。不能把模拟测试当作生产同步成功。
