@@ -20,6 +20,10 @@ on:
         description: Explicitly approve ordinary mass deletion
         type: boolean
         default: false
+      limit:
+        description: Sync only the first N approved records (skips stale deletion)
+        type: string
+        default: ''
 permissions:
   contents: read
 concurrency:
@@ -59,10 +63,12 @@ jobs:
           DRY_RUN: ${{ inputs.dry_run }}
           FORCE_MEDIA: ${{ inputs.force_media_refresh }}
           ALLOW_DELETE: ${{ inputs.allow_large_delete }}
+          LIMIT: ${{ inputs.limit }}
         shell: bash
         run: |
           args=()
           if [[ "$DRY_RUN" == true ]]; then args+=(--dry-run); fi
           if [[ "$FORCE_MEDIA" == true ]]; then args+=(--force-media-refresh); fi
           if [[ "$ALLOW_DELETE" == true ]]; then args+=(--allow-large-delete); fi
+          if [[ -n "$LIMIT" ]]; then args+=(--limit="$LIMIT"); fi
           node scripts/sync-gallery.mjs "${args[@]}"

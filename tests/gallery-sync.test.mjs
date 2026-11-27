@@ -86,3 +86,11 @@ test('cross-type ID collision rejected before writes',async()=>{
   await assert.rejects(runSync(snapshot([record('collision')]),io),/collision/);
   assert.equal(calls.length,0);assert.equal(data.get('collision').media_type,'video');
 });
+test('limited upsert can skip stale deletion',async()=>{
+  const {data,calls,io}=fake([existing('old'),existing('keep')]);
+  await runSync(snapshot([record('keep'),record('new')]),io,{skipDelete:true});
+  assert(data.has('old'));
+  assert(data.has('keep'));
+  assert(data.has('new'));
+  assert(!calls.some(c=>c[0]==='delete'));
+});

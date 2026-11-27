@@ -22,19 +22,21 @@ export function deletionPlan(existing, records, allowLarge=false) {
   const blocked=!allowLarge && stale.length>0 && (records.length===0||stale.length/existing.length>0.2);
   return {stale,blocked};
 }
-export async function runSync(snapshot,io,{dryRun=false,allowLarge=false,forceMedia=false}={}) {
-  const {mediaType,records}=snapshot;
+export async function runSync(snapshot,io,{dryRun=false,allowLarge=false,forceMedia=false,skipDelete=false}={}) {
+  const {mediaType}=snapshot;
+  const records=snapshot.records;
   if(mediaType!=='image')throw Error('Only image sync is implemented');
   if(new Set(records.map(r=>r.id)).size!==records.length || records.some(r=>r.media_type!==mediaType))throw Error('Invalid export');
   // Exporter already limited records to reviewStatus=approved with publicationStatus=cleared.
   // Sync only upserts that set and deletes stale IDs — no second publication gate.
+  // Partial --limit syncs set skipDelete so a smoke upsert does not wipe the rest of D1.
   const existing=await io.list(mediaType);
   await io.assertNoCollisions(records,mediaType);
   const {stale,blocked}=deletionPlan(existing,records,allowLarge);
   console.log(JSON.stringify({sourceCommit:process.env.SOURCE_COMMIT??null,type:mediaType,published:records.length,pending:snapshot.pending?.length,
-    existing:existing.length,stale:stale.length,blocked,dryRun}));
+    existing:existing.length,stale:stale.length,blocked,dryRun,skipDelete}));
   if(dryRun)return {stale:stale.length,blocked};
-  if(blocked)throw Error('Large ordinary deletion blocked; inspect export and explicitly approve');
+  if(!skipDelete&&blocked)throw Error('Large ordinary deletion blocked; inspect export and explicitly approve');
   const mediaMap=new Map();
   for(const r of existing) for(const m of JSON.parse(r.media)) mediaMap.set(m.originalUrl,m);
   const ready=[],failures=[];
@@ -52,12 +54,21 @@ export async function runSync(snapshot,io,{dryRun=false,allowLarge=false,forceMe
   }
   await io.upsert(ready,mediaType);
   if(failures.length)throw Error('Media sync incomplete; ordinary deletion skipped ('+failures.length+')');
-  await io.remove(stale.map(r=>r.id),mediaType);
-  const final=await io.list(mediaType);
-  const ids=new Set(records.map(r=>r.id));
-  if(final.length!==ids.size||final.some(r=>!ids.has(r.id)))throw Error('Final D1 IDs mismatch');
-  console.log(JSON.stringify({upserted:ready.length,deleted:stale.length,final:final.length}));
-  return {upserted:ready.length,deleted:stale.length};
+  let deleted=0;
+  if(!skipDelete){
+    await io.remove(stale.map(r=>r.id),mediaType);
+    deleted=stale.length;
+    const final=await io.list(mediaType);
+    const ids=new Set(records.map(r=>r.id));
+    if(final.length!==ids.size||final.some(r=>!ids.has(r.id)))throw Error('Final D1 IDs mismatch');
+    console.log(JSON.stringify({upserted:ready.length,deleted,final:final.length,skipDelete}));
+  }else{
+    const final=await io.list(mediaType);
+    const have=new Set(final.map(r=>r.id));
+    if(ready.some(r=>!have.has(r.id)))throw Error('Limited upsert missing from D1');
+    console.log(JSON.stringify({upserted:ready.length,deleted:0,final:final.length,skipDelete:true}));
+  }
+  return {upserted:ready.length,deleted};
 }
 export function createCloud(env=process.env) {
   const account=required(env,'CLOUDFLARE_ACCOUNT_ID'),db=required(env,'D1_DATABASE_ID'),token=required(env,'CLOUDFLARE_API_TOKEN');
@@ -178,9 +189,24 @@ export function createCloud(env=process.env) {
 }
 
 if(process.argv[1]&&import.meta.url===pathToFileURL(path.resolve(process.argv[1])).href){
-  const args=new Set(process.argv.slice(2));
-  if([...args].some(a=>!['--dry-run','--allow-large-delete','--force-media-refresh','--export-only'].includes(a)))throw Error('Unknown argument');
+  const raw=process.argv.slice(2);
+  const flags=new Set();
+  let limit=null;
+  for(const a of raw){
+    if(a.startsWith('--limit=')){
+      limit=Number(a.slice('--limit='.length));
+      if(!Number.isInteger(limit)||limit<=0)throw Error('Invalid --limit');
+      continue;
+    }
+    if(['--dry-run','--allow-large-delete','--force-media-refresh','--export-only','--skip-delete'].includes(a)){flags.add(a);continue;}
+    throw Error('Unknown argument: '+a);
+  }
   const snapshot=exportGallery();
-  console.log(JSON.stringify({total:snapshot.total,canonical:snapshot.canonical,approved:snapshot.approved,published:snapshot.published,pending:snapshot.pending.length,rejected:snapshot.rejected}));
-  if(!args.has('--export-only'))await runSync(snapshot,createCloud(),{dryRun:args.has('--dry-run'),allowLarge:args.has('--allow-large-delete'),forceMedia:args.has('--force-media-refresh')});
+  if(limit!==null){
+    snapshot.records=snapshot.records.slice(0,limit);
+    snapshot.published=snapshot.records.length;
+    flags.add('--skip-delete');
+  }
+  console.log(JSON.stringify({total:snapshot.total,canonical:snapshot.canonical,approved:snapshot.approved,published:snapshot.published,pending:snapshot.pending.length,rejected:snapshot.rejected,limit,skipDelete:flags.has('--skip-delete')}));
+  if(!flags.has('--export-only'))await runSync(snapshot,createCloud(),{dryRun:flags.has('--dry-run'),allowLarge:flags.has('--allow-large-delete'),forceMedia:flags.has('--force-media-refresh'),skipDelete:flags.has('--skip-delete')});
 }
