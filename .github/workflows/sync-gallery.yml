@@ -6,7 +6,6 @@ on:
       - 'data/**'
       - 'scripts/**'
       - 'migrations/**'
-      - '.github/workflows/sync-gallery.yml'
   workflow_dispatch:
     inputs:
       dry_run:
@@ -43,14 +42,13 @@ jobs:
       - name: Set source commit
         run: echo "SOURCE_COMMIT=$(git rev-parse HEAD)" >> "$GITHUB_ENV"
       - name: Install media tools
-        if: vars.GALLERY_SYNC_ENABLED == 'true'
+        if: github.event_name != 'workflow_dispatch' || !inputs.dry_run
         run: |
           python3 -m venv "$RUNNER_TEMP/gallery-venv"
           "$RUNNER_TEMP/gallery-venv/bin/pip" install Pillow==11.3.0
           echo "$RUNNER_TEMP/gallery-venv/bin" >> "$GITHUB_PATH"
           aws --version
       - name: Sync D1 and R2
-        if: vars.GALLERY_SYNC_ENABLED == 'true'
         env:
           CLOUDFLARE_ACCOUNT_ID: ${{ vars.CLOUDFLARE_ACCOUNT_ID }}
           D1_DATABASE_ID: ${{ vars.GALLERY_D1_DATABASE_ID }}
@@ -68,6 +66,3 @@ jobs:
           if [[ "$FORCE_MEDIA" == true ]]; then args+=(--force-media-refresh); fi
           if [[ "$ALLOW_DELETE" == true ]]; then args+=(--allow-large-delete); fi
           node scripts/sync-gallery.mjs "${args[@]}"
-      - name: Cloud writes disabled
-        if: vars.GALLERY_SYNC_ENABLED != 'true'
-        run: echo "Export validation only. Configure resources and explicitly enable GALLERY_SYNC_ENABLED."
