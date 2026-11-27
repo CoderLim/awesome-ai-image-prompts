@@ -42,7 +42,7 @@ export function reviewStatus(row, approvals = {}) {
     // A stale explicit approval must return to pending.
     return approvals[row.id] === reviewFingerprint(row) ? 'approved' : 'pending';
   }
-  // The existing "recommended" import flag is text-only, not a visual verdict.
+  // First-pass AI decisions are persisted by content fingerprint. Never auto-approve a new or changed source record solely from a mutable import flag.
   return 'pending';
 }
 

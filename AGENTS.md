@@ -6,8 +6,10 @@ This is the authoritative operating guide for AI coding agents and contributors.
 
 Follow [simplified review](docs/simplified-review.md) for new content review
 decisions and cloud export. The only operational review states are pending,
-approved and rejected; featured is independent. Record actual approvals via
-the local reviewer or review-status-cli; do not bulk-approve unseen content.
+approved and rejected; featured is independent. Record first-pass AI approvals via review-status-cli after inspecting prompt content,
+source image references, classification and deduplication. Do not require a second
+manual approval. The local reviewer is primarily for optional image curation,
+deletion and featured selection. Do not claim visual inspection that did not occur.
 Generated governance metadata contains reviewStatus and diagnostic reviewReasons; it is derived from source data and durable review decisions.
 The public sync exports approved cases that meet the source publication
 conditions. Preserve rights evidence; no separate manual rights-state workflow
@@ -153,7 +155,7 @@ For collector exports follow [the local review workflow](docs/prompthero-review-
 
 ## Local visual curation
 
-Use [the local image reviewer](docs/local-image-review.md) via `npm run review:images` (optional `-- --queue /absolute/path/to/V3.jsonl`). The explicitly owner-requested local-only reviewer writes `data/review/exclusions.json`. Keep this durable input separate from source shards; build and future import plans honor exclusions across exact post/prompt components. Do not silently reset it during sync. Raw records remain for audit. Rebuild and check after changing exclusions; retaining an item is not visual or rights approval. Do not commit private queues, image caches or credentials.
+Use [the local image reviewer](docs/local-image-review.md) via `npm run review:images` (optional `-- --queue /absolute/path/to/V3.jsonl`). The explicitly owner-requested local-only reviewer writes `data/review/exclusions.json`. Keep this durable input separate from source shards; build and future import plans honor exclusions across exact post/prompt components. Do not silently reset it during sync. Raw records remain for audit. Rebuild and check after changing exclusions or approvals. First-pass content approval does not claim visual verification or source publication permission. Do not commit private queues, image caches or credentials.
 
 README featured previews use `data/review/featured.json`: null keeps legacy auto-selection until the first manual pick; an array is authoritative, including an empty array. Local reviewer can feature/unfeature existing and pending cases; rendering includes only approved canonical cases satisfying source publication conditions, with no auto-fill in manual mode. Preserve selection order across both galleries in one grid (cap 30), category navigation and the three-column README layout. Rebuild both READMEs after changing selections. Do not reset featured choices during sync.
 

@@ -8,18 +8,24 @@ in data/review/approvals.json, not fields in replaceable source shards.
 ## Review workflow
 
 - Run `npm run review:images` for the local reviewer. Filter by review state,
-  inspect the image and full prompt, approve or exclude individually or in batches.
-  Featured does not imply approval. Unimported candidates must be imported first.
+  default to browsing non-rejected cases, delete unsatisfactory examples and feature
+  good examples. Manual approval is optional, not a publication prerequisite after AI
+  first-pass approval. Unimported candidates must be imported first.
 - `node scripts/review-status-cli.mjs summary` reports the three content states.
 - `node scripts/review-status-cli.mjs pending` emits local review candidates.
-- After actually inspecting the complete prompt and source images, an agent can
-  record approval with `node scripts/review-status-cli.mjs approve ID ...`.
-  Do not approve unseen images or merely text-reviewed cases in bulk.
-- Existing exclusions and dedup remain effective. Existing recommended text
-  reviews are reused for classification but do not prove visual approval.
+- After completing first-pass content review (complete prompt, source image
+  reference, classification and deduplication), an agent can directly record
+  approval with `node scripts/review-status-cli.mjs approve ID ...`. Human review
+  of visual aesthetics is optional later curation. Do not claim unseen images
+  were visually inspected; obvious mismatches or incomplete cases are excluded
+  or left pending.
+- Existing exclusions and dedup remain effective. Existing recommended first-pass text reviews are reused as content approval
+  under the owner's revised workflow; they do not establish visual verification.
   Exactly nine previously publishable VCL cases are migrated as explicit
   fingerprinted approvals; this is a compatibility decision, not new visual
-  verification. New cases always start pending.
+  verification. On 2026-11-27, 1,226 canonical PromptHero and 29 AWENIAI
+  first-pass recommended cases were migrated to fingerprinted approvals.
+  New cases start pending until an actual first-pass decision is recorded.
 - A changed prompt, image URL/role or original source identity invalidates an
   explicit approval. Keep raw data and source metadata for traceability.
 
@@ -57,6 +63,7 @@ filter in the consumer until the public-only dataset has been verified.
   are not included. Source shards, exclusions, featured selections and
   duplicate mappings are retained.
 - After review changes run npm run build and npm run check before committing.
-  The 2026-11-27 migration rebuild retained 1,907 canonical IDs: 1,898 pending,
-  9 approved, 225 rejected out of 2,132 source records. This is a baseline
-  compatibility migration, not a new visual review of the pending records.
+  The revised 2026-11-27 migration retained 1,907 canonical IDs: 643 pending,
+  1,264 approved, 225 rejected out of 2,132 source records. These are content
+  review decisions, not newly verified visual results or source permissions.
+  The public export still contains 9 cases under the existing source policy.
