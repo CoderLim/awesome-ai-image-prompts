@@ -1,331 +1,331 @@
 # illustrations
 
-[← Home](../README.md) · Page 1 / 11
+[← Home](../README.md) · Page 1 / 7
 
-**1** · [2](illustrations-2.md) · [3](illustrations-3.md) · [4](illustrations-4.md) · [5](illustrations-5.md) · [6](illustrations-6.md) · [7](illustrations-7.md) · [8](illustrations-8.md) · [9](illustrations-9.md) · [10](illustrations-10.md) · [11](illustrations-11.md)
+**1** · [2](illustrations-2.md) · [3](illustrations-3.md) · [4](illustrations-4.md) · [5](illustrations-5.md) · [6](illustrations-6.md) · [7](illustrations-7.md)
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
-<a id="evolink-advertising-case-175"></a>
+<a id="prompthero-0b8761bf0b9"></a>
 
-## Country Landscapes in Snack Packaging
+## a painting of a woman in red with black hair, in t\.\.\.
 
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2107334161413664768.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2107334161413664768.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-A striking top-down art photograph of a famous packaged food/snack from [COUNTRY], placed on a clean white sheet of paper. At the very top of the paper, write “[COUNTRY NAME]” in large, bold, beautiful typography. Directly underneath, place a realistic, colorful packet of “[FAMOUS FOOD/SNACK]” from that country. The packet is creatively split/opened down the center, and the inside artwork transforms into a vibrant miniature illustration of the country — featuring its most iconic landmark, architecture, landscape, cultural elements and recognizable local details. Keep the original food packet highly realistic with authentic-looking folds, crinkles, printed graphics and vivid colors, while the emerging country illustration uses expressive colored-pencil and wax-crayon strokes. White paper background, overhead composition, playful handmade imperfections, rich saturated colors, premium editorial art photography, extremely detailed, visually satisfying, viral social-media aesthetic.
-```
-
-By [@Naiknelofar788](https://x.com/Naiknelofar788/status/2107334172633379213)
-
----
-
-<a id="evolink-gpt-image-2-6-case-260"></a>
-
-## Looping Anime Kaleidoscope Animation
-
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/2118665679846993920.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/2118665679846993920.jpg" width="480" alt="Source example"></a>
+<a href="https://cdn.prompthero.com/t3sgifeg78ljihgcwicy0rouw35t-midjourney-6-a-painting-of-a-woman-in-red-with-black-hair-in-the-style-of-delicate-ink-washes-epic-fantasy-scenes.png"><img src="https://cdn.prompthero.com/t3sgifeg78ljihgcwicy0rouw35t-midjourney-6-a-painting-of-a-woman-in-red-with-black-hair-in-the-style-of-delicate-ink-washes-epic-fantasy-scenes.png" width="480" alt="After"></a>
 
 **Prompt**
 
 ```text
-Create a seamless looping 1:1 2D anime kaleidoscope animation using the supplied character as the exact identity reference. Preserve the face, hairstyle, anatomy, outfit and visual style. COMPOSITION: A vibrant, symmetrical kaleidoscope featuring one large central character and four surrounding copies arranged diagonally at different radial angles. Layer overlapping character portraits, decorative Japanese fans, floral motifs and colorful geometric patterns. Fill the entire frame with dense, intricate details extending beyond the edges. No circular frames. ANIMATION: Keep the overall composition stationary while all five character instances perform independent, expressive anime movements: head tilts, blinking, playful expressions, flowing hair and rhythmic gestures. Use smooth hand-drawn animation with crisp linework, cel shading and lively secondary motion. LOOP: All movements return naturally to their initial poses for a perfectly seamless infinite loop. No text, logos, subtitles or additional characters.
+a painting of a woman in red with black hair, in the style of delicate ink washes, epic fantasy scenes, chinese painting, splattered/dripped, white background, traditional costumes, soft focus lens --ar 73:98 --stylize 750 --v 6
 ```
 
-By [@aimikoda](https://x.com/aimikoda/status/2118665755994546650)
+By [@NorthmoorAI](https://prompthero.com/prompt/0b8761bf0b9-midjourney-6-a-painting-of-a-woman-in-red-with-black-hair-in-the-style-of-delicate-ink-washes-epic-fantasy-scenes)
 
 ---
 
-<a id="evolink-illustration-case-124"></a>
+<a id="prompthero-0b7433655b3"></a>
 
-## Hand-Drawn Watermelon Magazine Illustration
+## a portrait of a narcissistic girl in a paradise, e\.\.\.
 
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2108424193708867584.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2108424193708867584.jpg" width="480" alt="Source example"></a>
+<a href="https://cdn.prompthero.com/6vvcowuobzxsadneqbsjhugjj89x-stable-diffusion-xl-base-09-a-portrait-of-a-narcissistic-girl-in-a-paradise-emotive-face-sultry-anime-in-the-style-of-comics-8k-rough.png"><img src="https://cdn.prompthero.com/6vvcowuobzxsadneqbsjhugjj89x-stable-diffusion-xl-base-09-a-portrait-of-a-narcissistic-girl-in-a-paradise-emotive-face-sultry-anime-in-the-style-of-comics-8k-rough.png" width="480" alt="After"></a>
 
 **Prompt**
 
 ```text
-Create an original vertical 9:16 semi-realistic hand-drawn editorial illustration of a quirky young adult woman caught in a funny, spontaneous moment while eating a slice of watermelon. She has realistic human facial anatomy, naturally flushed cheeks, detailed expressive hazel eyes, a few freckles, and messy dark auburn hair loosely tied in a high ponytail with a mustard-yellow ribbon. She wears a vivid plum-purple blouse with loose cream-colored stripes. Her body leans forward over a kitchen table, her head tilted slightly to one side, eyes glancing sideways with a comically suspicious expression, cheeks slightly puffed, and lips pressed together as she tries not to laugh. One hand holds a juicy watermelon slice close to her mouth while the other rests casually on the table beside a small ceramic plate. The image must look like a traditional artist's expressive sketchbook illustration, with loose charcoal and graphite strokes, rough ink outlines, visible construction marks, scratchy cross-hatching, textured watercolor washes and opaque gouache brushwork. Realistic skin shading and believable human hands, painterly facial details, imperfect sketch lines extending beyond the figure, lively spontaneous brush marks. Background: a loosely sketched muted dusty-lavender kitchen wall with pale mint and warm ivory brush strokes, faint illegible handwritten-style artistic scribbles, and unfinished pencil marks. Use a fresh, vibrant color palette of plum purple, watermelon red, mustard yellow, dusty lavender, pale mint, and warm peach skin tones. Medium close-up composition, face large and sharply readable, natural human proportions, expressive eyes and mouth, visible paper texture, sophisticated hand-illustrated magazine art aesthetic. Keep the character visually dominant and the background loose and sketchy. IMPORTANT STYLE: semi-realistic human illustration, NOT cartoon, NOT anime, NOT 3D, NOT glossy digital art, NOT a photograph. Preserve the raw, loose, textured, imperfect hand-drawn quality of traditional editorial sketch art. Original character, original pose, original outfit, original composition.
+a portrait of a narcissistic girl in a paradise, emotive face, sultry, anime, in the style of comics, 8k, rough, dark background, muted colors, digital painting, very intricate
 ```
 
-By [@hey\_am\_cherry](https://x.com/hey_am_cherry/status/2108424213132697763)
+By [@ArtEnthusiast](https://prompthero.com/prompt/0b7433655b3-stable-diffusion-xl-base-09-a-portrait-of-a-narcissistic-girl-in-a-paradise-emotive-face-sultry-anime-in-the-style-of-comics-8k-rough)
 
 ---
 
-<a id="evolink-illustration-case-125"></a>
+<a id="prompthero-0ee1764c741"></a>
 
-## Skin Bas-Relief Imprint Art
+## Two astronauts walk on the surface of an alien pla\.\.\.
 
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2108194217407471616.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2108194217407471616.jpg" width="480" alt="Source example"></a>
+<a href="https://cdn.prompthero.com/8d53vtllejlyom0b5e6xt080ch0i-midjourney-61-two-astronauts-walk-on-the-surface-of-an-alien-planet-one-holding-a-visualization-device-theres-also-a-alien-building.png"><img src="https://cdn.prompthero.com/8d53vtllejlyom0b5e6xt080ch0i-midjourney-61-two-astronauts-walk-on-the-surface-of-an-alien-planet-one-holding-a-visualization-device-theres-also-a-alien-building.png" width="480" alt="After"></a>
 
 **Prompt**
 
 ```text
-【主体】 × 【身体不同部位】肌肤 × 浅浮雕压痕 × 局部红晕 × 浅宽凹压痕签名“DeepBlue” 说明： 压痕由外力形成，作画主体随肌肤曲面自然变形，留下浅而柔和的凹凸痕迹，压痕深浅自然不一，并伴随局部短暂泛红。整体细节保持克制，不追求过度精细的纹理与清晰边缘，保持皮肤柔软自然，避免过深、过硬、过度清晰的雕刻感。签名以非常浅、较宽的凹压痕自然呈现，笔画具有适度宽度与厚度，轻微陷入肌肤表面，与整体压痕保持一致，不呈现细线、刺青、印刷或雕刻效果。 —————————— 举例，比如1图： 爱心 × 锁骨肌肤 × 浅浮雕压痕 × 局部红晕 × 浅宽凹压痕签名“DeepBlue”
+Two astronauts walk on the surface of an alien planet, one holding a visualization device, There's also a alien building next to them, with footprints leading towards it. The image is in a concept art style, a digital painting with futuristic realism, a flat background, simple details, and low-saturation colors, in the style of Enki Bilal. --chaos 55 --ar 35:38 --style raw --stylize 750 --v 6.1
 ```
 
-By [@DeepBlueX0](https://x.com/DeepBlueX0/status/2108194229193461879)
+By [@Dallas59](https://prompthero.com/prompt/0ee1764c741-midjourney-61-two-astronauts-walk-on-the-surface-of-an-alien-planet-one-holding-a-visualization-device-theres-also-a-alien-building)
 
 ---
 
-<a id="evolink-illustration-case-126"></a>
+<a id="prompthero-0f454993e5d"></a>
 
-## Paper Quilling Couture Figure
+## 1 girl, \[Sarah Michelle Gellar\|Sandra Bullock\|Mich\.\.\.
 
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2108136159234654208.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2108136159234654208.jpg" width="480" alt="Source example"></a>
+<a href="https://cdn.prompthero.com/d7t0fdx9fau4bj934321zd5lpvdd-dreamshaper-5-baked-vae-1-girl-sarah-michelle-gellarsandra-bullockmichelle-williams-as-a-greek-priestess-with-streaked-hairtwo-tone-hairplant-hair-looking-cold-sites.png"><img src="https://cdn.prompthero.com/d7t0fdx9fau4bj934321zd5lpvdd-dreamshaper-5-baked-vae-1-girl-sarah-michelle-gellarsandra-bullockmichelle-williams-as-a-greek-priestess-with-streaked-hairtwo-tone-hairplant-hair-looking-cold-sites.png" width="480" alt="After"></a>
 
 **Prompt**
 
 ```text
-3D paper quilling bas-relief art of a faceless female [SUBJECT/POSE, e.g., dancer in a high-kick pose / fashion mannequin in a dynamic walking stride]. She wears a wide-brimmed [HAT COLOR] paper hat with a [ACCENT COLOR] paper rose, a [BODICE STYLE & COLOR, e.g., deep V-neck crimson red bodice], a flowing pleated [OVERSKIRT COLOR] overskirt, a fan-pleated [UNDERSKIRT COLOR] underskirt, and matching [SHOE COLOR] stiletto heels. Surrounding her are swirling metallic [WIRE COLOR] wire tendrils, [LEAF COLOR] paper leaves, and coiled [FLOWER COLORS] paper roses. Set against a matte [BACKGROUND COLOR & TEXTURE, e.g., dark navy blue textured] backdrop with dramatic spotlighting casting soft paper drop shadows.  --ar 2:3
+1 girl, [Sarah Michelle Gellar|Sandra Bullock|Michelle Williams] as a greek priestess with streaked hair,two-tone hair,Plant Hair looking Cold, Sites of Human Evolution at Mount Carmel: The Nahal Me’arot / Wadi el-Mughara Caves,Cyber Fairy Grunge, Lying down,sitting on lap, ice blue eyes, gradient, elaborate black theme animal costume, one piece character, extremely detailed, iridescence, artstation, Illustration,Portrait,Oil Painting, style of [Stan Manoukian]
 ```
 
-By [@yourPlugAI](https://x.com/yourPlugAI/status/2108136293477536077)
+[Source](https://prompthero.com/prompt/0f454993e5d-dreamshaper-5-baked-vae-1-girl-sarah-michelle-gellarsandra-bullockmichelle-williams-as-a-greek-priestess-with-streaked-hairtwo-tone-hairplant-hair-looking-cold-sites)
 
 ---
 
-<a id="evolink-illustration-case-129"></a>
+<a id="prompthero-1b61040456a"></a>
 
-## Single-Line City Panorama
+## Oil painting on canvas of a couple standing next t\.\.\.
 
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2108048833947295744.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2108048833947295744.jpg" width="480" alt="Source example"></a>
+<a href="https://cdn.prompthero.com/quryfgr1d6msqzdgdsdra7q1nhc8-flux1-dev-v1v2-flux1-schnell-bnb-nf4-flux1-dev-bnb-nf4-v2-oil-painting-on-canvas-of-a-couple-standing-next-to-each-other-at-their-wedding-both-are-wearing-formal-attire.png"><img src="https://cdn.prompthero.com/quryfgr1d6msqzdgdsdra7q1nhc8-flux1-dev-v1v2-flux1-schnell-bnb-nf4-flux1-dev-bnb-nf4-v2-oil-painting-on-canvas-of-a-couple-standing-next-to-each-other-at-their-wedding-both-are-wearing-formal-attire.png" width="480" alt="After"></a>
 
 **Prompt**
 
 ```text
-Create a visually stunning minimalist colored-pencil and wax-crayon artwork of [CITY], where the entire city is constructed from one single continuous hand-drawn line. The line begins as a tiny cultural symbol, travels through famous architecture, streets, vehicles, trees, mountains, and everyday life, gradually forming an intricate panoramic cityscape. Add unexpected pops of bright wax-crayon color between the graphite lines, visible paper texture, imperfect handmade strokes, subtle smudges, playful scale changes, and tiny hidden details that reward zooming in. Clean ivory background, sophisticated editorial poster composition, artistic but recognizable, highly detailed, contemporary viral design aesthetic. Add “[CITY]” in bold refined typography at the top.
+Oil painting on canvas of a couple standing next to each other at their wedding. Both are wearing formal attire, and she's wearing a white wedding dress. The background is simple gray, creating an atmosphere of elegance. Broad, gestural brushstrokes and a spatula technique give the painting structure and depth. (Oil painting in the style of Van Gogh, vintage)
 ```
 
-By [@Naiknelofar788](https://x.com/Naiknelofar788/status/2108048878234673467)
+[Source](https://prompthero.com/prompt/1b61040456a-flux1-dev-v1v2-flux1-schnell-bnb-nf4-flux1-dev-bnb-nf4-v2-oil-painting-on-canvas-of-a-couple-standing-next-to-each-other-at-their-wedding-both-are-wearing-formal-attire)
 
 ---
 
-<a id="evolink-illustration-case-133"></a>
+<a id="prompthero-1e00201783c"></a>
 
-## Ink and Brushstroke Selfie Illustration
+## illustration art, nostalgic, wide low-angle, small\.\.\.
 
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2107687481906999296.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2107687481906999296.jpg" width="480" alt="Source example"></a>
+<a href="https://cdn.prompthero.com/htcej3mwd5znbhvjruap3g2a3l-chatgpt-image-v1-illustration-art-nostalgic-wide-low-angle-small-retro-roadside-cafe-warm-orange-and-teal-color-scheme-isolated-countryside-empty-rural.png"><img src="https://cdn.prompthero.com/htcej3mwd5znbhvjruap3g2a3l-chatgpt-image-v1-illustration-art-nostalgic-wide-low-angle-small-retro-roadside-cafe-warm-orange-and-teal-color-scheme-isolated-countryside-empty-rural.png" width="480" alt="After"></a>
 
 **Prompt**
 
 ```text
-{ "prompt"{ "visual_style": { "medium": "digital painting with hand-drawn ink outlines", "aesthetic": "modern fashion illustration mixed with graphic novel artwork", "texture": "visible brush strokes, subtle paper grain, rough painted edges", "finish": "expressive, painterly, slightly imperfect handmade look", "lighting": "soft warm ambient lighting with gentle facial highlights" }, "subject": { "gender": "woman", "age": "young adult", "appearance": "attractive woman with natural facial proportions", "hair": "dark brown, medium-length slightly messy hair with loose strands framing the face", "eyewear": "large round black-rimmed glasses", "expression": "calm, slightly confident, relaxed expression with a subtle pout", "eyes": "light blue-gray eyes, looking toward the smartphone", "skin": "natural warm skin tone with painterly shading" }, "pose": { "framing": "vertical medium-to-three-quarter portrait", "camera_angle": "slightly low-angle selfie perspective", "head_position": "head tilted slightly backward and toward the camera", "body_position": "standing casually with relaxed shoulders", "right_hand": "holding a smartphone near the upper-right side of the frame", "phone_position": "smartphone raised at approximately face level", "left_arm": "relaxed naturally beside the body", "gaze": "looking toward the phone camera" }, "clothing": { "top": "oversized loose long-sleeve shirt in rich cobalt blue", "fit": "casual relaxed fit", "bottom": "dark indigo-blue denim jeans", "accessory": "small delicate gold pendant necklace", "additional_details": "warm tan leather shoulder strap visible over one shoulder" }, "smartphone": { "type": "modern premium smartphone", "color": "light silver", "camera_module": "visible dual-camera module", "position": "held vertically in the raised hand" }, "background": { "color": "vivid coral-orange", "style": "flat minimal illustrated background", "texture": "subtle distressed paint marks, scratches, faded brush patches and paper texture", "depth": "minimal depth with no detailed environment" }, "composition": { "subject_placement": "woman centered slightly left of frame", "phone_placement": "upper-right quadrant", "framing": "body visible from head down to upper thighs", "negative_space": "large clean coral-orange areas surrounding the subject", "visual_balance": "face, cobalt outfit and silver smartphone create the main focal points" }, "color_palette": { "background": "vivid coral-orange", "outfit": "rich cobalt blue", "jeans": "deep indigo blue", "hair": "deep brown and near-black", "skin": "warm peach and beige tones", "jewelry": "soft gold", "phone": "light silver", "overall_palette": "bold complementary warm-and-cool color contrast" }, "rendering_details": { "linework": "loose expressive dark ink outlines", "shading": "layered painterly shadows with visible brush strokes", "facial_details": "simplified but expressive eyes, nose and lips", "edges": "slightly rough hand-painted edges", "overall_feel": "vibrant, stylish, youthful, artistic and contemporary" }, "negative_prompt": [ "photorealistic photography", "3D render", "anime", "cartoon character proportions", "plastic skin", "overly polished digital art", "complex background", "extra fingers", "extra hands", "duplicate smartphone", "deformed face", "distorted glasses", "text", "logos", "watermarks" ] } }
+illustration art, nostalgic, wide low-angle, small retro roadside Cafe, warm orange and teal color scheme, isolated countryside, empty rural road, wet cracked asphalt with subtle puddle reflections, massive dreamy pastel clouds towering in the sky, cotton-candy colored clouds in pink, peach and lavender hues, blue hour twilight sky, soft volumetric lights, ambient glow, cinematic color grading, high detail textures, atmospheric perspective, surreal mood, poetic silence, ultra detailed --no people --ar 9:16 --raw --stylize 200
 ```
 
-By [@hey\_am\_cherry](https://x.com/hey_am_cherry/status/2107687505248256083)
+[Source](https://prompthero.com/prompt/1e00201783c-chatgpt-image-v1-illustration-art-nostalgic-wide-low-angle-small-retro-roadside-cafe-warm-orange-and-teal-color-scheme-isolated-countryside-empty-rural)
 
 ---
 
-<a id="evolink-illustration-case-134"></a>
+<a id="prompthero-2c257f9cf57"></a>
 
-## Magical Girl Animation Key Visual
+## dragon ball, portrait of dr goku, in the style of \.\.\.
 
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2107617836478963712.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2107617836478963712.jpg" width="480" alt="Source example"></a>
+<a href="https://cdn.prompthero.com/pezqypkbo6imkuergflhqegirm9l-midjourney-6-dragon-ball-portrait-of-dr-goku-in-the-style-of-street-art-aesthetic-cute-cartoonish-designs-photo-realistic-techniques-dark.png"><img src="https://cdn.prompthero.com/pezqypkbo6imkuergflhqegirm9l-midjourney-6-dragon-ball-portrait-of-dr-goku-in-the-style-of-street-art-aesthetic-cute-cartoonish-designs-photo-realistic-techniques-dark.png" width="480" alt="After"></a>
 
 **Prompt**
 
 ```text
-魔法少女アニメのキービジュアルを作成。タイトルロゴまで含めた魅力的なポスターデザインとして仕上げる。
+dragon ball, portrait of dr goku, in the style of street art aesthetic, cute cartoonish designs, photo-realistic techniques, dark red, childhood arcadias, anime aesthetic, cartoon-like figures --ar 73:98 --stylize 750 --v 6
 ```
 
-By [@SSSS\_CRYPTOMAN](https://x.com/SSSS_CRYPTOMAN/status/2107617855906975865)
+By [@NorthmoorAI](https://prompthero.com/prompt/2c257f9cf57-midjourney-6-dragon-ball-portrait-of-dr-goku-in-the-style-of-street-art-aesthetic-cute-cartoonish-designs-photo-realistic-techniques-dark)
 
 ---
 
-<a id="evolink-illustration-case-137"></a>
+<a id="prompthero-2e3950c3699"></a>
 
-## Little Fox in a Raincoat
+## artistic, oil painting texture, front view, upper \.\.\.
 
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2107597781162414080.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2107597781162414080.jpg" width="480" alt="Source example"></a>
+<a href="https://cdn.prompthero.com/22mgmkpzs2cvjnfd33sca0eotuwl-midjourney-61-artistic-oil-painting-texture-front-view-upper-body-creepy-man-incorporating-a-heavy-brush-style-sci-fi-entity-organic-and.png"><img src="https://cdn.prompthero.com/22mgmkpzs2cvjnfd33sca0eotuwl-midjourney-61-artistic-oil-painting-texture-front-view-upper-body-creepy-man-incorporating-a-heavy-brush-style-sci-fi-entity-organic-and.png" width="480" alt="After"></a>
 
 **Prompt**
 
 ```text
-A children's picture book illustration in loose watercolour and coloured pencil: a small red fox wearing a yellow raincoat and boots, holding a paper boat, standing at the edge of a big puddle in an autumn forest, a curious hedgehog peeking from behind a mushroom. Soft wet-on-wet washes, visible paper texture, white paper left showing at the edges, warm autumn palette of rust, ochre and moss green, gentle and whimsical, no text.
+artistic, oil painting texture, front view, upper body, creepy man, incorporating a heavy brush style, sci-fi entity organic and mechanical elements, eyes locked in a gaze, face, creation of a dystopian atmosphere, horror of a technology, color scheme dominated by bloody red and deep black, chaos and rawness of Tsutomu Nihei's dystopian environments, hyper-detailed elements to evoke realism --ar 9:16 --style raw --profile ue2yzjl --stylize 300 --v 6.1
 ```
 
-By [@techhalla](https://x.com/techhalla/status/2107599049348309273)
+By [@Grayve](https://prompthero.com/prompt/2e3950c3699-midjourney-61-artistic-oil-painting-texture-front-view-upper-body-creepy-man-incorporating-a-heavy-brush-style-sci-fi-entity-organic-and)
 
 ---
 
-<a id="evolink-illustration-case-139"></a>
+<a id="prompthero-3b4d25f3a67"></a>
 
-## Memphis Design Still Life
+## Picture a cat portrayed with the artistic essence \.\.\.
 
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2107592571350335489.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2107592571350335489.jpg" width="480" alt="Source example"></a>
+<a href="https://cdn.prompthero.com/v1_5558ef952acfefc672c93d639e-chatgpt-image-gpt-image-2-picture-a-cat-portrayed-with-the-artistic-essence-of-qi-baishis-renowned-brushwork-the-cats-form-is-captured-through-fluid.jpeg"><img src="https://cdn.prompthero.com/v1_5558ef952acfefc672c93d639e-chatgpt-image-gpt-image-2-picture-a-cat-portrayed-with-the-artistic-essence-of-qi-baishis-renowned-brushwork-the-cats-form-is-captured-through-fluid.jpeg" width="480" alt="After"></a>
 
 **Prompt**
 
 ```text
-a still life of playful objects on a terrazzo table: a ceramic teapot with geometric handles, a cone lamp, a fruit bowl on a cylinder base, a striped glass vase, 1980s Memphis design interior, sculptural furniture in colorful plastic laminate and terrazzo, bold primary and pastel colors, black and white squiggle and grid patterns, asymmetric geometric shapes, flat bright light, crisp 1980s color magazine photograph, medium format
+Picture a cat portrayed with the artistic essence of Qi Baishi's renowned brushwork. The cat's form is captured through fluid, spontaneous lines that suggest its playful demeanor and agile nature. Using minimal strokes, Qi Baishi's signature style brings out the cat's character, emphasizing its curiosity and independence. The cat might be depicted in a simple yet evocative setting, surrounded by delicate depictions of flora or objects that offer a glimpse into its world. The overall scene carries a sense of whimsy and an appreciation for the beauty in everyday life, paying homage to the artistic legacy of Qi Baishi --ar 2:3 --v 5.2
 ```
 
-By [@techhalla](https://x.com/techhalla/status/2107599021976285395)
+[Source](https://prompthero.com/prompt/3b4d25f3a67-chatgpt-image-gpt-image-2-picture-a-cat-portrayed-with-the-artistic-essence-of-qi-baishis-renowned-brushwork-the-cats-form-is-captured-through-fluid)
 
 ---
 
-<a id="evolink-illustration-case-141"></a>
+<a id="prompthero-03bd5e77f6c"></a>
 
-## Layered Iridescent Foil Sunset
+## A hyper-realistic digital portrait of a sheep tryi\.\.\.
 
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2107542415611412480.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2107542415611412480.jpg" width="480" alt="Source example"></a>
+<a href="https://cdn.prompthero.com/h4cl5vor50q686em2gh8y0lda4x0-flux-flux-kontext-pro-a-hyper-realistic-digital-portrait-of-a-sheep-trying-to-go-to-sleep-in-front-of-the-sheep-are-mini.png"><img src="https://cdn.prompthero.com/h4cl5vor50q686em2gh8y0lda4x0-flux-flux-kontext-pro-a-hyper-realistic-digital-portrait-of-a-sheep-trying-to-go-to-sleep-in-front-of-the-sheep-are-mini.png" width="480" alt="After"></a>
 
 **Prompt**
 
 ```text
-Hand-cut layered paper artwork of a tranquil sunset over still water. Black paper silhouettes cut from thick textured cardstock are layered over shimmering iridescent foil that glows through every cut-out window. SKY: a glowing gradient of turquoise, teal and deep cyan blending into warm burnt-gold and amber sunset light at the horizon, the foil surface crinkled and cracked like hammered metal so it sparkles with broken light. Long thin horizontal black streaks of cut paper slice across the sky as stylized clouds. HORIZON: a solid black silhouette line of low distant hills and rounded trees, with a small simple rowing boat with one thin mast resting just above the waterline at the center. MIDGROUND: on the left, a row of nine or ten thin black wooden pier posts of uneven height standing in the water; scattered black cattail reeds and grass blades rise along both shores. A narrow band of golden reflected light runs down the water beneath the boat. FOREGROUND: the water breaks into stacked horizontal cut bands, each a thin black paper strip alternating with a glowing iridescent teal and gold stripe, cascading in gentle perspective toward the bottom edge. TEXTURE: visible cut-paper edges, slight drop shadows under each layer for real physical depth, fine paper grain, matte black against glossy iridescent foil. Clean, graphic, decorative, serene, no text.
+A hyper-realistic digital portrait of a sheep trying to go to sleep. In front of the sheep are mini humans jumping a fence while the sheep looks at it trying to goto sleep. The background is a bed on which the sheep is trying to sleep on. The lighting is soft but directional. The style is reminiscent of classical oil painting with meticulous detail and smooth brushwork, but created with digital tools.
 ```
 
-By [@churvikv](https://x.com/churvikv/status/2107542566191419650)
+[Source](https://prompthero.com/prompt/03bd5e77f6c-flux-flux-kontext-pro-a-hyper-realistic-digital-portrait-of-a-sheep-trying-to-go-to-sleep-in-front-of-the-sheep-are-mini)
 
 ---
 
-<a id="evolink-illustration-case-142"></a>
+<a id="prompthero-3c7b6305b5b"></a>
 
-## Vintage Screen-Printed Lighthouse
+## A breathtaking photorealistic digital painting of \.\.\.
 
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2107535244148473856.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2107535244148473856.jpg" width="480" alt="Source example"></a>
+<a href="https://cdn.prompthero.com/qxewb6vvrfl158clauy00thjo53c-flux-flux-11-pro-a-breathtaking-photorealistic-digital-painting-of-a-beautiful-blonde-woman-with-a-long-cascading-braid-she-is-adorned-in-a.jpg"><img src="https://cdn.prompthero.com/qxewb6vvrfl158clauy00thjo53c-flux-flux-11-pro-a-breathtaking-photorealistic-digital-painting-of-a-beautiful-blonde-woman-with-a-long-cascading-braid-she-is-adorned-in-a.jpg" width="480" alt="After"></a>
 
 **Prompt**
 
 ```text
-A spectacular vintage screen-print illustration of a tall colorful lighthouse standing alone on a dark rocky island in a vast nighttime ocean. The lighthouse has geometric blocks of cream, hot pink, yellow and cobalt blue, with a dark blue roof. Its powerful yellow beam sweeps across the sky in a huge curved arc. Deep blue ocean with stylized white waves fills the bottom of the image. Dense halftone dots cover every surface, with rough paper texture and imperfect ink registration. Limited retro CMYK palette, flat graphic shapes, 1970s children's storybook screen-print aesthetic, mysterious and magical atmosphere, no text, 16:9.
+A breathtaking photorealistic digital painting of a beautiful blonde woman with a long, cascading braid. She is adorned in a stunning dress made entirely of daisy flowers, with intricate details and glittery accents. The dress flows gracefully around her delicate frame, accentuating her thin waist and low-cut neckline. She is standing in a picturesque field, with the sun casting a warm golden light on her and the surroundings. Her enchanting smile, combined with the bohemian-style attire, creates an elegant and intriguing image that captivates the viewer's imagination.
 ```
 
-By [@hakmgpt](https://x.com/hakmgpt/status/2107535382183387282)
+[Source](https://prompthero.com/prompt/3c7b6305b5b-flux-flux-11-pro-a-breathtaking-photorealistic-digital-painting-of-a-beautiful-blonde-woman-with-a-long-cascading-braid-she-is-adorned-in-a)
 
 ---
 
-<a id="evolink-illustration-case-143"></a>
+<a id="prompthero-3d1db4d2c92"></a>
 
-## Gongbi Fan Painting and Figure
+## a stunning realistic photograph portrait of a bea\.\.\.
 
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2107410807260930048.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2107410807260930048.jpg" width="480" alt="Source example"></a>
+<a href="https://cdn.prompthero.com/h6iea2jbtp068yj97rf2fpqsoj3r-dreamshaper-5-baked-vae-pirate-dreamshaperxl10alpha2xl10-a-stunning-realistic-photograph-portrait-of-a-beautiful-blonde-20-year-old-woman-aboard-a-pirate-ship15-wearing-pirate-captain.png"><img src="https://cdn.prompthero.com/h6iea2jbtp068yj97rf2fpqsoj3r-dreamshaper-5-baked-vae-pirate-dreamshaperxl10alpha2xl10-a-stunning-realistic-photograph-portrait-of-a-beautiful-blonde-20-year-old-woman-aboard-a-pirate-ship15-wearing-pirate-captain.png" width="480" alt="After"></a>
 
 **Prompt**
 
 ```text
-【角色】 × 宋式工笔人物扇面 × 真人与扇中自画像对应 × 半脸遮挡 × CCD柔焦
+a stunning realistic photograph portrait of a beautiful blonde 20 year old woman, (aboard a pirate ship:1.5), wearing pirate captain clothes, hyper realism, Very detailed, Full character in view, detailed face, masterpiece, random colored hair,  (jade ocean), mercury, random color eyes, full body, cover, hyperdetailed painting, luminism,  Bar lighting,  complex, [style by Martina Fačková and Prywinko Art, Artgerm, WLOP, Alphonse Mucha, Tony Taka], Detailed  face, hyper-reallistic cover photo awesome full color, bright, gritty, realistic color scheme,  intricate details , masterpiece ((hyperdetailed eyes)), perfect body, perfect anatomy, beautifully detailed face, full body, highly detailed, digital painting, hyper-realistic, sharp focus, illustration, pretty eyes, award-winning, intense coloration fantasy, 16K, UHD, HDR,(Masterpiece, best quality:1.5)
 ```
 
-By [@DeepBlueX0](https://x.com/DeepBlueX0/status/2107410819294343507)
+By [@ScArecrow23](https://prompthero.com/prompt/3d1db4d2c92-dreamshaper-5-baked-vae-pirate-dreamshaperxl10alpha2xl10-a-stunning-realistic-photograph-portrait-of-a-beautiful-blonde-20-year-old-woman-aboard-a-pirate-ship15-wearing-pirate-captain)
 
 ---
 
-<a id="evolink-illustration-case-146"></a>
+<a id="prompthero-3d7065db3ff"></a>
 
-## Historical Costume Layer Diagram
+## An illustration of Flash with a hard, intense look\.\.\.
 
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2106765639809708032.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2106765639809708032.jpg" width="480" alt="Source example"></a>
+<a href="https://cdn.prompthero.com/31xd8qqe59i4vd5f8rxx2du4vczo-dalle-3-flash-an-illustration-of-flash-with-a-hard-intense-look-and-strong-bandaged-hands-sharing-scars-and-battle-marks-on-his.jfif"><img src="https://cdn.prompthero.com/31xd8qqe59i4vd5f8rxx2du4vczo-dalle-3-flash-an-illustration-of-flash-with-a-hard-intense-look-and-strong-bandaged-hands-sharing-scars-and-battle-marks-on-his.jfif" width="480" alt="After"></a>
 
 **Prompt**
 
 ```text
-【朝代】女性贴身衣物 × 穿着层次 × 结构展开 × 材质与裁片 × 服饰复原 × 竖版9:16
+An illustration of Flash with a hard, intense look, and strong, bandaged hands, sharing scars and battle marks on his face and body. Sweat, speed and blur. his body is adorned with glowing golden runes. purple aura fire around him. body dynamic epic action pose, bladerunner city street ruined background. with an emphasis on bold, expressive brushstrokes and bright colors. The background can be left to the artist's interpretation. The modifier is CarnageStyle, the color is blood red, and the intensity is 1.6, the lighting is cinematic, the angle is dynamic, the details are extreme.
 ```
 
-By [@DeepBlueX0](https://x.com/DeepBlueX0/status/2106765651952140743)
+[Source](https://prompthero.com/prompt/3d7065db3ff-dalle-3-flash-an-illustration-of-flash-with-a-hard-intense-look-and-strong-bandaged-hands-sharing-scars-and-battle-marks-on-his)
 
 ---
 
-<a id="evolink-illustration-case-148"></a>
+<a id="prompthero-3d4684509c2"></a>
 
-## European Cafe Oil Painting Portrait
+## A cute \[ cat \] clipart, organic forms, in the styl\.\.\.
 
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2106245520931033088.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2106245520931033088.jpg" width="480" alt="Source example"></a>
+<a href="https://cdn.prompthero.com/zz13bt7la3y8n0u3a4gequ329e0z-midjourney-6-a-cute-cat-clipart-organic-forms-in-the-style-of-jon-klassen-desaturated-light-and-airy-pastel-color-palette-nursery.png"><img src="https://cdn.prompthero.com/zz13bt7la3y8n0u3a4gequ329e0z-midjourney-6-a-cute-cat-clipart-organic-forms-in-the-style-of-jon-klassen-desaturated-light-and-airy-pastel-color-palette-nursery.png" width="480" alt="After"></a>
 
 **Prompt**
 
 ```text
-{ "prompt": { "aspect_ratio": "9:16", "style": "vintage European café oil painting, expressive brushwork, mid-century editorial artwork", "subject": { "character": "stylish young European woman with shoulder-length wavy auburn hair", "expression": "calm, confident, slightly playful gaze toward the viewer", "pose": "seated sideways at a small café table, one arm resting on the chair back while the other lightly holds a coffee cup", "details": "subtle makeup, berry-red lipstick, small gold earrings" }, "outfit": { "top": "deep coral-red short-sleeve blouse with a relaxed neckline", "style": "chic 1960s-inspired European fashion" }, "composition": { "framing": "medium-wide portrait", "camera_angle": "slightly elevated three-quarter angle", "subject_position": "slightly left of center", "foreground": "round café table with coffee, small glass and scattered objects" }, "background": { "setting": "charming old European café interior", "design": "large abstract geometric wall shapes mixed with subtle architectural details", "colors": ["teal", "coral", "cream", "burnt orange"] }, "props": [ "ceramic espresso cup", "small glass bottle", "vintage café chair", "folded napkin" ], "color_palette": "teal, coral red, cream, burnt orange and warm brown", "texture": "thick imperfect oil brushstrokes, visible canvas grain, slightly weathered painted surface", "lighting": "warm afternoon window light with soft natural shadows", "mood": "stylish, relaxed, nostalgic European café atmosphere", "negative_prompt": "exact recreation of reference, same pose, same character, same outfit, same composition, photorealistic, 3D render, CGI, text, logo, watermark" } }
+A cute [ cat ] clipart, organic forms, in the style of Jon Klassen, desaturated light and airy pastel color palette, nursery art, white background --ar 9:16 --style raw --v 6
 ```
 
-By [@hey\_am\_cherry](https://x.com/hey_am_cherry/status/2106245541508382774)
+[Source](https://prompthero.com/prompt/3d4684509c2-midjourney-6-a-cute-cat-clipart-organic-forms-in-the-style-of-jon-klassen-desaturated-light-and-airy-pastel-color-palette-nursery)
 
 ---
 
-<a id="evolink-illustration-case-154"></a>
+<a id="prompthero-3eb4c8c95af"></a>
 
-## Person and 3D Character Composite
+## digital wallpaper portrait of brutal cyberpunk sam\.\.\.
 
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2103672336205643777.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2103672336205643777.jpg" width="480" alt="Source example"></a>
+<a href="https://cdn.prompthero.com/wz8nf9ypkl8egx83rjhty75l2yc3-stable-diffusion-xl-base-09-digital-wallpaper-portrait-of-brutal-cyberpunk-samurai-anime-in-the-style-of-marvel-comics-dark-muted-colors-brutal-epic-composition.png"><img src="https://cdn.prompthero.com/wz8nf9ypkl8egx83rjhty75l2yc3-stable-diffusion-xl-base-09-digital-wallpaper-portrait-of-brutal-cyberpunk-samurai-anime-in-the-style-of-marvel-comics-dark-muted-colors-brutal-epic-composition.png" width="480" alt="After"></a>
 
 **Prompt**
 
 ```text
-Create a high-resolution vertical 3D CGI character composition on a clean light gray/white studio background. In the center, place a beautiful young adult woman standing full-body, wearing an all-black oversized sweatshirt, black cargo pants, white chunky sneakers, and a small black crossbody sling bag. She has long, straight-to-wavy brown hair and a friendly natural smile. Her pose is relaxed with both hands inside her pants pockets. Around the central woman, place six cute chibi 3D cartoon versions of the same woman, matching her hairstyle, black outfit, white sneakers, and crossbody bag. Each chibi character should have a different playful pose: - top left giving a thumbs-up - top right waving - middle left sitting/crouching with one hand on her cheek - middle right crouching and making a peace sign - bottom left pointing toward the center - bottom right sitting cross-legged with arms crossed Add floating social-media-style 3D icons around the characters: blue thumbs-up, pink/purple heart, blue chat bubble, blue share symbol, and blue paper-plane icon. Use polished Pixar-like 3D cartoon aesthetics, expressive large eyes on the chibi characters, realistic hair and clothing textures, soft studio lighting, subtle floor shadows, clean composition, balanced spacing, sharp details, professional character-poster look. No text, no extra objects, no props in the woman's hands. Aspect ratio 4:5.
+digital wallpaper portrait of brutal cyberpunk samurai, anime, in the style of marvel comics, dark, muted colors, brutal epic composition, dramatic, digital painting, very intricate
 ```
 
-By [@Arzoo12sh](https://x.com/Arzoo12sh/status/2103672438798360854)
+By [@ArtEnthusiast](https://prompthero.com/prompt/3eb4c8c95af-stable-diffusion-xl-base-09-digital-wallpaper-portrait-of-brutal-cyberpunk-samurai-anime-in-the-style-of-marvel-comics-dark-muted-colors-brutal-epic-composition)
 
 ---
 
-<a id="evolink-illustration-case-165"></a>
+<a id="prompthero-4a26619479c"></a>
 
-## Person and Hand-Drawn Double
+## vivid red tomatoes with simple green leaves arrang\.\.\.
 
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2100412139173445632.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2100412139173445632.jpg" width="480" alt="Source example"></a>
+<a href="https://cdn.prompthero.com/iv7nufakxxdtr1zelwh1hwauqs-chatgpt-image-gpt-image-2-vivid-red-tomatoes-with-simple-green-leaves-arranged-organically-sliced-tomatoes-and-whole-tomatoes-mixed-bold-flat-colors-risograph-print.jpeg"><img src="https://cdn.prompthero.com/iv7nufakxxdtr1zelwh1hwauqs-chatgpt-image-gpt-image-2-vivid-red-tomatoes-with-simple-green-leaves-arranged-organically-sliced-tomatoes-and-whole-tomatoes-mixed-bold-flat-colors-risograph-print.jpeg" width="480" alt="After"></a>
 
 **Prompt**
 
 ```text
-Create an ultra-realistic cinematic portrait of a young woman standing against a warm beige textured wall, seamlessly interacting with a large hand-drawn black-and-white cartoon version of herself. The real woman has long wavy dark auburn hair, natural facial features, soft realistic skin texture, and a calm slightly curious expression. She wears an oversized plain white T-shirt, loose beige cargo pants with multiple pockets, and chunky white sneakers. Full-body composition, relaxed standing pose, hands casually near her pockets. Beside and slightly behind her, draw a large expressive hand-drawn cartoon character of the same woman, sketched directly onto the wall with rough black ink lines. The cartoon has messy long hair, oversized expressive eyes, a playful confused expression, casual oversized clothing, baggy pants and sneakers. The cartoon character should appear to be interacting with the real woman, with one arm extended outward and the other raised in a playful gesture. Create a convincing 2D drawing + 3D real-person fusion, where the cartoon is visibly drawn on the wall but feels naturally integrated into the physical environment. Add subtle wall shadows, realistic ambient lighting, natural contact shadows, detailed fabric texture, realistic hair strands, slight imperfections in the wall and floor, and cinematic depth. Style: photorealistic, surreal mixed-media photography, realistic human + hand-drawn illustration, cinematic lighting, warm muted tones, editorial fashion photography, highly detailed, natural proportions, 8K, sharp focus. Composition: vertical 9:16, full body, centered subject, camera at eye level, realistic perspective, minimal background, no text, no watermark.
+vivid red tomatoes with simple green leaves arranged organically, sliced tomatoes and whole tomatoes mixed, bold flat colors, risograph print style, textured halftone grain, imperfect ink spread, soft paper texture, retro screen-printing aesthetic, minimalistic illustration, no text, clean white background, playful composition, high contrast, vintage print poster vi
 ```
 
-By [@Alina\_with\_Ai](https://x.com/Alina_with_Ai/status/2100412898363547998)
+[Source](https://prompthero.com/prompt/4a26619479c-chatgpt-image-gpt-image-2-vivid-red-tomatoes-with-simple-green-leaves-arranged-organically-sliced-tomatoes-and-whole-tomatoes-mixed-bold-flat-colors-risograph-print)
 
 ---
 
-<a id="evolink-illustration-case-166"></a>
+<a id="prompthero-4bd7190e3d6"></a>
 
-## Rainy New York Male Watercolor Portrait
+## \(masterpiece\), \(anime style\), shot from below, awa\.\.\.
 
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2100063625985839104.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2100063625985839104.jpg" width="480" alt="Source example"></a>
+<a href="https://cdn.prompthero.com/m8p4qg0dlw7im44pf1yov2c7xqyr-stable-diffusion-21-768-masterpiece-anime-style-shot-from-below-award-winning-close-up-centered-instagram-able-looking-toward-camera-dynamic-pose-cat-girl.jpg"><img src="https://cdn.prompthero.com/m8p4qg0dlw7im44pf1yov2c7xqyr-stable-diffusion-21-768-masterpiece-anime-style-shot-from-below-award-winning-close-up-centered-instagram-able-looking-toward-camera-dynamic-pose-cat-girl.jpg" width="480" alt="After"></a>
 
 **Prompt**
 
 ```text
-TITLE: New York Rainy Day — Male Character Watercolor Portrait ASPECT RATIO: 9:16 REFERENCE INPUTS: <<<FACE_REFERENCE>>> Use the uploaded male face reference as the exact facial identity reference. FACE REFERENCE RULES: Preserve the male character's exact facial identity, facial structure, eyes, eyebrows, nose, lips, jawline, skin tone, hairstyle characteristics, and overall recognizable appearance from <<<FACE_REFERENCE>>>. Do not redesign, replace, beautify into a different person, feminize, or alter his identity. Maintain consistent facial proportions throughout the image. SCENE: A beautiful cinematic urban watercolor illustration of the male character standing on a rain-soaked Manhattan street with the Empire State Building towering dramatically in the background. POSE: The man is positioned in the foreground, slightly turned three-quarters toward the camera. He gently holds a black elegant umbrella with one hand while his other hand naturally adjusts a strand of hair near his forehead. His face is clearly visible. He looks directly toward the viewer with a subtle confident expression and calm, sophisticated gaze. Natural fashion-editorial pose, graceful posture, relaxed shoulders, elegant masculine body language. The pose should feel like a trending cinematic Instagram/Pinterest portrait captured during a rainy New York evening. OUTFIT: Elegant modern men's city-fashion outfit, sophisticated neutral trench coat over a premium fitted outfit, subtle accessories such as a minimalist watch, natural textured hairstyle. Premium men's fashion editorial aesthetic without looking artificial. ENVIRONMENT: Rainy Manhattan street, Empire State Building as the dominant architectural form in the center background, tall Art Deco buildings on both sides, wet asphalt, pedestrians with umbrellas, classic yellow taxis and modern cars, glowing street lamps, reflections in puddles. ART STYLE: Watercolor style combined with loose architectural acrylic painting; fine ink sketching blended with soft watercolor washes; urban sketch illustration; expressive brushstrokes; ink splatter and bleeding effects; unfinished white borders; cold-pressed textured watercolor paper; highly detailed yet loose and airy. COLOR PALETTE: Warm earth tones—creamy beige, warm sand, burnt sienna, terracotta ochre, light umber, pale white, cool slate gray, soft Payne's gray-blue, touches of olive green and burnt orange. Subtle warm golden highlights from street lights. LIGHTING: Soft rainy afternoon transitioning into warm evening light; gentle glowing street lamps; luminous reflections on wet pavement; soft atmospheric perspective; delicate shadows; one dominant form—the Empire State Building—rendered sharp and bold. DETAILS: Intricate architectural details; fine cross-hatched ink work; wet-on-wet watercolor bleeding; visible paper texture; expressive loose shadow strokes; natural watercolor imperfections; subtle ink splatters; beautiful reflections of the man, umbrella, buildings and lights in the wet street. COMPOSITION: Vertical 9:16 cinematic composition. Male character prominent in the foreground while the Empire State Building creates a powerful visual backdrop. Balanced leading lines from the street toward the building. Elegant negative space around the character. Fashion editorial + travel postcard + premium watercolor illustration. IMPORTANT: Photorealistic male facial identity translated into watercolor illustration. Preserve masculine facial characteristics from <<<FACE_REFERENCE>>>. Do not make the character cartoonish. No anime. No 3D render. No plastic-looking skin. No distorted hands. No extra fingers. No duplicated person. No distorted face. No feminized facial features. No altered facial proportions. Keep the artwork painterly, sophisticated, loose, atmospheric and premium. --ar 9:16 --style raw --stylize 250
+(masterpiece), (anime style), shot from below, award winning, close up, centered, Instagram able, looking toward camera, dynamic pose, cat girl, studying, sailor uniform, flowery headband, long wavy hair, classroom interior, dynamic lighting, depth of field, ultra detailed, (epic composition, epic proportion), 2D illustration, professional work, Makoto Shinkai, trending on pixiv
 ```
 
-By [@AiWithTariq](https://x.com/AiWithTariq/status/2100063691198669194)
+[Source](https://prompthero.com/prompt/4bd7190e3d6-stable-diffusion-21-768-masterpiece-anime-style-shot-from-below-award-winning-close-up-centered-instagram-able-looking-toward-camera-dynamic-pose-cat-girl)
 
 ---
 
-<a id="evolink-travel-journals-case-195"></a>
+<a id="prompthero-4ce10d55aa4"></a>
 
-## Watercolor Travel Magazine Spread
+## Cyberpunk Anime Shot / Portrait of Reika
 
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2108198950264270848.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2108198950264270848.jpg" width="480" alt="Source example"></a>
+<a href="https://cdn.prompthero.com/z02kmz7wb6cl4qyr9quiethfgsfq-stable-diffusion-15-cyberpunk-anime-shot-portrait-of-reika.png"><img src="https://cdn.prompthero.com/z02kmz7wb6cl4qyr9quiethfgsfq-stable-diffusion-15-cyberpunk-anime-shot-portrait-of-reika.png" width="480" alt="After"></a>
 
 **Prompt**
 
 ```text
-Create a premium 4:5 vertical travel-editorial artwork for [COUNTRY / CITY / LOCATION / SUBJECT]. PURE GENERATION. Invent the complete artwork from the written destination or subject alone. The written destination is the only input. Create every visual element from your own knowledge and imagination. MASTER STYLE LOCK: Hand-painted watercolor on warm cream textured paper. Minimalist travel-editorial poster. Transparent watercolor blended with soft gouache. Soft imperfect brushwork, visible paper grain, organic painted edges, muted natural colors, generous negative space, quiet nostalgic atmosphere, sophisticated handcrafted art-book quality. Flat illustrated artwork with painterly depth. No 3D rendering, no glossy finish, no cartoon style, no digital photorealism. DESTINATION INTERPRETATION: Automatically identify the strongest visual identity of [COUNTRY / CITY / LOCATION / SUBJECT]. Select the most recognizable landmark, architecture, landscape, street character, transportation, vegetation, local objects, or cultural details that naturally belong to the destination. Create ONE unified scene rather than a collection of separate elements. COMPOSITION: Use an elegant vertical editorial composition with one dominant focal point and several smaller supporting details. Establish clear foreground, middle ground, and background layers using watercolor washes and simplified shapes. Leave generous warm cream space around important forms. Keep the silhouette clean and immediately recognizable. Avoid overcrowding. LOCAL STORY: Show an authentic everyday moment connected to the destination. Include subtle human activity only when it strengthens the story: walking, cycling, sitting, shopping, traveling, eating, working, or simply enjoying the surroundings. Favor ordinary local atmosphere over generic tourism imagery. LIGHT & ATMOSPHERE: Automatically choose lighting that suits the destination and scene: soft morning light, warm afternoon glow, misty weather, gentle sunset, or quiet evening illumination. Use atmospheric watercolor washes to create depth while maintaining a calm, delicate feeling. COLOR LANGUAGE: Build the palette naturally from [COUNTRY / CITY / LOCATION / SUBJECT]. Use warm cream, muted ochre, terracotta, dusty blue, soft green, faded red, warm grey, and subtle golden tones where appropriate. Keep the colors slightly desaturated, harmonious, and naturally layered. TYPOGRAPHY: At the bottom of the artwork, add three restrained editorial text elements: [LOCATION NAME] [SHORT DESTINATION-INSPIRED SUBTITLE] [SHORT WARM POETIC SENTENCE] Use elegant minimal typography with generous spacing. Keep it secondary to the artwork and ensure all wording is clean and correctly spelled. FINAL AESTHETIC: Premium handmade watercolor travel poster × contemporary editorial illustration × nostalgic travel memory × quiet everyday life × sophisticated art-book design. The finished artwork should feel like a beautifully remembered place painted by hand: atmospheric, personal, refined, understated, and unmistakably connected to [COUNTRY / CITY / LOCATION / SUBJECT]. AVOID: Any editing workflow, source material, references, existing compositions, copied imagery, collage construction, unrelated landmarks, generic scenery, excessive detail, oversaturated colors, harsh outlines, glossy digital effects, CGI, 3D objects, cartoon characters, clutter, excessive typography, logos, watermarks, interface elements. FORMAT: 4:5 vertical portrait composition, warm cream paper, handcrafted watercolor texture, generous negative space, premium print-quality finish.
+<lora:Reika:0.45> Beautiful full body shot of Reika, black latex bodyshuit, straight black hair, science fiction, cyberpunk city in the background, gantz, In the Style of Cyberpunk 2077, Ultra realistic photo face of a beautiful woman, masterpiece, best quality, CG, wallpaper, HDR, high quality, high-definition, extremely detailed, {beautiful detailed face}, {beautiful detailed eyes}, (detailed light){{intricate detail}}, {highres}, ((detailed face)), extremely detailed face, beautiful face, {{ young woman}}, Jewel-like eyes, neon light, chiaroscuro, anime style, key visual, intricate detail, highly detailed, breathtaking, vibrant, cinematic
 ```
 
-By [@Goodmanprotocol](https://x.com/Goodmanprotocol/status/2108199004546933097)
+[Source](https://prompthero.com/prompt/4ce10d55aa4-stable-diffusion-15-cyberpunk-anime-shot-portrait-of-reika)
 
 ---
 
-<a id="evolink-travel-journals-case-203"></a>
+<a id="prompthero-6e536a2ee17"></a>
 
-## Istanbul and Venice Watercolors
+## Beautiful medieval female lord portrait
 
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2106326192421064704.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2106326192421064704.jpg" width="480" alt="Source example"></a>
+<a href="https://cdn.prompthero.com/dxf9ymilc73m9tgu34071v7rlfyc-stable-diffusion-15-beautiful-medieval-female-lord-portrait.png"><img src="https://cdn.prompthero.com/dxf9ymilc73m9tgu34071v7rlfyc-stable-diffusion-15-beautiful-medieval-female-lord-portrait.png" width="480" alt="After"></a>
 
 **Prompt**
 
 ```text
-Create a single elegant vintage watercolor travel poster that beautifully combines the atmosphere of Istanbul, Turkey and Venice, Italy into one cohesive artistic scene. Blend Istanbul’s magnificent Ottoman mosques, elegant domes, tall slender minarets, Bosphorus waterfront, small ferries and sailboats with Venice’s historic Venetian buildings, Grand Canal, Rialto-style stone bridge, gondolas and romantic waterways. Use a refined hand-painted watercolor illustration style on textured warm ivory paper, with soft blue, muted teal, warm beige, dusty lavender and subtle terracotta tones. Add natural watercolor splashes, paint bleeds, delicate ink details and slightly imperfect hand-painted edges around the main composition. The architecture should be highly detailed yet artistic, with realistic reflections across the water, atmospheric distant buildings, gentle sunlight, elegant boats and a peaceful travel-diary feeling. Make Istanbul and Venice visually merge through the waterways so the whole artwork feels like one magical city where two historic worlds meet, not two separate pictures. Add sophisticated handwritten-style typography at the bottom: “ISTANBUL & VENICE” and underneath in smaller elegant script: “Where Worlds Meet • Cities on Water” Overall look: luxury vintage travel poster, European travel journal, premium watercolor artwork, nostalgic, artistic, sophisticated, highly detailed, cinematic composition, realistic watercolor texture, 8K quality.
+Tarot card, High quality portrait of beautiful female warrior , female portrait, in red armor, red lion mane, intricate, elegant, highly detailed, dynamic lighting, concept art, beautiful detailed face, beautiful portrait, female portrait, detailed beautiful female face, illustration, 8 k , masterpiece, best quality, CG, wallpaper, HDR, high quality, high-definition, extremely detailed, (detailed light){{intricate detail}}, {highres}, beautiful sunlight, chiaroscuro, anime style, key visual, intricate detail, highly detailed, breathtaking, vibrant, cinematic, detailed background,<lora:UltimateTarotV1.3:0.5> <lora:tarothorridv2:0.5>, red hue, <lora:EnglishDollLikeness_v10:0.7>
 ```
 
-By [@KrishnaBio1](https://x.com/KrishnaBio1/status/2106326234322059308)
+[Source](https://prompthero.com/prompt/6e536a2ee17-stable-diffusion-15-beautiful-medieval-female-lord-portrait)
 
 ---
 
-**1** · [2](illustrations-2.md) · [3](illustrations-3.md) · [4](illustrations-4.md) · [5](illustrations-5.md) · [6](illustrations-6.md) · [7](illustrations-7.md) · [8](illustrations-8.md) · [9](illustrations-9.md) · [10](illustrations-10.md) · [11](illustrations-11.md)
+<a id="prompthero-6f2d0a345e2"></a>
+
+## Redhead Fairy
+
+<a href="https://cdn.prompthero.com/w8w8esadf2kxg9iz06kqkitw8fds-dreamshaper-5-baked-vae-redhead-fairy.png"><img src="https://cdn.prompthero.com/w8w8esadf2kxg9iz06kqkitw8fds-dreamshaper-5-baked-vae-redhead-fairy.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+oil painting, a female fairy with red hair , purple eyes , elf ears, red hair styled in a pony tail, translucent colorful fairy wings, wearing a white dress with purple detailing, ornate, high detail, panned out view, Gloomy Illumination, dramatic, Glow effects, (dark fantasy:1.1), [style of John Blanche, style of Ed Binkley, style of Amy Brown],<lora:add_detail:1>, 16k, UHD, HDR,(Masterpiece:1.5),(best quality:1.5)
+```
+
+By [@ScArecrow23](https://prompthero.com/prompt/6f2d0a345e2-dreamshaper-5-baked-vae-redhead-fairy)
+
+---
+
+**1** · [2](illustrations-2.md) · [3](illustrations-3.md) · [4](illustrations-4.md) · [5](illustrations-5.md) · [6](illustrations-6.md) · [7](illustrations-7.md)
 
 [← Home](../README.md)

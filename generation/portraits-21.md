@@ -1,331 +1,331 @@
 # portraits
 
-[← Home](../README.md) · Page 21 / 34
+[← Home](../README.md) · Page 21 / 30
 
-[1](portraits.md) · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · [5](portraits-5.md) · [6](portraits-6.md) · [7](portraits-7.md) · [8](portraits-8.md) · [9](portraits-9.md) · [10](portraits-10.md) · [11](portraits-11.md) · [12](portraits-12.md) · [13](portraits-13.md) · [14](portraits-14.md) · [15](portraits-15.md) · [16](portraits-16.md) · [17](portraits-17.md) · [18](portraits-18.md) · [19](portraits-19.md) · [20](portraits-20.md) · **21** · [22](portraits-22.md) · [23](portraits-23.md) · [24](portraits-24.md) · [25](portraits-25.md) · [26](portraits-26.md) · [27](portraits-27.md) · [28](portraits-28.md) · [29](portraits-29.md) · [30](portraits-30.md) · [31](portraits-31.md) · [32](portraits-32.md) · [33](portraits-33.md) · [34](portraits-34.md)
+[1](portraits.md) · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · [5](portraits-5.md) · [6](portraits-6.md) · [7](portraits-7.md) · [8](portraits-8.md) · [9](portraits-9.md) · [10](portraits-10.md) · [11](portraits-11.md) · [12](portraits-12.md) · [13](portraits-13.md) · [14](portraits-14.md) · [15](portraits-15.md) · [16](portraits-16.md) · [17](portraits-17.md) · [18](portraits-18.md) · [19](portraits-19.md) · [20](portraits-20.md) · **21** · [22](portraits-22.md) · [23](portraits-23.md) · [24](portraits-24.md) · [25](portraits-25.md) · [26](portraits-26.md) · [27](portraits-27.md) · [28](portraits-28.md) · [29](portraits-29.md) · [30](portraits-30.md)
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
-<a id="prompthero-4497d8a6279"></a>
+<a id="prompthero-aec9bdefb9b"></a>
 
-## \(1girl, full body\), \(spider Gwen\), action scene, d\.\.\.
+## Image Drawing deconstucivist Fashion of a 24 year \.\.\.
 
-<a href="https://cdn.prompthero.com/tm4kmzjhdw6ill4cupnfd3yn3bty-stable-diffusion-15-1girl-full-body-spider-gwen-action-scene-dynamic-pose-dramatic-lighting-photorealistic-photorealism15-8k-raw-photo-highest-quality-masterpiece-ultra.png"><img src="https://cdn.prompthero.com/tm4kmzjhdw6ill4cupnfd3yn3bty-stable-diffusion-15-1girl-full-body-spider-gwen-action-scene-dynamic-pose-dramatic-lighting-photorealistic-photorealism15-8k-raw-photo-highest-quality-masterpiece-ultra.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-(1girl, full body), (spider Gwen), action scene, dynamic pose, dramatic lighting, (photorealistic, photorealism:1.5), (8k, RAW photo, highest quality, masterpiece, ultra-high resolution, physics-based rendering), <lora:add_detail:1>
-```
-
-[Source](https://prompthero.com/prompt/4497d8a6279-stable-diffusion-15-1girl-full-body-spider-gwen-action-scene-dynamic-pose-dramatic-lighting-photorealistic-photorealism15-8k-raw-photo-highest-quality-masterpiece-ultra)
-
----
-
-<a id="prompthero-4727f425bde"></a>
-
-## Close-up of two women with elaborate, dark, steamp\.\.\.
-
-<a href="https://cdn.prompthero.com/mfn3j6f37duysicok496ihry3v-seedream-4-seedream-45-close-up-of-two-women-with-elaborate-dark-steampunk-styled-costumes-the-woman-on-the-left-has-long-dark-hair.jpeg"><img src="https://cdn.prompthero.com/mfn3j6f37duysicok496ihry3v-seedream-4-seedream-45-close-up-of-two-women-with-elaborate-dark-steampunk-styled-costumes-the-woman-on-the-left-has-long-dark-hair.jpeg" width="480" alt="After"></a>
+<a href="https://cdn.prompthero.com/3un3q5dipawxv2j72ud0t41z8inc-flux-flux1-dev-image-drawing-deconstucivist-fashion-of-a-24-year-old-cree-kanak-female-playful-dancer-with-victorious-elation-expression-her-body.jpeg"><img src="https://cdn.prompthero.com/3un3q5dipawxv2j72ud0t41z8inc-flux-flux1-dev-image-drawing-deconstucivist-fashion-of-a-24-year-old-cree-kanak-female-playful-dancer-with-victorious-elation-expression-her-body.jpeg" width="480" alt="After"></a>
 
 **Prompt**
 
 ```text
-Close-up of two women with elaborate, dark, steampunk-styled costumes. The woman on the left has long, dark hair pulled back in a bun, adorned with a metallic headband. Her face is partially obscured by a dark, mechanical respirator mask that covers her mouth and nose. Makeup includes dark eyeliner and eyeshadow. Her costume includes intricate armor-like pieces on her upper body and arms, appearing as a combination of leather and metal. The color palette is dominated by dark blacks, greys, and deep reds. The woman on the right has a similarly elaborate costume, with a mask that's red and structured like a machine part, and horned embellishments, with the color mostly red and dark grey. The costume designs are heavy and suggest futuristic, perhaps dystopian, technology. The two women appear to be close together, as if touching or connected, focusing the viewer’s gaze on their faces and elaborated costumes. The background is out of focus but suggests a somewhat urban or industrial setting. The lighting is dramatic and creates strong shadows, enhancing the dark and stylized aesthetic of the image.
+Image Drawing deconstucivist Fashion of a 24 year old Cree-Kanak female playful dancer with Victorious elation expression. Her body is Prominent, smooth collarbones that taper into defined shoulders, toned muscles, abs, small breast, flat chest. She has Deep, rich brown skin with cool undertones, appearing even and smooth. The skin pores and texture are clearly visible and in focus. Her Thin crescent eyes, Calm, muted green eyes, framed by long, elegant eyelashes. Her eyebrows are Mini arch shaped, complementing her delicate facial features. Overly large, asymmetrical sweatshirts, midriff, Paneled harem pants with abstract cuts, Hands in pockets with a slight smile , rule of thirds, in the background Disjointed wooden planks forming a pathway, in the style of H.R. Giger
 ```
 
-[Source](https://prompthero.com/prompt/4727f425bde-seedream-4-seedream-45-close-up-of-two-women-with-elaborate-dark-steampunk-styled-costumes-the-woman-on-the-left-has-long-dark-hair)
+By [@AkiraS](https://prompthero.com/prompt/aec9bdefb9b-flux-flux1-dev-image-drawing-deconstucivist-fashion-of-a-24-year-old-cree-kanak-female-playful-dancer-with-victorious-elation-expression-her-body)
 
 ---
 
-<a id="prompthero-5454b2836ef"></a>
+<a id="prompthero-af213ba9fcb"></a>
 
-## a portrait of a smiling woman with wet, slicked-ba\.\.\.
+## A young woman with pale, porcelain skin and long, \.\.\.
 
-<a href="https://cdn.prompthero.com/6q92omsp8fiqigtvb5yutojv0kh5-sd-xl-v10-refiner-vae-fix-the-image-was-produced-with-comfyui-workflow-erol-sdxl-turbo-canny-controlnet-ttplanetsdxlcontrolnettilerealisticv1-as-well-as-its-workflow-by-ttplanet-a-portrait-of-a-smiling-woman-with-wet-slicked-back-brown-hair-draped-over-one-shoulder-she-is-looking-at.png"><img src="https://cdn.prompthero.com/6q92omsp8fiqigtvb5yutojv0kh5-sd-xl-v10-refiner-vae-fix-the-image-was-produced-with-comfyui-workflow-erol-sdxl-turbo-canny-controlnet-ttplanetsdxlcontrolnettilerealisticv1-as-well-as-its-workflow-by-ttplanet-a-portrait-of-a-smiling-woman-with-wet-slicked-back-brown-hair-draped-over-one-shoulder-she-is-looking-at.png" width="480" alt="After"></a>
+<a href="https://cdn.prompthero.com/mxoxr0yj8sgjtjxkdwv7l0tvcsk6-flux-flux1-dev-a-young-woman-with-pale-porcelain-skin-and-long-flowing-auburn-hair-kneels-on-a-dark-matte-surface-her-diaphanous.png"><img src="https://cdn.prompthero.com/mxoxr0yj8sgjtjxkdwv7l0tvcsk6-flux-flux1-dev-a-young-woman-with-pale-porcelain-skin-and-long-flowing-auburn-hair-kneels-on-a-dark-matte-surface-her-diaphanous.png" width="480" alt="After"></a>
 
 **Prompt**
 
 ```text
-a portrait of a smiling woman with wet, slicked-back brown hair draped over one shoulder. She is looking at the camera with a friendly expression and a slight tilt of her head. She wears a sleeveless black top and has a natural makeup look that highlights her features.  Cityscape background setting.
+A young woman with pale, porcelain skin and long, flowing auburn hair kneels on a dark, matte surface, her diaphanous white dress clinging to her gentle contours. She is captured in a tenebrous, introspective pose, her eyes closed in quiet contemplation. A single, focused light source from above and slightly behind her casts dramatic shadows, emphasizing the S-curve of her back and the delicate fabric. The camera angle is low, enhancing her ethereal beauty against the impenetrable blackness. The scene is bathed in high-contrast, volumetric lighting with subtle halation, creating a mood of vulnerability and ethereal calm. Symbolist chiaroscuro and tenebrist techniques, combined with film grain and a teal and orange color grading, add depth and texture. The lighting setup features a soft, warm spotlight positioned at a 45-degree angle, casting a gentle glow that highlights her features and creates a high dynamic range. aidmaimageupgrader
 ```
 
-By [@JBlack16062205](https://prompthero.com/prompt/5454b2836ef-sd-xl-v10-refiner-vae-fix-the-image-was-produced-with-comfyui-workflow-erol-sdxl-turbo-canny-controlnet-ttplanetsdxlcontrolnettilerealisticv1-as-well-as-its-workflow-by-ttplanet-a-portrait-of-a-smiling-woman-with-wet-slicked-back-brown-hair-draped-over-one-shoulder-she-is-looking-at)
+[Source](https://prompthero.com/prompt/af213ba9fcb-flux-flux1-dev-a-young-woman-with-pale-porcelain-skin-and-long-flowing-auburn-hair-kneels-on-a-dark-matte-surface-her-diaphanous)
 
 ---
 
-<a id="prompthero-05660af854a"></a>
+<a id="prompthero-afd8d5c5b91"></a>
 
-## Ultra-realistic cinematic fashion portrait of a st\.\.\.
+## A playful summer picnic fashion editorial featurin\.\.\.
 
-<a href="https://cdn.prompthero.com/azn5wpv8p754ko1u4lejjc7kit-ultra-realistic-cinematic-fashion-portrait-of-a-stunning-young-adult-russian-blonde-woman-with-an-elegant-hourglass-figure-long-voluminous.png"><img src="https://cdn.prompthero.com/azn5wpv8p754ko1u4lejjc7kit-ultra-realistic-cinematic-fashion-portrait-of-a-stunning-young-adult-russian-blonde-woman-with-an-elegant-hourglass-figure-long-voluminous.png" width="480" alt="After"></a>
+<a href="https://cdn.prompthero.com/v1_3195cc01585fc7f5e033b6f8c1-seedream-5-v2-a-playful-summer-picnic-fashion-editorial-featuring-a-young-woman-with-soft-blonde-twin-ponytails-wearing-a-pastel-pink-and.jpg"><img src="https://cdn.prompthero.com/v1_3195cc01585fc7f5e033b6f8c1-seedream-5-v2-a-playful-summer-picnic-fashion-editorial-featuring-a-young-woman-with-soft-blonde-twin-ponytails-wearing-a-pastel-pink-and.jpg" width="480" alt="After"></a>
 
 **Prompt**
 
 ```text
-Ultra-realistic cinematic fashion portrait of a stunning young adult Russian blonde woman with an elegant hourglass figure, long voluminous platinum-blonde hair cascading in soft waves, luminous fair skin, delicate facial features, naturally glossy lips, bright expressive blue eyes, subtle luxury makeup, soft blush, confident yet playful expression. She is standing in the middle of a modern city street during golden hour, surrounded by floating futuristic holographic music-player cards displaying customizable songs, albums, artists, playlists, and album artwork.The holographic cards appear suspended in mid-air around her in a dynamic 360-degree arrangement, made of translucent frosted glass with glowing edges, soft reflections, elegant UI design, animated progress bars, music controls, album covers, song titles, artist names, playback indicators, and floating particles. Every music card should be fully customizable, allowing different song names, artists, album covers, playback times, playlist titles, and streaming platform branding.She wears a oversized white T-shirt with a Pink Text on the chest area saying "Peace" , paired with fashionable high-waisted bottoms. Stylish sunglasses rest casually on top of her head. Her posture is confident and relaxed, creating the feeling of a modern music icon or influencer.Warm sunlight streams from behind her, creating dramatic rim lighting around her hair, golden highlights, soft lens flares, cinematic bokeh, and glowing dust particles. Reflections from nearby buildings create realistic light interplay on the holographic interfaces. The city background is softly blurred with shallow depth of field, emphasizing the subject while maintaining environmental realism.Futuristic augmented reality aesthetic, premium social media campaign, luxury music streaming advertisement, next-generation UI design, floating glass interfaces, volumetric lighting, realistic shadows, highly detailed skin texture, individual hair strands visible, photorealistic eyes, natural proportions, elegant styling, cinematic composition, centered framing, dynamic perspective, professional fashion photography, editorial magazine quality, high-end commercial advertising, hyperrealistic rendering, HDR, RAW photography, ultra-detailed, masterpiece, 8K resolution.
+A playful summer picnic fashion editorial featuring a young woman with soft blonde twin ponytails, wearing a pastel-pink and mint-green strawberry-patterned knitted cardigan, a cream pleated skirt with delicate lace edging, pale-pink ribbed socks and retro pastel sneakers. She sits on a red-and-cream gingham picnic blanket, holding a small strawberry between her fingers. A woven basket filled with strawberries, a glass bottle of lemonade and a tiny crocheted mushroom bag sit beside her. Open grassy field, distant blue horizon, bright cloudless sky, close three-quarter composition, relaxed youthful pose, vivid textile details, charming handmade accessories, gentle sunlight, realistic fashion photography, soft film-like colors, no text, no logo, no watermark
 ```
 
-[Source](https://prompthero.com/prompt/05660af854a-ultra-realistic-cinematic-fashion-portrait-of-a-stunning-young-adult-russian-blonde-woman-with-an-elegant-hourglass-figure-long-voluminous)
+By [@chorlo](https://prompthero.com/prompt/afd8d5c5b91-seedream-5-v2-a-playful-summer-picnic-fashion-editorial-featuring-a-young-woman-with-soft-blonde-twin-ponytails-wearing-a-pastel-pink-and)
 
 ---
 
-<a id="prompthero-5924fd0e686"></a>
+<a id="prompthero-b0b469cad14"></a>
 
-## Model portrait
+## blue and orange paint on the face of a woman, in t\.\.\.
 
-<a href="https://cdn.prompthero.com/ioxeehz7yd0b3shp2ilgq2xbui3n-midjourney-6-model-portrait.png"><img src="https://cdn.prompthero.com/ioxeehz7yd0b3shp2ilgq2xbui3n-midjourney-6-model-portrait.png" width="480" alt="After"></a>
+<a href="https://cdn.prompthero.com/ftbv96lpni2otmxdel2re84fs114-midjourney-52-blue-and-orange-paint-on-the-face-of-a-woman-in-the-style-of-vray-tracing-fluid-forms-hyper-realistic.png"><img src="https://cdn.prompthero.com/ftbv96lpni2otmxdel2re84fs114-midjourney-52-blue-and-orange-paint-on-the-face-of-a-woman-in-the-style-of-vray-tracing-fluid-forms-hyper-realistic.png" width="480" alt="After"></a>
 
 **Prompt**
 
 ```text
-photography, dimly lit room with a hazy atmosphere, capturing a female figure lounging on a deep crimson color rustic couch, wearing a black suit and white shirt with loose blue tie, arm resting on hers bent knee, hand holds a glowing cigarette, creating a trail of hazy smoke that wafts around her, illuminated by a beam of light from an unseen source off-camera, light filters through the deep smoke, casting dynamic patterns and giving the scene a moody, dark atmosphere, cinematic quality resolution, air of contemplation in hers posture and the ambient glow contributes to the intimate and introspective mood of the portrait, high contrast --ar 9:16 --style raw --s 400
+blue and orange paint on the face of a woman, in the style of vray tracing, fluid forms, hyper-realistic details, color splash, dark cyan and yellow, polished metamorphosis, photo-realistic techniques --ar 71:128 --stylize 750 --v 5.2
 ```
 
-By [@Grayve](https://prompthero.com/prompt/5924fd0e686-midjourney-6-model-portrait)
+By [@NorthmoorAI](https://prompthero.com/prompt/b0b469cad14-midjourney-52-blue-and-orange-paint-on-the-face-of-a-woman-in-the-style-of-vray-tracing-fluid-forms-hyper-realistic)
 
 ---
 
-<a id="prompthero-6073c3f54cc"></a>
+<a id="prompthero-b0d9573619e"></a>
 
-## \(Masterpiece Illustration:1\.2\), Professional Portr\.\.\.
+## \{ &quot;meta&quot;: \{ &quot;version&quot;: &quot;1\.2&quot;, &quot;locale&quot;: &quot;es-VE&quot;, &quot;\.\.\.
 
-<a href="https://cdn.prompthero.com/kl2fkyd2b5c6f7t6p1raw946lp6f-stable-diffusion-15-witch-model-arthemy-comics-masterpiece-illustration12-professional-portrait-1-woman-female-elf-wizard-in-a-palace-close-up-disappointed-look-large-hat-long-torn.png"><img src="https://cdn.prompthero.com/kl2fkyd2b5c6f7t6p1raw946lp6f-stable-diffusion-15-witch-model-arthemy-comics-masterpiece-illustration12-professional-portrait-1-woman-female-elf-wizard-in-a-palace-close-up-disappointed-look-large-hat-long-torn.png" width="480" alt="After"></a>
+<a href="https://cdn.prompthero.com/grp4mr2nuui8vjvfk89qljpetd-grok-image-grok-imagine-image-meta-version-12-locale-es-ve-type-advancedprofileanimalhumorgaming-globalconfidence-091-subject-species-domestic-cat-apparentbreed-short-haired-mixed-breed-furcolor.jpeg"><img src="https://cdn.prompthero.com/grp4mr2nuui8vjvfk89qljpetd-grok-image-grok-imagine-image-meta-version-12-locale-es-ve-type-advancedprofileanimalhumorgaming-globalconfidence-091-subject-species-domestic-cat-apparentbreed-short-haired-mixed-breed-furcolor.jpeg" width="480" alt="After"></a>
 
 **Prompt**
 
 ```text
-(Masterpiece Illustration:1.2), Professional Portrait, 1 woman, female elf wizard in a palace, close-up, disappointed look, large hat, long torn clothes, seductive,(hyper-defined), (vibrant color tones:1.2), from below, cartoon, fantasy Victorian aesthetic, complex lighting, (flat colors:0.5), ultra detailed, (fine details:1.2), absurdres, (atmosphere), coherent, <lora:add_detail:0.8>, (best quality, masterpiece, perfect face, detailed symmetric iris, perfect smooth skin texture)
+{ "meta": { "version": "1.2", "locale": "es-VE", "type": "advanced_profile_animal_humor_gaming", "global_confidence": 0.91 }, "subject": { "species": "domestic cat", "apparent_breed": "short-haired mixed breed", "fur_color": "light orange with white tones", "expression": "neutral with a fixed gaze", "confidence": 0.88 }, "accessories": { "mask": { "type": "black balaclava", "fit": "covering head and ears, leaving eyes and muzzle visible", "confidence": 0.94 }, "headphones": { "type": "gaming headphones with microphone", "color": "black", "position": "over the mask, well adjusted", "confidence": 0.92 } }, "context": { "location": "indoors in front of monitor", "simulated_activity": "playing FPS video game", "key_elements": [ "monitor with first-person shooter game", "weapon visible on screen", "soft artificial lighting" "Counter-Strike 1.6" ] "confidence": 0.89 }, "composition": { "framing": "centered medium shot", "angle": "slightly high", "background": { "type": "monitor on", "content": "video game scene with rifle", "complexity": "medium", "confidence": 0.86 } }, "lighting": { "type": "mixed (natural and screen)", "direction": "front from monitor", "apparent_temperature": "cold", "uniformity": "medium", "confidence": 0.84 }, "image_quality": { "sharpness": "medium", "noise": "low", "color": "neutral with a predominance of grays", "artifacts": "minimal", "confidence": 0.87 }, "simulated_camera": { "platform": "smartphone or webcam", "equivalent_focal_length": "28-35 mm", "equivalent_aperture": "f/2.2", "white_balance": "auto", "confidence": 0.75 }, "segmentation": { "classes": [ "cat", "clothing/accessories", "headphones", "monitor", "video game", "indoor background" ], "recommended background_mask": "keep screen for humorous context", "confidence": 0.83 }, "interpretation": { "tone": "humorous", "apparent_intent": "parody of a professional gamer", "visual_impact": "high due to contrast between animal and human environment", "confidence": 0.9 }, "authenticity_risks": { "AI_indicators": "not visible", "inconsistencies": "none apparent", "verdict": "realistic photograph with humorous elements", "confidence": 0.88 }, "recommended_uses": { "memes": "excellent for composition and concept", "viral content": "very suitable for social media", "humorous gaming campaigns": "high potential", "confidence": 0.92 }, "prompt_adaptable": { "style": "humorous meme-style photo", "short_description": "cat wearing a balaclava and headset in front of a monitor playing an FPS video game, specifically Counter-Strike 1.6", "parameters": { "subject": "domestic cat", "accessories": "black balaclava, gaming headset with microphone", "background": "monitor on with a shooting game", "light": "front lighting from the screen, cool tone", "composition": "centered medium shot, slightly elevated angle", "context": "indoors, humorous gamer scene", "processing": "natural, without exaggerated filters" } }, "notes": [ "The image plays with anthropomorphism to generate humor." "Ideal for digital content that combines cuteness and gamer comedy." ] }
 ```
 
-By [@ScArecrow23](https://prompthero.com/prompt/6073c3f54cc-stable-diffusion-15-witch-model-arthemy-comics-masterpiece-illustration12-professional-portrait-1-woman-female-elf-wizard-in-a-palace-close-up-disappointed-look-large-hat-long-torn)
+[Source](https://prompthero.com/prompt/b0d9573619e-grok-image-grok-imagine-image-meta-version-12-locale-es-ve-type-advancedprofileanimalhumorgaming-globalconfidence-091-subject-species-domestic-cat-apparentbreed-short-haired-mixed-breed-furcolor)
 
 ---
 
-<a id="prompthero-6220eb47e51"></a>
+<a id="prompthero-b1eaa1f9a1d"></a>
 
-## black and white photography of rapper in baseball \.\.\.
+## cyberpunk game style a photo of a slim, small brea\.\.\.
 
-<a href="https://cdn.prompthero.com/oznvbmgqw63onp904ukaz0r91n-nano-banana-nano-banana-2-black-and-white-photography-of-rapper-in-baseball-cap-emerging-from-fog-on-stage-during-concert-side-view-volumetric-lighting.jpeg"><img src="https://cdn.prompthero.com/oznvbmgqw63onp904ukaz0r91n-nano-banana-nano-banana-2-black-and-white-photography-of-rapper-in-baseball-cap-emerging-from-fog-on-stage-during-concert-side-view-volumetric-lighting.jpeg" width="480" alt="After"></a>
+<a href="https://cdn.prompthero.com/lhxp91kj868pwwjx2qq30cy2vbk3-flux-dev-cyberpunk-game-style-a-photo-of-a-slim-small-breast-flat-chest-abs-young-asian-female-supermodel-with-short-messy.png"><img src="https://cdn.prompthero.com/lhxp91kj868pwwjx2qq30cy2vbk3-flux-dev-cyberpunk-game-style-a-photo-of-a-slim-small-breast-flat-chest-abs-young-asian-female-supermodel-with-short-messy.png" width="480" alt="After"></a>
 
 **Prompt**
 
 ```text
-black and white photography of rapper in baseball cap emerging from fog on stage during concert, side view, volumetric lighting, cinematic angle, cinematic lights,
+cyberpunk game style a photo of a slim, small breast, flat chest, abs, young asian female supermodel, with short messy black hair, Nano-weapon concealment jacket, midriff, Biometric lockdown leggings, Executing superhuman parkour sequence, in the background Nanotech contamination quarantine zone . neon, dystopian, futuristic, digital, vibrant, detailed, high contrast, reminiscent of cyberpunk genre video games
 ```
 
-By [@alisaan](https://prompthero.com/prompt/6220eb47e51-nano-banana-nano-banana-2-black-and-white-photography-of-rapper-in-baseball-cap-emerging-from-fog-on-stage-during-concert-side-view-volumetric-lighting)
+By [@AkiraS](https://prompthero.com/prompt/b1eaa1f9a1d-flux-dev-cyberpunk-game-style-a-photo-of-a-slim-small-breast-flat-chest-abs-young-asian-female-supermodel-with-short-messy)
 
 ---
 
-<a id="prompthero-6525b193c34"></a>
+<a id="prompthero-b2da23a7940"></a>
 
-## A cinematic portrait of an Asian woman standing in\.\.\.
+## photography, candid shot, a boy and dad, beaming w\.\.\.
 
-<a href="https://cdn.prompthero.com/mfxt0fb92hewkg2de1c8qu5pms-stable-diffusion-xl-10-a-cinematic-portrait-of-an-asian-woman-standing-in-a-quiet-forest-captured-in-a-spontaneous-moment-as-she-turns.jpeg"><img src="https://cdn.prompthero.com/mfxt0fb92hewkg2de1c8qu5pms-stable-diffusion-xl-10-a-cinematic-portrait-of-an-asian-woman-standing-in-a-quiet-forest-captured-in-a-spontaneous-moment-as-she-turns.jpeg" width="480" alt="After"></a>
+<a href="https://cdn.prompthero.com/j1vr6y6vwbsx8yabs784ru0tsgel-midjourney-6-photography-candid-shot-a-boy-and-dad-beaming-with-a-wide-grin-stands-on-a-skateboard-boy-wearing-a-white.png"><img src="https://cdn.prompthero.com/j1vr6y6vwbsx8yabs784ru0tsgel-midjourney-6-photography-candid-shot-a-boy-and-dad-beaming-with-a-wide-grin-stands-on-a-skateboard-boy-wearing-a-white.png" width="480" alt="After"></a>
 
 **Prompt**
 
 ```text
-A cinematic portrait of an Asian woman standing in a quiet forest, captured in a spontaneous moment as she turns her head slightly back toward the camera. Soft sunlight filters through tall trees, creating dramatic patches of light and shadow across her face and body. A distinct vertical light leak streak cuts through the frame, adding a striking analog imperfection. Her hair moves gently in the breeze, with loose strands catching the light, adding natural motion and softness. She wears a simple light-colored blouse layered with dark suspenders, creating a subtle contrast against the deep forest tones. Her expression is calm, slightly distant, and introspective, with her eyes softly meeting the camera. The background is filled with blurred tree trunks and glowing bokeh highlights, creating depth and atmosphere. The color grading features rich teal shadows and warm orange highlights, giving a cinematic teal-and-orange contrast. The image has a strong analog film aesthetic with visible grain, soft haze, slight blur, and light distortion. Imperfect framing, natural light flare, and film burn elements enhance the nostalgic 35mm film look. Cinematic film still, dreamy and moody atmosphere, poetic forest setting, high detail, hd quality.
+photography, candid shot, a boy and dad, beaming with a wide grin, stands on a skateboard, boy wearing a white loose-fit T-shirt with a playful yet cool vibe, dark grey cargo jogger, they hold onto the strong hands of an adult whose lower half is visible, showing black loose-fit long sleeves and hands adorned with detailed tattoos, both wear Nike SB skateboard shoes, offering a contrast between new and comfortably worn, balance, perfect face-to-body ratio, and shared joy between generations, all set within the soft, natural light of a serene, used camera Sony α9 II with Sony FE 100-400mm f/4.5-5.6 GM OSS lens, emulating a high-contrast effect, UHD --ar 9:16 --style raw --stylize 600
 ```
 
-[Source](https://prompthero.com/prompt/6525b193c34-stable-diffusion-xl-10-a-cinematic-portrait-of-an-asian-woman-standing-in-a-quiet-forest-captured-in-a-spontaneous-moment-as-she-turns)
+By [@Grayve](https://prompthero.com/prompt/b2da23a7940-midjourney-6-photography-candid-shot-a-boy-and-dad-beaming-with-a-wide-grin-stands-on-a-skateboard-boy-wearing-a-white)
 
 ---
 
-<a id="prompthero-6663f45f05e"></a>
+<a id="prompthero-b3b36b2a5e9"></a>
 
-## \(Asian girl wearing intricate samurai armor:1\.5\), \.\.\.
+## Youth Uprising: Laura
 
-<a href="https://cdn.prompthero.com/kukw589thynbofunvzb7swhco0m5-stable-diffusion-15-dreamshaper631bakedvae-asian-girl-wearing-intricate-samurai-armor15-dark-rainy-city-dynamic-pose-action-scene-lumen-reflections-best-illumination-dynamic-lighting-ultra.png"><img src="https://cdn.prompthero.com/kukw589thynbofunvzb7swhco0m5-stable-diffusion-15-dreamshaper631bakedvae-asian-girl-wearing-intricate-samurai-armor15-dark-rainy-city-dynamic-pose-action-scene-lumen-reflections-best-illumination-dynamic-lighting-ultra.png" width="480" alt="After"></a>
+<a href="https://cdn.prompthero.com/hu5fm9l4pzhppy68vrzjgio5g3to-stable-diffusion-xl-base-09-youth-uprising-laura.jpg"><img src="https://cdn.prompthero.com/hu5fm9l4pzhppy68vrzjgio5g3to-stable-diffusion-xl-base-09-youth-uprising-laura.jpg" width="480" alt="After"></a>
 
 **Prompt**
 
 ```text
-(Asian girl wearing intricate samurai armor:1.5), dark rainy city, (dynamic pose, action scene), (lumen reflections, best illumination, dynamic lighting), (ultra highres, realistic, photo-realistic, 8k, raw photo, hyperrealism, photography, depth of field), <lora:add_detail:1>
+(masterpiece,best quality, ultra-realistic, 32k, RAW photo, detailed skin, 8k UHD, high quality:1.2), street grunge style portrait of a young beautiful cyberpunk woman, messy long hair, revolution, riot gear, cyberpunk city background, megacity, sunset, paint style of Mike Winkelmann, high detail, digital art <lora:add-detail-xl:5>
 ```
 
-[Source](https://prompthero.com/prompt/6663f45f05e-stable-diffusion-15-dreamshaper631bakedvae-asian-girl-wearing-intricate-samurai-armor15-dark-rainy-city-dynamic-pose-action-scene-lumen-reflections-best-illumination-dynamic-lighting-ultra)
+By [@abyishot](https://prompthero.com/prompt/b3b36b2a5e9-stable-diffusion-xl-base-09-youth-uprising-laura)
 
 ---
 
-<a id="prompthero-6886cb42725"></a>
+<a id="prompthero-b4ced5a8de6"></a>
 
-## Close-up portrait of a mature man, likely middle-a\.\.\.
+## The image captures a joyous moment, centered on a \.\.\.
 
-<a href="https://cdn.prompthero.com/6vlj5rl70g9nklx6haxt54ptzq9k-midjourney-7-close-up-portrait-of-a-mature-man-likely-middle-aged-with-a-serious-expression-dark-skin-tone-weathered-and-textured.png"><img src="https://cdn.prompthero.com/6vlj5rl70g9nklx6haxt54ptzq9k-midjourney-7-close-up-portrait-of-a-mature-man-likely-middle-aged-with-a-serious-expression-dark-skin-tone-weathered-and-textured.png" width="480" alt="After"></a>
+<a href="https://cdn.prompthero.com/muiw908arx2rch86w53wl9aqlwyz-flux-flux-11-pro-ultra-the-image-captures-a-joyous-moment-centered-on-a-smiling-woman-dressed-vibrantly-in-traditional-clothing-possibly-from-a-culture.jpg"><img src="https://cdn.prompthero.com/muiw908arx2rch86w53wl9aqlwyz-flux-flux-11-pro-ultra-the-image-captures-a-joyous-moment-centered-on-a-smiling-woman-dressed-vibrantly-in-traditional-clothing-possibly-from-a-culture.jpg" width="480" alt="After"></a>
 
 **Prompt**
 
 ```text
-Close-up portrait of a mature man, likely middle-aged, with a serious expression.  Dark skin tone, weathered and textured.  A deep, rich, dark gray, almost black, tunic-like garment.  The material of the garment is detailed with a leather-like texture.  A band of deep reddish-brown fabric is wrapped across his eyes, like a blindfold.  He has a gray-white beard and short gray hair.  The face displays deep lines and wrinkles, suggesting age and experience.  The facial features are strong and defined.   The image has a dramatic, almost theatrical quality, with a dark background emphasizing the subject's features
+The image captures a joyous moment, centered on a smiling woman dressed vibrantly in traditional clothing, possibly from a culture known for its colorful attire. Her outfit is richly adorned with bright, intricate patterns and embellishments, and she wears a headdress adorned with flowers that add a splash of various colors to her appearance. She is holding up a decorative item, which could be a part of a festival or celebration, toward the sky with a look of exuberance and delight. Her expression is one of genuine happiness as she laughs, her eyes closed and her head tilted back, which suggests she is fully immersed in the festivities. Other individuals, similarly dressed in traditional clothing though slightly out of focus, can be seen in the background enjoying the event, indicating a communal or cultural gathering. The warm lighting amplifies the festive atmosphere, giving the image a vibrant and lively feel.
 ```
 
-[Source](https://prompthero.com/prompt/6886cb42725-midjourney-7-close-up-portrait-of-a-mature-man-likely-middle-aged-with-a-serious-expression-dark-skin-tone-weathered-and-textured)
+[Source](https://prompthero.com/prompt/b4ced5a8de6-flux-flux-11-pro-ultra-the-image-captures-a-joyous-moment-centered-on-a-smiling-woman-dressed-vibrantly-in-traditional-clothing-possibly-from-a-culture)
 
 ---
 
-<a id="prompthero-07045bae5ef"></a>
+<a id="prompthero-b5bb3ad9536"></a>
 
-## This is a cinematic and atmospheric, medium-full p\.\.\.
+## high resolution photography, candid shot, couple, \.\.\.
 
-<a href="https://cdn.prompthero.com/nbwzpinlxg5274kr85m9fdsxly-z-image-turbo-this-is-a-cinematic-and-atmospheric-medium-full-profile-shot-of-a-powerful-female-warrior-captured-in-a-moment-of.png"><img src="https://cdn.prompthero.com/nbwzpinlxg5274kr85m9fdsxly-z-image-turbo-this-is-a-cinematic-and-atmospheric-medium-full-profile-shot-of-a-powerful-female-warrior-captured-in-a-moment-of.png" width="480" alt="After"></a>
+<a href="https://cdn.prompthero.com/rxikupa9egvwz1r54ijrl3v1yc-midjourney-shatter-high-resolution-photography-candid-shot-couple-hugging-at-a-complicated-street-35mm-film-kodak-portra-400-motion-blur-authentic-emotion.png"><img src="https://cdn.prompthero.com/rxikupa9egvwz1r54ijrl3v1yc-midjourney-shatter-high-resolution-photography-candid-shot-couple-hugging-at-a-complicated-street-35mm-film-kodak-portra-400-motion-blur-authentic-emotion.png" width="480" alt="After"></a>
 
 **Prompt**
 
 ```text
-This is a cinematic and atmospheric, medium-full profile shot of a powerful female warrior, captured in a moment of quiet focus within a gritty, industrial environment. The Subject: The central figure is a stunning young woman of East Asian descent (specifically Eve from Stellar Blade) with a slender and athletic physique. She has long, straight dark brown hair styled in a voluminous high ponytail with a white hair accessory and blunt bangs. Her expression is calm and soulful as she gazes upward, leaning her forehead and hands against a large metal structure. Her skin has a soft, realistic texture that catches the warm ambient light. The Outfit: She is dressed in a sophisticated, form-fitting tactical "Nano Suit." The ensemble features a palette of glossy black, metallic silver, and matte orange panels. The design includes high-tech textures, integrated mechanical components along her spine, and a high collar. The material is highly reflective, accentuating her silhouette and the industrial lighting of the scene. The Setting and Atmosphere: The scene takes place in a post-apocalyptic or heavy industrial zone. She is standing next to a weathered, grey metallic pillar with an "OPEN" sign and a large, vibrant red vertical panel featuring white text ("THE WAVE...") and East Asian characters. In the background, the desolate terrain is littered with debris and small fires, casting a warm orange glow and filling the air with floating embers and sparks. Distant, dark mountain silhouettes are visible under a hazy, dusk-colored sky. The atmosphere is quiet, heavy, and epic. Lighting and Composition: Shot Angle: Eye-level to slightly low-angle side profile, which emphasizes her graceful posture and allows the viewer to share in her moment of reflection while showcasing the depth of the battlefield. Framing: Medium-full landscape shot, centering the character against the vertical red panel while providing a wide view of the atmospheric background. Technical Details: The lighting is dramatic and cinematic, utilizing the warm glow of the fires behind her to create a vibrant rim light around her hair and silhouette. This contrast separates her from the dark environment and highlights the reflective surfaces of her suit. The air is filled with beautiful bokeh sparks and volumetric haze. The image quality is exceptionally high, featuring the razor-sharp detail and advanced rendering typical of a modern AAA 3D game engine.
+high resolution photography, candid shot, couple, hugging, at a complicated street, 35mm film, kodak portra 400, motion blur, authentic emotion, film grain, cinematic lighting, rich detailed --ar 9:16 --raw
 ```
 
-[Source](https://prompthero.com/prompt/07045bae5ef-z-image-turbo-this-is-a-cinematic-and-atmospheric-medium-full-profile-shot-of-a-powerful-female-warrior-captured-in-a-moment-of)
+By [@Grayve](https://prompthero.com/prompt/b5bb3ad9536-midjourney-shatter-high-resolution-photography-candid-shot-couple-hugging-at-a-complicated-street-35mm-film-kodak-portra-400-motion-blur-authentic-emotion)
 
 ---
 
-<a id="prompthero-7099a6bd01e"></a>
+<a id="prompthero-b6bebeecca5"></a>
 
-## This is a sleek and high-tech character portrait o\.\.\.
+## score\_9, score\_8\_up, score\_7\_up,1girl,solo,two ton\.\.\.
 
-<a href="https://cdn.prompthero.com/zbyiusci14n5vkruph3b9bchhx-z-image-turbo-this-is-a-sleek-and-high-tech-character-portrait-of-a-futuristic-female-warrior-captured-with-an-intense-and-dynamic.png"><img src="https://cdn.prompthero.com/zbyiusci14n5vkruph3b9bchhx-z-image-turbo-this-is-a-sleek-and-high-tech-character-portrait-of-a-futuristic-female-warrior-captured-with-an-intense-and-dynamic.png" width="480" alt="After"></a>
+<a href="https://cdn.prompthero.com/vhuvkiwjf2k65cdp6rvfgscx9h74-pony-diffusion-v6-xl-v6-start-with-this-one-score9-score8up-score7up1girlsolotwo-tone-hairblack-and-green-hairshoulder-length-straight-hairblunt-bangsearhair-behind-earyellow-eyesblack-eye-shadowblack-eye-linerblushperfecteyeseyebrowsnormal-lipsnatural.png"><img src="https://cdn.prompthero.com/vhuvkiwjf2k65cdp6rvfgscx9h74-pony-diffusion-v6-xl-v6-start-with-this-one-score9-score8up-score7up1girlsolotwo-tone-hairblack-and-green-hairshoulder-length-straight-hairblunt-bangsearhair-behind-earyellow-eyesblack-eye-shadowblack-eye-linerblushperfecteyeseyebrowsnormal-lipsnatural.png" width="480" alt="After"></a>
 
 **Prompt**
 
 ```text
-This is a sleek and high-tech character portrait of a futuristic female warrior, captured with an intense and dynamic perspective in a dark industrial environment. The Subject: The central figure is a young woman of East Asian descent (specifically Eve from Stellar Blade) with a slender and athletic build. She has dark hair styled in a high ponytail with neat, blunt bangs that frame her face. Her complexion is smooth and porcelain-fair. Her makeup is refined, featuring soft-focus eyes with a subtle reddish-brown tint and natural, glossy lips. She put her hand on waist, gazes directly up toward the lens with a calm, resolute, and captivating expression. The Outfit: She is wearing a revolutionary, skin-tight "Nano Suit" primarily made of dark carbon-fiber-textured materials and tan mesh panels. The suit is highly detailed with vibrant neon-green glowing elements, including a high-collar choker and vertical circuit-like lines that run down the torso and legs. Small yellow "EVE" brand decals and gold mechanical emblems are visible on the chest. The design features artistic side cut-outs and reflective black piping. Her footwear also emits a brilliant neon-green glow from circular accents. The Setting and Atmosphere: The scene takes place in a dark, high-tech industrial facility. She stands on a metallic floor etched with glowing orange-red runes or technical markings that cast a warm ambient light from below. In the out-of-focus background, dark machinery and structural beams are visible. The atmosphere is cold, futuristic, and high-energy, reminiscent of a high-stakes combat environment. Lighting and Composition: Shot Angle: High-angle perspective, looking directly down at the subject, which creates a dynamic and immersive feeling while emphasizing her slender silhouette and the glowing floor patterns. Framing: Medium-full shot, capturing the subject from the head down to her feet, focusing on her upward gaze and the intricate details of her suit. Technical Details: The lighting is dramatic and professional. A soft key light from above illuminates her face and shoulders, while the intense neon-green suit elements and the orange-red floor lights create a complex, multi-colored glow. The color palette is a striking contrast of deep blacks, industrial greys, vibrant neon green, and hot orange. The image quality is exceptionally high, possessing the sharp detail and sophisticated rendering typical of a modern AAA 3D game engine.
+score_9, score_8_up, score_7_up,1girl,solo,two tone hair,black and green hair,shoulder length straight hair,blunt bangs,ear,hair behind ear,yellow eyes,black eye shadow,black eye liner,blush,perfecteyes,eyebrows,normal lips,natural color lips,jewelry,forehead jewelry, mermaid scales, shy smile, cute headtilt, happy face,underwater fantasy sea floor, cute headtilt, looking at viewer,facing viewer, beautiful fantasy underwater scene,cowboy body shot, vibrant,high resolution,cinematic,extremely detailed
 ```
 
-[Source](https://prompthero.com/prompt/7099a6bd01e-z-image-turbo-this-is-a-sleek-and-high-tech-character-portrait-of-a-futuristic-female-warrior-captured-with-an-intense-and-dynamic)
+[Source](https://prompthero.com/prompt/b6bebeecca5-pony-diffusion-v6-xl-v6-start-with-this-one-score9-score8up-score7up1girlsolotwo-tone-hairblack-and-green-hairshoulder-length-straight-hairblunt-bangsearhair-behind-earyellow-eyesblack-eye-shadowblack-eye-linerblushperfecteyeseyebrowsnormal-lipsnatural)
 
 ---
 
-<a id="prompthero-8259bd44bbe"></a>
+<a id="prompthero-b7ed67426c7"></a>
 
-## Within this black and white image we see a young w\.\.\.
+## photography, front view, long distance shot, profe\.\.\.
 
-<a href="https://cdn.prompthero.com/fs2weq040d1n3kxt61osq4ekunk8-flux-flux1-dev-within-this-black-and-white-image-we-see-a-young-woman-laying-on-her-back-on-a-bed-she-has.png"><img src="https://cdn.prompthero.com/fs2weq040d1n3kxt61osq4ekunk8-flux-flux1-dev-within-this-black-and-white-image-we-see-a-young-woman-laying-on-her-back-on-a-bed-she-has.png" width="480" alt="After"></a>
+<a href="https://cdn.prompthero.com/v1_ae8c0ca3ee4d8690578d510e6d-hero-10-photography-front-view-long-distance-shot-professional-man-model-lounges-across-the-seats-in-a-light-off-movie-theater-serves.jpeg"><img src="https://cdn.prompthero.com/v1_ae8c0ca3ee4d8690578d510e6d-hero-10-photography-front-view-long-distance-shot-professional-man-model-lounges-across-the-seats-in-a-light-off-movie-theater-serves.jpeg" width="480" alt="After"></a>
 
 **Prompt**
 
 ```text
-Within this black and white image we see a young woman laying on her back on a bed. She has short dark hair and is wearing a gray sweater. Her expression is relaxed and content as she gazes upwards with a slight smile. The lighting in this scene is soft and diffused, creating a warm and inviting atmosphere. There are no harsh shadows or dramatic light sources visible. The color palette is muted with earth tones dominating the scene. The focus is solely on the woman, with her being the central figure.
+photography, front view, long distance shot, professional man model lounges across the seats in a light off movie theater serves as the backdrop for a moment of carefree repose, wearing a over-fit yellow camouflage pattern hoody and light-washed jeans, a scene with a full architectural view of the theater's background, soft glow of ceiling lights casts a serene ambiance, photorealism illuminating, high contrast and highlights, UHD --ar 9:16 --style raw --stylize 700
 ```
 
-[Source](https://prompthero.com/prompt/8259bd44bbe-flux-flux1-dev-within-this-black-and-white-image-we-see-a-young-woman-laying-on-her-back-on-a-bed-she-has)
+By [@user8lom0](https://prompthero.com/prompt/b7ed67426c7-hero-10-photography-front-view-long-distance-shot-professional-man-model-lounges-across-the-seats-in-a-light-off-movie-theater-serves)
 
 ---
 
-<a id="prompthero-8972dd19b8a"></a>
+<a id="prompthero-b8b5880994e"></a>
 
-## Blonde Tattooed Girl Mirror Selfie
+## An image of a woman sitting down with her body sli\.\.\.
 
-<a href="https://cdn.prompthero.com/whpvnxadvq6ea1v9vkfw9cm8yx-flux-pro-11-ultra-blonde-tattooed-girl-mirror-selfie.jpeg"><img src="https://cdn.prompthero.com/whpvnxadvq6ea1v9vkfw9cm8yx-flux-pro-11-ultra-blonde-tattooed-girl-mirror-selfie.jpeg" width="480" alt="After"></a>
+<a href="https://cdn.prompthero.com/ta5a7ut81sbg5xw5iicpprpeej5g-stable-diffusion-xl-base-09-comfyui-based-workflow-seargesdxl432-checkpoints-models-used-dreamshaper-xl-turbo-turbovisionxlsuperfastxl-realvisxlv30turbov30-juggernautxlv8-dreamshaperxlturbo-full-credits-shall-go-to-the-an-image-of-a-woman-sitting-down-with-her-body-slightly-turned-to-her-left-she-is-looking-at-the.png"><img src="https://cdn.prompthero.com/ta5a7ut81sbg5xw5iicpprpeej5g-stable-diffusion-xl-base-09-comfyui-based-workflow-seargesdxl432-checkpoints-models-used-dreamshaper-xl-turbo-turbovisionxlsuperfastxl-realvisxlv30turbov30-juggernautxlv8-dreamshaperxlturbo-full-credits-shall-go-to-the-an-image-of-a-woman-sitting-down-with-her-body-slightly-turned-to-her-left-she-is-looking-at-the.png" width="480" alt="After"></a>
 
 **Prompt**
 
 ```text
-​A very ordinary, aggressively mediocre iPhone selfie taken with flash at night in a dark room, sitting on a couch. A sloppy snapshot with slight motion blur, uneven lighting, and slight overexposure. Awkward angle, nonexistent composition, like a photo accidentally taken while taking a phone out of your pocket. The subject is a stunningly attractive Iranian girl with blonde hair and delicate, aesthetic tattoos on her skin. She has distinct cosmetic enhancements: a perfect rhinoplasty nose, full injected lips with glossy lipstick, prominent high cheekbones, a sharp angled jawline, striking cat eyes, and a small nose piercing. She has a highly attractive, fit, and athletic body, wearing a casual tight sporty top and white socks. Raw amateur photography, hyper-realistic authentic smartphone selfie.
+An image of a woman sitting down with her body slightly turned to her left. She is looking at the camera with a relaxed expression. Her right arm is resting by her side, and her left arm is bent with her hand on her thigh. She has light-colored wavy hair over her shoulders. She wears a patterned blouse with rolled-up sleeves and light-colored pants. The background is softly blurred with hints of an airplane and airport equipment, bathed in the warm glow of dawn or dusk.
 ```
 
-[Source](https://prompthero.com/prompt/8972dd19b8a-flux-pro-11-ultra-blonde-tattooed-girl-mirror-selfie)
+By [@JBlack16062205](https://prompthero.com/prompt/b8b5880994e-stable-diffusion-xl-base-09-comfyui-based-workflow-seargesdxl432-checkpoints-models-used-dreamshaper-xl-turbo-turbovisionxlsuperfastxl-realvisxlv30turbov30-juggernautxlv8-dreamshaperxlturbo-full-credits-shall-go-to-the-an-image-of-a-woman-sitting-down-with-her-body-slightly-turned-to-her-left-she-is-looking-at-the)
 
 ---
 
-<a id="prompthero-9656f3a3358"></a>
+<a id="prompthero-b15f7ffe817"></a>
 
-## A cinematic high-detail portrait of a gothic harle\.\.\.
+## photography, front view, 8 years old cute girl, sm\.\.\.
 
-<a href="https://cdn.prompthero.com/v7052nmtiz9y1hsm2zwvfvuqgg-a-cinematic-high-detail-portrait-of-a-gothic-harlequin-woman-sitting-in-a-derelict-abandoned-room-she-has-pale-white.jpeg"><img src="https://cdn.prompthero.com/v7052nmtiz9y1hsm2zwvfvuqgg-a-cinematic-high-detail-portrait-of-a-gothic-harlequin-woman-sitting-in-a-derelict-abandoned-room-she-has-pale-white.jpeg" width="480" alt="After"></a>
+<a href="https://cdn.prompthero.com/krrf9oppxb6nw5o0u4nxp1x63lsz-midjourney-61-amazing-v-70-but-unstable-yet-photography-front-view-8-years-old-cute-girl-smiling-behind-a-yellow-balloon-eye-level-shot-central-composition-theme-park.png"><img src="https://cdn.prompthero.com/krrf9oppxb6nw5o0u4nxp1x63lsz-midjourney-61-amazing-v-70-but-unstable-yet-photography-front-view-8-years-old-cute-girl-smiling-behind-a-yellow-balloon-eye-level-shot-central-composition-theme-park.png" width="480" alt="After"></a>
 
 **Prompt**
 
 ```text
-A cinematic high-detail portrait of a gothic harlequin woman sitting in a derelict, abandoned room. She has pale white face paint with intricate black diamond and spade eye patterns. Her hair is styled in messy, voluminous black and white pigtails. She wears a ruffled monochromatic circus-style dress with polka dots, sheer frills, and striped thigh-high stockings. The lighting is moody and desaturated, emphasizing a gritty, dark-carnival atmosphere. 8k resolution, photorealistic, sharp focus.
+photography, front view, 8 years old cute girl, smiling behind a yellow balloon, eye-level shot, central composition, theme park background and depth of field, bokeh effect, realistic sunlights --ar 9:16 --v 7
 ```
 
-[Source](https://prompthero.com/prompt/9656f3a3358-a-cinematic-high-detail-portrait-of-a-gothic-harlequin-woman-sitting-in-a-derelict-abandoned-room-she-has-pale-white)
+By [@Grayve](https://prompthero.com/prompt/b15f7ffe817-midjourney-61-amazing-v-70-but-unstable-yet-photography-front-view-8-years-old-cute-girl-smiling-behind-a-yellow-balloon-eye-level-shot-central-composition-theme-park)
 
 ---
 
-<a id="prompthero-10076dfd6e6"></a>
+<a id="prompthero-b64f776d16e"></a>
 
-## Male Legionary warrior in a Futurist battleground,\.\.\.
+## &quot;Vertical full-body portrait photo of a stylish su\.\.\.
 
-<a href="https://cdn.prompthero.com/66ehq2p3mb3oe6kycv2yg9u2q7te-flux-flux-11-pro-male-legionary-warrior-in-a-futurist-battleground-wearing-a-full-battle-face-mask-helm-and-turban-facing-the-camera-finely.jpg"><img src="https://cdn.prompthero.com/66ehq2p3mb3oe6kycv2yg9u2q7te-flux-flux-11-pro-male-legionary-warrior-in-a-futurist-battleground-wearing-a-full-battle-face-mask-helm-and-turban-facing-the-camera-finely.jpg" width="480" alt="After"></a>
+<a href="https://cdn.prompthero.com/japhaw3n4zcvp2w6lde0zxiezs8z-flux-flux-11-pro-ultra-vertical-full-body-portrait-photo-of-a-stylish-supermodel-early-20s-fair-skin-long-auburn-hair-warm-golden-hour-lighting.jpg"><img src="https://cdn.prompthero.com/japhaw3n4zcvp2w6lde0zxiezs8z-flux-flux-11-pro-ultra-vertical-full-body-portrait-photo-of-a-stylish-supermodel-early-20s-fair-skin-long-auburn-hair-warm-golden-hour-lighting.jpg" width="480" alt="After"></a>
 
 **Prompt**
 
 ```text
-Male Legionary warrior in a Futurist battleground, wearing a full battle face mask, helm, and turban, facing the camera, finely detailed armor, intricate design and details, ultra-detailed, highest detail quality, ultra-realistic, photography lighting, waist length body shot, overcast, reflection mapping, photorealistic, cinematic, movie quality rendering, octane rendering,crafted using advanced 3D modeling software such as Unreal Engine, Octane Engine, or V-Ray, focused, 8k, depth of field, real shadow, vfx post-production, rtx ray tracing lighting --ar 9:16
+"Vertical full-body portrait photo of a stylish supermodel, early 20's, fair skin, long auburn hair. Warm golden hour lighting, dramatic style, soft pastel colours, blurred background. Expressive, detailed vibrant blue eyes are in sharp focus. Smooth detailed skin, well-defined nose and cheekbones, full burgundy lips. Soft contrast and saturation."
 ```
 
-[Source](https://prompthero.com/prompt/10076dfd6e6-flux-flux-11-pro-male-legionary-warrior-in-a-futurist-battleground-wearing-a-full-battle-face-mask-helm-and-turban-facing-the-camera-finely)
+[Source](https://prompthero.com/prompt/b64f776d16e-flux-flux-11-pro-ultra-vertical-full-body-portrait-photo-of-a-stylish-supermodel-early-20s-fair-skin-long-auburn-hair-warm-golden-hour-lighting)
 
 ---
 
-<a id="prompthero-13831c7c66f"></a>
+<a id="prompthero-b068c1a240a"></a>
 
-## A grainy, high-ISO rooftop documentary scene captu\.\.\.
+## detailed and realistic portrait of a woman with a \.\.\.
 
-<a href="https://cdn.prompthero.com/rmw1cxxlgysc3rbhs9ttrwbltz-chatgpt-image-gpt-image-2-a-grainy-high-iso-rooftop-documentary-scene-captures-a-tall-statuesque-woman-with-long-dark-wind-tangled-waves-cascading-past.jpeg"><img src="https://cdn.prompthero.com/rmw1cxxlgysc3rbhs9ttrwbltz-chatgpt-image-gpt-image-2-a-grainy-high-iso-rooftop-documentary-scene-captures-a-tall-statuesque-woman-with-long-dark-wind-tangled-waves-cascading-past.jpeg" width="480" alt="After"></a>
+<a href="https://cdn.prompthero.com/jnoi6fwu0w2nqt0a7pmkr3kulug4-stable-diffusion-15-detailed-and-realistic-portrait-of-a-woman-with-a-few-freckles-round-eyes-and-short-messy-hair-shot-outside-wearing.png"><img src="https://cdn.prompthero.com/jnoi6fwu0w2nqt0a7pmkr3kulug4-stable-diffusion-15-detailed-and-realistic-portrait-of-a-woman-with-a-few-freckles-round-eyes-and-short-messy-hair-shot-outside-wearing.png" width="480" alt="After"></a>
 
 **Prompt**
 
 ```text
-A grainy, high-ISO rooftop documentary scene captures a tall, statuesque woman with long, dark, wind-tangled waves cascading past her shoulders, her silhouette lean yet softly athletic, instantly iconic in presence. Her plunging black silk blouse hangs loose and fluid, revealing layered silver and tarnished gold chains that catch stray city light, glinting like fragments of constellations mirrored in her faintly star-flecked skin. She tilts back in laughter beneath a vast indigo sky, the skyline dissolving into haze and neon bleed, rendered in a raw cinematic style blending Nan Goldin intimacy with Wong Kar-wai nocturnal color drift, amplified with surreal celestial bioluminescence and textured film grain.
+detailed and realistic portrait of a woman with a few freckles, round eyes and short messy hair shot outside, wearing a white t shirt, staring at camera, chapped lips, soft natural lighting, portrait photography, magical photography, dramatic lighting, photo realism, ultra-detailed, intimate portrait composition, Leica 50mm, f1. 4
 ```
 
-[Source](https://prompthero.com/prompt/13831c7c66f-chatgpt-image-gpt-image-2-a-grainy-high-iso-rooftop-documentary-scene-captures-a-tall-statuesque-woman-with-long-dark-wind-tangled-waves-cascading-past)
+[Source](https://prompthero.com/prompt/b068c1a240a-stable-diffusion-15-detailed-and-realistic-portrait-of-a-woman-with-a-few-freckles-round-eyes-and-short-messy-hair-shot-outside-wearing)
 
 ---
 
-<a id="prompthero-14535ae347f"></a>
+<a id="prompthero-b68f870e2a5"></a>
 
-## an older man, in the style of steampunk, atompunk,\.\.\.
+## professional portrait photograph of gorgeous ranch\.\.\.
 
-<a href="https://cdn.prompthero.com/9imrvlsvp0lml5vzgltybwpipuqx-stable-diffusion-xl-base-09-an-older-man-in-the-style-of-steampunk-atompunk-aaron-jasinski-intense-lighting-and-shadow-baroque-maritime-smokey-background-dd.png"><img src="https://cdn.prompthero.com/9imrvlsvp0lml5vzgltybwpipuqx-stable-diffusion-xl-base-09-an-older-man-in-the-style-of-steampunk-atompunk-aaron-jasinski-intense-lighting-and-shadow-baroque-maritime-smokey-background-dd.png" width="480" alt="After"></a>
+<a href="https://cdn.prompthero.com/tcdpo582urfbevzw0fmee85xigu8-openjourney-15-professional-portrait-photograph-of-gorgeous-rancher-girl-sultry-flirty-look-beautiful-symmetrical-face-cute-natural-makeup-wearing-brown-cowboy-hat.png"><img src="https://cdn.prompthero.com/tcdpo582urfbevzw0fmee85xigu8-openjourney-15-professional-portrait-photograph-of-gorgeous-rancher-girl-sultry-flirty-look-beautiful-symmetrical-face-cute-natural-makeup-wearing-brown-cowboy-hat.png" width="480" alt="After"></a>
 
 **Prompt**
 
 ```text
-an older man, in the style of steampunk, atompunk, aaron jasinski, intense lighting and shadow, baroque maritime, smokey background, d&d
+professional portrait photograph of gorgeous rancher girl, (((sultry flirty look))), beautiful symmetrical face, cute natural makeup, (wearing brown cowboy hat), traditional clothing, confident pose, elegant, feminine, ((Utah landscape in background)), wild west, ultra realistic, character concept art, highly detailed, intricate, (sharp focus), 85mm, medium shot, mid shot, (centered image composition), ((professionally color graded)), ((bright soft diffused light)), volumetric fog, dreamy, trending on instagram, trending on tumblr, hdr 4k, 8k
 ```
 
-[Source](https://prompthero.com/prompt/14535ae347f-stable-diffusion-xl-base-09-an-older-man-in-the-style-of-steampunk-atompunk-aaron-jasinski-intense-lighting-and-shadow-baroque-maritime-smokey-background-dd)
+[Source](https://prompthero.com/prompt/b68f870e2a5-openjourney-15-professional-portrait-photograph-of-gorgeous-rancher-girl-sultry-flirty-look-beautiful-symmetrical-face-cute-natural-makeup-wearing-brown-cowboy-hat)
 
 ---
 
-<a id="prompthero-14651a312c1"></a>
+<a id="prompthero-b76d2fef7ec"></a>
 
-## Woman, masterpiece, high quality, whole body, at a\.\.\.
+## Female Soldier on a horse
 
-<a href="https://cdn.prompthero.com/hcomvtokj9h6nd1rlsmbav6k78tm-midjourney-4-woman-masterpiece-high-quality-whole-body-at-a-high-angle-perfect-face-1-1-complex-great-detail-1-1-body.png"><img src="https://cdn.prompthero.com/hcomvtokj9h6nd1rlsmbav6k78tm-midjourney-4-woman-masterpiece-high-quality-whole-body-at-a-high-angle-perfect-face-1-1-complex-great-detail-1-1-body.png" width="480" alt="After"></a>
+<a href="https://cdn.prompthero.com/amei0u6l5f1i6rv7uetnygvktlnn-dreamshaper-5-pruned-no-vae-female-soldier-on-a-horse.png"><img src="https://cdn.prompthero.com/amei0u6l5f1i6rv7uetnygvktlnn-dreamshaper-5-pruned-no-vae-female-soldier-on-a-horse.png" width="480" alt="After"></a>
 
 **Prompt**
 
 ```text
-Woman, masterpiece, high quality, whole body, at a high angle, ( perfect face: 1. 1) complex( great detail: 1. 1) body, closed navel, closed, eyes up, extremely detailed eyes and face, big brown eyes, dark skin, city in background, Nikon d850 4 kodak portra 400 camera, f1. 6 lens, rich colors, hyperrealistic texture
+A portrait image of a young, skinny woman with defined abs, a flat chest and small breasts, wearing medieval armor that exposes her midriff, gracefully posing on horseback under soft golden sunlight in an open field. The photograph showcases the delicate intricacies of the armor while maintaining an ultra-realistic and highly-detailed 10k high resolution.
 ```
 
-[Source](https://prompthero.com/prompt/14651a312c1-midjourney-4-woman-masterpiece-high-quality-whole-body-at-a-high-angle-perfect-face-1-1-complex-great-detail-1-1-body)
+By [@AkiraS](https://prompthero.com/prompt/b76d2fef7ec-dreamshaper-5-pruned-no-vae-female-soldier-on-a-horse)
 
 ---
 
-<a id="prompthero-16220e841b2"></a>
+<a id="prompthero-b77b5c47fa5"></a>
 
-## A bad ass Scottish ginger
+## monochrome High fashion black and white upper body\.\.\.
 
-<a href="https://cdn.prompthero.com/rkjil9mu9wacyze2hclcdoxxq0su-midjourney-5-a-bad-ass-scottish-ginger.png"><img src="https://cdn.prompthero.com/rkjil9mu9wacyze2hclcdoxxq0su-midjourney-5-a-bad-ass-scottish-ginger.png" width="480" alt="After"></a>
+<a href="https://cdn.prompthero.com/ex188296wmweavvu3wlv6g7g2elb-flux-dev-monochrome-high-fashion-black-and-white-upper-body-photo-of-a-slim-small-breast-flat-chest-abs-young-asian-female.png"><img src="https://cdn.prompthero.com/ex188296wmweavvu3wlv6g7g2elb-flux-dev-monochrome-high-fashion-black-and-white-upper-body-photo-of-a-slim-small-breast-flat-chest-abs-young-asian-female.png" width="480" alt="After"></a>
 
 **Prompt**
 
 ```text
-Create a photorealistic, high-resolution 16k image of a 35-year-old man embodying cyberpunk aesthetics. His fiery ginger hair should be styled in a rebellious manner, contrasting against the monochromatic world. His long, well-groomed ginger beard should be captured in detail, showcasing his meticulous nature. He should be wearing a grey hoodie adorned with cryptic symbols and neon accents, and rugged indigo jeans. His piercing blue eyes and wry smile should be the focal points, adding to his intriguing persona. Use a Canon EOS 5D Mark IV DSLR camera with an EF 24-70mm f/2.8L II USM lens for this shot. The lighting should be dramatic, with high contrast to highlight his features and attire. The color palette should be vibrant, with a focus on blues, greys, and the fiery ginger of his hair and beard. The composition should be a full-body shot, with the man positioned centrally and looking directly into the camera. --style raw --q 2 --s 750 -
+monochrome High fashion black and white upper body photo of a slim, small breast, flat chest, abs, young asian female supermodel, with short messy black hair, Tubular sleeve color theory sweater, midriff, Modernist high-waisted shorts, round sunglasses, Jumping with arms spread wide , rule of thirds, in the background Constructivist-style observatory, lights Primary color light through colored glass the model is lighted with soft natural lighting . ilford HP5, black and white, contrast, tone, texture, detailed
 ```
 
-[Source](https://prompthero.com/prompt/16220e841b2-midjourney-5-a-bad-ass-scottish-ginger)
+By [@AkiraS](https://prompthero.com/prompt/b77b5c47fa5-flux-dev-monochrome-high-fashion-black-and-white-upper-body-photo-of-a-slim-small-breast-flat-chest-abs-young-asian-female)
 
 ---
 
-[1](portraits.md) · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · [5](portraits-5.md) · [6](portraits-6.md) · [7](portraits-7.md) · [8](portraits-8.md) · [9](portraits-9.md) · [10](portraits-10.md) · [11](portraits-11.md) · [12](portraits-12.md) · [13](portraits-13.md) · [14](portraits-14.md) · [15](portraits-15.md) · [16](portraits-16.md) · [17](portraits-17.md) · [18](portraits-18.md) · [19](portraits-19.md) · [20](portraits-20.md) · **21** · [22](portraits-22.md) · [23](portraits-23.md) · [24](portraits-24.md) · [25](portraits-25.md) · [26](portraits-26.md) · [27](portraits-27.md) · [28](portraits-28.md) · [29](portraits-29.md) · [30](portraits-30.md) · [31](portraits-31.md) · [32](portraits-32.md) · [33](portraits-33.md) · [34](portraits-34.md)
+<a id="prompthero-b83f4c360ac"></a>
+
+## A close-up portrait of a young beautiful \(Scottish\.\.\.
+
+<a href="https://cdn.prompthero.com/ooazn2syudpymm55ju5yd7k7rkyi-stable-diffusion-xl-base-09-comfyui-based-workflow-seargesdxl432-checkpoints-models-used-dreamshaper-xl-turbo-turbovisionxlsuperfastxl-realvisxlv30turbov30-juggernautxlv7rundiffusion-dreamshaperxlturbo-full-credits-shall-go-to-the-a-close-up-portrait-of-a-young-beautiful-scottish-french-spanish-iraqi-girl-soft-natural-skin-long-layered-bob-hair.png"><img src="https://cdn.prompthero.com/ooazn2syudpymm55ju5yd7k7rkyi-stable-diffusion-xl-base-09-comfyui-based-workflow-seargesdxl432-checkpoints-models-used-dreamshaper-xl-turbo-turbovisionxlsuperfastxl-realvisxlv30turbov30-juggernautxlv7rundiffusion-dreamshaperxlturbo-full-credits-shall-go-to-the-a-close-up-portrait-of-a-young-beautiful-scottish-french-spanish-iraqi-girl-soft-natural-skin-long-layered-bob-hair.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+A close-up portrait of a young beautiful (Scottish | French | Spanish | Iraqi ) girl, soft natural skin, long layered bob hair style, slim with curves, Persian Paisley shirt, beautiful diamond necklaces and rings, highly details, soft lighting, {{{masterpiece))), (((super-realistic)))
+```
+
+By [@JBlack16062205](https://prompthero.com/prompt/b83f4c360ac-stable-diffusion-xl-base-09-comfyui-based-workflow-seargesdxl432-checkpoints-models-used-dreamshaper-xl-turbo-turbovisionxlsuperfastxl-realvisxlv30turbov30-juggernautxlv7rundiffusion-dreamshaperxlturbo-full-credits-shall-go-to-the-a-close-up-portrait-of-a-young-beautiful-scottish-french-spanish-iraqi-girl-soft-natural-skin-long-layered-bob-hair)
+
+---
+
+[1](portraits.md) · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · [5](portraits-5.md) · [6](portraits-6.md) · [7](portraits-7.md) · [8](portraits-8.md) · [9](portraits-9.md) · [10](portraits-10.md) · [11](portraits-11.md) · [12](portraits-12.md) · [13](portraits-13.md) · [14](portraits-14.md) · [15](portraits-15.md) · [16](portraits-16.md) · [17](portraits-17.md) · [18](portraits-18.md) · [19](portraits-19.md) · [20](portraits-20.md) · **21** · [22](portraits-22.md) · [23](portraits-23.md) · [24](portraits-24.md) · [25](portraits-25.md) · [26](portraits-26.md) · [27](portraits-27.md) · [28](portraits-28.md) · [29](portraits-29.md) · [30](portraits-30.md)
 
 [← Home](../README.md)

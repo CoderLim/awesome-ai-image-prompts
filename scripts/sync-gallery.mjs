@@ -16,30 +16,25 @@ async function retry(fn) {
   for(let i=0;;i++) try{return await fn();}catch(e){if(!e.retryable||i===2)throw e;await sleep(500*2**i);}
 }
 function required(env,k){if(!env[k])throw Error('Missing configuration: '+k);return env[k];}
-export function deletionPlan(existing, records, restricted=[],allowLarge=false) {
+export function deletionPlan(existing, records, allowLarge=false) {
   const ids=new Set(records.map(r=>r.id));
-  const denied=new Set(restricted);
-  const urgent=existing.filter(r=>denied.has(r.id));
-  const stale=existing.filter(r=>!ids.has(r.id)&&!denied.has(r.id));
+  const stale=existing.filter(r=>!ids.has(r.id));
   const blocked=!allowLarge && stale.length>0 && (records.length===0||stale.length/existing.length>0.2);
-  return {urgent,stale,blocked};
+  return {stale,blocked};
 }
 export async function runSync(snapshot,io,{dryRun=false,allowLarge=false,forceMedia=false}={}) {
-  const {mediaType,records,restricted}=snapshot;
+  const {mediaType,records}=snapshot;
   if(mediaType!=='image')throw Error('Only image sync is implemented');
   if(new Set(records.map(r=>r.id)).size!==records.length || records.some(r=>r.media_type!==mediaType))throw Error('Invalid export');
+  // Exporter already limited records to reviewStatus=approved with publicationStatus=cleared.
+  // Sync only upserts that set and deletes stale IDs — no second publication gate.
   const existing=await io.list(mediaType);
   await io.assertNoCollisions(records,mediaType);
-  const {urgent,stale,blocked}=deletionPlan(existing,records,restricted,allowLarge);
-  console.log(JSON.stringify({sourceCommit:process.env.SOURCE_COMMIT??null,type:mediaType,eligible:records.length,excluded:snapshot.excluded?.length,
-    existing:existing.length,urgent:urgent.length,stale:stale.length,blocked,dryRun}));
-  if(dryRun)return {urgent:urgent.length,stale:stale.length,blocked};
-  // Security/rights removals are independent of ordinary deletion protection.
-  if(urgent.length) console.log('Withdrawal candidates (retain for recovery): '+JSON.stringify(urgent.map(r=>({id:r.id,keys:JSON.parse(r.media).flatMap(m=>[m.key,m.thumbnailKey]).filter(Boolean)}))));
-  await io.remove(urgent.map(r=>r.id),mediaType);
-  if(urgent.length)await io.purgeWithdrawn(urgent);
+  const {stale,blocked}=deletionPlan(existing,records,allowLarge);
+  console.log(JSON.stringify({sourceCommit:process.env.SOURCE_COMMIT??null,type:mediaType,published:records.length,pending:snapshot.pending?.length,
+    existing:existing.length,stale:stale.length,blocked,dryRun}));
+  if(dryRun)return {stale:stale.length,blocked};
   if(blocked)throw Error('Large ordinary deletion blocked; inspect export and explicitly approve');
-  const byId=new Map(existing.map(r=>[r.id,r]));
   const mediaMap=new Map();
   for(const r of existing) for(const m of JSON.parse(r.media)) mediaMap.set(m.originalUrl,m);
   const ready=[],failures=[];
@@ -61,7 +56,7 @@ export async function runSync(snapshot,io,{dryRun=false,allowLarge=false,forceMe
   const final=await io.list(mediaType);
   const ids=new Set(records.map(r=>r.id));
   if(final.length!==ids.size||final.some(r=>!ids.has(r.id)))throw Error('Final D1 IDs mismatch');
-  console.log(JSON.stringify({upserted:ready.length,deleted:stale.length,withdrawn:urgent.length,final:final.length}));
+  console.log(JSON.stringify({upserted:ready.length,deleted:stale.length,final:final.length}));
   return {upserted:ready.length,deleted:stale.length};
 }
 export function createCloud(env=process.env) {
@@ -186,6 +181,6 @@ if(process.argv[1]&&import.meta.url===pathToFileURL(path.resolve(process.argv[1]
   const args=new Set(process.argv.slice(2));
   if([...args].some(a=>!['--dry-run','--allow-large-delete','--force-media-refresh','--export-only'].includes(a)))throw Error('Unknown argument');
   const snapshot=exportGallery();
-  console.log(JSON.stringify({total:snapshot.total,canonical:snapshot.canonical,eligible:snapshot.records.length,excluded:snapshot.excluded.length}));
+  console.log(JSON.stringify({total:snapshot.total,canonical:snapshot.canonical,approved:snapshot.approved,published:snapshot.published,pending:snapshot.pending.length,rejected:snapshot.rejected}));
   if(!args.has('--export-only'))await runSync(snapshot,createCloud(),{dryRun:args.has('--dry-run'),allowLarge:args.has('--allow-large-delete'),forceMedia:args.has('--force-media-refresh')});
 }

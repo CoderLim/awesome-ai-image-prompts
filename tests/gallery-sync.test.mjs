@@ -3,11 +3,12 @@ import assert from 'node:assert/strict';
 import fs from 'node:fs';
 import { DatabaseSync } from 'node:sqlite';
 import { exportGallery, eligible } from '../scripts/export-gallery.mjs';
+import { reviewStatus } from '../scripts/governance.mjs';
 import { runSync, deletionPlan } from '../scripts/sync-gallery.mjs';
 
 const record=(id,extra={})=>({id,media_type:'image',media:[{type:'image',role:'output',originalUrl:'https://raw.githubusercontent.com/example/'+id+'.png'}],...extra});
 const existing=(id,type='image')=>({id,media_type:type,media:JSON.stringify([{originalUrl:'https://raw.githubusercontent.com/example/'+id+'.png',key:'old/'+id}])});
-const snapshot=(records,restricted=[])=>({mediaType:'image',records,restricted,excluded:[]});
+const snapshot=(records,pending=[])=>({mediaType:'image',records,pending,approved:records.length,published:records.length});
 function fake(rows=[],{failMedia=false,failWrite=false}={}){
   const data=new Map(rows.map(r=>[r.id,r])),calls=[];
   const io={
@@ -20,20 +21,30 @@ function fake(rows=[],{failMedia=false,failWrite=false}={}){
   };
   return {data,calls,io};
 }
-test('real source export matches governance, excludes unknown rights, preserves complete prompts and selections',()=>{
+test('real source export publishes approved cases only with cleared publicationStatus',()=>{
   const result=exportGallery();
   const ids=new Set(result.records.map(r=>r.id));
   assert.equal(ids.size,result.records.length);
-  assert.equal(result.records.length+result.excluded.length,result.canonical);
+  assert.equal(result.published,result.approved);
+  assert.equal(result.records.length,result.approved);
+  assert.equal(result.records.length+result.pending.length,result.canonical);
+  assert.equal(result.total,result.approved+result.pending.length+result.rejected);
   const raw=fs.readdirSync('data/index').filter(f=>f.endsWith('.json')).flatMap(f=>JSON.parse(fs.readFileSync('data/index/'+f,'utf8')));
   const byId=new Map(raw.map(r=>[r.id,r]));
+  const report=JSON.parse(fs.readFileSync('data/governance/report.json','utf8'));
+  assert.equal(result.approved,report.approved);
+  assert.equal(result.published,report.published);
+  assert.equal(report.published,report.approved);
   for(const r of result.records){
-    assert(eligible(byId.get(r.id)));
+    assert.equal(r.author.publicationStatus,'cleared');
     assert.equal(r.prompt,byId.get(r.id).prompt.original);
     assert.equal(r.media_type,'image');
     assert(r.media.length);
   }
-  assert(!eligible({rights:{prompt:'unknown',media:'unknown'}}));
+  assert(!eligible({visible:false}));
+  assert.equal(reviewStatus({visible:false}),'rejected');
+  assert.equal(reviewStatus({visible:true,sourceMeta:{review:{qualityStatus:'recommended'}}}),'approved');
+  assert.equal(reviewStatus({visible:true,sourceMeta:{},provenance:{collectedFrom:[{sourceId:'evolink'}]}}),'pending');
 });
 test('migration supports image and video and rejects invalid JSON',()=>{
   const db=new DatabaseSync(':memory:');
@@ -68,13 +79,7 @@ test('dry-run has no write or media processing; mass deletion protected',async()
   assert.equal(calls.length,0);
   await assert.rejects(runSync(snapshot([]),io),/Large ordinary deletion/);
   assert(data.has('old'));
-  assert(deletionPlan([existing('old')],[],[],false).blocked);
-});
-test('known rights withdrawal is removed before unrelated media failure',async()=>{
-  const {data,calls,io}=fake([existing('revoked'),existing('keep')],{failMedia:true});
-  await assert.rejects(runSync(snapshot([record('keep')],['revoked']),io));
-  assert(!data.has('revoked'));assert(data.has('keep'));
-  assert(calls.some(c=>c[0]==='purge'&&c[1].includes('revoked')));
+  assert(deletionPlan([existing('old')],[],false).blocked);
 });
 test('cross-type ID collision rejected before writes',async()=>{
   const {data,calls,io}=fake([existing('collision','video')]);

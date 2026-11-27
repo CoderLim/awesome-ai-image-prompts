@@ -25,7 +25,7 @@
 
 执行现有 build/check，确认输入分片完整、canonical ID 唯一且可解析，再导出目标数据。保留完整原始 Prompt 格式、作者和原始来源；缺失作者可为空，不编造模型、描述、图片角色或输入要求。不得将原始未审核数据、排除数据、重复案例直接同步。
 
-**发布资格**：canonical 可浏览不等于有商业再发布许可。遵循 AGENTS.md 和 docs/content-policy.md，对 Prompt 文本与各媒体分别确认适用分发依据；不明或未获准内容不进入完整案例发布集合，不下载/上传其媒体。记录排除原因与数量；不将历史数据标记为已获许可。此项可能影响首次可同步数量，实施前需核实。来源链接索引模式不在本期范围。
+**公开展示规则**：只取决于内容审核状态。`reviewStatus === 'approved'` 才进入导出与 Cloudflare 同步；`pending` / `rejected` 不同步。不再保留来源授权 / 发布资格作为额外卡点。导出记录的 `author.publicationStatus` 统一写为 `cleared`，以兼容现有消费端过滤。人工图片审核仅作为可选质量筛选与精选，不是发布前必经环节。
 
 ## 3. D1：一张表
 
@@ -109,8 +109,7 @@ async function sync(mediaType = 'image') {
   const existing = await loadExistingPrompts(mediaType);
   const sourceIds = new Set(records.map(r => r.id));
 
-  // 明确的权利撤回独立处理，不等待普通媒体下载成功。
-  await applyExplicitRightsWithdrawals(existing, records);
+  // 下架仅通过 stale 删除完成；exporter 已保证只包含 approved 记录。
 
   // 新增/修改媒体先准备，失败记录保留旧值。
   const { ready, failures } = await syncMedia(records, existing);

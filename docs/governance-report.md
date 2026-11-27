@@ -1,19 +1,20 @@
 # Content governance report
 
-Generated from source JSON. Classification is heuristic and provisional; completeness is not aesthetic quality. No image network, visual matching, reproduction or rights clearance is claimed.
+Generated from source JSON. Classification is heuristic and provisional; completeness is not aesthetic quality. Public display depends only on content review status (`approved` / `pending` / `rejected`). Source-license clearance is not a publication gate; manual image review is optional quality/featured curation.
 
 - Source cases: 2132
 - Unique cases: 2070
-- Gallery cases: 1907
+- Canonical cases: 1907
+- Approved / published: 1264
+- Pending review: 643
+- Rejected / withheld: 225
 - Duplicate records excluded: 62 (51 previously visible)
-- Unique cases withheld for missing content: 163 (includes manual exclusions)
 - Manually excluded source records: 169
-- Rights pending: 2120
 
-## Gallery groups
+## Gallery groups (approved)
 
-- reference: 220
-- generation: 1687
+- reference: 79
+- generation: 1185
 
 ## Internal operation classification
 
@@ -41,12 +42,12 @@ Generated from source JSON. Classification is heuristic and provisional; complet
 | generation/travel | 59 |
 | generation/ui-mockups | 29 |
 
-## Input modes
+## Input modes (approved)
 
-- reference-to-image: 185
-- text-to-image: 1484
-- unknown: 203
-- image-editing: 35
+- reference-to-image: 66
+- text-to-image: 1157
+- unknown: 28
+- image-editing: 13
 
 ## Review flags
 
@@ -233,6 +234,6 @@ Generated from source JSON. Classification is heuristic and provisional; complet
 
 Keep one representative for each connected group sharing an original post ID or exact normalized full prompt. Raw source records are retained for provenance only, not in the canonical catalog or galleries. Prefix-only and image-only similarities are not automatically excluded. See data/governance/deduplication.json for removed-to-kept mappings.
 
-## Remaining manual checks
+## Remaining optional checks
 
-Image availability, visual prompt matching, perceptual hash, semantic similarity, original-source verification and per-asset rights clearance. Unknown rights do not establish permission; existing published material has not been cleared. Review before redistributing or commercial use.
+Image availability, visual prompt matching, perceptual hash and semantic similarity remain optional quality tools. They are not required before an `approved` case may appear in the public gallery.

@@ -6,38 +6,6 @@
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
-<a id="freestylefly-case-323"></a>
-
-## 应用界面样机图
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case323.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case323.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Create a hyper-realistic, cinematic Instagram post layout where the Instagram UI exists as a physical, tangible 3D object, photographed like a premium commercial product shot. The result should feel indistinguishable from a real studio photograph. Instagram Frame (UI Accuracy – Critical) Authentic Instagram interface rendered as a solid white physical 3D card Smooth matte plastic surface with subtle micro-texture Slight thickness visible on edges, realistic bevels Perfectly rounded corners (exact Instagram radius) Soft studio reflections and realistic edge highlights Top Bar (Pixel-accurate UI): Circular profile avatar on the left Username text: “June” in Instagram’s default bold UI font Light blue FOLLOW button with correct proportions Three-dot menu icon aligned to the far right Exact spacing, typography, and icon sizing matching the real Instagram app Aspect ratio 1:1, centered, balanced, premium composition. Main Subject (Pose – Match Reference Image Exactly) A photorealistic athletic woman partially emerging out of the Instagram frame into real 3D space Seated pose identical to the reference image: Both legs bent and angled to the side One knee slightly raised and closer to the chest Arms gently wrapped around the raised knee Hands relaxed, fingers naturally resting Torso leaning slightly back against the frame edge Expression: calm, thoughtful, self-assured Gaze: looking slightly to the side and upward, not engaging the camera Natural body proportions, relaxed posture, editorial realism No exaggerated curves, no artificial posing Clothing (Nike Only – Realistic Fit) Muted ivory / off-white Nike fitted short-sleeve blouse Soft neutral tone that contrasts beautifully with the background Visible white Nike swoosh Natural fabric stretch and tension Deep blue Nike athletic pants, length up to the knee Tailored, performance-fit silhouette Realistic fabric weight with subtle folds at the knee bend Clean stitching and breathable sports material Clean white Nike sneakers Slight wear realism Correct sole texture and stitching Premium sportswear look, real commercial styling No distortion, no fantasy fashion Background (Inside the Instagram Post Only) Dark indoor gym or studio environment Cool blue and muted purple cinematic lighting Soft haze in the background Subtle volumetric light beams barely visible Shallow depth of field, background softly blurred Subject and Instagram frame remain sharp and dominant Lighting & Photorealism Studio-grade cinematic lighting Soft key light illuminating the subject naturally Gentle rim light outlining the body and Instagram frame Realistic skin texture with visible pores and natural highlights Accurate contact shadows where the subject touches the frame Physically correct light falloff and reflections Footer UI (Engagement Section) Instagram action icons: like, comment, share, save (accurate icons) Text visible: “785 likes” Caption begins with June Caption text: Freedom isn’t found in comfort. It’s built in the quiet moments where discipline meets belief. Hashtags partially visible and naturally cropped Overall Style & Quality Ultra-high resolution Advertising-grade realism Clean, modern, editorial Instagram aesthetic Hyper-realistic blend of 3D object + real photography No extra elements No text errors No distortion Looks like a real product photoshoot, not AI art
-```
-
-By [@Mystveil7](https://x.com/Mystveil7/status/2015776042989039997)
-
----
-
-<a id="freestylefly-case-519"></a>
-
-## 薄荷玫瑰香水电商图
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case519.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case519.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-100%完整保留上传的原图香水瓶的全部原始外观细节，瓶身造型、薄荷绿玻璃质感、木纹球形瓶盖、原有标签文字完全不做任何修改；瓶身环绕米色织带，周围簇拥薄荷绿玫瑰和浅绿色植物，冷调渐变浅留白背景，冷调逆光柔焦光影，低饱和度冷清高级色调，景深虚化突出香水主体，超写实C4D质感，轻奢高级ins风，适配竖版电商详情页，2K高清
-```
-
-By [@lovimg\_com](https://x.com/lovimg_com/status/2077036313832996893)
-
----
-
 <a id="prompthero-a2b88615720"></a>
 
 ## Ultra-realistic fashion beauty crop of a female mo\.\.\.

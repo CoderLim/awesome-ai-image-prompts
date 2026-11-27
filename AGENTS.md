@@ -45,7 +45,7 @@ Retain exactly one canonical case whenever **either** of these conditions holds:
 
 The current normalization is Unicode NFKC, lowercase, collapse whitespace to one space, then trim. Compare full original prompts, not the 100-character preview. Treat connected groups transitively: if A shares a post with B and B shares a prompt with C, keep one representative for A/B/C.
 
-Use `selectCanonical()` in `scripts/governance.mjs`. Its deterministic selection prioritizes eligible/complete cases, rights-review status, original source URL, author/non-generic title, explicit output image, available image URL and completeness score, with stable ID ordering as final tie-breaker. Missing post IDs are not a dedup key. Do not treat matching prefixes, similar prompts, or identical image URLs alone as sufficient for deletion. Flag these as candidates for review.
+Use `selectCanonical()` in `scripts/governance.mjs`. Its deterministic selection prioritizes complete visible cases, original source URL, author/non-generic title, explicit output image, available image URL and completeness score, with stable ID ordering as final tie-breaker. Missing post IDs are not a dedup key. Do not treat matching prefixes, similar prompts, or identical image URLs alone as sufficient for deletion. Flag these as candidates for review.
 
 Keep raw imported records for auditing; exclude duplicates from canonical IDs and all rendered galleries. Preserve excluded-to-kept mappings and source links. Do not reintroduce duplicates through new sources, manual additions, or sync. Check that canonical cases have no repeated nonempty original post ID and no repeated normalized full prompt.
 
@@ -70,7 +70,7 @@ Keep raw imported records for auditing; exclude duplicates from canonical IDs an
 | `data/governance/report.json` | Machine-readable counts and review status |
 | `docs/governance-report.md` | Generated human-readable governance report |
 
-Preserve stable case IDs, full original prompt formatting in `prompt.original`, original author, original post URL/ID, upstream repository/ref/commit SHA/path/anchor, and source image URLs/roles. Preserve separate rights metadata; leave unknown fields unknown. The current source schema expects full prompts and an upstream image preview structure, so source-link-only support for new uncleared records requires a schema/parser/renderer update before import. Do not work around that limitation by inserting fake prompts or falsely asserting permission.
+Preserve stable case IDs, full original prompt formatting in `prompt.original`, original author, original post URL/ID, upstream repository/ref/commit SHA/path/anchor, and source image URLs/roles. Preserve separate rights metadata for attribution; leave unknown fields unknown. Public gallery publication no longer waits on source-license clearance: content review status alone decides display (`approved` publishes, `pending`/`rejected` do not). Do not invent prompts or fabricate review approval.
 
 Source index and taxonomy are inputs. Governance JSON, README.md, README.zh-CN.md, category Markdown and governance report are generated outputs. Do not manually patch generated pages or counts. Fix scripts or input data and rebuild instead.
 

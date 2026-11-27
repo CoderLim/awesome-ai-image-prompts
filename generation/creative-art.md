@@ -1,331 +1,331 @@
 # creative art
 
-[← Home](../README.md) · Page 1 / 13
+[← Home](../README.md) · Page 1 / 11
 
-**1** · [2](creative-art-2.md) · [3](creative-art-3.md) · [4](creative-art-4.md) · [5](creative-art-5.md) · [6](creative-art-6.md) · [7](creative-art-7.md) · [8](creative-art-8.md) · [9](creative-art-9.md) · [10](creative-art-10.md) · [11](creative-art-11.md) · [12](creative-art-12.md) · [13](creative-art-13.md)
+**1** · [2](creative-art-2.md) · [3](creative-art-3.md) · [4](creative-art-4.md) · [5](creative-art-5.md) · [6](creative-art-6.md) · [7](creative-art-7.md) · [8](creative-art-8.md) · [9](creative-art-9.md) · [10](creative-art-10.md) · [11](creative-art-11.md)
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
-<a id="evolink-advertising-case-173"></a>
+<a id="prompthero-0b1e8c269a2"></a>
 
-## Eight-Frame Fried Chicken Ad
+## \{ &quot;scene&quot;: \{ &quot;setting&quot;: &quot;inside a swirling t\.\.\.
 
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2107376342610194432-poster.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2107376342610194432-poster.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Use the main product — “DELICIOUS AND CRUNCHY” fried chicken and chips — as the hero subject. Create a vertical commercial food campaign inspired by Japanese/Korean street-food advertising. Visual direction: * Low-angle, wide-lens cinematic framing * Deep red, black, cream and hot yellow color palette * Bold street-food energy * “HOT MAX” style stickers * Flame graphics * Rising steam * Dense collage composition * High-impact typography * The words “DELICIOUS AND CRUNCHY” integrated naturally into the design Generate 8 distinct frames for the sequence: 01 — Opening Hook Dramatic close-up reveal of steaming fried chicken and crispy fries. 02 — Title Card Bold “DELICIOUS AND CRUNCHY” typography with an explosive street-food background. 03 — Crunch / Bite Moment Exaggerated crispy bite with an energetic reaction. 04 — Food Macro Ultra-detailed close-up of crispy chicken texture, crunchy coating and realistic oil shine. 05 — Spice Reaction Intense flavor reaction with chili, heat waves and flame visuals. 06 — Hero Bowl Shot Full meal bucket/bowl glowing under dramatic cinematic lighting. 07 — Polaroid Collage Chaotic street-food composition with stickers, stamps, handwritten notes and layered photos. 08 — Pack Shot Finale Clean, premium branded packaging shot. Centered composition with the product clearly visible. Style: hyper-realistic food photography, premium fast-food commercial, cinematic lighting, ultra-detailed textures, realistic steam, shallow depth of field, high saturation, crisp typography, 4K-quality detail, viral social-media food advertising aesthetic.
-```
-
-By [@MonetizationDon](https://x.com/MonetizationDon/status/2107388611301687675)
-
----
-
-<a id="evolink-advertising-case-176"></a>
-
-## Nike Sports Digital Collage
-
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2107025502334803968.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2107025502334803968.jpg" width="480" alt="Source example"></a>
+<a href="https://cdn.prompthero.com/v1_a99224c8869cbccfd372051d1a-hero-10-scene-setting-inside-a-swirling-tornado-mood-dramatic-and-surreal-style-hyper-realistic-fashion-editorial-lighting-high-contrast-with-stormy.jpeg"><img src="https://cdn.prompthero.com/v1_a99224c8869cbccfd372051d1a-hero-10-scene-setting-inside-a-swirling-tornado-mood-dramatic-and-surreal-style-hyper-realistic-fashion-editorial-lighting-high-contrast-with-stormy.jpeg" width="480" alt="After"></a>
 
 **Prompt**
 
 ```text
-BRAND NAME = NIKE Act as a Social Media Art Director and Digital Collage Artist specializing in bold, youth-oriented brand content for Instagram and digital campaigns. PHASE 1: CONCEPTUAL FRAMEWORK Create a dynamic digital collage that merges high-performance running photography with graphic design chaos. This is controlled athletic rebellion — a composition that feels spontaneous, explosive, and expressive while maintaining strong Nike brand coherence. Aesthetic direction: * Anti-polished * Raw textures * Layered imperfections * Youth-driven visual noise * High confidence, high movement energy Visual language: Torn edges, aggressive brush strokes, grain overlays, hand-drawn running marks, directional arrows, speed lines, and bold Nike-inspired color blocking. PHASE 2: MODEL & PHOTOGRAPHY * Subject: One elite adult runner, age 20–30 * Pose Energy: 80% attitude, 20% natural (full sprint, explosive stride, leaning forward, airborne transition — NEVER static) * Outfit: Performance running apparel aligned with NIKE * Hero Product: One key Nike running shoe, clearly visible as the visual anchor * Photography Style: Editorial sports photography cutout * Background Removal: Clean, sharp extraction * Camera Angle: Slight low angle (hero perspective) * Crop: Full body or 3/4 body, with running shoe clearly visible PHASE 3: COLOR BLOCKING FOUNDATION * Primary Color Blob: Large organic Nike-inspired shape (40–60% of frame) * Color Selection: 1 dominant Nike-inspired high-energy accent color — vivid electric red/orange * Shape Style: Irregular, hand-painted / torn paper (NO perfect geometry) * Texture: Brush grain / noise (15–25% opacity) * Placement: Behind or wrapping around runner (must frame, not hide the runner or shoe) PHASE 4: GRAPHIC ELEMENTS LAYER Add 3–5 abstract elements: Element types: * Hand-drawn speed marks * Directional arrows * Running trajectory lines * Circular impact marks * Texture overlays (dust, grain, fabric, noise) * Minimal athletic measurement symbols Rules: * Colors: 2–3 total (black + off-white + electric red/orange accent) * Placement: Asymmetric (top-left + bottom-right bias) * Scale: Small (5%) + medium (15%) * Avoid center clutter * Keep imperfect, handmade feel PHASE 5: TYPOGRAPHY INTEGRATION * Logo: Upper-left or upper-right (10–15% width) * Slogan/Headline: “RUN THE DISTANCE.” * Supporting Copy: “NO FINISH LINE. JUST FORWARD.” * Type Style: Bold condensed sans-serif / grotesk / athletic editorial typography * Treatment: Mix straight + slight rotation (2–5°) * Hierarchy: Nike Swoosh → Headline → Supporting copy PHASE 6: TEXTURE & BACKGROUND * Base Layer: Off-white / light grey (NOT pure white) * Color Range: RGB 245–250 (warm neutral) * Texture Options: Paper grain / fabric texture / subtle noise * Rule: Texture should be FELT, not dominant PHASE 7: COMPOSITION RULES * Layout: Asymmetric balance (runner off-center) * Breathing Room: 15–20% negative space * Layering Order: Background → Color blob → Graphics → Runner → Typography * Focal Point: Runner + Nike shoe = 60% Graphics = 40% support * Movement: Strong diagonal flow (top-left → bottom-right OR reverse) The runner must visually travel through the composition rather than simply stand inside it. PHASE 8: BRAND INTELLIGENCE (AUTO-ADAPT) Adapt energy based on NIKE’s sportswear identity: → Sportswear Bold contrast, aggressive motion, louder graphics → Running Explosive movement, aerodynamic visual language, speed lines, performance-driven composition → Youth Culture Raw textures, asymmetric layouts, expressive typography and controlled visual noise → Performance Sharp product visibility, dynamic low-angle photography, athletic realism and strong directional composition The final visual should communicate movement, determination, performance and Nike’s “just do it” attitude without becoming a generic running advertisement. PHASE 9: SOCIAL MEDIA FOOTER (OPTIONAL) * Bottom strip (8–10% height) * Light neutral background * Minimal Nike branding * Small campaign descriptor: “RUN THE DISTANCE.” * Clean grid layout * Keep minimal (contrast to collage) TECHNICAL SPECS: * Aspect Ratio: 4:5 (primary) or 1:1 * Resolution: 2400x3000px+ * Color Mode: sRGB (Instagram optimized) * Sharpness: High detail, slight grain allowed * Output Style: Digital collage mimicking analog craft * Photography Base (before cutout): 85mm lens, f/2.8, shallow depth of field FINAL IMAGE: A premium Nike running campaign poster combining an explosive editorial runner photograph, a hero Nike running shoe, bold athletic typography, raw paper textures, aggressive directional graphics and asymmetric color blocking. The finished artwork should feel like a contemporary Nike campaign discovered on Behance — highly art-directed, energetic, editorial, imperfect, youth-driven and immediately recognizable as Nike.
+{ "scene": { "setting": "inside a swirling tornado", "mood": "dramatic and surreal", "style": "hyper-realistic, fashion editorial", "lighting": "high contrast with stormy overcast sky", "atmosphere": "intense, with debris flying and motion blur around edges" }, "subject": { "type": "girl", "age": "20", "expression": "focused, intense", "pose": "falling or flying upwards with foot toward camera", "outfit": { "top": "blue gingham dress", "shoes": "bold red Crocs" }, "hair": "braided, swept upward by wind", "accessories": { "animal": "small fluffy dog held under her arm" } }, "camera": { "angle": "extreme wide-angle, low perspective from foot upward", "lens": "ultra wide-angle", "motion": "dynamic motion blur on foot and background debris", "focus": "sharp on girl’s face and dress, blurred background" }, "effects": { "wind": "clothes and hair dramatically lifted", "debris": "leaves and dirt spiraling around", "sky": "dark and stormy with funnel clouds" }, "composition": { "foreground": "large red Croc in extreme perspective", "background": "tornado spiral and flying particles" } }
 ```
 
-By [@Diplomeme](https://x.com/Diplomeme/status/2107026522842542418)
+By [@albertoantoniot](https://prompthero.com/prompt/0b1e8c269a2-hero-10-scene-setting-inside-a-swirling-tornado-mood-dramatic-and-surreal-style-hyper-realistic-fashion-editorial-lighting-high-contrast-with-stormy)
 
 ---
 
-<a id="evolink-advertising-case-180"></a>
+<a id="prompthero-0b6df7f515f"></a>
 
-## Zara Colorful Architecture Fashion Campaign
+## dachshund dog, red, one eye blue, the other brown,\.\.\.
 
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2104158710037934080.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2104158710037934080.jpg" width="480" alt="Source example"></a>
+<a href="https://cdn.prompthero.com/uf699nqf9m19j8d0q3ne14denx30-midjourney-niji-v6-dachshund-dog-red-one-eye-blue-the-other-brown-wearing-large-marshall-headphones-a-red-down-jacket-standing-on-the.png"><img src="https://cdn.prompthero.com/uf699nqf9m19j8d0q3ne14denx30-midjourney-niji-v6-dachshund-dog-red-one-eye-blue-the-other-brown-wearing-large-marshall-headphones-a-red-down-jacket-standing-on-the.png" width="480" alt="After"></a>
 
 **Prompt**
 
 ```text
-PROMPT 01 — ZARA × RED DESERT ZARA high-fashion environmental campaign, 4:5 vertical, 8K ultra-photorealistic editorial photography. A confident adult female fashion model wearing a sophisticated contemporary Zara outfit: sculptural cream oversized blazer, flowing red trousers, minimalist black heels and subtle accessories. She stands alone in a vast surreal RED DESERT landscape at golden hour. Monumental vermilion rock formations rise around her, enormous smooth red dunes create sweeping curves across the landscape, and a minimalist brutalist red concrete structure emerges naturally from the terrain. The entire environment is built around a controlled palette of crimson red, vermilion, burnt orange, warm cream and natural skin tones. Strong golden sunlight creates dramatic long shadows. Wind gently moves the fabric of the outfit. Fine desert dust is visible in the distance. The clothing remains perfectly realistic with detailed fabric fibers, stitching, natural folds and believable movement. Wide environmental composition, model relatively small within the enormous landscape, powerful sense of scale, sophisticated fashion editorial composition, medium-format camera, 50mm lens, realistic atmospheric perspective, premium commercial retouching. Small restrained ZARA wordmark in the upper-left. Headline: “OWN THE MOMENT” Minimal editorial typography. No product-grid layout, no sale messaging, no excessive logo, no CGI appearance, no fantasy effects, no plastic skin, no distorted anatomy, no excessive HDR, no generic fashion photography. ZARA × contemporary art × desert architecture × bold environmental fashion photography. PROMPT 02 — ZARA × TROPICAL BLUE ZARA high-fashion environmental campaign, 4:5 vertical, 8K ultra-photorealistic photography. An adult male fashion model wearing a contemporary Zara outfit: vivid cobalt-blue oversized shirt, relaxed ivory trousers, sculptural black shoes and minimal accessories. The model stands inside an extraordinary tropical botanical environment after rainfall. Huge emerald-green leaves surround a vivid cobalt-blue modernist pavilion. Bright turquoise water runs through the environment, tropical flowers introduce controlled coral and magenta accents, and wet stone surfaces create beautiful natural reflections. The environment is intentionally bold and colorful but sophisticated. Color palette: COBALT BLUE × EMERALD GREEN × TURQUOISE × CORAL × IVORY. The model walks naturally through shallow reflective water while the oversized shirt moves gently in the humid breeze. Wet vegetation contains realistic water droplets. Sunlight breaks through the foliage, creating natural highlights and shadows across the model and environment. High-fashion editorial photography, medium-format camera, 35mm environmental lens, realistic skin texture, authentic fabric behavior, natural anatomy, physically accurate reflections, realistic tropical vegetation, premium commercial retouching. The environment must feel like a real architectural location photographed in a tropical landscape, not a CGI fantasy world. Minimal ZARA wordmark in the upper-right. Small headline: “COLOUR IN MOTION” No giant typography, no ecommerce layout, no fake neon, no floating objects, no fantasy plants, no artificial glow, no excessive saturation, no AI-looking skin. ZARA × tropical architecture × contemporary color theory × environmental fashion editorial. PROMPT 03 — ZARA × ORANGE CITY ZARA high-fashion environmental campaign, 4:5 vertical, 8K ultra-photorealistic fashion photography. An adult female fashion model wearing a striking contemporary Zara look: deep-black structured blazer, vivid orange flowing skirt, black leather boots and minimal jewelry. She stands in the middle of a monumental contemporary city completely dominated by ELECTRIC ORANGE architecture. Massive orange buildings, geometric staircases, curved concrete walls, sculptural bridges and enormous orange columns surround the model. The sky is an intense deep cobalt blue during early evening, creating a dramatic complementary color relationship. Color palette: ELECTRIC ORANGE × COBALT BLUE × BLACK × OFF-WHITE. The model is the only person in the immediate environment. A strong architectural perspective creates enormous depth. Long shadows fall across the orange pavement. The flowing orange garment catches a subtle breeze and visually connects with the surrounding architecture. The environment should feel like a real contemporary city installation photographed at the perfect moment. Natural human skin texture, realistic hair, authentic textile fibers, precise tailoring, realistic garment folds, accurate shadows, realistic architectural materials, subtle atmospheric depth. Camera: medium-format fashion camera, 50mm lens, high dynamic range, professional editorial lighting, natural highlight roll-off, premium fashion retouching. Small ZARA wordmark positioned in the upper-left. Minimal headline: “MAKE AN ENTRANCE” Tiny secondary text: “NEW COLLECTION” Typography must remain secondary to the photograph. No cyberpunk aesthetic, no neon signs, no CGI architecture, no fantasy city, no excessive lens flare, no distorted anatomy, no plastic skin, no generic streetwear aesthetic, no clutter, no oversized branding. ZARA × bold color blocking × monumental urban environment × contemporary fashion photography.
+dachshund dog, red, one eye blue, the other brown, wearing large Marshall headphones, a red down jacket, standing on the road against the backdrop of a rainy city, futuristic style --stylize 700
 ```
 
-By [@Diplomeme](https://x.com/Diplomeme/status/2104159506460811390)
+[Source](https://prompthero.com/prompt/0b6df7f515f-midjourney-niji-v6-dachshund-dog-red-one-eye-blue-the-other-brown-wearing-large-marshall-headphones-a-red-down-jacket-standing-on-the)
 
 ---
 
-<a id="evolink-advertising-case-181"></a>
+<a id="prompthero-0c97785b276"></a>
 
-## Champagne Fashion Mood Collage
+## Transform to extreme vivid fantasy realism style a\.\.\.
 
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2104020606551252993.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2104020606551252993.jpg" width="480" alt="Source example"></a>
+<a href="https://cdn.prompthero.com/tji7lpvibmvsu5nykoibu5h8yb4r-flux-flux-11-pro-transform-to-extreme-vivid-fantasy-realism-style-art-ultra-detailed-masterpiece-depiction-of-medusa-from-marvel-inc-in-hyper-realistic.jpg"><img src="https://cdn.prompthero.com/tji7lpvibmvsu5nykoibu5h8yb4r-flux-flux-11-pro-transform-to-extreme-vivid-fantasy-realism-style-art-ultra-detailed-masterpiece-depiction-of-medusa-from-marvel-inc-in-hyper-realistic.jpg" width="480" alt="After"></a>
 
 **Prompt**
 
 ```text
-Editorial luxury mood board collage, Southeast Asian woman, dark wavy hair curtain bangs, green-hazel eyes, freckles, glossy nude-pink lips, rosy mauve gold eyeshadow, warm luminous skin, modest ivory champagne draped silk turtleneck gown, fur coat over shoulders, second look modest cream sleeveless maxi with gold belt fur wrap, multi-panel parchment cream layout, hero portrait + eye crop + lip macro + side profile + eye detail + perfume flatlay + full body shot panels, embedded music player UI card "The Silent Hour" playlist, typography overlays "BEAUTY IN SILENCE" "QUIET IS THE NEW LUXURY" serif editorial, date stamps, silent luxury aesthetic, K-beauty editorial, candlelit warm champagne tones, photorealistic ultra detailed --ar 9:16 --stylize 750 --v 6
+Transform to extreme vivid fantasy realism style art, ultra-detailed masterpiece, depiction of Medusa from Marvel Inc., in hyper-realistic fantasy digital photography, meticulously captured with precision and care, centered, perfect composition, overexposed photography creating a striking and ethereal atmosphere, sharp focus ensuring exquisite details, clear and bright elements highlighting her iconic red hair, expressive eyes filled with regal command and inner turmoil, the intricate details showcasing her flowing hair and stoic pose, seamlessly merging realism with fantasy, celebrating the essence of power and her inner conflicts in a visually stunning and imaginative setting.
 ```
 
-By [@HaniaAi12](https://x.com/HaniaAi12/status/2104020631251828877)
+[Source](https://prompthero.com/prompt/0c97785b276-flux-flux-11-pro-transform-to-extreme-vivid-fantasy-realism-style-art-ultra-detailed-masterpiece-depiction-of-medusa-from-marvel-inc-in-hyper-realistic)
 
 ---
 
-<a id="evolink-illustration-case-122"></a>
+<a id="prompthero-0d3dd87d153"></a>
 
-## Landmark Behind a Zipper
+## A rapid aerial tracking shot from the drone&\#39;s pers\.\.\.
 
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2108558438796345344.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2108558438796345344.jpg" width="480" alt="Source example"></a>
+<a href="https://cdn.prompthero.com/cll1ubjksbcfbqs0sv9b0lst9ji9-flux-flux-11-pro-ultra-a-rapid-aerial-tracking-shot-from-the-drones-perspective-captures-a-surreal-dream-sequence-of-an-ancient-chinese-beauty-dressed.jpg"><img src="https://cdn.prompthero.com/cll1ubjksbcfbqs0sv9b0lst9ji9-flux-flux-11-pro-ultra-a-rapid-aerial-tracking-shot-from-the-drones-perspective-captures-a-surreal-dream-sequence-of-an-ancient-chinese-beauty-dressed.jpg" width="480" alt="After"></a>
 
 **Prompt**
 
 ```text
-Create a breathtaking, photorealistic surrealist photograph of a giant metallic zipper partially opening the surface of an ordinary real-world environment, revealing an actual place from [COUNTRY / CITY / LANDMARK] behind it A giant, physically realistic silver zipper runs diagonally across the scene. Its metallic teeth separate two edges of the outer surface, creating a large, natural-looking opening. The zipper must look like a real physical object, with brushed metal texture, fine scratches, accurate reflections, and realistic shadows. INSIDE THE OPENING: Reveal a breathtaking, photorealistic view of [COUNTRY / CITY / LANDMARK] as it actually exists in the real world. If the subject is a country, show an authentic landscape featuring its real geographical features, traditional architecture, recognizable landmarks, and genuine cultural details. If the subject is a city, show its actual streets, real buildings, recognizable skyline, authentic transportation, and characteristic urban atmosphere. If the subject is a landmark, reproduce its real architecture with accurate proportions, materials, colors, windows, structural details, and surrounding environment. Every building, street, vehicle, and architectural feature must look believable and consistent with the real location. Use actual-world architectural references rather than inventing structures. THE VISUAL MAGIC: The only surreal element is the giant zipper opening reality. The location inside must look like an authentic photograph taken by a professional travel photographer. The real landscape extends naturally behind the zipper opening, with realistic perspective, atmospheric depth, natural sunlight, and physically accurate shadows. The zipper edges cast believable shadows onto the revealed scene, making the illusion convincing. PHOTOGRAPHIC STYLE: Ultra-photorealistic travel photography, natural daylight, realistic atmospheric perspective, true-to-life colors, physically accurate textures, professional full-frame camera quality, sharp architectural details, natural contrast, realistic depth of field, and premium editorial photography. COMPOSITION: Vertical 4:5 composition. The giant zipper occupies the foreground and opens wide enough to reveal the location clearly. The real-world destination is the main subject, immediately recognizable and visually dominant. Clean composition with no unnecessary decorative elements. STRICT REALISM RULES: No fantasy architecture or imaginary buildings. No cartoon, illustration, painting, or CGI-looking landscapes. No exaggerated colors, artificial glowing lights, or magical particles. No distorted buildings, melted structures, or impossible roads. No invented landmarks or inaccurate architectural details. No extra zippers or unrelated objects. No text, labels, borders, or watermarks. Final result: A visually extraordinary yet convincing photorealistic image in which a giant zipper reveals a real place hidden behind reality. The concept is surreal; the destination itself is completely realistic.
+A rapid aerial tracking shot from the drone's perspective captures a surreal dream sequence of an ancient Chinese beauty dressed in an exquisite Hanfu, flying at high speed in a prone position. She effortlessly glides through the clouds, her body fully extended with arms outstretched to the sides, legs slightly parted, and her head forward, capturing the sensation of smooth horizontal flight. Her Hanfu billows in the wind as the camera closely tracks from a slightly higher angle, moving from the left rear to the right rear, maintaining a continuous view of the prone position as the character swiftly traverses the scene. The environment is dynamic and rapidly changing, with clouds below and white clouds streaking by in the background, a large moon hanging high in the distance, and a sparkling night sky surrounding, with motion blur and light trails enhancing the sense of speed and fluidity. Rapid movement.
 ```
 
-By [@Naiknelofar788](https://x.com/Naiknelofar788/status/2108558447663071286)
+[Source](https://prompthero.com/prompt/0d3dd87d153-flux-flux-11-pro-ultra-a-rapid-aerial-tracking-shot-from-the-drones-perspective-captures-a-surreal-dream-sequence-of-an-ancient-chinese-beauty-dressed)
 
 ---
 
-<a id="evolink-illustration-case-131"></a>
+<a id="prompthero-0e7d898220e"></a>
 
-## Miniature Farm Inside an Apple
+## Very realistic and stunning Image of cute and ador\.\.\.
 
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2107803452583858176.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2107803452583858176.jpg" width="480" alt="Source example"></a>
+<a href="https://cdn.prompthero.com/9fsa5yglkn7wvpn1ewncqqulyr1n-flux-flux-11-pro-ultra-very-realistic-and-stunning-image-of-cute-and-adorable-samurai-girl-big-eyes-battlefield-wearing-magic-fighting-boots-warm-color.jpg"><img src="https://cdn.prompthero.com/9fsa5yglkn7wvpn1ewncqqulyr1n-flux-flux-11-pro-ultra-very-realistic-and-stunning-image-of-cute-and-adorable-samurai-girl-big-eyes-battlefield-wearing-magic-fighting-boots-warm-color.jpg" width="480" alt="After"></a>
 
 **Prompt**
 
 ```text
-A whimsical miniature world built around a giant freshly cut red apple in an apple orchard. The enormous apple is sliced perfectly in half and standing upright, revealing its creamy golden-white flesh, central core, seeds, and wooden stem. Tiny miniature apple farmers are actively harvesting and cutting the apple: some workers are climbing wooden ladders, others are standing on the apple’s surface slicing small apple pieces with knives, while others collect the freshly cut apple chunks into woven wicker baskets and rustic wooden crates. Several tiny farmers wear colorful work clothes, hats, boots, and overalls, creating a charming handcrafted miniature farming scene. Surround the giant apple with a lush apple orchard filled with red apples, green leaves, branches, grass, fallen apple pieces, wooden crates, baskets, and tiny farming tools. Warm golden sunlight shines through the trees, creating a magical cinematic atmosphere with soft glowing bokeh in the background. Create two visual treatments of the same scene: the first as an ultra-realistic cinematic miniature photography scene with realistic textures, detailed workers, glossy red apple skin, natural lighting, shallow depth of field and macro photography; the second as a beautiful vintage watercolor illustration / handmade travel scrapbook artwork, painted on warm textured cream paper, with delicate watercolor washes, visible brush strokes, colorful paint splashes, soft botanical apple branches, artistic imperfections, and a cozy storybook aesthetic. The composition should feel charming, imaginative, nostalgic, and handcrafted, like a premium illustrated children's storybook or vintage travel scrapbook. Highly detailed miniature characters, realistic proportions, intricate baskets and wooden ladders, warm autumn color palette, soft natural shadows, cinematic depth, beautiful composition, vertical poster layout, centered subject, clean cream paper border. At the bottom of the watercolor version, add elegant minimalist typography reading “SWEET MOMENTS” and underneath “LIFE”, with refined black serif lettering and generous spacing. Photorealistic miniature photography + whimsical fantasy + vintage watercolor illustration + premium scrapbook aesthetic + ultra-detailed + warm golden lighting + macro depth of field + highly intricate textures.
+Very realistic and stunning Image of cute and adorable Samurai Girl. big eyes, Battlefield, wearing magic fighting boots. Warm color gradient, bright color gradient, shallow depth of field, film noir, wide lens shot from below, moody, grainy, noisy, concept art, by Alberto Seveso, Cyril Rolando, Dan Mumford, Meaningful Visual Art, Detailed Painting, Digital Illustration, Unreal Engine 5, 32k maximalist, highly detailed fantasy art, 3d digital art, sharp focus, masterpiece, fine art,
 ```
 
-By [@mehwishkiran07](https://x.com/mehwishkiran07/status/2107803596477944202)
+[Source](https://prompthero.com/prompt/0e7d898220e-flux-flux-11-pro-ultra-very-realistic-and-stunning-image-of-cute-and-adorable-samurai-girl-big-eyes-battlefield-wearing-magic-fighting-boots-warm-color)
 
 ---
 
-<a id="evolink-illustration-case-144"></a>
+<a id="prompthero-0e91d70d68a"></a>
 
-## Geometric Art Mathematics Atlas
+## A close-up, cinematic painting of Gandalf the Grey\.\.\.
 
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2107369008169422848.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2107369008169422848.jpg" width="480" alt="Source example"></a>
+<a href="https://cdn.prompthero.com/kt391os6ix2n7gy0w3241zdi1ljb-flux-flux-11-pro-a-close-up-cinematic-painting-of-gandalf-the-grey-captured-from-the-chest-up-with-a-focused-intimate-crop-he.jpg"><img src="https://cdn.prompthero.com/kt391os6ix2n7gy0w3241zdi1ljb-flux-flux-11-pro-a-close-up-cinematic-painting-of-gandalf-the-grey-captured-from-the-chest-up-with-a-focused-intimate-crop-he.jpg" width="480" alt="After"></a>
 
 **Prompt**
 
 ```text
-【主体】 × 几何艺术 × 数学原理 × 数学解析标注 × 极简科学图谱
+A close-up, cinematic painting of Gandalf the Grey, captured from the chest up with a focused, intimate crop. He looks directly into the viewer’s eyes, a gentle hint of a smile in his gaze, exuding wisdom and warmth. His hand is raised and open, fingers slightly curled as he conjures an ethereal, fiery dragon made entirely of fireworks and smoke that hovers just above his palm. The fireworks dragon is brilliantly detailed, its form composed of vibrant, swirling fire and faint, smoky wisps. The dragon appears to be alive, its body coiling gracefully in mid-air, each scale flickering with a fiery glow that pulses in shades of deep orange, crimson, and gold. Its eyes burn intensely, and its open jaws release tiny sparks, casting a warm, shifting light that illuminates Gandalf’s face and hand. Delicate trails of smoke spiral off its wings and tail, fading into the surrounding air, giving it an ephemeral, almost ghostly quality. The background is a rich, dark blue, fading into shadow to allow the glowing dragon to stand out vividly. Soft, volumetric lighting surrounds Gandalf’s hand and the dragon, creating a sense of depth and atmosphere as light reflects off particles of magic dust floating in the air. The dragon’s smoke and fire blend seamlessly, with the tail and wings leaving shimmering trails that drift away like the remnants of a sparkler, adding movement and a sense of awe to the scene. Rendering Style: Hyperrealistic and finely detailed, with an emphasis on soft, realistic shadows and complex, diffused lighting. Gandalf’s robes and hand are lit by the warm glow of the dragon, with subtle textures emphasized by the contrast of light and shadow. The painting captures an enchanting moment of magic, where every flicker of the dragon’s fiery form and every tendril of smoke is rendered with exquisite, lifelike precision, creating a scene that feels both mystical and deeply cinematic.
 ```
 
-By [@DeepBlueX0](https://x.com/DeepBlueX0/status/2107369025366016200)
+[Source](https://prompthero.com/prompt/0e91d70d68a-flux-flux-11-pro-a-close-up-cinematic-painting-of-gandalf-the-grey-captured-from-the-chest-up-with-a-focused-intimate-crop-he)
 
 ---
 
-<a id="evolink-illustration-case-149"></a>
+<a id="prompthero-1ceb45671a9"></a>
 
-## Country-Themed Miniature Fairy-Tale World
+## In a surreal dance of delicate movement, the ether\.\.\.
 
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2106233129765945345.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2106233129765945345.jpg" width="480" alt="Source example"></a>
+<a href="https://cdn.prompthero.com/kj800qeevzcp4plunoujk6tg283s-stable-diffusion-xl-base-09-in-a-surreal-dance-of-delicate-movement-the-ethereal-beauty-is-captured-in-this-portrait-of-a-midair-dancer-the.jpeg"><img src="https://cdn.prompthero.com/kj800qeevzcp4plunoujk6tg283s-stable-diffusion-xl-base-09-in-a-surreal-dance-of-delicate-movement-the-ethereal-beauty-is-captured-in-this-portrait-of-a-midair-dancer-the.jpeg" width="480" alt="After"></a>
 
 **Prompt**
 
 ```text
-Create a whimsical, highly detailed miniature world inspired by [COUNTRY], as if the entire country has been transformed into a handcrafted storybook landscape. Rolling hills covered in rich, tactile, velvety vegetation rise from a calm body of water, with clusters of tiny charming buildings inspired by the authentic architecture of [COUNTRY] scattered naturally across the hills. Every building has unique shapes, colors, windows, roofs, balconies, and architectural details characteristic of the country. Surround the villages with exaggerated ornamental trees, sculpted shrubs, colorful flowers, winding paths, and tiny environmental details, all appearing handcrafted from soft clay, wool, felt, paper and tiny textured beads. Add small boats on the water reflecting the colorful landscape. The entire scene should feel like a luxury handcrafted miniature diorama, playful yet sophisticated, with surreal proportions, rich saturated colors, intricate surface texture, soft atmospheric lighting, dramatic cloudy sky, cinematic depth, realistic water reflections, and an enchanting storybook atmosphere. Subtly incorporate recognizable visual elements of [COUNTRY] into the architecture and landscape without using obvious flags, text, or tourist clichés. Ultra-detailed, tactile textures, miniature photography aesthetic, whimsical fantasy realism, cinematic composition, soft volumetric light, shallow depth of field, highly polished 3D artwork, visually captivating, no people, no text.
+In a surreal dance of delicate movement, the ethereal beauty is captured in this portrait of a midair dancer. The soft pastel tones, backlighting, and flowing fabric create a dreamlike ambiance. The image features cinematic lighting and is presented in ultra-high resolution with an aspect ratio of 9:16
 ```
 
-By [@Naiknelofar788](https://x.com/Naiknelofar788/status/2106233142994481153)
+By [@JBlack16062205](https://prompthero.com/prompt/1ceb45671a9-stable-diffusion-xl-base-09-in-a-surreal-dance-of-delicate-movement-the-ethereal-beauty-is-captured-in-this-portrait-of-a-midair-dancer-the)
 
 ---
 
-<a id="evolink-illustration-case-150"></a>
+<a id="prompthero-1decc195dba"></a>
 
-## Teapot and Storybook Miniature Worlds
+## The Last Guardian: Capt\. Kate
 
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2105936934677655552.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2105936934677655552.jpg" width="480" alt="Source example"></a>
+<a href="https://cdn.prompthero.com/6ilyyio9c02vkxbz1fevzt8u52fk-stable-diffusion-15-the-last-guardian-capt-kate.jpg"><img src="https://cdn.prompthero.com/6ilyyio9c02vkxbz1fevzt8u52fk-stable-diffusion-15-the-last-guardian-capt-kate.jpg" width="480" alt="After"></a>
 
 **Prompt**
 
 ```text
-Create one ultra-realistic cinematic fantasy scene combining the main elements from all three references: an antique brass teapot on a rustic wooden table, its lid slightly open with warm steam rising and transforming into a miniature glowing city skyline; beside it, an old open storybook with a tiny enchanted forest emerging from its pages, including moss-covered ground, miniature pine trees, a cozy wooden cabin, a small flowing stream and warm golden fairy lights; also include a large white ceramic coffee cup filled with deep blue ocean water, with a tiny sailing boat floating on the surface and a miniature tropical island with palm trees. Set everything inside a cozy vintage café/library with wooden shelves, old books, dried herbs, candles and soft warm bokeh lighting. Highly detailed textures, realistic steam, magical atmosphere, shallow depth of field, cinematic composition, warm amber tones, photorealistic, 8K, realistic lighting, premium fantasy editorial photography.
+Photo of a female soldier in post-apocalyptic setting, dystopian era, cinematic shot, dramatic lighting, cinematic noise, movie-like photography, prominent shadows
 ```
 
-By [@KrishnaBio1](https://x.com/KrishnaBio1/status/2105951925640589394)
+By [@abyishot](https://prompthero.com/prompt/1decc195dba-stable-diffusion-15-the-last-guardian-capt-kate)
 
 ---
 
-<a id="evolink-illustration-case-161"></a>
+<a id="prompthero-1e4d0006699"></a>
 
-## Giant Luxury Bed Surreal Interior
+## fear, brutal composition showing the terror of war\.\.\.
 
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2100900235442896896.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2100900235442896896.jpg" width="480" alt="Source example"></a>
+<a href="https://cdn.prompthero.com/c7xb36e2btgutusr3bxijzwqrr4a-flux-flux-11-pro-fear-brutal-composition-showing-the-terror-of-war-cries-and-gore-gloomy-background-dark-tones-horror-masterpiece-dramatic-digital-art.jpg"><img src="https://cdn.prompthero.com/c7xb36e2btgutusr3bxijzwqrr4a-flux-flux-11-pro-fear-brutal-composition-showing-the-terror-of-war-cries-and-gore-gloomy-background-dark-tones-horror-masterpiece-dramatic-digital-art.jpg" width="480" alt="After"></a>
 
 **Prompt**
 
 ```text
-Create an ultra-realistic, surreal luxury interior featuring an enormous king-size bed that is unbelievably tall and oversized, almost reaching the upper part of a grand palace room. The bed has an extremely thick, luxurious cream-white mattress with a beautifully tufted upholstered base, deep diamond-shaped button detailing, soft padded leather/fabric texture, and elegant rounded edges. Cover the giant bed with multiple layers of oversized fluffy white and ivory duvets and blankets. Add several enormous soft pillows stacked toward the head of the bed, each pillow looking plush, fluffy, premium, and slightly oversized. The bedding should have realistic folds, wrinkles, soft fabric fibers, subtle shadows, and luxurious high-end hotel quality. Place a slim elegant golden ladder leaning against the side of the gigantic bed, emphasizing its enormous scale. On the right side of the room, create a futuristic transparent glass elevator attached to the bedroom wall, surrounded by polished gold/brass metallic framing, vertical golden columns, reflective glass panels, and warm circular ceiling lights inside the elevator. Inside the glass elevator, show a small elegant woman wearing a long flowing light-blue dress, standing naturally and looking toward the giant bed. She should appear small compared with the enormous furniture, making the room feel surreal and fantastical while still photorealistic. The room should look like an extravagant royal palace bedroom with huge arched architectural windows on the left side. Warm golden sunlight should enter through the windows, creating beautiful cinematic rays, soft glowing highlights, realistic reflections, and long natural shadows across the polished marble floor. Use an elegant cream, ivory, champagne, and warm gold color palette. The marble floor should have realistic glossy reflections of the bed, ladder, elevator, and sunlight. Add highly detailed architectural arches, luxurious walls, subtle decorative molding, premium materials, realistic depth, and sophisticated interior design. Composition should be vertical 9:16, cinematic wide-angle perspective, dramatic sense of scale, realistic proportions, physically accurate lighting, global illumination, soft volumetric sunlight, realistic reflections, detailed fabric textures, sharp foreground details, natural depth of field, high dynamic range, photorealistic rendering, luxury architectural photography, surreal fantasy realism, extremely detailed, 8K quality. No text, no letters, no logos, no watermark, no captions, no unnecessary objects, no distorted anatomy, no duplicate people, no blurry details.
+fear, brutal composition showing the terror of war, cries and gore, gloomy background, dark tones, horror, masterpiece, dramatic, digital art style, painting style, expressionism, muted colors, gloomy, emotionally profound, leaving an indelible and haunting impression on psyche, very intricate, high quality
 ```
 
-By [@Arzoo12sh](https://x.com/Arzoo12sh/status/2100900343358030040)
+[Source](https://prompthero.com/prompt/1e4d0006699-flux-flux-11-pro-fear-brutal-composition-showing-the-terror-of-war-cries-and-gore-gloomy-background-dark-tones-horror-masterpiece-dramatic-digital-art)
 
 ---
 
-<a id="evolink-illustration-case-170"></a>
+<a id="prompthero-1ea85e7cfea"></a>
 
-## Miniature City Emerging from a Map
+## photo of a beluga whale floating on a blue studio \.\.\.
 
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2098582735719931904.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2098582735719931904.jpg" width="480" alt="Source example"></a>
+<a href="https://cdn.prompthero.com/qb3q38d77n9dysk4krhiteyxtzi6-flux-flux-11-pro-photo-of-a-beluga-whale-floating-on-a-blue-studio-background-ultra-realistic-shot-on-a-sony-a7iii-high-quality.jpg"><img src="https://cdn.prompthero.com/qb3q38d77n9dysk4krhiteyxtzi6-flux-flux-11-pro-photo-of-a-beluga-whale-floating-on-a-blue-studio-background-ultra-realistic-shot-on-a-sony-a7iii-high-quality.jpg" width="480" alt="After"></a>
 
 **Prompt**
 
 ```text
-请生成一张1:1 方形构图的高细节图片。 画面主体是一张从上方俯视的真实地理地图，准确表现[国家]所在区域的地貌、海岸线、河流与道路信息，并带有清晰自然的地图标注质感。 在地图中[城市]的真实地理位置上，升起一座微缩立体城市景观，像精致的3D 微缩沙盘/ 城市模型自然“长”在地图表面。 这座微缩城市需要融合[城市]最具代表性的内容，包括： 标志性建筑 自然地标 城市天际线 具有地域特色的文化元素 要求这些元素与地图底图自然衔接，像从地图中立体浮现出来，而不是单独摆放。 整体风格要写实、精致、高级、有收藏级模型质感，呈现超真实微缩摄影效果。 强调真实材质、细腻纹理、立体层次、微缩比例感，并加入浅景深效果，让主体城市清晰锐利，周围地图轻微虚化。 使用柔和摄影棚光线与自然阴影，画面干净，构图高级，有电影感和精品旅行视觉效果。 整体效果像高端微距摄影拍摄的地图微缩城市diorama。
+photo of a beluga whale floating on a blue studio background, ultra-realistic, shot on a Sony A7III, high quality --no freckles --chaos 50 --ar 2:3  --stylize 750 --v 6. 1
 ```
 
-By [@lukfan](https://x.com/lukfan/status/2098582975567061183)
+[Source](https://prompthero.com/prompt/1ea85e7cfea-flux-flux-11-pro-photo-of-a-beluga-whale-floating-on-a-blue-studio-background-ultra-realistic-shot-on-a-sony-a7iii-high-quality)
 
 ---
 
-<a id="evolink-travel-journals-case-216"></a>
+<a id="prompthero-1eb5c5d37f8"></a>
 
-## Skyward Travel Double Exposure
+## Temple of Poseidon v1
 
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2103694972910456832.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2103694972910456832.jpg" width="480" alt="Source example"></a>
+<a href="https://cdn.prompthero.com/4riwib8f710ksfsatuf4oktjefl7-dreamshaper-5-baked-vae-temple-of-poseidon-v1.png"><img src="https://cdn.prompthero.com/4riwib8f710ksfsatuf4oktjefl7-dreamshaper-5-baked-vae-temple-of-poseidon-v1.png" width="480" alt="After"></a>
 
 **Prompt**
 
 ```text
-A breathtaking surreal double-exposure fine-art photograph and masterwork cinematic composite featuring an adventurous, reflective traveler with the uploaded face as reference, depicted in a dramatic low-angle three-quarter profile with their neck gently extended and gaze cast reverently upward toward the sky. The character is dressed in a travel-worn, dusty khaki button-down utility shirt with rolled sleeves and textured denim trousers, carrying a heavy weathered expedition backpack. Seamlessly integrated and blending directly into the wanderer’s torso, jacket, and pack is an enchanting, luminous miniature landscape centered around a colossal, incandescent golden sunset that bathes the scene in warm radiant amber brilliance. Within this surreal chest portal, a winding path of stone steps ascends toward the blazing horizon, flanked by the dark silhouette of an ancient acacia tree and fiery autumn groves of deep orange and crimson foliage that disintegrate into floating embers, billowing dust clouds, and miniature flying bird silhouettes drifting into the open air. Soaring through the surrounding atmosphere are two photorealistic, glossy black ravens with meticulously rendered wing feathers and sharp talons, one carving dynamically across the left foreground and the other descending from the upper right amid ethereal tendrils of gray smoke. The backdrop consists of expansive, muted slate-blue overcast clouds with soft diffused daylight, establishing a poignant color temperature juxtaposition between the cool, cinematic ambient exterior and the molten, hyper-saturated warm glow emanating from the core. Captured from a low-angle medium shot with a prime 85mm portrait lens, deep depth of field rendering crisp tactile details from the rugged cotton weave and feathered edges to the dynamic particulate clouds, featuring high-contrast cinematic color grading, balanced chiaroscuro lighting, and poetic surrealist visual storytelling.
+(masterpiece Illustration, best quality:1.2) style of Edwin Deakin, Ruins of a (Lost Temple of Poseidon:1.1), (Greek Architecture), Underwater , bottom of Ocean, (Lost city of Atlantis:1.2), Ancient, Abandoned, Ethereal, mystical, haunted, overgrown coral, Sunrays from surface, Scattered Light, Cinematic Scene, Atmospheric , Volumetric lighting, deep shadows, water, Sea Life, Fish, Trident Statue, bokeh , depth of field, ray tracing, <lora:epiNoiseoffset_v2:1> , <lora:add_detail:1>, 16k, UHD, HDR,(Masterpiece:1.5),(best quality:1.5)
 ```
 
-By [@AiWithTariq](https://x.com/AiWithTariq/status/2103695262522696075)
+By [@ScArecrow23](https://prompthero.com/prompt/1eb5c5d37f8-dreamshaper-5-baked-vae-temple-of-poseidon-v1)
 
 ---
 
-<a id="evolink-travel-journals-case-231"></a>
+<a id="prompthero-2a83d89af10"></a>
 
-## Sunset Waterside Reflection
+## surreal editorial composition, hyperrealistic huma\.\.\.
 
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2101257558061379584.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2101257558061379584.jpg" width="480" alt="Source example"></a>
+<a href="https://cdn.prompthero.com/cnf74hww6r1k3x3fapbfrkp9n5-chatgpt-image-gpt-image-2-surreal-editorial-composition-hyperrealistic-human-mixed-with-handmade-plasticine-sculptures-tactile-clay-textures-weird-art-school-energy-black-studio-background.jpeg"><img src="https://cdn.prompthero.com/cnf74hww6r1k3x3fapbfrkp9n5-chatgpt-image-gpt-image-2-surreal-editorial-composition-hyperrealistic-human-mixed-with-handmade-plasticine-sculptures-tactile-clay-textures-weird-art-school-energy-black-studio-background.jpeg" width="480" alt="After"></a>
 
 **Prompt**
 
 ```text
-Create a single unified ultra-realistic cinematic scene, NOT a split image, NOT a collage, and NOT two separate images. A young woman is sitting calmly on a massive dark rocky structure beside the water during a dramatic golden sunset. She has long flowing dark brown hair, an olive-green oversized jacket, a simple light-colored shirt, wide-leg faded blue jeans, and white sneakers. She sits naturally with one hand resting against her cheek, looking slightly upward toward the sunset with a soft, peaceful and hopeful expression. Behind her, create a huge broken circular portal made of dark ancient stone and glowing molten-golden energy. The circular ring is partially shattered, with realistic chunks of stone, dust, sparks, and debris floating around the broken sections. The glowing golden energy illuminates the woman from behind and creates beautiful cinematic rim lighting around her hair and body. On the left side, a large cracked dark stone wall contains elegant handwritten glowing text: “A Stronger Me Ahead” with a small glowing heart underneath. In the same single composition, the foreground continues naturally into shallow reflective water. The entire scene — the woman, rocky structure, broken glowing portal, sunset, clouds, and distant city skyline — creates a realistic reflection in the water below. The reflection should be visible directly beneath the main scene, slightly softer, dreamy, and naturally distorted by gentle water ripples, while remaining clearly recognizable. The background features a distant modern city skyline beside the water, silhouetted against dramatic orange, golden, and dark-gray clouds. The sun is low on the horizon and creates a beautiful long golden reflection across the water. IMPORTANT COMPOSITION: Everything must exist inside ONE continuous physical environment and ONE cohesive image. The woman, broken golden portal, rocky structure, city, sunset, and their reflection must all connect naturally. The lower reflection must NOT look like a separate photograph, second image, collage, split screen, or duplicated scene. It must look like a real cinematic reflection in the water. Make the main woman and environment extremely sharp and detailed, while the reflection below is naturally softer and slightly blurred because of the moving water. Maintain realistic perspective, lighting, reflections, and depth. Ultra-photorealistic cinematic photography, realistic human anatomy, natural skin texture, detailed individual hair strands, realistic fabric folds, authentic facial proportions, physically accurate lighting, volumetric golden sunlight, atmospheric depth, realistic water reflections, subtle water ripples, floating dust and debris, dramatic clouds, HDR, cinematic depth of field, warm golden color grading, deep contrast, subtle film grain, highly detailed textures, 8K quality, masterpiece, realistic photography. Avoid all unwanted elements: no split image, no collage, no two separate scenes, no stacked panels, no duplicated woman, no second woman, no duplicated portal, no multiple bodies, no distorted reflection, no deformed face, no distorted anatomy, no extra fingers, no extra hands, no extra limbs, no unnatural pose, no plastic skin, no artificial-looking face, no cartoon, no anime, no illustration, no low resolution, no flat lighting, no unrealistic water, no excessive blur on the main subject, no warped clothing, no malformed shoes, no incorrect perspective, no random objects, no misspelled text, no garbled letters. The final result must look like a high-budget cinematic photograph captured at golden hour, with the woman and the broken glowing portal as the main visual focus and their natural reflection seamlessly integrated into the same scene.
+surreal editorial composition, hyperrealistic human mixed with handmade plasticine sculptures, tactile clay textures, weird art-school energy, black studio background, a creative student sitting at a computer surrounded by floating symbolic objects of knowledge and creativity, oversized sculptural head with expressive eyes, melting keyboard, strange books with faces, smiling sun with human features, abstract stars and symbols floating around, playful intellectual chaos, handcrafted clay aesthetic mixed with realistic skin and cinematic lighting, awkward poetic proportions, contemporary art installation vibe, experimental fashion editorial, soft glossy clay surfaces, highly detailed textures, stop-motion feeling, strange and intelligent atmosphere, muted pastel palette with pink, lavender, cream, pale green and peach, surrealism, mixed media sculpture, dark empty background, museum installation mood, ultra detailed, realistic shadows, art brut meets modern creativity
 ```
 
-By [@mehwishkiran07](https://x.com/mehwishkiran07/status/2101257730472419754)
+[Source](https://prompthero.com/prompt/2a83d89af10-chatgpt-image-gpt-image-2-surreal-editorial-composition-hyperrealistic-human-mixed-with-handmade-plasticine-sculptures-tactile-clay-textures-weird-art-school-energy-black-studio-background)
 
 ---
 
-<a id="evolink-travel-journals-case-233"></a>
+<a id="prompthero-02b4bec98da"></a>
 
-## Travel Photography Scrapbook
+## An ultra-minimalist, conceptual photographic image\.\.\.
 
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2101138653351407616.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2101138653351407616.jpg" width="480" alt="Source example"></a>
+<a href="https://cdn.prompthero.com/v1_44d59e4eaee3766f244ed3819b-hero-10-an-ultra-minimalist-conceptual-photographic-image-of-a-crow-silhouette-centered-on-a-clean-stark-white-background-the-style-is.jpg"><img src="https://cdn.prompthero.com/v1_44d59e4eaee3766f244ed3819b-hero-10-an-ultra-minimalist-conceptual-photographic-image-of-a-crow-silhouette-centered-on-a-clean-stark-white-background-the-style-is.jpg" width="480" alt="After"></a>
 
 **Prompt**
 
 ```text
-Create a highly detailed, ultra-realistic cinematic travel photography scrapbook collage in a vertical 3:4 composition. The main subject is a beautiful young adult woman with warm fair-to-medium skin, soft natural facial features, dark brown eyes, and long dark brown hair styled in a messy high bun with loose wispy strands framing her face. She wears a cozy cream-colored teddy-fleece jacket with dark green and black abstract patches over a simple black top, dark olive/gray pants, and a black backpack. Create a vintage European lakeside travel setting inspired by a beautiful Mediterranean mountain town. The background features a peaceful blue lake, charming hillside houses, lush green mountains, warm golden sunlight, and a dreamy sunset atmosphere. The composition should look like a carefully arranged physical travel scrapbook made from multiple torn-edge photographs and handwritten journal cards layered over an old vintage map. CENTER PHOTO: A large dominant portrait of the woman sitting outdoors on a stone or wooden surface, resting her cheek gently on her hand with her eyes softly closed and a peaceful subtle smile. Warm golden-hour sunlight illuminates her face and hair. Add shallow depth of field, realistic skin texture, natural pores, detailed hair strands, cinematic bokeh, and professional travel photography quality. TOP LEFT PHOTO: The same woman sitting against the beautiful mountain-lake landscape, resting her face on her hand with a calm expression. She is looking downward peacefully. TOP RIGHT PHOTO: The woman holding a professional DSLR camera to her eye while photographing the scenic mountain lake. Capture her in profile with a natural smile and warm sunlight on her face. BOTTOM LEFT PHOTO: The woman sitting casually near the lakeside, touching her hair with one hand and resting her cheek with the other, smiling gently toward the side. BOTTOM RIGHT PHOTO: The woman sitting outdoors during sunset, looking toward the glowing horizon. A beautiful orange sun is setting over the lake, creating warm reflections across the water. Include a small vertical vintage film strip on the right side containing several black-and-white portrait frames of the same woman in different natural poses. Scatter realistic vintage photographs around the composition, including landscape prints, travel snapshots, a classic analog camera, camera straps, dried wildflowers, leaves, and small pieces of aged masking tape. Add several cream-colored torn paper journal cards with elegant handwritten-style typography. The visible text should read: “Different Views Same Mindset…” “Good People Brighter Days…” “Be your own kind of beautiful ♡” “Moments People Places You…” “Focus on the good” “Collect memories not things ♡” “Same Dreams Bigger Moves ♡” “A better Me is coming ♡” Make the handwritten text look naturally written with dark brown ink on textured beige paper. At the bottom, include a vintage wooden/rustic table covered with an old travel map. Place a retro analog camera with a lens, several printed photographs, a brown leather travel journal/notebook, a black fountain pen, dried flowers, and a ceramic coffee cup. Write “Same Dreams Bigger Moves ♡” on the coffee cup. Use torn paper edges, subtle paper wrinkles, realistic tape strips, slightly overlapping photographs, imperfect scrapbook layering, vintage travel aesthetics, warm earthy beige and brown tones, soft golden-hour lighting, natural shadows, realistic depth, subtle film grain, and authentic analog photography texture. The final image should feel like a luxurious nostalgic travel journal / Pinterest-style aesthetic scrapbook, highly photorealistic, editorial-quality photography, realistic materials, natural skin and hair, cinematic composition, soft depth of field, warm atmospheric lighting, extremely detailed, 8K quality. Important: Keep the woman’s appearance consistent across every photograph. Maintain the same hairstyle, facial features, clothing, and overall identity in all frames. No distorted hands, no extra fingers, no duplicate body parts, no unnatural facial features, no cartoon appearance, no plastic skin.
+An ultra-minimalist, conceptual photographic image of a crow silhouette centered on a clean, stark white background. The style is heavily hazy, softly blurred (out of focus), with a strong sense of a diffusion filter and a dense, noisy film grain texture. The central crow form, though a shape, appears to be made of glowing, saturated neon emerald green light, bleeding softly into the white. The edges of the crow are not sharp but are a smooth, fuzzy gradient, merging into a soft, glowing halo. No text or graphic details. The mood is ethereal, quiet, and contemporary. 35mm grain, macro perspective of a light form.
 ```
 
-By [@mehwishkiran07](https://x.com/mehwishkiran07/status/2101138725820588393)
+[Source](https://prompthero.com/prompt/02b4bec98da-hero-10-an-ultra-minimalist-conceptual-photographic-image-of-a-crow-silhouette-centered-on-a-clean-stark-white-background-the-style-is)
 
 ---
 
-<a id="freestylefly-case-33"></a>
+<a id="prompthero-2cfd462d18a"></a>
 
-## 电商商品展示设计
+## a Japan traditional art style illustration that ca\.\.\.
 
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case33.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case33.jpg" width="480" alt="Source example"></a>
+<a href="https://cdn.prompthero.com/n2g6h2gyd31wekdv05nkgcn8h6cx-midjourney-52-a-japan-traditional-art-style-illustration-that-captures-the-essence-of-a-weathered-red-wooden-bridge-suspended-over-a-meandering.png"><img src="https://cdn.prompthero.com/n2g6h2gyd31wekdv05nkgcn8h6cx-midjourney-52-a-japan-traditional-art-style-illustration-that-captures-the-essence-of-a-weathered-red-wooden-bridge-suspended-over-a-meandering.png" width="480" alt="After"></a>
 
 **Prompt**
 
 ```text
-A 3D render of a cute kawaii {argument name="subject" default="cloud"} character on a pure white background. The character has a soft, matte, squishy texture resembling clay or a stress toy. It features large glossy black eyes with white highlights, a simple curved smile, and round pink blush on its cheeks. The edges and bottom of the figure have a subtle pastel gradient of {argument name="accent colors" default="pink, blue, and purple"}. Soft studio lighting, minimalist icon style, casting a gentle shadow.
+a Japan traditional art style illustration that captures the essence of a weathered red wooden bridge suspended over a meandering stream. Bathed in the warm, ethereal glow of the golden hour sunlight filtering through an abstract arrangement of stylized trees, the scene encapsulates a fusion of nostalgia and contemporary vibrancy.ar-- 16:9
 ```
 
-By [@yurunekofree](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-33)
+[Source](https://prompthero.com/prompt/2cfd462d18a-midjourney-52-a-japan-traditional-art-style-illustration-that-captures-the-essence-of-a-weathered-red-wooden-bridge-suspended-over-a-meandering)
 
 ---
 
-<a id="freestylefly-case-50"></a>
+<a id="prompthero-2e787249609"></a>
 
-## 建筑空间场景图
+## A creative and thought-provoking visual of two bra\.\.\.
 
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case50.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case50.jpg" width="480" alt="Source example"></a>
+<a href="https://cdn.prompthero.com/6swage5askyrwdm4gy5riq6d31xc-midjourney-61-a-creative-and-thought-provoking-visual-of-two-brains-one-white-with-dark-brown-liquid-flowing-around-it-on-the.png"><img src="https://cdn.prompthero.com/6swage5askyrwdm4gy5riq6d31xc-midjourney-61-a-creative-and-thought-provoking-visual-of-two-brains-one-white-with-dark-brown-liquid-flowing-around-it-on-the.png" width="480" alt="After"></a>
 
 **Prompt**
 
 ```text
-A highly detailed, cinematic wide shot of a grand, dark gothic hall with a {argument name="atmosphere" default="dark fantasy"} aesthetic. In the center, a single figure wearing a {argument name="clothing" default="long white robe"} kneels on a highly reflective stone floor, facing an ornate golden altar illuminated by a row of lit candles. To the right of the kneeling figure, a single {argument name="floor object" default="wooden violin"} rests on the ground. The cavernous room is framed by massive dark stone pillars detailed with {argument name="accent color" default="glowing blue"} ethereal cracks and veins. Suspended from the high ceiling are dozens of {argument name="floating objects" default="white porcelain theatrical masks"} hanging on thin strings, filling the upper half of the space and creating a haunting, surreal atmosphere. The lighting is dramatic and moody, featuring a rich color palette of deep blacks, tarnished golds, and cool blue accents. Format 16:9.
+A creative and thought-provoking visual of two brains, one white with dark brown liquid flowing around it on the left side and another black brain half-surrounded by light orange oil paint on the right side. The background is dark gray. --chaos 5 --style raw  --stylize 600
 ```
 
-By [@nomen\_machine](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-50)
+[Source](https://prompthero.com/prompt/2e787249609-midjourney-61-a-creative-and-thought-provoking-visual-of-two-brains-one-white-with-dark-brown-liquid-flowing-around-it-on-the)
 
 ---
 
-<a id="freestylefly-case-81"></a>
+<a id="prompthero-2f24b1b850d"></a>
 
-## 写实摄影风格图
+## Futuristic Soldiers with advanced armor lined up t\.\.\.
 
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case81.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case81.jpg" width="480" alt="Source example"></a>
+<a href="https://cdn.prompthero.com/za9eqt2ne19honv4ikb3gidk88fy-midjourney-52-futuristic-soldiers-with-advanced-armor-lined-up-through-the-ships-hatch-guns-blazing-weaponry-and-helmet-dark-army-green-street.png"><img src="https://cdn.prompthero.com/za9eqt2ne19honv4ikb3gidk88fy-midjourney-52-futuristic-soldiers-with-advanced-armor-lined-up-through-the-ships-hatch-guns-blazing-weaponry-and-helmet-dark-army-green-street.png" width="480" alt="After"></a>
 
 **Prompt**
 
 ```text
-{ "type": "scientific hardware diagram", "layout": { "main_scene": "3D render of an optical table with a red laser beam passing through 11 aligned optical components mounted on black posts.", "top_brackets": [ {"label": "Dual Modulation", "span": "SLM1"}, {"label": "4f Relay Optics", "span": "Lens L1 to Lens L2"}, {"label": "Imaging Optics", "span": "SLM2 to Lens L4"}, {"label": "Detection", "span": "Camera"} ], "optical_components_left_to_right": [ {"name": "Laser", "labels": ["Laser", "λ = {argument name=\"laser wavelength\" default=\"632.8 nm\"}"]}, {"name": "SLM1", "labels": ["SLM1", "(Phase / Pol. Mod.)"]}, {"name": "Lens L1", "labels": ["Lens L1", "(f1)"]}, {"name": "Iris", "labels": ["Fourier Plane", "(Pupil Plane)", "Iris", "(Higher Orders Filtered)"]}, {"name": "HWP", "labels": ["HWP", "(λ/2)"]}, {"name": "Lens L2", "labels": ["Lens L2", "(f1)"]}, {"name": "SLM2", "labels": ["SLM2", "(Phase / Pol. Mod.)"]}, {"name": "Lens L3", "labels": ["Lens L3", "(f2)"]}, {"name": "Lens L4", "labels": ["Lens L4", "(f2)"]}, {"name": "Linear Polarizer", "labels": ["Linear", "-Polarizer", "(Global Analyzer)"]}, {"name": "Polarization Camera", "labels": ["POLARIZATION CAMERA"]} ], "inset_box": { "position": "bottom right", "title": "Polarization Camera Micro-Polarizer Array (Per-Pixel Analyzer)", "grid": "4x4 grid of colored squares with directional arrows", "legend_count": 4, "legend_items": [ "Red square, horizontal arrow, 0° (H)", "Green square, vertical arrow, 90° (V)", "Blue square, diagonal arrow, 45° (D)", "Yellow square, diagonal arrow, 135° (A)" ] }, "bottom_caption": { "figure_prefix": "{argument name=\"figure number\" default=\"Fig. 5.\"}", "title": "{argument name=\"system name\" default=\"Ellipsography Hardware Setup.\"}", "text": "Paragraph of scientific text explaining the dual-modulation configuration, 4f relay optics, and polarization camera." } } }
+Futuristic Soldiers with advanced armor lined up through the ship's hatch, guns blazing, weaponry, and helmet, dark army green, street, overcast, reflection mapping, intricate design and details, dramatic lighting, hyperrealism, photorealistic, cinematic, 8k, unreal engine --ar 3:4
 ```
 
-By [@HumanOS\_v2](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-81)
+[Source](https://prompthero.com/prompt/2f24b1b850d-midjourney-52-futuristic-soldiers-with-advanced-armor-lined-up-through-the-ships-hatch-guns-blazing-weaponry-and-helmet-dark-army-green-street)
 
 ---
 
-<a id="freestylefly-case-94"></a>
+<a id="prompthero-2ff4eb8885b"></a>
 
-## 绘画艺术风格图
+## artistic, rough painting art, extreme skate mounta\.\.\.
 
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case94.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case94.jpg" width="480" alt="Source example"></a>
+<a href="https://cdn.prompthero.com/k4vb266lre6ifv50yfgge4ahqfv4-midjourney-6-artistic-rough-painting-art-extreme-skate-mountain-speed-down-hill-pro-skateboarder-long-board-the-scene-following-the-back-black.jpeg"><img src="https://cdn.prompthero.com/k4vb266lre6ifv50yfgge4ahqfv4-midjourney-6-artistic-rough-painting-art-extreme-skate-mountain-speed-down-hill-pro-skateboarder-long-board-the-scene-following-the-back-black.jpeg" width="480" alt="After"></a>
 
 **Prompt**
 
 ```text
-{ "type": "VTuber stream thumbnail", "theme": "pastel pink, soft, cute, lace, ribbons, hearts, bunny motif", "character": { "position": "right side, waist-up", "appearance": "anime girl, {argument name=\"hair color\" default=\"pastel pink\"} long wavy hair, large grey eyes, blush, pink heart earrings", "accessories": "white bunny ears, large pink bow on head", "outfit": "white frilly dress with lace, large pink ribbon bow at collar with heart gem" }, "layout": { "background": "soft pink with subtle sparkles, lace patterns, floating hearts", "text_elements": [ { "type": "main title", "position": "top left", "style": "large stylized pink text with white outline", "text": "{argument name=\"main title\" default=\"雑談配信\"}" }, { "type": "speech bubble", "position": "above main title", "text": "まったり" }, { "type": "circular badge", "position": "top right", "details": "lace-edged with small pink bow", "text": "きてくれてありがとう♡" }, { "type": "heart badge", "position": "bottom right", "details": "large lace-edged heart", "text": "みんなとおしゃべりできるの楽しみにしてるね♡" } ], "list_section": { "position": "bottom left", "count": 3, "style": "horizontal pill-shaped banners with lace edges, each featuring a pink heart with white bunny ears and a tiny bow on the left", "items": [ "{argument name=\"list item 1\" default=\"初見さん〇\"}", "{argument name=\"list item 2\" default=\"ポイント回収〇\"}", "{argument name=\"list item 3\" default=\"ROM〇\"}" ] } } }
+artistic, rough painting art, extreme skate mountain, speed down hill, pro skateboarder, long board, the scene following the back, black helmet, loose white color T-shirt, denim jogger pants and black knee pads, red color protective gloves, Nike SB skate shoes, fluttering dust, professional artwork, sense of speed, the mountain with canyons and nature --ar 9:16 --style raw --stylize 750 --v 6.0
 ```
 
-By [@sayaka\_aiart](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-94)
+By [@Grayve](https://prompthero.com/prompt/2ff4eb8885b-midjourney-6-artistic-rough-painting-art-extreme-skate-mountain-speed-down-hill-pro-skateboarder-long-board-the-scene-following-the-back-black)
 
 ---
 
-<a id="freestylefly-case-215"></a>
+<a id="prompthero-3a9573c7b7d"></a>
 
-## 西方艺术演进像素博物馆
+## Blue glass skull
 
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case215.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case215.jpg" width="480" alt="Source example"></a>
+<a href="https://cdn.prompthero.com/y9kavu6fip4i1awr63xdfl0oz8pp-dalle-3-blue-glass-skull.jpg"><img src="https://cdn.prompthero.com/y9kavu6fip4i1awr63xdfl0oz8pp-dalle-3-blue-glass-skull.jpg" width="480" alt="After"></a>
 
 **Prompt**
 
 ```text
-[中文] 创作一张超高细节等距像素艺术时间线插画（3:4，4K），融合细节密度、象征性与隐喻。用户指定的主题为【Western Art Development】。 首先，围绕Western Art Development进行推理，确定：主题的中英文标题、涵盖的最早与最近历史时期、起始阶段标签与结束阶段标签，以及3-5个关键演进阶段及其各自的象征性元素与色彩方案。 然后构建一个以"Western Art Development"为主题的等距"演进博物馆"，每个展馆区域代表一个演进阶段，空间推进即代表时间演变。采用标准等距视角（2:1），丰富的层次深度与流畅过渡。每个阶段分配3-5个与主题强烈关联的象征元素，并用差异化色彩暗示时间流动。在场景中融入双语像素字体标题：中文"[主题中文]演进史"与英文"EVOLUTION OF Western Art Development"，加上起止阶段的双语副标题及关键时间节点标记。整体风格专业且具视觉张力，适合学术分析与对比可视化，直接出图。 [English] Create an ultra-high-detail isometric pixel art timeline illustration (3:4, 4K), integrating detail density, symbolism, and metaphor. The user-specified theme is [Western Art Development]. First, reason around Western Art Development to determine: the Chinese and English titles of the theme, the earliest and most recent historical periods covered, the starting stage label and the ending stage label, as well as 3-5 key evolution stages and their respective symbolic elements and color schemes. Then build an isometric "Evolution Museum" themed "Western Art Development", where each exhibition hall area represents an evolution stage, and spatial progression represents time evolution. Adopt a standard isometric perspective (2:1), rich layer depth, and smooth transitions. Allocate 3-5 symbolic elements strongly associated with the theme to each stage, and use differentiated colors to imply the flow of time. Integrate bilingual pixel font titles in the scene: Chinese "[Theme Chinese] Evolution History" and English "EVOLUTION OF Western Art Development", plus bilingual subtitles for the starting and ending stages and key time node markers. The overall style is professional and visually tense, suitable for academic analysis and comparative visualization, direct image output.
+a 3d realistic image of a skull made of glass, with blue light shining through, creating a glowing and transparent effect. The image has a black background and is rendered with octane, a high-performance rendering engine that produces realistic and stunning effects. The image has a mysterious and sci-fi vibe.
 ```
 
-By [@GeekCatX](https://x.com/GeekCatX/status/2046172416716759171)
+[Source](https://prompthero.com/prompt/3a9573c7b7d-dalle-3-blue-glass-skull)
 
 ---
 
-<a id="freestylefly-case-231"></a>
+<a id="prompthero-3c57d88bae9"></a>
 
-## 疾风起狂草艺术字体设计
+## \(Top Quality, Top Quality, Masterpiece\), Beautiful\.\.\.
 
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case231.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case231.jpg" width="480" alt="Source example"></a>
+<a href="https://cdn.prompthero.com/svycs4wzfp6skvckjjy2otgsri6p-dreamshaper-5-inpainting-fairy-top-quality-top-quality-masterpiece-beautiful-aesthetic-intricate-detail-super-detail-artistic-fantastic-vintage-style-cobalt-green-watercolor-vivid-colorful.png"><img src="https://cdn.prompthero.com/svycs4wzfp6skvckjjy2otgsri6p-dreamshaper-5-inpainting-fairy-top-quality-top-quality-masterpiece-beautiful-aesthetic-intricate-detail-super-detail-artistic-fantastic-vintage-style-cobalt-green-watercolor-vivid-colorful.png" width="480" alt="After"></a>
 
 **Prompt**
 
 ```text
-[中文] 创意艺术字体“纵有疾风起”，秀丽笔手写风格，整体文字横版排列，具有强烈视觉冲击力； 深度融合手写书法笔意，笔触带毛笔书写的粗犷洒脱，如挥毫泼墨的肆意劲道； 起收笔的飞白，顿挫，尽显促销的火爆张力，文字的形态打破规整，笔画的粗细变化； dutch angle，营造出动感冲刺的气势，字形呈奔放之势； 重心上扬如蓄势待发，笔画的伸展，穿插毫无拘束，似全力冲刺的劲道； 整体架构疏密交织，紧密处如促销热潮的汹涌，留白处似优惠间隙的呼吸感； 纯净黑色背景打底，完美契合热烈氛围，艺术字的形态与色彩酣畅传递。 [English] Creative artistic typography "Zong You Ji Feng Qi", hand-written style with a fine brush, overall text arranged horizontally, with strong visual impact; Deeply integrated with the essence of handwritten calligraphy, the brushstrokes carry the rugged and free-spirited nature of brush writing, like the unrestrained vigor of splashing ink; The flying white and pauses at the start and end of the strokes fully display the explosive tension of a promotion, the form of the text breaks away from neatness, with variations in the thickness of the strokes; dutch angle, creating a dynamic sprinting momentum, the font shape shows a bold and unrestrained trend; The center of gravity rises like being ready to launch, the stretching and interlacing of the strokes are completely unconstrained, like the vigor of a full-force sprint; The overall structure is intertwined with density and sparseness, the tight parts are like the surging of a promotional craze, and the blank spaces are like the breathing sense during promotional gaps; Pure black background as the base, perfectly fitting the passionate atmosphere, the form and color of the artistic typography are conveyed with full expressiveness.
+(Top Quality, Top Quality, Masterpiece), Beautiful Aesthetic, Intricate Detail, Super Detail, Artistic, Fantastic, Vintage Style, (Cobalt Green, Watercolor), Vivid, Colorful, Minimal, Russian girl, (Glamourous Fairy), Eyelashes, Slender body, leaf dress, flower, butterfly, plant, (fractal art, colorful pattern, zentangle:1.1), (simple background), (full body), sit, dynamic composition, UHD, HDR, 8K, (Masterpiece:1.5), (best quality:1.5)
 ```
 
-By [OpenNana](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-231)
+By [@ScArecrow23](https://prompthero.com/prompt/3c57d88bae9-dreamshaper-5-inpainting-fairy-top-quality-top-quality-masterpiece-beautiful-aesthetic-intricate-detail-super-detail-artistic-fantastic-vintage-style-cobalt-green-watercolor-vivid-colorful)
 
 ---
 
-**1** · [2](creative-art-2.md) · [3](creative-art-3.md) · [4](creative-art-4.md) · [5](creative-art-5.md) · [6](creative-art-6.md) · [7](creative-art-7.md) · [8](creative-art-8.md) · [9](creative-art-9.md) · [10](creative-art-10.md) · [11](creative-art-11.md) · [12](creative-art-12.md) · [13](creative-art-13.md)
+<a id="prompthero-3dcbf086e22"></a>
+
+## The image displays a captivating blend of natural \.\.\.
+
+<a href="https://cdn.prompthero.com/6m3nl4yeufn2sxsxscjnmqr1mpj4-flux-flux-11-pro-ultra-the-image-displays-a-captivating-blend-of-natural-elements-where-the-silhouette-of-a-bear-is-seamlessly-superimposed-with-a.jpg"><img src="https://cdn.prompthero.com/6m3nl4yeufn2sxsxscjnmqr1mpj4-flux-flux-11-pro-ultra-the-image-displays-a-captivating-blend-of-natural-elements-where-the-silhouette-of-a-bear-is-seamlessly-superimposed-with-a.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+The image displays a captivating blend of natural elements where the silhouette of a bear is seamlessly superimposed with a forest landscape. The bear, appearing in mid-stride, exhibits a mix of textures from its fur and the trees that fill its body, creating a double exposure effect. This artistic composition combines the earthy tones of the bear's fur with the subdued colors of the wintry forest, predominantly whites, browns, and grays, suggesting a thematic connection between the wildlife and its habitat. There's a softness to the image, conveyed by the gentle falling snow and the hazy atmosphere of the background, which sets a tranquil mood. This image evokes a sense of the bear's presence within and as a part of the wooded landscape it inhabits, highlighting a relationship between the animal and its environment.
+```
+
+[Source](https://prompthero.com/prompt/3dcbf086e22-flux-flux-11-pro-ultra-the-image-displays-a-captivating-blend-of-natural-elements-where-the-silhouette-of-a-bear-is-seamlessly-superimposed-with-a)
+
+---
+
+**1** · [2](creative-art-2.md) · [3](creative-art-3.md) · [4](creative-art-4.md) · [5](creative-art-5.md) · [6](creative-art-6.md) · [7](creative-art-7.md) · [8](creative-art-8.md) · [9](creative-art-9.md) · [10](creative-art-10.md) · [11](creative-art-11.md)
 
 [← Home](../README.md)

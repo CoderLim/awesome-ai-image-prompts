@@ -1,202 +1,10 @@
 # characters
 
-[← Home](../README.md) · Page 4 / 6
+[← Home](../README.md) · Page 4 / 5
 
-[1](characters.md) · [2](characters-2.md) · [3](characters-3.md) · **4** · [5](characters-5.md) · [6](characters-6.md)
+[1](characters.md) · [2](characters-2.md) · [3](characters-3.md) · **4** · [5](characters-5.md)
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
-
-<a id="prompthero-3922a5dbc75"></a>
-
-## \{\{Makoto Shinkai styled anime\}\}, adult woman, tran\.\.\.
-
-<a href="https://cdn.prompthero.com/2ehi6gk0085f18cvsfhj8p9dmcu2-flux-flux-11-pro-makoto-shinkai-styled-anime-adult-woman-transforming-into-evangelion-demonic-demon-inspired-mecha-fly-me-to-the-moon-beautiful-intricate.png"><img src="https://cdn.prompthero.com/2ehi6gk0085f18cvsfhj8p9dmcu2-flux-flux-11-pro-makoto-shinkai-styled-anime-adult-woman-transforming-into-evangelion-demonic-demon-inspired-mecha-fly-me-to-the-moon-beautiful-intricate.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-{{Makoto Shinkai styled anime}}, adult woman, transforming into Evangelion Demonic Demon inspired mecha, fly me to the moon, {{beautiful intricate triadic antique white colour hair}}, beautiful eyes, evil and cute, Burgundy red hoodie, mega robotic angel and devil wing, beautiful leg, full body, rich in details, luminism, masterpiece, three dimensional effect, 3d render, octane render, {{mix of bold dark lines and loose lines}}, Isometric, awesome full color, {{ultra detailed face}}, {{rule of third}}, 8k resolution,neon lighting
-```
-
-[Source](https://prompthero.com/prompt/3922a5dbc75-flux-flux-11-pro-makoto-shinkai-styled-anime-adult-woman-transforming-into-evangelion-demonic-demon-inspired-mecha-fly-me-to-the-moon-beautiful-intricate)
-
----
-
-<a id="prompthero-3994fb8e462"></a>
-
-## full body portrait of a beautiful fantasy creature\.\.\.
-
-<a href="https://cdn.prompthero.com/m7113au0l76ventdyikchqo8s1vk-dalle-3-full-body-portrait-of-a-beautiful-fantasy-creatureshinyprofessional-photography-masterpiece-unreal-engine-very-high-detailed-fantasy-planetwonderful-dream-version-by.jpg"><img src="https://cdn.prompthero.com/m7113au0l76ventdyikchqo8s1vk-dalle-3-full-body-portrait-of-a-beautiful-fantasy-creatureshinyprofessional-photography-masterpiece-unreal-engine-very-high-detailed-fantasy-planetwonderful-dream-version-by.jpg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-full body portrait of a beautiful fantasy creature,shiny,professional photography, masterpiece, unreal engine, very high detailed, Fantasy planet,wonderful, dream Version, By jean ansell and justin Gerard, greg rutkowski, dynamic lights, plants,fauna and flora,cinematic scene, fantastic, antique ancient ruins, coloured nebulas, misty
-```
-
-[Source](https://prompthero.com/prompt/3994fb8e462-dalle-3-full-body-portrait-of-a-beautiful-fantasy-creatureshinyprofessional-photography-masterpiece-unreal-engine-very-high-detailed-fantasy-planetwonderful-dream-version-by)
-
----
-
-<a id="prompthero-6013e361215"></a>
-
-## Masterpiece, best quality, realistic, colorful cin\.\.\.
-
-<a href="https://cdn.prompthero.com/oau402z2pauyphyzvru0jh7x6cnc-rev-animated-v122-masterpiece-best-quality-realistic-colorful-cinematic-lighting-photo-of-beautiful-tauwoman-fire-warrior-with-updo-white-hair-wearing-technologically-advanced.jpg"><img src="https://cdn.prompthero.com/oau402z2pauyphyzvru0jh7x6cnc-rev-animated-v122-masterpiece-best-quality-realistic-colorful-cinematic-lighting-photo-of-beautiful-tauwoman-fire-warrior-with-updo-white-hair-wearing-technologically-advanced.jpg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-Masterpiece, best quality, realistic, colorful cinematic lighting, photo of, (beautiful [T'au|woman] fire warrior with updo white hair), (wearing technologically advanced armor), ((perfect face)), pretty eyes, ((blue skin)), [alien], Shas Warrior, Warhammer 40k, fanart, vivid details, vibrant colors, background is landscape of alien planet, (mountains:0.9), (lush vegetation), detailed background, dynamic pose, aggressive look, complex, RTX, (bloom:0.5), (lens flare:0.5), (intricate galaxy and star cluster in the night sky above), sci-fi, 50mm prime lens, F/2.8 aperture, (highly detailed, hyperdetailed), hyper realistic, lifelike texture, photorealistic, 8k, sharp focus, unreal engine, ENB, cinestill 800
-```
-
-[Source](https://prompthero.com/prompt/6013e361215-rev-animated-v122-masterpiece-best-quality-realistic-colorful-cinematic-lighting-photo-of-beautiful-tauwoman-fire-warrior-with-updo-white-hair-wearing-technologically-advanced)
-
----
-
-<a id="prompthero-8074f6fa3df"></a>
-
-## Create an epic anime-style smartphone wallpaper o\.\.\.
-
-<a href="https://cdn.prompthero.com/v1_4c782f75282cc62fe9446e95f6-hero-10-create-an-epic-anime-style-smartphone-wallpaper-of-a-powerful-young-warrior-standing-on-a-mountain-at-night-glowing-blue.jpg"><img src="https://cdn.prompthero.com/v1_4c782f75282cc62fe9446e95f6-hero-10-create-an-epic-anime-style-smartphone-wallpaper-of-a-powerful-young-warrior-standing-on-a-mountain-at-night-glowing-blue.jpg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-Create an epic anime-style smartphone wallpaper of a powerful young warrior standing on a mountain at night, glowing blue energy surrounding him, dramatic clouds, huge moon in the background, wind-blown clothes and hair, cinematic lighting, highly detailed anime artwork, vibrant atmosphere, 4K, no text, no watermark, vertical 9:16.
-```
-
-[Source](https://prompthero.com/prompt/8074f6fa3df-hero-10-create-an-epic-anime-style-smartphone-wallpaper-of-a-powerful-young-warrior-standing-on-a-mountain-at-night-glowing-blue)
-
----
-
-<a id="prompthero-8646c575b4f"></a>
-
-## Ultra realistic looking DND character, \), hooded g\.\.\.
-
-<a href="https://cdn.prompthero.com/dkwiylxsd1vss9mwbd9rair6ms9a-flux-flux1-schnell-ultra-realistic-looking-dnd-character-hooded-giant-ogre-holding-a-giant-cursed-axe-and-walking-menacing-walking-over-crushed-skeletons.jpg"><img src="https://cdn.prompthero.com/dkwiylxsd1vss9mwbd9rair6ms9a-flux-flux1-schnell-ultra-realistic-looking-dnd-character-hooded-giant-ogre-holding-a-giant-cursed-axe-and-walking-menacing-walking-over-crushed-skeletons.jpg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-Ultra realistic looking DND character, ), hooded giant ogre, holding a giant cursed axe and walking menacing, walking over crushed skeletons, golden ornamented bracelets, jeweled belt, and necklaces. Facing him, stands a tiny barefoot female warrior with full armor, arms extended to the sides, holding a sword and a dagger, standing confidently, dramatic scene, cinematic
-```
-
-[Source](https://prompthero.com/prompt/8646c575b4f-flux-flux1-schnell-ultra-realistic-looking-dnd-character-hooded-giant-ogre-holding-a-giant-cursed-axe-and-walking-menacing-walking-over-crushed-skeletons)
-
----
-
-<a id="prompthero-8835fde2fda"></a>
-
-## 1800s a sikh king, wearing turban and Japanese mec\.\.\.
-
-<a href="https://cdn.prompthero.com/b6qtmb1uxadqi2clpa82st52qkx9-midjourney-6-1800s-a-sikh-king-wearing-turban-and-japanese-mecha-exoskeleton-gundam-suit-warhammer-long-heavy-cape-the-carbon-fibre-exoskeleton.jpg"><img src="https://cdn.prompthero.com/b6qtmb1uxadqi2clpa82st52qkx9-midjourney-6-1800s-a-sikh-king-wearing-turban-and-japanese-mecha-exoskeleton-gundam-suit-warhammer-long-heavy-cape-the-carbon-fibre-exoskeleton.jpg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-1800s a sikh king, wearing turban and Japanese mecha exoskeleton gundam suit warhammer; long heavy cape; the carbon fibre exoskeleton suit is engraved with gold Punjabi letters giving the suit magical powers; like billelis art, face covered with metal cover, front view, chest visible, subject in centre of image, kneeling down pose and picking up a flower in desolate desert, the armour is made of neo-futuristic technology, romanticise it, crossover between modern history and neo-futuristic technology, peaceful calm barren desert, background never-ending desert, daytime natural lighting, blink and miss details, inspired by Akira and star wars, painstaking attention paid to the details, blink and miss details, Akira Kurosawa, art by Norman Rockwell Syd mead Boris Vallejo Jean giraud moebius John Berkey Eugéne Delacroix Rembrandt Van Rijn, --v 6 --ar 5:8 --stylize 1000
-```
-
-[Source](https://prompthero.com/prompt/8835fde2fda-midjourney-6-1800s-a-sikh-king-wearing-turban-and-japanese-mecha-exoskeleton-gundam-suit-warhammer-long-heavy-cape-the-carbon-fibre-exoskeleton)
-
----
-
-<a id="prompthero-17135eeac2e"></a>
-
-## a realistic photo of world war one cyborg soldiar,\.\.\.
-
-<a href="https://cdn.prompthero.com/vp7yuhd0se9eva9kxqyyos2lspx3-flux-flux-11-pro-a-realistic-photo-of-world-war-one-cyborg-soldiar-one-hand-robot-futurastic-gun-in-a-aggrasive-battlefield-yell-nad.jpg"><img src="https://cdn.prompthero.com/vp7yuhd0se9eva9kxqyyos2lspx3-flux-flux-11-pro-a-realistic-photo-of-world-war-one-cyborg-soldiar-one-hand-robot-futurastic-gun-in-a-aggrasive-battlefield-yell-nad.jpg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-a realistic photo of world war one cyborg soldiar, one hand robot, futurastic gun, in a aggrasive battlefield, yell nad charghinf toward enemy, soldiar attaking in background, smoke in air, fogy weather, 19 century photo style, quality of 19s picture, noisy, high quality, high teck but ww1 style, good hadn , good finger, reealistic skin, realistic cloth, fabric detail, fabric texture, highly texture, good
-```
-
-[Source](https://prompthero.com/prompt/17135eeac2e-flux-flux-11-pro-a-realistic-photo-of-world-war-one-cyborg-soldiar-one-hand-robot-futurastic-gun-in-a-aggrasive-battlefield-yell-nad)
-
----
-
-<a id="prompthero-75322d5747b"></a>
-
-## Full body view of a geisha-ninja fusion, set in a \.\.\.
-
-<a href="https://cdn.prompthero.com/xpa9haxzzp93m8erztbm63gldsax-flux-flux-11-pro-full-body-view-of-a-geisha-ninja-fusion-set-in-a-stylized-destroyed-japanese-village-detailed-ornamental-textures-her-kimono.jpg"><img src="https://cdn.prompthero.com/xpa9haxzzp93m8erztbm63gldsax-flux-flux-11-pro-full-body-view-of-a-geisha-ninja-fusion-set-in-a-stylized-destroyed-japanese-village-detailed-ornamental-textures-her-kimono.jpg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-Full body view of a geisha-ninja fusion, set in a stylized, destroyed Japanese village. Detailed ornamental textures. Her kimono-armor hybrid is full of intricate red and black leaf designs, organic shapes, and flowing fabrics. Barefoot. Her pose is graceful and symbolic, with one hand resting on a katana. Her face is calm and mysterious, partially covered by an ornate mask. The background features stylized wooden house ruins, abstract cherry tree branches, and sparkling mosaic-like details. The composition is flat but rich, decorative, and harmonious. A Klimt-inspired Art Nouveau masterpiece, with a strong focus on form, fluidity, and ornamentation. High detail, full body, painterly texture.
-```
-
-[Source](https://prompthero.com/prompt/75322d5747b-flux-flux-11-pro-full-body-view-of-a-geisha-ninja-fusion-set-in-a-stylized-destroyed-japanese-village-detailed-ornamental-textures-her-kimono)
-
----
-
-<a id="prompthero-93443d90021"></a>
-
-## medium close up, stunning illustration of a demoni\.\.\.
-
-<a href="https://cdn.prompthero.com/b2vo60oiyvxgrqed5xyjibpcab9o-stable-diffusion-xl-base-09-medium-close-up-stunning-illustration-of-a-demonic-warrior-in-black-medieval-armor-masked-face-cloak-epic-composition-proud-stormy.png"><img src="https://cdn.prompthero.com/b2vo60oiyvxgrqed5xyjibpcab9o-stable-diffusion-xl-base-09-medium-close-up-stunning-illustration-of-a-demonic-warrior-in-black-medieval-armor-masked-face-cloak-epic-composition-proud-stormy.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-medium close up, stunning illustration of a demonic warrior in black medieval armor, masked face, cloak, epic composition, proud, stormy weather, foggy, dark fantasy, gloomy, dramatic, emotional depth, absurdres, maximum details, by Milo Manara and Russ Mills, detailed illustration, 8k, very intricate, insanely detailed
-```
-
-By [@ArtEnthusiast](https://prompthero.com/prompt/93443d90021-stable-diffusion-xl-base-09-medium-close-up-stunning-illustration-of-a-demonic-warrior-in-black-medieval-armor-masked-face-cloak-epic-composition-proud-stormy)
-
----
-
-<a id="prompthero-180119bda58"></a>
-
-## A futuristic ninja warrior standing confidently in\.\.\.
-
-<a href="https://cdn.prompthero.com/uk349x2tggc4czw07rvcl5hadr-juggernaut-v15-a-futuristic-ninja-warrior-standing-confidently-in-a-desolate-post-apocalyptic-landscape-engulfed-in-flames-the-ninja-is-clad-in.jpeg"><img src="https://cdn.prompthero.com/uk349x2tggc4czw07rvcl5hadr-juggernaut-v15-a-futuristic-ninja-warrior-standing-confidently-in-a-desolate-post-apocalyptic-landscape-engulfed-in-flames-the-ninja-is-clad-in.jpeg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-A futuristic ninja warrior standing confidently in a desolate, post-apocalyptic landscape engulfed in flames. The ninja is clad in sleek, black, high-tech armor with glowing golden energy accents. The armor incorporates a helmet with a glowing visor, and a katana strapped to the back. The ninja is holding another katana in hand. The background is filled with a raging inferno and the remnants of destroyed vehicles. The overall atmosphere is dramatic, intense, and cinematic. Style: Cyberpunk, futuristic, cinematic, epic Quality: Ultra detailed, high resolution, 8k, photorealistic Lighting: Dramatic, volumetric lighting, fire glow Colors: Dominantly black and gold, with fiery orange and brown accents Composition: Wide shot, centered composition, strong perspective.
-```
-
-[Source](https://prompthero.com/prompt/180119bda58-juggernaut-v15-a-futuristic-ninja-warrior-standing-confidently-in-a-desolate-post-apocalyptic-landscape-engulfed-in-flames-the-ninja-is-clad-in)
-
----
-
-<a id="prompthero-749037c63d6"></a>
-
-## porcelain white with blue paint and gold , cyber, \.\.\.
-
-<a href="https://cdn.prompthero.com/sym133f8ls3qr4icmjq6a069iz45-flux-flux-11-pro-ultra-porcelain-white-with-blue-paint-and-gold-cyber-8k-ultra-realistic-cyborg-transhumanism-futuristic-warrior-bald-head-mask-standing-stoic.jpg"><img src="https://cdn.prompthero.com/sym133f8ls3qr4icmjq6a069iz45-flux-flux-11-pro-ultra-porcelain-white-with-blue-paint-and-gold-cyber-8k-ultra-realistic-cyborg-transhumanism-futuristic-warrior-bald-head-mask-standing-stoic.jpg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-porcelain white with blue paint and gold , cyber, 8k, ultra realistic, cyborg, transhumanism, futuristic, warrior, bald head, mask, standing stoic, in the dark dystopian city, the concrete is wet and his reflection appears. Have him holding a large mecha machine gun, gears of war.  Blade runner color palette.
-```
-
-[Source](https://prompthero.com/prompt/749037c63d6-flux-flux-11-pro-ultra-porcelain-white-with-blue-paint-and-gold-cyber-8k-ultra-realistic-cyborg-transhumanism-futuristic-warrior-bald-head-mask-standing-stoic)
-
----
-
-<a id="prompthero-914313f2f1e"></a>
-
-## realistic render, cyberpunk, front central view, u\.\.\.
-
-<a href="https://cdn.prompthero.com/spzhkzmkfthp3zfo97wt5h32zi-midjourney-shatter-realistic-render-cyberpunk-front-central-view-upper-body-skeletal-teeth-and-jaw-reflective-black-alloy-futuristic-skeletal-figure-lily-in.png"><img src="https://cdn.prompthero.com/spzhkzmkfthp3zfo97wt5h32zi-midjourney-shatter-realistic-render-cyberpunk-front-central-view-upper-body-skeletal-teeth-and-jaw-reflective-black-alloy-futuristic-skeletal-figure-lily-in.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-realistic render, cyberpunk, front central view, upper-body, skeletal teeth and jaw, reflective black alloy futuristic skeletal figure, lily in one's hand, intricate cyborg details with matte silver steel and egg-shell black finishes, solid black background, studio lighting setup with soft diffused highlights, extreme quality, low-key, HDRI, hyper-detailed materials, cinematic framing --ar 9:16 --raw
-```
-
-By [@Grayve](https://prompthero.com/prompt/914313f2f1e-midjourney-shatter-realistic-render-cyberpunk-front-central-view-upper-body-skeletal-teeth-and-jaw-reflective-black-alloy-futuristic-skeletal-figure-lily-in)
-
----
 
 <a id="prompthero-1868333b964"></a>
 
@@ -326,6 +134,198 @@ Sanctuary, Temple, Devil fairy(female), dark magic, Devil soul, Jinn, Demon, div
 
 ---
 
-[1](characters.md) · [2](characters-2.md) · [3](characters-3.md) · **4** · [5](characters-5.md) · [6](characters-6.md)
+<a id="prompthero-abb042406c8"></a>
+
+## Futuristic cyborg girl featuring a captivating cyb\.\.\.
+
+<a href="https://cdn.prompthero.com/xgv8pwsyt9caxapls4a7v46ceygz-stable-diffusion-15-futuristic-cyborg-girl-featuring-a-captivating-cybernetic-helmet-adorned-with-vibrant-triangular-red-led-lights-forming-a-halo-around-her.png"><img src="https://cdn.prompthero.com/xgv8pwsyt9caxapls4a7v46ceygz-stable-diffusion-15-futuristic-cyborg-girl-featuring-a-captivating-cybernetic-helmet-adorned-with-vibrant-triangular-red-led-lights-forming-a-halo-around-her.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+Futuristic cyborg girl featuring a captivating cybernetic helmet adorned with vibrant triangular red LED lights, forming a halo around her head. Clothe her in a sleek black Techwear jacket, adding a modern and functional touch to her ensemble. Position the cyborg girl against a white background to accentuate her entire body and showcase the intricate details of the futuristic design. Ensure that the representation emphasizes the seamless integration of human and technological elements, reflecting an advanced and forward-looking aesthetic. This proposed setting provides an opportunity to craft a visually stunning portrayal, where the contrast between futuristic design and modern elements becomes a standout feature
+```
+
+[Source](https://prompthero.com/prompt/abb042406c8-stable-diffusion-15-futuristic-cyborg-girl-featuring-a-captivating-cybernetic-helmet-adorned-with-vibrant-triangular-red-led-lights-forming-a-halo-around-her)
+
+---
+
+<a id="prompthero-abf296ec3e6"></a>
+
+## Creature Feature: Demon
+
+<a href="https://cdn.prompthero.com/6hgotq2mwzjw2s1nr2pne1xyyl48-stable-diffusion-xl-base-09-creature-feature-demon.jpg"><img src="https://cdn.prompthero.com/6hgotq2mwzjw2s1nr2pne1xyyl48-stable-diffusion-xl-base-09-creature-feature-demon.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+A photo of a very scary and terrifying hellish demon, reddish tint, cinematic, backlight, smoke effect, melancholy, dynamic lighting, dark background <lora:ClassipeintXL1.9:1>
+```
+
+By [@abyishot](https://prompthero.com/prompt/abf296ec3e6-stable-diffusion-xl-base-09-creature-feature-demon)
+
+---
+
+<a id="prompthero-adb8ddaa604"></a>
+
+## Create a retro-futuristic style image featuring a \.\.\.
+
+<a href="https://cdn.prompthero.com/v1_1356b0d75454f6aa3ee9f7b467-chatgpt-image-gpt-image-25-create-a-retro-futuristic-style-image-featuring-a-solitary-robot-standing-in-a-vast-desert-on-an-unknown-planet-the.png"><img src="https://cdn.prompthero.com/v1_1356b0d75454f6aa3ee9f7b467-chatgpt-image-gpt-image-25-create-a-retro-futuristic-style-image-featuring-a-solitary-robot-standing-in-a-vast-desert-on-an-unknown-planet-the.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+Create a retro-futuristic style image featuring a solitary robot standing in a vast desert on an unknown planet. The robot should have a striking color scheme dominated by red and black, with numerous rust marks visible on its surface, giving it a weathered and aged appearance. The robot should be standing upright, exuding a sense of loneliness and abandonment. The background should depict a barren, alien landscape with multiple moons visible in the sky, enhancing the feeling of isolation and mystery. The overall atmosphere should blend elements of vintage sci-fi with futuristic technology, evoking a sense of nostalgia and wonder
+```
+
+By [@chorlo](https://prompthero.com/prompt/adb8ddaa604-chatgpt-image-gpt-image-25-create-a-retro-futuristic-style-image-featuring-a-solitary-robot-standing-in-a-vast-desert-on-an-unknown-planet-the)
+
+---
+
+<a id="prompthero-b1a990cf541"></a>
+
+## 3d render, best quality, ultra realic, ultimate de\.\.\.
+
+<a href="https://cdn.prompthero.com/u79zu1him684myedpl38hi62i87y-dalle-3-3d-render-best-quality-ultra-realic-ultimate-detailed-dynamic-low-angle-half-body-shot-stunning-charismatic-humanod-robot-intricate-impressive.jpg"><img src="https://cdn.prompthero.com/u79zu1him684myedpl38hi62i87y-dalle-3-3d-render-best-quality-ultra-realic-ultimate-detailed-dynamic-low-angle-half-body-shot-stunning-charismatic-humanod-robot-intricate-impressive.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+3d render, best quality, ultra realic, ultimate detailed, dynamic low angle, half-body shot : stunning charismatic humanoïd robot, intricate impressive mechanism opening face, porcelain matte materials, soft colors, expressive eyes, intricate tiniest details, realistic natural textures, high level of reflections
+```
+
+[Source](https://prompthero.com/prompt/b1a990cf541-dalle-3-3d-render-best-quality-ultra-realic-ultimate-detailed-dynamic-low-angle-half-body-shot-stunning-charismatic-humanod-robot-intricate-impressive)
+
+---
+
+<a id="prompthero-b765d8da5ca"></a>
+
+## a young east asian woman posing in futuristic att\.\.\.
+
+<a href="https://cdn.prompthero.com/v1_61599c302487780ebe195aeba6-seedream-5-seedream-5-pro-a-young-east-asian-woman-posing-in-futuristic-attire-against-a-solid-light-gray-background-she-is-equipped-with-a.jpg"><img src="https://cdn.prompthero.com/v1_61599c302487780ebe195aeba6-seedream-5-seedream-5-pro-a-young-east-asian-woman-posing-in-futuristic-attire-against-a-solid-light-gray-background-she-is-equipped-with-a.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+a young east asian woman posing in futuristic attire against a solid light gray background. she is equipped with a large white mechanical apparatus on her back resembling a robotic wing, featuring the bold black text "rog". her left arm has a white cybernetic plate on the forearm and the letters "vac" on the bicep. she wears a flowing white dress with a translucent outer skirt and white mechanical boots. the shot is captured from a low angle, emphasizing the technological and mechanical design
+```
+
+By [@chorlo](https://prompthero.com/prompt/b765d8da5ca-seedream-5-seedream-5-pro-a-young-east-asian-woman-posing-in-futuristic-attire-against-a-solid-light-gray-background-she-is-equipped-with-a)
+
+---
+
+<a id="prompthero-b651733a2cf"></a>
+
+## “A brave little girl exploring an enchanted forest\.\.\.
+
+<a href="https://cdn.prompthero.com/xa038zl3hnzbcxzous6y6pczmv-nano-banana-nano-banana-2-a-brave-little-girl-exploring-an-enchanted-forest-3d-render-cinematic-lighting-magical-atmosphere-ultra-detailed-vibrant-colors.jpeg"><img src="https://cdn.prompthero.com/xa038zl3hnzbcxzous6y6pczmv-nano-banana-nano-banana-2-a-brave-little-girl-exploring-an-enchanted-forest-3d-render-cinematic-lighting-magical-atmosphere-ultra-detailed-vibrant-colors.jpeg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+“A brave little girl exploring an enchanted forest, 3D render, cinematic lighting, magical atmosphere, ultra detailed, vibrant colors”
+```
+
+[Source](https://prompthero.com/prompt/b651733a2cf-nano-banana-nano-banana-2-a-brave-little-girl-exploring-an-enchanted-forest-3d-render-cinematic-lighting-magical-atmosphere-ultra-detailed-vibrant-colors)
+
+---
+
+<a id="prompthero-b72678492ea"></a>
+
+## young girl with a red robot suit standing in the r\.\.\.
+
+<a href="https://cdn.prompthero.com/ge92px9rjko5wqn92m0asdlprzc1-midjourney-6-young-girl-with-a-red-robot-suit-standing-in-the-rain-in-the-style-of-detailed-hyperrealism-skottie-young-32k.png"><img src="https://cdn.prompthero.com/ge92px9rjko5wqn92m0asdlprzc1-midjourney-6-young-girl-with-a-red-robot-suit-standing-in-the-rain-in-the-style-of-detailed-hyperrealism-skottie-young-32k.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+young girl with a red robot suit standing in the rain, in the style of detailed hyperrealism, skottie young, 32k uhd, daria endresen, close up, webcore, eve ventrue --ar 9:16 --stylize 750 --v 6
+```
+
+By [@NorthmoorAI](https://prompthero.com/prompt/b72678492ea-midjourney-6-young-girl-with-a-red-robot-suit-standing-in-the-rain-in-the-style-of-detailed-hyperrealism-skottie-young-32k)
+
+---
+
+<a id="prompthero-bb9e5b3bb0d"></a>
+
+## digital wallpaper, a brutal cyborg samurai in cybe\.\.\.
+
+<a href="https://cdn.prompthero.com/lfjzyl0e9upcbm2wvzy1h7kkuyvx-stable-diffusion-xl-base-09-digital-wallpaper-a-brutal-cyborg-samurai-in-cyberpunk-armor-alone-glowing-elements-intricate-armor-night-rainy-epic-scene-fearless-proud.png"><img src="https://cdn.prompthero.com/lfjzyl0e9upcbm2wvzy1h7kkuyvx-stable-diffusion-xl-base-09-digital-wallpaper-a-brutal-cyborg-samurai-in-cyberpunk-armor-alone-glowing-elements-intricate-armor-night-rainy-epic-scene-fearless-proud.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+digital wallpaper, a brutal cyborg samurai in cyberpunk armor, alone, glowing elements, intricate armor, night, rainy, epic scene, fearless, proud pose, digital art, painting style, by Milo Manara and Russ Mills, dramatic lighting, emotionally profound, unforgettable, very intricate
+```
+
+By [@ArtEnthusiast](https://prompthero.com/prompt/bb9e5b3bb0d-stable-diffusion-xl-base-09-digital-wallpaper-a-brutal-cyborg-samurai-in-cyberpunk-armor-alone-glowing-elements-intricate-armor-night-rainy-epic-scene-fearless-proud)
+
+---
+
+<a id="prompthero-bd55618b5d3"></a>
+
+## Hyperdetailed cyborg half body shot, feminine andr\.\.\.
+
+<a href="https://cdn.prompthero.com/bzfmnit3d3vuse6td86jdzgh0gnb-flux-flux1-dev-hyperdetailed-cyborg-half-body-shot-feminine-android-with-glossy-white-porcelain-skin-sleek-black-bob-haircut-ultra-realistic-eyes-with.png"><img src="https://cdn.prompthero.com/bzfmnit3d3vuse6td86jdzgh0gnb-flux-flux1-dev-hyperdetailed-cyborg-half-body-shot-feminine-android-with-glossy-white-porcelain-skin-sleek-black-bob-haircut-ultra-realistic-eyes-with.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+Hyperdetailed cyborg half body shot, feminine android with glossy white porcelain skin, sleek black bob haircut, ultra-realistic eyes with long lashes, intricate mechanical components in silver and chrome, glowing red LED accents and power circuits, detailed hydraulic tubes and biomechanical connections, translucent white polymer armor with subtle iridescent sheen, holographic interface elements, ancient techno-hieroglyphics etched into armor plating, key lighting from front right angle, professional studio lighting, 8k resolution, octane render, hyper-realistic texturing, precision mechanical details, clean white background, cyberpunk aesthetic, inspired by Japanese sci-fi art, ultra sharp focus, ray traced reflections on metallic surfaces, photorealistic skin textures blending into mechanical elements
+```
+
+By [@AkiraS](https://prompthero.com/prompt/bd55618b5d3-flux-flux1-dev-hyperdetailed-cyborg-half-body-shot-feminine-android-with-glossy-white-porcelain-skin-sleek-black-bob-haircut-ultra-realistic-eyes-with)
+
+---
+
+<a id="prompthero-be5860618aa"></a>
+
+## An imposing, close-up shot of a towering Evangelio\.\.\.
+
+<a href="https://cdn.prompthero.com/mses1z98x18d61iy1ujx0qepfr0b-nano-banana-nano-banana-an-imposing-close-up-shot-of-a-towering-evangelion-unit-01-head-rendered-in-vibrant-hard-surface-detail-against-a.jpeg"><img src="https://cdn.prompthero.com/mses1z98x18d61iy1ujx0qepfr0b-nano-banana-nano-banana-an-imposing-close-up-shot-of-a-towering-evangelion-unit-01-head-rendered-in-vibrant-hard-surface-detail-against-a.jpeg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+An imposing, close-up shot of a towering Evangelion Unit-01 head, rendered in vibrant, hard-surface detail against a deep, crimson red backdrop. The mech's angular head, a striking blend of purple armor plating accented with sharp, emerald green details and black shadows, dominates the frame. Its distinctive horn, a long, conical structure, rises prominently, catching the light and casting subtle shadows. The mouth of the unit is open, revealing what appears to be a metallic 'jaw' with a sharp, aggressive design. The lighting is dramatic, with the red background creating a stark contrast against the machine's metallic surfaces. The composition is from a medium-low angle, giving a sense of the Evangelion's imposing size. The overall mood is one of power and intensity, enhanced by the sharp lines and bold color choices, reminiscent of anime aesthetics, and high-quality modeling, ultra-realistic, octane render.
+```
+
+[Source](https://prompthero.com/prompt/be5860618aa-nano-banana-nano-banana-an-imposing-close-up-shot-of-a-towering-evangelion-unit-01-head-rendered-in-vibrant-hard-surface-detail-against-a)
+
+---
+
+<a id="prompthero-c9e76e6679b"></a>
+
+## A professional character design model sheet for an\.\.\.
+
+<a href="https://cdn.prompthero.com/v1_0885d594160f92986de877e7c3-grok-image-grok-imagine-image-2-a-professional-character-design-model-sheet-for-an-original-creature-ip-character-named-a-deng-a-small-ancient-chinese-spirit.jpg"><img src="https://cdn.prompthero.com/v1_0885d594160f92986de877e7c3-grok-image-grok-imagine-image-2-a-professional-character-design-model-sheet-for-an-original-creature-ip-character-named-a-deng-a-small-ancient-chinese-spirit.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+A professional character design model sheet for an original creature IP character named "A-Deng," a small ancient Chinese spirit guardian beast called "Lantern Guardian Beast." The sheet shows three full-body views: front, side, and back, arranged on a clean off-white studio background. The creature is small (about 30cm tall), with a round, low-center-of-gravity body shaped like a sprouting seed. Its body has a semi-translucent warm jade texture, blending warm rice-white, soft cinnabar red, and deep night-blue tones. Two short ears resemble half-unfolded paper lantern tassels or miniature mountain peaks. On its chest is a natural glowing "lamp wick mark" — a small, warm amber light symbol shaped like a flame seed. Its tail is not fur but a wisp of tangible warm light that can gather, scatter, or tie into knots. It has small stubby legs, walking slightly clumsily. The design style merges traditional Chinese lantern aesthetics with modern mascot character design — think a crossover between a Japanese chin teddy, a lotus seed pod, and a glowing paper lantern. Studio lighting, soft shadows, subtle rim light. Annotations in clean minimalist labels. High detail, 3D-render quality but with a handcrafted, rice-paper feel.
+```
+
+[Source](https://prompthero.com/prompt/c9e76e6679b-grok-image-grok-imagine-image-2-a-professional-character-design-model-sheet-for-an-original-creature-ip-character-named-a-deng-a-small-ancient-chinese-spirit)
+
+---
+
+<a id="prompthero-c83306f05de"></a>
+
+## Hyper detailed goddess with skin made of liquid me\.\.\.
+
+<a href="https://cdn.prompthero.com/v1_d80c97d2def4b486e7e338d21f-stable-diffusion-35-large-hyper-detailed-goddess-with-skin-made-of-liquid-metal-cyberpunk-style-on-a-futuristic-beach-a-golden-glowing-core-beating.jpeg"><img src="https://cdn.prompthero.com/v1_d80c97d2def4b486e7e338d21f-stable-diffusion-35-large-hyper-detailed-goddess-with-skin-made-of-liquid-metal-cyberpunk-style-on-a-futuristic-beach-a-golden-glowing-core-beating.jpeg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+Hyper detailed goddess with skin made of liquid metal (Cyberpunk style) on a futuristic beach, a golden glowing core beating inside the chest sending energy to whole body,  her hair is made of glass and glowing fiber optics,  facing viewer. 35mm shot,  f4.6,  sharp focus,  bokeh,  glow_in_the_dark,  eye_glow,  luminescence,  perfect composition. Lumen,  RTX,  reflections
+```
+
+By [@userebk82](https://prompthero.com/prompt/c83306f05de-stable-diffusion-35-large-hyper-detailed-goddess-with-skin-made-of-liquid-metal-cyberpunk-style-on-a-futuristic-beach-a-golden-glowing-core-beating)
+
+---
+
+[1](characters.md) · [2](characters-2.md) · [3](characters-3.md) · **4** · [5](characters-5.md)
 
 [← Home](../README.md)
