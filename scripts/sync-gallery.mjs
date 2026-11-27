@@ -28,6 +28,7 @@ export async function runSync(snapshot,io,{dryRun=false,allowLarge=false,forceMe
   const {mediaType,records,restricted}=snapshot;
   if(mediaType!=='image')throw Error('Only image sync is implemented');
   if(new Set(records.map(r=>r.id)).size!==records.length || records.some(r=>r.media_type!==mediaType))throw Error('Invalid export');
+  if(records.some(r=>r.author?.publicationStatus==='pending-review'))throw Error('Pending records cannot enter the publication sync');
   const existing=await io.list(mediaType);
   await io.assertNoCollisions(records,mediaType);
   const unlicensed=new Set(snapshot.unlicensed??[]);
@@ -47,12 +48,6 @@ export async function runSync(snapshot,io,{dryRun=false,allowLarge=false,forceMe
   const ready=[],failures=[];
   for(const r of records){
     try{
-      // The private D1 catalog includes pending cases, but they must not cause
-      // third-party files to be copied to R2 or contain reusable R2 keys.
-      if(r.author?.publicationStatus==='pending-review'){
-        ready.push({...r,media:r.media.map(({type,role,originalUrl})=>({type,role,originalUrl}))});
-        continue;
-      }
       const media=[];
       for(const m of r.media){
         const old=mediaMap.get(m.originalUrl);
