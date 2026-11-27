@@ -33,7 +33,7 @@ jobs:
   sync:
     if: github.ref == 'refs/heads/main'
     runs-on: ubuntu-latest
-    timeout-minutes: 300
+    timeout-minutes: 480
     steps:
       - uses: actions/checkout@v4
         with:
