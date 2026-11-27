@@ -32,7 +32,7 @@ function controls(){
  $('featureBatch').disabled=busy||![...selection].some(id=>!excluded[id]&&!isFeatured(id));
  $('unfeatureBatch').disabled=busy||![...selection].some(isFeatured);
  const active=cards.filter(r=>isFeatured(r.id)&&!excluded[r.id]);
- const published=active.filter(r=>!r.candidate).length;
+ const approved=active.filter(r=>statuses[r.id]==='approved').length;
  $('featuredHint').textContent=featured===null?'尚未人工精选；README 暂用原自动预览。首次精选后只展示人工选择的已入库案例。':'已精选 '+featured.length+' 条 · 可展示 '+published+' · 当前队列待入库 '+(active.length-published)+' · 删除/未加载的精选不会进入 README。';
  $('counts').textContent='待审核 '+cards.filter(r=>statuses[r.id]==='pending').length+' · 已通过 '+cards.filter(r=>statuses[r.id]==='approved').length+' · 已排除 '+cards.filter(r=>statuses[r.id]==='rejected').length+' · 当前筛选 '+filtered.length;
 }

@@ -1,5 +1,6 @@
 import {test} from 'node:test';
 import assert from 'node:assert/strict';
+import {reviewFingerprint} from './review-status.mjs';
 import {classifyContent,govern,governanceFiles,selectCanonical,galleryView} from './governance.mjs';
 const make=(id,p,title='Generic')=>({id,title:{en:title},prompt:{original:p},inputMode:'unknown',sourcePreview:{images:[{url:'https://example.com/'+id+'.jpg'}]},provenance:{originalSource:{url:'https://x.com/test/status/123',postId:'123'},collectedFrom:[{path:'docs/gallery-part-1.md',url:'https://example.com/source'}]},rights:{prompt:'unknown',media:'unknown'}});
 test('actual prompt outranks misleading generic title',()=>{assert.equal(classifyContent(make('a','Create a UI/UX landing page mockup','Portrait')).category,'ui-mockups');});
@@ -61,4 +62,20 @@ test('manual exclusion withholds the entire duplicate component from canonical g
  assert.deepEqual(JSON.parse(governanceFiles(result)['data/governance/canonical.json']),[]);
  assert.equal(JSON.parse(governanceFiles(result)['data/governance/report.json']).manualExcluded,2);
  assert.equal(govern([a,b]).rows.filter(r=>r.reviewStatus!=='rejected').length,1);
+});
+
+test('one review state drives public gallery and approval never substitutes for source permission',()=>{
+ const a=make('a','Create a unique portrait'),b=make('b','Create an illustration'),c=make('c','Create a distinct poster');
+ b.provenance.originalSource={url:'https://example.com/b',postId:'b'};
+ c.provenance.originalSource={url:'https://example.com/c',postId:'c'};
+ a.rights=c.rights={prompt:'CC-BY-4.0',media:'CC-BY-4.0',evidence:'https://example.com/license'};
+ const approvals={a:reviewFingerprint(a),b:reviewFingerprint(b)};
+ const result=govern([a,b,c],[],approvals);
+ const taxonomy={generation:['portraits','illustrations','posters','other'],editing:['other']};
+ assert.deepEqual(result.rows.map(r=>r.reviewStatus),['approved','approved','pending']);
+ assert.deepEqual(galleryView(result.rows,taxonomy).rows.map(r=>r.id),['a']);
+ assert.equal(result.metadata.a.quality,undefined);
+ assert.equal(result.metadata.a.visible,undefined);
+ assert.deepEqual(JSON.parse(governanceFiles(result)['data/governance/report.json']).review,{pending:1,approved:2,rejected:0});
+ assert.equal(govern([{...a,prompt:{original:'Changed prompt'}}],[],approvals).rows[0].reviewStatus,'pending');
 });

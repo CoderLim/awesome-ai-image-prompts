@@ -14,7 +14,7 @@ test('local reviewer persists exclusion, rejects stale writes, restores case', {
  t.after(async()=>{if(child&&child.exitCode===null&&child.signalCode===null){const exited=once(child,'exit');child.kill();await exited;}fs.rmSync(root,{recursive:true,force:true});});
  const scripts=path.dirname(fileURLToPath(import.meta.url));
  fs.mkdirSync(path.join(root,'scripts'),{recursive:true});
- for(const f of ['review-images.mjs','review-images.html','review-exclusions.mjs','review-featured.mjs','review-local-queues.mjs','governance.mjs','x-source.mjs','audit-prompt-similarity.mjs','prompthero-preflight.mjs'])fs.copyFileSync(path.join(scripts,f),path.join(root,'scripts',f));
+ for(const f of ['review-images.mjs','review-images.html','review-exclusions.mjs','review-featured.mjs','review-local-queues.mjs','governance.mjs','review-status.mjs','publication-policy.mjs','x-source.mjs','audit-prompt-similarity.mjs','prompthero-preflight.mjs'])fs.copyFileSync(path.join(scripts,f),path.join(root,'scripts',f));
  fs.mkdirSync(path.join(root,'data/index'),{recursive:true});
  const make=(id,postId,prompt)=>({id,title:{en:id},prompt:{original:prompt},inputMode:'text-to-image',sourcePreview:{images:[{url:'https://example.com/'+id+'.jpg',role:'output'}]},provenance:{originalSource:{url:'https://example.com/'+id,postId},collectedFrom:[{sourceId:'fixture',path:'docs/gallery.md',url:'https://example.com/'+id}]},rights:{prompt:'unknown',media:'unknown'}});
  fs.writeFileSync(path.join(root,'data/index/test.json'),JSON.stringify([make('a','1','A cinematic portrait'),make('b','2','A different landscape')]));
@@ -54,4 +54,9 @@ test('local reviewer persists exclusion, rejects stale writes, restores case', {
  assert.equal((await write('unfeature',['a'],result.revision)).status,409);
  const empty=await (await write('unfeature',['a','b'],featured.revision)).json();
  assert.deepEqual(empty.featured,[]);
+ assert.equal(empty.statuses.a,'pending');
+ const approved=await (await write('approve',['a'],empty.revision)).json();
+ assert.equal(approved.statuses.a,'approved');
+ assert.match(JSON.parse(fs.readFileSync(path.join(root,'data/review/approvals.json'),'utf8')).a,/^[a-f0-9]{64}$/);
+ assert.equal((await write('approve',['b'],empty.revision)).status,409);
 });

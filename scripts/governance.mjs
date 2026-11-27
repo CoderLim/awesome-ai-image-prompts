@@ -90,7 +90,7 @@ export function selectCanonical(rows,duplicateGroups){
   if(component.length===1)continue;
   const ids=new Set(component.map(r=>r.id));
   const evidence=duplicateGroups.filter(g=>['exact-prompt','same-post'].includes(g.kind)&&g.ids.some(id=>ids.has(id))).map(g=>({kind:g.kind,ids:g.ids}));
-  for(const r of component.slice(1))removed.push({id:r.id,keptId:winner.id,wasVisible:r.reviewStatus!=='rejected',source:r.provenance.collectedFrom[0].url,evidence:evidence.filter(g=>g.ids.includes(r.id)).map(g=>g.kind)});
+  for(const r of component.slice(1))removed.push({id:r.id,keptId:winner.id,source:r.provenance.collectedFrom[0].url,evidence:evidence.filter(g=>g.ids.includes(r.id)).map(g=>g.kind)});
  }
  removed.sort((a,b)=>a.id.localeCompare(b.id,'en',{numeric:true}));kept.sort((a,b)=>a.localeCompare(b,'en',{numeric:true}));
  return {removed,kept};
@@ -113,6 +113,7 @@ export function govern(records,exclusions=[],approvals={}){
  if(/^(?:综合应用场景图|图像生成案例图|写实摄影风格图|信息图可视化设计|主题海报版式设计|建筑空间场景图|界面交互设计图|品牌视觉识别图|应用界面样机图)$/.test(title))flags.push('generic-title-review');
  for(const f of flagged.get(r.id)??[])flags.push('duplicate-candidate:'+f);
  if(manual.has(r.id))flags.push('manual-excluded');
+ if(withdrawn(r))flags.push('source-withdrawn');
  const excluded=manual.has(r.id)||flags.includes('missing-original-prompt')||flags.includes('missing-image-url')||withdrawn(r);
  const tagList=tags.filter(([,re])=>re.test((title+' '+p).toLowerCase())).map(([tag])=>tag);
  if(c.inputMode==='reference-to-image')tagList.push('reference-image');

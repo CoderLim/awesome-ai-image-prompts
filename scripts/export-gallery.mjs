@@ -31,7 +31,9 @@ export function exportGallery(root = '.') {
   const featured = manual ?? [...render([],view.rows.filter(r=>r.reviewStatus==='approved'&&eligible(r)&&!withdrawn(r)),view.taxonomy,null)['README.md']
     .matchAll(/<td[^>]*><a href="[^"#]+#([a-z0-9-]+)"/g)].map(m=>m[1]);
   const ranks=new Map(featured.map((id,i)=>[id,i+1]));
-  const counts=report.review;
+  const counts={pending:0,approved:0,rejected:0};
+  for(const row of result.rows)counts[row.reviewStatus]++;
+  if(Object.keys(counts).some(key=>counts[key]!==report.review?.[key]))throw Error('Stale review summary; run build/check');
   const records=[], excluded=[], pending=[], sourceUnavailable=[];
   for(const r of view.rows) {
     if(withdrawn(r)){excluded.push(r.id);continue;}
@@ -52,6 +54,7 @@ export function exportGallery(root = '.') {
       source_url:source,featured:ranks.has(r.id)?1:0,featured_rank:ranks.get(r.id)??null
     });
   }
+  if(records.length!==report.published)throw Error('Stale public gallery count; run build/check');
   // A formerly published record that now lacks clearance must be removed
   // even if another case's media fails. Explicit revoked records also qualify.
   const restricted=raw.filter(withdrawn).map(r=>r.id);

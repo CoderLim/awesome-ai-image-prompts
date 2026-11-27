@@ -45,11 +45,18 @@ if the verified plan matches expectations. Do not bypass large deletion
 protection or create new cloud resources. Retain the existing publication
 filter in the consumer until the public-only dataset has been verified.
 
-## Compatibility and remaining work
+## Generated catalog and gallery
 
-The legacy governance artifacts and GitHub README/category rendering are
-not migrated by this change. They still use the old canonical view for
-compatibility; do not treat that view as evidence of content approval.
-A follow-up must migrate their generated outputs and tests together, and
-align public rendering with the publication-safe view. Existing rights
-evidence is retained, and no new publication permission is invented.
+- data/governance/cases.json has exactly one content review state per case:
+  reviewStatus. reviewReasons are diagnostic explanations, not state machines.
+- data/governance/canonical.json lists non-rejected canonical candidates
+  (pending and approved). Use it for internal review and deduplication, not
+  as a public publication list.
+- README and category pages use the same approval and source-publication
+  predicate as cloud export. Unapproved records and obsolete generated pages
+  are not included. Source shards, exclusions, featured selections and
+  duplicate mappings are retained.
+- After review changes run npm run build and npm run check before committing.
+  The 2026-11-27 migration rebuild retained 1,907 canonical IDs: 1,898 pending,
+  9 approved, 225 rejected out of 2,132 source records. This is a baseline
+  compatibility migration, not a new visual review of the pending records.
