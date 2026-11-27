@@ -3,28 +3,29 @@
 <style>
 *{box-sizing:border-box}body{margin:0;background:#f4f5f7;color:#222;font:14px/1.5 system-ui,sans-serif}header{position:sticky;top:0;z-index:2;background:#fff;border-bottom:1px solid #ddd;padding:16px max(16px,calc((100vw - 1500px)/2));box-shadow:0 2px 8px #0001}h1{font-size:20px;margin:0 0 5px}p{margin:5px 0}.muted{color:#686e76;font-size:12px}.bar{display:flex;gap:8px;flex-wrap:wrap;align-items:center;margin-top:12px}input,select,button{font:inherit;border:1px solid #cbd0d6;border-radius:7px;background:white;padding:8px 12px;color:#222}button{cursor:pointer}button:disabled{opacity:.45;cursor:not-allowed}.favorite{color:#8b5c00;border-color:#dbc18a}.favorite.on{background:#fff2ce;border-color:#c89b36;font-weight:600}.danger{color:#a21b2d;border-color:#e4b0b6}.primary{background:#20242b;color:#fff;border-color:#20242b}#search{flex:1;min-width:170px}.wrap{max-width:1500px;margin:auto;padding:16px}.grid{columns:4 250px;column-gap:14px}.card{break-inside:avoid;background:white;border:1px solid #dedfe3;border-radius:10px;overflow:hidden;margin:0 0 14px}.photo{width:100%;min-height:130px;max-height:620px;object-fit:contain;display:block;background:#e5e7eb;cursor:zoom-in}.photoError{padding:32px 12px;text-align:center;color:#a21b2d}.body{padding:10px}.title{font-weight:650;overflow-wrap:anywhere}.row{display:flex;align-items:center;gap:8px;flex-wrap:wrap;margin-top:8px}.row .spacer{flex:1}.tag{font-size:11px;color:#575d65;background:#eff1f3;padding:3px 6px;border-radius:5px}.removed{opacity:.72;border-color:#d9a4aa}.selected{outline:2px solid #3174db;outline-offset:-2px}details{margin-top:8px}summary{cursor:pointer}pre{white-space:pre-wrap;overflow-wrap:anywhere;font:12px/1.5 monospace;max-height:240px;overflow:auto;background:#f5f6f7;padding:8px}a{color:#235a97}#status{color:#395f3c}#status.error{color:#a21b2d}dialog{border:0;border-radius:12px;background:#16181d;color:white;max-width:95vw;max-height:95vh;padding:10px}dialog::backdrop{background:#000b}dialog img{display:block;max-width:90vw;max-height:80vh;object-fit:contain;margin:auto}dialog .row{justify-content:space-between}footer{text-align:center;padding:18px}label{cursor:pointer}input[type=checkbox]{width:17px;height:17px;vertical-align:middle}.warn{color:#96620c}
 </style></head><body>
-<header><h1>本地图片审核</h1><p class="muted">默认保留；删除立即写入排除名单，原始数据不变。候选保留不代表通过视觉审核或取得转载权限。</p><p id="counts">加载中…</p><p id="featuredHint" class="muted"></p><p id="status" role="status"></p>
-<div class="bar"><input id="search" placeholder="搜索标题、Prompt、ID"><select id="scope"><option value="all">全部来源范围</option><option value="gallery">已入库图库</option><option value="candidate">待入库候选</option></select><select id="category"><option value="">全部分类</option></select><select id="model"><option value="">全部模型</option></select><select id="source"><option value="">全部来源</option></select><select id="mode"><option value="">全部生成类型</option><option value="text-to-image">文生图</option><option value="reference-to-image">参考图生成</option><option value="image-editing">图片编辑</option><option value="unknown">未知</option></select><select id="filter"><option value="active">未删除</option><option value="removed">已删除</option><option value="all">全部状态</option></select><select id="featuredFilter"><option value="all">全部精选状态</option><option value="yes">已精选</option><option value="no">未精选</option></select></div>
-<div class="bar"><button id="selectPage">选中本页</button><button id="clear">取消选择</button><button id="remove" class="danger" disabled>删除选中</button><button id="restore" disabled>恢复选中</button><button id="undo" disabled>撤销上次删除</button><button id="featureBatch" class="favorite" disabled>精选选中</button><button id="unfeatureBatch" disabled>取消精选选中</button><button id="export">导出排除名单</button><span id="selected" class="muted"></span><span class="muted">每页 60 张 · 点击图片放大</span></div></header>
+<header><h1>本地图片审核</h1><p class="muted">待审核案例确认图文和质量后点击通过；删除保留排除记录。来源发布条件由同步层统一检查。</p><p id="counts">加载中…</p><p id="featuredHint" class="muted"></p><p id="status" role="status"></p>
+<div class="bar"><input id="search" placeholder="搜索标题、Prompt、ID"><select id="scope"><option value="all">全部来源范围</option><option value="gallery">已入库图库</option><option value="candidate">待入库候选</option></select><select id="category"><option value="">全部分类</option></select><select id="model"><option value="">全部模型</option></select><select id="source"><option value="">全部来源</option></select><select id="mode"><option value="">全部生成类型</option><option value="text-to-image">文生图</option><option value="reference-to-image">参考图生成</option><option value="image-editing">图片编辑</option><option value="unknown">未知</option></select><select id="filter"><option value="pending">待审核</option><option value="approved">已通过</option><option value="rejected">已排除</option><option value="all">全部状态</option></select><select id="featuredFilter"><option value="all">全部精选状态</option><option value="yes">已精选</option><option value="no">未精选</option></select></div>
+<div class="bar"><button id="selectPage">选中本页</button><button id="clear">取消选择</button><button id="approveBatch" class="primary" disabled>通过选中</button><button id="remove" class="danger" disabled>删除选中</button><button id="restore" disabled>恢复选中</button><button id="undo" disabled>撤销上次删除</button><button id="featureBatch" class="favorite" disabled>精选选中</button><button id="unfeatureBatch" disabled>取消精选选中</button><button id="export">导出排除名单</button><span id="selected" class="muted"></span><span class="muted">每页 60 张 · 点击图片放大</span></div></header>
 <div class="wrap"><div class="grid" id="grid"></div><footer><button id="prev">上一页</button> <label class="muted">第 <select id="pageSelect" aria-label="选择页码"></select> 页</label> <span id="page" class="muted"></span> <button id="next">下一页</button></footer></div>
 <dialog id="light"><div class="row"><span id="lightTitle"></span><button id="close">关闭 Esc</button></div><img id="large" alt="原始预览" referrerpolicy="no-referrer"><div class="row"><button id="lightDelete" class="danger">删除</button><button id="lightFeature" class="favorite">☆ 精选</button><a id="original" target="_blank" rel="noopener noreferrer" style="color:#accbff">原始图片</a></div></dialog>
 <script>
 'use strict';
 const token='__REVIEW_TOKEN__', $=id=>document.getElementById(id);
-let cards=[],excluded={},entries=[],featured=null,revision='',selection=new Set(),page=0,filtered=[],busy=false,last=[],opened=null;
+let cards=[],excluded={},statuses={},entries=[],featured=null,revision='',selection=new Set(),page=0,filtered=[],busy=false,last=[],opened=null;
 const make=(tag,cls,txt)=>{const e=document.createElement(tag);if(cls)e.className=cls;if(txt!==undefined)e.textContent=txt;return e;};
 function msg(text,error=false){$('status').textContent=text;$('status').className=error?'error':'';}
-function setState(s){excluded=s.excluded;entries=s.entries;featured=s.featured;revision=s.revision;}
+function setState(s){excluded=s.excluded;statuses=s.statuses;entries=s.entries;featured=s.featured;revision=s.revision;}
 const isFeatured=id=>featured!==null&&featured.includes(id);
 function fill(id,values){for(const v of [...new Set(values.filter(Boolean))].sort()){const o=make('option','',v);o.value=v;$(id).append(o);}}
 function filteredCards(){const term=$('search').value.trim().toLowerCase();return cards.filter(r=>{
  const removed=!!excluded[r.id],scope=$('scope').value,f=$('filter').value;
- return ($('featuredFilter').value==='all'||($('featuredFilter').value==='yes')===isFeatured(r.id))&&(scope==='all'||(scope==='candidate')===r.candidate)&&(f==='all'||(f==='removed')===removed)&&
+ return ($('featuredFilter').value==='all'||($('featuredFilter').value==='yes')===isFeatured(r.id))&&(scope==='all'||(scope==='candidate')===r.candidate)&&(f==='all'||f===statuses[r.id])&&
  (!$('category').value||r.category===$('category').value)&&(!$('model').value||r.model===$('model').value)&&(!$('source').value||r.source===$('source').value)&&(!$('mode').value||r.inputMode===$('mode').value)&&
  (!term||(r.title+' '+r.id+' '+r.prompt).toLowerCase().includes(term));
 });}
 function controls(){
  $('selected').textContent='已选 '+selection.size+' 条';
+ $('approveBatch').disabled=busy||![...selection].some(id=>statuses[id]==='pending'&&cards.some(r=>r.id===id&&!r.candidate));
  $('remove').disabled=busy||![...selection].some(id=>!excluded[id]);
  $('restore').disabled=busy||![...selection].some(id=>excluded[id]);
  $('undo').disabled=busy||!last.some(id=>excluded[id]);
@@ -33,7 +34,7 @@ function controls(){
  const active=cards.filter(r=>isFeatured(r.id)&&!excluded[r.id]);
  const published=active.filter(r=>!r.candidate).length;
  $('featuredHint').textContent=featured===null?'尚未人工精选；README 暂用原自动预览。首次精选后只展示人工选择的已入库案例。':'已精选 '+featured.length+' 条 · 可展示 '+published+' · 当前队列待入库 '+(active.length-published)+' · 删除/未加载的精选不会进入 README。';
- $('counts').textContent='图库 '+cards.filter(r=>!r.candidate).length+' · 候选 '+cards.filter(r=>r.candidate).length+' · 已删除 '+Object.keys(excluded).length+' · 当前筛选 '+filtered.length;
+ $('counts').textContent='待审核 '+cards.filter(r=>statuses[r.id]==='pending').length+' · 已通过 '+cards.filter(r=>statuses[r.id]==='approved').length+' · 已排除 '+cards.filter(r=>statuses[r.id]==='rejected').length+' · 当前筛选 '+filtered.length;
 }
 function openImage(r,url){opened=r;$('lightTitle').textContent=r.title;$('large').src=url;$('original').href=url;$('lightDelete').textContent=excluded[r.id]?'恢复':'删除';$('lightFeature').textContent=isFeatured(r.id)?'★ 已精选':'☆ 精选';$('lightFeature').disabled=!!excluded[r.id]&&!isFeatured(r.id);$('light').showModal();}
 function syncPager(pages){
@@ -59,13 +60,14 @@ function render(){
   if(r.images.length){image.src=r.images[0];card.append(image);}else card.append(make('div','photoError','没有可用的原始图片 URL'));
   const body=make('div','body');body.append(make('div','title',r.title));
   body.append(make('div','muted',r.source+' · '+r.model+' · '+r.category));
-  const row=make('div','row');row.append(make('span','tag',r.candidate?'候选 · 未正式发布':'已入库'));
+  const row=make('div','row');row.append(make('span','tag',r.candidate?'待入库候选':({pending:'待审核',approved:'已通过',rejected:'已排除'}[statuses[r.id]])));
   if(excluded[r.id])row.append(make('span','tag','已删除'));
   if(isFeatured(r.id))row.append(make('span','tag',r.candidate?'★ 精选待入库':'★ 精选'));
   if(r.sourceUrl){const a=make('a','','来源');a.href=r.sourceUrl;a.target='_blank';a.rel='noopener noreferrer';row.append(a);}
   body.append(row);
   const details=make('details');details.append(make('summary','','完整 Prompt'));details.append(make('pre','',r.prompt));body.append(details);
   const actions=make('div','row'),label=make('label'),check=make('input');check.type='checkbox';check.checked=selection.has(r.id);check.onchange=()=>{if(check.checked)selection.add(r.id);else selection.delete(r.id);card.classList.toggle('selected',check.checked);controls();};label.append(check,document.createTextNode(' 选择'));actions.append(label,make('span','spacer'));
+  if(!r.candidate&&statuses[r.id]==='pending'){const approve=make('button','primary','通过');approve.disabled=busy;approve.onclick=()=>change('approve',[r.id]);actions.append(approve);}
   const favorite=make('button','favorite'+(isFeatured(r.id)?' on':''),isFeatured(r.id)?'★ 已精选':'☆ 精选');favorite.setAttribute('aria-pressed',String(isFeatured(r.id)));favorite.disabled=busy||(!!excluded[r.id]&&!isFeatured(r.id));favorite.onclick=()=>change(isFeatured(r.id)?'unfeature':'feature',[r.id]);actions.append(favorite);
   const btn=make('button',excluded[r.id]?'':'danger',excluded[r.id]?'恢复':'删除');btn.disabled=busy;btn.onclick=()=>change(excluded[r.id]?'restore':'exclude',[r.id]);actions.append(btn);body.append(actions);card.append(body);grid.append(card);
  }
@@ -76,7 +78,7 @@ async function change(action,ids){
  if(busy||!ids.length)return;busy=true;controls();msg('保存中…');
  try{
   const resp=await fetch('/api/review',{method:'POST',headers:{'Content-Type':'application/json','X-Review-Token':token},body:JSON.stringify({action,ids,expectedRevision:revision})});const data=await resp.json();if(!resp.ok)throw Error(data.error);
-  setState(data);if(action==='exclude')last=ids;ids.forEach(id=>selection.delete(id));msg(action==='feature'||action==='unfeature'?'精选已保存，执行 npm run build 后更新 README。':'已保存到 data/review/exclusions.json');
+  setState(data);if(action==='exclude')last=ids;ids.forEach(id=>selection.delete(id));msg(action==='approve'?'审核通过，已保存。':action==='feature'||action==='unfeature'?'精选已保存，执行 npm run build 后更新 README。':'已保存到 data/review/exclusions.json');
   if($('light').open){if(action==='feature'||action==='unfeature'){$('lightFeature').textContent=isFeatured(opened.id)?'★ 已精选':'☆ 精选';$('lightFeature').disabled=!!excluded[opened.id]&&!isFeatured(opened.id);}else $('light').close();}
  }catch(e){msg(e.message+'（如有冲突请刷新页面）',true);}finally{busy=false;render();}
 }
@@ -84,6 +86,7 @@ for(const id of ['search','scope','category','model','source','mode','filter','f
 $('prev').onclick=()=>{page--;render();window.scrollTo(0,0);};$('next').onclick=()=>{page++;render();window.scrollTo(0,0);};
 $('pageSelect').onchange=()=>{page=Number($('pageSelect').value)||0;render();window.scrollTo(0,0);};
 $('selectPage').onclick=()=>{filtered.slice(page*60,page*60+60).forEach(r=>selection.add(r.id));render();};$('clear').onclick=()=>{selection.clear();render();};
+$('approveBatch').onclick=()=>change('approve',[...selection].filter(id=>statuses[id]==='pending'&&cards.some(r=>r.id===id&&!r.candidate)));
 $('remove').onclick=()=>change('exclude',[...selection].filter(id=>!excluded[id]));$('restore').onclick=()=>change('restore',[...selection].filter(id=>excluded[id]));
 $('undo').onclick=()=>change('restore',last.filter(id=>excluded[id]));
 $('featureBatch').onclick=()=>change('feature',[...selection].filter(id=>!excluded[id]&&!isFeatured(id)));
