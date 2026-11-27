@@ -1,8 +1,8 @@
 # Content governance report
 
 - Source cases: 2132
-- Pending: 1898
-- Approved: 9
+- Pending: 643
+- Approved: 1264
 - Rejected: 225
 - Public gallery cases: 9
 - Duplicate records excluded: 62
