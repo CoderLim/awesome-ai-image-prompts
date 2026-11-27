@@ -1,5 +1,7 @@
 # 提示词数据同步技术方案（最终简化版）
 
+> Review model update (2026-11-27): see [simplified review](simplified-review.md). The new exporter sends only approved, publishable records; the previous private D1 catalog model described below is historical. First run a verified dry-run and explicitly confirm the one-time large deletion. The schema and consumer clearance filter remain compatible during migration.
+
 > 状态：设计已确认，尚未实施。本文替代之前包含多表、版本快照、发布指针、分布式锁的设计。
 > 范围：只负责 GitHub → Cloudflare D1 / R2 的单向数据同步。不涉及网站 API、页面、SEO、生成器或用户行为数据。
 
