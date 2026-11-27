@@ -37,7 +37,7 @@ export function writeApprovals(approvals, root = '.') {
 }
 
 export function reviewStatus(row, approvals = {}) {
-  if (!row.visible) return 'rejected';
+  if (row.reviewStatus === 'rejected') return 'rejected';
   if (Object.hasOwn(approvals, row.id)) {
     // A stale explicit approval must return to pending.
     return approvals[row.id] === reviewFingerprint(row) ? 'approved' : 'pending';

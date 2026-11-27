@@ -18,7 +18,7 @@ if (action === 'summary') {
   const byId = new Map(rows.map(r=>[r.id,r]));
   for (const id of ids) {
     const row = byId.get(id);
-    if (!row || !row.visible) throw Error('Unknown or rejected case: '+id);
+    if (!row || row.reviewStatus==='rejected') throw Error('Unknown or rejected case: '+id);
     approvals[id] = reviewFingerprint(row);
   }
   writeApprovals(approvals);

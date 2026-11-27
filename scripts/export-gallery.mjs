@@ -5,19 +5,9 @@ import { govern, galleryView } from './governance.mjs';
 import { render } from './core.mjs';
 import { readFeatured } from './review-featured.mjs';
 import { readExclusions } from './review-exclusions.mjs';
-import { hasXPermission } from './x-source.mjs';
-import { readApprovals, reviewStatus, reviewSummary } from './review-status.mjs';
-
-export function eligible(r) {
-  return Boolean((r.rights?.prompt === 'CC-BY-4.0' &&
-    r.rights?.media === 'CC-BY-4.0' &&
-    typeof r.rights.evidence === 'string' && r.rights.evidence.trim()) ||
-    hasXPermission(r));
-}
-
-export function withdrawn(r) {
-  return ['revoked','withdrawn','denied','prohibited'].some(status=>[r.rights?.prompt,r.rights?.media].includes(status));
-}
+import { eligible, withdrawn } from './publication-policy.mjs';
+export { eligible, withdrawn } from './publication-policy.mjs';
+import { readApprovals } from './review-status.mjs';
 
 export function exportGallery(root = '.') {
   const read = p => JSON.parse(fs.readFileSync(path.join(root,p),'utf8'));
@@ -25,27 +15,27 @@ export function exportGallery(root = '.') {
     .flatMap(f=>{const rows=read('data/index/'+f); if(!Array.isArray(rows)) throw Error('Invalid shard '+f); return rows;});
   const ids = new Set(raw.map(r=>r.id));
   if (!raw.length || ids.size!==raw.length) throw Error('Empty or duplicate source records');
-  const result = govern(raw,readExclusions(root));
-  const view = galleryView(result.rows,read('data/taxonomy.json'));
+  const approvals=readApprovals(root);
+  const result = govern(raw,readExclusions(root),approvals);
+  const view = galleryView(result.rows,read('data/taxonomy.json'),{publicOnly:false});
   const canonical = read('data/governance/canonical.json');
   const report = read('data/governance/report.json');
   const actual = new Set(view.rows.map(r=>r.id));
   if (!Array.isArray(canonical) || new Set(canonical).size!==canonical.length ||
       actual.size!==canonical.length || canonical.some(id=>!actual.has(id)) ||
-      report.total!==raw.length || report.visible!==actual.size)
+      report.total!==raw.length || report.canonical!==actual.size)
     throw Error('Incomplete or stale governance snapshot; run build/check');
   const manual = readFeatured(root);
   // Use the existing renderer for legacy automatic selection; manual selections
   // preserve the full list, not the README's presentation-only 30-card cap.
-  const featured = manual ?? [...render([],view.rows,view.taxonomy,null)['README.md']
+  const featured = manual ?? [...render([],view.rows.filter(r=>r.reviewStatus==='approved'&&eligible(r)&&!withdrawn(r)),view.taxonomy,null)['README.md']
     .matchAll(/<td[^>]*><a href="[^"#]+#([a-z0-9-]+)"/g)].map(m=>m[1]);
   const ranks=new Map(featured.map((id,i)=>[id,i+1]));
-  const approvals=readApprovals(root);
-  const counts=reviewSummary(result.rows, approvals);
+  const counts=report.review;
   const records=[], excluded=[], pending=[], sourceUnavailable=[];
   for(const r of view.rows) {
     if(withdrawn(r)){excluded.push(r.id);continue;}
-    if(reviewStatus(r, approvals)!=='approved'){pending.push(r.id);continue;}
+    if(r.reviewStatus!=='approved'){pending.push(r.id);continue;}
     // Source permission is an import/publication constraint, not a review status.
     if(!eligible(r)){sourceUnavailable.push(r.id);continue;}
     const o=r.provenance.originalSource, source=o.url??r.provenance.collectedFrom[0]?.url;

@@ -6,7 +6,7 @@ import path from 'node:path';
 import { readApprovals, writeApprovals, reviewFingerprint, reviewStatus, reviewSummary } from '../scripts/review-status.mjs';
 
 const row = {
-  id: 'sample', visible: true,
+  id: 'sample', reviewStatus: 'pending',
   prompt: { original: 'A complete prompt' },
   sourcePreview: { images: [{ url: 'https://example.com/image.png', role: 'output' }] },
   provenance: { originalSource: { url: 'https://example.com/post', postId: 'sample' }, collectedFrom: [{ sourceId: 'prompthero' }] },
@@ -18,7 +18,7 @@ test('only three content review states; recommended text alone is not approval',
   assert.equal(reviewStatus(row), 'pending');
   const approvals = { sample: reviewFingerprint(row) };
   assert.equal(reviewStatus(row, approvals), 'approved');
-  assert.equal(reviewStatus({ ...row, visible: false }, approvals), 'rejected');
+  assert.equal(reviewStatus({ ...row, reviewStatus: 'rejected' }, approvals), 'rejected');
   assert.equal(reviewStatus({ ...row, prompt: { original: 'Changed' } }, approvals), 'pending');
   assert.equal(reviewStatus({ ...row, featured: true }, approvals), 'approved');
   assert.equal(reviewStatus({ ...row, sourcePreview: { images: [{ url: 'https://example.com/other.png', role: 'output' }] } }, approvals), 'pending');

@@ -22,7 +22,7 @@ for(let i=0;i<args.length;i++){
 }
 if(!Number.isInteger(port)||port<1024||port>65535)throw Error('Invalid port');
 const catalog=readCatalog(root),baseline=govern(catalog);
-const published=baseline.rows.filter(r=>r.visible);
+const published=baseline.rows.filter(r=>r.reviewStatus!=='rejected');
 const known=new Set(catalog.map(r=>r.id));
 const queue=queuePath?readQueue(path.resolve(queuePath)).filter(r=>r.next_action==='visual_review'&&r.text_status==='advance'):[];
 const candidates=[];
