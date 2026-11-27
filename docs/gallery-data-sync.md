@@ -84,7 +84,7 @@ type PromptMedia = {
 
 ## 4. R2：增量媒体同步
 
-建议 bucket 名为 `prompt-media`（实际资源待配置）。对象结构：
+生产工作流固定 bucket 名为 `prompt-media`。对象结构：
 
 ```text
 images/originals/<sha256>.<ext>
@@ -158,7 +158,7 @@ migrations/0001_prompts.sql
 - workflow：main 上相关数据、治理、同步代码变化时触发；支持 workflow_dispatch 手动重跑、dry-run、媒体刷新及明确允许大规模普通删除的选项。
 - 所有生产同步走同一个 concurrency group，cancel-in-progress: false。获得执行资格后 checkout 最新 main，避免排队旧提交覆盖新数据。运行期间若 main 再次变化，允许本轮完成，下一轮同步最新内容；不要部署其他并行写入脚本。
 - 使用 Node.js 22+，复用现有 npm run build / npm run check。媒体工具和 Cloudflare 客户端按实现需要选择；不新增独立后台服务。
-- Cloudflare account ID、D1 database ID、R2 bucket 等非密钥配置使用 Actions Variables；D1 API token 和 R2 凭据使用最小权限 Secrets（限制目标资源，能限制时按 bucket 限制）。不提交凭据、不打印签名或密钥。
+- Cloudflare account ID、D1 database ID 等非密钥配置使用 Actions Variables；R2 bucket 名在工作流中固定为 `prompt-media`；D1 API token 和 R2 凭据使用最小权限 Secrets（限制目标资源，能限制时按 bucket 限制）。不提交凭据、不打印签名或密钥。
 - 现有 upstream sync.yml 的采集与 PR 流程保持不变；只同步已进入 main 的内容。
 
 日志至少记录源 commit、媒体类型、导出/排除数量、待删除数量、UPSERT/DELETE 数量、复用/上传/失败媒体数量与错误原因。GitHub Actions 日志足够，无需数据库任务记录表。异常普通删除保护默认可设为超过现有同类型记录的 20% 或非空变空，需要手动确认；首次空数据库导入不受比例影响。明确权利撤回不受此保护阻塞。没有自动定期对账；手动重跑本身就是对账。
@@ -192,7 +192,7 @@ migrations/0001_prompts.sql
 
 1. 在 Cloudflare 创建独立 D1（建议 prompts-db）及 R2 bucket（建议 prompt-media）。用 D1 控制台执行 `migrations/0001_prompts.sql`，不要在业务数据库执行。
 2. 仓库 Settings → Secrets and variables → Actions：
-   - Variables：`CLOUDFLARE_ACCOUNT_ID`、`GALLERY_D1_DATABASE_ID`、`GALLERY_R2_BUCKET`。
+   - Variables：`CLOUDFLARE_ACCOUNT_ID`、`GALLERY_D1_DATABASE_ID`。R2 bucket 已固定为 `prompt-media`，无需配置额外变量。
    - Secrets：`GALLERY_D1_API_TOKEN`（目标 D1 读写）、`GALLERY_R2_ACCESS_KEY_ID`、`GALLERY_R2_SECRET_ACCESS_KEY`（目标 bucket 对象读写）。
    - `GALLERY_SYNC_ENABLED` 初始不设置；此时 Actions 只跑仓库校验和导出统计。创建资源、执行迁移、核对目标及权限后设为 `true`。配置启用之后 main 相关变更会自动同步。
 3. 手动运行 Sync prompt gallery，保持 dry_run=true，核对数量和删除计划；此模式仅查询 D1，不下载媒体或写入 D1/R2。首次确认后手动关闭 dry_run 正式同步。
