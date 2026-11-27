@@ -33,7 +33,7 @@ export async function runSync(snapshot,io,{dryRun=false,allowLarge=false,forceMe
   const unlicensed=new Set(snapshot.unlicensed??[]);
   const revokeHosted=existing.filter(r=>unlicensed.has(r.id)&&JSON.parse(r.media).some(m=>m.key||m.thumbnailKey)).map(r=>r.id);
   const {urgent,stale,blocked}=deletionPlan(existing,records,[...restricted,...revokeHosted],allowLarge);
-  console.log(JSON.stringify({sourceCommit:process.env.SOURCE_COMMIT??null,type:mediaType,catalog:records.length,cleared:records.length-(snapshot.pending?.length??0),pending:snapshot.pending?.length??0,excluded:snapshot.excluded?.length,
+  console.log(JSON.stringify({sourceCommit:process.env.SOURCE_COMMIT??null,type:mediaType,catalog:records.length,publishable:records.length,review:snapshot.reviewCounts,sourceUnavailable:snapshot.sourceUnavailable?.length??0,excluded:snapshot.excluded?.length,
     existing:existing.length,urgent:urgent.length,stale:stale.length,blocked,dryRun}));
   if(dryRun)return {urgent:urgent.length,stale:stale.length,blocked};
   // Security/rights removals are independent of ordinary deletion protection.
@@ -194,6 +194,6 @@ if(process.argv[1]&&import.meta.url===pathToFileURL(path.resolve(process.argv[1]
   const args=new Set(process.argv.slice(2));
   if([...args].some(a=>!['--dry-run','--allow-large-delete','--force-media-refresh','--export-only'].includes(a)))throw Error('Unknown argument');
   const snapshot=exportGallery();
-  console.log(JSON.stringify({total:snapshot.total,canonical:snapshot.canonical,catalog:snapshot.records.length,cleared:snapshot.records.length-snapshot.pending.length,pending:snapshot.pending.length,excluded:snapshot.excluded.length}));
+  console.log(JSON.stringify({total:snapshot.total,canonical:snapshot.canonical,catalog:snapshot.records.length,publishable:snapshot.records.length,review:snapshot.reviewCounts,sourceUnavailable:snapshot.sourceUnavailable.length,excluded:snapshot.excluded.length}));
   if(!args.has('--export-only'))await runSync(snapshot,createCloud(),{dryRun:args.has('--dry-run'),allowLarge:args.has('--allow-large-delete'),forceMedia:args.has('--force-media-refresh')});
 }
