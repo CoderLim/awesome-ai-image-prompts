@@ -5,6 +5,7 @@ import path from 'node:path';
 import { randomBytes, createHash } from 'node:crypto';
 import { fileURLToPath } from 'node:url';
 import { govern } from './governance.mjs';
+import { readApprovals, writeApprovals, reviewStatus, reviewFingerprint } from './review-status.mjs';
 import { readCatalog, readQueue } from './audit-prompt-similarity.mjs';
 import { readExclusions, writeExclusions, exclusionMatches, makeExclusion } from './review-exclusions.mjs';
 
@@ -37,6 +38,7 @@ for(const r of queue){
 candidates.push(...readLocalReviewQueues(root,known));
 const all=[...catalog,...candidates],display=[...published,...candidates];
 const displayIds=new Set(display.map(r=>r.id));
+const byId=new Map(published.map(r=>[r.id,r]));
 const safeUrl=s=>{try{const u=new URL(s);return u.protocol==='https:'&&!u.username&&!u.password?u.href:null;}catch{return null;}};
 const cards=display.map(r=>{
  const images=r.sourcePreview.images.filter(m=>m.role!=='input');
@@ -53,7 +55,9 @@ const html=fs.readFileSync(path.join(root,'scripts/review-images.html'),'utf8');
 const revision=e=>createHash('sha256').update(JSON.stringify(e)).digest('hex');
 function state(){
  const entries=readExclusions(root),matched=exclusionMatches(all,entries),featured=readFeatured(root);
- return {entries,featured,revision:revision({entries,featured}),excluded:Object.fromEntries([...matched].filter(([id])=>displayIds.has(id)))};
+ const approvals=readApprovals(root);
+ const statuses=Object.fromEntries(display.map(r=>[r.id,matched.has(r.id)?'rejected':r.candidate?'pending':reviewStatus(r,approvals)]));
+ return {entries,featured,statuses,revision:revision({entries,featured,approvals}),excluded:Object.fromEntries([...matched].filter(([id])=>displayIds.has(id)))};
 }
 function send(res,status,value,contentType='application/json'){
  res.writeHead(status,{'Content-Type':contentType+'; charset=utf-8','Cache-Control':'no-store','X-Content-Type-Options':'nosniff','Referrer-Policy':'no-referrer','Content-Security-Policy':"default-src 'none'; img-src https: data:; style-src 'unsafe-inline'; script-src 'unsafe-inline'; connect-src 'self'; frame-ancestors 'none'; base-uri 'none'; form-action 'none'"});
@@ -70,7 +74,13 @@ const server=http.createServer(async(req,res)=>{
    let body='';for await(const chunk of req){body+=chunk;if(body.length>200000){send(res,413,{error:'Too many changes'});return;}}
    const {action,ids,expectedRevision}=JSON.parse(body),before=state();
    if(expectedRevision!==before.revision){send(res,409,{error:'Review file changed; refresh and retry'});return;}
-   if(!['exclude','restore','feature','unfeature'].includes(action)||!Array.isArray(ids)||ids.length<1||ids.length>500||ids.some(id=>!displayIds.has(id)))throw Error('Invalid review action');
+   if(!['exclude','restore','feature','unfeature','approve'].includes(action)||!Array.isArray(ids)||ids.length<1||ids.length>500||ids.some(id=>!displayIds.has(id)))throw Error('Invalid review action');
+   if(action==='approve'){
+    if(ids.some(id=>before.excluded[id]||!byId.has(id)))throw Error('Restore or import the case before approval');
+    const approvals=readApprovals(root);
+    for(const id of ids) approvals[id]=reviewFingerprint(byId.get(id));
+    writeApprovals(approvals,root);send(res,200,state());return;
+   }
    if(action==='feature'||action==='unfeature'){
     if(action==='feature'&&ids.some(id=>before.excluded[id]))throw Error('Restore excluded cases before featuring');
     const selected=new Set(before.featured??[]);
@@ -91,4 +101,4 @@ const server=http.createServer(async(req,res)=>{
   send(res,404,{error:'Not found'});
  }catch(e){send(res,400,{error:e.message});}
 });
-server.listen(port,'127.0.0.1',()=>console.log('Review: http://'+host+' | '+published.length+' gallery cases + '+candidates.length+' pending candidates\nChanges save to data/review/exclusions.json; run npm run build && npm run check after review.'));
+server.listen(port,'127.0.0.1',()=>console.log('Review: http://'+host+' | '+published.length+' gallery cases + '+candidates.length+' pending candidates\nChanges save to data/review/ (approvals, exclusions, featured); run npm run build && npm run check after review.'));
