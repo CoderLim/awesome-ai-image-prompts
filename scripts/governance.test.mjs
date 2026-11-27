@@ -1,12 +1,12 @@
 import {test} from 'node:test';
 import assert from 'node:assert/strict';
-import {classifyContent,govern,governanceFiles,selectCanonical,galleryView} from './governance.mjs';
+import {classifyContent,govern,governanceFiles,selectCanonical,galleryView,reviewStatus} from './governance.mjs';
 const make=(id,p,title='Generic')=>({id,title:{en:title},prompt:{original:p},inputMode:'unknown',sourcePreview:{images:[{url:'https://example.com/'+id+'.jpg'}]},provenance:{originalSource:{url:'https://x.com/test/status/123',postId:'123'},collectedFrom:[{path:'docs/gallery-part-1.md',url:'https://example.com/source'}]},rights:{prompt:'unknown',media:'unknown'}});
 test('actual prompt outranks misleading generic title',()=>{assert.equal(classifyContent(make('a','Create a UI/UX landing page mockup','Portrait')).category,'ui-mockups');});
 test('reference portraits are generation rather than local edits',()=>{const c=classifyContent(make('a','Create a fashion editorial portrait using the uploaded face reference image. Preserve the facial identity.'));assert.equal(c.type,'generation');assert.equal(c.inputMode,'reference-to-image');});
 test('explicit removal is editing',()=>{const c=classifyContent(make('a',"Remove the flower from man's hand. Do not change anything else."));assert.equal(c.category,'object-removal');assert.equal(c.inputMode,'image-editing');});
 test('reference restyle is editing',()=>{const c=classifyContent(make('a','Transform the uploaded photo into a watercolor illustration.'));assert.equal(c.category,'restyle');});
-test('unpublished prompts and duplicate records are withheld',()=>{const a=make('a','Create a cinematic portrait'),b=make('b','Create a cinematic portrait'),c=make('c','原文未公开，案例目标是网页设计。');const g=govern([a,b,c]);assert.equal(g.rows.length,3);assert.equal(g.rows.filter(x=>x.visible).length,1);assert(g.duplicates.some(x=>x.kind==='exact-prompt'));assert.equal(g.metadata.a.quality.rights,'pending-review');assert(governanceFiles(g)['docs/governance-report.md'].includes('Unique cases withheld for missing content: 0'));});
+test('unpublished prompts and duplicate records are withheld',()=>{const a=make('a','Create a cinematic portrait'),b=make('b','Create a cinematic portrait'),c=make('c','原文未公开，案例目标是网页设计。');const g=govern([a,b,c]);assert.equal(g.rows.length,3);assert.equal(g.rows.filter(x=>x.visible).length,1);assert(g.duplicates.some(x=>x.kind==='exact-prompt'));assert.equal(g.metadata.a.quality.rights,'pending-review');const report=JSON.parse(governanceFiles(g)['data/governance/report.json']);assert.equal(report.published,report.approved);assert.equal(report.rejected,2);});
 
 test('deduplicate both post and prompt transitively, prefer complete case, leave prefix-only matches',()=>{
  const a=make('a','Create a cinematic portrait'),b=make('b','Create a different portrait'),c=make('c','Create a different portrait'),d=make('d','Create a distinct landscape');
@@ -29,10 +29,33 @@ test('retained selection independent of source order',()=>{
 });
 
 test('reference generation and editing share one gallery without losing operation metadata',()=>{
- const rows=[{id:'text',type:'generation',inputMode:'text-to-image',category:'portraits',visible:true},{id:'ref',type:'generation',inputMode:'reference-to-image',category:'portraits',visible:true},{id:'edit',type:'editing',inputMode:'image-editing',category:'restyle',visible:true},{id:'unknown',type:'generation',inputMode:'unknown',category:'other',visible:true},{id:'hidden',type:'editing',inputMode:'image-editing',category:'restyle',visible:false}];
+ const rows=[{id:'text',type:'generation',inputMode:'text-to-image',category:'portraits',visible:true,sourceMeta:{review:{qualityStatus:'recommended'}}},{id:'ref',type:'generation',inputMode:'reference-to-image',category:'portraits',visible:true,sourceMeta:{review:{qualityStatus:'recommended'}}},{id:'edit',type:'editing',inputMode:'image-editing',category:'restyle',visible:true,sourceMeta:{review:{qualityStatus:'recommended'}}},{id:'unknown',type:'generation',inputMode:'unknown',category:'other',visible:true,sourceMeta:{review:{qualityStatus:'recommended'}}},{id:'hidden',type:'editing',inputMode:'image-editing',category:'restyle',visible:false}];
  const view=galleryView(rows,{generation:['portraits','other'],editing:['restyle','other']});
  assert.deepEqual(view.rows.map(r=>[r.id,r.type,r.operationType]),[['text','generation','generation'],['ref','reference','generation'],['edit','reference','editing'],['unknown','generation','generation']]);
  assert.deepEqual(view.taxonomy.reference,['portraits','other','restyle']);
+});
+
+test('public gallery includes only approved reviewStatus cases',()=>{
+ const rows=[
+  {id:'ok',type:'generation',inputMode:'text-to-image',category:'portraits',visible:true,sourceMeta:{review:{qualityStatus:'recommended'}},provenance:{collectedFrom:[{sourceId:'aweniai'}]}},
+  {id:'wait',type:'generation',inputMode:'text-to-image',category:'portraits',visible:true,sourceMeta:{},provenance:{collectedFrom:[{sourceId:'evolink'}]}},
+  {id:'no',type:'generation',inputMode:'text-to-image',category:'portraits',visible:false,sourceMeta:{review:{qualityStatus:'recommended'}},provenance:{collectedFrom:[{sourceId:'aweniai'}]}},
+  {id:'vcl-ok',type:'generation',inputMode:'text-to-image',category:'infographics',visible:true,sourceMeta:{},provenance:{collectedFrom:[{sourceId:'vcl'}]}},
+ ];
+ assert.equal(reviewStatus(rows[0]),'approved');
+ assert.equal(reviewStatus(rows[1]),'pending');
+ assert.equal(reviewStatus(rows[2]),'rejected');
+ assert.equal(reviewStatus(rows[3]),'approved');
+ const pub=galleryView(rows,{generation:['portraits','infographics'],editing:[]},{publicOnly:true});
+ assert.deepEqual(pub.rows.map(r=>r.id),['ok','vcl-ok']);
+ const a=make('a','Create a cinematic portrait');
+ a.sourceMeta={review:{qualityStatus:'recommended'}};
+ a.provenance.collectedFrom=[{sourceId:'aweniai',path:'x',url:'https://example.com'}];
+ const b=make('b','Create another cinematic portrait');
+ b.provenance.collectedFrom=[{sourceId:'evolink',path:'x',url:'https://example.com'}];
+ const report=JSON.parse(governanceFiles(govern([a,b]))['data/governance/report.json']);
+ assert.equal(report.published,report.approved);
+ assert.equal(report.approved+report.pending+report.rejected,report.total);
 });
 
 test('PromptHero reviewed export preserves approved provisional classification',()=>{

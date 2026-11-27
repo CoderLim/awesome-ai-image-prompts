@@ -2,22 +2,27 @@
   "total": 2132,
   "visible": 1907,
   "hidden": 225,
+  "approved": 1264,
+  "pending": 643,
+  "rejected": 225,
+  "published": 1264,
+  "canonical": 1907,
   "duplicateExcluded": 62,
   "duplicateExcludedFromGallery": 51,
   "uniqueCases": 2070,
   "galleryGroups": {
-    "reference": 220,
-    "generation": 1687
+    "reference": 79,
+    "generation": 1185
   },
   "types": {
-    "generation": 1869,
-    "editing": 38
+    "generation": 1248,
+    "editing": 16
   },
   "inputModes": {
-    "reference-to-image": 185,
-    "text-to-image": 1484,
-    "unknown": 203,
-    "image-editing": 35
+    "reference-to-image": 66,
+    "text-to-image": 1157,
+    "unknown": 28,
+    "image-editing": 13
   },
   "categories": {
     "generation/posters": 160,
@@ -66,13 +71,11 @@
     "same-post": 16,
     "same-prompt-prefix": 20
   },
-  "rightsPending": 2120,
   "checks": {
     "imageHttp": "not-run",
     "imagePromptMatch": "not-run",
     "perceptualHash": "not-run",
-    "semanticEmbedding": "not-run",
-    "rights": "not-cleared"
+    "semanticEmbedding": "not-run"
   },
   "manualExcluded": 169
 }

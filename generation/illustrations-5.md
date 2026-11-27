@@ -1,331 +1,331 @@
 # illustrations
 
-[← Home](../README.md) · Page 5 / 11
+[← Home](../README.md) · Page 5 / 7
 
-[1](illustrations.md) · [2](illustrations-2.md) · [3](illustrations-3.md) · [4](illustrations-4.md) · **5** · [6](illustrations-6.md) · [7](illustrations-7.md) · [8](illustrations-8.md) · [9](illustrations-9.md) · [10](illustrations-10.md) · [11](illustrations-11.md)
+[1](illustrations.md) · [2](illustrations-2.md) · [3](illustrations-3.md) · [4](illustrations-4.md) · **5** · [6](illustrations-6.md) · [7](illustrations-7.md)
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
-<a id="prompthero-3c7b6305b5b"></a>
+<a id="prompthero-58601456f31"></a>
 
-## A breathtaking photorealistic digital painting of \.\.\.
+## adorable summerween skull clipart, cute round ivor\.\.\.
 
-<a href="https://cdn.prompthero.com/qxewb6vvrfl158clauy00thjo53c-flux-flux-11-pro-a-breathtaking-photorealistic-digital-painting-of-a-beautiful-blonde-woman-with-a-long-cascading-braid-she-is-adorned-in-a.jpg"><img src="https://cdn.prompthero.com/qxewb6vvrfl158clauy00thjo53c-flux-flux-11-pro-a-breathtaking-photorealistic-digital-painting-of-a-beautiful-blonde-woman-with-a-long-cascading-braid-she-is-adorned-in-a.jpg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-A breathtaking photorealistic digital painting of a beautiful blonde woman with a long, cascading braid. She is adorned in a stunning dress made entirely of daisy flowers, with intricate details and glittery accents. The dress flows gracefully around her delicate frame, accentuating her thin waist and low-cut neckline. She is standing in a picturesque field, with the sun casting a warm golden light on her and the surroundings. Her enchanting smile, combined with the bohemian-style attire, creates an elegant and intriguing image that captivates the viewer's imagination.
-```
-
-[Source](https://prompthero.com/prompt/3c7b6305b5b-flux-flux-11-pro-a-breathtaking-photorealistic-digital-painting-of-a-beautiful-blonde-woman-with-a-long-cascading-braid-she-is-adorned-in-a)
-
----
-
-<a id="prompthero-3d1db4d2c92"></a>
-
-## a stunning realistic photograph portrait of a bea\.\.\.
-
-<a href="https://cdn.prompthero.com/h6iea2jbtp068yj97rf2fpqsoj3r-dreamshaper-5-baked-vae-pirate-dreamshaperxl10alpha2xl10-a-stunning-realistic-photograph-portrait-of-a-beautiful-blonde-20-year-old-woman-aboard-a-pirate-ship15-wearing-pirate-captain.png"><img src="https://cdn.prompthero.com/h6iea2jbtp068yj97rf2fpqsoj3r-dreamshaper-5-baked-vae-pirate-dreamshaperxl10alpha2xl10-a-stunning-realistic-photograph-portrait-of-a-beautiful-blonde-20-year-old-woman-aboard-a-pirate-ship15-wearing-pirate-captain.png" width="480" alt="After"></a>
+<a href="https://cdn.prompthero.com/d54536yio8tcq5ctnai6j387x9-chatgpt-image-gpt-image-2-adorable-summerween-skull-clipart-cute-round-ivory-skull-head-pink-heart-sunglasses-oversized-pink-bow-pastel-beach-halloween-aesthetic-tiny.jpeg"><img src="https://cdn.prompthero.com/d54536yio8tcq5ctnai6j387x9-chatgpt-image-gpt-image-2-adorable-summerween-skull-clipart-cute-round-ivory-skull-head-pink-heart-sunglasses-oversized-pink-bow-pastel-beach-halloween-aesthetic-tiny.jpeg" width="480" alt="After"></a>
 
 **Prompt**
 
 ```text
-a stunning realistic photograph portrait of a beautiful blonde 20 year old woman, (aboard a pirate ship:1.5), wearing pirate captain clothes, hyper realism, Very detailed, Full character in view, detailed face, masterpiece, random colored hair,  (jade ocean), mercury, random color eyes, full body, cover, hyperdetailed painting, luminism,  Bar lighting,  complex, [style by Martina Fačková and Prywinko Art, Artgerm, WLOP, Alphonse Mucha, Tony Taka], Detailed  face, hyper-reallistic cover photo awesome full color, bright, gritty, realistic color scheme,  intricate details , masterpiece ((hyperdetailed eyes)), perfect body, perfect anatomy, beautifully detailed face, full body, highly detailed, digital painting, hyper-realistic, sharp focus, illustration, pretty eyes, award-winning, intense coloration fantasy, 16K, UHD, HDR,(Masterpiece, best quality:1.5)
+adorable summerween skull clipart, cute round ivory skull head, pink heart sunglasses, oversized pink bow, pastel beach halloween aesthetic, tiny gold sparkles, sweet spooky style, soft watercolor illustration, blush pink aqua and cream palette, kawaii coquette style, isolated on pure white background, transparent PNG look, skull head only, no body, no text
 ```
 
-By [@ScArecrow23](https://prompthero.com/prompt/3d1db4d2c92-dreamshaper-5-baked-vae-pirate-dreamshaperxl10alpha2xl10-a-stunning-realistic-photograph-portrait-of-a-beautiful-blonde-20-year-old-woman-aboard-a-pirate-ship15-wearing-pirate-captain)
+By [@chorlo](https://prompthero.com/prompt/58601456f31-chatgpt-image-gpt-image-2-adorable-summerween-skull-clipart-cute-round-ivory-skull-head-pink-heart-sunglasses-oversized-pink-bow-pastel-beach-halloween-aesthetic-tiny)
 
 ---
 
-<a id="prompthero-3d7065db3ff"></a>
+<a id="prompthero-83650132e9d"></a>
 
-## An illustration of Flash with a hard, intense look\.\.\.
+## Young Sorceress
 
-<a href="https://cdn.prompthero.com/31xd8qqe59i4vd5f8rxx2du4vczo-dalle-3-flash-an-illustration-of-flash-with-a-hard-intense-look-and-strong-bandaged-hands-sharing-scars-and-battle-marks-on-his.jfif"><img src="https://cdn.prompthero.com/31xd8qqe59i4vd5f8rxx2du4vczo-dalle-3-flash-an-illustration-of-flash-with-a-hard-intense-look-and-strong-bandaged-hands-sharing-scars-and-battle-marks-on-his.jfif" width="480" alt="After"></a>
+<a href="https://cdn.prompthero.com/i5c4ddwlix3g4rq2n3y366f9sjod-stable-diffusion-15-young-sorceress.png"><img src="https://cdn.prompthero.com/i5c4ddwlix3g4rq2n3y366f9sjod-stable-diffusion-15-young-sorceress.png" width="480" alt="After"></a>
 
 **Prompt**
 
 ```text
-An illustration of Flash with a hard, intense look, and strong, bandaged hands, sharing scars and battle marks on his face and body. Sweat, speed and blur. his body is adorned with glowing golden runes. purple aura fire around him. body dynamic epic action pose, bladerunner city street ruined background. with an emphasis on bold, expressive brushstrokes and bright colors. The background can be left to the artist's interpretation. The modifier is CarnageStyle, the color is blood red, and the intensity is 1.6, the lighting is cinematic, the angle is dynamic, the details are extreme.
+watercolor Illustration of a single girl, young sorceress, from afar, from above, isometric view, ultra detailed, masterpiece, best quality, intricated details, dynamic lighting, Golden Hour, ocean, Cinematic , <lora:add_detail:1>, UHD, HDR, 8K, (Masterpiece:1.5), (best quality:1.5)
 ```
 
-[Source](https://prompthero.com/prompt/3d7065db3ff-dalle-3-flash-an-illustration-of-flash-with-a-hard-intense-look-and-strong-bandaged-hands-sharing-scars-and-battle-marks-on-his)
+By [@ScArecrow23](https://prompthero.com/prompt/83650132e9d-stable-diffusion-15-young-sorceress)
 
 ---
 
-<a id="prompthero-3d4684509c2"></a>
+<a id="prompthero-47839786104"></a>
 
-## A cute \[ cat \] clipart, organic forms, in the styl\.\.\.
+## naruto anime wallpaper, naruto wallpaper, in the s\.\.\.
 
-<a href="https://cdn.prompthero.com/zz13bt7la3y8n0u3a4gequ329e0z-midjourney-6-a-cute-cat-clipart-organic-forms-in-the-style-of-jon-klassen-desaturated-light-and-airy-pastel-color-palette-nursery.png"><img src="https://cdn.prompthero.com/zz13bt7la3y8n0u3a4gequ329e0z-midjourney-6-a-cute-cat-clipart-organic-forms-in-the-style-of-jon-klassen-desaturated-light-and-airy-pastel-color-palette-nursery.png" width="480" alt="After"></a>
+<a href="https://cdn.prompthero.com/61ch67cc7pttc8ndu8uykmp2xr47-midjourney-niji-mode-naruto-anime-wallpaper-naruto-wallpaper-in-the-style-of-cyberpunk-dystopia-light-yellow-and-dark-orange-realistic-oil-paintings-associated.png"><img src="https://cdn.prompthero.com/61ch67cc7pttc8ndu8uykmp2xr47-midjourney-niji-mode-naruto-anime-wallpaper-naruto-wallpaper-in-the-style-of-cyberpunk-dystopia-light-yellow-and-dark-orange-realistic-oil-paintings-associated.png" width="480" alt="After"></a>
 
 **Prompt**
 
 ```text
-A cute [ cat ] clipart, organic forms, in the style of Jon Klassen, desaturated light and airy pastel color palette, nursery art, white background --ar 9:16 --style raw --v 6
+naruto anime wallpaper, naruto wallpaper, in the style of cyberpunk dystopia, light yellow and dark orange, realistic oil paintings, associated press photo, zigzags, cartoon mis-en-scene, gadgetpunk --ar 9:16 --s 750 --niji 5
 ```
 
-[Source](https://prompthero.com/prompt/3d4684509c2-midjourney-6-a-cute-cat-clipart-organic-forms-in-the-style-of-jon-klassen-desaturated-light-and-airy-pastel-color-palette-nursery)
+By [@NorthmoorAI](https://prompthero.com/prompt/47839786104-midjourney-niji-mode-naruto-anime-wallpaper-naruto-wallpaper-in-the-style-of-cyberpunk-dystopia-light-yellow-and-dark-orange-realistic-oil-paintings-associated)
 
 ---
 
-<a id="prompthero-3eb4c8c95af"></a>
+<a id="prompthero-56056653325"></a>
 
-## digital wallpaper portrait of brutal cyberpunk sam\.\.\.
+## 1girl,weapon,long hair,black hair,white background\.\.\.
 
-<a href="https://cdn.prompthero.com/wz8nf9ypkl8egx83rjhty75l2yc3-stable-diffusion-xl-base-09-digital-wallpaper-portrait-of-brutal-cyberpunk-samurai-anime-in-the-style-of-marvel-comics-dark-muted-colors-brutal-epic-composition.png"><img src="https://cdn.prompthero.com/wz8nf9ypkl8egx83rjhty75l2yc3-stable-diffusion-xl-base-09-digital-wallpaper-portrait-of-brutal-cyberpunk-samurai-anime-in-the-style-of-marvel-comics-dark-muted-colors-brutal-epic-composition.png" width="480" alt="After"></a>
+<a href="https://cdn.prompthero.com/zl7uy04j3llf2hjdhsgf48mn983h-midjourney-niji-mode-1girlweaponlong-hairblack-hairwhite-backgroundsoloarm-guardslooking-at-viewerblack-eyestabifloating-hairfull-bodyblood-on-facered-armorfractal-artabstract-backgroundink-wash-painting-lorawuxia08-style-swirlmagic07.jpeg"><img src="https://cdn.prompthero.com/zl7uy04j3llf2hjdhsgf48mn983h-midjourney-niji-mode-1girlweaponlong-hairblack-hairwhite-backgroundsoloarm-guardslooking-at-viewerblack-eyestabifloating-hairfull-bodyblood-on-facered-armorfractal-artabstract-backgroundink-wash-painting-lorawuxia08-style-swirlmagic07.jpeg" width="480" alt="After"></a>
 
 **Prompt**
 
 ```text
-digital wallpaper portrait of brutal cyberpunk samurai, anime, in the style of marvel comics, dark, muted colors, brutal epic composition, dramatic, digital painting, very intricate
+1girl,weapon,long hair,black hair,white background,solo,arm guards,looking at viewer,black eyes,tabi,floating hair,full body,blood on face,red armor,fractal art,abstract background,ink wash painting, <lora:wuxia:0.8>, (style-swirlmagic:0.7), <lora:tshee00d:0.5>, masterpiece,ultra realistic,32k,extremely detailed CG unity 8k wallpaper, best quality
 ```
 
-By [@ArtEnthusiast](https://prompthero.com/prompt/3eb4c8c95af-stable-diffusion-xl-base-09-digital-wallpaper-portrait-of-brutal-cyberpunk-samurai-anime-in-the-style-of-marvel-comics-dark-muted-colors-brutal-epic-composition)
+By [@heeyrina](https://prompthero.com/prompt/56056653325-midjourney-niji-mode-1girlweaponlong-hairblack-hairwhite-backgroundsoloarm-guardslooking-at-viewerblack-eyestabifloating-hairfull-bodyblood-on-facered-armorfractal-artabstract-backgroundink-wash-painting-lorawuxia08-style-swirlmagic07)
 
 ---
 
-<a id="prompthero-4a26619479c"></a>
+<a id="prompthero-a04a20a0768"></a>
 
-## vivid red tomatoes with simple green leaves arrang\.\.\.
+## A surreal oil painting of a person&\#39;s face in extre\.\.\.
 
-<a href="https://cdn.prompthero.com/iv7nufakxxdtr1zelwh1hwauqs-chatgpt-image-gpt-image-2-vivid-red-tomatoes-with-simple-green-leaves-arranged-organically-sliced-tomatoes-and-whole-tomatoes-mixed-bold-flat-colors-risograph-print.jpeg"><img src="https://cdn.prompthero.com/iv7nufakxxdtr1zelwh1hwauqs-chatgpt-image-gpt-image-2-vivid-red-tomatoes-with-simple-green-leaves-arranged-organically-sliced-tomatoes-and-whole-tomatoes-mixed-bold-flat-colors-risograph-print.jpeg" width="480" alt="After"></a>
+<a href="https://cdn.prompthero.com/0dv2efn1ncep2ant5wheso19lzow-flux-flux-11-pro-a-surreal-oil-painting-of-a-persons-face-in-extreme-close-up-golden-light-illuminating-their-soft-skin-eyes-closed.jpg"><img src="https://cdn.prompthero.com/0dv2efn1ncep2ant5wheso19lzow-flux-flux-11-pro-a-surreal-oil-painting-of-a-persons-face-in-extreme-close-up-golden-light-illuminating-their-soft-skin-eyes-closed.jpg" width="480" alt="After"></a>
 
 **Prompt**
 
 ```text
-vivid red tomatoes with simple green leaves arranged organically, sliced tomatoes and whole tomatoes mixed, bold flat colors, risograph print style, textured halftone grain, imperfect ink spread, soft paper texture, retro screen-printing aesthetic, minimalistic illustration, no text, clean white background, playful composition, high contrast, vintage print poster vi
+A surreal oil painting of a person's face in extreme close-up, golden light illuminating their soft skin, eyes closed in a dreamlike state, with dripping textures, visible brushstrokes, abstract background blending into the skin, emotional and painterly realism, inspired by Casey Baugh and abstract expressionism
 ```
 
-[Source](https://prompthero.com/prompt/4a26619479c-chatgpt-image-gpt-image-2-vivid-red-tomatoes-with-simple-green-leaves-arranged-organically-sliced-tomatoes-and-whole-tomatoes-mixed-bold-flat-colors-risograph-print)
+[Source](https://prompthero.com/prompt/a04a20a0768-flux-flux-11-pro-a-surreal-oil-painting-of-a-persons-face-in-extreme-close-up-golden-light-illuminating-their-soft-skin-eyes-closed)
 
 ---
 
-<a id="prompthero-4bd7190e3d6"></a>
+<a id="prompthero-a269cec95f6"></a>
 
-## \(masterpiece\), \(anime style\), shot from below, awa\.\.\.
+## Heroes? Where?
 
-<a href="https://cdn.prompthero.com/m8p4qg0dlw7im44pf1yov2c7xqyr-stable-diffusion-21-768-masterpiece-anime-style-shot-from-below-award-winning-close-up-centered-instagram-able-looking-toward-camera-dynamic-pose-cat-girl.jpg"><img src="https://cdn.prompthero.com/m8p4qg0dlw7im44pf1yov2c7xqyr-stable-diffusion-21-768-masterpiece-anime-style-shot-from-below-award-winning-close-up-centered-instagram-able-looking-toward-camera-dynamic-pose-cat-girl.jpg" width="480" alt="After"></a>
+<a href="https://cdn.prompthero.com/yfhete5bfmaogho1q7gm1ikpasq2-flux-pro-11-ultra-heroes-where.png"><img src="https://cdn.prompthero.com/yfhete5bfmaogho1q7gm1ikpasq2-flux-pro-11-ultra-heroes-where.png" width="480" alt="After"></a>
 
 **Prompt**
 
 ```text
-(masterpiece), (anime style), shot from below, award winning, close up, centered, Instagram able, looking toward camera, dynamic pose, cat girl, studying, sailor uniform, flowery headband, long wavy hair, classroom interior, dynamic lighting, depth of field, ultra detailed, (epic composition, epic proportion), 2D illustration, professional work, Makoto Shinkai, trending on pixiv
+A nightmarish, distorted figure resembling Batman stands against a dark background. The figure's suit is primarily white or light gray, giving it a ghostly appearance. A large, jagged, blood-red bat symbol is emblazoned across its chest, and streaks of red are visible on the gauntlets, belt, and edges of the cape. The most unsettling feature is the face â a pale, gaunt visage contorted into a wide, Joker-like grin. The overall impression is one of a twisted, corrupted version of the iconic superhero.] [Horror, dark fantasy, character design] [Inspired by the darker interpretations of Batman, such as those seen in the works of artists like Greg Capullo or Scott Snyder. Also reminiscent of the unsettling character designs of artists like Dave McKean.] [Digital painting with a loose, expressive style, emphasizing rough brushstrokes and textured details. The color palette is stark and dramatic, with the white and red contrasting sharply against the dark background. The lighting is dim and atmospheric, adding to the sense of unease. The figure's pose and expression convey a sense of menace and instability
 ```
 
-[Source](https://prompthero.com/prompt/4bd7190e3d6-stable-diffusion-21-768-masterpiece-anime-style-shot-from-below-award-winning-close-up-centered-instagram-able-looking-toward-camera-dynamic-pose-cat-girl)
+[Source](https://prompthero.com/prompt/a269cec95f6-flux-pro-11-ultra-heroes-where)
 
 ---
 
-<a id="prompthero-4ce10d55aa4"></a>
+<a id="prompthero-a783bb790f8"></a>
 
-## Cyberpunk Anime Shot / Portrait of Reika
+## Dramatic portrait of a masked mystic in a shadowy \.\.\.
 
-<a href="https://cdn.prompthero.com/z02kmz7wb6cl4qyr9quiethfgsfq-stable-diffusion-15-cyberpunk-anime-shot-portrait-of-reika.png"><img src="https://cdn.prompthero.com/z02kmz7wb6cl4qyr9quiethfgsfq-stable-diffusion-15-cyberpunk-anime-shot-portrait-of-reika.png" width="480" alt="After"></a>
+<a href="https://cdn.prompthero.com/dr5gidqfw7nh2mhrdnowemiuqwma-flux-flux-11-pro-dramatic-portrait-of-a-masked-mystic-in-a-shadowy-baroque-chamber-wearing-an-intricate-dark-cape-pale-mask-with-sharp.jpg"><img src="https://cdn.prompthero.com/dr5gidqfw7nh2mhrdnowemiuqwma-flux-flux-11-pro-dramatic-portrait-of-a-masked-mystic-in-a-shadowy-baroque-chamber-wearing-an-intricate-dark-cape-pale-mask-with-sharp.jpg" width="480" alt="After"></a>
 
 **Prompt**
 
 ```text
-<lora:Reika:0.45> Beautiful full body shot of Reika, black latex bodyshuit, straight black hair, science fiction, cyberpunk city in the background, gantz, In the Style of Cyberpunk 2077, Ultra realistic photo face of a beautiful woman, masterpiece, best quality, CG, wallpaper, HDR, high quality, high-definition, extremely detailed, {beautiful detailed face}, {beautiful detailed eyes}, (detailed light){{intricate detail}}, {highres}, ((detailed face)), extremely detailed face, beautiful face, {{ young woman}}, Jewel-like eyes, neon light, chiaroscuro, anime style, key visual, intricate detail, highly detailed, breathtaking, vibrant, cinematic
+Dramatic portrait of a masked mystic in a shadowy baroque chamber, wearing an intricate dark cape, pale mask with sharp features, single candle casting dramatic shadows, ornate gilded mirror reflecting mysterious atmosphere, deep blue-black color scheme, cinematic chiaroscuro lighting, Gothic Renaissance aesthetic, ethereal and enigmatic composition, hyperdetailed, photorealistic render Negative Prompt: blurry, low quality, worst quality, bad anatomy, distorted, cartoon, anime, sketch, drawing Style Preset: cinematic Seed: 42 Steps: 50 CFG Scale: 7.5
 ```
 
-[Source](https://prompthero.com/prompt/4ce10d55aa4-stable-diffusion-15-cyberpunk-anime-shot-portrait-of-reika)
+[Source](https://prompthero.com/prompt/a783bb790f8-flux-flux-11-pro-dramatic-portrait-of-a-masked-mystic-in-a-shadowy-baroque-chamber-wearing-an-intricate-dark-cape-pale-mask-with-sharp)
 
 ---
 
-<a id="prompthero-6e536a2ee17"></a>
+<a id="prompthero-ab26b1eceb5"></a>
 
-## Beautiful medieval female lord portrait
+## Full-body illustration of Al Pacino in a stylized \.\.\.
 
-<a href="https://cdn.prompthero.com/dxf9ymilc73m9tgu34071v7rlfyc-stable-diffusion-15-beautiful-medieval-female-lord-portrait.png"><img src="https://cdn.prompthero.com/dxf9ymilc73m9tgu34071v7rlfyc-stable-diffusion-15-beautiful-medieval-female-lord-portrait.png" width="480" alt="After"></a>
+<a href="https://cdn.prompthero.com/ov4c877dwde1rjv1qlm3nm9c5w-chatgpt-image-gpt-image-2-full-body-illustration-of-al-pacino-in-a-stylized-1980s-miami-setting-hes-wearing-a-pink-wide-collar-shirt-under.jpeg"><img src="https://cdn.prompthero.com/ov4c877dwde1rjv1qlm3nm9c5w-chatgpt-image-gpt-image-2-full-body-illustration-of-al-pacino-in-a-stylized-1980s-miami-setting-hes-wearing-a-pink-wide-collar-shirt-under.jpeg" width="480" alt="After"></a>
 
 **Prompt**
 
 ```text
-Tarot card, High quality portrait of beautiful female warrior , female portrait, in red armor, red lion mane, intricate, elegant, highly detailed, dynamic lighting, concept art, beautiful detailed face, beautiful portrait, female portrait, detailed beautiful female face, illustration, 8 k , masterpiece, best quality, CG, wallpaper, HDR, high quality, high-definition, extremely detailed, (detailed light){{intricate detail}}, {highres}, beautiful sunlight, chiaroscuro, anime style, key visual, intricate detail, highly detailed, breathtaking, vibrant, cinematic, detailed background,<lora:UltimateTarotV1.3:0.5> <lora:tarothorridv2:0.5>, red hue, <lora:EnglishDollLikeness_v10:0.7>
+Full-body illustration of Al Pacino in a stylized 1980s Miami setting. He's wearing a pink wide-collar shirt under a white suit, with white loafers. In his right hand, he holds a lit cigar with smoke softly rising. The camera angle is slightly low, emphasizing his presence. The background features tall palm trees, a bright blue sky, and a vibrant atmosphere. The style should mimic the colorful, exaggerated aesthetic of GTA 5 artwork — bold lines, vivid colors, and a dynamic, stylized look
 ```
 
-[Source](https://prompthero.com/prompt/6e536a2ee17-stable-diffusion-15-beautiful-medieval-female-lord-portrait)
+[Source](https://prompthero.com/prompt/ab26b1eceb5-chatgpt-image-gpt-image-2-full-body-illustration-of-al-pacino-in-a-stylized-1980s-miami-setting-hes-wearing-a-pink-wide-collar-shirt-under)
 
 ---
 
-<a id="prompthero-6f2d0a345e2"></a>
+<a id="prompthero-aba99292fad"></a>
 
-## Redhead Fairy
+## a 1child standing, sadness, oil painting, a massiv\.\.\.
 
-<a href="https://cdn.prompthero.com/w8w8esadf2kxg9iz06kqkitw8fds-dreamshaper-5-baked-vae-redhead-fairy.png"><img src="https://cdn.prompthero.com/w8w8esadf2kxg9iz06kqkitw8fds-dreamshaper-5-baked-vae-redhead-fairy.png" width="480" alt="After"></a>
+<a href="https://cdn.prompthero.com/aui9ycuesrvznyfn80rl6zaumde3-dreamshaper-5-baked-vae-a-1child-standing-sadness-oil-painting-a-massive-swirling-tornado-swept-through-city-ultra-wide-shot-destructive-natural-disaster-cold.png"><img src="https://cdn.prompthero.com/aui9ycuesrvznyfn80rl6zaumde3-dreamshaper-5-baked-vae-a-1child-standing-sadness-oil-painting-a-massive-swirling-tornado-swept-through-city-ultra-wide-shot-destructive-natural-disaster-cold.png" width="480" alt="After"></a>
 
 **Prompt**
 
 ```text
-oil painting, a female fairy with red hair , purple eyes , elf ears, red hair styled in a pony tail, translucent colorful fairy wings, wearing a white dress with purple detailing, ornate, high detail, panned out view, Gloomy Illumination, dramatic, Glow effects, (dark fantasy:1.1), [style of John Blanche, style of Ed Binkley, style of Amy Brown],<lora:add_detail:1>, 16k, UHD, HDR,(Masterpiece:1.5),(best quality:1.5)
+a 1child standing, sadness, oil painting, a massive swirling tornado swept through city, ultra-wide shot, destructive, natural disaster, cold color, epic composition, epic proportion, masterpiece, award winning, HD, 64K,
 ```
 
-By [@ScArecrow23](https://prompthero.com/prompt/6f2d0a345e2-dreamshaper-5-baked-vae-redhead-fairy)
+[Source](https://prompthero.com/prompt/aba99292fad-dreamshaper-5-baked-vae-a-1child-standing-sadness-oil-painting-a-massive-swirling-tornado-swept-through-city-ultra-wide-shot-destructive-natural-disaster-cold)
 
 ---
 
-<a id="prompthero-7aab21d8fd8"></a>
+<a id="prompthero-acdf210cc03"></a>
 
-## In the style of TOK, a photo editorial dramatic ac\.\.\.
+## Anime style, adult woman with long silver hair and\.\.\.
 
-<a href="https://cdn.prompthero.com/2gkgnc5c8yvjb4vu1fzf5ojo2ifk-flux-flux-11-pro-in-the-style-of-tok-a-photo-editorial-dramatic-action-pose-of-a-person-with-mirrored-lenses-with-creative-bucket.jpg"><img src="https://cdn.prompthero.com/2gkgnc5c8yvjb4vu1fzf5ojo2ifk-flux-flux-11-pro-in-the-style-of-tok-a-photo-editorial-dramatic-action-pose-of-a-person-with-mirrored-lenses-with-creative-bucket.jpg" width="480" alt="After"></a>
+<a href="https://cdn.prompthero.com/v1_f979a1d1479707d5186de6d1ae-seedream-5-v2-anime-style-adult-woman-with-long-silver-hair-and-violet-eyes-tall-and-athletic-leaning-against-a-balcony-railing-and.jpg"><img src="https://cdn.prompthero.com/v1_f979a1d1479707d5186de6d1ae-seedream-5-v2-anime-style-adult-woman-with-long-silver-hair-and-violet-eyes-tall-and-athletic-leaning-against-a-balcony-railing-and.jpg" width="480" alt="After"></a>
 
 **Prompt**
 
 ```text
-In the style of TOK, a photo editorial dramatic action pose of a person with mirrored lenses with creative bucket hat, standing in Tokyo with large marble structures and white purple trees in a Basketball court, with a vibrant illustrated street wear puffy architectural leather jacket surrounded by illustrations of smoke, flames, birds, and flowers, fog, exclamation mark, lines shooting outwards, ascii characters
+Anime style, adult woman with long silver hair and violet eyes, tall and athletic, leaning against a balcony railing and looking back over her shoulder, wearing a silk slip dress , on a rooftop above a neon city at night, pink and blue neon glow, full body, low angle”
 ```
 
-[Source](https://prompthero.com/prompt/7aab21d8fd8-flux-flux-11-pro-in-the-style-of-tok-a-photo-editorial-dramatic-action-pose-of-a-person-with-mirrored-lenses-with-creative-bucket)
+By [@danivarga](https://prompthero.com/prompt/acdf210cc03-seedream-5-v2-anime-style-adult-woman-with-long-silver-hair-and-violet-eyes-tall-and-athletic-leaning-against-a-balcony-railing-and)
 
 ---
 
-<a id="prompthero-7af1c5aa3d6"></a>
+<a id="prompthero-ade934bd51f"></a>
 
-## high ground angle shot, skyscrappers on low ground\.\.\.
+## a greek god, desperate, digital wallpaper portrait\.\.\.
 
-<a href="https://cdn.prompthero.com/7on05tvvo6mm7rhmo218hsim6omc-dalle-3-high-ground-angle-shot-skyscrappers-on-low-ground-a-angry-screaming-king-kong-godzilla-futuristic-organic-armor-like-creatures-in.jpeg"><img src="https://cdn.prompthero.com/7on05tvvo6mm7rhmo218hsim6omc-dalle-3-high-ground-angle-shot-skyscrappers-on-low-ground-a-angry-screaming-king-kong-godzilla-futuristic-organic-armor-like-creatures-in.jpeg" width="480" alt="After"></a>
+<a href="https://cdn.prompthero.com/67b7hy2f1d29iskh0nc90ru3ja3a-stable-diffusion-xl-base-09-a-greek-god-desperate-digital-wallpaper-portrait-dark-background-muted-colors-brutal-epic-composition-dramatic-digital-painting-rainy-expressionism-emotionally.png"><img src="https://cdn.prompthero.com/67b7hy2f1d29iskh0nc90ru3ja3a-stable-diffusion-xl-base-09-a-greek-god-desperate-digital-wallpaper-portrait-dark-background-muted-colors-brutal-epic-composition-dramatic-digital-painting-rainy-expressionism-emotionally.png" width="480" alt="After"></a>
 
 **Prompt**
 
 ```text
-high ground angle shot, skyscrappers on low ground, a angry screaming King Kong Godzilla, futuristic organic armor like creatures in action with white and red aura and unleashing an attacks, neon light, detailed anime style, fw murano style, full body GALAXY armour, plumes of jet black plumes smokes, In the style of Prokoko, with a focus on bold, expressive brushstrokes and vivid colors, The modifier is CarnageStyle, the color is blood_red, and the intensity is 1.6, the lighting is cinematic, the angle is dynamic, the details are extreme
+a greek god, desperate, digital wallpaper portrait, dark background, muted colors, brutal epic composition, dramatic, digital painting, rainy, expressionism, emotionally profound, leaving an indelible and haunting impression on psyche, unforgettable, very intricate
 ```
 
-[Source](https://prompthero.com/prompt/7af1c5aa3d6-dalle-3-high-ground-angle-shot-skyscrappers-on-low-ground-a-angry-screaming-king-kong-godzilla-futuristic-organic-armor-like-creatures-in)
+By [@ArtEnthusiast](https://prompthero.com/prompt/ade934bd51f-stable-diffusion-xl-base-09-a-greek-god-desperate-digital-wallpaper-portrait-dark-background-muted-colors-brutal-epic-composition-dramatic-digital-painting-rainy-expressionism-emotionally)
 
 ---
 
-<a id="prompthero-7b266f41fa6"></a>
+<a id="prompthero-af4ac1ec97b"></a>
 
-## Sketch, Beautiful Colored Pencil Line Art, Beautif\.\.\.
+## A Renaissance painting of an isolated pond with li\.\.\.
 
-<a href="https://cdn.prompthero.com/lu6bk0dlehpoq3p0zlky2zk9kvz0-flux-flux-11-pro-sketch-beautiful-colored-pencil-line-art-beautiful-curves-brush-strokes-technique-artistic-beautiful-female-traveler-tank-top-off-shoulder-adventure.jpg"><img src="https://cdn.prompthero.com/lu6bk0dlehpoq3p0zlky2zk9kvz0-flux-flux-11-pro-sketch-beautiful-colored-pencil-line-art-beautiful-curves-brush-strokes-technique-artistic-beautiful-female-traveler-tank-top-off-shoulder-adventure.jpg" width="480" alt="After"></a>
+<a href="https://cdn.prompthero.com/qu4w3reha9a2d0vkug13szzts1j3-midjourney-6-a-renaissance-painting-of-an-isolated-pond-with-lily-pads-and-ducks-surrounded-by-tall-grasses-and-plants-with-a.png"><img src="https://cdn.prompthero.com/qu4w3reha9a2d0vkug13szzts1j3-midjourney-6-a-renaissance-painting-of-an-isolated-pond-with-lily-pads-and-ducks-surrounded-by-tall-grasses-and-plants-with-a.png" width="480" alt="After"></a>
 
 **Prompt**
 
 ```text
-Sketch, Beautiful Colored Pencil Line Art, Beautiful Curves, Brush Strokes Technique, Artistic, Beautiful, Female Traveler, Tank Top, Off Shoulder, Adventure, Mountains, Forest, Cave, Heavy Rain, Watery Sky, Thunder, Wet Face, Emotional Music in Beautiful Line Drawing Style. Perfect Composition, Incredible Detail and Beautiful Rendering. Trending on ArtStation. 8k Fine Art Photography, Realistic Conceptual Art, Perfect Light in Natural Volumetric Cinematography, Soft Light and Shadows, Award Winning Photography, Masterpiece, Oil on Canvas, Raphael Caravaggio, Greg Rutkowski, Bepl Beksinski, Giger.
+A Renaissance painting of an isolated pond with lily pads and ducks, surrounded by tall grasses and plants, with a mysterious background of dense forest. The color palette is dark blue, green, gray, light purple, and yellow, creating a gloomy atmosphere. --ar 97:84 --s 250 --style raw --v 6.1
 ```
 
-[Source](https://prompthero.com/prompt/7b266f41fa6-flux-flux-11-pro-sketch-beautiful-colored-pencil-line-art-beautiful-curves-brush-strokes-technique-artistic-beautiful-female-traveler-tank-top-off-shoulder-adventure)
+By [@Dallas59](https://prompthero.com/prompt/af4ac1ec97b-midjourney-6-a-renaissance-painting-of-an-isolated-pond-with-lily-pads-and-ducks-surrounded-by-tall-grasses-and-plants-with-a)
 
 ---
 
-<a id="prompthero-7bf8e6fadfd"></a>
+<a id="prompthero-b5db5e3d46f"></a>
 
-## Gen z man and woman , walking in different directi\.\.\.
+## Productive photograph
 
-<a href="https://cdn.prompthero.com/gjd9wcevxjojdpfwxrl99fin3m-hero-10-gen-z-man-and-woman-walking-in-different-directions-wearing-street-style-clothing-holding-a-coffee-cup-oil-painting-vibes.jpeg"><img src="https://cdn.prompthero.com/gjd9wcevxjojdpfwxrl99fin3m-hero-10-gen-z-man-and-woman-walking-in-different-directions-wearing-street-style-clothing-holding-a-coffee-cup-oil-painting-vibes.jpeg" width="480" alt="After"></a>
+<a href="https://cdn.prompthero.com/xd8j6wuy81c6twzs6lbwj94jtaxi-midjourney-6-productive-photograph.png"><img src="https://cdn.prompthero.com/xd8j6wuy81c6twzs6lbwj94jtaxi-midjourney-6-productive-photograph.png" width="480" alt="After"></a>
 
 **Prompt**
 
 ```text
-Gen z man and woman , walking in different directions, wearing street style clothing, holding a coffee cup , oil painting vibes
+illustration, perspective view, retro pop art , Louis Poulsen Panthella 250 table lamp, chrome sleek and reflective, lamp on the concrete cylinder podium with photo studio setting, deep foggy and red color background, studio lighting and highlights the contrast, with a square soft box lighting providing illuminations, casting realism golden hour sunlight with window frame shadows, optimal shape, photorealistic, highly detail, 8K UHD --ar 9:16 --style raw
 ```
 
-[Source](https://prompthero.com/prompt/7bf8e6fadfd-hero-10-gen-z-man-and-woman-walking-in-different-directions-wearing-street-style-clothing-holding-a-coffee-cup-oil-painting-vibes)
+By [@Grayve](https://prompthero.com/prompt/b5db5e3d46f-midjourney-6-productive-photograph)
 
 ---
 
-<a id="prompthero-8a3f7dafc88"></a>
+<a id="prompthero-b5dc09bb26f"></a>
 
-## anime full body Symbolist ink wash painting of a 2\.\.\.
+## creative illustration art, full-body of an man, we\.\.\.
 
-<a href="https://cdn.prompthero.com/d5w1zypibf5v7k9xqq9fsbupejo8-flux1-dev-v1v2-flux1-schnell-bnb-nf4-flux1-dev-bnb-nf4-v2-anime-full-body-symbolist-ink-wash-painting-of-a-24-year-old-yao-greek-female-edgy-rocker-girl-with-a.png"><img src="https://cdn.prompthero.com/d5w1zypibf5v7k9xqq9fsbupejo8-flux1-dev-v1v2-flux1-schnell-bnb-nf4-flux1-dev-bnb-nf4-v2-anime-full-body-symbolist-ink-wash-painting-of-a-24-year-old-yao-greek-female-edgy-rocker-girl-with-a.png" width="480" alt="After"></a>
+<a href="https://cdn.prompthero.com/0dko5cxspdnm9952itofee4ibrxz-midjourney-6-creative-illustration-art-full-body-of-an-man-wearing-a-mint-green-color-over-fit-t-shirt-and-black-capri.png"><img src="https://cdn.prompthero.com/0dko5cxspdnm9952itofee4ibrxz-midjourney-6-creative-illustration-art-full-body-of-an-man-wearing-a-mint-green-color-over-fit-t-shirt-and-black-capri.png" width="480" alt="After"></a>
 
 **Prompt**
 
 ```text
-anime full body Symbolist ink wash painting of a 24-year-old Yao-Greek female edgy rocker girl with a warm and inviting expression. She has Supple, hydrated skin that appears plump and bounces back to the touch. She wears subtle makeup, with a hint of blush on her cheeks and a natural pink shade on her lips. Her Inverted triangle eyes, Calm, muted green eyes, framed by long, elegant eyelashes. Her Braided bun. Her eyebrows are neatly shaped, complementing her delicate facial features.\n\nHer body is Strong, muscular arms with lean, defined lines, small breast, toned abs. Cybernetic Enhancements and Accessories, midriff, "Yare Yare" (casual, laid-back) Pose, in the background Tranquil Zen Garden with Raked Sand Patterns, in the style of ShÅji Kawamori. anime style, key visual, vibrant, studio anime, highly detailed
+creative illustration art, full-body of an man, wearing a mint green color over-fit T-shirt and black capri cargo pants with green Vans old school sneakers, blends into a vividly colored digital artwork featuring bold outline and bright pink, neon green, and magenta, artwork includes playful, cute cartoonish art style, man positioned against the vibrant wall that fills the solid background --no black man --ar 9:16 --stylize 500 --v 6
 ```
 
-By [@AkiraS](https://prompthero.com/prompt/8a3f7dafc88-flux1-dev-v1v2-flux1-schnell-bnb-nf4-flux1-dev-bnb-nf4-v2-anime-full-body-symbolist-ink-wash-painting-of-a-24-year-old-yao-greek-female-edgy-rocker-girl-with-a)
+By [@Grayve](https://prompthero.com/prompt/b5dc09bb26f-midjourney-6-creative-illustration-art-full-body-of-an-man-wearing-a-mint-green-color-over-fit-t-shirt-and-black-capri)
 
 ---
 
-<a id="prompthero-8a76b60c011"></a>
+<a id="prompthero-b017b77247c"></a>
 
-## Kyoto Animation
+## tarot card with intricate detailed frame around th\.\.\.
 
-<a href="https://cdn.prompthero.com/9cxdjnjlzhn29fmbtqvc3iisjb3e-stable-diffusion-xl-base-09-kyoto-animation.jpg"><img src="https://cdn.prompthero.com/9cxdjnjlzhn29fmbtqvc3iisjb3e-stable-diffusion-xl-base-09-kyoto-animation.jpg" width="480" alt="After"></a>
+<a href="https://cdn.prompthero.com/g4fjha2ele9skkpdnref9u4cgmit-deliberate-v2-tarot-card-with-intricate-detailed-frame-around-the-outside-portrait-of-cyberpunk-head-with-jester-hat-cyberpunk-styled-in-art.png"><img src="https://cdn.prompthero.com/g4fjha2ele9skkpdnref9u4cgmit-deliberate-v2-tarot-card-with-intricate-detailed-frame-around-the-outside-portrait-of-cyberpunk-head-with-jester-hat-cyberpunk-styled-in-art.png" width="480" alt="After"></a>
 
 **Prompt**
 
 ```text
-Kyoto Animation stylized anime mixed with tradition Chinese artworks~ A dragon flying at modern cyberpunk fantasy world. Cinematic Lighting, ethereal light, intricate details, extremely detailed, incredible details, full colored, complex details, insanely detailed and intricate, hypermaximalist, extremely detailed with rich colors. masterpiece, best quality, aerial view, HDR, UHD, unreal engine. plump looking at the camera, smooth thighs, (glittery jewelry) ((acrylic illustration, by artgerm, by kawacy, by John Singer Sargenti) dark Fantasy background, glittery jewelry, Representative, fair skin, beautiful face, Rich in details High quality, gorgeous, glamorous, 8k, super detail, gorgeous light and shadow, detailed decoration, detailed lines
+tarot card with intricate detailed frame around the outside, portrait of cyberpunk head with jester hat, cyberpunk, styled in Art Nouveau, insanely detailed, embellishments, high definition, concept art, digital art, vibrant, intricate detailed frame around the outside, detailed, 4K, details, focus, tarot card, detailed tarot card, with legs, black veins, dripping oil, predatory plants, ivy, girl's face, gloomy, red splashes, red undertones, background floral pattern , Illustration, Painting, Fine Art, 8K, Rim Lighting, Artificial Lighting --q 2 --ar 1:2
 ```
 
-By [@Atheist](https://prompthero.com/prompt/8a76b60c011-stable-diffusion-xl-base-09-kyoto-animation)
+[Source](https://prompthero.com/prompt/b017b77247c-deliberate-v2-tarot-card-with-intricate-detailed-frame-around-the-outside-portrait-of-cyberpunk-head-with-jester-hat-cyberpunk-styled-in-art)
 
 ---
 
-<a id="prompthero-8b3895e6120"></a>
+<a id="prompthero-b63313cd63a"></a>
 
-## The illustration style should be based on the draw\.\.\.
+## female in 90s Top Cow comic style, dynamic pose, i\.\.\.
 
-<a href="https://cdn.prompthero.com/l04p73mqz4z4q64vepybeuf1kwcc-dreamshaper-5-inpainting-the-illustration-style-should-be-based-on-the-drawing-style-used-by-studio-ghibli-with-lines-that-look-handmade-with.png"><img src="https://cdn.prompthero.com/l04p73mqz4z4q64vepybeuf1kwcc-dreamshaper-5-inpainting-the-illustration-style-should-be-based-on-the-drawing-style-used-by-studio-ghibli-with-lines-that-look-handmade-with.png" width="480" alt="After"></a>
+<a href="https://cdn.prompthero.com/zx54waddpirit0jjqmc855kuh6g7-flux-flux-11-pro-female-in-90s-top-cow-comic-style-dynamic-pose-inked-line-art-comic-book-illustration-detailed-shadows-intense-action-high.jpg"><img src="https://cdn.prompthero.com/zx54waddpirit0jjqmc855kuh6g7-flux-flux-11-pro-female-in-90s-top-cow-comic-style-dynamic-pose-inked-line-art-comic-book-illustration-detailed-shadows-intense-action-high.jpg" width="480" alt="After"></a>
 
 **Prompt**
 
 ```text
-The illustration style should be based on the drawing style used by Studio Ghibli, with lines that look handmade, with a Japanese drawing style inspired by kawai style drawings, with a style that has fine lines and watercolor effects . The character in the illustration must be a raccoon holding a cloth bag in his hand. A cube symbol should appear on the bag.
+female in 90s Top Cow comic style, dynamic pose, inked line art, comic book illustration, detailed shadows, intense action, high contrast, intense lighting, detailed costume, best quality, highres, ultra-detailed, comic book, dynamic pose, physique, intense action, detailed costume, high contrast, 90s style, intense lighting, detailed shadows
 ```
 
-[Source](https://prompthero.com/prompt/8b3895e6120-dreamshaper-5-inpainting-the-illustration-style-should-be-based-on-the-drawing-style-used-by-studio-ghibli-with-lines-that-look-handmade-with)
+[Source](https://prompthero.com/prompt/b63313cd63a-flux-flux-11-pro-female-in-90s-top-cow-comic-style-dynamic-pose-inked-line-art-comic-book-illustration-detailed-shadows-intense-action-high)
 
 ---
 
-<a id="prompthero-8d7cc7f2810"></a>
+<a id="prompthero-bb665c9c8d3"></a>
 
-## An illustration , character detailed, decor detail\.\.\.
+## a woman with a cat ears and a dress on is standing\.\.\.
 
-<a href="https://cdn.prompthero.com/m24mt78fv78yxel7icf2ol1m5ekm-anything-40-an-illustration-character-detailed-decor-detailed-which-has-several-characters-on-the-cover-kitsune-nekomata-tengu-oni-tanuki-yuki-onna.png"><img src="https://cdn.prompthero.com/m24mt78fv78yxel7icf2ol1m5ekm-anything-40-an-illustration-character-detailed-decor-detailed-which-has-several-characters-on-the-cover-kitsune-nekomata-tengu-oni-tanuki-yuki-onna.png" width="480" alt="After"></a>
+<a href="https://cdn.prompthero.com/1z8tubipk423s78fz523ri5sfm3w-stable-diffusion-21-768-a-woman-with-a-cat-ears-and-a-dress-on-is-standing-in-front-of-a-colorful-background-anime-style.png"><img src="https://cdn.prompthero.com/1z8tubipk423s78fz523ri5sfm3w-stable-diffusion-21-768-a-woman-with-a-cat-ears-and-a-dress-on-is-standing-in-front-of-a-colorful-background-anime-style.png" width="480" alt="After"></a>
 
 **Prompt**
 
 ```text
-An illustration , character detailed, decor detailed, which has several characters on the cover Kitsune,  Nekomata, Tengu, Oni, Tanuki, Yuki-Onna, Jorogumo, Yama-Oroshi, Kijimuna, in the background the funji world, manga style, HD, 2K
+a woman with a cat ears and a dress on is standing in front of a colorful background, anime style 4 k, anime art wallpaper 8 k, anime art wallpaper 4 k, anime art wallpaper 4k, detailed digital anime art, anime fantasy artwork, anime fantasy illustration, by Yuumei, beautiful anime artwork, onmyoji detailed art, 4k anime wallpaper
 ```
 
-[Source](https://prompthero.com/prompt/8d7cc7f2810-anything-40-an-illustration-character-detailed-decor-detailed-which-has-several-characters-on-the-cover-kitsune-nekomata-tengu-oni-tanuki-yuki-onna)
+[Source](https://prompthero.com/prompt/bb665c9c8d3-stable-diffusion-21-768-a-woman-with-a-cat-ears-and-a-dress-on-is-standing-in-front-of-a-colorful-background-anime-style)
 
 ---
 
-<a id="prompthero-8dac2bfa681"></a>
+<a id="prompthero-c0ea72c8d8d"></a>
 
-## A large 3D glossy Arabic letter &quot;أ&quot; \(Alif with ham\.\.\.
+## Incredible ultra detailed cityscape of future at \.\.\.
 
-<a href="https://cdn.prompthero.com/vnjp1kikr7o4xgmhm9pfdlbfg6-hero-10-a-large-3d-glossy-arabic-letter-alif-with-hamza-above-designed-in-a-soft-gummy-toy-style-the-letter-is.jpeg"><img src="https://cdn.prompthero.com/vnjp1kikr7o4xgmhm9pfdlbfg6-hero-10-a-large-3d-glossy-arabic-letter-alif-with-hamza-above-designed-in-a-soft-gummy-toy-style-the-letter-is.jpeg" width="480" alt="After"></a>
+<a href="https://cdn.prompthero.com/80pmxvcocstc25mw7d3gf5e8b3q1-midjourney-6-incredible-ultra-detailed-cityscape-of-future-at-moonlit-night-in-the-style-of-classic-oil-painting-hight-angle-very-close.png"><img src="https://cdn.prompthero.com/80pmxvcocstc25mw7d3gf5e8b3q1-midjourney-6-incredible-ultra-detailed-cityscape-of-future-at-moonlit-night-in-the-style-of-classic-oil-painting-hight-angle-very-close.png" width="480" alt="After"></a>
 
 **Prompt**
 
 ```text
-A large 3D glossy Arabic letter "أ" (Alif with hamza above), designed in a soft gummy toy style. The letter is smooth, rounded, and slightly inflated, with warm golden-orange color, shiny highlights, and soft reflections. Minimal cute design, centered composition, pastel background with soft star shapes, studio lighting, high detail, Pixar-style 3D render, clean and child-friendly educational illustration, 4k resolution.
+Incredible ultra detailed cityscape of future at moonlit night, in the style of classic oil painting, hight angle, very close-up, carefully balanced composition, depth of scene, inspiration by London of future, voluminous diffused light, backlighting, smooth paint transitions, reflections on surfaces, octane rendering, highest quality, high quality textures, high detail, Incredible ultra detailed cityscape at night, mystical sky and atmosphere, moonlight, hight angle, very close-up, carefully balanced composition, depth of scene, inspiration from of the future, inspiration from the best modern landscape painters, voluminous diffused light, backlighting, smooth paint transitions, reflections on surfaces, octane transfer, highest quality, high quality textures, high detail --no ugly, deformed, noisy, blurry, distorted, out of focus, bad anatomy, extra limbs, poorly drawn face, poorly drawn hands, missing fingers --c 100
 ```
 
-[Source](https://prompthero.com/prompt/8dac2bfa681-hero-10-a-large-3d-glossy-arabic-letter-alif-with-hamza-above-designed-in-a-soft-gummy-toy-style-the-letter-is)
+By [@Dallas59](https://prompthero.com/prompt/c0ea72c8d8d-midjourney-6-incredible-ultra-detailed-cityscape-of-future-at-moonlit-night-in-the-style-of-classic-oil-painting-hight-angle-very-close)
 
 ---
 
-<a id="prompthero-009c570f8a0"></a>
+<a id="prompthero-c5c6c16c30a"></a>
 
-## simple pencil sketch by Odilon Redon, face only, a\.\.\.
+## A high ground angle shot, skyscrappers on low grou\.\.\.
 
-<a href="https://cdn.prompthero.com/16feb40i33ujbmgg5vocisanweg2-midjourney-61-simple-pencil-sketch-by-odilon-redon-face-only-a-gorgeous-asian-woman-side-angle-hint-of-a-smile-noticeable-charcoal.png"><img src="https://cdn.prompthero.com/16feb40i33ujbmgg5vocisanweg2-midjourney-61-simple-pencil-sketch-by-odilon-redon-face-only-a-gorgeous-asian-woman-side-angle-hint-of-a-smile-noticeable-charcoal.png" width="480" alt="After"></a>
+<a href="https://cdn.prompthero.com/6owks2i1vwpsd6oy5x5fld4pjvco-dalle-3-spiderman-a-high-ground-angle-shot-skyscrappers-on-low-ground-spiderman-fighting-at-war-raging-character-design-body-is-adorned-with.jpeg"><img src="https://cdn.prompthero.com/6owks2i1vwpsd6oy5x5fld4pjvco-dalle-3-spiderman-a-high-ground-angle-shot-skyscrappers-on-low-ground-spiderman-fighting-at-war-raging-character-design-body-is-adorned-with.jpeg" width="480" alt="After"></a>
 
 **Prompt**
 
 ```text
-simple pencil sketch by Odilon Redon, face only, a gorgeous Asian woman, side angle, hint of a smile, noticeable charcoal marks, white background, no coloring, no color --chaos 75 --ar 1:2 --stylize 750 --v 7
+A high ground angle shot, skyscrappers on low ground, Spiderman fighting at war, raging, character design, body is adorned with glowing golden runes, red and blue aura around him, body dynamic epic action pose, detailed anime style, fw murano style, full body GALAXY armour, plumes of jet black plumes smokes, In the style of Prokoko, with a focus on bold, expressive brushstrokes and vivid colors, china ink effect, The modifier is CarnageStyle, the color is blood_red, and the intensity is 1.6, the lighting is cinematic, the angle is dynamic, the details are extreme
 ```
 
-By [@NorthmoorAI](https://prompthero.com/prompt/009c570f8a0-midjourney-61-simple-pencil-sketch-by-odilon-redon-face-only-a-gorgeous-asian-woman-side-angle-hint-of-a-smile-noticeable-charcoal)
+[Source](https://prompthero.com/prompt/c5c6c16c30a-dalle-3-spiderman-a-high-ground-angle-shot-skyscrappers-on-low-ground-spiderman-fighting-at-war-raging-character-design-body-is-adorned-with)
 
 ---
 
-[1](illustrations.md) · [2](illustrations-2.md) · [3](illustrations-3.md) · [4](illustrations-4.md) · **5** · [6](illustrations-6.md) · [7](illustrations-7.md) · [8](illustrations-8.md) · [9](illustrations-9.md) · [10](illustrations-10.md) · [11](illustrations-11.md)
+<a id="prompthero-c6e777c2b3d"></a>
+
+## An oil painting man and woman are dancing the tang\.\.\.
+
+<a href="https://cdn.prompthero.com/g91hg5jagzt2liuw7b2dn8exif2x-midjourney-61-pareja-an-oil-painting-man-and-woman-are-dancing-the-tango-both-dressed-in-formal-attire-with-the-woman-wearing-a.png"><img src="https://cdn.prompthero.com/g91hg5jagzt2liuw7b2dn8exif2x-midjourney-61-pareja-an-oil-painting-man-and-woman-are-dancing-the-tango-both-dressed-in-formal-attire-with-the-woman-wearing-a.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+An oil painting man and woman are dancing the tango, both dressed in formal attire with the woman wearing a red dress. The background is a dark gray, creating an atmosphere of mystery and elegance, --s 500 --v 6.0 --style raw --ar 51:91
+```
+
+[Source](https://prompthero.com/prompt/c6e777c2b3d-midjourney-61-pareja-an-oil-painting-man-and-woman-are-dancing-the-tango-both-dressed-in-formal-attire-with-the-woman-wearing-a)
+
+---
+
+[1](illustrations.md) · [2](illustrations-2.md) · [3](illustrations-3.md) · [4](illustrations-4.md) · **5** · [6](illustrations-6.md) · [7](illustrations-7.md)
 
 [← Home](../README.md)

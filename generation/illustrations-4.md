@@ -1,331 +1,331 @@
 # illustrations
 
-[← Home](../README.md) · Page 4 / 11
+[← Home](../README.md) · Page 4 / 7
 
-[1](illustrations.md) · [2](illustrations-2.md) · [3](illustrations-3.md) · **4** · [5](illustrations-5.md) · [6](illustrations-6.md) · [7](illustrations-7.md) · [8](illustrations-8.md) · [9](illustrations-9.md) · [10](illustrations-10.md) · [11](illustrations-11.md)
+[1](illustrations.md) · [2](illustrations-2.md) · [3](illustrations-3.md) · **4** · [5](illustrations-5.md) · [6](illustrations-6.md) · [7](illustrations-7.md)
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
-<a id="freestylefly-case-468"></a>
+<a id="prompthero-955b3011a99"></a>
 
-## 霓虹涂鸦展会自拍
+## \(masterpiece\), \(anime style\), shot from below, awa\.\.\.
 
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case468.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case468.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-生成一张写实感合照，9:16构图，真实手机摄影质感。 画面中是一位20岁成年东方女性模特，站在室内展会现场，靠近镜头自然拍照。人物妆造精致，五官清秀，皮肤清透，眼神自然看向镜头，整体气质甜美。 人物姿态自然端正，身体略微前倾，肩颈柔和舒展，腰部自然收束，整体体态呈现成熟柔美的女性S型曲线。人物体态为成熟丰腴型，肩部圆润柔和，胸部饱满自然，腰线清晰但不过度纤细，臀腿曲线圆润匀称，大腿与手臂带有柔软健康的肉感，整体呈现温柔、甜美、丰腴、优雅的女性美。 人物服装为“霓虹手绘线条构成的艺术涂鸦”，笔触故意粗糙随意，带明显蜡笔与 marker 手绘质感。画面中的 doodle graphics 形成若隐若现的视觉错觉感，突出身体线条和优美轮廓，让人物看起来像穿着由霓虹线条构成的 cosplay outfit，避免呈现为真实布料服装。整体偏日本互联网自拍文化中的 playful sticker aesthetic，避免直白裸露风格。 人物发型为精致古风高马尾，搭配白色花朵头饰、水晶发簪、流苏耳饰、额间水晶装饰。妆容清透，带有淡粉色眼影、自然腮红和柔和唇色。 场景为大型室内展会现场，背景有人群和展台但轻微虚化，顶部有真实展馆灯光。画面采用近景合照构图，人物面部和服装细节清晰，背景虚化自然，有真实手机自拍感。 整体风格：写实、清透、明亮、梦幻。
-```
-
-By [@drmrzhong](https://x.com/drmrzhong/status/2058774378960257437)
-
----
-
-<a id="freestylefly-case-471"></a>
-
-## 花簪和服动漫肖像
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case471.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case471.jpg" width="480" alt="Source example"></a>
+<a href="https://cdn.prompthero.com/0bn55om5yfly9m3pqfu52vv1ao9l-dreamshaper-6-baked-vae-masterpiece-anime-style-shot-from-below-award-winning-extreme-close-up-shot-centered-focused-shot-instagram-able-strawberry-ice-cream.jpg"><img src="https://cdn.prompthero.com/0bn55om5yfly9m3pqfu52vv1ao9l-dreamshaper-6-baked-vae-masterpiece-anime-style-shot-from-below-award-winning-extreme-close-up-shot-centered-focused-shot-instagram-able-strawberry-ice-cream.jpg" width="480" alt="After"></a>
 
 **Prompt**
 
 ```text
-Ultra-detailed anime-style portrait of a young girl with large expressive eyes, soft blush cheeks, and delicate facial features. She wears a vibrant floral kimono with intricate colorful patterns. Large blooming flowers are placed in her hair like accessories. Smooth gradient warm background in coral and peach tones. Soft cinematic lighting, dreamy atmosphere, high-end digital illustration
+(masterpiece), (anime style), shot from below, award winning, extreme close-up shot, centered, focused shot, Instagram able, strawberry ice cream sundae, cafe interior, afternoon city park background, dynamic lighting, depth of field, ultra detailed, (epic composition, epic proportion), 2D illustration, panoramic, professional work, Makoto Shinkai,
 ```
 
-By [@Mind\_Boticni](https://x.com/Mind_Boticni/status/2059133066694779343)
+[Source](https://prompthero.com/prompt/955b3011a99-dreamshaper-6-baked-vae-masterpiece-anime-style-shot-from-below-award-winning-extreme-close-up-shot-centered-focused-shot-instagram-able-strawberry-ice-cream)
 
 ---
 
-<a id="freestylefly-case-495"></a>
+<a id="prompthero-2130d69b8f3"></a>
 
-## 巴黎街头故事书插画
+## a silhouette design of a jaguar, with defined sh\.\.\.
 
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case495.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case495.jpg" width="480" alt="Source example"></a>
+<a href="https://cdn.prompthero.com/2p480b2jua80b3leku24rm3nh7q9-deliberate-2-a-silhouette-design-of-a-jaguar-with-defined-sharpen-eyes-sunset-design-t-shirt-art-3d-vector-art-cute-and.jpg"><img src="https://cdn.prompthero.com/2p480b2jua80b3leku24rm3nh7q9-deliberate-2-a-silhouette-design-of-a-jaguar-with-defined-sharpen-eyes-sunset-design-t-shirt-art-3d-vector-art-cute-and.jpg" width="480" alt="After"></a>
 
 **Prompt**
 
 ```text
-Portrait illustration in a storybook style featuring a young adult woman exploring the streets of Paris. She is laughing happily with her eyes closed, holding a coffee cup in her hand. She has long, wavy hair and wears a beret hat. The scene is set near a Parisian café in a peaceful morning atmosphere. The woman has a sweet, charming smile. Soft, dreamy mood, romantic Paris street vibe, gentle lighting, and highly detailed artwork.
+a  silhouette design of a jaguar,  with defined sharpen eyes, sunset design, t- shirt art, 3D vector art, cute and quirky, bright bold colorful., black background, watercolor effect, , digital painting, low-poly, soft lighting, bird's-eye view, isometric style, retro aesthetic, focused on the character, 4K resolution, photorealistic rendering, using Cinema 4D,front side
 ```
 
-By [@MissDelulu9](https://x.com/MissDelulu9/status/2062376738500526347)
+[Source](https://prompthero.com/prompt/2130d69b8f3-deliberate-2-a-silhouette-design-of-a-jaguar-with-defined-sharpen-eyes-sunset-design-t-shirt-art-3d-vector-art-cute-and)
 
 ---
 
-<a id="freestylefly-case-498"></a>
+<a id="prompthero-2356c4a8621"></a>
 
-## 铅笔画背景 3D 分身
+## Create an intense and evocative portrait in the re\.\.\.
 
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case498.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case498.jpg" width="480" alt="Source example"></a>
+<a href="https://cdn.prompthero.com/ipxlnq84idfe7ccwylyv1105mgly-flux-flux-11-pro-create-an-intense-and-evocative-portrait-in-the-retro-anime-style-of-the-80s-and-90s-the-scene-features-a.jpg"><img src="https://cdn.prompthero.com/ipxlnq84idfe7ccwylyv1105mgly-flux-flux-11-pro-create-an-intense-and-evocative-portrait-in-the-retro-anime-style-of-the-80s-and-90s-the-scene-features-a.jpg" width="480" alt="After"></a>
 
 **Prompt**
 
 ```text
-Create a handrawn pencil illustration of [image] yawning on paper, as background. Add a 3D Pixar style render of [foto] standing casually infront of the giant handrawn pencil illustration. Soft cinematic lighting. 8K resolution. 3:4 ratio
+Create an intense and evocative portrait in the retro anime style of the 80s and 90s. The scene features a woman with long, curly hair, her mouth open and her head tilted back in a dramatic gesture, wearing round sunglasses and an oversized, vibrantly colored jacket, with perfect symmetry. Bathed in intense blue-green light, the background is stark, with strong contrasts that highlight the contours of her figure. The palette of red, orange, and black intensifies the atmosphere, evoking a sense of mystery and seduction. The subtle film grain and meticulous shading add depth and texture, emphasizing the
 ```
 
-By [@AIwithkhan](https://x.com/AIwithkhan/status/2062567518389391540)
+[Source](https://prompthero.com/prompt/2356c4a8621-flux-flux-11-pro-create-an-intense-and-evocative-portrait-in-the-retro-anime-style-of-the-80s-and-90s-the-scene-features-a)
 
 ---
 
-<a id="freestylefly-case-504"></a>
+<a id="prompthero-3235d192ddf"></a>
 
-## 粗糙涂鸦人像改图
+## an extremely delicate and beautiful,masterpiece,be\.\.\.
 
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case504.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case504.jpg" width="480" alt="Source example"></a>
+<a href="https://cdn.prompthero.com/1lz2iewaxv7anb0xit8lekz6qw6j-mix-pro-v4-v4-an-extremely-delicate-and-beautifulmasterpiecebest-quality-ultra-detailed-illustrationgorgeous-and-rich-graphicswatercolorrealisticfloatingdisheveled-hair-liquid-hairsoloa-girlbeautiful-detailed-girlwitch-hatholdingmagiccane-colorful.jpeg"><img src="https://cdn.prompthero.com/1lz2iewaxv7anb0xit8lekz6qw6j-mix-pro-v4-v4-an-extremely-delicate-and-beautifulmasterpiecebest-quality-ultra-detailed-illustrationgorgeous-and-rich-graphicswatercolorrealisticfloatingdisheveled-hair-liquid-hairsoloa-girlbeautiful-detailed-girlwitch-hatholdingmagiccane-colorful.jpeg" width="480" alt="After"></a>
 
 **Prompt**
 
 ```text
-Turn this photo into a chaotic funny doodle illustration, intentionally messy and low-skill, as if drawn quickly with a cheap marker, crayon, or worn-out felt pen on paper. Create exaggerated facial features with awkward proportions, uneven eyes, oversized head, tiny body, crooked smile, and clumsy anatomy while still keeping the person recognizable. Use rough childish sketch lines, shaky hand-drawn strokes, visible scribbles, overlapping outlines, accidental marks, and random doodles around the scene. Add a simple cartoon-style background with badly drawn buildings, trees, clouds, street elements, and uneven perspective. Coloring should look careless and imperfect, with visible stroke texture, inconsistent fill areas, wax crayon texture, marker bleed, and irregular shading. Include playful imperfections like crossed-out lines, unfinished details, random arrows, tiny notes, stars, swirls, and abstract scribbles. Overall aesthetic should feel humorous, spontaneous, handmade, energetic, goofy, and intentionally unpolished, resembling a child's sketchbook mixed with absurd internet meme art. High texture detail, paper grain visible, asymmetrical composition, awkward framing, expressive doodle chaos, raw sketch energy.
+an extremely delicate and beautiful,masterpiece,best quality, ultra-detailed, illustration,Gorgeous and rich graphics,watercolor,realistic,floating,disheveled hair, liquid hair,solo,a girl,beautiful detailed girl,witch hat,holding_magic_cane ,colorful eyes,beautiful detailed eyes,platinum hair,multicolored hair,streaked hair, multicolored clothes,halloween,shining, sunlight,colorful bubble, colorful background,high saturation,surrounded by colorful splashes,<lora:SilvermoonMix08:1>
 ```
 
-By [@Shorelyn\_](https://x.com/Shorelyn_/status/2063235707632533954)
+By [@heeyrina](https://prompthero.com/prompt/3235d192ddf-mix-pro-v4-v4-an-extremely-delicate-and-beautifulmasterpiecebest-quality-ultra-detailed-illustrationgorgeous-and-rich-graphicswatercolorrealisticfloatingdisheveled-hair-liquid-hairsoloa-girlbeautiful-detailed-girlwitch-hatholdingmagiccane-colorful)
 
 ---
 
-<a id="freestylefly-case-513"></a>
+<a id="prompthero-4191eae96aa"></a>
 
-## 单色点缀旅行手账插画
+## digital wallpaper portrait of batman, dark knight,\.\.\.
 
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case513.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case513.jpg" width="480" alt="Source example"></a>
+<a href="https://cdn.prompthero.com/xebgbguzydjfg3wlj23tpo7wnctn-stable-diffusion-xl-base-09-digital-wallpaper-portrait-of-batman-dark-knight-in-the-style-of-comics-8k-rough-marvel-comics-desperate-dark-background-muted.png"><img src="https://cdn.prompthero.com/xebgbguzydjfg3wlj23tpo7wnctn-stable-diffusion-xl-base-09-digital-wallpaper-portrait-of-batman-dark-knight-in-the-style-of-comics-8k-rough-marvel-comics-desperate-dark-background-muted.png" width="480" alt="After"></a>
 
 **Prompt**
 
 ```text
-Create a charming editorial travel illustration of {DESTINATION} in a simple hand-drawn doodled style, as if sketched by hand with a black felt-tip marker in a travel notebook. The illustration should feel personal, spontaneous, and imperfect rather than digitally designed. Think of the kind of drawing someone might casually create while sitting at a café after exploring the destination.** ## COLOR PALETTE Keep the illustration almost entirely black and white. Use **only one accent color: {ONE POINT COLOR}** ## STYLE Draw entirely with black felt-tip pen lines. Use slightly wobbly hand-drawn contours, natural line variation, loose marker strokes, sketch-like confidence, subtle imperfections, slightly open line endings, uneven hand pressure, and occasional overlapping strokes. Every line should clearly look handmade. Avoid perfectly smooth curves, mechanically precise outlines, polished vector graphics, or overly crisp digital rendering. ## SUBJECT Illustrate the unique atmosphere and instantly recognizable identity of **{DESTINATION}** rather than producing a realistic cityscape. Select the destination's most iconic landmarks, characteristic architecture, local transportation, famous scenery, native plants, local animals, regional food, and cultural objects. Focus on the spirit of the destination instead of literal accuracy. ## COMPOSITION Arrange the selected elements into a balanced editorial composition with generous white space. The layout should feel open, light, and effortless, similar to a designer's travel sketchbook. Allow objects to overlap naturally without becoming crowded. Every element should have room to breathe. Keep the composition visually relaxed and uncluttered. Apply the blue sparingly to selected details such as water, sky, windows, signs, clothing accents, decorative highlights, or small architectural features. Never introduce any additional colors. ## DRAWING STYLE Keep every object simple and intentionally simplified. Use flat shapes with minimal interior detail. Avoid realistic textures, gradients, shadows, painterly brushwork, glossy surfaces, or complex rendering. The illustration should remain clean, airy, understated, and highly graphic. ## LINE QUALITY The black marker lines are the main visual feature. Lines should feel confident, casual, lively, expressive, and naturally imperfect. Slightly uneven contours, open edges, variable line thickness, and small drawing inaccuracies are encouraged because they enhance the authentic hand-drawn feeling. ## MOOD Warm. Friendly. Relaxed. Playful. Minimal. Editorial. Contemporary. Elegant through simplicity. The finished artwork should resemble a beautifully designed travel notebook, boutique travel guide, editorial magazine illustration, or lifestyle sketchbook rather than a polished digital illustration. ## IMPORTANT No photorealism. No 3D rendering. No painterly effects. No gradients. No heavy shadows. No glossy lighting. No vector-clean artwork. No excessive detail. No busy composition. Preserve generous white space. Maintain a flat editorial doodle aesthetic with a distinctly handmade character. The final image should instantly evoke **{DESTINATION}** through simple, expressive black felt-tip sketches with subtle sky-blue accents.
+digital wallpaper portrait of batman, dark knight, in the style of comics, 8k, rough, marvel comics, desperate, dark background, muted colors, epic composition, dramatic, digital painting, emotionally profound, very intricate
 ```
 
-By [@Sairah\_0](https://x.com/Sairah_0/status/2071779087396606433)
+By [@ArtEnthusiast](https://prompthero.com/prompt/4191eae96aa-stable-diffusion-xl-base-09-digital-wallpaper-portrait-of-batman-dark-knight-in-the-style-of-comics-8k-rough-marvel-comics-desperate-dark-background-muted)
 
 ---
 
-<a id="freestylefly-case-520"></a>
+<a id="prompthero-7795e68b6c2"></a>
 
-## 月面宇航员 T 恤图形
+## portrait of a badass supervillain in skeleton mask\.\.\.
 
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case520.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case520.jpg" width="480" alt="Source example"></a>
+<a href="https://cdn.prompthero.com/2hjqo8sg9jexin2htcs4tbdcruyf-stable-diffusion-xl-base-09-portrait-of-a-badass-supervillain-in-skeleton-mask-brutal-techno-light-colors-smoke-anime-in-the-style-of-comics-8k.png"><img src="https://cdn.prompthero.com/2hjqo8sg9jexin2htcs4tbdcruyf-stable-diffusion-xl-base-09-portrait-of-a-badass-supervillain-in-skeleton-mask-brutal-techno-light-colors-smoke-anime-in-the-style-of-comics-8k.png" width="480" alt="After"></a>
 
 **Prompt**
 
 ```text
-A graphic illustration centered on a dark navy blue t-shirt, depicting an astronaut sitting on the surface of the moon, viewed from a side profile. The astronaut is wearing a detailed, bulky space suit and helmet, leaning back against a small lunar rock formation, and is holding a small steaming mug, suggesting they are enjoying a peaceful drink. Positioned directly in front of the astronaut in the background is a large, majestic view of the Earth, rendered in shades of white, light blue, and navy, featuring prominent swirling cloud formations. The entire artwork is monochromatic, utilizing a cool blue-and-white color palette that creates a serene, solitary, and contemplative atmosphere. The lunar ground is textured with craters and dust, providing a grounded contrast to the vast, dark sky and the bright, swirling planet above. The style is clean, artistic, and iconic, reminiscent of screen-printed apparel designs.
+portrait of a badass supervillain in skeleton mask, brutal, techno, light colors, smoke, anime, in the style of comics, 8k, muted colors, epic composition, dramatic, digital painting, very intricate, attention to detail
 ```
 
-By [@lovimg\_com](https://x.com/lovimg_com/status/2077035644254363972)
+By [@ArtEnthusiast](https://prompthero.com/prompt/7795e68b6c2-stable-diffusion-xl-base-09-portrait-of-a-badass-supervillain-in-skeleton-mask-brutal-techno-light-colors-smoke-anime-in-the-style-of-comics-8k)
 
 ---
 
-<a id="freestylefly-case-531"></a>
+<a id="prompthero-8887d8e2e22"></a>
 
-## 水晶框国家旅行广告海报
+## 1 girl, beautiful Korean girl, \(Cute Loose Bob hai\.\.\.
 
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case531.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case531.jpg" width="480" alt="Source example"></a>
+<a href="https://cdn.prompthero.com/rl1ul2i0eqithy4gp45cj83e11ga-stable-diffusion-15-1-girl-beautiful-korean-girl-cute-loose-bob-hair-wearing-a-cropped-hoodie-capri-sweatpants1-5-hands-in-pockets1-5.png"><img src="https://cdn.prompthero.com/rl1ul2i0eqithy4gp45cj83e11ga-stable-diffusion-15-1-girl-beautiful-korean-girl-cute-loose-bob-hair-wearing-a-cropped-hoodie-capri-sweatpants1-5-hands-in-pockets1-5.png" width="480" alt="After"></a>
 
 **Prompt**
 
 ```text
-Create a luxurious, dreamy country travel-art collection in the exact visual language of an elegant premium tourism campaign: a large transparent crystal/glass architectural frame or arched glass display standing on a glossy reflective surface, containing a highly detailed cinematic illustration of the destination. For [COUNTRY], feature its most iconic landmarks, historic architecture, distinctive landscapes, local transportation, cultural elements, national flag, flowers and recognizable scenery arranged as one seamless poetic panorama. Use warm golden-hour sunlight, soft atmospheric haze, pastel cream, champagne, muted blue and sage tones, delicate clouds, subtle birds, realistic glass refraction and rainbow prism highlights along the edges. Create a perfect mirror reflection beneath the glass structure, extending the entire composition downward with beautifully softened reflections. Add elegant editorial typography at the top reading “[COUNTRY]”, with smaller refined text “THE SOUL OF [COUNTRY]” and “A JOURNEY THROUGH TIME • 2026” beneath it. Sophisticated luxury travel magazine aesthetic, photorealistic yet painterly, cinematic depth, fine-art composition, extremely detailed architecture, serene atmosphere, premium advertising photography, symmetrical balanced framing, soft film grain, 8K, vertical 4:5, no clutter, no modern UI elements, no extra text.
+1 girl, beautiful Korean girl, (Cute Loose Bob hair), (wearing a cropped hoodie, capri sweatpants:1. 5), (hands in pockets:1. 5), (red lips:1. 3), (small breasts:1. 3), (toned stomach:1. 3), (eyelashes:1. 2), (aegyo sal:1. 2), beautiful detailed eyes, symmetrical eyes, (detailed face), immersive background, volumetric haze, global illumination, soft lighting, (flowing hair), (bright smile), natural lighting, (realistic:1.5), (lifelike:1.4), (4k, digital art, masterpiece), High detail digital painting, realistic, (top quality), (soft shadows), (best character art), ultra high resolution, highly detailed digital artwork, physically-based rendering, realism with an artistic touch, vibrant colors, f2.2 lens, soft palette, natural beauty.
 ```
 
-By [@Taaruk\_](https://x.com/Taaruk_/status/2091391283063361558)
+[Source](https://prompthero.com/prompt/8887d8e2e22-stable-diffusion-15-1-girl-beautiful-korean-girl-cute-loose-bob-hair-wearing-a-cropped-hoodie-capri-sweatpants1-5-hands-in-pockets1-5)
 
 ---
 
-<a id="freestylefly-case-545"></a>
+<a id="prompthero-31602a0be0f"></a>
 
-## 厚涂建筑地标艺术海报
+## far view wide angle shot of an uniform astronaut g\.\.\.
 
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case545.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case545.jpg" width="480" alt="Source example"></a>
+<a href="https://cdn.prompthero.com/hf6ci7htkviadsb4kd2oq50t1mne-stable-diffusion-15-far-view-wide-angle-shot-of-an-uniform-astronaut-girl-inside-spaceship-command-room-viewing-galaxyfar-view-shot-ssci-fi.png"><img src="https://cdn.prompthero.com/hf6ci7htkviadsb4kd2oq50t1mne-stable-diffusion-15-far-view-wide-angle-shot-of-an-uniform-astronaut-girl-inside-spaceship-command-room-viewing-galaxyfar-view-shot-ssci-fi.png" width="480" alt="After"></a>
 
 **Prompt**
 
 ```text
-Create a sophisticated fine-art architectural painting of [STRUCTURE / LANDMARK], presented as a highly tactile, three-dimensional impasto oil painting on textured archival paper. Make [STRUCTURE / LANDMARK] the unmistakable central focal point, shown from a slightly low, frontal perspective so its architecture feels grand, monumental, elegant, and sculptural. Preserve the recognizable architectural features, proportions, silhouette, windows, columns, arches, roofline, ornamentation, materials, and distinctive details of the structure, but reinterpret the entire scene as a handcrafted contemporary oil painting. Use extremely thick palette-knife impasto with visible raised strokes, layered paint, broken edges, scraped textures, ridges, and expressive overlapping marks. The architecture should appear almost sculpted entirely from paint, with heavy cream, warm stone, soft gray, muted blue, dusty green, subtle charcoal, and delicate antique-gold accents. Behind the structure, create a simplified atmospheric sky made entirely from thick textured brushstrokes in soft powder blue, ivory, pale gray, and warm white. Keep the background understated, elegant, and painterly so the architectural form remains dominant. Add subtle environmental details at the bottom — a few bicycles, elegant vintage street lamps, plants, steps, pavement, tiny distant figures, or other small location-specific details — but keep them secondary, miniature, and painterly. The artwork should sit like a physical painted panel mounted on a warm off-white handmade paper background. Give the painted panel an irregular, naturally torn and rough painted edge, with subtle dimensional shadows around it, suggesting that a thick original artwork has been physically placed onto textured archival paper. At the bottom of the artwork, incorporate the name of the landmark in beautiful refined italic typography: “[STRUCTURE / LANDMARK]” Use sophisticated high-contrast editorial serif lettering, elegant flowing italics, slightly vintage European book-cover styling, subtle antique-gold or muted charcoal ink, perfectly centered and carefully integrated into the artwork. The typography should feel printed/painted onto the textured surface rather than digitally overlaid. Keep the lettering delicate, tasteful, and legible without competing with the architecture. If appropriate, add a smaller understated italic subtitle beneath it: “[CITY, COUNTRY]” Use generous spacing, refined typography, and a museum-quality art-print composition. Lighting should be soft and natural, emphasizing the raised impasto texture and creating tiny shadows between layers of paint. Elegant European art-book aesthetic, museum-quality architectural painting, sophisticated vintage travel-art feeling, tactile handmade surface, restrained luxury color palette, painterly realism, highly detailed, atmospheric, timeless, no photorealistic appearance. Vertical composition, centered architecture, generous off-white negative space around the artwork, premium editorial art print, collectible gallery poster, 8k detail. --ar 4:5 --style raw
+far view wide angle shot of an uniform astronaut girl, inside spaceship command room viewing galaxy,Far view shot, ssci-fi neon light effect flushing and fantasy, intricate and very very beautiful and elegant, highly detailed, digital painting, artstation, concept art, smooth and sharp focus, illustration, art by tian zi and WLOP and alphonse mucha <lora:add_detail:1> <lora:Android18DB:1> <lora:concept_indexfingerstogether-10:1>
 ```
 
-By [@Naiknelofar788](https://x.com/Naiknelofar788/status/2093948869000495565)
+[Source](https://prompthero.com/prompt/31602a0be0f-stable-diffusion-15-far-view-wide-angle-shot-of-an-uniform-astronaut-girl-inside-spaceship-command-room-viewing-galaxyfar-view-shot-ssci-fi)
 
 ---
 
-<a id="freestylefly-case-547"></a>
+<a id="prompthero-40027a6637d"></a>
 
-## 日系 Chibi 互动小插画
+## stunning sketch portrait by Michelangelo, charcoal\.\.\.
 
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case547.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case547.jpg" width="480" alt="Source example"></a>
+<a href="https://cdn.prompthero.com/oq93rt9bfrm51ze870nkaa0t0xyb-midjourney-52-stunning-sketch-portrait-by-michelangelo-charcoal-drawing-face-only-an-absolutely-gorgeous-woman-side-view-ultra-detailed-hint-of-a.png"><img src="https://cdn.prompthero.com/oq93rt9bfrm51ze870nkaa0t0xyb-midjourney-52-stunning-sketch-portrait-by-michelangelo-charcoal-drawing-face-only-an-absolutely-gorgeous-woman-side-view-ultra-detailed-hint-of-a.png" width="480" alt="After"></a>
 
 **Prompt**
 
 ```text
-Create a cute hand-drawn Japanese chibi illustration of two characters interacting in a sweet, playful moment. Use a soft traditional colored-pencil and crayon drawing style, with visible sketchy pencil strokes, slightly rough imperfect outlines, gentle pastel coloring, and a handmade children’s storybook feel. Characters should have oversized heads, tiny bodies, simple oval black eyes, tiny smiling mouths, rosy cheeks, and expressive innocent faces. Give them natural, adorable poses and interactions, with clothing and hairstyles matching the requested scene. Keep the composition clean and minimal on a plain white background, with plenty of negative space. Add small hand-drawn decorative elements such as hearts, sparkles, or motion lines around the characters where appropriate. Soft pastel palette, subtle paper texture, delicate linework, slightly imperfect coloring, cozy wholesome romantic atmosphere, full-body composition, centered characters, high-quality illustration. For different scenes Replace this part: “two characters interacting in a sweet, playful moment” with whatever you want, e.g.: •“a couple holding hands while walking” •“a boy surprising a girl with flowers” •“two friends laughing together” •“a couple sitting together under an umbrella” •“a girl teasing a shy boy” •“two characters taking a cute selfie”
+stunning sketch portrait by Michelangelo, charcoal drawing, face only, an absolutely gorgeous woman, side view, ultra-detailed, hint of a smile, no coloring, no color--quality 2 --s 750 --v 5.2
 ```
 
-By [@Sairah\_0](https://x.com/Sairah_0/status/2093929087010246754)
+By [@NorthmoorAI](https://prompthero.com/prompt/40027a6637d-midjourney-52-stunning-sketch-portrait-by-michelangelo-charcoal-drawing-face-only-an-absolutely-gorgeous-woman-side-view-ultra-detailed-hint-of-a)
 
 ---
 
-<a id="prompthero-0b8761bf0b9"></a>
+<a id="prompthero-43904a9f706"></a>
 
-## a painting of a woman in red with black hair, in t\.\.\.
+## a close up of a cartoon character with a bunch of \.\.\.
 
-<a href="https://cdn.prompthero.com/t3sgifeg78ljihgcwicy0rouw35t-midjourney-6-a-painting-of-a-woman-in-red-with-black-hair-in-the-style-of-delicate-ink-washes-epic-fantasy-scenes.png"><img src="https://cdn.prompthero.com/t3sgifeg78ljihgcwicy0rouw35t-midjourney-6-a-painting-of-a-woman-in-red-with-black-hair-in-the-style-of-delicate-ink-washes-epic-fantasy-scenes.png" width="480" alt="After"></a>
+<a href="https://cdn.prompthero.com/a3nur5key0kn01iz74gnxd5d5gho-rev-animated-v10-a-close-up-of-a-cartoon-character-with-a-bunch-of-skulls-lois-van-baarle-and-rossdraws-beeple-and-jeremiah.png"><img src="https://cdn.prompthero.com/a3nur5key0kn01iz74gnxd5d5gho-rev-animated-v10-a-close-up-of-a-cartoon-character-with-a-bunch-of-skulls-lois-van-baarle-and-rossdraws-beeple-and-jeremiah.png" width="480" alt="After"></a>
 
 **Prompt**
 
 ```text
-a painting of a woman in red with black hair, in the style of delicate ink washes, epic fantasy scenes, chinese painting, splattered/dripped, white background, traditional costumes, soft focus lens --ar 73:98 --stylize 750 --v 6
+a close up of a cartoon character with a bunch of skulls, lois van baarle and rossdraws, beeple and jeremiah ketner, artgerm and lois van baarle, adorable digital painting, cute detailed digital art, ross tran style, cute character, loish and ross tran, rossdraws global illumination, cute digital art, 3 d character art
 ```
 
-By [@NorthmoorAI](https://prompthero.com/prompt/0b8761bf0b9-midjourney-6-a-painting-of-a-woman-in-red-with-black-hair-in-the-style-of-delicate-ink-washes-epic-fantasy-scenes)
+By [@heeyrina](https://prompthero.com/prompt/43904a9f706-rev-animated-v10-a-close-up-of-a-cartoon-character-with-a-bunch-of-skulls-lois-van-baarle-and-rossdraws-beeple-and-jeremiah)
 
 ---
 
-<a id="prompthero-0b7433655b3"></a>
+<a id="prompthero-068833f3226"></a>
 
-## a portrait of a narcissistic girl in a paradise, e\.\.\.
+## an illustration of a girl walking down a street, i\.\.\.
 
-<a href="https://cdn.prompthero.com/6vvcowuobzxsadneqbsjhugjj89x-stable-diffusion-xl-base-09-a-portrait-of-a-narcissistic-girl-in-a-paradise-emotive-face-sultry-anime-in-the-style-of-comics-8k-rough.png"><img src="https://cdn.prompthero.com/6vvcowuobzxsadneqbsjhugjj89x-stable-diffusion-xl-base-09-a-portrait-of-a-narcissistic-girl-in-a-paradise-emotive-face-sultry-anime-in-the-style-of-comics-8k-rough.png" width="480" alt="After"></a>
+<a href="https://cdn.prompthero.com/78joqa6e7l7t3fmwzq2re4vk99nb-midjourney-6-an-illustration-of-a-girl-walking-down-a-street-in-the-style-of-disney-animation-pre-world-war-ii-school.png"><img src="https://cdn.prompthero.com/78joqa6e7l7t3fmwzq2re4vk99nb-midjourney-6-an-illustration-of-a-girl-walking-down-a-street-in-the-style-of-disney-animation-pre-world-war-ii-school.png" width="480" alt="After"></a>
 
 **Prompt**
 
 ```text
-a portrait of a narcissistic girl in a paradise, emotive face, sultry, anime, in the style of comics, 8k, rough, dark background, muted colors, digital painting, very intricate
+an illustration of a girl walking down a street, in the style of disney animation, pre-world war ii school of paris, 32k uhd, red and emerald, character caricatures, mysterious backdrops, lively tableaus --ar 1:2 --stylize 750 --v 6
 ```
 
-By [@ArtEnthusiast](https://prompthero.com/prompt/0b7433655b3-stable-diffusion-xl-base-09-a-portrait-of-a-narcissistic-girl-in-a-paradise-emotive-face-sultry-anime-in-the-style-of-comics-8k-rough)
+By [@NorthmoorAI](https://prompthero.com/prompt/068833f3226-midjourney-6-an-illustration-of-a-girl-walking-down-a-street-in-the-style-of-disney-animation-pre-world-war-ii-school)
 
 ---
 
-<a id="prompthero-0ee1764c741"></a>
+<a id="prompthero-95438c73a77"></a>
 
-## Two astronauts walk on the surface of an alien pla\.\.\.
+## abyssorangemix2\_Hard Portrait Series
 
-<a href="https://cdn.prompthero.com/8d53vtllejlyom0b5e6xt080ch0i-midjourney-61-two-astronauts-walk-on-the-surface-of-an-alien-planet-one-holding-a-visualization-device-theres-also-a-alien-building.png"><img src="https://cdn.prompthero.com/8d53vtllejlyom0b5e6xt080ch0i-midjourney-61-two-astronauts-walk-on-the-surface-of-an-alien-planet-one-holding-a-visualization-device-theres-also-a-alien-building.png" width="480" alt="After"></a>
+<a href="https://cdn.prompthero.com/t9kjfaohinwrrsi2nn9jxtxq4979-stable-diffusion-15-abyssorangemix2hard-portrait-series.png"><img src="https://cdn.prompthero.com/t9kjfaohinwrrsi2nn9jxtxq4979-stable-diffusion-15-abyssorangemix2hard-portrait-series.png" width="480" alt="After"></a>
 
 **Prompt**
 
 ```text
-Two astronauts walk on the surface of an alien planet, one holding a visualization device, There's also a alien building next to them, with footprints leading towards it. The image is in a concept art style, a digital painting with futuristic realism, a flat background, simple details, and low-saturation colors, in the style of Enki Bilal. --chaos 55 --ar 35:38 --style raw --stylize 750 --v 6.1
+abyssorangemix2_Hard, (greyscale, traditional media, sketch), portrait, 1girl, cover - perfect tone, style of drawing graphics, (Ingres Jean Auguste Dominique), artistic photography 8k, photorealistic concept art, bokeh, soft natural surround, cinematic perfect light, Monochrome style
 ```
 
-By [@Dallas59](https://prompthero.com/prompt/0ee1764c741-midjourney-61-two-astronauts-walk-on-the-surface-of-an-alien-planet-one-holding-a-visualization-device-theres-also-a-alien-building)
+[Source](https://prompthero.com/prompt/95438c73a77-stable-diffusion-15-abyssorangemix2hard-portrait-series)
 
 ---
 
-<a id="prompthero-0f454993e5d"></a>
+<a id="prompthero-222752c8117"></a>
 
-## 1 girl, \[Sarah Michelle Gellar\|Sandra Bullock\|Mich\.\.\.
+## Enchanted forest
 
-<a href="https://cdn.prompthero.com/d7t0fdx9fau4bj934321zd5lpvdd-dreamshaper-5-baked-vae-1-girl-sarah-michelle-gellarsandra-bullockmichelle-williams-as-a-greek-priestess-with-streaked-hairtwo-tone-hairplant-hair-looking-cold-sites.png"><img src="https://cdn.prompthero.com/d7t0fdx9fau4bj934321zd5lpvdd-dreamshaper-5-baked-vae-1-girl-sarah-michelle-gellarsandra-bullockmichelle-williams-as-a-greek-priestess-with-streaked-hairtwo-tone-hairplant-hair-looking-cold-sites.png" width="480" alt="After"></a>
+<a href="https://cdn.prompthero.com/1h7lx2x3j9jiro5fsf9tf0imfsps-midjourney-52-enchanted-forest.png"><img src="https://cdn.prompthero.com/1h7lx2x3j9jiro5fsf9tf0imfsps-midjourney-52-enchanted-forest.png" width="480" alt="After"></a>
 
 **Prompt**
 
 ```text
-1 girl, [Sarah Michelle Gellar|Sandra Bullock|Michelle Williams] as a greek priestess with streaked hair,two-tone hair,Plant Hair looking Cold, Sites of Human Evolution at Mount Carmel: The Nahal Me’arot / Wadi el-Mughara Caves,Cyber Fairy Grunge, Lying down,sitting on lap, ice blue eyes, gradient, elaborate black theme animal costume, one piece character, extremely detailed, iridescence, artstation, Illustration,Portrait,Oil Painting, style of [Stan Manoukian]
+Oil painting, enchanted forest,Enchanting descriptions of bubblegum clouds, Mystical woodland with confetti rivers, Bizarrely interdimensional setting with floating tree men, Hilariously enchanting vibes with polka-dotted squirrels, Technical specs of a color-changing paint palette::3 chromatic::3 flower of life::3 ultra wide angle lens::3
 ```
 
-[Source](https://prompthero.com/prompt/0f454993e5d-dreamshaper-5-baked-vae-1-girl-sarah-michelle-gellarsandra-bullockmichelle-williams-as-a-greek-priestess-with-streaked-hairtwo-tone-hairplant-hair-looking-cold-sites)
+[Source](https://prompthero.com/prompt/222752c8117-midjourney-52-enchanted-forest)
 
 ---
 
-<a id="prompthero-1b61040456a"></a>
+<a id="prompthero-489903fef50"></a>
 
-## Oil painting on canvas of a couple standing next t\.\.\.
+## extremely detailed 4k digital painting of lady Dra\.\.\.
 
-<a href="https://cdn.prompthero.com/quryfgr1d6msqzdgdsdra7q1nhc8-flux1-dev-v1v2-flux1-schnell-bnb-nf4-flux1-dev-bnb-nf4-v2-oil-painting-on-canvas-of-a-couple-standing-next-to-each-other-at-their-wedding-both-are-wearing-formal-attire.png"><img src="https://cdn.prompthero.com/quryfgr1d6msqzdgdsdra7q1nhc8-flux1-dev-v1v2-flux1-schnell-bnb-nf4-flux1-dev-bnb-nf4-v2-oil-painting-on-canvas-of-a-couple-standing-next-to-each-other-at-their-wedding-both-are-wearing-formal-attire.png" width="480" alt="After"></a>
+<a href="https://cdn.prompthero.com/ivp4n8usiozm5g0ss01qifc922zb-stable-diffusion-xl-base-09-extremely-detailed-4k-digital-painting-of-lady-dracula-face-cute-but-mischievous-half-body-shot-teeth-sharp-blonde-short-hair.png"><img src="https://cdn.prompthero.com/ivp4n8usiozm5g0ss01qifc922zb-stable-diffusion-xl-base-09-extremely-detailed-4k-digital-painting-of-lady-dracula-face-cute-but-mischievous-half-body-shot-teeth-sharp-blonde-short-hair.png" width="480" alt="After"></a>
 
 **Prompt**
 
 ```text
-Oil painting on canvas of a couple standing next to each other at their wedding. Both are wearing formal attire, and she's wearing a white wedding dress. The background is simple gray, creating an atmosphere of elegance. Broad, gestural brushstrokes and a spatula technique give the painting structure and depth. (Oil painting in the style of Van Gogh, vintage)
+extremely detailed 4k digital painting of lady Dracula, face cute but mischievous, ((half body shot)), teeth sharp, blonde short hair, intricate headgear, uhd, 4k, standing, centered, (lots of fine details), trending on vampire horror movie style, Coppola's Dracula movie, artgerm, greg rutkowski, artstation, pinterest, highly detailed, insanely realistic, ornate, epic realistic, uhd, 4k, award winning photograph, standing, concept art, cinematic lighting, hyper realistic, focused, extreme details, real shadow, dark setting, ultra detailed, highest detail quality, overcast reflection mapping, ultraphotorealistic, movie quality, vfx post production, dramatic shadows, rim light, High detail RAW color art, uhd 8k,  tx ray tracing lighting, spotlight, cinematic shot on Nikon Z9, unreal engine 5, redshift render, 8k
 ```
 
-[Source](https://prompthero.com/prompt/1b61040456a-flux1-dev-v1v2-flux1-schnell-bnb-nf4-flux1-dev-bnb-nf4-v2-oil-painting-on-canvas-of-a-couple-standing-next-to-each-other-at-their-wedding-both-are-wearing-formal-attire)
+[Source](https://prompthero.com/prompt/489903fef50-stable-diffusion-xl-base-09-extremely-detailed-4k-digital-painting-of-lady-dracula-face-cute-but-mischievous-half-body-shot-teeth-sharp-blonde-short-hair)
 
 ---
 
-<a id="prompthero-1e00201783c"></a>
+<a id="prompthero-833521a8ea8"></a>
 
-## illustration art, nostalgic, wide low-angle, small\.\.\.
+## Wolf, white wolf, in forest setting, snowy forest,\.\.\.
 
-<a href="https://cdn.prompthero.com/htcej3mwd5znbhvjruap3g2a3l-chatgpt-image-v1-illustration-art-nostalgic-wide-low-angle-small-retro-roadside-cafe-warm-orange-and-teal-color-scheme-isolated-countryside-empty-rural.png"><img src="https://cdn.prompthero.com/htcej3mwd5znbhvjruap3g2a3l-chatgpt-image-v1-illustration-art-nostalgic-wide-low-angle-small-retro-roadside-cafe-warm-orange-and-teal-color-scheme-isolated-countryside-empty-rural.png" width="480" alt="After"></a>
+<a href="https://cdn.prompthero.com/whnwmv7pp4ppo0q228opsnvywol4-midjourney-niji-mode-wolf-white-wolf-in-forest-setting-snowy-forest-concept-art-anime-2d-painting-portrait-full-body-image-dynamic-pose-dynamic.png"><img src="https://cdn.prompthero.com/whnwmv7pp4ppo0q228opsnvywol4-midjourney-niji-mode-wolf-white-wolf-in-forest-setting-snowy-forest-concept-art-anime-2d-painting-portrait-full-body-image-dynamic-pose-dynamic.png" width="480" alt="After"></a>
 
 **Prompt**
 
 ```text
-illustration art, nostalgic, wide low-angle, small retro roadside Cafe, warm orange and teal color scheme, isolated countryside, empty rural road, wet cracked asphalt with subtle puddle reflections, massive dreamy pastel clouds towering in the sky, cotton-candy colored clouds in pink, peach and lavender hues, blue hour twilight sky, soft volumetric lights, ambient glow, cinematic color grading, high detail textures, atmospheric perspective, surreal mood, poetic silence, ultra detailed --no people --ar 9:16 --raw --stylize 200
+Wolf, white wolf, in forest setting, snowy forest, concept art, anime, 2D, painting, portrait, full body image, dynamic pose, dynamic background, --ar 4:7 --s 500 --style expressive --q 2 --niji 5
 ```
 
-[Source](https://prompthero.com/prompt/1e00201783c-chatgpt-image-v1-illustration-art-nostalgic-wide-low-angle-small-retro-roadside-cafe-warm-orange-and-teal-color-scheme-isolated-countryside-empty-rural)
+[Source](https://prompthero.com/prompt/833521a8ea8-midjourney-niji-mode-wolf-white-wolf-in-forest-setting-snowy-forest-concept-art-anime-2d-painting-portrait-full-body-image-dynamic-pose-dynamic)
 
 ---
 
-<a id="prompthero-2c257f9cf57"></a>
+<a id="prompthero-1369399ceae"></a>
 
-## dragon ball, portrait of dr goku, in the style of \.\.\.
+## A lone red-haired warrior woman with braided hair \.\.\.
 
-<a href="https://cdn.prompthero.com/pezqypkbo6imkuergflhqegirm9l-midjourney-6-dragon-ball-portrait-of-dr-goku-in-the-style-of-street-art-aesthetic-cute-cartoonish-designs-photo-realistic-techniques-dark.png"><img src="https://cdn.prompthero.com/pezqypkbo6imkuergflhqegirm9l-midjourney-6-dragon-ball-portrait-of-dr-goku-in-the-style-of-street-art-aesthetic-cute-cartoonish-designs-photo-realistic-techniques-dark.png" width="480" alt="After"></a>
+<a href="https://cdn.prompthero.com/fy487uadvtiir5ylby7hzcho3p7o-flux-flux-11-pro-a-lone-red-haired-warrior-woman-with-braided-hair-and-facial-scars-wearing-soft-hand-drawn-medieval-armor-infused-with.jpg"><img src="https://cdn.prompthero.com/fy487uadvtiir5ylby7hzcho3p7o-flux-flux-11-pro-a-lone-red-haired-warrior-woman-with-braided-hair-and-facial-scars-wearing-soft-hand-drawn-medieval-armor-infused-with.jpg" width="480" alt="After"></a>
 
 **Prompt**
 
 ```text
-dragon ball, portrait of dr goku, in the style of street art aesthetic, cute cartoonish designs, photo-realistic techniques, dark red, childhood arcadias, anime aesthetic, cartoon-like figures --ar 73:98 --stylize 750 --v 6
+A lone red-haired warrior woman with braided hair and facial scars, wearing soft, hand-drawn medieval armor infused with organic, velvety textures. She walks alongside a fully visible camel across dreamlike dunes made of misty, powdery patterns. The entire scene is illustrated in a hand-drawn style with pastel tones — soft lavender, ivory, and pale silver — interwoven with cloudy, ethereal motifs. Gentle light diffuses throughout the image, creating a luminous glow that wraps the characters in a supernatural calm. The camel is adorned with delicate, symbolic trappings that shimmer faintly in the silver haze. The atmosphere is serene and poetic, with soft contrasts, carefully placed highlights and shadows evoking elegance, reverence, and mystery. The setting is timeless — a quiet, endless desert at dawn or dusk, where silence itself seems sacred. Visual language: refined, spiritual, and dreamlike. Signature: “MorganaPictures”
 ```
 
-By [@NorthmoorAI](https://prompthero.com/prompt/2c257f9cf57-midjourney-6-dragon-ball-portrait-of-dr-goku-in-the-style-of-street-art-aesthetic-cute-cartoonish-designs-photo-realistic-techniques-dark)
+[Source](https://prompthero.com/prompt/1369399ceae-flux-flux-11-pro-a-lone-red-haired-warrior-woman-with-braided-hair-and-facial-scars-wearing-soft-hand-drawn-medieval-armor-infused-with)
 
 ---
 
-<a id="prompthero-2e3950c3699"></a>
+<a id="prompthero-2128694b2f1"></a>
 
-## artistic, oil painting texture, front view, upper \.\.\.
+## Anime-style illustration of a girl with short redd\.\.\.
 
-<a href="https://cdn.prompthero.com/22mgmkpzs2cvjnfd33sca0eotuwl-midjourney-61-artistic-oil-painting-texture-front-view-upper-body-creepy-man-incorporating-a-heavy-brush-style-sci-fi-entity-organic-and.png"><img src="https://cdn.prompthero.com/22mgmkpzs2cvjnfd33sca0eotuwl-midjourney-61-artistic-oil-painting-texture-front-view-upper-body-creepy-man-incorporating-a-heavy-brush-style-sci-fi-entity-organic-and.png" width="480" alt="After"></a>
+<a href="https://cdn.prompthero.com/v1_dbb37adbbfff8d9443b879ff23-chatgpt-image-gpt-image-2-anime-style-illustration-of-a-girl-with-short-reddish-brown-hair-bangs-freckles-and-light-green-eyes-sitting-on-a.jpeg"><img src="https://cdn.prompthero.com/v1_dbb37adbbfff8d9443b879ff23-chatgpt-image-gpt-image-2-anime-style-illustration-of-a-girl-with-short-reddish-brown-hair-bangs-freckles-and-light-green-eyes-sitting-on-a.jpeg" width="480" alt="After"></a>
 
 **Prompt**
 
 ```text
-artistic, oil painting texture, front view, upper body, creepy man, incorporating a heavy brush style, sci-fi entity organic and mechanical elements, eyes locked in a gaze, face, creation of a dystopian atmosphere, horror of a technology, color scheme dominated by bloody red and deep black, chaos and rawness of Tsutomu Nihei's dystopian environments, hyper-detailed elements to evoke realism --ar 9:16 --style raw --profile ue2yzjl --stylize 300 --v 6.1
+Anime-style illustration of a girl with short reddish-brown hair, bangs, freckles, and light green eyes sitting on a rocky outcropping by the sea, a small open book in her lap. She wears a loose black hoodie and comfortable jeans, her hair gently blowing in the evening breeze. The sun is setting behind distant mountains, casting a golden rim-light around her. The water reflects a rich crimson and gold sunset. Digital painting, magical realism, sharp focus.
 ```
 
-By [@Grayve](https://prompthero.com/prompt/2e3950c3699-midjourney-61-artistic-oil-painting-texture-front-view-upper-body-creepy-man-incorporating-a-heavy-brush-style-sci-fi-entity-organic-and)
+[Source](https://prompthero.com/prompt/2128694b2f1-chatgpt-image-gpt-image-2-anime-style-illustration-of-a-girl-with-short-reddish-brown-hair-bangs-freckles-and-light-green-eyes-sitting-on-a)
 
 ---
 
-<a id="prompthero-3b4d25f3a67"></a>
+<a id="prompthero-06186649d6e"></a>
 
-## Picture a cat portrayed with the artistic essence \.\.\.
+## wallpaper portrait of a legendary ghost knight, po\.\.\.
 
-<a href="https://cdn.prompthero.com/v1_5558ef952acfefc672c93d639e-chatgpt-image-gpt-image-2-picture-a-cat-portrayed-with-the-artistic-essence-of-qi-baishis-renowned-brushwork-the-cats-form-is-captured-through-fluid.jpeg"><img src="https://cdn.prompthero.com/v1_5558ef952acfefc672c93d639e-chatgpt-image-gpt-image-2-picture-a-cat-portrayed-with-the-artistic-essence-of-qi-baishis-renowned-brushwork-the-cats-form-is-captured-through-fluid.jpeg" width="480" alt="After"></a>
+<a href="https://cdn.prompthero.com/2shjriqmjo2jeg8mprjcbud6550m-stable-diffusion-xl-base-09-wallpaper-portrait-of-a-legendary-ghost-knight-powerful-invincible-unstoppable-brutal-epic-composition-digital-painting-expressionism11-dramatic-gloomy-emotionally-profound.png"><img src="https://cdn.prompthero.com/2shjriqmjo2jeg8mprjcbud6550m-stable-diffusion-xl-base-09-wallpaper-portrait-of-a-legendary-ghost-knight-powerful-invincible-unstoppable-brutal-epic-composition-digital-painting-expressionism11-dramatic-gloomy-emotionally-profound.png" width="480" alt="After"></a>
 
 **Prompt**
 
 ```text
-Picture a cat portrayed with the artistic essence of Qi Baishi's renowned brushwork. The cat's form is captured through fluid, spontaneous lines that suggest its playful demeanor and agile nature. Using minimal strokes, Qi Baishi's signature style brings out the cat's character, emphasizing its curiosity and independence. The cat might be depicted in a simple yet evocative setting, surrounded by delicate depictions of flora or objects that offer a glimpse into its world. The overall scene carries a sense of whimsy and an appreciation for the beauty in everyday life, paying homage to the artistic legacy of Qi Baishi --ar 2:3 --v 5.2
+wallpaper portrait of a legendary ghost knight, powerful, invincible, unstoppable, brutal, epic composition, digital painting, (expressionism:1.1), dramatic, gloomy, emotionally profound, volumetric lighting, intense and brooding dark tones, leaving an indelible and haunting impression on psyche, high quality, highres
 ```
 
-[Source](https://prompthero.com/prompt/3b4d25f3a67-chatgpt-image-gpt-image-2-picture-a-cat-portrayed-with-the-artistic-essence-of-qi-baishis-renowned-brushwork-the-cats-form-is-captured-through-fluid)
+By [@ArtEnthusiast](https://prompthero.com/prompt/06186649d6e-stable-diffusion-xl-base-09-wallpaper-portrait-of-a-legendary-ghost-knight-powerful-invincible-unstoppable-brutal-epic-composition-digital-painting-expressionism11-dramatic-gloomy-emotionally-profound)
 
 ---
 
-<a id="prompthero-03bd5e77f6c"></a>
+<a id="prompthero-9741211c4bc"></a>
 
-## A hyper-realistic digital portrait of a sheep tryi\.\.\.
+## Envision a fully body portrait of a very blond hai\.\.\.
 
-<a href="https://cdn.prompthero.com/h4cl5vor50q686em2gh8y0lda4x0-flux-flux-kontext-pro-a-hyper-realistic-digital-portrait-of-a-sheep-trying-to-go-to-sleep-in-front-of-the-sheep-are-mini.png"><img src="https://cdn.prompthero.com/h4cl5vor50q686em2gh8y0lda4x0-flux-flux-kontext-pro-a-hyper-realistic-digital-portrait-of-a-sheep-trying-to-go-to-sleep-in-front-of-the-sheep-are-mini.png" width="480" alt="After"></a>
+<a href="https://cdn.prompthero.com/ip0w7z9jn6jn82u67t5vx35cmdkv-flux-flux-11-pro-envision-a-fully-body-portrait-of-a-very-blond-haired-richie-rich-male-from-the-comics-and-cadbury-butlein-butler.jpg"><img src="https://cdn.prompthero.com/ip0w7z9jn6jn82u67t5vx35cmdkv-flux-flux-11-pro-envision-a-fully-body-portrait-of-a-very-blond-haired-richie-rich-male-from-the-comics-and-cadbury-butlein-butler.jpg" width="480" alt="After"></a>
 
 **Prompt**
 
 ```text
-A hyper-realistic digital portrait of a sheep trying to go to sleep. In front of the sheep are mini humans jumping a fence while the sheep looks at it trying to goto sleep. The background is a bed on which the sheep is trying to sleep on. The lighting is soft but directional. The style is reminiscent of classical oil painting with meticulous detail and smooth brushwork, but created with digital tools.
+Envision a fully body portrait of a very blond haired   Richie rich male from the comics ,    and Cadbury butle(in butler super hero suit) from comics, characters as    super heroes  rising from the ashes, standing on rocky ground  villain, stern look,burning, sharp focus, intricate details, muted colors, looking at viewer, photography, realistic, emotionally profound, highly detailed, soft lighting, 8k, extreme detail, digital painting
 ```
 
-[Source](https://prompthero.com/prompt/03bd5e77f6c-flux-flux-kontext-pro-a-hyper-realistic-digital-portrait-of-a-sheep-trying-to-go-to-sleep-in-front-of-the-sheep-are-mini)
+[Source](https://prompthero.com/prompt/9741211c4bc-flux-flux-11-pro-envision-a-fully-body-portrait-of-a-very-blond-haired-richie-rich-male-from-the-comics-and-cadbury-butlein-butler)
 
 ---
 
-[1](illustrations.md) · [2](illustrations-2.md) · [3](illustrations-3.md) · **4** · [5](illustrations-5.md) · [6](illustrations-6.md) · [7](illustrations-7.md) · [8](illustrations-8.md) · [9](illustrations-9.md) · [10](illustrations-10.md) · [11](illustrations-11.md)
+<a id="prompthero-9972204c7a2"></a>
+
+## Two young girls \(ethnicity:1\.1\), \(age:1\.0\), \(detai\.\.\.
+
+<a href="https://cdn.prompthero.com/50vpr8x0ed2v3ewhvxbnvxhga4b8-flux-flux-11-pro-two-young-girls-ethnicity11-age10-detailed-clothing13-accessories12-hair-style12-expression11-in-light-colored-pastel-dresses-walking-hand-in-hand.jpg"><img src="https://cdn.prompthero.com/50vpr8x0ed2v3ewhvxbnvxhga4b8-flux-flux-11-pro-two-young-girls-ethnicity11-age10-detailed-clothing13-accessories12-hair-style12-expression11-in-light-colored-pastel-dresses-walking-hand-in-hand.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+Two young girls (ethnicity:1.1), (age:1.0), (detailed clothing:1.3), (accessories:1.2), (hair style:1.2), (expression:1.1)  in light-colored pastel dresses, walking hand-in-hand, along a lightly textured path.  They are surrounded by a meadow bursting with wildflowers of various pastel colors and shades (details:1.2), (color palette:1.2). A light-orange tabby cat is being led by one of the girls, its leash crossing in front of the other girl (detailed fur:1.1), positioned just right behind.  (perspective:1.1) The girls are wearing detailed, flowing dresses; the dresses have delicate patterns and light, muted colors. Their hair is styled in pigtails. The lighting is soft and diffused consistent with an outdoor setting.  (atmospheric lighting: 1.2); The scene is serene (calm atmosphere:1.2), painted in soft pastel oil colors, (style:1.2); oil painting, delicate brush strokes, rich color palette (color palette:1.2), (portrait painting:1.1); photorealistic, detailed; (high detail:1.2) (composition: 1.1), (light and shadow:1.2).
+```
+
+[Source](https://prompthero.com/prompt/9972204c7a2-flux-flux-11-pro-two-young-girls-ethnicity11-age10-detailed-clothing13-accessories12-hair-style12-expression11-in-light-colored-pastel-dresses-walking-hand-in-hand)
+
+---
+
+[1](illustrations.md) · [2](illustrations-2.md) · [3](illustrations-3.md) · **4** · [5](illustrations-5.md) · [6](illustrations-6.md) · [7](illustrations-7.md)
 
 [← Home](../README.md)

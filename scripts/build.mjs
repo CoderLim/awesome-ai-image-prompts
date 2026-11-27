@@ -7,7 +7,7 @@ import { readFeatured } from './review-featured.mjs';
 const read=p=>JSON.parse(fs.readFileSync(p,'utf8'));
 const index=fs.readdirSync('data/index').filter(f=>f.endsWith('.json')).sort().flatMap(f=>read('data/index/'+f)).sort((x,y)=>x.id.localeCompare(y.id,'en',{numeric:true}));
 const result=govern(index,readExclusions());
-const view=galleryView(result.rows,read('data/taxonomy.json'));
+const view=galleryView(result.rows,read('data/taxonomy.json'),{publicOnly:true});
 const files={...render([],view.rows,view.taxonomy,readFeatured()),...governanceFiles(result)};
 const check=process.argv.includes('--check');let bad=false;
 for(const [p,s] of Object.entries(files)){if(check){if(!fs.existsSync(p)||fs.readFileSync(p,'utf8')!==s){console.error('Stale:',p);bad=true;}}else{fs.mkdirSync(path.dirname(p),{recursive:true});fs.writeFileSync(p,s);}}
