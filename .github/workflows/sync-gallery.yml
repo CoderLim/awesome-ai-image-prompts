@@ -1,0 +1,73 @@
+name: Sync prompt gallery
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'data/**'
+      - 'scripts/**'
+      - 'migrations/**'
+      - '.github/workflows/sync-gallery.yml'
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: Read-only D1 comparison
+        type: boolean
+        default: true
+      force_media_refresh:
+        description: Download media again even when URL is unchanged
+        type: boolean
+        default: false
+      allow_large_delete:
+        description: Explicitly approve ordinary mass deletion
+        type: boolean
+        default: false
+permissions:
+  contents: read
+concurrency:
+  group: prompt-gallery-production
+  cancel-in-progress: false
+jobs:
+  sync:
+    if: github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - run: npm run check
+      - run: node scripts/export-gallery.mjs
+      - name: Set source commit
+        run: echo "SOURCE_COMMIT=$(git rev-parse HEAD)" >> "$GITHUB_ENV"
+      - name: Install media tools
+        if: vars.GALLERY_SYNC_ENABLED == 'true'
+        run: |
+          python3 -m venv "$RUNNER_TEMP/gallery-venv"
+          "$RUNNER_TEMP/gallery-venv/bin/pip" install Pillow==11.3.0
+          echo "$RUNNER_TEMP/gallery-venv/bin" >> "$GITHUB_PATH"
+          aws --version
+      - name: Sync D1 and R2
+        if: vars.GALLERY_SYNC_ENABLED == 'true'
+        env:
+          CLOUDFLARE_ACCOUNT_ID: ${{ vars.CLOUDFLARE_ACCOUNT_ID }}
+          D1_DATABASE_ID: ${{ vars.GALLERY_D1_DATABASE_ID }}
+          R2_BUCKET: ${{ vars.GALLERY_R2_BUCKET }}
+          CLOUDFLARE_API_TOKEN: ${{ secrets.GALLERY_D1_API_TOKEN }}
+          AWS_ACCESS_KEY_ID: ${{ secrets.GALLERY_R2_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.GALLERY_R2_SECRET_ACCESS_KEY }}
+          DRY_RUN: ${{ inputs.dry_run }}
+          FORCE_MEDIA: ${{ inputs.force_media_refresh }}
+          ALLOW_DELETE: ${{ inputs.allow_large_delete }}
+        shell: bash
+        run: |
+          args=()
+          if [[ "$DRY_RUN" == true ]]; then args+=(--dry-run); fi
+          if [[ "$FORCE_MEDIA" == true ]]; then args+=(--force-media-refresh); fi
+          if [[ "$ALLOW_DELETE" == true ]]; then args+=(--allow-large-delete); fi
+          node scripts/sync-gallery.mjs "${args[@]}"
+      - name: Cloud writes disabled
+        if: vars.GALLERY_SYNC_ENABLED != 'true'
+        run: echo "Export validation only. Configure resources and explicitly enable GALLERY_SYNC_ENABLED."
