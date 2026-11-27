@@ -194,7 +194,7 @@ migrations/0001_prompts.sql
 2. 仓库 Settings → Secrets and variables → Actions：
    - Variables：`CLOUDFLARE_ACCOUNT_ID`、`GALLERY_D1_DATABASE_ID`。R2 bucket 已固定为 `prompt-media`，无需配置额外变量。
    - Secrets：`GALLERY_D1_API_TOKEN`（目标 D1 读写）、`GALLERY_R2_ACCESS_KEY_ID`、`GALLERY_R2_SECRET_ACCESS_KEY`（目标 bucket 对象读写）。
-   - `GALLERY_SYNC_ENABLED` 初始不设置；此时 Actions 只跑仓库校验和导出统计。创建资源、执行迁移、核对目标及权限后设为 `true`。配置启用之后 main 相关变更会自动同步。
+   - 无需额外启用变量。创建资源、执行迁移并配置上述两项 Variables 和三项 Secrets 后，main 上数据、脚本或迁移文件变化将自动触发正式同步。仅修改工作流或文档不会触发同步；首次请手动执行 dry_run=true。如需暂停自动同步，直接 Disable workflow。
 3. 手动运行 Sync prompt gallery，保持 dry_run=true，核对数量和删除计划；此模式仅查询 D1，不下载媒体或写入 D1/R2。首次确认后手动关闭 dry_run 正式同步。
 4. 同步失败可直接重跑。需要重新下载媒体时开启 force_media_refresh；大规模普通删除必须检查计划后显式开启 allow_large_delete。
 5. 本地只检查导出：`node scripts/export-gallery.mjs` 或 `node scripts/sync-gallery.mjs --export-only`，均不需要云端凭据。生产写入仅走同一 Actions workflow。
