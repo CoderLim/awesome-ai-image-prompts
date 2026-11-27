@@ -2,6 +2,17 @@
 
 This is the authoritative operating guide for AI coding agents and contributors. Apply it to collection, import, classification, deduplication, content review, and gallery changes. Preserve the existing user-facing layout unless the owner requests a change. Read [content policy](docs/content-policy.md) and [sources](SOURCES.md) before importing third-party material.
 
+## Current operational review (2026-11-27)
+
+Follow [simplified review](docs/simplified-review.md) for new content review
+decisions and cloud export. The only operational review states are pending,
+approved and rejected; featured is independent. Record actual approvals via
+the local reviewer or review-status-cli; do not bulk-approve unseen content.
+Legacy generated metadata is diagnostic only and does not establish approval.
+The public sync exports approved cases that meet the source publication
+conditions. Preserve rights evidence; no separate manual rights-state workflow
+is required. Do not interpret content approval as permission to redistribute.
+
 ## 1. Product scope and collection rules
 
 Build a curated, model-independent library of useful image prompts, with actual source images and traceable creator attribution. Prioritize reusable prompts that meaningfully affect the result, not generic image utilities or sheer case count.
