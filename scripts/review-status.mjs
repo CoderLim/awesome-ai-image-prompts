@@ -1,7 +1,6 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import { createHash, randomUUID } from 'node:crypto';
-import { hasXPermission } from './x-source.mjs';
 
 export const reviewPath = 'data/review/approvals.json';
 
@@ -37,22 +36,12 @@ export function writeApprovals(approvals, root = '.') {
   } finally { fs.rmSync(tmp, { force: true }); }
 }
 
-// The existing licensed source recipe and per-asset permission cases are
-// retained as legacy approved content. This is not a claim of visual testing.
-export function legacyApproved(row) {
-  return row.provenance.collectedFrom[0]?.sourceId === 'vcl' &&
-    row.rights?.prompt === 'CC-BY-4.0' && row.rights?.media === 'CC-BY-4.0' &&
-    typeof row.rights.evidence === 'string' && !!row.rights.evidence.trim() ||
-    hasXPermission(row);
-}
-
 export function reviewStatus(row, approvals = {}) {
   if (!row.visible) return 'rejected';
   if (Object.hasOwn(approvals, row.id)) {
-    // A stale explicit approval must return to pending, even for a legacy case.
+    // A stale explicit approval must return to pending.
     return approvals[row.id] === reviewFingerprint(row) ? 'approved' : 'pending';
   }
-  if (legacyApproved(row)) return 'approved';
   // The existing "recommended" import flag is text-only, not a visual verdict.
   return 'pending';
 }
