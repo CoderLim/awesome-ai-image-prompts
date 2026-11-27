@@ -111,6 +111,6 @@ Browse image generation and reference image generation prompts from original com
 
 ## Sources and use
 
-[Source attribution](SOURCES.md) · [Content policy](docs/content-policy.md) · [Governance report](docs/governance-report.md) · [Try AI Photo Editor](https://getaiphotoeditor.com/)
+[Source attribution](SOURCES.md) · [Content policy](docs/content-policy.md) · [Governance report](docs/governance-report.md) · [linuxdo](https://linux.do/) · [Try AI Photo Editor](https://getaiphotoeditor.com/)
 
 JSON is the source of truth. Markdown is generated with `npm run build`.
