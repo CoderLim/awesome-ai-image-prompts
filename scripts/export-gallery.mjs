@@ -6,6 +6,7 @@ import { render } from './core.mjs';
 import { readFeatured } from './review-featured.mjs';
 import { readExclusions } from './review-exclusions.mjs';
 import { hasXPermission } from './x-source.mjs';
+import { readApprovals, reviewStatus, reviewSummary } from './review-status.mjs';
 
 export function eligible(r) {
   return Boolean((r.rights?.prompt === 'CC-BY-4.0' &&
@@ -39,11 +40,14 @@ export function exportGallery(root = '.') {
   const featured = manual ?? [...render([],view.rows,view.taxonomy,null)['README.md']
     .matchAll(/<td[^>]*><a href="[^"#]+#([a-z0-9-]+)"/g)].map(m=>m[1]);
   const ranks=new Map(featured.map((id,i)=>[id,i+1]));
-  const records=[], excluded=[], pending=[];
+  const approvals=readApprovals(root);
+  const counts=reviewSummary(result.rows, approvals);
+  const records=[], excluded=[], pending=[], sourceUnavailable=[];
   for(const r of view.rows) {
     if(withdrawn(r)){excluded.push(r.id);continue;}
-    const cleared=eligible(r);
-    if(!cleared)pending.push(r.id);
+    if(reviewStatus(r, approvals)!=='approved'){pending.push(r.id);continue;}
+    // Source permission is an import/publication constraint, not a review status.
+    if(!eligible(r)){sourceUnavailable.push(r.id);continue;}
     const o=r.provenance.originalSource, source=o.url??r.provenance.collectedFrom[0]?.url;
     if(!r.prompt.original.trim() || !source || !r.sourcePreview.images.length)
       throw Error('Incomplete eligible case '+r.id);
@@ -53,8 +57,8 @@ export function exportGallery(root = '.') {
       input_mode:r.inputMode, model:typeof r.sourceMeta?.model==='string'?r.sourceMeta.model:null,
       media:r.sourcePreview.images.map(m=>({type:'image',role:m.role,originalUrl:m.url})),
       author:{name:o.author??null, sourceUrl:source, rights:r.rights,
-        publicationStatus:cleared?'cleared':'pending-review',
-        modifications:cleared?'Original prompt retained; thumbnail resized/re-encoded':'Original source retained for internal review only'},
+        publicationStatus:'cleared', // compatibility with existing consumers during migration
+        modifications:'Original prompt retained; thumbnail resized/re-encoded'},
       source_url:source,featured:ranks.has(r.id)?1:0,featured_rank:ranks.get(r.id)??null
     });
   }
@@ -62,11 +66,11 @@ export function exportGallery(root = '.') {
   // even if another case's media fails. Explicit revoked records also qualify.
   const restricted=raw.filter(withdrawn).map(r=>r.id);
   const unlicensed=raw.filter(r=>!eligible(r)).map(r=>r.id);
-  return {mediaType:'image',records,excluded,pending,restricted,unlicensed,total:raw.length,canonical:canonical.length};
+  return {mediaType:'image',records,excluded,pending,restricted,unlicensed,sourceUnavailable,reviewCounts:counts,total:raw.length,canonical:canonical.length};
 }
 
 if (process.argv[1] && import.meta.url===pathToFileURL(path.resolve(process.argv[1])).href) {
   const result=exportGallery();
   console.log(JSON.stringify({mediaType:result.mediaType,total:result.total,canonical:result.canonical,
-    catalog:result.records.length,cleared:result.records.length-result.pending.length,pending:result.pending.length,excluded:result.excluded.length},null,2));
+    publishable:result.records.length,review:result.reviewCounts,sourceUnavailable:result.sourceUnavailable.length,excluded:result.excluded.length},null,2));
 }
