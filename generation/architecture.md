@@ -6,6 +6,38 @@
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
+<a id="freestylefly-case-26"></a>
+
+## 建筑空间场景图
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case26.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case26.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+A vintage 35mm film photograph of a {argument name="subject description" default="young Asian woman"} with {argument name="hair style" default="long dark wavy hair and wispy bangs"}. She is wearing a {argument name="clothing" default="white ribbed tank top and a loose beige knit cardigan slipping off one shoulder"}, along with a delicate silver necklace. She has soft makeup with pink blush and glossy lips, looking directly at the camera with slightly parted lips. The lighting is harsh direct camera flash, creating a candid, amateur snapshot aesthetic. The background is a {argument name="setting" default="dimly lit, slightly messy room with clothes on a table and a wooden shelf"}. The image features heavy film grain, slightly muted colors, and a nostalgic, highly realistic photographic texture.
+```
+
+By [@ecooai](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-26)
+
+---
+
+<a id="freestylefly-case-46"></a>
+
+## 建筑空间场景图
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case46.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case46.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+A highly detailed, realistic photograph of a young East Asian woman sitting in a cluttered backstage dressing room, getting ready for a cosplay event. She has {argument name="hair color" default="vibrant short red"} hair styled in a bob with bangs and is wearing an elaborate fantasy warrior costume featuring a {argument name="costume color" default="glossy red"} and gold tiered mini skirt, a white corset top with black lace and red lacing, matching glossy arm guards, and thigh-high boots. She is looking down with a focused expression, using her right hand to adjust the arm guard on her left arm. The vanity counter in front of her is messy, covered with makeup brushes, bottles, a hairbrush, and extra hairpieces. A large, ornate {argument name="prop" default="fantasy sword with a blue blade and gold hilt"} leans against the edge of the counter. The background shows a brightly lit vanity mirror with round bulbs reflecting a clothing rack, capturing a candid, slightly over-sharpened, and highly textured photographic style.
+```
+
+By [@lakeside529](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-46)
+
+---
+
 <a id="prompthero-2ba9cb1b1a7"></a>
 
 ## futuristic corridor, neon green illumination, geom\.\.\.
@@ -291,38 +323,6 @@ black and white spooky haunted house image, with color glowing jack-o-lanterns, 
 ```
 
 [Source](https://prompthero.com/prompt/577c98de545-midjourney-6-haunted-house)
-
----
-
-<a id="prompthero-670f2ea860f"></a>
-
-## Kitchen for small Minimalist apartment
-
-<a href="https://cdn.prompthero.com/5cllud1t7v028m33c8xaes43gkqs-stable-diffusion-15-kitchen-for-small-minimalist-apartment.png"><img src="https://cdn.prompthero.com/5cllud1t7v028m33c8xaes43gkqs-stable-diffusion-15-kitchen-for-small-minimalist-apartment.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-a small kitchen with a black and white kitchen set, white marble floor, gray plaster walls, small table and chairs (in the middle), with green plants in flower pots, in the style of minimalism, hi-tech, interior design
-```
-
-[Source](https://prompthero.com/prompt/670f2ea860f-stable-diffusion-15-kitchen-for-small-minimalist-apartment)
-
----
-
-<a id="prompthero-696fc7e543a"></a>
-
-## Scene Capsule Night-drenched high-rise vanishes in\.\.\.
-
-<a href="https://cdn.prompthero.com/kgofmr9jf6uvvyvbr1cuv9lelikv-flux-flux-11-pro-scene-capsule-night-drenched-high-rise-vanishes-in-burgundy-fog-a-single-emerald-green-window-up-near-the-cantilevered-penthouse.jpg"><img src="https://cdn.prompthero.com/kgofmr9jf6uvvyvbr1cuv9lelikv-flux-flux-11-pro-scene-capsule-night-drenched-high-rise-vanishes-in-burgundy-fog-a-single-emerald-green-window-up-near-the-cantilevered-penthouse.jpg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-Scene Capsule Night-drenched high-rise vanishes in burgundy fog. A single emerald-green window up near the cantilevered penthouse beams volumetric green light from its insights like an light house, hinting at life long after abandonment. Camera Block Sony A1 | 135 mm f/1.8 GM | ISO 3200 1⁄80 s handheld to keep slight micro-blur Framed low to mid-tower for looming scale; focus locked on green pane. Lighting Block Ambient: deep red sodium haze from street lights below. Key: interior CRT glow (~540 nm) spills through blinds, painting vertical bars on mist. No other sources. Motion & Capture Feel Slow slider creep-in; 24 fps; subtle vertical gate weave to mimic old print scan. Post & Colour Dual tone—Ox-blood reds & toxic-green accents. Blacks crushed to 0 IRE; halation bloom around window; fine 35 mm grain. Vibe Tagline “Uplink confirmed—tower heartbeat after twenty silent years.”
-```
-
-By [@chorlo](https://prompthero.com/prompt/696fc7e543a-flux-flux-11-pro-scene-capsule-night-drenched-high-rise-vanishes-in-burgundy-fog-a-single-emerald-green-window-up-near-the-cantilevered-penthouse)
 
 ---
 

@@ -12297,19 +12297,20 @@
       "product"
     ],
     "quality": {
-      "status": "metadata-complete",
-      "score": 4,
+      "status": "manual-excluded",
+      "score": 2,
       "flags": [
         "input-mode-review",
         "rights-review",
-        "duplicate-candidate:same-post"
+        "duplicate-candidate:same-post",
+        "manual-excluded"
       ],
       "imageAvailability": "unchecked",
       "imagePromptMatch": "unchecked",
       "reproduction": "untested",
       "rights": "pending-review"
     },
-    "visible": true
+    "visible": false
   },
   "freestylefly-case-190": {
     "type": "generation",
@@ -12321,12 +12322,13 @@
       "product"
     ],
     "quality": {
-      "status": "duplicate-excluded",
-      "score": 4,
+      "status": "manual-excluded",
+      "score": 2,
       "flags": [
         "input-mode-review",
         "rights-review",
         "duplicate-candidate:same-post",
+        "manual-excluded",
         "duplicate-excluded"
       ],
       "imageAvailability": "unchecked",
@@ -12345,17 +12347,18 @@
     "reason": "prompt-category",
     "tags": [],
     "quality": {
-      "status": "metadata-complete",
-      "score": 5,
+      "status": "manual-excluded",
+      "score": 3,
       "flags": [
-        "rights-review"
+        "rights-review",
+        "manual-excluded"
       ],
       "imageAvailability": "unchecked",
       "imagePromptMatch": "unchecked",
       "reproduction": "untested",
       "rights": "pending-review"
     },
-    "visible": true
+    "visible": false
   },
   "freestylefly-case-192": {
     "type": "generation",
@@ -12367,12 +12370,13 @@
       "product"
     ],
     "quality": {
-      "status": "duplicate-excluded",
-      "score": 4,
+      "status": "manual-excluded",
+      "score": 2,
       "flags": [
         "input-mode-review",
         "rights-review",
         "duplicate-candidate:same-post",
+        "manual-excluded",
         "duplicate-excluded"
       ],
       "imageAvailability": "unchecked",
@@ -12417,12 +12421,13 @@
       "product"
     ],
     "quality": {
-      "status": "duplicate-excluded",
-      "score": 4,
+      "status": "manual-excluded",
+      "score": 2,
       "flags": [
         "input-mode-review",
         "rights-review",
         "duplicate-candidate:same-post",
+        "manual-excluded",
         "duplicate-excluded"
       ],
       "imageAvailability": "unchecked",
@@ -12603,11 +12608,12 @@
       "anime"
     ],
     "quality": {
-      "status": "duplicate-excluded",
-      "score": 4,
+      "status": "manual-excluded",
+      "score": 2,
       "flags": [
         "rights-review",
         "duplicate-candidate:same-post",
+        "manual-excluded",
         "duplicate-excluded"
       ],
       "imageAvailability": "unchecked",
@@ -12628,11 +12634,12 @@
       "reference-image"
     ],
     "quality": {
-      "status": "duplicate-excluded",
-      "score": 4,
+      "status": "manual-excluded",
+      "score": 2,
       "flags": [
         "rights-review",
         "duplicate-candidate:same-post",
+        "manual-excluded",
         "duplicate-excluded"
       ],
       "imageAvailability": "unchecked",
@@ -12654,18 +12661,19 @@
       "animation"
     ],
     "quality": {
-      "status": "metadata-complete",
-      "score": 5,
+      "status": "manual-excluded",
+      "score": 3,
       "flags": [
         "rights-review",
-        "duplicate-candidate:same-post"
+        "duplicate-candidate:same-post",
+        "manual-excluded"
       ],
       "imageAvailability": "unchecked",
       "imagePromptMatch": "unchecked",
       "reproduction": "untested",
       "rights": "pending-review"
     },
-    "visible": true
+    "visible": false
   },
   "freestylefly-case-205": {
     "type": "generation",
@@ -12675,12 +12683,13 @@
     "reason": "source-fallback",
     "tags": [],
     "quality": {
-      "status": "duplicate-excluded",
-      "score": 4,
+      "status": "manual-excluded",
+      "score": 2,
       "flags": [
         "classification-review",
         "rights-review",
         "duplicate-candidate:same-post",
+        "manual-excluded",
         "duplicate-excluded"
       ],
       "imageAvailability": "unchecked",
@@ -13144,19 +13153,20 @@
     "reason": "source-fallback",
     "tags": [],
     "quality": {
-      "status": "metadata-complete",
-      "score": 3,
+      "status": "manual-excluded",
+      "score": 1,
       "flags": [
         "classification-review",
         "input-mode-review",
-        "rights-review"
+        "rights-review",
+        "manual-excluded"
       ],
       "imageAvailability": "unchecked",
       "imagePromptMatch": "unchecked",
       "reproduction": "untested",
       "rights": "pending-review"
     },
-    "visible": true
+    "visible": false
   },
   "freestylefly-case-226": {
     "type": "generation",
@@ -13209,17 +13219,18 @@
     "reason": "prompt-category",
     "tags": [],
     "quality": {
-      "status": "metadata-complete",
-      "score": 5,
+      "status": "manual-excluded",
+      "score": 3,
       "flags": [
-        "rights-review"
+        "rights-review",
+        "manual-excluded"
       ],
       "imageAvailability": "unchecked",
       "imagePromptMatch": "unchecked",
       "reproduction": "untested",
       "rights": "pending-review"
     },
-    "visible": true
+    "visible": false
   },
   "freestylefly-case-229": {
     "type": "generation",
@@ -15641,19 +15652,20 @@
     "reason": "prompt-category",
     "tags": [],
     "quality": {
-      "status": "metadata-complete",
-      "score": 2,
+      "status": "manual-excluded",
+      "score": 0,
       "flags": [
         "missing-original-post-url",
         "input-mode-review",
-        "rights-review"
+        "rights-review",
+        "manual-excluded"
       ],
       "imageAvailability": "unchecked",
       "imagePromptMatch": "unchecked",
       "reproduction": "untested",
       "rights": "pending-review"
     },
-    "visible": true
+    "visible": false
   },
   "freestylefly-case-333": {
     "type": "generation",

@@ -4,17 +4,17 @@ Generated from source JSON. Classification is heuristic and provisional; complet
 
 - Source cases: 2132
 - Unique cases: 2070
-- Canonical cases: 1907
-- Approved / published: 1264
-- Pending review: 643
-- Rejected / withheld: 225
-- Duplicate records excluded: 62 (51 previously visible)
-- Manually excluded source records: 169
+- Canonical cases: 1901
+- Approved / published: 1900
+- Pending review: 1
+- Rejected / withheld: 231
+- Duplicate records excluded: 62 (45 previously visible)
+- Manually excluded source records: 181
 
 ## Gallery groups (approved)
 
-- reference: 79
-- generation: 1185
+- reference: 220
+- generation: 1680
 
 ## Internal operation classification
 
@@ -30,24 +30,24 @@ Generated from source JSON. Classification is heuristic and provisional; complet
 | generation/architecture | 48 |
 | generation/avatars | 10 |
 | generation/characters | 138 |
-| generation/comics-storyboards | 22 |
+| generation/comics-storyboards | 21 |
 | generation/creative-art | 270 |
 | generation/illustrations | 229 |
 | generation/infographics | 53 |
 | generation/logos | 27 |
-| generation/other | 48 |
+| generation/other | 47 |
 | generation/portraits | 730 |
-| generation/posters | 160 |
-| generation/products | 46 |
+| generation/posters | 157 |
+| generation/products | 45 |
 | generation/travel | 59 |
 | generation/ui-mockups | 29 |
 
 ## Input modes (approved)
 
-- reference-to-image: 66
-- text-to-image: 1157
-- unknown: 28
-- image-editing: 13
+- reference-to-image: 185
+- text-to-image: 1480
+- unknown: 200
+- image-editing: 35
 
 ## Review flags
 
@@ -58,7 +58,7 @@ Generated from source JSON. Classification is heuristic and provisional; complet
 - duplicate-excluded: 62
 - generic-title-review: 98
 - input-mode-review: 237
-- manual-excluded: 169
+- manual-excluded: 181
 - missing-image-url: 3
 - missing-original-post-url: 180
 - missing-original-prompt: 2
@@ -166,10 +166,16 @@ Generated from source JSON. Classification is heuristic and provisional; complet
 - [freestylefly-case-178](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-178): manual-excluded
 - [freestylefly-case-180](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-180): manual-excluded
 - [freestylefly-case-186](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-186): manual-excluded
+- [freestylefly-case-189](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-189): manual-excluded
+- [freestylefly-case-191](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-191): manual-excluded
 - [freestylefly-case-197](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-197): manual-excluded
+- [freestylefly-case-204](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-204): manual-excluded
+- [freestylefly-case-225](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-225): manual-excluded
+- [freestylefly-case-228](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-228): manual-excluded
 - [freestylefly-case-261](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-261): manual-excluded
 - [freestylefly-case-264](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-264): manual-excluded
 - [freestylefly-case-280](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-280): missing-original-post-url, manual-excluded
+- [freestylefly-case-332](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-332): missing-original-post-url, manual-excluded
 - [freestylefly-case-335](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-335): missing-original-prompt, missing-original-post-url
 - [freestylefly-case-336](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-336): missing-original-prompt, missing-original-post-url
 - [prompthero-02b087a52fa](https://prompthero.com/prompt/02b087a52fa-chilloutmix-chilloutmix-ni-pruned-fp32-fix-1-girl-beautiful-korean-girl-cute-loose-bob-hair-wearing-a-cropped-hoodie-capri-sweatpants-high-hills15-red-lips-small): manual-excluded

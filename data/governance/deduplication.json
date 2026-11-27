@@ -282,7 +282,7 @@
     {
       "id": "freestylefly-case-190",
       "keptId": "freestylefly-case-189",
-      "wasVisible": true,
+      "wasVisible": false,
       "source": "https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-190",
       "evidence": [
         "same-post"
@@ -291,7 +291,7 @@
     {
       "id": "freestylefly-case-192",
       "keptId": "freestylefly-case-189",
-      "wasVisible": true,
+      "wasVisible": false,
       "source": "https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-192",
       "evidence": [
         "same-post"
@@ -309,7 +309,7 @@
     {
       "id": "freestylefly-case-194",
       "keptId": "freestylefly-case-189",
-      "wasVisible": true,
+      "wasVisible": false,
       "source": "https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-194",
       "evidence": [
         "same-post"
@@ -318,7 +318,7 @@
     {
       "id": "freestylefly-case-202",
       "keptId": "freestylefly-case-204",
-      "wasVisible": true,
+      "wasVisible": false,
       "source": "https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-202",
       "evidence": [
         "same-post"
@@ -327,7 +327,7 @@
     {
       "id": "freestylefly-case-203",
       "keptId": "freestylefly-case-204",
-      "wasVisible": true,
+      "wasVisible": false,
       "source": "https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-203",
       "evidence": [
         "same-post"
@@ -336,7 +336,7 @@
     {
       "id": "freestylefly-case-205",
       "keptId": "freestylefly-case-204",
-      "wasVisible": true,
+      "wasVisible": false,
       "source": "https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-205",
       "evidence": [
         "same-post"

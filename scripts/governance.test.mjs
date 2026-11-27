@@ -1,6 +1,6 @@
 import {test} from 'node:test';
 import assert from 'node:assert/strict';
-import {classifyContent,govern,governanceFiles,selectCanonical,galleryView,reviewStatus} from './governance.mjs';
+import {classifyContent,govern,governanceFiles,selectCanonical,galleryView,reviewStatus,firstPassFingerprint} from './governance.mjs';
 const make=(id,p,title='Generic')=>({id,title:{en:title},prompt:{original:p},inputMode:'unknown',sourcePreview:{images:[{url:'https://example.com/'+id+'.jpg'}]},provenance:{originalSource:{url:'https://x.com/test/status/123',postId:'123'},collectedFrom:[{path:'docs/gallery-part-1.md',url:'https://example.com/source'}]},rights:{prompt:'unknown',media:'unknown'}});
 test('actual prompt outranks misleading generic title',()=>{assert.equal(classifyContent(make('a','Create a UI/UX landing page mockup','Portrait')).category,'ui-mockups');});
 test('reference portraits are generation rather than local edits',()=>{const c=classifyContent(make('a','Create a fashion editorial portrait using the uploaded face reference image. Preserve the facial identity.'));assert.equal(c.type,'generation');assert.equal(c.inputMode,'reference-to-image');});
@@ -84,4 +84,12 @@ test('manual exclusion withholds the entire duplicate component from canonical g
  assert.deepEqual(JSON.parse(governanceFiles(result)['data/governance/canonical.json']),[]);
  assert.equal(JSON.parse(governanceFiles(result)['data/governance/report.json']).manualExcluded,2);
  assert.equal(govern([a,b]).rows.filter(r=>r.visible).length,1);
+});
+
+test('durable first-pass decisions are content-bound and exclusions take precedence',()=>{
+ const r=make('reviewed','A detailed cinematic portrait with side lighting');
+ const approvals={reviewed:firstPassFingerprint(r)};
+ assert.equal(reviewStatus(govern([r],[],approvals).rows[0]),'approved');
+ assert.equal(reviewStatus(govern([{...r,prompt:{original:'Changed prompt'}}],[],approvals).rows[0]),'pending');
+ assert.equal(reviewStatus(govern([r],[{id:r.id,keys:['id:'+r.id]}],approvals).rows[0]),'rejected');
 });

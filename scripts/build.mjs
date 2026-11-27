@@ -1,12 +1,12 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import { render } from './core.mjs';
-import { govern, governanceFiles, galleryView } from './governance.mjs';
+import { govern, governanceFiles, galleryView, readFirstPassApprovals } from './governance.mjs';
 import { readExclusions } from './review-exclusions.mjs';
 import { readFeatured } from './review-featured.mjs';
 const read=p=>JSON.parse(fs.readFileSync(p,'utf8'));
 const index=fs.readdirSync('data/index').filter(f=>f.endsWith('.json')).sort().flatMap(f=>read('data/index/'+f)).sort((x,y)=>x.id.localeCompare(y.id,'en',{numeric:true}));
-const result=govern(index,readExclusions());
+const result=govern(index,readExclusions(),readFirstPassApprovals());
 const view=galleryView(result.rows,read('data/taxonomy.json'),{publicOnly:true});
 const files={...render([],view.rows,view.taxonomy,readFeatured()),...governanceFiles(result)};
 const check=process.argv.includes('--check');let bad=false;

@@ -1,331 +1,331 @@
 # illustrations
 
-[← Home](../README.md) · Page 6 / 7
+[← Home](../README.md) · Page 6 / 11
 
-[1](illustrations.md) · [2](illustrations-2.md) · [3](illustrations-3.md) · [4](illustrations-4.md) · [5](illustrations-5.md) · **6** · [7](illustrations-7.md)
+[1](illustrations.md) · [2](illustrations-2.md) · [3](illustrations-3.md) · [4](illustrations-4.md) · [5](illustrations-5.md) · **6** · [7](illustrations-7.md) · [8](illustrations-8.md) · [9](illustrations-9.md) · [10](illustrations-10.md) · [11](illustrations-11.md)
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
-<a id="prompthero-c3378d825db"></a>
+<a id="prompthero-11a63078fdd"></a>
 
-## A detailed illustration featured on ArtStation, in\.\.\.
+## Happy and excited fox, painting a beautiful landsc\.\.\.
 
-<a href="https://cdn.prompthero.com/qh55j883e0cetq3pbdabuu15rzq1-flux-flux-11-pro-a-detailed-illustration-featured-on-artstation-in-the-style-of-alphonse-mucha-and-moebius-is-a-highly-detailed-oil-painting.png"><img src="https://cdn.prompthero.com/qh55j883e0cetq3pbdabuu15rzq1-flux-flux-11-pro-a-detailed-illustration-featured-on-artstation-in-the-style-of-alphonse-mucha-and-moebius-is-a-highly-detailed-oil-painting.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-A detailed illustration featured on ArtStation, in the style of Alphonse Mucha and Moebius, is a highly detailed oil painting portrait in the style of John Singer Sargent. A sad figure sits in the desert with two large dinosaur eggs lying next to him. The background is an alien planet landscape with a blue sky. In the distance, you can see ruins from an ancient civilization. --ar 45:64 --s 250 --style raw
-```
-
-[Source](https://prompthero.com/prompt/c3378d825db-flux-flux-11-pro-a-detailed-illustration-featured-on-artstation-in-the-style-of-alphonse-mucha-and-moebius-is-a-highly-detailed-oil-painting)
-
----
-
-<a id="prompthero-ca74ee4df24"></a>
-
-## half-body portrait of a dark knight rising from th\.\.\.
-
-<a href="https://cdn.prompthero.com/d4qwby73nkdqrvhwef7ivt1w9s1u-stable-diffusion-xl-base-09-half-body-portrait-of-a-dark-knight-rising-from-the-ashes-villain-burning-sharp-focus-intricate-details-muted-colors-looking.png"><img src="https://cdn.prompthero.com/d4qwby73nkdqrvhwef7ivt1w9s1u-stable-diffusion-xl-base-09-half-body-portrait-of-a-dark-knight-rising-from-the-ashes-villain-burning-sharp-focus-intricate-details-muted-colors-looking.png" width="480" alt="After"></a>
+<a href="https://cdn.prompthero.com/9h5wgndziecp1pa1askom4pw8f3a-midjourney-51-happy-and-excited-fox-painting-a-beautiful-landscape-with-vibrant-colors-and-intricate-details-by-studio-ghibli-by-bastien-lecouffe.jpg"><img src="https://cdn.prompthero.com/9h5wgndziecp1pa1askom4pw8f3a-midjourney-51-happy-and-excited-fox-painting-a-beautiful-landscape-with-vibrant-colors-and-intricate-details-by-studio-ghibli-by-bastien-lecouffe.jpg" width="480" alt="After"></a>
 
 **Prompt**
 
 ```text
-half-body portrait of a dark knight rising from the ashes, villain, burning, sharp focus, intricate details, muted colors, looking at viewer, photography, realistic, emotionally profound, highly detailed, soft lighting, 8k, extreme detail, digital painting
+Happy and excited fox, painting a beautiful landscape, with vibrant colors and intricate details, by Studio Ghibli, by Bastien Lecouffe-Deharme, fantasy illustration, whimsical forest background::2 --ar 2:3 --v 5.1 --style raw
 ```
 
-By [@ArtEnthusiast](https://prompthero.com/prompt/ca74ee4df24-stable-diffusion-xl-base-09-half-body-portrait-of-a-dark-knight-rising-from-the-ashes-villain-burning-sharp-focus-intricate-details-muted-colors-looking)
+[Source](https://prompthero.com/prompt/11a63078fdd-midjourney-51-happy-and-excited-fox-painting-a-beautiful-landscape-with-vibrant-colors-and-intricate-details-by-studio-ghibli-by-bastien-lecouffe)
 
 ---
 
-<a id="prompthero-cbb0abb46fa"></a>
+<a id="prompthero-13c40a7f448"></a>
 
-## Hawaiian artists, modern portrait series of a nelo\.\.\.
+## A hyper-realistic close-up of a young woman&\#39;s fing\.\.\.
 
-<a href="https://cdn.prompthero.com/oe8hic7qyl75tkr0ow8wsjqubq4d-midjourney-6-hawaiian-artists-modern-portrait-series-of-a-nelore-cattle-in-colorful-wear-in-the-style-of-aggressive-digital-illustration-bold.png"><img src="https://cdn.prompthero.com/oe8hic7qyl75tkr0ow8wsjqubq4d-midjourney-6-hawaiian-artists-modern-portrait-series-of-a-nelore-cattle-in-colorful-wear-in-the-style-of-aggressive-digital-illustration-bold.png" width="480" alt="After"></a>
+<a href="https://cdn.prompthero.com/az2iqwawe9qlrvyr4opbc42w7bfz-flux-flux-11-pro-ultra-a-hyper-realistic-close-up-of-a-young-womans-fingers-the-focus-is-on-her-bright-beautiful-five-fingernails-which.png"><img src="https://cdn.prompthero.com/az2iqwawe9qlrvyr4opbc42w7bfz-flux-flux-11-pro-ultra-a-hyper-realistic-close-up-of-a-young-womans-fingers-the-focus-is-on-her-bright-beautiful-five-fingernails-which.png" width="480" alt="After"></a>
 
 **Prompt**
 
 ```text
-Hawaiian artists, modern portrait series of a nelore cattle in colorful wear, in the style of aggressive digital illustration, bold shadows, airbrush art, close-up, pop art color palette, ultra hd, comic art --ar 1:2 --stylize 750 --v 6.0 - Image
+A hyper-realistic close-up of a young woman's fingers. The focus is on her bright, beautiful five fingernails, which are highly detailed and glossy. Tiny miniature workers in uniforms are painting and drawing ombre pink dragon on the fingernails, maintaining the nails oversized paint brushes, others polishing with cloths, . They are positioned on ladders and small platforms, working meticulously as if performing dental maintenance on a giant structure. The background is a bold, vibrant red, creating a striking contrast. The scene is surreal yet photorealistic, with cinematic depth of field, ultra-detailed textures, and a whimsical yet professional aesthetic.
 ```
 
-[Source](https://prompthero.com/prompt/cbb0abb46fa-midjourney-6-hawaiian-artists-modern-portrait-series-of-a-nelore-cattle-in-colorful-wear-in-the-style-of-aggressive-digital-illustration-bold)
+[Source](https://prompthero.com/prompt/13c40a7f448-flux-flux-11-pro-ultra-a-hyper-realistic-close-up-of-a-young-womans-fingers-the-focus-is-on-her-bright-beautiful-five-fingernails-which)
 
 ---
 
-<a id="prompthero-cc9232d3803"></a>
+<a id="prompthero-17b3f9dc3c4"></a>
 
-## Prompt: &gt; &quot;Masterpiece, high-quality anime illustr\.\.\.
+## illustration, various four man, square, exaggerate\.\.\.
 
-<a href="https://cdn.prompthero.com/c69p5onf0gi4s8fyloccirxx7s-hero-10-prompt-masterpiece-high-quality-anime-illustration-a-beautiful-girl-looking-up-towards-the-sky-with-her-eyes-gently-closed-serene.jpeg"><img src="https://cdn.prompthero.com/c69p5onf0gi4s8fyloccirxx7s-hero-10-prompt-masterpiece-high-quality-anime-illustration-a-beautiful-girl-looking-up-towards-the-sky-with-her-eyes-gently-closed-serene.jpeg" width="480" alt="After"></a>
+<a href="https://cdn.prompthero.com/dx9snd8p7y690ebuurxlsamkrcvi-midjourney-61-illustration-various-four-man-square-exaggerated-various-each-iconic-solid-black-background-each-character-different-appearance-humorous-flat-with-bold.png"><img src="https://cdn.prompthero.com/dx9snd8p7y690ebuurxlsamkrcvi-midjourney-61-illustration-various-four-man-square-exaggerated-various-each-iconic-solid-black-background-each-character-different-appearance-humorous-flat-with-bold.png" width="480" alt="After"></a>
 
 **Prompt**
 
 ```text
-Prompt: > "Masterpiece, high-quality anime illustration, a beautiful girl looking up towards the sky with her eyes gently closed, serene and peaceful facial expression, soft eyelashes, detailed hair flowing in a light breeze, cinematic lighting, sunbeams filtering through clouds, ethereal atmosphere, vibrant colors, Makoto Shinkai art style, 8k resolution, highly detailed background."
+illustration, various four man, square, exaggerated, various each iconic, solid black background, each character different appearance, humorous, flat with bold, colors limited --ar 9:16 --style raw
 ```
 
-[Source](https://prompthero.com/prompt/cc9232d3803-hero-10-prompt-masterpiece-high-quality-anime-illustration-a-beautiful-girl-looking-up-towards-the-sky-with-her-eyes-gently-closed-serene)
+By [@Grayve](https://prompthero.com/prompt/17b3f9dc3c4-midjourney-61-illustration-various-four-man-square-exaggerated-various-each-iconic-solid-black-background-each-character-different-appearance-humorous-flat-with-bold)
 
 ---
 
-<a id="prompthero-ccb6ff79eb9"></a>
+<a id="prompthero-20abee61436"></a>
 
-## with a beautiful view, misty forest, night, high d\.\.\.
+## A unique hybrid creature merging the elegance of a\.\.\.
 
-<a href="https://cdn.prompthero.com/t5p6zouoms0lwxz0ghb5nteks4j0-openjourney-15-with-a-beautiful-view-misty-forest-night-high-detail-digital-painting-artstation-concept-art-smooth-clear-focus-a-girl-in.png"><img src="https://cdn.prompthero.com/t5p6zouoms0lwxz0ghb5nteks4j0-openjourney-15-with-a-beautiful-view-misty-forest-night-high-detail-digital-painting-artstation-concept-art-smooth-clear-focus-a-girl-in.png" width="480" alt="After"></a>
+<a href="https://cdn.prompthero.com/shni57wqymkdujm6mnlk9f6nd9yl-stable-diffusion-35-large-a-unique-hybrid-creature-merging-the-elegance-of-an-angora-cat-with-the-sleek-design-of-a-porsche-911-the.jpg"><img src="https://cdn.prompthero.com/shni57wqymkdujm6mnlk9f6nd9yl-stable-diffusion-35-large-a-unique-hybrid-creature-merging-the-elegance-of-an-angora-cat-with-the-sleek-design-of-a-porsche-911-the.jpg" width="480" alt="After"></a>
 
 **Prompt**
 
 ```text
-with a beautiful view, misty forest, night, high detail, digital painting, artstation, concept art, smooth, clear focus, a girl in a carved red kokoshnik with a beautiful golden ornament, in a Russian folk dress illustration, works by the author: artgerm, Greg Rutkowski and Alphonse of the Fly, 8 thousand, A real perfect female anatomy , hyper details , photobashing, epic cinematic, octane render, extremely high detail, post processing, denoise, upbeta, q 2, v 4
+A unique hybrid creature merging the elegance of an Angora cat with the sleek design of a Porsche 911. The hybrid features a feline body with luxurious, flowing fur seamlessly integrated with aerodynamic car elements, such as glossy metallic textures, curved panels, and glowing headlights as eyes. The paws resemble finely engineered wheels or mechanical components, maintaining a balance between organic and automotive aesthetics. The background is a vibrant animated landscape at dusk, with a dramatic purple sky swirling with clouds, vivid orange sunset hues, and intricate city lights reflecting on wet streets. The dynamic perspective emphasizes the horizon, depicted in a digital painting style with rich colors and fluid brushstrokes, evoking a sense of wonder and tranquility inspired by Makoto Shinkai.
 ```
 
-[Source](https://prompthero.com/prompt/ccb6ff79eb9-openjourney-15-with-a-beautiful-view-misty-forest-night-high-detail-digital-painting-artstation-concept-art-smooth-clear-focus-a-girl-in)
+[Source](https://prompthero.com/prompt/20abee61436-stable-diffusion-35-large-a-unique-hybrid-creature-merging-the-elegance-of-an-angora-cat-with-the-sleek-design-of-a-porsche-911-the)
 
 ---
 
-<a id="prompthero-cd8da2f2364"></a>
+<a id="prompthero-23df2a7ff73"></a>
 
-## digital wallpaper portrait of a spartan warrior, n\.\.\.
+## Scorpion from Mortal Kombat, skull face, warm whit\.\.\.
 
-<a href="https://cdn.prompthero.com/c8445gziiwa3t33gw7j8yhvbw3gv-stable-diffusion-xl-base-09-digital-wallpaper-portrait-of-a-spartan-warrior-no-face-gloomy-background-brutal-majestic-dramatic-digital-painting-expressionism-emotionally-profound-close.png"><img src="https://cdn.prompthero.com/c8445gziiwa3t33gw7j8yhvbw3gv-stable-diffusion-xl-base-09-digital-wallpaper-portrait-of-a-spartan-warrior-no-face-gloomy-background-brutal-majestic-dramatic-digital-painting-expressionism-emotionally-profound-close.png" width="480" alt="After"></a>
+<a href="https://cdn.prompthero.com/0bi3ui19j7osvijswpauyteudj9c-dreamshaper-7-scorpion-from-mortal-kombat-skull-face-warm-white-dull-lifeless-eyes-very-scary-character-close-up-ink-artistic-conception-with.png"><img src="https://cdn.prompthero.com/0bi3ui19j7osvijswpauyteudj9c-dreamshaper-7-scorpion-from-mortal-kombat-skull-face-warm-white-dull-lifeless-eyes-very-scary-character-close-up-ink-artistic-conception-with.png" width="480" alt="After"></a>
 
 **Prompt**
 
 ```text
-digital wallpaper portrait of a spartan warrior, no face, gloomy background, brutal, majestic, dramatic, digital painting, expressionism, emotionally profound, close up, unforgettable, high quality, splatter and drip painting technique
+Scorpion from Mortal Kombat, skull face, warm white dull lifeless eyes, very scary character, close-up, ink artistic conception, with typography elements, abstract, complementary colors, mosaic of characters, wallpaper style, simplicity, Chinese painting, white background
 ```
 
-By [@ArtEnthusiast](https://prompthero.com/prompt/cd8da2f2364-stable-diffusion-xl-base-09-digital-wallpaper-portrait-of-a-spartan-warrior-no-face-gloomy-background-brutal-majestic-dramatic-digital-painting-expressionism-emotionally-profound-close)
+[Source](https://prompthero.com/prompt/23df2a7ff73-dreamshaper-7-scorpion-from-mortal-kombat-skull-face-warm-white-dull-lifeless-eyes-very-scary-character-close-up-ink-artistic-conception-with)
 
 ---
 
-<a id="prompthero-cd10dfb8254"></a>
+<a id="prompthero-36b8a2b0fd8"></a>
 
-## a woman with long red hair in a gold painting, in \.\.\.
+## \(perfect anime illustration\), 1girl, wavy brown ha\.\.\.
 
-<a href="https://cdn.prompthero.com/fhwspjkxptd3rd4i0iqtk7bcsi-seedream-4-seedream-45-a-woman-with-long-red-hair-in-a-gold-painting-in-the-style-of-charlie-bowater-dark-blue-and-dark.jpeg"><img src="https://cdn.prompthero.com/fhwspjkxptd3rd4i0iqtk7bcsi-seedream-4-seedream-45-a-woman-with-long-red-hair-in-a-gold-painting-in-the-style-of-charlie-bowater-dark-blue-and-dark.jpeg" width="480" alt="After"></a>
+<a href="https://cdn.prompthero.com/m5y48m670r4r8sebeeltftp6dnii-anything-v5-v5prt-re-perfect-anime-illustration-1girl-wavy-brown-hair-medium-hair-light-brown-hair-brown-eyes-huge-breasts-picnic-table-outdoors-food.png"><img src="https://cdn.prompthero.com/m5y48m670r4r8sebeeltftp6dnii-anything-v5-v5prt-re-perfect-anime-illustration-1girl-wavy-brown-hair-medium-hair-light-brown-hair-brown-eyes-huge-breasts-picnic-table-outdoors-food.png" width="480" alt="After"></a>
 
 **Prompt**
 
 ```text
-a woman with long red hair in a gold painting, in the style of charlie bowater, dark blue and dark black, michael garmash, comic art, realistic color palette, dark black and beige, soft-focused realism --ar 24:37 --stylize 750 --v 6
+(perfect anime illustration), 1girl, wavy brown hair, medium hair, (light brown hair, brown eyes), huge breasts, (picnic table, outdoors, food basket, grass, eating), (casual outfit, jacket, black shorts), anime, sitting, (realistic), sunset, 8:30 pm, beautiful sky, (alone, very closeup image), human hyperrealistic, full body, detailed clothing, highly detailed, cinematic lighting, stunningly beautiful, intricate, sharp focus, f\/1. 8, 85mm, (centered image composition), (professionally color graded), ((bright soft diffused light)), volumetric fog, trending on instagram, trending on tumblr, HDR 4K, 8K
 ```
 
-[Source](https://prompthero.com/prompt/cd10dfb8254-seedream-4-seedream-45-a-woman-with-long-red-hair-in-a-gold-painting-in-the-style-of-charlie-bowater-dark-blue-and-dark)
+[Source](https://prompthero.com/prompt/36b8a2b0fd8-anything-v5-v5prt-re-perfect-anime-illustration-1girl-wavy-brown-hair-medium-hair-light-brown-hair-brown-eyes-huge-breasts-picnic-table-outdoors-food)
 
 ---
 
-<a id="prompthero-cfe30751643"></a>
+<a id="prompthero-44ac9f46fc1"></a>
 
-## stunning half body portrait of a beautiful young l\.\.\.
+## modern abstract portrait of two overlapping female\.\.\.
 
-<a href="https://cdn.prompthero.com/ckp6mo954wzq2q5hlw3xmb89vikb-stable-diffusion-xl-base-09-stunning-half-body-portrait-of-a-beautiful-young-lady-elegant-black-and-red-colors-minimalism-delicate-ink-lines-intricate-details.png"><img src="https://cdn.prompthero.com/ckp6mo954wzq2q5hlw3xmb89vikb-stable-diffusion-xl-base-09-stunning-half-body-portrait-of-a-beautiful-young-lady-elegant-black-and-red-colors-minimalism-delicate-ink-lines-intricate-details.png" width="480" alt="After"></a>
+<a href="https://cdn.prompthero.com/tz7n52vvjam5zpc0mkbrruy4f9-hero-10-modern-abstract-portrait-of-two-overlapping-female-profiles-facing-opposite-directions-bold-color-blocking-in-teal-mustard-yellow-coral-red.jpeg"><img src="https://cdn.prompthero.com/tz7n52vvjam5zpc0mkbrruy4f9-hero-10-modern-abstract-portrait-of-two-overlapping-female-profiles-facing-opposite-directions-bold-color-blocking-in-teal-mustard-yellow-coral-red.jpeg" width="480" alt="After"></a>
 
 **Prompt**
 
 ```text
-stunning half body portrait of a beautiful young lady, elegant, black and red colors, minimalism, delicate ink lines, intricate details, 4k, absurdres, high resolution, high quality, oblique angle, by Milo Manara and Russ Mills, unforgettable, detailed illustration, 8k, very intricate
+modern abstract portrait of two overlapping female profiles facing opposite directions, bold color blocking in teal, mustard yellow, coral red and deep navy, smooth organic shapes, minimal facial line details, clean vector style, mid century modern aesthetic, Henri Matisse inspired, flat colors, soft paper texture background, elegant composition, gallery wall art, printable high resolution
 ```
 
-By [@ArtEnthusiast](https://prompthero.com/prompt/cfe30751643-stable-diffusion-xl-base-09-stunning-half-body-portrait-of-a-beautiful-young-lady-elegant-black-and-red-colors-minimalism-delicate-ink-lines-intricate-details)
+[Source](https://prompthero.com/prompt/44ac9f46fc1-hero-10-modern-abstract-portrait-of-two-overlapping-female-profiles-facing-opposite-directions-bold-color-blocking-in-teal-mustard-yellow-coral-red)
 
 ---
 
-<a id="prompthero-d06c45ad838"></a>
+<a id="prompthero-45f5abe30cb"></a>
 
-## Retro-Futuristic, Art Nouveau, Cyberpunk, double e\.\.\.
+## A whimsical illustration of a stylized, fantastica\.\.\.
 
-<a href="https://cdn.prompthero.com/aet5brscouxh98arrr1vk6oi7byf-stable-diffusion-xl-base-09-retro-futuristic-art-nouveau-cyberpunk-double-exposure-two-parts-in-one-art-detailed-splatter-digital-painting-lines-art-acrylic-dynamic.jpg"><img src="https://cdn.prompthero.com/aet5brscouxh98arrr1vk6oi7byf-stable-diffusion-xl-base-09-retro-futuristic-art-nouveau-cyberpunk-double-exposure-two-parts-in-one-art-detailed-splatter-digital-painting-lines-art-acrylic-dynamic.jpg" width="480" alt="After"></a>
+<a href="https://cdn.prompthero.com/df6xzqwgn0ufe7oh7dmh1jdsxm-hero-10-a-whimsical-illustration-of-a-stylized-fantastical-creature-with-intricate-details-set-against-a-soft-dreamlike-background-of-muted-colors.jpeg"><img src="https://cdn.prompthero.com/df6xzqwgn0ufe7oh7dmh1jdsxm-hero-10-a-whimsical-illustration-of-a-stylized-fantastical-creature-with-intricate-details-set-against-a-soft-dreamlike-background-of-muted-colors.jpeg" width="480" alt="After"></a>
 
 **Prompt**
 
 ```text
-Retro-Futuristic, Art Nouveau, Cyberpunk, double exposure. Two parts in one art. Detailed splatter digital painting , lines art,  acrylic, dynamic on a cracked paper, close up. Cyberdemonic old male white-haired Santa and Snow maiden woman close together, portrait, detailed demon face, dynamic pose, light on face shadow play, perfect face, sharp  glowing eyes, in the style of James Jean, Craola, Andy Kehoe, Dorian Vallejo, Damian Lechoszest, Todd Lockwood, DamShelma, stained glass,  storybook illustration, unusual beautiful details, intricated, tiny details masterpiece, high quality, intricated lighting, luminism,
+A whimsical illustration of a stylized, fantastical creature with intricate details, set against a soft, dreamlike background of muted colors, adorned with delicate lines and patterns, aims to capture the essence of a mystical being. Created using a blend of digital and traditional techniques, with bold brushstrokes and subtle textures, it exudes an aesthetic that is both strange and enchanting, emphasizing the transmission of a sense of wonder and magic.
 ```
 
-[Source](https://prompthero.com/prompt/d06c45ad838-stable-diffusion-xl-base-09-retro-futuristic-art-nouveau-cyberpunk-double-exposure-two-parts-in-one-art-detailed-splatter-digital-painting-lines-art-acrylic-dynamic)
+[Source](https://prompthero.com/prompt/45f5abe30cb-hero-10-a-whimsical-illustration-of-a-stylized-fantastical-creature-with-intricate-details-set-against-a-soft-dreamlike-background-of-muted-colors)
 
 ---
 
-<a id="prompthero-d7f6a76861f"></a>
+<a id="prompthero-54b61f7ebc5"></a>
 
-## Santa with rudolph
+## Lost Sumerian Temple v2
 
-<a href="https://cdn.prompthero.com/x6yg5kyknjxegaep86vh1k6uzhvw-midjourney-6-santa-with-rudolph.png"><img src="https://cdn.prompthero.com/x6yg5kyknjxegaep86vh1k6uzhvw-midjourney-6-santa-with-rudolph.png" width="480" alt="After"></a>
+<a href="https://cdn.prompthero.com/kq0carjs5wq7w4rn220o8pu424m4-stable-diffusion-2-768-lost-sumerian-temple-v2.png"><img src="https://cdn.prompthero.com/kq0carjs5wq7w4rn220o8pu424m4-stable-diffusion-2-768-lost-sumerian-temple-v2.png" width="480" alt="After"></a>
 
 **Prompt**
 
 ```text
-artistic illustration art piece, flat, featuring of gorgeous stained glass expression, santa with rudolph of christmas concept, golden ratio, perfection composition, simplify bold line, master piece, matte black with christmas mood background --ar 9:16 --quality 2 --style raw --personalize ue2yzjl --stylize 500 --v 6.1
+(masterpiece Illustration, best quality:1.2) A ruined Sumerian Temple, hidden in a canyon wall , debris scattered near entrance, Desert , Dark Canyon with Light rays from above , Style of 'Petra', Cinematic Scene, Volumetric lighting , <lora:add_detail:1>, 16k, UHD, HDR,(Masterpiece:1.5), (best quality:1.5)
 ```
 
-By [@Grayve](https://prompthero.com/prompt/d7f6a76861f-midjourney-6-santa-with-rudolph)
+By [@ScArecrow23](https://prompthero.com/prompt/54b61f7ebc5-stable-diffusion-2-768-lost-sumerian-temple-v2)
 
 ---
 
-<a id="prompthero-d9fec3a2500"></a>
+<a id="prompthero-55c13a1ac58"></a>
+
+## \{\{illustration\}\},\{\{\{masterpiece\}\}\},\{\{best quality\}\.\.\.
+
+<a href="https://cdn.prompthero.com/j0iflio8r3vj20ennoklxubgdsxm-rev-animated-v10-illustrationmasterpiecebest-quality-hignity-8k-wallpapersimple-backgroundintricate-detailhighrespencil-drawingportrait12sketch12paintingline-art11meticulous-paintingwhite-papercharacter-on-paperblack-and-whiteclear-lines-looking-at-viewer-official.png"><img src="https://cdn.prompthero.com/j0iflio8r3vj20ennoklxubgdsxm-rev-animated-v10-illustrationmasterpiecebest-quality-hignity-8k-wallpapersimple-backgroundintricate-detailhighrespencil-drawingportrait12sketch12paintingline-art11meticulous-paintingwhite-papercharacter-on-paperblack-and-whiteclear-lines-looking-at-viewer-official.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+{{illustration}},{{{masterpiece}}},{{best quality}}, hignity 8k wallpaper,simple background,{{intricate detail}},{highres}，Pencil drawing，(portrait:1.2)，(sketch:1.2)，painting，,(Line art:1.1),meticulous painting,white paper，character on paper，black and white，clear lines， looking at viewer,, official art, masterpiece, best quality, ultra-detailed, illustration, disheveled hair , game_cg, wallpaper, cover, colorful, best quality, highres,high detail, original, extremely detailed wallpaper,an extremely delicate and beautiful, perfect face, 1girl, cloud_sky , standing, , {{{smoke}}, flying in the sky, sad, bandage over one eye, light particles, sunset, cape, military uniform, military hat, lace, ribbon, stockings, dynamic composition, motion, incredibly detailed, battlefield 1, beautiful, detailed eyes,solo, amazing, finely detail, (stars),ray trace, Depth of field, detailed_finger, white gloves,(clear face:1.2)
+```
+
+By [@heeyrina](https://prompthero.com/prompt/55c13a1ac58-rev-animated-v10-illustrationmasterpiecebest-quality-hignity-8k-wallpapersimple-backgroundintricate-detailhighrespencil-drawingportrait12sketch12paintingline-art11meticulous-paintingwhite-papercharacter-on-paperblack-and-whiteclear-lines-looking-at-viewer-official)
+
+---
+
+<a id="prompthero-68aa5c404f6"></a>
+
+## detailed full body concept art illustration, dark \.\.\.
+
+<a href="https://cdn.prompthero.com/950jye2uzkdldqslktam7x82g4zq-rpg-rpg-v4-detailed-full-body-concept-art-illustration-dark-soft-focus-plague-style-oil-painting-on-canvas-of-a-little-viking-warrior.png"><img src="https://cdn.prompthero.com/950jye2uzkdldqslktam7x82g4zq-rpg-rpg-v4-detailed-full-body-concept-art-illustration-dark-soft-focus-plague-style-oil-painting-on-canvas-of-a-little-viking-warrior.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+detailed full body concept art illustration, dark soft focus, plague style oil painting on canvas of a little viking warrior girl in full intricate clothing, biomutant, dystopian, micro detail, octane render, 4K
+```
+
+[Source](https://prompthero.com/prompt/68aa5c404f6-rpg-rpg-v4-detailed-full-body-concept-art-illustration-dark-soft-focus-plague-style-oil-painting-on-canvas-of-a-little-viking-warrior)
+
+---
+
+<a id="prompthero-077baf9a6aa"></a>
 
 ## \(masterpiece\), best quality, centered, 2D illustra\.\.\.
 
-<a href="https://cdn.prompthero.com/73c2e53cztsxzldhcq3zx0cn4pxb-dreamshaper-5-baked-vae-masterpiece-best-quality-centered-2d-illustration-anime-style-expressive-eyes-perfect-face-full-body-cinematic-shot-instagram-able-dynamic-pose.jpg"><img src="https://cdn.prompthero.com/73c2e53cztsxzldhcq3zx0cn4pxb-dreamshaper-5-baked-vae-masterpiece-best-quality-centered-2d-illustration-anime-style-expressive-eyes-perfect-face-full-body-cinematic-shot-instagram-able-dynamic-pose.jpg" width="480" alt="After"></a>
+<a href="https://cdn.prompthero.com/4s5l5b35ekkmr8aoetu5pei792fo-stable-diffusion-21-768-masterpiece-best-quality-centered-2d-illustration-anime-style-expressive-eyes-perfect-face-full-body-instagram-able-dynamic-pose-clockwork-robot.jpg"><img src="https://cdn.prompthero.com/4s5l5b35ekkmr8aoetu5pei792fo-stable-diffusion-21-768-masterpiece-best-quality-centered-2d-illustration-anime-style-expressive-eyes-perfect-face-full-body-instagram-able-dynamic-pose-clockwork-robot.jpg" width="480" alt="After"></a>
 
 **Prompt**
 
 ```text
-(masterpiece), best quality, centered, 2D illustration, anime style, expressive eyes, perfect face, full body, cinematic shot, instagram able, dynamic pose, clockwork, robot, cybernetic, gears, fix, cybernetic biochemical steampunk 1girl, orange hair, lots of gears background, (epic composition, epic proportion), intricate, professional work, soft shadow, volumetric lighting, ghost in the shell inspired,
+(masterpiece), best quality, centered, 2D illustration, anime style, expressive eyes, perfect face, full body, instagram able, dynamic pose, clockwork, robot, cybernetic, sitting, gears, fix, cybernetic biochemical steampunk 1girl, orange hair, lots of gears background, (epic composition, epic proportion), intricate, professional work, soft shadow, volumetric lighting, ghost in the shell inspired
 ```
 
-[Source](https://prompthero.com/prompt/d9fec3a2500-dreamshaper-5-baked-vae-masterpiece-best-quality-centered-2d-illustration-anime-style-expressive-eyes-perfect-face-full-body-cinematic-shot-instagram-able-dynamic-pose)
+[Source](https://prompthero.com/prompt/077baf9a6aa-stable-diffusion-21-768-masterpiece-best-quality-centered-2d-illustration-anime-style-expressive-eyes-perfect-face-full-body-instagram-able-dynamic-pose-clockwork-robot)
 
 ---
 
-<a id="prompthero-d271b5f9306"></a>
+<a id="prompthero-92df364739c"></a>
 
-## a japanese woman in a raincoat standing on a city \.\.\.
+## totem animal totem aztek greeble tribal style fana\.\.\.
 
-<a href="https://cdn.prompthero.com/khkw8j0wmakt9162as0a6pe3k3oh-flux-flux-11-pro-a-japanese-woman-in-a-raincoat-standing-on-a-city-street-in-anime-style-detailed-symmetric-features-anime-cyberpunk-art.jpg"><img src="https://cdn.prompthero.com/khkw8j0wmakt9162as0a6pe3k3oh-flux-flux-11-pro-a-japanese-woman-in-a-raincoat-standing-on-a-city-street-in-anime-style-detailed-symmetric-features-anime-cyberpunk-art.jpg" width="480" alt="After"></a>
+<a href="https://cdn.prompthero.com/ckqd2gxukml4ff8psbdub10gbbrt-midjourney-52-totem-animal-totem-aztek-greeble-tribal-style-fanart-ornate-fantasy-heartstone-ankama-gta5-cover-style-official-behance-hd-artstation-by.png"><img src="https://cdn.prompthero.com/ckqd2gxukml4ff8psbdub10gbbrt-midjourney-52-totem-animal-totem-aztek-greeble-tribal-style-fanart-ornate-fantasy-heartstone-ankama-gta5-cover-style-official-behance-hd-artstation-by.png" width="480" alt="After"></a>
 
 **Prompt**
 
 ```text
-a japanese woman in a raincoat standing on a city street in anime style| detailed symmetric features| anime cyberpunk art| cyberpunk 2077| full color manga visual style| anime key visual style| <lora:novelaiLoraForWD15_v10:0.3>| InkPunk768
+totem animal totem aztek greeble tribal style fanart ornate fantasy heartstone ankama gta5 cover style official behance hd artstation by Jesper Ejsing, by RHADS, Makoto Shinkai and Lois van baarle, ilya kuvshinov, rossdraws totem color pastel vibrant radiating a glowing aura intricate, elegant, sharp focus, illustration, digital painting, concept art, matte, art by WLOP and Artgerm and Greg Rutkowski and Alphonse Mucha, masterpiece --ar 2:3 --s 750
 ```
 
-[Source](https://prompthero.com/prompt/d271b5f9306-flux-flux-11-pro-a-japanese-woman-in-a-raincoat-standing-on-a-city-street-in-anime-style-detailed-symmetric-features-anime-cyberpunk-art)
+[Source](https://prompthero.com/prompt/92df364739c-midjourney-52-totem-animal-totem-aztek-greeble-tribal-style-fanart-ornate-fantasy-heartstone-ankama-gta5-cover-style-official-behance-hd-artstation-by)
 
 ---
 
-<a id="prompthero-da5f6d3e559"></a>
+<a id="prompthero-97a875bb919"></a>
 
-## a vibrant stained glass art piece of one Chinese d\.\.\.
+## Portrait of a post apocalyptic survivor
 
-<a href="https://cdn.prompthero.com/m6oqwhlzdh5891zywjg5ywcsbvep-deliberate-v2-a-vibrant-stained-glass-art-piece-of-one-chinese-dragon-rays-of-sunlight-shine-through-the-window-tiffany-style-day.png"><img src="https://cdn.prompthero.com/m6oqwhlzdh5891zywjg5ywcsbvep-deliberate-v2-a-vibrant-stained-glass-art-piece-of-one-chinese-dragon-rays-of-sunlight-shine-through-the-window-tiffany-style-day.png" width="480" alt="After"></a>
+<a href="https://cdn.prompthero.com/ltwrpkypjrvjbsvqitfu98231m0e-stable-diffusion-15-portrait-of-a-post-apocalyptic-survivor.png"><img src="https://cdn.prompthero.com/ltwrpkypjrvjbsvqitfu98231m0e-stable-diffusion-15-portrait-of-a-post-apocalyptic-survivor.png" width="480" alt="After"></a>
 
 **Prompt**
 
 ```text
-a vibrant stained glass art piece of one Chinese dragon, Rays of sunlight shine through the window, ((Tiffany style)), day lighting, intricate, elegant, dynamic pose, highly detailed, highest quality, 8k, digital painting, sharp focus, cinematic, ultra-high resolution, (brightful colors), <lora:more_details:0.6> <lora:add_detail:0.7>
+Tarot card, Close up face shot of a beautiful woman looking at the camera, (((card title surrounded by roses at the bottom))), tarot card frame, tatoos, lots of tatoos, rose tatoos, blonde, (((survivor clothes))), extremely beautiful face, model face, divine beauty, post apocalyptic city, In the Style of The Last Of Us, Ultra realistic photo of a post apocalyptic city in the background, masterpiece, best quality, CG, wallpaper, HDR, high quality, high-definition, extremely detailed, (detailed light){{intricate detail}}, {highres}, beautiful sunlight, chiaroscuro, anime style, key visual, intricate detail, highly detailed, breathtaking, vibrant, cinematic, detailed background <lora:UltimateTarotV1.3:0.5>
 ```
 
-[Source](https://prompthero.com/prompt/da5f6d3e559-deliberate-v2-a-vibrant-stained-glass-art-piece-of-one-chinese-dragon-rays-of-sunlight-shine-through-the-window-tiffany-style-day)
+[Source](https://prompthero.com/prompt/97a875bb919-stable-diffusion-15-portrait-of-a-post-apocalyptic-survivor)
 
 ---
 
-<a id="prompthero-de02ba4bd0e"></a>
+<a id="prompthero-98b4f5c04cc"></a>
 
-## Minimalist and bustling
+## A half body portrait of brutal warrior in armor, \.\.\.
 
-<a href="https://cdn.prompthero.com/64lg3p1s4fxkcw8jgnsw9g1v0la2-midjourney-niji-mode-minimalist-and-bustling.png"><img src="https://cdn.prompthero.com/64lg3p1s4fxkcw8jgnsw9g1v0la2-midjourney-niji-mode-minimalist-and-bustling.png" width="480" alt="After"></a>
+<a href="https://cdn.prompthero.com/cevrl2ekrcjao0xjsvyoupc1knkj-stable-diffusion-xl-base-09-a-half-body-portrait-of-brutal-warrior-in-armor-legendary-warrior-ghost-torn-cloak-no-face-alone-among-ruins-snowing.png"><img src="https://cdn.prompthero.com/cevrl2ekrcjao0xjsvyoupc1knkj-stable-diffusion-xl-base-09-a-half-body-portrait-of-brutal-warrior-in-armor-legendary-warrior-ghost-torn-cloak-no-face-alone-among-ruins-snowing.png" width="480" alt="After"></a>
 
 **Prompt**
 
 ```text
-a gorgerous girl with delicate features, pale white skin, in a fashion suit and colorful fun intricate embellishments and geometric patterns and designs, with a minimalist style of painting, only Chelsea Yellow as the background, the color matching is mainly Chelsea Yellow, white black and red, flat illustrations, minimalist fashion illustration in Memphis --ar 3:4 --niji 5
+A half body portrait of brutal warrior in armor, legendary warrior, ghost, torn cloak, no face, alone among ruins, snowing, stormy, brutal epic composition, breathtaking, digital painting by Eugene de Blaas and Ross Tran, dramatic light, gloomy, dark, mist, calm, elegant, highly detailed, in the style of romanticism, cinematic, Greg rutkowski, absurdres, high quality, unforgettable
 ```
 
-[Source](https://prompthero.com/prompt/de02ba4bd0e-midjourney-niji-mode-minimalist-and-bustling)
+By [@ArtEnthusiast](https://prompthero.com/prompt/98b4f5c04cc-stable-diffusion-xl-base-09-a-half-body-portrait-of-brutal-warrior-in-armor-legendary-warrior-ghost-torn-cloak-no-face-alone-among-ruins-snowing)
 
 ---
 
-<a id="prompthero-ded17c94d45"></a>
+<a id="prompthero-139f75d2e80"></a>
 
-## Tiny miniature workers in uniforms are painting an\.\.\.
+## chibi manga legend of vader anime vh1, in the styl\.\.\.
 
-<a href="https://cdn.prompthero.com/kq8dsi37hhxjbw4dr902dqq58595-flux-flux-11-pro-ultra-tiny-miniature-workers-in-uniforms-are-painting-and-drawing-super-cute-ombre-cute-pink-dragon-on-the-fingernails-maintaining-the.png"><img src="https://cdn.prompthero.com/kq8dsi37hhxjbw4dr902dqq58595-flux-flux-11-pro-ultra-tiny-miniature-workers-in-uniforms-are-painting-and-drawing-super-cute-ombre-cute-pink-dragon-on-the-fingernails-maintaining-the.png" width="480" alt="After"></a>
+<a href="https://cdn.prompthero.com/2tzfa3erxs9829afzzyb35j6ewg7-midjourney-niji-mode-chibi-manga-legend-of-vader-anime-vh1-in-the-style-of-miho-hirano-dynamic-and-action-packed-scenes-gaston-bussire.png"><img src="https://cdn.prompthero.com/2tzfa3erxs9829afzzyb35j6ewg7-midjourney-niji-mode-chibi-manga-legend-of-vader-anime-vh1-in-the-style-of-miho-hirano-dynamic-and-action-packed-scenes-gaston-bussire.png" width="480" alt="After"></a>
 
 **Prompt**
 
 ```text
-Tiny miniature workers in uniforms are painting and drawing super cute ombre cute pink dragon on the fingernails, maintaining the nails oversized paint brushes, others polishing with cloths, . They are positioned on ladders and small platforms, working meticulously as if performing dental maintenance on a giant structure. The background is a bold, vibrant red, creating a striking contrast. The scene is surreal yet photorealistic, with cinematic depth of field, ultra-detailed textures, and a whimsical yet professional aesthetic.
+chibi manga legend of vader anime vh1, in the style of miho hirano, dynamic and action-packed scenes, gaston bussière, chinese new year festivities, ross tran, charming character illustrations, light red and bronze --ar 73:88 --s 750 --niji 5
 ```
 
-[Source](https://prompthero.com/prompt/ded17c94d45-flux-flux-11-pro-ultra-tiny-miniature-workers-in-uniforms-are-painting-and-drawing-super-cute-ombre-cute-pink-dragon-on-the-fingernails-maintaining-the)
+By [@NorthmoorAI](https://prompthero.com/prompt/139f75d2e80-midjourney-niji-mode-chibi-manga-legend-of-vader-anime-vh1-in-the-style-of-miho-hirano-dynamic-and-action-packed-scenes-gaston-bussire)
 
 ---
 
-<a id="prompthero-dfc09524286"></a>
+<a id="prompthero-191f49c40bd"></a>
 
-## tarot card with intricate detailed frame around th\.\.\.
+## Chinese ink wash art style, a ferocious tiger with\.\.\.
 
-<a href="https://cdn.prompthero.com/8m4pqm8re7gnz6kwo60tpcfq44ho-rev-animated-122-tarot-card-with-intricate-detailed-frame-around-the-outside-portrait-of-cyberpunk-head-with-jester-hat-cyberpunk-styled-in-art.png"><img src="https://cdn.prompthero.com/8m4pqm8re7gnz6kwo60tpcfq44ho-rev-animated-122-tarot-card-with-intricate-detailed-frame-around-the-outside-portrait-of-cyberpunk-head-with-jester-hat-cyberpunk-styled-in-art.png" width="480" alt="After"></a>
+<a href="https://cdn.prompthero.com/x5fv91zrbnric5rn6vkhpnq4sb-chatgpt-image-gpt-image-2-chinese-ink-wash-art-style-a-ferocious-tiger-with-flames-engulfing-its-form-lunging-toward-the-viewer-glowing-eyes-bared.jpeg"><img src="https://cdn.prompthero.com/x5fv91zrbnric5rn6vkhpnq4sb-chatgpt-image-gpt-image-2-chinese-ink-wash-art-style-a-ferocious-tiger-with-flames-engulfing-its-form-lunging-toward-the-viewer-glowing-eyes-bared.jpeg" width="480" alt="After"></a>
 
 **Prompt**
 
 ```text
-tarot card with intricate detailed frame around the outside, portrait of cyberpunk head with jester hat, cyberpunk, styled in Art Nouveau, insanely detailed, embellishments, high definition, concept art, digital art, vibrant, intricate detailed frame around the outside, detailed, 4K, details, focus, tarot card, detailed, <lora:openjourneyLora_v1:0. 75>| <lora:synthwavepunkLora300:0. 25>| neon light sign in design of face | of gorgeous goddess | detailed gorgeous face | precise lineart | intricate | realistic | studio quality | cinematic | luminescence | character design | concept art | highly detailed | illustration | digital art | digital painting
+Chinese ink wash art style, a ferocious tiger with flames engulfing its form, lunging toward the viewer, glowing eyes, bared fangs, golden claws, swirling smoke and flame effects, subtle red and gold cloud patterns, dark moody background, bold brush strokes, dramatic lighting, high contrast, vibrant fiery colors, ultra-detailed, cinematic composition, phone wallpaper, vertical
 ```
 
-[Source](https://prompthero.com/prompt/dfc09524286-rev-animated-122-tarot-card-with-intricate-detailed-frame-around-the-outside-portrait-of-cyberpunk-head-with-jester-hat-cyberpunk-styled-in-art)
+By [@chorlo](https://prompthero.com/prompt/191f49c40bd-chatgpt-image-gpt-image-2-chinese-ink-wash-art-style-a-ferocious-tiger-with-flames-engulfing-its-form-lunging-toward-the-viewer-glowing-eyes-bared)
 
 ---
 
-<a id="prompthero-e02e8fc8584"></a>
+<a id="prompthero-229b566d62e"></a>
 
-## a masterpiece, batgirl/supergirl from dc comic wea\.\.\.
+## acrylic painting, splatter and drip painting techn\.\.\.
 
-<a href="https://cdn.prompthero.com/erklkhk7nw0k92x16xzhmye4utuv-stable-diffusion-xl-base-09-bat-girl-a-masterpiece-batgirlsupergirl-from-dc-comic-wearing-alternate-yellow-costume-coy-and-alluring-full-body-kim-jung-gi-freedom-soul.jpg"><img src="https://cdn.prompthero.com/erklkhk7nw0k92x16xzhmye4utuv-stable-diffusion-xl-base-09-bat-girl-a-masterpiece-batgirlsupergirl-from-dc-comic-wearing-alternate-yellow-costume-coy-and-alluring-full-body-kim-jung-gi-freedom-soul.jpg" width="480" alt="After"></a>
+<a href="https://cdn.prompthero.com/m4ouoa7dx2o2p9qn2jgo32flpgsb-sd-xl-v10-acrylic-painting-splatter-and-drip-painting-technique-portrait-of-a-smoking-skeleton-side-view-gloomy-epic-composition-dramatic-digital-painting.png"><img src="https://cdn.prompthero.com/m4ouoa7dx2o2p9qn2jgo32flpgsb-sd-xl-v10-acrylic-painting-splatter-and-drip-painting-technique-portrait-of-a-smoking-skeleton-side-view-gloomy-epic-composition-dramatic-digital-painting.png" width="480" alt="After"></a>
 
 **Prompt**
 
 ```text
-a masterpiece, batgirl/supergirl from dc comic wearing alternate yellow costume, coy and alluring, full body, Kim Jung gi, freedom, soul, digital illustration, comic style, cyberpunk, perfect anatomy, centered, approaching perfection, dynamic, highly detailed, watercolor painting, artstation, concept art, smooth, sharp focus, illustration, art by Carne Griffiths and Wadim Kashin, unique, award winning, masterpiece
+acrylic painting, splatter and drip painting technique, portrait of a smoking skeleton, side view, gloomy, epic composition, dramatic, digital painting, expressionism, emotionally profound, close up, by tanya shatseva
 ```
 
-[Source](https://prompthero.com/prompt/e02e8fc8584-stable-diffusion-xl-base-09-bat-girl-a-masterpiece-batgirlsupergirl-from-dc-comic-wearing-alternate-yellow-costume-coy-and-alluring-full-body-kim-jung-gi-freedom-soul)
+By [@ArtEnthusiast](https://prompthero.com/prompt/229b566d62e-sd-xl-v10-acrylic-painting-splatter-and-drip-painting-technique-portrait-of-a-smoking-skeleton-side-view-gloomy-epic-composition-dramatic-digital-painting)
 
 ---
 
-<a id="prompthero-e7a7e5774c5"></a>
+<a id="prompthero-274ff4aa859"></a>
 
-## painting style, illustration of a muscular young m\.\.\.
+## digital wallpaper portrait of an anonymous, no fac\.\.\.
 
-<a href="https://cdn.prompthero.com/d54qu2aintl40rstxqmw47afh1ad-dalle-3-boxer-painting-style-illustration-of-a-muscular-young-man-with-short-brown-hair-a-tough-and-intense-gaze-and-strong-calloused.jfif"><img src="https://cdn.prompthero.com/d54qu2aintl40rstxqmw47afh1ad-dalle-3-boxer-painting-style-illustration-of-a-muscular-young-man-with-short-brown-hair-a-tough-and-intense-gaze-and-strong-calloused.jfif" width="480" alt="After"></a>
+<a href="https://cdn.prompthero.com/hg6ogvxopndxmgmk1gbv972h6qwx-stable-diffusion-xl-base-09-digital-wallpaper-portrait-of-an-anonymous-no-face-gloomy-background-horror-brutal-majestic-cinematic-dramatic-digital-painting-expressionism-emotionally-profound.png"><img src="https://cdn.prompthero.com/hg6ogvxopndxmgmk1gbv972h6qwx-stable-diffusion-xl-base-09-digital-wallpaper-portrait-of-an-anonymous-no-face-gloomy-background-horror-brutal-majestic-cinematic-dramatic-digital-painting-expressionism-emotionally-profound.png" width="480" alt="After"></a>
 
 **Prompt**
 
 ```text
-painting style, illustration of a muscular young man with short brown hair, a tough and intense gaze, and strong, calloused hands, white dragon hoodie. He looks like a seasoned fighter with scars and marks of fight on his face and body. sweat, speed and blur effect, in a dynamic epic action pose, dark boxing club background, in the middle of a fierce battle. in the style of Prokoko, with a focus on bold, expressive brushstrokes and vivid colors. The background can be left to the artist\'s interpretation. The modifier is CarnageStyle, the color is blood_red, and the intensity is 1.6, the lighting is cinematic, the angle is dynamic, the details are extreme
+digital wallpaper portrait of an anonymous, no face, gloomy background, horror, brutal, majestic, cinematic, dramatic, digital painting, expressionism, emotionally profound, close up, unforgettable, high quality
 ```
 
-[Source](https://prompthero.com/prompt/e7a7e5774c5-dalle-3-boxer-painting-style-illustration-of-a-muscular-young-man-with-short-brown-hair-a-tough-and-intense-gaze-and-strong-calloused)
+By [@ArtEnthusiast](https://prompthero.com/prompt/274ff4aa859-stable-diffusion-xl-base-09-digital-wallpaper-portrait-of-an-anonymous-no-face-gloomy-background-horror-brutal-majestic-cinematic-dramatic-digital-painting-expressionism-emotionally-profound)
 
 ---
 
-<a id="prompthero-e7a43a940c1"></a>
+<a id="prompthero-346de981919"></a>
 
-## \(Masterpiece, top quality, best quality, official \.\.\.
+## anime character dressed in white and orange jacket\.\.\.
 
-<a href="https://cdn.prompthero.com/vcjp2v8585i7ro5ix48mi5thxfq3-dreamshaper-5-baked-vae-masterpiece-top-quality-best-quality-official-art-beautiful-and-aesthetic12-anime-style-2d-illustration-vibrant-color-centered-focused-shot-instagram.jpg"><img src="https://cdn.prompthero.com/vcjp2v8585i7ro5ix48mi5thxfq3-dreamshaper-5-baked-vae-masterpiece-top-quality-best-quality-official-art-beautiful-and-aesthetic12-anime-style-2d-illustration-vibrant-color-centered-focused-shot-instagram.jpg" width="480" alt="After"></a>
+<a href="https://cdn.prompthero.com/ereajni1odiur9u9j03lq1k4fj6t-midjourney-niji-v6-anime-character-dressed-in-white-and-orange-jacket-in-the-style-of-cyberpunk-dark-white-and-light-violet-precise-brushwork.png"><img src="https://cdn.prompthero.com/ereajni1odiur9u9j03lq1k4fj6t-midjourney-niji-v6-anime-character-dressed-in-white-and-orange-jacket-in-the-style-of-cyberpunk-dark-white-and-light-violet-precise-brushwork.png" width="480" alt="After"></a>
 
 **Prompt**
 
 ```text
-(Masterpiece, top quality, best quality, official art, beautiful and aesthetic:1.2), (anime style), 2D illustration, vibrant color, centered, focused shot, Instagram able, selfie, close up shot, gorgeous 1young witch, witch hat, witch dress, stray hair, magical aura, dynamic pose, (fractal art:1.5, zentangle:1.1), (epic composition, epic proportion), (abstract crystal background), professional work, Makoto Shinkai, extremely detailed, high quality, 16K, highres, ultra details, finely detail, an extremely delicate and beautiful, extremely detailed, real shadow,
+anime character dressed in white and orange jacket, in the style of cyberpunk, dark white and light violet, precise brushwork, automatism, official art, lucid developments of his subjects, high detail --ar 1:2 --stylize 750 --niji 6
 ```
 
-[Source](https://prompthero.com/prompt/e7a43a940c1-dreamshaper-5-baked-vae-masterpiece-top-quality-best-quality-official-art-beautiful-and-aesthetic12-anime-style-2d-illustration-vibrant-color-centered-focused-shot-instagram)
+By [@NorthmoorAI](https://prompthero.com/prompt/346de981919-midjourney-niji-v6-anime-character-dressed-in-white-and-orange-jacket-in-the-style-of-cyberpunk-dark-white-and-light-violet-precise-brushwork)
 
 ---
 
-<a id="prompthero-e7fb21ecfa0"></a>
-
-## Ultra-realistic Dragan style portrait, cinematic w\.\.\.
-
-<a href="https://cdn.prompthero.com/byi7oglb67ngz6jwtz3eqfbuq5mz-flux-flux-11-pro-ultra-ultra-realistic-dragan-style-portrait-cinematic-wide-shot-aspect-ratio-32-an-elderly-european-woman-sits-on-the-left-side.png"><img src="https://cdn.prompthero.com/byi7oglb67ngz6jwtz3eqfbuq5mz-flux-flux-11-pro-ultra-ultra-realistic-dragan-style-portrait-cinematic-wide-shot-aspect-ratio-32-an-elderly-european-woman-sits-on-the-left-side.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-Ultra-realistic Dragan style portrait, cinematic wide shot, aspect ratio 3:2. An elderly European woman sits on the left side of the frame inside a rustic farmhouse, light coming from a stone wall window. Her deeply wrinkled face is lit by dramatic side light. She has a wooden pipe clenched between her lips, smoke rising and curling around her face, her eyes squinting in a grimace disturbed by the smoke. Focus on the knife firmly in hand and the pipe in mouth. Her thin, bony hand tightly grips a sharp kitchen knife, the blade stained with fresh blood. On the old wooden cutting board in front of her lies a slaughtered rooster, its body plucked and open, the severed head resting nearby, with blood stains spreading across the surface. On the table also a stained rag and a small bowl filled with water and blood. The atmosphere is raw, rural, and moody, with gritty textures of aged skin, knife blade, rooster feathers, blood stains, wood grain, and stone walls. Cinematic chiaroscuro, ultra-photorealistic 8K masterpiece, Dragan style, earthy tones with deep scarlet accents. Negative prompt: cartoon, illustration, painting, 3D, CGI, low resolution, blurry, oversaturated, cropped, out of frame, duplicate, disfigured, extra limbs, distorted hands, wrong anatomy, missing fingers, mutated, deformed knife, fake blood, plastic texture, glossy surface, artifacts, watermark, text
-```
-
-[Source](https://prompthero.com/prompt/e7fb21ecfa0-flux-flux-11-pro-ultra-ultra-realistic-dragan-style-portrait-cinematic-wide-shot-aspect-ratio-32-an-elderly-european-woman-sits-on-the-left-side)
-
----
-
-[1](illustrations.md) · [2](illustrations-2.md) · [3](illustrations-3.md) · [4](illustrations-4.md) · [5](illustrations-5.md) · **6** · [7](illustrations-7.md)
+[1](illustrations.md) · [2](illustrations-2.md) · [3](illustrations-3.md) · [4](illustrations-4.md) · [5](illustrations-5.md) · **6** · [7](illustrations-7.md) · [8](illustrations-8.md) · [9](illustrations-9.md) · [10](illustrations-10.md) · [11](illustrations-11.md)
 
 [← Home](../README.md)
