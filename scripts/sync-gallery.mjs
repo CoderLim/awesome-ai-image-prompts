@@ -35,6 +35,7 @@ export async function runSync(snapshot,io,{dryRun=false,allowLarge=false,forceMe
     existing:existing.length,urgent:urgent.length,stale:stale.length,blocked,dryRun}));
   if(dryRun)return {urgent:urgent.length,stale:stale.length,blocked};
   // Security/rights removals are independent of ordinary deletion protection.
+  if(urgent.length) console.log('Withdrawal candidates (retain for recovery): '+JSON.stringify(urgent.map(r=>({id:r.id,keys:JSON.parse(r.media).flatMap(m=>[m.key,m.thumbnailKey]).filter(Boolean)}))));
   await io.remove(urgent.map(r=>r.id),mediaType);
   if(urgent.length)await io.purgeWithdrawn(urgent);
   if(blocked)throw Error('Large ordinary deletion blocked; inspect export and explicitly approve');
@@ -127,8 +128,8 @@ export function createCloud(env=process.env) {
       const remaining=[...await list('image'),...await list('video')];
       const refs=new Set(remaining.flatMap(r=>JSON.parse(r.media).flatMap(m=>[m.key,m.thumbnailKey])));
       const keys=new Set(rows.flatMap(r=>JSON.parse(r.media).flatMap(m=>[m.key,m.thumbnailKey])).filter(k=>k&&!refs.has(k)));
+      console.log('Withdrawal unreferenced keys: '+JSON.stringify([...keys]));
       for(const key of keys){
-        console.log('Withdrawal purge key: '+key);
         if(await head(key)){await aws(['delete-object','--bucket',bucket,'--key',key]);known.delete(key);if(await head(key))throw Error('Withdrawal object still exists: '+key);}
       }
     },
