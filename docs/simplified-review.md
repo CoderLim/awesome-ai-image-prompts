@@ -17,8 +17,9 @@ in data/review/approvals.json, not fields in replaceable source shards.
   Do not approve unseen images or merely text-reviewed cases in bulk.
 - Existing exclusions and dedup remain effective. Existing recommended text
   reviews are reused for classification but do not prove visual approval.
-  Previously eligible licensed VCL / documented X cases are grandfathered as
-  approved; this is a migration decision, not a new visual verification claim.
+  Exactly nine previously publishable VCL cases are migrated as explicit
+  fingerprinted approvals; this is a compatibility decision, not new visual
+  verification. New cases always start pending.
 - A changed prompt, image URL/role or original source identity invalidates an
   explicit approval. Keep raw data and source metadata for traceability.
 
