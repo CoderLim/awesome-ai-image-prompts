@@ -30,8 +30,10 @@ export async function runSync(snapshot,io,{dryRun=false,allowLarge=false,forceMe
   if(new Set(records.map(r=>r.id)).size!==records.length || records.some(r=>r.media_type!==mediaType))throw Error('Invalid export');
   const existing=await io.list(mediaType);
   await io.assertNoCollisions(records,mediaType);
-  const {urgent,stale,blocked}=deletionPlan(existing,records,restricted,allowLarge);
-  console.log(JSON.stringify({sourceCommit:process.env.SOURCE_COMMIT??null,type:mediaType,eligible:records.length,excluded:snapshot.excluded?.length,
+  const unlicensed=new Set(snapshot.unlicensed??[]);
+  const revokeHosted=existing.filter(r=>unlicensed.has(r.id)&&JSON.parse(r.media).some(m=>m.key||m.thumbnailKey)).map(r=>r.id);
+  const {urgent,stale,blocked}=deletionPlan(existing,records,[...restricted,...revokeHosted],allowLarge);
+  console.log(JSON.stringify({sourceCommit:process.env.SOURCE_COMMIT??null,type:mediaType,catalog:records.length,cleared:records.length-(snapshot.pending?.length??0),pending:snapshot.pending?.length??0,excluded:snapshot.excluded?.length,
     existing:existing.length,urgent:urgent.length,stale:stale.length,blocked,dryRun}));
   if(dryRun)return {urgent:urgent.length,stale:stale.length,blocked};
   // Security/rights removals are independent of ordinary deletion protection.
@@ -39,12 +41,18 @@ export async function runSync(snapshot,io,{dryRun=false,allowLarge=false,forceMe
   await io.remove(urgent.map(r=>r.id),mediaType);
   if(urgent.length)await io.purgeWithdrawn(urgent);
   if(blocked)throw Error('Large ordinary deletion blocked; inspect export and explicitly approve');
-  const byId=new Map(existing.map(r=>[r.id,r]));
+  const removed=new Set(urgent.map(r=>r.id));
   const mediaMap=new Map();
-  for(const r of existing) for(const m of JSON.parse(r.media)) mediaMap.set(m.originalUrl,m);
+  for(const r of existing) if(!removed.has(r.id)) for(const m of JSON.parse(r.media)) if(m.key)mediaMap.set(m.originalUrl,m);
   const ready=[],failures=[];
   for(const r of records){
     try{
+      // The private D1 catalog includes pending cases, but they must not cause
+      // third-party files to be copied to R2 or contain reusable R2 keys.
+      if(r.author?.publicationStatus==='pending-review'){
+        ready.push({...r,media:r.media.map(({type,role,originalUrl})=>({type,role,originalUrl}))});
+        continue;
+      }
       const media=[];
       for(const m of r.media){
         const old=mediaMap.get(m.originalUrl);
@@ -186,6 +194,6 @@ if(process.argv[1]&&import.meta.url===pathToFileURL(path.resolve(process.argv[1]
   const args=new Set(process.argv.slice(2));
   if([...args].some(a=>!['--dry-run','--allow-large-delete','--force-media-refresh','--export-only'].includes(a)))throw Error('Unknown argument');
   const snapshot=exportGallery();
-  console.log(JSON.stringify({total:snapshot.total,canonical:snapshot.canonical,eligible:snapshot.records.length,excluded:snapshot.excluded.length}));
+  console.log(JSON.stringify({total:snapshot.total,canonical:snapshot.canonical,catalog:snapshot.records.length,cleared:snapshot.records.length-snapshot.pending.length,pending:snapshot.pending.length,excluded:snapshot.excluded.length}));
   if(!args.has('--export-only'))await runSync(snapshot,createCloud(),{dryRun:args.has('--dry-run'),allowLarge:args.has('--allow-large-delete'),forceMedia:args.has('--force-media-refresh')});
 }
