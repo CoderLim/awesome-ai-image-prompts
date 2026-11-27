@@ -20,7 +20,7 @@ function fake(rows=[],{failMedia=false,failWrite=false}={}){
   };
   return {data,calls,io};
 }
-test('real source export matches governance, excludes unknown rights, preserves complete prompts and selections',()=>{
+test('real source export matches governance, marks pending rights, preserves complete prompts and selections',()=>{
   const result=exportGallery();
   const ids=new Set(result.records.map(r=>r.id));
   assert.equal(ids.size,result.records.length);
@@ -28,11 +28,12 @@ test('real source export matches governance, excludes unknown rights, preserves 
   const raw=fs.readdirSync('data/index').filter(f=>f.endsWith('.json')).flatMap(f=>JSON.parse(fs.readFileSync('data/index/'+f,'utf8')));
   const byId=new Map(raw.map(r=>[r.id,r]));
   for(const r of result.records){
-    assert(eligible(byId.get(r.id)));
+    assert.equal(r.author.publicationStatus,eligible(byId.get(r.id))?'cleared':'pending-review');
     assert.equal(r.prompt,byId.get(r.id).prompt.original);
     assert.equal(r.media_type,'image');
     assert(r.media.length);
   }
+  assert.equal(result.pending.length,result.records.filter(r=>r.author.publicationStatus==='pending-review').length);
   assert(!eligible({rights:{prompt:'unknown',media:'unknown'}}));
 });
 test('migration supports image and video and rejects invalid JSON',()=>{
@@ -80,4 +81,20 @@ test('cross-type ID collision rejected before writes',async()=>{
   const {data,calls,io}=fake([existing('collision','video')]);
   await assert.rejects(runSync(snapshot([record('collision')]),io),/collision/);
   assert.equal(calls.length,0);assert.equal(data.get('collision').media_type,'video');
+});
+
+test('pending private catalog records are synced without preparing R2 media',async()=>{
+  const {data,calls,io}=fake([], {failMedia:true});
+  const pending=record('pending',{author:{publicationStatus:'pending-review'}});
+  await runSync({...snapshot([pending]),pending:['pending'],unlicensed:['pending']},io);
+  assert(data.has('pending'));
+  assert.equal(JSON.parse(data.get('pending').media)[0].key,undefined);
+  assert(!calls.some(c=>c[0]==='media'));
+});
+test('loss of clearance removes hosted media before retaining a pending catalog row',async()=>{
+  const {data,calls,io}=fake([existing('pending')]);
+  const pending=record('pending',{author:{publicationStatus:'pending-review'}});
+  await runSync({...snapshot([pending]),pending:['pending'],unlicensed:['pending']},io);
+  assert(calls.some(c=>c[0]==='purge'&&c[1].includes('pending')));
+  assert.equal(JSON.parse(data.get('pending').media)[0].key,undefined);
 });
