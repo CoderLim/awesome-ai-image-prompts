@@ -1,5 +1,7 @@
 # 提示词数据同步技术方案（最终简化版）
 
+> Review model update (2026-11-27): see [simplified review](simplified-review.md). The exporter sends only approved, publishable records. First run a verified dry-run and explicitly confirm the one-time large deletion. The schema and consumer clearance filter remain compatible during migration.
+
 > 状态：设计已确认，尚未实施。本文替代之前包含多表、版本快照、发布指针、分布式锁的设计。
 > 范围：只负责 GitHub → Cloudflare D1 / R2 的单向数据同步。不涉及网站 API、页面、SEO、生成器或用户行为数据。
 
@@ -25,7 +27,7 @@
 
 执行现有 build/check，确认输入分片完整、canonical ID 唯一且可解析，再导出目标数据。保留完整原始 Prompt 格式、作者和原始来源；缺失作者可为空，不编造模型、描述、图片角色或输入要求。不得将原始未审核数据、排除数据、重复案例直接同步。
 
-**内部同步与公开发布分离**：按最新要求，将全部有效 canonical 案例（不含已删除、淘汰或明确禁止/撤回的记录）同步到私有 D1 目录，保留原始 Prompt、分类、精选、来源及实际权利证据。D1 不等于公开发布集合。`author.publicationStatus` 为 `cleared` 或 `pending-review`；仅 `cleared` 可进入公开发布候选，待审核记录的媒体只存原始 URL 和角色，不下载、不上传 R2、不使用 R2 key。禁止公开访问待审核记录的文本或媒体，不得将其视作已有商业再发布许可。保持 D1 私有，后续上层应用须独立实施发布资格过滤。
+**仅同步可发布案例**：源仓库以 pending、approved、rejected 管理审核。仅 approved 且符合来源发布条件的 canonical 案例进入 D1/R2，保留完整 Prompt、分类、精选及来源证据。待审核和排除记录留在源仓库。迁移期间继续写入 author.publicationStatus=cleared，网站保留原过滤条件，待确认云端清理完成后再评估移除兼容字段。
 
 ## 3. D1：一张表
 
@@ -72,7 +74,7 @@ type PromptMedia = {
   type: 'image' | 'video';
   role: 'input' | 'output' | 'source-media';
   originalUrl: string;
-  key?: string; // 待审核记录无 R2 key
+  key?: string; // R2 object key
   thumbnailKey?: string;
   width?: number;
   height?: number;
@@ -175,10 +177,10 @@ migrations/0001_prompts.sql
 - 新增、修改完整 Prompt、分类调整、精选排序、取消精选、人工删除、去重淘汰及恢复均能同步。
 - 重复执行同一输入不增加重复记录或重复 R2 对象；图片 URL 未变时复用，URL 变化及强制刷新可更新。
 - 部分图片失败、D1 批次失败、源分片缺失、空/异常缩小导出时，不执行普通失效删除；重跑可恢复。
-- 无权利依据的记录仅进入私有 D1 内部目录，不进入公开发布集合，媒体不上传 R2；明确撤回能及时下架。
+- 待审核、排除及不满足来源发布条件的记录不进入 D1/R2；明确撤回能及时下架。
 - 模拟 video 数据后运行 image 同步，不改变 video 记录；跨类型 ID 碰撞必须拒绝。
 - 同一 workflow 连续提交与手动重跑不导致旧任务覆盖最新 main；dry-run 不写入任何云资源。
-- 最终 D1 指定类型的 ID 集合与完整有效导出一致，已授权媒体 key 对应真实 R2 对象，待审核媒体无 R2 key；核对完整 Prompt、分类、作者、精选和媒体角色。
+- 最终 D1 指定类型的 ID 集合与公开导出一致，获准发布的媒体 key 对应真实 R2 对象；核对完整 Prompt、分类、作者、精选和媒体角色。
 
 ## 8. 明确不做
 
@@ -202,7 +204,7 @@ migrations/0001_prompts.sql
 实现说明：
 - D1 使用参数化 REST SQL，每次最多 5 条 UPSERT；R2 使用 AWS CLI S3 兼容 API，图片通过 Pillow 11.3.0 校验、缩略图压缩。不新增 npm 运行时依赖。
 - 手工精选完整列表全部同步，README 的 30 条展示上限不限制 D1；legacy null 自动精选沿用现有 README 选择逻辑。缺失描述/模型时为空。
-- 目前仅将仓库已有明确 CC BY 4.0 双项授权证据或 X 逐资产许可的案例标为 cleared 并同步媒体到 R2；其他有效案例标为 pending-review，仅同步内部目录数据和原始媒体地址到私有 D1。授权及归属元数据保留在 author JSON 中。明确撤回的记录排除；实际可导出数量以运行结果为准。
+- 目前仅同步已审核通过且具有明确 CC BY 4.0 双项授权证据或 X 逐资产许可的案例；其他候选保留在源仓库，不写入 D1/R2。授权及归属元数据保留在 author JSON 中。明确撤回的记录排除；实际可导出数量以运行结果为准。
 - 权利撤回先下架已知失去许可的记录并检查 D1 图片/视频引用再清理 R2。如果撤回删除失败，Actions 日志保存候选对象 key；人工再次检查两种类型全部引用后重试 R2 删除，必要时清理已知 CDN 缓存。普通下架不做 R2 清理。
 - 目前可处理 JPEG、PNG、WebP 和 GIF，单文件上限 25 MiB，缩略图最长边 640px；其他格式明确报错，不会将失败当成已同步。
 - `npm test` 包含同步流程的模拟适配器测试和 SQLite 迁移测试；真实 D1/R2 集成验证需配置隔离测试资源。不能把模拟测试当作生产同步成功。
@@ -214,4 +216,4 @@ SELECT json_extract(author, '$.publicationStatus') AS publication_status, COUNT(
 FROM prompts WHERE media_type = 'image' GROUP BY publication_status;
 ```
 
-该 SQL 仅用于私有 D1 运维核查；不要将整个表直接作为公开内容源。
+该 SQL 用于迁移前后核查旧 pending-review 数据是否清理完毕。

@@ -64,7 +64,7 @@ if(process.argv[1]&&import.meta.url===pathToFileURL(path.resolve(process.argv[1]
  const catalog=readCatalog(),existing=readExclusions(),known=new Set(catalog.map(r=>r.id));
  const queue=(queueFile?queueRecords(readQueue(queueFile)):[]).filter(r=>{if(known.has(r.id))return false;known.add(r.id);return true;});
  queue.push(...readLocalReviewQueues('.',known).map(r=>({...r,templateStatus:'visual_review'})));
- const available=[...govern(catalog,existing).rows.filter(r=>r.visible).map(r=>r.id),...queue.filter(r=>r.templateStatus!=='exclude').map(r=>r.id)];
+ const available=[...govern(catalog,existing).rows.filter(r=>r.reviewStatus!=='rejected').map(r=>r.id),...queue.filter(r=>r.templateStatus!=='exclude').map(r=>r.id)];
  const result=planTemplateExclusions([...catalog,...queue],readTemplateDecisions(),existing,{featured:readFeatured()??[],available});
  if(apply)writeExclusions(result.entries);
  const out={applied:result.applied,skipped:result.skipped};

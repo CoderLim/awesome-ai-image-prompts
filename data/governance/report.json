@@ -1,78 +1,13 @@
 {
   "total": 2132,
-  "visible": 1907,
-  "hidden": 225,
+  "review": {
+    "pending": 643,
+    "approved": 1264,
+    "rejected": 225
+  },
+  "canonical": 1907,
+  "published": 9,
   "duplicateExcluded": 62,
-  "duplicateExcludedFromGallery": 51,
   "uniqueCases": 2070,
-  "galleryGroups": {
-    "reference": 220,
-    "generation": 1687
-  },
-  "types": {
-    "generation": 1869,
-    "editing": 38
-  },
-  "inputModes": {
-    "reference-to-image": 185,
-    "text-to-image": 1484,
-    "unknown": 203,
-    "image-editing": 35
-  },
-  "categories": {
-    "generation/posters": 160,
-    "generation/illustrations": 229,
-    "editing/restyle": 21,
-    "generation/creative-art": 270,
-    "generation/characters": 138,
-    "generation/logos": 27,
-    "generation/portraits": 730,
-    "generation/products": 46,
-    "generation/travel": 59,
-    "generation/architecture": 48,
-    "editing/composition": 6,
-    "editing/portrait-editing": 4,
-    "generation/other": 48,
-    "editing/background-change": 2,
-    "editing/object-replacement": 1,
-    "generation/comics-storyboards": 22,
-    "generation/infographics": 53,
-    "generation/ui-mockups": 29,
-    "generation/avatars": 10,
-    "editing/object-removal": 1,
-    "editing/outfit-change": 3
-  },
-  "confidence": {
-    "medium": 710,
-    "high": 1181,
-    "low": 241
-  },
-  "flags": {
-    "rights-review": 2120,
-    "input-mode-review": 237,
-    "manual-excluded": 169,
-    "duplicate-candidate:same-prompt-prefix": 51,
-    "classification-review": 241,
-    "missing-original-post-url": 180,
-    "duplicate-candidate:same-post": 58,
-    "duplicate-excluded": 62,
-    "generic-title-review": 98,
-    "duplicate-candidate:exact-prompt": 30,
-    "missing-image-url": 3,
-    "missing-original-prompt": 2
-  },
-  "duplicateGroups": {
-    "exact-prompt": 10,
-    "same-post": 16,
-    "same-prompt-prefix": 20
-  },
-  "rightsPending": 2120,
-  "checks": {
-    "imageHttp": "not-run",
-    "imagePromptMatch": "not-run",
-    "perceptualHash": "not-run",
-    "semanticEmbedding": "not-run",
-    "rights": "not-cleared"
-  },
   "manualExcluded": 169
 }

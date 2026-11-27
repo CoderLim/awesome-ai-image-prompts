@@ -3,7 +3,6 @@
     {
       "id": "evolink-gpt-image-2-6-case-259",
       "keptId": "evolink-gpt-image-2-6-case-258",
-      "wasVisible": true,
       "source": "https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/gpt-image-2-6.md#gpt-image-2-6-case-259",
       "evidence": [
         "same-post"
@@ -12,7 +11,6 @@
     {
       "id": "evolink-illustration-case-135",
       "keptId": "evolink-illustration-case-137",
-      "wasVisible": true,
       "source": "https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/illustration.md#illustration-case-135",
       "evidence": [
         "same-post"
@@ -21,7 +19,6 @@
     {
       "id": "evolink-illustration-case-136",
       "keptId": "evolink-illustration-case-137",
-      "wasVisible": true,
       "source": "https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/illustration.md#illustration-case-136",
       "evidence": [
         "same-post"
@@ -30,7 +27,6 @@
     {
       "id": "evolink-illustration-case-138",
       "keptId": "evolink-illustration-case-137",
-      "wasVisible": true,
       "source": "https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/illustration.md#illustration-case-138",
       "evidence": [
         "same-post"
@@ -39,7 +35,6 @@
     {
       "id": "evolink-illustration-case-140",
       "keptId": "evolink-illustration-case-139",
-      "wasVisible": true,
       "source": "https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/illustration.md#illustration-case-140",
       "evidence": [
         "same-post"
@@ -48,7 +43,6 @@
     {
       "id": "evolink-portraits-case-8",
       "keptId": "evolink-illustration-case-139",
-      "wasVisible": true,
       "source": "https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/portraits.md#portraits-case-8",
       "evidence": [
         "same-post"
@@ -57,7 +51,6 @@
     {
       "id": "evolink-portraits-case-9",
       "keptId": "evolink-illustration-case-139",
-      "wasVisible": true,
       "source": "https://github.com/Evolink-AI/awesome-gpt-image-2-6-prompts-and-api/blob/7fac7a7c73f3c9f681a1acbd8bf0af8b6b520b7b/cases/portraits.md#portraits-case-9",
       "evidence": [
         "same-post"
@@ -66,7 +59,6 @@
     {
       "id": "freestylefly-case-20",
       "keptId": "freestylefly-case-19",
-      "wasVisible": true,
       "source": "https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-20",
       "evidence": [
         "exact-prompt"
@@ -75,7 +67,6 @@
     {
       "id": "freestylefly-case-38",
       "keptId": "freestylefly-case-37",
-      "wasVisible": true,
       "source": "https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-38",
       "evidence": [
         "exact-prompt"
@@ -84,7 +75,6 @@
     {
       "id": "freestylefly-case-39",
       "keptId": "freestylefly-case-37",
-      "wasVisible": true,
       "source": "https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-39",
       "evidence": [
         "exact-prompt"
@@ -93,7 +83,6 @@
     {
       "id": "freestylefly-case-40",
       "keptId": "freestylefly-case-37",
-      "wasVisible": true,
       "source": "https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-40",
       "evidence": [
         "exact-prompt"
@@ -102,7 +91,6 @@
     {
       "id": "freestylefly-case-49",
       "keptId": "freestylefly-case-48",
-      "wasVisible": false,
       "source": "https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-49",
       "evidence": [
         "exact-prompt"
@@ -111,7 +99,6 @@
     {
       "id": "freestylefly-case-69",
       "keptId": "freestylefly-case-68",
-      "wasVisible": false,
       "source": "https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-69",
       "evidence": [
         "exact-prompt"
@@ -120,7 +107,6 @@
     {
       "id": "freestylefly-case-75",
       "keptId": "freestylefly-case-74",
-      "wasVisible": true,
       "source": "https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-75",
       "evidence": [
         "exact-prompt"
@@ -129,7 +115,6 @@
     {
       "id": "freestylefly-case-76",
       "keptId": "freestylefly-case-74",
-      "wasVisible": true,
       "source": "https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-76",
       "evidence": [
         "exact-prompt"
@@ -138,7 +123,6 @@
     {
       "id": "freestylefly-case-77",
       "keptId": "freestylefly-case-74",
-      "wasVisible": true,
       "source": "https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-77",
       "evidence": [
         "exact-prompt"
@@ -147,7 +131,6 @@
     {
       "id": "freestylefly-case-79",
       "keptId": "freestylefly-case-78",
-      "wasVisible": false,
       "source": "https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-79",
       "evidence": [
         "exact-prompt"
@@ -156,7 +139,6 @@
     {
       "id": "freestylefly-case-80",
       "keptId": "freestylefly-case-78",
-      "wasVisible": false,
       "source": "https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-80",
       "evidence": [
         "exact-prompt"
@@ -165,7 +147,6 @@
     {
       "id": "freestylefly-case-85",
       "keptId": "freestylefly-case-84",
-      "wasVisible": true,
       "source": "https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-85",
       "evidence": [
         "exact-prompt"
@@ -174,7 +155,6 @@
     {
       "id": "freestylefly-case-86",
       "keptId": "freestylefly-case-84",
-      "wasVisible": true,
       "source": "https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-86",
       "evidence": [
         "exact-prompt"
@@ -183,7 +163,6 @@
     {
       "id": "freestylefly-case-87",
       "keptId": "freestylefly-case-84",
-      "wasVisible": true,
       "source": "https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-87",
       "evidence": [
         "exact-prompt"
@@ -192,7 +171,6 @@
     {
       "id": "freestylefly-case-89",
       "keptId": "freestylefly-case-88",
-      "wasVisible": true,
       "source": "https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-89",
       "evidence": [
         "exact-prompt"
@@ -201,7 +179,6 @@
     {
       "id": "freestylefly-case-90",
       "keptId": "freestylefly-case-88",
-      "wasVisible": true,
       "source": "https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-90",
       "evidence": [
         "exact-prompt"
@@ -210,7 +187,6 @@
     {
       "id": "freestylefly-case-109",
       "keptId": "freestylefly-case-108",
-      "wasVisible": true,
       "source": "https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-109",
       "evidence": [
         "exact-prompt"
@@ -219,7 +195,6 @@
     {
       "id": "freestylefly-case-146",
       "keptId": "freestylefly-case-145",
-      "wasVisible": false,
       "source": "https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-146",
       "evidence": [
         "exact-prompt"
@@ -228,7 +203,6 @@
     {
       "id": "freestylefly-case-147",
       "keptId": "freestylefly-case-145",
-      "wasVisible": false,
       "source": "https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-147",
       "evidence": [
         "exact-prompt"
@@ -237,7 +211,6 @@
     {
       "id": "freestylefly-case-148",
       "keptId": "freestylefly-case-145",
-      "wasVisible": false,
       "source": "https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-148",
       "evidence": [
         "exact-prompt"
@@ -246,7 +219,6 @@
     {
       "id": "freestylefly-case-163",
       "keptId": "freestylefly-case-176",
-      "wasVisible": false,
       "source": "https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-163",
       "evidence": [
         "same-post"
@@ -255,7 +227,6 @@
     {
       "id": "freestylefly-case-177",
       "keptId": "freestylefly-case-178",
-      "wasVisible": false,
       "source": "https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-177",
       "evidence": [
         "same-post"
@@ -264,7 +235,6 @@
     {
       "id": "freestylefly-case-184",
       "keptId": "freestylefly-case-176",
-      "wasVisible": false,
       "source": "https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-184",
       "evidence": [
         "same-post"
@@ -273,7 +243,6 @@
     {
       "id": "freestylefly-case-185",
       "keptId": "freestylefly-case-176",
-      "wasVisible": false,
       "source": "https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-185",
       "evidence": [
         "same-post"
@@ -282,7 +251,6 @@
     {
       "id": "freestylefly-case-190",
       "keptId": "freestylefly-case-189",
-      "wasVisible": true,
       "source": "https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-190",
       "evidence": [
         "same-post"
@@ -291,7 +259,6 @@
     {
       "id": "freestylefly-case-192",
       "keptId": "freestylefly-case-189",
-      "wasVisible": true,
       "source": "https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-192",
       "evidence": [
         "same-post"
@@ -300,7 +267,6 @@
     {
       "id": "freestylefly-case-193",
       "keptId": "freestylefly-case-174",
-      "wasVisible": true,
       "source": "https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-193",
       "evidence": [
         "same-post"
@@ -309,7 +275,6 @@
     {
       "id": "freestylefly-case-194",
       "keptId": "freestylefly-case-189",
-      "wasVisible": true,
       "source": "https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-194",
       "evidence": [
         "same-post"
@@ -318,7 +283,6 @@
     {
       "id": "freestylefly-case-202",
       "keptId": "freestylefly-case-204",
-      "wasVisible": true,
       "source": "https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-202",
       "evidence": [
         "same-post"
@@ -327,7 +291,6 @@
     {
       "id": "freestylefly-case-203",
       "keptId": "freestylefly-case-204",
-      "wasVisible": true,
       "source": "https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-203",
       "evidence": [
         "same-post"
@@ -336,7 +299,6 @@
     {
       "id": "freestylefly-case-205",
       "keptId": "freestylefly-case-204",
-      "wasVisible": true,
       "source": "https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-205",
       "evidence": [
         "same-post"
@@ -345,7 +307,6 @@
     {
       "id": "freestylefly-case-244",
       "keptId": "freestylefly-case-242",
-      "wasVisible": true,
       "source": "https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-244",
       "evidence": [
         "same-post"
@@ -354,7 +315,6 @@
     {
       "id": "freestylefly-case-245",
       "keptId": "freestylefly-case-242",
-      "wasVisible": true,
       "source": "https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-245",
       "evidence": [
         "same-post"
@@ -363,7 +323,6 @@
     {
       "id": "freestylefly-case-246",
       "keptId": "freestylefly-case-242",
-      "wasVisible": true,
       "source": "https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-246",
       "evidence": [
         "same-post"
@@ -372,7 +331,6 @@
     {
       "id": "freestylefly-case-247",
       "keptId": "freestylefly-case-242",
-      "wasVisible": true,
       "source": "https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-247",
       "evidence": [
         "same-post"
@@ -381,7 +339,6 @@
     {
       "id": "freestylefly-case-250",
       "keptId": "freestylefly-case-242",
-      "wasVisible": true,
       "source": "https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-250",
       "evidence": [
         "same-post"
@@ -390,7 +347,6 @@
     {
       "id": "freestylefly-case-251",
       "keptId": "freestylefly-case-242",
-      "wasVisible": true,
       "source": "https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-251",
       "evidence": [
         "same-post"
@@ -399,7 +355,6 @@
     {
       "id": "freestylefly-case-252",
       "keptId": "freestylefly-case-242",
-      "wasVisible": true,
       "source": "https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-252",
       "evidence": [
         "same-post"
@@ -408,7 +363,6 @@
     {
       "id": "freestylefly-case-253",
       "keptId": "freestylefly-case-242",
-      "wasVisible": true,
       "source": "https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-253",
       "evidence": [
         "same-post"
@@ -417,7 +371,6 @@
     {
       "id": "freestylefly-case-254",
       "keptId": "freestylefly-case-242",
-      "wasVisible": true,
       "source": "https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-254",
       "evidence": [
         "same-post"
@@ -426,7 +379,6 @@
     {
       "id": "freestylefly-case-255",
       "keptId": "freestylefly-case-249",
-      "wasVisible": true,
       "source": "https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-255",
       "evidence": [
         "same-post"
@@ -435,7 +387,6 @@
     {
       "id": "freestylefly-case-256",
       "keptId": "freestylefly-case-249",
-      "wasVisible": true,
       "source": "https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-256",
       "evidence": [
         "same-post"
@@ -444,7 +395,6 @@
     {
       "id": "freestylefly-case-257",
       "keptId": "freestylefly-case-249",
-      "wasVisible": true,
       "source": "https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-257",
       "evidence": [
         "same-post"
@@ -453,7 +403,6 @@
     {
       "id": "freestylefly-case-258",
       "keptId": "freestylefly-case-259",
-      "wasVisible": true,
       "source": "https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-258",
       "evidence": [
         "same-post"
@@ -462,7 +411,6 @@
     {
       "id": "freestylefly-case-260",
       "keptId": "freestylefly-case-259",
-      "wasVisible": true,
       "source": "https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-260",
       "evidence": [
         "same-post"
@@ -471,7 +419,6 @@
     {
       "id": "freestylefly-case-269",
       "keptId": "freestylefly-case-259",
-      "wasVisible": true,
       "source": "https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-269",
       "evidence": [
         "same-post"
@@ -480,7 +427,6 @@
     {
       "id": "freestylefly-case-289",
       "keptId": "freestylefly-case-287",
-      "wasVisible": true,
       "source": "https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-289",
       "evidence": [
         "same-post"
@@ -489,7 +435,6 @@
     {
       "id": "freestylefly-case-294",
       "keptId": "freestylefly-case-293",
-      "wasVisible": true,
       "source": "https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-294",
       "evidence": [
         "same-post"
@@ -498,7 +443,6 @@
     {
       "id": "freestylefly-case-295",
       "keptId": "freestylefly-case-293",
-      "wasVisible": true,
       "source": "https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-295",
       "evidence": [
         "same-post"
@@ -507,7 +451,6 @@
     {
       "id": "freestylefly-case-300",
       "keptId": "freestylefly-case-287",
-      "wasVisible": true,
       "source": "https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-300",
       "evidence": [
         "same-post"
@@ -516,7 +459,6 @@
     {
       "id": "freestylefly-case-301",
       "keptId": "freestylefly-case-287",
-      "wasVisible": true,
       "source": "https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-301",
       "evidence": [
         "same-post"
@@ -525,7 +467,6 @@
     {
       "id": "freestylefly-case-303",
       "keptId": "freestylefly-case-293",
-      "wasVisible": true,
       "source": "https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-303",
       "evidence": [
         "same-post"
@@ -534,7 +475,6 @@
     {
       "id": "freestylefly-case-307",
       "keptId": "freestylefly-case-276",
-      "wasVisible": true,
       "source": "https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-307",
       "evidence": [
         "same-post"
@@ -543,7 +483,6 @@
     {
       "id": "freestylefly-case-318",
       "keptId": "freestylefly-case-317",
-      "wasVisible": true,
       "source": "https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-318",
       "evidence": [
         "same-post"
@@ -552,7 +491,6 @@
     {
       "id": "freestylefly-case-395",
       "keptId": "freestylefly-case-394",
-      "wasVisible": true,
       "source": "https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-395",
       "evidence": [
         "same-post"

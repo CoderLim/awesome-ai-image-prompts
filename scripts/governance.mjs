@@ -1,5 +1,7 @@
 import { exclusionMatches } from './review-exclusions.mjs';
-import { isXCollector,hasXPermission } from './x-source.mjs';
+import { isXCollector } from './x-source.mjs';
+import { reviewStatus } from './review-status.mjs';
+import { eligible, withdrawn } from './publication-policy.mjs';
 // Deterministic content triage. Scores are metadata completeness, not aesthetic/model verification.
 const rules=[
  ['ui-mockups',/ui\/ux|landing page|website mockup|app interface|interface mockup|social media (?:feed|post|interface)|livestream interface|live.stream screenshot|wechat moments|screenshot of|社交.{0,5}截图|直播.{0,8}截图|朋友圈|界面|网页|应用样机|直播间|微博|抖音.*截图|小红书.*截图|网站设计|ui设计/i],
@@ -78,7 +80,7 @@ export function selectCanonical(rows,duplicateGroups){
  const components=new Map();
  for(const r of rows){const key=root(r.id),items=components.get(key)??[];items.push(r);components.set(key,items);}
  const compare=(a,b)=>{
-  const score=r=>[Number(r.visible),Number(r.quality.rights!=='pending-review'),Number(Boolean(r.provenance.originalSource.url)),Number(Boolean(r.provenance.originalSource.author)&&!r.quality.flags.includes('generic-title-review')),Number(r.sourcePreview.images.some(m=>m.role==='output')),Number(r.sourcePreview.images.length>0),r.quality.score];
+  const score=r=>[Number(r.reviewStatus!=='rejected'),Number(eligible(r)),Number(Boolean(r.provenance.originalSource.url)),Number(Boolean(r.provenance.originalSource.author)&&!r.reviewReasons.includes('generic-title-review')),Number(r.sourcePreview.images.some(m=>m.role==='output')),Number(r.sourcePreview.images.length>0),r.score];
   const x=score(a),y=score(b);for(let i=0;i<x.length;i++)if(x[i]!==y[i])return y[i]-x[i];
   return a.id.localeCompare(b.id,'en',{numeric:true});
  };
@@ -88,13 +90,13 @@ export function selectCanonical(rows,duplicateGroups){
   if(component.length===1)continue;
   const ids=new Set(component.map(r=>r.id));
   const evidence=duplicateGroups.filter(g=>['exact-prompt','same-post'].includes(g.kind)&&g.ids.some(id=>ids.has(id))).map(g=>({kind:g.kind,ids:g.ids}));
-  for(const r of component.slice(1))removed.push({id:r.id,keptId:winner.id,wasVisible:r.visible,source:r.provenance.collectedFrom[0].url,evidence:evidence.filter(g=>g.ids.includes(r.id)).map(g=>g.kind)});
+  for(const r of component.slice(1))removed.push({id:r.id,keptId:winner.id,source:r.provenance.collectedFrom[0].url,evidence:evidence.filter(g=>g.ids.includes(r.id)).map(g=>g.kind)});
  }
  removed.sort((a,b)=>a.id.localeCompare(b.id,'en',{numeric:true}));kept.sort((a,b)=>a.localeCompare(b,'en',{numeric:true}));
  return {removed,kept};
 }
 
-export function govern(records,exclusions=[]){
+export function govern(records,exclusions=[],approvals={}){
  const manual=exclusionMatches(records,exclusions);
  const exact=new Map(),posts=new Map(),images=new Map(),prefixes=new Map();
  const add=(map,k,id)=>{if(!k)return;const a=map.get(k)??[];if(!a.includes(id))a.push(id);map.set(k,a);};
@@ -108,36 +110,42 @@ export function govern(records,exclusions=[]){
  if(!r.provenance.originalSource.url)flags.push('missing-original-post-url');
  if(c.confidence==='low'||c.category==='other')flags.push('classification-review');
  if(c.inputMode==='unknown')flags.push('input-mode-review');
- if(r.rights.prompt==='unknown'||r.rights.media==='unknown')flags.push('rights-review');
  if(/^(?:综合应用场景图|图像生成案例图|写实摄影风格图|信息图可视化设计|主题海报版式设计|建筑空间场景图|界面交互设计图|品牌视觉识别图|应用界面样机图)$/.test(title))flags.push('generic-title-review');
  for(const f of flagged.get(r.id)??[])flags.push('duplicate-candidate:'+f);
  if(manual.has(r.id))flags.push('manual-excluded');
- const visible=!manual.has(r.id)&&!flags.includes('missing-original-prompt')&&!flags.includes('missing-image-url');
+ if(withdrawn(r))flags.push('source-withdrawn');
+ const excluded=manual.has(r.id)||flags.includes('missing-original-prompt')||flags.includes('missing-image-url')||withdrawn(r);
  const tagList=tags.filter(([,re])=>re.test((title+' '+p).toLowerCase())).map(([tag])=>tag);
  if(c.inputMode==='reference-to-image')tagList.push('reference-image');
  if(c.type==='editing')tagList.push('image-editing');
- const score=(visible?2:0)+(r.provenance.originalSource.url?1:0)+(c.confidence==='high'?1:0)+(c.inputMode!=='unknown'?1:0);
- const item={...c,tags:[...new Set(tagList)],quality:{status:manual.has(r.id)?'manual-excluded':visible?'metadata-complete':'needs-content-review',score,flags,imageAvailability:'unchecked',imagePromptMatch:'unchecked',reproduction:'untested',rights:r.rights.prompt==='CC-BY-4.0'&&r.rights.media==='CC-BY-4.0'&&r.rights.evidence?'license-documented':hasXPermission(r)?'permission-documented':'pending-review'},visible};
- metadata[r.id]=item;rows.push({...r,...c,tags:item.tags,quality:item.quality,visible});
+ const score=(excluded?0:2)+(r.provenance.originalSource.url?1:0)+(c.confidence==='high'?1:0)+(c.inputMode!=='unknown'?1:0);
+ const item={...c,tags:[...new Set(tagList)],reviewReasons:flags,score,reviewStatus:excluded?'rejected':'pending'};
+ const row={...r,...item};
+ row.reviewStatus=reviewStatus(row,approvals);
+ rows.push(row);
  }
  const dedup=selectCanonical(rows,duplicates), removedById=new Map(dedup.removed.map(r=>[r.id,r]));
- for(const r of rows){const dropped=removedById.get(r.id);if(dropped){r.visible=false;r.quality={...r.quality,status:manual.has(r.id)?'manual-excluded':'duplicate-excluded',flags:[...r.quality.flags,'duplicate-excluded']};metadata[r.id]={...metadata[r.id],visible:false,quality:r.quality,duplicateOf:dropped.keptId};}}
- const counts={};for(const r of rows.filter(r=>r.visible)){const k=r.type+'/'+r.category;counts[k]=(counts[k]??0)+1;}
+ for(const r of rows){
+  const dropped=removedById.get(r.id);
+  if(dropped){r.reviewStatus='rejected';r.reviewReasons=[...r.reviewReasons,'duplicate-excluded'];}
+  metadata[r.id]={type:r.type,category:r.category,inputMode:r.inputMode,tags:r.tags,reviewStatus:r.reviewStatus,reviewReasons:r.reviewReasons,...(dropped?{duplicateOf:dropped.keptId}:{})};
+ }
+ const counts={};for(const r of rows.filter(r=>r.reviewStatus!=='rejected')){const k=r.type+'/'+r.category;counts[k]=(counts[k]??0)+1;}
  return {rows,metadata,duplicates,counts,dedup};
 }
+
 // Presentation taxonomy: all image-conditioned prompts belong to one gallery.
-export function galleryView(rows,taxonomy){
+export function galleryView(rows,taxonomy,{publicOnly=true}={}){
  const galleryType=r=>r.type==='editing'||r.inputMode==='image-editing'||r.inputMode==='reference-to-image'?'reference':'generation';
- return {rows:rows.filter(r=>r.visible).map(r=>({...r,operationType:r.type,type:galleryType(r)})),taxonomy:{generation:taxonomy.generation,reference:[...new Set([...taxonomy.generation,...taxonomy.editing])]}};
+ return {rows:rows.filter(r=>publicOnly?r.reviewStatus==='approved'&&eligible(r)&&!withdrawn(r):r.reviewStatus!=='rejected').map(r=>({...r,operationType:r.type,type:galleryType(r)})),taxonomy:{generation:taxonomy.generation,reference:[...new Set([...taxonomy.generation,...taxonomy.editing])]}};
 }
 
 export function governanceFiles(result){
- const json=v=>JSON.stringify(v,null,2)+'\n',rows=result.rows,visible=rows.filter(r=>r.visible),count=(list,key)=>list.reduce((m,r)=>(m[key(r)]=(m[key(r)]??0)+1,m),{});
- const flags=count(rows.flatMap(r=>r.quality.flags),x=>x);
- const report={total:rows.length,visible:visible.length,hidden:rows.length-visible.length,duplicateExcluded:result.dedup.removed.length,duplicateExcludedFromGallery:result.dedup.removed.filter(r=>r.wasVisible).length,uniqueCases:result.dedup.kept.length,galleryGroups:count(visible,r=>r.type==='editing'||r.inputMode==='image-editing'||r.inputMode==='reference-to-image'?'reference':'generation'),types:count(visible,r=>r.type),inputModes:count(visible,r=>r.inputMode),categories:result.counts,confidence:count(rows,r=>r.confidence),flags,duplicateGroups:count(result.duplicates,x=>x.kind),rightsPending:rows.filter(r=>r.quality.flags.includes('rights-review')).length,checks:{imageHttp:'not-run',imagePromptMatch:'not-run',perceptualHash:'not-run',semanticEmbedding:'not-run',rights:'not-cleared'}};
- const manualCount=rows.filter(r=>r.quality.flags.includes('manual-excluded')).length;
- if(manualCount)report.manualExcluded=manualCount;
- let md='# Content governance report\n\nGenerated from source JSON. Classification is heuristic and provisional; completeness is not aesthetic quality. No image network, visual matching, reproduction or rights clearance is claimed.\n\n';
- md+='- Source cases: '+report.total+'\n- Unique cases: '+report.uniqueCases+'\n- Gallery cases: '+report.visible+'\n- Duplicate records excluded: '+report.duplicateExcluded+' ('+report.duplicateExcludedFromGallery+' previously visible)\n- Unique cases withheld for missing content: '+(report.uniqueCases-report.visible)+(manualCount?' (includes manual exclusions)\n- Manually excluded source records: '+manualCount:'')+'\n- Rights pending: '+report.rightsPending+'\n\n## Gallery groups\n\n'+Object.entries(report.galleryGroups).map(([k,v])=>'- '+k+': '+v).join('\n')+'\n\n## Internal operation classification\n\n| Category | Count |\n|---|---:|\n'+Object.entries(report.categories).sort().map(([k,v])=>'| '+k+' | '+v+' |').join('\n')+'\n\n## Input modes\n\n'+Object.entries(report.inputModes).map(([k,v])=>'- '+k+': '+v).join('\n')+'\n\n## Review flags\n\n'+Object.entries(flags).sort().map(([k,v])=>'- '+k+': '+v).join('\n')+'\n\n## Withheld cases\n\n'+rows.filter(r=>!r.visible&&!result.metadata[r.id].duplicateOf).map(r=>'- ['+r.id+']('+r.provenance.collectedFrom[0].url+'): '+r.quality.flags.filter(f=>f.startsWith('missing-')||f==='manual-excluded').join(', ')).join('\n')+'\n\n## Duplicate candidates\n\nKeep one representative for each connected group sharing an original post ID or exact normalized full prompt. Raw source records are retained for provenance only, not in the canonical catalog or galleries. Prefix-only and image-only similarities are not automatically excluded. See data/governance/deduplication.json for removed-to-kept mappings.\n\n## Remaining manual checks\n\nImage availability, visual prompt matching, perceptual hash, semantic similarity, original-source verification and per-asset rights clearance. Unknown rights do not establish permission; existing published material has not been cleared. Review before redistributing or commercial use.\n';
- return {'data/governance/cases.json':json(result.metadata),'data/governance/duplicates.json':json(result.duplicates),'data/governance/deduplication.json':json(result.dedup),'data/governance/canonical.json':json(visible.map(r=>r.id)),'data/governance/report.json':json(report),'docs/governance-report.md':md};
+ const json=v=>JSON.stringify(v,null,2)+'\n',rows=result.rows;
+ const canonical=rows.filter(r=>r.reviewStatus!=='rejected');
+ const published=rows.filter(r=>r.reviewStatus==='approved'&&eligible(r)&&!withdrawn(r));
+ const review={pending:0,approved:0,rejected:0};for(const r of rows)review[r.reviewStatus]++;
+ const report={total:rows.length,review,canonical:canonical.length,published:published.length,duplicateExcluded:result.dedup.removed.length,uniqueCases:result.dedup.kept.length,manualExcluded:rows.filter(r=>r.reviewReasons.includes('manual-excluded')).length};
+ const md='# Content governance report\n\n- Source cases: '+report.total+'\n- Pending: '+review.pending+'\n- Approved: '+review.approved+'\n- Rejected: '+review.rejected+'\n- Public gallery cases: '+report.published+'\n- Duplicate records excluded: '+report.duplicateExcluded+'\n- Manually excluded source records: '+report.manualExcluded+'\n\nContent approval is distinct from source publication conditions. Only approved cases with a documented publication basis enter the public gallery. Original records and deduplication mappings are retained. See [simplified review](simplified-review.md).\n';
+ return {'data/governance/cases.json':json(result.metadata),'data/governance/duplicates.json':json(result.duplicates),'data/governance/deduplication.json':json(result.dedup),'data/governance/canonical.json':json(canonical.map(r=>r.id)),'data/governance/report.json':json(report),'docs/governance-report.md':md};
 }

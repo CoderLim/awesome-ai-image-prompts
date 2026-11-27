@@ -2,6 +2,19 @@
 
 This is the authoritative operating guide for AI coding agents and contributors. Apply it to collection, import, classification, deduplication, content review, and gallery changes. Preserve the existing user-facing layout unless the owner requests a change. Read [content policy](docs/content-policy.md) and [sources](SOURCES.md) before importing third-party material.
 
+## Current operational review (2026-11-27)
+
+Follow [simplified review](docs/simplified-review.md) for new content review
+decisions and cloud export. The only operational review states are pending,
+approved and rejected; featured is independent. Record first-pass AI approvals via review-status-cli after inspecting prompt content,
+source image references, classification and deduplication. Do not require a second
+manual approval. The local reviewer is primarily for optional image curation,
+deletion and featured selection. Do not claim visual inspection that did not occur.
+Generated governance metadata contains reviewStatus and diagnostic reviewReasons; it is derived from source data and durable review decisions.
+The public sync exports approved cases that meet the source publication
+conditions. Preserve rights evidence; no separate manual rights-state workflow
+is required. Do not interpret content approval as permission to redistribute.
+
 ## 1. Product scope and collection rules
 
 Build a curated, model-independent library of useful image prompts, with actual source images and traceable creator attribution. Prioritize reusable prompts that meaningfully affect the result, not generic image utilities or sheer case count.
@@ -32,7 +45,7 @@ Classification order:
 2. Identify whether the task is text-to-image, reference-to-image, image-editing, or unknown. A reference portrait creating a new scene is reference-to-image, while a targeted modification preserving the original scene is image-editing; both display under Reference Image Generation.
 3. Choose a single best-fit category based on the intended output or transformation. Use the taxonomy keys, not arbitrary folder names. Generation categories include portraits, avatars, illustrations, products, posters, characters, architecture, infographics, logos, travel, ui-mockups, comics-storyboards, creative-art, other. Reference cases reuse these plus transformation categories such as restyle, outfit-change, hair-makeup, portrait-editing, background-change and composition.
 4. Attach descriptive tags (e.g. cinematic, ccd, film, photorealistic, anime, watercolor, 3d, minimalist, identity-preserving, template). Tags are secondary metadata, not duplicate gallery entries.
-5. Do not invent input requirements. Preserve unknown/low-confidence states and review flags; the current general generation gallery includes unknown input modes. Use explicit, tested overrides when justified by source evidence.
+5. Do not invent input requirements. Keep unknown input modes and diagnostic classification reasons; the current general generation gallery includes unknown input modes. Use explicit, tested overrides when justified by source evidence.
 6. Generic or misleading upstream titles are review candidates. Improve them only based on actual source content; keep original attribution intact.
 
 `scripts/governance.mjs` implements the current heuristic classification and `galleryView()` maps internal types to public galleries. Heuristics are not full LLM or visual review. Update tests with any rule change.
@@ -45,7 +58,7 @@ Retain exactly one canonical case whenever **either** of these conditions holds:
 
 The current normalization is Unicode NFKC, lowercase, collapse whitespace to one space, then trim. Compare full original prompts, not the 100-character preview. Treat connected groups transitively: if A shares a post with B and B shares a prompt with C, keep one representative for A/B/C.
 
-Use `selectCanonical()` in `scripts/governance.mjs`. Its deterministic selection prioritizes eligible/complete cases, rights-review status, original source URL, author/non-generic title, explicit output image, available image URL and completeness score, with stable ID ordering as final tie-breaker. Missing post IDs are not a dedup key. Do not treat matching prefixes, similar prompts, or identical image URLs alone as sufficient for deletion. Flag these as candidates for review.
+Use `selectCanonical()` in `scripts/governance.mjs`. Its deterministic selection prioritizes non-rejected cases, documented source publication basis, original source URL, author/non-generic title, explicit output image, available image URL and completeness score, with stable ID ordering as final tie-breaker. Missing post IDs are not a dedup key. Do not treat matching prefixes, similar prompts, or identical image URLs alone as sufficient for deletion. Flag these as candidates for review.
 
 Keep raw imported records for auditing; exclude duplicates from canonical IDs and all rendered galleries. Preserve excluded-to-kept mappings and source links. Do not reintroduce duplicates through new sources, manual additions, or sync. Check that canonical cases have no repeated nonempty original post ID and no repeated normalized full prompt.
 
@@ -58,15 +71,16 @@ Keep raw imported records for auditing; exclude duplicates from canonical IDs an
 | `data/taxonomy.json` | Internal category vocabulary |
 | `schemas/prompt.schema.json` | Source record schema |
 | `scripts/core.mjs` | Source parsing, preliminary merge, image selection and Markdown rendering |
-| `scripts/governance.mjs` | Classification, tags, quality flags, canonical dedup and gallery view |
+| `scripts/governance.mjs` | Classification, tags, review status/reasons, canonical dedup and public gallery view |
 | `scripts/sync.mjs` | Fetch upstream snapshots and rewrite index shards |
 | `scripts/build.mjs` | Deterministically regenerate galleries and governance outputs |
 | `scripts/validate.mjs` | Source record and structural validation |
 | `scripts/audit-links.mjs` | Optional image URL HTTP audit |
-| `data/governance/canonical.json` | Browsable canonical case IDs; use this to select cases, not all raw rows |
-| `data/governance/cases.json` | Classification, tags, quality, visibility and duplicate mappings |
+| `data/governance/canonical.json` | Non-rejected canonical candidate IDs (pending or approved); not a public gallery list |
+| `data/governance/cases.json` | Classification, tags, reviewStatus, diagnostic reviewReasons and duplicate mappings |
 | `data/governance/deduplication.json` | Retained/excluded case mappings |
 | `data/governance/duplicates.json` | Duplicate and similarity groups |
+| `data/review/approvals.json` | Durable fingerprinted positive content review decisions |
 | `data/governance/report.json` | Machine-readable counts and review status |
 | `docs/governance-report.md` | Generated human-readable governance report |
 
@@ -124,7 +138,7 @@ For content or code changes:
 - Inspect latest main, existing sources, classification and governance state before editing. Keep scope limited to the requested work.
 - If adding data, verify source eligibility, prompt authenticity, image role/URL, attribution, and rights basis. Do not collect prompt-free utility cases.
 - Run build and check; add or update targeted tests for parser, classification, deduplication or rendering changes. Review generated diff and removed stale pages.
-- Verify each browsable canonical ID appears exactly once in category galleries, and only in its correct top-level group. Check original post IDs and normalized prompts for duplicates. Ensure counts and pagination links match generated data.
+- Verify each approved case satisfying the source publication conditions appears exactly once in the public category galleries; pending and rejected cases never appear. Check original post IDs and normalized prompts for duplicates. Ensure counts and pagination links match generated data.
 - For changes affecting media, run the optional link audit when feasible; record actual results, not assumed reachability. Visual prompt matching, perceptual hash, semantic similarity and rights clearance require separate evidence.
 - Preserve existing layout and original images. Review sample generation/reference pages and a long prompt to ensure one-line, copyable display without truncation.
 - Report files changed, retained/excluded counts if relevant, test results and known blockers. Distinguish checks actually run from scripts merely added. Never say rights, CI, or image verification passed without evidence.
@@ -141,10 +155,10 @@ For collector exports follow [the local review workflow](docs/prompthero-review-
 
 ## Local visual curation
 
-Use [the local image reviewer](docs/local-image-review.md) via `npm run review:images` (optional `-- --queue /absolute/path/to/V3.jsonl`). The explicitly owner-requested local-only reviewer writes `data/review/exclusions.json`. Keep this durable input separate from source shards; build and future import plans honor exclusions across exact post/prompt components. Do not silently reset it during sync. Raw records remain for audit. Rebuild and check after changing exclusions; retaining an item is not visual or rights approval. Do not commit private queues, image caches or credentials.
+Use [the local image reviewer](docs/local-image-review.md) via `npm run review:images` (optional `-- --queue /absolute/path/to/V3.jsonl`). The explicitly owner-requested local-only reviewer writes `data/review/exclusions.json`. Keep this durable input separate from source shards; build and future import plans honor exclusions across exact post/prompt components. Do not silently reset it during sync. Raw records remain for audit. Rebuild and check after changing exclusions or approvals. First-pass content approval does not claim visual verification or source publication permission. Do not commit private queues, image caches or credentials.
 
-README featured previews use `data/review/featured.json`: null keeps legacy auto-selection until the first manual pick; an array is authoritative, including an empty array. Local reviewer can feature/unfeature existing and pending cases; rendering includes only currently visible canonical gallery cases, with no auto-fill in manual mode. Preserve selection order across both galleries in one grid (cap 30), category navigation and the three-column README layout. Rebuild both READMEs after changing selections. Do not reset featured choices during sync.
+README featured previews use `data/review/featured.json`: null keeps legacy auto-selection until the first manual pick; an array is authoritative, including an empty array. Local reviewer can feature/unfeature existing and pending cases; rendering includes only approved canonical cases satisfying source publication conditions, with no auto-fill in manual mode. Preserve selection order across both galleries in one grid (cap 30), category navigation and the three-column README layout. Rebuild both READMEs after changing selections. Do not reset featured choices during sync.
 
 ## Template-level duplicate policy
 
-Keep one representative of a reusable prompt template even when output images differ. Color, replaceable subjects/gender/clothing, aspect ratio, seed/model/LoRA-only variations and equivalent wording are duplicates when the core visual concept, composition, style, input requirements and task remain the same. A genuine change in concept/style/composition/input requirements is not a duplicate. Similarity scores and normalized variable skeletons retrieve pairs only; do not automatically suppress unreviewed similarity edges or transitively merge them. Review complete prompts, prefer an already featured/visible representative and the more complete reusable prompt; image quality requires actual visual evidence. Store reviewed keep/drop IDs and normalized full prompt hashes in data/review/template-decisions.json. Apply only verified decisions through npm run review:templates -- --apply (optional --queue /path/V3.jsonl), then build/check; preserve user exclusions and featured choices. A stale prompt, missing/deleted keeper or featured drop blocks application. A restore is respected by ordinary build/sync; remove the associated reviewed decision before deliberately reapplying if both should remain.
+Keep one representative of a reusable prompt template even when output images differ. Color, replaceable subjects/gender/clothing, aspect ratio, seed/model/LoRA-only variations and equivalent wording are duplicates when the core visual concept, composition, style, input requirements and task remain the same. A genuine change in concept/style/composition/input requirements is not a duplicate. Similarity scores and normalized variable skeletons retrieve pairs only; do not automatically suppress unreviewed similarity edges or transitively merge them. Review complete prompts, prefer an already featured/non-rejected representative and the more complete reusable prompt; image quality requires actual visual evidence. Store reviewed keep/drop IDs and normalized full prompt hashes in data/review/template-decisions.json. Apply only verified decisions through npm run review:templates -- --apply (optional --queue /path/V3.jsonl), then build/check; preserve user exclusions and featured choices. A stale prompt, missing/deleted keeper or featured drop blocks application. A restore is respected by ordinary build/sync; remove the associated reviewed decision before deliberately reapplying if both should remain.
