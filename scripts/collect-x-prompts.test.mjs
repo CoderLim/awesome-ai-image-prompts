@@ -9,7 +9,7 @@ import {verifyPair} from '../.claude/skills/collect-x-prompts/scripts/pair-posts
 import {makeRecords,saveQueue} from '../.claude/skills/collect-x-prompts/scripts/build-index-shard.mjs';
 import {preflight} from '../.claude/skills/collect-x-prompts/scripts/preflight.mjs';
 import {planImport} from '../.claude/skills/collect-x-prompts/scripts/stage-import.mjs';
-import {xSourceId,validateXRecord,hasXPermission} from './x-source.mjs';
+import {xSourceId,validateXRecord} from './x-source.mjs';
 import {fingerprint} from './review-exclusions.mjs';
 import {classifyContent} from './governance.mjs';
 
@@ -22,7 +22,6 @@ const intermediate={title:'Double exposure',category:'posters',inputMode:'text-t
 const sha='a'.repeat(64),opts={snapshotSha256:sha,collectedAt:'2026-11-26T13:00:00Z'};
 const record=()=>makeRecords([intermediate],snapshot,taxonomy,opts).records[0];
 const variant=(r,id,prompt,postId)=>({...r,id,prompt:{original:prompt},sourcePreview:{...r.sourcePreview,images:[{url:media(postId),role:'source-media'}]},provenance:{...r.provenance,originalSource:{...r.provenance.originalSource,url:url(postId),postId,promptPostId:undefined,promptPostUrl:undefined}}});
-const permission={status:'cleared',basis:'test fixture permission',evidence:'fixture only'};
 
 test('UTC inclusive end, invalid calendar dates and reversed dates',()=>{
  const range=resolveRange('2026-11-26..2026-11-26','2026-11-26T12:00:00Z');
@@ -94,12 +93,20 @@ test('new X platform validator and classification are generic, not author-specif
 
 test('stage publication checks review, append-only new shard numbers and source registration',()=>{
  const r=record(),source={id:'foo-bar',platform:'x',username:'foo_bar',url:'https://x.com/foo_bar',mode:'manual-collector-export'};
- const d={id:r.id,promptHash:fingerprint(r.prompt.original),reviewer:'fixture',text:'complete',visual:{status:'pass',outputUrls:[media('101')],evidence:'fixture only'},duplicate:{status:'cleared',evidence:'fixture only'},rights:{prompt:permission,media:[{...permission,url:media('101')}]}};
+ const d={id:r.id,promptHash:fingerprint(r.prompt.original),reviewer:'fixture',text:'complete',duplicate:{status:'cleared',evidence:'fixture only'}};
  assert.equal(planImport([r],[],[],[],[],{similarity:false}).added.length,0);
- assert.equal(planImport([r],[],[],[],[{...d,rights:undefined}],{similarity:false}).added.length,0);
+ assert.equal(planImport([r],[],[],[],[d],{similarity:false}).added.length,1);
+ assert.equal(planImport([r],[],[],[],[{...d,promptHash:'stale'}],{similarity:false}).added.length,0);
+ assert.equal(planImport([r],[],[],[],[{...d,duplicate:undefined}],{similarity:false}).added.length,0);
+ const reference={...r,inputMode:'reference-to-image'};
+ assert.equal(planImport([reference],[],[],[],[d],{similarity:false}).added.length,1);
+ const missing={...r,sourcePreview:{...r.sourcePreview,images:[]}};
+ assert.equal(planImport([missing],[],[],[],[d],{similarity:false}).added.length,0);
  const result=planImport([r],[],[source],['foo-bar-001.json','foo-bar-003.json'],[d],{similarity:false});
  assert.deepEqual(result.added,[r.id]);assert(result.updates['data/index/foo-bar-004.json']);assert(!result.updates['data/index/foo-bar-001.json']);
- assert(hasXPermission(result.updates['data/index/foo-bar-004.json'][0]));
+ const imported=result.updates['data/index/foo-bar-004.json'][0];
+ assert.deepEqual(imported.rights,r.rights);assert.equal(imported.sourceMeta.visualReview,'pending');assert.deepEqual(imported.sourcePreview.images,r.sourcePreview.images);
+ assert.equal(imported.sourceMeta.review.qualityStatus,'recommended');
  assert.equal(result.updates['data/sources.json'][0].platform,'x');
  assert.equal(planImport([r],[],[],[],[d],{similarity:false}).updates['data/sources.json'][0].username,'foo_bar');
 });

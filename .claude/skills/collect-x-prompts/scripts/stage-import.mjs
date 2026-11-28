@@ -12,7 +12,6 @@ import {readFeatured} from '../../../../scripts/review-featured.mjs';
 import {validateXRecord,xSourceId,xPost} from '../../../../scripts/x-source.mjs';
 import {preflight} from './preflight.mjs';
 const evidence=x=>typeof x==='string'&&x.trim().length>0;
-const cleared=x=>x?.status==='cleared'&&evidence(x.basis)&&evidence(x.evidence);
 export function planImport(queue,catalog,sources,filenames,reviews,options={}){
  const byReview=new Map(reviews.map(r=>[r.id,r])),blocked=[],eligible=[];
  const registry=structuredClone(sources),bySource=new Map(registry.map(s=>[s.id,s]));
@@ -22,14 +21,14 @@ export function planImport(queue,catalog,sources,filenames,reviews,options={}){
   const reasons=[];
   if(sourceId!==xSourceId(user)||(source&& (source.platform!=='x'||String(source.username).toLowerCase()!==user)))reasons.push('source-conflict');
   if(!d||d.promptHash!==fingerprint(r.prompt.original)||!evidence(d.reviewer))reasons.push('missing-or-stale-review');
-  if(r.sourceMeta?.textReview!=='complete'||!r.sourceMeta?.pairing||d?.text!=='complete'||d?.visual?.status!=='pass'||!Array.isArray(d?.visual?.outputUrls)||!urls.length||!urls.every(u=>d.visual.outputUrls.includes(u))||!evidence(d?.visual?.evidence))reasons.push('visual-or-text-unverified');
-  if(r.inputMode!=='text-to-image'&&(d?.reference?.status!=='verified'||!evidence(d?.reference?.evidence)))reasons.push('reference-unverified');
+  if(r.sourceMeta?.textReview!=='complete'||!r.sourceMeta?.pairing||d?.text!=='complete')reasons.push('text-or-source-unverified');
+  if(!urls.length)reasons.push('missing-example-media');
   if(d?.duplicate?.status!=='cleared'||!evidence(d?.duplicate?.evidence))reasons.push('template-review-unverified');
-  if(!cleared(d?.rights?.prompt)||!Array.isArray(d?.rights?.media)||!r.sourcePreview.images.every(m=>d.rights.media.some(x=>x.url===m.url&&cleared(x))))reasons.push('separate-rights-evidence-required');
   if(reasons.length){blocked.push({id:r.id,reasons});continue;}
-  const registration=source??{id:sourceId,platform:'x',username:user,url:'https://x.com/'+user,mode:'manual-collector-export',license:'Per creator / documented evidence'};
+  const registration=source??{id:sourceId,platform:'x',username:user,url:'https://x.com/'+user,mode:'manual-collector-export',license:'Per creator / platform terms'};
   validateXRecord(r,registration);
-  const p={...r,sourcePreview:{...r.sourcePreview,images:r.sourcePreview.images.map(m=>({...m,role:m.role==='input'?'input':'output'}))},rights:{prompt:'permission-documented',media:'permission-documented',evidence:d.rights},sourceMeta:{...r.sourceMeta,visualReview:'pass',imageVerification:d.visual.evidence,review:{...r.sourceMeta.review,qualityStatus:'recommended'},publicationReview:{reviewer:d.reviewer,promptHash:d.promptHash,reference:d.reference??null,duplicate:d.duplicate}}};
+  // Content approval is independent of optional visual and rights review. Preserve source evidence as-is.
+  const p={...r,sourceMeta:{...r.sourceMeta,review:{...r.sourceMeta.review,qualityStatus:'recommended'},publicationReview:{reviewer:d.reviewer,promptHash:d.promptHash,duplicate:d.duplicate}}};
   delete p.candidate;eligible.push(p);
  }
  const gate=preflight(eligible,catalog,options);
@@ -52,7 +51,7 @@ export function planImport(queue,catalog,sources,filenames,reviews,options={}){
   const rows=final.filter(r=>r.provenance.collectedFrom[0].sourceId===sourceId).sort((a,b)=>a.id.localeCompare(b.id));
   const user=xPost(rows[0].provenance.originalSource.url).handle;
   let source=bySource.get(sourceId);
-  if(!source){source={id:sourceId,platform:'x',username:user,url:'https://x.com/'+user,mode:'manual-collector-export',license:'Per creator / documented evidence'};registry.push(source);bySource.set(sourceId,source);}
+  if(!source){source={id:sourceId,platform:'x',username:user,url:'https://x.com/'+user,mode:'manual-collector-export',license:'Per creator / platform terms'};registry.push(source);bySource.set(sourceId,source);}
   const prefix=sourceId+'-';
   const nums=filenames.filter(f=>f.startsWith(prefix)&&/^\d+\.json$/.test(f.slice(prefix.length))).map(f=>Number(f.slice(prefix.length,-5)));
   let next=Math.max(0,...nums)+1;

@@ -7,7 +7,7 @@ const make=(prompt='Detailed watercolor portrait of a sailor')=>({case_id:'abcde
 test('unverified candidate becomes link-only; no author required',()=>{
   const r=stage([make()],[]);
   assert.equal(r.eligible,0);assert.equal(r.added.length,1);assert.equal(r.added[0].author,null);assert.equal(r.added[0].prompt,undefined);
-  assert.ok(r.audit[0].reasons.includes('separate_prompt_and_media_rights_required'));
+  assert.ok(r.audit[0].reasons.includes('near_duplicate_review_unverified'));
 });
 test('already staged link is not added again',()=>{
   const r=stage([make()],[],[{id:'prompthero-abcdef01234'}]);
@@ -20,14 +20,14 @@ test('exact match, stale fingerprint and utility are blocked',()=>{
   assert.equal(stage([{...q,prompt_sha256:'0'.repeat(64)}],[]).added.length,0);
   assert.equal(stage([make('Remove background')],[]).audit[0].status,'excluded');
 });
-test('even complete visual evidence cannot bypass missing media rights',()=>{
+test('content and duplicate review allow gallery eligibility without visual, reference or rights evidence',()=>{
   const q=make();
-  const d={case_id:q.case_id,prompt_sha256:q.prompt_sha256,visual:{quality:'pass',match:'pass',role:'output',url:q.image_urls[0],image_sha256:'a'.repeat(64),evidence:'review record',reviewer:'reviewer'},duplicate:{status:'cleared',evidence:'pair audit',reviewer:'reviewer'},rights:{prompt:{status:'cleared',basis:'permission',evidence:'record',reviewer:'reviewer'}}};
-  assert.equal(stage([q],[],[],[d]).eligible,0);
-  d.rights.media={...d.rights.prompt,url:q.image_urls[0]};
+  const d={case_id:q.case_id,prompt_sha256:q.prompt_sha256,duplicate:{status:'cleared',evidence:'pair audit',reviewer:'reviewer'}};
   assert.equal(stage([q],[],[],[d]).eligible,1);
+  assert.equal(stage([{...q,input_mode:'reference-to-image'}],[],[],[d]).eligible,1);
+  assert.equal(stage([{...q,image_urls:[]}],[],[],[d]).eligible,0);
+  assert.equal(stage([q],[],[],[{...d,prompt_sha256:'stale'}]).eligible,0);
 });
-
 test('manual candidate exclusion blocks a future import plan',()=>{
  const q=make();
  const result=stage([q],[],[],[],[{id:'prompthero-'+q.case_id,keys:['id:prompthero-'+q.case_id]}]);

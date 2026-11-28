@@ -9,7 +9,6 @@ import { normalize } from './prompthero-preflight.mjs';
 import { readExclusions, exclusionMatches } from './review-exclusions.mjs';
 const hash=p=>createHash('sha256').update(normalize(p)).digest('hex');
 const evidence=x=>x&&typeof x.evidence==='string'&&x.evidence.trim()&&typeof x.reviewer==='string'&&x.reviewer.trim();
-const right=x=>evidence(x)&&x.status==='cleared'&&typeof x.basis==='string'&&x.basis.trim();
 const simpleUtility=p=>/^(?:(?:please\s+)?(?:remove|erase|delete)\s+(?:the\s+)?(?:background|watermark|person|object|logo)|(?:upscale|resize|denoise|crop)(?:\s+(?:the\s+)?(?:image|photo))?|(?:去除|移除|删除)(?:背景|水印|人物)|抠图|图片放大)[.!。！\s]*$/i.test(p.trim());
 
 export function stage(queue,catalog,discovery=[],decisions=[],exclusions=[]){
@@ -36,10 +35,8 @@ export function stage(queue,catalog,discovery=[],decisions=[],exclusions=[]){
     }
     const d=records.get(r.case_id);
     if(!d||d.prompt_sha256!==r.prompt_sha256)reasons.push('missing_or_stale_review_evidence');
-    if(!evidence(d?.visual)||d.visual.quality!=='pass'||d.visual.match!=='pass'||d.visual.role!=='output'||!r.image_urls?.includes(d.visual.url)||!(/^[a-f0-9]{64}$/.test(d.visual.image_sha256??'')))reasons.push('visual_or_output_role_unverified');
-    if(r.input_mode!=='text-to-image'&&(!evidence(d?.reference)||d.reference.status!=='verified'))reasons.push('reference_role_unverified');
+    if(!Array.isArray(r.image_urls)||!r.image_urls.some(u=>{try{const x=new URL(u);return x.protocol==='https:'&&['cdn.prompthero.com','img.prompthero.com'].includes(x.hostname)&&!x.username&&!x.password;}catch{return false;}}))reasons.push('missing_example_media');
     if(!evidence(d?.duplicate)||d.duplicate.status!=='cleared')reasons.push('near_duplicate_review_unverified');
-    if(!right(d?.rights?.prompt)||!right(d?.rights?.media)||d.rights.media.url!==d?.visual?.url)reasons.push('separate_prompt_and_media_rights_required');
     audit.push({id,status:reasons.length?'link_only':'eligible_for_gallery_adapter',reasons});
   }
   return {added,audit,eligible:audit.filter(r=>r.status==='eligible_for_gallery_adapter').length};

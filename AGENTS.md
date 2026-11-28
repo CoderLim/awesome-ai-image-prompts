@@ -12,8 +12,8 @@ Build a curated, model-independent library of useful image prompts, with actual 
 - Distinguish background removal (out of scope) from creative background replacement with a specific scene, lighting, composition, and constraints (in scope). The same distinction applies to a generic removal command versus a substantive prompt-driven creative transformation.
 - Existing imported utility cases are legacy records. The current parser/governance pipeline does not automatically enforce this new collection exclusion. Do not interpret their presence as permission to collect more. When touching the import pipeline, implement and test the exclusion explicitly; retain audit metadata rather than silently deleting raw source records.
 - Do not generate substitute images, invent examples, fill in missing original prompts, or fabricate before/after pairs. Use original upstream media only. Do not label a source example as independently reproduced or visually verified without actual evidence.
-- Prefer primary creator sources. Existing importers use freestylefly/awesome-gpt-image-2 and Evolink-AI/awesome-gpt-image-2-6-prompts-and-api; PromptHero uses a manually supplied collector export; do not scrape or sync it automatically. Check current source terms and permissions before adding a source.
-- Third-party prompts and images retain their owners' rights. Public availability, attribution, an upstream repository license, or external linking alone does not establish redistribution permission. For new imports, record evidence separately for prompt text and media; use source-link-only records when permission is uncertain and do not republish full text or embed media without an applicable basis. Existing full-text records have unresolved rights and require review; do not describe them as licensed or commercially reusable.
+- Prefer primary creator sources. Existing importers use freestylefly/awesome-gpt-image-2 and Evolink-AI/awesome-gpt-image-2-6-prompts-and-api; PromptHero uses a manually supplied collector export; do not scrape or sync it automatically. Record current source terms and permissions when known.
+- Third-party prompts and images retain their owners' rights. Public availability, attribution, an upstream repository license, or external linking alone does not establish redistribution permission. Rights verification is optional metadata, not an import or publication gate. Preserve known evidence and leave unknown rights unknown; do not describe unverified records as licensed or commercially reusable.
 - Missing original prompt (including placeholders such as 原文未公开) or missing source image URL is not a normal browsable example. Keep source metadata and flag it for review.
 
 ## 2. Classification
@@ -122,7 +122,7 @@ GitHub Actions `validate.yml` runs `npm run check`. `sync.yml` is scheduled dail
 
 For content or code changes:
 - Inspect latest main, existing sources, classification and governance state before editing. Keep scope limited to the requested work.
-- If adding data, verify source eligibility, prompt authenticity, image role/URL, attribution, and rights basis. Do not collect prompt-free utility cases.
+- If adding data, verify prompt authenticity, source association, image URL and attribution; image roles and rights may remain unknown. Visual/reference and rights review are optional. Do not collect prompt-free utility cases.
 - Run build and check; add or update targeted tests for parser, classification, deduplication or rendering changes. Review generated diff and removed stale pages.
 - Verify each browsable canonical ID appears exactly once in category galleries, and only in its correct top-level group. Check original post IDs and normalized prompts for duplicates. Ensure counts and pagination links match generated data.
 - For changes affecting media, run the optional link audit when feasible; record actual results, not assumed reachability. Visual prompt matching, perceptual hash, semantic similarity and rights clearance require separate evidence.
@@ -137,7 +137,7 @@ VCL is an explicitly licensed, manually imported pinned snapshot. The automatic 
 
 ## Local PromptHero candidate review
 
-For collector exports follow [the local review workflow](docs/prompthero-review-workflow.md). Use `node scripts/prompthero-preflight.mjs <collector.jsonl> <new-local-output-dir>` from the repository root to reconstruct the queue across all current index shards, with exact duplicate mappings. Keep raw exports and review decisions outside the public repository. Preflight flags are not semantic or visual verdicts; never auto-publish candidates. Record separate text, visual, source and rights evidence, preserve stable IDs and review versions, and apply the existing import/build/check and rights gates before publishing. CLAUDE.md delegates to this authoritative guide.
+For collector exports follow [the local review workflow](docs/prompthero-review-workflow.md). Use `node scripts/prompthero-preflight.mjs <collector.jsonl> <new-local-output-dir>` from the repository root to reconstruct the queue across all current index shards, with exact duplicate mappings. Keep raw exports and review decisions outside the public repository. Preflight flags are not semantic or visual verdicts; never auto-publish candidates. Record text and source evidence, preserve stable IDs and review versions, and apply content review, duplicate and build/check gates before publishing. Visual and rights evidence are optional. CLAUDE.md delegates to this authoritative guide.
 
 ## Local visual curation
 
