@@ -7,7 +7,7 @@ import { pathToFileURL } from 'node:url';
 import { execFile } from 'node:child_process';
 import { promisify } from 'node:util';
 const exec=promisify(execFile);
-const columns=['id','media_type','slug','title','description','prompt','category','tags','input_mode','model','media','author','source_url','featured','featured_rank','updated_at'];
+const columns=['id','media_type','slug','title','description','prompt','category','tags','input_mode','model','media','author','source_url','featured','featured_rank','updated_at','created_at'];
 const hosts=new Set(['raw.githubusercontent.com','pbs.twimg.com','pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev','cdn.prompthero.com','img.prompthero.com']);
 const maxBytes=25*1024*1024;
 const hash=b=>createHash('sha256').update(b).digest('hex');
@@ -16,6 +16,19 @@ async function retry(fn) {
   for(let i=0;;i++) try{return await fn();}catch(e){if(!e.retryable||i===2)throw e;await sleep(500*2**i);}
 }
 function required(env,k){if(!env[k])throw Error('Missing configuration: '+k);return env[k];}
+// Legacy rows have no reliable first-insert timestamp. Zero is an unknown baseline.
+export async function ensureCreatedAt(query) {
+  const schema=await query('PRAGMA table_info(prompts)');
+  if(!schema.some(c=>c.name==='created_at'))await query('ALTER TABLE prompts ADD COLUMN created_at INTEGER NOT NULL DEFAULT 0');
+  await query('CREATE INDEX IF NOT EXISTS prompts_type_created ON prompts(media_type,created_at DESC,id)');
+}
+export function galleryUpsert(rows,time) {
+  const values=rows.flatMap(r=>columns.map(c=>c==='updated_at'||c==='created_at'?time:['tags','media','author'].includes(c)?JSON.stringify(r[c]):r[c]??null));
+  const sql='INSERT INTO prompts ('+columns.join(',')+') VALUES '+rows.map(()=> '('+columns.map(()=>'?').join(',')+')').join(',')+
+    ' ON CONFLICT(id) DO UPDATE SET '+columns.filter(c=>!['id','media_type','created_at'].includes(c)).map(c=>c+'=excluded.'+c).join(',')+
+    ' WHERE prompts.media_type=excluded.media_type';
+  return {sql,values};
+}
 export function deletionPlan(existing, records, allowLarge=false) {
   const ids=new Set(records.map(r=>r.id));
   const stale=existing.filter(r=>!ids.has(r.id));
@@ -119,12 +132,10 @@ export function createCloud(env=process.env) {
         if(found.length)throw Error('Cross-type ID collision: '+found[0].id);}
     },
     async upsert(rows,type){
+      await ensureCreatedAt(query);
+      const time=Date.now();
       for(let i=0;i<rows.length;i+=5){
-        const part=rows.slice(i,i+5),time=Date.now();
-        const values=part.flatMap(r=>columns.map(c=>c==='updated_at'?time:['tags','media','author'].includes(c)?JSON.stringify(r[c]):r[c]??null));
-        const sql='INSERT INTO prompts ('+columns.join(',')+') VALUES '+part.map(()=> '('+columns.map(()=>'?').join(',')+')').join(',')+
-          ' ON CONFLICT(id) DO UPDATE SET '+columns.filter(c=>c!=='id'&&c!=='media_type').map(c=>c+'=excluded.'+c).join(',')+
-          ' WHERE prompts.media_type=excluded.media_type';
+        const {sql,values}=galleryUpsert(rows.slice(i,i+5),time);
         await query(sql,values);
       }
     },

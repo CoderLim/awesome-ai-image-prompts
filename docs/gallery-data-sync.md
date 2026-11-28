@@ -61,7 +61,7 @@ CREATE INDEX IF NOT EXISTS prompts_type_featured
 - ID 沿用当前图片案例的稳定 ID；未来视频 ID 使用不冲突的命名空间（例如 video- 前缀），禁止跨类型覆盖。slug 默认使用稳定 ID，不因标题/分类变化而改变。
 - media_type 表示最终输出类型，当前固定 image。input_mode 保留现有 text-to-image、reference-to-image、image-editing、unknown；未来扩展 text-to-video、image-to-video、video-to-video、reference-to-video。
 - category 是治理后的分类 key；一级图片分组沿用现有 input_mode 与 galleryView 的映射（包括 unknown），不再冗余保存 gallery 字段。
-- tags、media、author 为 JSON 序列化后的 TEXT。featured 为 0/1；featured_rank 可空，人工精选顺序按现有规则。updated_at 为 Unix 毫秒时间，表示同步写入时间（不是原帖发布日期）。
+- tags、media、author 为 JSON 序列化后的 TEXT。featured 为 0/1；featured_rank 可空，人工精选按勾选顺序递增，展示时倒序（最近精选优先）。created_at 为首次 D1 插入时间（Unix 毫秒），冲突更新不覆盖；迁移前历史记录为 0（未知），同批以 ID 稳定排序。updated_at 为最近同步写入时间（不是原帖发布日期）。
 - UPSERT 按 id；执行前校验同 ID 不得属于其他 media_type，SQL 再以 WHERE prompts.media_type = excluded.media_type 防止跨类型更新。
 - 不增加业务表、版本字段、content_hash 字段。允许每次重复写入约两千条记录。索引只保留必要的几个。
 
@@ -153,7 +153,7 @@ migrations/0001_prompts.sql
 
 - export-gallery：基于现有本地数据和治理逻辑导出、校验、记录资格排除；不自动重新抓取第三方来源。
 - sync-gallery：读取 D1、同步 R2、批量 UPSERT、普通失效删除、日志；支持 dry-run（只读，不写 D1/R2）、force-media-refresh。
-- migration：初始化一张表及索引，由人工配置数据库时执行；不在每次同步中自动进行破坏性迁移。
+- migration：初始化一张表及索引，由人工配置数据库时执行；同步时检查并幂等添加 created_at 及索引（非破坏性迁移），dry-run 不写入。
 - workflow：main 上相关数据、治理、同步代码变化时触发；支持 workflow_dispatch 手动重跑、dry-run、媒体刷新及明确允许大规模普通删除的选项。
 - 所有生产同步走同一个 concurrency group，cancel-in-progress: false。获得执行资格后 checkout 最新 main，避免排队旧提交覆盖新数据。运行期间若 main 再次变化，允许本轮完成，下一轮同步最新内容；不要部署其他并行写入脚本。
 - 使用 Node.js 22+，复用现有 npm run build / npm run check。媒体工具和 Cloudflare 客户端按实现需要选择；不新增独立后台服务。

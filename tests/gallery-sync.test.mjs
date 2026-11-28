@@ -4,7 +4,7 @@ import fs from 'node:fs';
 import { DatabaseSync } from 'node:sqlite';
 import { exportGallery, eligible } from '../scripts/export-gallery.mjs';
 import { reviewStatus } from '../scripts/governance.mjs';
-import { runSync, deletionPlan } from '../scripts/sync-gallery.mjs';
+import { runSync, deletionPlan, ensureCreatedAt, galleryUpsert } from '../scripts/sync-gallery.mjs';
 
 const record=(id,extra={})=>({id,media_type:'image',media:[{type:'image',role:'output',originalUrl:'https://raw.githubusercontent.com/example/'+id+'.png'}],...extra});
 const existing=(id,type='image')=>({id,media_type:type,media:JSON.stringify([{originalUrl:'https://raw.githubusercontent.com/example/'+id+'.png',key:'old/'+id}])});
@@ -93,4 +93,20 @@ test('limited upsert can skip stale deletion',async()=>{
   assert(data.has('keep'));
   assert(data.has('new'));
   assert(!calls.some(c=>c[0]==='delete'));
+});
+
+test('legacy migration is idempotent and first insertion time survives repeated syncs',async()=>{
+  const db=new DatabaseSync(':memory:');
+  db.exec(fs.readFileSync('migrations/0001_prompts.sql','utf8'));
+  db.prepare('INSERT INTO prompts(id,media_type,slug,title,prompt,category,input_mode,source_url,updated_at) VALUES(?,?,?,?,?,?,?,?,?)').run('legacy','image','legacy','legacy','p','other','unknown','https://example.com',999);
+  const query=async(sql,params=[])=>sql.startsWith('PRAGMA')?db.prepare(sql).all(...params):(db.prepare(sql).run(...params),[]);
+  await ensureCreatedAt(query);await ensureCreatedAt(query);
+  const row=id=>({id,media_type:'image',slug:id,title:id,prompt:'p',category:'other',tags:[],input_mode:'unknown',media:[],author:null,source_url:'https://example.com',featured:0});
+  const upsert=(ids,time)=>{const {sql,values}=galleryUpsert(ids.map(row),time);db.prepare(sql).run(...values);};
+  upsert(['legacy','new-a'],1000);
+  upsert(['legacy','new-a','new-b'],2000);
+  assert.deepEqual(db.prepare('SELECT id,created_at,updated_at FROM prompts ORDER BY created_at DESC,id ASC').all().map(r=>({...r})),[
+    {id:'new-b',created_at:2000,updated_at:2000},{id:'new-a',created_at:1000,updated_at:2000},{id:'legacy',created_at:0,updated_at:2000}
+  ]);
+  db.close();
 });
