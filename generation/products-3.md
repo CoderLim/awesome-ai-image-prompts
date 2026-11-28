@@ -6,6 +6,86 @@
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
+<a id="sipteaandcoffee-2049174937420918968"></a>
+
+## Futuristic limited-edition sneaker advertisement
+
+<a href="https://pbs.twimg.com/media/HHAhvrDaMAAoT6P.jpg"><img src="https://pbs.twimg.com/media/HHAhvrDaMAAoT6P.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+Create a jaw-dropping premium advertising poster in 9:16 vertical format for a fictional ultra-limited women’s fashion sneaker called "NIKE AIR JORDAN 1 LOW - LIMITED DROP". The design must feel like a world-class campaign by a top creative agency, highly original, futuristic, visually explosive, and impossible to ignore. Main visual: A stunning athletic female model placed prominently in the foreground, dominating the composition and becoming the main focal point. She stands powerfully at the front of the frame wearing the hero sneaker, captured from a dramatic low angle with one foot stepping toward the camera. Her pose is bold, confident, fierce, elegant, and unstoppable. She should appear larger than the shoe and visually command attention first. The hero sneaker is positioned beside or slightly behind her in a dynamic floating pose, still highly visible as the premium product focus. The shoe should look ultra-premium, highly engineered, sleek, aerodynamic, and fashion-forward. Materials combine knit mesh, sculpted foam, translucent panels, reflective stripes, and a carbon-fiber sole plate. She wears a sleek futuristic sports-luxury outfit: fitted performance crop jacket, sculpted leggings, metallic detailing, aerodynamic silhouette. Hair flowing with motion energy. Both the model and sneaker stand above a black obsidian running track split by glowing energy cracks. Neon light trails swirl around her body and shoes like captured speed. Small particles, mist, sparks, and motion streaks add intensity. In the background, use faint silhouettes of female runners frozen mid-sprint, softly blurred to keep all attention on the foreground model and sneaker. Color palette: Matte black, electric red, silver, deep charcoal, subtle neon blue highlights. Typography and poster copy: Render all text cleanly, sharply, and professionally with strong hierarchy. Main headline: “OWN THE SPEED” Product title: “NIKE AIR JORDAN 1 LOW” Subheadline: “Built for the women who never move ordinary.” Feature callouts in elegant boxed layout: Featherlight Adaptive Knit Upper Carbon Energy Return Plate Precision Grip Traction Limited Collector Release Price line: $299 CTA: DROP LIVE NOW Secondary CTA: Only at https://t.co/feHYve1vIX Small footer text: “Performance innovation meets futuristic street identity.” Layout direction: Headline bold and oversized, partially integrated into background. Female model in the foreground center-front as the visual star. Sneaker placed near her feet or floating beside her. Product title near the shoe in refined premium layout. Feature callouts vertically aligned on one side. Add subtle badge reading LIMITED SERIES. Style: Ultra-detailed, hyper-realistic fashion product photography, cinematic studio lighting, premium advertising aesthetics, sharp focus, rich textures, subtle atmosphere, dynamic motion energy, high-end commercial poster, no clutter, no generic template look.
+```
+
+By [@sipteaandcoffee](https://x.com/sipteaandcoffee/status/2049174937420918968)
+
+---
+
+<a id="sipteaandcoffee-2051610507803832768"></a>
+
+## Premium smartphone advertisement poster
+
+<a href="https://pbs.twimg.com/media/HHjI4jXasAAcss4.jpg"><img src="https://pbs.twimg.com/media/HHjI4jXasAAcss4.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+Create a premium Apple-style smartphone advertisement poster in 4:5 vertical format, ultra-high resolution, with a clean, modern, global campaign aesthetic. Scene & Composition A minimal soft ivory studio background with a large rounded rectangular gradient panel in rose-gold to blush pink, placed slightly off-center behind the subject. The gradient should feel luminous and diffused, not flat. In the background, integrate oversized typography: “ELITE” very large, partially cropped by frame edges warm rose tone, slightly deeper than the gradient panel soft shadow and subtle dimensional depth Subject (Female Model) A stylish young female model: soft wavy dark brown hair natural glowing skin subtle makeup with defined eyes thin gold-frame glasses Expression & Pose: calm, self-assured, composed expression direct eye contact shot from a slightly low angle one hand extended toward the camera holding the phone body slightly turned for depth and elegance Outfit: deep emerald green silk dress (changed color) smooth texture with soft highlights minimal jewelry (fine gold chain or ring) Product (Hero Focus) iPhone 17 Pro – Rose Titanium finish placed in extreme foreground using forced perspective slightly tilted to emphasize camera system Details: ultra-realistic triple camera lenses precise reflections and layered glass depth brushed titanium edges with soft highlights subtle Apple logo reflection refined material realism (premium, not glossy plastic) Lighting Soft, premium lighting setup: key light from front-left (clean skin tones, soft glow) warm rim light from right (gentle edge separation) subtle pink/rose bounce from background soft shadows with smooth falloff UI & Graphic Elements small Apple logo (top left) “Engineered for a smarter tomorrow.” (top right, thin font) floating glass-style pill: “iPhone 17 Pro” 2–3 subtle sparkle accents very fine film grain for realism Bottom Section (Features) Four rounded glass cards with minimal icons: A19 Pro Chip Next-level speed 48MP Fusion Camera Precision in every shot 4K HDR Video Storytelling redefined Apple Intelligence Smart. Secure. Seamless. Bottom Right Text iPhone 17 Pro. Precision meets elegance. Powered by A19 Pro. Advanced imaging system. Crafted for the future. Camera & Render Feel 50mm lens aesthetic shallow depth of field slight natural lens distortion HDR lighting ultra-real textures (skin, silk, metal, glass) Overall Direction Make it feel like: captured in a real high-end studio effortlessly premium refined, modern, and human Nothing should feel overdesigned or artificial.
+```
+
+By [@sipteaandcoffee](https://x.com/sipteaandcoffee/status/2051610507803832768)
+
+---
+
+<a id="sipteaandcoffee-2054553101236080714"></a>
+
+## Tropical product advertisement template
+
+<a href="https://pbs.twimg.com/media/HIM9J5xaoAAilbb.jpg"><img src="https://pbs.twimg.com/media/HIM9J5xaoAAilbb.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+Create a creative commercial advertising poster for [PRODUCT NAME], a [PRODUCT TYPE], inspired by vibrant tropical product campaigns. Place the product as a large hero object on the center-right with realistic glossy reflections, sharp label details, and premium lighting. Add a stylish model sitting beside or slightly in front of the product, naturally interacting with it by [MODEL ACTION]. The model should look [MOOD], wearing [OUTFIT STYLE], and should not cover the product label.
+```
+
+By [@sipteaandcoffee](https://x.com/sipteaandcoffee/status/2054553101236080714)
+
+---
+
+<a id="sipteaandcoffee-2064034557352202253"></a>
+
+## Running shoe miniature brand universe
+
+<a href="https://pbs.twimg.com/media/HKTsfYOa0AAcA3q.jpg"><img src="https://pbs.twimg.com/media/HKTsfYOa0AAcA3q.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+A high-performance running shoe transformed into a miniature brand universe. The shoe is the hero character, surrounded by floating speed trails, miniature running tracks, energetic mascot companions, stopwatch icons, clouds, and dynamic sports-inspired elements. Oversized bold typography integrated into the scene. Clean commercial 3D rendering, pastel orange, white, and gray color palette derived from the product, premium packaging aesthetics, soft gloss, graphic backgrounds, floating platforms, collectible toy-like charm. Modern consumer branding, cute yet premium, highly shareable social-media campaign visual, rich detail, centered composition, studio quality.
+```
+
+By [@sipteaandcoffee](https://x.com/sipteaandcoffee/status/2064034557352202253)
+
+---
+
+<a id="sipteaandcoffee-2064207510777782352"></a>
+
+## Miniature biscuit castle advertising poster
+
+<a href="https://pbs.twimg.com/media/HKWJypvaYAA9PDm.jpg"><img src="https://pbs.twimg.com/media/HKWJypvaYAA9PDm.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+Design a minimalist luxury 3D advertising poster for Prince Biscuits. The centerpiece is a surreal giant golden biscuit castle constructed entirely from iconic Prince biscuits. The biscuit structure should feel imaginative and unexpected while instantly recognizable as the brand's signature product. Use realistic biscuit textures, embossed details, cream layers, and subtle crumb elements to create a premium visual metaphor of a kingdom built from Prince biscuits. Place a tiny human character beside the giant biscuit castle, actively exploring and climbing its towers with a small ladder. The miniature figure should create a strong sense of scale, storytelling, and playful curiosity while maintaining a clean, sophisticated composition. Use Prince's signature red and golden-yellow color palette as the background, with a smooth gradient and plenty of negative space. Keep the composition centered and balanced. Position the Prince Biscuits logo at the top of the poster. Place the brand slogan "The Taste of Happiness" elegantly at the bottom. Style requirements: Minimalist, intelligent, visually striking, premium advertising design, ultra-detailed 3D rendering, photorealistic biscuit textures, commercial campaign quality, luxury product photography, soft studio lighting, subtle shadows, clean background, modern fashion-ad aesthetic, highly shareable social media campaign. Format: Vertical poster, 9:16 ratio. Rendering style: Ultra-realistic CGI, Behance-worthy advertising presentation, premium food branding, cinematic lighting, luxury commercial artwork, launch-ready marketing visual.
+```
+
+By [@sipteaandcoffee](https://x.com/sipteaandcoffee/status/2064207510777782352)
+
+---
+
 <a id="vcl-productshot"></a>
 
 ## Productshot — wireless earbuds

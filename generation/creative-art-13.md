@@ -166,6 +166,22 @@ By [@amir2438](https://prompthero.com/prompt/fd2cb38309c-flux-flux-3-a-flat-brig
 
 ---
 
+<a id="sipteaandcoffee-2051919563051381045"></a>
+
+## Rainy city double-exposure editorial portrait
+
+<a href="https://pbs.twimg.com/media/HHnh98MasAAycMq.jpg"><img src="https://pbs.twimg.com/media/HHnh98MasAAycMq.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+A high-contrast, double-exposure editorial portrait of a beautiful woman gazing down with a thoughtful expression. The image is creatively segmented into vertical cuts of varying heights against a textured, off-white parchment background. Overlay effect: Within the vertical cuts of the woman's face, a secondary scene is visible: a solitary figure of the same woman in a sweatshirt walking along a rain-soaked street at night. The street scene features a warm orange bokeh emanating from the streetlights and reflections on the wet pavement, creating a striking contrast with the cool tones of the portrait. Stylistic elements: Lighting: A chiaroscuro style with deep shadows and bright highlights on the woman's white shirt and dark jacket. Texture: A subtle grain and a worn, paper-like texture cover the entire canvas, lending an artistic and raw feel. Color palette: A mix of desaturated monochromatic tones for the portrait, punctuated by vibrant touches of amber, gold, and turquoise from the rainy cityscape. Atmosphere: Melancholic, introspective, and with hints of modern film noir; facial hair and skin texture rendered in great detail. Technical specifications: Photograph taken with an 85mm lens, f/1.8, cinematic lighting, sharp focus on the glasses, 8K resolution, graphic poster style. Aspect ratio 9:16.
+```
+
+By [@sipteaandcoffee](https://x.com/sipteaandcoffee/status/2051919563051381045)
+
+---
+
 [1](creative-art.md) · [2](creative-art-2.md) · [3](creative-art-3.md) · [4](creative-art-4.md) · [5](creative-art-5.md) · [6](creative-art-6.md) · [7](creative-art-7.md) · [8](creative-art-8.md) · [9](creative-art-9.md) · [10](creative-art-10.md) · [11](creative-art-11.md) · [12](creative-art-12.md) · **13**
 
 [← Home](../README.md)

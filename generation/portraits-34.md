@@ -246,6 +246,70 @@ A futuristic, high-contrast portrait of a person with jet-black, ultra-glossy sk
 
 ---
 
+<a id="sipteaandcoffee-2049687864125100143"></a>
+
+## Cozy laptop lifestyle photography
+
+<a href="https://pbs.twimg.com/media/HHH0P8uXwAAB849.jpg"><img src="https://pbs.twimg.com/media/HHH0P8uXwAAB849.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+Ultra-realistic photo of a young woman with long dark wavy hair, sharp eyebrows, warm medium skin tone, natural makeup, sitting at a wooden desk indoors, looking at a laptop with a focused expression, soft warm indoor lighting from a lamp, realistic shadows, cozy environment, shot on iPhone 15 Pro, natural colors, HDR, sharp focus, high detail, realistic skin texture, no blur
+```
+
+By [@sipteaandcoffee](https://x.com/sipteaandcoffee/status/2049687864125100143)
+
+---
+
+<a id="sipteaandcoffee-2055546364755370155"></a>
+
+## Techwear fashion editorial portrait
+
+<a href="https://pbs.twimg.com/media/HIbEhiQaIAAYwH3.jpg"><img src="https://pbs.twimg.com/media/HIbEhiQaIAAYwH3.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+High-fashion editorial portrait of a young woman with long, straight moss-green hair, posing confidently against a solid muted grey background. She is wearing an avant-garde techwear ensemble featuring an oversized, cropped black utility hoodie with multiple tactical cargo pockets, straps, and orange accent tags. She pairs this with baggy grey drawstring sweatpants that include oversized side pockets.Her accessories include a black bucket hat with a centered orange logo, futuristic wraparound dark sunglasses, and large over-ear headphones resting around her neck. The composition is a medium shot with a professional studio lighting setup, creating soft shadows and a high-contrast, cinematic look. In the background, large stylized lime-green graphic typography is integrated behind the subject, mimicking a modern streetwear magazine cover. The overall aesthetic is gritty, urban, and ultra-detailed, 8k resolution, shot on 85mm lens. Key Technical Features Aesthetic: Techwear / Cyberpunk Streetwear. Lighting: Softbox studio lighting with a focus on fabric textures and facial sharp focus. Color Palette: Dominant charcoal and heather grey, contrasted by vibrant lime green and safety orange accents. Composition: Low-angle medium shot to emphasize a dominant, "hero" posture.
+```
+
+By [@sipteaandcoffee](https://x.com/sipteaandcoffee/status/2055546364755370155)
+
+---
+
+<a id="sipteaandcoffee-2073713796447674426"></a>
+
+## Cozy bedroom lifestyle portrait
+
+<a href="https://pbs.twimg.com/media/HMdPo3QaMAAJqx3.jpg"><img src="https://pbs.twimg.com/media/HMdPo3QaMAAJqx3.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+A photorealistic image of Sadie Sink lying on her side on a patterned rug in a cozy bedroom. She has her signature long wavy red-auburn hair in a messy top bun with soft strands falling around her face, fair skin with light freckles, and a gentle playful expression looking at the camera. She is propped up on one elbow with her head resting on her hand, wearing a light blue floral spaghetti strap summer dress. Her other hand is gently touching a large fluffy white stuffed bunny rabbit lying beside her on the rug. Foreground includes various makeup products and cosmetic containers scattered on the rug. Background features a wooden bed frame, white vanity filled with beauty items, a glowing ring light, and an "Euphoria Season 3" poster on the wall. Warm, soft indoor lighting, highly detailed, relaxed and cute atmosphere, Instagram selfie aesthetic.
+```
+
+By [@sipteaandcoffee](https://x.com/sipteaandcoffee/status/2073713796447674426)
+
+---
+
+<a id="sipteaandcoffee-2076355672749592893"></a>
+
+## Argentina football jersey studio portrait
+
+<a href="https://pbs.twimg.com/media/HNCyb1ubgAAXLNM.jpg"><img src="https://pbs.twimg.com/media/HNCyb1ubgAAXLNM.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+A photorealistic studio portrait of a beautiful young East Asian woman with long, straight brown hair styled in loose side braids adorned with small gold hair clips, crouching barefoot in a low squat position, looking directly at the camera with a neutral, confident expression and subtle makeup. She is wearing the official Argentina national football team home jersey: a fitted short-sleeve light blue and white vertically striped jersey with a white collar, black Adidas logo on the right chest, and the Argentine Football Association (AFA) crest featuring the golden sun on the left chest. She also wears a short white ruffled skirt with drawstring. Both hands are resting on a white and blue Adidas soccer ball placed on the floor in front of her. The background features a bold geometric pattern of light blue, white, and gold accents inspired by the Argentine flag. Professional studio lighting, sharp focus, high detail, cinematic photography, clean composition.
+```
+
+By [@sipteaandcoffee](https://x.com/sipteaandcoffee/status/2076355672749592893)
+
+---
+
 [1](portraits.md) · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · [5](portraits-5.md) · [6](portraits-6.md) · [7](portraits-7.md) · [8](portraits-8.md) · [9](portraits-9.md) · [10](portraits-10.md) · [11](portraits-11.md) · [12](portraits-12.md) · [13](portraits-13.md) · [14](portraits-14.md) · [15](portraits-15.md) · [16](portraits-16.md) · [17](portraits-17.md) · [18](portraits-18.md) · [19](portraits-19.md) · [20](portraits-20.md) · [21](portraits-21.md) · [22](portraits-22.md) · [23](portraits-23.md) · [24](portraits-24.md) · [25](portraits-25.md) · [26](portraits-26.md) · [27](portraits-27.md) · [28](portraits-28.md) · [29](portraits-29.md) · [30](portraits-30.md) · [31](portraits-31.md) · [32](portraits-32.md) · [33](portraits-33.md) · **34**
 
 [← Home](../README.md)

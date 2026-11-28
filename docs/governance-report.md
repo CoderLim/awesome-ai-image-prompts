@@ -2,10 +2,10 @@
 
 Generated from source JSON. Classification is heuristic and provisional; completeness is not aesthetic quality. Public display depends only on content review status (`approved` / `pending` / `rejected`). Source-license clearance is not a publication gate; manual image review is optional quality/featured curation.
 
-- Source cases: 2132
-- Unique cases: 2070
-- Canonical cases: 1901
-- Approved / published: 1900
+- Source cases: 2167
+- Unique cases: 2105
+- Canonical cases: 1936
+- Approved / published: 1935
 - Pending review: 1
 - Rejected / withheld: 231
 - Duplicate records excluded: 62 (45 previously visible)
@@ -13,45 +13,45 @@ Generated from source JSON. Classification is heuristic and provisional; complet
 
 ## Gallery groups (approved)
 
-- reference: 220
-- generation: 1680
+- reference: 229
+- generation: 1706
 
 ## Internal operation classification
 
 | Category | Count |
 |---|---:|
 | editing/background-change | 2 |
-| editing/composition | 6 |
+| editing/composition | 7 |
 | editing/object-removal | 1 |
 | editing/object-replacement | 1 |
 | editing/outfit-change | 3 |
 | editing/portrait-editing | 4 |
-| editing/restyle | 21 |
+| editing/restyle | 23 |
 | generation/architecture | 48 |
 | generation/avatars | 10 |
-| generation/characters | 138 |
-| generation/comics-storyboards | 21 |
-| generation/creative-art | 270 |
-| generation/illustrations | 229 |
-| generation/infographics | 53 |
+| generation/characters | 140 |
+| generation/comics-storyboards | 23 |
+| generation/creative-art | 271 |
+| generation/illustrations | 230 |
+| generation/infographics | 56 |
 | generation/logos | 27 |
-| generation/other | 47 |
-| generation/portraits | 730 |
-| generation/posters | 157 |
-| generation/products | 45 |
-| generation/travel | 59 |
+| generation/other | 48 |
+| generation/portraits | 736 |
+| generation/posters | 165 |
+| generation/products | 50 |
+| generation/travel | 62 |
 | generation/ui-mockups | 29 |
 
 ## Input modes (approved)
 
-- reference-to-image: 185
-- text-to-image: 1480
+- reference-to-image: 191
+- text-to-image: 1506
 - unknown: 200
-- image-editing: 35
+- image-editing: 38
 
 ## Review flags
 
-- classification-review: 241
+- classification-review: 242
 - duplicate-candidate:exact-prompt: 30
 - duplicate-candidate:same-post: 58
 - duplicate-candidate:same-prompt-prefix: 51
@@ -62,7 +62,7 @@ Generated from source JSON. Classification is heuristic and provisional; complet
 - missing-image-url: 3
 - missing-original-post-url: 180
 - missing-original-prompt: 2
-- rights-review: 2120
+- rights-review: 2155
 
 ## Withheld cases
 

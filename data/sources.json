@@ -56,5 +56,17 @@
     "snapshotSha256": "4271663685af66a064e2b11da4f503493dea775306f5d029e32902c3401c030c",
     "platform": "x",
     "username": "AWENIAI"
+  },
+  {
+    "id": "sipteaandcoffee",
+    "platform": "x",
+    "username": "sipteaandcoffee",
+    "url": "https://x.com/sipteaandcoffee",
+    "mode": "manual-collector-export",
+    "license": "Per creator / platform terms",
+    "snapshotSha256": "8f04638b7ce87c54954e75b089b02743850269bd5c9bc545039d4e8024cf4a84",
+    "snapshotSha256s": [
+      "8f04638b7ce87c54954e75b089b02743850269bd5c9bc545039d4e8024cf4a84"
+    ]
   }
 ]

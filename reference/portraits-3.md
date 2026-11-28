@@ -246,6 +246,38 @@ raw photo captured with Hasselblad X1D II 50C, low key lighting, high micro-cont
 
 ---
 
+<a id="sipteaandcoffee-2049452006608392350"></a>
+
+## CCD flash portrait from a reference
+
+<a href="https://pbs.twimg.com/media/HHEdvLibMAA14mA.jpg"><img src="https://pbs.twimg.com/media/HHEdvLibMAA14mA.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+A hyper-photorealistic shot of the same subject in the attached image, ultra-detailed facial features, visible pores, natural skin texture, rosy complexion and dewy skin, Douyin/Korean glass-skin makeup, glossy lips, aegyosal, baby pink blush on cheeks and nose, high identity consistency, realistic human anatomy. Expression or mood: dreamy half-lidded gaze looking directly at the camera, slightly parted lips, relaxed facial muscles, soft intimate candid mood. Camera settings: shot on an old CCD digital camera, early-2000s digicam aesthetic, direct on-camera flash, harsh flash falloff, visible grain and digital noise, slightly overexposed highlights, flattened shadows, soft contrast, mildly washed colors, cool-to-neutral white balance, slight motion blur, low-light snapshot feel, candid and imperfect composition Makeup style: luminous glass-skin finish, glossy lips, soft shimmer eyelids, aegyosal highlight, natural contour, blended blush across cheeks and nose Hair: loose romantic updo with soft curls around the face, wispy baby hairs, slightly messy windswept texture. Outfit: delicate off-shoulder silk styling with embroidered floral fabric draped around the body, soft feminine luxury vibe. Background: pastel floral bedding with pale blue and pink tones, soft daylight, airy romantic atmosphere. Composition: horizontal close-up, face resting on layered fabric, shallow depth of field, intimate editorial framing. Negative prompt: over-smoothed skin, plastic texture, unrealistic proportions, studio lighting, overly sharp HDR, stiff pose, artificial symmetry, over-retouched face
+```
+
+By [@sipteaandcoffee](https://x.com/sipteaandcoffee/status/2049452006608392350)
+
+---
+
+<a id="sipteaandcoffee-2051658177784283264"></a>
+
+## Phone-screen frame-in-frame creative portrait
+
+<a href="https://pbs.twimg.com/media/HHj0POUawAAkj9J.jpg"><img src="https://pbs.twimg.com/media/HHj0POUawAAkj9J.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+Ultra-realistic iPhone creative portrait, identity preserved exactly from reference image. Young woman standing indoors in front of a glass storefront or reflective wall, photographed from a slightly high front angle. She holds a smartphone horizontally directly in front of her face, covering her eyes and upper face in real life. The phone screen faces the camera and clearly shows a live camera/photo view of her face. Composition: The real woman is visible behind the phone, but her face is mostly hidden by the horizontal phone. On the phone screen, her face appears clearly centered, smiling softly and winking. The phone acts like a frame within the frame. Her hand grips the top edge of the phone, fingers visible across the top. Pose: One hand holds the phone horizontally across her face. Her other hand is lower near her waist making a peace sign or casual gesture. She stands relaxed, facing camera. Outfit: White fitted zip-front sleeveless top, loose light-wash baggy jeans, brown belt, playful accessories, rings, bracelet, red-and-white shoulder bag, small plush/keychain accessories hanging from bag or belt. Phone screen details: The phone screen shows a clean live-camera image of her face with a wink and soft smile. Add cute sticker-style doodles around the screen/photo area: small colorful sparkles, stars, flower sticker near the face. The stickers should look like playful phone-camera decoration, not random floating objects. Environment: Indoor mall/storefront area with glass doors, reflections, polished floor, soft daylight mixed with indoor light, casual streetwear snapshot vibe. Camera + lighting: 0.5x iPhone wide-angle photo, close candid framing, realistic reflections on glass and phone screen, slight distortion on hands, raw social-media feel. Important: Match the phone-covering-face composition, horizontal phone screen showing her face, wink expression on screen, hand gripping phone, playful stickers, white zip top, baggy jeans, accessories, and indoor glass background closely. Natural skin texture, realistic screen reflections, no beauty filter, no smoothing. 4K vertical 9:16.
+```
+
+By [@sipteaandcoffee](https://x.com/sipteaandcoffee/status/2051658177784283264)
+
+---
+
 [1](portraits.md) · [2](portraits-2.md) · **3**
 
 [← Home](../README.md)
