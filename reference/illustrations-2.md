@@ -38,38 +38,6 @@ By [@Taaruk\_](https://x.com/Taaruk_/status/2093931420079321245)
 
 ---
 
-<a id="prompthero-9500e5a63a1"></a>
-
-## A large 3D glossy Japanese kanji &quot;愛&quot;, designed in \.\.\.
-
-<a href="https://cdn.prompthero.com/v1_880661bcc32ff2120bee17c1c9-hero-10-a-large-3d-glossy-japanese-kanji-designed-in-a-soft-gummy-toy-style-the-letter-is-smooth-rounded-and-slightly.jpeg"><img src="https://cdn.prompthero.com/v1_880661bcc32ff2120bee17c1c9-hero-10-a-large-3d-glossy-japanese-kanji-designed-in-a-soft-gummy-toy-style-the-letter-is-smooth-rounded-and-slightly.jpeg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-A large 3D glossy Japanese kanji "愛", designed in a soft gummy toy style. The letter is smooth, rounded, and slightly inflated, with warm carmine-red color, shiny highlights, and soft reflections. Minimal cute design, centered composition, pastel background with soft heart shapes, studio lighting, high detail, Pixar-style 3D render, clean and child-friendly educational illustration, 4k resolution.
-```
-
-By [@bencorona](https://prompthero.com/prompt/9500e5a63a1-hero-10-a-large-3d-glossy-japanese-kanji-designed-in-a-soft-gummy-toy-style-the-letter-is-smooth-rounded-and-slightly)
-
----
-
-<a id="prompthero-ae75f155f75"></a>
-
-## \{ &quot;task\_configuration&quot;: \{ &quot;task\_type&quot;: &quot;scre\.\.\.
-
-<a href="https://cdn.prompthero.com/l287gkjn1m196fmfvtfg0c54ji-nano-banana-nano-banana-2-taskconfiguration-tasktype-screensimulationphotorealism-targetmodel-sdxlrefiner-nano-banana-pro-compatible-aspectratio-34-resolution-width-1152-height-1536-promptassembly-positiveprompt-hyper-realistic.jpeg"><img src="https://cdn.prompthero.com/l287gkjn1m196fmfvtfg0c54ji-nano-banana-nano-banana-2-taskconfiguration-tasktype-screensimulationphotorealism-targetmodel-sdxlrefiner-nano-banana-pro-compatible-aspectratio-34-resolution-width-1152-height-1536-promptassembly-positiveprompt-hyper-realistic.jpeg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-{ "task_configuration": { "task_type": "screen_simulation_photorealism", "target_model": "SDXL_Refiner / Nano Banana Pro compatible", "aspect_ratio": "3:4", "resolution": { "width": 1152, "height": 1536 } }, "prompt_assembly": { "positive_prompt": "Hyper-realistic downward-angled photograph of a MacBook screen viewed from above. The MacBook display fills approximately 95% of the frame. The glass surface shows realistic physical imperfections: subtle dust particles, faint fingerprint smudges, micro glare streaks, soft ambient reflections, and a visible pixel grid (moire) consistent with a real Retina display.\n\nThe screen is running macOS in Dark Mode. Two application windows are visible. The dominant window is a Photo Booth live-preview window positioned centrally. Secondary interface elements remain subdued and out of focus.\n\nInside the Photo Booth window: a young woman lying in a dim bedroom environment with an off-white wall and lightly rumpled bedding. Lighting is low-key and nocturnal, combining cool blue screen glow with warm natural skin tones and deep soft shadows.\n\nCRITICAL IDENTITY PRESERVATION:\nThe woman’s face must match the uploaded reference image EXACTLY. Facial identity lock is mandatory. This includes identical facial proportions, eye shape and spacing, eyelids, eyebrows, nose bridge and tip, lips, jawline, cheek volume, forehead shape, skin tone, and natural asymmetries. No beautification, no stylization, no facial drift.\n\nHair color, hairline, hairstyle, and texture must also match the reference precisely.\n\nSubject details:\nShe is reclined naturally, wearing a black top and grey bottom. She holds an iPhone 15 Pro in her right hand, looking at the screen with a relaxed, candid expression and a subtle, natural smile. No posing, no exaggerated emotion.\n\nOverall realism target:\nRaw, unedited photo look. Natural noise, slight grain, imperfect exposure balance, and realistic contrast. The scene must feel like a real photograph taken casually at night, not a render or illustration.", "negative_prompt": "vector art, illustration, CGI, cartoon, 3D render, flat digital image, screenshot, perfect glass, clean screen, exaggerated glow, studio lighting, daylight, HDR look, face mismatch, altered facial features, wrong hair color, smooth plastic skin, watermark, text artifacts" }, "identity_preservation_settings": { "strictness_level": "CRITICAL", "methodology": { "control_net_stack": [ { "unit": "ControlNet_Tile", "weight": 0.4, "purpose": "Maintain screen texture, pixel grid, and UI sharpness" }, { "unit": "IP-Adapter_FaceID_Plus", "weight": 0.95, "region_mask": "Photo Booth window only", "note": "Ensures 1:1 facial identity match with uploaded reference" } ] } }, "visual_hierarchy": { "layer_1_physical_macro": { "camera_angle": "Downward, high-angle", "framing": "MacBook screen dominant", "foreground_anchor": "Thin strip of MacBook keyboard visible at bottom edge", "surface_imperfections": [ "pixel grid texture", "dust particles", "finger smudges", "soft ambient reflections" ] }, "layer_2_digital_interface": { "os_theme": "macOS Dark Mode", "window_layout": { "primary": "Photo Booth live-preview window (dominant focus)", "secondary": "Background macOS UI elements, subdued" } }, "layer_3_nested_subject_content": { "environment": "Dim bedroom, off-white wall, rumpled bedding", "lighting_simulation": "Cool screen glow mixed with warm skin tones", "subject_pose": "Reclined, relaxed", "expression": "Candid, calm, natural", "identity_target": "STRICTLY_BASED_ON_UPLOADED_REFERENCE" } }, "rendering_parameters": { "sampler": "DPM++ 3M SDE Exponential", "steps": 40, "cfg_scale": 5.5, "denoising_strength": 0.35 } }
-```
-
-[Source](https://prompthero.com/prompt/ae75f155f75-nano-banana-nano-banana-2-taskconfiguration-tasktype-screensimulationphotorealism-targetmodel-sdxlrefiner-nano-banana-pro-compatible-aspectratio-34-resolution-width-1152-height-1536-promptassembly-positiveprompt-hyper-realistic)
-
----
-
 [1](illustrations.md) · **2**
 
 [← Home](../README.md)

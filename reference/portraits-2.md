@@ -150,22 +150,6 @@ By [@Ciri\_ai](https://x.com/Ciri_ai/status/2053535379618423118)
 
 ---
 
-<a id="freestylefly-case-437"></a>
-
-## 面部美学分析报告
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case437.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case437.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Create a clean, minimal, luxury-style facial aesthetics analysis report based on the uploaded portrait photo. Design style: Ultra-modern black and white interface, premium editorial aesthetic, thin elegant divider lines, soft rounded cards, subtle shadows, spacious layout, luxury skincare / fashion magazine vibe, monochrome palette, Apple-style UI refinement. Include: – A simple contour line-art drawing of the face based on the subject – Facial symmetry analysis – Face shape identification – Proportional analysis (eyes, nose, jawline, lips, forehead) – Skin texture observations – Hairstyle compatibility suggestions – Grooming and fashion recommendations – Honest attractiveness evaluation with balanced critique – Strengths and weaker facial areas explained objectively – Actionable glow-up recommendations – Confidence score and facial harmony score shown with elegant charts or meters Style notes: Keep the report data-driven, visually refined, realistic, and not overly flattering. Avoid exaggerated praise. Use clean typography, premium spacing, modern infographics, subtle geometric accents, and professional cosmetic consultation aesthetics. Visual composition: Magazine-quality presentation, luxury beauty report dashboard, highly organized layout, cinematic monochrome feel, minimalist infographic design, realistic facial structure interpretation, modern masculine beauty analytics. Rendering: Ultra-detailed, sharp UI design, realistic portrait adaptation, sophisticated editorial presentation, high-end branding aesthetic, 4K quality.
-```
-
-By [@saniaspeaks\_](https://x.com/saniaspeaks_/status/2055857787637522908)
-
----
-
 <a id="freestylefly-case-466"></a>
 
 ## 鱼市追猫 CCD 街拍
@@ -294,22 +278,6 @@ By [@jefharris](https://prompthero.com/prompt/30a5f508454-midjourney-6-neon-logo
 
 ---
 
-<a id="prompthero-43d0c01e73c"></a>
-
-## Oversized white sweatshirt, white purple oversized\.\.\.
-
-<a href="https://cdn.prompthero.com/v1_0e2bd59fe41ab9715ac65d2800-chatgpt-image-gpt-image-25-oversized-white-sweatshirt-white-purple-oversized-combat-jean-styled-with-footwear-white-purple-neutral-or-nike-sneakers-and-white-ribbed.jpeg"><img src="https://cdn.prompthero.com/v1_0e2bd59fe41ab9715ac65d2800-chatgpt-image-gpt-image-25-oversized-white-sweatshirt-white-purple-oversized-combat-jean-styled-with-footwear-white-purple-neutral-or-nike-sneakers-and-white-ribbed.jpeg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-Oversized white sweatshirt, white purple oversized combat jean, styled with footwear: white purple neutral or nike sneakers and white ribbed socks. Environment: muted white purple-toned studio background. Lighting: soft cinematic glow highlighting skin and fabric textures. Style: fashion editorial x futuristic. Composition: model seated elegantly with relaxed posture. In floor keep my face and body hair style 100% same as in reference Images.
-```
-
-By [@heymantransport](https://prompthero.com/prompt/43d0c01e73c-chatgpt-image-gpt-image-25-oversized-white-sweatshirt-white-purple-oversized-combat-jean-styled-with-footwear-white-purple-neutral-or-nike-sneakers-and-white-ribbed)
-
----
-
 <a id="prompthero-51e64d7f4aa"></a>
 
 ## \{ &quot;meta&quot;: \{ &quot;aspect\_ratio&quot;: &quot;4:5&quot;, &quot;qual\.\.\.
@@ -323,6 +291,38 @@ By [@heymantransport](https://prompthero.com/prompt/43d0c01e73c-chatgpt-image-gp
 ```
 
 [Source](https://prompthero.com/prompt/51e64d7f4aa-nano-banana-nano-banana-2-meta-aspectratio-45-quality-ultraphotorealistic-camera-iphone-15-pro-max-lens-24mm-wide-style-raw-iphone-outdoor-photography-natural-skin)
+
+---
+
+<a id="prompthero-74f3a22c103"></a>
+
+## Ultra-realistic cozy late-night bedroom selfie of \.\.\.
+
+<a href="https://cdn.prompthero.com/v1_3a26959ddcfd697aecb829acda-hero-10-ultra-realistic-cozy-late-night-bedroom-selfie-of-the-same-clearly-adult-woman-from-the-reference-image-preserving-her-facial.jpg"><img src="https://cdn.prompthero.com/v1_3a26959ddcfd697aecb829acda-hero-10-ultra-realistic-cozy-late-night-bedroom-selfie-of-the-same-clearly-adult-woman-from-the-reference-image-preserving-her-facial.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+Ultra-realistic cozy late-night bedroom selfie of the same clearly adult woman from the reference image, preserving her facial identity, distinctive facial features, hairstyle characteristics, and overall appearance. She is a young European woman with fair natural skin, expressive hazel-brown eyes, delicate features, subtle makeup, and dark brown hair loosely tied into a slightly messy high bun, with a few natural wispy strands framing her face. She looks directly into the camera with a calm, slightly sleepy late-night expression. She is sitting casually in a comfortable desk chair beside a {argument name="setting" default="modern gaming and study setup"}, wearing a {argument name="top" default="fitted white camisole"} with thin shoulder straps and a small cute embroidered character graphic, paired with {argument name="bottom" default="soft dusty-pink pajama pants"} featuring playful cartoon prints. One leg is casually lifted slightly toward the camera in a relaxed, natural pose, with realistic anatomy and proportions. The bedroom feels personal and lived-in rather than staged. Warm, dim nighttime illumination comes from a small desk lamp, the glow of dual monitors, and subtle ambient lighting. Behind her is a neatly unmade bed with neutral bedding and a dark plush cat pillow. A large window reveals a quiet nighttime city skyline with scattered apartment lights. The walls feature a curated mix of monochrome graphic art, indie illustrations, typography prints, sketches, and a few subtle gaming posters, creating a stylish contemporary bedroom aesthetic without resembling an anime-themed room. On the desk are two modern computer monitors, one showing a dark atmospheric game scene and the other displaying a realistic desktop interface, alongside a mechanical keyboard, mouse, half-finished iced coffee, instant noodles, headphones, and small everyday personal items. A digital clock on the wall shows a late-night hour. Shot as an authentic handheld smartphone selfie rather than a professional photoshoot. Natural skin pores and texture, realistic hair strands, subtle imperfections, accurate monitor reflections, soft low-light noise, gentle shadows, slightly imperfect framing, mild lens softness, realistic depth of field, believable indoor exposure, cinematic cozy atmosphere, photorealistic, highly detailed, natural proportions, contemporary European bedroom aesthetic, vertical 9:16 composition, 4K.
+```
+
+By [@karanamkrishna](https://prompthero.com/prompt/74f3a22c103-hero-10-ultra-realistic-cozy-late-night-bedroom-selfie-of-the-same-clearly-adult-woman-from-the-reference-image-preserving-her-facial)
+
+---
+
+<a id="prompthero-208fa32d7f2"></a>
+
+## create a full-body portrait prompt inspired by the\.\.\.
+
+<a href="https://cdn.prompthero.com/sgkd9lqtwikpbhd366fus455eonl-midjourney-6-create-a-full-body-portrait-prompt-inspired-by-the-uploaded-image-you-would-describe-a-male-model-in-a-dynamic.png"><img src="https://cdn.prompthero.com/sgkd9lqtwikpbhd366fus455eonl-midjourney-6-create-a-full-body-portrait-prompt-inspired-by-the-uploaded-image-you-would-describe-a-male-model-in-a-dynamic.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+create a full-body portrait prompt inspired by the uploaded image, you would describe a male model in a dynamic and confident pose. He stands straight, with his hands clasped behind his head, elbows wide, showcasing a relaxed yet powerful stance. He's dressed in a fitted black v-neck sweater and black trousers that accentuate his lean build. His expression is serene, with a slight, thoughtful furrow to his brow, adding depth to his gaze. The lighting is soft and directional, highlighting the contours of his face and the texture of his sweater. The background is a simple, uncluttered space that keeps the focus on him. For the camera settings, a black and white filter is applied to give the image a classic, timeless feel, with a sharp focus on the model from head to toe, excluding any color information. --style raw --v 6
+```
+
+By [@Grayve](https://prompthero.com/prompt/208fa32d7f2-midjourney-6-create-a-full-body-portrait-prompt-inspired-by-the-uploaded-image-you-would-describe-a-male-model-in-a-dynamic)
 
 ---
 

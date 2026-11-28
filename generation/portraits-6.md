@@ -1,58 +1,10 @@
 # portraits
 
-[← Home](../README.md) · Page 6 / 34
+[← Home](../README.md) · Page 6 / 33
 
-[1](portraits.md) · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · [5](portraits-5.md) · **6** · [7](portraits-7.md) · [8](portraits-8.md) · [9](portraits-9.md) · [10](portraits-10.md) · [11](portraits-11.md) · [12](portraits-12.md) · [13](portraits-13.md) · [14](portraits-14.md) · [15](portraits-15.md) · [16](portraits-16.md) · [17](portraits-17.md) · [18](portraits-18.md) · [19](portraits-19.md) · [20](portraits-20.md) · [21](portraits-21.md) · [22](portraits-22.md) · [23](portraits-23.md) · [24](portraits-24.md) · [25](portraits-25.md) · [26](portraits-26.md) · [27](portraits-27.md) · [28](portraits-28.md) · [29](portraits-29.md) · [30](portraits-30.md) · [31](portraits-31.md) · [32](portraits-32.md) · [33](portraits-33.md) · [34](portraits-34.md)
+[1](portraits.md) · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · [5](portraits-5.md) · **6** · [7](portraits-7.md) · [8](portraits-8.md) · [9](portraits-9.md) · [10](portraits-10.md) · [11](portraits-11.md) · [12](portraits-12.md) · [13](portraits-13.md) · [14](portraits-14.md) · [15](portraits-15.md) · [16](portraits-16.md) · [17](portraits-17.md) · [18](portraits-18.md) · [19](portraits-19.md) · [20](portraits-20.md) · [21](portraits-21.md) · [22](portraits-22.md) · [23](portraits-23.md) · [24](portraits-24.md) · [25](portraits-25.md) · [26](portraits-26.md) · [27](portraits-27.md) · [28](portraits-28.md) · [29](portraits-29.md) · [30](portraits-30.md) · [31](portraits-31.md) · [32](portraits-32.md) · [33](portraits-33.md)
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
-
-<a id="prompthero-0ebedbfc7c1"></a>
-
-## slimy,creepy female cyborg demons,different full b\.\.\.
-
-<a href="https://cdn.prompthero.com/zguh29ykkx3vqbuv0rrvyqch4lsb-stable-diffusion-xl-base-09-slimycreepy-female-cyborg-demonsdifferent-full-body-modelposition-high-detailed-cinematic-background-inspired-by-hr-gigerjean-ansell-and-justin-gerard-hplovecraft.jpg"><img src="https://cdn.prompthero.com/zguh29ykkx3vqbuv0rrvyqch4lsb-stable-diffusion-xl-base-09-slimycreepy-female-cyborg-demonsdifferent-full-body-modelposition-high-detailed-cinematic-background-inspired-by-hr-gigerjean-ansell-and-justin-gerard-hplovecraft.jpg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-slimy,creepy female cyborg demons,different full body modelposition, high detailed cinematic background ,inspired by H.R Giger,Jean Ansell and Justin Gerard, H.P.Lovecraft , Miki Asai Macro photography, close-up, hyper detailed, trending on artstation, sharp focus, studio photo, intricate details, highly detailed, by greg rutkowski
-```
-
-[Source](https://prompthero.com/prompt/0ebedbfc7c1-stable-diffusion-xl-base-09-slimycreepy-female-cyborg-demonsdifferent-full-body-modelposition-high-detailed-cinematic-background-inspired-by-hr-gigerjean-ansell-and-justin-gerard-hplovecraft)
-
----
-
-<a id="prompthero-0f1c1ead4e7"></a>
-
-## Cyberpunk Noir: A Glimpse of Futurism
-
-<a href="https://cdn.prompthero.com/6z5hx3rb94gr1ypmdt4clwltmg7p-midjourney-5-cyberpunk-noir-a-glimpse-of-futurism.jpeg"><img src="https://cdn.prompthero.com/6z5hx3rb94gr1ypmdt4clwltmg7p-midjourney-5-cyberpunk-noir-a-glimpse-of-futurism.jpeg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-Recommended aspect ratio: 21:9 Prompt: (masterpiece, high quality, realistic:1.2), cyberpunk woman, (black hair:1.2), wearing (black-red jacket:1.1), (nostalgic expression:1.1), (snowy cyberpunk city setting:1.2), (vivid neon lights:1.2), (detailed lighting contrast:1.1), (screens in background lighting:1.1), great attention to detail, (up close shot:1.1), (octane rendering:1.2), 8K resolution.
-```
-
-[Source](https://prompthero.com/prompt/0f1c1ead4e7-midjourney-5-cyberpunk-noir-a-glimpse-of-futurism)
-
----
-
-<a id="prompthero-0f3f87325d5"></a>
-
-## 2-stage comfyui workflow, Hybrid Models
-
-<a href="https://cdn.prompthero.com/cpctwmd03fs2yg2b0ijhj7ng8aot-juggernaut-xl-v9-rundiffusionphoto-2-2-stage-comfyui-workflow-hybrid-models.png"><img src="https://cdn.prompthero.com/cpctwmd03fs2yg2b0ijhj7ng8aot-juggernaut-xl-v9-rundiffusionphoto-2-2-stage-comfyui-workflow-hybrid-models.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-Full body shot portrait of a beautiful model, blue eyes, dancing, in blue batik casual shirt, black jeans, fashion shot, editorial, highly detailed, masterpiece, high contrast, mall indoor background
-```
-
-By [@JBlack16062205](https://prompthero.com/prompt/0f3f87325d5-juggernaut-xl-v9-rundiffusionphoto-2-2-stage-comfyui-workflow-hybrid-models)
-
----
 
 <a id="prompthero-0f7d08fb5d2"></a>
 
@@ -326,6 +278,54 @@ masterpiece, ultra realistic, harley quinn inspired girl, glowing pastel lightin
 
 ---
 
-[1](portraits.md) · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · [5](portraits-5.md) · **6** · [7](portraits-7.md) · [8](portraits-8.md) · [9](portraits-9.md) · [10](portraits-10.md) · [11](portraits-11.md) · [12](portraits-12.md) · [13](portraits-13.md) · [14](portraits-14.md) · [15](portraits-15.md) · [16](portraits-16.md) · [17](portraits-17.md) · [18](portraits-18.md) · [19](portraits-19.md) · [20](portraits-20.md) · [21](portraits-21.md) · [22](portraits-22.md) · [23](portraits-23.md) · [24](portraits-24.md) · [25](portraits-25.md) · [26](portraits-26.md) · [27](portraits-27.md) · [28](portraits-28.md) · [29](portraits-29.md) · [30](portraits-30.md) · [31](portraits-31.md) · [32](portraits-32.md) · [33](portraits-33.md) · [34](portraits-34.md)
+<a id="prompthero-2c82b674cf4"></a>
+
+## Yoga in a sunlit studio, a woman in a sports bra a\.\.\.
+
+<a href="https://cdn.prompthero.com/v1_20bd338c01f66036a9cb8ee6d0-seedream-5-seedream-45-yoga-in-a-sunlit-studio-a-woman-in-a-sports-bra-and-fitted-leggings-in-a-graceful-balance-pose-soft.jpg"><img src="https://cdn.prompthero.com/v1_20bd338c01f66036a9cb8ee6d0-seedream-5-seedream-45-yoga-in-a-sunlit-studio-a-woman-in-a-sports-bra-and-fitted-leggings-in-a-graceful-balance-pose-soft.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+Yoga in a sunlit studio, a woman in a sports bra and fitted leggings in a graceful balance pose, soft natural light
+```
+
+By [@tajs](https://prompthero.com/prompt/2c82b674cf4-seedream-5-seedream-45-yoga-in-a-sunlit-studio-a-woman-in-a-sports-bra-and-fitted-leggings-in-a-graceful-balance-pose-soft)
+
+---
+
+<a id="prompthero-2c0598ed6a0"></a>
+
+## Hyper realistic, photo realism, High Contrast, ins\.\.\.
+
+<a href="https://cdn.prompthero.com/yltl0l5rmcq33n11j152pybwxgl7-flux-flux-11-pro-ultra-hyper-realistic-photo-realism-high-contrast-insanely-detailed-and-intricate-elegant-ornate-super-detailed-zoomed-out-full-body-head-to.jpg"><img src="https://cdn.prompthero.com/yltl0l5rmcq33n11j152pybwxgl7-flux-flux-11-pro-ultra-hyper-realistic-photo-realism-high-contrast-insanely-detailed-and-intricate-elegant-ornate-super-detailed-zoomed-out-full-body-head-to.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+Hyper realistic, photo realism, High Contrast, insanely detailed and intricate, elegant, ornate, super detailed zoomed out full body head to toe view of a beautiful, female old west sheriff in an old western town. She is in a gun fight with two wanted outlaws. She has  her revolver drawn in her right hand and is shooting at the outlaws. She has killed one outlaw, he lays face down in the street. She has a stone cold and determined look on her face as she shoots the other outlaw. She has colorful Native American arm tattoos, blonde hair with bangs, dark blue eyes framed by long, elegant eyelashes and ornate eyeshadow that compliments her eyes. She wears a Black Stetson with the brim level just above her eyes her eyes, her hair is blowing in the breeze. She is wearing Mexican style poncho with a sheriff's badge, and a ragged mini shirt. She is wearing an ornate gold and onyx belt and choker, and dusty square toed cowboy boots with silver spurs. The street is dark, there are dim lanterns along the buildings casting dim light. it is night time, there are dark clouds rolling in on the night sky on the Reddish Orange sunset in the background. No poorly formed fingers, no extra arms, no extra legs, no extra fingers, no poorly formed hands, no poorly drawn body, no poorly drawn teeth, no bad anatomy.
+```
+
+[Source](https://prompthero.com/prompt/2c0598ed6a0-flux-flux-11-pro-ultra-hyper-realistic-photo-realism-high-contrast-insanely-detailed-and-intricate-elegant-ornate-super-detailed-zoomed-out-full-body-head-to)
+
+---
+
+<a id="prompthero-2c7422be306"></a>
+
+## masterpiece, perfect anatomy, 32k UHD resolution, \.\.\.
+
+<a href="https://cdn.prompthero.com/m53mo0ll0tgryshqlrrwcvhqkq37-stable-diffusion-xl-base-09-masterpiece-perfect-anatomy-32k-uhd-resolution-best-quality-raw-vibrant-vivid-color-realistic-photo-professional-photography-highly-details-depth-of.jpg"><img src="https://cdn.prompthero.com/m53mo0ll0tgryshqlrrwcvhqkq37-stable-diffusion-xl-base-09-masterpiece-perfect-anatomy-32k-uhd-resolution-best-quality-raw-vibrant-vivid-color-realistic-photo-professional-photography-highly-details-depth-of.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+masterpiece, perfect anatomy, 32k UHD resolution, best quality, RAW, vibrant, vivid color, realistic photo, professional photography, highly details, depth of field, cyberpunk style, Fractal, Biomech Cyberpunk Skull Ankle Boots, female, glowing Crystal Clear Cascade, extreme close up, <lora:add-detail-xl:1. 0>
+```
+
+[Source](https://prompthero.com/prompt/2c7422be306-stable-diffusion-xl-base-09-masterpiece-perfect-anatomy-32k-uhd-resolution-best-quality-raw-vibrant-vivid-color-realistic-photo-professional-photography-highly-details-depth-of)
+
+---
+
+[1](portraits.md) · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · [5](portraits-5.md) · **6** · [7](portraits-7.md) · [8](portraits-8.md) · [9](portraits-9.md) · [10](portraits-10.md) · [11](portraits-11.md) · [12](portraits-12.md) · [13](portraits-13.md) · [14](portraits-14.md) · [15](portraits-15.md) · [16](portraits-16.md) · [17](portraits-17.md) · [18](portraits-18.md) · [19](portraits-19.md) · [20](portraits-20.md) · [21](portraits-21.md) · [22](portraits-22.md) · [23](portraits-23.md) · [24](portraits-24.md) · [25](portraits-25.md) · [26](portraits-26.md) · [27](portraits-27.md) · [28](portraits-28.md) · [29](portraits-29.md) · [30](portraits-30.md) · [31](portraits-31.md) · [32](portraits-32.md) · [33](portraits-33.md)
 
 [← Home](../README.md)

@@ -22,38 +22,6 @@ By [@DeepBlueX0](https://x.com/DeepBlueX0/status/2100184573376381181)
 
 ---
 
-<a id="freestylefly-case-54"></a>
-
-## 人物角色设定图
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case54.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case54.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-{ "type": "4-panel satirical product advertisement grid", "layout": { "grid": "2x2", "panels": [ { "position": "top-left", "product_name": "{argument name=\"top left product name\" default=\"座る石\"}", "visual": "man in white shirt and dark pants sitting on a large round stone in a park", "catchphrase": "いつでも、どこでも、落ち着ける。", "sales_badge": "累計販売数 12,000個 突破!", "vertical_text": "公園のベンチが埋まっていた日に。", "features_count": 3, "features_labels": [ "重さ約8kgで安定感抜群", "底面フェルト加工で傷つけにくい", "付属の専用ベルトで持ち運び簡単" ], "extra_visual": "small inset image of the stone with a leather carrying strap", "specs": [ "耐荷重 150kg", "安心の日本製" ] }, { "position": "top-right", "product_name": "{argument name=\"top right product name\" default=\"磨きたくない人の歯ブラシ\"}", "visual": "sleek light blue toothbrush angled diagonally on a dark blue background", "toothbrush_text": "I don't want to brush my yeeth.", "catchphrase": "持っているだけで安心感", "vertical_text": "歯を磨く代わりに、これを持つ。", "sales_badge": "シリーズ累計販売数 85,000本 突破!", "features_count": 3, "features_labels": [ "気持ちを落ち着けるお守り代わりに", "会議や商談前のエチケットに", "磨かない選択を、もっと自由に。" ], "bottom_banner": "歯磨きストレスから、あなたを解放する。" }, { "position": "bottom-left", "product_name": "{argument name=\"bottom left product name\" default=\"雲の貯金箱\"}", "visual": "hand inserting a coin into a fluffy white cloud-shaped piggy bank", "catchphrase": "空気より軽い、安心感。", "sales_badge": "累計販売数 23,567個 突破!", "features_count": 3, "features_labels": [ "ふわふわの触り心地", "割れないから安心", "インテリアに馴染むデザイン" ], "color_variants_count": 3, "color_variants_labels": [ "blue", "pink", "white" ], "price": "¥2,980 (税込)", "bottom_text": "今日から、空に向かってコツコツ貯めよう。" }, { "position": "bottom-right", "product_name": "{argument name=\"bottom right product name\" default=\"叱ってくれる石\"}", "visual": "round stone on a wooden desk with a pen, text written on the stone", "stone_text": "{argument name=\"scolding phrase\" default=\"いいかげんやれ\"}", "catchphrase": "やる気が出ないあなたへ。", "sales_badge": "累計販売数 18,000個 突破!", "features_count": 3, "features_labels": [ "見るたびに心を奮い立たせる", "厳選された言葉をランダム表示", "電池不要、半永久的に叱ってくれる" ], "phrase_variants_count": 10, "phrase_variants_labels": [ "甘えるな", "考えるな", "動け", "現実を見ろ", "逃げるな", "寝るな", "やればできる", "お前ならできる", "寝るな", "もう言い訳するな" ], "price": "¥3,500 (税込)" } ] } }
-```
-
-By [@fukumy\_ai](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-54)
-
----
-
-<a id="freestylefly-case-60"></a>
-
-## 漫画分镜叙事设计
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case60.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case60.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-{ "type": "5-panel collage", "layout": "grid with 3 top panels and 2 bottom panels", "panels": [ { "position": "top-left", "subject": "analog clock", "details": "teal background, time showing {argument name=\"clock time\" default=\"7:42\"}", "style": "flat vector illustration" }, { "position": "top-middle", "subject": "woman holding playing cards", "details": "holding 5 cards: {argument name=\"card hand\" default=\"Ace of Spades, King of Hearts, Queen of Clubs, Jack of Diamonds, 10 of Spades\"}", "style": "classic oil painting portrait" }, { "position": "top-right", "subject": "glass of red liquid", "details": "{argument name=\"glass type\" default=\"wine glass\"} filled to the brim with dark red liquid, marble surface", "style": "photorealistic studio photography" }, { "position": "bottom-left", "subject": "chessboard", "details": "wooden board with 32 pieces in standard starting position", "style": "photorealistic high-angle shot" }, { "position": "bottom-right", "subject": "two dice", "details": "left die shows {argument name=\"left die top\" default=\"5\"} on top, right die shows {argument name=\"right die top\" default=\"2\"} on top", "style": "pop art comic book halftone with red and blue burst" } ] }
-```
-
-By [@Gc\_qube](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-60)
-
----
-
 <a id="freestylefly-case-114"></a>
 
 ## 插画艺术创作图
@@ -115,22 +83,6 @@ By [@gamemangaanime](https://github.com/freestylefly/awesome-gpt-image-2/blob/09
 ```
 
 By [@loilokoji](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-121)
-
----
-
-<a id="freestylefly-case-132"></a>
-
-## 界面交互设计图
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case132.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case132.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-{ "type": "18-panel brand identity and character design document", "brand": { "name": "{argument name=\"brand name\" default=\"沐阳 MUYANG TEA\"}", "industry": "{argument name=\"industry\" default=\"tea shop\"}", "colors": ["{argument name=\"primary color\" default=\"yellow\"}", "{argument name=\"secondary color\" default=\"green\"}", "white", "brown", "dark green"] }, "subject": "{argument name=\"character description\" default=\"3D rendered cute Shiba Inu mascot wearing a green apron\"}", "layout": { "grid": "3 columns by 6 rows", "sections": [ { "title": "01 品牌DNA分析 / BRAND DNA ANALYSIS", "elements": ["logo", "5 color swatches", "6 icons", "target audience charts"] }, { "title": "02 概念构思 / CONCEPT MOODBOARD", "elements": ["5 photo references", "4 mood icons", "design equation"] }, { "title": "03 形态研究 / FORM STUDY", "elements": ["4 logo anatomy icons", "4 evolution steps", "4 silhouettes"] }, { "title": "04 概念探索 / CONCEPT EXPLORATION", "elements": ["12 line-art character sketches"] }, { "title": "05 精细线稿 / REFINED LINE ART", "elements": ["3 rows of front and side line art with proportion guides"] }, { "title": "06 细节精修 / DETAIL REFINEMENT", "elements": ["2 full-body renders with labels", "4 circular close-ups"] }, { "title": "07 表情设定 / EXPRESSION SHEET", "elements": ["11 3D rendered head expressions"] }, { "title": "08 姿势库 / POSE LIBRARY", "elements": ["9 full-body 3D rendered poses"] }, { "title": "09 转身视图 / TURNAROUND VIEW", "elements": ["5 full-body 3D renders", "5 matching line-art views"] }, { "title": "10 色彩开发 / COLOR DEVELOPMENT", "elements": ["5 rows of 5-color palettes", "color psychology text"] }, { "title": "11 材质规格 / MATERIAL SPECIFICATION", "elements": ["5 texture swatches", "property sliders", "4 manufacturing icons"] }, { "title": "12 色彩应用 / COLOR APPLICATION", "elements": ["4 color variant renders", "2 light/dark renders", "4 contrast rating circles"] }, { "title": "13 构造指南 / CONSTRUCTION GUIDE", "elements": ["2 line-art diagrams for geometry and grid"] }, { "title": "14 设计系统规则 / DESIGN SYSTEM RULES", "elements": ["minimum size icons", "clear space diagram", "4 usage examples"] }, { "title": "15 资产变体 / ASSET VARIANTS", "elements": ["3 size variants", "3 line-art variants", "3 simplified flat heads"] }, { "title": "16 数字应用 / DIGITAL APPLICATIONS", "elements": ["1 app icon", "2 social avatars", "UI elements", "3-step animation cycle"] }, { "title": "17 实物应用 / PHYSICAL APPLICATIONS", "elements": ["plush toy mockup", "packaging mockup", "merchandise mockup", "storefront mockup"] }, { "title": "18 最终主视觉 / FINAL RENDERING", "elements": ["large high-res 3D render of mascot holding tea", "logo", "file format list"] } ] } }
-```
-
-By [@Colin\_Leeee](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-132)
 
 ---
 

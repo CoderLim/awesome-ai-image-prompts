@@ -38,7 +38,29 @@ for(const r of queue){
 candidates.push(...readLocalReviewQueues(root,known));
 const all=[...catalog,...candidates],display=[...published,...candidates];
 const displayIds=new Set(display.map(r=>r.id));
+const mediaRoot=path.join(root,'data','media');
 const safeUrl=s=>{try{const u=new URL(s);return u.protocol==='https:'&&!u.username&&!u.password?u.href:null;}catch{return null;}};
+/** Prefer checkout-local files for in-repo media so unpushed owner examples still preview. */
+function localMediaHref(url){
+ try{
+  const u=new URL(url);
+  if(u.protocol!=='https:'||u.hostname!=='raw.githubusercontent.com')return null;
+  const parts=u.pathname.split('/').filter(Boolean);
+  if(parts.length<4)return null;
+  const rel=parts.slice(3).join('/');
+  if(!rel.startsWith('data/media/'))return null;
+  const abs=path.resolve(root,rel);
+  if(abs!==mediaRoot&&!abs.startsWith(mediaRoot+path.sep))return null;
+  if(!fs.existsSync(abs)||!fs.statSync(abs).isFile())return null;
+  return '/local-media/'+rel.slice('data/media/'.length).split('/').map(encodeURIComponent).join('/');
+ }catch{return null;}
+}
+function reviewImageSrc(url){
+ const remote=safeUrl(url);
+ if(!remote)return null;
+ return localMediaHref(remote)||remote;
+}
+const mediaTypes={'.jpg':'image/jpeg','.jpeg':'image/jpeg','.png':'image/png','.webp':'image/webp','.gif':'image/gif','.avif':'image/avif','.svg':'image/svg+xml'};
 const importTimes=firstImportTimes(root,new Set(published.map(r=>r.id)));
 const cards=sortReviewCards(display.map(r=>{
  const images=r.sourcePreview.images.filter(m=>m.role!=='input');
@@ -46,7 +68,7 @@ const cards=sortReviewCards(display.map(r=>{
  const source=r.provenance.collectedFrom[0];
  return {id:r.id,title:r.title.en||r.title.zh||r.id,category:r.category,inputMode:r.inputMode,source:source.sourceId,
   model:r.sourceMeta?.model||r.models?.map(x=>typeof x==='string'?x:x.name||x.id).filter(Boolean).join(', ')||'Unknown',
-  candidate:!!r.candidate,images:[...new Set(ranked.map(m=>safeUrl(m.url)).filter(Boolean))],
+  candidate:!!r.candidate,images:[...new Set(ranked.map(m=>reviewImageSrc(m.url)).filter(Boolean))],
   sourceUrl:safeUrl(r.provenance.originalSource.url||source.url),author:r.provenance.originalSource.author||null,
   prompt:r.prompt.original,reviewTime:reviewTime(r,importTimes)};
 }));
@@ -58,13 +80,27 @@ function state(){
  return {entries,featured,revision:revision({entries,featured}),excluded:Object.fromEntries([...matched].filter(([id])=>displayIds.has(id)))};
 }
 function send(res,status,value,contentType='application/json'){
- res.writeHead(status,{'Content-Type':contentType+'; charset=utf-8','Cache-Control':'no-store','X-Content-Type-Options':'nosniff','Referrer-Policy':'no-referrer','Content-Security-Policy':"default-src 'none'; img-src https: data:; style-src 'unsafe-inline'; script-src 'unsafe-inline'; connect-src 'self'; frame-ancestors 'none'; base-uri 'none'; form-action 'none'"});
+ res.writeHead(status,{'Content-Type':contentType+'; charset=utf-8','Cache-Control':'no-store','X-Content-Type-Options':'nosniff','Referrer-Policy':'no-referrer','Content-Security-Policy':"default-src 'none'; img-src 'self' https: data:; style-src 'unsafe-inline'; script-src 'unsafe-inline'; connect-src 'self'; frame-ancestors 'none'; base-uri 'none'; form-action 'none'"});
  res.end(contentType==='application/json'?JSON.stringify(value):value);
+}
+function sendLocalMedia(res,reqUrl){
+ const encoded=reqUrl.slice('/local-media/'.length).split('?')[0];
+ let rel;
+ try{rel=decodeURIComponent(encoded);}catch{send(res,400,{error:'Invalid local media path'});return;}
+ if(!rel||rel.includes('\0')||path.isAbsolute(rel)||rel.split(/[\\/]/).includes('..')){send(res,400,{error:'Invalid local media path'});return;}
+ const abs=path.resolve(mediaRoot,rel);
+ if(abs!==mediaRoot&&!abs.startsWith(mediaRoot+path.sep)){send(res,403,{error:'Forbidden'});return;}
+ if(!fs.existsSync(abs)||!fs.statSync(abs).isFile()){send(res,404,{error:'Not found'});return;}
+ const type=mediaTypes[path.extname(abs).toLowerCase()];
+ if(!type){send(res,415,{error:'Unsupported media type'});return;}
+ res.writeHead(200,{'Content-Type':type,'Cache-Control':'no-store','X-Content-Type-Options':'nosniff','Referrer-Policy':'no-referrer'});
+ fs.createReadStream(abs).pipe(res);
 }
 const server=http.createServer(async(req,res)=>{
  try{
   if(req.headers.host!==host){send(res,403,{error:'Invalid host; use the printed URL'});return;}
   if(req.method==='GET'&&req.url==='/'){send(res,200,html.replace('__REVIEW_TOKEN__',token),'text/html');return;}
+  if(req.method==='GET'&&req.url?.startsWith('/local-media/')){sendLocalMedia(res,req.url);return;}
   if(req.method==='GET'&&req.url==='/api/data'){send(res,200,{cards,...state()});return;}
   if(req.method==='GET'&&req.url==='/api/state'){send(res,200,state());return;}
   if(req.method==='POST'&&req.url==='/api/review'){

@@ -1,8 +1,8 @@
 # posters
 
-[← Home](../README.md) · Page 1 / 7
+[← Home](../README.md) · Page 1 / 6
 
-**1** · [2](posters-2.md) · [3](posters-3.md) · [4](posters-4.md) · [5](posters-5.md) · [6](posters-6.md) · [7](posters-7.md)
+**1** · [2](posters-2.md) · [3](posters-3.md) · [4](posters-4.md) · [5](posters-5.md) · [6](posters-6.md)
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
@@ -310,22 +310,22 @@ By [@mehwishkiran07](https://x.com/mehwishkiran07/status/2100787012529975424)
 
 ---
 
-<a id="freestylefly-case-3"></a>
+<a id="freestylefly-case-5"></a>
 
-## 足球主题电影海报
+## 主题海报版式设计
 
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case3.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case3.jpg" width="480" alt="Source example"></a>
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case5.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case5.jpg" width="480" alt="Source example"></a>
 
 **Prompt**
 
 ```text
-生成一张「足球主题电影海报」风格的高清写真海报：国际米兰后卫巴斯托尼站在圣西罗球场中央激情庆祝，双手高举并披着波黑国旗，神情热血、坚定、自信，现场灯光璀璨，球场看台座无虚席，背景有蓝黑色烟雾、聚光灯、飘扬的旗帜和飞舞的纸屑，营造欧冠之夜般的史诗氛围。人物为画面核心，半身到全身构图，突出脸部细节、肌肉张力与球衣质感。整体风格写实、震撼、富有戏剧性，海报级构图，电影感光影，高对比度，超清细节，8K，专业体育摄影，极具视觉冲击力。五根手指。
+根据【XXX主题】自动生成一张收藏版史诗叙事海报：巨大优雅的人物侧脸剪影作为外轮廓，剪影内部自动生长出最契合该主题的完整世界观、标志性场景、角色关系、象征符号、关键建筑、生物、道具与氛围。整体不是普通拼贴，而是高级的剪影轮廓填充式叙事合成，带有双重曝光式联想，但更偏电影海报与梦幻水彩插画融合风格；柔和空气透视，轻雾化过渡，纸张颗粒，边缘飞白与刷痕，大面积留白，版式克制高级，安静、宏大、神圣、怀旧、诗意、传说感强。风格、色彩、场景、材质全部根据主题自动适配，所有元素必须强绑定主题，一眼识别，不要杂乱，不要硬拼贴，不要模板化背景，不要廉价奇幻素材。画面中需自然加入专属签名“WHY”，作为海报设计的一部分，位置低调但清晰，可放在左下角、右下角或标题附近，风格需与整体版式统一，像收藏版海报的作者落款或设计签章；签名字体精致、克制、高级，不可过大，不可破坏主体构图，不可显得突兀廉价。
 ```
 
-[Source](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-3)
+By [小红书号6455654397](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-5)
 
 ---
 
-**1** · [2](posters-2.md) · [3](posters-3.md) · [4](posters-4.md) · [5](posters-5.md) · [6](posters-6.md) · [7](posters-7.md)
+**1** · [2](posters-2.md) · [3](posters-3.md) · [4](posters-4.md) · [5](posters-5.md) · [6](posters-6.md)
 
 [← Home](../README.md)

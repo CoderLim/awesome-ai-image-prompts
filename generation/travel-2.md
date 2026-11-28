@@ -6,38 +6,6 @@
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
-<a id="prompthero-0e300d1c33b"></a>
-
-## scenic view landscape cyberpunk city of highly det\.\.\.
-
-<a href="https://cdn.prompthero.com/729cw0maqgzi96o6vs68g2itft3c-stable-diffusion-21-768-scenic-view-landscape-cyberpunk-city-of-highly-detailed-water-color-pastel-mix-ultra-realistic-robotic-dog-hyperdetailed-full-body-visible.jpg"><img src="https://cdn.prompthero.com/729cw0maqgzi96o6vs68g2itft3c-stable-diffusion-21-768-scenic-view-landscape-cyberpunk-city-of-highly-detailed-water-color-pastel-mix-ultra-realistic-robotic-dog-hyperdetailed-full-body-visible.jpg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-scenic view landscape cyberpunk city of highly detailed water color pastel mix ultra realistic, robotic dog, hyperdetailed full body visible, looking from below
-```
-
-[Source](https://prompthero.com/prompt/0e300d1c33b-stable-diffusion-21-768-scenic-view-landscape-cyberpunk-city-of-highly-detailed-water-color-pastel-mix-ultra-realistic-robotic-dog-hyperdetailed-full-body-visible)
-
----
-
-<a id="prompthero-1b9ce410a6c"></a>
-
-## cinematic seascape, warm color grading, long-lens \.\.\.
-
-<a href="https://cdn.prompthero.com/m4n05u4o7cwbdqsrponsny9ctiqw-midjourney-7-cinematic-seascape-warm-color-grading-long-lens-compression-straight-horizon-large-sun-near-upper-third-low-vantage-from-wet-sand.png"><img src="https://cdn.prompthero.com/m4n05u4o7cwbdqsrponsny9ctiqw-midjourney-7-cinematic-seascape-warm-color-grading-long-lens-compression-straight-horizon-large-sun-near-upper-third-low-vantage-from-wet-sand.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-cinematic seascape, warm color grading, long-lens compression, straight horizon, large sun near upper third, low vantage from wet sand, gentle shoreline leading lines, full-frame mirrorless, 200-300mm telephoto lens, f/4, 1/800s, ISO100, single-point AF on subject, slight background motion blur on waves, woman seated on a folding beach chair, side-profile silhouette, windswept hair in sea breeze, relaxed posture, subtle rim light on edges, ocean shore with breaking surf and reflective wet sand, sun color bleeding on wet sand, intense orange-red golden-hour backlight, soft atmospheric haze, crisp horizon, delicate water-droplet bokeh, vermilion-to-amber sky gradient --ar 9:16 --raw --stylize 200
-```
-
-By [@Grayve](https://prompthero.com/prompt/1b9ce410a6c-midjourney-7-cinematic-seascape-warm-color-grading-long-lens-compression-straight-horizon-large-sun-near-upper-third-low-vantage-from-wet-sand)
-
----
-
 <a id="prompthero-3cec4ee8308"></a>
 
 ## A small bird perched on a branch, rain falling sof\.\.\.
@@ -323,6 +291,38 @@ stunning fiminine body, commercial image, Gal Gadot | holographic photography sh
 ```
 
 [Source](https://prompthero.com/prompt/028882f3235-midjourney-5-stunning-fiminine-body-commercial-image-gal-gadot-holographic-photography-shoots-in-the-style-of-vanessa-kirby-daz3d-street-pop-luminous)
+
+---
+
+<a id="prompthero-79812e8afe4"></a>
+
+## Black and white street photography of an attractiv\.\.\.
+
+<a href="https://cdn.prompthero.com/u1ped2ze935n93hm71qfm5x8l8lw-midjourney-6-black-and-white-street-photography-of-an-attractive-woman-on-the-streets-of-london-shot-by-arriflex-35-bl-camera.png"><img src="https://cdn.prompthero.com/u1ped2ze935n93hm71qfm5x8l8lw-midjourney-6-black-and-white-street-photography-of-an-attractive-woman-on-the-streets-of-london-shot-by-arriflex-35-bl-camera.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+Black and white street photography of an attractive woman on the streets of London, shot by arriflex 35 BL Camera Canon K35 Prime Lenses --chaos 75 --ar 1:2 --personalize yruxpc2 --stylize 750 --v 6.1
+```
+
+By [@NorthmoorAI](https://prompthero.com/prompt/79812e8afe4-midjourney-6-black-and-white-street-photography-of-an-attractive-woman-on-the-streets-of-london-shot-by-arriflex-35-bl-camera)
+
+---
+
+<a id="prompthero-289466f3660"></a>
+
+## minimalist sci-fi, solitary figure in tattered clo\.\.\.
+
+<a href="https://cdn.prompthero.com/dzg81p661t20xg19f1wxlw3razdm-flux-flux-11-pro-ultra-minimalist-sci-fi-solitary-figure-in-tattered-cloak-stands-atop-barren-hill-holding-glowing-energy-staff-silhouetted-against-vast-starfield.png"><img src="https://cdn.prompthero.com/dzg81p661t20xg19f1wxlw3razdm-flux-flux-11-pro-ultra-minimalist-sci-fi-solitary-figure-in-tattered-cloak-stands-atop-barren-hill-holding-glowing-energy-staff-silhouetted-against-vast-starfield.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+minimalist sci-fi, solitary figure in tattered cloak stands atop barren hill, holding glowing energy staff, silhouetted against vast starfield, empty planet surface stretches to horizon, single figure centered, stark landscape, expansive sky, stark contrasts, clean lines, negative space, minimalism, wide angle view, distant stars and nebulae in background, rocky outcropping and figure in foreground, night, thin hazy atmosphere, foreboding mood, rim lighting blue and white stark shadows lighting, monochromatic color palette
+```
+
+[Source](https://prompthero.com/prompt/289466f3660-flux-flux-11-pro-ultra-minimalist-sci-fi-solitary-figure-in-tattered-cloak-stands-atop-barren-hill-holding-glowing-energy-staff-silhouetted-against-vast-starfield)
 
 ---
 

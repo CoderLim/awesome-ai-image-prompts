@@ -1,58 +1,10 @@
 # portraits
 
-[← Home](../README.md) · Page 7 / 34
+[← Home](../README.md) · Page 7 / 33
 
-[1](portraits.md) · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · [5](portraits-5.md) · [6](portraits-6.md) · **7** · [8](portraits-8.md) · [9](portraits-9.md) · [10](portraits-10.md) · [11](portraits-11.md) · [12](portraits-12.md) · [13](portraits-13.md) · [14](portraits-14.md) · [15](portraits-15.md) · [16](portraits-16.md) · [17](portraits-17.md) · [18](portraits-18.md) · [19](portraits-19.md) · [20](portraits-20.md) · [21](portraits-21.md) · [22](portraits-22.md) · [23](portraits-23.md) · [24](portraits-24.md) · [25](portraits-25.md) · [26](portraits-26.md) · [27](portraits-27.md) · [28](portraits-28.md) · [29](portraits-29.md) · [30](portraits-30.md) · [31](portraits-31.md) · [32](portraits-32.md) · [33](portraits-33.md) · [34](portraits-34.md)
+[1](portraits.md) · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · [5](portraits-5.md) · [6](portraits-6.md) · **7** · [8](portraits-8.md) · [9](portraits-9.md) · [10](portraits-10.md) · [11](portraits-11.md) · [12](portraits-12.md) · [13](portraits-13.md) · [14](portraits-14.md) · [15](portraits-15.md) · [16](portraits-16.md) · [17](portraits-17.md) · [18](portraits-18.md) · [19](portraits-19.md) · [20](portraits-20.md) · [21](portraits-21.md) · [22](portraits-22.md) · [23](portraits-23.md) · [24](portraits-24.md) · [25](portraits-25.md) · [26](portraits-26.md) · [27](portraits-27.md) · [28](portraits-28.md) · [29](portraits-29.md) · [30](portraits-30.md) · [31](portraits-31.md) · [32](portraits-32.md) · [33](portraits-33.md)
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
-
-<a id="prompthero-2c82b674cf4"></a>
-
-## Yoga in a sunlit studio, a woman in a sports bra a\.\.\.
-
-<a href="https://cdn.prompthero.com/v1_20bd338c01f66036a9cb8ee6d0-seedream-5-seedream-45-yoga-in-a-sunlit-studio-a-woman-in-a-sports-bra-and-fitted-leggings-in-a-graceful-balance-pose-soft.jpg"><img src="https://cdn.prompthero.com/v1_20bd338c01f66036a9cb8ee6d0-seedream-5-seedream-45-yoga-in-a-sunlit-studio-a-woman-in-a-sports-bra-and-fitted-leggings-in-a-graceful-balance-pose-soft.jpg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-Yoga in a sunlit studio, a woman in a sports bra and fitted leggings in a graceful balance pose, soft natural light
-```
-
-By [@tajs](https://prompthero.com/prompt/2c82b674cf4-seedream-5-seedream-45-yoga-in-a-sunlit-studio-a-woman-in-a-sports-bra-and-fitted-leggings-in-a-graceful-balance-pose-soft)
-
----
-
-<a id="prompthero-2c0598ed6a0"></a>
-
-## Hyper realistic, photo realism, High Contrast, ins\.\.\.
-
-<a href="https://cdn.prompthero.com/yltl0l5rmcq33n11j152pybwxgl7-flux-flux-11-pro-ultra-hyper-realistic-photo-realism-high-contrast-insanely-detailed-and-intricate-elegant-ornate-super-detailed-zoomed-out-full-body-head-to.jpg"><img src="https://cdn.prompthero.com/yltl0l5rmcq33n11j152pybwxgl7-flux-flux-11-pro-ultra-hyper-realistic-photo-realism-high-contrast-insanely-detailed-and-intricate-elegant-ornate-super-detailed-zoomed-out-full-body-head-to.jpg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-Hyper realistic, photo realism, High Contrast, insanely detailed and intricate, elegant, ornate, super detailed zoomed out full body head to toe view of a beautiful, female old west sheriff in an old western town. She is in a gun fight with two wanted outlaws. She has  her revolver drawn in her right hand and is shooting at the outlaws. She has killed one outlaw, he lays face down in the street. She has a stone cold and determined look on her face as she shoots the other outlaw. She has colorful Native American arm tattoos, blonde hair with bangs, dark blue eyes framed by long, elegant eyelashes and ornate eyeshadow that compliments her eyes. She wears a Black Stetson with the brim level just above her eyes her eyes, her hair is blowing in the breeze. She is wearing Mexican style poncho with a sheriff's badge, and a ragged mini shirt. She is wearing an ornate gold and onyx belt and choker, and dusty square toed cowboy boots with silver spurs. The street is dark, there are dim lanterns along the buildings casting dim light. it is night time, there are dark clouds rolling in on the night sky on the Reddish Orange sunset in the background. No poorly formed fingers, no extra arms, no extra legs, no extra fingers, no poorly formed hands, no poorly drawn body, no poorly drawn teeth, no bad anatomy.
-```
-
-[Source](https://prompthero.com/prompt/2c0598ed6a0-flux-flux-11-pro-ultra-hyper-realistic-photo-realism-high-contrast-insanely-detailed-and-intricate-elegant-ornate-super-detailed-zoomed-out-full-body-head-to)
-
----
-
-<a id="prompthero-2c7422be306"></a>
-
-## masterpiece, perfect anatomy, 32k UHD resolution, \.\.\.
-
-<a href="https://cdn.prompthero.com/m53mo0ll0tgryshqlrrwcvhqkq37-stable-diffusion-xl-base-09-masterpiece-perfect-anatomy-32k-uhd-resolution-best-quality-raw-vibrant-vivid-color-realistic-photo-professional-photography-highly-details-depth-of.jpg"><img src="https://cdn.prompthero.com/m53mo0ll0tgryshqlrrwcvhqkq37-stable-diffusion-xl-base-09-masterpiece-perfect-anatomy-32k-uhd-resolution-best-quality-raw-vibrant-vivid-color-realistic-photo-professional-photography-highly-details-depth-of.jpg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-masterpiece, perfect anatomy, 32k UHD resolution, best quality, RAW, vibrant, vivid color, realistic photo, professional photography, highly details, depth of field, cyberpunk style, Fractal, Biomech Cyberpunk Skull Ankle Boots, female, glowing Crystal Clear Cascade, extreme close up, <lora:add-detail-xl:1. 0>
-```
-
-[Source](https://prompthero.com/prompt/2c7422be306-stable-diffusion-xl-base-09-masterpiece-perfect-anatomy-32k-uhd-resolution-best-quality-raw-vibrant-vivid-color-realistic-photo-professional-photography-highly-details-depth-of)
-
----
 
 <a id="prompthero-2c9106f9180"></a>
 
@@ -67,22 +19,6 @@ Close-up portrait of mix of European lady, floral printed clothing, extremely hi
 ```
 
 By [@abyishot](https://prompthero.com/prompt/2c9106f9180-stable-diffusion-15-kelly-kelly-is-a-beautiful-and-down-to-earth-mix-race-european-lady-with-a-deep-connection-to-the-countryside-raised-close-up-portrait-of-mix-of-european-lady-floral-printed-clothing-extremely-high-quality-photograph-outdoor-background-intricate-exquisite-details)
-
----
-
-<a id="prompthero-2c881805471"></a>
-
-## Celestial punk
-
-<a href="https://cdn.prompthero.com/xlml9030e555lex6ykhvbwwogioh-midjourney-6-celestial-punk.png"><img src="https://cdn.prompthero.com/xlml9030e555lex6ykhvbwwogioh-midjourney-6-celestial-punk.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-photo portrait of a woman wearing a skull and bone mask, in the style of rose gold and white, looking at camera, frontal vogue style, dreamy symbolism, celestialpunk, baroque-inspired details, tan skin, fashion editorial, canon 50mm 1.2L, ultra details --ar 4:5 --style raw --stylize 50 --v 6.0
-```
-
-By [@jefharris](https://prompthero.com/prompt/2c881805471-midjourney-6-celestial-punk)
 
 ---
 
@@ -131,22 +67,6 @@ A hyperrealistic close-up portrait of a woman bathed in warm, soft afternoon lig
 ```
 
 [Source](https://prompthero.com/prompt/02d2d01138c-flux-flux-11-pro-ultra-a-hyperrealistic-close-up-portrait-of-a-woman-bathed-in-warm-soft-afternoon-light-streaming-through-vintage-venetian-blinds-creating)
-
----
-
-<a id="prompthero-2eeaa248571"></a>
-
-## Photography, high aerial view, korean model, stand\.\.\.
-
-<a href="https://cdn.prompthero.com/qzbqv2ss53whek0v7dpadrvewfcj-midjourney-6-photography-high-aerial-view-korean-model-standing-on-massive-a-complicated-crosswalk-center-inspired-by-shibuya-scramble-stare-into-the.jpeg"><img src="https://cdn.prompthero.com/qzbqv2ss53whek0v7dpadrvewfcj-midjourney-6-photography-high-aerial-view-korean-model-standing-on-massive-a-complicated-crosswalk-center-inspired-by-shibuya-scramble-stare-into-the.jpeg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-Photography, high aerial view, korean model, standing on massive a complicated crosswalk center inspired by shibuya scramble, stare into the camera, wearing techwear black washing safari jacket with black color thick hoodie, black washing cargo jogger pants, dark grey tactical boots, many crowd --ar 9:16 --s 750 --v 6.0 --style raw
-```
-
-By [@Grayve](https://prompthero.com/prompt/2eeaa248571-midjourney-6-photography-high-aerial-view-korean-model-standing-on-massive-a-complicated-crosswalk-center-inspired-by-shibuya-scramble-stare-into-the)
 
 ---
 
@@ -326,6 +246,86 @@ By [@Grayve](https://prompthero.com/prompt/3cdbd434fd8-midjourney-6-photography-
 
 ---
 
-[1](portraits.md) · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · [5](portraits-5.md) · [6](portraits-6.md) · **7** · [8](portraits-8.md) · [9](portraits-9.md) · [10](portraits-10.md) · [11](portraits-11.md) · [12](portraits-12.md) · [13](portraits-13.md) · [14](portraits-14.md) · [15](portraits-15.md) · [16](portraits-16.md) · [17](portraits-17.md) · [18](portraits-18.md) · [19](portraits-19.md) · [20](portraits-20.md) · [21](portraits-21.md) · [22](portraits-22.md) · [23](portraits-23.md) · [24](portraits-24.md) · [25](portraits-25.md) · [26](portraits-26.md) · [27](portraits-27.md) · [28](portraits-28.md) · [29](portraits-29.md) · [30](portraits-30.md) · [31](portraits-31.md) · [32](portraits-32.md) · [33](portraits-33.md) · [34](portraits-34.md)
+<a id="prompthero-3dab7c5b166"></a>
+
+## 1 lady, solo, realistic face, sunset, beautiful, o\.\.\.
+
+<a href="https://cdn.prompthero.com/74ryjbfkeud2mropreyog7punnit-deliberate-2-1-lady-solo-realistic-face-sunset-beautiful-off-shoulder-dress-silver-white-hair-long-straight-hair-shy-looking-away-blush.jpeg"><img src="https://cdn.prompthero.com/74ryjbfkeud2mropreyog7punnit-deliberate-2-1-lady-solo-realistic-face-sunset-beautiful-off-shoulder-dress-silver-white-hair-long-straight-hair-shy-looking-away-blush.jpeg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+1 lady, solo, realistic face, sunset, beautiful, off shoulder dress, (silver white hair) long straight hair shy, looking away, blush, bangs, head tilt, high contrast, sharp, best shadow, photo, masterpiece, best quality, ultra high res, (photorealistic:1.4),, high resolution, detailed, raw photo kodak portra 400 camera f1.6 lens rich colors dramatic lighting   <lora:v1.}5_add_detail:1>
+```
+
+By [@heeyrina](https://prompthero.com/prompt/3dab7c5b166-deliberate-2-1-lady-solo-realistic-face-sunset-beautiful-off-shoulder-dress-silver-white-hair-long-straight-hair-shy-looking-away-blush)
+
+---
+
+<a id="prompthero-3e902f806e3"></a>
+
+## A realistic young adult ASMR content creator, arou\.\.\.
+
+<a href="https://cdn.prompthero.com/g388y4mgjh200xv756zaxb4w4o-nano-banana-nano-banana-2-a-realistic-young-adult-asmr-content-creator-around-20-years-old-from-germany-brunette-with-natural-long-brown-hair-soft.jpeg"><img src="https://cdn.prompthero.com/g388y4mgjh200xv756zaxb4w4o-nano-banana-nano-banana-2-a-realistic-young-adult-asmr-content-creator-around-20-years-old-from-germany-brunette-with-natural-long-brown-hair-soft.jpeg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+A realistic young adult ASMR content creator, around 20 years old, from Germany, brunette with natural long brown hair, soft facial features, subtle natural makeup, sitting in a cozy modern recording setup, high-quality binaural microphone in front of her, calm and focused expression, warm ambient lighting, aesthetic background with soft LED lights, clean desk, premium streamer room, close-up cinematic framing, detailed skin texture, realistic hands, natural proportions, ultra photorealistic, shallow depth of field, soft cozy atmosphere, authentic European look, no flags, no patriotic elements, no text, no watermark
+```
+
+[Source](https://prompthero.com/prompt/3e902f806e3-nano-banana-nano-banana-2-a-realistic-young-adult-asmr-content-creator-around-20-years-old-from-germany-brunette-with-natural-long-brown-hair-soft)
+
+---
+
+<a id="prompthero-03e8128ad2e"></a>
+
+## A photo of a real man and woman standing side-by-s\.\.\.
+
+<a href="https://cdn.prompthero.com/8nbc1379h2lvsggrb3a6y4n2vta9-chatgpt-image-gpt-4o-a-photo-of-a-real-man-and-woman-standing-side-by-side-behind-them-is-a-wall-with-an-abstract.jpg"><img src="https://cdn.prompthero.com/8nbc1379h2lvsggrb3a6y4n2vta9-chatgpt-image-gpt-4o-a-photo-of-a-real-man-and-woman-standing-side-by-side-behind-them-is-a-wall-with-an-abstract.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+A photo of a real man and woman standing side-by-side. Behind them is a wall with an abstract mix of blue and orange splashes. The wall has a shape that resembles devil's horns positioned behind the woman's head, giving the illusion that she has horns. The wall also has a shape resembling a halo positioned behind the man's head, giving the illusion that he has a halo. The woman has short, wavy dark hair and is wearing a black top, high-waisted dark pants, and a long, floral-patterned coat. She's holding a bottle with a colorful label. The man has tousled dark hair and is wearing a teal and orange patterned coat over a white shirt and dark pants. Both have medium skin tones and are adorned with various accessories, including bracelets and earrings. The image should be dynamic and expressive, with a focus on bold colors and intricate details.
+```
+
+[Source](https://prompthero.com/prompt/03e8128ad2e-chatgpt-image-gpt-4o-a-photo-of-a-real-man-and-woman-standing-side-by-side-behind-them-is-a-wall-with-an-abstract)
+
+---
+
+<a id="prompthero-3ee836a3341"></a>
+
+## Two women with contrasting skin tones black skin w\.\.\.
+
+<a href="https://cdn.prompthero.com/p73flmieodt6ditfbg1shesxpn84-flux-flux-11-pro-ultra-two-women-with-contrasting-skin-tones-black-skin-white-skin-and-elegant-gold-jewelry-pose-gracefully-against-a-muted-matte.jpg"><img src="https://cdn.prompthero.com/p73flmieodt6ditfbg1shesxpn84-flux-flux-11-pro-ultra-two-women-with-contrasting-skin-tones-black-skin-white-skin-and-elegant-gold-jewelry-pose-gracefully-against-a-muted-matte.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+Two women with contrasting skin tones black skin white skin and elegant gold jewelry pose gracefully against a muted matte white background. with a thick  neon transparent band  weird eyewear across their eyes, wearing a sleek black outfit. Modern, minimalist, and avant-garde, no details, simple, minimalism; minimalistic; softn matte, soft light, realistic photoshoot. voque magazine,ultimate professionalism and creativity and art; new unknown style, year 2066 Hands gently holding a glowing orb, casting a warm light in a dark setting, creating a serene and mystical atmosphere.
+```
+
+[Source](https://prompthero.com/prompt/3ee836a3341-flux-flux-11-pro-ultra-two-women-with-contrasting-skin-tones-black-skin-white-skin-and-elegant-gold-jewelry-pose-gracefully-against-a-muted-matte)
+
+---
+
+<a id="prompthero-4a2db768b1c"></a>
+
+## Madeline &quot;Countryside Charm&quot;
+
+<a href="https://cdn.prompthero.com/lrw6p0xu3x7zyaed2z8xnwi7538w-midjourney-51-madeline-countryside-charm.jpg"><img src="https://cdn.prompthero.com/lrw6p0xu3x7zyaed2z8xnwi7538w-midjourney-51-madeline-countryside-charm.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+Kodak Portra 400, 8k, a pretty lady sitting holding a tablet wearing an elegant plaid dress, outdoor, night time, volumetric lighting, real life, highly detailed, photography, low contrast --ar 9:16 --s 750
+```
+
+By [@abyishot](https://prompthero.com/prompt/4a2db768b1c-midjourney-51-madeline-countryside-charm)
+
+---
+
+[1](portraits.md) · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · [5](portraits-5.md) · [6](portraits-6.md) · **7** · [8](portraits-8.md) · [9](portraits-9.md) · [10](portraits-10.md) · [11](portraits-11.md) · [12](portraits-12.md) · [13](portraits-13.md) · [14](portraits-14.md) · [15](portraits-15.md) · [16](portraits-16.md) · [17](portraits-17.md) · [18](portraits-18.md) · [19](portraits-19.md) · [20](portraits-20.md) · [21](portraits-21.md) · [22](portraits-22.md) · [23](portraits-23.md) · [24](portraits-24.md) · [25](portraits-25.md) · [26](portraits-26.md) · [27](portraits-27.md) · [28](portraits-28.md) · [29](portraits-29.md) · [30](portraits-30.md) · [31](portraits-31.md) · [32](portraits-32.md) · [33](portraits-33.md)
 
 [← Home](../README.md)

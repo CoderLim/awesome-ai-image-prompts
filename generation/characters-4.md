@@ -6,86 +6,6 @@
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
-<a id="prompthero-3922a5dbc75"></a>
-
-## \{\{Makoto Shinkai styled anime\}\}, adult woman, tran\.\.\.
-
-<a href="https://cdn.prompthero.com/2ehi6gk0085f18cvsfhj8p9dmcu2-flux-flux-11-pro-makoto-shinkai-styled-anime-adult-woman-transforming-into-evangelion-demonic-demon-inspired-mecha-fly-me-to-the-moon-beautiful-intricate.png"><img src="https://cdn.prompthero.com/2ehi6gk0085f18cvsfhj8p9dmcu2-flux-flux-11-pro-makoto-shinkai-styled-anime-adult-woman-transforming-into-evangelion-demonic-demon-inspired-mecha-fly-me-to-the-moon-beautiful-intricate.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-{{Makoto Shinkai styled anime}}, adult woman, transforming into Evangelion Demonic Demon inspired mecha, fly me to the moon, {{beautiful intricate triadic antique white colour hair}}, beautiful eyes, evil and cute, Burgundy red hoodie, mega robotic angel and devil wing, beautiful leg, full body, rich in details, luminism, masterpiece, three dimensional effect, 3d render, octane render, {{mix of bold dark lines and loose lines}}, Isometric, awesome full color, {{ultra detailed face}}, {{rule of third}}, 8k resolution,neon lighting
-```
-
-[Source](https://prompthero.com/prompt/3922a5dbc75-flux-flux-11-pro-makoto-shinkai-styled-anime-adult-woman-transforming-into-evangelion-demonic-demon-inspired-mecha-fly-me-to-the-moon-beautiful-intricate)
-
----
-
-<a id="prompthero-3994fb8e462"></a>
-
-## full body portrait of a beautiful fantasy creature\.\.\.
-
-<a href="https://cdn.prompthero.com/m7113au0l76ventdyikchqo8s1vk-dalle-3-full-body-portrait-of-a-beautiful-fantasy-creatureshinyprofessional-photography-masterpiece-unreal-engine-very-high-detailed-fantasy-planetwonderful-dream-version-by.jpg"><img src="https://cdn.prompthero.com/m7113au0l76ventdyikchqo8s1vk-dalle-3-full-body-portrait-of-a-beautiful-fantasy-creatureshinyprofessional-photography-masterpiece-unreal-engine-very-high-detailed-fantasy-planetwonderful-dream-version-by.jpg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-full body portrait of a beautiful fantasy creature,shiny,professional photography, masterpiece, unreal engine, very high detailed, Fantasy planet,wonderful, dream Version, By jean ansell and justin Gerard, greg rutkowski, dynamic lights, plants,fauna and flora,cinematic scene, fantastic, antique ancient ruins, coloured nebulas, misty
-```
-
-[Source](https://prompthero.com/prompt/3994fb8e462-dalle-3-full-body-portrait-of-a-beautiful-fantasy-creatureshinyprofessional-photography-masterpiece-unreal-engine-very-high-detailed-fantasy-planetwonderful-dream-version-by)
-
----
-
-<a id="prompthero-6013e361215"></a>
-
-## Masterpiece, best quality, realistic, colorful cin\.\.\.
-
-<a href="https://cdn.prompthero.com/oau402z2pauyphyzvru0jh7x6cnc-rev-animated-v122-masterpiece-best-quality-realistic-colorful-cinematic-lighting-photo-of-beautiful-tauwoman-fire-warrior-with-updo-white-hair-wearing-technologically-advanced.jpg"><img src="https://cdn.prompthero.com/oau402z2pauyphyzvru0jh7x6cnc-rev-animated-v122-masterpiece-best-quality-realistic-colorful-cinematic-lighting-photo-of-beautiful-tauwoman-fire-warrior-with-updo-white-hair-wearing-technologically-advanced.jpg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-Masterpiece, best quality, realistic, colorful cinematic lighting, photo of, (beautiful [T'au|woman] fire warrior with updo white hair), (wearing technologically advanced armor), ((perfect face)), pretty eyes, ((blue skin)), [alien], Shas Warrior, Warhammer 40k, fanart, vivid details, vibrant colors, background is landscape of alien planet, (mountains:0.9), (lush vegetation), detailed background, dynamic pose, aggressive look, complex, RTX, (bloom:0.5), (lens flare:0.5), (intricate galaxy and star cluster in the night sky above), sci-fi, 50mm prime lens, F/2.8 aperture, (highly detailed, hyperdetailed), hyper realistic, lifelike texture, photorealistic, 8k, sharp focus, unreal engine, ENB, cinestill 800
-```
-
-[Source](https://prompthero.com/prompt/6013e361215-rev-animated-v122-masterpiece-best-quality-realistic-colorful-cinematic-lighting-photo-of-beautiful-tauwoman-fire-warrior-with-updo-white-hair-wearing-technologically-advanced)
-
----
-
-<a id="prompthero-8074f6fa3df"></a>
-
-## Create an epic anime-style smartphone wallpaper o\.\.\.
-
-<a href="https://cdn.prompthero.com/v1_4c782f75282cc62fe9446e95f6-hero-10-create-an-epic-anime-style-smartphone-wallpaper-of-a-powerful-young-warrior-standing-on-a-mountain-at-night-glowing-blue.jpg"><img src="https://cdn.prompthero.com/v1_4c782f75282cc62fe9446e95f6-hero-10-create-an-epic-anime-style-smartphone-wallpaper-of-a-powerful-young-warrior-standing-on-a-mountain-at-night-glowing-blue.jpg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-Create an epic anime-style smartphone wallpaper of a powerful young warrior standing on a mountain at night, glowing blue energy surrounding him, dramatic clouds, huge moon in the background, wind-blown clothes and hair, cinematic lighting, highly detailed anime artwork, vibrant atmosphere, 4K, no text, no watermark, vertical 9:16.
-```
-
-[Source](https://prompthero.com/prompt/8074f6fa3df-hero-10-create-an-epic-anime-style-smartphone-wallpaper-of-a-powerful-young-warrior-standing-on-a-mountain-at-night-glowing-blue)
-
----
-
-<a id="prompthero-8646c575b4f"></a>
-
-## Ultra realistic looking DND character, \), hooded g\.\.\.
-
-<a href="https://cdn.prompthero.com/dkwiylxsd1vss9mwbd9rair6ms9a-flux-flux1-schnell-ultra-realistic-looking-dnd-character-hooded-giant-ogre-holding-a-giant-cursed-axe-and-walking-menacing-walking-over-crushed-skeletons.jpg"><img src="https://cdn.prompthero.com/dkwiylxsd1vss9mwbd9rair6ms9a-flux-flux1-schnell-ultra-realistic-looking-dnd-character-hooded-giant-ogre-holding-a-giant-cursed-axe-and-walking-menacing-walking-over-crushed-skeletons.jpg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-Ultra realistic looking DND character, ), hooded giant ogre, holding a giant cursed axe and walking menacing, walking over crushed skeletons, golden ornamented bracelets, jeweled belt, and necklaces. Facing him, stands a tiny barefoot female warrior with full armor, arms extended to the sides, holding a sword and a dagger, standing confidently, dramatic scene, cinematic
-```
-
-[Source](https://prompthero.com/prompt/8646c575b4f-flux-flux1-schnell-ultra-realistic-looking-dnd-character-hooded-giant-ogre-holding-a-giant-cursed-axe-and-walking-menacing-walking-over-crushed-skeletons)
-
----
-
 <a id="prompthero-8835fde2fda"></a>
 
 ## 1800s a sikh king, wearing turban and Japanese mec\.\.\.
@@ -214,22 +134,6 @@ Raphael Kirchner and Moebius and Sergio Toppi, Character from Krull Movie, Detai
 
 ---
 
-<a id="prompthero-572654818a3"></a>
-
-## photography in the style of detailed hyper realism\.\.\.
-
-<a href="https://cdn.prompthero.com/i0xywdulbxbfane7dv1s9svqkwcz-stable-diffusion-xl-base-09-photography-in-the-style-of-detailed-hyper-realism-hyper-realistic-image-that-fuses-the-moody-atmosphere-of-the-provided-figure.png"><img src="https://cdn.prompthero.com/i0xywdulbxbfane7dv1s9svqkwcz-stable-diffusion-xl-base-09-photography-in-the-style-of-detailed-hyper-realism-hyper-realistic-image-that-fuses-the-moody-atmosphere-of-the-provided-figure.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-photography in the style of detailed hyper realism, hyper-realistic image that fuses the moody atmosphere of the provided figure with the epic scene of a water dragon breaking through the ice. The mysterious robed wizard with a round hood stands on the frozen lake, holding a large, ornate staff reminiscent of Raistlin Majere's, exuding powerful magical energy. The water dragon emerges with grandeur, ice shards flying around. The environment should have a muted color palette, with misty mountains and a brooding sky in the background, reflecting a blend of somberness and the intense magic of the moment. <lora:add-detail-xl:1.3>
-```
-
-[Source](https://prompthero.com/prompt/572654818a3-stable-diffusion-xl-base-09-photography-in-the-style-of-detailed-hyper-realism-hyper-realistic-image-that-fuses-the-moody-atmosphere-of-the-provided-figure)
-
----
-
 <a id="prompthero-75432185820"></a>
 
 ## A copy of the movie &quot;ALIEN&quot; in the style of Ridley\.\.\.
@@ -278,22 +182,6 @@ masterpiece, a creepy scary alien creature with alien skin and clothing, with a 
 
 ---
 
-<a id="prompthero-a12e5ea428e"></a>
-
-## \(\(\(cute\)\)\) Chibi big-eyed Dragon sitting in lush f\.\.\.
-
-<a href="https://cdn.prompthero.com/9s9r0r3gd40dl2h4rxplkuib1gj5-stable-diffusion-14-cute-chibi-big-eyed-dragon-sitting-in-lush-forest-full-character-concept-iridescent-rainbow-light-trending-colour-palette-trending-on.png"><img src="https://cdn.prompthero.com/9s9r0r3gd40dl2h4rxplkuib1gj5-stable-diffusion-14-cute-chibi-big-eyed-dragon-sitting-in-lush-forest-full-character-concept-iridescent-rainbow-light-trending-colour-palette-trending-on.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-(((cute))) Chibi big-eyed Dragon sitting in lush forest, full character concept, iridescent rainbow light, trending colour palette, trending on artstation, matte painting, animation lighting, depth of field, ultra detailed, rendered, blender, --ar 9:16 --q 2 --s 300 --v 5, made by midjourney, <lora:blindbox_v1_mix:0.5> turbulent fluid| fractal| smokey| symmetrical| sharp focus| vibrant| volumetric fog| studio lighting| depth of field| unreal engine 5| octane render| raytracing, Disney artsyle
-```
-
-[Source](https://prompthero.com/prompt/a12e5ea428e-stable-diffusion-14-cute-chibi-big-eyed-dragon-sitting-in-lush-forest-full-character-concept-iridescent-rainbow-light-trending-colour-palette-trending-on)
-
----
-
 <a id="prompthero-a49a203ed4d"></a>
 
 ## Dbz: Goku like character, extra long yellow hair, \.\.\.
@@ -323,6 +211,118 @@ Sanctuary, Temple, Devil fairy(female), dark magic, Devil soul, Jinn, Demon, div
 ```
 
 [Source](https://prompthero.com/prompt/a5817825bb0-stable-diffusion-xl-base-09-sanctuary-temple-devil-fairyfemale-dark-magic-devil-soul-jinn-demon-divine-clean-skin-particles-of-lighting-multi-color-lighting-fairy)
+
+---
+
+<a id="prompthero-abb042406c8"></a>
+
+## Futuristic cyborg girl featuring a captivating cyb\.\.\.
+
+<a href="https://cdn.prompthero.com/xgv8pwsyt9caxapls4a7v46ceygz-stable-diffusion-15-futuristic-cyborg-girl-featuring-a-captivating-cybernetic-helmet-adorned-with-vibrant-triangular-red-led-lights-forming-a-halo-around-her.png"><img src="https://cdn.prompthero.com/xgv8pwsyt9caxapls4a7v46ceygz-stable-diffusion-15-futuristic-cyborg-girl-featuring-a-captivating-cybernetic-helmet-adorned-with-vibrant-triangular-red-led-lights-forming-a-halo-around-her.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+Futuristic cyborg girl featuring a captivating cybernetic helmet adorned with vibrant triangular red LED lights, forming a halo around her head. Clothe her in a sleek black Techwear jacket, adding a modern and functional touch to her ensemble. Position the cyborg girl against a white background to accentuate her entire body and showcase the intricate details of the futuristic design. Ensure that the representation emphasizes the seamless integration of human and technological elements, reflecting an advanced and forward-looking aesthetic. This proposed setting provides an opportunity to craft a visually stunning portrayal, where the contrast between futuristic design and modern elements becomes a standout feature
+```
+
+[Source](https://prompthero.com/prompt/abb042406c8-stable-diffusion-15-futuristic-cyborg-girl-featuring-a-captivating-cybernetic-helmet-adorned-with-vibrant-triangular-red-led-lights-forming-a-halo-around-her)
+
+---
+
+<a id="prompthero-abf296ec3e6"></a>
+
+## Creature Feature: Demon
+
+<a href="https://cdn.prompthero.com/6hgotq2mwzjw2s1nr2pne1xyyl48-stable-diffusion-xl-base-09-creature-feature-demon.jpg"><img src="https://cdn.prompthero.com/6hgotq2mwzjw2s1nr2pne1xyyl48-stable-diffusion-xl-base-09-creature-feature-demon.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+A photo of a very scary and terrifying hellish demon, reddish tint, cinematic, backlight, smoke effect, melancholy, dynamic lighting, dark background <lora:ClassipeintXL1.9:1>
+```
+
+By [@abyishot](https://prompthero.com/prompt/abf296ec3e6-stable-diffusion-xl-base-09-creature-feature-demon)
+
+---
+
+<a id="prompthero-adb8ddaa604"></a>
+
+## Create a retro-futuristic style image featuring a \.\.\.
+
+<a href="https://cdn.prompthero.com/v1_1356b0d75454f6aa3ee9f7b467-chatgpt-image-gpt-image-25-create-a-retro-futuristic-style-image-featuring-a-solitary-robot-standing-in-a-vast-desert-on-an-unknown-planet-the.png"><img src="https://cdn.prompthero.com/v1_1356b0d75454f6aa3ee9f7b467-chatgpt-image-gpt-image-25-create-a-retro-futuristic-style-image-featuring-a-solitary-robot-standing-in-a-vast-desert-on-an-unknown-planet-the.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+Create a retro-futuristic style image featuring a solitary robot standing in a vast desert on an unknown planet. The robot should have a striking color scheme dominated by red and black, with numerous rust marks visible on its surface, giving it a weathered and aged appearance. The robot should be standing upright, exuding a sense of loneliness and abandonment. The background should depict a barren, alien landscape with multiple moons visible in the sky, enhancing the feeling of isolation and mystery. The overall atmosphere should blend elements of vintage sci-fi with futuristic technology, evoking a sense of nostalgia and wonder
+```
+
+By [@chorlo](https://prompthero.com/prompt/adb8ddaa604-chatgpt-image-gpt-image-25-create-a-retro-futuristic-style-image-featuring-a-solitary-robot-standing-in-a-vast-desert-on-an-unknown-planet-the)
+
+---
+
+<a id="prompthero-b1a990cf541"></a>
+
+## 3d render, best quality, ultra realic, ultimate de\.\.\.
+
+<a href="https://cdn.prompthero.com/u79zu1him684myedpl38hi62i87y-dalle-3-3d-render-best-quality-ultra-realic-ultimate-detailed-dynamic-low-angle-half-body-shot-stunning-charismatic-humanod-robot-intricate-impressive.jpg"><img src="https://cdn.prompthero.com/u79zu1him684myedpl38hi62i87y-dalle-3-3d-render-best-quality-ultra-realic-ultimate-detailed-dynamic-low-angle-half-body-shot-stunning-charismatic-humanod-robot-intricate-impressive.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+3d render, best quality, ultra realic, ultimate detailed, dynamic low angle, half-body shot : stunning charismatic humanoïd robot, intricate impressive mechanism opening face, porcelain matte materials, soft colors, expressive eyes, intricate tiniest details, realistic natural textures, high level of reflections
+```
+
+[Source](https://prompthero.com/prompt/b1a990cf541-dalle-3-3d-render-best-quality-ultra-realic-ultimate-detailed-dynamic-low-angle-half-body-shot-stunning-charismatic-humanod-robot-intricate-impressive)
+
+---
+
+<a id="prompthero-b765d8da5ca"></a>
+
+## a young east asian woman posing in futuristic att\.\.\.
+
+<a href="https://cdn.prompthero.com/v1_61599c302487780ebe195aeba6-seedream-5-seedream-5-pro-a-young-east-asian-woman-posing-in-futuristic-attire-against-a-solid-light-gray-background-she-is-equipped-with-a.jpg"><img src="https://cdn.prompthero.com/v1_61599c302487780ebe195aeba6-seedream-5-seedream-5-pro-a-young-east-asian-woman-posing-in-futuristic-attire-against-a-solid-light-gray-background-she-is-equipped-with-a.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+a young east asian woman posing in futuristic attire against a solid light gray background. she is equipped with a large white mechanical apparatus on her back resembling a robotic wing, featuring the bold black text "rog". her left arm has a white cybernetic plate on the forearm and the letters "vac" on the bicep. she wears a flowing white dress with a translucent outer skirt and white mechanical boots. the shot is captured from a low angle, emphasizing the technological and mechanical design
+```
+
+By [@chorlo](https://prompthero.com/prompt/b765d8da5ca-seedream-5-seedream-5-pro-a-young-east-asian-woman-posing-in-futuristic-attire-against-a-solid-light-gray-background-she-is-equipped-with-a)
+
+---
+
+<a id="prompthero-b651733a2cf"></a>
+
+## “A brave little girl exploring an enchanted forest\.\.\.
+
+<a href="https://cdn.prompthero.com/xa038zl3hnzbcxzous6y6pczmv-nano-banana-nano-banana-2-a-brave-little-girl-exploring-an-enchanted-forest-3d-render-cinematic-lighting-magical-atmosphere-ultra-detailed-vibrant-colors.jpeg"><img src="https://cdn.prompthero.com/xa038zl3hnzbcxzous6y6pczmv-nano-banana-nano-banana-2-a-brave-little-girl-exploring-an-enchanted-forest-3d-render-cinematic-lighting-magical-atmosphere-ultra-detailed-vibrant-colors.jpeg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+“A brave little girl exploring an enchanted forest, 3D render, cinematic lighting, magical atmosphere, ultra detailed, vibrant colors”
+```
+
+[Source](https://prompthero.com/prompt/b651733a2cf-nano-banana-nano-banana-2-a-brave-little-girl-exploring-an-enchanted-forest-3d-render-cinematic-lighting-magical-atmosphere-ultra-detailed-vibrant-colors)
+
+---
+
+<a id="prompthero-b72678492ea"></a>
+
+## young girl with a red robot suit standing in the r\.\.\.
+
+<a href="https://cdn.prompthero.com/ge92px9rjko5wqn92m0asdlprzc1-midjourney-6-young-girl-with-a-red-robot-suit-standing-in-the-rain-in-the-style-of-detailed-hyperrealism-skottie-young-32k.png"><img src="https://cdn.prompthero.com/ge92px9rjko5wqn92m0asdlprzc1-midjourney-6-young-girl-with-a-red-robot-suit-standing-in-the-rain-in-the-style-of-detailed-hyperrealism-skottie-young-32k.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+young girl with a red robot suit standing in the rain, in the style of detailed hyperrealism, skottie young, 32k uhd, daria endresen, close up, webcore, eve ventrue --ar 9:16 --stylize 750 --v 6
+```
+
+By [@NorthmoorAI](https://prompthero.com/prompt/b72678492ea-midjourney-6-young-girl-with-a-red-robot-suit-standing-in-the-rain-in-the-style-of-detailed-hyperrealism-skottie-young-32k)
 
 ---
 

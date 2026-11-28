@@ -1,8 +1,8 @@
 # illustrations
 
-[← Home](../README.md) · Page 1 / 11
+[← Home](../README.md) · Page 1 / 10
 
-**1** · [2](illustrations-2.md) · [3](illustrations-3.md) · [4](illustrations-4.md) · [5](illustrations-5.md) · [6](illustrations-6.md) · [7](illustrations-7.md) · [8](illustrations-8.md) · [9](illustrations-9.md) · [10](illustrations-10.md) · [11](illustrations-11.md)
+**1** · [2](illustrations-2.md) · [3](illustrations-3.md) · [4](illustrations-4.md) · [5](illustrations-5.md) · [6](illustrations-6.md) · [7](illustrations-7.md) · [8](illustrations-8.md) · [9](illustrations-9.md) · [10](illustrations-10.md)
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
@@ -326,6 +326,6 @@ By [@KrishnaBio1](https://x.com/KrishnaBio1/status/2106326234322059308)
 
 ---
 
-**1** · [2](illustrations-2.md) · [3](illustrations-3.md) · [4](illustrations-4.md) · [5](illustrations-5.md) · [6](illustrations-6.md) · [7](illustrations-7.md) · [8](illustrations-8.md) · [9](illustrations-9.md) · [10](illustrations-10.md) · [11](illustrations-11.md)
+**1** · [2](illustrations-2.md) · [3](illustrations-3.md) · [4](illustrations-4.md) · [5](illustrations-5.md) · [6](illustrations-6.md) · [7](illustrations-7.md) · [8](illustrations-8.md) · [9](illustrations-9.md) · [10](illustrations-10.md)
 
 [← Home](../README.md)

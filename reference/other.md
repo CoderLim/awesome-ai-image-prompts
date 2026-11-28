@@ -6,22 +6,6 @@
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
-<a id="evolink-gpt-image-2-6-case-257"></a>
-
-## Rice Bowl Character Sticker
-
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/2118166009131757568.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/gpt-image-2-6/2118166009131757568.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-使用这个角色，生成一张GIF图，内容是她吃大白米饭，图片里有文字：真香！
-```
-
-By [@Gorden\_Sun](https://x.com/Gorden_Sun/status/2118166046175908016)
-
----
-
 <a id="freestylefly-case-216"></a>
 
 ## 雅致图案四款时尚单品设计
@@ -51,22 +35,6 @@ By [@aiehon\_aya](https://x.com/aiehon_aya/status/2046348182301683954)
 ```
 
 By [@4WEB1](https://x.com/4WEB1/status/2045390207072256179)
-
----
-
-<a id="freestylefly-case-387"></a>
-
-## Netflix 首页主视觉 UI
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case387.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case387.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Create a Netflix homepage UI featuring a main hero film with its title and still generated from the uploaded reference.
-```
-
-By [@aimikoda](https://x.com/aimikoda/status/2051420440451801240)
 
 ---
 

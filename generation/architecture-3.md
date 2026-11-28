@@ -6,22 +6,6 @@
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
-<a id="prompthero-e8415bd8a23"></a>
-
-## High resolution photography interior design, dream\.\.\.
-
-<a href="https://cdn.prompthero.com/in1700dxxqmfj47g0jyol3nfhgkd-realistic-vision-v20-v20-high-resolution-photography-interior-design-dreamy-sunken-living-room-conversation-pit-wooden-floor-small-windows-opening-onto-the-garden-bauhaus.png"><img src="https://cdn.prompthero.com/in1700dxxqmfj47g0jyol3nfhgkd-realistic-vision-v20-v20-high-resolution-photography-interior-design-dreamy-sunken-living-room-conversation-pit-wooden-floor-small-windows-opening-onto-the-garden-bauhaus.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-High resolution photography interior design, dreamy sunken living room conversation pit, wooden floor, small windows opening onto the garden, bauhaus furniture and decoration, high ceiling, beige blue salmon pastel palette, interior design magazine, cozy atmosphere; 8k, intricate detail, photorealistic, realistic light, wide angle, kinkfolk photography, A+D architecture
-```
-
-By [@robiness](https://prompthero.com/prompt/e8415bd8a23-realistic-vision-v20-v20-high-resolution-photography-interior-design-dreamy-sunken-living-room-conversation-pit-wooden-floor-small-windows-opening-onto-the-garden-bauhaus)
-
----
-
 <a id="prompthero-f0df67413c5"></a>
 
 ## architectural photography, striking architectural \.\.\.
@@ -83,22 +67,6 @@ The image depicts an intricately designed candle holder that resembles a miniatu
 ```
 
 [Source](https://prompthero.com/prompt/fe2780036d7-flux-flux1-dev-the-image-depicts-an-intricately-designed-candle-holder-that-resembles-a-miniature-landscape-scene-at-the-center-of-this-elaborate)
-
----
-
-<a id="vcl-cutaway"></a>
-
-## Cutaway — two-story house
-
-<a href="https://raw.githubusercontent.com/kondasviktor/vcl-ai-image-prompts/695e086fc3043c0ca39f1ad2b33fdcf3b94a35b4/examples/cutaway/demo.png"><img src="https://raw.githubusercontent.com/kondasviktor/vcl-ai-image-prompts/695e086fc3043c0ca39f1ad2b33fdcf3b94a35b4/examples/cutaway/demo.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-Create a single-scene architectural cutaway of a two-story house. One camera, 3/4 view. Cut the near facade away so you see: - ground-floor living and kitchen - stairs - two bedrooms upstairs - roof structure - people-scale furniture for size Photoreal daylight. Keep it ONE image, not four panels, not a dollhouse exploded into a grid. 16:9.
-```
-
-By [Vibe Coder&\#39;s Life \(kondasviktor\)](https://github.com/kondasviktor/vcl-ai-image-prompts/blob/695e086fc3043c0ca39f1ad2b33fdcf3b94a35b4/recipes/cutaway.md) · [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) · Prompt line breaks flattened
 
 ---
 

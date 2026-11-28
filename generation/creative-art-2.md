@@ -1,90 +1,10 @@
 # creative art
 
-[← Home](../README.md) · Page 2 / 13
+[← Home](../README.md) · Page 2 / 12
 
-[1](creative-art.md) · **2** · [3](creative-art-3.md) · [4](creative-art-4.md) · [5](creative-art-5.md) · [6](creative-art-6.md) · [7](creative-art-7.md) · [8](creative-art-8.md) · [9](creative-art-9.md) · [10](creative-art-10.md) · [11](creative-art-11.md) · [12](creative-art-12.md) · [13](creative-art-13.md)
+[1](creative-art.md) · **2** · [3](creative-art-3.md) · [4](creative-art-4.md) · [5](creative-art-5.md) · [6](creative-art-6.md) · [7](creative-art-7.md) · [8](creative-art-8.md) · [9](creative-art-9.md) · [10](creative-art-10.md) · [11](creative-art-11.md) · [12](creative-art-12.md)
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
-
-<a id="freestylefly-case-286"></a>
-
-## 珠江新城剪纸璀璨夜景
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case286.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case286.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-[中文] 以珠江新城现代都市景观为灵感的剪纸艺术，通过精巧的镂空手法在一整幅纸上，立体刻画广州塔、东西双塔等地标建筑与繁华城景。 所有建筑与元素均以流畅的线条与结构相连，无孤立部分，构成一幅完整的都市画卷。 画面采用金属箔或光泽纸材质，表面带有细腻的明暗光泽，在光照下呈现柔和的高光与阴影，仿佛被城市灯光轻轻照亮。 背景以虚化的珠江新城天际线为衬，点缀隐约可见的花城广场与树木轮廓，整体透出现代浪漫的氛围。 作品中巧妙融入轻盈的蒲公英绒毛或星光般的动态光点，象征梦想与活力在这座新城中飘散飞扬。整体呈现8K超高清视觉，细节丰富，真实而富有艺术感染力。 [English] Paper-cut art inspired by the modern urban landscape of Zhujiang New Town, through exquisite hollow-carving techniques on a single sheet of paper, three-dimensionally depicting landmark buildings such as Canton Tower, East and West Twin Towers, and the bustling cityscape. All buildings and elements are connected by smooth lines and structures, with no isolated parts, forming a complete urban scroll. The picture uses metallic foil or glossy paper material, with delicate light and dark gloss on the surface, presenting soft highlights and shadows under illumination, as if gently illuminated by city lights. The background is set against a blurred Zhujiang New Town skyline, dotted with faintly visible outlines of Huacheng Square and trees, overall revealing a modern romantic atmosphere. The work cleverly integrates light dandelion fluff or starlight-like dynamic light points, symbolizing dreams and vitality fluttering and flying in this new city. The overall presents 8K ultra-high-definition vision, rich in details, realistic and full of artistic appeal.
-```
-
-By [@liyue\_ai](https://x.com/liyue_ai/status/2045527750606487877)
-
----
-
-<a id="freestylefly-case-309"></a>
-
-## 创意树叶拼贴构成的角色画像
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case309.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case309.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-[中文] { 角色名称 } 完全由天然树叶制成，创意树叶拼贴艺术，分层绿叶和干叶构成身体、面部和衣服，可见叶脉和纹理，手工植物艺术风格，干净的白色背景，俯视平铺构图，高度细节，柔和自然光，逼真树叶纹理，8k [English] { CHARACTER NAME } made entirely from natural leaves, creative leaf collage art, layered green and dry leaves forming body, face and clothes, visible leaf veins and textures, handcrafted botanical art style, clean white background, top-down flat lay composition, highly detailed, soft natural lighting, realistic leaf textures, 8k
-```
-
-By [@meng\_dagg695](https://x.com/meng_dagg695/status/2032019839070716170)
-
----
-
-<a id="freestylefly-case-319"></a>
-
-## 鸟群织就的梦幻高定时装秀
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case319.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case319.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-[中文] 一个充满趣味的高级时装T台场景，主角是一位自信的女性，正走在奢华时装秀的T台上，身穿一件完全由鸟类制成的非凡高级定制礼服。数百只优雅、色彩鲜艳的鸟类构成了飘逸的雕塑感礼服形状，像活着的羽毛一样层叠，翅膀微微张开，营造出布料和运动的错觉。一些鸟儿在她周围轻轻升入空中，捕捉于飞行瞬间，增添了神奇、超现实的运动感。鸟儿们展现出丰富多样的色彩——彩虹般的蓝色、光芒四射的红色、金黄色和柔和的白色——拥有错综复杂的羽毛细节和自然纹理。她在迈步间摆出姿势，带着快乐、自信的表情，富有表现力的眼睛，以及精致的T台妆容。戏剧性的舞台灯光配以发光的高光，黑暗模糊的观众背景，电影级的景深，奇幻现实主义，超精细纹理，高对比度，清晰聚焦，奇思妙想的奢华时装秀，超现实主义高级定制，4K分辨率，专业调色。 [English] A playful high-fashion runway scene featuring a confident woman walking a luxury fashion show catwalk, wearing an extraordinary couture dress made entirely of birds. Hundreds of elegant, vividly colored birds form the shape of a flowing, sculptural gown, layered like living feathers, with wings partially spread to create the illusion of fabric and motion. Some birds lift gently into the air around her, captured mid-flight, adding a magical, surreal sense of movement. The birds display a rich variety of colors — iridescent blues, radiant reds, golden yellows, and soft whites — with intricate feather details and natural textures. She poses mid-stride with a joyful, confident expression, expressive eyes, and refined runway makeup. Dramatic stage lighting with glowing highlights, dark blurred audience background, cinematic depth of field, fantasy realism, ultra-detailed textures, high contrast, sharp focus, whimsical luxury fashion show, surreal couture, 4K resolution, professional color grading.
-```
-
-By [@MrDasOnX](https://x.com/MrDasOnX/status/2026284342549340190)
-
----
-
-<a id="freestylefly-case-321"></a>
-
-## 都市落日时尚大片
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case321.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case321.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-[中文] 一张超现实电影感时尚照片，一位二十出头惊艳的年轻女性，全身可见，站在现代城市中心，黄金时段。 她随意地单肩靠在交通信号灯杆上，没有意识到相机的存在，仿佛这一刻是自然捕捉的。 她穿着紧身蓝色牛仔裤、棕色皮靴，以及一件短款棕色麂皮夹克，带有柔软羊皮翻领。夹克下，一件极简深色露脐上衣，隐约露出精致的乳沟和紧致的腹部。 她的体型天生女性化，均衡而优雅，姿态自信。 一只手穿过她丰盈的浅棕色长发，将其向后撩起，头部微微转向那一侧，眼睛自然地看向别处，没有摆拍。 肤色为轻微日晒后的奶油般柔和光泽，真实肌肤纹理，细腻毛孔与高光——毫无塑料感。 妆容醒目却精致：清晰的眼部、浓密睫毛、立体腮红、柔和修容，以及自然光泽唇——具备高端美妆广告质感。 光线为温暖金色时段阳光，包裹她的轮廓与发丝，营造柔和高光与电影感对比。 背景为城市街道，汽车与都市灯光以强烈散景呈现，浅景深——焦点锁定在女性身上。 使用全画幅电影摄影机拍摄，85mm镜头，f/1.8，超现实细节，高动态范围，电影级调色，胶片质感，顶级时尚大片美学，高预算电影剧照氛围。 [English] A hyper-realistic cinematic fashion photograph of a stunning young woman in her early 20s, full body visible, standing in a modern city center during golden hour. She leans casually with one shoulder against a traffic light pole, unaware of the camera, as if the moment was captured naturally. She wears skinny blue jeans, brown leather boots, and a cropped brown suede jacket with a soft shearling collar. Under the jacket, a minimal dark crop top reveals a subtle cleavage and toned midriff. Her physique is naturally feminine, balanced and elegant, with confident posture. One hand runs through her long, voluminous curly light-brown hair, lifting it back in motion. Her head is turned slightly toward that side, eyes looking away naturally, not posing. Skin tone is lightly sun-kissed with a soft creamy glow, realistic skin texture, subtle pores and highlights — no plastic look. Makeup is striking but refined: defined eyes, bold lashes, sculpted cheeks, soft contour, and natural glossy lips — editorial beauty campaign quality. Lighting is warm golden hour sunlight, wrapping around her silhouette and hair, creating soft highlights and cinematic contrast. Background is an urban street with cars and city lights rendered in strong bokeh, shallow depth of field — focus locked on the woman. Shot on a full-frame cinema camera, 85mm lens, f/1.8, ultra-realistic detail, high dynamic range, cinematic color grading, film-like tones, premium fashion editorial aesthetic, high-budget movie still feeling.
-```
-
-By [OpenNana](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-321)
-
----
-
-<a id="freestylefly-case-326"></a>
-
-## 红蓝撞色高跟诱惑
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case326.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case326.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-[中文] { "global_settings": { "resolution": "8K", "quality": "超高清晰度", "aspect_ratio": "2:3", "render_style": "AI编辑、高细节3D渲染", "lighting_quality": "柔和影棚光与逼真阴影", "sharpness": "极致清晰、锐利边缘", "noise": "无", "compression": "无" }, "image_style": { "subject": { "character_type": "风格化3D卡通女性", "pose": "微微后仰靠在背景上", "expression": "俏皮、嘴唇轻撅、眼睛斜视", "hair": { "color": "棕色", "style": "短发、凌乱", "accessories": "红色太阳镜架在头顶" } }, "clothing": { "dress": "贴身蓝色罗纹吊带裙", "footwear": "红色高跟凉鞋配蝴蝶结" }, "color_palette": [ "大胆红色", "深蓝" ], "background": { "color": "纯红色", "texture": "光滑哑光表面" }, "lighting": { "direction": "一侧柔和定向光", "shadow": "在红色背景上投下清晰影子" }, "composition": { "framing": "全身", "pose_emphasis": "弯曲身姿、交叉双腿" } } } [English] { "global_settings": { "resolution": "8K", "quality": "ultra-high definition", "aspect_ratio": "2:3", "render_style": "AI-edited, high-detail 3D render", "lighting_quality": "soft studio lighting with realistic shadows", "sharpness": "extreme clarity, crisp edges", "noise": "none", "compression": "none" }, "image_style": { "subject": { "character_type": "stylized 3D cartoon female", "pose": "leaning slightly backward against background", "expression": "playful, lips slightly pursed, eyes looking sideways", "hair": { "color": "brown", "style": "short, tousled", "accessories": "red sunglasses resting on head" } }, "clothing": { "dress": "form-fitting blue ribbed dress with thin straps", "footwear": "red high-heel sandals with bow detail" }, "color_palette": [ "bold red", "deep blue" ], "background": { "color": "solid red", "texture": "smooth matte surface" }, "lighting": { "direction": "soft directional light from one side", "shadow": "defined shadow cast on red background" }, "composition": { "framing": "full body", "pose_emphasis": "curved posture, crossed legs" } } }
-```
-
-By [@meng\_dagg695](https://x.com/meng_dagg695/status/2012437899955097836)
-
----
 
 <a id="freestylefly-case-329"></a>
 
@@ -147,22 +67,6 @@ Country: [INSERT COUNTRY NAME] A miniature felt diorama made of fluffy yarn, woo
 ```
 
 By [@volkan\_iras](https://x.com/volkan_iras/status/2051403524966141980)
-
----
-
-<a id="freestylefly-case-392"></a>
-
-## 头发里的微型城市
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case392.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case392.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Macro photograph of a miniature city hidden in human hair, clearly on a real human head, with part of the forehead and hairline visible, realistic skin texture with pores, tiny people walking through the streets between the hair strands, extremely small but realistic proportions, macro photography, 85mm lens, shallow depth of field, natural lighting, neutral colors, no warm tones, ultra realistic hair with visible roots, natural imperfections, slightly messy strands, realistic materials, slightly dirty buildings, no perfect surfaces, photorealistic, looks like a real photo, no illustration, no CGI, no glow
-```
-
-By [@krafterlab](https://x.com/krafterlab/status/2051399740986740986)
 
 ---
 
@@ -326,6 +230,102 @@ dachshund dog, red, one eye blue, the other brown, wearing large Marshall headph
 
 ---
 
-[1](creative-art.md) · **2** · [3](creative-art-3.md) · [4](creative-art-4.md) · [5](creative-art-5.md) · [6](creative-art-6.md) · [7](creative-art-7.md) · [8](creative-art-8.md) · [9](creative-art-9.md) · [10](creative-art-10.md) · [11](creative-art-11.md) · [12](creative-art-12.md) · [13](creative-art-13.md)
+<a id="prompthero-0c97785b276"></a>
+
+## Transform to extreme vivid fantasy realism style a\.\.\.
+
+<a href="https://cdn.prompthero.com/tji7lpvibmvsu5nykoibu5h8yb4r-flux-flux-11-pro-transform-to-extreme-vivid-fantasy-realism-style-art-ultra-detailed-masterpiece-depiction-of-medusa-from-marvel-inc-in-hyper-realistic.jpg"><img src="https://cdn.prompthero.com/tji7lpvibmvsu5nykoibu5h8yb4r-flux-flux-11-pro-transform-to-extreme-vivid-fantasy-realism-style-art-ultra-detailed-masterpiece-depiction-of-medusa-from-marvel-inc-in-hyper-realistic.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+Transform to extreme vivid fantasy realism style art, ultra-detailed masterpiece, depiction of Medusa from Marvel Inc., in hyper-realistic fantasy digital photography, meticulously captured with precision and care, centered, perfect composition, overexposed photography creating a striking and ethereal atmosphere, sharp focus ensuring exquisite details, clear and bright elements highlighting her iconic red hair, expressive eyes filled with regal command and inner turmoil, the intricate details showcasing her flowing hair and stoic pose, seamlessly merging realism with fantasy, celebrating the essence of power and her inner conflicts in a visually stunning and imaginative setting.
+```
+
+[Source](https://prompthero.com/prompt/0c97785b276-flux-flux-11-pro-transform-to-extreme-vivid-fantasy-realism-style-art-ultra-detailed-masterpiece-depiction-of-medusa-from-marvel-inc-in-hyper-realistic)
+
+---
+
+<a id="prompthero-0d3dd87d153"></a>
+
+## A rapid aerial tracking shot from the drone&\#39;s pers\.\.\.
+
+<a href="https://cdn.prompthero.com/cll1ubjksbcfbqs0sv9b0lst9ji9-flux-flux-11-pro-ultra-a-rapid-aerial-tracking-shot-from-the-drones-perspective-captures-a-surreal-dream-sequence-of-an-ancient-chinese-beauty-dressed.jpg"><img src="https://cdn.prompthero.com/cll1ubjksbcfbqs0sv9b0lst9ji9-flux-flux-11-pro-ultra-a-rapid-aerial-tracking-shot-from-the-drones-perspective-captures-a-surreal-dream-sequence-of-an-ancient-chinese-beauty-dressed.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+A rapid aerial tracking shot from the drone's perspective captures a surreal dream sequence of an ancient Chinese beauty dressed in an exquisite Hanfu, flying at high speed in a prone position. She effortlessly glides through the clouds, her body fully extended with arms outstretched to the sides, legs slightly parted, and her head forward, capturing the sensation of smooth horizontal flight. Her Hanfu billows in the wind as the camera closely tracks from a slightly higher angle, moving from the left rear to the right rear, maintaining a continuous view of the prone position as the character swiftly traverses the scene. The environment is dynamic and rapidly changing, with clouds below and white clouds streaking by in the background, a large moon hanging high in the distance, and a sparkling night sky surrounding, with motion blur and light trails enhancing the sense of speed and fluidity. Rapid movement.
+```
+
+[Source](https://prompthero.com/prompt/0d3dd87d153-flux-flux-11-pro-ultra-a-rapid-aerial-tracking-shot-from-the-drones-perspective-captures-a-surreal-dream-sequence-of-an-ancient-chinese-beauty-dressed)
+
+---
+
+<a id="prompthero-0e7d898220e"></a>
+
+## Very realistic and stunning Image of cute and ador\.\.\.
+
+<a href="https://cdn.prompthero.com/9fsa5yglkn7wvpn1ewncqqulyr1n-flux-flux-11-pro-ultra-very-realistic-and-stunning-image-of-cute-and-adorable-samurai-girl-big-eyes-battlefield-wearing-magic-fighting-boots-warm-color.jpg"><img src="https://cdn.prompthero.com/9fsa5yglkn7wvpn1ewncqqulyr1n-flux-flux-11-pro-ultra-very-realistic-and-stunning-image-of-cute-and-adorable-samurai-girl-big-eyes-battlefield-wearing-magic-fighting-boots-warm-color.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+Very realistic and stunning Image of cute and adorable Samurai Girl. big eyes, Battlefield, wearing magic fighting boots. Warm color gradient, bright color gradient, shallow depth of field, film noir, wide lens shot from below, moody, grainy, noisy, concept art, by Alberto Seveso, Cyril Rolando, Dan Mumford, Meaningful Visual Art, Detailed Painting, Digital Illustration, Unreal Engine 5, 32k maximalist, highly detailed fantasy art, 3d digital art, sharp focus, masterpiece, fine art,
+```
+
+[Source](https://prompthero.com/prompt/0e7d898220e-flux-flux-11-pro-ultra-very-realistic-and-stunning-image-of-cute-and-adorable-samurai-girl-big-eyes-battlefield-wearing-magic-fighting-boots-warm-color)
+
+---
+
+<a id="prompthero-0e91d70d68a"></a>
+
+## A close-up, cinematic painting of Gandalf the Grey\.\.\.
+
+<a href="https://cdn.prompthero.com/kt391os6ix2n7gy0w3241zdi1ljb-flux-flux-11-pro-a-close-up-cinematic-painting-of-gandalf-the-grey-captured-from-the-chest-up-with-a-focused-intimate-crop-he.jpg"><img src="https://cdn.prompthero.com/kt391os6ix2n7gy0w3241zdi1ljb-flux-flux-11-pro-a-close-up-cinematic-painting-of-gandalf-the-grey-captured-from-the-chest-up-with-a-focused-intimate-crop-he.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+A close-up, cinematic painting of Gandalf the Grey, captured from the chest up with a focused, intimate crop. He looks directly into the viewer’s eyes, a gentle hint of a smile in his gaze, exuding wisdom and warmth. His hand is raised and open, fingers slightly curled as he conjures an ethereal, fiery dragon made entirely of fireworks and smoke that hovers just above his palm. The fireworks dragon is brilliantly detailed, its form composed of vibrant, swirling fire and faint, smoky wisps. The dragon appears to be alive, its body coiling gracefully in mid-air, each scale flickering with a fiery glow that pulses in shades of deep orange, crimson, and gold. Its eyes burn intensely, and its open jaws release tiny sparks, casting a warm, shifting light that illuminates Gandalf’s face and hand. Delicate trails of smoke spiral off its wings and tail, fading into the surrounding air, giving it an ephemeral, almost ghostly quality. The background is a rich, dark blue, fading into shadow to allow the glowing dragon to stand out vividly. Soft, volumetric lighting surrounds Gandalf’s hand and the dragon, creating a sense of depth and atmosphere as light reflects off particles of magic dust floating in the air. The dragon’s smoke and fire blend seamlessly, with the tail and wings leaving shimmering trails that drift away like the remnants of a sparkler, adding movement and a sense of awe to the scene. Rendering Style: Hyperrealistic and finely detailed, with an emphasis on soft, realistic shadows and complex, diffused lighting. Gandalf’s robes and hand are lit by the warm glow of the dragon, with subtle textures emphasized by the contrast of light and shadow. The painting captures an enchanting moment of magic, where every flicker of the dragon’s fiery form and every tendril of smoke is rendered with exquisite, lifelike precision, creating a scene that feels both mystical and deeply cinematic.
+```
+
+[Source](https://prompthero.com/prompt/0e91d70d68a-flux-flux-11-pro-a-close-up-cinematic-painting-of-gandalf-the-grey-captured-from-the-chest-up-with-a-focused-intimate-crop-he)
+
+---
+
+<a id="prompthero-1ceb45671a9"></a>
+
+## In a surreal dance of delicate movement, the ether\.\.\.
+
+<a href="https://cdn.prompthero.com/kj800qeevzcp4plunoujk6tg283s-stable-diffusion-xl-base-09-in-a-surreal-dance-of-delicate-movement-the-ethereal-beauty-is-captured-in-this-portrait-of-a-midair-dancer-the.jpeg"><img src="https://cdn.prompthero.com/kj800qeevzcp4plunoujk6tg283s-stable-diffusion-xl-base-09-in-a-surreal-dance-of-delicate-movement-the-ethereal-beauty-is-captured-in-this-portrait-of-a-midair-dancer-the.jpeg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+In a surreal dance of delicate movement, the ethereal beauty is captured in this portrait of a midair dancer. The soft pastel tones, backlighting, and flowing fabric create a dreamlike ambiance. The image features cinematic lighting and is presented in ultra-high resolution with an aspect ratio of 9:16
+```
+
+By [@JBlack16062205](https://prompthero.com/prompt/1ceb45671a9-stable-diffusion-xl-base-09-in-a-surreal-dance-of-delicate-movement-the-ethereal-beauty-is-captured-in-this-portrait-of-a-midair-dancer-the)
+
+---
+
+<a id="prompthero-1decc195dba"></a>
+
+## The Last Guardian: Capt\. Kate
+
+<a href="https://cdn.prompthero.com/6ilyyio9c02vkxbz1fevzt8u52fk-stable-diffusion-15-the-last-guardian-capt-kate.jpg"><img src="https://cdn.prompthero.com/6ilyyio9c02vkxbz1fevzt8u52fk-stable-diffusion-15-the-last-guardian-capt-kate.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+Photo of a female soldier in post-apocalyptic setting, dystopian era, cinematic shot, dramatic lighting, cinematic noise, movie-like photography, prominent shadows
+```
+
+By [@abyishot](https://prompthero.com/prompt/1decc195dba-stable-diffusion-15-the-last-guardian-capt-kate)
+
+---
+
+[1](creative-art.md) · **2** · [3](creative-art-3.md) · [4](creative-art-4.md) · [5](creative-art-5.md) · [6](creative-art-6.md) · [7](creative-art-7.md) · [8](creative-art-8.md) · [9](creative-art-9.md) · [10](creative-art-10.md) · [11](creative-art-11.md) · [12](creative-art-12.md)
 
 [← Home](../README.md)

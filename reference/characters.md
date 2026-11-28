@@ -54,22 +54,6 @@ By [@mehwishkiran07](https://x.com/mehwishkiran07/status/2108024895804481648)
 
 ---
 
-<a id="evolink-character-sheets-case-59"></a>
-
-## Mehwish Character Sheet
-
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2108024707656368128.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2108024707656368128.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Create a professional, high-end CHARACTER REFERENCE SHEET for a female content creator and main character named “MEHWISH”. Use the uploaded reference image as the primary visual reference. Preserve the character’s facial identity, facial proportions, hairstyle, skin tone, body proportions, and overall appearance consistently across every panel. Create a clean professional character-design sheet on a bright white studio background with a premium editorial layout, realistic photography quality, soft studio lighting, sharp details, and consistent identity. TITLE: “1. CHARACTER PROFILE” CHARACTER NAME: MEHWISH ♡ ROLE: Content Creator / Model / Main Character AGE: 25–28 HEIGHT: 5'6" (168 cm) BODY TYPE: Slim, fit PERSONALITY: Kind, cheerful, confident, creative, friendly, adventurous DISTINCTIVE TRAITS: - Long wavy brown hair - Expressive hazel eyes - Fair, glowing skin - Soft natural makeup - Elegant and modern style - Warm and friendly smile - Often seen in casual-chic outfits - Looks youthful and approachable SIGNATURE COLORS: Black, charcoal, gray, beige, taupe, dark olive 2. FULL-BODY TURNAROUND: Show the exact same female character in four full-body views: - Front view - 3/4 view - Side view - Back view She is wearing an elegant black long dress with: - Square neckline - Long sheer puff sleeves - Fitted waist - Draped/wrapped skirt - High front slit - Black high-heel sandals Maintain identical face, hair, body proportions, clothing, and accessories in all four views. 3. FACE AND IDENTITY DETAILS: Show three detailed facial views: - Front - Profile - 3/4 view Facial structure: Heart-shaped face, high cheekbones, soft jawline, smooth skin Eyes: Hazel, almond-shaped, expressive Eyebrows: Naturally arched and well-defined Nose: Straight and refined Lips: Full, natural pink lips Skin tone: Fair with a warm undertone Makeup: Natural fresh look, soft blush, subtle eyeliner, pink lips Hair: Long, wavy, voluminous brown hair with soft face-framing strands Scars/Tattoos: None visible 4. EXPRESSION SHEET: Create 10 consistent close-up portraits of the same character showing: - Neutral - Happy - Smiling - Playful - Sad - Surprised - Thinking - Confident - Worried - Calm Keep the facial identity, hairstyle, makeup, earrings, and lighting consistent across every expression. 5. POSE AND BODY LANGUAGE: Create six full-body poses using the exact same character and outfit: - Standing - Walking - Sitting - Relaxed - Arms crossed - Looking back Natural elegant body language, realistic anatomy, graceful poses, consistent proportions. 6. COSTUME DETAILS: Create detailed close-up reference panels showing: - Neckline detail - Puff sleeve - Waist detail - Back bow - Fabric close-up - Button detail - Earrings - Shoes Costume: Elegant black dress made from premium satin and sheer fabric, fitted waist, puff sleeves, subtle buttons, large satin bow at the back, black high-heeled sandals, elegant gold dangling earrings. 7. COLOR AND MATERIAL PALETTE: Show the main color palette with HEX codes: #000000 #1F1F1F #3A3A3A #8B7D6B #C9B7A1 #556B2F Material references: - Suit fabric - Sheer fabric - Buttons - Leather shoes - Gold metal earrings - Satin ribbon VISUAL STYLE: Ultra-realistic professional character design reference sheet, luxury fashion editorial photography, realistic skin texture, detailed facial features, natural proportions, soft diffused studio lighting, clean white background, high-end fashion catalog aesthetic, sharp focus, consistent character identity, photorealistic rendering, premium composition. LAYOUT: Organize the entire sheet into 7 clearly separated numbered sections with clean borders, labels, typography, and reference panels. Make it look like a professional Hollywood character bible / fashion character reference sheet. IMPORTANT: The same person must appear in every panel. Do not change her face, identity, eye color, hairstyle, skin tone, body shape, or proportions. No extra characters. No distorted anatomy. No duplicate limbs or fingers. No random accessories. No visible tattoos or scars. Keep the character highly consistent across all views, expressions, poses, and details.
-```
-
-By [@mehwishkiran07](https://x.com/mehwishkiran07/status/2108024891471761791)
-
----
-
 <a id="evolink-character-sheets-case-69"></a>
 
 ## Reference Photo Character Sheet
@@ -102,38 +86,6 @@ By [@TechieBySA](https://x.com/TechieBySA/status/2106395410327564512)
 
 ---
 
-<a id="evolink-character-sheets-case-89"></a>
-
-## Customizable Live-Action Character Sheet
-
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2104135315393040384.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2104135315393040384.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-请生成一张高品质、真实拍摄质感的人物角色设定图（character sheet / character reference sheet）。 角色：{{角色名称}} 角色身份：{{角色基础身份}} 角色描述：{{角色描述}} 服装设定：{{服装描述}} 配饰设定：{{配饰描述}} 鞋靴设定：{{鞋靴描述}} 髮型设定：{{髮型描述}} 如有参考图： - 仅使用参考图作为该角色脸部、骨骼结构、肤质与髮型的主要依据 - 保持年龄、种族、性别特征一致 - 脸部特征高度匹配参考图 输出要求： - 纯白背景 - 16:9 横版 - 4K 解析度 - 布局清晰规范 - 各模块无重叠、无裁切 - 高精度细节，专业影视级角色卡风格 必须包含以下模块： 1. 头部细节组： - 无配饰正视图 - 无配饰正侧视图 - 完整造型正视图 - 完整造型正侧视图 2. 全身正交转面组： - 正面 - 左45度 - 正侧面 - 右45度 - 背面 3. 补充视角组： - 半侧身视图 - 俯视顶视图 - 仰视底视图 4. 材质细节特写组： - 服装面料特写 - 袖口 / 领口 / 腰部细节 - 鞋靴细节 - 配饰细节 一致性要求： 所有模块中的角色必须为同一人物，五官、髮型、肤色、身材、服装、鞋靴、配饰、光影、材质完全一致，不得出现角色漂移或视图差异。
-```
-
-By [@GeekCatX](https://x.com/GeekCatX/status/2104135797280752081)
-
----
-
-<a id="evolink-character-sheets-case-90"></a>
-
-## Jackie Character Sheet
-
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2103902020990013440.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2103902020990013440.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Create a premium cinematic character bible sheet for JACKIE. Use uploaded character sheet as strict visual reference. Do not change his appearance. LAYOUT: Single character solo format. Character centered, bright red and white watercolor splash radiating behind him fading toward the edges. TOP LEFT: Large bold brushstroke text JACKIE in bright red. Below in small text: THE KITCHEN / THE FIGHTER. CHARACTER: One massive dramatic cropped hero image of Jackie from mid-thigh up — white fitted tank top, black trousers, short dark hair, warm smile shifting to focused intensity, hands raised in a playful combat ready position, bright red and white watercolor splash radiating powerfully behind him. LEFT SIDE small text block: NO WEAPONS. NO PROBLEM. EVERYTHING IS A WEAPON. Below that: THE MOST CREATIVE FIGHTER ALIVE. BOTTOM CENTER: Bold text JACKIE CHAN in bright red slightly worn. Tagline centered: HE DIDN'T NEED A WEAPON. HE NEEDED A KITCHEN. COLOR PALETTE: Bright red, white, black. OVERALL: Clean white background, bright red and white watercolor splash centered behind Jackie radiating outward, bright red and black typography, bold flat color blocking, chunky simplified forms, hard edge shadows, thick black outlines, vibrant saturated colors, minimal clean typography, cinematic cel-shaded 3D anime, hand-painted textures, not cartoon not Disney not Pixar, print ready.
-```
-
-By [@TechieBySA](https://x.com/TechieBySA/status/2103902027218592010)
-
----
-
 <a id="evolink-character-sheets-case-91"></a>
 
 ## The Bride Character Sheet
@@ -147,22 +99,6 @@ Create a premium cinematic character bible sheet for THE BRIDE. Use uploaded cha
 ```
 
 By [@TechieBySA](https://x.com/TechieBySA/status/2103852769605992813)
-
----
-
-<a id="evolink-character-sheets-case-98"></a>
-
-## Male Multi-View Character Sheet
-
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2102350256587567105.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2102350256587567105.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Create a high-resolution professional character sheet of the same young man from the reference image. Show front, side, and back full-body views, plus multiple facial expressions and dynamic poses. He wears a navy blue sweatshirt, black cargo pants, white chunky sneakers, and a black crossbody shoulder bag, holding a clear cup of yellow iced drink. Use a clean light beige/gray studio background, realistic photography, consistent face and body across every pose, editorial character-design sheet layout, neat typography, thin dividers, material close-ups, color palette, and professional poster composition.
-```
-
-By [@Arzoo12sh](https://x.com/Arzoo12sh/status/2102350378633420971)
 
 ---
 
@@ -182,38 +118,6 @@ By [@Alina\_with\_Ai](https://x.com/Alina_with_Ai/status/2102234492761243885)
 
 ---
 
-<a id="evolink-character-sheets-case-100"></a>
-
-## Isla Character Sheet
-
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2102089384749125632.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2102089384749125632.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Create a premium cinematic character bible sheet for ISLA. Use uploaded character sheet as strict visual reference. Do not change her appearance. LAYOUT: Wide horizontal format. Warm off-white background. Multiple poses center stage with a large neon pink and green ink brush circle behind them. Clean editorial typography surrounding them. Feels like a premium character bible. TOP LEFT: Large bold editorial text ISLA in deep black. Below in small thin caps: ART / NIGHT / NEON. LEFT SIDE small text block: SAME WALL. DIFFERENT NIGHT. STILL PAINTING. Below that: THE CITY IS HER CANVAS. ABOUT ISLA small info table: NAME: Isla VIBE: Music, motion, neon STYLE: Streetwear, effortless, paint splattered MOOD: Focused, free, completely in her world OCCUPATION: Street Artist / Night Shift LOCATION: The Alley CENTER: Large neon pink and green watercolor ink brush circle behind her poses, subtle and editorial not overpowering, bleeding softly into the white background. Three poses — Isla from the front spray can raised, Isla from the side arm extended mid-spray, Isla from behind facing an invisible wall both cans going simultaneously. Neon pink and green paint splatter details scattered around the poses naturally. RIGHT SIDE: Three small detail panels stacked — Close up on her face — earphones in, focused, paint on her cheek, hair falling loose. Close up on her hands — neon pink and green spray cans, paint splattered fingers. Close up on her midriff — white crop top, gold chain, paint splatters catching the light. Below panels: COLOR PALETTE — neon pink, neon green, neon purple, black, white. BOTTOM: Tagline centered — THE WALL WAS BLANK. IT WON'T BE FOR LONG. OVERALL: Warm off-white background, neon pink and green watercolor ink circle behind the poses, clean minimal editorial typography in deep black, neon paint splatter details throughout, cinematic cel-shaded 3D anime, hand-painted textures, not cartoon not Disney not Pixar, print ready, feels like a premium lifestyle streetwear character bible.
-```
-
-By [@TechieBySA](https://x.com/TechieBySA/status/2102089391153860926)
-
----
-
-<a id="evolink-character-sheets-case-102"></a>
-
-## Cristiano Ronaldo Character Sheet
-
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2101991154078367744.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2101991154078367744.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Create an ultra-realistic, professional cinematic CHARACTER REFERENCE SHEET featuring ONLY Cristiano Ronaldo as the main subject. Use the uploaded reference image as the PRIMARY SOURCE OF TRUTH for Cristiano Ronaldo’s appearance and identity. Preserve his recognizable facial structure, hairstyle, skin tone, athletic body proportions, and overall appearance consistently across every panel. CHARACTER: Name: Cristiano Ronaldo Age: 39 Nationality: Portuguese Height: 187 cm (6'2") Position: Forward Archetype: Goal Machine Personality: Focused, disciplined, ambitious, competitive, legendary IDENTITY LOCK: The same Cristiano Ronaldo must appear in every panel. Maintain consistent face, eyes, eyebrows, nose, lips, jawline, hairstyle, skin texture, muscular athletic physique and age. No identity drift, no different person, no altered facial structure. OUTFIT: Use a realistic modern Portugal national football kit: - Red short-sleeve football jersey - Green football shorts - Red knee-high football socks - White professional football boots with subtle blue/red details - Jersey number 7 - Captain's armband - Authentic football fabric, stitching, mesh panels and realistic clothing texture MAIN CHARACTER TURNAROUND: Show ONLY Cristiano Ronaldo in three full-body views: 1. Front view holding a football naturally in one hand 2. Left side profile 3. Back view showing "RONALDO" and number "7" All three views must show the exact same person, outfit, hairstyle, body proportions and facial identity. FACIAL EXPRESSIONS: Add five close-up portraits of Cristiano Ronaldo: - Focused - Passionate / shouting - Confident smile - Determined - Calm Every facial portrait must clearly remain the same Cristiano Ronaldo. DYNAMIC FOOTBALL POSES: Add realistic action panels showing Cristiano Ronaldo: - Dribbling with a football - Sprinting at full speed - Powerful shot/kick - Jumping for a header - Iconic goal celebration with arms extended Keep anatomy realistic, athletic and physically believable. EQUIPMENT / MATERIAL CALLOUTS: Include small professional detail panels showing: - Red jersey fabric - Ventilated mesh panels - Green shorts fabric - Ribbed football socks - White football boots - Match football COLOR PALETTE: Red, deep green, white, gold, black and neutral gray. DESIGN: Premium professional football character-development sheet. Warm off-white studio background. Clean editorial grid. Professional labels. Elegant typography. Fine divider lines. Subtle Portuguese football/stadium elements. Cinematic studio lighting. Soft realistic shadows. Photorealistic skin texture. Visible pores. Detailed hair strands. Accurate hands and fingers. Realistic fabric folds. Ultra-sharp details. High dynamic range. 8K photorealistic quality. IMPORTANT: Do NOT include Elena Moretti. Do NOT include any female character. Do NOT create a two-character comparison. Do NOT split the sheet between two people. The entire character sheet must be dedicated ONLY to Cristiano Ronaldo. FINAL RESULT: A premium AAA-game-quality Cristiano Ronaldo football character reference sheet combining: full-body turnaround + facial expressions + football action poses + equipment details + material callouts + color palette + professional character information. Make it look like an authentic high-end professional sports character bible, not a generic AI collage.
-```
-
-By [@Alina\_with\_Ai](https://x.com/Alina_with_Ai/status/2101991381413892150)
-
----
-
 <a id="evolink-character-sheets-case-103"></a>
 
 ## Adult Woman Character Reference Sheet
@@ -227,22 +131,6 @@ Create a professional AI Character Reference Sheet for a single adult female cha
 ```
 
 By [@Alina\_with\_Ai](https://x.com/Alina_with_Ai/status/2101869350366191729)
-
----
-
-<a id="evolink-character-sheets-case-113"></a>
-
-## Rambo Character Sheet
-
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2099865494211710977.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2099865494211710977.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Create a premium cinematic character bible sheet for RAMBO. Use uploaded character sheet as strict visual reference. Do not change his appearance. LAYOUT: Single character centered format. Rambo filling most of the sheet, centered and dominant. Deep red watercolor splash radiating behind Rambo — large and dramatic but controlled, same style as the Taken and John Wick sheets. Large bold brushstroke text RAMBO top left in deep red. Below small text: SOLDIER / JUNGLE. One massive dramatic cropped hero image of Rambo centered from mid-thigh up — intense burning expression, shirtless enormous muscles, bold red headband, veins visible on forearms, compound bow raised in one hand, combat knife in the other, deep red watercolor splash behind him. BOTTOM CENTER: Bold dramatic RAMBO in deep army green, slightly worn. Below it small text: JUNGLE. NO RULES. NO MERCY. Color palette — bold red, deep army green, dark skin tone, black, white. Tagline centered: THEY DREW FIRST BLOOD. OVERALL: Clean white background, bold controlled deep red watercolor splash centered behind Rambo, Rambo centered and dominant taking up most of the sheet, bold flat color blocking, chunky simplified forms, hard edge shadows, thick black outlines, vibrant saturated colors, minimal clean typography, cinematic cel-shaded 3D anime, hand-painted textures, not cartoon not Disney not Pixar, print ready.
-```
-
-By [@TechieBySA](https://x.com/TechieBySA/status/2099865500746485837)
 
 ---
 
@@ -278,22 +166,6 @@ By [@Luvune](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f
 
 ---
 
-<a id="freestylefly-case-306"></a>
-
-## 官方角色设定资料卡
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case306.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case306.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-[中文] 基于此角色和背景，请制作一份类似官方设定资料的角色资料卡。 ・包含三视图：正面、侧面和背面 ・添加角色面部表情的变化・分解并展示服装和装备的详细部分 ・添加色板・包含世界观设定的简要说明 ・总体上，使用有组织的布局（白色背景，插画风格） [English] Based on this character and background, please create a character reference sheet similar to official setting materials. ・Includes three-view drawings: front view, side view, and back view ・Add variations of the character's facial expressions ・Break down and display detailed parts of the clothing and equipment ・Add a color palette ・Include a brief explanation of the worldview setting ・Overall, use an organized layout (white background, illustration style)
-```
-
-By [@MANISH1027512](https://x.com/MANISH1027512/status/2045013913901867334)
-
----
-
 <a id="freestylefly-case-372"></a>
 
 ## 可爱角色设定表
@@ -323,6 +195,134 @@ Ultra-detailed cyberpunk anime character design sheet of a teenage genius hacker
 ```
 
 By [@Kashberg\_0](https://x.com/Kashberg_0/status/2055865126335762902)
+
+---
+
+<a id="freestylefly-case-487"></a>
+
+## 法式药妆商业分镜封面
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case487.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case487.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+35mm anamorphic, 2.39:1, no flares. Ultra-realistic international French pharmacy skincare commercial for La Roche-Posay Anthelios UVMune 400 Hydrating Cream SPF50+. Soft premium music plus tactile realistic sound effects throughout. Rich warm natural grain, premium but not over-polished. Palette: warm ivory whites, soft stone neutrals, signature La Roche-Posay orange, subtle clinical cyan-blue, sunlit beige, realistic warm skin tones. The tube is iconic. The skin is the proof. Every shot builds toward the moment the product disappears into real skin and protection becomes confidence. Fast cuts, macro intimacy, tactile realism, one quiet transformation that feels earned: sunscreen that looks invisible, breathable, and real. MODEL / WARDROBE Use the same female model consistently across all shots, matching the approved character sheet: slim natural model proportions, warm medium skin tone, dark brown hair in a clean low bun, refined oval face, natural brows, realistic under-eye detail, subtle lips, minimal makeup. Same face, same hairstyle, same body structure, same skin tone, same wardrobe continuity throughout. Wardrobe must be modest, elegant, and fully covered. No exposed body, no tank top, no fitted clothing, no cleavage, no bare shoulders, no body-hugging silhouette. Wardrobe: loose cream linen button-up shirt, full sleeves, fully buttoned or layered over a high-neck white inner top, soft beige trousers only if visible, minimal jewelry, refined French pharmacy skincare styling. Clothing should feel premium, breathable, clean, and international, never sensual, revealing, or fashion-body-focused. The camera may show hands, face, neck-up portrait, shoulders, waist-up, mirror shots, bathroom ritual shots, and outdoor walking lifestyle shots, but the body must not be emphasized. Keep attention on skin texture, hands applying sunscreen, product packaging, morning ritual, and confident protected face. SKIN REALISM Skin must look human and unfiltered: visible pores, peach fuzz, tiny fine lines, slight under-eye texture, natural skin tone variation, realistic facial micro texture, matte-hydrated finish. No glossy skin, no oily shine, no wet-look face, no waxy AI skin, no porcelain smoothing, no glam beauty filter, no fake glow. PRODUCT REFERENCE Use the exact La Roche-Posay Anthelios UVMune 400 Hydrating Cream SPF50+ product reference: white tube, orange square logo, black La Roche-Posay typography, orange SPF50+ panel, light blue hydrating cream band, orange lower panel, white pump-cap base. Product shape and color blocking must remain consistent. MUSIC DIRECTION Soft elegant premium skincare music throughout: gentle piano, airy ambient pads, subtle low-end warmth, very light modern electronic pulse, calm emotional lift. Music should feel expensive, dermatological, trustworthy, and international. Never loud, never dramatic, never trailer-like, never distracting. The music should support the tactile sound design without overpowering it.
+```
+
+By [@AIwithSynthia](https://x.com/AIwithSynthia/status/2061300623530942922)
+
+---
+
+<a id="freestylefly-case-512"></a>
+
+## Brutalist Freestyle 角色设定表
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case512.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case512.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+Use the uploaded reference image as the primary character design reference, preserving the overall silhouette, proportions, futuristic apparel layering, helmet geometry, visor shape, stone-like brutalist armor surfaces, black hooded coat, tactical streetwear construction, gloves, boots, utility belt, and monochrome industrial aesthetic. Create a premium production character sheet for a 2D stylized futuristic freestyle road soccer protagonist inspired by Brutalist architecture, industrial concrete textures, geometric forms, and minimalist sci-fi design language.  The presentation should resemble a AAA game character turnaround sheet mixed with a Nike commercial concept presentation. The character should feel agile, stylish, confident, athletic, and built for urban freestyle football.  Maintain the concrete-textured helmet with glowing orange visor, oversized hood, tactical long coat, mechanical gauntlets, armored boots, and industrial detailing exactly as the design language.  The football should be integrated naturally into the presentation.  Minimal off-white background (#F7F5F0). Professional production sheet layout.  Extremely clean linework.  Cinematic concept art.  Premium graphic design.  No photorealism.  High-end stylized illustration.  CHARACTER ANGLES Front View  Neutral hero pose.  Left Side View Right Side View Back View 3/4 Front View Dynamic Freestyle Pose  Standing on one foot while balancing the football.  Hero Pose  Football under foot.  Long coat flowing.  Confident posture.  CLOSE-UP CALLOUTS  Helmet Design  Orange illuminated visor  Concrete brutalist surface  Industrial wear  Panel breakdown  Upper Body  Coat construction  Buckles  Fabric folds  Armor integration  Mechanical Gloves  Finger articulation  Industrial joints  Material breakdown  Utility Belt  Equipment  Fasteners  Soccer accessory pouch  Boot Design  Heavy brutalist geometry  Street football grip  Orange illuminated sole accents  Football Design  Minimal futuristic street football  Concrete-inspired panel graphics  Orange accent details  MATERIAL CALLOUTS  Concrete Composite Armor  Carbon Tactical Fabric  Matte Black Nylon  Industrial Rubber  Forged Titanium Components  Orange Energy Lighting  COLOR PALETTE  Concrete White  Matte Black  Graphite Gray  Charcoal  Burnt Orange Glow  Dark Steel  EXPRESSION SHEET  Neutral  Focused  Competitive  Confident Smile  Game Face  Victory Expression  ACTION SILHOUETTES  Ball Juggle  Around The World  Elastico  Rainbow Flick  Backheel  Crossover  Street Sprint  Ball Stall  CAMERA CALLOUTS  Hero Shot Low Angle  Turnaround Orthographic  Close-up Macro Lens  Dynamic Pose 35mm Tracking Camera  Hero Pose 24mm Cinematic Lens  SFX LABELS  WHOOSH  SWISH  TAP  BOUNCE  THUD  ZIP  SPIN  SKRT  VROOM  RUSH  MUSIC HIT  CROWD CHEER  SLOW MOTION LABELS  120 FPS  240 FPS  Freeze Frame  Motion Trails  Speed Ramping  GUIDELINES  Maintain consistent proportions across all views.  Keep the brutalist design language consistent.  Emphasize concrete-inspired hard surfaces contrasted with flexible tactical fabrics.  Preserve the glowing orange visor as the primary focal point.  Use clean production callouts with arrows and labels.  Include measurement guides, material notes, and design annotations.  Keep presentation minimal and premium.  Avoid clutter.  Professional concept art quality suitable for AAA game development, cinematic production, and advertising pitch decks.  LAYOUT  16:9 Landscape  Top Center: MAIN TITLE STREET FLOW // BRUTALIST FREESTYLE  Below: Production Character Sheet  Center: Large Hero Character  Left: Front • Side • Back Views  Right: 3/4 View • Action Pose • Hero Pose  Bottom: Close-ups • Materials • Color Palette • Equipment • Football Design • Expressions • Camera Notes • SFX • Slow Motion • Production Annotations  Minimal off-white background with subtle grid guides, technical drawing arrows, clean typography, and premium commercial presentation quality.
+```
+
+By [@ShamsAmin56](https://x.com/ShamsAmin56/status/2071590431725670517)
+
+---
+
+<a id="prompthero-379a7460b08"></a>
+
+## A lone desert scout riding a robotic reptile-like \.\.\.
+
+<a href="https://cdn.prompthero.com/dd2egcf5h6m4bj9q17l2opopi4-hero-10-a-lone-desert-scout-riding-a-robotic-reptile-like-pack-mount-up-a-rocky-slope-under-a-wide-open-sky.jpeg"><img src="https://cdn.prompthero.com/dd2egcf5h6m4bj9q17l2opopi4-hero-10-a-lone-desert-scout-riding-a-robotic-reptile-like-pack-mount-up-a-rocky-slope-under-a-wide-open-sky.jpeg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+A lone desert scout riding a robotic reptile-like pack mount up a rocky slope under a wide open sky, low-angle vertical composition, quiet cinematic tension, sun-baked sci-fi frontier atmosphere. The rider sits upright and calm in layered desert travel gear: wrapped scarf, sleeveless tactical vest, harness straps, cargo trousers, gloves, rugged boots, belt pouches, worn fabric folds, dusty creases, scuffed edges, practical survival styling. A long rifle is secured vertically along the rider’s back. gaze lowered toward the path ahead, expression unreadable and guarded. The mechanical mount has an elongated neck, sensor-like lens eye, segmented armor plates, exposed joints, dangling cables, scratched paint, teal structural panels, orange outer plating, black mechanical understructure, weathered metal surfaces, compact saddle system, utilitarian travel build. Hard overhead desert sunlight, sharp shadows, clean blue sky, pale cloud shapes, warm rocky ground, strong diagonal slope, sparse environment, calm before danger. cinematic poster framing, desert nomad mood, high detail, strong silhouette, atmospheric stillness.
+```
+
+[Source](https://prompthero.com/prompt/379a7460b08-hero-10-a-lone-desert-scout-riding-a-robotic-reptile-like-pack-mount-up-a-rocky-slope-under-a-wide-open-sky)
+
+---
+
+<a id="prompthero-793278dabcf"></a>
+
+## Utiliser l’image fournie comme image de référence\.\.\.\.
+
+<a href="https://cdn.prompthero.com/fwav4wqyeyefnd76ugpvt6rghb-hero-10-utiliser-limage-fournie-comme-image-de-rfrence-ne-pas-modifier-le-visage-la-coiffure-les-vtements-ni-les-bijoux-du.jpeg"><img src="https://cdn.prompthero.com/fwav4wqyeyefnd76ugpvt6rghb-hero-10-utiliser-limage-fournie-comme-image-de-rfrence-ne-pas-modifier-le-visage-la-coiffure-les-vtements-ni-les-bijoux-du.jpeg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+Utiliser l’image fournie comme image de référence. Ne pas modifier le visage, la coiffure, les vêtements ni les bijoux du personnage. Conserver une ressemblance maximale avec la photo d’origine. Créer une animation photoréaliste d’une figurine chibi ultra détaillée (grosse tête, petit corps) assise sur la paume gauche ouverte d’une main humaine. La main droite s’approche lentement et appuie très délicatement sur le dessus de la tête du personnage, comme si elle touchait une petite figurine précieuse. Pendant cette interaction : * le personnage cligne naturellement des yeux ; * un léger sourire apparaît ; * les joues rosissent légèrement ; * les cheveux bougent doucement ; * la robe blanche suit un léger mouvement naturel ; * les jambes se balancent discrètement ; * lorsque le doigt appuie, la tête s’abaisse légèrement avant de revenir en place avec un petit effet élastique très réaliste ; * le personnage regarde brièvement le doigt puis la caméra avec une expression attendrissante. La peau doit présenter une texture très réaliste. L’arrière-plan reste fortement flou (bokeh) avec les lumières du restaurant transformées en grosses sphères lumineuses. Éclairage chaud, couleurs pastel douces, texture lisse, profondeur de champ très faible. La caméra effectue un lent travelling avant accompagné d’une légère rotation de quelques degrés pour créer un effet cinématographique. Qualité cinéma, HDR, rendu Pixar hyperréaliste, animation extrêmement fluide, 24 fps, sans saccades. Format : vertical 4:5
+```
+
+[Source](https://prompthero.com/prompt/793278dabcf-hero-10-utiliser-limage-fournie-comme-image-de-rfrence-ne-pas-modifier-le-visage-la-coiffure-les-vtements-ni-les-bijoux-du)
+
+---
+
+<a id="prompthero-987777f3f06"></a>
+
+## Emerging from a tumultuous backdrop of swirling sm\.\.\.
+
+<a href="https://cdn.prompthero.com/86geccu3i006emi6t3ii1mh42b8k-flux-flux-11-pro-emerging-from-a-tumultuous-backdrop-of-swirling-smoke-and-shadows-a-fierce-samurai-warrior-commands-attention-poised-for-battle-with.jpg"><img src="https://cdn.prompthero.com/86geccu3i006emi6t3ii1mh42b8k-flux-flux-11-pro-emerging-from-a-tumultuous-backdrop-of-swirling-smoke-and-shadows-a-fierce-samurai-warrior-commands-attention-poised-for-battle-with.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+Emerging from a tumultuous backdrop of swirling smoke and shadows, a fierce samurai warrior commands attention, poised for battle with a gleaming sword held in a powerful grip. Dressed in intricately detailed black armor adorned with golden accents, his imposing presence is heightened by fierce red markings on his face and piercing eyes that exude intensity and determination. The dynamic pose suggests movement, as if he is launching into action against an unseen foe, creating a sense of urgency and drama. The color palette is dark and muted, dominated by deep blacks and grays, punctuated by vibrant reds that signify conflict and passion, resulting in a striking, cinematic atmosphere that captivates the viewer. This image encapsulates a moment filled with tension and valor, epitomizing the spirit of a timeless warrior ready to face any challenge.
+```
+
+[Source](https://prompthero.com/prompt/987777f3f06-flux-flux-11-pro-emerging-from-a-tumultuous-backdrop-of-swirling-smoke-and-shadows-a-fierce-samurai-warrior-commands-attention-poised-for-battle-with)
+
+---
+
+<a id="prompthero-d394a02ce2c"></a>
+
+## Full body standing pose, a petite graceful humanoi\.\.\.
+
+<a href="https://cdn.prompthero.com/xgab971jxgctw092afsux8wqa1-hero-10-full-body-standing-pose-a-petite-graceful-humanoid-woman-with-smooth-green-tinted-skin-and-a-subtle-natural-skin-sheen.jpeg"><img src="https://cdn.prompthero.com/xgab971jxgctw092afsux8wqa1-hero-10-full-body-standing-pose-a-petite-graceful-humanoid-woman-with-smooth-green-tinted-skin-and-a-subtle-natural-skin-sheen.jpeg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+Full body standing pose, a petite graceful humanoid woman with smooth green-tinted skin and a subtle natural skin sheen. Near-human features. Large expressive dark eyes. Long large pointed ears. A small paired bifurcated sensory organ at the center of the forehead. Slender delicate feminine build. Warm, gentle expression. Wearing simple layered earth-toned clothing, a light tunic and loose trousers in muted olive and ochre. Plain neutral background. Graphic novel illustration, European sci-fi comics style, Heavy Metal magazine aesthetic, bold clean linework, flat muted colors, Moebius and Enki Bilal style
+```
+
+[Source](https://prompthero.com/prompt/d394a02ce2c-hero-10-full-body-standing-pose-a-petite-graceful-humanoid-woman-with-smooth-green-tinted-skin-and-a-subtle-natural-skin-sheen)
+
+---
+
+<a id="prompthero-e9e771a0eb7"></a>
+
+## 1980&\#39;s Wonder Woman costume, woman resembling Lynd\.\.\.
+
+<a href="https://cdn.prompthero.com/v1_017e1f0bae72277c05461d3541-hero-10-1980s-wonder-woman-costume-woman-resembling-lynda-carter-striking-a-heroic-pose-dark-room-ambiance-vintage-color-tones-stunning-colorized.jpg"><img src="https://cdn.prompthero.com/v1_017e1f0bae72277c05461d3541-hero-10-1980s-wonder-woman-costume-woman-resembling-lynda-carter-striking-a-heroic-pose-dark-room-ambiance-vintage-color-tones-stunning-colorized.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+1980's Wonder Woman costume, woman resembling Lynda Carter, striking a heroic pose, dark room ambiance, vintage color tones, stunning colorized photo, bold and empowering, artistic expression influenced by Dee Whitcomb, cinematic depth, rich contrasts, ultra-detailed, high quality, capturing the essence of feminism and strength, embracing iconic superhero spirit.
+```
+
+[Source](https://prompthero.com/prompt/e9e771a0eb7-hero-10-1980s-wonder-woman-costume-woman-resembling-lynda-carter-striking-a-heroic-pose-dark-room-ambiance-vintage-color-tones-stunning-colorized)
+
+---
+
+<a id="prompthero-e9f803c891c"></a>
+
+## Ultra-detailed cinematic portrait of a Hong Kong f\.\.\.
+
+<a href="https://cdn.prompthero.com/v1_ddbc61b08ee0a489a6783e1c86-hero-10-ultra-detailed-cinematic-portrait-of-a-hong-kong-female-cyborg-navy-and-white-metallic-limbs-partially-broken-revealing-internal-machinery.jpg"><img src="https://cdn.prompthero.com/v1_ddbc61b08ee0a489a6783e1c86-hero-10-ultra-detailed-cinematic-portrait-of-a-hong-kong-female-cyborg-navy-and-white-metallic-limbs-partially-broken-revealing-internal-machinery.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+Ultra-detailed cinematic portrait of a Hong Kong female cyborg , navy and white metallic limbs partially broken revealing internal machinery, realistic skin texture and sharp facial and body features, intense focused expression, hyper-realistic photorealism, sci-fi concept art, mechanical complexity, clean white background with technical sketch lines and blueprint elements, dramatic lighting, sharp focus, 8K resolution, ultra-high detail, cinematic depth, concept art style, futuristic technology <lora:foollady-zit(16):0.85> <lora:ZiTAn1meL1nes:0.3> <lora:REDZ15_DetailDaemonZ_lora_v1.1:-0.7>
+```
+
+By [@joaquin1991](https://prompthero.com/prompt/e9f803c891c-hero-10-ultra-detailed-cinematic-portrait-of-a-hong-kong-female-cyborg-navy-and-white-metallic-limbs-partially-broken-revealing-internal-machinery)
 
 ---
 

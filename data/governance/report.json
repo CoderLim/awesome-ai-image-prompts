@@ -1,49 +1,49 @@
 {
   "total": 2169,
-  "visible": 1930,
-  "hidden": 239,
-  "approved": 1929,
+  "visible": 1721,
+  "hidden": 448,
+  "approved": 1720,
   "pending": 1,
-  "rejected": 239,
-  "published": 1929,
-  "canonical": 1930,
+  "rejected": 448,
+  "published": 1720,
+  "canonical": 1721,
   "duplicateExcluded": 62,
-  "duplicateExcludedFromGallery": 45,
+  "duplicateExcludedFromGallery": 32,
   "uniqueCases": 2107,
   "galleryGroups": {
-    "reference": 228,
-    "generation": 1701
+    "reference": 199,
+    "generation": 1521
   },
   "types": {
-    "generation": 1889,
-    "editing": 40
+    "generation": 1683,
+    "editing": 37
   },
   "inputModes": {
-    "reference-to-image": 191,
-    "text-to-image": 1501,
-    "unknown": 200,
-    "image-editing": 37
+    "reference-to-image": 165,
+    "text-to-image": 1367,
+    "unknown": 154,
+    "image-editing": 34
   },
   "categories": {
-    "generation/posters": 165,
-    "generation/illustrations": 230,
-    "editing/restyle": 22,
-    "generation/creative-art": 271,
-    "generation/characters": 139,
-    "generation/logos": 27,
-    "generation/portraits": 734,
-    "generation/products": 49,
-    "generation/travel": 63,
-    "generation/architecture": 47,
+    "generation/posters": 133,
+    "generation/illustrations": 215,
+    "editing/restyle": 19,
+    "generation/creative-art": 251,
+    "generation/characters": 123,
+    "generation/portraits": 706,
+    "generation/products": 41,
+    "generation/travel": 61,
+    "generation/architecture": 45,
     "editing/composition": 7,
     "editing/portrait-editing": 4,
-    "generation/other": 48,
+    "generation/other": 27,
     "editing/background-change": 2,
     "editing/object-replacement": 1,
-    "generation/comics-storyboards": 22,
-    "generation/infographics": 56,
-    "generation/ui-mockups": 29,
-    "generation/avatars": 10,
+    "generation/comics-storyboards": 16,
+    "generation/infographics": 33,
+    "generation/logos": 17,
+    "generation/avatars": 6,
+    "generation/ui-mockups": 10,
     "editing/object-removal": 1,
     "editing/outfit-change": 3
   },
@@ -54,8 +54,8 @@
   },
   "flags": {
     "rights-review": 2157,
+    "manual-excluded": 411,
     "input-mode-review": 237,
-    "manual-excluded": 189,
     "duplicate-candidate:same-prompt-prefix": 51,
     "classification-review": 242,
     "missing-original-post-url": 180,
@@ -77,5 +77,5 @@
     "perceptualHash": "not-run",
     "semanticEmbedding": "not-run"
   },
-  "manualExcluded": 189
+  "manualExcluded": 411
 }

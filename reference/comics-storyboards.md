@@ -22,38 +22,6 @@ By [@Mayz1169](https://x.com/Mayz1169/status/2100136174446936508)
 
 ---
 
-<a id="freestylefly-case-347"></a>
-
-## 4×4 动作分解参考表
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case347.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case347.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-[STYLE] Monochrome grayscale illustration, 3D-rendered character, clean instructional reference sheet, white background, comic-style cell grid layout, technical diagram aesthetic. [LAYOUT] 4×4 grid layout with a total of 16 panels. Each panel is separated by thin black border lines. Cells are numbered from 1 to 16, with consistent panel sizes. [CHARACTER] image1 (the same character appears consistently in all panels) [PANEL STRUCTURE – per cell] Top-left: bold number badge + English title text Center: full-body character pose illustration Bottom-left: English description text (3–4 lines) Overlay: directional arrows indicating movement [ARROWS / MOTION INDICATORS] Curved arrows, straight arrows, and circular rotation indicators placed around the character to show motion flow and direction. [RENDERING STYLE] Highly detailed 3D sculpted style, soft studio lighting, subtle shadows, no color, grayscale shading, clean linework, game concept art quality. [NEGATIVE] No background scenery, no color tones, no additional characters, no complex background.
-```
-
-By [@oggii\_0](https://x.com/oggii_0/status/2048614158699217302)
-
----
-
-<a id="freestylefly-case-413"></a>
-
-## 当代舞现场 Storyboard
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case413.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case413.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Create a raw contemporary dance performance storyboard focused on intense physical movement and live singing. Use reference image for the character. 16:9 storyboard sheet, 12 cinematic panels. The actual storyboard drawings must be black and white only: rough pencil lines, minimal detail, fast gesture drawing energy, simple anatomy construction and strong silhouette readability. Keep the artwork lightweight, dynamic and unfinished like early choreography previs. A solitary female performer sings continuously while executing an emotionally charged contemporary dance routine inside a massive empty brutalist hall. The choreography is aggressive, fluid and constantly evolving: rapid turns, floor slides, crawling transitions, sharp body isolations, trembling hands, extreme balance shifts, hair whips, lunges, jumps, collapsing movements and distorted sculptural poses. Every panel must contain visible motion and strong body momentum. Avoid static standing poses. The performer should feel trapped between ritual, exhaustion and emotional release. Use cinematic arthouse camerawork with handheld energy, whip pans, orbit movement, overhead shots, side silhouettes, aggressive close-ups, long lens compression and extreme negative space. the environment minimal: empty space, smoke, fabric motion, harsh light beams and wet floor reflections only. Annotation color system: red arrows = body movement blue arrows = camera movement green marks = framing / composition notes orange marks = lighting direction purple marks = vocal / emotional emphasis black text = short lens notes and panel labels No timestamps. End with one overwhelming final movement pose beneath a harsh isolated spotlight.
-```
-
-By [@ogbenniasamuel2](https://x.com/ogbenniasamuel2/status/2053088572031250799)
-
----
-
 <a id="freestylefly-case-535"></a>
 
 ## 同一人脸十二款发型 Lookbook
@@ -67,22 +35,6 @@ Create a 12-panel grid (3 columns × 4 rows, numbered 1 to 12) showing the SAME 
 ```
 
 By [@Ciri\_ai](https://x.com/Ciri_ai/status/2092452220768002400)
-
----
-
-<a id="prompthero-cc6cbf898e9"></a>
-
-## Great prompt\! A clean 3×3 \[ratio\] storyboard grid\.\.\.
-
-<a href="https://cdn.prompthero.com/v1_678dbbca4998f379768936a87f-nano-banana-nano-banana-2-great-prompt-a-clean-33-ratio-storyboard-grid-with-nine-equal-ratio-sized-panels-on-45-ratio-use-the-reference.jpg"><img src="https://cdn.prompthero.com/v1_678dbbca4998f379768936a87f-nano-banana-nano-banana-2-great-prompt-a-clean-33-ratio-storyboard-grid-with-nine-equal-ratio-sized-panels-on-45-ratio-use-the-reference.jpg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-Great prompt! A clean 3×3 [ratio] storyboard grid with nine equal [ratio] sized panels on [4:5] ratio. Use the reference image as the base product reference. Keep the same product, packaging design, branding, materials, colors, proportions and overall identity across all nine panels exactly as the reference. The product must remain clearly recognizable in every frame. The label, logo and proportions must stay exactly the same. This storyboard is a high-end designer mockup presentation for a branding portfolio. The focus is on form, composition, materiality and visual rhythm rather than realism or lifestyle narrative. The overall look should feel curated, editorial and design-driven. FRAME 1: Front-facing hero shot of the product in a clean studio setup. Neutral background, balanced composition, calm and confident presentation of the product. FRAME 2: Close-up shot with the focus centered on the middle of the product. Focusing on surface texture, materials and print details. FRAME 3: Shows the reference product placed in an environment that naturally fits the brand and product category. Studio setting inspired by the product design elements and colours. FRAME 4: Product shown in use or interaction on a neutral studio background. Hands and interaction elements are minimal and restrained, the look matches the style of the package. FRAME 5: Isometric composition showing multiple products arranged in a precise geometric order from the top isometric angle. All products are placed at the same isometric top angle, evenly spaced, clean, structured and graphic. FRAME 6: Product levitating slightly tilted on a neutral background that matches the reference image color palette. Floating position is angled and intentional, the product is floating naturally in space. FRAME 7: is an extreme close-up focusing on a specific detail of the label, edge, texture or material behavior. FRAME 8: The product in an unexpected yet aesthetically strong setting that feels bold, editorial and visually striking. Unexpected but highly stylized setting. Studio-based, and designer-driven. Bold composition that elevates the brand. FRAME 9: Wide composition showing the product in use, placed within a refined designer setup. Clean props, controlled styling, cohesive with the rest of the series. CAMERA & STYLE: Ultra high-quality studio imagery with a real camera look. Different camera angles and framings across frames. Controlled depth of field, precise lighting, accurate materials and reflections. Lighting logic, color palette, mood and visual language must remain consistent across all nine panels as one cohesive series. OUTPUT: A clean 3×3 grid with no borders, no text, no captions and no watermarks.
-```
-
-[Source](https://prompthero.com/prompt/cc6cbf898e9-nano-banana-nano-banana-2-great-prompt-a-clean-33-ratio-storyboard-grid-with-nine-equal-ratio-sized-panels-on-45-ratio-use-the-reference)
 
 ---
 

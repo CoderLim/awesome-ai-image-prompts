@@ -2,7 +2,7 @@
 
 [English](README.md) · [来源](SOURCES.md)
 
-共 1929 个可浏览案例。参考图生成包含风格转换、换装等基于输入图的任务；普通图片生成暂含输入要求待确认的案例。每个案例默认展示一张原始效果图，仅来源明确的编辑前后对比保留两张。完整提示词以可复制的单行代码块展示，原始格式保留在 JSON 中。案例未独立复现。
+共 1720 个可浏览案例。参考图生成包含风格转换、换装等基于输入图的任务；普通图片生成暂含输入要求待确认的案例。每个案例默认展示一张原始效果图，仅来源明确的编辑前后对比保留两张。完整提示词以可复制的单行代码块展示，原始格式保留在 JSON 中。案例未独立复现。
 
 <table><tr>
 <td width="33%" valign="top" align="center"><a href="generation/posters.md#evolink-advertising-case-188"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2100585068490309632.jpg" width="230" alt="Source example"></a><br><a href="generation/posters.md#evolink-advertising-case-188"><strong>Nike Orange Sports Poster</strong></a></td>
@@ -68,38 +68,36 @@
 
 ### 图片生成
 
-- [portraits](generation/portraits.md) (677)
-- [avatars](generation/avatars.md) (9)
-- [illustrations](generation/illustrations.md) (205)
-- [products](generation/products.md) (45)
-- [posters](generation/posters.md) (134)
-- [characters](generation/characters.md) (110)
-- [architecture](generation/architecture.md) (46)
-- [infographics](generation/infographics.md) (53)
-- [logos](generation/logos.md) (24)
-- [travel](generation/travel.md) (60)
-- [ui mockups](generation/ui-mockups.md) (28)
-- [comics storyboards](generation/comics-storyboards.md) (17)
-- [creative art](generation/creative-art.md) (251)
-- [other](generation/other.md) (42)
+- [portraits](generation/portraits.md) (653)
+- [avatars](generation/avatars.md) (6)
+- [illustrations](generation/illustrations.md) (192)
+- [products](generation/products.md) (37)
+- [posters](generation/posters.md) (104)
+- [characters](generation/characters.md) (102)
+- [architecture](generation/architecture.md) (44)
+- [infographics](generation/infographics.md) (31)
+- [logos](generation/logos.md) (15)
+- [travel](generation/travel.md) (58)
+- [ui mockups](generation/ui-mockups.md) (10)
+- [comics storyboards](generation/comics-storyboards.md) (14)
+- [creative art](generation/creative-art.md) (232)
+- [other](generation/other.md) (23)
 
 ### 参考图生成
 
-- [portraits](reference/portraits.md) (57)
-- [avatars](reference/avatars.md) (1)
-- [illustrations](reference/illustrations.md) (24)
+- [portraits](reference/portraits.md) (53)
+- [illustrations](reference/illustrations.md) (22)
 - [products](reference/products.md) (4)
-- [posters](reference/posters.md) (31)
-- [characters](reference/characters.md) (29)
+- [posters](reference/posters.md) (29)
+- [characters](reference/characters.md) (21)
 - [architecture](reference/architecture.md) (1)
-- [infographics](reference/infographics.md) (3)
-- [logos](reference/logos.md) (3)
+- [infographics](reference/infographics.md) (2)
+- [logos](reference/logos.md) (2)
 - [travel](reference/travel.md) (3)
-- [ui mockups](reference/ui-mockups.md) (1)
-- [comics storyboards](reference/comics-storyboards.md) (5)
-- [creative art](reference/creative-art.md) (20)
-- [other](reference/other.md) (6)
-- [restyle](reference/restyle.md) (22)
+- [comics storyboards](reference/comics-storyboards.md) (2)
+- [creative art](reference/creative-art.md) (19)
+- [other](reference/other.md) (4)
+- [restyle](reference/restyle.md) (19)
 - [portrait editing](reference/portrait-editing.md) (4)
 - [outfit change](reference/outfit-change.md) (3)
 - [background change](reference/background-change.md) (2)

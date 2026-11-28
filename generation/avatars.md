@@ -6,22 +6,6 @@
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
-<a id="freestylefly-case-34"></a>
-
-## 插画艺术创作图
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case34.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case34.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-{ "type": "character avatar grid", "theme": "{argument name=\"theme\" default=\"Journey to the West mythology\"}", "style": "{argument name=\"art style\" default=\"clean 2D cartoon vector illustration, thick outlines, flat colors\"}", "layout": { "background": "{argument name=\"background color\" default=\"light gray\"} subtle texture", "format": "grid of circular portraits with text labels centered below each circle", "rows": [ { "count": 4, "items": [ {"label": "Sun Wukong", "description": "monkey boy with golden headband and red scarf"}, {"label": "Tang Sanzang", "description": "monk with ornate golden crown"}, {"label": "Zhu Bajie", "description": "pig man holding a rake"}, {"label": "Sha Wujing", "description": "bearded man holding a crescent moon staff"} ] }, { "count": 4, "items": [ {"label": "White Dragon Horse", "description": "white horse with golden bridle"}, {"label": "Jade Emperor", "description": "older man with white beard and golden crown"}, {"label": "Guanyin", "description": "goddess holding a willow branch"}, {"label": "Bull Demon Kink", "description": "fierce bull demon in armor"} ] }, { "count": 4, "items": [ {"label": "Princess Iron Fan", "description": "woman holding a green palm leaf fan"}, {"label": "Red Boy", "description": "boy with red hair, horns, and a small flame"}, {"label": "Black Wind Demon", "description": "dark shadowy demon with glowing red eyes"}, {"label": "Nezha", "description": "boy with double hair buns holding a flaming spear"} ] }, { "count": 3, "description": "partial row repeating Princess Iron Fan, Black Wind Demon, and Nezha, slightly cropped at the bottom" } ] } }
-```
-
-By [@Ryan\_Suo](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-34)
-
----
-
 <a id="freestylefly-case-37"></a>
 
 ## 综合应用场景图
@@ -38,22 +22,6 @@ By [@midori\_tatsuta](https://github.com/freestylefly/awesome-gpt-image-2/blob/0
 
 ---
 
-<a id="freestylefly-case-57"></a>
-
-## 界面交互设计图
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case57.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case57.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-{ "type": "mobile social media app UI mockup", "platform": "Twitter/X dark mode", "header": { "status_bar": "time 19:28, bird icon, signal, wifi, battery", "navigation": "back arrow, 'Tweet' title" }, "post": { "author": { "avatar": "portrait of a Chinese emperor in red robes and black hat", "display_name": "{argument name=\"display name\" default=\"Emperor Zhu Yuanzhang\"} 👑 [verified badge]", "handle": "{argument name=\"handle\" default=\"@Emperor_Ming\"}" }, "content": { "text": "{argument name=\"tweet text\" default=\"I have ascended to the Dragon Throne! Today, I am proclaimed as the Emperor of the Ming Dynasty. The era of Hongwu has begun. Let us rebuild our great nation together!\"}", "hashtags": "#MingDynasty #HongwuEra #NewBeginning", "media_grid": { "count": 3, "images": [ "emperor seated on an ornate golden throne in red and gold robes", "wide shot of a grand Chinese palace courtyard with a large crowd", "emperor on horseback leading an army with a red dragon banner" ] } }, "metadata": { "timestamp": "{argument name=\"timestamp\" default=\"1:36 PM · Jan 23, 1368\"}", "engagement": "5,432 Retweets, 8,765 Quotes, 20.1K Likes, 102.3K Views" }, "actions": "reply, retweet, like (red heart with '1'), share, upload" }, "footer": { "reply_bar": { "avatar": "woman in red", "placeholder": "Reply to Emperor Zhu Yuanzhang..." }, "navigation_bar": "home, search, notifications (red '1' badge), messages" } }
-```
-
-By [@liyue\_ai](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-57)
-
----
-
 <a id="freestylefly-case-188"></a>
 
 ## 暗黑极简头像网站视觉设计
@@ -67,22 +35,6 @@ By [@liyue\_ai](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbf
 ```
 
 By [@xiaoxiaodong01](https://x.com/xiaoxiaodong01/status/2046556758521573546)
-
----
-
-<a id="freestylefly-case-302"></a>
-
-## 九位大师的机械键盘设计图鉴
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case302.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case302.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-[中文] 一个九宫格图片，展现九位当代知名设计师设计的同一组物体：机械键盘，包括设计师头像，设计师对于设计的中文文字解读和作品呈现。排版统一规则 [English] A nine-grid image showing the same group of objects designed by nine contemporary famous designers: mechanical keyboards, including designer avatars, designers' Chinese text interpretations of the designs, and artwork presentations. Unified layout rules
-```
-
-By [@TanShilong](https://x.com/TanShilong/status/2045148649869692982)
 
 ---
 

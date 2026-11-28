@@ -6,38 +6,6 @@
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
-<a id="prompthero-79812e8afe4"></a>
-
-## Black and white street photography of an attractiv\.\.\.
-
-<a href="https://cdn.prompthero.com/u1ped2ze935n93hm71qfm5x8l8lw-midjourney-6-black-and-white-street-photography-of-an-attractive-woman-on-the-streets-of-london-shot-by-arriflex-35-bl-camera.png"><img src="https://cdn.prompthero.com/u1ped2ze935n93hm71qfm5x8l8lw-midjourney-6-black-and-white-street-photography-of-an-attractive-woman-on-the-streets-of-london-shot-by-arriflex-35-bl-camera.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-Black and white street photography of an attractive woman on the streets of London, shot by arriflex 35 BL Camera Canon K35 Prime Lenses --chaos 75 --ar 1:2 --personalize yruxpc2 --stylize 750 --v 6.1
-```
-
-By [@NorthmoorAI](https://prompthero.com/prompt/79812e8afe4-midjourney-6-black-and-white-street-photography-of-an-attractive-woman-on-the-streets-of-london-shot-by-arriflex-35-bl-camera)
-
----
-
-<a id="prompthero-289466f3660"></a>
-
-## minimalist sci-fi, solitary figure in tattered clo\.\.\.
-
-<a href="https://cdn.prompthero.com/dzg81p661t20xg19f1wxlw3razdm-flux-flux-11-pro-ultra-minimalist-sci-fi-solitary-figure-in-tattered-cloak-stands-atop-barren-hill-holding-glowing-energy-staff-silhouetted-against-vast-starfield.png"><img src="https://cdn.prompthero.com/dzg81p661t20xg19f1wxlw3razdm-flux-flux-11-pro-ultra-minimalist-sci-fi-solitary-figure-in-tattered-cloak-stands-atop-barren-hill-holding-glowing-energy-staff-silhouetted-against-vast-starfield.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-minimalist sci-fi, solitary figure in tattered cloak stands atop barren hill, holding glowing energy staff, silhouetted against vast starfield, empty planet surface stretches to horizon, single figure centered, stark landscape, expansive sky, stark contrasts, clean lines, negative space, minimalism, wide angle view, distant stars and nebulae in background, rocky outcropping and figure in foreground, night, thin hazy atmosphere, foreboding mood, rim lighting blue and white stark shadows lighting, monochromatic color palette
-```
-
-[Source](https://prompthero.com/prompt/289466f3660-flux-flux-11-pro-ultra-minimalist-sci-fi-solitary-figure-in-tattered-cloak-stands-atop-barren-hill-holding-glowing-energy-staff-silhouetted-against-vast-starfield)
-
----
-
 <a id="prompthero-449482c0bc0"></a>
 
 ## high-resolution photography, upper-body compositio\.\.\.

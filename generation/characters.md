@@ -22,22 +22,6 @@ By [@TechieBySA](https://x.com/TechieBySA/status/2101678773703754189)
 
 ---
 
-<a id="evolink-character-sheets-case-105"></a>
-
-## J and K Character Sheet
-
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2101629646638858240.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2101629646638858240.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Create a premium cinematic character bible sheet for J and K. LAYOUT: Wide horizontal format. Warm off-white background. Two massive hero shots side by side in the center — J on the left, K on the right. Clean editorial typography surrounding them. Feels like a premium character bible, not a poster. TOP LEFT: Large bold editorial text MIB2 in deep black. Below in small thin caps: MEN IN BLACK 2. Below that three descriptors: SUITS / GUNS / ALIENS. LEFT SIDE small text block: AGENT J ROLE: THE ROOKIE STYLE: LOUD, FAST, EFFECTIVE WEAPON: SILVER ALIEN PISTOL QUOTE: I MAKE THIS LOOK GOOD. RIGHT SIDE small text block: AGENT K ROLE: THE VETERAN STYLE: CALM, PRECISE, DEADLY WEAPON: LARGE ALIEN RIFLE QUOTE: NO COMMENT. CENTER: J from mid-thigh up — wide confident grin, small silver pistol raised, black suit slightly roughed up, sunglasses slightly crooked, electric blue energy behind him. K from mid-thigh up — completely deadpan, large alien gun raised, black suit perfectly neat, sunglasses perfectly straight, dark grey energy behind him. Both facing slightly toward each other. Warm circular ink brush splash behind both of them together like the Maya sheet, deep black tones. RIGHT SIDE: Three small detail panels stacked — Close up on J's wide grin and crooked sunglasses. Close up on K's deadpan expression and perfectly straight sunglasses. Close up on both guns side by side. BOTTOM CENTER: Color palette — deep black, white, electric blue, dark grey. Tagline: THEY'RE BACK. SAME SUITS. MORE ALIENS. OVERALL: Warm off-white background, deep black ink brush circle behind both characters, clean minimal editorial typography, cinematic cel-shaded 3D anime, hand-painted textures, not cartoon not Disney not Pixar, print ready, feels like a premium lifestyle character bible.
-```
-
-By [@TechieBySA](https://x.com/TechieBySA/status/2101629652741624268)
-
----
-
 <a id="evolink-character-sheets-case-116"></a>
 
 ## The Chef and the Cat Character Sheet
@@ -118,22 +102,6 @@ By [@joshesye](https://x.com/joshesye/status/2046593124646928397)
 
 ---
 
-<a id="freestylefly-case-270"></a>
-
-## 信息图可视化设计
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case270.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case270.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-[中文] このキャラクターと背景を元に、 公式設定資料のようなキャラクターシートを作成してください。 ・正面、側面、背面の3面図を含める ・キャラクターの表情バリエーションを追加 ・衣装や装備の詳細パーツを分解して表示 ・カラーパレットを追加 ・世界観の簡単な説明を入れる ・全体は整理されたレイアウト （白背景、図解風） ・アスペクト比16：9 　← 高解像度、プロのコンセプトアートスタイル [English] Based on this character and background, please create a character sheet like an official setting material. ・Include front, side, and back 3-view drawings ・Add character expression variations ・Disassemble and display detailed parts of costumes and equipment ・Add a color palette ・Include a brief explanation of the world view ・Overall organized layout (White background, diagrammatic style) ・Aspect ratio 16:9 　← High resolution, professional concept art style
-```
-
-By [@Toshi\_nyaruo\_AI](https://x.com/Toshi_nyaruo_AI/status/2045025277538107420)
-
----
-
 <a id="freestylefly-case-271"></a>
 
 ## 人物角色设定图
@@ -147,38 +115,6 @@ By [@Toshi\_nyaruo\_AI](https://x.com/Toshi_nyaruo_AI/status/2045025277538107420
 ```
 
 By [@tsubaki\_ew](https://x.com/tsubaki_ew/status/2045259289993048284)
-
----
-
-<a id="freestylefly-case-290"></a>
-
-## 古风诗人镭射典藏卡牌
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case290.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case290.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-[中文] 为中国古代诗人设计一套游戏卡片，并按照SSR SR R 分级，重点卡片有放大展示的效果，包括卡面设计和人物介绍，有很高级的游戏卡片质感，稀有卡片还会有特色的光影例如镭射效果 需要有套卡设计和技能设计，并附带较为详细的说明 [English] Design a set of game cards for ancient Chinese poets, classified by SSR SR R grades, with key cards having an enlarged display effect, including card face design and character introduction, having a very high-end game card texture, rare cards will also have special light and shadow effects such as holographic laser effects, requiring set card design and skill design, along with relatively detailed descriptions
-```
-
-By [@TanShilong](https://x.com/TanShilong/status/2045435090923356415)
-
----
-
-<a id="freestylefly-case-325"></a>
-
-## 皮克斯风阳光少年
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case325.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case325.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-[中文] 一个风格化的3D卡通肖像，一位年轻男子，拥有短棕发和富有表现力的绿色眼睛，温暖地微笑。他穿着黑色西装外套内搭白色T恤，现代休闲时尚。类似皮克斯/迪士尼风格角色设计，皮肤光滑，柔和光照，略微夸张的面部特征。高细节、精美的3D渲染，友好且平易近人的表情。渐变背景为柔和的蓝绿色和粉色，工作室灯光，浅景深，高分辨率。 [English] A stylized 3D cartoon portrait of a young man with short brown hair and expressive green eyes, smiling warmly. He is wearing a black blazer over a white t-shirt, modern casual fashion. Pixar-like / Disney-style character design with smooth skin, soft lighting, and slightly exaggerated facial features. High detail, polished 3D render, friendly and approachable expression. Gradient background with soft teal and pink colors, studio lighting, shallow depth of field, high resolution.
-```
-
-By [@iamsofiaijaz](https://x.com/iamsofiaijaz/status/2013473309485343120)
 
 ---
 
@@ -323,6 +259,70 @@ haunting creature that looks like a spider, full body, reddish eyes, the backgro
 ```
 
 [Source](https://prompthero.com/prompt/2c9e407d3e7-midjourney-52-haunting-creature-that-looks-like-a-spider-full-body-reddish-eyes-the-background-is-a-cave-where-there-is-an)
+
+---
+
+<a id="prompthero-2de5fbc9bf8"></a>
+
+## Photorealistic artwork of a serene, celestial Asia\.\.\.
+
+<a href="https://cdn.prompthero.com/jlidt8a88wb5giffvc5maw0zv6-seedream-v1-photorealistic-artwork-of-a-serene-celestial-asian-inspired-woman-with-pale-porcelain-skin-and-delicate-features-she-wears-intricate-gold.jpeg"><img src="https://cdn.prompthero.com/jlidt8a88wb5giffvc5maw0zv6-seedream-v1-photorealistic-artwork-of-a-serene-celestial-asian-inspired-woman-with-pale-porcelain-skin-and-delicate-features-she-wears-intricate-gold.jpeg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+Photorealistic artwork of a serene, celestial Asian-inspired woman with pale, porcelain skin and delicate features. She wears intricate gold jewelry—an ornate earring and a detailed headpiece crowned with a golden flower. Her long, dark hair is elegantly styled, accented by a vivid orange blossom. Eyes closed, she radiates calm and quiet divinity. Behind her, a massive glowing golden crescent moon rises against a deep blue, star-filled sky, with a smaller full moon beside it. She wears a flowing white robe with soft blue patterns that blend into the night. Branches with delicate orange flowers frame her, merging natural beauty with a dreamlike, otherworldly atmosphere.
+```
+
+[Source](https://prompthero.com/prompt/2de5fbc9bf8-seedream-v1-photorealistic-artwork-of-a-serene-celestial-asian-inspired-woman-with-pale-porcelain-skin-and-delicate-features-she-wears-intricate-gold)
+
+---
+
+<a id="prompthero-2e772038071"></a>
+
+## \(\(style of Craig Ellen Jewett\)\), 8k\_UED, \(\(\(1nymph\.\.\.
+
+<a href="https://cdn.prompthero.com/tjzjpwvbxzmygkjseqwzfo0x2l5w-midjourney-6-nymph-style-of-craig-ellen-jewett-8kued-1nymph-acrylic-pour-stunningly-gorgeous-nymph-mythical-creature-moss-textured-skin-no-dof-full.png"><img src="https://cdn.prompthero.com/tjzjpwvbxzmygkjseqwzfo0x2l5w-midjourney-6-nymph-style-of-craig-ellen-jewett-8kued-1nymph-acrylic-pour-stunningly-gorgeous-nymph-mythical-creature-moss-textured-skin-no-dof-full.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+((style of Craig Ellen Jewett)), 8k_UED, (((1nymph))), Acrylic pour, stunningly gorgeous nymph, mythical creature, ((((moss textured skin)))), no dof, full body image, dutch angle, blossoming hair, ((crown-like antlers)), ((flowers atop its head)), glowing trim, magical aura, bathing in a stream, wet robe, intricate patterns, ((enchanted fantasy forest background)), fantastical enviroment, lush vegetation, ruined building covered in moss, (((bioluminescent fish))), ((wild flowers of myriad hues)), ruined buildng covered in moss, intricate details, enhanced accent, (((dream-like ambiance))), sleek colors, style of green and red, magical lighting|diffusion lighting, light dust, Euler ancestral, very very very very very very very beautiful masterpiece, Precise Digital Artemis, redshift Render, SDEs, ESRGAN, (((enhanced edges))), enlightened compassionate, hypermaximalist --v 6.1
+```
+
+[Source](https://prompthero.com/prompt/2e772038071-midjourney-6-nymph-style-of-craig-ellen-jewett-8kued-1nymph-acrylic-pour-stunningly-gorgeous-nymph-mythical-creature-moss-textured-skin-no-dof-full)
+
+---
+
+<a id="prompthero-3a9de96536a"></a>
+
+## Character Sheet, Long wavy,light pink hair,complex\.\.\.
+
+<a href="https://cdn.prompthero.com/j0lrgj5y3m15n0tk6de4q2z977o7-flux-flux-11-pro-ultra-character-sheet-long-wavylight-pink-haircomplex-3d-render-ultra-detailed-of-a-beautiful-porcelain-front-face-woman-android-face-cyborg.png"><img src="https://cdn.prompthero.com/j0lrgj5y3m15n0tk6de4q2z977o7-flux-flux-11-pro-ultra-character-sheet-long-wavylight-pink-haircomplex-3d-render-ultra-detailed-of-a-beautiful-porcelain-front-face-woman-android-face-cyborg.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+Character Sheet, Long wavy,light pink hair,complex 3d render ultra detailed of a beautiful porcelain Front face woman android face, cyborg, robotic parts, beautiful studio soft light, rim light, vibrant details, luxurious cyberpunk, lace, hyper realistic, anatomical, facial muscles, cable electric wires, microchip, elegant, beautiful background, octane render, H.R. Giger style,
+```
+
+[Source](https://prompthero.com/prompt/3a9de96536a-flux-flux-11-pro-ultra-character-sheet-long-wavylight-pink-haircomplex-3d-render-ultra-detailed-of-a-beautiful-porcelain-front-face-woman-android-face-cyborg)
+
+---
+
+<a id="prompthero-3d4bbc17c4b"></a>
+
+## Create a premium industrial mascot character for a\.\.\.
+
+<a href="https://cdn.prompthero.com/zfgwighwu21pmdvryrofkcxpdk-hero-10-create-a-premium-industrial-mascot-character-for-a-crawler-undercarriage-and-construction-machinery-chassis-company-the-mascot-is-a-friendly.jpeg"><img src="https://cdn.prompthero.com/zfgwighwu21pmdvryrofkcxpdk-hero-10-create-a-premium-industrial-mascot-character-for-a-crawler-undercarriage-and-construction-machinery-chassis-company-the-mascot-is-a-friendly.jpeg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+Create a premium industrial mascot character for a crawler undercarriage and construction machinery chassis company. The mascot is a friendly but professional engineering robot, with a realistic crawler track undercarriage as its lower body. It should have a clear character identity, not just a vehicle. The upper body should be a compact robot torso with a simple helmet-like head and a digital visor face, small friendly LED eyes, and no human baby face. The lower body should look like a real heavy-duty crawler undercarriage, stable and strong. Use industrial yellow, dark gray, and black colors. The design should feel reliable, stable, professional, and suitable for an international B2B machinery brand. Add clean blank areas on the helmet and chest panel for placing a company logo later. Do not generate any text, logo, letters, symbols, or watermark. Full body, front three-quarter view, clean white background, studio lighting, high-quality 3D render, product catalog style.
+```
+
+[Source](https://prompthero.com/prompt/3d4bbc17c4b-hero-10-create-a-premium-industrial-mascot-character-for-a-crawler-undercarriage-and-construction-machinery-chassis-company-the-mascot-is-a-friendly)
 
 ---
 

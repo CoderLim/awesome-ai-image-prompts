@@ -6,22 +6,6 @@
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
-<a id="evolink-advertising-case-178"></a>
-
-## Product Geometry Advertising Concept
-
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2106384226635415553.jpg"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2106384226635415553.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Use the uploaded product as the single source of truth. Create ONE premium standalone 16:9 GPT Image 2.5 ad built around a “Geometry Leak” concept. Analyze the product and identify ONE signature geometric trait: contour, radius, curve, angle, groove, silhouette, proportion, or structural rhythm. Extend that geometry into the surrounding world so architecture, terrain, light, shadow, or negative space subtly adopts the same visual logic without becoming a copy of the product. Preserve the hero exactly: shape, proportions, packaging, logo, typography, colors, materials, textures, and recognizable details. Use ONE hero, ONE geometric rule, ONE environment, refined negative space, premium editorial lighting, photoreal materials, accurate perspective, and believable spatial continuity. No collage, duplication, giant product, logo repetition, random VFX, floating graphics, miniature world, or unnecessary text. Output ONE image only.
-```
-
-By [@aziz4ai](https://x.com/aziz4ai/status/2106384240422031684)
-
----
-
 <a id="freestylefly-case-7"></a>
 
 ## 应用界面样机图

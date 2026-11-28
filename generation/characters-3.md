@@ -6,70 +6,6 @@
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
-<a id="prompthero-16df7aa27a2"></a>
-
-## A ninja vigilante with a black tactical suit with \.\.\.
-
-<a href="https://cdn.prompthero.com/gqbufvj7jddaj3qkahsxxbsgyg-hero-10-a-ninja-vigilante-with-a-black-tactical-suit-with-green-accents-he-is-wearing-a-hood-over-his-fully-covered.jpeg"><img src="https://cdn.prompthero.com/gqbufvj7jddaj3qkahsxxbsgyg-hero-10-a-ninja-vigilante-with-a-black-tactical-suit-with-green-accents-he-is-wearing-a-hood-over-his-fully-covered.jpeg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-A ninja vigilante with a black tactical suit with green accents. He is wearing a hood over his fully covered face sporting a slimline mask. His eyes are menacing white. A katana is sheathed in his back, with him holding a longbow in his right hand. He is standing on a rooftop, looking over metropolitan city at night. The skies are red and the clouds are a faint black. DCAU animation style. Bruce Timm inspired art style.
-```
-
-[Source](https://prompthero.com/prompt/16df7aa27a2-hero-10-a-ninja-vigilante-with-a-black-tactical-suit-with-green-accents-he-is-wearing-a-hood-over-his-fully-covered)
-
----
-
-<a id="prompthero-31c24aebd14"></a>
-
-## A lone traditional Japanese samurai in worn armor,\.\.\.
-
-<a href="https://cdn.prompthero.com/x1xaye923qfkve72b3i8bfvk8as6-flux-flux-11-pro-a-lone-traditional-japanese-samurai-in-worn-armor-standing-grounded-in-a-misty-environment-his-stance-is-calm-yet-powerful.jpg"><img src="https://cdn.prompthero.com/x1xaye923qfkve72b3i8bfvk8as6-flux-flux-11-pro-a-lone-traditional-japanese-samurai-in-worn-armor-standing-grounded-in-a-misty-environment-his-stance-is-calm-yet-powerful.jpg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-A lone traditional Japanese samurai in worn armor, standing grounded in a misty environment. His stance is calm yet powerful, evoking inner strength and stillness. The atmosphere is foggy and shadow-rich, with subtle purple/pink mist in the background. No glowing elements or saturated colors — everything is soft, desaturated, and cinematic. The samurai wears timeless armor with a kabuto (helmet), possibly with faint antler-style detailing. His figure is central, symbolic, and deeply rooted in the warrior aesthetic.
-```
-
-[Source](https://prompthero.com/prompt/31c24aebd14-flux-flux-11-pro-a-lone-traditional-japanese-samurai-in-worn-armor-standing-grounded-in-a-misty-environment-his-stance-is-calm-yet-powerful)
-
----
-
-<a id="prompthero-33e4329963a"></a>
-
-## Sci-Fi visual
-
-<a href="https://cdn.prompthero.com/nah86to0zwkidgb2ku0zu5vqufil-midjourney-6-sci-fi-visual.png"><img src="https://cdn.prompthero.com/nah86to0zwkidgb2ku0zu5vqufil-midjourney-6-sci-fi-visual.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-rendering, side shot, falf-strange body with complex system equipment with hyper detail robot, gaze, sci-fi, gloomy environment, foggy with light shader, cyan and yellow illuminations, dramatic lighting, RTX shader, hyper detail texture with reflection, HDRI, cyborg, grunge, bolt, UHD --chaos 1.2 --ar 9:16 --style raw --stylize 750
-```
-
-By [@Grayve](https://prompthero.com/prompt/33e4329963a-midjourney-6-sci-fi-visual)
-
----
-
-<a id="prompthero-42ed626b5d1"></a>
-
-## Cute stylized 3D little boy standing in a shallow \.\.\.
-
-<a href="https://cdn.prompthero.com/ys62pclo5yy01gammnyne1w2gx-nano-banana-nano-banana-2-cute-stylized-3d-little-boy-standing-in-a-shallow-muddy-puddle-in-a-misty-forest-close-up-on-boots-splashing.jpeg"><img src="https://cdn.prompthero.com/ys62pclo5yy01gammnyne1w2gx-nano-banana-nano-banana-2-cute-stylized-3d-little-boy-standing-in-a-shallow-muddy-puddle-in-a-misty-forest-close-up-on-boots-splashing.jpeg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-Cute stylized 3D little boy standing in a shallow muddy puddle in a misty forest, close-up on boots splashing water, mustard yellow hoodie, rolled denim pants, dark sneakers, soft morning light, cinematic atmosphere, shallow depth of field, realistic water reflections, Pixar quality, ultra detailed, magical forest mood, volumetric lighting, 9:16
-```
-
-[Source](https://prompthero.com/prompt/42ed626b5d1-nano-banana-nano-banana-2-cute-stylized-3d-little-boy-standing-in-a-shallow-muddy-puddle-in-a-misty-forest-close-up-on-boots-splashing)
-
----
-
 <a id="prompthero-61e6c18f07f"></a>
 
 ## Dramatic photo in 3D illustration, panorama, full \.\.\.
@@ -246,22 +182,6 @@ By [@citizenblitz](https://prompthero.com/prompt/480ac680acc-hero-10-the-black-t
 
 ---
 
-<a id="prompthero-745e82e4b86"></a>
-
-## SiFi drone futur robot MACHINE BUMPER \(intricate d\.\.\.
-
-<a href="https://cdn.prompthero.com/tezfq3zh9alg9rol1tuxrszfiu1y-stable-diffusion-15-sifi-drone-futur-robot-machine-bumper-intricate-details122-hdr-intricate-details-hyperdetailed12-whole-body-cinematic-intense-cinematic-composition-cinematic-lighting.png"><img src="https://cdn.prompthero.com/tezfq3zh9alg9rol1tuxrszfiu1y-stable-diffusion-15-sifi-drone-futur-robot-machine-bumper-intricate-details122-hdr-intricate-details-hyperdetailed12-whole-body-cinematic-intense-cinematic-composition-cinematic-lighting.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-SiFi drone futur robot MACHINE BUMPER (intricate details:1.22), hdr, (intricate details, hyperdetailed:1.2), whole body, cinematic, intense, cinematic composition, cinematic lighting, (rim lighting:1.3), color grading, focused
-```
-
-[Source](https://prompthero.com/prompt/745e82e4b86-stable-diffusion-15-sifi-drone-futur-robot-machine-bumper-intricate-details122-hdr-intricate-details-hyperdetailed12-whole-body-cinematic-intense-cinematic-composition-cinematic-lighting)
-
----
-
 <a id="prompthero-899e9de2d84"></a>
 
 ## Mecha Wars: The Samurai
@@ -323,6 +243,86 @@ pokemon pikachu, active pose, anime, scetch, nvinkpunk, abstract brush strokes, 
 ```
 
 [Source](https://prompthero.com/prompt/3079b37cbd7-deliberate-v2-pokemon-pikachu-active-pose-anime-scetch-nvinkpunk-abstract-brush-strokes-heavy-lines-hdr-neo-noir-style-bright-yellow-neon-minimal)
+
+---
+
+<a id="prompthero-3922a5dbc75"></a>
+
+## \{\{Makoto Shinkai styled anime\}\}, adult woman, tran\.\.\.
+
+<a href="https://cdn.prompthero.com/2ehi6gk0085f18cvsfhj8p9dmcu2-flux-flux-11-pro-makoto-shinkai-styled-anime-adult-woman-transforming-into-evangelion-demonic-demon-inspired-mecha-fly-me-to-the-moon-beautiful-intricate.png"><img src="https://cdn.prompthero.com/2ehi6gk0085f18cvsfhj8p9dmcu2-flux-flux-11-pro-makoto-shinkai-styled-anime-adult-woman-transforming-into-evangelion-demonic-demon-inspired-mecha-fly-me-to-the-moon-beautiful-intricate.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+{{Makoto Shinkai styled anime}}, adult woman, transforming into Evangelion Demonic Demon inspired mecha, fly me to the moon, {{beautiful intricate triadic antique white colour hair}}, beautiful eyes, evil and cute, Burgundy red hoodie, mega robotic angel and devil wing, beautiful leg, full body, rich in details, luminism, masterpiece, three dimensional effect, 3d render, octane render, {{mix of bold dark lines and loose lines}}, Isometric, awesome full color, {{ultra detailed face}}, {{rule of third}}, 8k resolution,neon lighting
+```
+
+[Source](https://prompthero.com/prompt/3922a5dbc75-flux-flux-11-pro-makoto-shinkai-styled-anime-adult-woman-transforming-into-evangelion-demonic-demon-inspired-mecha-fly-me-to-the-moon-beautiful-intricate)
+
+---
+
+<a id="prompthero-3994fb8e462"></a>
+
+## full body portrait of a beautiful fantasy creature\.\.\.
+
+<a href="https://cdn.prompthero.com/m7113au0l76ventdyikchqo8s1vk-dalle-3-full-body-portrait-of-a-beautiful-fantasy-creatureshinyprofessional-photography-masterpiece-unreal-engine-very-high-detailed-fantasy-planetwonderful-dream-version-by.jpg"><img src="https://cdn.prompthero.com/m7113au0l76ventdyikchqo8s1vk-dalle-3-full-body-portrait-of-a-beautiful-fantasy-creatureshinyprofessional-photography-masterpiece-unreal-engine-very-high-detailed-fantasy-planetwonderful-dream-version-by.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+full body portrait of a beautiful fantasy creature,shiny,professional photography, masterpiece, unreal engine, very high detailed, Fantasy planet,wonderful, dream Version, By jean ansell and justin Gerard, greg rutkowski, dynamic lights, plants,fauna and flora,cinematic scene, fantastic, antique ancient ruins, coloured nebulas, misty
+```
+
+[Source](https://prompthero.com/prompt/3994fb8e462-dalle-3-full-body-portrait-of-a-beautiful-fantasy-creatureshinyprofessional-photography-masterpiece-unreal-engine-very-high-detailed-fantasy-planetwonderful-dream-version-by)
+
+---
+
+<a id="prompthero-6013e361215"></a>
+
+## Masterpiece, best quality, realistic, colorful cin\.\.\.
+
+<a href="https://cdn.prompthero.com/oau402z2pauyphyzvru0jh7x6cnc-rev-animated-v122-masterpiece-best-quality-realistic-colorful-cinematic-lighting-photo-of-beautiful-tauwoman-fire-warrior-with-updo-white-hair-wearing-technologically-advanced.jpg"><img src="https://cdn.prompthero.com/oau402z2pauyphyzvru0jh7x6cnc-rev-animated-v122-masterpiece-best-quality-realistic-colorful-cinematic-lighting-photo-of-beautiful-tauwoman-fire-warrior-with-updo-white-hair-wearing-technologically-advanced.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+Masterpiece, best quality, realistic, colorful cinematic lighting, photo of, (beautiful [T'au|woman] fire warrior with updo white hair), (wearing technologically advanced armor), ((perfect face)), pretty eyes, ((blue skin)), [alien], Shas Warrior, Warhammer 40k, fanart, vivid details, vibrant colors, background is landscape of alien planet, (mountains:0.9), (lush vegetation), detailed background, dynamic pose, aggressive look, complex, RTX, (bloom:0.5), (lens flare:0.5), (intricate galaxy and star cluster in the night sky above), sci-fi, 50mm prime lens, F/2.8 aperture, (highly detailed, hyperdetailed), hyper realistic, lifelike texture, photorealistic, 8k, sharp focus, unreal engine, ENB, cinestill 800
+```
+
+[Source](https://prompthero.com/prompt/6013e361215-rev-animated-v122-masterpiece-best-quality-realistic-colorful-cinematic-lighting-photo-of-beautiful-tauwoman-fire-warrior-with-updo-white-hair-wearing-technologically-advanced)
+
+---
+
+<a id="prompthero-8074f6fa3df"></a>
+
+## Create an epic anime-style smartphone wallpaper o\.\.\.
+
+<a href="https://cdn.prompthero.com/v1_4c782f75282cc62fe9446e95f6-hero-10-create-an-epic-anime-style-smartphone-wallpaper-of-a-powerful-young-warrior-standing-on-a-mountain-at-night-glowing-blue.jpg"><img src="https://cdn.prompthero.com/v1_4c782f75282cc62fe9446e95f6-hero-10-create-an-epic-anime-style-smartphone-wallpaper-of-a-powerful-young-warrior-standing-on-a-mountain-at-night-glowing-blue.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+Create an epic anime-style smartphone wallpaper of a powerful young warrior standing on a mountain at night, glowing blue energy surrounding him, dramatic clouds, huge moon in the background, wind-blown clothes and hair, cinematic lighting, highly detailed anime artwork, vibrant atmosphere, 4K, no text, no watermark, vertical 9:16.
+```
+
+[Source](https://prompthero.com/prompt/8074f6fa3df-hero-10-create-an-epic-anime-style-smartphone-wallpaper-of-a-powerful-young-warrior-standing-on-a-mountain-at-night-glowing-blue)
+
+---
+
+<a id="prompthero-8646c575b4f"></a>
+
+## Ultra realistic looking DND character, \), hooded g\.\.\.
+
+<a href="https://cdn.prompthero.com/dkwiylxsd1vss9mwbd9rair6ms9a-flux-flux1-schnell-ultra-realistic-looking-dnd-character-hooded-giant-ogre-holding-a-giant-cursed-axe-and-walking-menacing-walking-over-crushed-skeletons.jpg"><img src="https://cdn.prompthero.com/dkwiylxsd1vss9mwbd9rair6ms9a-flux-flux1-schnell-ultra-realistic-looking-dnd-character-hooded-giant-ogre-holding-a-giant-cursed-axe-and-walking-menacing-walking-over-crushed-skeletons.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+Ultra realistic looking DND character, ), hooded giant ogre, holding a giant cursed axe and walking menacing, walking over crushed skeletons, golden ornamented bracelets, jeweled belt, and necklaces. Facing him, stands a tiny barefoot female warrior with full armor, arms extended to the sides, holding a sword and a dagger, standing confidently, dramatic scene, cinematic
+```
+
+[Source](https://prompthero.com/prompt/8646c575b4f-flux-flux1-schnell-ultra-realistic-looking-dnd-character-hooded-giant-ogre-holding-a-giant-cursed-axe-and-walking-menacing-walking-over-crushed-skeletons)
 
 ---
 

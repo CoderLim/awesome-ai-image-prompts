@@ -6,38 +6,6 @@
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
-<a id="prompthero-74f3a22c103"></a>
-
-## Ultra-realistic cozy late-night bedroom selfie of \.\.\.
-
-<a href="https://cdn.prompthero.com/v1_3a26959ddcfd697aecb829acda-hero-10-ultra-realistic-cozy-late-night-bedroom-selfie-of-the-same-clearly-adult-woman-from-the-reference-image-preserving-her-facial.jpg"><img src="https://cdn.prompthero.com/v1_3a26959ddcfd697aecb829acda-hero-10-ultra-realistic-cozy-late-night-bedroom-selfie-of-the-same-clearly-adult-woman-from-the-reference-image-preserving-her-facial.jpg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-Ultra-realistic cozy late-night bedroom selfie of the same clearly adult woman from the reference image, preserving her facial identity, distinctive facial features, hairstyle characteristics, and overall appearance. She is a young European woman with fair natural skin, expressive hazel-brown eyes, delicate features, subtle makeup, and dark brown hair loosely tied into a slightly messy high bun, with a few natural wispy strands framing her face. She looks directly into the camera with a calm, slightly sleepy late-night expression. She is sitting casually in a comfortable desk chair beside a {argument name="setting" default="modern gaming and study setup"}, wearing a {argument name="top" default="fitted white camisole"} with thin shoulder straps and a small cute embroidered character graphic, paired with {argument name="bottom" default="soft dusty-pink pajama pants"} featuring playful cartoon prints. One leg is casually lifted slightly toward the camera in a relaxed, natural pose, with realistic anatomy and proportions. The bedroom feels personal and lived-in rather than staged. Warm, dim nighttime illumination comes from a small desk lamp, the glow of dual monitors, and subtle ambient lighting. Behind her is a neatly unmade bed with neutral bedding and a dark plush cat pillow. A large window reveals a quiet nighttime city skyline with scattered apartment lights. The walls feature a curated mix of monochrome graphic art, indie illustrations, typography prints, sketches, and a few subtle gaming posters, creating a stylish contemporary bedroom aesthetic without resembling an anime-themed room. On the desk are two modern computer monitors, one showing a dark atmospheric game scene and the other displaying a realistic desktop interface, alongside a mechanical keyboard, mouse, half-finished iced coffee, instant noodles, headphones, and small everyday personal items. A digital clock on the wall shows a late-night hour. Shot as an authentic handheld smartphone selfie rather than a professional photoshoot. Natural skin pores and texture, realistic hair strands, subtle imperfections, accurate monitor reflections, soft low-light noise, gentle shadows, slightly imperfect framing, mild lens softness, realistic depth of field, believable indoor exposure, cinematic cozy atmosphere, photorealistic, highly detailed, natural proportions, contemporary European bedroom aesthetic, vertical 9:16 composition, 4K.
-```
-
-By [@karanamkrishna](https://prompthero.com/prompt/74f3a22c103-hero-10-ultra-realistic-cozy-late-night-bedroom-selfie-of-the-same-clearly-adult-woman-from-the-reference-image-preserving-her-facial)
-
----
-
-<a id="prompthero-208fa32d7f2"></a>
-
-## create a full-body portrait prompt inspired by the\.\.\.
-
-<a href="https://cdn.prompthero.com/sgkd9lqtwikpbhd366fus455eonl-midjourney-6-create-a-full-body-portrait-prompt-inspired-by-the-uploaded-image-you-would-describe-a-male-model-in-a-dynamic.png"><img src="https://cdn.prompthero.com/sgkd9lqtwikpbhd366fus455eonl-midjourney-6-create-a-full-body-portrait-prompt-inspired-by-the-uploaded-image-you-would-describe-a-male-model-in-a-dynamic.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-create a full-body portrait prompt inspired by the uploaded image, you would describe a male model in a dynamic and confident pose. He stands straight, with his hands clasped behind his head, elbows wide, showcasing a relaxed yet powerful stance. He's dressed in a fitted black v-neck sweater and black trousers that accentuate his lean build. His expression is serene, with a slight, thoughtful furrow to his brow, adding depth to his gaze. The lighting is soft and directional, highlighting the contours of his face and the texture of his sweater. The background is a simple, uncluttered space that keeps the focus on him. For the camera settings, a black and white filter is applied to give the image a classic, timeless feel, with a sharp focus on the model from head to toe, excluding any color information. --style raw --v 6
-```
-
-By [@Grayve](https://prompthero.com/prompt/208fa32d7f2-midjourney-6-create-a-full-body-portrait-prompt-inspired-by-the-uploaded-image-you-would-describe-a-male-model-in-a-dynamic)
-
----
-
 <a id="prompthero-00271e9fba2"></a>
 
 ## high-end portrait photography, editorial studio ph\.\.\.
@@ -83,22 +51,6 @@ Vintage melancholic vibe, phone camera style, super low resolution, close-up fac
 ```
 
 [Source](https://prompthero.com/prompt/03500d2a169-hero-10-vintage-melancholic-vibe-phone-camera-style-super-low-resolution-close-up-face-shot-warm-japanese-style-filter-the-pic-shows)
-
----
-
-<a id="prompthero-8504a6a1e4a"></a>
-
-## \{ &quot;prompt&quot;: &quot;View from inside a Starbucks strawb\.\.\.
-
-<a href="https://cdn.prompthero.com/fj1gguywy03ofsndd7eyg4nusd-flux-krea-dev-prompt-view-from-inside-a-starbucks-strawberry-frappuccino-cup-looking-up-fisheye-lens-extreme-distortion-worms-eye-perspective-crushed-strawberry.jpeg"><img src="https://cdn.prompthero.com/fj1gguywy03ofsndd7eyg4nusd-flux-krea-dev-prompt-view-from-inside-a-starbucks-strawberry-frappuccino-cup-looking-up-fisheye-lens-extreme-distortion-worms-eye-perspective-crushed-strawberry.jpeg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-{ "prompt": "View from inside a Starbucks strawberry frappuccino cup looking up, fisheye lens extreme distortion, worm's eye perspective, crushed strawberry ice macro foreground with glistening bokeh highlights, one single continuous green straw passing through the entire frame from top to bottom connecting lips to ice, person peering down from above through cup opening with wide-eyed excited expression lips pursed on straw top, whipped cream layer, Starbucks logo visible on cup wall, clear blue sky background through opening, high saturation red strawberry vs green straw complementary colors, bright summer daylight, hyper-realistic commercial photography", "negative_prompt": "two straws, double straw, multiple straws, broken straw, separated straw, disconnected straw, flat lay, normal perspective, dull colors, deformed face, low saturation, ugly, extra limbs, woman, girl, female", "character_reference": { "upload": true, "control_weight": 0.95, "description": "maintain face and identity from reference image, male person, front-facing, slightly downward gaze, wide-eyed excited expression, lips pursed on straw" }, "parameters": { "aspect_ratio": "9:16", "style_strength": 0.9, "composition_reference": "inside-cup fisheye upward shot, face centered in cup opening, single straw runs continuously from person lips down through whipped cream into crushed ice" } }
-```
-
-[Source](https://prompthero.com/prompt/8504a6a1e4a-flux-krea-dev-prompt-view-from-inside-a-starbucks-strawberry-frappuccino-cup-looking-up-fisheye-lens-extreme-distortion-worms-eye-perspective-crushed-strawberry)
 
 ---
 
@@ -195,22 +147,6 @@ Selfie en primer plano, tomado con teléfono móvil. Yo (usa la cara del modelo 
 ```
 
 [Source](https://prompthero.com/prompt/ab7e4defbcd-nano-banana-nano-banana-pro-selfie-en-primer-plano-tomado-con-telfono-mvil-yo-usa-la-cara-del-modelo-de-la-imagen-referencia-del-usuario)
-
----
-
-<a id="prompthero-b468dc31c33"></a>
-
-## \*\*Prompt:\*\* Use the uploaded photo of me as the e\.\.\.
-
-<a href="https://cdn.prompthero.com/v1_0652e650018a984f3d3b90b0fe-nano-banana-nano-banana-2-prompt-use-the-uploaded-photo-of-me-as-the-exact-identity-reference-keep-my-face-facial-features-skin-tone-hairstyle.jpg"><img src="https://cdn.prompthero.com/v1_0652e650018a984f3d3b90b0fe-nano-banana-nano-banana-2-prompt-use-the-uploaded-photo-of-me-as-the-exact-identity-reference-keep-my-face-facial-features-skin-tone-hairstyle.jpg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-**Prompt:** Use the uploaded photo of me as the exact identity reference. Keep my face, facial features, skin tone, hairstyle, and overall appearance highly accurate and recognizable. Create a highly realistic cinematic scene inspired by the world of *Game of Thrones*. Place me riding on the back of a massive, majestic Westeros-style dragon, soaring through the sky above a dramatic medieval landscape. I am sitting naturally on the dragon's back, holding onto it confidently, with realistic body proportions and anatomy. The dragon should look enormous, powerful, detailed, and realistic, with large wings, textured scales, sharp features, and dramatic lighting. The scene should feel like an epic high-budget fantasy movie: dark atmospheric clouds, cinematic sunlight breaking through the sky, misty mountains and an ancient medieval kingdom far below. Make the composition look like an authentic frame from a premium fantasy film, with realistic lighting, natural shadows, detailed textures, dynamic movement, and cinematic depth of field. Most importantly, preserve my exact identity from the uploaded photo. Do not change my face or make me look like a different person. Make the final image photorealistic, epic, immersive, and believable.
-```
-
-[Source](https://prompthero.com/prompt/b468dc31c33-nano-banana-nano-banana-2-prompt-use-the-uploaded-photo-of-me-as-the-exact-identity-reference-keep-my-face-facial-features-skin-tone-hairstyle)
 
 ---
 

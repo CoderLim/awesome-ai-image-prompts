@@ -1,8 +1,8 @@
 # products
 
-[← Home](../README.md) · Page 1 / 3
+[← Home](../README.md) · Page 1 / 2
 
-**1** · [2](products-2.md) · [3](products-3.md)
+**1** · [2](products-2.md)
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
@@ -38,70 +38,6 @@ By [@highball\_cho](https://github.com/freestylefly/awesome-gpt-image-2/blob/099
 
 ---
 
-<a id="freestylefly-case-152"></a>
-
-## 直播界面设计图
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case152.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case152.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-{ "type": "e-commerce livestream screenshot mockup", "scene": { "subject": "{argument name=\"main subject\" default=\"Caucasian male resembling Sam Altman\"}", "clothing": "dark green crewneck sweater", "action": "holding a black product box in one hand and pointing at it with the other", "setting": "dark studio with a microphone on the left, faint 'AI' text in the background", "props": [ "black mug with white OpenAI logo", "stack of 4 black product boxes on the right" ] }, "product_design": { "box_color": "black", "logo": "orange asterisk or sunburst", "text": "{argument name=\"product name\" default=\"Claude Opus 4.7\"}" }, "ui_overlays": { "top_left_product_info": { "brand_tag": "Anthropic 官方旗舰店", "title": "{argument name=\"product name\" default=\"Claude Opus 4.7\"}", "subtitle": "{argument name=\"main headline\" default=\"更强推理·更高智能\"}", "sub_subtitle": "最强大模型: Opus 4.7 重磅发布!", "bullet_points_count": 3, "bullet_points": ["超强推理能力", "代码能力巅峰", "复杂任务轻松搞定"] }, "top_right_live_status": { "viewer_info": "直播中 | 52.8万人观看", "promo_banner": "直播专属福利 限时折扣·错过不再有", "countdown": "倒计时 00:09:47" }, "middle_right_price_card": { "header": "{argument name=\"product name\" default=\"Claude Opus 4.7\"} 直播间专享价", "price_currency": "¥", "price_value": "{argument name=\"promotional price\" default=\"0.47\"}", "price_unit": "/百万tokens起", "original_price": "原价: ¥1.89", "button": "立即抢购" }, "bottom_left_chat": { "message_count": 9, "input_box_placeholder": "说点什么..." }, "bottom_right_banner": { "headline": "奥特曼首推！认准Claude Opus 4.7", "subheadline": "更智能 · 更安全 · 更可靠", "feature_tags_count": 4, "feature_tags": ["强大推理", "代码神器", "安全可靠", "极速响应"] }, "floating_elements": [ { "type": "sticker", "position": "middle right over product boxes", "text": "{argument name=\"sticker text\" default=\"史上最强 AI模型!\"}" } ] } }
-```
-
-By [@coder\_left](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-152)
-
----
-
-<a id="freestylefly-case-157"></a>
-
-## 电商商品展示设计
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case157.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case157.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-{ "type": "e-commerce product infographic", "theme": "dark mode with {argument name=\"accent color\" default=\"orange\"} accents", "product": { "brand": "{argument name=\"brand name\" default=\"MEAN WELL\"}", "model": "{argument name=\"product model\" default=\"ELG-100-24B\"}", "description": "100W Constant Current LED Driver, rectangular silver metal housing with black cables on both ends and detailed specification label" }, "layout": { "sections": [ { "name": "Hero Section", "elements": [ "Brand logo top left", "Headline: '{argument name=\"main headline\" default=\"Stable Power For Outdoors\"}'", "Subtext: Wide input voltage, protected housing...", "Large angled product shot", "Faded '100W' watermark in background" ] }, { "name": "Feature Highlights", "count": 3, "panels": [ { "title": "Precision Build", "visual": "Close-up of the specification label" }, { "title": "Secure Connection", "visual": "Close-up of the cable entry and mounting ear" }, { "title": "Key Features", "visual": "Angled product shot with 3 callout lines pointing to text: '100~305VAC Input', 'Constant Current', 'IP67 / IP65 Housing'" } ] }, { "name": "Applications", "count": 4, "panels": [ { "title": "For Street Lighting", "visual": "Nighttime highway illuminated by streetlights" }, { "title": "For Outdoor Projects", "visual": "Modern building exterior with architectural landscape lighting" }, { "title": "For Indoor Systems", "visual": "Modern commercial hallway with linear ceiling lights" }, { "title": "For Dimming Control", "visual": "Electrical control box with 4 labels: '0-10V', 'PWM', 'RESISTOR', 'DALI'" } ] }, { "name": "Environmental Protection", "elements": [ "Product resting on a wet surface with water droplets and rain effect", "Headline: 'Protected Performance'", "Description text about indoor/outdoor use and active PFC", "Badge: '{argument name=\"warranty years\" default=\"5\"}-Year Warranty'" ] }, { "name": "Technical Specifications", "elements": [ "Headline: 'Lighting Power Technology'", "4 checkmark bullet points: '100~305VAC Input', 'Active PFC', 'Low Standby <0.5W', '0~10V / PWM / Resistor / DALI'", "Product shot glowing on a high-tech circuit board background" ] } ] } }
-```
-
-By [@AmberPromptai](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-157)
-
----
-
-<a id="freestylefly-case-159"></a>
-
-## 界面交互设计图
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case159.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case159.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-{ "type": "e-commerce livestream UI mockup", "subject": { "description": "photorealistic young Asian woman, sweaty glowing skin, long dark wavy hair, wearing a white short-sleeve polo shirt and white pleated tennis skirt, holding a white tennis racket over her right shoulder, looking directly at camera, studio lighting, white background" }, "layout": { "top_header": { "host_info": { "name": "{argument name=\"host name\" default=\"小鹿运动优选\"}", "stats": "12.8万本场点赞", "button": "关注" }, "rank_tag": "带货榜第3名", "viewer_stats": "1.2万" }, "top_right": { "coupon": { "title": "直播间专属券", "value": "￥20 满199可用", "button": "领取" } }, "left_overlay": { "title": "{argument name=\"campaign title\" default=\"夏日运动季\"}", "subtitle": "{argument name=\"campaign subtitle\" default=\"活力开场\"}", "bullet_points": { "count": 3, "items": ["透气速干", "弹力舒适", "运动百搭"] } }, "right_overlay": { "product_cards": { "count": 2, "card_1": { "status": "正在讲解", "image": "white polo shirt and skirt flat lay", "title": "{argument name=\"product name\" default=\"运动POLO衫套装\"}", "details": "白色·M码", "price": "{argument name=\"price\" default=\"￥129\"}", "button": "去抢购" }, "card_2": { "status": "热卖 x 156", "image": "miniature of main model", "title": "运动POLO衫套装女", "details": "透气速干 显瘦百搭", "price": "{argument name=\"price\" default=\"￥129\"}", "button": "抢" } } }, "bottom_left": { "chat_messages": { "count": 5, "description": "scrolling chat messages with usernames and comments" }, "purchase_alert": "用户_6789 等3人 正在去购买" }, "bottom_bar": { "input_field": "说点什么...", "icons": { "count": 5, "types": ["smile", "shopping cart", "heart", "gift", "more"] } } } }
-```
-
-By [@onlyhuman028](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-159)
-
----
-
-<a id="freestylefly-case-181"></a>
-
-## 潮流视角重塑精致商品广告
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case181.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case181.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-[中文] 请以专业设计师的视角重新设计这个商品广告。 采用当前的潮流趋势，针对目标受众的精致设计。 [English] Please redesign this product advertisement from the perspective of a professional designer. Adopt current fashion trends, exquisite design targeting the target audience.
-```
-
-By [@genel\_ai](https://x.com/genel_ai/status/2046498264774791514)
-
----
-
 <a id="freestylefly-case-313"></a>
 
 ## 电商商品展示设计
@@ -115,38 +51,6 @@ By [@genel\_ai](https://x.com/genel_ai/status/2046498264774791514)
 ```
 
 By [@Fujimoto\_hina](https://x.com/Fujimoto_hina/status/2027903683154088431)
-
----
-
-<a id="freestylefly-case-327"></a>
-
-## 沉香玫瑰悬浮幻景
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case327.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case327.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-[中文] { "master_prompt_type": "超精细8K AI图像生成", "global_settings": { "resolution": "8K UHD", "aspect_ratio": "2:3 竖版", "render_quality": "极致锐度、超微细节、电影级光效", "style": "超现实商业产品摄影", "color_profile": "温暖金调搭配柔和琥珀高光", "environment": { "location": "古老中东市场走廊", "architecture": { "walls": "岁月痕迹的粗糙石墙与可见纹理", "arches": "背景巨型石拱", "floor": "暖棕色石材地面" }, "background_elements": [ "装满香料的木架", "袋装与碗装干货", "悬挂草药束", "散发暖黄光的传统金属灯笼" ], "lighting": { "primary": "柔和金色环境光", "secondary": "两侧暖灯笼辉光", "atmosphere": "薄雾增强光线漫射" } }, "main_subject": { "type": "香水瓶", "position": "中心前景", "placement": "置于华丽木桌之上", "material": { "bottle": "透明清玻璃", "cap": "黄金金属矩形瓶盖", "liquid": "淡金香水液体" }, "design": { "shape": "圆角矩形瓶身", "finish": "高光反射表面", "label": "无可见标签" }, "table": { "material": "深色雕花木材", "shape": "方形台面", "details": [ "繁复花卉与几何雕刻", "金色镶嵌装饰", "抛光表面映光" ] }, "floating_elements": { "composition_style": "竖向成分堆叠", "motion": "成分悬浮并伴随旋转金光", "effects": [ "发光粒子", "闪耀尘埃", "柔光尾迹连接元素" ], "elements_order_top_to_bottom": [ { "ingredient": "琥珀树脂", "appearance": "半透明金棕树脂块", "glow": "温暖内发光" }, { "ingredient": "大马士革玫瑰", "appearance": "盛放粉色玫瑰", "details": [ "柔软层叠花瓣", "自然绿叶", "轻飘附近花瓣" ] }, { "ingredient": "白麝香", "appearance": "光滑白水晶状石块", "additional": "石下细白粉末" }, { "ingredient": "陈年沉香", "appearance": "深棕木片", "texture": "粗糙纤维木纹", "effect": "缕缕白烟上升" } ] }, "text_elements": { "title": { "text": "精致叙利亚香水", "font_style": "优雅衬线体", "color": "金色", "position": "顶部中央" }, "subtitle": { "text": "奢华叙利亚香水", "font_style": "较小衬线体", "color": "金色", "position": "主标题下方" }, "ingredient_labels": [ { "title": "纯琥珀", "description": "来自自然深处的珍贵树脂" }, { "title": "大马士革玫瑰", "description": "美丽与叙利亚传承的象征" }, { "title": "白麝香", "description": "干净、粉感、永恒优雅的香氛" }, { "title": "陈年沉香", "description": "深邃温暖、浓郁烟熏木香" } ], "typography_details": { "connector_lines": "细弯金线连接文字与成分", "icons": "线末端小圆点标记" }, "opacity": "轻微半透明" } }, "overall_mood": { "tone": "奢华、温暖、优雅", "theme": "传承香水工艺", "visual_feel": "浓郁、高端、电影级广告" } } } [English] { "master_prompt_type": "Ultra-detailed 8K AI image generation", "global_settings": { "resolution": "8K UHD", "aspect_ratio": "2:3 vertical", "render_quality": "extreme sharpness, ultra-fine detail, cinematic lighting", "style": "hyper-realistic commercial product photography", "color_profile": "warm golden tones with soft amber highlights", "environment": { "location": "ancient Middle Eastern market corridor", "architecture": { "walls": "aged stone walls with visible texture and wear", "arches": "large stone archway in background", "floor": "stone flooring, warm brown tone" }, "background_elements": [ "wooden shelves filled with spices", "sacks and bowls of dried goods", "hanging bundles of herbs", "traditional metal lanterns emitting warm yellow light" ], "lighting": { "primary": "soft golden ambient light", "secondary": "warm lantern glow from both sides", "atmosphere": "slight haze enhancing light diffusion" "main_subject": { "type": "perfume bottle", "position": "center foreground", "placement": "on top of an ornate wooden table", "material": { "bottle": "transparent clear glass", "cap": "gold metallic rectangular cap", "liquid": "light golden perfume liquid" }, "design": { "shape": "rectangular bottle with rounded edges", "finish": "glossy reflective surface", "label": "no visible label" "table": { "material": "dark carved wood", "shape": "square top", "details": [ "intricate floral and geometric carvings", "golden inlay accents", "polished surface reflecting light" "floating_elements": { "composition_style": "vertical ingredient stack", "motion": "ingredients appear suspended with swirling golden light", "effects": [ "glowing particles", "sparkling dust", "soft light trails connecting elements" ], "elements_order_top_to_bottom": [ { "ingredient": "amber resin", "appearance": "translucent golden-brown resin chunks", "glow": "warm internal glow" "ingredient": "damask rose", "appearance": "fully bloomed pink rose", "details": [ "soft layered petals", "natural green leaves", "petals gently floating nearby" ] "ingredient": "white musk", "appearance": "smooth white crystal-like stone", "additional": "fine white powder beneath the stone" "ingredient": "aged agarwood", "appearance": "dark brown wooden pieces", "texture": "rough, fibrous wood grain", "effect": "thin white smoke rising upward" "text_elements": { "title": { "text": "Exquisite Syrian Perfume", "font_style": "elegant serif", "color": "gold", "position": "top center" }, "subtitle": { "text": "Luxury Syrian Perfume", "font_style": "smaller serif", "color": "gold", "position": "below main title" }, "ingredient_labels": [ { "title": "Pure Amber", "description": "Precious resin from the depths of nature" } "title": "Damask Rose", "description": "Symbol of beauty and Syrian heritage" }, { "title": "White Musk", "description": "Clean, powdery scent of timeless elegance" }, { "title": "Aged Agarwood", "description": "Rich, smoky wood with deep warmth" } ], "typography_details": { "connector_lines": "thin curved golden lines connecting text to ingredients", "icons": "small circular markers at line endpoints" } "opacity": "slightly translucent" } "overall_mood": "tone": "luxurious, warm, elegant", "theme": "heritage perfume craftsmanship", "visual_feel": "rich, premium, cinematic ads
-```
-
-By [@meng\_dagg695](https://x.com/meng_dagg695/status/2011334627290726746)
-
----
-
-<a id="freestylefly-case-365"></a>
-
-## 科学家收藏级玩具发布板
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case365.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case365.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-2x2 grid, do this for 4 famous scientists in history: Design a collector-grade launch visual for [TOY / FIGURE / DESIGNER OBJECT] shown in pristine hero form along with interchangeable accessories, alternate expressions, packaging design, scale references, sticker details, rarity indicators, and close-up material highlights. The object should feel like a luxury drop, somewhere between art toy culture and elite product branding.  Accessory Layout: Arrange [ACCESSORY 1], [ACCESSORY 2], [ALT VERSION], [PACKAGING FEATURE], and [LIMITED EDITION DETAIL] around the figure in carefully staged clusters. Everything should feel desirable, neat, and “unboxable.”  Visual Style: Hype-culture collectible reveal meets premium e-commerce launch campaign. Clean, glossy, tactile, designer-toy sophistication with a playful but expensive sensibility.  Composition Guidelines: Hero figure remains dominant. Accessories should be balanced and elegantly spaced. Packaging should be visible but not steal the scene. The entire image should feel like a product collectors would screenshot instantly.  Lighting & Background: Soft commercial lighting with subtle specular highlights, polished background in [BACKGROUND STYLE], crisp shadows, premium color separation, ultra-sharp details, no watermark.
-```
-
-By [@Gdgtify](https://x.com/Gdgtify/status/2049766203392921897)
 
 ---
 
@@ -326,6 +230,102 @@ Ultra-realistic 3D miniature diorama of a **My Burger** restaurant built inside 
 
 ---
 
-**1** · [2](products-2.md) · [3](products-3.md)
+<a id="prompthero-11fce90ea56"></a>
+
+## A clean top-down flat-lay of exactly 9 hyper-reali\.\.\.
+
+<a href="https://cdn.prompthero.com/qrphzg8ehb4vxoirid4gcx95gl-hero-10-a-clean-top-down-flat-lay-of-exactly-9-hyper-realistic-3d-resin-fridge-magnets-on-a-pure-white-background.jpeg"><img src="https://cdn.prompthero.com/qrphzg8ehb4vxoirid4gcx95gl-hero-10-a-clean-top-down-flat-lay-of-exactly-9-hyper-realistic-3d-resin-fridge-magnets-on-a-pure-white-background.jpeg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+A clean top-down flat-lay of exactly 9 hyper-realistic 3D resin fridge magnets on a pure white background, themed around Starbucks One wide rectangular text magnet at the top center reads "Starbucks " in bold glossy 3D letters using the brand’s signature colors. Below it, 9 small resin magnets are arranged in a precise 3x3 grid with even spacing: official logo badge, hero product, secondary product, third iconic product or packaging, chibi mascot/character, fifth iconic branded item, sixth iconic branded item, seventh iconic branded item, and the brand’s storefront or headquarters building facade. All magnets are slightly raised with soft drop shadows, realistic resin texture, polished finish, bright warm studio lighting, photorealistic commercial product render, minimal white composition, sharp focus, 4:5.
+```
+
+[Source](https://prompthero.com/prompt/11fce90ea56-hero-10-a-clean-top-down-flat-lay-of-exactly-9-hyper-realistic-3d-resin-fridge-magnets-on-a-pure-white-background)
+
+---
+
+<a id="prompthero-59fc99a3fa2"></a>
+
+## Ultra-realistic exploded view of a monster-shaped \.\.\.
+
+<a href="https://cdn.prompthero.com/v1_ee4d366932e191b0dc32fec8de-chatgpt-image-gpt-image-26-flare-ultra-realistic-exploded-view-of-a-monster-shaped-food-individual-ingredients-floating-separately-in-their-natural-assembly-order-funny-monster.png"><img src="https://cdn.prompthero.com/v1_ee4d366932e191b0dc32fec8de-chatgpt-image-gpt-image-26-flare-ultra-realistic-exploded-view-of-a-monster-shaped-food-individual-ingredients-floating-separately-in-their-natural-assembly-order-funny-monster.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+Ultra-realistic exploded view of a monster-shaped [Food], individual ingredients floating separately in their natural assembly order, funny monster face constructed entirely from edible ingredients, exaggerated eyes, teeth, tongue, playful expression, realistic food textures, dynamic suspended composition, clean white background, soft studio lighting, sharp focus, premium commercial food photography
+```
+
+By [@hanielguadalupe](https://prompthero.com/prompt/59fc99a3fa2-chatgpt-image-gpt-image-26-flare-ultra-realistic-exploded-view-of-a-monster-shaped-food-individual-ingredients-floating-separately-in-their-natural-assembly-order-funny-monster)
+
+---
+
+<a id="prompthero-86abaa06537"></a>
+
+## Rainbow Rope sofa
+
+<a href="https://cdn.prompthero.com/93ebqnw0042z7jnjx93ul171pr6n-midjourney-61-rainbow-rope-sofa.png"><img src="https://cdn.prompthero.com/93ebqnw0042z7jnjx93ul171pr6n-midjourney-61-rainbow-rope-sofa.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+high resolution photography, conceptual single sofa, inspired by rainbow, curved shape form, colorful thick rope texture, Phase One XF IQ4 150MP, tethered shooting, postmodernism, solid white backdrop space, realism sunlight casting soft shadows, rim lighting setup, light wooden leg detail, studio quality finish --ar 9:16 --style raw --stylize 200 --v 6.1
+```
+
+By [@Grayve](https://prompthero.com/prompt/86abaa06537-midjourney-61-rainbow-rope-sofa)
+
+---
+
+<a id="prompthero-336e3c5bbfa"></a>
+
+## fullview hardcase capsule shape white backpack urb\.\.\.
+
+<a href="https://cdn.prompthero.com/s41p3qbw4vcu623h57pq6xbka9sv-flux-flux-11-pro-fullview-hardcase-capsule-shape-white-backpack-urban-stormtrooper-clean-product-design-render-on-white-background-octane-4k-render-intricate-and.jpg"><img src="https://cdn.prompthero.com/s41p3qbw4vcu623h57pq6xbka9sv-flux-flux-11-pro-fullview-hardcase-capsule-shape-white-backpack-urban-stormtrooper-clean-product-design-render-on-white-background-octane-4k-render-intricate-and.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+fullview hardcase capsule shape white backpack urban stormtrooper, clean product design render on white background octane 4K render intricate and detailed texture, design by dieter rams apple
+```
+
+[Source](https://prompthero.com/prompt/336e3c5bbfa-flux-flux-11-pro-fullview-hardcase-capsule-shape-white-backpack-urban-stormtrooper-clean-product-design-render-on-white-background-octane-4k-render-intricate-and)
+
+---
+
+<a id="prompthero-347ec9724bf"></a>
+
+## Close up photograph of a slice of layered cake wit\.\.\.
+
+<a href="https://cdn.prompthero.com/yho0puxld01o52wb7avwp6xe179b-flux-flux-11-pro-close-up-photograph-of-a-slice-of-layered-cake-with-a-cherry-blossom-theme-a-layer-of-fruit-filling-between.jpg"><img src="https://cdn.prompthero.com/yho0puxld01o52wb7avwp6xe179b-flux-flux-11-pro-close-up-photograph-of-a-slice-of-layered-cake-with-a-cherry-blossom-theme-a-layer-of-fruit-filling-between.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+Close up photograph of a slice of layered cake with a cherry blossom theme, a layer of fruit filling between cake layers, decorated with sun shaped designs, with intricate frosting and beautiful details
+```
+
+[Source](https://prompthero.com/prompt/347ec9724bf-flux-flux-11-pro-close-up-photograph-of-a-slice-of-layered-cake-with-a-cherry-blossom-theme-a-layer-of-fruit-filling-between)
+
+---
+
+<a id="prompthero-609e486c89b"></a>
+
+## A minimalistic, modern cream-colored bottle with a\.\.\.
+
+<a href="https://cdn.prompthero.com/ubnqpg0gtrfixuih79jonqtr4ipv-sora-v1-a-minimalistic-modern-cream-colored-bottle-with-a-matte-finish-placed-diagonally-on-a-textured-sandy-surface-the-bottle-features.png"><img src="https://cdn.prompthero.com/ubnqpg0gtrfixuih79jonqtr4ipv-sora-v1-a-minimalistic-modern-cream-colored-bottle-with-a-matte-finish-placed-diagonally-on-a-textured-sandy-surface-the-bottle-features.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+A minimalistic, modern cream-colored bottle with a matte finish, placed diagonally on a textured sandy surface. The bottle features a rounded, compact design with an integrated handle on the cap. The cap has a soft orange circular presser on top, with a small side indicator, giving it a contemporary and functional aesthetic. Shot in natural lighting with a shallow depth of field for a warm, product photography feel.
+```
+
+By [@chorlo](https://prompthero.com/prompt/609e486c89b-sora-v1-a-minimalistic-modern-cream-colored-bottle-with-a-matte-finish-placed-diagonally-on-a-textured-sandy-surface-the-bottle-features)
+
+---
+
+**1** · [2](products-2.md)
 
 [← Home](../README.md)

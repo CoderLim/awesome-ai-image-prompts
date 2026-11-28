@@ -1,8 +1,8 @@
 # restyle
 
-[← Home](../README.md) · Page 1 / 2
+[← Home](../README.md) · Page 1 / 1
 
-**1** · [2](restyle-2.md)
+**1**
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
@@ -86,22 +86,6 @@ By [@MahnoorAi12](https://x.com/MahnoorAi12/status/2101634984020750560)
 
 ---
 
-<a id="freestylefly-case-153"></a>
-
-## 主题海报版式设计
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case153.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case153.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Using REFERENCE_0 as the base style and preserving the central chicken illustration, transform the image into a product packaging label for a herbal soup mix. Shift the chicken to the right side. Replace the top text with a large, bold black brush-stroke headline {argument name="main headline" default="元气祛湿 鸡煲汤包"} and a smaller subtitle {argument name="subtitle" default="吃山林土货 味道当然好!"}. On the left side, add a new woven basket containing exactly 6 distinct piles of ingredients: woody root sticks, white square cubes, round sliced brown roots, yellow soybeans, dried orange peel strips, and dark red dates. Attach 6 small brown rectangular labels with white text to these ingredients. Below the chicken, add a circular orange badge containing the text {argument name="ingredients list" default="内含有:五指毛桃、茯苓、土茯苓、黄豆、陈皮、红枣"}. At the bottom, create a solid orange rectangular banner featuring a cooking pot icon, the text {argument name="usage instructions" default="用法:把汤料清洗干净放入锅中，加入姜片煮20分钟，后加入鸡肉再煮20分钟即可。"}, and a secondary slogan {argument name="bottom slogan" default="天然好料 滋补好汤"}.
-```
-
-By [@xzjken](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-153)
-
----
-
 <a id="freestylefly-case-371"></a>
 
 ## Scrapbook 真人图与迷你分身
@@ -115,22 +99,6 @@ Transform the provided reference image into a cozy aesthetic scrapbook-style com
 ```
 
 By [@Kashberg\_0](https://x.com/Kashberg_0/status/2050272100884340783)
-
----
-
-<a id="freestylefly-case-378"></a>
-
-## 高端 3D 收藏玩具头像
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case378.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case378.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Transform the input photo into a high-end stylized 3D collectible figure. Large head, slightly exaggerated facial features while preserving identity. Hyper-detailed skin texture with subtle pores, realistic wrinkles, and a cinematic expression. Smooth matte vinyl finish. Soft studio lighting, clean black background. Ultra-sharp focus, 8K render, photorealistic materials, Pixar-quality rendering, centered composition, full body, premium designer toy aesthetic.
-```
-
-By [@Genematicai](https://x.com/Genematicai/status/2050654848216109429)
 
 ---
 
@@ -246,22 +214,6 @@ By [@lumetro](https://prompthero.com/prompt/3fa773db382-hero-10-transform-the-up
 
 ---
 
-<a id="prompthero-89df465a940"></a>
-
-## Transform the subject into a glossy designer-toy c\.\.\.
-
-<a href="https://cdn.prompthero.com/v1_03f3e4a27e73c0a539d5403619-chatgpt-image-gpt-image-26-flare-transform-the-subject-into-a-glossy-designer-toy-character-inspired-by-the-reference-image-smooth-and-rounded-proportions-chubby-silhouette.jpeg"><img src="https://cdn.prompthero.com/v1_03f3e4a27e73c0a539d5403619-chatgpt-image-gpt-image-26-flare-transform-the-subject-into-a-glossy-designer-toy-character-inspired-by-the-reference-image-smooth-and-rounded-proportions-chubby-silhouette.jpeg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-Transform the subject into a glossy designer-toy character inspired by the reference image. Smooth and rounded proportions, chubby silhouette, exaggerated cartoon expression, large open mouth, tiny dot eyes, and bold sculpted details. High-gloss vinyl surface with sharp reflections, saturated primary colors (especially bright red), stylized spikes and simple shapes. Toy-figurine aesthetic, studio lighting, clean background, dramatic shadows, ultra-polished plastic texture.
-```
-
-By [@chorlo](https://prompthero.com/prompt/89df465a940-chatgpt-image-gpt-image-26-flare-transform-the-subject-into-a-glossy-designer-toy-character-inspired-by-the-reference-image-smooth-and-rounded-proportions-chubby-silhouette)
-
----
-
 <a id="prompthero-385a2e49a1e"></a>
 
 ## funny caricature, adult man and woman \(input Image\.\.\.
@@ -326,6 +278,38 @@ By [@josefranciscodu](https://prompthero.com/prompt/1387a39d33d-hero-10-use-my-u
 
 ---
 
-**1** · [2](restyle-2.md)
+<a id="prompthero-c2bff160ac9"></a>
+
+## Crear un retrato en estilo ilustración 3D tipo Pix\.\.\.
+
+<a href="https://cdn.prompthero.com/zhiul2482xu3a077d3ojmgj8l7-hero-10-crear-un-retrato-en-estilo-ilustracin-3d-tipo-pixar-de-alta-calidad-manteniendo-rasgos-faciales-realistas-y-reconocibles-identidad-del.jpeg"><img src="https://cdn.prompthero.com/zhiul2482xu3a077d3ojmgj8l7-hero-10-crear-un-retrato-en-estilo-ilustracin-3d-tipo-pixar-de-alta-calidad-manteniendo-rasgos-faciales-realistas-y-reconocibles-identidad-del.jpeg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+Crear un retrato en estilo ilustración 3D tipo Pixar de alta calidad, manteniendo rasgos faciales realistas y reconocibles. IDENTIDAD DEL ROSTRO (NO CAMBIAR): Rostro ovalado con facciones suaves y equilibradas. Piel clara con subtono neutro, acabado luminoso y natural. Ojos medianos ligeramente almendrados, con mirada tranquila y segura, brillo suave natural. Cejas definidas pero naturales. Nariz delicada y proporcionada. Labios medianos bien definidos con tono rosado hidratado. Mejillas con rubor sutil. CABELLO (CARACTERÍSTICO): Cabello cobrizo/anaranjado vibrante. pelo suelto a la altura de los hombros con corte de pelo estilo mariposa y flequillos Textura ligera, esponjosa y natural. EXPRESIÓN: Serena, femenina, dulce y segura. Sonrisa natural y suave. ESTILO VISUAL: Render 3D de alta calidad estilo Pixar, ultra detallado. Mezcla de realismo con estilización. Estética romántica, femenina y soñadora. Paleta de colores pastel. ILUMINACIÓN: Luz natural cálida, suave y difusa. Efecto glow en la piel. Sombras suaves. Rim light sutil alrededor del cabello. ESCENA: Crea una ilustración estilo 3D, con colores pastel y pinceladas ligeras. Mostrar a la misma mujer acostada sobre la hierba verde, con los brazos detrás de la cabeza y los ojos cerrados, en una postura relajada y feliz. Lleva un vestido sencillo pero elegante con encajes finos de color verde. A su lado, incluir un conejito pequeño blanco, acostado tranquilamente junto a ella. La misma mujer esta en medio del campo El entorno es un campo natural con hierba alta y espigas tipo trigo moviéndose suavemente, sugiriendo una brisa ligera. Añadir fondo difuminado con tonos suaves de verde, amarillo y rosado, estilo 3D, sin detalles duros. Iluminación suave y cálida, ambiente de primavera/verano, sensación de paz, libertad, inocencia y conexión con la naturaleza. Composición armoniosa y delicada, estilo artístico orgánico, trazos suaves y difuminados. Sin texto, sin letras, sin marcas de agua, sin logotipos. COMPOSICIÓN: Formato vertical. Plano completo (full body). Fondo ligeramente desenfocado. Profundidad de campo. Composición armoniosa y limpia. Formato jpg Cámara ligeramente alejada (zoom out) Encuadre amplio Formato vertical tipo portada Regla de tercios equilibrada pero centrada EXTRA: Fondo extendido suavemente Elementos distribuidos sin tocar bordes DETALLES: Movimiento suave en el cabello por el viento. Texturas suaves y realistas (piel, tela, flores). Ambiente de fantasía ligera, inocente y calmada. CALIDAD: Alta resolución. Render limpio. Iluminación global. Sombras suaves. Acabado cinematográfico. NEGATIVE PROMPT: No cambiar el rostro. No alterar proporciones faciales. Evitar estilo caricatura exagerado. Evitar otro rostro diferente. Evitar sombras duras. Evitar piel plástica. Evitar baja calidad. Evitar sobrecarga de elementos en el fondo. Crear un retrato en estilo ilustración 3D tipo Pixar de alta calidad, manteniendo rasgos faciales realistas y reconocibles. IDENTIDAD DEL ROSTRO (NO CAMBIAR): Rostro ovalado con facciones suaves y equilibradas. Piel clara con subtono neutro, acabado luminoso y natural. Ojos medianos ligeramente almendrados, con mirada tranquila y segura, brillo suave natural. Cejas definidas pero naturales. Nariz delicada y proporcionada. Labios medianos bien definidos con tono rosado hidratado. Mejillas con rubor sutil. CABELLO (CARACTERÍSTICO): Cabello cobrizo/anaranjado vibrante. pelo suelto a la altura de los hombros con corte de pelo estilo mariposa y flequillos Textura ligera, esponjosa y natural. EXPRESIÓN: Serena, femenina, dulce y segura. Sonrisa natural y suave. ESTILO VISUAL: Render 3D de alta calidad estilo Pixar, ultra detallado. Mezcla de realismo con estilización. Estética romántica, femenina y soñadora. Paleta de colores pastel. ILUMINACIÓN: Luz natural cálida, suave y difusa. Efecto glow en la piel. Sombras suaves. Rim light sutil alrededor del cabello. ESCENA: Crea una ilustración estilo 3D, con colores pastel y pinceladas ligeras. Mostrar a la misma mujer acostada sobre la hierba verde, con los brazos detrás de la cabeza y los ojos cerrados, en una postura relajada y feliz. Lleva un vestido sencillo pero elegante con encajes finos de color verde. A su lado, incluir un conejito pequeño blanco, acostado tranquilamente junto a ella. La misma mujer esta en medio del campo El entorno es un campo natural con hierba alta y espigas tipo trigo moviéndose suavemente, sugiriendo una brisa ligera. Añadir fondo difuminado con tonos suaves de verde, amarillo y rosado, estilo 3D, sin detalles duros. Iluminación suave y cálida, ambiente de primavera/verano, sensación de paz, libertad, inocencia y conexión con la naturaleza. Composición armoniosa y delicada, estilo artístico orgánico, trazos suaves y difuminados. Sin texto, sin letras, sin marcas de agua, sin logotipos. COMPOSICIÓN: Formato vertical. Plano completo (full body). Fondo ligeramente desenfocado. Profundidad de campo. Composición armoniosa y limpia. Formato jpg Cámara ligeramente alejada (zoom out) Encuadre amplio Formato vertical tipo portada Regla de tercios equilibrada pero centrada EXTRA: Fondo extendido suavemente Elementos distribuidos sin tocar bordes DETALLES: Movimiento suave en el cabello por el viento. Texturas suaves y realistas (piel, tela, flores). Ambiente de fantasía ligera, inocente y calmada. CALIDAD: Alta resolución. Render limpio. Iluminación global. Sombras suaves. Acabado cinematográfico. NEGATIVE PROMPT: No cambiar el rostro. No alterar proporciones faciales. Evitar estilo caricatura exagerado. Evitar otro rostro diferente. Evitar sombras duras. Evitar piel plástica. Evitar baja calidad. Evitar sobrecarga de elementos en el fondo.
+```
+
+[Source](https://prompthero.com/prompt/c2bff160ac9-hero-10-crear-un-retrato-en-estilo-ilustracin-3d-tipo-pixar-de-alta-calidad-manteniendo-rasgos-faciales-realistas-y-reconocibles-identidad-del)
+
+---
+
+<a id="sipteaandcoffee-2062226869299323260"></a>
+
+## Freeform character sketchbook from a photo
+
+<a href="https://pbs.twimg.com/media/HJ6AaCFbsAAwk9x.jpg"><img src="https://pbs.twimg.com/media/HJ6AaCFbsAAwk9x.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+Draw the character in the image, (me) in a free and stripped colored sketch style. On a bright white background, freely distribute full-body drawings, face close-ups, small scribbles, full-body sketches and chibi/deformed versions, so that the page conveys the character's humor and personality. Don't do it like an organized character sheet, but like a sketchbook full of information drawn at will by an illustrator and then stacked. The written make it in Urdu
+```
+
+By [@sipteaandcoffee](https://x.com/sipteaandcoffee/status/2062226869299323260)
+
+---
+
+**1**
 
 [← Home](../README.md)

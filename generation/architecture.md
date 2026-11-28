@@ -230,22 +230,6 @@ A masterpiece of professional architectural photography, showcasing a highly rea
 
 ---
 
-<a id="prompthero-30e1e8a8fe7"></a>
-
-## A hyper-realistic cinematic quality HD photo  Fr\.\.\.
-
-<a href="https://cdn.prompthero.com/v1_42407b36a662d57ebbee893232-grok-image-grok-imagine-image-2-a-hyper-realistic-cinematic-quality-hd-photo-frankenstein-and-his-bride-sharing-an-intimate-candlelit-dinner-in-a-gothic-castle.jpg"><img src="https://cdn.prompthero.com/v1_42407b36a662d57ebbee893232-grok-image-grok-imagine-image-2-a-hyper-realistic-cinematic-quality-hd-photo-frankenstein-and-his-bride-sharing-an-intimate-candlelit-dinner-in-a-gothic-castle.jpg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-A hyper-realistic cinematic quality HD photo  Frankenstein and his Bride sharing an intimate candlelit dinner in a Gothic castle, Victorian evening attire, refined monster features with subtle neck bolts and delicate stitched details, exchanging loving gazes across an antique table with black lace, silver candelabras, crystal goblets, antique china, deep crimson roses, cathedral windows with moonlight through stained glass, velvet drapery, polished marble floor reflecting candlelight, romantic Gothic elegance, cinematic masterpiece, museum quality craftsmanship, ultra detailed, atmospheric without horror, warm golden candlelight balanced with cool moonlight, soft volumetric lighting, gentle front fill light revealing faces clearly, luminous skin tones, even exposure, subtle rim lighting, no crushed blacks, no harsh contrast, razor sharp focus throughout, every detail clearly
-```
-
-By [@johns1670](https://prompthero.com/prompt/30e1e8a8fe7-grok-image-grok-imagine-image-2-a-hyper-realistic-cinematic-quality-hd-photo-frankenstein-and-his-bride-sharing-an-intimate-candlelit-dinner-in-a-gothic-castle)
-
----
-
 <a id="prompthero-35e5ed7b97c"></a>
 
 ## architectural photography, shot with sony a7r iv, \.\.\.
@@ -323,6 +307,22 @@ black and white spooky haunted house image, with color glowing jack-o-lanterns, 
 ```
 
 [Source](https://prompthero.com/prompt/577c98de545-midjourney-6-haunted-house)
+
+---
+
+<a id="prompthero-670f2ea860f"></a>
+
+## Kitchen for small Minimalist apartment
+
+<a href="https://cdn.prompthero.com/5cllud1t7v028m33c8xaes43gkqs-stable-diffusion-15-kitchen-for-small-minimalist-apartment.png"><img src="https://cdn.prompthero.com/5cllud1t7v028m33c8xaes43gkqs-stable-diffusion-15-kitchen-for-small-minimalist-apartment.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+a small kitchen with a black and white kitchen set, white marble floor, gray plaster walls, small table and chairs (in the middle), with green plants in flower pots, in the style of minimalism, hi-tech, interior design
+```
+
+[Source](https://prompthero.com/prompt/670f2ea860f-stable-diffusion-15-kitchen-for-small-minimalist-apartment)
 
 ---
 

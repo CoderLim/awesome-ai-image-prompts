@@ -1,8 +1,8 @@
 # logos
 
-[← Home](../README.md) · Page 1 / 2
+[← Home](../README.md) · Page 1 / 1
 
-**1** · [2](logos-2.md)
+**1**
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
@@ -22,54 +22,6 @@ By [@wtry1102](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa
 
 ---
 
-<a id="freestylefly-case-98"></a>
-
-## 主题海报版式设计
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case98.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case98.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-{ "type": "VTuber debut stream thumbnail", "character": { "appearance": "anime girl, long dark purple hair, purple eyes, frilly white blouse, dark purple bow tie, large hair bow", "pose": "finger to lips, cute expression", "props": "condenser microphone with pop filter and purple ribbon on the right" }, "background": "magical starry night, sparkles, glowing butterflies, purple and white color palette", "layout": { "typography": [ { "position": "top left", "style": "large bold text with cursive English above", "text": "{argument name=\"main title\" default=\"初配信\"}", "subtext_1": "First Stream", "subtext_2": "Nice to meet you! I am Shisaki Lily!" }, { "position": "middle left", "style": "decorative box", "text": "{argument name=\"character description\" default=\"お嬢様学校に通う清楚系VTuberですわ♪\"}" }, { "position": "bottom left", "style": "logo style", "text": "{argument name=\"character name\" default=\"紫咲リリー\"}", "subtext": "Shisaki Lily" }, { "position": "top right", "style": "vertical text", "text": "{argument name=\"catchphrase\" default=\"皆さまの心に、優雅なひとときをお届けしますわ♪\"}" }, { "position": "bottom right", "style": "decorative pill shape", "text": "{argument name=\"stream date and time\" default=\"4.21 SUN 21:00~\"}", "subtext": "✦ START ✦" } ] } }
-```
-
-By [@wtry1102](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-98)
-
----
-
-<a id="freestylefly-case-104"></a>
-
-## 界面交互设计图
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case104.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case104.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-{ "type": "YouTube livestream UI", "top_nav": { "logo": "YouTube Premium", "search": "{argument name=\"search query\" default=\"bilal fraiha\"}", "icons": 3 }, "player": { "subjects": [ "{argument name=\"female guest\" default=\"Sydney Sweeney\"} in white cardigan", "bearded man in beige jacket laughing" ], "bg": "couch, 2 silver play buttons, ram logo 'SARDI'", "overlays": { "chat": {"pos": "left", "count": 15, "desc": "colored usernames, white text"}, "goal": {"pos": "top right", "text": "TONIGHT'S GOAL: 0 to 25"}, "banner": {"pos": "bottom center", "text": "K {argument name=\"streamer name\" default=\"MOREBILAL\"}"} }, "controls": {"count": 10} }, "details": { "title": "{argument name=\"video title\" default=\"FULL STREAM | سيدني سويني مع بلال\"}", "channel": "{argument name=\"channel name\" default=\"More Bilal No Filter\"}", "buttons": 5 } }
-```
-
-By [@marouane53](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-104)
-
----
-
-<a id="freestylefly-case-107"></a>
-
-## 应用界面样机图
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case107.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case107.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-{"type": "YouTube desktop dark mode UI mockup", "header": {"logo": "YouTube", "search_bar": "Search", "icons_count": 5, "icons": ["search", "mic", "create", "notifications", "profile"]}, "video_player": {"top_left_badge": "LIVE", "left_side": {"subject": "{argument name=\"presenter description\" default=\"man in green sweater at wooden podium\"}", "podium_logo": "OpenAI"}, "right_side_presentation": {"text_elements": ["OpenAI", "INTRODUCING", "{argument name=\"product name\" default=\"GPT-Image-2\"}", "{argument name=\"tagline\" default=\"More Realistic. More Useful. More Creative.\"}"], "sample_images_count": 4, "sample_images": ["mountain lake with boat", "woman portrait with dappled light", "cute robot with lantern in forest", "starry night cafe painting"]}, "bottom_controls_count": 10, "bottom_controls": ["pause", "next", "volume", "LIVE", "red progress bar", "CC", "settings", "miniplayer", "theater mode", "fullscreen"]}, "video_details": {"title": "{argument name=\"video title\" default=\"OpenAI Live: Introducing GPT-Image-2\"}", "channel": {"name": "{argument name=\"channel name\" default=\"OpenAI\"}", "verified": true, "subscribers": "1.36M", "button": "Subscribe"}, "action_buttons_count": 5, "action_buttons": ["Like 12K", "Dislike 497", "Share", "Save", "More"], "description_box": {"stats": "95,237 watching now Started streaming 7 minutes ago", "tags": "#OpenAI #GPTImage2 #AI", "text": "Join us for a special live event as we introduce GPT-Image-2, our latest and most advanced image generation model. See new capabilities, live demos, and hear from the team ...more"}}}
-```
-
-By [@tehno\_maniak](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-107)
-
----
-
 <a id="freestylefly-case-130"></a>
 
 ## 界面交互设计图
@@ -86,22 +38,6 @@ By [@chi\_vc\_](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbf
 
 ---
 
-<a id="freestylefly-case-133"></a>
-
-## 界面交互设计图
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case133.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case133.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-{ "type": "brand identity system presentation board", "header": { "title": "品牌视觉识别系统 BRAND IDENTITY SYSTEM", "slogan": "爱它·懂它·陪伴它" }, "main_logo": { "text": "{argument name=\"brand name\" default=\"GDX\"}", "subtitle": "{argument name=\"brand chinese name\" default=\"狗东西\"}", "design_feature": "{argument name=\"main subject\" default=\"Dog profile in negative space of the letter D\"}", "metadata": [ "品牌名称", "行业属性 {argument name=\"industry\" default=\"宠物行业\"}", "设计时间 2024.05" ] }, "layout": { "sections": [ { "title": "设计网格", "count": 1, "description": "Logo with architectural grid lines and golden ratio measurements" }, { "title": "概念草图", "count": 4, "description": "Evolution steps from rough dog sketch to final geometric logo" }, { "title": "灵感来源", "count": 4, "description": "Moodboard images including minimalist architecture, a golden retriever, and dark green geometric shapes" }, { "title": "创意理念", "count": 4, "description": "Text blocks with minimalist icons explaining design philosophy, positioning, color psychology, and scalability" }, { "title": "品牌应用", "count": 6, "labels": [ "名片 正反面", "信纸信封", "APP图标", "网站页眉 / 网站图标", "产品包装 / 购物袋", "店面门头 / 标识牌" ], "description": "Mockups of business cards, envelopes, app icons, website header with a dog, paper shopping bags, and a storefront sign" }, { "title": "色彩规范", "count": 5, "labels": [ "主色", "辅助色", "强调色" ], "colors": [ "{argument name=\"primary color\" default=\"#1E3D34\"}", "#F5F3EF", "#E5E2DD", "#A8C5B1", "#E0A86E" ] }, { "title": "字体规范", "count": 2, "labels": [ "思源黑体 CN", "思源柔黑体 CN" ], "description": "Typography specimens showing 'Aa', alphabet, and numbers" }, { "title": "最小使用尺寸", "count": 2, "description": "Minimum logo size specifications at 20mm and 12mm" }, { "title": "安全留白区域", "count": 1, "description": "Logo surrounded by a bounding box with 'X' indicating clear space margins" }, { "title": "错误使用示例", "count": 5, "labels": [ "不可拉伸变形", "不可改变颜色", "不可添加阴影", "不可倾斜使用", "不可复杂背景上使用" ], "description": "Examples of incorrect logo usage: stretched, wrong color, drop shadow, tilted, and placed on a busy photographic background" } ] } }
-```
-
-By [@yyyole](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-133)
-
----
-
 <a id="freestylefly-case-143"></a>
 
 ## 品牌徽标设计图
@@ -115,22 +51,6 @@ A photorealistic amateur photograph of a custom building block set resting on a 
 ```
 
 By [@Gc\_qube](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-143)
-
----
-
-<a id="freestylefly-case-354"></a>
-
-## Logo 与品牌身份系统提示词合集
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case354.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case354.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-1. Logo概念生成提示词 你是一位拥有20年经验的顶级Logo设计师，为全球知名品牌设计过即时识别且深具意义的标志。 品牌名称：[你的品牌名] 行业：[你的行业] 品牌个性：[描述] 目标受众：[描述] 欣赏的视觉身份：[列举3个] 讨厌的视觉身份：[列举3个] 偏好风格：[如极简、大胆、几何、有机、复古、未来] 为我的品牌生成5个完全不同的Logo概念。 对每个概念提供： - 核心视觉理念及象征意义 - 形状语言及为何适合品牌 - 字体方向建议 - 第一眼的情感触发 - 为何适合目标受众 - 在名片、App图标和广告牌上的效果 - 何为永恒而非潮流 然后告诉我，如果这是你的品牌，你会选哪个以及原因。 2. 品牌身份基础提示词 你是为财富500强公司和初创企业建立品牌身份的顶级品牌战略师，这些企业后来融资数百万。 业务名称：[你的业务名] 业务描述：[一句话] 目标受众：[详细描述] 竞争对手：[列举3-5个] 想触发的感受：[如信任、兴奋、奢华、亲近、力量] 想关联的词汇：[列举5-10个] 不想关联的词汇：[列举5-10个] 在设计任何视觉效果之前建立完整的品牌身份基础。 为我提供： - 品牌原型及为何完美契合 - 5个具体人类特征描述的品牌个性 - 带示例的品牌语调指南 - 核心品牌承诺（一句话） - 3个品牌应触发的情感层级 - 与竞争对手的根本差异 - 定义品牌的唯一关键词 3. 配色方案提示词 你是色彩心理学专家和品牌设计师，深知色彩如何触发情感、建立信任和驱动购买决策。 品牌名称：[你的品牌名] 行业：[你的行业] 目标受众：[年龄、性别、收入、生活方式] 想触发的首要情感：[如信任、能量、奢华、平静、兴奋] 前3名竞争对手颜色：[列举] 喜欢的颜色：[列举] 讨厌的颜色：[列举] 为我建立完整品牌配色板。 为我提供： - 主色及其HEX代码和心理学解释 - 两个辅助色及HEX代码 - 一个强调色用于CTA和高亮 - 一个中性色用于背景和文字 - 每种颜色对目标受众的影响 - 与竞争对手的差异化 - 在网站、社交媒体和包装上的应用示例 - 永远不要搭配的颜色组合及原因 4. 字体方向提示词 你是字体专家和品牌设计师，深知字体如何传达个性、建立可信度和实现品牌即时识别。 品牌名称：[你的品牌名] 品牌个性：[5个词] 行业：[你的行业] 目标受众：[描述] 字体应触发的感受：[如权威、友好、创新、优雅、能量] 喜欢的品牌字体：[列举3个] 为我建立完整字体系统。 为我提供： - 标题用主显示字体名称及为何完美 - 长文本的辅助字体 - 引言或重点的强调字体 - 标题、副标题、正文、说明文字的精确字号层级 - 字距和行高建议 - 字体搭配方法 - 预算有限时的免费替代方案 - 你所在行业应避免的字体错误 5. 完整品牌身份包提示词 你是顶级品牌代理创意总监，交付覆盖每个触点的完整品牌身份系统。 业务名称：[你的业务名] 业务描述：[一句话] 目标受众：[详细描述] 品牌个性：[5个词] 行业：[你的行业] 竞争对手：[列举3个] 设计工具预算：[免费或付费] 时间表：[你需要的时间] 在一个回复中交付我的完整品牌身份系统。 包含所有元素： - 品牌战略基础、原型、个性、承诺和定位 - Logo概念及3个变体 - 完整配色板、HEX代码和使用规则 - 字体系统、名称、字号和层级 - 视觉方向指南 - 品牌语调指南和标语选项 - 社交媒体视觉模板 - 3条永远不要打破的核心品牌规则 将一切作为结构化品牌手册交付，任何设计师、开发者或AI工具都能在10分钟内完全理解你的品牌。
-```
-
-By [@wanerfu](https://x.com/wanerfu/status/2048659924822184026)
 
 ---
 
@@ -182,38 +102,6 @@ By [@MrGafish](https://x.com/MrGafish/status/2052323461268467860)
 
 ---
 
-<a id="freestylefly-case-428"></a>
-
-## F1 直播转播围场截图
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case428.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case428.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Ultra-realistic F1 live TV broadcast screenshot. A strikingly beautiful, 25-year-old young woman with bright light blue hair and captivating bright cerulean blue eyes is sitting in the VIP paddock / team garage during a Formula 1 race. Shown on the official live race broadcast as the girlfriend of an F1 driver, she is listening to the team radio through a professional racing headset. It is the final lap, and she is watching the garage monitors with a proud, enchanting smile. She wears a fitted white tank top, an oversized racing team jacket (with generic, unbranded or blank team logos) draped over her shoulders, large black team-radio headset with boom mic, gold jewelry, and soft glam makeup. A slim, unbranded paddock pass hangs naturally from her neck. Add realistic F1 broadcast graphics: "FINAL LAP" banner, lap counter showing final lap, driver timing tower on the left, small F1-style logo bug, "LIVE" indicator, and a lower-third identifying her as a driver partner / paddock guest (e.g., "MIA ANDERSEN - Paddock Guest / Partner"). No fake oversized badges, no selfie angle. Team staff (in generic kit), headsets, garage screens, and generic race equipment are blurred around her. Telephoto broadcast camera shot from across the garage, professional depth of field, compression artifacts, digital noise, bright paddock lighting, natural skin texture, no smoothing, 8k quality, cinematic lighting.
-```
-
-By [@bigwonbots](https://x.com/bigwonbots/status/2054573714012787059)
-
----
-
-<a id="freestylefly-case-444"></a>
-
-## 迪斯科镜面 3D App 图标
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case444.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case444.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-为【品牌名】生成一个高级 3D App 图标，圆角方形底板，玻璃与金属铬材质，迪斯科球镜面马赛克小方块质感，闪亮高光，柔和工作室灯光，干净极简背景，高端产品图标风格，Blender 3D 渲染，超精细 英文版： A premium 3D app icon for 【Product Name】, rounded square tile, glossy glass and chrome material, disco-ball mosaic mirror tiles, sparkling highlights, soft studio lighting, clean minimal background, high-end icon, Blender 3D render, ultra detailed
-```
-
-By [@vista8](https://x.com/vista8/status/2056308962778296715)
-
----
-
 <a id="freestylefly-case-449"></a>
 
 ## 奢华机械腕表技术图鉴
@@ -227,22 +115,6 @@ By [@vista8](https://x.com/vista8/status/2056308962778296715)
 ```
 
 By [@Gdgtify](https://x.com/Gdgtify/status/2056928396991488312)
-
----
-
-<a id="freestylefly-case-453"></a>
-
-## 企业级商用画册视觉系统
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case453.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case453.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-请生成一套企业级商用画册视觉方案，主题为【品牌名称】的【行业 / 产品 / 解决方案】宣传画册。 整体风格：高端、专业、具有强视觉冲击力；避免传统 Word 排版感和普通 PPT 感。采用【深色科技美学 / 白色极简商务 / 高端工业风 / 艺术化品牌画册】风格。 画册内容包括： 1、封面与封底 2、企业介绍与品牌理念 3、核心产品与技术优势 4、应用场景与解决方案 5、客户案例与合作方式 6、全册系统预览图 要求： 版式要有设计感，图片、标题、数据、图标、留白和层级关系清晰；保持整套画册统一的品牌视觉系统；重点体现真实商业物料的完成度，避免简单文字排版。 结构规划： 1、封面 / 封底：建立品牌门面、行业气质和整体视觉调性。 2、企业介绍页：说明公司定位、能力边界和服务对象。 3、产品技术页：展示核心产品、技术优势和解决方案。 4、应用场景页：让用户看到产品能用在哪些行业。 5、案例 / 合作页：补充可信度和商业转化信息。 6、全册系统预览：验证风格统一性和整本画册的系统感。 如果已有企业资料，可以上传旧版企业画册、公司介绍文档、产品说明书、官网内容、PPT 提案、产品图片或案例图片，让 ChatGPT 完成三件事： 1、重新梳理内容结构，判断哪些内容适合做封面、企业介绍、产品页、案例页和合作页。 2、提炼画册主线，避免只堆资料，需要形成清晰的商业叙事。 3、统一视觉方向，让整本画册看起来像同一个品牌系统，避免不同页面拼贴感。 避坑： 1、避免一上来只说“生成一本画册”，否则容易变成模板图。 2、避免只堆文字，画册一定要有产品视觉、场景图、数据模块和设计层级。 3、避免只生成单页，最好补一张全册预览图，才能体现完整系统感。
-```
-
-By [@MrLarus](https://x.com/MrLarus/status/2056974720893939950)
 
 ---
 
@@ -326,6 +198,58 @@ A 3D metallic chrome text logo that says "GHASEM", designed in a fluid, molten s
 
 ---
 
-**1** · [2](logos-2.md)
+<a id="prompthero-b5a90a4a45d"></a>
+
+## Graytheory model
+
+<a href="https://cdn.prompthero.com/t0v251isq46yujf8739sxtdqm5bv-midjourney-6-graytheory-model.png"><img src="https://cdn.prompthero.com/t0v251isq46yujf8739sxtdqm5bv-midjourney-6-graytheory-model.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+photography, 28 woman, pro model, natural pose moment, wearing small text logo with garment dyeing tactical loose trucker jacket with black hoodie, jogger pants, yellow color Yeezy boost 350, in street crosswalk on the main road, Canon EOS-1D Mark III, is set to capture the top and pants form and detailing, a great number of passers-by, prolonged exposure, photorealistic,  realism light --ar 9:16 --style raw --stylize 750 --v 6
+```
+
+By [@Grayve](https://prompthero.com/prompt/b5a90a4a45d-midjourney-6-graytheory-model)
+
+---
+
+<a id="prompthero-ca6c85f4d01"></a>
+
+## A retro icon of a cassette tape, Carbon Fiber styl\.\.\.
+
+<a href="https://cdn.prompthero.com/y93a5sh0199y9icplskf43njidxu-midjourney-5-a-retro-icon-of-a-cassette-tape-carbon-fiber-style-blue-and-purple-palette-art-by-roy-lichtenstein-white-background.png"><img src="https://cdn.prompthero.com/y93a5sh0199y9icplskf43njidxu-midjourney-5-a-retro-icon-of-a-cassette-tape-carbon-fiber-style-blue-and-purple-palette-art-by-roy-lichtenstein-white-background.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+A retro icon of a cassette tape, Carbon Fiber style, blue and purple palette, art by Roy Lichtenstein, white background:: --q 2 --v 5
+```
+
+[Source](https://prompthero.com/prompt/ca6c85f4d01-midjourney-5-a-retro-icon-of-a-cassette-tape-carbon-fiber-style-blue-and-purple-palette-art-by-roy-lichtenstein-white-background)
+
+---
+
+<a id="prompthero-df37c2138ce"></a>
+
+## ChatGPT JSON:
+
+\{
+  &quot;title&quot;: &quot;Fur Bolt&quot;,
+  &quot;sty\.\.\.
+
+<a href="https://cdn.prompthero.com/x0c4gw46esb76bpv0te4ulvcfemb-chatgpt-image-gpt-4o-chatgpt-json-title-fur-bolt-styleaesthetic-overallvibe-tactile-and-cozy-colorpalette-background-pitch-black-accents-ash-gray-materialsandtextures-type-soft.png"><img src="https://cdn.prompthero.com/x0c4gw46esb76bpv0te4ulvcfemb-chatgpt-image-gpt-4o-chatgpt-json-title-fur-bolt-styleaesthetic-overallvibe-tactile-and-cozy-colorpalette-background-pitch-black-accents-ash-gray-materialsandtextures-type-soft.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+ChatGPT JSON: { "title": "Fur Bolt", "styleAesthetic": { "overallVibe": "Tactile and cozy", "colorPalette": { "background": "Pitch black", "accents": ["Ash gray"] }, "materialsAndTextures": [ { "type": "Soft fur", "description": "Long-pile fur with realistic shadowing" } ], "lightingAndShadows": { "description": "Soft rim lighting to emphasize fluffiness" }, "moodKeywords": ["Comfort", "Warmth", "Luxury", "Soft"] } }
+```
+
+By [@chorlo](https://prompthero.com/prompt/df37c2138ce-chatgpt-image-gpt-4o-chatgpt-json-title-fur-bolt-styleaesthetic-overallvibe-tactile-and-cozy-colorpalette-background-pitch-black-accents-ash-gray-materialsandtextures-type-soft)
+
+---
+
+**1**
 
 [← Home](../README.md)

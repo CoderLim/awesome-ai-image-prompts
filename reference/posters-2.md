@@ -22,22 +22,6 @@ By [@Alina\_with\_Ai](https://x.com/Alina_with_Ai/status/2101255289333031047)
 
 ---
 
-<a id="freestylefly-case-119"></a>
-
-## 主题海报版式设计
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case119.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case119.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-{ "type": "anime movie production pitch document", "overall_layout": "split layout with a large cinematic movie poster on the top half and a grid of 5 detailed reference sheets on the bottom half", "top_section": { "type": "movie poster", "visual": "A man, a woman, and a dog standing on a ruined city street, facing away from the viewer, looking towards a colossal, porous, web-like alien structure dominating the sky. A rusty 'RESTRICTED AREA' sign is on the right.", "typography": { "title": "{argument name=\"movie title\" default=\"劇場版 巨骸の向こう側 Fallen Colossus\"}", "release_date": "{argument name=\"release date\" default=\"2027.11.28 ROADSHOW\"}", "tagline": "そこにあるのは、まだ「説明」されていないもの。", "credits_studio": "{argument name=\"studio name\" default=\"WIT STUDIO\"}" } }, "bottom_sections": [ { "title": "{argument name=\"male character name\" default=\"来栖 武 / Kurusu Takeru\"}", "type": "character reference sheet", "elements": { "full_body_poses": 3, "expressions": 3, "detail_shots": 8, "description": "Male protagonist in dark tactical jacket and cargo pants. Includes front, back, and side full-body views, headshots, and detailed callouts for gloves, boots, backpack, and radio." } }, { "title": "{argument name=\"female character name\" default=\"大城 真那 / Oshiro Mana\"}", "type": "character reference sheet", "elements": { "full_body_poses": 3, "expressions": 3, "detail_shots": 6, "description": "Female protagonist in grey tactical uniform. Includes front, back, and side full-body views, headshots, and detailed callouts for jacket, boots, ID badge, and pouch." } }, { "title": "カゲ (Kage) 設定画", "type": "animal character reference sheet", "elements": { "full_body_poses": 4, "expressions": 4, "detail_shots": 5, "description": "Dog companion. Includes side, front, back, and angled full-body views, headshots, and detailed callouts for fur texture, paws, and a motorcycle sidecar." } }, { "title": "第7巨骸 (Remnant-7) 内部区画 設定画", "type": "environment and vehicle reference sheet", "elements": { "large_diagrams": 1, "environment_thumbnails": 4, "vehicle_designs": 1, "description": "Cross-section of the porous alien structure, smaller environment thumbnails, and a motorcycle design featuring the characters." } }, { "title": "Concept Art", "type": "scene illustration", "elements": { "characters": 3, "vehicles": 1, "description": "The male character, female character, and dog with a motorcycle sidecar parked in front of the glowing, porous alien structure." } } ] }
-```
-
-By [@old\_pgmrs\_will](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-119)
-
----
-
 <a id="freestylefly-case-348"></a>
 
 ## 胡须风格分析海报
@@ -67,22 +51,6 @@ By [@RizwanAly07](https://x.com/RizwanAly07/status/2048610196302250019)
 ```
 
 By [@Iancu\_ai](https://x.com/Iancu_ai/status/2051287273581203888)
-
----
-
-<a id="freestylefly-case-389"></a>
-
-## Transparent Labs Hydrate 健身补剂 Campaign
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case389.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case389.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Create a striking campaign poster that stops people mid-scroll for Transparent Labs Hydrate. Bold high-impact supplement advertisement with dramatic black and deep electric blue color palette, gritty premium fitness aesthetic, sharp cinematic lighting, glossy reflections, light smoke atmosphere, intense contrast. Giant headline typography at top reading “TRANSPARENT LABS HYDRATE” in oversized distressed white and electric blue text. Center composition features the exact woman from the attached reference image as a fit athletic female model seated confidently on a studio floor, holding a shaker bottle, with a focused and powerful expression. Change her clothes into sleek black fitness gym outfit: a black sports bra / tank top and high-waisted black leggings with chunky white sneakers. Large glowing “1%” graphic behind the subject symbolizing daily progress. Front left foreground shows a matte black Transparent Labs Hydrate tub with modern luxury label reading “HYDRATE”, scoop of electrolyte powder spilled beside the container. Surround the poster with clean icon-based benefit callouts: replenishes electrolytes, supports hydration, boosts recovery, improves endurance, enhances performance, zero sugar, lab tested, premium quality, no fillers. Strong motivational copy such as “Daily Hydration. Peak Performance.” Hyper realistic textures, polished commercial retouching, premium sports nutrition branding, modern typography layout, social media ad format, ultra detailed, high resolution.
-```
-
-By [@amynys](https://x.com/amynys/status/2051409591137972606)
 
 ---
 

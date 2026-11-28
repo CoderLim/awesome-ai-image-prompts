@@ -1,170 +1,10 @@
 # illustrations
 
-[← Home](../README.md) · Page 3 / 11
+[← Home](../README.md) · Page 3 / 10
 
-[1](illustrations.md) · [2](illustrations-2.md) · **3** · [4](illustrations-4.md) · [5](illustrations-5.md) · [6](illustrations-6.md) · [7](illustrations-7.md) · [8](illustrations-8.md) · [9](illustrations-9.md) · [10](illustrations-10.md) · [11](illustrations-11.md)
+[1](illustrations.md) · [2](illustrations-2.md) · **3** · [4](illustrations-4.md) · [5](illustrations-5.md) · [6](illustrations-6.md) · [7](illustrations-7.md) · [8](illustrations-8.md) · [9](illustrations-9.md) · [10](illustrations-10.md)
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
-
-<a id="freestylefly-case-195"></a>
-
-## 超写实与水墨的梦幻融合
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case195.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case195.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-[中文] 一张动态的混合媒体摄影作品，将超写实肖像与传统的中国水墨插画相融合。 中心人物是一位具有柔和短波波头短发造型的照片般逼真的年轻亚洲女性。她的妆容自然且极简，表情平静而温柔。她背对相机站立，姿态呈现出优雅的S型曲线，营造出优美流畅的剪影。她微微转动上半身，越过肩膀回眸，带着一种安静、内省的情绪。 她穿着一件简约、修身的白色长袖服装，线条干净，面料柔软，传达出纯洁与极简主义，不显露细节。 她被置于一个靠近阳光明媚窗户的真实世界室内环境中。背景被严重模糊，具有强烈的散景和浅景深，营造出梦幻且充满氛围的环境。 从这种柔和模糊的现实之中，爆发出丰富的传统水墨插画，并环绕着她的身形。构图包括： - 带有耀眼光环的庄严如来佛像 - 在云端漂浮的优雅观音像 - 在空间中盘旋的流动中国水墨龙 - 在动态的水墨笔触中游动的成群锦鲤 这些元素以黑墨和朱红色调渲染，形成一幅密集的、具有精神力量的视觉织锦。水墨在她周围有机地流动，部分重叠并融入她的剪影之中，在现实与神话之间创造出无缝的融合。 没有轮廓线或贴纸效果。融合是自然、流畅且沉浸式的。 风格：电影级摄影，超精细，8k，柔光，现实与水墨艺术之间的高对比度，美术构图，博物馆级美学 宽高比：3:4 [English] A dynamic mixed-media photograph blending hyper-realistic portraiture with traditional Chinese ink illustration. The central figure is a photorealistic young Asian woman with a soft, short wavy bob haircut. Her makeup is natural and minimal, with a calm and gentle expression. She stands with her back to the camera in an elegant S-curve posture, creating a graceful and flowing silhouette. She slightly turns her upper body to glance over her shoulder with a quiet, introspective mood. She wears a simple, form-fitting white long-sleeve outfit with clean lines and soft fabric, conveying purity and minimalism without revealing details. She is placed in a real-world indoor setting near a sunlit window. The background is heavily blurred with strong bokeh and shallow depth of field, creating a dreamy and atmospheric environment. From this soft blurred reality, a rich explosion of traditional ink illustrations emerges and surrounds her figure. The composition includes: - Majestic Tathagata Buddhas with radiant halos - Elegant Guanyin figures floating among clouds - Flowing Chinese ink dragons coiling through space - Schools of koi fish swimming in dynamic ink strokes These elements are rendered in black ink and cinnabar red tones, forming a dense, spiritual visual tapestry. The ink flows organically around her, partially overlapping and blending into her silhouette, creating a seamless fusion between reality and myth. No outlines or sticker effects. The integration is natural, fluid, and immersive. Style: cinematic photography, ultra-detailed, 8k, soft lighting, high contrast between reality and ink art, fine art composition, museum-level aesthetic Aspect ratio: 3:4
-```
-
-By [@johnAGI168](https://x.com/johnAGI168/status/2046596103919767857)
-
----
-
-<a id="freestylefly-case-196"></a>
-
-## 试卷上的涂鸦巨龙
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case196.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case196.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-[中文] 一个巨大的巨龙，庞大的规模，高耸的存在感， 一个远超人类尺寸的巨大实体，压倒性和压迫性的， 用极其密集的混乱涂鸦线条绘制， 超密集的重叠笔触，纠缠和混乱的线条画， 在真实的印刷英文/中文教科书或试卷页面上， 可见的文本、布局和纸张纹理清晰透出， 圆珠笔绘画风格，精细的墨水线条，杂乱的分层笔触， 没有干净的轮廓，一切由混乱的涂鸦构成， 黑暗和柔和的底色（黑色，深靛蓝，暗紫罗兰色）， 带有微妙的低饱和度霓虹点缀（蓝色，青色，紫色）， 仅在关键区域（眼睛，核心，裂缝，静脉）有选择性的生物发光， 不是整体的亮度， 取决于主体的有机或机械纹理， 错综复杂的细节，复杂的表面图案， 形态从混乱中浮现， 高密度中心，边缘消融为松散的涂鸦， 主体附近微小的人类剪影强调了尺度感， 半透明层，由线条密度产生的深度， 原始的，不完美的，嘈杂的，充满活力的手绘感， 略带诡异，超现实，神秘的氛围， 混合媒体插画，涂鸦艺术， 极其详细，黑暗团块和发光点缀之间的高对比度， 杰作，极其详细 [English] A colossal [SUBJECT], massive scale, towering presence, a gigantic entity far beyond human size, overwhelming and oppressive, drawn with extremely dense chaotic scribble lines, ultra-dense overlapping pen strokes, tangled and chaotic linework, on top of a real printed English/Chinese textbook or exam paper page, visible text, layout, and paper texture clearly showing through, ballpoint pen drawing style, fine ink lines, messy layered strokes, no clean outlines, everything constructed from chaotic scribbles, dark and muted base tones (black, deep indigo, dark violet), with subtle low-saturation neon accents (blue, cyan, purple), selective bioluminescent glow only in key areas (eyes, core, cracks, veins), not overall brightness, organic or mechanical textures depending on subject, intricate details, complex surface patterns, form emerging from chaos, high-density center, edges dissolving into loose scribbles, sense of scale emphasized by tiny human silhouette near the subject, semi-transparent layers, depth created by line density, raw, imperfect, noisy, energetic hand-drawn feeling, slightly eerie, surreal, mysterious atmosphere, mixed media illustration, scribble art, extremely detailed, high contrast between dark mass and glowing accents, masterpiece, ultra detailed 主体：巨龙
-```
-
-By [@GeekCatX](https://x.com/GeekCatX/status/2046539797578330152)
-
----
-
-<a id="freestylefly-case-206"></a>
-
-## 国风工笔八仙长卷插画
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case206.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case206.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-[中文] （国风卷轴插画师）你是一位顶尖的中国传统工笔人物画师，擅长将经典人物群像绘制成长卷式百科海报。根据用户指定的【eight immortals】，生成一张 “中国传统人物群像长卷海报”：画面为横向长卷式构图，所有人物排成一条队列，从左至右依次展开；每个人物都有鲜明的传统服饰、标志性道具和神态，下方配有竖排名牌标注姓名；卷轴顶部有醒目的书法标题；背景为符合主题的场景元素（如祥云、海浪、山水、亭台等）。整体为高质量国风工笔插画：细腻线稿 + 雅致上色，浅米色 / 宣纸质感背景；注释为清晰的中文书法字体；横向 4K 长卷海报，构图均衡，人物分明，氛围贴合主题（如仙气、豪迈、温婉等）。直接出图，人物群像为【eight immortals】。 [English] (Guofeng scroll illustrator) You are a top Chinese traditional Gongbi figure painter, skilled in painting classic character group portraits into long-scroll-style encyclopedia posters. According to the user-specified [eight immortals], generate a "Chinese traditional character group portrait long scroll poster": The picture is a horizontal long-scroll composition, all characters are arranged in a queue, unfolding sequentially from left to right; each character has distinct traditional clothing, iconic props, and expressions, below is a vertical nameplate annotating the name; the top of the scroll has a striking calligraphy title; the background is scene elements fitting the theme (such as auspicious clouds, ocean waves, mountains and rivers, pavilions). The overall style is high-quality Guofeng Gongbi illustration: delicate line art + elegant coloring, light beige / Xuan paper texture background; annotations are in clear Chinese calligraphy fonts; horizontal 4K long scroll poster, balanced composition, distinct characters, atmosphere fitting the theme (such as fairy-like, heroic, gentle). Output the image directly, the character group portrait is [eight immortals].
-```
-
-By [@GeekCatX](https://x.com/GeekCatX/status/2046559605074076112)
-
----
-
-<a id="freestylefly-case-233"></a>
-
-## 蒙娜丽莎畅饮可乐的趣味油画
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case233.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case233.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-[中文] 生成一张蒙娜丽莎喝可乐的油画。 [English] Generate an oil painting of Mona Lisa drinking cola.
-```
-
-By [@liyue\_ai](https://x.com/liyue_ai/status/2045058142858555733)
-
----
-
-<a id="freestylefly-case-238"></a>
-
-## 星云巨鲤与小人的奇幻对话
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case238.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case238.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-[中文] 一幅超现实主义数字插画风格，采用低角度仰拍视角。画面描绘了一条巨型彩色锦鲤遨游在梦幻般的星云中，四周环绕着色彩鲜艳的星云与气泡。 画面中央还站着一个小人，背对观众，神情平静地仰望空中这条巨大的锦鲤，锦鲤头向下看着小人。 整体画面呈现出强烈的大小对比，氛围空灵又梦幻。比例9:16 [English] A surrealist digital illustration style, adopting a low-angle upward perspective. The picture depicts a giant colorful koi swimming in a dreamy nebula, surrounded by colorful nebulae and bubbles. In the center of the picture stands a small figure, with their back to the audience, calmly looking up at this huge koi in the air, and the koi is looking down at the small figure. The overall picture presents a strong size contrast, and the atmosphere is ethereal and dreamy. Aspect ratio 9:16
-```
-
-By [@liyue\_ai](https://x.com/liyue_ai/status/2045875219307655337)
-
----
-
-<a id="freestylefly-case-242"></a>
-
-## 绝美国风工笔画书签设计
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case242.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case242.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-[中文] 生成一系列工笔画书签的设计稿 [English] Generate a series of design drafts for Gongbi painting bookmarks.
-```
-
-By [@akokoi1](https://x.com/akokoi1/status/2045693939584516441)
-
----
-
-<a id="freestylefly-case-263"></a>
-
-## 唯美二次元角色介绍网页
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case263.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case263.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-[中文] 埋まってないところはパートナーさんかご自身で埋めてあげてください #観測塔朝お題  #観測塔おはようお題 最新モデルの画像生成ツールを使用して、 このちびキャライラストと立ち絵を使って本物のサイトページのようにキャラクター紹介ページ風イラストを作ってください。 （紹介ページとして使ってもおかしくないもの） ギャルゲーのキャラクター紹介ページをイメージした高品質なもの。 顔の差分なども乗っている、CGイラストが存在する。ちびキャラが存在する。 「ここに自己紹介」 名前:（ここに名前） イメージカラー:（ここに色） 身長:（ここに身長）cm 体重:（ここに体重）kg キャッチコピー:"「ここにセリフ」" [English] Please fill in the unfilled parts by your partner or yourself #ObservatoryTowerMorningTheme  #ObservatoryTowerGoodMorningTheme Using the latest model image generation tool, Using this chibi character illustration and standing picture, create a character introduction page style illustration like a real website page. (Something that would not be strange to use as an introduction page) A high-quality item imagining a gal game character introduction page. Facial variations etc. are also included, CG illustrations exist. A chibi character exists. "Self-introduction here" Name: (Name here) Image color: (Color here) Height: (Height here)cm Weight: (Weight here)kg Catchphrase: "Dialogue here"
-```
-
-By [@09lyco](https://x.com/09lyco/status/2045281845391323175)
-
----
-
-<a id="freestylefly-case-282"></a>
-
-## 温柔治愈系二次元手机截图
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case282.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case282.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-[中文] 生成一张竖版手机截图风格的图片，整体比例接近 9:16。画面中心偏上是一位真人 coser，扮演（角色名称）的二次元角色。人物为写实风格，但五官略带动漫感，皮肤细腻，眼睛稍大，表情温柔地看向镜头，坐在室内的休闲场景中，例如咖啡厅或酒吧吧台前，背景有符合场景的道具。画面最上方加入手机系统状态栏 UI，包括时间、电量、信号、网络等图标，让整张图看起来像手机截图。画面底部叠加一块宽大的半透明 galgame 风格对话框，对话框左侧放一个与画面人物对应的动漫或 Q 版头像；对话框右侧排版文字：第一行用较大字体显示与前面相同的角色名字，下面一到两行显示一段适合这个角色人设的、温柔治愈风格的简体中文台词，由你自动创作。再在对话框下方加一条操作栏，仿照 galgame UI。整体风格高清、细节丰富、光线柔和、二次元与真人写真自然融合。 [English] Generate a portrait mobile phone screenshot style image, with an overall aspect ratio close to 9:16. In the upper center of the frame is a real-life coser, playing a 2D anime character named (Character Name). The character is in a realistic style, but with facial features slightly showing an anime feel, delicate skin, slightly larger eyes, a gentle expression looking at the camera, sitting in an indoor casual scene, such as in front of a cafe or bar counter, with background props fitting the scene. At the very top of the image, add a mobile phone system status bar UI, including icons for time, battery, signal, and network, to make the whole image look like a mobile phone screenshot. At the bottom of the image, overlay a wide semi-transparent galgame style dialog box, place an anime or Q-version avatar corresponding to the character in the image on the left side of the dialog box; on the right side of the dialog box, typeset text: the first line displays the same character name as before in a larger font, the following one to two lines display a piece of Simplified Chinese dialogue suitable for this character's personality, in a gentle and healing style, automatically created by you. Then add an operation bar below the dialog box, imitating the galgame UI. The overall style is high-definition, rich in details, with soft lighting, and a natural fusion of 2D anime and real-life photography.
-```
-
-By [@Zoulinshen](https://x.com/Zoulinshen/status/2045082518089810073)
-
----
-
-<a id="freestylefly-case-299"></a>
-
-## 极简留白涂鸦手绘草图
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case299.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case299.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-[中文] 以涂鸦速写风表现【主题/主体】，整体呈现快速勾勒、自由变形、即兴手绘与草稿式的视觉效果。线条随手、夸张、可粗细不一，略显凌乱但具有节奏和表现力，强调概括、夸张、趣味和随性，而不是严谨写实或精细刻画。 颜色采用粗糙、干刷感明显的块面表现，可保留不均匀的涂抹痕迹、刷痕、飞白与覆盖感，色彩根据【主题/主体】自动适配，但整体保持涂鸦式、速写式、概括式的表达。不要透明水彩晕染效果，不要细腻水彩过渡，不要纸纹理，不要柔和雾化，不要梦幻质感。 背景以留白为主，保持简洁、轻松、未完成感和设计感，可加入少量辅助性符号、箭头、记号、圈画、重复线、随手写的文字或其他涂鸦元素，以增强速写本或随笔式视觉语言，但不可过于拥挤，不可破坏主体和留白气质。 画面内容不需要预先写清楚，由【主题/主体】自动推演并生成最适合的主体形象、动作、相关元素、符号或简化场景，整体保持统一的涂鸦速写风和夸张概括的表现方式，避免复杂写实背景和过度铺陈。 画面中需自然加入专属签名“voxcat”，作为画面的一部分，位置低调但清晰，可放在左下角、右下角或标题附近，风格需与整体版式统一，像作品署名或设计落款；签名字体精致、克制、高级，不可过大，不可破坏主体构图，不可显得突兀或廉价。 [English] Express [Subject/Theme] in a graffiti sketch style, presenting an overall visual effect of quick outlining, free deformation, impromptu hand-drawing, and draft-like appearance. The lines are casual, exaggerated, and can vary in thickness, slightly messy but rhythmic and expressive, emphasizing generalization, exaggeration, playfulness, and spontaneity, rather than rigorous realism or detailed rendering. Colors are expressed in rough blocks with a distinct dry-brush feel, retaining uneven smearing traces, brush strokes, dry-brush effects, and a sense of coverage. Colors automatically adapt to [Subject/Theme], but the overall expression remains graffiti-style, sketch-style, and generalized. Do not use transparent watercolor blooming effects, do not use delicate watercolor transitions, do not use paper textures, do not use soft atomization, and do not use dreamy textures. The background is mainly left blank, maintaining a sense of simplicity, relaxation, incompleteness, and design. A small number of auxiliary symbols, arrows, marks, circled areas, repeated lines, casually written text, or other graffiti elements can be added to enhance the visual language of a sketchbook or jotting style, but it must not be too crowded, and must not destroy the subject and the blank space temperament. The image content does not need to be written out in advance; the most suitable subject image, actions, related elements, symbols, or simplified scenes are automatically deduced and generated by [Subject/Theme], keeping the overall unified graffiti sketch style and exaggerated generalized expression, avoiding complex realistic backgrounds and over-elaboration. The exclusive signature "voxcat" needs to be naturally added to the image as a part of the picture. The position should be low-key but clear, and can be placed in the bottom left corner, bottom right corner, or near the title. The style must be consistent with the overall layout, like an artwork signature or a design sign-off; the signature font should be exquisite, restrained, and high-end, must not be too large, must not destroy the subject composition, and must not appear abrupt or cheap.
-```
-
-By [@VoxcatAI](https://x.com/VoxcatAI/status/2045131503001342302)
-
----
-
-<a id="freestylefly-case-346"></a>
-
-## 立体刺绣小鸟花枝
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case346.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case346.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-精致立体刺绣风插画，浅浮雕纤维艺术效果，纯净「蚕丝白 + 奶白」底色，细腻丝线质感。画面为数只小鸟停在蜿蜒花枝上，周围点缀粉白、浅桃、珊瑚粉、淡金色花朵与叶片，构图轻盈雅致、留白充足。鸟儿羽毛以奶白、浅蓝、淡粉、浅金丝线刺绣表现，花枝纤细自然，花朵层层叠线，整体呈现高级手工刺绣、丝线堆绣、柔和光影、细节丰富、温柔清新的艺术效果。
-```
-
-By [@dotey](https://x.com/dotey/status/2048529821706195442)
-
----
 
 <a id="freestylefly-case-366"></a>
 
@@ -326,6 +166,166 @@ By [@MrLarus](https://x.com/MrLarus/status/2058175014168396245)
 
 ---
 
-[1](illustrations.md) · [2](illustrations-2.md) · **3** · [4](illustrations-4.md) · [5](illustrations-5.md) · [6](illustrations-6.md) · [7](illustrations-7.md) · [8](illustrations-8.md) · [9](illustrations-9.md) · [10](illustrations-10.md) · [11](illustrations-11.md)
+<a id="freestylefly-case-471"></a>
+
+## 花簪和服动漫肖像
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case471.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case471.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+Ultra-detailed anime-style portrait of a young girl with large expressive eyes, soft blush cheeks, and delicate facial features. She wears a vibrant floral kimono with intricate colorful patterns. Large blooming flowers are placed in her hair like accessories. Smooth gradient warm background in coral and peach tones. Soft cinematic lighting, dreamy atmosphere, high-end digital illustration
+```
+
+By [@Mind\_Boticni](https://x.com/Mind_Boticni/status/2059133066694779343)
+
+---
+
+<a id="freestylefly-case-495"></a>
+
+## 巴黎街头故事书插画
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case495.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case495.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+Portrait illustration in a storybook style featuring a young adult woman exploring the streets of Paris. She is laughing happily with her eyes closed, holding a coffee cup in her hand. She has long, wavy hair and wears a beret hat. The scene is set near a Parisian café in a peaceful morning atmosphere. The woman has a sweet, charming smile. Soft, dreamy mood, romantic Paris street vibe, gentle lighting, and highly detailed artwork.
+```
+
+By [@MissDelulu9](https://x.com/MissDelulu9/status/2062376738500526347)
+
+---
+
+<a id="freestylefly-case-498"></a>
+
+## 铅笔画背景 3D 分身
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case498.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case498.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+Create a handrawn pencil illustration of [image] yawning on paper, as background. Add a 3D Pixar style render of [foto] standing casually infront of the giant handrawn pencil illustration. Soft cinematic lighting. 8K resolution. 3:4 ratio
+```
+
+By [@AIwithkhan](https://x.com/AIwithkhan/status/2062567518389391540)
+
+---
+
+<a id="freestylefly-case-504"></a>
+
+## 粗糙涂鸦人像改图
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case504.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case504.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+Turn this photo into a chaotic funny doodle illustration, intentionally messy and low-skill, as if drawn quickly with a cheap marker, crayon, or worn-out felt pen on paper. Create exaggerated facial features with awkward proportions, uneven eyes, oversized head, tiny body, crooked smile, and clumsy anatomy while still keeping the person recognizable. Use rough childish sketch lines, shaky hand-drawn strokes, visible scribbles, overlapping outlines, accidental marks, and random doodles around the scene. Add a simple cartoon-style background with badly drawn buildings, trees, clouds, street elements, and uneven perspective. Coloring should look careless and imperfect, with visible stroke texture, inconsistent fill areas, wax crayon texture, marker bleed, and irregular shading. Include playful imperfections like crossed-out lines, unfinished details, random arrows, tiny notes, stars, swirls, and abstract scribbles. Overall aesthetic should feel humorous, spontaneous, handmade, energetic, goofy, and intentionally unpolished, resembling a child's sketchbook mixed with absurd internet meme art. High texture detail, paper grain visible, asymmetrical composition, awkward framing, expressive doodle chaos, raw sketch energy.
+```
+
+By [@Shorelyn\_](https://x.com/Shorelyn_/status/2063235707632533954)
+
+---
+
+<a id="freestylefly-case-513"></a>
+
+## 单色点缀旅行手账插画
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case513.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case513.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+Create a charming editorial travel illustration of {DESTINATION} in a simple hand-drawn doodled style, as if sketched by hand with a black felt-tip marker in a travel notebook. The illustration should feel personal, spontaneous, and imperfect rather than digitally designed. Think of the kind of drawing someone might casually create while sitting at a café after exploring the destination.** ## COLOR PALETTE Keep the illustration almost entirely black and white. Use **only one accent color: {ONE POINT COLOR}** ## STYLE Draw entirely with black felt-tip pen lines. Use slightly wobbly hand-drawn contours, natural line variation, loose marker strokes, sketch-like confidence, subtle imperfections, slightly open line endings, uneven hand pressure, and occasional overlapping strokes. Every line should clearly look handmade. Avoid perfectly smooth curves, mechanically precise outlines, polished vector graphics, or overly crisp digital rendering. ## SUBJECT Illustrate the unique atmosphere and instantly recognizable identity of **{DESTINATION}** rather than producing a realistic cityscape. Select the destination's most iconic landmarks, characteristic architecture, local transportation, famous scenery, native plants, local animals, regional food, and cultural objects. Focus on the spirit of the destination instead of literal accuracy. ## COMPOSITION Arrange the selected elements into a balanced editorial composition with generous white space. The layout should feel open, light, and effortless, similar to a designer's travel sketchbook. Allow objects to overlap naturally without becoming crowded. Every element should have room to breathe. Keep the composition visually relaxed and uncluttered. Apply the blue sparingly to selected details such as water, sky, windows, signs, clothing accents, decorative highlights, or small architectural features. Never introduce any additional colors. ## DRAWING STYLE Keep every object simple and intentionally simplified. Use flat shapes with minimal interior detail. Avoid realistic textures, gradients, shadows, painterly brushwork, glossy surfaces, or complex rendering. The illustration should remain clean, airy, understated, and highly graphic. ## LINE QUALITY The black marker lines are the main visual feature. Lines should feel confident, casual, lively, expressive, and naturally imperfect. Slightly uneven contours, open edges, variable line thickness, and small drawing inaccuracies are encouraged because they enhance the authentic hand-drawn feeling. ## MOOD Warm. Friendly. Relaxed. Playful. Minimal. Editorial. Contemporary. Elegant through simplicity. The finished artwork should resemble a beautifully designed travel notebook, boutique travel guide, editorial magazine illustration, or lifestyle sketchbook rather than a polished digital illustration. ## IMPORTANT No photorealism. No 3D rendering. No painterly effects. No gradients. No heavy shadows. No glossy lighting. No vector-clean artwork. No excessive detail. No busy composition. Preserve generous white space. Maintain a flat editorial doodle aesthetic with a distinctly handmade character. The final image should instantly evoke **{DESTINATION}** through simple, expressive black felt-tip sketches with subtle sky-blue accents.
+```
+
+By [@Sairah\_0](https://x.com/Sairah_0/status/2071779087396606433)
+
+---
+
+<a id="freestylefly-case-520"></a>
+
+## 月面宇航员 T 恤图形
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case520.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case520.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+A graphic illustration centered on a dark navy blue t-shirt, depicting an astronaut sitting on the surface of the moon, viewed from a side profile. The astronaut is wearing a detailed, bulky space suit and helmet, leaning back against a small lunar rock formation, and is holding a small steaming mug, suggesting they are enjoying a peaceful drink. Positioned directly in front of the astronaut in the background is a large, majestic view of the Earth, rendered in shades of white, light blue, and navy, featuring prominent swirling cloud formations. The entire artwork is monochromatic, utilizing a cool blue-and-white color palette that creates a serene, solitary, and contemplative atmosphere. The lunar ground is textured with craters and dust, providing a grounded contrast to the vast, dark sky and the bright, swirling planet above. The style is clean, artistic, and iconic, reminiscent of screen-printed apparel designs.
+```
+
+By [@lovimg\_com](https://x.com/lovimg_com/status/2077035644254363972)
+
+---
+
+<a id="freestylefly-case-531"></a>
+
+## 水晶框国家旅行广告海报
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case531.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case531.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+Create a luxurious, dreamy country travel-art collection in the exact visual language of an elegant premium tourism campaign: a large transparent crystal/glass architectural frame or arched glass display standing on a glossy reflective surface, containing a highly detailed cinematic illustration of the destination. For [COUNTRY], feature its most iconic landmarks, historic architecture, distinctive landscapes, local transportation, cultural elements, national flag, flowers and recognizable scenery arranged as one seamless poetic panorama. Use warm golden-hour sunlight, soft atmospheric haze, pastel cream, champagne, muted blue and sage tones, delicate clouds, subtle birds, realistic glass refraction and rainbow prism highlights along the edges. Create a perfect mirror reflection beneath the glass structure, extending the entire composition downward with beautifully softened reflections. Add elegant editorial typography at the top reading “[COUNTRY]”, with smaller refined text “THE SOUL OF [COUNTRY]” and “A JOURNEY THROUGH TIME • 2026” beneath it. Sophisticated luxury travel magazine aesthetic, photorealistic yet painterly, cinematic depth, fine-art composition, extremely detailed architecture, serene atmosphere, premium advertising photography, symmetrical balanced framing, soft film grain, 8K, vertical 4:5, no clutter, no modern UI elements, no extra text.
+```
+
+By [@Taaruk\_](https://x.com/Taaruk_/status/2091391283063361558)
+
+---
+
+<a id="freestylefly-case-545"></a>
+
+## 厚涂建筑地标艺术海报
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case545.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case545.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+Create a sophisticated fine-art architectural painting of [STRUCTURE / LANDMARK], presented as a highly tactile, three-dimensional impasto oil painting on textured archival paper. Make [STRUCTURE / LANDMARK] the unmistakable central focal point, shown from a slightly low, frontal perspective so its architecture feels grand, monumental, elegant, and sculptural. Preserve the recognizable architectural features, proportions, silhouette, windows, columns, arches, roofline, ornamentation, materials, and distinctive details of the structure, but reinterpret the entire scene as a handcrafted contemporary oil painting. Use extremely thick palette-knife impasto with visible raised strokes, layered paint, broken edges, scraped textures, ridges, and expressive overlapping marks. The architecture should appear almost sculpted entirely from paint, with heavy cream, warm stone, soft gray, muted blue, dusty green, subtle charcoal, and delicate antique-gold accents. Behind the structure, create a simplified atmospheric sky made entirely from thick textured brushstrokes in soft powder blue, ivory, pale gray, and warm white. Keep the background understated, elegant, and painterly so the architectural form remains dominant. Add subtle environmental details at the bottom — a few bicycles, elegant vintage street lamps, plants, steps, pavement, tiny distant figures, or other small location-specific details — but keep them secondary, miniature, and painterly. The artwork should sit like a physical painted panel mounted on a warm off-white handmade paper background. Give the painted panel an irregular, naturally torn and rough painted edge, with subtle dimensional shadows around it, suggesting that a thick original artwork has been physically placed onto textured archival paper. At the bottom of the artwork, incorporate the name of the landmark in beautiful refined italic typography: “[STRUCTURE / LANDMARK]” Use sophisticated high-contrast editorial serif lettering, elegant flowing italics, slightly vintage European book-cover styling, subtle antique-gold or muted charcoal ink, perfectly centered and carefully integrated into the artwork. The typography should feel printed/painted onto the textured surface rather than digitally overlaid. Keep the lettering delicate, tasteful, and legible without competing with the architecture. If appropriate, add a smaller understated italic subtitle beneath it: “[CITY, COUNTRY]” Use generous spacing, refined typography, and a museum-quality art-print composition. Lighting should be soft and natural, emphasizing the raised impasto texture and creating tiny shadows between layers of paint. Elegant European art-book aesthetic, museum-quality architectural painting, sophisticated vintage travel-art feeling, tactile handmade surface, restrained luxury color palette, painterly realism, highly detailed, atmospheric, timeless, no photorealistic appearance. Vertical composition, centered architecture, generous off-white negative space around the artwork, premium editorial art print, collectible gallery poster, 8k detail. --ar 4:5 --style raw
+```
+
+By [@Naiknelofar788](https://x.com/Naiknelofar788/status/2093948869000495565)
+
+---
+
+<a id="freestylefly-case-547"></a>
+
+## 日系 Chibi 互动小插画
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case547.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case547.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+Create a cute hand-drawn Japanese chibi illustration of two characters interacting in a sweet, playful moment. Use a soft traditional colored-pencil and crayon drawing style, with visible sketchy pencil strokes, slightly rough imperfect outlines, gentle pastel coloring, and a handmade children’s storybook feel. Characters should have oversized heads, tiny bodies, simple oval black eyes, tiny smiling mouths, rosy cheeks, and expressive innocent faces. Give them natural, adorable poses and interactions, with clothing and hairstyles matching the requested scene. Keep the composition clean and minimal on a plain white background, with plenty of negative space. Add small hand-drawn decorative elements such as hearts, sparkles, or motion lines around the characters where appropriate. Soft pastel palette, subtle paper texture, delicate linework, slightly imperfect coloring, cozy wholesome romantic atmosphere, full-body composition, centered characters, high-quality illustration. For different scenes Replace this part: “two characters interacting in a sweet, playful moment” with whatever you want, e.g.: •“a couple holding hands while walking” •“a boy surprising a girl with flowers” •“two friends laughing together” •“a couple sitting together under an umbrella” •“a girl teasing a shy boy” •“two characters taking a cute selfie”
+```
+
+By [@Sairah\_0](https://x.com/Sairah_0/status/2093929087010246754)
+
+---
+
+<a id="prompthero-0b8761bf0b9"></a>
+
+## a painting of a woman in red with black hair, in t\.\.\.
+
+<a href="https://cdn.prompthero.com/t3sgifeg78ljihgcwicy0rouw35t-midjourney-6-a-painting-of-a-woman-in-red-with-black-hair-in-the-style-of-delicate-ink-washes-epic-fantasy-scenes.png"><img src="https://cdn.prompthero.com/t3sgifeg78ljihgcwicy0rouw35t-midjourney-6-a-painting-of-a-woman-in-red-with-black-hair-in-the-style-of-delicate-ink-washes-epic-fantasy-scenes.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+a painting of a woman in red with black hair, in the style of delicate ink washes, epic fantasy scenes, chinese painting, splattered/dripped, white background, traditional costumes, soft focus lens --ar 73:98 --stylize 750 --v 6
+```
+
+By [@NorthmoorAI](https://prompthero.com/prompt/0b8761bf0b9-midjourney-6-a-painting-of-a-woman-in-red-with-black-hair-in-the-style-of-delicate-ink-washes-epic-fantasy-scenes)
+
+---
+
+[1](illustrations.md) · [2](illustrations-2.md) · **3** · [4](illustrations-4.md) · [5](illustrations-5.md) · [6](illustrations-6.md) · [7](illustrations-7.md) · [8](illustrations-8.md) · [9](illustrations-9.md) · [10](illustrations-10.md)
 
 [← Home](../README.md)

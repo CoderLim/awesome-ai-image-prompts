@@ -3,6 +3,7 @@ import assert from 'node:assert/strict';
 import fs from 'node:fs';
 import os from 'node:os';
 import path from 'node:path';
+import http from 'node:http';
 import net from 'node:net';
 import {spawn} from 'node:child_process';
 import {once} from 'node:events';
@@ -56,6 +57,46 @@ test('local reviewer persists exclusion, rejects stale writes, restores case', {
  assert.equal((await write('unfeature',['a'],result.revision)).status,409);
  const empty=await (await write('unfeature',['a','b'],featured.revision)).json();
  assert.deepEqual(empty.featured,[]);
+});
+
+test('local reviewer serves checkout media for unpushed GitHub raw URLs', {timeout:20000}, async t=>{
+ const root=fs.mkdtempSync(path.join(os.tmpdir(),'image-review-media-'));
+ let child;
+ t.after(async()=>{if(child&&child.exitCode===null&&child.signalCode===null){const exited=once(child,'exit');child.kill();await exited;}fs.rmSync(root,{recursive:true,force:true});});
+ const scripts=path.dirname(fileURLToPath(import.meta.url));
+ fs.mkdirSync(path.join(root,'scripts'),{recursive:true});
+ for(const f of ['review-images.mjs','review-images.html','review-image-order.mjs','review-exclusions.mjs','review-featured.mjs','review-local-queues.mjs','governance.mjs','x-source.mjs','audit-prompt-similarity.mjs','prompthero-preflight.mjs'])fs.copyFileSync(path.join(scripts,f),path.join(root,'scripts',f));
+ fs.mkdirSync(path.join(root,'data/index'),{recursive:true});
+ fs.mkdirSync(path.join(root,'data/media/manual'),{recursive:true});
+ const bytes=Buffer.from([0xff,0xd8,0xff,0xd9]);
+ fs.writeFileSync(path.join(root,'data/media/manual/leaf.jpg'),bytes);
+ const remote='https://raw.githubusercontent.com/CoderLim/awesome-ai-image-prompts/main/data/media/manual/leaf.jpg';
+ const record={id:'manual-leaf',title:{en:'Leaf'},type:'generation',category:'creative-art',inputMode:'text-to-image',status:'index-only',prompt:{original:'Carve a leaf scene with {{scene}}'},media:[],sourcePreview:{images:[{url:remote,role:'output'}],promptExcerpt:'Carve a leaf scene with {{scene}}',excerptTruncated:false},provenance:{originalSource:{platform:'manual',author:'CoderLim',url:remote,postId:null,publishedAt:'2026-11-28',verification:'owner-supplied'},collectedFrom:[{sourceId:'manual',mode:'manual-owner-supplied',url:'https://github.com/CoderLim/awesome-ai-image-prompts'}]},rights:{prompt:'unknown',media:'unknown'},sourceMeta:{review:{qualityStatus:'recommended',classificationConfidence:'high',classificationMethod:'owner-directed-import',inputMode:'text-to-image',category:'creative-art'}}};
+ fs.writeFileSync(path.join(root,'data/index/manual.json'),JSON.stringify([record]));
+ const temp=net.createServer();temp.listen(0,'127.0.0.1');await once(temp,'listening');const port=temp.address().port;await new Promise(resolve=>temp.close(resolve));
+ child=spawn(process.execPath,[path.join(root,'scripts/review-images.mjs'),'--port',String(port)],{stdio:['ignore','pipe','pipe']});
+ let stdout='',stderr='';
+ await new Promise((resolve,reject)=>{
+  const timer=setTimeout(()=>reject(Error('Server startup timeout: '+stderr)),7000);
+  child.stdout.on('data',b=>{stdout+=b;if(stdout.includes('Review: http://')){clearTimeout(timer);resolve();}});
+  child.stderr.on('data',b=>stderr+=b);
+  child.once('exit',code=>{clearTimeout(timer);reject(Error('Server exited '+code+': '+stderr));});
+  child.once('error',e=>{clearTimeout(timer);reject(e);});
+ });
+ const base='http://127.0.0.1:'+port;
+ const data=await (await fetch(base+'/api/data')).json();
+ const card=data.cards.find(c=>c.id==='manual-leaf');
+ assert.deepEqual(card.images,['/local-media/manual/leaf.jpg']);
+ const media=await fetch(base+'/local-media/manual/leaf.jpg');
+ assert.equal(media.status,200);
+ assert.equal(media.headers.get('content-type'),'image/jpeg');
+ assert.deepEqual(Buffer.from(await media.arrayBuffer()),bytes);
+ const traversal=await new Promise((resolve,reject)=>{
+  const req=http.get({hostname:'127.0.0.1',port,path:'/local-media/manual/%2e%2e/%2e%2e/index/manual.json'},res=>{res.resume();resolve(res.statusCode);});
+  req.on('error',reject);
+ });
+ assert.equal(traversal,400);
+ assert.equal((await fetch(base+'/local-media/missing.jpg')).status,404);
 });
 
 test('review order uses first import, not later shard edits; unknown dates sort last',t=>{

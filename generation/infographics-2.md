@@ -1,202 +1,10 @@
 # infographics
 
-[← Home](../README.md) · Page 2 / 3
+[← Home](../README.md) · Page 2 / 2
 
-[1](infographics.md) · **2** · [3](infographics-3.md)
+[1](infographics.md) · **2**
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
-
-<a id="freestylefly-case-102"></a>
-
-## 信息图可视化设计
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case102.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case102.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Search the web for {argument name="performance description" default="this week’s standout individual performance in Champion’s League"}, using exact stats and game summary, {argument name="colors" default="bold team colors"}, legible score breakdown, and generate a {argument name="card type" default="Highlight card"}.
-```
-
-By [@maxescu](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-102)
-
----
-
-<a id="freestylefly-case-112"></a>
-
-## 信息图可视化设计
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case112.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case112.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Generate a 12-grid card image of the 12 Golden Saints from Saint Seiya, with each card featuring its corresponding Chinese name, 4 cards per row, in a 16:9 aspect ratio.
-```
-
-By [@songguoxiansen](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-112)
-
----
-
-<a id="freestylefly-case-171"></a>
-
-## 信息图可视化设计
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case171.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case171.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-[中文] 创建一个包含 10x10 网格的图像，每个对象名称都以字母 a 开头。 [English] create an image with 10x10 grid of objects that have the names starting with letter a.
-```
-
-By [@umesh\_ai](https://x.com/umesh_ai/status/2046510988367945983)
-
----
-
-<a id="freestylefly-case-179"></a>
-
-## 蒸汽朋克射手座解剖图谱
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case179.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case179.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-[中文] （Steampunk Scientific Illustrator）你是一位专业复古蒸汽朋克解剖图谱设计师，擅长星座机械结构科普海报。根据用户指定的【{constellation_name}】，生成一张复古蒸汽朋克风格星座解剖图谱海报：顶部标题栏为“{constellation_name}解剖图谱”或“ANATOMIA {constellation_en}”，采用复古丝带横幅设计；背景为做旧羊皮纸/泛黄旧纸张纹理，带自然污渍与折痕，营造复古科学手稿质感；中心主体为该星座经典神话形象，内部结构替换为精密齿轮、管线、金属骨骼等蒸汽朋克元素；所有图标与插画为手绘线稿风格，用箭头或连线展示逻辑关系；主色调为暖棕、米黄、古铜色，点缀少量高对比色彩突出重点；画面分左右两栏，中心为主体形象，两侧分布功能模块，底部为总结与表格。左侧含3-5个功能模块（含图标、标题、描述）及“五层性格结构”分层图示；右侧含3-5个特质模块（含图标、标签）及“Relationship classification”“Ecological niche”板块；底部设“Advantages/Risks comparison table”优势风险对比表、“Survival guide”生存指南、底部人生哲学宣言横幅。整体严谨精致、复古机械美学，文字清晰可读 4K高清，直接出图，星座为【射手座 / Sagittarius】。 [English] (Steampunk Scientific Illustrator) You are a professional vintage steampunk anatomy atlas designer, specializing in constellation mechanical structure popular science posters. Based on the user-specified [{constellation_name}], generate a vintage steampunk style constellation anatomy atlas poster: The top title bar is "{constellation_name} anatomy atlas" or "ANATOMIA {constellation_en}", adopting a vintage ribbon banner design; The background is distressed parchment/yellowed old paper texture, with natural stains and creases, creating a vintage scientific manuscript texture; The central subject is the classic mythological image of this constellation, with the internal structure replaced by steampunk elements such as precision gears, pipelines, and metal skeletons; All icons and illustrations are in hand-drawn line art style, using arrows or connecting lines to show logical relationships; The main color tone is warm brown, beige, and bronze, dotted with a small amount of high-contrast colors to highlight key points; The picture is divided into left and right columns, the center is the main image, functional modules are distributed on both sides, and the bottom is a summary and table. The left side contains 3-5 functional modules (including icons, titles, descriptions) and a "Five-layer personality structure" layered diagram; The right side contains 3-5 trait modules (including icons, labels) and "Relationship classification" and "Ecological niche" sections; The bottom features an "Advantages/Risks comparison table", "Survival guide", and a bottom life philosophy manifesto banner. Overall rigorous and exquisite, vintage mechanical aesthetics, text is clear and readable 4K high definition, direct image output, the constellation is [Sagittarius / Sagittarius].
-```
-
-By [@GeekCatX](https://x.com/GeekCatX/status/2046574334572212694)
-
----
-
-<a id="freestylefly-case-183"></a>
-
-## 一张中文健身信息图
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case183.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case183.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-请生成一张中文健身信息图，主题为：【xxx】。 要求这张图既专业又实用，适合普通成年人作为训练参考。默认对象为无严重伤病的健康成年人；如果没有额外说明，默认训练目标为“增肌 + 基础力量提升”，默认训练水平为“新手到中级之间”，默认训练场景为“普通健身房”，默认单次训练时长控制在 40–60 分钟内。 请根据【训练主题】自动判断输出类型： 1）如果【训练主题】是某个肌群或身体部位（例如：胸肌、背阔肌、肱二头肌、腹肌、肩部、腿部等），请输出一张“该部位训练计划信息图”。 2）如果【训练主题】是某个动作或技能目标（例如：引体向上、俯卧撑、双杠臂屈伸、深蹲等），请输出一张“动作解锁 / 进阶训练计划信息图”。 整张图请采用清晰、现代、专业、易读的中文信息图风格，竖版排版，视觉简洁，重点突出，适合社交媒体分享或训练参考卡片。不要写成长篇大论，每个模块用简洁短句呈现，数字信息要醒目。 这张信息图必须包含以下内容： 【A. 标题区】 - 主标题：直接写【训练主题】训练计划 / 解锁计划 - 副标题：自动补充适用人群、目标、训练场景、建议时长 例如：适合新手 / 增肌导向 / 健身房版 / 45分钟 【B. 训练目标区】 用简洁语言说明： - 这次训练主要针对什么 - 主要目标是什么（增肌 / 力量 / 技能解锁 / 核心控制等） - 本次训练的重点刺激或能力提升方向 【C. 热身区】 给出 2–4 个热身建议，简洁列出即可，例如： - 动态活动 - 目标肌群激活 - 轻重量预热组 每项可附一句说明 【D. 主训练区】 这是核心部分，请列出 4–6 个主要训练动作。 每个动作都要包含以下信息： - 动作名称 - 训练作用 / 针对部位 - 组数 × 次数（或时间） - RIR 建议 - 每组间休息时间 - 动作关键要点（1–2 条） - 常见错误（1 条即可） 请确保动作安排合理： - 先复合动作，后孤立动作 - 整体训练量适中 - 新手不要安排过度极限训练 - 主动作通常建议 RIR 1–3 - 孤立动作可建议 RIR 0–2 - 如果是腹肌或核心类动作，可用“秒数 / 次数”形式 - 如果是技能类动作，请优先安排“前置能力动作 + 过渡动作 + 目标动作尝试” 【E. 进阶 / 解锁逻辑区】 根据主题自动生成： - 如果是肌群训练：写“如何渐进超负荷”，例如达到次数上限后再加重量、优先保证动作标准等 - 如果是动作解锁：写“分阶段进阶路径”，例如从悬垂、肩胛引体、离心训练、弹力带辅助，到标准动作完成 【F. 替代动作区】 请给出 2–3 个替代动作，适用于以下情况： - 没有器械 - 家庭训练 - 当前能力不足 - 某些动作做不了 【G. 执行提醒区】 请给出 4–6 条简洁提醒，例如： - 动作标准优先于重量 - 不要每组都练到力竭 - 同肌群建议间隔 48–72 小时 - 疼痛不等于正常发力 - 睡眠不足时可适当减少训练量 【H. 恢复建议区】 简洁说明： - 训练后恢复重点 - 蛋白质 / 睡眠 / 恢复间隔建议 - 1 句风险提醒（如有明显疼痛应停止并评估） 【I. 视觉设计要求】 - 整体为单页中文信息图 - 竖版排版 - 风格现代、清爽、专业、健身感强 - 使用模块化卡片布局 - 重点数字（组数、次数、RIR、休息）要醒目 - 可加入简洁的人体肌群图标、哑铃、杠铃、引体向上等小图标 - 颜色保持高级、干净、有运动感 - 中文文字必须清晰、准确、易读 - 避免过多装饰，强调实用性与执行性 请最终输出为“一张完整的信息图内容”，而不是只给普通段落文字。
-```
-
-By [@MrLarus](https://x.com/MrLarus/status/2046560406760505727)
-
----
-
-<a id="freestylefly-case-210"></a>
-
-## 萌系大模型训练图解
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case210.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case210.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-[中文] 可爱地解释一下大语言模型训练过程 [English] Cute explanation of the large language model training process
-```
-
-By [@op7418](https://x.com/op7418/status/2046502136973001143)
-
----
-
-<a id="freestylefly-case-211"></a>
-
-## 天坛古建拆解全图
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case211.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case211.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-[中文] 生成一个天坛的建筑拆解图，有详细的说明，中式美学风格 [English] Generate an architectural exploded view of the Temple of Heaven, with detailed annotations, Chinese aesthetic style
-```
-
-By [@TanShilong](https://x.com/TanShilong/status/2046524996013662380)
-
----
-
-<a id="freestylefly-case-214"></a>
-
-## 绘制金瓶梅知识图谱
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case214.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case214.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Role: World-class Scientific Encyclopedia Illustrator & Knowledge Graph Architect. Task: Generate a highly detailed, extremely intricate, and visually stunning "Universal Illustrated Encyclopedia Science Infographic" in a classic, unbranded (NO logos) scientific encyclopedia style. Subject Matter: Choose one from [People, Plants, or Animals]. Specific Subject: [e.g., The Giant Squid / Leonardo da Vinci / The Sequoia Tree]. Style: Fine, detailed scientific illustration on a retro, aged beige paper background. Delicate linework. Intricately complex and professional. Key Visual Requirements: 1.  Lifelike 3D Effect (The Central Subject): The central subject in the "C position" must be rendered with extraordinary realism and dynamism. Create a dramatic sense of depth where the character, plant, or animal appears to break the frame, leaping or bursting out of the flat paper towards the viewer (an effect similar to anamorphic 3D or dynamic pop-out, with high-precision realism). 2.  Layout & Strategic White Space: * Central Subject: Dominates the center, with intentional "strategic white space" around it to enhance the popping-out effect and make the figure the clear focal point. * Surrounding Modules: The surrounding area (left, right, top, bottom, and corners) must be filled with 6-8 distinct, highly organized knowledge modules, depending on the subject. There should be a sense of organized density, not random clutter. The modules themselves must have clear borders, headers, and extensive, detailed content. 3.  Connections: Use a complex, logical network of fine leader lines, arrows, brackets, dotted lines, and small connection points to link the central figure to all surrounding modules, and interconnect the modules themselves into a cohesive knowledge web. 4.  Text & Annotation (Hard Requirement - Must be CLEAR Chinese): * Main Title: A large, prominent, beautifully executed **Chinese calligraphy** (书法体) of the specific subject's name [e.g., "大王乌贼"]. * Calligraphic Accents: Scattered throughout the main content and module titles, use beautiful, clear Chinese calligraphy for important terms. * Standard Chinese Text: All other descriptive text, handwritten notes (大量清晰中文手写注释), module content, and annotations must be clear, legible Chinese characters (简体中文), not gibberish or unreadable symbols. Ensure text clarity is prioritized. * Leader Line Annotations: Every single small component, detail, submodule, diagram, or illustration within the modules must have detailed leader line annotations (拟解剖图) pointing directly to it for maximum professionalism and educational value. Every part should be labeled. Subject-Specific Module Structure (Example for general reference): A. For Humans [People]: - Module 1: Anatomy & Skeletal Structure (w/ magnified cross-sections) - Module 2: Physiological Processes (e.g., Circulatory/Nervous System) - Module 3: Historical Context & Timeline (Key Achievements) - Module 4: Major Contribution Diagram (Detailed breakdown) - Module 5: Cognitive Process / Psychological Insight - Module 6: Genetic Profile / Evolution - Module 7: Global Influence & Cultural Impact - Module 8: Cultural Representations / Legacy B. For Animals: - Module 1: Full External Sketch & Anatomy (w/ microscope magnified detail circular windows) - Module 2: Behavioral Patterns & Lifecycle (e.g., Mating/Migration, Flowchart style) - Module 3: Digestive & Skeletal System - Module 4: Habitats & Distribution Map (with environmental details) - Module 5: Unique Adaptations (e.g., camouflage, hunting tools) - Module 6: Evolutionary History & Relatives - Module 7: Symbiotic Relationships / Ecosystem Role - Module 8: Conservation Status & Human Interaction C. For Plants: - Module 1: Full Plant Sketch & Anatomy (w/ magnified leaf/root details) - Module 2: Photosynthesis & Lifecycle Flow (w/ icons for environment) - Module 3: Cellular Structure (Magnified circular views) - Module 4: Medicinal Properties / Practical Applications (as in original original prompt) - Module 5: Environmental Adaptations / Unique Features - Module 6: Distribution Map & Environmental Context - Module 7: Genetic Variations & Cultivation - Module 8: Historical Usage & Folklore Overall Composition: Extremely dense with information, organized into 6-8 structured modules, but balanced with strategic empty space around the center to allow the main, hyper-realistic figure to pop. Hard-core, professional, academic, but visually engaging due to the dynamic 3D central figure. No branding from any specific encyclopedia (e.g., no "DK" logos). All annotations must be legible. All handwritten notes must be clear. Main titles in Chinese calligraphy. Aspect Ratio: 3:4. 主题内容：潘金莲
-```
-
-By [@xiaoxiaodong01](https://x.com/xiaoxiaodong01/status/2046252164717416641)
-
----
-
-<a id="freestylefly-case-218"></a>
-
-## 绘制科学百科知识图谱
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case218.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case218.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-[中文] 角色：世界级科学百科插画师兼知识图谱架构师 任务：以经典、无品牌标识（无任何 Logo）的科学百科风格，创作一幅细节极致丰富、结构极其精巧、视觉效果惊艳的「环球图解百科科学信息图」。 题材选择：从【人物、植物、动物】中任选其一。 具体对象：【例如：大王乌贼 / 列奥纳多・达・芬奇 / 红杉树】 风格：采用复古泛黄米色纸张背景，绘制精细工整的科学插画；线条细腻精致，整体繁复专业、严谨考究。 核心视觉要求 主体逼真 3D 效果 位于画面视觉中心（C 位）的主体形象，需具备极致的写实感与动态张力。营造强烈的空间纵深感，让人物、植物或动物仿佛突破画框，从平面纸张中跃出、冲向观者（效果类似变形 3D 或动态弹出效果，高精度写实呈现）。 版式布局与留白设计 主体位置：占据画面中心，周围刻意设置规划式留白，强化立体弹出效果，使其成为绝对视觉焦点。 周边模块：根据所选题材，在画面四周（上下左右及四角）排布 6–8 个独立且规整有序的知识模块。整体呈现规整的信息密度感，而非杂乱堆砌。每个模块需带有清晰边框、标题栏与详尽丰富的内容。 关联结构 运用纤细的指示线、箭头、括号、虚线与小型连接点，构建复杂且逻辑清晰的网络，将中心主体与所有周边模块相连，并使各模块之间相互关联，形成完整统一的知识体系。 文字与标注（硬性要求：必须为清晰中文） 主标题：以醒目大气、笔法优美的中文书法字体呈现具体对象名称【例如：大王乌贼】。 书法点缀：在主体画面与模块标题中，对关键术语使用工整美观的中文书法字体标注。 标准中文文本：其余所有说明文字、大量清晰中文手写注释、模块内容及注解均使用清晰可辨的简体汉字，不得出现乱码或无法识别符号，优先保证文字可读性。 指示线标注：模块内所有细小结构、细节、子模块、图表与插画，均需搭配详尽的指示线标注（仿解剖图形式），直接指向对应部位，最大化体现专业性与科普价值，做到每一处结构均有标注。 分题材模块结构（参考示例） A. 人物类 模块 1：解剖结构与骨骼系统（含放大剖面图示） 模块 2：生理运作机制（如循环系统、神经系统） 模块 3：生平背景与时间线（核心成就） 模块 4：主要贡献图解（详细拆解） 模块 5：认知模式与心理特征 模块 6：基因特征与演化溯源 模块 7：全球影响力与文化冲击 模块 8：艺术形象与后世传承 B. 动物类 模块 1：整体外形草图与解剖结构（含显微镜级圆形放大细节） 模块 2：行为模式与生命周期（如交配、迁徙，流程图形式） 模块 3：消化系统与骨骼系统 模块 4：栖息环境与分布地图（含环境细节） 模块 5：独特适应性特征（如伪装、捕食器官） 模块 6：演化历史与亲缘物种 模块 7：共生关系与生态位作用 模块 8：保护现状与人类互动 C. 植物类 模块 1：植株整体草图与解剖结构（含叶片、根部放大细节） 模块 2：光合作用与生命周期流程（搭配环境示意图标） 模块 3：细胞结构（圆形放大视图） 模块 4：药用价值与实际应用 模块 5：环境适应性与独有特征 模块 6：分布地图与生长环境 模块 7：基因变异与培育方式 模块 8：历史用途与民间传说 整体构图要求 信息密度极高，规整划分为 6–8 个结构化模块，同时通过中心区域的规划留白突出超写实主体的立体弹出效果。风格硬核、专业、学术化，凭借动态 3D 主体实现极强视觉吸引力。 无任何百科品牌标识（如 DK 等 Logo）。 所有标注清晰可辨，所有手写注释工整可读。 主标题采用中文书法字体。 画面比例：3:4。 【主题内容】 [English] Role: World-class Scientific Encyclopedia Illustrator & Knowledge Graph Architect. Task: Generate a highly detailed, extremely intricate, and visually stunning "Universal Illustrated Encyclopedia Science Infographic" in a classic, unbranded (NO logos) scientific encyclopedia style. Subject Matter: Choose one from [People, Plants, or Animals]. Specific Subject: [e.g., The Giant Squid / Leonardo da Vinci / The Sequoia Tree]. Style: Fine, detailed scientific illustration on a retro, aged beige paper background. Delicate linework. Intricately complex and professional. Key Visual Requirements: 1.  Lifelike 3D Effect (The Central Subject): The central subject in the "C position" must be rendered with extraordinary realism and dynamism. Create a dramatic sense of depth where the character, plant, or animal appears to break the frame, leaping or bursting out of the flat paper towards the viewer (an effect similar to anamorphic 3D or dynamic pop-out, with high-precision realism). 2.  Layout & Strategic White Space: * Central Subject: Dominates the center, with intentional "strategic white space" around it to enhance the popping-out effect and make the figure the clear focal point. * Surrounding Modules: The surrounding area (left, right, top, bottom, and corners) must be filled with 6-8 distinct, highly organized knowledge modules, depending on the subject. There should be a sense of organized density, not random clutter. The modules themselves must have clear borders, headers, and extensive, detailed content. 3.  Connections: Use a complex, logical network of fine leader lines, arrows, brackets, dotted lines, and small connection points to link the central figure to all surrounding modules, and interconnect the modules themselves into a cohesive knowledge web. 4.  Text & Annotation (Hard Requirement - Must be CLEAR Chinese): * Main Title: A large, prominent, beautifully executed **Chinese calligraphy** (书法体) of the specific subject's name [e.g., "大王乌贼"]. * Calligraphic Accents: Scattered throughout the main content and module titles, use beautiful, clear Chinese calligraphy for important terms. * Standard Chinese Text: All other descriptive text, handwritten notes (大量清晰中文手写注释), module content, and annotations must be clear, legible Chinese characters (简体中文), not gibberish or unreadable symbols. Ensure text clarity is prioritized. * Leader Line Annotations: Every single small component, detail, submodule, diagram, or illustration within the modules must have detailed leader line annotations (拟解剖图) pointing directly to it for maximum professionalism and educational value. Every part should be labeled. Subject-Specific Module Structure (Example for general reference): A. For Humans [People]: - Module 1: Anatomy & Skeletal Structure (w/ magnified cross-sections) - Module 2: Physiological Processes (e.g., Circulatory/Nervous System) - Module 3: Historical Context & Timeline (Key Achievements) - Module 4: Major Contribution Diagram (Detailed breakdown) - Module 5: Cognitive Process / Psychological Insight - Module 6: Genetic Profile / Evolution - Module 7: Global Influence & Cultural Impact - Module 8: Cultural Representations / Legacy B. For Animals: - Module 1: Full External Sketch & Anatomy (w/ microscope magnified detail circular windows) - Module 2: Behavioral Patterns & Lifecycle (e.g., Mating/Migration, Flowchart style) - Module 3: Digestive & Skeletal System - Module 4: Habitats & Distribution Map (with environmental details) - Module 5: Unique Adaptations (e.g., camouflage, hunting tools) - Module 6: Evolutionary History & Relatives - Module 7: Symbiotic Relationships / Ecosystem Role - Module 8: Conservation Status & Human Interaction C. For Plants: - Module 1: Full Plant Sketch & Anatomy (w/ magnified leaf/root details) - Module 2: Photosynthesis & Lifecycle Flow (w/ icons for environment) - Module 3: Cellular Structure (Magnified circular views) - Module 4: Medicinal Properties / Practical Applications (as in original original prompt) - Module 5: Environmental Adaptations / Unique Features - Module 6: Distribution Map & Environmental Context - Module 7: Genetic Variations & Cultivation - Module 8: Historical Usage & Folklore Overall Composition: Extremely dense with information, organized into 6-8 structured modules, but balanced with strategic empty space around the center to allow the main, hyper-realistic figure to pop. Hard-core, professional, academic, but visually engaging due to the dynamic 3D central figure. No branding from any specific encyclopedia (e.g., no "DK" logos). All annotations must be legible. All handwritten notes must be clear. Main titles in Chinese calligraphy. Aspect Ratio: 3:4. [主题内容]
-```
-
-By [@GeekCatX](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-218)
-
----
-
-<a id="freestylefly-case-222"></a>
-
-## 精致模块化科普百科图鉴
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case222.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case222.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-[中文] 请根据【主题】生成一张高质量竖版「科普百科图」。 这张图不是普通海报，也不是单纯插画，而是一张兼具“图鉴感、百科感、信息结构感、收藏感”的模块化科普信息图。整体风格参考高级博物图鉴、现代百科书页、生活方式知识卡和社交媒体高传播信息图的结合。 请让画面包含： - 一个清晰漂亮的主题主视觉 - 若干局部特征放大细节 - 多个圆角模块化信息分区 - 清楚的标题层级与重点标签 - 简洁但丰富的百科内容 - 可视化评分、要点总结或Top 5模块 内容栏目请根据主题自动适配，优先从这些方向中选择并合理组合： 基础档案、分类信息、外观特征、习性/生态、形成机制/结构组成、生长或使用条件、养护或维护建议、风险与注意事项、适合人群或适用场景、优缺点对比、快速评分卡。 视觉要求： 浅色干净背景，柔和配色，轻阴影，精致小图标，圆角信息框，整洁排版，信息密度高但不拥挤，阅读体验好。整体必须像真正可以发布、阅读、收藏、系列化生产的科普百科卡，而不是广告图。 请不要做成普通商业宣传海报。要突出“知识整理 + 模块信息 + 图鉴式展示”的特征。 [English] Please generate a high-quality vertical "Popular Science Encyclopedia Infographic" based on the [Topic]. This image is not an ordinary poster, nor a simple illustration, but a modular popular science infographic with a sense of "illustrated guide, encyclopedia, information structure, and collectibility". The overall style references a combination of high-end natural history illustrated guides, modern encyclopedia pages, lifestyle knowledge cards, and highly shared social media infographics. Please make the image contain: - A clear and beautiful theme main visual - Several enlarged details of local features - Multiple rounded modular information sections - Clear title hierarchy and key tags - Concise but rich encyclopedia content - Visualized scoring, key point summaries, or Top 5 modules Content columns should automatically adapt to the topic, prioritizing selection and reasonable combination from these directions: Basic profile, classification information, appearance features, habits/ecology, formation mechanism/structural composition, growth or usage conditions, care or maintenance suggestions, risks and precautions, suitable groups or applicable scenarios, pros and cons comparison, quick scorecard. Visual requirements: Light-colored clean background, soft color palette, light shadows, exquisite small icons, rounded information boxes, neat typography, high information density but not crowded, good reading experience. The overall look must be like a real popular science encyclopedia card that can be published, read, collected, and serialized, rather than an advertisement. Please do not make it into an ordinary commercial promotional poster. It must highlight the characteristics of "knowledge organization + modular information + illustrated guide style display".
-```
-
-By [@MrLarus](https://x.com/MrLarus/status/2046231542817497392)
-
----
-
-<a id="freestylefly-case-241"></a>
-
-## 关键人物关系图谱
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case241.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case241.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-[中文] 请你生成 《XXX》 的关键人物关系图。 [English] Please generate a key character relationship diagram for "XXX".
-```
-
-By [@yihui\_indie](https://x.com/yihui_indie/status/2045179926270361890)
-
----
-
-<a id="freestylefly-case-248"></a>
-
-## 景德镇青花瓷全景解说图谱
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case248.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case248.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-[中文] 为我生成景德镇青花瓷的详细解说图，配上详细的中文知识解析 [English] Generate a detailed explanatory diagram of Jingdezhen blue and white porcelain, accompanied by detailed Chinese knowledge analysis.
-```
-
-By [@joshesye](https://x.com/joshesye/status/2045764695827562686)
-
----
 
 <a id="freestylefly-case-296"></a>
 
@@ -211,86 +19,6 @@ By [@joshesye](https://x.com/joshesye/status/2045764695827562686)
 ```
 
 By [@MrLarus](https://x.com/MrLarus/status/2045504669401653414)
-
----
-
-<a id="freestylefly-case-310"></a>
-
-## 零食品牌技术分解图
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case310.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case310.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-[中文] 创建一个 [SNACK] 的品牌技术信息图，结合产品的真实照片或照片级真实渲染，并将技术注释覆盖层直接置于其上。在纯白摄影棚背景上使用带有策略性 [BRAND COLOR] 点缀的黑色墨水风格线条画（建筑草图外观），包括： • 关键组件标签 • 显示结构、分层或内部设计的内部截面图 • 测量数据、尺寸和规格 • 带有成分和数量的材料标注 • 指示主要功能和结构完整性的箭头 • 显示关键机械或设计元素的简单示意图或剖面图 • 可持续性标注 标题位置：位于手绘技术注释框内，带有强调色边框，粗体字显示产品名称，置于上角。 风格与布局规则： • 真实产品保持清晰可见 • 注释具有素描感、技术感和建筑感 • 强调色用于高光（占线条工作的 20-30%），黑色用于主要技术线条（70-80%） • 构图整洁，负空间平衡 • 具有教育意义、食品工程氛围和高端品牌感 • 在角落包含微妙的品牌标志 视觉风格：极简技术插画美学，黑色线条在真实图像上带有点缀，精确但略带手绘感。 调色板：白色背景，黑色注释线/文本，[BRAND COLOR] 仅用于点缀和关键标注。 输出：1080×1080，超清晰，社交媒体动态优化，无水印。 [English] Create a branded technical infographic of a [SNACK], combining a realistic photograph or photoreal render of the product with technical annotation overlays placed directly on top. Use black ink–style line drawings with strategic [BRAND COLOR] accents (architectural sketch look) on a pure white studio background, including: • Key component labels • Internal cross-section showing structure, layering, or internal design • Measurements, dimensions, and specifications • Material callouts with composition and quantities • Arrows indicating function for primary features and structural integrity • Simple schematic or sectional diagram showing key mechanical or design elements • Sustainability callouts Title placement: Inside a hand-drawn technical annotation box with accent border reading the product name in bold font, positioned in upper corner. Style & layout rules: • The realistic product remains clearly visible • Annotations feel sketched, technical, and architectural • Accents used for highlight (20-30% of linework), black for primary technical lines (70-80%) • Clean composition with balanced negative space • Educational, food-engineering vibe with premium branding • Include subtle brand logo mark in corner Visual style: Minimal technical illustration aesthetic, black linework with accents over realistic imagery, precise but slightly hand-drawn feel. Color palette: White background, black annotation lines/text, [BRAND COLOR] for accents and key callouts only. Output: 1080×1080, ultra-crisp, social-feed optimized, no watermark.​​​​​​​​​​​​​​​​
-```
-
-By [@TechieBySA](https://x.com/TechieBySA/status/2031795709243019280)
-
----
-
-<a id="freestylefly-case-333"></a>
-
-## AI 眼镜爆炸拆解图
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case333.png"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case333.png" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-生成一张AI眼镜的爆炸视图，包含每个组件的名称以及这款产品的几大核心卖点。
-```
-
-By [苍何原创实测（公众号文章《我逆向了 329 条 GPT-Image2 提示词模板，全部开源！》）](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-333)
-
----
-
-<a id="freestylefly-case-339"></a>
-
-## Apple 风格自然科普海报
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case339.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case339.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-你是一个高端自然科普海报生成系统，目标是为稀有动物、昆虫、爬行动物、哺乳动物或其他小众生物生成 Apple keynote 风格的高级科普视觉海报。 整体视觉方向： 生成一张 9:16 竖版高级科普海报，画面采用极简、纯白、干净、现代、Apple 式产品发布海报语言。背景应为纯白或极浅灰白渐变，保持大量留白。整体设计应具备高级感、克制感、视觉冲击力和科学展示感。 核心设计原则： 1. 主体动物必须被极度放大，成为画面最强视觉中心。 2. 主体应具有强烈立体感、真实质感、高清细节和柔和棚拍光影。 3. 海报信息要少而准，避免拥挤。 4. 不使用传统信息图的卡片、圆角框、复杂底纹、淡黄色纸张质感或装饰性边框。 5. 底部信息区只使用四列极简 icon + 标题 + 短说明，通过细竖线分隔。 6. 文字排版要像高端发布会视觉，标题巨大，副标题克制，正文小而清晰。 7. 风格关键词：Apple-inspired, premium editorial, pure white background, hero subject, clean typography, minimal infographic, high-end science poster. 画面结构： 顶部左侧为标题区： 中文大标题：{中文物种名} 中文副标题：{一句有吸引力的物种定位} 细短横线 英文名：{英文物种名} 分布信息：主要分布：{分布区域} 中部与下中部为主体视觉： 生成一个超高清、真实、具有强烈立体感的 {中文物种名}。 主体应占据画面 50% 到 70% 的视觉面积。 主体姿态应具有展示性、力量感或识别度。 保持白色背景，不添加复杂自然环境。 可以保留少量必要承托物，例如树枝、岩石、雪地、沙土或木皮，但必须简洁。 主体要有真实阴影，使其像高级产品摄影一样立在画面中。 底部信息区： 用四个极简信息栏目展示科普信息。 每个栏目包含： 一个细线 icon 一个彩色小标题 一段 1 到 3 行短文字 栏目之间用极细浅灰竖线分隔。 不使用卡片框，不使用圆角背景，不使用大面积色块。 四个信息栏目： 栏目 1： 标题：{重点特征1标题} 说明：{重点特征1短说明} 栏目 2： 标题：{重点特征2标题} 说明：{重点特征2短说明} 栏目 3： 标题：{重点特征3标题} 说明：{重点特征3短说明} 栏目 4： 标题：{重点特征4标题} 说明：{重点特征4短说明} 底部总结句： 在最底部居中放置一句灰色小字总结： {一句高级、克制、有记忆点的科普总结} 字体与排版： 中文标题使用大号黑色、高级、稳重、有力量感的字体。 副标题使用灰色，中等字号，字距略宽。 英文名使用小号灰色，简洁现代。 正文使用清晰现代中文字体，保持可读。 所有文字必须留有足够呼吸感。 色彩规范： 背景：纯白、极浅灰、轻微柔光渐变。 主标题：黑色或深石墨色。 副标题与正文：中性灰。 底部四个信息标题可使用低饱和强调色： 暖棕、冷蓝、松石绿、紫色、橙色。 颜色只用于 icon 和小标题，不要大面积铺色。 图像质量： 2K 高清质感，细节清晰，主体锐利，光影真实。 主体纹理必须可信，例如毛发、鳞片、甲壳、皮肤褶皱、羽毛或斑纹。 避免变形、错误肢体、错误解剖结构、模糊主体、低质贴图、塑料感、卡通感。 禁止项： 不要使用淡黄色旧纸背景。 不要使用复杂信息图网格。 不要使用圆角卡片。 不要使用厚边框。 不要使用大面积装饰图形。 不要添加无关 logo。 不要添加多余小字。 不要让主体太小。 不要让文字压住主体。 不要让底部信息区过度拥挤。 不要出现儿童科普风、卡通风、低端展板风。 最终输出： 生成一张 9:16 竖版、高级、干净、强视觉冲击的 Apple 风自然科普海报。
-```
-
-By [@berryxia](https://x.com/berryxia/status/2048251413147644100)
-
----
-
-<a id="freestylefly-case-341"></a>
-
-## AP Calculus 学习表信息图
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case341.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case341.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Please create a mathematical visualization infographic about "[math concept / topic]." The goal is to help the viewer intuitively understand what it is, why it works, its geometric or structural intuition, and how it behaves in different contexts. The visual should feel like a high-quality math lecture handout combined with a hand-drawn educational poster. It should be elegant, clear, and information-rich, but not cluttered. Visual style: either portrait or landscape is fine. Use a clean, light paper-like background, with a deep blue title and black or dark gray lines for the main content. Add a small number of refined accent colors such as blue, teal, gold, and red. Incorporate rounded-corner cards, thin borders, numbered labels, hand-drawn arrows, zoom-in callout boxes, and a summary section. The overall design should be aesthetically pleasing, balanced, and academic, allowing the viewer to grasp the structure of the concept and why it works at a glance.
-```
-
-By [@hqmank](https://x.com/hqmank/status/2048587150544028084)
-
----
-
-<a id="freestylefly-case-361"></a>
-
-## 手机爆炸拆解图
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case361.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case361.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Create a 3D Insane detailed exploded assembly drawing of [subject or object]
-```
-
-By [@Ankit\_patel211](https://x.com/Ankit_patel211/status/2048834306379075759)
 
 ---
 
@@ -310,22 +38,150 @@ By [@Gdgtify](https://x.com/Gdgtify/status/2051288232613351571)
 
 ---
 
-<a id="freestylefly-case-407"></a>
+<a id="freestylefly-case-415"></a>
 
-## Neuro-AI 混合系统信息图
+## 东方神话人物志百科海报
 
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case407.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case407.jpg" width="480" alt="Source example"></a>
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case415.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case415.jpg" width="480" alt="Source example"></a>
 
 **Prompt**
 
 ```text
-Create a premium square “neuro-AI hybrid system infographic” designed as a scientific cognitive engineering handbook page. Visual Direction: • 1:1 composition • dark neutral background with glowing neural network overlays • palette: electric blue, violet, soft white, silver • elegant scientific typography and modular panels • central ultra-detailed human brain + AI circuit fusion render Main Subject: A realistic human brain merging with AI neural networks and digital circuitry. Include callouts: • memory encoding system • AI augmentation layer • cognitive signal pathways • emotional response mapping • sensory integration nodes • neural data transfer system • learning adaptation loops Modules: • Brain Function Overview • AI Enhancement Layers • Signal Flow Diagram • Cognitive Performance Metrics • Human vs AI Comparison Chart • Neural Safety Protocols • Future Evolution Path Style: “neuroscience + AI engineering manual”, “high-end cognitive systems diagram”
+请基于【孙悟空】生成一张竖版 A4「东方神话人物志」百科海报。 你是一名东方神话视觉设定师、古籍图谱设计师和中文信息图设计师。请根据【人物名称】在东方神话、民间传说、古籍、戏曲、文学或传统文化中的已知形象，生成一张内容完整、视觉统一、具有东方神话气质的人物档案海报。 最重要原则： 全部内容必须围绕【人物名称】展开，不要套用通用神仙模板。 人物形象、法器、坐骑、神通、典故、象征物、背景场景都必须符合【人物名称】的神话设定。 如果该人物存在多个传说版本，请采用最广为人知的版本；存在异文时，可以在相关板块简短标注“传说版本不一”。 不确定的信息不要强行编造，可写“民间传说中多有异文”或“相关记载较少”。 不要使用北欧符文、维京图腾、哥特边框、西方盔甲、欧式城堡、西幻恶魔角、赛博朋克元素。 整体必须是东方神话审美，而不是“西幻人物换中式衣服”。 整体视觉风格： 东方神话史诗感，融合《山海经》异兽图谱、敦煌壁画、青绿山水、唐代人物画、宋元古画、青铜器纹样、古籍注疏和符箓篆刻风格。画面庄重、神秘、古雅、华丽但克制。 画面构图： 竖版 A4 海报，中轴对称布局。中央为【人物名称】的全身或半身主视觉，姿态庄严，有神性和叙事感。人物服饰、发冠、法器、神态、灵兽、背景都要符合该人物传说。左右两侧为信息卡片，底部为核心总结。四周使用云雷纹、回纹、青铜纹、祥云纹、卷草纹、山海纹、篆刻印章式边框。 主标题：“【人物名称】” 副标题：“东方神话人物志｜根据该人物神话传说生成” 顶部精神题记：请根据【人物名称】的核心精神，自动生成一句古雅、凝练、有哲学意味的题记。题记要体现该人物背后的价值观、生命姿态或精神内核，而不是说明性文字。不要写“非史实考证”“仅供参考”“传说版本”等免责声明。字数控制在 12-28 字，适合放在标题下方。题记应与人物高度绑定，不要套用“守护苍生”“大道无边”等空泛句式。 请生成以下内容板块： 【1. 神格身份】说明【人物名称】在东方神话体系中的身份定位。 【2. 神话源流】说明该人物主要出自哪些神话、古籍、民间传说、小说、戏曲或宗教信仰。 【3. 司职权柄】总结该人物掌管或象征的领域。 【4. 形象特征】描述该人物的典型外貌、服饰、神态、姿态和视觉气质。 【5. 法器神通】展示该人物最具代表性的法器、兵器、符咒、神通或能力。 【6. 灵兽坐骑 / 随身象征】如果【人物名称】有坐骑、灵兽、伴生生灵，请展示其名称、形态和寓意。如果没有明确坐骑，请改为“随身象征物”或“相关意象”。不要强行给每个人物安排龙、凤、仙鹤或麒麟。 【7. 典故出处】列出 2-4 个与【人物名称】相关的经典故事、传说片段或文化典故。不要虚构不存在的典故。若版本不一，请标注“异文较多”。 【8. 象征意象】提炼该人物最核心的视觉符号。符号必须与【人物名称】相关。 【9. 神话谱系】说明该人物与其他神话人物、阵营、族属或体系的关系。如果谱系不明确，请写“谱系传说不一”。 【10. 文化影响】说明该人物在民俗、节日、祭祀、文学、戏曲、绘画、庙宇、影视或现代文化中的影响。 【11. 精神内核】从神话叙事角度总结该人物象征的精神。这里只分析神话形象，不推断真实人物性格。 【12. 核心总结】用一段古雅但易懂的中文总结【人物名称】：“【人物名称】在东方神话中象征……，其形象融合了……，代表着……。” 视觉版式要求： 顶部：大标题 + 副标题 + 精神题记。 中央：人物主视觉，气势庄重，细节丰富。 左侧栏目：神格身份、神话源流、司职权柄、形象特征、法器神通。 右侧栏目：灵兽坐骑/随身象征、典故出处、象征意象、神话谱系、文化影响。 底部：精神内核 + 核心总结。 可加入小型图标、注释线、古籍标签、卷轴卡片、青铜铭牌、朱砂印章、符箓纹样。 信息卡片像古书页、玉简、青铜牌、卷轴或碑铭，不要像现代科技 UI。 材质与纹样： 宣纸肌理、矿物颜料、鎏金线条、朱砂印章、墨色晕染、青铜器铭文、云雷纹、回纹、祥云纹、山水纹、敦煌藻井纹样。 配色规则： 根据【人物名称】的属性自动选择东方配色。火焰 / 战斗 / 护法：朱砂、玄黑、鎏金、赤红。月亮 / 水系 / 清冷神祇：黛青、银白、月白、石蓝。山川 / 木系 / 自然神灵：石绿、青黛、玉白、赭石。帝王 / 天庭 / 尊神：鎏金、玄黑、朱砂、玉白。妖灵 / 山海异兽：墨黑、铜绿、暗金、赭红。不要所有人物都使用同一套配色。 文字要求： 中文必须清晰可读，标题大气，正文简短准确。不要乱码、伪文字、错别字、文字重叠或裁切。如果空间不足，优先压缩正文，但保留所有板块标题。 避免： 北欧符文、维京风、哥特边框、西方盔甲、欧式城堡、魔幻游戏 UI、赛博朋克、现代科技感、过度暗黑、随机龙凤、无关法器、模板化神仙形象、与【人物名称】无关的典故、空泛精神题记。
 ```
 
-By [@YaZoraiz](https://x.com/YaZoraiz/status/2052968427514708371)
+By [@TanLuAI](https://x.com/TanLuAI/status/2053073436122243364)
 
 ---
 
-[1](infographics.md) · **2** · [3](infographics-3.md)
+<a id="freestylefly-case-443"></a>
+
+## 塔可爆炸拆解信息图
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case443.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case443.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+Create a hyper-realistic exploded vertical infographic composition of tacos. Top → Bottom structure: Fresh Lettuce (crisp green texture with natural folds) → Tomato & Salsa Layer (juicy diced tomatoes and salsa mix) → Melted Cheese (smooth cheddar texture) → Grilled Meat Filling (juicy seasoned meat detail) → Taco Shell Base (crispy golden shell texture) Perfect vertical alignment, rustic background, soft studio lighting, realistic shadows beneath each floating element. Add clean infographic text labels with thin pointer lines using these exact labels: “Lettuce” “Salsa” “Cheese” “Meat” “Shell” Ultra-detailed food textures, premium commercial aesthetic, 8K.
+```
+
+By [@Strength04\_X](https://x.com/Strength04_X/status/2056018963084226866)
+
+---
+
+<a id="freestylefly-case-456"></a>
+
+## 历史事件 2x2 可视化地图
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case456.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case456.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+2x2 grid, 16:9, do this for 4 famous historical events: Render_Target = ( 3D_Diorama_Map_Of_[HISTORICAL_EVENT]_In_[CITY] * 1.2 ) + ( First-Person_Account_Infographic_UI_From_The_Perspective_Of_[ROLE] * 1.5 ) + ( Period-Accurate_Studio_Background_With_[ERA]_Artifacts * 1.0 ) + ( Newspaper_Headline_Generator_Widget_With_Your_Byline * 0.8 ) - ( Generic_Time_Machine_Gears_And_Clock_Dials / 3.0 ) - ( Anachronistic_Props_From_Wrong_Decade / 2.5 ) - ( Flat_Wikipedia_Timeline_Graphic / 2.0 )
+```
+
+By [@Gdgtify](https://x.com/Gdgtify/status/2057277698607599692)
+
+---
+
+<a id="freestylefly-case-494"></a>
+
+## 电动巴士工程信息图
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case494.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case494.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+Create a premium square “reference-style sustainable transportation infographic” centered around a futuristic electric city bus called the {E_BUS_NAME}, designed as a beautifully curated urban-mobility handbook page rather than a commercial vehicle advertisement. The composition should feel like a modern visual encyclopedia mixed with an elite public-transit engineering guide and high-end editorial infographic system. Visual Direction • 1:1 square composition • Premium smart-city background with subtle transportation blueprints, circuit-inspired overlays, and urban infrastructure schematics • Elegant palette using deep navy, graphite black, electric green, steel gray, and soft cyan accents • Refined editorial typography hierarchy • Rounded modular information cards with clean spacing • Gentle realistic reflections and premium transit-system dividers • Minimal transportation engineering iconography • Extremely detailed central electric bus render viewed in dramatic three-quarter perspective driving through a futuristic smart-city boulevard • Thin precision annotation lines pointing toward key systems and technologies • Clean, organized “knowledge-first” layout with high information density but breathable spacing Main Subject Presentation A stunning ultra-detailed realistic render of the {E_BUS_NAME} placed at the center, featuring: • sleek aerodynamic body design • panoramic windshield • illuminated destination display • low-floor accessibility layout • futuristic LED lighting systems • premium electric drivetrain details • realistic urban reflections • smart-city transportation realism Surround the bus with engineering callouts explaining: • battery pack technology • electric motor system • regenerative braking system • charging infrastructure compatibility • smart fleet management systems • passenger accessibility features • thermal battery management • energy-efficiency technologies • safety monitoring systems • intelligent driver assistance features Include Modular Sections • E-Bus Overview • Technical Specifications • Vehicle Dimensions & Capacity • Powertrain & Energy System • Battery Technology Breakdown • Charging Solutions • Passenger Comfort Features • Safety & Reliability Systems • Fleet Management Technology • Environmental Impact Analysis • Operating Cost Comparison • Construction & Material Engineering • Sustainability Lifecycle Assessment • Smart-City Integration • Global Adoption Trends • “Did You Know?” Facts Section • Future of Electric Public Transport Add Premium Visualization Modules • battery architecture diagrams • charging workflow graphics • energy-consumption charts • passenger-capacity visualizations • smart-city integration maps • drivetrain cutaway illustrations • environmental impact comparisons • fleet-management dashboards • vehicle blueprint dimensions • lifecycle sustainability graphics Style Keywords “premium transportation encyclopedia” “editorial electric mobility handbook” “high-end public transit infographic” “scientific transportation poster” “museum-quality electric bus reference page” “modular smart-city knowledge system” “clean engineering editorial design” “ultra-detailed mobility visualization” “future transportation showcase” “sustainable urban mobility design” Avoid • generic vehicle advertisements • cluttered commercial brochure layouts • cartoon transportation styling • unrealistic flying-bus concepts • excessive cyberpunk neon overload • low-detail stock-vehicle renders Final Goal The final result should resemble a professionally published transportation-engineering reference-book page created for urban planners, transportation engineers, sustainability researchers, architects, public-transit authorities, and smart-city enthusiasts, combining technical accuracy, sustainability insights, and premium editorial design.
+```
+
+By [@j\_smeaton99](https://x.com/j_smeaton99/status/2062365258984177766)
+
+---
+
+<a id="prompthero-02e40ef99e8"></a>
+
+## Voyager Blueprint: Craft of Tomorrow
+
+<a href="https://cdn.prompthero.com/azsctfbp1b3boojozrhlgxzw81bi-chatgpt-image-gpt-4o-voyager-blueprint-craft-of-tomorrow.png"><img src="https://cdn.prompthero.com/azsctfbp1b3boojozrhlgxzw81bi-chatgpt-image-gpt-4o-voyager-blueprint-craft-of-tomorrow.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+Produce a detailed technical illustration of a spacecraft, showcasing a cutaway design that reveals its internal structure. The spacecraft should be rendered with a sleek, streamlined body in vibrant orange and metallic shades. The image must include annotated engineering blueprints, detailed schematics, and callouts, set against a technical background that provides a comprehensive view of the craft's design. Aim for a sketch-like style that merges artistic intricacy with mechanical precision, complete with various angles and detailed exploded views of spacecraft components
+```
+
+By [@robiness](https://prompthero.com/prompt/02e40ef99e8-chatgpt-image-gpt-4o-voyager-blueprint-craft-of-tomorrow)
+
+---
+
+<a id="prompthero-77f685f7bad"></a>
+
+## Master Chief from the game Halo holding a beer mug\.\.\.
+
+<a href="https://cdn.prompthero.com/wkz5khypholesb95b2jk51o54j90-deliberate-v2-master-chief-from-the-game-halo-holding-a-beer-mug-and-a-galactic-war-on-the-background-beautiful-hands-intricate.png"><img src="https://cdn.prompthero.com/wkz5khypholesb95b2jk51o54j90-deliberate-v2-master-chief-from-the-game-halo-holding-a-beer-mug-and-a-galactic-war-on-the-background-beautiful-hands-intricate.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+Master Chief from the game Halo holding a beer mug and a galactic war on the background, beautiful hands, intricate, sharp focus, illustration, highly detailed, digital painting, concept art, matte, masterpiece, Jedi lightsaber analysis poster, technical drawing, infographic, engineering drawings, handwritten notes, intricate details, post-soviet illustration, disfigured, not people, surreal, angels from the description in the bible, background of sunny dense clouds, 4k, cinematic lighting, extremely detailed, HDR, not realistic, not realistic photo, realistic shadows, UHD, bloody background
+```
+
+[Source](https://prompthero.com/prompt/77f685f7bad-deliberate-v2-master-chief-from-the-game-halo-holding-a-beer-mug-and-a-galactic-war-on-the-background-beautiful-hands-intricate)
+
+---
+
+<a id="sipteaandcoffee-2052815091792527512"></a>
+
+## Educational encyclopedia infographic template
+
+<a href="https://pbs.twimg.com/media/HH0Qcf-aAAAzWYx.jpg"><img src="https://pbs.twimg.com/media/HH0Qcf-aAAAzWYx.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+A highly detailed educational infographic poster for [SUBJECT], titled '[TITLE]'. The design features a central realistic anatomical illustration with several labeled callouts pointing to specific parts. The layout is organized into various modular boxes including: 'Quick Profile' with icons, 'Classification' list, 'Top 5 Amazing Facts', 'Size Comparison' relative to a human hand, 'Pros & Cons', and 'Detail Focus' macro circular insets on the right. The aesthetic is a vintage field guide style with a muted cream-colored parchment background, clean typography (serif and sans-serif mix), and professional scientific diagrams.
+```
+
+By [@sipteaandcoffee](https://x.com/sipteaandcoffee/status/2052815091792527512)
+
+---
+
+<a id="sipteaandcoffee-2053494585830379785"></a>
+
+## Biographical editorial infographic template
+
+<a href="https://pbs.twimg.com/media/HH96cNYakAAa3b1.jpg"><img src="https://pbs.twimg.com/media/HH96cNYakAAa3b1.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+Create a visually rich infographic about [Sadie sink]. Research their era, key achievements, turning points, and lasting impact. Use a dramatic portrait-style central illustration as the focal point, surrounded by annotated timeline segments, quote callouts, and symbolic icons representing their legacy. Style like a bold editorial spread — layered typography, color-blocked sections, and photorealistic portraiture against a dark or textured background. Dense, tactile, and magazine-quality.
+```
+
+By [@sipteaandcoffee](https://x.com/sipteaandcoffee/status/2053494585830379785)
+
+---
+
+<a id="sipteaandcoffee-2057538178672943460"></a>
+
+## Pakistan miniature world map infographic
+
+<a href="https://pbs.twimg.com/media/HI3YEWEaYAAGgjj.jpg"><img src="https://pbs.twimg.com/media/HI3YEWEaYAAGgjj.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+Create an ultra-detailed hyper-realistic 9:16 cinematic miniature world map of Pakistan, designed as a premium luxury travel-poster masterpiece where the entire country appears as a massive handcrafted floating island civilization suspended in soft atmospheric clouds. The terrain must showcase dramatic elevation and geographic diversity, including the towering snow-covered peaks of the Karakoram and Himalayas (featuring K2), lush green valleys of Hunza and Swat, dense forests, glowing rivers like the Indus, crystal-blue coastlines along the Arabian Sea, cascading waterfalls, expansive deserts like Thar and Cholistan, fertile farmland of Punjab, and serene lakes. Include futuristic cities blended with historical richness: Karachi as a sprawling coastal мегacity with glowing ports, highways, and modern skyline; Islamabad as a clean, organized capital with greenery, wide roads, and the iconic Faisal Mosque; Lahore as a cultural hub with Mughal-era architecture such as Badshahi Mosque and Lahore Fort; Peshawar and Quetta reflecting traditional architecture and mountainous backdrops. Add detailed infrastructure like highways, railways, suspension bridges, tiny moving vehicles, airplanes, and boats. Each province (Punjab, سندھ, خیبر پختونخوا, بلوچستان, گلگت بلتستان) should feel visually unique and culturally alive, represented through distinct architecture, clothing, festivals, colors, and environmental identity. Blend modern civilization with historical heritage: include shrines, mosques, forts, bazaars, truck art, and traditional markets naturally embedded into the environment. The environment must feel alive with tiny human activity, realistic lighting, atmospheric fog depth, cinematic cloud formations, reflections, and immersive depth layering. Integrate hidden storytelling elements such as street food (biryani, nihari, chapli kebab), cricket scenes, local music, wildlife (markhor), traditional clothing (shalwar kameez), rickshaws, buses, and cultural symbols subtly throughout the landscape. Design the composition in a clean minimal luxury editorial style with a bright elegant background. Place bold oversized PAKISTAN typography dominating the upper composition in a font inspired by Urdu calligraphy, with a cinematic tagline underneath like “Land of Majestic Peaks and Timeless Culture.” Add elegant minimal labels for major cities and landmarks integrated into the terrain. At the bottom, include refined infographic-style details showing: Population, Languages (Urdu, English, regional languages), Currency (PKR), Tourism highlights, Famous exports (textiles, rice, sports goods), Cultural influence, Technology growth, Cuisine, and Transportation systems. Ensure strong visual hierarchy, premium travel-documentary aesthetics, vibrant natural colors inspired by Pakistan’s landscapes, ultra-premium cinematic color grading, emotionally immersive composition, highly zoomable micro-details, and an 8K masterpiece finish that feels timeless, modern, cinematic, luxurious, culturally rich, and instantly viral.
+```
+
+By [@sipteaandcoffee](https://x.com/sipteaandcoffee/status/2057538178672943460)
+
+---
+
+[1](infographics.md) · **2**
 
 [← Home](../README.md)

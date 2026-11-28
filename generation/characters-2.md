@@ -6,70 +6,6 @@
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
-<a id="prompthero-2de5fbc9bf8"></a>
-
-## Photorealistic artwork of a serene, celestial Asia\.\.\.
-
-<a href="https://cdn.prompthero.com/jlidt8a88wb5giffvc5maw0zv6-seedream-v1-photorealistic-artwork-of-a-serene-celestial-asian-inspired-woman-with-pale-porcelain-skin-and-delicate-features-she-wears-intricate-gold.jpeg"><img src="https://cdn.prompthero.com/jlidt8a88wb5giffvc5maw0zv6-seedream-v1-photorealistic-artwork-of-a-serene-celestial-asian-inspired-woman-with-pale-porcelain-skin-and-delicate-features-she-wears-intricate-gold.jpeg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-Photorealistic artwork of a serene, celestial Asian-inspired woman with pale, porcelain skin and delicate features. She wears intricate gold jewelry—an ornate earring and a detailed headpiece crowned with a golden flower. Her long, dark hair is elegantly styled, accented by a vivid orange blossom. Eyes closed, she radiates calm and quiet divinity. Behind her, a massive glowing golden crescent moon rises against a deep blue, star-filled sky, with a smaller full moon beside it. She wears a flowing white robe with soft blue patterns that blend into the night. Branches with delicate orange flowers frame her, merging natural beauty with a dreamlike, otherworldly atmosphere.
-```
-
-[Source](https://prompthero.com/prompt/2de5fbc9bf8-seedream-v1-photorealistic-artwork-of-a-serene-celestial-asian-inspired-woman-with-pale-porcelain-skin-and-delicate-features-she-wears-intricate-gold)
-
----
-
-<a id="prompthero-2e772038071"></a>
-
-## \(\(style of Craig Ellen Jewett\)\), 8k\_UED, \(\(\(1nymph\.\.\.
-
-<a href="https://cdn.prompthero.com/tjzjpwvbxzmygkjseqwzfo0x2l5w-midjourney-6-nymph-style-of-craig-ellen-jewett-8kued-1nymph-acrylic-pour-stunningly-gorgeous-nymph-mythical-creature-moss-textured-skin-no-dof-full.png"><img src="https://cdn.prompthero.com/tjzjpwvbxzmygkjseqwzfo0x2l5w-midjourney-6-nymph-style-of-craig-ellen-jewett-8kued-1nymph-acrylic-pour-stunningly-gorgeous-nymph-mythical-creature-moss-textured-skin-no-dof-full.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-((style of Craig Ellen Jewett)), 8k_UED, (((1nymph))), Acrylic pour, stunningly gorgeous nymph, mythical creature, ((((moss textured skin)))), no dof, full body image, dutch angle, blossoming hair, ((crown-like antlers)), ((flowers atop its head)), glowing trim, magical aura, bathing in a stream, wet robe, intricate patterns, ((enchanted fantasy forest background)), fantastical enviroment, lush vegetation, ruined building covered in moss, (((bioluminescent fish))), ((wild flowers of myriad hues)), ruined buildng covered in moss, intricate details, enhanced accent, (((dream-like ambiance))), sleek colors, style of green and red, magical lighting|diffusion lighting, light dust, Euler ancestral, very very very very very very very beautiful masterpiece, Precise Digital Artemis, redshift Render, SDEs, ESRGAN, (((enhanced edges))), enlightened compassionate, hypermaximalist --v 6.1
-```
-
-[Source](https://prompthero.com/prompt/2e772038071-midjourney-6-nymph-style-of-craig-ellen-jewett-8kued-1nymph-acrylic-pour-stunningly-gorgeous-nymph-mythical-creature-moss-textured-skin-no-dof-full)
-
----
-
-<a id="prompthero-3a9de96536a"></a>
-
-## Character Sheet, Long wavy,light pink hair,complex\.\.\.
-
-<a href="https://cdn.prompthero.com/j0lrgj5y3m15n0tk6de4q2z977o7-flux-flux-11-pro-ultra-character-sheet-long-wavylight-pink-haircomplex-3d-render-ultra-detailed-of-a-beautiful-porcelain-front-face-woman-android-face-cyborg.png"><img src="https://cdn.prompthero.com/j0lrgj5y3m15n0tk6de4q2z977o7-flux-flux-11-pro-ultra-character-sheet-long-wavylight-pink-haircomplex-3d-render-ultra-detailed-of-a-beautiful-porcelain-front-face-woman-android-face-cyborg.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-Character Sheet, Long wavy,light pink hair,complex 3d render ultra detailed of a beautiful porcelain Front face woman android face, cyborg, robotic parts, beautiful studio soft light, rim light, vibrant details, luxurious cyberpunk, lace, hyper realistic, anatomical, facial muscles, cable electric wires, microchip, elegant, beautiful background, octane render, H.R. Giger style,
-```
-
-[Source](https://prompthero.com/prompt/3a9de96536a-flux-flux-11-pro-ultra-character-sheet-long-wavylight-pink-haircomplex-3d-render-ultra-detailed-of-a-beautiful-porcelain-front-face-woman-android-face-cyborg)
-
----
-
-<a id="prompthero-3d4bbc17c4b"></a>
-
-## Create a premium industrial mascot character for a\.\.\.
-
-<a href="https://cdn.prompthero.com/zfgwighwu21pmdvryrofkcxpdk-hero-10-create-a-premium-industrial-mascot-character-for-a-crawler-undercarriage-and-construction-machinery-chassis-company-the-mascot-is-a-friendly.jpeg"><img src="https://cdn.prompthero.com/zfgwighwu21pmdvryrofkcxpdk-hero-10-create-a-premium-industrial-mascot-character-for-a-crawler-undercarriage-and-construction-machinery-chassis-company-the-mascot-is-a-friendly.jpeg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-Create a premium industrial mascot character for a crawler undercarriage and construction machinery chassis company. The mascot is a friendly but professional engineering robot, with a realistic crawler track undercarriage as its lower body. It should have a clear character identity, not just a vehicle. The upper body should be a compact robot torso with a simple helmet-like head and a digital visor face, small friendly LED eyes, and no human baby face. The lower body should look like a real heavy-duty crawler undercarriage, stable and strong. Use industrial yellow, dark gray, and black colors. The design should feel reliable, stable, professional, and suitable for an international B2B machinery brand. Add clean blank areas on the helmet and chest panel for placing a company logo later. Do not generate any text, logo, letters, symbols, or watermark. Full body, front three-quarter view, clean white background, studio lighting, high-quality 3D render, product catalog style.
-```
-
-[Source](https://prompthero.com/prompt/3d4bbc17c4b-hero-10-create-a-premium-industrial-mascot-character-for-a-crawler-undercarriage-and-construction-machinery-chassis-company-the-mascot-is-a-friendly)
-
----
-
 <a id="prompthero-4c30f52eae3"></a>
 
 ## Pixar-style 3D render, highly detailed character d\.\.\.
@@ -323,6 +259,70 @@ Ultra-detailed cinematic portrait of birds cyborg ,navy and white metallic limbs
 ```
 
 [Source](https://prompthero.com/prompt/16d6d7df901-hero-10-ultra-detailed-cinematic-portrait-of-birds-cyborg-navy-and-white-metallic-limbs-partially-broken-revealing-internal-machinery-sci-fi-concept)
+
+---
+
+<a id="prompthero-16df7aa27a2"></a>
+
+## A ninja vigilante with a black tactical suit with \.\.\.
+
+<a href="https://cdn.prompthero.com/gqbufvj7jddaj3qkahsxxbsgyg-hero-10-a-ninja-vigilante-with-a-black-tactical-suit-with-green-accents-he-is-wearing-a-hood-over-his-fully-covered.jpeg"><img src="https://cdn.prompthero.com/gqbufvj7jddaj3qkahsxxbsgyg-hero-10-a-ninja-vigilante-with-a-black-tactical-suit-with-green-accents-he-is-wearing-a-hood-over-his-fully-covered.jpeg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+A ninja vigilante with a black tactical suit with green accents. He is wearing a hood over his fully covered face sporting a slimline mask. His eyes are menacing white. A katana is sheathed in his back, with him holding a longbow in his right hand. He is standing on a rooftop, looking over metropolitan city at night. The skies are red and the clouds are a faint black. DCAU animation style. Bruce Timm inspired art style.
+```
+
+[Source](https://prompthero.com/prompt/16df7aa27a2-hero-10-a-ninja-vigilante-with-a-black-tactical-suit-with-green-accents-he-is-wearing-a-hood-over-his-fully-covered)
+
+---
+
+<a id="prompthero-31c24aebd14"></a>
+
+## A lone traditional Japanese samurai in worn armor,\.\.\.
+
+<a href="https://cdn.prompthero.com/x1xaye923qfkve72b3i8bfvk8as6-flux-flux-11-pro-a-lone-traditional-japanese-samurai-in-worn-armor-standing-grounded-in-a-misty-environment-his-stance-is-calm-yet-powerful.jpg"><img src="https://cdn.prompthero.com/x1xaye923qfkve72b3i8bfvk8as6-flux-flux-11-pro-a-lone-traditional-japanese-samurai-in-worn-armor-standing-grounded-in-a-misty-environment-his-stance-is-calm-yet-powerful.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+A lone traditional Japanese samurai in worn armor, standing grounded in a misty environment. His stance is calm yet powerful, evoking inner strength and stillness. The atmosphere is foggy and shadow-rich, with subtle purple/pink mist in the background. No glowing elements or saturated colors — everything is soft, desaturated, and cinematic. The samurai wears timeless armor with a kabuto (helmet), possibly with faint antler-style detailing. His figure is central, symbolic, and deeply rooted in the warrior aesthetic.
+```
+
+[Source](https://prompthero.com/prompt/31c24aebd14-flux-flux-11-pro-a-lone-traditional-japanese-samurai-in-worn-armor-standing-grounded-in-a-misty-environment-his-stance-is-calm-yet-powerful)
+
+---
+
+<a id="prompthero-33e4329963a"></a>
+
+## Sci-Fi visual
+
+<a href="https://cdn.prompthero.com/nah86to0zwkidgb2ku0zu5vqufil-midjourney-6-sci-fi-visual.png"><img src="https://cdn.prompthero.com/nah86to0zwkidgb2ku0zu5vqufil-midjourney-6-sci-fi-visual.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+rendering, side shot, falf-strange body with complex system equipment with hyper detail robot, gaze, sci-fi, gloomy environment, foggy with light shader, cyan and yellow illuminations, dramatic lighting, RTX shader, hyper detail texture with reflection, HDRI, cyborg, grunge, bolt, UHD --chaos 1.2 --ar 9:16 --style raw --stylize 750
+```
+
+By [@Grayve](https://prompthero.com/prompt/33e4329963a-midjourney-6-sci-fi-visual)
+
+---
+
+<a id="prompthero-42ed626b5d1"></a>
+
+## Cute stylized 3D little boy standing in a shallow \.\.\.
+
+<a href="https://cdn.prompthero.com/ys62pclo5yy01gammnyne1w2gx-nano-banana-nano-banana-2-cute-stylized-3d-little-boy-standing-in-a-shallow-muddy-puddle-in-a-misty-forest-close-up-on-boots-splashing.jpeg"><img src="https://cdn.prompthero.com/ys62pclo5yy01gammnyne1w2gx-nano-banana-nano-banana-2-cute-stylized-3d-little-boy-standing-in-a-shallow-muddy-puddle-in-a-misty-forest-close-up-on-boots-splashing.jpeg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+Cute stylized 3D little boy standing in a shallow muddy puddle in a misty forest, close-up on boots splashing water, mustard yellow hoodie, rolled denim pants, dark sneakers, soft morning light, cinematic atmosphere, shallow depth of field, realistic water reflections, Pixar quality, ultra detailed, magical forest mood, volumetric lighting, 9:16
+```
+
+[Source](https://prompthero.com/prompt/42ed626b5d1-nano-banana-nano-banana-2-cute-stylized-3d-little-boy-standing-in-a-shallow-muddy-puddle-in-a-misty-forest-close-up-on-boots-splashing)
 
 ---
 

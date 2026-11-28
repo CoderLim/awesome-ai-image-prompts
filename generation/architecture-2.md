@@ -6,22 +6,6 @@
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
-<a id="prompthero-670f2ea860f"></a>
-
-## Kitchen for small Minimalist apartment
-
-<a href="https://cdn.prompthero.com/5cllud1t7v028m33c8xaes43gkqs-stable-diffusion-15-kitchen-for-small-minimalist-apartment.png"><img src="https://cdn.prompthero.com/5cllud1t7v028m33c8xaes43gkqs-stable-diffusion-15-kitchen-for-small-minimalist-apartment.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-a small kitchen with a black and white kitchen set, white marble floor, gray plaster walls, small table and chairs (in the middle), with green plants in flower pots, in the style of minimalism, hi-tech, interior design
-```
-
-[Source](https://prompthero.com/prompt/670f2ea860f-stable-diffusion-15-kitchen-for-small-minimalist-apartment)
-
----
-
 <a id="prompthero-696fc7e543a"></a>
 
 ## Scene Capsule Night-drenched high-rise vanishes in\.\.\.
@@ -323,6 +307,22 @@ A detailed crosssection of the ancient Chinese tower, showcasing its constructio
 ```
 
 By [@NorthmoorAI](https://prompthero.com/prompt/de45743342c-midjourney-6-a-detailed-crosssection-of-the-ancient-chinese-tower-showcasing-its-construction-techniques-and-design-elements-in-color-pencil-style-with)
+
+---
+
+<a id="prompthero-e8415bd8a23"></a>
+
+## High resolution photography interior design, dream\.\.\.
+
+<a href="https://cdn.prompthero.com/in1700dxxqmfj47g0jyol3nfhgkd-realistic-vision-v20-v20-high-resolution-photography-interior-design-dreamy-sunken-living-room-conversation-pit-wooden-floor-small-windows-opening-onto-the-garden-bauhaus.png"><img src="https://cdn.prompthero.com/in1700dxxqmfj47g0jyol3nfhgkd-realistic-vision-v20-v20-high-resolution-photography-interior-design-dreamy-sunken-living-room-conversation-pit-wooden-floor-small-windows-opening-onto-the-garden-bauhaus.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+High resolution photography interior design, dreamy sunken living room conversation pit, wooden floor, small windows opening onto the garden, bauhaus furniture and decoration, high ceiling, beige blue salmon pastel palette, interior design magazine, cozy atmosphere; 8k, intricate detail, photorealistic, realistic light, wide angle, kinkfolk photography, A+D architecture
+```
+
+By [@robiness](https://prompthero.com/prompt/e8415bd8a23-realistic-vision-v20-v20-high-resolution-photography-interior-design-dreamy-sunken-living-room-conversation-pit-wooden-floor-small-windows-opening-onto-the-garden-bauhaus)
 
 ---
 

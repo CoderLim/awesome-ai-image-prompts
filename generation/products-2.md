@@ -1,122 +1,10 @@
 # products
 
-[← Home](../README.md) · Page 2 / 3
+[← Home](../README.md) · Page 2 / 2
 
-[1](products.md) · **2** · [3](products-3.md)
+[1](products.md) · **2**
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
-
-<a id="prompthero-11fce90ea56"></a>
-
-## A clean top-down flat-lay of exactly 9 hyper-reali\.\.\.
-
-<a href="https://cdn.prompthero.com/qrphzg8ehb4vxoirid4gcx95gl-hero-10-a-clean-top-down-flat-lay-of-exactly-9-hyper-realistic-3d-resin-fridge-magnets-on-a-pure-white-background.jpeg"><img src="https://cdn.prompthero.com/qrphzg8ehb4vxoirid4gcx95gl-hero-10-a-clean-top-down-flat-lay-of-exactly-9-hyper-realistic-3d-resin-fridge-magnets-on-a-pure-white-background.jpeg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-A clean top-down flat-lay of exactly 9 hyper-realistic 3D resin fridge magnets on a pure white background, themed around Starbucks One wide rectangular text magnet at the top center reads "Starbucks " in bold glossy 3D letters using the brand’s signature colors. Below it, 9 small resin magnets are arranged in a precise 3x3 grid with even spacing: official logo badge, hero product, secondary product, third iconic product or packaging, chibi mascot/character, fifth iconic branded item, sixth iconic branded item, seventh iconic branded item, and the brand’s storefront or headquarters building facade. All magnets are slightly raised with soft drop shadows, realistic resin texture, polished finish, bright warm studio lighting, photorealistic commercial product render, minimal white composition, sharp focus, 4:5.
-```
-
-[Source](https://prompthero.com/prompt/11fce90ea56-hero-10-a-clean-top-down-flat-lay-of-exactly-9-hyper-realistic-3d-resin-fridge-magnets-on-a-pure-white-background)
-
----
-
-<a id="prompthero-59fc99a3fa2"></a>
-
-## Ultra-realistic exploded view of a monster-shaped \.\.\.
-
-<a href="https://cdn.prompthero.com/v1_ee4d366932e191b0dc32fec8de-chatgpt-image-gpt-image-26-flare-ultra-realistic-exploded-view-of-a-monster-shaped-food-individual-ingredients-floating-separately-in-their-natural-assembly-order-funny-monster.png"><img src="https://cdn.prompthero.com/v1_ee4d366932e191b0dc32fec8de-chatgpt-image-gpt-image-26-flare-ultra-realistic-exploded-view-of-a-monster-shaped-food-individual-ingredients-floating-separately-in-their-natural-assembly-order-funny-monster.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-Ultra-realistic exploded view of a monster-shaped [Food], individual ingredients floating separately in their natural assembly order, funny monster face constructed entirely from edible ingredients, exaggerated eyes, teeth, tongue, playful expression, realistic food textures, dynamic suspended composition, clean white background, soft studio lighting, sharp focus, premium commercial food photography
-```
-
-By [@hanielguadalupe](https://prompthero.com/prompt/59fc99a3fa2-chatgpt-image-gpt-image-26-flare-ultra-realistic-exploded-view-of-a-monster-shaped-food-individual-ingredients-floating-separately-in-their-natural-assembly-order-funny-monster)
-
----
-
-<a id="prompthero-86abaa06537"></a>
-
-## Rainbow Rope sofa
-
-<a href="https://cdn.prompthero.com/93ebqnw0042z7jnjx93ul171pr6n-midjourney-61-rainbow-rope-sofa.png"><img src="https://cdn.prompthero.com/93ebqnw0042z7jnjx93ul171pr6n-midjourney-61-rainbow-rope-sofa.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-high resolution photography, conceptual single sofa, inspired by rainbow, curved shape form, colorful thick rope texture, Phase One XF IQ4 150MP, tethered shooting, postmodernism, solid white backdrop space, realism sunlight casting soft shadows, rim lighting setup, light wooden leg detail, studio quality finish --ar 9:16 --style raw --stylize 200 --v 6.1
-```
-
-By [@Grayve](https://prompthero.com/prompt/86abaa06537-midjourney-61-rainbow-rope-sofa)
-
----
-
-<a id="prompthero-164a43066a2"></a>
-
-## productive photography, Dieter Rams&\#39; Braun SK4 rec\.\.\.
-
-<a href="https://cdn.prompthero.com/p7msb9ro1d4h3z8jmi7eau57t4uz-midjourney-7-productive-photography-dieter-rams-braun-sk4-record-player-stainless-steel-with-vivid-green-color-accent-photo-shoot-by-nikon-z9.png"><img src="https://cdn.prompthero.com/p7msb9ro1d4h3z8jmi7eau57t4uz-midjourney-7-productive-photography-dieter-rams-braun-sk4-record-player-stainless-steel-with-vivid-green-color-accent-photo-shoot-by-nikon-z9.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-productive photography, Dieter Rams' Braun SK4 record player, stainless steel with vivid green color accent, photo shoot by Nikon Z9, focusing on its iconic minimalist design and the contrast of the transparent, black color background, rich details, mid-century aesthetic --ar 9:16 --raw
-```
-
-By [@Grayve](https://prompthero.com/prompt/164a43066a2-midjourney-7-productive-photography-dieter-rams-braun-sk4-record-player-stainless-steel-with-vivid-green-color-accent-photo-shoot-by-nikon-z9)
-
----
-
-<a id="prompthero-336e3c5bbfa"></a>
-
-## fullview hardcase capsule shape white backpack urb\.\.\.
-
-<a href="https://cdn.prompthero.com/s41p3qbw4vcu623h57pq6xbka9sv-flux-flux-11-pro-fullview-hardcase-capsule-shape-white-backpack-urban-stormtrooper-clean-product-design-render-on-white-background-octane-4k-render-intricate-and.jpg"><img src="https://cdn.prompthero.com/s41p3qbw4vcu623h57pq6xbka9sv-flux-flux-11-pro-fullview-hardcase-capsule-shape-white-backpack-urban-stormtrooper-clean-product-design-render-on-white-background-octane-4k-render-intricate-and.jpg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-fullview hardcase capsule shape white backpack urban stormtrooper, clean product design render on white background octane 4K render intricate and detailed texture, design by dieter rams apple
-```
-
-[Source](https://prompthero.com/prompt/336e3c5bbfa-flux-flux-11-pro-fullview-hardcase-capsule-shape-white-backpack-urban-stormtrooper-clean-product-design-render-on-white-background-octane-4k-render-intricate-and)
-
----
-
-<a id="prompthero-347ec9724bf"></a>
-
-## Close up photograph of a slice of layered cake wit\.\.\.
-
-<a href="https://cdn.prompthero.com/yho0puxld01o52wb7avwp6xe179b-flux-flux-11-pro-close-up-photograph-of-a-slice-of-layered-cake-with-a-cherry-blossom-theme-a-layer-of-fruit-filling-between.jpg"><img src="https://cdn.prompthero.com/yho0puxld01o52wb7avwp6xe179b-flux-flux-11-pro-close-up-photograph-of-a-slice-of-layered-cake-with-a-cherry-blossom-theme-a-layer-of-fruit-filling-between.jpg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-Close up photograph of a slice of layered cake with a cherry blossom theme, a layer of fruit filling between cake layers, decorated with sun shaped designs, with intricate frosting and beautiful details
-```
-
-[Source](https://prompthero.com/prompt/347ec9724bf-flux-flux-11-pro-close-up-photograph-of-a-slice-of-layered-cake-with-a-cherry-blossom-theme-a-layer-of-fruit-filling-between)
-
----
-
-<a id="prompthero-609e486c89b"></a>
-
-## A minimalistic, modern cream-colored bottle with a\.\.\.
-
-<a href="https://cdn.prompthero.com/ubnqpg0gtrfixuih79jonqtr4ipv-sora-v1-a-minimalistic-modern-cream-colored-bottle-with-a-matte-finish-placed-diagonally-on-a-textured-sandy-surface-the-bottle-features.png"><img src="https://cdn.prompthero.com/ubnqpg0gtrfixuih79jonqtr4ipv-sora-v1-a-minimalistic-modern-cream-colored-bottle-with-a-matte-finish-placed-diagonally-on-a-textured-sandy-surface-the-bottle-features.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-A minimalistic, modern cream-colored bottle with a matte finish, placed diagonally on a textured sandy surface. The bottle features a rounded, compact design with an integrated handle on the cap. The cap has a soft orange circular presser on top, with a small side indicator, giving it a contemporary and functional aesthetic. Shot in natural lighting with a shallow depth of field for a warm, product photography feel.
-```
-
-By [@chorlo](https://prompthero.com/prompt/609e486c89b-sora-v1-a-minimalistic-modern-cream-colored-bottle-with-a-matte-finish-placed-diagonally-on-a-textured-sandy-surface-the-bottle-features)
-
----
 
 <a id="prompthero-2611f1aeb6d"></a>
 
@@ -326,6 +214,70 @@ By [@sipteaandcoffee](https://x.com/sipteaandcoffee/status/2049174937420918968)
 
 ---
 
-[1](products.md) · **2** · [3](products-3.md)
+<a id="sipteaandcoffee-2051610507803832768"></a>
+
+## Premium smartphone advertisement poster
+
+<a href="https://pbs.twimg.com/media/HHjI4jXasAAcss4.jpg"><img src="https://pbs.twimg.com/media/HHjI4jXasAAcss4.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+Create a premium Apple-style smartphone advertisement poster in 4:5 vertical format, ultra-high resolution, with a clean, modern, global campaign aesthetic. Scene & Composition A minimal soft ivory studio background with a large rounded rectangular gradient panel in rose-gold to blush pink, placed slightly off-center behind the subject. The gradient should feel luminous and diffused, not flat. In the background, integrate oversized typography: “ELITE” very large, partially cropped by frame edges warm rose tone, slightly deeper than the gradient panel soft shadow and subtle dimensional depth Subject (Female Model) A stylish young female model: soft wavy dark brown hair natural glowing skin subtle makeup with defined eyes thin gold-frame glasses Expression & Pose: calm, self-assured, composed expression direct eye contact shot from a slightly low angle one hand extended toward the camera holding the phone body slightly turned for depth and elegance Outfit: deep emerald green silk dress (changed color) smooth texture with soft highlights minimal jewelry (fine gold chain or ring) Product (Hero Focus) iPhone 17 Pro – Rose Titanium finish placed in extreme foreground using forced perspective slightly tilted to emphasize camera system Details: ultra-realistic triple camera lenses precise reflections and layered glass depth brushed titanium edges with soft highlights subtle Apple logo reflection refined material realism (premium, not glossy plastic) Lighting Soft, premium lighting setup: key light from front-left (clean skin tones, soft glow) warm rim light from right (gentle edge separation) subtle pink/rose bounce from background soft shadows with smooth falloff UI & Graphic Elements small Apple logo (top left) “Engineered for a smarter tomorrow.” (top right, thin font) floating glass-style pill: “iPhone 17 Pro” 2–3 subtle sparkle accents very fine film grain for realism Bottom Section (Features) Four rounded glass cards with minimal icons: A19 Pro Chip Next-level speed 48MP Fusion Camera Precision in every shot 4K HDR Video Storytelling redefined Apple Intelligence Smart. Secure. Seamless. Bottom Right Text iPhone 17 Pro. Precision meets elegance. Powered by A19 Pro. Advanced imaging system. Crafted for the future. Camera & Render Feel 50mm lens aesthetic shallow depth of field slight natural lens distortion HDR lighting ultra-real textures (skin, silk, metal, glass) Overall Direction Make it feel like: captured in a real high-end studio effortlessly premium refined, modern, and human Nothing should feel overdesigned or artificial.
+```
+
+By [@sipteaandcoffee](https://x.com/sipteaandcoffee/status/2051610507803832768)
+
+---
+
+<a id="sipteaandcoffee-2054553101236080714"></a>
+
+## Tropical product advertisement template
+
+<a href="https://pbs.twimg.com/media/HIM9J5xaoAAilbb.jpg"><img src="https://pbs.twimg.com/media/HIM9J5xaoAAilbb.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+Create a creative commercial advertising poster for [PRODUCT NAME], a [PRODUCT TYPE], inspired by vibrant tropical product campaigns. Place the product as a large hero object on the center-right with realistic glossy reflections, sharp label details, and premium lighting. Add a stylish model sitting beside or slightly in front of the product, naturally interacting with it by [MODEL ACTION]. The model should look [MOOD], wearing [OUTFIT STYLE], and should not cover the product label.
+```
+
+By [@sipteaandcoffee](https://x.com/sipteaandcoffee/status/2054553101236080714)
+
+---
+
+<a id="sipteaandcoffee-2064034557352202253"></a>
+
+## Running shoe miniature brand universe
+
+<a href="https://pbs.twimg.com/media/HKTsfYOa0AAcA3q.jpg"><img src="https://pbs.twimg.com/media/HKTsfYOa0AAcA3q.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+A high-performance running shoe transformed into a miniature brand universe. The shoe is the hero character, surrounded by floating speed trails, miniature running tracks, energetic mascot companions, stopwatch icons, clouds, and dynamic sports-inspired elements. Oversized bold typography integrated into the scene. Clean commercial 3D rendering, pastel orange, white, and gray color palette derived from the product, premium packaging aesthetics, soft gloss, graphic backgrounds, floating platforms, collectible toy-like charm. Modern consumer branding, cute yet premium, highly shareable social-media campaign visual, rich detail, centered composition, studio quality.
+```
+
+By [@sipteaandcoffee](https://x.com/sipteaandcoffee/status/2064034557352202253)
+
+---
+
+<a id="sipteaandcoffee-2064207510777782352"></a>
+
+## Miniature biscuit castle advertising poster
+
+<a href="https://pbs.twimg.com/media/HKWJypvaYAA9PDm.jpg"><img src="https://pbs.twimg.com/media/HKWJypvaYAA9PDm.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+Design a minimalist luxury 3D advertising poster for Prince Biscuits. The centerpiece is a surreal giant golden biscuit castle constructed entirely from iconic Prince biscuits. The biscuit structure should feel imaginative and unexpected while instantly recognizable as the brand's signature product. Use realistic biscuit textures, embossed details, cream layers, and subtle crumb elements to create a premium visual metaphor of a kingdom built from Prince biscuits. Place a tiny human character beside the giant biscuit castle, actively exploring and climbing its towers with a small ladder. The miniature figure should create a strong sense of scale, storytelling, and playful curiosity while maintaining a clean, sophisticated composition. Use Prince's signature red and golden-yellow color palette as the background, with a smooth gradient and plenty of negative space. Keep the composition centered and balanced. Position the Prince Biscuits logo at the top of the poster. Place the brand slogan "The Taste of Happiness" elegantly at the bottom. Style requirements: Minimalist, intelligent, visually striking, premium advertising design, ultra-detailed 3D rendering, photorealistic biscuit textures, commercial campaign quality, luxury product photography, soft studio lighting, subtle shadows, clean background, modern fashion-ad aesthetic, highly shareable social media campaign. Format: Vertical poster, 9:16 ratio. Rendering style: Ultra-realistic CGI, Behance-worthy advertising presentation, premium food branding, cinematic lighting, luxury commercial artwork, launch-ready marketing visual.
+```
+
+By [@sipteaandcoffee](https://x.com/sipteaandcoffee/status/2064207510777782352)
+
+---
+
+[1](products.md) · **2**
 
 [← Home](../README.md)

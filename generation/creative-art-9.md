@@ -1,250 +1,10 @@
 # creative art
 
-[← Home](../README.md) · Page 9 / 13
+[← Home](../README.md) · Page 9 / 12
 
-[1](creative-art.md) · [2](creative-art-2.md) · [3](creative-art-3.md) · [4](creative-art-4.md) · [5](creative-art-5.md) · [6](creative-art-6.md) · [7](creative-art-7.md) · [8](creative-art-8.md) · **9** · [10](creative-art-10.md) · [11](creative-art-11.md) · [12](creative-art-12.md) · [13](creative-art-13.md)
+[1](creative-art.md) · [2](creative-art-2.md) · [3](creative-art-3.md) · [4](creative-art-4.md) · [5](creative-art-5.md) · [6](creative-art-6.md) · [7](creative-art-7.md) · [8](creative-art-8.md) · **9** · [10](creative-art-10.md) · [11](creative-art-11.md) · [12](creative-art-12.md)
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
-
-<a id="prompthero-a8dc2791743"></a>
-
-## A Wolf Got The Job Too
-
-<a href="https://cdn.prompthero.com/qu4wbfhr2u2oirigckbwbtr82ocn-flux-pro-11-ultra-a-wolf-got-the-job-too.png"><img src="https://cdn.prompthero.com/qu4wbfhr2u2oirigckbwbtr82ocn-flux-pro-11-ultra-a-wolf-got-the-job-too.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-A wolf sits casually on a minimalist white floor, sporting a realistic and stylish dark turtleneck. The relaxed pose highlights baggy brown pants and white sneakers. The background glows with a warm red hue, creating a bold contrast that enhances the surreal vibe. Capture this blend of urban fashion and wild spirit, focusing on expression and mood.
-```
-
-[Source](https://prompthero.com/prompt/a8dc2791743-flux-pro-11-ultra-a-wolf-got-the-job-too)
-
----
-
-<a id="prompthero-a28c54d1312"></a>
-
-## a cinematic photograph of intricately designed gol\.\.\.
-
-<a href="https://cdn.prompthero.com/k2zikgspj02yc7w357xyw60knrzl-flux-flux-11-pro-a-cinematic-photograph-of-intricately-designed-golden-chess-pieces-strategically-positioned-on-a-richly-textured-board-composed-of-vintage-world.jpg"><img src="https://cdn.prompthero.com/k2zikgspj02yc7w357xyw60knrzl-flux-flux-11-pro-a-cinematic-photograph-of-intricately-designed-golden-chess-pieces-strategically-positioned-on-a-richly-textured-board-composed-of-vintage-world.jpg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-a cinematic photograph of intricately designed golden chess pieces strategically positioned on a richly textured board composed of vintage world maps, symbolizing global influence, strategic planning, and intellectual mastery, with carefully crafted shadows, subtle reflections, and a sense of depth, set against a sleek, dark-gray background that subtly gradates to a soft, creamy white towards the horizon, evoking a sense of sophisticated luxury and refinement, with the maps' worn, earthy tones and the chess pieces' metallic sheen juxtaposing beautifully, and the overall composition exuding a sense of elegance, precision, and high-stakes intellectual combat.--ar 1:1 --stylize 750 --v 7
-```
-
-[Source](https://prompthero.com/prompt/a28c54d1312-flux-flux-11-pro-a-cinematic-photograph-of-intricately-designed-golden-chess-pieces-strategically-positioned-on-a-richly-textured-board-composed-of-vintage-world)
-
----
-
-<a id="prompthero-a968bd0164c"></a>
-
-## giant beetle two meters long in a dark room with d\.\.\.
-
-<a href="https://cdn.prompthero.com/huhpk1m46erfcpljddfs3cna48kd-midjourney-52-giant-beetle-two-meters-long-in-a-dark-room-with-decoration-from-the-year-1970-side-view-window-night-shot.png"><img src="https://cdn.prompthero.com/huhpk1m46erfcpljddfs3cna48kd-midjourney-52-giant-beetle-two-meters-long-in-a-dark-room-with-decoration-from-the-year-1970-side-view-window-night-shot.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-giant beetle two meters long in a dark room with decoration from the year 1970, side view, window, night shot, rich textures, masterpiece, haunting atmosphere, sharp focus, high detail, 4k, dramatic lighting, photo, digital art, fantasy style --v 5.2 --s 100
-```
-
-[Source](https://prompthero.com/prompt/a968bd0164c-midjourney-52-giant-beetle-two-meters-long-in-a-dark-room-with-decoration-from-the-year-1970-side-view-window-night-shot)
-
----
-
-<a id="prompthero-a3759ec9d89"></a>
-
-## alien art and illustration, in the style of balanc\.\.\.
-
-<a href="https://cdn.prompthero.com/aos86ayv6ms291aprv52szpud8cm-stable-diffusion-xl-base-09-alien-art-and-illustration-in-the-style-of-balanced-symmetry-detailed-facial-features-meticulous-portraiture-complex-patterns-colorful-surreal-sharp.png"><img src="https://cdn.prompthero.com/aos86ayv6ms291aprv52szpud8cm-stable-diffusion-xl-base-09-alien-art-and-illustration-in-the-style-of-balanced-symmetry-detailed-facial-features-meticulous-portraiture-complex-patterns-colorful-surreal-sharp.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-alien art and illustration, in the style of balanced symmetry, detailed facial features, meticulous portraiture, complex patterns, colorful, surreal, sharp focus, set background, incredible fine detail, very coherent, cinematic, stunning composition, unique, epic, great artistic, perfect light, attractive, elegant, delicate, highly elaborate, vibrant color, ambient atmosphere, inspired, rich deep
-```
-
-[Source](https://prompthero.com/prompt/a3759ec9d89-stable-diffusion-xl-base-09-alien-art-and-illustration-in-the-style-of-balanced-symmetry-detailed-facial-features-meticulous-portraiture-complex-patterns-colorful-surreal-sharp)
-
----
-
-<a id="prompthero-a46904b6006"></a>
-
-## dramatic gold, white gold,elegant, crystal quartz,\.\.\.
-
-<a href="https://cdn.prompthero.com/08gg2ywxmlyj5swc58f6txdd7uh3-midjourney-52-dramatic-gold-white-goldelegant-crystal-quartz-pearl-human-angel-featured-collar-style-necklace-large-faceted-ice-crystal-angel-wings-wrap.png"><img src="https://cdn.prompthero.com/08gg2ywxmlyj5swc58f6txdd7uh3-midjourney-52-dramatic-gold-white-goldelegant-crystal-quartz-pearl-human-angel-featured-collar-style-necklace-large-faceted-ice-crystal-angel-wings-wrap.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-dramatic gold, white gold,elegant, crystal quartz, pearl, human angel featured collar style necklace. Large faceted ice crystal angel wings wrap around collar, golden inlay, ice crystal angel person standing as the main feature,ultra realistic, exquisitely designed and detailed, octane render, hyper realistic, clean, object photography, illumination lighting,closeup, product view, 32K --v 5.2 --s 500 --no background --ar 9:16
-```
-
-[Source](https://prompthero.com/prompt/a46904b6006-midjourney-52-dramatic-gold-white-goldelegant-crystal-quartz-pearl-human-angel-featured-collar-style-necklace-large-faceted-ice-crystal-angel-wings-wrap)
-
----
-
-<a id="prompthero-a8841123358"></a>
-
-## A architectural exterior 3D rendering photorealist\.\.\.
-
-<a href="https://cdn.prompthero.com/tcs83nftyslmfalwhvv04kdh4kvw-openjourney-15-a-architectural-exterior-3d-rendering-photorealistic-visualization-of-a-building-inspired-on-the-layers-structure-of-the-rose-flower-zaha.png"><img src="https://cdn.prompthero.com/tcs83nftyslmfalwhvv04kdh4kvw-openjourney-15-a-architectural-exterior-3d-rendering-photorealistic-visualization-of-a-building-inspired-on-the-layers-structure-of-the-rose-flower-zaha.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-A architectural exterior 3D rendering photorealistic visualization of a building inspired on the layers structure of the rose flower, Zaha Hadid style, unreal engine, raytracing, post-processing, zbrush, substance painter, trending on ArtStation, , Cinematic lighting, cinematic composition, rule of thirds , ultra-detailed, low contrast, natural lighting, fog realistic, light fogged, detailed, atmosphere, hyperrealistic , volumetric light, ultra photoreal, render in unreal engine 5, | 35mm | , Matte painting, movie concept art, hyper-detailed, insanely detailed, corona render, octane render, redshift render, 8k, --q 2
-```
-
-[Source](https://prompthero.com/prompt/a8841123358-openjourney-15-a-architectural-exterior-3d-rendering-photorealistic-visualization-of-a-building-inspired-on-the-layers-structure-of-the-rose-flower-zaha)
-
----
-
-<a id="prompthero-aa931e2ad19"></a>
-
-## Dark fantasy, shadow knights, \(\( white and gold pl\.\.\.
-
-<a href="https://cdn.prompthero.com/8488gzdqvp71uk1ct2fxlvgg7sxh-stable-diffusion-xl-base-09-dark-fantasy-shadow-knights-white-and-gold-plug-suit-black-smoke-in-plug-suit-burning-eyes1-white-gold-hooded-cloak.jpg"><img src="https://cdn.prompthero.com/8488gzdqvp71uk1ct2fxlvgg7sxh-stable-diffusion-xl-base-09-dark-fantasy-shadow-knights-white-and-gold-plug-suit-black-smoke-in-plug-suit-burning-eyes1-white-gold-hooded-cloak.jpg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-Dark fantasy, shadow knights, (( white and gold plug suit, black smoke in plug suit)), (burning eyes:1), (white, gold hooded cloak of leather material),(fractal art:1.2), cave background, transparency, caustics, optics, surreal, magic, masterpiece, perfect anatomy, 32k UHD resolution, best quality, highres, realistic photo, professional photography,cinematic angle, reflection lights, closed up, <lora:add-detail-xl:1.0>
-```
-
-[Source](https://prompthero.com/prompt/aa931e2ad19-stable-diffusion-xl-base-09-dark-fantasy-shadow-knights-white-and-gold-plug-suit-black-smoke-in-plug-suit-burning-eyes1-white-gold-hooded-cloak)
-
----
-
-<a id="prompthero-aac2622ab04"></a>
-
-## Photo of a man who has a tv set for a head, dramat\.\.\.
-
-<a href="https://cdn.prompthero.com/5so2a3xa0muomg3xmqm6qnkqux50-stable-diffusion-2-photo-of-a-man-who-has-a-tv-set-for-a-head-dramatic-light-pale-sunrise-cinematic-lighting-low-angle.png"><img src="https://cdn.prompthero.com/5so2a3xa0muomg3xmqm6qnkqux50-stable-diffusion-2-photo-of-a-man-who-has-a-tv-set-for-a-head-dramatic-light-pale-sunrise-cinematic-lighting-low-angle.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-Photo of a man who has a tv set for a head, dramatic light, pale sunrise, cinematic lighting, low angle,  4k, hyper realistic, focused, extreme details, unreal engine 5, cinematic, masterpiece, art by studio ghibli, intricate artwork by john Constable
-```
-
-[Source](https://prompthero.com/prompt/aac2622ab04-stable-diffusion-2-photo-of-a-man-who-has-a-tv-set-for-a-head-dramatic-light-pale-sunrise-cinematic-lighting-low-angle)
-
----
-
-<a id="prompthero-abd4607d3fc"></a>
-
-## An abstract sculpture of a head and neck in slight\.\.\.
-
-<a href="https://cdn.prompthero.com/px963mexpztpfqpixggvxxgz6ixs-midjourney-6-an-abstract-sculpture-of-a-head-and-neck-in-slight-profile-with-the-skin-made-up-of-intricate-patterns-with.png"><img src="https://cdn.prompthero.com/px963mexpztpfqpixggvxxgz6ixs-midjourney-6-an-abstract-sculpture-of-a-head-and-neck-in-slight-profile-with-the-skin-made-up-of-intricate-patterns-with.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-An abstract sculpture of a head and neck in slight profile with the skin made up of intricate patterns with gears and mechanical elements, giving it an organic yet technological appearance, in the style of digital realistic concept art, ultra-detailed, photorealistic, colors are muted whites, blacks, browns, blues, gold and silver, light gray background, diffused lighting with no shadows on the subject --no stand --ar 1:2 --stylize 750
-```
-
-By [@NorthmoorAI](https://prompthero.com/prompt/abd4607d3fc-midjourney-6-an-abstract-sculpture-of-a-head-and-neck-in-slight-profile-with-the-skin-made-up-of-intricate-patterns-with)
-
----
-
-<a id="prompthero-ac1a454f3d1"></a>
-
-## photograph, front central shot, full-length, unkno\.\.\.
-
-<a href="https://cdn.prompthero.com/djwl44xsbjuxdljq328lnknknorh-midjourney-7-photograph-front-central-shot-full-length-unknown-gender-figure-black-and-neon-blue-color-palette-swirling-vibrant-neon-blue-color.png"><img src="https://cdn.prompthero.com/djwl44xsbjuxdljq328lnknknorh-midjourney-7-photograph-front-central-shot-full-length-unknown-gender-figure-black-and-neon-blue-color-palette-swirling-vibrant-neon-blue-color.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-photograph, front central shot, full-length, unknown gender figure, black and neon blue color palette, swirling vibrant neon blue color smoke around figure head and body, mimicking a cloud-like formation, mysterious and surreal, figure wears a plain minimalist black outwear, two tone monochrome background to emphasize the smoke's texture and movement, soft lighting to enhance the mystical atmosphere, reinterpretation of reality, rich detailing --ar 9:16 --raw
-```
-
-By [@Grayve](https://prompthero.com/prompt/ac1a454f3d1-midjourney-7-photograph-front-central-shot-full-length-unknown-gender-figure-black-and-neon-blue-color-palette-swirling-vibrant-neon-blue-color)
-
----
-
-<a id="prompthero-ac2d4b9faeb"></a>
-
-## Gothic style Gothic style 1woman, \(full body image\.\.\.
-
-<a href="https://cdn.prompthero.com/drtv4knl3y3ars7mmyfuss7jtagv-flux-flux-11-pro-ultra-gothic-style-gothic-style-1woman-full-body-image-with-nothing-cropped-out12-mechanical-battle-harden-warrior-with-a-heads-up.jpg"><img src="https://cdn.prompthero.com/drtv4knl3y3ars7mmyfuss7jtagv-flux-flux-11-pro-ultra-gothic-style-gothic-style-1woman-full-body-image-with-nothing-cropped-out12-mechanical-battle-harden-warrior-with-a-heads-up.jpg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-Gothic style Gothic style 1woman, (full body image with nothing cropped out:1.2), mechanical battle harden warrior with a heads up display. dark digital fantasy high tech world. sinister vibes, intimidating presence . Dark, mysterious, haunting, dramatic, ornate, detailed, mechanical glowing halo around head . Dark, mysterious, haunting, dramatic, ornate, detailed
-```
-
-[Source](https://prompthero.com/prompt/ac2d4b9faeb-flux-flux-11-pro-ultra-gothic-style-gothic-style-1woman-full-body-image-with-nothing-cropped-out12-mechanical-battle-harden-warrior-with-a-heads-up)
-
----
-
-<a id="prompthero-ac56ab79457"></a>
-
-## A Girl Shining silver short hair peeking from unde\.\.\.
-
-<a href="https://cdn.prompthero.com/u82i9kkvyj5bn01agk279dkk1bdy-flux-flux-11-pro-a-girl-shining-silver-short-hair-peeking-from-under-a-stylish-hooded-red-jacket-short-jeans-barefoot-battling-a-giant.jpg"><img src="https://cdn.prompthero.com/u82i9kkvyj5bn01agk279dkk1bdy-flux-flux-11-pro-a-girl-shining-silver-short-hair-peeking-from-under-a-stylish-hooded-red-jacket-short-jeans-barefoot-battling-a-giant.jpg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-A Girl Shining silver short hair peeking from under a stylish hooded red jacket, short jeans, barefoot, battling a giant monster in a post-apocalyptic with strange energy emanating from girl hands world cover, hyperdetailed painting, luminism, octane render, Bar lighting, complex, 8k resolution concept art portrait by Martina Fačková and Prywinko Art, Artgerm, WLOP, Alphonse Mucha, Tony Taka, fractal isometrics details bioluminescence, hypereallistic cover photo awesome full color, hand drawn, bright, gritty, realistic, davinci, erte .12k, intricate. hit definition , cinematic,Rough sketch, mix of bold dark lines and loose lines, bold lines, on paper , real life human
-```
-
-[Source](https://prompthero.com/prompt/ac56ab79457-flux-flux-11-pro-a-girl-shining-silver-short-hair-peeking-from-under-a-stylish-hooded-red-jacket-short-jeans-barefoot-battling-a-giant)
-
----
-
-<a id="prompthero-adbb3c136d7"></a>
-
-## Sci professional artwork, ultra-fine 3D details, f\.\.\.
-
-<a href="https://cdn.prompthero.com/z43dkl1yhi9nhxqwk73fu3bvvoav-flux-flux-11-pro-ultra-sci-professional-artwork-ultra-fine-3d-details-full-body-archangel-wings-open-pointing-totally-upward-in-the-sky-hyper-realistic.jpg"><img src="https://cdn.prompthero.com/z43dkl1yhi9nhxqwk73fu3bvvoav-flux-flux-11-pro-ultra-sci-professional-artwork-ultra-fine-3d-details-full-body-archangel-wings-open-pointing-totally-upward-in-the-sky-hyper-realistic.jpg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-Sci professional artwork, ultra-fine 3D details, full body archangel wings open, pointing totally upward in the sky, hyper-realistic fully detailed in pure white   , sci-fi realism, airbrush art. A stunningly realistic 3D alcohol ink double exposure illustration, where the main image is a full-length facing of a beautiful futuristic woman, flowing silvery blonde hair, deep gray eyes, showing black parts with human body skin, with intricate details and a long exposure celestial backdrop that melds together in a softly blended double exposure effect. The interplay of colors and iridescent patterns creates a surreal optical illusion, with a turquoise angel female figure with flowing golden hair and feathery wings whose futuristic gem-ornamented detailed armor and extremely long, flowing hair blend seamlessly with the ethereal surroundings. The overall atmosphere exudes an air of fantasy andment that makes the piece a masterful artistry.
-```
-
-[Source](https://prompthero.com/prompt/adbb3c136d7-flux-flux-11-pro-ultra-sci-professional-artwork-ultra-fine-3d-details-full-body-archangel-wings-open-pointing-totally-upward-in-the-sky-hyper-realistic)
-
----
-
-<a id="prompthero-ade84d9f7bc"></a>
-
-## dark haired woman is standing in front of orange l\.\.\.
-
-<a href="https://cdn.prompthero.com/d4chtedlq3da0i8guujuceqf8mye-stable-diffusion-2-base-dark-haired-woman-is-standing-in-front-of-orange-light-in-glossy-transparent-plastic-futuristic-raincoat-short-hair-volumetric-lighting.png"><img src="https://cdn.prompthero.com/d4chtedlq3da0i8guujuceqf8mye-stable-diffusion-2-base-dark-haired-woman-is-standing-in-front-of-orange-light-in-glossy-transparent-plastic-futuristic-raincoat-short-hair-volumetric-lighting.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-dark haired woman is standing in front of orange light, in glossy transparent plastic futuristic raincoat, short hair, volumetric lighting, cinematic angle, glamour vibrant,
-```
-
-[Source](https://prompthero.com/prompt/ade84d9f7bc-stable-diffusion-2-base-dark-haired-woman-is-standing-in-front-of-orange-light-in-glossy-transparent-plastic-futuristic-raincoat-short-hair-volumetric-lighting)
-
----
-
-<a id="prompthero-af8b127ccfc"></a>
-
-## Japanese Oni Mask
-
-<a href="https://cdn.prompthero.com/4z0p2alxmw75kkujrkbx39yt5o9r-stable-diffusion-xl-base-09-japanese-oni-mask.jpg"><img src="https://cdn.prompthero.com/4z0p2alxmw75kkujrkbx39yt5o9r-stable-diffusion-xl-base-09-japanese-oni-mask.jpg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-<lora:Battle Armor Weapons:1.0> <lora:Fantasia:1.0> a nightmarish appearance of the evil ((mask)), Japanese Oni culture , portrait view, highly detailed, 8k, Hyperrealistic, splash art, concept art, mid shot, intricately detailed, color depth, dramatic, 2/3 face angle, side light, colorful background
-```
-
-By [@Atheist](https://prompthero.com/prompt/af8b127ccfc-stable-diffusion-xl-base-09-japanese-oni-mask)
-
----
 
 <a id="prompthero-afc0343e9c8"></a>
 
@@ -259,22 +19,6 @@ close-up photo of a beautiful red rose breaking through a cube made of ice , spl
 ```
 
 [Source](https://prompthero.com/prompt/afc0343e9c8-stable-diffusion-xl-base-09-my-bloody-valentine)
-
----
-
-<a id="prompthero-afe4941b1ea"></a>
-
-## studio image, surreal art, top down product angle,\.\.\.
-
-<a href="https://cdn.prompthero.com/zbe4d9yawwf3mrx8k4b83o0zgy-midjourney-shatter-studio-image-surreal-art-top-down-product-angle-perfectly-centered-vampires-tooth-long-tongue-rotten-purplish-skin-texture-sealed-inside.png"><img src="https://cdn.prompthero.com/zbe4d9yawwf3mrx8k4b83o0zgy-midjourney-shatter-studio-image-surreal-art-top-down-product-angle-perfectly-centered-vampires-tooth-long-tongue-rotten-purplish-skin-texture-sealed-inside.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-studio image, surreal art, top down product angle, perfectly centered, vampire's tooth, long tongue, rotten purplish skin texture, sealed inside rectangular plastic display tray, deep purple tray, wrapped in transparent plastic film, film tension lines, folds, reflections, glare, condensations, water droplets, scratches --ar 9:16 --raw --stylize 200
-```
-
-By [@Grayve](https://prompthero.com/prompt/afe4941b1ea-midjourney-shatter-studio-image-surreal-art-top-down-product-angle-perfectly-centered-vampires-tooth-long-tongue-rotten-purplish-skin-texture-sealed-inside)
 
 ---
 
@@ -326,6 +70,262 @@ By [@Grayve](https://prompthero.com/prompt/b57e0428e9f-midjourney-6-more-info-ww
 
 ---
 
-[1](creative-art.md) · [2](creative-art-2.md) · [3](creative-art-3.md) · [4](creative-art-4.md) · [5](creative-art-5.md) · [6](creative-art-6.md) · [7](creative-art-7.md) · [8](creative-art-8.md) · **9** · [10](creative-art-10.md) · [11](creative-art-11.md) · [12](creative-art-12.md) · [13](creative-art-13.md)
+<a id="prompthero-b60c97a9988"></a>
+
+## Hunt for Diablo: Ivanah
+
+<a href="https://cdn.prompthero.com/e745qsbgc09cgauftv2mwnozec9u-stable-diffusion-xl-base-09-hunt-for-diablo-ivanah.jpg"><img src="https://cdn.prompthero.com/e745qsbgc09cgauftv2mwnozec9u-stable-diffusion-xl-base-09-hunt-for-diablo-ivanah.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+Photo of a seductive Amazon warrior, hyper detail, intimate facial expression, handcrafted cloth worn outfit, war paint, dark woods background, raining, rain showers, dramatic cinematic lighting, concept art, unreal engine 5, RTX, ray tracing, photorealistic
+```
+
+By [@abyishot](https://prompthero.com/prompt/b60c97a9988-stable-diffusion-xl-base-09-hunt-for-diablo-ivanah)
+
+---
+
+<a id="prompthero-b876a410d85"></a>
+
+## 50mm film photography, world war first photo on th\.\.\.
+
+<a href="https://cdn.prompthero.com/lfkp5wik180p5bcahjfzrs42spsd-deliberate-2-50mm-film-photography-world-war-first-photo-on-the-battlefield-small-cute-mechanical-robot-wall-e-character-world-war-1.png"><img src="https://cdn.prompthero.com/lfkp5wik180p5bcahjfzrs42spsd-deliberate-2-50mm-film-photography-world-war-first-photo-on-the-battlefield-small-cute-mechanical-robot-wall-e-character-world-war-1.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+50mm film photography, world war first photo on the battlefield, small cute mechanical robot wall-e \(character\), world war 1 style, old photo, depth of field, tilt-shift \(azalanz\), bokeh, photorealistic, realistic, octane, dramatic light, 3d render, provoking composition, wide angle shot, award winning photography, detailed and intricate, surround by trash and debris
+```
+
+[Source](https://prompthero.com/prompt/b876a410d85-deliberate-2-50mm-film-photography-world-war-first-photo-on-the-battlefield-small-cute-mechanical-robot-wall-e-character-world-war-1)
+
+---
+
+<a id="prompthero-b243748c293"></a>
+
+## Surrealism photography ,masquerade space people 19\.\.\.
+
+<a href="https://cdn.prompthero.com/tq686v4meojcb2kcwtvmcvv6ivvh-stable-diffusion-xl-base-09-nightvisionxlphotorealisticportrait-surrealism-photography-masquerade-space-people-1960s-1960s-fashion-cyberpank-air-surreal-1960s-vintage-an-ultra-realistic-ultra-realistic-cinematic-1960s.png"><img src="https://cdn.prompthero.com/tq686v4meojcb2kcwtvmcvv6ivvh-stable-diffusion-xl-base-09-nightvisionxlphotorealisticportrait-surrealism-photography-masquerade-space-people-1960s-1960s-fashion-cyberpank-air-surreal-1960s-vintage-an-ultra-realistic-ultra-realistic-cinematic-1960s.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+Surrealism photography ,masquerade space people 1960s 1960s fashion Cyberpank Air Surreal 1960s vintage An ultra-realistic ultra-realistic Cinematic 1960s cinematic style, cinematic movie photograph, realistic photography, technicolor photo, HR, taken with 70mm lens, iso 400, f4, 1/20, 8K, dramatic light, depth field (cinematic, film grain:1.1),(art by Aida Muluneh)
+```
+
+[Source](https://prompthero.com/prompt/b243748c293-stable-diffusion-xl-base-09-nightvisionxlphotorealisticportrait-surrealism-photography-masquerade-space-people-1960s-1960s-fashion-cyberpank-air-surreal-1960s-vintage-an-ultra-realistic-ultra-realistic-cinematic-1960s)
+
+---
+
+<a id="prompthero-b259776a9e3"></a>
+
+## surreal black light poster of a intricate portrait\.\.\.
+
+<a href="https://cdn.prompthero.com/5xg7hxtxcf1ckn7ak1kjyot9fhy8-flux-flux-11-pro-surreal-black-light-poster-of-a-intricate-portrait-of-an-amazing-cyberpunk-elven-pixie-cyborg-creature-barefoot-full-body-view.jpg"><img src="https://cdn.prompthero.com/5xg7hxtxcf1ckn7ak1kjyot9fhy8-flux-flux-11-pro-surreal-black-light-poster-of-a-intricate-portrait-of-an-amazing-cyberpunk-elven-pixie-cyborg-creature-barefoot-full-body-view.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+surreal black light poster of a intricate portrait of An amazing cyberpunk elven pixie cyborg creature Barefoot full body view, incredibly cute appearance with a hellishly evil soul, in the style of good and evil, demonangel, white witchcraft, hyper realistic and hyper detailed, stunning composition, hyper emotional, intricate design and details, dramatic lighting, photo realistic, cinematic,  --s 800, 8k
+```
+
+[Source](https://prompthero.com/prompt/b259776a9e3-flux-flux-11-pro-surreal-black-light-poster-of-a-intricate-portrait-of-an-amazing-cyberpunk-elven-pixie-cyborg-creature-barefoot-full-body-view)
+
+---
+
+<a id="prompthero-b4796321a65"></a>
+
+## Female ninja with intricate, luminescent blue tat\.\.\.
+
+<a href="https://cdn.prompthero.com/6azhdtmyt4n21w2ss23otnnyf5vo-flux-flux-11-pro-ultra-female-ninja-with-intricate-luminescent-blue-tattoos-that-pulse-with-an-otherworldly-energy-her-eyes-transformed-into-swirling-vortex-like.jpg"><img src="https://cdn.prompthero.com/6azhdtmyt4n21w2ss23otnnyf5vo-flux-flux-11-pro-ultra-female-ninja-with-intricate-luminescent-blue-tattoos-that-pulse-with-an-otherworldly-energy-her-eyes-transformed-into-swirling-vortex-like.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+Female ninja with intricate, luminescent blue tattoos that pulse with an otherworldly energy, her eyes transformed into swirling vortex-like portals with a shimmering, liquid texture, as if the fabric of reality is being warped within them. The air around her distorts with a ghostly, ethereal rift, with tendrils of smoke, fog, and mist curling around her like living tendrils. The atmosphere is charged with an amazing depth and detail, with glowing, rich colors that seem to shift and writhe like living things. Reflections of water dance across the surrounding environment, casting an eerie glow that seems almost supernatural. Glowing, luminescent sparkles float through the air, imbuing the scene with a sense of magic and wonder. Inspired by the VFX mastery of WETA Digital, with a focus on photorealistic CGI that blurs the line between reality and fantasy, with a dash of Syd Mead's futurism and H.R. Giger's biomechanical mysticism, and the surreal, dreamlike quality of Zdzisław Beksiński's artwork.
+```
+
+[Source](https://prompthero.com/prompt/b4796321a65-flux-flux-11-pro-ultra-female-ninja-with-intricate-luminescent-blue-tattoos-that-pulse-with-an-otherworldly-energy-her-eyes-transformed-into-swirling-vortex-like)
+
+---
+
+<a id="prompthero-ba62a84ab83"></a>
+
+## Create an image in the style of Marsden Hartley, i\.\.\.
+
+<a href="https://cdn.prompthero.com/yutlefxcf0ibkoxj4v1m0lnn7ax8-flux-flux-11-pro-create-an-image-in-the-style-of-marsden-hartley-inspired-by-his-signature-approach-to-american-modernism-depict-an-abstract.jpg"><img src="https://cdn.prompthero.com/yutlefxcf0ibkoxj4v1m0lnn7ax8-flux-flux-11-pro-create-an-image-in-the-style-of-marsden-hartley-inspired-by-his-signature-approach-to-american-modernism-depict-an-abstract.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+Create an image in the style of Marsden Hartley, inspired by his signature approach to American modernism. Depict an abstract composition featuring patriotic elements, military symbols, bold geometric shapes, and strong outlines. Use a bright color palette with dominant whites, reds, and blues, incorporating the stark contrasts typical of Hartley's work. Emphasize a rhythmic structure and emotional intensity. Style of Marsden Hartley. Image ratio 1:1.
+```
+
+[Source](https://prompthero.com/prompt/ba62a84ab83-flux-flux-11-pro-create-an-image-in-the-style-of-marsden-hartley-inspired-by-his-signature-approach-to-american-modernism-depict-an-abstract)
+
+---
+
+<a id="prompthero-ba860c520f7"></a>
+
+## 100 mm shot, cinematic shot, award winning CGI, pe\.\.\.
+
+<a href="https://cdn.prompthero.com/viipi6bpa6bmqfedz7eu99u8jxyb-stable-diffusion-21-768-100-mm-shot-cinematic-shot-award-winning-cgi-perfect-angle-island-yggdrasil-tree-middle-of-the-ocean-celebration-firework-fantasy.png"><img src="https://cdn.prompthero.com/viipi6bpa6bmqfedz7eu99u8jxyb-stable-diffusion-21-768-100-mm-shot-cinematic-shot-award-winning-cgi-perfect-angle-island-yggdrasil-tree-middle-of-the-ocean-celebration-firework-fantasy.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+100 mm shot, cinematic shot, award winning CGI, perfect angle, (island Yggdrasil tree, middle of the ocean, celebration, firework, fantasy, surreal, epic fantasy, dreamland), (detailed, finest detailed, ultra detailed, intricate), vibrant color, volumetric lighting, depth of field, hard shadow, reflection, sharp focus, 3D render, unreal engine, HD, UHD, 64K, masterpiece, professional work.
+```
+
+[Source](https://prompthero.com/prompt/ba860c520f7-stable-diffusion-21-768-100-mm-shot-cinematic-shot-award-winning-cgi-perfect-angle-island-yggdrasil-tree-middle-of-the-ocean-celebration-firework-fantasy)
+
+---
+
+<a id="prompthero-bba5fa5e80f"></a>
+
+## 3d rendering, robot, front view, upper-body, neon \.\.\.
+
+<a href="https://cdn.prompthero.com/4a7h8ojb0ivgt2vyb66q3cu4x8o9-midjourney-6-3d-rendering-robot-front-view-upper-body-neon-glow-with-deep-orange-and-green-gaze-glistening-eyes-isolated-on-a.png"><img src="https://cdn.prompthero.com/4a7h8ojb0ivgt2vyb66q3cu4x8o9-midjourney-6-3d-rendering-robot-front-view-upper-body-neon-glow-with-deep-orange-and-green-gaze-glistening-eyes-isolated-on-a.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+3d rendering, robot, front view, upper-body, neon glow with deep orange and green, gaze, glistening eyes, isolated on a black backdrop, dramatic lighting, deep contrast, low-key, emphasis on texture and contrast, RTX shader, unreal engine 5, complex, hyper realism, many details --chaos 1.3 --ar 9:16 --style raw --stylize 700
+```
+
+By [@Grayve](https://prompthero.com/prompt/bba5fa5e80f-midjourney-6-3d-rendering-robot-front-view-upper-body-neon-glow-with-deep-orange-and-green-gaze-glistening-eyes-isolated-on-a)
+
+---
+
+<a id="prompthero-bc9f7090538"></a>
+
+## sci-fi, digital art, robotic head of a Deer, weari\.\.\.
+
+<a href="https://cdn.prompthero.com/twgvul211nll5vo9eajjt8xzxdin-juggernaut-xl-v9rdphoto2-lightning4s-sci-fi-digital-art-robotic-head-of-a-deer-wearing-cybernetics-its-cybernetics-rolled-up-sleeves-designed-by-james-paick.png"><img src="https://cdn.prompthero.com/twgvul211nll5vo9eajjt8xzxdin-juggernaut-xl-v9rdphoto2-lightning4s-sci-fi-digital-art-robotic-head-of-a-deer-wearing-cybernetics-its-cybernetics-rolled-up-sleeves-designed-by-james-paick.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+sci-fi, digital art, robotic head of a Deer, wearing cybernetics, its cybernetics rolled up sleeves, designed by James Paick, Roger Dean, Evil, studio lighting, 800mm lens, cybernetic
+```
+
+[Source](https://prompthero.com/prompt/bc9f7090538-juggernaut-xl-v9rdphoto2-lightning4s-sci-fi-digital-art-robotic-head-of-a-deer-wearing-cybernetics-its-cybernetics-rolled-up-sleeves-designed-by-james-paick)
+
+---
+
+<a id="prompthero-bc89d63da26"></a>
+
+## Image is a digital fantasy artwork featuring a wit\.\.\.
+
+<a href="https://cdn.prompthero.com/gohtioez7lzqtijaka754ho7487s-stable-diffusion-xl-base-09-image-is-a-digital-fantasy-artwork-featuring-a-witch-with-striking-features-the-subject-is-a-woman-with-pale-skin.jpg"><img src="https://cdn.prompthero.com/gohtioez7lzqtijaka754ho7487s-stable-diffusion-xl-base-09-image-is-a-digital-fantasy-artwork-featuring-a-witch-with-striking-features-the-subject-is-a-woman-with-pale-skin.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+Image is a digital fantasy artwork featuring a witch with striking features. The subject is a woman with pale skin and vibrant red hair styled in loose curls. She wears a classic black witch's hat and a dark, lace-trimmed cloak. Her eyes are a vivid, glowing blue, and she has sharp, elongated fangs visible in her wide smile. She holds a wand emitting a red, magical glow in her right hand. Around her neck is an ornate, black choker with a red gemstone pendant. The background is a dark, misty forest with silhouettes of bats flying, adding to the mystical and eerie atmosphere. The overall color palette is dominated by dark tones with red accents, enhancing the supernatural theme of the image.
+```
+
+[Source](https://prompthero.com/prompt/bc89d63da26-stable-diffusion-xl-base-09-image-is-a-digital-fantasy-artwork-featuring-a-witch-with-striking-features-the-subject-is-a-woman-with-pale-skin)
+
+---
+
+<a id="prompthero-be48d1236d0"></a>
+
+## \(masterpiece, digital art:1\.3\), highly intricate d\.\.\.
+
+<a href="https://cdn.prompthero.com/kou7twmewsxz8pcnp665s0ukqel9-flux-flux-11-pro-ultra-masterpiece-digital-art13-highly-intricate-double-exposure-art-inspired-by-yuumei-close-up-of-a-persons-eye12-superimposed-on-a.jpg"><img src="https://cdn.prompthero.com/kou7twmewsxz8pcnp665s0ukqel9-flux-flux-11-pro-ultra-masterpiece-digital-art13-highly-intricate-double-exposure-art-inspired-by-yuumei-close-up-of-a-persons-eye12-superimposed-on-a.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+(masterpiece, digital art:1.3), highly intricate double exposure art inspired by Yuumei, (close-up of a person's eye:1.2) superimposed on a bustling city street, cyberpunk aesthetic, trending on CGSociety, multiple exposure technique, overlaying textures with glowing holographic elements, technicolour palette, bright city lights illuminating the scene, reminiscent of "The Matrix" film's Pinterest colour scheme, high definition rendering, colourful dream-like atmosphere, elaborate details in the digital art, futuristic and vibrant, captivating visual narrative.
+```
+
+[Source](https://prompthero.com/prompt/be48d1236d0-flux-flux-11-pro-ultra-masterpiece-digital-art13-highly-intricate-double-exposure-art-inspired-by-yuumei-close-up-of-a-persons-eye12-superimposed-on-a)
+
+---
+
+<a id="prompthero-be94a3d25e9"></a>
+
+## The Vengeance Of Forgotten
+
+<a href="https://cdn.prompthero.com/78pioeiga0907150bm8k10kofr0z-stable-diffusion-xl-base-09-the-vengeance-of-forgotten.png"><img src="https://cdn.prompthero.com/78pioeiga0907150bm8k10kofr0z-stable-diffusion-xl-base-09-the-vengeance-of-forgotten.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+A dark, imposing figure, partially shrouded in shadow, stands against a vibrant red background. The figure appears to be wearing some form of armor, possibly samurai-inspired, with segmented plates visible on the shoulder and upper arm. The most striking feature is a grotesque mask with small horns or protrusions and empty eye sockets, giving the figure a demonic or otherworldly appearance. The mask and armor are rendered in dark grays and blacks, contrasting sharply with the red background. The overall impression is one of menace and mystery.] [Dark fantasy, horror, concept art] [In the style of artists like Wayne Barlowe or Brom, known for their depictions of dark, fantastical creatures and characters.] [Painting, possibly acrylic or gouache on paper or board. Visible brushstrokes and textured application of paint, especially in the red background. Dark, dramatic lighting with the red background providing a strong contrast to the dark figure. The composition is close-cropped and focused on the figure's upper body, enhancing the sense of imposing presence.
+```
+
+[Source](https://prompthero.com/prompt/be94a3d25e9-stable-diffusion-xl-base-09-the-vengeance-of-forgotten)
+
+---
+
+<a id="prompthero-be786c542ab"></a>
+
+## Raged out Magician
+
+<a href="https://cdn.prompthero.com/knnjuh7u2amir576z8e0q2m51peh-stable-diffusion-xl-base-09-raged-out-magician.jpg"><img src="https://cdn.prompthero.com/knnjuh7u2amir576z8e0q2m51peh-stable-diffusion-xl-base-09-raged-out-magician.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+Dark fantasy, shadow knights, (( white and gold plug suit, black smoke in plug suit) ), (burning eyes:1) , (white, gold hooded cloak of leather material) , (fractal art:1.2) , cave background, transparency, caustics, optics, surreal, magic, masterpiece, perfect anatomy, 32k UHD resolution, best quality, highly detailed, photorealistic portrait, professional photography, cinematic angle, reflection lights, 8k sharp focus
+```
+
+By [@Atheist](https://prompthero.com/prompt/be786c542ab-stable-diffusion-xl-base-09-raged-out-magician)
+
+---
+
+<a id="prompthero-bf61311dfdf"></a>
+
+## \(masterpiece:1\.1\), \(best quality:1\.1\), \(anatomical\.\.\.
+
+<a href="https://cdn.prompthero.com/2u74ftppyymbiig8k8yl3kmxwdgv-deliberate-2-masterpiece11-best-quality11-anatomically-correct11-perfect-arms11-detailed-face13-detailed-skin-perfect-eyes-perfect-nose-realistic-octane-render-sharp-focus8k.png"><img src="https://cdn.prompthero.com/2u74ftppyymbiig8k8yl3kmxwdgv-deliberate-2-masterpiece11-best-quality11-anatomically-correct11-perfect-arms11-detailed-face13-detailed-skin-perfect-eyes-perfect-nose-realistic-octane-render-sharp-focus8k.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+(masterpiece:1.1), (best quality:1.1), (anatomically correct:1.1), (perfect arms:1.1), ((detailed face:1.3)), (detailed skin), (perfect eyes), (perfect nose), (realistic), octane render, sharp focus,(8k), (4k), (Masterpiece), (Best Quality), ((huge lips:1.3)), detailed background, art by artgerm and greg rutkowski, cinematic lighting, 8k
+```
+
+By [@heeyrina](https://prompthero.com/prompt/bf61311dfdf-deliberate-2-masterpiece11-best-quality11-anatomically-correct11-perfect-arms11-detailed-face13-detailed-skin-perfect-eyes-perfect-nose-realistic-octane-render-sharp-focus8k)
+
+---
+
+<a id="prompthero-c4d6d5c385b"></a>
+
+## A scene of an isle of white motorcycle racing down\.\.\.
+
+<a href="https://cdn.prompthero.com/72e4t4keoprs8z133y40rpwm6okj-midjourney-6-a-scene-of-an-isle-of-white-motorcycle-racing-down-a-cobblestone-victorian-era-street-merging-the-elegance-of-the.png"><img src="https://cdn.prompthero.com/72e4t4keoprs8z133y40rpwm6okj-midjourney-6-a-scene-of-an-isle-of-white-motorcycle-racing-down-a-cobblestone-victorian-era-street-merging-the-elegance-of-the.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+A scene of an isle of white motorcycle racing down a cobblestone Victorian-era street, merging the elegance of the past with the sleek design of the future. Zooms past gas-lit street lamps and ornate wrought-iron fences. The ride leans forward, gripping the handlebars tightly as the bike's headlights cast a bright beam ahead. The Victorian architecture, with its intricate facades and vintage shop signs, contrasts sharply with the modern vehicle, creating a surreal blend of eras. The street is slightly misty, with a few rain puddles reflecting the neon lights from the bike, enhancing the atmospheric and cinematic feel of the scene --quality 2 --stylize 750 --v 6.1
+```
+
+[Source](https://prompthero.com/prompt/c4d6d5c385b-midjourney-6-a-scene-of-an-isle-of-white-motorcycle-racing-down-a-cobblestone-victorian-era-street-merging-the-elegance-of-the)
+
+---
+
+<a id="prompthero-c5cde05631e"></a>
+
+## a high-resolution image that captures the essence \.\.\.
+
+<a href="https://cdn.prompthero.com/o9hocvteedf2r597uedvlixmggyl-flux-flux-11-pro-ultra-a-high-resolution-image-that-captures-the-essence-of-a-dynamic-character-in-a-futuristic-setting-she-is-an-shining.jpg"><img src="https://cdn.prompthero.com/o9hocvteedf2r597uedvlixmggyl-flux-flux-11-pro-ultra-a-high-resolution-image-that-captures-the-essence-of-a-dynamic-character-in-a-futuristic-setting-she-is-an-shining.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+a high-resolution image that captures the essence of a dynamic character in a futuristic setting. she is an shining AI that her face looks like human. she is wearing metal suit, she wear helmet, The character is poised energetically, with flowing garments suggesting motion. Incorporate a vivid color scheme with pink, and reflective silvers, reminiscent of nightcore aesthetics. Use dramatic backlighting to emulate a neon glow, contrasting with the darker hues of a cosmic backdrop , she is bright , The image should mimic the depth of field and clarity with sharp focus on the character and a blurred background. Add realistic textures to the character's clothing and hair, and include a visible light source in their hands, producing a gleaming, otherworldly effect. Ensure the overall composition resembles a candid snapshot, capturing a spontaneous moment of action in a surreal, sci-fi universe, Her eyes are purple, her entire body, she is making a gesture of reaching out for something above, a leaping pose, she is gazing at something above. , GoPro HERO10 Black, Cinestill 800T, cyberpunk, a cinematic scene, --ar 9:16 --s 750
+```
+
+[Source](https://prompthero.com/prompt/c5cde05631e-flux-flux-11-pro-ultra-a-high-resolution-image-that-captures-the-essence-of-a-dynamic-character-in-a-futuristic-setting-she-is-an-shining)
+
+---
+
+[1](creative-art.md) · [2](creative-art-2.md) · [3](creative-art-3.md) · [4](creative-art-4.md) · [5](creative-art-5.md) · [6](creative-art-6.md) · [7](creative-art-7.md) · [8](creative-art-8.md) · **9** · [10](creative-art-10.md) · [11](creative-art-11.md) · [12](creative-art-12.md)
 
 [← Home](../README.md)

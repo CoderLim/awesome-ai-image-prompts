@@ -1,138 +1,10 @@
 # portraits
 
-[← Home](../README.md) · Page 9 / 34
+[← Home](../README.md) · Page 9 / 33
 
-[1](portraits.md) · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · [5](portraits-5.md) · [6](portraits-6.md) · [7](portraits-7.md) · [8](portraits-8.md) · **9** · [10](portraits-10.md) · [11](portraits-11.md) · [12](portraits-12.md) · [13](portraits-13.md) · [14](portraits-14.md) · [15](portraits-15.md) · [16](portraits-16.md) · [17](portraits-17.md) · [18](portraits-18.md) · [19](portraits-19.md) · [20](portraits-20.md) · [21](portraits-21.md) · [22](portraits-22.md) · [23](portraits-23.md) · [24](portraits-24.md) · [25](portraits-25.md) · [26](portraits-26.md) · [27](portraits-27.md) · [28](portraits-28.md) · [29](portraits-29.md) · [30](portraits-30.md) · [31](portraits-31.md) · [32](portraits-32.md) · [33](portraits-33.md) · [34](portraits-34.md)
+[1](portraits.md) · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · [5](portraits-5.md) · [6](portraits-6.md) · [7](portraits-7.md) · [8](portraits-8.md) · **9** · [10](portraits-10.md) · [11](portraits-11.md) · [12](portraits-12.md) · [13](portraits-13.md) · [14](portraits-14.md) · [15](portraits-15.md) · [16](portraits-16.md) · [17](portraits-17.md) · [18](portraits-18.md) · [19](portraits-19.md) · [20](portraits-20.md) · [21](portraits-21.md) · [22](portraits-22.md) · [23](portraits-23.md) · [24](portraits-24.md) · [25](portraits-25.md) · [26](portraits-26.md) · [27](portraits-27.md) · [28](portraits-28.md) · [29](portraits-29.md) · [30](portraits-30.md) · [31](portraits-31.md) · [32](portraits-32.md) · [33](portraits-33.md)
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
-
-<a id="prompthero-4f5a4e32e0b"></a>
-
-## \(\(\(\(straight-on:1\.4\)\)\)\), best quality, 8K, HDR, hi\.\.\.
-
-<a href="https://cdn.prompthero.com/6ynjk755j2ukv9dgeiz93smgu8wf-stable-diffusion-15-straight-on14-best-quality-8k-hdr-highres-blurry-background-bokeh13-professional-photography-photography-raw-photo12-photorealistic14-masterpiece13-best-quality13-ultra.png"><img src="https://cdn.prompthero.com/6ynjk755j2ukv9dgeiz93smgu8wf-stable-diffusion-15-straight-on14-best-quality-8k-hdr-highres-blurry-background-bokeh13-professional-photography-photography-raw-photo12-photorealistic14-masterpiece13-best-quality13-ultra.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-((((straight-on:1.4)))), best quality, 8K, HDR, highres, blurry background, bokeh:1.3, professional photography, (Photography), (RAW photo:1.2, photorealistic:1.4, masterpiece:1.3, best quality:1.3, ultra highres:1.2), (((pin light, back light))), sharp focus:1. 4, (hyper detail, finely detailed), morning sky, posing in a flower garden, outdoors, posing for photoshoot, (full body shot), ((((mature woman, slim waist, thin thighs)))) BREAK high detailed skin, beautiful skin, detailed beautiful face, (detailed eyes), (detailed facial features), beautiful and clear eyes, detailed eye pupil, lipgloss, blush makeup on cheek, (wearing a white colored school uniform), small earrings, (white hair)
-```
-
-[Source](https://prompthero.com/prompt/4f5a4e32e0b-stable-diffusion-15-straight-on14-best-quality-8k-hdr-highres-blurry-background-bokeh13-professional-photography-photography-raw-photo12-photorealistic14-masterpiece13-best-quality13-ultra)
-
----
-
-<a id="prompthero-4f09bf671ff"></a>
-
-## An image of a woman standing straight on, head tur\.\.\.
-
-<a href="https://cdn.prompthero.com/avg2mpaytbaed3zucz440261xu62-stable-diffusion-xl-base-09-an-image-of-a-woman-standing-straight-on-head-turned-slightly-to-her-left-looking-directly-into-the-camera-with.png"><img src="https://cdn.prompthero.com/avg2mpaytbaed3zucz440261xu62-stable-diffusion-xl-base-09-an-image-of-a-woman-standing-straight-on-head-turned-slightly-to-her-left-looking-directly-into-the-camera-with.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-An image of a woman standing straight on, head turned slightly to her left, looking directly into the camera with a confident yet curious expression. She has dark brown, wavy hair and fair skin with noticeable freckles. Her eyes are amber brown with a warm light reflecting in them. She wears a tartan plaid garment in navy blue and red with white lines, and the neckline is slightly off her right shoulder. The setting is brightly lit with natural light.
-```
-
-By [@JBlack16062205](https://prompthero.com/prompt/4f09bf671ff-stable-diffusion-xl-base-09-an-image-of-a-woman-standing-straight-on-head-turned-slightly-to-her-left-looking-directly-into-the-camera-with)
-
----
-
-<a id="prompthero-5a24a37777b"></a>
-
-## abstract, Brutalist high Fashion high angle photo \.\.\.
-
-<a href="https://cdn.prompthero.com/u5e1f35srw1jcwzct1am7n09u78q-flux-flux1-dev-abstract-brutalist-high-fashion-high-angle-photo-of-a-24-year-old-chamorro-venezuelan-female-freckled-redhead-with-compassionate-empathy.png"><img src="https://cdn.prompthero.com/u5e1f35srw1jcwzct1am7n09u78q-flux-flux1-dev-abstract-brutalist-high-fashion-high-angle-photo-of-a-24-year-old-chamorro-venezuelan-female-freckled-redhead-with-compassionate-empathy.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-abstract, Brutalist high Fashion high angle photo of a 24 year old Chamorro-Venezuelan female freckled redhead with Compassionate empathy expression. Her outfit is Minimalist concrete-inspired shirt, midriff, Exposed construction technique jeans, in the background Heavy concrete fortifications, lights Moody backlighting on board-formed concrete walls in the style of Olive Wollen
-```
-
-By [@AkiraS](https://prompthero.com/prompt/5a24a37777b-flux-flux1-dev-abstract-brutalist-high-fashion-high-angle-photo-of-a-24-year-old-chamorro-venezuelan-female-freckled-redhead-with-compassionate-empathy)
-
----
-
-<a id="prompthero-5a40b774b39"></a>
-
-## \{ &quot;scene&quot;: \{ &quot;setting&quot;: &quot;rocky desert or m\.\.\.
-
-<a href="https://cdn.prompthero.com/rumq0chfkczsq8uiuuo86ottox11-chatgpt-image-gpt-4o-scene-setting-rocky-desert-or-mountainous-landscape-timeofday-daytime-with-strong-sunlight-and-shadows-atmosphere-dusty-dramatic-background-elements-large.png"><img src="https://cdn.prompthero.com/rumq0chfkczsq8uiuuo86ottox11-chatgpt-image-gpt-4o-scene-setting-rocky-desert-or-mountainous-landscape-timeofday-daytime-with-strong-sunlight-and-shadows-atmosphere-dusty-dramatic-background-elements-large.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-{ "scene": { "setting": "rocky desert or mountainous landscape", "time_of_day": "daytime with strong sunlight and shadows", "atmosphere": "dusty, dramatic", "background": { "elements": "large rocky cliffs and dusty terrain", "color_palette": ["earth tones", "gray", "beige", "white"] } }, "subject": { "gender": "female", "pose": "walking forward confidently", "expression": "serious, focused", "gaze_direction": "forward", "clothing": { "outfit": { "type": "white tailored suit", "components": ["blazer", "high-neck top", "wide-leg trousers"], "fit": "structured and elegant" }, "accessories": { "eyewear": "dark sunglasses", "earrings": "small hoops or studs" } }, "hair": { "style": "slicked back", "color": "dark" } }, "companions": { "creatures": "six octopus-like beings", "description": { "body": "pearly, iridescent skin", "features": "tentacles trailing, each held by a chain leash", "style": "surreal, fashion-forward, alien or fantasy elements" } }, "camera": { "angle": "low and frontal", "lens": "wide-angle to capture subject and creatures", "framing": "full-body shot with companions", "focus": "sharp on subject, slightly blurred background" }, "lighting": { "type": "natural sunlight", "direction": "from above and slightly behind", "effect": "high contrast with long shadows" }, "aesthetic": { "theme": "surreal fashion fantasy", "mood": "dominant, powerful, avant-garde", "style": "editorial, cinematic, science fiction crossover", "color_palette": ["white", "pearlescent beige", "earthy brown", "cool gray"] } }
-```
-
-[Source](https://prompthero.com/prompt/5a40b774b39-chatgpt-image-gpt-4o-scene-setting-rocky-desert-or-mountainous-landscape-timeofday-daytime-with-strong-sunlight-and-shadows-atmosphere-dusty-dramatic-background-elements-large)
-
----
-
-<a id="prompthero-5ab31f825bd"></a>
-
-## a beautiful young woman in black with long hair, i\.\.\.
-
-<a href="https://cdn.prompthero.com/p7sby9s6lw5qkag8u3lv74kc8n9m-midjourney-6-a-beautiful-young-woman-in-black-with-long-hair-in-the-style-of-textural-layers-reefwave-light-brown-and-light.png"><img src="https://cdn.prompthero.com/p7sby9s6lw5qkag8u3lv74kc8n9m-midjourney-6-a-beautiful-young-woman-in-black-with-long-hair-in-the-style-of-textural-layers-reefwave-light-brown-and-light.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-a beautiful young woman in black with long hair, in the style of textural layers, reefwave, light brown and light black, wet-on-wet blending, wavy, pop inspo, captivating gaze --ar 74:97 --stylize 750 --v 6
-```
-
-By [@NorthmoorAI](https://prompthero.com/prompt/5ab31f825bd-midjourney-6-a-beautiful-young-woman-in-black-with-long-hair-in-the-style-of-textural-layers-reefwave-light-brown-and-light)
-
----
-
-<a id="prompthero-5b6b7f06efe"></a>
-
-## masterpiece, best quality,3d rending work ,3DMM st\.\.\.
-
-<a href="https://cdn.prompthero.com/08toqt17ojv7njjmca8ebvgk8l0g-rev-animated-v122-masterpiece-best-quality3d-rending-work-3dmm-styleclose-upportrait-3d1girl-solo-multicolored-hair-blue-hair-black-hair-necklace-freckles-jewelry-two.png"><img src="https://cdn.prompthero.com/08toqt17ojv7njjmca8ebvgk8l0g-rev-animated-v122-masterpiece-best-quality3d-rending-work-3dmm-styleclose-upportrait-3d1girl-solo-multicolored-hair-blue-hair-black-hair-necklace-freckles-jewelry-two.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-masterpiece, best quality,3d rending work ,3DMM style,close-up,portrait, 3D,1girl, solo, multicolored hair, blue hair, black hair, necklace, freckles, jewelry, two-tone hair, looking to the side, realistic, upper body, simple background, bangs, looking away, short hair, parted lips, black eyes, lips, gothic, choker, makeup, mole, black shirt, shirt, watermark <lora:3DMM_V11:1>
-```
-
-[Source](https://prompthero.com/prompt/5b6b7f06efe-rev-animated-v122-masterpiece-best-quality3d-rending-work-3dmm-styleclose-upportrait-3d1girl-solo-multicolored-hair-blue-hair-black-hair-necklace-freckles-jewelry-two)
-
----
-
-<a id="prompthero-5c587b27eb3"></a>
-
-## A portrait of a young woman with an elegant and so\.\.\.
-
-<a href="https://cdn.prompthero.com/az7a5cdk0chjjrs0fa28j4lprruc-stable-diffusion-xl-base-09-all-my-works-use-advanced-process-ie-comfyui-baseline-model-juggernautxlv7-workflow-seargesdxl432-full-credits-shall-go-to-the-respective-a-portrait-of-a-young-woman-with-an-elegant-and-sophisticated-style-her-hair-is-pulled-back-into-a-ponytail.png"><img src="https://cdn.prompthero.com/az7a5cdk0chjjrs0fa28j4lprruc-stable-diffusion-xl-base-09-all-my-works-use-advanced-process-ie-comfyui-baseline-model-juggernautxlv7-workflow-seargesdxl432-full-credits-shall-go-to-the-respective-a-portrait-of-a-young-woman-with-an-elegant-and-sophisticated-style-her-hair-is-pulled-back-into-a-ponytail.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-A portrait of a young woman with an elegant and sophisticated style. Her hair is pulled back into a ponytail with loose strands softly framing her face. She wears dark brown batik shirt, the portrait should exude poise and fashion-forward elegance.
-```
-
-By [@JBlack16062205](https://prompthero.com/prompt/5c587b27eb3-stable-diffusion-xl-base-09-all-my-works-use-advanced-process-ie-comfyui-baseline-model-juggernautxlv7-workflow-seargesdxl432-full-credits-shall-go-to-the-respective-a-portrait-of-a-young-woman-with-an-elegant-and-sophisticated-style-her-hair-is-pulled-back-into-a-ponytail)
-
----
-
-<a id="prompthero-5ce62b91fe1"></a>
-
-## Showa 1980s Japanese retro cinematic outdoor captu\.\.\.
-
-<a href="https://cdn.prompthero.com/v1_894883a74f8fa07dec28f8ad37-nano-banana-nano-banana-2-showa-1980s-japanese-retro-cinematic-outdoor-capture-an-elegant-and-slender-east-asian-girl-stands-on-a-rough-rock-with.jpg"><img src="https://cdn.prompthero.com/v1_894883a74f8fa07dec28f8ad37-nano-banana-nano-banana-2-showa-1980s-japanese-retro-cinematic-outdoor-capture-an-elegant-and-slender-east-asian-girl-stands-on-a-rough-rock-with.jpg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-Showa 1980s Japanese retro cinematic outdoor capture, an elegant and slender East Asian girl stands on a rough rock, with an imperceptible edge contour light on her body, ultra-low wide-angle telephoto lens, dramatic back shot from bottom to top, and the character is set off by the vast blue sky and soft white clouds. The girl has a cold fox-like facial features, a small V-long face, cold white and transparent skin, jewel blue oil bright Lobo retro short hair, and the short hair is blown by the summer breeze. Wearing a white sailor collar long-sleeved uniform, navy stripe decoration, a white pleated skirt, holding a round sailor hat in one hand in one hand, gently triggering the silk in the other hand, bowing his head to show a bright and natural smile to the camera, the corners of his mouth slightly open, and smiling with crescent eyes. Real outdoor photography, FUJIFILM X100VI, 35mm lens, f/2.8, classic chrome simulation, Kodak Portra 160 color palette, medium-frame glue Aesthetics, low saturation cold shade, strong midday sunlight from above the side, white clothing and skin slightly overexposed, soft highlight overflow, hard geometric shadow. The foreground rock is strongly blurred, ultra-long-angle lens capture, the background blue sky fades, shallow depth of field, slight hand-held shaking, dynamic shadow dragging, old-fashioned CCD low-resolution texture, fine film particles, real optical defects, misty dream core atmosphere, poetic realism, instant capture feeling, slightly unbalanced composition, movie theater snapshot , 9:16 vertical width.
-```
-
-[Source](https://prompthero.com/prompt/5ce62b91fe1-nano-banana-nano-banana-2-showa-1980s-japanese-retro-cinematic-outdoor-capture-an-elegant-and-slender-east-asian-girl-stands-on-a-rough-rock-with)
-
----
 
 <a id="prompthero-5d62a9c39c6"></a>
 
@@ -326,6 +198,134 @@ A digital Portrait of a japanese woman, 20 years old, light green eyes, dark bla
 
 ---
 
-[1](portraits.md) · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · [5](portraits-5.md) · [6](portraits-6.md) · [7](portraits-7.md) · [8](portraits-8.md) · **9** · [10](portraits-10.md) · [11](portraits-11.md) · [12](portraits-12.md) · [13](portraits-13.md) · [14](portraits-14.md) · [15](portraits-15.md) · [16](portraits-16.md) · [17](portraits-17.md) · [18](portraits-18.md) · [19](portraits-19.md) · [20](portraits-20.md) · [21](portraits-21.md) · [22](portraits-22.md) · [23](portraits-23.md) · [24](portraits-24.md) · [25](portraits-25.md) · [26](portraits-26.md) · [27](portraits-27.md) · [28](portraits-28.md) · [29](portraits-29.md) · [30](portraits-30.md) · [31](portraits-31.md) · [32](portraits-32.md) · [33](portraits-33.md) · [34](portraits-34.md)
+<a id="prompthero-6dbec9d7047"></a>
+
+## hyper-realistic photograph, woman, stunning, black\.\.\.
+
+<a href="https://cdn.prompthero.com/k64pr27kcnndu4eqq4aouymz7dtl-midjourney-6-hyper-realistic-photograph-woman-stunning-black-and-white-shot-on-a-sony-a7iii-chaos-70-ar-12-personalize-yruxpc2-stylize.png"><img src="https://cdn.prompthero.com/k64pr27kcnndu4eqq4aouymz7dtl-midjourney-6-hyper-realistic-photograph-woman-stunning-black-and-white-shot-on-a-sony-a7iii-chaos-70-ar-12-personalize-yruxpc2-stylize.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+hyper-realistic photograph, woman, stunning, black and white, shot on a Sony A7III --chaos 70 --ar 1:2 --personalize yruxpc2 --stylize 250 --v 6.1
+```
+
+By [@NorthmoorAI](https://prompthero.com/prompt/6dbec9d7047-midjourney-6-hyper-realistic-photograph-woman-stunning-black-and-white-shot-on-a-sony-a7iii-chaos-70-ar-12-personalize-yruxpc2-stylize)
+
+---
+
+<a id="prompthero-6de55ce109e"></a>
+
+## Medium shot portrait of  a beautiful model in Bale\.\.\.
+
+<a href="https://cdn.prompthero.com/ggo8gkdj8orrru3g6kbamtfpo52k-juggernaut-xl-v9-rundiffusionphoto-2-this-image-is-a-result-of-2-stage-process-using-2-different-models-playground-v25-model-for-the-contrast-juggernaut-medium-shot-portrait-of-a-beautiful-model-in-balenciaga-outfit-fashion-shot-editorial-highly-detailed-masterpiece-high-contrast.png"><img src="https://cdn.prompthero.com/ggo8gkdj8orrru3g6kbamtfpo52k-juggernaut-xl-v9-rundiffusionphoto-2-this-image-is-a-result-of-2-stage-process-using-2-different-models-playground-v25-model-for-the-contrast-juggernaut-medium-shot-portrait-of-a-beautiful-model-in-balenciaga-outfit-fashion-shot-editorial-highly-detailed-masterpiece-high-contrast.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+Medium shot portrait of  a beautiful model in Balenciaga outfit, fashion shot, editorial, highly detailed, masterpiece, high contrast.
+```
+
+By [@JBlack16062205](https://prompthero.com/prompt/6de55ce109e-juggernaut-xl-v9-rundiffusionphoto-2-this-image-is-a-result-of-2-stage-process-using-2-different-models-playground-v25-model-for-the-contrast-juggernaut-medium-shot-portrait-of-a-beautiful-model-in-balenciaga-outfit-fashion-shot-editorial-highly-detailed-masterpiece-high-contrast)
+
+---
+
+<a id="prompthero-6df4d9bbdc2"></a>
+
+## Close-up portrait of a Nubian queen Wonder Woman p\.\.\.
+
+<a href="https://cdn.prompthero.com/z4b4z07iuma08ducemvjoxek5p27-openjourney-15-close-up-portrait-of-a-nubian-queen-wonder-woman-portrait-from-ancient-egypt-intricate-filigree-ice-colored-black-panther-pendant.png"><img src="https://cdn.prompthero.com/z4b4z07iuma08ducemvjoxek5p27-openjourney-15-close-up-portrait-of-a-nubian-queen-wonder-woman-portrait-from-ancient-egypt-intricate-filigree-ice-colored-black-panther-pendant.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+Close-up portrait of a Nubian queen Wonder Woman portrait from Ancient Egypt, intricate filigree ice colored black panther pendant that’s intricate, detailed garment design, bioluminescent colors, photo realistic, cinematic lighting, metal diamond design rose photorealistic sprinkled with dropplets of crystal and icicle crystallized gems cinematic colors purple bokeh 8K beautiful, immense intricate detail, 8K --c 50 --v 4
+```
+
+[Source](https://prompthero.com/prompt/6df4d9bbdc2-openjourney-15-close-up-portrait-of-a-nubian-queen-wonder-woman-portrait-from-ancient-egypt-intricate-filigree-ice-colored-black-panther-pendant)
+
+---
+
+<a id="prompthero-6dfa17b92e0"></a>
+
+## middle-aged, light-skinned man, dressed as a dishe\.\.\.
+
+<a href="https://cdn.prompthero.com/my47s21pykqqo9b10gfoi1oa2aaq-midjourney-7-middle-aged-light-skinned-man-dressed-as-a-disheveled-clown-sits-slumped-against-a-weathered-muted-gray-blue-wall-he.png"><img src="https://cdn.prompthero.com/my47s21pykqqo9b10gfoi1oa2aaq-midjourney-7-middle-aged-light-skinned-man-dressed-as-a-disheveled-clown-sits-slumped-against-a-weathered-muted-gray-blue-wall-he.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+middle-aged, light-skinned man, dressed as a disheveled clown, sits slumped against a weathered, muted gray-blue wall.  He appears sad and forlorn, with a downturned mouth and a serious expression.  His clown makeup, including a red nose and orange curly hair, is smudged and faded, suggesting a long time spent outdoors.  He wears stained, light-blue, clown-like pants and a slightly darker-blue suit jacket, both appearing worn and paint-splattered.  He has a red scarf loosely tied around his neck. The clown's hands are resting in his lap, clutching a worn, light-brown bag.  A paint can sits on the floor next to him, covered in colors. The setting is a gritty, urban alleyway or rundown area. The lighting in the image is diffused and muted, accentuating the melancholic mood.  The subject is positioned slightly off-center to the right of the image, facing forward but slightly downward.  The perspective is from a slightly low angle, almost looking down at the clown. The overall style is dramatic, realistic, and evocative of a social commentary, with a hint of painterly texture.  The composition is simple and direct, focusing on the clown's downtrodden demeanor.
+```
+
+[Source](https://prompthero.com/prompt/6dfa17b92e0-midjourney-7-middle-aged-light-skinned-man-dressed-as-a-disheveled-clown-sits-slumped-against-a-weathered-muted-gray-blue-wall-he)
+
+---
+
+<a id="prompthero-6e7d58c5d8c"></a>
+
+## Masterpiece, Stunning, Best quality, Princess Leia\.\.\.
+
+<a href="https://cdn.prompthero.com/v9i1t2iv34fg5p9gdqi3d9tqo8fd-stable-diffusion-xl-base-09-leia-sdvn7-realartxl-masterpiece-stunning-best-quality-princess-leia-covered-in-nightly-glow-with-detailed-silver-features-beam-dark-fantasy-by-luis-royo.png"><img src="https://cdn.prompthero.com/v9i1t2iv34fg5p9gdqi3d9tqo8fd-stable-diffusion-xl-base-09-leia-sdvn7-realartxl-masterpiece-stunning-best-quality-princess-leia-covered-in-nightly-glow-with-detailed-silver-features-beam-dark-fantasy-by-luis-royo.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+Masterpiece, Stunning, Best quality, Princess Leia covered in nightly glow with detailed silver features, beam, dark fantasy by Luis Royo, in the style of studio portrait, cyberpunk . 8K, UHD, HDR
+```
+
+By [@ScArecrow23](https://prompthero.com/prompt/6e7d58c5d8c-stable-diffusion-xl-base-09-leia-sdvn7-realartxl-masterpiece-stunning-best-quality-princess-leia-covered-in-nightly-glow-with-detailed-silver-features-beam-dark-fantasy-by-luis-royo)
+
+---
+
+<a id="prompthero-6ed286fa729"></a>
+
+## \(masterpiece\), \(best\_quality\), \(ultra-detailed\), \(\.\.\.
+
+<a href="https://cdn.prompthero.com/6grpvsc0wwc5z84or675sknia296-dreamshaper-33-masterpiece-bestquality-ultra-detailed-photorealistic-1girl-tabaxi-khajiit-black-fur-furry-animal-nose-animal-ears-cat-girl-cowboy-shot-yellow.jpeg"><img src="https://cdn.prompthero.com/6grpvsc0wwc5z84or675sknia296-dreamshaper-33-masterpiece-bestquality-ultra-detailed-photorealistic-1girl-tabaxi-khajiit-black-fur-furry-animal-nose-animal-ears-cat-girl-cowboy-shot-yellow.jpeg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+(masterpiece), (best_quality), (ultra-detailed), (photorealistic, ), 1girl, tabaxi, khajiit, black fur, furry, animal nose, animal ears, cat girl, cowboy shot, yellow and white colors, yellow eyes, simple background, leather armor, rogue, thief
+```
+
+By [@heeyrina](https://prompthero.com/prompt/6ed286fa729-dreamshaper-33-masterpiece-bestquality-ultra-detailed-photorealistic-1girl-tabaxi-khajiit-black-fur-furry-animal-nose-animal-ears-cat-girl-cowboy-shot-yellow)
+
+---
+
+<a id="prompthero-6ee6fe43211"></a>
+
+## A high-fashion close-up of a woman striking a bold\.\.\.
+
+<a href="https://cdn.prompthero.com/a0jk91nbsalm2iz2vl77ndjr1023-flux-flux-11-pro-ultra-a-high-fashion-close-up-of-a-woman-striking-a-bold-pose-wearing-sleek-black-latex-and-futuristic-sunglasses-with.png"><img src="https://cdn.prompthero.com/a0jk91nbsalm2iz2vl77ndjr1023-flux-flux-11-pro-ultra-a-high-fashion-close-up-of-a-woman-striking-a-bold-pose-wearing-sleek-black-latex-and-futuristic-sunglasses-with.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+A high-fashion close-up of a woman striking a bold pose, wearing sleek black latex and futuristic sunglasses, with dramatic lighting highlighting her sharp features and glossy textures against a deep red background, captured in an editorial, avant-garde style.
+```
+
+[Source](https://prompthero.com/prompt/6ee6fe43211-flux-flux-11-pro-ultra-a-high-fashion-close-up-of-a-woman-striking-a-bold-pose-wearing-sleek-black-latex-and-futuristic-sunglasses-with)
+
+---
+
+<a id="prompthero-6ef1c52e0ae"></a>
+
+## Rabbit neonoir
+
+<a href="https://cdn.prompthero.com/rbmj2qyofa9po8r4gpn5jd6m4bob-midjourney-6-rabbit-neonoir.png"><img src="https://cdn.prompthero.com/rbmj2qyofa9po8r4gpn5jd6m4bob-midjourney-6-rabbit-neonoir.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+a girl wearing a colourful rabbit mask, in the style of moody neo-noir, matte photo, alastair magnaldo, david choe, kehinde wiley, soft lighting, shot on 70mm --ar 51:64 --s 250 --v 6.0 --style raw
+```
+
+By [@jefharris](https://prompthero.com/prompt/6ef1c52e0ae-midjourney-6-rabbit-neonoir)
+
+---
+
+[1](portraits.md) · [2](portraits-2.md) · [3](portraits-3.md) · [4](portraits-4.md) · [5](portraits-5.md) · [6](portraits-6.md) · [7](portraits-7.md) · [8](portraits-8.md) · **9** · [10](portraits-10.md) · [11](portraits-11.md) · [12](portraits-12.md) · [13](portraits-13.md) · [14](portraits-14.md) · [15](portraits-15.md) · [16](portraits-16.md) · [17](portraits-17.md) · [18](portraits-18.md) · [19](portraits-19.md) · [20](portraits-20.md) · [21](portraits-21.md) · [22](portraits-22.md) · [23](portraits-23.md) · [24](portraits-24.md) · [25](portraits-25.md) · [26](portraits-26.md) · [27](portraits-27.md) · [28](portraits-28.md) · [29](portraits-29.md) · [30](portraits-30.md) · [31](portraits-31.md) · [32](portraits-32.md) · [33](portraits-33.md)
 
 [← Home](../README.md)

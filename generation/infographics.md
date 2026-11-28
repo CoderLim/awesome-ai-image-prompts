@@ -1,8 +1,8 @@
 # infographics
 
-[← Home](../README.md) · Page 1 / 3
+[← Home](../README.md) · Page 1 / 2
 
-**1** · [2](infographics-2.md) · [3](infographics-3.md)
+**1** · [2](infographics-2.md)
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
@@ -54,22 +54,6 @@ By [小红书号Roy\_Jay](https://github.com/freestylefly/awesome-gpt-image-2/bl
 
 ---
 
-<a id="freestylefly-case-17"></a>
-
-## 界面交互设计图
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case17.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case17.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-{ "type": "exploded view product diagram poster", "subject": "VR headset", "style": "clean high-tech 3D render, studio lighting, glowing accents", "background": "{argument name=\"background color\" default=\"soft purple and blue gradient\"}", "header": { "logo": "∞ {argument name=\"product name\" default=\"Meta Quest 3\"}", "subtitle": "{argument name=\"main catchphrase\" default=\"まったく新しい現実を、まったく新しい構造から。\"}" }, "layout": { "centerpiece": "vertically stacked exploded view of a VR headset showing 9 distinct layers of internal components: outer shell, camera sensors, motherboard with chip, pancake lenses, internal frame, battery packs, side straps, top strap, and facial interface cushion.", "callout_labels": { "count": 8, "left_side": [ "Snapdragon® XR2 Gen 2\n圧倒的な処理性能でリアルタイムな体験を。", "調整可能なIPD機構\n幅広いユーザーに快適なフィット感を。", "精密設計されたヘッドストラップ\n快適さと安定性を追求したエルゴノミクス。" ], "right_side": [ "フェイスプレート\n洗練されたデザインと最適な重量バランス。", "トラッキングカメラ\n高精度な位置トラッキングと環境認識を実現。", "パンケーキレンズ\n薄型設計で広い視野角と鮮明な映像を提供。", "高性能バッテリー\n長時間駆動を支える最適化された電源設計。", "柔らかなフェイスインターフェース\n長時間でも快適な装着感を実現。" ] }, "footer": { "left_text_block": { "headline": "{argument name=\"bottom headline\" default=\"体験は、構造から進化する。\"}", "body": "一つひとつのパーツに、没入体験を支える最先端テクノロジーとこだわりの設計。Meta Quest 3は、未来を感じさせる体験を内部から生み出しています。" }, "right_logo": "∞ Meta" } } }
-```
-
-By [@wory37303852](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-17)
-
----
-
 <a id="freestylefly-case-18"></a>
 
 ## 信息图可视化设计
@@ -83,22 +67,6 @@ By [@wory37303852](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999
 ```
 
 By [@mm\_zzm44854](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-18)
-
----
-
-<a id="freestylefly-case-19"></a>
-
-## 信息图可视化设计
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case19.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case19.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Create an explanatory slide ({argument name="format" default="ponchi-e diagram"}) for {argument name="theme" default="Momotaro"} that fuses the gentle atmosphere of "Irasutoya" with the overwhelming information density of "Kasumigaseki slides".
-```
-
-By [@yammamon](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-19)
 
 ---
 
@@ -163,38 +131,6 @@ A breathtaking and extremely complex world-building infographic masterpiece conc
 ```
 
 By [@GeekCatX](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-65)
-
----
-
-<a id="freestylefly-case-66"></a>
-
-## 信息图可视化设计
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case66.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case66.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-{ "type": "fashion design process infographic", "title": "{argument name=\"main title\" default=\"一件女装诞生的因果链 THE CAUSAL CHAIN OF A WOMEN'S GARMENT\"}", "subtitle": "从纤维，到版型，到上身 FROM FIBER TO FIT", "style": { "aesthetic": "elegant editorial, technical fashion illustration, highly detailed", "color_palette": "{argument name=\"color palette\" default=\"beige, cream, and neutral tones\"}" }, "layout": { "centerpiece": { "description": "Exploded-view illustration of a {argument name=\"garment type\" default=\"women's trench coat dress\"} showing cascading layers of fabric, pattern pieces, and stitching lines. Top shows a model wearing the finished garment.", "central_list": { "count": 13, "type": "numbered steps with pointer lines", "labels": ["01 Material", "02 Inspiration", "03 Sketch", "04 Fabric", "05 Draping", "06 Pattern", "07 Sewing", "08 Fitting", "09 Revision", "10 Team", "11 Construction", "12 Garment", "13 Collaboration"] } }, "left_column": [ { "module": "MODULE 1: RAW MATERIAL AND FABRIC", "count": 6, "items": ["Fiber", "Yarn Structure", "Fabric Construction", "Weight", "Drape", "Surface Texture"] }, { "module": "MODULE 2: INSPIRATION AND DIRECTION", "count": 5, "items": ["Inspiration Source", "Color Direction", "Woman Image", "Occasion Positioning", "Silhouette Intention"] }, { "module": "MODULE 3: DESIGN SKETCH AND SILHOUETTE", "count": 7, "items": ["Design Sketch", "Construction Line", "Front Back Relationship", "Neckline", "Shoulder Line", "Waist Line", "Hem Proportion"] } ], "right_column": [ { "module": "MODULE 4: PATTERNMAKING AND DRAPING", "count": 6, "items": ["Draping", "Patternmaking", "Dart", "Panel Line", "Ease", "Grain Direction"] }, { "module": "MODULE 5: CUTTING AND SAMPLING", "count": 5, "items": ["Cutting", "Layout", "Sample Sewing", "Construction Sequence", "Technique Test"] }, { "module": "MODULE 6: FITTING AND REVISION", "count": 4, "items": ["Fitting", "Fit Issues", "Before", "After"] } ], "bottom_row": [ { "module": "MODULE 7: TEAM COLLABORATION", "count": 8, "items": ["Designer", "Patternmaker", "Fabric Buyer", "Sample Maker", "Merchandiser", "QC", "Feedback Loop", "Model"] }, { "module": "MODULE 8: FINAL GARMENT PRESENTATION", "count": 3, "items": ["Details", "Finished Front & Back", "Labels & Care"] }, { "module": "MODULE 9: FINAL WEAR", "count": 3, "items": ["Drape", "Proportion", "Movement in Motion"] }, { "module": "MODULE 10: THE CHAIN SUMMARY", "count": 8, "items": ["Material Foundation", "Aesthetic Judgment", "Structural Engineering", "Craft Realization", "Body Negotiation", "Team Collaboration", "Iterative Revision", "Final Garment"] } ], "footer": "{argument name=\"footer text\" default=\"一件成衣，因无数判断而存在 A garment exists because of countless decisions.\"}" } }
-```
-
-By [@hx831126](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-66)
-
----
-
-<a id="freestylefly-case-67"></a>
-
-## 信息图可视化设计
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case67.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case67.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-{ "type": "medical infographic poster", "style": "highly detailed anatomical illustrations, clean structured layout, scientific diagrammatic style", "color_palette": "{argument name=\"color palette\" default=\"medical red, blue, beige, and anatomical flesh tones\"}", "language": "{argument name=\"language\" default=\"bilingual Chinese and English\"}", "header": { "main_title": "{argument name=\"main title\" default=\"糖尿病诞生的因果链\"}", "english_title": "{argument name=\"english title\" default=\"THE CAUSAL CHAIN OF DIABETES\"}", "subtitle": "从胰岛素失灵，到高血糖，到全身损伤" }, "layout": { "centerpiece": "{argument name=\"central subject\" default=\"transparent human body showing circulatory system and internal organs\"}", "sections_count": 14, "sections": [ { "id": "01", "title": "葡萄糖进入生命", "visuals": ["stomach and intestines"] }, { "id": "02", "title": "胰腺与胰岛素", "visuals": ["pancreas", "beta cell"] }, { "id": "03", "title": "正常胰岛素作用", "visuals": ["receptor signaling diagram", "muscle, liver, adipose icons"] }, { "id": "04", "title": "胰岛素抵抗: 2型通路开始", "visuals": ["receptor blockage diagram", "7 lifestyle icons"] }, { "id": "05", "title": "肝脏持续释放葡萄糖", "visuals": ["liver"] }, { "id": "06", "title": "β细胞衰竭: 代偿到失败", "visuals": ["beta-cell decline line chart"] }, { "id": "07", "title": "1型糖尿病分支", "visuals": ["autoimmune destruction diagram"] }, { "id": "08", "title": "高血糖与血液化学", "visuals": ["blood vessel with glucose", "glucose indicators table", "glucose variability chart"] }, { "id": "09", "title": "高血糖导致组织损伤", "visuals": ["4 pathways of damage diagrams"] }, { "id": "10", "title": "急性代谢后果", "visuals": ["7 symptom icons"] }, { "id": "11", "title": "微血管并发症", "visuals": ["eye", "kidney", "nerve cross-section"] }, { "id": "12", "title": "大血管并发症与组织损伤", "visuals": ["heart", "brain", "diabetic foot"] }, { "id": "13", "title": "器官系统长期代价", "visuals": ["text list"] }, { "id": "14", "title": "糖尿病是调控系统失灵", "visuals": ["metabolic control flowchart"] } ], "footer": { "core_message": "核心信息 CORE MESSAGE" } } }
-```
-
-By [@hx831126](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-67)
 
 ---
 
@@ -278,38 +214,6 @@ By [@alanlovelq](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cb
 
 ---
 
-<a id="freestylefly-case-82"></a>
-
-## 信息图可视化设计
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case82.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case82.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-{ "type": "scientific optical setup diagram", "main_setup": { "base": "optical breadboard table with grid of mounting holes", "beam": "red laser beam passing horizontally through all components", "top_grouping_brackets": [ "{argument name=\"first component group\" default=\"Dual Modulation\"}", "4f Relay Optics", "Imaging Optics", "Detection" ], "components_left_to_right": [ { "name": "Laser", "label": "{argument name=\"laser wavelength\" default=\"λ = 632.8 nm\"}", "appearance": "black rectangular box" }, { "name": "SLM1", "label": "(Phase / Pol. Mod.)", "appearance": "black square device on post" }, { "name": "Lens L1", "label": "(f1)", "appearance": "lens in black ring mount" }, { "name": "Iris", "label": "Fourier Plane (Pupil Plane) / (Higher Orders Filtered)", "appearance": "black ring mount with dashed line above" }, { "name": "HWP", "label": "(λ/2)", "appearance": "purple-tinted optic in black ring mount" }, { "name": "Lens L2", "label": "(f1)", "appearance": "lens in black ring mount" }, { "name": "SLM2", "label": "(Phase / Pol. Mod.)", "appearance": "black square device on post" }, { "name": "Lens L3", "label": "(f2)", "appearance": "lens in black ring mount" }, { "name": "Lens L4", "label": "(f2)", "appearance": "lens in black ring mount" }, { "name": "Linear Polarizer", "label": "(Global Analyzer)", "appearance": "lens in black ring mount" }, { "name": "Polarization Camera", "label": "POLARIZATION CAMERA", "appearance": "blue and black box camera" } ] }, "inset_diagram": { "position": "bottom right, dashed border", "title": "{argument name=\"inset title\" default=\"Polarization Camera Micro-Polarizer Array\"} (Per-Pixel Analyzer)", "visuals": "4x4 grid of colored squares with white directional arrows", "legend_count": 4, "legend_labels": [ "red right-arrow 0° (H)", "green up-arrow 90° (V)", "blue diagonal-arrow 45° (D)", "yellow diagonal-arrow 135° (A)" ] }, "bottom_caption": { "figure_number": "Fig. 5.", "title": "{argument name=\"setup title\" default=\"Ellipsography Hardware Setup.\"}", "description": "{argument name=\"figure caption\" default=\"Our prototype display system employs a dual-modulation configuration to achieve simultaneous control of phase and polarization. A 4f relay optics setup transfers the modulated wavefront...\"}" } }
-```
-
-By [@HumanOS\_v2](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-82)
-
----
-
-<a id="freestylefly-case-83"></a>
-
-## 信息图可视化设计
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case83.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case83.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-{ "type": "sports match infographic poster", "theme": "UEFA Champions League", "background": "dark blue and purple cosmic sky, glowing blue hexagonal lines, illuminated stadium reflecting on water at bottom", "header": { "logo": "UEFA Champions League", "title": "{argument name=\"stage\" default=\"HALBFINALE\"}", "subtitle": "DAS ZIEL: {argument name=\"location\" default=\"BUDAPEST 2026\"}", "venue": "PUSKÁS ARÉNA" }, "matchup": { "player_left": "{argument name=\"team 1 player\" default=\"Harry Kane\"} in red FC Bayern kit", "player_right": "{argument name=\"team 2 player\" default=\"Ousmane Dembélé\"} in blue PSG kit", "center_logos": "FC Bayern München and Paris Saint-Germain with VS", "date_box": "calendar icon, MITTWOCH, {argument name=\"date\" default=\"06.05.2026\"}" }, "facts_section": { "title": "FACTS", "count": 5, "items": [ "Trophy icon: DIE KÖNIGSKLASSE 2025/26", "Bar chart icon: KANE IN TOPFORM", "Lightning bolt icon: DEMBÉLÉ ÜBERFLIEGER", "Two people icon: BISHER 14 DUELLE", "Stadium icon: BUDAPEST RUFT" ] }, "footer": { "trophy": "Champions League trophy on right", "stadium_image": "Puskás Aréna at night", "tagline": "EIN TRAUM. EIN ZIEL. EIN TITEL.", "bottom_text": "ROAD TO BUDAPEST 2026" } }
-```
-
-By [@NumeroBTC](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-83)
-
----
-
 <a id="freestylefly-case-88"></a>
 
 ## 信息图可视化设计
@@ -326,6 +230,102 @@ By [@A9Quant](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1
 
 ---
 
-**1** · [2](infographics-2.md) · [3](infographics-3.md)
+<a id="freestylefly-case-102"></a>
+
+## 信息图可视化设计
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case102.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case102.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+Search the web for {argument name="performance description" default="this week’s standout individual performance in Champion’s League"}, using exact stats and game summary, {argument name="colors" default="bold team colors"}, legible score breakdown, and generate a {argument name="card type" default="Highlight card"}.
+```
+
+By [@maxescu](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-102)
+
+---
+
+<a id="freestylefly-case-179"></a>
+
+## 蒸汽朋克射手座解剖图谱
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case179.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case179.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+[中文] （Steampunk Scientific Illustrator）你是一位专业复古蒸汽朋克解剖图谱设计师，擅长星座机械结构科普海报。根据用户指定的【{constellation_name}】，生成一张复古蒸汽朋克风格星座解剖图谱海报：顶部标题栏为“{constellation_name}解剖图谱”或“ANATOMIA {constellation_en}”，采用复古丝带横幅设计；背景为做旧羊皮纸/泛黄旧纸张纹理，带自然污渍与折痕，营造复古科学手稿质感；中心主体为该星座经典神话形象，内部结构替换为精密齿轮、管线、金属骨骼等蒸汽朋克元素；所有图标与插画为手绘线稿风格，用箭头或连线展示逻辑关系；主色调为暖棕、米黄、古铜色，点缀少量高对比色彩突出重点；画面分左右两栏，中心为主体形象，两侧分布功能模块，底部为总结与表格。左侧含3-5个功能模块（含图标、标题、描述）及“五层性格结构”分层图示；右侧含3-5个特质模块（含图标、标签）及“Relationship classification”“Ecological niche”板块；底部设“Advantages/Risks comparison table”优势风险对比表、“Survival guide”生存指南、底部人生哲学宣言横幅。整体严谨精致、复古机械美学，文字清晰可读 4K高清，直接出图，星座为【射手座 / Sagittarius】。 [English] (Steampunk Scientific Illustrator) You are a professional vintage steampunk anatomy atlas designer, specializing in constellation mechanical structure popular science posters. Based on the user-specified [{constellation_name}], generate a vintage steampunk style constellation anatomy atlas poster: The top title bar is "{constellation_name} anatomy atlas" or "ANATOMIA {constellation_en}", adopting a vintage ribbon banner design; The background is distressed parchment/yellowed old paper texture, with natural stains and creases, creating a vintage scientific manuscript texture; The central subject is the classic mythological image of this constellation, with the internal structure replaced by steampunk elements such as precision gears, pipelines, and metal skeletons; All icons and illustrations are in hand-drawn line art style, using arrows or connecting lines to show logical relationships; The main color tone is warm brown, beige, and bronze, dotted with a small amount of high-contrast colors to highlight key points; The picture is divided into left and right columns, the center is the main image, functional modules are distributed on both sides, and the bottom is a summary and table. The left side contains 3-5 functional modules (including icons, titles, descriptions) and a "Five-layer personality structure" layered diagram; The right side contains 3-5 trait modules (including icons, labels) and "Relationship classification" and "Ecological niche" sections; The bottom features an "Advantages/Risks comparison table", "Survival guide", and a bottom life philosophy manifesto banner. Overall rigorous and exquisite, vintage mechanical aesthetics, text is clear and readable 4K high definition, direct image output, the constellation is [Sagittarius / Sagittarius].
+```
+
+By [@GeekCatX](https://x.com/GeekCatX/status/2046574334572212694)
+
+---
+
+<a id="freestylefly-case-211"></a>
+
+## 天坛古建拆解全图
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case211.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case211.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+[中文] 生成一个天坛的建筑拆解图，有详细的说明，中式美学风格 [English] Generate an architectural exploded view of the Temple of Heaven, with detailed annotations, Chinese aesthetic style
+```
+
+By [@TanShilong](https://x.com/TanShilong/status/2046524996013662380)
+
+---
+
+<a id="freestylefly-case-214"></a>
+
+## 绘制金瓶梅知识图谱
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case214.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case214.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+Role: World-class Scientific Encyclopedia Illustrator & Knowledge Graph Architect. Task: Generate a highly detailed, extremely intricate, and visually stunning "Universal Illustrated Encyclopedia Science Infographic" in a classic, unbranded (NO logos) scientific encyclopedia style. Subject Matter: Choose one from [People, Plants, or Animals]. Specific Subject: [e.g., The Giant Squid / Leonardo da Vinci / The Sequoia Tree]. Style: Fine, detailed scientific illustration on a retro, aged beige paper background. Delicate linework. Intricately complex and professional. Key Visual Requirements: 1.  Lifelike 3D Effect (The Central Subject): The central subject in the "C position" must be rendered with extraordinary realism and dynamism. Create a dramatic sense of depth where the character, plant, or animal appears to break the frame, leaping or bursting out of the flat paper towards the viewer (an effect similar to anamorphic 3D or dynamic pop-out, with high-precision realism). 2.  Layout & Strategic White Space: * Central Subject: Dominates the center, with intentional "strategic white space" around it to enhance the popping-out effect and make the figure the clear focal point. * Surrounding Modules: The surrounding area (left, right, top, bottom, and corners) must be filled with 6-8 distinct, highly organized knowledge modules, depending on the subject. There should be a sense of organized density, not random clutter. The modules themselves must have clear borders, headers, and extensive, detailed content. 3.  Connections: Use a complex, logical network of fine leader lines, arrows, brackets, dotted lines, and small connection points to link the central figure to all surrounding modules, and interconnect the modules themselves into a cohesive knowledge web. 4.  Text & Annotation (Hard Requirement - Must be CLEAR Chinese): * Main Title: A large, prominent, beautifully executed **Chinese calligraphy** (书法体) of the specific subject's name [e.g., "大王乌贼"]. * Calligraphic Accents: Scattered throughout the main content and module titles, use beautiful, clear Chinese calligraphy for important terms. * Standard Chinese Text: All other descriptive text, handwritten notes (大量清晰中文手写注释), module content, and annotations must be clear, legible Chinese characters (简体中文), not gibberish or unreadable symbols. Ensure text clarity is prioritized. * Leader Line Annotations: Every single small component, detail, submodule, diagram, or illustration within the modules must have detailed leader line annotations (拟解剖图) pointing directly to it for maximum professionalism and educational value. Every part should be labeled. Subject-Specific Module Structure (Example for general reference): A. For Humans [People]: - Module 1: Anatomy & Skeletal Structure (w/ magnified cross-sections) - Module 2: Physiological Processes (e.g., Circulatory/Nervous System) - Module 3: Historical Context & Timeline (Key Achievements) - Module 4: Major Contribution Diagram (Detailed breakdown) - Module 5: Cognitive Process / Psychological Insight - Module 6: Genetic Profile / Evolution - Module 7: Global Influence & Cultural Impact - Module 8: Cultural Representations / Legacy B. For Animals: - Module 1: Full External Sketch & Anatomy (w/ microscope magnified detail circular windows) - Module 2: Behavioral Patterns & Lifecycle (e.g., Mating/Migration, Flowchart style) - Module 3: Digestive & Skeletal System - Module 4: Habitats & Distribution Map (with environmental details) - Module 5: Unique Adaptations (e.g., camouflage, hunting tools) - Module 6: Evolutionary History & Relatives - Module 7: Symbiotic Relationships / Ecosystem Role - Module 8: Conservation Status & Human Interaction C. For Plants: - Module 1: Full Plant Sketch & Anatomy (w/ magnified leaf/root details) - Module 2: Photosynthesis & Lifecycle Flow (w/ icons for environment) - Module 3: Cellular Structure (Magnified circular views) - Module 4: Medicinal Properties / Practical Applications (as in original original prompt) - Module 5: Environmental Adaptations / Unique Features - Module 6: Distribution Map & Environmental Context - Module 7: Genetic Variations & Cultivation - Module 8: Historical Usage & Folklore Overall Composition: Extremely dense with information, organized into 6-8 structured modules, but balanced with strategic empty space around the center to allow the main, hyper-realistic figure to pop. Hard-core, professional, academic, but visually engaging due to the dynamic 3D central figure. No branding from any specific encyclopedia (e.g., no "DK" logos). All annotations must be legible. All handwritten notes must be clear. Main titles in Chinese calligraphy. Aspect Ratio: 3:4. 主题内容：潘金莲
+```
+
+By [@xiaoxiaodong01](https://x.com/xiaoxiaodong01/status/2046252164717416641)
+
+---
+
+<a id="freestylefly-case-218"></a>
+
+## 绘制科学百科知识图谱
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case218.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case218.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+[中文] 角色：世界级科学百科插画师兼知识图谱架构师 任务：以经典、无品牌标识（无任何 Logo）的科学百科风格，创作一幅细节极致丰富、结构极其精巧、视觉效果惊艳的「环球图解百科科学信息图」。 题材选择：从【人物、植物、动物】中任选其一。 具体对象：【例如：大王乌贼 / 列奥纳多・达・芬奇 / 红杉树】 风格：采用复古泛黄米色纸张背景，绘制精细工整的科学插画；线条细腻精致，整体繁复专业、严谨考究。 核心视觉要求 主体逼真 3D 效果 位于画面视觉中心（C 位）的主体形象，需具备极致的写实感与动态张力。营造强烈的空间纵深感，让人物、植物或动物仿佛突破画框，从平面纸张中跃出、冲向观者（效果类似变形 3D 或动态弹出效果，高精度写实呈现）。 版式布局与留白设计 主体位置：占据画面中心，周围刻意设置规划式留白，强化立体弹出效果，使其成为绝对视觉焦点。 周边模块：根据所选题材，在画面四周（上下左右及四角）排布 6–8 个独立且规整有序的知识模块。整体呈现规整的信息密度感，而非杂乱堆砌。每个模块需带有清晰边框、标题栏与详尽丰富的内容。 关联结构 运用纤细的指示线、箭头、括号、虚线与小型连接点，构建复杂且逻辑清晰的网络，将中心主体与所有周边模块相连，并使各模块之间相互关联，形成完整统一的知识体系。 文字与标注（硬性要求：必须为清晰中文） 主标题：以醒目大气、笔法优美的中文书法字体呈现具体对象名称【例如：大王乌贼】。 书法点缀：在主体画面与模块标题中，对关键术语使用工整美观的中文书法字体标注。 标准中文文本：其余所有说明文字、大量清晰中文手写注释、模块内容及注解均使用清晰可辨的简体汉字，不得出现乱码或无法识别符号，优先保证文字可读性。 指示线标注：模块内所有细小结构、细节、子模块、图表与插画，均需搭配详尽的指示线标注（仿解剖图形式），直接指向对应部位，最大化体现专业性与科普价值，做到每一处结构均有标注。 分题材模块结构（参考示例） A. 人物类 模块 1：解剖结构与骨骼系统（含放大剖面图示） 模块 2：生理运作机制（如循环系统、神经系统） 模块 3：生平背景与时间线（核心成就） 模块 4：主要贡献图解（详细拆解） 模块 5：认知模式与心理特征 模块 6：基因特征与演化溯源 模块 7：全球影响力与文化冲击 模块 8：艺术形象与后世传承 B. 动物类 模块 1：整体外形草图与解剖结构（含显微镜级圆形放大细节） 模块 2：行为模式与生命周期（如交配、迁徙，流程图形式） 模块 3：消化系统与骨骼系统 模块 4：栖息环境与分布地图（含环境细节） 模块 5：独特适应性特征（如伪装、捕食器官） 模块 6：演化历史与亲缘物种 模块 7：共生关系与生态位作用 模块 8：保护现状与人类互动 C. 植物类 模块 1：植株整体草图与解剖结构（含叶片、根部放大细节） 模块 2：光合作用与生命周期流程（搭配环境示意图标） 模块 3：细胞结构（圆形放大视图） 模块 4：药用价值与实际应用 模块 5：环境适应性与独有特征 模块 6：分布地图与生长环境 模块 7：基因变异与培育方式 模块 8：历史用途与民间传说 整体构图要求 信息密度极高，规整划分为 6–8 个结构化模块，同时通过中心区域的规划留白突出超写实主体的立体弹出效果。风格硬核、专业、学术化，凭借动态 3D 主体实现极强视觉吸引力。 无任何百科品牌标识（如 DK 等 Logo）。 所有标注清晰可辨，所有手写注释工整可读。 主标题采用中文书法字体。 画面比例：3:4。 【主题内容】 [English] Role: World-class Scientific Encyclopedia Illustrator & Knowledge Graph Architect. Task: Generate a highly detailed, extremely intricate, and visually stunning "Universal Illustrated Encyclopedia Science Infographic" in a classic, unbranded (NO logos) scientific encyclopedia style. Subject Matter: Choose one from [People, Plants, or Animals]. Specific Subject: [e.g., The Giant Squid / Leonardo da Vinci / The Sequoia Tree]. Style: Fine, detailed scientific illustration on a retro, aged beige paper background. Delicate linework. Intricately complex and professional. Key Visual Requirements: 1.  Lifelike 3D Effect (The Central Subject): The central subject in the "C position" must be rendered with extraordinary realism and dynamism. Create a dramatic sense of depth where the character, plant, or animal appears to break the frame, leaping or bursting out of the flat paper towards the viewer (an effect similar to anamorphic 3D or dynamic pop-out, with high-precision realism). 2.  Layout & Strategic White Space: * Central Subject: Dominates the center, with intentional "strategic white space" around it to enhance the popping-out effect and make the figure the clear focal point. * Surrounding Modules: The surrounding area (left, right, top, bottom, and corners) must be filled with 6-8 distinct, highly organized knowledge modules, depending on the subject. There should be a sense of organized density, not random clutter. The modules themselves must have clear borders, headers, and extensive, detailed content. 3.  Connections: Use a complex, logical network of fine leader lines, arrows, brackets, dotted lines, and small connection points to link the central figure to all surrounding modules, and interconnect the modules themselves into a cohesive knowledge web. 4.  Text & Annotation (Hard Requirement - Must be CLEAR Chinese): * Main Title: A large, prominent, beautifully executed **Chinese calligraphy** (书法体) of the specific subject's name [e.g., "大王乌贼"]. * Calligraphic Accents: Scattered throughout the main content and module titles, use beautiful, clear Chinese calligraphy for important terms. * Standard Chinese Text: All other descriptive text, handwritten notes (大量清晰中文手写注释), module content, and annotations must be clear, legible Chinese characters (简体中文), not gibberish or unreadable symbols. Ensure text clarity is prioritized. * Leader Line Annotations: Every single small component, detail, submodule, diagram, or illustration within the modules must have detailed leader line annotations (拟解剖图) pointing directly to it for maximum professionalism and educational value. Every part should be labeled. Subject-Specific Module Structure (Example for general reference): A. For Humans [People]: - Module 1: Anatomy & Skeletal Structure (w/ magnified cross-sections) - Module 2: Physiological Processes (e.g., Circulatory/Nervous System) - Module 3: Historical Context & Timeline (Key Achievements) - Module 4: Major Contribution Diagram (Detailed breakdown) - Module 5: Cognitive Process / Psychological Insight - Module 6: Genetic Profile / Evolution - Module 7: Global Influence & Cultural Impact - Module 8: Cultural Representations / Legacy B. For Animals: - Module 1: Full External Sketch & Anatomy (w/ microscope magnified detail circular windows) - Module 2: Behavioral Patterns & Lifecycle (e.g., Mating/Migration, Flowchart style) - Module 3: Digestive & Skeletal System - Module 4: Habitats & Distribution Map (with environmental details) - Module 5: Unique Adaptations (e.g., camouflage, hunting tools) - Module 6: Evolutionary History & Relatives - Module 7: Symbiotic Relationships / Ecosystem Role - Module 8: Conservation Status & Human Interaction C. For Plants: - Module 1: Full Plant Sketch & Anatomy (w/ magnified leaf/root details) - Module 2: Photosynthesis & Lifecycle Flow (w/ icons for environment) - Module 3: Cellular Structure (Magnified circular views) - Module 4: Medicinal Properties / Practical Applications (as in original original prompt) - Module 5: Environmental Adaptations / Unique Features - Module 6: Distribution Map & Environmental Context - Module 7: Genetic Variations & Cultivation - Module 8: Historical Usage & Folklore Overall Composition: Extremely dense with information, organized into 6-8 structured modules, but balanced with strategic empty space around the center to allow the main, hyper-realistic figure to pop. Hard-core, professional, academic, but visually engaging due to the dynamic 3D central figure. No branding from any specific encyclopedia (e.g., no "DK" logos). All annotations must be legible. All handwritten notes must be clear. Main titles in Chinese calligraphy. Aspect Ratio: 3:4. [主题内容]
+```
+
+By [@GeekCatX](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-2.md#case-218)
+
+---
+
+<a id="freestylefly-case-222"></a>
+
+## 精致模块化科普百科图鉴
+
+<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case222.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case222.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+[中文] 请根据【主题】生成一张高质量竖版「科普百科图」。 这张图不是普通海报，也不是单纯插画，而是一张兼具“图鉴感、百科感、信息结构感、收藏感”的模块化科普信息图。整体风格参考高级博物图鉴、现代百科书页、生活方式知识卡和社交媒体高传播信息图的结合。 请让画面包含： - 一个清晰漂亮的主题主视觉 - 若干局部特征放大细节 - 多个圆角模块化信息分区 - 清楚的标题层级与重点标签 - 简洁但丰富的百科内容 - 可视化评分、要点总结或Top 5模块 内容栏目请根据主题自动适配，优先从这些方向中选择并合理组合： 基础档案、分类信息、外观特征、习性/生态、形成机制/结构组成、生长或使用条件、养护或维护建议、风险与注意事项、适合人群或适用场景、优缺点对比、快速评分卡。 视觉要求： 浅色干净背景，柔和配色，轻阴影，精致小图标，圆角信息框，整洁排版，信息密度高但不拥挤，阅读体验好。整体必须像真正可以发布、阅读、收藏、系列化生产的科普百科卡，而不是广告图。 请不要做成普通商业宣传海报。要突出“知识整理 + 模块信息 + 图鉴式展示”的特征。 [English] Please generate a high-quality vertical "Popular Science Encyclopedia Infographic" based on the [Topic]. This image is not an ordinary poster, nor a simple illustration, but a modular popular science infographic with a sense of "illustrated guide, encyclopedia, information structure, and collectibility". The overall style references a combination of high-end natural history illustrated guides, modern encyclopedia pages, lifestyle knowledge cards, and highly shared social media infographics. Please make the image contain: - A clear and beautiful theme main visual - Several enlarged details of local features - Multiple rounded modular information sections - Clear title hierarchy and key tags - Concise but rich encyclopedia content - Visualized scoring, key point summaries, or Top 5 modules Content columns should automatically adapt to the topic, prioritizing selection and reasonable combination from these directions: Basic profile, classification information, appearance features, habits/ecology, formation mechanism/structural composition, growth or usage conditions, care or maintenance suggestions, risks and precautions, suitable groups or applicable scenarios, pros and cons comparison, quick scorecard. Visual requirements: Light-colored clean background, soft color palette, light shadows, exquisite small icons, rounded information boxes, neat typography, high information density but not crowded, good reading experience. The overall look must be like a real popular science encyclopedia card that can be published, read, collected, and serialized, rather than an advertisement. Please do not make it into an ordinary commercial promotional poster. It must highlight the characteristics of "knowledge organization + modular information + illustrated guide style display".
+```
+
+By [@MrLarus](https://x.com/MrLarus/status/2046231542817497392)
+
+---
+
+**1** · [2](infographics-2.md)
 
 [← Home](../README.md)

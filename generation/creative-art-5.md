@@ -1,154 +1,10 @@
 # creative art
 
-[← Home](../README.md) · Page 5 / 13
+[← Home](../README.md) · Page 5 / 12
 
-[1](creative-art.md) · [2](creative-art-2.md) · [3](creative-art-3.md) · [4](creative-art-4.md) · **5** · [6](creative-art-6.md) · [7](creative-art-7.md) · [8](creative-art-8.md) · [9](creative-art-9.md) · [10](creative-art-10.md) · [11](creative-art-11.md) · [12](creative-art-12.md) · [13](creative-art-13.md)
+[1](creative-art.md) · [2](creative-art-2.md) · [3](creative-art-3.md) · [4](creative-art-4.md) · **5** · [6](creative-art-6.md) · [7](creative-art-7.md) · [8](creative-art-8.md) · [9](creative-art-9.md) · [10](creative-art-10.md) · [11](creative-art-11.md) · [12](creative-art-12.md)
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
-
-<a id="prompthero-7c6c4e727b6"></a>
-
-## surrealism, central composition, man, gaze, upper-\.\.\.
-
-<a href="https://cdn.prompthero.com/r1qlf3qsj7pduiyuitdrw9ona0-midjourney-shatter-surrealism-central-composition-man-gaze-upper-body-transparent-skin-revealing-man-skull-glowing-with-a-neon-green-bio-luminescent-effect.png"><img src="https://cdn.prompthero.com/r1qlf3qsj7pduiyuitdrw9ona0-midjourney-shatter-surrealism-central-composition-man-gaze-upper-body-transparent-skin-revealing-man-skull-glowing-with-a-neon-green-bio-luminescent-effect.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-surrealism, central composition, man, gaze, upper-body, transparent skin revealing man skull, glowing with a neon green bio-luminescent effect, minimalist style, sharp details of his bones, background is surreal and sci-fi moody with deep fog, lighting is soft with a cool green tone, illuminating the skeletal structure, translucent textures, cinematic lighting, x-ray vision style --ar 9:16 --raw
-```
-
-By [@Grayve](https://prompthero.com/prompt/7c6c4e727b6-midjourney-shatter-surrealism-central-composition-man-gaze-upper-body-transparent-skin-revealing-man-skull-glowing-with-a-neon-green-bio-luminescent-effect)
-
----
-
-<a id="prompthero-7cdbefbaf2f"></a>
-
-## hyper realistic, ultra-resolution photography, fro\.\.\.
-
-<a href="https://cdn.prompthero.com/ief4aywwspq4fj5eu9jqt9xsmmlb-flux-flux-11-pro-hyper-realistic-ultra-resolution-photography-front-shot-vibrant-green-color-transparent-vinyl-material-couch-minimalist-inspired-by-experimental-design-used.jpg"><img src="https://cdn.prompthero.com/ief4aywwspq4fj5eu9jqt9xsmmlb-flux-flux-11-pro-hyper-realistic-ultra-resolution-photography-front-shot-vibrant-green-color-transparent-vinyl-material-couch-minimalist-inspired-by-experimental-design-used.jpg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-hyper realistic, ultra-resolution photography, front shot, vibrant green color transparent vinyl material couch, minimalist, inspired by experimental design, used camera is Canon EOS R5, 24mm f/2.8 wide-angle lens, f/6 aperture, 1/15s shutter speed, ISO 100, tripod mounted, finest image quality, ensuring every detail from the light patterns to the material textures is professionally presented, caustics effect, low-key, solid white background, design award winning, casting natural light with softbox lighting, sharp focus, clear, detailed, cinematic, solid background, glamourous, editorial, editorial shoot, ultra realistic, 32K, rich details --ar 9:16 --quality 2 --style raw --personalize c84qxg1 --stylize 300 --v 6.1
-```
-
-[Source](https://prompthero.com/prompt/7cdbefbaf2f-flux-flux-11-pro-hyper-realistic-ultra-resolution-photography-front-shot-vibrant-green-color-transparent-vinyl-material-couch-minimalist-inspired-by-experimental-design-used)
-
----
-
-<a id="prompthero-8a6acd3f4fd"></a>
-
-## Pastel colors, abstract styles, ethereal photo of \.\.\.
-
-<a href="https://cdn.prompthero.com/44oq4qg114ni4oqgfr5et922zhst-stable-diffusion-xl-base-09-pastel-colors-abstract-styles-ethereal-photo-of-mystical-figures-draped-in-twinkling-lights-in-a-dreamy-swirl-of-colorful-smog.png"><img src="https://cdn.prompthero.com/44oq4qg114ni4oqgfr5et922zhst-stable-diffusion-xl-base-09-pastel-colors-abstract-styles-ethereal-photo-of-mystical-figures-draped-in-twinkling-lights-in-a-dreamy-swirl-of-colorful-smog.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-Pastel colors, abstract styles, ethereal photo of mystical figures draped in twinkling lights in a dreamy swirl of colorful smog, crystals adorning the head. Stillness and elusive beauty, surrealism, color and form, emotional expression, imagination, (ghostly effect:1.4), Official art, masterpiece, perfect anatomy, 32k UHD resolution, best quality, highres, realistic photo, professional photography,cinematic angle, cinematic lights,whole body from far away, cowboy shot, looking at viewer,  <lora:DetailedEyes_V3:1>
-```
-
-[Source](https://prompthero.com/prompt/8a6acd3f4fd-stable-diffusion-xl-base-09-pastel-colors-abstract-styles-ethereal-photo-of-mystical-figures-draped-in-twinkling-lights-in-a-dreamy-swirl-of-colorful-smog)
-
----
-
-<a id="prompthero-8bb5bc46995"></a>
-
-## very beautiful portrait of an extremely cute and a\.\.\.
-
-<a href="https://cdn.prompthero.com/0e617nac3212ybhkayx9pd6262ib-dreamshaper-7-very-beautiful-portrait-of-an-extremely-cute-and-adorable-golden-hamster-who-is-waving-goodbye-while-writing-a-blog-post.png"><img src="https://cdn.prompthero.com/0e617nac3212ybhkayx9pd6262ib-dreamshaper-7-very-beautiful-portrait-of-an-extremely-cute-and-adorable-golden-hamster-who-is-waving-goodbye-while-writing-a-blog-post.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-very beautiful portrait of an extremely cute and adorable golden hamster who is waving goodbye while writing a blog post, smooth, perfect face, fantasy, character design by mark ryden and pixar and hayao miyazaki, sharp focus, concept art, harvest fall vibrancy, intricate detail, cinematic lighting, hyperrealistic, 3 5 mm, diorama macro photography, 8 k, 4 k
-```
-
-[Source](https://prompthero.com/prompt/8bb5bc46995-dreamshaper-7-very-beautiful-portrait-of-an-extremely-cute-and-adorable-golden-hamster-who-is-waving-goodbye-while-writing-a-blog-post)
-
----
-
-<a id="prompthero-8c2266bbe7b"></a>
-
-## A sleek, white humanoid robot with glowing blue ey\.\.\.
-
-<a href="https://cdn.prompthero.com/d0jkd653b2tcdypqr8ejeambq4fa-midjourney-6-a-sleek-white-humanoid-robot-with-glowing-blue-eyes-and-no-mouth-standing-in-front-of-an-illuminated-window-overlooking.png"><img src="https://cdn.prompthero.com/d0jkd653b2tcdypqr8ejeambq4fa-midjourney-6-a-sleek-white-humanoid-robot-with-glowing-blue-eyes-and-no-mouth-standing-in-front-of-an-illuminated-window-overlooking.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-A sleek, white humanoid robot with glowing blue eyes and no mouth, standing in front of an illuminated window overlooking the city at night, dark background with lights from buildings reflecting on raindrops on the glass, cinematic style, the scene has soft lighting that casts gentle shadows across its face, robot is looking out into the distance, adding to the feeling of it being lost or longing for something outside itself --ar 63:128 --stylize 750 --v 6
-```
-
-By [@NorthmoorAI](https://prompthero.com/prompt/8c2266bbe7b-midjourney-6-a-sleek-white-humanoid-robot-with-glowing-blue-eyes-and-no-mouth-standing-in-front-of-an-illuminated-window-overlooking)
-
----
-
-<a id="prompthero-8c2986c5924"></a>
-
-## surreal semi realistic landscape photograph, cool \.\.\.
-
-<a href="https://cdn.prompthero.com/p2pen1oqlgokreo9i5jls2dl8i61-flux-flux-11-pro-ultra-surreal-semi-realistic-landscape-photograph-cool-blue-light-to-dark-gradients-muted-soft-tones-dark-blue-light-blue-midnight-blue.jpg"><img src="https://cdn.prompthero.com/p2pen1oqlgokreo9i5jls2dl8i61-flux-flux-11-pro-ultra-surreal-semi-realistic-landscape-photograph-cool-blue-light-to-dark-gradients-muted-soft-tones-dark-blue-light-blue-midnight-blue.jpg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-surreal semi realistic landscape photograph, cool blue light to dark gradients, muted soft tones, dark blue light blue midnight blue gradient tones just after the sun sets, blue hour twilight, featuring a surreal and ethereal double exposure style. It depicts the profile of a female figure with a serene expression, her skin appearing smooth and luminous.  a large, wispy trailing wave of faint translucent wispy shapes that resembles mares tail cirrus clouds, star filled  filled night sky integrated into the design. The color palette is a blend of blues, light and dark contrasting shades and shadows, and faint wispy diffused muted hues, creating a dark emotionally charged atmosphere. The background is a dark gradient, enhancing the powerful tumultuous quality of the scene. The overall composition is balanced but powerful, with intricate details and a sense of elemental power, cool luminous glow., adding a serene tone to the image. The overall composition is rich in color and detail, creating a soothing and meditative atmosphere.
-```
-
-[Source](https://prompthero.com/prompt/8c2986c5924-flux-flux-11-pro-ultra-surreal-semi-realistic-landscape-photograph-cool-blue-light-to-dark-gradients-muted-soft-tones-dark-blue-light-blue-midnight-blue)
-
----
-
-<a id="prompthero-08ca4a33055"></a>
-
-## cut little fluffy Bunny cub dressed up as sherlock\.\.\.
-
-<a href="https://cdn.prompthero.com/ahnlqc64l91piafok4qt7900ahvs-rev-animated-v122-cut-little-fluffy-bunny-cub-dressed-up-as-sherlock-holmes-blue-eyes-investigating-a-crime-pixar-style-ultra-detailed-old.png"><img src="https://cdn.prompthero.com/ahnlqc64l91piafok4qt7900ahvs-rev-animated-v122-cut-little-fluffy-bunny-cub-dressed-up-as-sherlock-holmes-blue-eyes-investigating-a-crime-pixar-style-ultra-detailed-old.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-cut little fluffy Bunny cub dressed up as sherlock holmes, blue eyes, investigating a crime, pixar-style, ultra detailed, old london background, animated film, realistic lights, cinematic, studio photo, vivid colors, realistic lights, cinematic, sharp focus, photorealistic concept art, perfect composition, soft natural volumetric, cinematic perfect light, rendered in unreal engine, boost
-```
-
-[Source](https://prompthero.com/prompt/08ca4a33055-rev-animated-v122-cut-little-fluffy-bunny-cub-dressed-up-as-sherlock-holmes-blue-eyes-investigating-a-crime-pixar-style-ultra-detailed-old)
-
----
-
-<a id="prompthero-8ce35e00cc7"></a>
-
-## cinematic and photorealistic image of an epic fant\.\.\.
-
-<a href="https://cdn.prompthero.com/5uoejk0y47hy4imypp74vli6kx9m-stable-diffusion-xl-base-09-cinematic-and-photorealistic-image-of-an-epic-fantasy-battle-scene-in-a-vibrant-yet-desaturated-forest-the-scene-features-a.png"><img src="https://cdn.prompthero.com/5uoejk0y47hy4imypp74vli6kx9m-stable-diffusion-xl-base-09-cinematic-and-photorealistic-image-of-an-epic-fantasy-battle-scene-in-a-vibrant-yet-desaturated-forest-the-scene-features-a.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-cinematic and photorealistic image of an epic fantasy battle scene in a vibrant, yet desaturated forest. The scene features a paladin in detailed armor, with a subtly radiant sword and shield. Beside him, depict a wizard with a hooded robe, intricate arcane symbols etched along the fabric, and a staff with a softly glowing orb atop. The wizard's face is shadowed by the hood, adding a touch of mystery. On the other side, a ranger is clad in a detailed leather cloak, with a longbow ready. The three face a massive, three-headed dragon with richly textured scales that have a muted color tone. The lighting in the forest is sharp and clear, with natural, understated colors that highlight the crisp details of the characters and their surroundings. <lora:add-detail-xl:1>
-```
-
-[Source](https://prompthero.com/prompt/8ce35e00cc7-stable-diffusion-xl-base-09-cinematic-and-photorealistic-image-of-an-epic-fantasy-battle-scene-in-a-vibrant-yet-desaturated-forest-the-scene-features-a)
-
----
-
-<a id="prompthero-08dce1b8d2d"></a>
-
-## &quot;An enchanting illustration featuring a young girl\.\.\.
-
-<a href="https://cdn.prompthero.com/7l9vo7vtlqg4mhebl024kwn9a05x-flux-flux-11-pro-an-enchanting-illustration-featuring-a-young-girl-with-delicate-features-and-large-green-eyes-wearing-a-textured-orange-patterned-headscarf.jpg"><img src="https://cdn.prompthero.com/7l9vo7vtlqg4mhebl024kwn9a05x-flux-flux-11-pro-an-enchanting-illustration-featuring-a-young-girl-with-delicate-features-and-large-green-eyes-wearing-a-textured-orange-patterned-headscarf.jpg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-"An enchanting illustration featuring a young girl with delicate features and large green eyes, wearing a textured, orange-patterned headscarf and a matching cloak with cracks resembling aged paint. She rests her chin on her hand in a contemplative pose, gazing thoughtfully at a small, vibrant yellow bird perched on a wooden railing. The background consists of a muted, artistic blue-toned textured wall with abstract, faded shapes resembling an ancient mural. The scene exudes a blend of whimsy, nostalgia, and fantasy, with fine details and a soft painterly quality. The word 'MORGANA written at the top right corner, possibly indicating the source or creator of the artwork.
-```
-
-[Source](https://prompthero.com/prompt/08dce1b8d2d-flux-flux-11-pro-an-enchanting-illustration-featuring-a-young-girl-with-delicate-features-and-large-green-eyes-wearing-a-textured-orange-patterned-headscarf)
-
----
 
 <a id="prompthero-8f3f7e2afc4"></a>
 
@@ -211,22 +67,6 @@ Futuristic soldier with hi-tech armor and weaponry, holograms navigations, stree
 ```
 
 By [@abyishot](https://prompthero.com/prompt/9a405c6454b-midjourney-5-codename-warlord)
-
----
-
-<a id="prompthero-9b1fdaac451"></a>
-
-## surreal style, centered composition, photography, \.\.\.
-
-<a href="https://cdn.prompthero.com/236kjyiharxvuid9ljhkmp7d4jjk-midjourney-7-surreal-style-centered-composition-photography-full-frame-dslr-50mm-lens-f18-aperture-depth-of-field-translucent-humanoid-figure-jelly-like.png"><img src="https://cdn.prompthero.com/236kjyiharxvuid9ljhkmp7d4jjk-midjourney-7-surreal-style-centered-composition-photography-full-frame-dslr-50mm-lens-f18-aperture-depth-of-field-translucent-humanoid-figure-jelly-like.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-surreal style, centered composition, photography, full-frame DSLR, 50mm lens, f/1.8 aperture, depth of field, translucent humanoid figure, jelly-like semi-liquid body with glossy fluid surface, glowing neon bioluminescent hot pink color, abstract ghostly form with melting contours, seated on a modern gray sofa, deep shadows and soft details, cinematic lighting, sharp side pin spotlight casting dramatic rim light on the figure, strong contrast between subject and background, low ambient light, surreal material physics, high-gloss reflections, subject isolated and emphasized in dark environment --ar 9:16 --raw
-```
-
-By [@Grayve](https://prompthero.com/prompt/9b1fdaac451-midjourney-7-surreal-style-centered-composition-photography-full-frame-dslr-50mm-lens-f18-aperture-depth-of-field-translucent-humanoid-figure-jelly-like)
 
 ---
 
@@ -326,6 +166,166 @@ A mesmerizing photograph capturing the ethereal beauty of the Terminator Girl, w
 
 ---
 
-[1](creative-art.md) · [2](creative-art-2.md) · [3](creative-art-3.md) · [4](creative-art-4.md) · **5** · [6](creative-art-6.md) · [7](creative-art-7.md) · [8](creative-art-8.md) · [9](creative-art-9.md) · [10](creative-art-10.md) · [11](creative-art-11.md) · [12](creative-art-12.md) · [13](creative-art-13.md)
+<a id="prompthero-27eeca8f0b7"></a>
+
+## Delicate magical fairy dust in a bottle smoking wi\.\.\.
+
+<a href="https://cdn.prompthero.com/gsct0v27sv345ux0f761pth8u0z9-stable-diffusion-xl-base-09-delicate-magical-fairy-dust-in-a-bottle-smoking-with-cosmic-magical-energy-highly-detailed-painting-deep-color-fantastical-intricate-detail.png"><img src="https://cdn.prompthero.com/gsct0v27sv345ux0f761pth8u0z9-stable-diffusion-xl-base-09-delicate-magical-fairy-dust-in-a-bottle-smoking-with-cosmic-magical-energy-highly-detailed-painting-deep-color-fantastical-intricate-detail.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+Delicate magical fairy dust in a bottle smoking with cosmic magical energy, highly detailed painting, deep color, fantastical, intricate detail, complementary colors, fantasy concept art, trending on Artstation Unreal Engine 5, by artist "anime", Anime Key Visual, Japanese Manga, Pixiv, Zerochan, Anime art, Fantia, Hyperrealistic, splash art, concept art, mid shot, intricately detailed, color depth, dramatic, 2/3 face angle, side light, colorful background, SAI Pixel Art
+```
+
+[Source](https://prompthero.com/prompt/27eeca8f0b7-stable-diffusion-xl-base-09-delicate-magical-fairy-dust-in-a-bottle-smoking-with-cosmic-magical-energy-highly-detailed-painting-deep-color-fantastical-intricate-detail)
+
+---
+
+<a id="prompthero-36d4a0cca0f"></a>
+
+## Cute Baby cat with huge eyes, sad eyes, holding a \.\.\.
+
+<a href="https://cdn.prompthero.com/r829xbnrn7pb9ddyiyvjrcj3pho8-flux-flux-11-pro-cute-baby-cat-with-huge-eyes-sad-eyes-holding-a-flat-lay-mockup-of-a-futuristic-metal-sign-with-text.jpg"><img src="https://cdn.prompthero.com/r829xbnrn7pb9ddyiyvjrcj3pho8-flux-flux-11-pro-cute-baby-cat-with-huge-eyes-sad-eyes-holding-a-flat-lay-mockup-of-a-futuristic-metal-sign-with-text.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+Cute Baby cat with huge eyes, sad eyes, holding a Flat lay mockup of [a futuristic metal sign] (with text "Flux now on Promthero) " , background with [strange geometric shapes and colors, glowing] , flatlay photography style, minimalistic design, professional studio lighting, overhead shot from above, hyper-realistic, chibi animal, detailmaximizer
+```
+
+[Source](https://prompthero.com/prompt/36d4a0cca0f-flux-flux-11-pro-cute-baby-cat-with-huge-eyes-sad-eyes-holding-a-flat-lay-mockup-of-a-futuristic-metal-sign-with-text)
+
+---
+
+<a id="prompthero-40b50c6e772"></a>
+
+## Cinematic vertical 9:16 composition\.A heavily equi\.\.\.
+
+<a href="https://cdn.prompthero.com/x8werhprtt1u05fvy34jsavick-cinematic-vertical-916-compositiona-heavily-equipped-tactical-soldier-stands-in-a-calm-three-quarter-profile-stance-wearing-advanced-combat-gear.png"><img src="https://cdn.prompthero.com/x8werhprtt1u05fvy34jsavick-cinematic-vertical-916-compositiona-heavily-equipped-tactical-soldier-stands-in-a-calm-three-quarter-profile-stance-wearing-advanced-combat-gear.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+Cinematic vertical 9:16 composition.A heavily equipped tactical soldier stands in a calm three-quarter profile stance, wearing advanced combat gear, helmet headset and a skull-pattern mask. He holds a rifle across his chest while the rest of his equipment hangs from a detailed tactical vest.The entire scene is flooded with a dominant radiant golden-yellow energy field acting as the primary emissive light source, saturating the atmosphere and background.Subtle neon plasma currents drift through the glowing haze, introducing secondary colors — amber, molten orange, hints of magenta and faint cyan — blending softly into the dominant golden glow.The intense light spills across the armor plates, fabric folds and weapon surfaces, creating glowing color gradients and strong rim lighting along the silhouette.Soft bloom and glow diffusion allow the radiant colors to bleed into the surrounding atmosphere while luminous particles and sparks drift around the figure.Dark cinematic contrast, ultra-detailed painterly realism, vibrant multi-color emissive lighting with dominant radiant yellow palette.
+```
+
+[Source](https://prompthero.com/prompt/40b50c6e772-cinematic-vertical-916-compositiona-heavily-equipped-tactical-soldier-stands-in-a-calm-three-quarter-profile-stance-wearing-advanced-combat-gear)
+
+---
+
+<a id="prompthero-43ca0c59954"></a>
+
+## A playful cat featured in a 3x3 collage grid, each\.\.\.
+
+<a href="https://cdn.prompthero.com/v1_e77a112393e0f15fa5175bbdae-hero-10-a-playful-cat-featured-in-a-3x3-collage-grid-each-frame-showing-the-cat-in-dynamic-poses-jumping-stretching-paws.jpg"><img src="https://cdn.prompthero.com/v1_e77a112393e0f15fa5175bbdae-hero-10-a-playful-cat-featured-in-a-3x3-collage-grid-each-frame-showing-the-cat-in-dynamic-poses-jumping-stretching-paws.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+A playful cat featured in a 3x3 collage grid, each frame showing the cat in dynamic poses: jumping, stretching paws, looking curious, lying on its back, reaching toward the camera, and making expressive gestures. Background: bright blue sky with scattered white clouds. Add whimsical pastel doodles (hearts, stars, flowers, clouds, paper airplanes) around the cat to enhance the cheerful, youthful vibe. The overall aesthetic should feel energetic, fun, and Instagram‑ready.
+```
+
+[Source](https://prompthero.com/prompt/43ca0c59954-hero-10-a-playful-cat-featured-in-a-3x3-collage-grid-each-frame-showing-the-cat-in-dynamic-poses-jumping-stretching-paws)
+
+---
+
+<a id="prompthero-46c0af6e75f"></a>
+
+## Photo of a ultra realistic missile on rote, bright\.\.\.
+
+<a href="https://cdn.prompthero.com/hi8eo7xufzv4dl3gwhezow8dj5q0-epicrealism-pure-evolution-v3-photo-of-a-ultra-realistic-missile-on-rote-bright-light-cinematic-lighting-battered-low-angle-trending-on-artstation-8k-ultra.png"><img src="https://cdn.prompthero.com/hi8eo7xufzv4dl3gwhezow8dj5q0-epicrealism-pure-evolution-v3-photo-of-a-ultra-realistic-missile-on-rote-bright-light-cinematic-lighting-battered-low-angle-trending-on-artstation-8k-ultra.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+Photo of a ultra realistic missile on rote, bright light, cinematic lighting, battered, low angle, trending on artstation, 8k ultra HD, hyper realistic, focused, extreme details, unreal engine 5, cinematic, masterpiece, art by studio ghibli, intricate artwork by john william turner
+```
+
+[Source](https://prompthero.com/prompt/46c0af6e75f-epicrealism-pure-evolution-v3-photo-of-a-ultra-realistic-missile-on-rote-bright-light-cinematic-lighting-battered-low-angle-trending-on-artstation-8k-ultra)
+
+---
+
+<a id="prompthero-49df909fb6f"></a>
+
+## A wicked alien with neon glowing eyes in a corner \.\.\.
+
+<a href="https://cdn.prompthero.com/v315y7kc3pzk4oyybswygzjs5qvo-midjourney-52-a-wicked-alien-with-neon-glowing-eyes-in-a-corner-of-a-room-roaring-gnarling-mouth-salivating-sharp-fangs-with.png"><img src="https://cdn.prompthero.com/v315y7kc3pzk4oyybswygzjs5qvo-midjourney-52-a-wicked-alien-with-neon-glowing-eyes-in-a-corner-of-a-room-roaring-gnarling-mouth-salivating-sharp-fangs-with.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+A wicked alien with neon glowing eyes in a corner of a room, roaring, gnarling, mouth salivating, sharp fangs, with a hellishly evil soul, translucent, haunting, creepy, horror, dark, intricate design and details, dramatic lighting, photorealistic, cinematic, 8k,   –upbeta, epic, hyper realistic, unreal engine 5.2, 8k quality
+```
+
+[Source](https://prompthero.com/prompt/49df909fb6f-midjourney-52-a-wicked-alien-with-neon-glowing-eyes-in-a-corner-of-a-room-roaring-gnarling-mouth-salivating-sharp-fangs-with)
+
+---
+
+<a id="prompthero-50b8d2d2b05"></a>
+
+## A surreal, apocalyptic war scene featuring a massi\.\.\.
+
+<a href="https://cdn.prompthero.com/3oykxy7un97c5wqlb9qui3nk85v4-flux-flux-11-pro-a-surreal-apocalyptic-war-scene-featuring-a-massive-tree-shaped-like-human-kedney-at-the-center-its-branches-resembling-intricate.jpg"><img src="https://cdn.prompthero.com/3oykxy7un97c5wqlb9qui3nk85v4-flux-flux-11-pro-a-surreal-apocalyptic-war-scene-featuring-a-massive-tree-shaped-like-human-kedney-at-the-center-its-branches-resembling-intricate.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+A surreal, apocalyptic war scene featuring a massive tree shaped like human kedney at the center, its branches resembling intricate alveoli patterns glowing faintly with fiery cracks. The tree symbolizes life and vulnerability, standing amidst chaos as it faces an intense attack. Fiery fireballs streak through the darkened, smoke-filled sky, leaving glowing trails of embers and ash. Several fireballs are mid-flight, while others have struck the ground, creating massive explosions with flying debris, smoke, and flames engulfing the surrounding area. The lake below, once calm and reflective, now ripples violently, with parts evaporating into mist due to the heat and explosions. The landscape is war-torn, with scorched and blackened hills in the background, smoke rising ominously, and impact craters surrounding the tree. The sky is a chaotic blend of dark gray clouds, vibrant fiery reds, and faint orange tones from the remnants of a setting sun, struggling to pierce through the destruction. Bright flashes from the fireballs and explosions cast harsh shadows and illuminate the battlefield with an intense, cinematic glow. The scene evokes a feeling of a desperate battle, like a climactic war moment from an epic movie, with chaos, destruction, and the fragile symbol of life at the heart of the conflict. The style is hyper-realistic and cinematic, capturing dynamic movement, vivid colors, and intricate details of fire, smoke, and the shattered environment.
+```
+
+[Source](https://prompthero.com/prompt/50b8d2d2b05-flux-flux-11-pro-a-surreal-apocalyptic-war-scene-featuring-a-massive-tree-shaped-like-human-kedney-at-the-center-its-branches-resembling-intricate)
+
+---
+
+<a id="prompthero-52f35f555e5"></a>
+
+## masterpiece, high quality, best quality, Teriyaki \.\.\.
+
+<a href="https://cdn.prompthero.com/c08xjy8df2rokcxqaiy58nije1ti-stable-diffusion-15-masterpiece-high-quality-best-quality-teriyaki-chicken-noodle-soup-deep-plate-foodphoto-lorafoodphoto08-exquisite-beauty-masterpiece-top-quality-best-quality.jpeg"><img src="https://cdn.prompthero.com/c08xjy8df2rokcxqaiy58nije1ti-stable-diffusion-15-masterpiece-high-quality-best-quality-teriyaki-chicken-noodle-soup-deep-plate-foodphoto-lorafoodphoto08-exquisite-beauty-masterpiece-top-quality-best-quality.jpeg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+masterpiece, high quality, best quality, Teriyaki Chicken Noodle Soup, deep plate, foodphoto, <lora:foodphoto:0.8>, exquisite beauty, (masterpiece, top quality, best quality, official art, beautiful and aesthetic:1. 2), (8k, best quality, masterpiece:1. 2), high definition, close-up, bokeh, incredibly absurdres, Cinematic Lighting
+```
+
+[Source](https://prompthero.com/prompt/52f35f555e5-stable-diffusion-15-masterpiece-high-quality-best-quality-teriyaki-chicken-noodle-soup-deep-plate-foodphoto-lorafoodphoto08-exquisite-beauty-masterpiece-top-quality-best-quality)
+
+---
+
+<a id="prompthero-57b21b711c5"></a>
+
+## High contrast artwork, brutalism, fierce woman in \.\.\.
+
+<a href="https://cdn.prompthero.com/rcx3bjuwpvsgddqms7d2io6gab3u-flux-flux1-dev-high-contrast-artwork-brutalism-fierce-woman-in-post-apocalyptic-world-dystopian-cityscape-gritty-dirty-crimson-sunset-cinematic-full-body-shot.jpg"><img src="https://cdn.prompthero.com/rcx3bjuwpvsgddqms7d2io6gab3u-flux-flux1-dev-high-contrast-artwork-brutalism-fierce-woman-in-post-apocalyptic-world-dystopian-cityscape-gritty-dirty-crimson-sunset-cinematic-full-body-shot.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+High contrast artwork, brutalism, fierce woman in post-apocalyptic world. Dystopian cityscape, gritty, dirty, crimson sunset, cinematic . full body shot, dynamic , dramatic lighting, comic-style, fiction , front page cover, pulp novel art, weathered & faded, style of Charles Coll & Frank Frazetta style.
+```
+
+[Source](https://prompthero.com/prompt/57b21b711c5-flux-flux1-dev-high-contrast-artwork-brutalism-fierce-woman-in-post-apocalyptic-world-dystopian-cityscape-gritty-dirty-crimson-sunset-cinematic-full-body-shot)
+
+---
+
+<a id="prompthero-60afbe2c221"></a>
+
+## Unlock your infinite possibilities
+
+<a href="https://cdn.prompthero.com/jpw7puqbaoezij3of0djvfy73nrn-midjourney-6-unlock-your-infinite-possibilities.png"><img src="https://cdn.prompthero.com/jpw7puqbaoezij3of0djvfy73nrn-midjourney-6-unlock-your-infinite-possibilities.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+A cat stands in the center of an epic, futuristic forest with many flying machines hanging from floating mounds above their heads. The sky is filled with yellowish clouds and raindrops fall on them as they gaze at these strange floating vehicles. A black backpack hangs around his neck, back view, ultrawide, movie still
+```
+
+[Source](https://prompthero.com/prompt/60afbe2c221-midjourney-6-unlock-your-infinite-possibilities)
+
+---
+
+[1](creative-art.md) · [2](creative-art-2.md) · [3](creative-art-3.md) · [4](creative-art-4.md) · **5** · [6](creative-art-6.md) · [7](creative-art-7.md) · [8](creative-art-8.md) · [9](creative-art-9.md) · [10](creative-art-10.md) · [11](creative-art-11.md) · [12](creative-art-12.md)
 
 [← Home](../README.md)

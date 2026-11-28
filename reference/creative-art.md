@@ -262,22 +262,6 @@ By [@amynys](https://x.com/amynys/status/2051287229532639677)
 
 ---
 
-<a id="freestylefly-case-516"></a>
-
-## 工业橡胶管品牌造型渲染
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case516.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case516.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Create an ultra-detailed hyper-realistic 3D render of {Object} , formed from thick industrial rubber tubing bent into the exact shape of the design, flexible yet dense structure, smooth rounded contours, subtle matte finish, realistic elastomer texture, faint molded seam lines, soft tension at each curve, authentic material compression and stretch behavior, slightly grippy surface quality, engineered object realism, colored using the authentic official brand color palette of [brand], faithful brand-matching hues applied across the tubing, accurate color blocking that follows the original logo design, premium studio product photography aesthetic, isolated on a pure white seamless background, soft diffused studio lighting, realistic contact shadow, macro detail, razor-sharp focus, photorealistic, 8k, 16:9, no watermark, no extra text.
-```
-
-By [@Just\_sharon7](https://x.com/Just_sharon7/status/2077034244988150062)
-
----
-
 <a id="prompthero-2eefe1b7a90"></a>
 
 ## Commerce Unleashed: Geronimo\!

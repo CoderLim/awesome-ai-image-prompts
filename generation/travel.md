@@ -102,22 +102,6 @@ By [@KrishnaBio1](https://x.com/KrishnaBio1/status/2101465897814962381)
 
 ---
 
-<a id="freestylefly-case-11"></a>
-
-## 一张手绘风格的城市美食地图，以台州为主题
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case11.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case11.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-一张手绘风格的城市美食地图，以台州为主题。画面以鸟瞰视角的手绘简化城市地图为底，标注椒江、路桥、黄岩等区域和灵江、台州湾等水系地标，不追求精确比例而是追求可爱的水彩手绘感。地图上分布着12个美食地点的精致手绘小插画：1. 椒江老粮坊的蛋清羊尾（金黄蓬松的蛋泡甜点撒着糖粉，筷子夹起拉丝）2. 临海紫阳古街的食饼筒（一个饱满的麦饼卷切开露出肉丝、蛋皮、米面等丰富馅料）3. 三门的青蟹（一只肥硕的青壳大蟹张着大钳子，旁边一小碟姜醋）4. 温岭石塘渔港的海鲜面（粗瓷大碗浓白鱼汤面铺满虾、蛏子、小黄鱼）5. 路桥的糟羹（一锅稠厚的五彩羹，芥菜、冬笋、香干、牡蛎粒粒可见）6. 玉环坎门的炊圆（三四个白胖糯米团子卧在笼屉里，旁边酱油碟滴着麻油）7. 黄岩的麦虾（陶锅里面疙瘩配蛤蜊、青菜翻滚冒泡）8. 仙居的八大碗（八只粗陶小碗围成一圈——土鸡、溪鱼、豆腐皮俱全）9. 天台的饺饼筒（几卷金黄酥脆的薄饼整齐码放，露出红烧肉和豆面馅）10. 临海的麦油脂（竹盘上摊着薄如蝉翼的饼皮卷着肉末、豆芽、鸡蛋丝）11. 温岭的嵌糕（厚实的年糕饼中间嵌着红烧肉和油条，正在铁板上滋滋作响）12. 椒江的姜汁调蛋（一只青花碗里琥珀色姜汤卧着嫩滑蛋花，撒几粒核桃碎）。每个插画约占地图5%面积，旁边用手写体标注店名和一句推荐语如“阿婆凌晨四点就起来和面”“本地人认准这口锅”。地图边缘用手绘藤蔓、杨梅枝和小海鲜（虾、蟹、贝壳）装饰形成边框。右下角有一个手绘指南针（标注“东海”方向）和图例说明。左上角标题“台州·山海食光地图”使用胖圆的手绘美术字，用杨梅和小黄鱼点缀装饰。整体画风为水彩+彩铅混合的手绘质感，颜色以杨梅红、姜黄、海蓝、翠绿为主，图片比例1:1。
-```
-
-By [小红书号510244722](https://github.com/freestylefly/awesome-gpt-image-2/blob/0999cbfa1f860086db384602ee5ee5485671cb58/docs/gallery-part-1.md#case-11)
-
----
-
 <a id="freestylefly-case-229"></a>
 
 ## 琉璃透明画眉鸟飞舞羊城墨卷
@@ -214,22 +198,6 @@ By [苍何原创实测（公众号文章《我逆向了 329 条 GPT-Image2 提�
 
 ---
 
-<a id="freestylefly-case-369"></a>
-
-## 明洞旅游区域地图
-
-<a href="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case369.jpg"><img src="https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/0999cbfa1f860086db384602ee5ee5485671cb58/data/images/case369.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-[エリア]の観光エリアマップを画像で作成して
-```
-
-By [@so\_ainsight](https://x.com/so_ainsight/status/2050354639036654048)
-
----
-
 <a id="freestylefly-case-489"></a>
 
 ## 城市地图微缩旅行海报
@@ -323,6 +291,38 @@ dynamic, high-speed action, encapsulated in a warm, vibrant sunset backdrop, a t
 ```
 
 By [@Grayve](https://prompthero.com/prompt/0df6a38be62-midjourney-6-wwwgraytheorystudiocom-admingraytheorystudiocom-httpssoundcloudcomsolid-breaks-recordsak47-jumping-original-mixutmsourcemobiutmcampaignsocialsharing-dynamic-high-speed-action-encapsulated-in-a-warm-vibrant-sunset-backdrop-a-tight-crop-focusing-on-the-airborne-skateboard-and)
+
+---
+
+<a id="prompthero-0e300d1c33b"></a>
+
+## scenic view landscape cyberpunk city of highly det\.\.\.
+
+<a href="https://cdn.prompthero.com/729cw0maqgzi96o6vs68g2itft3c-stable-diffusion-21-768-scenic-view-landscape-cyberpunk-city-of-highly-detailed-water-color-pastel-mix-ultra-realistic-robotic-dog-hyperdetailed-full-body-visible.jpg"><img src="https://cdn.prompthero.com/729cw0maqgzi96o6vs68g2itft3c-stable-diffusion-21-768-scenic-view-landscape-cyberpunk-city-of-highly-detailed-water-color-pastel-mix-ultra-realistic-robotic-dog-hyperdetailed-full-body-visible.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+scenic view landscape cyberpunk city of highly detailed water color pastel mix ultra realistic, robotic dog, hyperdetailed full body visible, looking from below
+```
+
+[Source](https://prompthero.com/prompt/0e300d1c33b-stable-diffusion-21-768-scenic-view-landscape-cyberpunk-city-of-highly-detailed-water-color-pastel-mix-ultra-realistic-robotic-dog-hyperdetailed-full-body-visible)
+
+---
+
+<a id="prompthero-1b9ce410a6c"></a>
+
+## cinematic seascape, warm color grading, long-lens \.\.\.
+
+<a href="https://cdn.prompthero.com/m4n05u4o7cwbdqsrponsny9ctiqw-midjourney-7-cinematic-seascape-warm-color-grading-long-lens-compression-straight-horizon-large-sun-near-upper-third-low-vantage-from-wet-sand.png"><img src="https://cdn.prompthero.com/m4n05u4o7cwbdqsrponsny9ctiqw-midjourney-7-cinematic-seascape-warm-color-grading-long-lens-compression-straight-horizon-large-sun-near-upper-third-low-vantage-from-wet-sand.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+cinematic seascape, warm color grading, long-lens compression, straight horizon, large sun near upper third, low vantage from wet sand, gentle shoreline leading lines, full-frame mirrorless, 200-300mm telephoto lens, f/4, 1/800s, ISO100, single-point AF on subject, slight background motion blur on waves, woman seated on a folding beach chair, side-profile silhouette, windswept hair in sea breeze, relaxed posture, subtle rim light on edges, ocean shore with breaking surf and reflective wet sand, sun color bleeding on wet sand, intense orange-red golden-hour backlight, soft atmospheric haze, crisp horizon, delicate water-droplet bokeh, vermilion-to-amber sky gradient --ar 9:16 --raw --stylize 200
+```
+
+By [@Grayve](https://prompthero.com/prompt/1b9ce410a6c-midjourney-7-cinematic-seascape-warm-color-grading-long-lens-compression-straight-horizon-large-sun-near-upper-third-low-vantage-from-wet-sand)
 
 ---
 
