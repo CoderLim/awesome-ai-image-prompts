@@ -75,6 +75,15 @@ test('AWENIAI reviewed collector export preserves approved provisional classific
  assert.deepEqual(classifyContent(r),{type:'generation',category:'posters',inputMode:'reference-to-image',confidence:'medium',reason:'reviewed-collector-export'});
 });
 
+test('owner-supplied manual import preserves approved provisional classification',()=>{
+ const r=make('manual-beijing-whimsical-travel-illustration','Create an exceptionally charming, whimsical travel illustration featuring BeiJing, China.');
+ r.type='generation';r.category='travel';r.inputMode='text-to-image';
+ r.provenance.collectedFrom=[{sourceId:'manual',mode:'manual-owner-supplied',url:'https://github.com/CoderLim/awesome-ai-image-prompts'}];
+ r.sourceMeta={review:{qualityStatus:'recommended',classificationConfidence:'high'}};
+ assert.deepEqual(classifyContent(r),{type:'generation',category:'travel',inputMode:'text-to-image',confidence:'high',reason:'reviewed-owner-supplied'});
+ assert.equal(reviewStatus(govern([r]).rows[0]),'approved');
+});
+
 test('manual exclusion withholds the entire duplicate component from canonical gallery',()=>{
  const a=make('a','Create a cinematic portrait'),b=make('b','Create a cinematic portrait');
  const result=govern([a,b],[{id:'a',keys:['id:a']}]);

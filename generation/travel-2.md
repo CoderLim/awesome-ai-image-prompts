@@ -6,6 +6,22 @@
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
+<a id="prompthero-0e300d1c33b"></a>
+
+## scenic view landscape cyberpunk city of highly det\.\.\.
+
+<a href="https://cdn.prompthero.com/729cw0maqgzi96o6vs68g2itft3c-stable-diffusion-21-768-scenic-view-landscape-cyberpunk-city-of-highly-detailed-water-color-pastel-mix-ultra-realistic-robotic-dog-hyperdetailed-full-body-visible.jpg"><img src="https://cdn.prompthero.com/729cw0maqgzi96o6vs68g2itft3c-stable-diffusion-21-768-scenic-view-landscape-cyberpunk-city-of-highly-detailed-water-color-pastel-mix-ultra-realistic-robotic-dog-hyperdetailed-full-body-visible.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+scenic view landscape cyberpunk city of highly detailed water color pastel mix ultra realistic, robotic dog, hyperdetailed full body visible, looking from below
+```
+
+[Source](https://prompthero.com/prompt/0e300d1c33b-stable-diffusion-21-768-scenic-view-landscape-cyberpunk-city-of-highly-detailed-water-color-pastel-mix-ultra-realistic-robotic-dog-hyperdetailed-full-body-visible)
+
+---
+
 <a id="prompthero-1b9ce410a6c"></a>
 
 ## cinematic seascape, warm color grading, long-lens \.\.\.
@@ -307,22 +323,6 @@ stunning fiminine body, commercial image, Gal Gadot | holographic photography sh
 ```
 
 [Source](https://prompthero.com/prompt/028882f3235-midjourney-5-stunning-fiminine-body-commercial-image-gal-gadot-holographic-photography-shoots-in-the-style-of-vanessa-kirby-daz3d-street-pop-luminous)
-
----
-
-<a id="prompthero-79812e8afe4"></a>
-
-## Black and white street photography of an attractiv\.\.\.
-
-<a href="https://cdn.prompthero.com/u1ped2ze935n93hm71qfm5x8l8lw-midjourney-6-black-and-white-street-photography-of-an-attractive-woman-on-the-streets-of-london-shot-by-arriflex-35-bl-camera.png"><img src="https://cdn.prompthero.com/u1ped2ze935n93hm71qfm5x8l8lw-midjourney-6-black-and-white-street-photography-of-an-attractive-woman-on-the-streets-of-london-shot-by-arriflex-35-bl-camera.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-Black and white street photography of an attractive woman on the streets of London, shot by arriflex 35 BL Camera Canon K35 Prime Lenses --chaos 75 --ar 1:2 --personalize yruxpc2 --stylize 750 --v 6.1
-```
-
-By [@NorthmoorAI](https://prompthero.com/prompt/79812e8afe4-midjourney-6-black-and-white-street-photography-of-an-attractive-woman-on-the-streets-of-london-shot-by-arriflex-35-bl-camera)
 
 ---
 

@@ -68,5 +68,14 @@
     "snapshotSha256s": [
       "8f04638b7ce87c54954e75b089b02743850269bd5c9bc545039d4e8024cf4a84"
     ]
+  },
+  {
+    "id": "manual",
+    "repository": "CoderLim/awesome-ai-image-prompts",
+    "ref": "main",
+    "mode": "manual-owner-supplied",
+    "url": "https://github.com/CoderLim/awesome-ai-image-prompts",
+    "license": "Owner-supplied; prompt original author not independently established",
+    "mediaPath": "data/media/manual"
   }
 ]

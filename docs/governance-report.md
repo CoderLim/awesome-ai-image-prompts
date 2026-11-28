@@ -2,10 +2,10 @@
 
 Generated from source JSON. Classification is heuristic and provisional; completeness is not aesthetic quality. Public display depends only on content review status (`approved` / `pending` / `rejected`). Source-license clearance is not a publication gate; manual image review is optional quality/featured curation.
 
-- Source cases: 2167
-- Unique cases: 2105
-- Canonical cases: 1928
-- Approved / published: 1927
+- Source cases: 2168
+- Unique cases: 2106
+- Canonical cases: 1929
+- Approved / published: 1928
 - Pending review: 1
 - Rejected / withheld: 239
 - Duplicate records excluded: 62 (45 previously visible)
@@ -14,7 +14,7 @@ Generated from source JSON. Classification is heuristic and provisional; complet
 ## Gallery groups (approved)
 
 - reference: 228
-- generation: 1699
+- generation: 1700
 
 ## Internal operation classification
 
@@ -39,13 +39,13 @@ Generated from source JSON. Classification is heuristic and provisional; complet
 | generation/portraits | 734 |
 | generation/posters | 165 |
 | generation/products | 49 |
-| generation/travel | 62 |
+| generation/travel | 63 |
 | generation/ui-mockups | 29 |
 
 ## Input modes (approved)
 
 - reference-to-image: 191
-- text-to-image: 1499
+- text-to-image: 1500
 - unknown: 200
 - image-editing: 37
 
@@ -62,7 +62,7 @@ Generated from source JSON. Classification is heuristic and provisional; complet
 - missing-image-url: 3
 - missing-original-post-url: 180
 - missing-original-prompt: 2
-- rights-review: 2155
+- rights-review: 2156
 
 ## Withheld cases
 

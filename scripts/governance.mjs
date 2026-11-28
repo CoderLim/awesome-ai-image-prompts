@@ -46,6 +46,7 @@ export function classifyContent(r){
  let type='generation',category='other',mode='unknown',confidence='medium',reason='prompt-category';
  if(r.provenance.collectedFrom[0].sourceId==='prompthero'&&r.sourceMeta?.review?.qualityStatus==='recommended'&&!missing){const confidence=r.sourceMeta.review.classificationConfidence;return {type:r.type,category:r.category,inputMode:r.inputMode,confidence:['high','medium','low'].includes(confidence)?confidence:'low',reason:'reviewed-collector-export'};}
  if((isXCollector(r)||r.provenance.collectedFrom[0].sourceId==='aweniai')&&r.sourceMeta?.review?.qualityStatus==='recommended'&&!missing){const confidence=r.sourceMeta.review.classificationConfidence;return {type:r.type,category:r.category,inputMode:r.inputMode,confidence:['high','medium','low'].includes(confidence)?confidence:'low',reason:'reviewed-collector-export'};}
+ if(r.provenance.collectedFrom[0].sourceId==='manual'&&r.sourceMeta?.review?.qualityStatus==='recommended'&&!missing){const confidence=r.sourceMeta.review.classificationConfidence;return {type:r.type,category:r.category,inputMode:r.inputMode,confidence:['high','medium','low'].includes(confidence)?confidence:'low',reason:'reviewed-owner-supplied'};}
  if(r.provenance.collectedFrom[0].sourceId==='vcl'&&r.inputMode==='text-to-image')return {type:'generation',category:r.category,inputMode:'text-to-image',confidence:'high',reason:'reviewed-source-recipe'};
  if(missing)return {type:'unclassified',category:'other',inputMode:'unknown',confidence:'low',reason:'prompt-unavailable'};
  const overrides={

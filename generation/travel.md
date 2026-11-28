@@ -278,6 +278,22 @@ By [@Naiknelofar788](https://x.com/Naiknelofar788/status/2093679919473840378)
 
 ---
 
+<a id="manual-beijing-whimsical-travel-illustration"></a>
+
+## Whimsical Beijing Travel Illustration
+
+<a href="https://raw.githubusercontent.com/CoderLim/awesome-ai-image-prompts/main/data/media/manual/beijing-whimsical-travel-illustration.png"><img src="https://raw.githubusercontent.com/CoderLim/awesome-ai-image-prompts/main/data/media/manual/beijing-whimsical-travel-illustration.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+Create an exceptionally charming, whimsical travel illustration featuring BeiJing, China, in a playful hand-drawn editorial illustration style. 1. CENTRAL COMPOSITION Create a large, irregular circular or organic-shaped illustrated window in the centre of the canvas. Inside this window, bring together the destination’s most iconic landmarks, architecture, transportation and cultural identity in one beautiful miniature travel scene. The composition should feel like a little illustrated world full of stories and discoveries. 2. ICONIC LANDMARKS Feature 1–3 recognisable landmarks of the destination. Preserve their authentic architectural silhouettes and distinctive details while simplifying them into charming hand-drawn illustrations. 3. LOCAL CULTURAL ELEMENTS Include 2–4 colourful objects representing everyday life and local culture, such as: Traditional food and drinks. Local transportation, buses, trains, bicycles or boats. Traditional clothing or cultural objects. Famous local street-life elements. Small symbols associated with the destination. Arrange these objects naturally in the foreground and around the landmarks. 4. ARTISTIC STYLE Whimsical hand-drawn digital illustration, soft cartoon-inspired architecture, delicate ink outlines, playful proportions, simplified shapes and subtle hand-painted details. Combine flat colours with gentle shading and light textured brushwork. 5. BACKGROUND & DECORATION Use a warm cream or pale pastel background with a subtle speckled paper texture. Surround the central illustration with an imperfect, flowing brushstroke border in a destination-inspired accent colour. Add tiny decorative marks, soft clouds, little birds and organic shapes to create a playful atmosphere. 6. COLOUR PALETTE Choose a unique harmonious palette inspired by the destination. Use cheerful yet sophisticated colours, with warm earthy shades, soft pastels and a few vibrant accents. Never repeat the same colour combination across different destinations. 7. TYPOGRAPHY Add the city name elegantly, either above or below the illustration. Use charming handwritten or playful editorial typography. Include the country name in smaller lettering. 8. FINAL ART DIRECTION A fusion of illustrated travel journal, whimsical children’s atlas, modern editorial artwork and vintage postcard aesthetics. Square 1:1 composition, beautifully balanced, charming, colourful, detailed but not overcrowded. Make every destination visually unique and instantly recognisable. No photorealism, no 3D effects, no generic landmarks, no watermarks.
+```
+
+By [Owner-supplied](https://github.com/CoderLim/awesome-ai-image-prompts/blob/main/data/media/manual/beijing-whimsical-travel-illustration.png)
+
+---
+
 <a id="prompthero-0acd2996dd5"></a>
 
 ## Create a whimsical illustration depicting Albi, th\.\.\.
@@ -307,22 +323,6 @@ dynamic, high-speed action, encapsulated in a warm, vibrant sunset backdrop, a t
 ```
 
 By [@Grayve](https://prompthero.com/prompt/0df6a38be62-midjourney-6-wwwgraytheorystudiocom-admingraytheorystudiocom-httpssoundcloudcomsolid-breaks-recordsak47-jumping-original-mixutmsourcemobiutmcampaignsocialsharing-dynamic-high-speed-action-encapsulated-in-a-warm-vibrant-sunset-backdrop-a-tight-crop-focusing-on-the-airborne-skateboard-and)
-
----
-
-<a id="prompthero-0e300d1c33b"></a>
-
-## scenic view landscape cyberpunk city of highly det\.\.\.
-
-<a href="https://cdn.prompthero.com/729cw0maqgzi96o6vs68g2itft3c-stable-diffusion-21-768-scenic-view-landscape-cyberpunk-city-of-highly-detailed-water-color-pastel-mix-ultra-realistic-robotic-dog-hyperdetailed-full-body-visible.jpg"><img src="https://cdn.prompthero.com/729cw0maqgzi96o6vs68g2itft3c-stable-diffusion-21-768-scenic-view-landscape-cyberpunk-city-of-highly-detailed-water-color-pastel-mix-ultra-realistic-robotic-dog-hyperdetailed-full-body-visible.jpg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-scenic view landscape cyberpunk city of highly detailed water color pastel mix ultra realistic, robotic dog, hyperdetailed full body visible, looking from below
-```
-
-[Source](https://prompthero.com/prompt/0e300d1c33b-stable-diffusion-21-768-scenic-view-landscape-cyberpunk-city-of-highly-detailed-water-color-pastel-mix-ultra-realistic-robotic-dog-hyperdetailed-full-body-visible)
 
 ---
 

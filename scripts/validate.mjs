@@ -36,6 +36,12 @@ for(const f of fs.readdirSync('data/index').filter(x=>x.endsWith('.json')))for(c
       assert.equal(s.url,r.provenance.originalSource.url);
       validateXRecord(r,sources.get(s.sourceId));
       assert((r.rights.prompt==='unknown'&&r.rights.media==='unknown')||hasXPermission(r),'Invalid X rights evidence: '+r.id);
+    }else if(s.mode==='manual-owner-supplied'){
+      assert.equal(sources.get(s.sourceId)?.mode,'manual-owner-supplied');
+      assert.match(s.snapshotSha256,/^[a-f0-9]{64}$/);
+      assert(s.url.startsWith('https://github.com/'));
+      assert.equal(r.rights.prompt,'unknown');
+      assert.equal(r.rights.media,'unknown');
     }else{
       assert.match(s.commitSha,/^[a-f0-9]{40}$/);
       assert(s.url.startsWith('https://github.com/'));

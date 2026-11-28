@@ -1,0 +1,77 @@
+[
+  {
+    "id": "manual-beijing-whimsical-travel-illustration",
+    "title": {
+      "en": "Whimsical Beijing Travel Illustration",
+      "zh": "北京手绘旅行插画"
+    },
+    "type": "generation",
+    "category": "travel",
+    "inputMode": "text-to-image",
+    "status": "index-only",
+    "prompt": {
+      "original": "Create an exceptionally charming, whimsical travel illustration featuring BeiJing, China, in a playful hand-drawn editorial illustration style.\n\n1. CENTRAL COMPOSITION\n\nCreate a large, irregular circular or organic-shaped illustrated window in the centre of the canvas.\n\nInside this window, bring together the destination’s most iconic landmarks, architecture, transportation and cultural identity in one beautiful miniature travel scene.\n\nThe composition should feel like a little illustrated world full of stories and discoveries.\n\n2. ICONIC LANDMARKS\n\nFeature 1–3 recognisable landmarks of the destination.\n\nPreserve their authentic architectural silhouettes and distinctive details while simplifying them into charming hand-drawn illustrations.\n\n3. LOCAL CULTURAL ELEMENTS\n\nInclude 2–4 colourful objects representing everyday life and local culture, such as:\n\nTraditional food and drinks.\nLocal transportation, buses, trains, bicycles or boats.\nTraditional clothing or cultural objects.\nFamous local street-life elements.\nSmall symbols associated with the destination.\n\nArrange these objects naturally in the foreground and around the landmarks.\n\n4. ARTISTIC STYLE\n\nWhimsical hand-drawn digital illustration, soft cartoon-inspired architecture, delicate ink outlines, playful proportions, simplified shapes and subtle hand-painted details.\n\nCombine flat colours with gentle shading and light textured brushwork.\n\n5. BACKGROUND & DECORATION\n\nUse a warm cream or pale pastel background with a subtle speckled paper texture.\n\nSurround the central illustration with an imperfect, flowing brushstroke border in a destination-inspired accent colour.\n\nAdd tiny decorative marks, soft clouds, little birds and organic shapes to create a playful atmosphere.\n\n6. COLOUR PALETTE\n\nChoose a unique harmonious palette inspired by the destination.\n\nUse cheerful yet sophisticated colours, with warm earthy shades, soft pastels and a few vibrant accents.\n\nNever repeat the same colour combination across different destinations.\n\n7. TYPOGRAPHY\n\nAdd the city name elegantly, either above or below the illustration.\n\nUse charming handwritten or playful editorial typography.\n\nInclude the country name in smaller lettering.\n\n8. FINAL ART DIRECTION\n\nA fusion of illustrated travel journal, whimsical children’s atlas, modern editorial artwork and vintage postcard aesthetics.\n\nSquare 1:1 composition, beautifully balanced, charming, colourful, detailed but not overcrowded.\n\nMake every destination visually unique and instantly recognisable.\n\nNo photorealism, no 3D effects, no generic landmarks, no watermarks."
+    },
+    "media": [],
+    "models": [
+      "ChatGPT Image"
+    ],
+    "sourcePreview": {
+      "images": [
+        {
+          "url": "https://raw.githubusercontent.com/CoderLim/awesome-ai-image-prompts/main/data/media/manual/beijing-whimsical-travel-illustration.png",
+          "role": "output"
+        }
+      ],
+      "promptExcerpt": "Create an exceptionally charming, whimsical travel illustration featuring BeiJing, China, in a playf",
+      "excerptTruncated": true
+    },
+    "provenance": {
+      "originalSource": {
+        "platform": "manual",
+        "author": "Owner-supplied",
+        "url": "https://github.com/CoderLim/awesome-ai-image-prompts/blob/main/data/media/manual/beijing-whimsical-travel-illustration.png",
+        "postId": null,
+        "publishedAt": "2026-11-28",
+        "verification": "owner-supplied"
+      },
+      "collectedFrom": [
+        {
+          "sourceId": "manual",
+          "mode": "manual-owner-supplied",
+          "snapshotSha256": "a16c1daa399f7379b4edcb65677a41e1b7462e8235f01a8f642e1ff0bf796f73",
+          "repository": "CoderLim/awesome-ai-image-prompts",
+          "ref": "main",
+          "path": "data/media/manual/beijing-whimsical-travel-illustration.png",
+          "url": "https://github.com/CoderLim/awesome-ai-image-prompts/blob/main/data/media/manual/beijing-whimsical-travel-illustration.png",
+          "collectedAt": "2026-11-28T03:49:00.000Z"
+        }
+      ]
+    },
+    "rights": {
+      "prompt": "unknown",
+      "media": "unknown"
+    },
+    "sourceMeta": {
+      "model": "ChatGPT Image",
+      "textReview": "complete",
+      "visualReview": "pending",
+      "pairing": "owner-supplied-output",
+      "imageVerification": "owner-supplied local media copied into data/media/manual; HTTP unchecked until published",
+      "review": {
+        "qualityStatus": "recommended",
+        "classificationConfidence": "high",
+        "classificationMethod": "owner-directed-import",
+        "inputMode": "text-to-image",
+        "category": "travel"
+      },
+      "publicationReview": {
+        "reviewer": "Owner-directed direct import (no separate review queue)",
+        "duplicate": {
+          "status": "cleared",
+          "evidence": "Exact normalized prompt and post-id scan against current catalog found no matches."
+        }
+      }
+    }
+  }
+]
