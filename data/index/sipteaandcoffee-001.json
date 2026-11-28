@@ -1,0 +1,2315 @@
+[
+  {
+    "id": "sipteaandcoffee-2049174937420918968",
+    "title": {
+      "en": "Futuristic limited-edition sneaker advertisement",
+      "zh": null
+    },
+    "type": "generation",
+    "category": "products",
+    "inputMode": "text-to-image",
+    "status": "index-only",
+    "prompt": {
+      "original": "Create a jaw-dropping premium advertising poster in 9:16 vertical format for a fictional ultra-limited women’s fashion sneaker called \"NIKE AIR JORDAN 1 LOW - LIMITED DROP\". The design must feel like a world-class campaign by a top creative agency, highly original, futuristic, visually explosive, and impossible to ignore.\nMain visual:\nA stunning athletic female model placed prominently in the foreground, dominating the composition and becoming the main focal point. She stands powerfully at the front of the frame wearing the hero sneaker, captured from a dramatic low angle with one foot stepping toward the camera. Her pose is bold, confident, fierce, elegant, and unstoppable. She should appear larger than the shoe and visually command attention first.\nThe hero sneaker is positioned beside or slightly behind her in a dynamic floating pose, still highly visible as the premium product focus. The shoe should look ultra-premium, highly engineered, sleek, aerodynamic, and fashion-forward. Materials combine knit mesh, sculpted foam, translucent panels, reflective stripes, and a carbon-fiber sole plate.\nShe wears a sleek futuristic sports-luxury outfit: fitted performance crop jacket, sculpted leggings, metallic detailing, aerodynamic silhouette. Hair flowing with motion energy.\nBoth the model and sneaker stand above a black obsidian running track split by glowing energy cracks. Neon light trails swirl around her body and shoes like captured speed. Small particles, mist, sparks, and motion streaks add intensity.\nIn the background, use faint silhouettes of female runners frozen mid-sprint, softly blurred to keep all attention on the foreground model and sneaker.\nColor palette:\nMatte black, electric red, silver, deep charcoal, subtle neon blue highlights.\nTypography and poster copy:\nRender all text cleanly, sharply, and professionally with strong hierarchy.\nMain headline:\n“OWN THE SPEED”\nProduct title:\n“NIKE AIR JORDAN 1 LOW”\nSubheadline:\n“Built for the women who never move ordinary.”\nFeature callouts in elegant boxed layout:\nFeatherlight Adaptive Knit Upper\nCarbon Energy Return Plate\nPrecision Grip Traction\nLimited Collector Release\nPrice line:\n$299\nCTA:\nDROP LIVE NOW\nSecondary CTA:\nOnly at https://t.co/feHYve1vIX\nSmall footer text:\n“Performance innovation meets futuristic street identity.”\nLayout direction:\nHeadline bold and oversized, partially integrated into background. Female model in the foreground center-front as the visual star. Sneaker placed near her feet or floating beside her. Product title near the shoe in refined premium layout. Feature callouts vertically aligned on one side. Add subtle badge reading LIMITED SERIES.\nStyle:\nUltra-detailed, hyper-realistic fashion product photography, cinematic studio lighting, premium advertising aesthetics, sharp focus, rich textures, subtle atmosphere, dynamic motion energy, high-end commercial poster, no clutter, no generic template look."
+    },
+    "media": [],
+    "models": [],
+    "sourcePreview": {
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HHAhvrDaMAAoT6P.jpg",
+          "role": "source-media"
+        }
+      ],
+      "promptExcerpt": "Create a jaw-dropping premium advertising poster in 9:16 vertical format for a fictional ultra-limit",
+      "excerptTruncated": true
+    },
+    "provenance": {
+      "originalSource": {
+        "platform": "x",
+        "author": "@sipteaandcoffee",
+        "url": "https://x.com/sipteaandcoffee/status/2049174937420918968",
+        "postId": "2049174937420918968",
+        "publishedAt": "2026-04-28T17:12:31.000Z",
+        "verification": "reported-by-collector"
+      },
+      "collectedFrom": [
+        {
+          "sourceId": "sipteaandcoffee",
+          "mode": "collector-export",
+          "snapshotSha256": "8f04638b7ce87c54954e75b089b02743850269bd5c9bc545039d4e8024cf4a84",
+          "url": "https://x.com/sipteaandcoffee/status/2049174937420918968",
+          "collectedAt": "2026-11-27T16:12:57.230Z"
+        }
+      ]
+    },
+    "rights": {
+      "prompt": "unknown",
+      "media": "unknown"
+    },
+    "sourceMeta": {
+      "model": null,
+      "textReview": "complete",
+      "visualReview": "pending",
+      "pairing": "same-post-reported-by-collector",
+      "imageVerification": "source-reported media URLs; HTTP and visual match unchecked",
+      "review": {
+        "qualityStatus": "candidate",
+        "classificationConfidence": "medium",
+        "classificationMethod": "collector-review",
+        "inputMode": "text-to-image",
+        "category": "products"
+      }
+    }
+  },
+  {
+    "id": "sipteaandcoffee-2049452006608392350",
+    "title": {
+      "en": "CCD flash portrait from a reference",
+      "zh": null
+    },
+    "type": "generation",
+    "category": "portraits",
+    "inputMode": "reference-to-image",
+    "status": "index-only",
+    "prompt": {
+      "original": "A hyper-photorealistic shot of the same subject in the attached image, ultra-detailed facial features, visible pores, natural skin texture, rosy complexion and dewy skin, Douyin/Korean glass-skin makeup, glossy lips, aegyosal, baby pink blush on cheeks and nose, high identity consistency, realistic human anatomy.\nExpression or mood:\ndreamy half-lidded gaze looking directly at the camera, slightly parted lips, relaxed facial muscles, soft intimate candid mood.\nCamera settings:\nshot on an old CCD digital camera, early-2000s digicam aesthetic, direct on-camera flash, harsh flash falloff, visible grain and digital noise, slightly overexposed highlights, flattened shadows, soft contrast, mildly washed colors, cool-to-neutral white balance, slight motion blur, low-light snapshot feel, candid and imperfect composition\nMakeup style:\nluminous glass-skin finish, glossy lips, soft shimmer eyelids, aegyosal highlight, natural contour, blended blush across cheeks and nose\nHair:\nloose romantic updo with soft curls around the face, wispy baby hairs, slightly messy windswept texture.\nOutfit:\ndelicate off-shoulder silk styling with embroidered floral fabric draped around the body, soft feminine luxury vibe.\nBackground:\npastel floral bedding with pale blue and pink tones, soft daylight, airy romantic atmosphere.\nComposition:\nhorizontal close-up, face resting on layered fabric, shallow depth of field, intimate editorial framing.\nNegative prompt:\nover-smoothed skin, plastic texture, unrealistic proportions, studio lighting, overly sharp HDR, stiff pose, artificial symmetry, over-retouched face"
+    },
+    "media": [],
+    "models": [],
+    "sourcePreview": {
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HHEdvLibMAA14mA.jpg",
+          "role": "source-media"
+        }
+      ],
+      "promptExcerpt": "A hyper-photorealistic shot of the same subject in the attached image, ultra-detailed facial feature",
+      "excerptTruncated": true
+    },
+    "provenance": {
+      "originalSource": {
+        "platform": "x",
+        "author": "@sipteaandcoffee",
+        "url": "https://x.com/sipteaandcoffee/status/2049452006608392350",
+        "postId": "2049452006608392350",
+        "publishedAt": "2026-04-29T11:33:30.000Z",
+        "verification": "reported-by-collector"
+      },
+      "collectedFrom": [
+        {
+          "sourceId": "sipteaandcoffee",
+          "mode": "collector-export",
+          "snapshotSha256": "8f04638b7ce87c54954e75b089b02743850269bd5c9bc545039d4e8024cf4a84",
+          "url": "https://x.com/sipteaandcoffee/status/2049452006608392350",
+          "collectedAt": "2026-11-27T16:12:57.230Z"
+        }
+      ]
+    },
+    "rights": {
+      "prompt": "unknown",
+      "media": "unknown"
+    },
+    "sourceMeta": {
+      "model": null,
+      "textReview": "complete",
+      "visualReview": "pending",
+      "pairing": "same-post-reported-by-collector",
+      "imageVerification": "source-reported media URLs; HTTP and visual match unchecked",
+      "review": {
+        "qualityStatus": "candidate",
+        "classificationConfidence": "medium",
+        "classificationMethod": "collector-review",
+        "inputMode": "reference-to-image",
+        "category": "portraits"
+      }
+    }
+  },
+  {
+    "id": "sipteaandcoffee-2049687864125100143",
+    "title": {
+      "en": "Cozy laptop lifestyle photography",
+      "zh": null
+    },
+    "type": "generation",
+    "category": "portraits",
+    "inputMode": "text-to-image",
+    "status": "index-only",
+    "prompt": {
+      "original": "Ultra-realistic photo of a young woman with long dark wavy hair, sharp eyebrows, warm medium skin tone, natural makeup, sitting at a wooden desk indoors, looking at a laptop with a focused expression, soft warm indoor lighting from a lamp, realistic shadows, cozy environment, shot on iPhone 15 Pro, natural colors, HDR, sharp focus, high detail, realistic skin texture, no blur"
+    },
+    "media": [],
+    "models": [],
+    "sourcePreview": {
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HHH0P8uXwAAB849.jpg",
+          "role": "source-media"
+        }
+      ],
+      "promptExcerpt": "Ultra-realistic photo of a young woman with long dark wavy hair, sharp eyebrows, warm medium skin to",
+      "excerptTruncated": true
+    },
+    "provenance": {
+      "originalSource": {
+        "platform": "x",
+        "author": "@sipteaandcoffee",
+        "url": "https://x.com/sipteaandcoffee/status/2049687864125100143",
+        "postId": "2049687864125100143",
+        "publishedAt": "2026-04-30T03:10:42.000Z",
+        "verification": "reported-by-collector"
+      },
+      "collectedFrom": [
+        {
+          "sourceId": "sipteaandcoffee",
+          "mode": "collector-export",
+          "snapshotSha256": "8f04638b7ce87c54954e75b089b02743850269bd5c9bc545039d4e8024cf4a84",
+          "url": "https://x.com/sipteaandcoffee/status/2049687864125100143",
+          "collectedAt": "2026-11-27T16:12:57.230Z"
+        }
+      ]
+    },
+    "rights": {
+      "prompt": "unknown",
+      "media": "unknown"
+    },
+    "sourceMeta": {
+      "model": null,
+      "textReview": "complete",
+      "visualReview": "pending",
+      "pairing": "same-post-reported-by-collector",
+      "imageVerification": "source-reported media URLs; HTTP and visual match unchecked",
+      "review": {
+        "qualityStatus": "candidate",
+        "classificationConfidence": "medium",
+        "classificationMethod": "collector-review",
+        "inputMode": "text-to-image",
+        "category": "portraits"
+      }
+    }
+  },
+  {
+    "id": "sipteaandcoffee-2051547841521479822",
+    "title": {
+      "en": "Pink fashion magazine cover portrait",
+      "zh": null
+    },
+    "type": "generation",
+    "category": "posters",
+    "inputMode": "text-to-image",
+    "status": "index-only",
+    "prompt": {
+      "original": "{\n  \"style\": \"high-end fashion editorial, luxury magazine cover\",\n  \"subject\": {\n    \"type\": \"young American woman\",\n    \"appearance\": {\n      \"hair\": \"long blonde hair, soft waves\",\n      \"skin\": \"smooth, radiant, natural glow\",\n      \"expression\": \"playful pout, slightly looking aside\",\n      \"makeup\": \"minimal glam, glossy lips, subtle blush\"\n    },\n    \"outfit\": \"pink satin off-shoulder crop top with matching high-waist skirt\",\n    \"accessories\": \"small gold hoop earrings, delicate necklace with red heart pendant\"\n  },\n  \"composition\": {\n    \"framing\": \"mid-length portrait, centered\",\n    \"pose\": \"standing, holding objects in both hands\",\n    \"left_hand\": \"glass bottle with red liquid labeled 'Cherry Sparkling Soda'\",\n    \"right_hand\": \"bouquet of fresh red roses wrapped in kraft paper with ribbon\",\n    \"background\": \"clean white studio backdrop\",\n    \"layout\": \"magazine cover layout with strong negative space for typography\"\n  },\n  \"typography\": {\n    \"masthead\": \"ALLURE\",\n    \"masthead_style\": \"large serif font, bold, red color, top center\",\n    \"subtext\": [\n      \"FASHION & LIFESTYLE MAGAZINE\",\n      \"SUMMER 2024 ISSUE\"\n    ],\n    \"cover_lines\": [\n      \"FRESH PERSPECTIVE\",\n      \"GOOD THINGS AHEAD\",\n      \"CONFIDENCE IS YOUR BEST ACCESSORY\",\n      \"SWEET DAYS AHEAD\",\n      \"100% GOOD MOOD\"\n    ],\n    \"style\": \"clean editorial typography, all text in red, modern fashion magazine layout\"\n  },\n  \"lighting\": {\n    \"type\": \"studio lighting\",\n    \"quality\": \"soft diffused light\",\n    \"direction\": \"front-facing with slight side highlights\",\n    \"effect\": \"even skin tones, subtle shadows, glossy fabric highlights\"\n  },\n  \"color_palette\": {\n    \"primary\": [\"red\", \"white\"],\n    \"accents\": [\"gold\", \"green\"],\n    \"mood\": \"bold, fresh, confident, romantic\"\n  },\n  \"details\": {\n    \"props\": \"glass bottle with label, realistic roses bouquet\",\n    \"textures\": \"silky fabric, glass reflections, natural skin detail\",\n    \"finish\": \"ultra-realistic, sharp focus, high resolution\"\n  },\n  \"camera\": {\n    \"type\": \"DSLR\",\n    \"lens\": \"85mm portrait lens\",\n    \"aperture\": \"f/2.8\",\n    \"depth_of_field\": \"shallow\",\n    \"focus\": \"sharp on face and product\"\n  },\n  \"aspect_ratio\": \"2:3\",\n  \"quality\": \"8k, ultra-detailed, professional editorial finish\"\n}"
+    },
+    "media": [],
+    "models": [],
+    "sourcePreview": {
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HHiP43ubAAAjG3a.jpg",
+          "role": "source-media"
+        }
+      ],
+      "promptExcerpt": "{\n  \"style\": \"high-end fashion editorial, luxury magazine cover\",\n  \"subject\": {\n    \"type\": \"young ",
+      "excerptTruncated": true
+    },
+    "provenance": {
+      "originalSource": {
+        "platform": "x",
+        "author": "@sipteaandcoffee",
+        "url": "https://x.com/sipteaandcoffee/status/2051547841521479822",
+        "postId": "2051547841521479822",
+        "publishedAt": "2026-05-05T06:21:35.000Z",
+        "verification": "reported-by-collector"
+      },
+      "collectedFrom": [
+        {
+          "sourceId": "sipteaandcoffee",
+          "mode": "collector-export",
+          "snapshotSha256": "8f04638b7ce87c54954e75b089b02743850269bd5c9bc545039d4e8024cf4a84",
+          "url": "https://x.com/sipteaandcoffee/status/2051547841521479822",
+          "collectedAt": "2026-11-27T16:12:57.230Z"
+        }
+      ]
+    },
+    "rights": {
+      "prompt": "unknown",
+      "media": "unknown"
+    },
+    "sourceMeta": {
+      "model": null,
+      "textReview": "complete",
+      "visualReview": "pending",
+      "pairing": "same-post-reported-by-collector",
+      "imageVerification": "source-reported media URLs; HTTP and visual match unchecked",
+      "review": {
+        "qualityStatus": "candidate",
+        "classificationConfidence": "medium",
+        "classificationMethod": "collector-review",
+        "inputMode": "text-to-image",
+        "category": "posters"
+      }
+    }
+  },
+  {
+    "id": "sipteaandcoffee-2051610507803832768",
+    "title": {
+      "en": "Premium smartphone advertisement poster",
+      "zh": null
+    },
+    "type": "generation",
+    "category": "products",
+    "inputMode": "text-to-image",
+    "status": "index-only",
+    "prompt": {
+      "original": "Create a premium Apple-style smartphone advertisement poster in 4:5 vertical format, ultra-high resolution, with a clean, modern, global campaign aesthetic.\nScene & Composition\nA minimal soft ivory studio background with a large rounded rectangular gradient panel in rose-gold to blush pink, placed slightly off-center behind the subject. The gradient should feel luminous and diffused, not flat.\nIn the background, integrate oversized typography:\n“ELITE”\nvery large, partially cropped by frame edges\nwarm rose tone, slightly deeper than the gradient panel\nsoft shadow and subtle dimensional depth\nSubject (Female Model)\nA stylish young female model:\nsoft wavy dark brown hair\nnatural glowing skin\nsubtle makeup with defined eyes\nthin gold-frame glasses\nExpression & Pose:\ncalm, self-assured, composed expression\ndirect eye contact\nshot from a slightly low angle\none hand extended toward the camera holding the phone\nbody slightly turned for depth and elegance\nOutfit:\ndeep emerald green silk dress (changed color)\nsmooth texture with soft highlights\nminimal jewelry (fine gold chain or ring)\nProduct (Hero Focus)\niPhone 17 Pro – Rose Titanium finish\nplaced in extreme foreground using forced perspective\nslightly tilted to emphasize camera system\nDetails:\nultra-realistic triple camera lenses\nprecise reflections and layered glass depth\nbrushed titanium edges with soft highlights\nsubtle Apple logo reflection\nrefined material realism (premium, not glossy plastic)\nLighting\nSoft, premium lighting setup:\nkey light from front-left (clean skin tones, soft glow)\nwarm rim light from right (gentle edge separation)\nsubtle pink/rose bounce from background\nsoft shadows with smooth falloff\nUI & Graphic Elements\nsmall Apple logo (top left)\n“Engineered for a smarter tomorrow.” (top right, thin font)\nfloating glass-style pill: “iPhone 17 Pro”\n2–3 subtle sparkle accents\nvery fine film grain for realism\nBottom Section (Features)\nFour rounded glass cards with minimal icons:\nA19 Pro Chip\nNext-level speed\n48MP Fusion Camera\nPrecision in every shot\n4K HDR Video\nStorytelling redefined\nApple Intelligence\nSmart. Secure. Seamless.\nBottom Right Text\niPhone 17 Pro. Precision meets elegance.\nPowered by A19 Pro. Advanced imaging system.\nCrafted for the future.\nCamera & Render Feel\n50mm lens aesthetic\nshallow depth of field\nslight natural lens distortion\nHDR lighting\nultra-real textures (skin, silk, metal, glass)\nOverall Direction\nMake it feel like:\ncaptured in a real high-end studio\neffortlessly premium\nrefined, modern, and human\nNothing should feel overdesigned or artificial."
+    },
+    "media": [],
+    "models": [],
+    "sourcePreview": {
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HHjI4jXasAAcss4.jpg",
+          "role": "source-media"
+        }
+      ],
+      "promptExcerpt": "Create a premium Apple-style smartphone advertisement poster in 4:5 vertical format, ultra-high reso",
+      "excerptTruncated": true
+    },
+    "provenance": {
+      "originalSource": {
+        "platform": "x",
+        "author": "@sipteaandcoffee",
+        "url": "https://x.com/sipteaandcoffee/status/2051610507803832768",
+        "postId": "2051610507803832768",
+        "publishedAt": "2026-05-05T10:30:36.000Z",
+        "verification": "reported-by-collector"
+      },
+      "collectedFrom": [
+        {
+          "sourceId": "sipteaandcoffee",
+          "mode": "collector-export",
+          "snapshotSha256": "8f04638b7ce87c54954e75b089b02743850269bd5c9bc545039d4e8024cf4a84",
+          "url": "https://x.com/sipteaandcoffee/status/2051610507803832768",
+          "collectedAt": "2026-11-27T16:12:57.230Z"
+        }
+      ]
+    },
+    "rights": {
+      "prompt": "unknown",
+      "media": "unknown"
+    },
+    "sourceMeta": {
+      "model": null,
+      "textReview": "complete",
+      "visualReview": "pending",
+      "pairing": "same-post-reported-by-collector",
+      "imageVerification": "source-reported media URLs; HTTP and visual match unchecked",
+      "review": {
+        "qualityStatus": "candidate",
+        "classificationConfidence": "medium",
+        "classificationMethod": "collector-review",
+        "inputMode": "text-to-image",
+        "category": "products"
+      }
+    }
+  },
+  {
+    "id": "sipteaandcoffee-2051658177784283264",
+    "title": {
+      "en": "Phone-screen frame-in-frame creative portrait",
+      "zh": null
+    },
+    "type": "generation",
+    "category": "portraits",
+    "inputMode": "reference-to-image",
+    "status": "index-only",
+    "prompt": {
+      "original": "Ultra-realistic iPhone creative portrait, identity preserved exactly from reference image.\n\nYoung woman standing indoors in front of a glass storefront or reflective wall, photographed from a slightly high front angle. She holds a smartphone horizontally directly in front of her face, covering her eyes and upper face in real life. The phone screen faces the camera and clearly shows a live camera/photo view of her face.\n\nComposition:\nThe real woman is visible behind the phone, but her face is mostly hidden by the horizontal phone. On the phone screen, her face appears clearly centered, smiling softly and winking. The phone acts like a frame within the frame. Her hand grips the top edge of the phone, fingers visible across the top.\n\nPose:\nOne hand holds the phone horizontally across her face. Her other hand is lower near her waist making a peace sign or casual gesture. She stands relaxed, facing camera.\n\nOutfit:\nWhite fitted zip-front sleeveless top, loose light-wash baggy jeans, brown belt, playful accessories, rings, bracelet, red-and-white shoulder bag, small plush/keychain accessories hanging from bag or belt.\n\nPhone screen details:\nThe phone screen shows a clean live-camera image of her face with a wink and soft smile. Add cute sticker-style doodles around the screen/photo area: small colorful sparkles, stars, flower sticker near the face. The stickers should look like playful phone-camera decoration, not random floating objects.\n\nEnvironment:\nIndoor mall/storefront area with glass doors, reflections, polished floor, soft daylight mixed with indoor light, casual streetwear snapshot vibe.\n\nCamera + lighting:\n0.5x iPhone wide-angle photo, close candid framing, realistic reflections on glass and phone screen, slight distortion on hands, raw social-media feel.\n\nImportant:\nMatch the phone-covering-face composition, horizontal phone screen showing her face, wink expression on screen, hand gripping phone, playful stickers, white zip top, baggy jeans, accessories, and indoor glass background closely.\n\nNatural skin texture, realistic screen reflections, no beauty filter, no smoothing. 4K vertical 9:16."
+    },
+    "media": [],
+    "models": [],
+    "sourcePreview": {
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HHj0POUawAAkj9J.jpg",
+          "role": "source-media"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HHj0PRYaYAAHJEU.jpg",
+          "role": "source-media"
+        }
+      ],
+      "promptExcerpt": "Ultra-realistic iPhone creative portrait, identity preserved exactly from reference image.\n\nYoung wo",
+      "excerptTruncated": true
+    },
+    "provenance": {
+      "originalSource": {
+        "platform": "x",
+        "author": "@sipteaandcoffee",
+        "url": "https://x.com/sipteaandcoffee/status/2051658177784283264",
+        "postId": "2051658177784283264",
+        "publishedAt": "2026-05-05T13:40:02.000Z",
+        "verification": "reported-by-collector"
+      },
+      "collectedFrom": [
+        {
+          "sourceId": "sipteaandcoffee",
+          "mode": "collector-export",
+          "snapshotSha256": "8f04638b7ce87c54954e75b089b02743850269bd5c9bc545039d4e8024cf4a84",
+          "url": "https://x.com/sipteaandcoffee/status/2051658177784283264",
+          "collectedAt": "2026-11-27T16:12:57.230Z"
+        }
+      ]
+    },
+    "rights": {
+      "prompt": "unknown",
+      "media": "unknown"
+    },
+    "sourceMeta": {
+      "model": null,
+      "textReview": "complete",
+      "visualReview": "pending",
+      "pairing": "same-post-reported-by-collector",
+      "imageVerification": "source-reported media URLs; HTTP and visual match unchecked",
+      "review": {
+        "qualityStatus": "candidate",
+        "classificationConfidence": "medium",
+        "classificationMethod": "collector-review",
+        "inputMode": "reference-to-image",
+        "category": "portraits"
+      }
+    }
+  },
+  {
+    "id": "sipteaandcoffee-2051919563051381045",
+    "title": {
+      "en": "Rainy city double-exposure editorial portrait",
+      "zh": null
+    },
+    "type": "generation",
+    "category": "creative-art",
+    "inputMode": "text-to-image",
+    "status": "index-only",
+    "prompt": {
+      "original": "A high-contrast, double-exposure editorial portrait of a beautiful woman gazing down with a thoughtful expression. The image is creatively segmented into vertical cuts of varying heights against a textured, off-white parchment background. Overlay effect: Within the vertical cuts of the woman's face, a secondary scene is visible: a solitary figure of the same woman in a sweatshirt walking along a rain-soaked street at night.\n\nThe street scene features a warm orange bokeh emanating from the streetlights and reflections on the wet pavement, creating a striking contrast with the cool tones of the portrait. Stylistic elements: Lighting: A chiaroscuro style with deep shadows and bright highlights on the woman's white shirt and dark jacket.\n\nTexture: A subtle grain and a worn, paper-like texture cover the entire canvas, lending an artistic and raw feel. Color palette: A mix of desaturated monochromatic tones for the portrait, punctuated by vibrant touches of amber, gold, and turquoise from the rainy cityscape. Atmosphere: Melancholic, introspective, and with hints of modern film noir; facial hair and skin texture rendered in great detail.\n\nTechnical specifications: Photograph taken with an 85mm lens, f/1.8, cinematic lighting, sharp focus on the glasses, 8K resolution, graphic poster style. Aspect ratio 9:16."
+    },
+    "media": [],
+    "models": [],
+    "sourcePreview": {
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HHnh98MasAAycMq.jpg",
+          "role": "source-media"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HHnh99RawAAnqR3.jpg",
+          "role": "source-media"
+        }
+      ],
+      "promptExcerpt": "A high-contrast, double-exposure editorial portrait of a beautiful woman gazing down with a thoughtf",
+      "excerptTruncated": true
+    },
+    "provenance": {
+      "originalSource": {
+        "platform": "x",
+        "author": "@sipteaandcoffee",
+        "url": "https://x.com/sipteaandcoffee/status/2051919563051381045",
+        "postId": "2051919563051381045",
+        "publishedAt": "2026-05-06T06:58:41.000Z",
+        "verification": "reported-by-collector"
+      },
+      "collectedFrom": [
+        {
+          "sourceId": "sipteaandcoffee",
+          "mode": "collector-export",
+          "snapshotSha256": "8f04638b7ce87c54954e75b089b02743850269bd5c9bc545039d4e8024cf4a84",
+          "url": "https://x.com/sipteaandcoffee/status/2051919563051381045",
+          "collectedAt": "2026-11-27T16:12:57.230Z"
+        }
+      ]
+    },
+    "rights": {
+      "prompt": "unknown",
+      "media": "unknown"
+    },
+    "sourceMeta": {
+      "model": null,
+      "textReview": "complete",
+      "visualReview": "pending",
+      "pairing": "same-post-reported-by-collector",
+      "imageVerification": "source-reported media URLs; HTTP and visual match unchecked",
+      "review": {
+        "qualityStatus": "candidate",
+        "classificationConfidence": "medium",
+        "classificationMethod": "collector-review",
+        "inputMode": "text-to-image",
+        "category": "creative-art"
+      }
+    }
+  },
+  {
+    "id": "sipteaandcoffee-2052641476153360592",
+    "title": {
+      "en": "Dark fantasy double-exposure portrait poster",
+      "zh": null
+    },
+    "type": "generation",
+    "category": "posters",
+    "inputMode": "reference-to-image",
+    "status": "index-only",
+    "prompt": {
+      "original": "This ultra-cinematic dark fantasy poster is automatically generated using [\" \"] (face and hairstyle from the uploaded reference photo) as its outline, hyper-realistic portrait composition, a zoomed-in side profile of the subject, detailed skin textures, slightly messy, wet hair blowing in the wind, an intense and mysterious emotional expression, and an epic and dramatic atmosphere.\n\nDouble exposure composition featuring multiple scenes in realistic silhouette: [ ]\n\nRealistic style, dramatic depth, volumetric lighting, [ ] (e.g., luxurious, girly, live-action, aesthetic, etc.) atmosphere, ultra-detailed textures, movie poster aesthetics, epic storytelling composition, high-contrast shadows, flexible cinematic coloring, ultra-realistic, masterpiece, sharp focus, HDR, 8K detail, Unreal Engine quality, highly detailed faces, photorealistic, fantasy adventure atmosphere.\n\nVertical composition, compact layout, premium movie poster design, 9:16 aspect ratio, ultra HD"
+    },
+    "media": [],
+    "models": [],
+    "sourcePreview": {
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HHxyiyzawAAjBbS.jpg",
+          "role": "source-media"
+        }
+      ],
+      "promptExcerpt": "This ultra-cinematic dark fantasy poster is automatically generated using [\" \"] (face and hairstyle ",
+      "excerptTruncated": true
+    },
+    "provenance": {
+      "originalSource": {
+        "platform": "x",
+        "author": "@sipteaandcoffee",
+        "url": "https://x.com/sipteaandcoffee/status/2052641476153360592",
+        "postId": "2052641476153360592",
+        "publishedAt": "2026-05-08T06:47:18.000Z",
+        "verification": "reported-by-collector"
+      },
+      "collectedFrom": [
+        {
+          "sourceId": "sipteaandcoffee",
+          "mode": "collector-export",
+          "snapshotSha256": "8f04638b7ce87c54954e75b089b02743850269bd5c9bc545039d4e8024cf4a84",
+          "url": "https://x.com/sipteaandcoffee/status/2052641476153360592",
+          "collectedAt": "2026-11-27T16:12:57.230Z"
+        }
+      ]
+    },
+    "rights": {
+      "prompt": "unknown",
+      "media": "unknown"
+    },
+    "sourceMeta": {
+      "model": null,
+      "textReview": "complete",
+      "visualReview": "pending",
+      "pairing": "same-post-reported-by-collector",
+      "imageVerification": "source-reported media URLs; HTTP and visual match unchecked",
+      "review": {
+        "qualityStatus": "candidate",
+        "classificationConfidence": "medium",
+        "classificationMethod": "collector-review",
+        "inputMode": "reference-to-image",
+        "category": "posters"
+      }
+    }
+  },
+  {
+    "id": "sipteaandcoffee-2052815091792527512",
+    "title": {
+      "en": "Educational encyclopedia infographic template",
+      "zh": null
+    },
+    "type": "generation",
+    "category": "infographics",
+    "inputMode": "text-to-image",
+    "status": "index-only",
+    "prompt": {
+      "original": "A highly detailed educational infographic poster for [SUBJECT], titled '[TITLE]'. The design features a central realistic anatomical illustration with several labeled callouts pointing to specific parts.\n\nThe layout is organized into various modular boxes including: 'Quick Profile' with icons, 'Classification' list, 'Top 5 Amazing Facts', 'Size Comparison' relative to a human hand, 'Pros & Cons', and 'Detail Focus' macro circular insets on the right. The aesthetic is a vintage field guide style with a muted cream-colored parchment background, clean typography (serif and sans-serif mix), and professional scientific diagrams."
+    },
+    "media": [],
+    "models": [],
+    "sourcePreview": {
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HH0Qcf-aAAAzWYx.jpg",
+          "role": "source-media"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HH0Qciza8AAafkL.jpg",
+          "role": "source-media"
+        }
+      ],
+      "promptExcerpt": "A highly detailed educational infographic poster for [SUBJECT], titled '[TITLE]'. The design feature",
+      "excerptTruncated": true
+    },
+    "provenance": {
+      "originalSource": {
+        "platform": "x",
+        "author": "@sipteaandcoffee",
+        "url": "https://x.com/sipteaandcoffee/status/2052815091792527512",
+        "postId": "2052815091792527512",
+        "publishedAt": "2026-05-08T18:17:12.000Z",
+        "verification": "reported-by-collector"
+      },
+      "collectedFrom": [
+        {
+          "sourceId": "sipteaandcoffee",
+          "mode": "collector-export",
+          "snapshotSha256": "8f04638b7ce87c54954e75b089b02743850269bd5c9bc545039d4e8024cf4a84",
+          "url": "https://x.com/sipteaandcoffee/status/2052815091792527512",
+          "collectedAt": "2026-11-27T16:12:57.230Z"
+        }
+      ]
+    },
+    "rights": {
+      "prompt": "unknown",
+      "media": "unknown"
+    },
+    "sourceMeta": {
+      "model": null,
+      "textReview": "complete",
+      "visualReview": "pending",
+      "pairing": "same-post-reported-by-collector",
+      "imageVerification": "source-reported media URLs; HTTP and visual match unchecked",
+      "review": {
+        "qualityStatus": "candidate",
+        "classificationConfidence": "medium",
+        "classificationMethod": "collector-review",
+        "inputMode": "text-to-image",
+        "category": "infographics"
+      }
+    }
+  },
+  {
+    "id": "sipteaandcoffee-2052996112559280337",
+    "title": {
+      "en": "One Piece inspired character profile from a portrait",
+      "zh": null
+    },
+    "type": "generation",
+    "category": "characters",
+    "inputMode": "reference-to-image",
+    "status": "index-only",
+    "prompt": {
+      "original": "Use attached image as exact face/identity reference. Create 8K Cinematic original One Piece anime character in authentic Eiichiro Oda style with matching facial features adapted naturally into One Piece proportions. Include pirate outfit, bounty poster, pirate crew or personal ship, unique Devil Fruit name, powers, weaknesses, taste, and short One Piece-world explanation. Add cinematic anime composition, bold colors, manga shading, dynamic pose, and detailed pirate aesthetic."
+    },
+    "media": [],
+    "models": [],
+    "sourcePreview": {
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HH21FXwb0AAwFcf.jpg",
+          "role": "source-media"
+        }
+      ],
+      "promptExcerpt": "Use attached image as exact face/identity reference. Create 8K Cinematic original One Piece anime ch",
+      "excerptTruncated": true
+    },
+    "provenance": {
+      "originalSource": {
+        "platform": "x",
+        "author": "@sipteaandcoffee",
+        "url": "https://x.com/sipteaandcoffee/status/2052996112559280337",
+        "postId": "2052996112559280337",
+        "publishedAt": "2026-05-09T06:16:30.000Z",
+        "verification": "reported-by-collector"
+      },
+      "collectedFrom": [
+        {
+          "sourceId": "sipteaandcoffee",
+          "mode": "collector-export",
+          "snapshotSha256": "8f04638b7ce87c54954e75b089b02743850269bd5c9bc545039d4e8024cf4a84",
+          "url": "https://x.com/sipteaandcoffee/status/2052996112559280337",
+          "collectedAt": "2026-11-27T16:12:57.230Z"
+        }
+      ]
+    },
+    "rights": {
+      "prompt": "unknown",
+      "media": "unknown"
+    },
+    "sourceMeta": {
+      "model": null,
+      "textReview": "complete",
+      "visualReview": "pending",
+      "pairing": "same-post-reported-by-collector",
+      "imageVerification": "source-reported media URLs; HTTP and visual match unchecked",
+      "review": {
+        "qualityStatus": "candidate",
+        "classificationConfidence": "medium",
+        "classificationMethod": "collector-review",
+        "inputMode": "reference-to-image",
+        "category": "characters"
+      }
+    }
+  },
+  {
+    "id": "sipteaandcoffee-2053336764430139737",
+    "title": {
+      "en": "Pastel hand-drawn photo annotations",
+      "zh": null
+    },
+    "type": "editing",
+    "category": "composition",
+    "inputMode": "image-editing",
+    "status": "index-only",
+    "prompt": {
+      "original": "Add hand-drawn pastel scribble lines, including outlines, swirls, arrows, and cute annotations. Include handwritten text in a casual, messy, and playful style, like notes and conversations. A soft, clean morning tone, with the sunrise peeking through, featuring water reflections, high detail, grain texture, Instagram aesthetic, and a minimal yet artistic composition."
+    },
+    "media": [],
+    "models": [],
+    "sourcePreview": {
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HH7q53hbgAEl5OJ.jpg",
+          "role": "source-media"
+        }
+      ],
+      "promptExcerpt": "Add hand-drawn pastel scribble lines, including outlines, swirls, arrows, and cute annotations. Incl",
+      "excerptTruncated": true
+    },
+    "provenance": {
+      "originalSource": {
+        "platform": "x",
+        "author": "@sipteaandcoffee",
+        "url": "https://x.com/sipteaandcoffee/status/2053336764430139737",
+        "postId": "2053336764430139737",
+        "publishedAt": "2026-05-10T04:50:08.000Z",
+        "verification": "reported-by-collector"
+      },
+      "collectedFrom": [
+        {
+          "sourceId": "sipteaandcoffee",
+          "mode": "collector-export",
+          "snapshotSha256": "8f04638b7ce87c54954e75b089b02743850269bd5c9bc545039d4e8024cf4a84",
+          "url": "https://x.com/sipteaandcoffee/status/2053336764430139737",
+          "collectedAt": "2026-11-27T16:12:57.230Z"
+        }
+      ]
+    },
+    "rights": {
+      "prompt": "unknown",
+      "media": "unknown"
+    },
+    "sourceMeta": {
+      "model": null,
+      "textReview": "complete",
+      "visualReview": "pending",
+      "pairing": "same-post-reported-by-collector",
+      "imageVerification": "source-reported media URLs; HTTP and visual match unchecked",
+      "review": {
+        "qualityStatus": "candidate",
+        "classificationConfidence": "medium",
+        "classificationMethod": "collector-review",
+        "inputMode": "image-editing",
+        "category": "composition"
+      }
+    }
+  },
+  {
+    "id": "sipteaandcoffee-2053466282419446015",
+    "title": {
+      "en": "Twelve-panel cinematic horse adventure storyboard",
+      "zh": null
+    },
+    "type": "generation",
+    "category": "comics-storyboards",
+    "inputMode": "text-to-image",
+    "status": "index-only",
+    "prompt": {
+      "original": "make a character sheet and Create a wide cinematic 12-panel storyboard infographic in a realistic photography style with warm golden cinematic colors, arranged in a clean 4x3 grid layout. Each panel must have clear numbering, bold cinematic titles, short bullet-point scene descriptions, and smooth visual storytelling like a professional Hollywood film-production storyboard. Maintain visual continuity of the same female protagonist and horse throughout all panels. Style should feel like a mix of an epic action movie trailer, luxury fashion commercial, and fantasy adventure film. Highly detailed, dynamic compositions, dramatic motion blur, cinematic lighting, shallow depth of field, realistic textures, and emotional storytelling.\nMain character: a stunning confident woman with flowing dark hair wearing a sleek tight black latex catsuit with subtle armored details, riding a majestic powerful white horse. The atmosphere is energetic, empowering, viral, cinematic, and action-heavy. Set during golden daylight with dramatic sunlight rays, dust, splashes, wind movement, and epic landscapes.\nPANEL 1 — “THE ARRIVAL”\nWide aerial shot\nWoman appears on white horse emerging from morning mist\nGolden sunlight breaking through clouds\nMassive valley landscape\nEpic cinematic scale\nPANEL 2 — “FULL SPEED”\nDynamic side tracking shot\nWhite horse galloping at extreme speed through shallow reflective water\nHuge water splashes frozen in motion\nHair and latex suit flowing dramatically\nIntense action energy\nPANEL 3 — “THE CHASE BEGINS”\nEnemy riders appear far behind\nDust clouds rising\nWoman glances back confidently\nFast cinematic tension\nHollywood action framing\nPANEL 4 — “RIVER LEAP”\nHorse jumps across a broken river gap\nMid-air cinematic freeze-frame feeling\nExplosive water spray below\nStrong sunlight rim lighting\nViral blockbuster moment\nPANEL 5 — “THE STANDOFF”\nWoman stops on a cliff edge\nWhite horse rearing powerfully\nWind blowing dramatically\nIntense eye contact with enemies\nHeroic empowering pose\nPANEL 6 — “AMBUSH”\nArrows fly through the air\nHorse drifting sideways in mud and water\nDynamic low-angle camera\nAction chaos\nCinematic motion blur\nPANEL 7 — “THE ESCAPE”\nFast forest chase sequence\nSun rays cutting through trees\nBranches and leaves flying everywhere\nTight handheld-style action shot\nHigh adrenaline energy\nPANEL 8 — “THE STORM”\nDark clouds roll in suddenly\nHeavy rain begins\nWet reflective latex suit and horse\nDramatic emotional atmosphere\nEpic fantasy visuals\nPANEL 9 — “THE FALL”\nHorse slides down rocky terrain\nWoman nearly falls but regains balance\nExtreme cinematic tension\nFlying debris and mud\nSurvival moment\nPANEL 10 — “THE RISE”\nSlow-motion heroic shot\nWoman stands beside white horse\nSunlight breaking through storm clouds\nDetermined expression\nPowerful emotional comeback\nPANEL 11 — “FINAL CHARGE”\nMassive battlefield sprint\nWhite horse charging directly toward camera\nExplosions, dust, flying debris\nEpic Hollywood trailer composition\nMaximum cinematic intensity\nPANEL 12 — “THE LEGEND”\nFinal victorious silhouette shot\nWoman and white horse standing on mountain peak\nGolden sunset sky\nHuge cinematic scale\nEmotional ending frame with legendary hero aura\nOverall style:\nRealistic cinematic photography\nWarm golden color grading\nHollywood action trailer aesthetic\nViral social-media-ready compositions\nDynamic camera angles\nStrong environmental storytelling\nHigh-detail textures\nCinematic motion blur\nEpic fantasy-action atmosphere\nSmooth visual continuity across all 12 panels\nUltra-detailed, photorealistic yet stylized\nPremium movie storyboard infographic design"
+    },
+    "media": [],
+    "models": [],
+    "sourcePreview": {
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HH9gsyvbkAAQiKE.jpg",
+          "role": "source-media"
+        }
+      ],
+      "promptExcerpt": "make a character sheet and Create a wide cinematic 12-panel storyboard infographic in a realistic ph",
+      "excerptTruncated": true
+    },
+    "provenance": {
+      "originalSource": {
+        "platform": "x",
+        "author": "@sipteaandcoffee",
+        "url": "https://x.com/sipteaandcoffee/status/2053466282419446015",
+        "postId": "2053466282419446015",
+        "publishedAt": "2026-05-10T13:24:47.000Z",
+        "verification": "reported-by-collector"
+      },
+      "collectedFrom": [
+        {
+          "sourceId": "sipteaandcoffee",
+          "mode": "collector-export",
+          "snapshotSha256": "8f04638b7ce87c54954e75b089b02743850269bd5c9bc545039d4e8024cf4a84",
+          "url": "https://x.com/sipteaandcoffee/status/2053466282419446015",
+          "collectedAt": "2026-11-27T16:12:57.230Z"
+        }
+      ]
+    },
+    "rights": {
+      "prompt": "unknown",
+      "media": "unknown"
+    },
+    "sourceMeta": {
+      "model": null,
+      "textReview": "complete",
+      "visualReview": "pending",
+      "pairing": "same-post-reported-by-collector",
+      "imageVerification": "source-reported media URLs; HTTP and visual match unchecked",
+      "review": {
+        "qualityStatus": "candidate",
+        "classificationConfidence": "medium",
+        "classificationMethod": "collector-review",
+        "inputMode": "text-to-image",
+        "category": "comics-storyboards"
+      }
+    }
+  },
+  {
+    "id": "sipteaandcoffee-2053494585830379785",
+    "title": {
+      "en": "Biographical editorial infographic template",
+      "zh": null
+    },
+    "type": "generation",
+    "category": "infographics",
+    "inputMode": "text-to-image",
+    "status": "index-only",
+    "prompt": {
+      "original": "Create a visually rich infographic about [Sadie sink]. Research their era, key achievements, turning points, and lasting impact. Use a dramatic portrait-style central illustration as the focal point, surrounded by annotated timeline segments, quote callouts, and symbolic icons representing their legacy. Style like a bold editorial spread — layered typography, color-blocked sections, and photorealistic portraiture against a dark or textured background. Dense, tactile, and magazine-quality."
+    },
+    "media": [],
+    "models": [],
+    "sourcePreview": {
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HH96cNYakAAa3b1.jpg",
+          "role": "source-media"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HH96cTHbwAA3Ged.jpg",
+          "role": "source-media"
+        }
+      ],
+      "promptExcerpt": "Create a visually rich infographic about [Sadie sink]. Research their era, key achievements, turning",
+      "excerptTruncated": true
+    },
+    "provenance": {
+      "originalSource": {
+        "platform": "x",
+        "author": "@sipteaandcoffee",
+        "url": "https://x.com/sipteaandcoffee/status/2053494585830379785",
+        "postId": "2053494585830379785",
+        "publishedAt": "2026-05-10T15:17:16.000Z",
+        "verification": "reported-by-collector"
+      },
+      "collectedFrom": [
+        {
+          "sourceId": "sipteaandcoffee",
+          "mode": "collector-export",
+          "snapshotSha256": "8f04638b7ce87c54954e75b089b02743850269bd5c9bc545039d4e8024cf4a84",
+          "url": "https://x.com/sipteaandcoffee/status/2053494585830379785",
+          "collectedAt": "2026-11-27T16:12:57.230Z"
+        }
+      ]
+    },
+    "rights": {
+      "prompt": "unknown",
+      "media": "unknown"
+    },
+    "sourceMeta": {
+      "model": null,
+      "textReview": "complete",
+      "visualReview": "pending",
+      "pairing": "same-post-reported-by-collector",
+      "imageVerification": "source-reported media URLs; HTTP and visual match unchecked",
+      "review": {
+        "qualityStatus": "candidate",
+        "classificationConfidence": "medium",
+        "classificationMethod": "collector-review",
+        "inputMode": "text-to-image",
+        "category": "infographics"
+      }
+    }
+  },
+  {
+    "id": "sipteaandcoffee-2054553101236080714",
+    "title": {
+      "en": "Tropical product advertisement template",
+      "zh": null
+    },
+    "type": "generation",
+    "category": "products",
+    "inputMode": "text-to-image",
+    "status": "index-only",
+    "prompt": {
+      "original": "Create a creative commercial advertising poster for [PRODUCT NAME], a [PRODUCT TYPE], inspired by vibrant tropical product campaigns. Place the product as a large hero object on the center-right with realistic glossy reflections, sharp label details, and premium lighting. Add a stylish model sitting beside or slightly in front of the product, naturally interacting with it by [MODEL ACTION]. The model should look [MOOD], wearing [OUTFIT STYLE], and should not cover the product label."
+    },
+    "media": [],
+    "models": [],
+    "sourcePreview": {
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HIM9J5xaoAAilbb.jpg",
+          "role": "source-media"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HIM9J7EaUAAxkFY.jpg",
+          "role": "source-media"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HIM9KEXbEAAvItL.jpg",
+          "role": "source-media"
+        }
+      ],
+      "promptExcerpt": "Create a creative commercial advertising poster for [PRODUCT NAME], a [PRODUCT TYPE], inspired by vi",
+      "excerptTruncated": true
+    },
+    "provenance": {
+      "originalSource": {
+        "platform": "x",
+        "author": "@sipteaandcoffee",
+        "url": "https://x.com/sipteaandcoffee/status/2054553101236080714",
+        "postId": "2054553101236080714",
+        "publishedAt": "2026-05-13T13:23:25.000Z",
+        "verification": "reported-by-collector"
+      },
+      "collectedFrom": [
+        {
+          "sourceId": "sipteaandcoffee",
+          "mode": "collector-export",
+          "snapshotSha256": "8f04638b7ce87c54954e75b089b02743850269bd5c9bc545039d4e8024cf4a84",
+          "url": "https://x.com/sipteaandcoffee/status/2054553101236080714",
+          "collectedAt": "2026-11-27T16:12:57.230Z"
+        }
+      ]
+    },
+    "rights": {
+      "prompt": "unknown",
+      "media": "unknown"
+    },
+    "sourceMeta": {
+      "model": null,
+      "textReview": "complete",
+      "visualReview": "pending",
+      "pairing": "same-post-reported-by-collector",
+      "imageVerification": "source-reported media URLs; HTTP and visual match unchecked",
+      "review": {
+        "qualityStatus": "candidate",
+        "classificationConfidence": "medium",
+        "classificationMethod": "collector-review",
+        "inputMode": "text-to-image",
+        "category": "products"
+      }
+    }
+  },
+  {
+    "id": "sipteaandcoffee-2055546364755370155",
+    "title": {
+      "en": "Techwear fashion editorial portrait",
+      "zh": null
+    },
+    "type": "generation",
+    "category": "portraits",
+    "inputMode": "text-to-image",
+    "status": "index-only",
+    "prompt": {
+      "original": "High-fashion editorial portrait of a young woman with long, straight moss-green hair, posing confidently against a solid muted grey background. She is wearing an avant-garde techwear ensemble featuring an oversized, cropped black utility hoodie with multiple tactical cargo pockets, straps, and orange accent tags. She pairs this with baggy grey drawstring sweatpants that include oversized side pockets.Her accessories include a black bucket hat with a centered orange logo, futuristic wraparound dark sunglasses, and large over-ear headphones resting around her neck. The composition is a medium shot with a professional studio lighting setup, creating soft shadows and a high-contrast, cinematic look. In the background, large stylized lime-green graphic typography is integrated behind the subject, mimicking a modern streetwear magazine cover. The overall aesthetic is gritty, urban, and ultra-detailed, 8k resolution, shot on 85mm lens.\n\nKey Technical Features\n\nAesthetic: Techwear / Cyberpunk Streetwear.\n\nLighting: Softbox studio lighting with a focus on fabric textures and facial sharp focus.\n\nColor Palette: Dominant charcoal and heather grey, contrasted by vibrant lime green and safety orange accents.\n\nComposition: Low-angle medium shot to emphasize a dominant, \"hero\" posture."
+    },
+    "media": [],
+    "models": [],
+    "sourcePreview": {
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HIbEhiQaIAAYwH3.jpg",
+          "role": "source-media"
+        }
+      ],
+      "promptExcerpt": "High-fashion editorial portrait of a young woman with long, straight moss-green hair, posing confide",
+      "excerptTruncated": true
+    },
+    "provenance": {
+      "originalSource": {
+        "platform": "x",
+        "author": "@sipteaandcoffee",
+        "url": "https://x.com/sipteaandcoffee/status/2055546364755370155",
+        "postId": "2055546364755370155",
+        "publishedAt": "2026-05-16T07:10:18.000Z",
+        "verification": "reported-by-collector"
+      },
+      "collectedFrom": [
+        {
+          "sourceId": "sipteaandcoffee",
+          "mode": "collector-export",
+          "snapshotSha256": "8f04638b7ce87c54954e75b089b02743850269bd5c9bc545039d4e8024cf4a84",
+          "url": "https://x.com/sipteaandcoffee/status/2055546364755370155",
+          "collectedAt": "2026-11-27T16:12:57.230Z"
+        }
+      ]
+    },
+    "rights": {
+      "prompt": "unknown",
+      "media": "unknown"
+    },
+    "sourceMeta": {
+      "model": null,
+      "textReview": "complete",
+      "visualReview": "pending",
+      "pairing": "same-post-reported-by-collector",
+      "imageVerification": "source-reported media URLs; HTTP and visual match unchecked",
+      "review": {
+        "qualityStatus": "candidate",
+        "classificationConfidence": "medium",
+        "classificationMethod": "collector-review",
+        "inputMode": "text-to-image",
+        "category": "portraits"
+      }
+    }
+  },
+  {
+    "id": "sipteaandcoffee-2055599984750501919",
+    "title": {
+      "en": "Photorealistic tech entrepreneur character sheet",
+      "zh": null
+    },
+    "type": "generation",
+    "category": "characters",
+    "inputMode": "text-to-image",
+    "status": "index-only",
+    "prompt": {
+      "original": "Ultra-realistic cinematic character sheet of a female tech entrepreneur, full professional turnaround presentation with front view, side profile, 3/4 angle, and full-body pose lineup displayed on a clean neutral gray studio background. 27-year-old woman with an elegant athletic build, sharp cheekbones, defined jawline, soft olive skin with realistic pores and natural imperfections, deep-set expressive brown eyes, thick dark eyebrows, subtle faint freckles, naturally shaped lips, and long dark chestnut hair with soft layered texture slightly tousled by wind. Quiet luxury aesthetic with a calm intimidating presence and understated confidence.\n\nOutfit consistency across all poses: fitted charcoal-black ribbed t-shirt, lightweight oversized black technical blazer worn open, slim dark charcoal trousers with tailored fit, minimal silver luxury watch, subtle silver rings, sleek black leather sneakers, no logos or visible branding. Neutral luxury styling, modern AI founder aesthetic, stealth wealth fashion language.\n\nExpression sheet included: neutral expression, subtle confident smirk, focused analytical stare, relaxed candid smile, and intense paparazzi eye contact. Hair movement references included with both controlled studio look and natural wind-blown variation.\n\nLighting references: realistic harsh midday sunlight version, soft overcast daylight version, and cinematic indoor ambient lighting reference. Skin should maintain realistic texture under every lighting condition with visible pores, slight under-eye detail, natural shine on forehead and cheeks, no beauty retouching.\n\nAdditional detail callouts around the sheet: close-up eye detail, jewelry detail, fabric texture detail, shoe reference, hand reference, silhouette reference, and movement posture study. Include natural relaxed poses such as leaning against a matte black Lamborghini Huracán, walking candidly through a city street, holding a phone casually, and sitting with confident posture.\n\nVisual style should feel like a premium Hollywood pre-production character design board mixed with ultra-realistic photography references. Real-world proportions, cinematic realism, shallow depth of field on close-ups, subtle motion blur on movement studies, slight chromatic aberration, documentary-style authenticity, raw modern luxury atmosphere, realistic urban founder energy, highly detailed photorealistic rendering, professional character turnaround layout, realistic typography labels and framing guides, luxury stealth wealth mood, modern cinematic fashion realism."
+    },
+    "media": [],
+    "models": [],
+    "sourcePreview": {
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HIb1RqPbIAAnHke.jpg",
+          "role": "source-media"
+        }
+      ],
+      "promptExcerpt": "Ultra-realistic cinematic character sheet of a female tech entrepreneur, full professional turnaroun",
+      "excerptTruncated": true
+    },
+    "provenance": {
+      "originalSource": {
+        "platform": "x",
+        "author": "@sipteaandcoffee",
+        "url": "https://x.com/sipteaandcoffee/status/2055599984750501919",
+        "postId": "2055599984750501919",
+        "publishedAt": "2026-05-16T10:43:22.000Z",
+        "verification": "reported-by-collector"
+      },
+      "collectedFrom": [
+        {
+          "sourceId": "sipteaandcoffee",
+          "mode": "collector-export",
+          "snapshotSha256": "8f04638b7ce87c54954e75b089b02743850269bd5c9bc545039d4e8024cf4a84",
+          "url": "https://x.com/sipteaandcoffee/status/2055599984750501919",
+          "collectedAt": "2026-11-27T16:12:57.230Z"
+        }
+      ]
+    },
+    "rights": {
+      "prompt": "unknown",
+      "media": "unknown"
+    },
+    "sourceMeta": {
+      "model": null,
+      "textReview": "complete",
+      "visualReview": "pending",
+      "pairing": "same-post-reported-by-collector",
+      "imageVerification": "source-reported media URLs; HTTP and visual match unchecked",
+      "review": {
+        "qualityStatus": "candidate",
+        "classificationConfidence": "medium",
+        "classificationMethod": "collector-review",
+        "inputMode": "text-to-image",
+        "category": "characters"
+      }
+    }
+  },
+  {
+    "id": "sipteaandcoffee-2055674237927686383",
+    "title": {
+      "en": "Crimson suede shoe product storyboard",
+      "zh": null
+    },
+    "type": "generation",
+    "category": "comics-storyboards",
+    "inputMode": "text-to-image",
+    "status": "index-only",
+    "prompt": {
+      "original": "PANEL 1 — THE VOID\n\nCrisp clean infographic storyboard poster panel for an ultra-luxury cinematic product film. Wide 16:9 layout, pure white background, black panel borders, bold black typography header reading “01 — THE VOID”. Premium Pixar-style 3D stylized rendering blended with ultra-realistic editorial luxury product aesthetics. Empty infinity cyclorama studio with seamless pale grey-to-white gradient floor curving into wall. Warm-neutral soft key light from above camera-left creating one soft shadow falling back-right. Atmospheric dust floating subtly in light beam. A single tiny deep crimson droplet descending from the top edge in slow motion, glossy curved surface with subtle warm highlights. 65mm IMAX cinematic composition, macro-capable Panavision anamorphic lens feel, fine editorial film grain, subtle luxury realism, minimalist Hermès/Loewe-inspired visual restraint. No text inside scene, no logos, no extra objects.\n\nPANEL 2 — SURFACE TENSION\n\nCrisp clean infographic storyboard poster panel, wide 16:9 layout, white background, black borders, bold black typography header reading “02 — SURFACE TENSION”. Extreme macro floor-level view of a flattened deep crimson liquid pool on polished infinity cyclorama surface. Warm editorial lighting from upper camera-left. Surface tension visible with elegant rounded edges, satin-like reflections, microscopic ripples propagating outward. Tiny drifting dust particles illuminated in soft beam. The liquid beginning to thicken subtly into velvety texture. Premium Pixar-style 3D rendering mixed with hyper-real luxury macro cinematography, warm neutral tones, fine film grain, shallow anamorphic depth of field, tactile material realism.\n\nPANEL 3 — THE FIRST FIBERS\n\nCrisp clean infographic storyboard poster panel, wide 16:9 layout, white background, black borders, bold black typography header reading “03 — THE FIRST FIBERS”. Extreme macro push-in across transforming crimson surface as microscopic suede nap fibers extrude upward organically like velvet grass. Thousands of tiny fibers catching warm directional highlights with varying density and angle. Transformation wave moving across the surface with realistic microfiber detail. Matte suede texture replacing liquid gloss entirely. Pixar-quality stylized realism combined with luxury couture macro photography, ultra tactile textures, cinematic film grain, warm Hermès-inspired lighting, no branding.\n\nPANEL 4 — MATERIAL MEMORY\n\nCrisp clean infographic storyboard poster panel, wide 16:9 layout, white background, black borders, bold black typography header reading “04 — MATERIAL MEMORY”. Hyper-detailed macro landscape of fully formed crimson suede terrain. Velvet nap strands shifting direction from invisible pressure waves beneath the material, creating tonal variations across the suede surface. Soft warm light rolling elegantly over microscopic texture. The terrain subtly lifting upward into the implied shape of a pointed shoe toe. Premium Pixar-style luxury rendering with ultra-real macro detail, clean editorial composition, seamless cyclorama environment.\n\nPANEL 5 — THE THREAD ARRIVES\n\nCrisp clean infographic storyboard poster panel, wide 16:9 layout, white background, black borders, bold black typography header reading “05 — THE THREAD ARRIVES”. Needle-resolution macro cinematic scene of a single crimson thread stitching into deep red suede. FPV-style close tracking beside advancing thread. Individual thread fibers visibly twisting under tension. Stitch peaks emerging rhythmically from suede surface with realistic textile compression around each puncture. Warm-neutral luxury editorial lighting, subtle horizontal anamorphic flares on thread highlights only. Pixar-style premium stylized realism blended with couture craftsmanship cinematography.\n\nPANEL 6 — CONSTRUCTION OF FORM\n\nCrisp clean infographic storyboard poster panel, wide 16:9 layout, white background, black borders, bold black typography header reading “06 — CONSTRUCTION OF FORM”. Macro-to-medium cinematic composition showing the crimson suede shoe structure emerging behind advancing stitch lines. Elegant pointed toe forming first, sidewalls rising upward sculpturally from previously flat suede material. The slingback silhouette beginning to appear gracefully. Floating cinematic camera arc feeling. Consistent matte crimson suede texture throughout. Warm editorial Loewe/Hermès-inspired lighting, subtle dust particles, Pixar-level premium 3D realism.\n\nPANEL 7 — THE INTERIOR\n\nCrisp clean infographic storyboard poster panel, wide 16:9 layout, white background, black borders, bold black typography header reading “07 — THE INTERIOR”. Luxurious macro cutaway view inside the forming slingback heel. Cream-colored lambskin lining flowing organically into place beneath deep crimson suede shell. Soft folds smoothing naturally along elegant internal curves. Strong visual contrast between warm cream leather and rich crimson suede under soft directional lighting. Hyper-tactile Pixar-style 3D stylization mixed with ultra-luxury editorial product cinematography, shallow depth of field, fine film grain.\n\nPANEL 8 — ENGINEERED COMFORT\n\nCrisp clean infographic storyboard poster panel, wide 16:9 layout, white background, black borders, bold black typography header reading “08 — ENGINEERED COMFORT”. Macro cross-sectional luxury engineering visualization of shoe cushioning layers assembling. Dense foam base layer with realistic porous texture, softer memory foam compressing gently above it, cream lambskin velvet sealing the top layer. Cushion compressing once naturally and rebounding realistically. Camera gliding across microscopic velvet texture. Premium Pixar-style 3D rendering with ultra-clean infographic composition, warm editorial lighting, no technical labels.\n\nPANEL 9 — THE HEEL SCULPTURE\n\nCrisp clean infographic storyboard poster panel, wide 16:9 layout, white background, black borders, bold black typography header reading “09 — THE HEEL SCULPTURE”. Macro cinematic close-up of sculpted crimson suede kitten heel gradually emerging from beneath shoe body. Elegant curved geometry refining itself organically. Camera angle tracking upward along heel contour toward slingback strap. Warm highlights softly skimming suede edges. Minimalist infinity cyclorama environment, luxurious Hermès-style restraint, Pixar-quality tactile rendering, ultra-clean composition.\n\nPANEL 10 — FINAL REFINEMENT\n\nCrisp clean infographic storyboard poster panel, wide 16:9 layout, white background, black borders, bold black typography header reading “10 — FINAL REFINEMENT”. Medium macro luxury beauty shot exploring completed craftsmanship details: perfectly aligned stitching, velvet nap direction, edge finishing, soft cream lambskin lining, seamless slingback geometry. Tiny dust particles floating through warm studio light beam. Materials settling microscopically into natural resting position. Ultra-premium Pixar-style stylized realism with cinematic editorial luxury lighting and crisp infographic structure.\n\nPANEL 11 — HERO EMERGENCE\n\nCrisp clean infographic storyboard poster panel, wide 16:9 layout, white background, black borders, bold black typography header reading “11 — HERO EMERGENCE”. Slow cinematic pullback composition revealing the fully completed deep crimson suede slingback heel standing alone centered on infinity cyclorama floor. Warm-neutral soft key light from above camera-left casting one elegant shadow back-right. Every material clearly visible: velvet suede upper, cream lambskin interior, sculpted kitten heel, refined slingback strap. Premium Pixar-style luxury product rendering with ultra-clean editorial minimalism and fine film grain.\n\nPANEL 12 — THE FINAL HOLD\n\nCrisp clean infographic storyboard poster panel, wide 16:9 layout, white background, black borders, bold black typography header reading “12 — THE FINAL HOLD”. Locked-off front three-quarter hero composition of a single completed crimson suede slingback heel perfectly centered on seamless infinity cyclorama background. Velvet nap catching warm light subtly with natural tonal variation. Absolute minimalist luxury restraint. No logo, no text in scene, no extra props. Pixar-style premium stylized realism blended with high-fashion Hermès/Loewe editorial cinematography, soft atmospheric grain, timeless luxury aesthetic."
+    },
+    "media": [],
+    "models": [],
+    "sourcePreview": {
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HIc4z_ubsAEPlpy.jpg",
+          "role": "source-media"
+        }
+      ],
+      "promptExcerpt": "PANEL 1 — THE VOID\n\nCrisp clean infographic storyboard poster panel for an ultra-luxury cinematic pr",
+      "excerptTruncated": true
+    },
+    "provenance": {
+      "originalSource": {
+        "platform": "x",
+        "author": "@sipteaandcoffee",
+        "url": "https://x.com/sipteaandcoffee/status/2055674237927686383",
+        "postId": "2055674237927686383",
+        "publishedAt": "2026-05-16T15:38:25.000Z",
+        "verification": "reported-by-collector"
+      },
+      "collectedFrom": [
+        {
+          "sourceId": "sipteaandcoffee",
+          "mode": "collector-export",
+          "snapshotSha256": "8f04638b7ce87c54954e75b089b02743850269bd5c9bc545039d4e8024cf4a84",
+          "url": "https://x.com/sipteaandcoffee/status/2055674237927686383",
+          "collectedAt": "2026-11-27T16:12:57.230Z"
+        }
+      ]
+    },
+    "rights": {
+      "prompt": "unknown",
+      "media": "unknown"
+    },
+    "sourceMeta": {
+      "model": null,
+      "textReview": "complete",
+      "visualReview": "pending",
+      "pairing": "same-post-reported-by-collector",
+      "imageVerification": "source-reported media URLs; HTTP and visual match unchecked",
+      "review": {
+        "qualityStatus": "candidate",
+        "classificationConfidence": "medium",
+        "classificationMethod": "collector-review",
+        "inputMode": "text-to-image",
+        "category": "comics-storyboards"
+      }
+    }
+  },
+  {
+    "id": "sipteaandcoffee-2056078056419393805",
+    "title": {
+      "en": "Monochrome streetwear editorial poster from a portrait",
+      "zh": null
+    },
+    "type": "generation",
+    "category": "posters",
+    "inputMode": "reference-to-image",
+    "status": "index-only",
+    "prompt": {
+      "original": "Use my uploaded image as the face reference.\n\nCreate a bold monochrome streetwear editorial poster featuring the uploaded person in oversized urban fashion, relaxed stance, hands in pockets, layered baggy clothing, sneakers, and confident rebellious attitude. Main theme keyword: \"[QUEEN]\". Use giant condensed typography behind the subject, handwritten signature-style script overlay, minimalist white studio background, gritty texture details, cinematic shadows, and luxury music-magazine aesthetics inspired by modern fashion campaigns. Black-and-white high-contrast photography style, full-body composition, eye-level angle, 85mm lens, ultra-sharp detail, soft studio lighting with subtle grain, premium viral poster design optimized for fashion and music culture content."
+    },
+    "media": [],
+    "models": [],
+    "sourcePreview": {
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HIioGD7asAAzivF.jpg",
+          "role": "source-media"
+        }
+      ],
+      "promptExcerpt": "Use my uploaded image as the face reference.\n\nCreate a bold monochrome streetwear editorial poster f",
+      "excerptTruncated": true
+    },
+    "provenance": {
+      "originalSource": {
+        "platform": "x",
+        "author": "@sipteaandcoffee",
+        "url": "https://x.com/sipteaandcoffee/status/2056078056419393805",
+        "postId": "2056078056419393805",
+        "publishedAt": "2026-05-17T18:23:03.000Z",
+        "verification": "reported-by-collector"
+      },
+      "collectedFrom": [
+        {
+          "sourceId": "sipteaandcoffee",
+          "mode": "collector-export",
+          "snapshotSha256": "8f04638b7ce87c54954e75b089b02743850269bd5c9bc545039d4e8024cf4a84",
+          "url": "https://x.com/sipteaandcoffee/status/2056078056419393805",
+          "collectedAt": "2026-11-27T16:12:57.230Z"
+        }
+      ]
+    },
+    "rights": {
+      "prompt": "unknown",
+      "media": "unknown"
+    },
+    "sourceMeta": {
+      "model": null,
+      "textReview": "complete",
+      "visualReview": "pending",
+      "pairing": "same-post-reported-by-collector",
+      "imageVerification": "source-reported media URLs; HTTP and visual match unchecked",
+      "review": {
+        "qualityStatus": "candidate",
+        "classificationConfidence": "medium",
+        "classificationMethod": "collector-review",
+        "inputMode": "reference-to-image",
+        "category": "posters"
+      }
+    }
+  },
+  {
+    "id": "sipteaandcoffee-2057538178672943460",
+    "title": {
+      "en": "Pakistan miniature world map infographic",
+      "zh": null
+    },
+    "type": "generation",
+    "category": "infographics",
+    "inputMode": "text-to-image",
+    "status": "index-only",
+    "prompt": {
+      "original": "Create an ultra-detailed hyper-realistic 9:16 cinematic miniature world map of Pakistan, designed as a premium luxury travel-poster masterpiece where the entire country appears as a massive handcrafted floating island civilization suspended in soft atmospheric clouds. The terrain must showcase dramatic elevation and geographic diversity, including the towering snow-covered peaks of the Karakoram and Himalayas (featuring K2), lush green valleys of Hunza and Swat, dense forests, glowing rivers like the Indus, crystal-blue coastlines along the Arabian Sea, cascading waterfalls, expansive deserts like Thar and Cholistan, fertile farmland of Punjab, and serene lakes.\nInclude futuristic cities blended with historical richness: Karachi as a sprawling coastal мегacity with glowing ports, highways, and modern skyline; Islamabad as a clean, organized capital with greenery, wide roads, and the iconic Faisal Mosque; Lahore as a cultural hub with Mughal-era architecture such as Badshahi Mosque and Lahore Fort; Peshawar and Quetta reflecting traditional architecture and mountainous backdrops. Add detailed infrastructure like highways, railways, suspension bridges, tiny moving vehicles, airplanes, and boats.\nEach province (Punjab, سندھ, خیبر پختونخوا, بلوچستان, گلگت بلتستان) should feel visually unique and culturally alive, represented through distinct architecture, clothing, festivals, colors, and environmental identity. Blend modern civilization with historical heritage: include shrines, mosques, forts, bazaars, truck art, and traditional markets naturally embedded into the environment.\nThe environment must feel alive with tiny human activity, realistic lighting, atmospheric fog depth, cinematic cloud formations, reflections, and immersive depth layering. Integrate hidden storytelling elements such as street food (biryani, nihari, chapli kebab), cricket scenes, local music, wildlife (markhor), traditional clothing (shalwar kameez), rickshaws, buses, and cultural symbols subtly throughout the landscape.\nDesign the composition in a clean minimal luxury editorial style with a bright elegant background. Place bold oversized PAKISTAN typography dominating the upper composition in a font inspired by Urdu calligraphy, with a cinematic tagline underneath like “Land of Majestic Peaks and Timeless Culture.” Add elegant minimal labels for major cities and landmarks integrated into the terrain.\nAt the bottom, include refined infographic-style details showing: Population, Languages (Urdu, English, regional languages), Currency (PKR), Tourism highlights, Famous exports (textiles, rice, sports goods), Cultural influence, Technology growth, Cuisine, and Transportation systems.\nEnsure strong visual hierarchy, premium travel-documentary aesthetics, vibrant natural colors inspired by Pakistan’s landscapes, ultra-premium cinematic color grading, emotionally immersive composition, highly zoomable micro-details, and an 8K masterpiece finish that feels timeless, modern, cinematic, luxurious, culturally rich, and instantly viral."
+    },
+    "media": [],
+    "models": [],
+    "sourcePreview": {
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HI3YEWEaYAAGgjj.jpg",
+          "role": "source-media"
+        }
+      ],
+      "promptExcerpt": "Create an ultra-detailed hyper-realistic 9:16 cinematic miniature world map of Pakistan, designed as",
+      "excerptTruncated": true
+    },
+    "provenance": {
+      "originalSource": {
+        "platform": "x",
+        "author": "@sipteaandcoffee",
+        "url": "https://x.com/sipteaandcoffee/status/2057538178672943460",
+        "postId": "2057538178672943460",
+        "publishedAt": "2026-05-21T19:05:03.000Z",
+        "verification": "reported-by-collector"
+      },
+      "collectedFrom": [
+        {
+          "sourceId": "sipteaandcoffee",
+          "mode": "collector-export",
+          "snapshotSha256": "8f04638b7ce87c54954e75b089b02743850269bd5c9bc545039d4e8024cf4a84",
+          "url": "https://x.com/sipteaandcoffee/status/2057538178672943460",
+          "collectedAt": "2026-11-27T16:12:57.230Z"
+        }
+      ]
+    },
+    "rights": {
+      "prompt": "unknown",
+      "media": "unknown"
+    },
+    "sourceMeta": {
+      "model": null,
+      "textReview": "complete",
+      "visualReview": "pending",
+      "pairing": "same-post-reported-by-collector",
+      "imageVerification": "source-reported media URLs; HTTP and visual match unchecked",
+      "review": {
+        "qualityStatus": "candidate",
+        "classificationConfidence": "medium",
+        "classificationMethod": "collector-review",
+        "inputMode": "text-to-image",
+        "category": "infographics"
+      }
+    }
+  },
+  {
+    "id": "sipteaandcoffee-2061473641016299650",
+    "title": {
+      "en": "Sunny countryside with chickens and cats",
+      "zh": null
+    },
+    "type": "generation",
+    "category": "other",
+    "inputMode": "text-to-image",
+    "status": "index-only",
+    "prompt": {
+      "original": "A breathtaking ultra-realistic photograph of a lush green countryside landscape on a bright sunny day, featuring beautiful rolling hills covered in vibrant green grass and dense foliage, traditional wooden farmhouse or rustic barn in the mid-ground, numerous free-range hens and fluffy chickens roaming around, several cute cats lounging and playing in the grass, dramatic low-angle perspective looking up towards the scenery, vibrant blue sky with scattered white fluffy clouds, rich greenery with trees and wildflowers in the foreground, highly detailed natural environment, soft golden sunlight, sharp details on animals and plants, cinematic lighting, vibrant colors, photorealistic, 8k resolution, masterpiece"
+    },
+    "media": [],
+    "models": [],
+    "sourcePreview": {
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HJvTVxXa8AIv9qj.jpg",
+          "role": "source-media"
+        }
+      ],
+      "promptExcerpt": "A breathtaking ultra-realistic photograph of a lush green countryside landscape on a bright sunny da",
+      "excerptTruncated": true
+    },
+    "provenance": {
+      "originalSource": {
+        "platform": "x",
+        "author": "@sipteaandcoffee",
+        "url": "https://x.com/sipteaandcoffee/status/2061473641016299650",
+        "postId": "2061473641016299650",
+        "publishedAt": "2026-06-01T15:43:11.000Z",
+        "verification": "reported-by-collector"
+      },
+      "collectedFrom": [
+        {
+          "sourceId": "sipteaandcoffee",
+          "mode": "collector-export",
+          "snapshotSha256": "8f04638b7ce87c54954e75b089b02743850269bd5c9bc545039d4e8024cf4a84",
+          "url": "https://x.com/sipteaandcoffee/status/2061473641016299650",
+          "collectedAt": "2026-11-27T16:12:57.230Z"
+        }
+      ]
+    },
+    "rights": {
+      "prompt": "unknown",
+      "media": "unknown"
+    },
+    "sourceMeta": {
+      "model": null,
+      "textReview": "complete",
+      "visualReview": "pending",
+      "pairing": "same-post-reported-by-collector",
+      "imageVerification": "source-reported media URLs; HTTP and visual match unchecked",
+      "review": {
+        "qualityStatus": "candidate",
+        "classificationConfidence": "medium",
+        "classificationMethod": "collector-review",
+        "inputMode": "text-to-image",
+        "category": "other"
+      }
+    }
+  },
+  {
+    "id": "sipteaandcoffee-2062226869299323260",
+    "title": {
+      "en": "Freeform character sketchbook from a photo",
+      "zh": null
+    },
+    "type": "editing",
+    "category": "restyle",
+    "inputMode": "image-editing",
+    "status": "index-only",
+    "prompt": {
+      "original": "Draw the character in the image, (me) in a free and stripped colored sketch style. On a bright white background, freely distribute full-body drawings, face close-ups, small scribbles, full-body sketches and chibi/deformed versions, so that the page conveys the character's humor and personality.\nDon't do it like an organized character sheet, but like a sketchbook full of information drawn at will by an illustrator and then stacked.\nThe written make it in Urdu"
+    },
+    "media": [],
+    "models": [],
+    "sourcePreview": {
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HJ6AaCFbsAAwk9x.jpg",
+          "role": "source-media"
+        }
+      ],
+      "promptExcerpt": "Draw the character in the image, (me) in a free and stripped colored sketch style. On a bright white",
+      "excerptTruncated": true
+    },
+    "provenance": {
+      "originalSource": {
+        "platform": "x",
+        "author": "@sipteaandcoffee",
+        "url": "https://x.com/sipteaandcoffee/status/2062226869299323260",
+        "postId": "2062226869299323260",
+        "publishedAt": "2026-06-03T17:36:14.000Z",
+        "verification": "reported-by-collector"
+      },
+      "collectedFrom": [
+        {
+          "sourceId": "sipteaandcoffee",
+          "mode": "collector-export",
+          "snapshotSha256": "8f04638b7ce87c54954e75b089b02743850269bd5c9bc545039d4e8024cf4a84",
+          "url": "https://x.com/sipteaandcoffee/status/2062226869299323260",
+          "collectedAt": "2026-11-27T16:12:57.230Z"
+        }
+      ]
+    },
+    "rights": {
+      "prompt": "unknown",
+      "media": "unknown"
+    },
+    "sourceMeta": {
+      "model": null,
+      "textReview": "complete",
+      "visualReview": "pending",
+      "pairing": "same-post-reported-by-collector",
+      "imageVerification": "source-reported media URLs; HTTP and visual match unchecked",
+      "review": {
+        "qualityStatus": "candidate",
+        "classificationConfidence": "medium",
+        "classificationMethod": "collector-review",
+        "inputMode": "image-editing",
+        "category": "restyle"
+      }
+    }
+  },
+  {
+    "id": "sipteaandcoffee-2062690114497851717",
+    "title": {
+      "en": "Messi double-exposure Argentina travel campaign",
+      "zh": null
+    },
+    "type": "generation",
+    "category": "travel",
+    "inputMode": "text-to-image",
+    "status": "index-only",
+    "prompt": {
+      "original": "Ultra-premium travel tourism poster featuring Lionel Messi, designed in a sophisticated double-exposure style. A highly detailed cinematic portrait of Lionel Messi standing confidently against a warm beige minimalist background, wearing a sleek black bomber jacket and backpack, holding a smartphone in one hand. His gaze is directed upward with a determined and inspirational expression.\nInside his silhouette, a breathtaking montage of Argentina's iconic landscapes and landmarks is seamlessly blended, including the colorful houses of La Boca in Buenos Aires, the majestic Perito Moreno Glacier in Patagonia, dramatic Andean mountains, the iconic Obelisco, vibrant tango streets, golden-hour reflections on the Río de la Plata, and the thundering Iguazu Falls. Small birds fly across the sunset sky, enhancing the sense of freedom and discovery.\nElegant modern typography on the right side reads \"ARGENTINA\" in large bold letters with subtle Argentine flag accents (light blue and white). Premium tourism campaign branding includes motivational travel slogans such as \"Move. Explore. Feel.\" and \"Time to Discover.\" Clean luxury advertising layout, high-end magazine cover aesthetic, soft golden lighting, realistic skin texture, ultra-sharp details, cinematic color grading, professional commercial photography, destination marketing campaign, award-winning graphic design, photorealistic double exposure, depth, atmosphere, and storytelling.\nStyle Keywords:\nDouble exposure, luxury tourism poster, cinematic portrait photography, travel advertisement, premium branding, photorealistic, ultra-detailed, warm beige tones, golden hour lighting, editorial design, modern typography, inspirational travel campaign, 8K quality, masterpiece composition."
+    },
+    "media": [],
+    "models": [],
+    "sourcePreview": {
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HKAluhqaQAAuBDs.jpg",
+          "role": "source-media"
+        }
+      ],
+      "promptExcerpt": "Ultra-premium travel tourism poster featuring Lionel Messi, designed in a sophisticated double-expos",
+      "excerptTruncated": true
+    },
+    "provenance": {
+      "originalSource": {
+        "platform": "x",
+        "author": "@sipteaandcoffee",
+        "url": "https://x.com/sipteaandcoffee/status/2062690114497851717",
+        "postId": "2062690114497851717",
+        "publishedAt": "2026-06-05T00:17:00.000Z",
+        "verification": "reported-by-collector"
+      },
+      "collectedFrom": [
+        {
+          "sourceId": "sipteaandcoffee",
+          "mode": "collector-export",
+          "snapshotSha256": "8f04638b7ce87c54954e75b089b02743850269bd5c9bc545039d4e8024cf4a84",
+          "url": "https://x.com/sipteaandcoffee/status/2062690114497851717",
+          "collectedAt": "2026-11-27T16:12:57.230Z"
+        }
+      ]
+    },
+    "rights": {
+      "prompt": "unknown",
+      "media": "unknown"
+    },
+    "sourceMeta": {
+      "model": null,
+      "textReview": "complete",
+      "visualReview": "pending",
+      "pairing": "same-post-reported-by-collector",
+      "imageVerification": "source-reported media URLs; HTTP and visual match unchecked",
+      "review": {
+        "qualityStatus": "candidate",
+        "classificationConfidence": "medium",
+        "classificationMethod": "collector-review",
+        "inputMode": "text-to-image",
+        "category": "travel"
+      }
+    }
+  },
+  {
+    "id": "sipteaandcoffee-2062846034967986198",
+    "title": {
+      "en": "Isometric Pakistan travel ticket diorama",
+      "zh": null
+    },
+    "type": "generation",
+    "category": "travel",
+    "inputMode": "text-to-image",
+    "status": "index-only",
+    "prompt": {
+      "original": "Create a premium stylized 3D isometric travel poster of Pakistan designed as a floating miniature world placed on top of a large ticket, postcard, or stamp platform with perforated edges. Automatically include the most iconic and recognizable landmarks, skylines, architecture, mountains, deserts, valleys, rivers, forts, mosques, coastal areas, and cultural heritage sites associated with Pakistan. Compose everything in a compact cinematic arrangement with realistic geography and a strong, instantly recognizable national identity.\n\nStyle the scene as:\n\nultra detailed 3D diorama\n\nphotorealistic miniature architecture\n\ncinematic travel advertisement\n\nluxury tourism aesthetic\n\nhighly immersive but minimal\n\nclean and elegant composition\n\nrealistic textures and reflections\n\nsoft atmospheric haze\n\nsubtle depth of field\n\npremium Instagram-worthy artwork\n\nEnvironment details:\n\nmajestic northern mountain ranges including dramatic snow-capped peaks and deep valleys (Himalayas, Karakoram, and Hindu Kush-inspired terrain)\n\nlush green plateaus, rivers, and fertile plains flowing naturally into the landscape\n\ndesert regions with warm sandy tones subtly integrated\n\ncoastal Arabian Sea shoreline with harbors and calm blue water\n\ntiny boats, ferries, and sailboats in coastal areas\n\nwinding rivers and curved shorelines for visual flow\n\nfloating soft volumetric clouds around mountains and skyline\n\nwarm golden cinematic sunlight with long elegant shadows\n\nsubtle reflections on water and architectural surfaces\n\nIconic landmarks to include (miniature but recognizable):\n\nBadshahi Mosque and Lahore Fort (Lahore heritage core)\n\nFaisal Mosque with modern geometric silhouette (Islamabad)\n\nMinar-e-Pakistan as a central national symbol\n\nKarachi skyline with modern high-rises and coastal port activity\n\nMakran Coastline cliffs and beaches\n\nHunza Valley-style traditional villages and terraced landscapes\n\nFairy Meadows–inspired alpine scenery near towering peaks\n\nAdd tiny realistic miniature people naturally placed near landmarks and landscapes:\n\ntourists taking photos at monuments\n\ncouples walking through scenic viewpoints\n\ntravelers near waterfronts and mountain trails\n\nsmall silhouettes for scale only\n\navoid crowds or clutter\n\nTypography: On the blank white ticket/poster area, automatically add:\n\nthe destination name in large bold elegant typography: PAKISTAN\n\na short poetic luxury-travel-style tagline such as: “Where mountains touch history and rivers write stories”\n\nTypography style:\n\nmodern sans-serif\n\npremium travel poster design\n\nminimal and elegant\n\nsubtle shadows and refined spacing\n\nBackground:\n\nsmooth vibrant gradient background inspired by Pakistan’s natural palette (emerald green, sandstone gold, deep ocean blue, snowy white)\n\nminimal distractions\n\ngenerous negative space around the floating island platform\n\nComposition:\n\nfloating centered isometric platform\n\nbalanced harmony between mountains, cities, coast, and typography\n\ndestination feels suspended in air like a collectible world\n\ncinematic framing\n\nvisually clean, uncluttered, premium editorial finish\n\nAspect ratio: 1:1\n\nExtremely detailed, cinematic, modern, premium, luxurious, artistic, visually striking travel-poster aesthetic."
+    },
+    "media": [],
+    "models": [],
+    "sourcePreview": {
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HKCziKTXsAAWLOt.jpg",
+          "role": "source-media"
+        }
+      ],
+      "promptExcerpt": "Create a premium stylized 3D isometric travel poster of Pakistan designed as a floating miniature wo",
+      "excerptTruncated": true
+    },
+    "provenance": {
+      "originalSource": {
+        "platform": "x",
+        "author": "@sipteaandcoffee",
+        "url": "https://x.com/sipteaandcoffee/status/2062846034967986198",
+        "postId": "2062846034967986198",
+        "publishedAt": "2026-06-05T10:36:35.000Z",
+        "verification": "reported-by-collector"
+      },
+      "collectedFrom": [
+        {
+          "sourceId": "sipteaandcoffee",
+          "mode": "collector-export",
+          "snapshotSha256": "8f04638b7ce87c54954e75b089b02743850269bd5c9bc545039d4e8024cf4a84",
+          "url": "https://x.com/sipteaandcoffee/status/2062846034967986198",
+          "collectedAt": "2026-11-27T16:12:57.230Z"
+        }
+      ]
+    },
+    "rights": {
+      "prompt": "unknown",
+      "media": "unknown"
+    },
+    "sourceMeta": {
+      "model": null,
+      "textReview": "complete",
+      "visualReview": "pending",
+      "pairing": "same-post-reported-by-collector",
+      "imageVerification": "source-reported media URLs; HTTP and visual match unchecked",
+      "review": {
+        "qualityStatus": "candidate",
+        "classificationConfidence": "medium",
+        "classificationMethod": "collector-review",
+        "inputMode": "text-to-image",
+        "category": "travel"
+      }
+    }
+  },
+  {
+    "id": "sipteaandcoffee-2063495489832784131",
+    "title": {
+      "en": "Pastel paper-collage Pakistan travel poster",
+      "zh": null
+    },
+    "type": "generation",
+    "category": "travel",
+    "inputMode": "text-to-image",
+    "status": "index-only",
+    "prompt": {
+      "original": "PASTEL PAPER-COLLAGE STYLE META PROMPT\n\nCreate a refined wide landscape illustration of Pakistan, naturally featuring Faisal Mosque as the main recognizable visual anchor.\n\nCORE STYLE:\nDepict Pakistan as a calm, elegant, highly stylized scene in a toned-down pastel paper-collage poster style. The scene should feel minimal, clean, poetic, modern, cultured, leisurely, and softly cheerful rather than realistic.\n\nCOMPOSITION:\nUse a spacious horizontal composition. Place Faisal Mosque as the central focus, clearly recognizable through its iconic triangular tent-like architecture and soaring minarets rising above the layered landscape. Surround it with simplified representations of the Margalla Hills, Hunza Valley mountains, Badshahi Mosque silhouettes, Lahore Fort elements, traditional villages, winding rivers, terraced fields, and regional cultural details. Reinterpret everything in highly stylized illustrated forms using clean geometric shapes, layered color planes, soft curves, crisp silhouettes, and paper-like cutout forms. Avoid photorealism.\n\nVISUAL ELEMENTS:\nInclude minimal charming details: tiny strolling figures, cyclists, traditional market scenes, colorful trucks, boats on the Indus River, flowering trees, grazing animals, and small architectural accents inspired by Pakistan's diverse regions. Use a calm open sky with generous breathing space and clean horizontal layered divisions suggesting depth and atmosphere.\n\nCOLOR PALETTE (Toned-Down Pastels):\nSoft sky blue, hazy blue-gray, pale cobalt, muted sage green, powder mint, warm cream, light beige, pale stone gray, dusty coral, soft peach, muted yellow, off-white, with subtle accents of emerald green, turquoise, terracotta, and deep navy inspired by Pakistani art, textiles, and landscapes.\n\nTACTILE QUALITY:\nThe image should feel tactile and handmade, like carefully arranged colored paper and gouache-painted poster board. Add subtle paper grain, matte printed texture, soft raised edges, delicate embossing, slight cut-paper shadows, and gentle surface roughness. Keep the surface refined and minimal, not messy.\n\nVISUAL LANGUAGE:\nMinimal paper collage, pastel travel poster, flat graphic shapes, subtle 3D paper relief, clean silhouettes, simplified architecture, soft matte texture, crisp color fields, gentle shadows, minimal linework, refined editorial illustration, modern South Asian cultural poster mood. Wide landscape format, balanced negative space, strong graphic layering, clear focal area, simplified zones arranged harmoniously, airy, composed, and visually restful.\n\nLIGHTING & MOOD:\nBright soft daylight, clean atmosphere, gentle shadows, warm relaxed tone, cultured and optimistic mood, quiet and sophisticated travel-poster feeling.\n\nTYPOGRAPHY (Upper-left corner):\nMain title \"PAKISTAN\" in geometric uppercase sans-serif font with wide letter-spacing, solid white color. Below: smaller native text \"پاکستان · Pakistan\" and English subtext \"Faisal Mosque & Northern Landscapes\", all in matching white, left-aligned, thin stroke weights with airy spacious tracking.\n\nAVOID:\nPhotorealism, realistic photography, over-detailed buildings, heavy outlines, messy brushwork, neon cyberpunk style, dark gloomy lighting, excessive gradients, crowded scenes, readable signage, logos, watermarks.\n\nFINAL RESULT:\nA polished minimal pastel paper-collage landscape illustration of Pakistan, with Faisal Mosque as the main recognizable visual anchor, featuring tactile paper texture, soft shadows, clean geometric color blocking, generous negative space, and a refined modern travel-illustration mood that celebrates the country's natural beauty, cultural heritage, mountains, rivers, and iconic architecture."
+    },
+    "media": [],
+    "models": [],
+    "sourcePreview": {
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HKMCNYJasAAsASL.jpg",
+          "role": "source-media"
+        }
+      ],
+      "promptExcerpt": "PASTEL PAPER-COLLAGE STYLE META PROMPT\n\nCreate a refined wide landscape illustration of Pakistan, na",
+      "excerptTruncated": true
+    },
+    "provenance": {
+      "originalSource": {
+        "platform": "x",
+        "author": "@sipteaandcoffee",
+        "url": "https://x.com/sipteaandcoffee/status/2063495489832784131",
+        "postId": "2063495489832784131",
+        "publishedAt": "2026-06-07T05:37:17.000Z",
+        "verification": "reported-by-collector"
+      },
+      "collectedFrom": [
+        {
+          "sourceId": "sipteaandcoffee",
+          "mode": "collector-export",
+          "snapshotSha256": "8f04638b7ce87c54954e75b089b02743850269bd5c9bc545039d4e8024cf4a84",
+          "url": "https://x.com/sipteaandcoffee/status/2063495489832784131",
+          "collectedAt": "2026-11-27T16:12:57.230Z"
+        }
+      ]
+    },
+    "rights": {
+      "prompt": "unknown",
+      "media": "unknown"
+    },
+    "sourceMeta": {
+      "model": null,
+      "textReview": "complete",
+      "visualReview": "pending",
+      "pairing": "same-post-reported-by-collector",
+      "imageVerification": "source-reported media URLs; HTTP and visual match unchecked",
+      "review": {
+        "qualityStatus": "candidate",
+        "classificationConfidence": "medium",
+        "classificationMethod": "collector-review",
+        "inputMode": "text-to-image",
+        "category": "travel"
+      }
+    }
+  },
+  {
+    "id": "sipteaandcoffee-2064034557352202253",
+    "title": {
+      "en": "Running shoe miniature brand universe",
+      "zh": null
+    },
+    "type": "generation",
+    "category": "products",
+    "inputMode": "text-to-image",
+    "status": "index-only",
+    "prompt": {
+      "original": "A high-performance running shoe transformed into a miniature brand universe. The shoe is the hero character, surrounded by floating speed trails, miniature running tracks, energetic mascot companions, stopwatch icons, clouds, and dynamic sports-inspired elements. Oversized bold typography integrated into the scene. Clean commercial 3D rendering, pastel orange, white, and gray color palette derived from the product, premium packaging aesthetics, soft gloss, graphic backgrounds, floating platforms, collectible toy-like charm. Modern consumer branding, cute yet premium, highly shareable social-media campaign visual, rich detail, centered composition, studio quality."
+    },
+    "media": [],
+    "models": [],
+    "sourcePreview": {
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HKTsfYOa0AAcA3q.jpg",
+          "role": "source-media"
+        }
+      ],
+      "promptExcerpt": "A high-performance running shoe transformed into a miniature brand universe. The shoe is the hero ch",
+      "excerptTruncated": true
+    },
+    "provenance": {
+      "originalSource": {
+        "platform": "x",
+        "author": "@sipteaandcoffee",
+        "url": "https://x.com/sipteaandcoffee/status/2064034557352202253",
+        "postId": "2064034557352202253",
+        "publishedAt": "2026-06-08T17:19:21.000Z",
+        "verification": "reported-by-collector"
+      },
+      "collectedFrom": [
+        {
+          "sourceId": "sipteaandcoffee",
+          "mode": "collector-export",
+          "snapshotSha256": "8f04638b7ce87c54954e75b089b02743850269bd5c9bc545039d4e8024cf4a84",
+          "url": "https://x.com/sipteaandcoffee/status/2064034557352202253",
+          "collectedAt": "2026-11-27T16:12:57.230Z"
+        }
+      ]
+    },
+    "rights": {
+      "prompt": "unknown",
+      "media": "unknown"
+    },
+    "sourceMeta": {
+      "model": null,
+      "textReview": "complete",
+      "visualReview": "pending",
+      "pairing": "same-post-reported-by-collector",
+      "imageVerification": "source-reported media URLs; HTTP and visual match unchecked",
+      "review": {
+        "qualityStatus": "candidate",
+        "classificationConfidence": "medium",
+        "classificationMethod": "collector-review",
+        "inputMode": "text-to-image",
+        "category": "products"
+      }
+    }
+  },
+  {
+    "id": "sipteaandcoffee-2064207510777782352",
+    "title": {
+      "en": "Miniature biscuit castle advertising poster",
+      "zh": null
+    },
+    "type": "generation",
+    "category": "products",
+    "inputMode": "text-to-image",
+    "status": "index-only",
+    "prompt": {
+      "original": "Design a minimalist luxury 3D advertising poster for Prince Biscuits.\n\nThe centerpiece is a surreal giant golden biscuit castle constructed entirely from iconic Prince biscuits. The biscuit structure should feel imaginative and unexpected while instantly recognizable as the brand's signature product. Use realistic biscuit textures, embossed details, cream layers, and subtle crumb elements to create a premium visual metaphor of a kingdom built from Prince biscuits.\n\nPlace a tiny human character beside the giant biscuit castle, actively exploring and climbing its towers with a small ladder. The miniature figure should create a strong sense of scale, storytelling, and playful curiosity while maintaining a clean, sophisticated composition.\n\nUse Prince's signature red and golden-yellow color palette as the background, with a smooth gradient and plenty of negative space. Keep the composition centered and balanced.\n\nPosition the Prince Biscuits logo at the top of the poster. Place the brand slogan \"The Taste of Happiness\" elegantly at the bottom.\n\nStyle requirements:\nMinimalist, intelligent, visually striking, premium advertising design, ultra-detailed 3D rendering, photorealistic biscuit textures, commercial campaign quality, luxury product photography, soft studio lighting, subtle shadows, clean background, modern fashion-ad aesthetic, highly shareable social media campaign.\n\nFormat: Vertical poster, 9:16 ratio.\n\nRendering style: Ultra-realistic CGI, Behance-worthy advertising presentation, premium food branding, cinematic lighting, luxury commercial artwork, launch-ready marketing visual."
+    },
+    "media": [],
+    "models": [],
+    "sourcePreview": {
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HKWJypvaYAA9PDm.jpg",
+          "role": "source-media"
+        }
+      ],
+      "promptExcerpt": "Design a minimalist luxury 3D advertising poster for Prince Biscuits.\n\nThe centerpiece is a surreal ",
+      "excerptTruncated": true
+    },
+    "provenance": {
+      "originalSource": {
+        "platform": "x",
+        "author": "@sipteaandcoffee",
+        "url": "https://x.com/sipteaandcoffee/status/2064207510777782352",
+        "postId": "2064207510777782352",
+        "publishedAt": "2026-06-09T04:46:36.000Z",
+        "verification": "reported-by-collector"
+      },
+      "collectedFrom": [
+        {
+          "sourceId": "sipteaandcoffee",
+          "mode": "collector-export",
+          "snapshotSha256": "8f04638b7ce87c54954e75b089b02743850269bd5c9bc545039d4e8024cf4a84",
+          "url": "https://x.com/sipteaandcoffee/status/2064207510777782352",
+          "collectedAt": "2026-11-27T16:12:57.230Z"
+        }
+      ]
+    },
+    "rights": {
+      "prompt": "unknown",
+      "media": "unknown"
+    },
+    "sourceMeta": {
+      "model": null,
+      "textReview": "complete",
+      "visualReview": "pending",
+      "pairing": "same-post-reported-by-collector",
+      "imageVerification": "source-reported media URLs; HTTP and visual match unchecked",
+      "review": {
+        "qualityStatus": "candidate",
+        "classificationConfidence": "medium",
+        "classificationMethod": "collector-review",
+        "inputMode": "text-to-image",
+        "category": "products"
+      }
+    }
+  },
+  {
+    "id": "sipteaandcoffee-2064424561622634711",
+    "title": {
+      "en": "Argentina football uniform campaign poster",
+      "zh": null
+    },
+    "type": "generation",
+    "category": "posters",
+    "inputMode": "text-to-image",
+    "status": "index-only",
+    "prompt": {
+      "original": "ARGENTINA NATIONAL TEAM\n\n\"NEW UNIFORM\"\n\nFORMAT\n\nUltra-Premium Football Fashion SMM Promotional Poster\nVertical 4:5\nInstagram Hero Creative\nGlobal Sportswear Advertising\nCommercial Football Graphic Design\nAgency-Level Art Direction\nBehance Front Page Quality\n8K UHD\nHyper-Realistic\nFootball × Fashion × Graphic Design Fusion\nZero AI Slop\nZero Generic Sports Posters\nZero Match-Day Graphics\nZero Editorial-Only Aesthetic\n\nCORE STRATEGY\n\nThis is not a football poster.\n\nThis is a national identity statement disguised as a uniform campaign.\n\nThe design should feel like Argentina's biggest football billboard,\na luxury sportswear campaign,\nand a World Cup legacy poster\nmerged into one visual.\n\nThe graphic design is equally important as the athlete.\n\nTypography is not decoration.\n\nTypography is architecture.\n\nCAMPAIGN IDEA\n\n\"NEW UNIFORM\"\n\nNot just a jersey.\n\nA symbol of legacy.\n\nA symbol of champions.\n\nA symbol worn by those who carry history forward.\n\nThe uniform isn't being sold.\n\nThe identity is.\n\nMASTER VISUAL\n\nMassive oversized ARGENTINA typography dominates the entire composition.\n\nThe word:\n\nARGENTINA\n\noccupies nearly 75% of the canvas.\n\nTypography is integrated into the design.\n\nLetters extend beyond frame edges.\n\nSome letters cropped.\n\nSome hidden behind the player.\n\nSome functioning as compositional structures.\n\nThe typography should feel monumental.\n\nThe official federation crest appears subtly integrated into the layout.\n\nHERO SUBJECT\n\nElite female footballer.\n\nNatural beauty.\n\nConfident expression.\n\nMinimal makeup.\n\nChampion mentality.\n\nNo smiling.\n\nNo dramatic celebration.\n\nRelaxed confidence.\n\nWardrobe:\n\nArgentina 2026 home jersey.\n\nSky-blue and white stripes.\n\nMatching shorts.\n\nPremium football socks.\n\nModern football styling.\n\nClean elite-athlete aesthetic.\n\nPOSE\n\nPlayer stepping through the giant typography.\n\nOne foot slightly forward.\n\nDirect eye contact.\n\nHands relaxed.\n\nBody partially intersecting typography.\n\nThe feeling:\n\nShe carries the weight of champions effortlessly.\n\nCOMPOSITION\n\nTypography occupies 70%.\n\nPlayer occupies 20%.\n\nPromotional elements occupy 10%.\n\nVisual hierarchy:\n\nARGENTINA\n↓\nPlayer\n↓\nPromotion\n↓\nCTA\n\nEverything feels intentional.\n\nCOLOR SYSTEM\n\nPrimary:\n\nArgentina Sky Blue\n\nWhite\n\nSilver\n\nIce Blue\n\nSoft Grey\n\nAccent:\n\nGold Championship Details\n\nFederation Crest Gold\n\nNo neon colors.\n\nNo trend-chasing palettes.\n\nTimeless sporting elegance.\n\nBACKGROUND\n\nClean premium sports backdrop.\n\nLarge soft gradient.\n\nMinimal studio environment.\n\nSubtle premium texture.\n\nNo stadium.\n\nNo crowd.\n\nNo scenery.\n\nThe design itself creates the environment.\n\nGRAPHIC DESIGN SYSTEM\n\nFloating collection cards.\n\nChampionship-inspired labels.\n\nMinimal grid system.\n\nThin lines.\n\nMicro typography.\n\nPremium global football campaign hierarchy.\n\nInternational flagship-store energy.\n\nPROMOTIONAL ELEMENTS\n\nNEW UNIFORM\n\nARGENTINA 2026\n\nWORLD STAGE READY\n\nLIMITED RELEASE\n\nOFFICIAL COLLECTION\n\nMEMBERS EARLY ACCESS\n\nFREE SHIPPING\n\nIntegrated naturally into layout.\n\nNot banner spam.\n\nTYPOGRAPHY HIERARCHY\n\nTop Left\n\nARGENTINA\n\nsmall premium wordmark\n\nCenter Massive Typography\n\nA\nR\nG\nE\nN\nT\nI\nN\nA\n\noccupying most of composition\n\nbold heritage typography\n\nextremely large scale\n\npartially cropped\n\nCampaign Title\n\nNEW\nUNIFORM\n\nbold elegant typography\n\nSupporting Copy\n\nDesigned for those who carry greatness forward.\n\nPROMOTIONAL CTA BLOCK\n\nSHOP NOW →\n\nExplore the Official Argentina Collection\n\nBOTTOM FEATURE STRIP\n\nOFFICIAL JERSEYS\n\nCHAMPIONS COLLECTION\n\nMATCH ESSENTIALS\n\nLIMITED RELEASE\n\nBottom Right\n\nStarting From $89\n\nBottom Center\n\nhttps://t.co/6soOpYRZbw\n\nVertical Edge Text\n\nARGENTINA 2026\n\nLIGHTING\n\nLuxury sports studio lighting.\n\nLarge soft source.\n\nEditorial contrast.\n\nNatural skin rendering.\n\nPremium fabric highlights.\n\nSubtle shadows.\n\nElite football campaign quality.\n\nCAMERA\n\nARRI Alexa Mini LF\n\n85mm Lens\n\nCrisp whites."
+    },
+    "media": [],
+    "models": [],
+    "sourcePreview": {
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HKZPMmGboAAFrGC.jpg",
+          "role": "source-media"
+        }
+      ],
+      "promptExcerpt": "ARGENTINA NATIONAL TEAM\n\n\"NEW UNIFORM\"\n\nFORMAT\n\nUltra-Premium Football Fashion SMM Promotional Poste",
+      "excerptTruncated": true
+    },
+    "provenance": {
+      "originalSource": {
+        "platform": "x",
+        "author": "@sipteaandcoffee",
+        "url": "https://x.com/sipteaandcoffee/status/2064424561622634711",
+        "postId": "2064424561622634711",
+        "publishedAt": "2026-06-09T19:09:05.000Z",
+        "verification": "reported-by-collector"
+      },
+      "collectedFrom": [
+        {
+          "sourceId": "sipteaandcoffee",
+          "mode": "collector-export",
+          "snapshotSha256": "8f04638b7ce87c54954e75b089b02743850269bd5c9bc545039d4e8024cf4a84",
+          "url": "https://x.com/sipteaandcoffee/status/2064424561622634711",
+          "collectedAt": "2026-11-27T16:12:57.230Z"
+        }
+      ]
+    },
+    "rights": {
+      "prompt": "unknown",
+      "media": "unknown"
+    },
+    "sourceMeta": {
+      "model": null,
+      "textReview": "complete",
+      "visualReview": "pending",
+      "pairing": "same-post-reported-by-collector",
+      "imageVerification": "source-reported media URLs; HTTP and visual match unchecked",
+      "review": {
+        "qualityStatus": "candidate",
+        "classificationConfidence": "medium",
+        "classificationMethod": "collector-review",
+        "inputMode": "text-to-image",
+        "category": "posters"
+      }
+    }
+  },
+  {
+    "id": "sipteaandcoffee-2065757835867144460",
+    "title": {
+      "en": "Minimalist Japanese postage stamp movie poster",
+      "zh": null
+    },
+    "type": "generation",
+    "category": "posters",
+    "inputMode": "text-to-image",
+    "status": "index-only",
+    "prompt": {
+      "original": "Minimalist Japanese postage stamp movie poster in the \"Nano Banana 2\" / Nippon Yūbin exhibition series style. Wide horizontal format on solid black background. White border with authentic postage stamp perforation pattern (small half-circle scalloped edges all around). Inside the border is a solid fiery sunset orange rectangular panel with slightly rounded corners and thin black outline.\n\nClean, precise black line art illustrations of these iconic elements: F/A-18 Super Hornet fighter jet with afterburners, Maverick in flight helmet and aviator sunglasses, aircraft carrier deck with parked jets, dramatic golden hour sunset with contrails, speed/Mach gauge, subtle \"Danger Zone\" text element. Balanced, spacious composition with good breathing room between elements, thin consistent line weight, no shading, no gradients, flat vector-style graphic design, high-end exhibition print quality.\n\nBottom off-white band:\n- Left side: large bold modern black sans-serif movie title \"Top Gun: Maverick\"\n- Right side: Japanese text \"トップガン マーヴェリック\", then \"NIPPON 郵便\" above \"NAVAL AIR STATION, CALIFORNIA U.S.A. - 2022\"\n\nOverall aesthetic: clean, iconic, retro-modern stamp design meets minimalist graphic design. Crisp sharp lines, professional print quality, perfectly balanced, instantly recognizable movie iconography in postage stamp format. High resolution, no text cut off, no clutter."
+    },
+    "media": [],
+    "models": [],
+    "sourcePreview": {
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HKsLzNzXkAARzgs.jpg",
+          "role": "source-media"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HKsLzJwW0AAl9Ca.jpg",
+          "role": "source-media"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HKsLzLvXwAAJoJp.jpg",
+          "role": "source-media"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HKsLzZ9WwAAamSY.jpg",
+          "role": "source-media"
+        }
+      ],
+      "promptExcerpt": "Minimalist Japanese postage stamp movie poster in the \"Nano Banana 2\" / Nippon Yūbin exhibition seri",
+      "excerptTruncated": true
+    },
+    "provenance": {
+      "originalSource": {
+        "platform": "x",
+        "author": "@sipteaandcoffee",
+        "url": "https://x.com/sipteaandcoffee/status/2065757835867144460",
+        "postId": "2065757835867144460",
+        "publishedAt": "2026-06-13T11:27:02.000Z",
+        "verification": "reported-by-collector"
+      },
+      "collectedFrom": [
+        {
+          "sourceId": "sipteaandcoffee",
+          "mode": "collector-export",
+          "snapshotSha256": "8f04638b7ce87c54954e75b089b02743850269bd5c9bc545039d4e8024cf4a84",
+          "url": "https://x.com/sipteaandcoffee/status/2065757835867144460",
+          "collectedAt": "2026-11-27T16:12:57.230Z"
+        }
+      ]
+    },
+    "rights": {
+      "prompt": "unknown",
+      "media": "unknown"
+    },
+    "sourceMeta": {
+      "model": null,
+      "textReview": "complete",
+      "visualReview": "pending",
+      "pairing": "same-post-reported-by-collector",
+      "imageVerification": "source-reported media URLs; HTTP and visual match unchecked",
+      "review": {
+        "qualityStatus": "candidate",
+        "classificationConfidence": "medium",
+        "classificationMethod": "collector-review",
+        "inputMode": "text-to-image",
+        "category": "posters"
+      }
+    }
+  },
+  {
+    "id": "sipteaandcoffee-2073713796447674426",
+    "title": {
+      "en": "Cozy bedroom lifestyle portrait",
+      "zh": null
+    },
+    "type": "generation",
+    "category": "portraits",
+    "inputMode": "text-to-image",
+    "status": "index-only",
+    "prompt": {
+      "original": "A photorealistic image of Sadie Sink lying on her side on a patterned rug in a cozy bedroom. She has her signature long wavy red-auburn hair in a messy top bun with soft strands falling around her face, fair skin with light freckles, and a gentle playful expression looking at the camera. She is propped up on one elbow with her head resting on her hand, wearing a light blue floral spaghetti strap summer dress. Her other hand is gently touching a large fluffy white stuffed bunny rabbit lying beside her on the rug.\nForeground includes various makeup products and cosmetic containers scattered on the rug. Background features a wooden bed frame, white vanity filled with beauty items, a glowing ring light, and an \"Euphoria Season 3\" poster on the wall. Warm, soft indoor lighting, highly detailed, relaxed and cute atmosphere, Instagram selfie aesthetic."
+    },
+    "media": [],
+    "models": [],
+    "sourcePreview": {
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HMdPo3QaMAAJqx3.jpg",
+          "role": "source-media"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HMdPpwYa8AAF5WZ.jpg",
+          "role": "source-media"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HMdPqsRaUAAhO_i.jpg",
+          "role": "source-media"
+        }
+      ],
+      "promptExcerpt": "A photorealistic image of Sadie Sink lying on her side on a patterned rug in a cozy bedroom. She has",
+      "excerptTruncated": true
+    },
+    "provenance": {
+      "originalSource": {
+        "platform": "x",
+        "author": "@sipteaandcoffee",
+        "url": "https://x.com/sipteaandcoffee/status/2073713796447674426",
+        "postId": "2073713796447674426",
+        "publishedAt": "2026-07-05T10:21:11.000Z",
+        "verification": "reported-by-collector"
+      },
+      "collectedFrom": [
+        {
+          "sourceId": "sipteaandcoffee",
+          "mode": "collector-export",
+          "snapshotSha256": "8f04638b7ce87c54954e75b089b02743850269bd5c9bc545039d4e8024cf4a84",
+          "url": "https://x.com/sipteaandcoffee/status/2073713796447674426",
+          "collectedAt": "2026-11-27T16:12:57.230Z"
+        }
+      ]
+    },
+    "rights": {
+      "prompt": "unknown",
+      "media": "unknown"
+    },
+    "sourceMeta": {
+      "model": null,
+      "textReview": "complete",
+      "visualReview": "pending",
+      "pairing": "same-post-reported-by-collector",
+      "imageVerification": "source-reported media URLs; HTTP and visual match unchecked",
+      "review": {
+        "qualityStatus": "candidate",
+        "classificationConfidence": "medium",
+        "classificationMethod": "collector-review",
+        "inputMode": "text-to-image",
+        "category": "portraits"
+      }
+    }
+  },
+  {
+    "id": "sipteaandcoffee-2076355672749592893",
+    "title": {
+      "en": "Argentina football jersey studio portrait",
+      "zh": null
+    },
+    "type": "generation",
+    "category": "portraits",
+    "inputMode": "text-to-image",
+    "status": "index-only",
+    "prompt": {
+      "original": "A photorealistic studio portrait of a beautiful young East Asian woman with long, straight brown hair styled in loose side braids adorned with small gold hair clips, crouching barefoot in a low squat position, looking directly at the camera with a neutral, confident expression and subtle makeup.\n\nShe is wearing the official Argentina national football team home jersey: a fitted short-sleeve light blue and white vertically striped jersey with a white collar, black Adidas logo on the right chest, and the Argentine Football Association (AFA) crest featuring the golden sun on the left chest. She also wears a short white ruffled skirt with drawstring. Both hands are resting on a white and blue Adidas soccer ball placed on the floor in front of her.\n\nThe background features a bold geometric pattern of light blue, white, and gold accents inspired by the Argentine flag. Professional studio lighting, sharp focus, high detail, cinematic photography, clean composition."
+    },
+    "media": [],
+    "models": [],
+    "sourcePreview": {
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HNCyb1ubgAAXLNM.jpg",
+          "role": "source-media"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HNCycZvaIAA3uoh.jpg",
+          "role": "source-media"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HNCydVgacAADlUP.jpg",
+          "role": "source-media"
+        }
+      ],
+      "promptExcerpt": "A photorealistic studio portrait of a beautiful young East Asian woman with long, straight brown hai",
+      "excerptTruncated": true
+    },
+    "provenance": {
+      "originalSource": {
+        "platform": "x",
+        "author": "@sipteaandcoffee",
+        "url": "https://x.com/sipteaandcoffee/status/2076355672749592893",
+        "postId": "2076355672749592893",
+        "publishedAt": "2026-07-12T17:19:03.000Z",
+        "verification": "reported-by-collector"
+      },
+      "collectedFrom": [
+        {
+          "sourceId": "sipteaandcoffee",
+          "mode": "collector-export",
+          "snapshotSha256": "8f04638b7ce87c54954e75b089b02743850269bd5c9bc545039d4e8024cf4a84",
+          "url": "https://x.com/sipteaandcoffee/status/2076355672749592893",
+          "collectedAt": "2026-11-27T16:12:57.230Z"
+        }
+      ]
+    },
+    "rights": {
+      "prompt": "unknown",
+      "media": "unknown"
+    },
+    "sourceMeta": {
+      "model": null,
+      "textReview": "complete",
+      "visualReview": "pending",
+      "pairing": "same-post-reported-by-collector",
+      "imageVerification": "source-reported media URLs; HTTP and visual match unchecked",
+      "review": {
+        "qualityStatus": "candidate",
+        "classificationConfidence": "medium",
+        "classificationMethod": "collector-review",
+        "inputMode": "text-to-image",
+        "category": "portraits"
+      }
+    }
+  },
+  {
+    "id": "sipteaandcoffee-2085403651070366091",
+    "title": {
+      "en": "Four-color editorial profile poster template",
+      "zh": null
+    },
+    "type": "generation",
+    "category": "posters",
+    "inputMode": "text-to-image",
+    "status": "index-only",
+    "prompt": {
+      "original": "Editorial poster featuring [CHARACTER] in strict left-facing profile, cropped from mid-torso, with [HAIR] forming a dominant graphic silhouette and [CLOTHING]. Place one large flat circular disk directly behind the head. Render crisp flat vector shapes, angular facial features, controlled black contour lines, screen-print grain, halftone dots, and woven grid texture. Construct the background from layered [BACKGROUND] while keeping the composition clean and the subject dominant. Limit the entire artwork to exactly four high-contrast colors: [PALETTE]. Add the minimalist title “[TITLE]” at the upper left in bold condensed uppercase sans serif, with the smaller headline “[HEADLINE]” directly beneath it; clear hierarchy, generous negative space, Vertical 4:5 AR."
+    },
+    "media": [],
+    "models": [],
+    "sourcePreview": {
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HPDXRCsaYAA7Naw.jpg",
+          "role": "source-media"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HPDXRu-bsAMvAnp.jpg",
+          "role": "source-media"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HPDXSs5bsAUzJwo.jpg",
+          "role": "source-media"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HPDXTtwbsAAGkke.jpg",
+          "role": "source-media"
+        }
+      ],
+      "promptExcerpt": "Editorial poster featuring [CHARACTER] in strict left-facing profile, cropped from mid-torso, with [",
+      "excerptTruncated": true
+    },
+    "provenance": {
+      "originalSource": {
+        "platform": "x",
+        "author": "@sipteaandcoffee",
+        "url": "https://x.com/sipteaandcoffee/status/2085403651070366091",
+        "postId": "2085403651070366091",
+        "publishedAt": "2026-08-06T16:32:29.000Z",
+        "verification": "reported-by-collector"
+      },
+      "collectedFrom": [
+        {
+          "sourceId": "sipteaandcoffee",
+          "mode": "collector-export",
+          "snapshotSha256": "8f04638b7ce87c54954e75b089b02743850269bd5c9bc545039d4e8024cf4a84",
+          "url": "https://x.com/sipteaandcoffee/status/2085403651070366091",
+          "collectedAt": "2026-11-27T16:12:57.230Z"
+        }
+      ]
+    },
+    "rights": {
+      "prompt": "unknown",
+      "media": "unknown"
+    },
+    "sourceMeta": {
+      "model": null,
+      "textReview": "complete",
+      "visualReview": "pending",
+      "pairing": "same-post-reported-by-collector",
+      "imageVerification": "source-reported media URLs; HTTP and visual match unchecked",
+      "review": {
+        "qualityStatus": "candidate",
+        "classificationConfidence": "medium",
+        "classificationMethod": "collector-review",
+        "inputMode": "text-to-image",
+        "category": "posters"
+      }
+    }
+  },
+  {
+    "id": "sipteaandcoffee-2095212333597675757",
+    "title": {
+      "en": "Playful crayon doodles on realistic photos",
+      "zh": null
+    },
+    "type": "editing",
+    "category": "restyle",
+    "inputMode": "image-editing",
+    "status": "index-only",
+    "prompt": {
+      "original": "Keep the original photo fully realistic and unchanged. Add playful hand-drawn doodles directly onto the photo, as if someone casually drew over a printed snapshot with crayons and markers. Randomly choose 2–4 creative interventions based on the scene: redraw parts of the clothing as colorful crayon outfits, extend or replace accessories with doodle versions, add funny objects or props, simple hearts, stars, arrows, utensils, flowers, symbols, or short handwritten annotations. Use rough black outlines, chunky uneven strokes, flat bright colors, visible waxy crayon texture, imperfect childlike coloring, and slightly messy hand-drawn edges. Make the doodles naturally interact with the people and objects in the photo and follow their body shapes, poses, and perspective. Keep faces, skin, hair, hands, and the environment photorealistic. Do not cartoonize the entire image. Each photo should receive a different, spontaneous combination of doodles, like a quirky personal photo diary."
+    },
+    "media": [],
+    "models": [],
+    "sourcePreview": {
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HROwfSPbcAAnft4.jpg",
+          "role": "source-media"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HROwf5yakAA5cgI.jpg",
+          "role": "source-media"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HROwgirbUAAmXH_.jpg",
+          "role": "source-media"
+        }
+      ],
+      "promptExcerpt": "Keep the original photo fully realistic and unchanged. Add playful hand-drawn doodles directly onto ",
+      "excerptTruncated": true
+    },
+    "provenance": {
+      "originalSource": {
+        "platform": "x",
+        "author": "@sipteaandcoffee",
+        "url": "https://x.com/sipteaandcoffee/status/2095212333597675757",
+        "postId": "2095212333597675757",
+        "publishedAt": "2026-09-02T18:08:42.000Z",
+        "verification": "reported-by-collector"
+      },
+      "collectedFrom": [
+        {
+          "sourceId": "sipteaandcoffee",
+          "mode": "collector-export",
+          "snapshotSha256": "8f04638b7ce87c54954e75b089b02743850269bd5c9bc545039d4e8024cf4a84",
+          "url": "https://x.com/sipteaandcoffee/status/2095212333597675757",
+          "collectedAt": "2026-11-27T16:12:57.230Z"
+        }
+      ]
+    },
+    "rights": {
+      "prompt": "unknown",
+      "media": "unknown"
+    },
+    "sourceMeta": {
+      "model": null,
+      "textReview": "complete",
+      "visualReview": "pending",
+      "pairing": "same-post-reported-by-collector",
+      "imageVerification": "source-reported media URLs; HTTP and visual match unchecked",
+      "review": {
+        "qualityStatus": "candidate",
+        "classificationConfidence": "medium",
+        "classificationMethod": "collector-review",
+        "inputMode": "image-editing",
+        "category": "restyle"
+      }
+    }
+  },
+  {
+    "id": "sipteaandcoffee-2123882892279349442",
+    "title": {
+      "en": "Dragon fruit botanical natural-history plate",
+      "zh": null
+    },
+    "type": "generation",
+    "category": "illustrations",
+    "inputMode": "text-to-image",
+    "status": "index-only",
+    "prompt": {
+      "original": "A highly detailed scientific botanical study of dragon fruit (Selenicereus undatus), illustrated in the style of 19th-century natural history journals. Delicate antique ink linework, exquisite hand-painted watercolor, natural pigments, vivid magenta-pink dragon fruits with curved green bracts, whole mature fruits attached to climbing cactus stems, sliced dragon fruit revealing luminous white flesh densely scattered with tiny black seeds, detailed anatomical cross-sections, magnified seed morphology, spectacular large white night-blooming cactus flowers with golden stamens, green three-ribbed cactus stems and small spines, fine botanical leader lines, elegant handwritten Latin specimen labels in sepia ink, refined scientific plate arrangement, antique scholarly aesthetic, pristine white background, hyper-detailed museum-quality natural history illustration, 4:5 aspect ratio."
+    },
+    "media": [],
+    "models": [],
+    "sourcePreview": {
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HXmMK_La8AATx1V.jpg",
+          "role": "source-media"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HXmMK-lbQAAk6CQ.jpg",
+          "role": "source-media"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HXmMK_MakAAQj1O.jpg",
+          "role": "source-media"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HXmMK_KaoAA-pvu.jpg",
+          "role": "source-media"
+        }
+      ],
+      "promptExcerpt": "A highly detailed scientific botanical study of dragon fruit (Selenicereus undatus), illustrated in ",
+      "excerptTruncated": true
+    },
+    "provenance": {
+      "originalSource": {
+        "platform": "x",
+        "author": "@sipteaandcoffee",
+        "url": "https://x.com/sipteaandcoffee/status/2123882892279349442",
+        "postId": "2123882892279349442",
+        "publishedAt": "2026-11-20T20:55:16.000Z",
+        "verification": "reported-by-collector"
+      },
+      "collectedFrom": [
+        {
+          "sourceId": "sipteaandcoffee",
+          "mode": "collector-export",
+          "snapshotSha256": "8f04638b7ce87c54954e75b089b02743850269bd5c9bc545039d4e8024cf4a84",
+          "url": "https://x.com/sipteaandcoffee/status/2123882892279349442",
+          "collectedAt": "2026-11-27T16:12:57.230Z"
+        }
+      ]
+    },
+    "rights": {
+      "prompt": "unknown",
+      "media": "unknown"
+    },
+    "sourceMeta": {
+      "model": null,
+      "textReview": "complete",
+      "visualReview": "pending",
+      "pairing": "same-post-reported-by-collector",
+      "imageVerification": "source-reported media URLs; HTTP and visual match unchecked",
+      "review": {
+        "qualityStatus": "candidate",
+        "classificationConfidence": "medium",
+        "classificationMethod": "collector-review",
+        "inputMode": "text-to-image",
+        "category": "illustrations"
+      }
+    }
+  },
+  {
+    "id": "sipteaandcoffee-2124234296877809889",
+    "title": {
+      "en": "Luxury beauty magazine cover template",
+      "zh": null
+    },
+    "type": "generation",
+    "category": "posters",
+    "inputMode": "text-to-image",
+    "status": "index-only",
+    "prompt": {
+      "original": "Create a luxury contemporary beauty magazine cover featuring [MAIN SUBJECT] alongside [SECONDARY SUBJECT], visually exploring [CONCEPT] through architectural elegance, sculptural minimalism, and avant-garde editorial art direction.\n\nDesign an asymmetrical composition using oversized, overlapping matte [COLOR] paper surfaces with a sculptural crescent-shaped opening, revealing an intimate, photorealistic beauty portrait beneath. Selectively expose the subject's expressive eye, sculpted eyebrow, cheekbone, nose, and lips while concealing the remaining facial features behind the architectural layers.\n\nInclude elegantly positioned hands interacting naturally with the paper edges, sophisticated [NAIL DESIGN], luxurious [MAKEUP], and carefully styled [HAIRSTYLE].\n\nIntroduce the secondary subject within the lower portion of the opening, establishing a meaningful visual connection with the main subject. Preserve authentic anatomy, realistic textures, and natural proportions.\n\nUse soft directional studio lighting, realistic skin texture, luminous cosmetic highlights, atmospheric shadows, subtle physical depth, and premium editorial photography.\n\nMaintain a harmonious, restricted color palette of [COLOR PALETTE], with matte paper finishes, complementary cosmetic tones, and refined photographic contrast.\n\nTYPOGRAPHY & LAYOUT\nLeft section: Oversized experimental headline \"[HEADLINE]\", combining thin condensed and extra-bold uppercase typography.\nBeneath the headline: Small category text \"[CATEGORY]\" and a sophisticated editorial description \"[DESCRIPTION]\".\nUpper right corner: Minimal publication information \"[ISSUE]\".\nLower right section: Elegant editorial title \"[TITLE]\" and a poetic multiline statement \"[TAGLINE]\".\nContemporary Swiss graphic design, sculptural paper layering, architectural negative space, precise typographic hierarchy, asymmetrical visual balance, subtle embossed print textures, and sophisticated collectible fashion-magazine aesthetics.\n\nNo distorted anatomy, unnecessary decorations, random typography, artificial skin smoothing, or excessive visual effects.\n\nVertical 3:4 composition, ultra-photorealistic, ultra-high-resolution, premium print-ready editorial quality."
+    },
+    "media": [],
+    "models": [],
+    "sourcePreview": {
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HXrKl5ZbQAATWjU.jpg",
+          "role": "source-media"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HXrKolUaIAAB54P.jpg",
+          "role": "source-media"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HXrKqnfasAARjrC.jpg",
+          "role": "source-media"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HXrKr20bgAABKjP.jpg",
+          "role": "source-media"
+        }
+      ],
+      "promptExcerpt": "Create a luxury contemporary beauty magazine cover featuring [MAIN SUBJECT] alongside [SECONDARY SUB",
+      "excerptTruncated": true
+    },
+    "provenance": {
+      "originalSource": {
+        "platform": "x",
+        "author": "@sipteaandcoffee",
+        "url": "https://x.com/sipteaandcoffee/status/2124234296877809889",
+        "postId": "2124234296877809889",
+        "publishedAt": "2026-11-21T20:11:37.000Z",
+        "verification": "reported-by-collector"
+      },
+      "collectedFrom": [
+        {
+          "sourceId": "sipteaandcoffee",
+          "mode": "collector-export",
+          "snapshotSha256": "8f04638b7ce87c54954e75b089b02743850269bd5c9bc545039d4e8024cf4a84",
+          "url": "https://x.com/sipteaandcoffee/status/2124234296877809889",
+          "collectedAt": "2026-11-27T16:12:57.230Z"
+        }
+      ]
+    },
+    "rights": {
+      "prompt": "unknown",
+      "media": "unknown"
+    },
+    "sourceMeta": {
+      "model": null,
+      "textReview": "complete",
+      "visualReview": "pending",
+      "pairing": "same-post-reported-by-collector",
+      "imageVerification": "source-reported media URLs; HTTP and visual match unchecked",
+      "review": {
+        "qualityStatus": "candidate",
+        "classificationConfidence": "medium",
+        "classificationMethod": "collector-review",
+        "inputMode": "text-to-image",
+        "category": "posters"
+      }
+    }
+  },
+  {
+    "id": "sipteaandcoffee-2124732867549053196",
+    "title": {
+      "en": "Photo to miniature brick diorama plaque",
+      "zh": null
+    },
+    "type": "generation",
+    "category": "posters",
+    "inputMode": "reference-to-image",
+    "status": "index-only",
+    "prompt": {
+      "original": "3:4 vertical image, top 48% / bottom 52%, seamless join, no white line or border. Top: the uploaded photo, unchanged. Bottom: warm off-white textured paper background. Centered, the same scene recreated as a miniature diorama built from tiny micro building bricks with visible studs: same layout, key details and colors, on a thin brick base plate, slight three-quarter front view. Small trees, flowers, clouds, boats or people become tiny brick pieces or mini figures. Below it, a small cream plaque with two screws: the place name in bold uppercase serif, and city and country in smaller caps underneath. Soft studio light, gentle shadow, macro product photo, photorealistic. Avoid: white divider, border, extra text, watermark, logos."
+    },
+    "media": [],
+    "models": [],
+    "sourcePreview": {
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/media/HXyRNLcaAAAbCLy.jpg",
+          "role": "source-media"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HXyRRdhakAAMAtm.jpg",
+          "role": "source-media"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HXyRRdpaAAAwc3F.jpg",
+          "role": "source-media"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/HXyRRdka4AAD6E3.jpg",
+          "role": "source-media"
+        }
+      ],
+      "promptExcerpt": "3:4 vertical image, top 48% / bottom 52%, seamless join, no white line or border. Top: the uploaded ",
+      "excerptTruncated": true
+    },
+    "provenance": {
+      "originalSource": {
+        "platform": "x",
+        "author": "@sipteaandcoffee",
+        "url": "https://x.com/sipteaandcoffee/status/2124732867549053196",
+        "postId": "2124732867549053196",
+        "publishedAt": "2026-11-23T05:12:45.000Z",
+        "verification": "reported-by-collector"
+      },
+      "collectedFrom": [
+        {
+          "sourceId": "sipteaandcoffee",
+          "mode": "collector-export",
+          "snapshotSha256": "8f04638b7ce87c54954e75b089b02743850269bd5c9bc545039d4e8024cf4a84",
+          "url": "https://x.com/sipteaandcoffee/status/2124732867549053196",
+          "collectedAt": "2026-11-27T16:12:57.230Z"
+        }
+      ]
+    },
+    "rights": {
+      "prompt": "unknown",
+      "media": "unknown"
+    },
+    "sourceMeta": {
+      "model": null,
+      "textReview": "complete",
+      "visualReview": "pending",
+      "pairing": "same-post-reported-by-collector",
+      "imageVerification": "source-reported media URLs; HTTP and visual match unchecked",
+      "review": {
+        "qualityStatus": "candidate",
+        "classificationConfidence": "medium",
+        "classificationMethod": "collector-review",
+        "inputMode": "reference-to-image",
+        "category": "posters"
+      }
+    }
+  }
+]
