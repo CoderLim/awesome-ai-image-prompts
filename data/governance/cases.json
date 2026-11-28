@@ -20958,6 +20958,30 @@
     },
     "visible": true
   },
+  "manual-leaf-carving-storytelling": {
+    "type": "generation",
+    "category": "creative-art",
+    "inputMode": "text-to-image",
+    "confidence": "high",
+    "reason": "reviewed-owner-supplied",
+    "tags": [
+      "cinematic",
+      "photorealistic",
+      "template"
+    ],
+    "quality": {
+      "status": "metadata-complete",
+      "score": 5,
+      "flags": [
+        "rights-review"
+      ],
+      "imageAvailability": "unchecked",
+      "imagePromptMatch": "unchecked",
+      "reproduction": "untested",
+      "rights": "pending-review"
+    },
+    "visible": true
+  },
   "prompthero-0acd2996dd5": {
     "type": "generation",
     "category": "travel",

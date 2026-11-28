@@ -6,6 +6,22 @@
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
+<a id="prompthero-94d91fc9f8e"></a>
+
+## On a desk, a laptop displays a wallpaper of a coun\.\.\.
+
+<a href="https://cdn.prompthero.com/v1_a2f01515ca1296a355bc83e582-nano-banana-nano-banana-21-on-a-desk-a-laptop-displays-a-wallpaper-of-a-countryside-landscape-with-a-small-river-the-landscape-extends-beyond.png"><img src="https://cdn.prompthero.com/v1_a2f01515ca1296a355bc83e582-nano-banana-nano-banana-21-on-a-desk-a-laptop-displays-a-wallpaper-of-a-countryside-landscape-with-a-small-river-the-landscape-extends-beyond.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+On a desk, a laptop displays a wallpaper of a countryside landscape with a small river. The landscape extends beyond the computer screen, invading the desk, the walls, and the room. The river overflows the screen, and plants and trees grow beyond its boundaries, blending seamlessly with the surrounding environment. The style is a stunning 3D rendering, with deep, cinematic lighting.
+```
+
+By [@chorlo](https://prompthero.com/prompt/94d91fc9f8e-nano-banana-nano-banana-21-on-a-desk-a-laptop-displays-a-wallpaper-of-a-countryside-landscape-with-a-small-river-the-landscape-extends-beyond)
+
+---
+
 <a id="prompthero-95fc80b5387"></a>
 
 ## A marble sculpture of a young African American wom\.\.\.
@@ -307,22 +323,6 @@ A 30-year-old realistic  man height 5'8 stands in a serene forest blanketed in s
 ```
 
 [Source](https://prompthero.com/prompt/1893aac9fab-flux-flux-11-pro-a-30-year-old-realistic-man-height-58-stands-in-a-serene-forest-blanketed-in-snow-surrounded-by-tall-trees)
-
----
-
-<a id="prompthero-3052e202fd9"></a>
-
-## Create a hyper-realistic bird’s-eye view of a 16th\.\.\.
-
-<a href="https://cdn.prompthero.com/rshk2rt5d7u35nrc4l1po5brimam-flux-flux-11-pro-ultra-create-a-hyper-realistic-birds-eye-view-of-a-16th-century-pirate-ship-stranded-in-the-middle-of-a-flooded.png"><img src="https://cdn.prompthero.com/rshk2rt5d7u35nrc4l1po5brimam-flux-flux-11-pro-ultra-create-a-hyper-realistic-birds-eye-view-of-a-16th-century-pirate-ship-stranded-in-the-middle-of-a-flooded.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-Create a hyper-realistic bird’s-eye view of a 16th-century pirate ship stranded in the middle of a flooded highway in Makassar, Indonesia. The massive ship, now very old, has tall sails that are no longer fully intact, with the wood and paint faded and weathered from time and exposure. The ship is surrounded by the floodwaters that have submerged the street, with elevated flyovers full of stopped cars due to a traffic jam caused by heavy rain. In the background, you can see the University of Makassar (UNM) campus building standing tall, and nearby, several Pinisi ships and small boats float helplessly in the rising floodwaters. The atmosphere is dramatic and chaotic, with dark clouds looming overhead, and the sky frequently pierced by lightning strikes that illuminate the scene. The rain is torrential, creating a misty fog over the city, while water ripples from the rain create an eerie reflection of the scene in the flooded streets. The contrast between the ancient pirate ship, the modern city with jammed traffic, and the presence of the Pinisi ships creates a surreal, cinematic effect. The stormy weather, the overwhelming flood, and the historical ship stranded in a modern setting evoke a sense of nature’s power and the unexpected clash of time and place.
-```
-
-[Source](https://prompthero.com/prompt/3052e202fd9-flux-flux-11-pro-ultra-create-a-hyper-realistic-birds-eye-view-of-a-16th-century-pirate-ship-stranded-in-the-middle-of-a-flooded)
 
 ---
 

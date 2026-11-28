@@ -1,26 +1,26 @@
 {
-  "total": 2168,
-  "visible": 1929,
+  "total": 2169,
+  "visible": 1930,
   "hidden": 239,
-  "approved": 1928,
+  "approved": 1929,
   "pending": 1,
   "rejected": 239,
-  "published": 1928,
-  "canonical": 1929,
+  "published": 1929,
+  "canonical": 1930,
   "duplicateExcluded": 62,
   "duplicateExcludedFromGallery": 45,
-  "uniqueCases": 2106,
+  "uniqueCases": 2107,
   "galleryGroups": {
     "reference": 228,
-    "generation": 1700
+    "generation": 1701
   },
   "types": {
-    "generation": 1888,
+    "generation": 1889,
     "editing": 40
   },
   "inputModes": {
     "reference-to-image": 191,
-    "text-to-image": 1500,
+    "text-to-image": 1501,
     "unknown": 200,
     "image-editing": 37
   },
@@ -28,7 +28,7 @@
     "generation/posters": 165,
     "generation/illustrations": 230,
     "editing/restyle": 22,
-    "generation/creative-art": 270,
+    "generation/creative-art": 271,
     "generation/characters": 139,
     "generation/logos": 27,
     "generation/portraits": 734,
@@ -49,11 +49,11 @@
   },
   "confidence": {
     "medium": 745,
-    "high": 1182,
+    "high": 1183,
     "low": 241
   },
   "flags": {
-    "rights-review": 2156,
+    "rights-review": 2157,
     "input-mode-review": 237,
     "manual-excluded": 189,
     "duplicate-candidate:same-prompt-prefix": 51,

@@ -6,6 +6,22 @@
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
+<a id="prompthero-7c6c4e727b6"></a>
+
+## surrealism, central composition, man, gaze, upper-\.\.\.
+
+<a href="https://cdn.prompthero.com/r1qlf3qsj7pduiyuitdrw9ona0-midjourney-shatter-surrealism-central-composition-man-gaze-upper-body-transparent-skin-revealing-man-skull-glowing-with-a-neon-green-bio-luminescent-effect.png"><img src="https://cdn.prompthero.com/r1qlf3qsj7pduiyuitdrw9ona0-midjourney-shatter-surrealism-central-composition-man-gaze-upper-body-transparent-skin-revealing-man-skull-glowing-with-a-neon-green-bio-luminescent-effect.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+surrealism, central composition, man, gaze, upper-body, transparent skin revealing man skull, glowing with a neon green bio-luminescent effect, minimalist style, sharp details of his bones, background is surreal and sci-fi moody with deep fog, lighting is soft with a cool green tone, illuminating the skeletal structure, translucent textures, cinematic lighting, x-ray vision style --ar 9:16 --raw
+```
+
+By [@Grayve](https://prompthero.com/prompt/7c6c4e727b6-midjourney-shatter-surrealism-central-composition-man-gaze-upper-body-transparent-skin-revealing-man-skull-glowing-with-a-neon-green-bio-luminescent-effect)
+
+---
+
 <a id="prompthero-7cdbefbaf2f"></a>
 
 ## hyper realistic, ultra-resolution photography, fro\.\.\.
@@ -307,22 +323,6 @@ A mesmerizing photograph capturing the ethereal beauty of the Terminator Girl, w
 ```
 
 [Source](https://prompthero.com/prompt/27e141ad9e7-midjourney-6-a-mesmerizing-photograph-capturing-the-ethereal-beauty-of-the-terminator-girl-with-her-cyborg-features-half-shrouded-in-shadow-as)
-
----
-
-<a id="prompthero-27eeca8f0b7"></a>
-
-## Delicate magical fairy dust in a bottle smoking wi\.\.\.
-
-<a href="https://cdn.prompthero.com/gsct0v27sv345ux0f761pth8u0z9-stable-diffusion-xl-base-09-delicate-magical-fairy-dust-in-a-bottle-smoking-with-cosmic-magical-energy-highly-detailed-painting-deep-color-fantastical-intricate-detail.png"><img src="https://cdn.prompthero.com/gsct0v27sv345ux0f761pth8u0z9-stable-diffusion-xl-base-09-delicate-magical-fairy-dust-in-a-bottle-smoking-with-cosmic-magical-energy-highly-detailed-painting-deep-color-fantastical-intricate-detail.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-Delicate magical fairy dust in a bottle smoking with cosmic magical energy, highly detailed painting, deep color, fantastical, intricate detail, complementary colors, fantasy concept art, trending on Artstation Unreal Engine 5, by artist "anime", Anime Key Visual, Japanese Manga, Pixiv, Zerochan, Anime art, Fantia, Hyperrealistic, splash art, concept art, mid shot, intricately detailed, color depth, dramatic, 2/3 face angle, side light, colorful background, SAI Pixel Art
-```
-
-[Source](https://prompthero.com/prompt/27eeca8f0b7-stable-diffusion-xl-base-09-delicate-magical-fairy-dust-in-a-bottle-smoking-with-cosmic-magical-energy-highly-detailed-painting-deep-color-fantastical-intricate-detail)
 
 ---
 

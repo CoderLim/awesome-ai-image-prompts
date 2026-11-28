@@ -278,6 +278,22 @@ By [@PromptSin](https://x.com/PromptSin/status/2092390329890849163)
 
 ---
 
+<a id="manual-leaf-carving-storytelling"></a>
+
+## Charming Leaf Carving Storytelling Artwork
+
+<a href="https://raw.githubusercontent.com/CoderLim/awesome-ai-image-prompts/main/data/media/manual/leaf-carving-storytelling.jpg"><img src="https://raw.githubusercontent.com/CoderLim/awesome-ai-image-prompts/main/data/media/manual/leaf-carving-storytelling.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+Create an exceptionally charming and imaginative leaf carving artwork based on the following scene: **SCENE: {{scene}}** ### 1. ARTISTIC CONCEPT Transform a single real natural leaf into an exquisite miniature storytelling world through delicate hand-cut leaf carving and intricate negative-space art. The scene must be physically carved into the leaf itself, rather than painted, printed, or digitally superimposed onto its surface. Use the remaining leaf material to form characters, objects, architecture, plants, and decorative elements, while carefully carved openings reveal the real background through the leaf. ### 2. NATURAL LEAF MATERIAL Select the most suitable natural leaf shape, size, orientation, and color according to the scene. Preserve authentic organic characteristics: - Clearly visible natural leaf veins. - Realistic botanical surface texture. - Subtle natural imperfections and color variations. - Thin, delicate leaf edges. - An intact, naturally attached leaf stem. The leaf may be fresh green, olive green, golden brown, or autumn reddish-brown, depending on the emotional atmosphere. ### 3. CREATIVE COMPOSITION Intelligently interpret the scene and translate it into a beautiful miniature silhouette composition. Choose the most suitable carving structure: - A partially preserved leaf with an open storytelling window. - A half-leaf composition with the central vein forming a structural boundary. - A horizontal miniature landscape supported by the lower half of the leaf. - An organically shaped silhouette that follows the natural outline of the leaf. Do not restrict every composition to the same leaf shape or layout. Use the natural veins, edges, and remaining leaf material as integral parts of the storytelling design. Keep the composition visually balanced, charming, recognizable, and emotionally expressive. ### 4. CHARACTER AND SCENE DESIGN Render characters and objects as delightful, simplified, hand-crafted silhouettes with playful proportions, expressive gestures, and delicate details. Create facial expressions, eyes, clothing details, and decorative patterns using carefully carved negative spaces. Where appropriate, incorporate small botanical or atmospheric details such as flowers, grass, mushrooms, butterflies, stars, hearts, raindrops, or tiny branches. Every decorative element must complement the scene rather than overcrowd it. All carved elements must remain physically connected to the original leaf through natural veins, ground silhouettes, branches, or subtle structural connections. No disconnected or floating leaf fragments. ### 5. CARVING TECHNIQUE Combine solid silhouettes, fine contour carving, intricate hollow-out details, and large open negative spaces. The carved openings must be genuinely transparent, allowing the real sky, sunlight, and background scenery to remain visible through them. Maintain a believable balance between delicate craftsmanship and physical structural integrity. The result should resemble an extraordinary handmade botanical artwork created by a skilled leaf-carving artist. ### 6. PHOTOGRAPHY AND ENVIRONMENT Present the finished artwork as a highly realistic outdoor close-up photograph. The leaf is gently held by its stem between human fingertips or naturally positioned upright on a wooden surface. Use an atmospheric natural background selected to complement the scene: - Clear blue sky. - Soft pastel sunset. - Golden-hour sunlight. - Dreamy pink evening sky. - Gentle cloudy daylight. - Softly blurred green foliage. Use natural backlighting, shallow depth of field, beautiful organic bokeh, and realistic light transmission through the carved openings. Keep the leaf artwork in sharp focus while the background remains softly blurred. ### 7. EMOTIONAL ATMOSPHERE Whimsical, heartwarming, peaceful, poetic, playful, nostalgic, and full of childlike wonder. The artwork should feel like a tiny fairy-tale world hidden within an ordinary leaf, transforming simple everyday moments into something magical. ### 8. FINAL IMAGE REQUIREMENTS Photorealistic handmade leaf carving, authentic botanical texture, exquisite craftsmanship, clean silhouettes, intricate negative-space design, natural outdoor photography, soft cinematic lighting, exceptionally detailed macro photography, artistic composition, high resolution. Square 1:1 composition, with the entire carved leaf clearly visible and sufficient breathing space around it. No digital illustration, no painted leaf surface, no printed graphics, no artificial paper texture, no plastic materials, no floating fragments, no excessive decorations, no watermark, no logo, and no unrelated text. Generate the final image directly.
+```
+
+By [CoderLim](https://github.com/CoderLim/awesome-ai-image-prompts/blob/main/data/media/manual/leaf-carving-storytelling.jpg)
+
+---
+
 <a id="prompthero-0b1e8c269a2"></a>
 
 ## \{ &quot;scene&quot;: \{ &quot;setting&quot;: &quot;inside a swirling t\.\.\.
@@ -307,22 +323,6 @@ dachshund dog, red, one eye blue, the other brown, wearing large Marshall headph
 ```
 
 [Source](https://prompthero.com/prompt/0b6df7f515f-midjourney-niji-v6-dachshund-dog-red-one-eye-blue-the-other-brown-wearing-large-marshall-headphones-a-red-down-jacket-standing-on-the)
-
----
-
-<a id="prompthero-0c97785b276"></a>
-
-## Transform to extreme vivid fantasy realism style a\.\.\.
-
-<a href="https://cdn.prompthero.com/tji7lpvibmvsu5nykoibu5h8yb4r-flux-flux-11-pro-transform-to-extreme-vivid-fantasy-realism-style-art-ultra-detailed-masterpiece-depiction-of-medusa-from-marvel-inc-in-hyper-realistic.jpg"><img src="https://cdn.prompthero.com/tji7lpvibmvsu5nykoibu5h8yb4r-flux-flux-11-pro-transform-to-extreme-vivid-fantasy-realism-style-art-ultra-detailed-masterpiece-depiction-of-medusa-from-marvel-inc-in-hyper-realistic.jpg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-Transform to extreme vivid fantasy realism style art, ultra-detailed masterpiece, depiction of Medusa from Marvel Inc., in hyper-realistic fantasy digital photography, meticulously captured with precision and care, centered, perfect composition, overexposed photography creating a striking and ethereal atmosphere, sharp focus ensuring exquisite details, clear and bright elements highlighting her iconic red hair, expressive eyes filled with regal command and inner turmoil, the intricate details showcasing her flowing hair and stoic pose, seamlessly merging realism with fantasy, celebrating the essence of power and her inner conflicts in a visually stunning and imaginative setting.
-```
-
-[Source](https://prompthero.com/prompt/0c97785b276-flux-flux-11-pro-transform-to-extreme-vivid-fantasy-realism-style-art-ultra-detailed-masterpiece-depiction-of-medusa-from-marvel-inc-in-hyper-realistic)
 
 ---
 

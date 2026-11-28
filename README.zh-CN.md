@@ -2,7 +2,7 @@
 
 [English](README.md) · [来源](SOURCES.md)
 
-共 1928 个可浏览案例。参考图生成包含风格转换、换装等基于输入图的任务；普通图片生成暂含输入要求待确认的案例。每个案例默认展示一张原始效果图，仅来源明确的编辑前后对比保留两张。完整提示词以可复制的单行代码块展示，原始格式保留在 JSON 中。案例未独立复现。
+共 1929 个可浏览案例。参考图生成包含风格转换、换装等基于输入图的任务；普通图片生成暂含输入要求待确认的案例。每个案例默认展示一张原始效果图，仅来源明确的编辑前后对比保留两张。完整提示词以可复制的单行代码块展示，原始格式保留在 JSON 中。案例未独立复现。
 
 <table><tr>
 <td width="33%" valign="top" align="center"><a href="generation/posters.md#evolink-advertising-case-188"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-gpt-image-2-5-prompts/assets/media/2100585068490309632.jpg" width="230" alt="Source example"></a><br><a href="generation/posters.md#evolink-advertising-case-188"><strong>Nike Orange Sports Poster</strong></a></td>
@@ -80,7 +80,7 @@
 - [travel](generation/travel.md) (60)
 - [ui mockups](generation/ui-mockups.md) (28)
 - [comics storyboards](generation/comics-storyboards.md) (17)
-- [creative art](generation/creative-art.md) (250)
+- [creative art](generation/creative-art.md) (251)
 - [other](generation/other.md) (42)
 
 ### 参考图生成

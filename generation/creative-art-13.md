@@ -6,6 +6,22 @@
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
+<a id="prompthero-f65bed0f91e"></a>
+
+## \( watercolor \\\(medium\\\),    IrisCompiet:1\.2\),&lt;lora\.\.\.
+
+<a href="https://cdn.prompthero.com/9wdfb2c3yvqy2bz2p31w69ta1upe-dreamshaper-33-watercolor-medium-iriscompiet12lorairiscompietstyle09-side-view-of-a-eagle-with-long-beak-face-focus-abstract-background-fantasy-many-colors-colorful-flower.jpeg"><img src="https://cdn.prompthero.com/9wdfb2c3yvqy2bz2p31w69ta1upe-dreamshaper-33-watercolor-medium-iriscompiet12lorairiscompietstyle09-side-view-of-a-eagle-with-long-beak-face-focus-abstract-background-fantasy-many-colors-colorful-flower.jpeg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+( watercolor \(medium\),    IrisCompiet:1.2),<lora:IrisCompietStyle:0.9>, side view of a eagle with long beak, face focus, abstract background, fantasy, many colors, colorful, flower petals, wind blowing,
+```
+
+By [@heeyrina](https://prompthero.com/prompt/f65bed0f91e-dreamshaper-33-watercolor-medium-iriscompiet12lorairiscompietstyle09-side-view-of-a-eagle-with-long-beak-face-focus-abstract-background-fantasy-many-colors-colorful-flower)
+
+---
+
 <a id="prompthero-f314b7dcb31"></a>
 
 ## Lord Shiva, Indian mythology, one piece character,\.\.\.

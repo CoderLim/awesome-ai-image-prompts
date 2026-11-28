@@ -73,5 +73,80 @@
         }
       }
     }
+  },
+  {
+    "id": "manual-leaf-carving-storytelling",
+    "title": {
+      "en": "Charming Leaf Carving Storytelling Artwork",
+      "zh": "精美叶片镂空叙事雕刻"
+    },
+    "type": "generation",
+    "category": "creative-art",
+    "inputMode": "text-to-image",
+    "status": "index-only",
+    "prompt": {
+      "original": "Create an exceptionally charming and imaginative leaf carving artwork based on the following scene:\n\n**SCENE: {{scene}}**\n\n### 1. ARTISTIC CONCEPT\n\nTransform a single real natural leaf into an exquisite miniature storytelling world through delicate hand-cut leaf carving and intricate negative-space art.\n\nThe scene must be physically carved into the leaf itself, rather than painted, printed, or digitally superimposed onto its surface.\n\nUse the remaining leaf material to form characters, objects, architecture, plants, and decorative elements, while carefully carved openings reveal the real background through the leaf.\n\n### 2. NATURAL LEAF MATERIAL\n\nSelect the most suitable natural leaf shape, size, orientation, and color according to the scene.\n\nPreserve authentic organic characteristics:\n\n- Clearly visible natural leaf veins.\n- Realistic botanical surface texture.\n- Subtle natural imperfections and color variations.\n- Thin, delicate leaf edges.\n- An intact, naturally attached leaf stem.\n\nThe leaf may be fresh green, olive green, golden brown, or autumn reddish-brown, depending on the emotional atmosphere.\n\n### 3. CREATIVE COMPOSITION\n\nIntelligently interpret the scene and translate it into a beautiful miniature silhouette composition.\n\nChoose the most suitable carving structure:\n\n- A partially preserved leaf with an open storytelling window.\n- A half-leaf composition with the central vein forming a structural boundary.\n- A horizontal miniature landscape supported by the lower half of the leaf.\n- An organically shaped silhouette that follows the natural outline of the leaf.\n\nDo not restrict every composition to the same leaf shape or layout.\n\nUse the natural veins, edges, and remaining leaf material as integral parts of the storytelling design.\n\nKeep the composition visually balanced, charming, recognizable, and emotionally expressive.\n\n### 4. CHARACTER AND SCENE DESIGN\n\nRender characters and objects as delightful, simplified, hand-crafted silhouettes with playful proportions, expressive gestures, and delicate details.\n\nCreate facial expressions, eyes, clothing details, and decorative patterns using carefully carved negative spaces.\n\nWhere appropriate, incorporate small botanical or atmospheric details such as flowers, grass, mushrooms, butterflies, stars, hearts, raindrops, or tiny branches.\n\nEvery decorative element must complement the scene rather than overcrowd it.\n\nAll carved elements must remain physically connected to the original leaf through natural veins, ground silhouettes, branches, or subtle structural connections.\n\nNo disconnected or floating leaf fragments.\n\n### 5. CARVING TECHNIQUE\n\nCombine solid silhouettes, fine contour carving, intricate hollow-out details, and large open negative spaces.\n\nThe carved openings must be genuinely transparent, allowing the real sky, sunlight, and background scenery to remain visible through them.\n\nMaintain a believable balance between delicate craftsmanship and physical structural integrity.\n\nThe result should resemble an extraordinary handmade botanical artwork created by a skilled leaf-carving artist.\n\n### 6. PHOTOGRAPHY AND ENVIRONMENT\n\nPresent the finished artwork as a highly realistic outdoor close-up photograph.\n\nThe leaf is gently held by its stem between human fingertips or naturally positioned upright on a wooden surface.\n\nUse an atmospheric natural background selected to complement the scene:\n\n- Clear blue sky.\n- Soft pastel sunset.\n- Golden-hour sunlight.\n- Dreamy pink evening sky.\n- Gentle cloudy daylight.\n- Softly blurred green foliage.\n\nUse natural backlighting, shallow depth of field, beautiful organic bokeh, and realistic light transmission through the carved openings.\n\nKeep the leaf artwork in sharp focus while the background remains softly blurred.\n\n### 7. EMOTIONAL ATMOSPHERE\n\nWhimsical, heartwarming, peaceful, poetic, playful, nostalgic, and full of childlike wonder.\n\nThe artwork should feel like a tiny fairy-tale world hidden within an ordinary leaf, transforming simple everyday moments into something magical.\n\n### 8. FINAL IMAGE REQUIREMENTS\n\nPhotorealistic handmade leaf carving, authentic botanical texture, exquisite craftsmanship, clean silhouettes, intricate negative-space design, natural outdoor photography, soft cinematic lighting, exceptionally detailed macro photography, artistic composition, high resolution.\n\nSquare 1:1 composition, with the entire carved leaf clearly visible and sufficient breathing space around it.\n\nNo digital illustration, no painted leaf surface, no printed graphics, no artificial paper texture, no plastic materials, no floating fragments, no excessive decorations, no watermark, no logo, and no unrelated text.\n\nGenerate the final image directly."
+    },
+    "media": [],
+    "models": [
+      "ChatGPT Image"
+    ],
+    "sourcePreview": {
+      "images": [
+        {
+          "url": "https://raw.githubusercontent.com/CoderLim/awesome-ai-image-prompts/main/data/media/manual/leaf-carving-storytelling.jpg",
+          "role": "output"
+        }
+      ],
+      "promptExcerpt": "Create an exceptionally charming and imaginative leaf carving artwork based on the following scene:\n",
+      "excerptTruncated": true
+    },
+    "provenance": {
+      "originalSource": {
+        "platform": "manual",
+        "author": "CoderLim",
+        "url": "https://github.com/CoderLim/awesome-ai-image-prompts/blob/main/data/media/manual/leaf-carving-storytelling.jpg",
+        "postId": null,
+        "publishedAt": "2026-11-28",
+        "verification": "owner-supplied"
+      },
+      "collectedFrom": [
+        {
+          "sourceId": "manual",
+          "mode": "manual-owner-supplied",
+          "snapshotSha256": "95e57c9bb35f6814fdadce1bb6ff7cebcc092ec97d8941d573b2ec5e1c7c501c",
+          "repository": "CoderLim/awesome-ai-image-prompts",
+          "ref": "main",
+          "path": "data/media/manual/leaf-carving-storytelling.jpg",
+          "url": "https://github.com/CoderLim/awesome-ai-image-prompts/blob/main/data/media/manual/leaf-carving-storytelling.jpg",
+          "collectedAt": "2026-11-28T06:40:00.000Z"
+        }
+      ]
+    },
+    "rights": {
+      "prompt": "unknown",
+      "media": "unknown"
+    },
+    "sourceMeta": {
+      "model": "ChatGPT Image",
+      "textReview": "complete",
+      "visualReview": "pending",
+      "pairing": "owner-supplied-output",
+      "imageVerification": "owner-supplied local media copied into data/media/manual; HTTP unchecked until published",
+      "review": {
+        "qualityStatus": "recommended",
+        "classificationConfidence": "high",
+        "classificationMethod": "owner-directed-import",
+        "inputMode": "text-to-image",
+        "category": "creative-art"
+      },
+      "publicationReview": {
+        "reviewer": "Owner-directed direct import (no separate review queue)",
+        "duplicate": {
+          "status": "cleared",
+          "evidence": "Exact normalized prompt and post-id scan against current catalog found no matches."
+        }
+      }
+    }
   }
 ]
