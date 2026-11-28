@@ -38,22 +38,6 @@ By [@sipteaandcoffee](https://x.com/sipteaandcoffee/status/2062226869299323260)
 
 ---
 
-<a id="sipteaandcoffee-2095212333597675757"></a>
-
-## Playful crayon doodles on realistic photos
-
-<a href="https://pbs.twimg.com/media/HROwfSPbcAAnft4.jpg"><img src="https://pbs.twimg.com/media/HROwfSPbcAAnft4.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Keep the original photo fully realistic and unchanged. Add playful hand-drawn doodles directly onto the photo, as if someone casually drew over a printed snapshot with crayons and markers. Randomly choose 2–4 creative interventions based on the scene: redraw parts of the clothing as colorful crayon outfits, extend or replace accessories with doodle versions, add funny objects or props, simple hearts, stars, arrows, utensils, flowers, symbols, or short handwritten annotations. Use rough black outlines, chunky uneven strokes, flat bright colors, visible waxy crayon texture, imperfect childlike coloring, and slightly messy hand-drawn edges. Make the doodles naturally interact with the people and objects in the photo and follow their body shapes, poses, and perspective. Keep faces, skin, hair, hands, and the environment photorealistic. Do not cartoonize the entire image. Each photo should receive a different, spontaneous combination of doodles, like a quirky personal photo diary.
-```
-
-By [@sipteaandcoffee](https://x.com/sipteaandcoffee/status/2095212333597675757)
-
----
-
 [1](restyle.md) · **2**
 
 [← Home](../README.md)

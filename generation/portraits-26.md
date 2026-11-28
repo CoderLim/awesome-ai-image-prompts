@@ -6,38 +6,6 @@
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
-<a id="prompthero-b4ced5a8de6"></a>
-
-## The image captures a joyous moment, centered on a \.\.\.
-
-<a href="https://cdn.prompthero.com/muiw908arx2rch86w53wl9aqlwyz-flux-flux-11-pro-ultra-the-image-captures-a-joyous-moment-centered-on-a-smiling-woman-dressed-vibrantly-in-traditional-clothing-possibly-from-a-culture.jpg"><img src="https://cdn.prompthero.com/muiw908arx2rch86w53wl9aqlwyz-flux-flux-11-pro-ultra-the-image-captures-a-joyous-moment-centered-on-a-smiling-woman-dressed-vibrantly-in-traditional-clothing-possibly-from-a-culture.jpg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-The image captures a joyous moment, centered on a smiling woman dressed vibrantly in traditional clothing, possibly from a culture known for its colorful attire. Her outfit is richly adorned with bright, intricate patterns and embellishments, and she wears a headdress adorned with flowers that add a splash of various colors to her appearance. She is holding up a decorative item, which could be a part of a festival or celebration, toward the sky with a look of exuberance and delight. Her expression is one of genuine happiness as she laughs, her eyes closed and her head tilted back, which suggests she is fully immersed in the festivities. Other individuals, similarly dressed in traditional clothing though slightly out of focus, can be seen in the background enjoying the event, indicating a communal or cultural gathering. The warm lighting amplifies the festive atmosphere, giving the image a vibrant and lively feel.
-```
-
-[Source](https://prompthero.com/prompt/b4ced5a8de6-flux-flux-11-pro-ultra-the-image-captures-a-joyous-moment-centered-on-a-smiling-woman-dressed-vibrantly-in-traditional-clothing-possibly-from-a-culture)
-
----
-
-<a id="prompthero-b5bb3ad9536"></a>
-
-## high resolution photography, candid shot, couple, \.\.\.
-
-<a href="https://cdn.prompthero.com/rxikupa9egvwz1r54ijrl3v1yc-midjourney-shatter-high-resolution-photography-candid-shot-couple-hugging-at-a-complicated-street-35mm-film-kodak-portra-400-motion-blur-authentic-emotion.png"><img src="https://cdn.prompthero.com/rxikupa9egvwz1r54ijrl3v1yc-midjourney-shatter-high-resolution-photography-candid-shot-couple-hugging-at-a-complicated-street-35mm-film-kodak-portra-400-motion-blur-authentic-emotion.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-high resolution photography, candid shot, couple, hugging, at a complicated street, 35mm film, kodak portra 400, motion blur, authentic emotion, film grain, cinematic lighting, rich detailed --ar 9:16 --raw
-```
-
-By [@Grayve](https://prompthero.com/prompt/b5bb3ad9536-midjourney-shatter-high-resolution-photography-candid-shot-couple-hugging-at-a-complicated-street-35mm-film-kodak-portra-400-motion-blur-authentic-emotion)
-
----
-
 <a id="prompthero-b6bebeecca5"></a>
 
 ## score\_9, score\_8\_up, score\_7\_up,1girl,solo,two ton\.\.\.
@@ -323,6 +291,38 @@ Flux_style_vibrant. Hyper-detailed, dynamic full body shot, low angle view. Afri
 ```
 
 [Source](https://prompthero.com/prompt/b4098187b5a-flux-flux-11-pro-ultra-fluxstylevibrant-hyper-detailed-dynamic-full-body-shot-low-angle-view-african-american-woman-with-striking-cornrows-bold-purple-graphic-makeup)
+
+---
+
+<a id="prompthero-b83128713a6"></a>
+
+## A confident woman sits casually on a wooden bench,\.\.\.
+
+<a href="https://cdn.prompthero.com/ye5whn6i1odc1ksosxf8zvbi1yhd-sd-xl-v10-vae-fix-the-image-was-produced-with-comfyui-workflow-erol-sdxl-turbo-canny-controlnet-ttplanetsdxlcontrolnettilerealisticv1-as-well-as-its-workflow-by-ttplanet-a-confident-woman-sits-casually-on-a-wooden-bench-leaning-slightly-to-her-left-with-her-left-hand-supporting-her.png"><img src="https://cdn.prompthero.com/ye5whn6i1odc1ksosxf8zvbi1yhd-sd-xl-v10-vae-fix-the-image-was-produced-with-comfyui-workflow-erol-sdxl-turbo-canny-controlnet-ttplanetsdxlcontrolnettilerealisticv1-as-well-as-its-workflow-by-ttplanet-a-confident-woman-sits-casually-on-a-wooden-bench-leaning-slightly-to-her-left-with-her-left-hand-supporting-her.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+A confident woman sits casually on a wooden bench, leaning slightly to her left with her left hand supporting her weight. She wears a form-fitting, high-neck sleeveless black dress. Her hair is styled in sleek waves, complemented by defined makeup. Her direct gaze exudes composure. The warm ambient lighting highlights the wooden textures and soft background, creating a relaxed yet engaging atmosphere.
+```
+
+By [@JBlack16062205](https://prompthero.com/prompt/b83128713a6-sd-xl-v10-vae-fix-the-image-was-produced-with-comfyui-workflow-erol-sdxl-turbo-canny-controlnet-ttplanetsdxlcontrolnettilerealisticv1-as-well-as-its-workflow-by-ttplanet-a-confident-woman-sits-casually-on-a-wooden-bench-leaning-slightly-to-her-left-with-her-left-hand-supporting-her)
+
+---
+
+<a id="prompthero-b662238875f"></a>
+
+## Description with knolling parts, fashion girl, Ful\.\.\.
+
+<a href="https://cdn.prompthero.com/ccjnlxl4rz7m2xomx1mky973as75-midjourney-51-description-with-knolling-parts-fashion-girl-full-body-one-american-girl-wearing-beach-sunglasses-white-t-shirt-with-nike-logo.png"><img src="https://cdn.prompthero.com/ccjnlxl4rz7m2xomx1mky973as75-midjourney-51-description-with-knolling-parts-fashion-girl-full-body-one-american-girl-wearing-beach-sunglasses-white-t-shirt-with-nike-logo.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+Description with knolling parts, fashion girl, Full body, one American girl, wearing beach, sunglasses, white T - shirt with nike logo, white sneakers, full scale, yellow backpack, HD, portrait, photo, 8k, escription with knolling parts, main color # ff7ad2, knolling, photorealistic, 8k, shot from above, with text description, data visualization --ar 3:4 --s 750 --v 5.1
+```
+
+[Source](https://prompthero.com/prompt/b662238875f-midjourney-51-description-with-knolling-parts-fashion-girl-full-body-one-american-girl-wearing-beach-sunglasses-white-t-shirt-with-nike-logo)
 
 ---
 

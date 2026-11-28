@@ -6,38 +6,6 @@
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
-<a id="prompthero-35859341517"></a>
-
-## hot blond hair girl, looking at viewer, portrait, \.\.\.
-
-<a href="https://cdn.prompthero.com/q66bcvr7vhqe1azn5quwvm4gioob-dreamshaper-7-hot-blond-hair-girl-looking-at-viewer-portrait-photography-detailed-skin-realistic-photo-realistic-8k-highly-detailed-full-length-frame.png"><img src="https://cdn.prompthero.com/q66bcvr7vhqe1azn5quwvm4gioob-dreamshaper-7-hot-blond-hair-girl-looking-at-viewer-portrait-photography-detailed-skin-realistic-photo-realistic-8k-highly-detailed-full-length-frame.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-hot blond hair girl, looking at viewer, portrait, photography, detailed skin, realistic, photo-realistic, 8k, highly detailed, full length frame, piercing, diffused soft lighting, shallow depth of field, sharp focus, hyperrealism, cinematic lighting
-```
-
-[Source](https://prompthero.com/prompt/35859341517-dreamshaper-7-hot-blond-hair-girl-looking-at-viewer-portrait-photography-detailed-skin-realistic-photo-realistic-8k-highly-detailed-full-length-frame)
-
----
-
-<a id="prompthero-80643316741"></a>
-
-## Generate a photorealistic portrait of a middle-age\.\.\.
-
-<a href="https://cdn.prompthero.com/zzyg7yy9xo5hcbjuhvzykp8otto9-chatgpt-image-gpt-4o-generate-a-photorealistic-portrait-of-a-middle-aged-adult-male-radiating-wisdom-and-affable-confidence-his-presence-is-captivating-a.png"><img src="https://cdn.prompthero.com/zzyg7yy9xo5hcbjuhvzykp8otto9-chatgpt-image-gpt-4o-generate-a-photorealistic-portrait-of-a-middle-aged-adult-male-radiating-wisdom-and-affable-confidence-his-presence-is-captivating-a.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-Generate a photorealistic portrait of a middle-aged adult male, radiating wisdom and affable confidence. His presence is captivating, a blend of lived experience and open friendliness, with a smile that resonates with a deep understanding and gentle kindness. His hair, peppered with grey, is neatly groomed and styled with a dignified, yet effortless flair, signaling a man who values appearance but not vanity. Upon his face rest contemporary, rectangular glasses with a subtle frame, contributing to his scholarly yet accessible visage. They frame his eyes, which are a rich, warm brown, and brim with stories, inviting the viewer into his world with a single glance. He is dressed in a smart, dark-colored blazer that speaks of his professional acumen, layered over a crisp maroon shirt that adds a touch of approachable elegance to his appearance. The lighting caresses his face, soft yet defined, to reveal the honest textures of his life-etched skin, the slight creases around his eyes that hint at years of laughter and concern, and the faintest impression of stubble along a strong jawline, alluding to his everyday humanity. Every aspect of his visage, from the calculated casualness of his attire to the considered set of his clear glasses, is carefully curated to project the image of a man who is as nurturing as he is knowledgeable, as grounded as he is inspiring. The ambiance surrounding him is one of understated sophistication, the kind that fosters trust and admiration.
-```
-
-By [@robiness](https://prompthero.com/prompt/80643316741-chatgpt-image-gpt-4o-generate-a-photorealistic-portrait-of-a-middle-aged-adult-male-radiating-wisdom-and-affable-confidence-his-presence-is-captivating-a)
-
----
-
 <a id="prompthero-a1a594c08d4"></a>
 
 ## large format, Street fashion shot from a distance \.\.\.
@@ -323,6 +291,38 @@ A beautiful woman seductively posing by a large window, wearing a sweatshirt and
 ```
 
 By [@abyishot](https://prompthero.com/prompt/a912514fefc-stable-diffusion-xl-base-09-tanya-tanya-a-brilliant-actress-with-a-gift-for-daring-roles-that-set-the-screen-ablaze-often-found-herself-caught-in-a-beautiful-woman-seductively-posing-by-a-large-window-wearing-a-sweatshirt-and-underwear-only-daring-photography-minimal-lighting-shadows)
+
+---
+
+<a id="prompthero-a1304811bbe"></a>
+
+## GozdeSeker, a 45 years old woman with olive skin a\.\.\.
+
+<a href="https://cdn.prompthero.com/xfzh3ggxkb5mg8ufe7jxw2fwbht5-flux-dev-gozdeseker-a-45-years-old-woman-with-olive-skin-and-dark-wavy-hair-sits-in-a-cozy-coffee-shop-she.png"><img src="https://cdn.prompthero.com/xfzh3ggxkb5mg8ufe7jxw2fwbht5-flux-dev-gozdeseker-a-45-years-old-woman-with-olive-skin-and-dark-wavy-hair-sits-in-a-cozy-coffee-shop-she.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+GozdeSeker, a 45 years old woman with olive skin and dark, wavy hair, sits in a cozy coffee shop. She wears a soft gray sweater dress and subtle makeup, dshe wears a necked metal bdsm chocker, her expression serene. She holds a steaming cup of coffee, her eyes reflecting a mix of contentment and deep thought. The scene is bathed in warm, golden light from a window to her left, casting soft shadows and highlighting the rich textures of the wooden table and the ambient, vintage decor. The lighting is reminiscent of a Wes Anderson film, with a subtle film grain and a slightly desaturated color palette, creating a nostalgic and inviting atmosphere.
+```
+
+[Source](https://prompthero.com/prompt/a1304811bbe-flux-dev-gozdeseker-a-45-years-old-woman-with-olive-skin-and-dark-wavy-hair-sits-in-a-cozy-coffee-shop-she)
+
+---
+
+<a id="prompthero-a3885940a0d"></a>
+
+## \(masterpiece:1\.1, best quality:1\.3\), Cinematic Sho\.\.\.
+
+<a href="https://cdn.prompthero.com/sxbff4uylkaiozi9tpusplwgb8lt-dreamshaper-5-baked-vae-masterpiece11-best-quality13-cinematic-shot-centered-shot-from-below-dynamic-pose-focused-shot-close-up-looking-toward-camera-1gothic-girl.jpg"><img src="https://cdn.prompthero.com/sxbff4uylkaiozi9tpusplwgb8lt-dreamshaper-5-baked-vae-masterpiece11-best-quality13-cinematic-shot-centered-shot-from-below-dynamic-pose-focused-shot-close-up-looking-toward-camera-1gothic-girl.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+(masterpiece:1.1, best quality:1.3), Cinematic Shot, centered, shot from below, dynamic pose, focused shot, close up, (looking toward camera), 1gothic girl, cold, gorgeous, long chestnut ponytail hair, wearing scarf, jeans, leather army jacket, snowy blizzard, shopping district, city street background, RAW photo, volumetric lighting, global illumination, reflection, bokeh, studio color, photography, realistic depiction, (epic composition, epic proportion), 64K, HD, Professional work, Unreal engine, octane render, makoto shinkai inspired,
+```
+
+[Source](https://prompthero.com/prompt/a3885940a0d-dreamshaper-5-baked-vae-masterpiece11-best-quality13-cinematic-shot-centered-shot-from-below-dynamic-pose-focused-shot-close-up-looking-toward-camera-1gothic-girl)
 
 ---
 

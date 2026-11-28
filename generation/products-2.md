@@ -6,22 +6,6 @@
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
-<a id="prompthero-9d8ba1a26cb"></a>
-
-## Ultra-realistic 3D miniature diorama of a \*\*My Bur\.\.\.
-
-<a href="https://cdn.prompthero.com/qfeeakxjzu9mevsil48lv1dszr-hero-10-ultra-realistic-3d-miniature-diorama-of-a-my-burger-restaurant-built-inside-a-giant-gourmet-hamburger-shown-in-a-clean.jpeg"><img src="https://cdn.prompthero.com/qfeeakxjzu9mevsil48lv1dszr-hero-10-ultra-realistic-3d-miniature-diorama-of-a-my-burger-restaurant-built-inside-a-giant-gourmet-hamburger-shown-in-a-clean.jpeg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-Ultra-realistic 3D miniature diorama of a **My Burger** restaurant built inside a giant gourmet hamburger, shown in a clean cross-section / partially cut-open view revealing a highly detailed miniature interior world. The giant hamburger acts as both the iconic container and the restaurant itself. The sesame bun forms the roof, layers of lettuce, cheese, beef patties, tomatoes, onions, and sauces are seamlessly integrated into the architecture, floors, walls, stairs, and landscape, creating a visually stunning edible environment. Inside the structure, a fully detailed miniature **My Burger** restaurant is alive with realistic activity: chefs grilling burgers, staff preparing fresh meals, cashiers serving customers, people ordering at the counter, families dining, delivery riders collecting orders, and customers enjoying burgers in a warm, lively atmosphere. Display elegant **My Burger** branding throughout the restaurant, including illuminated logos, menu boards, food packaging, cups, trays, uniforms, wall signs, and subtle branded design elements that enhance realism without overwhelming the scene. Add cinematic storytelling details: floating sesame seeds, splashes of ketchup and cheese sauce frozen in mid-air, rising steam from freshly grilled burgers, crispy fries falling naturally, tiny crumbs, seasoning particles, and realistic food preparation moments captured in time. Include volumetric lighting effects with soft steam, light rays passing through the interior, subtle atmospheric haze, and floating particles to create depth and premium cinematic realism. Every surface must feature hyper-realistic micro-details: toasted bun texture, juicy grilled meat, melted cheese stretching naturally, glossy sauces, fresh vegetables with realistic moisture, fingerprints on trays, condensation on drink cups, stainless-steel reflections, tiny scratches, dust particles, oil sheen, and authentic material imperfections. Lighting follows a luxury commercial advertising style with warm golden lighting inside the restaurant contrasted by cooler ambient exterior tones, soft rim lighting outlining every miniature element, realistic global illumination, cinematic shadows, and physically accurate reflections. Composition: slightly angled hero shot with the hamburger cross-section clearly visible, centered composition, premium product-advertising aesthetic, clean cinematic background with soft macro bokeh. Captured using a professional macro lens with shallow depth of field, creamy bokeh, focus stacking, ultra-sharp textures, photorealistic rendering, Octane Render, Unreal Engine 5 quality, ray tracing, HDR, 8K ultra-high resolution, filmic color grading, luxury commercial food photography, masterpiece, hyper-detailed, extremely realistic.
-```
-
-[Source](https://prompthero.com/prompt/9d8ba1a26cb-hero-10-ultra-realistic-3d-miniature-diorama-of-a-my-burger-restaurant-built-inside-a-giant-gourmet-hamburger-shown-in-a-clean)
-
----
-
 <a id="prompthero-11fce90ea56"></a>
 
 ## A clean top-down flat-lay of exactly 9 hyper-reali\.\.\.
@@ -323,6 +307,22 @@ Extreme close-up, a plate of spaghetti with marinara sauce,, photorealistic, in 
 ```
 
 By [@NorthmoorAI](https://prompthero.com/prompt/ef05843aaf8-midjourney-6-extreme-close-up-a-plate-of-spaghetti-with-marinara-sauce-photorealistic-in-the-style-of-high-quality-food-photography-chaos)
+
+---
+
+<a id="sipteaandcoffee-2049174937420918968"></a>
+
+## Futuristic limited-edition sneaker advertisement
+
+<a href="https://pbs.twimg.com/media/HHAhvrDaMAAoT6P.jpg"><img src="https://pbs.twimg.com/media/HHAhvrDaMAAoT6P.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+Create a jaw-dropping premium advertising poster in 9:16 vertical format for a fictional ultra-limited women’s fashion sneaker called "NIKE AIR JORDAN 1 LOW - LIMITED DROP". The design must feel like a world-class campaign by a top creative agency, highly original, futuristic, visually explosive, and impossible to ignore. Main visual: A stunning athletic female model placed prominently in the foreground, dominating the composition and becoming the main focal point. She stands powerfully at the front of the frame wearing the hero sneaker, captured from a dramatic low angle with one foot stepping toward the camera. Her pose is bold, confident, fierce, elegant, and unstoppable. She should appear larger than the shoe and visually command attention first. The hero sneaker is positioned beside or slightly behind her in a dynamic floating pose, still highly visible as the premium product focus. The shoe should look ultra-premium, highly engineered, sleek, aerodynamic, and fashion-forward. Materials combine knit mesh, sculpted foam, translucent panels, reflective stripes, and a carbon-fiber sole plate. She wears a sleek futuristic sports-luxury outfit: fitted performance crop jacket, sculpted leggings, metallic detailing, aerodynamic silhouette. Hair flowing with motion energy. Both the model and sneaker stand above a black obsidian running track split by glowing energy cracks. Neon light trails swirl around her body and shoes like captured speed. Small particles, mist, sparks, and motion streaks add intensity. In the background, use faint silhouettes of female runners frozen mid-sprint, softly blurred to keep all attention on the foreground model and sneaker. Color palette: Matte black, electric red, silver, deep charcoal, subtle neon blue highlights. Typography and poster copy: Render all text cleanly, sharply, and professionally with strong hierarchy. Main headline: “OWN THE SPEED” Product title: “NIKE AIR JORDAN 1 LOW” Subheadline: “Built for the women who never move ordinary.” Feature callouts in elegant boxed layout: Featherlight Adaptive Knit Upper Carbon Energy Return Plate Precision Grip Traction Limited Collector Release Price line: $299 CTA: DROP LIVE NOW Secondary CTA: Only at https://t.co/feHYve1vIX Small footer text: “Performance innovation meets futuristic street identity.” Layout direction: Headline bold and oversized, partially integrated into background. Female model in the foreground center-front as the visual star. Sneaker placed near her feet or floating beside her. Product title near the shoe in refined premium layout. Feature callouts vertically aligned on one side. Add subtle badge reading LIMITED SERIES. Style: Ultra-detailed, hyper-realistic fashion product photography, cinematic studio lighting, premium advertising aesthetics, sharp focus, rich textures, subtle atmosphere, dynamic motion energy, high-end commercial poster, no clutter, no generic template look.
+```
+
+By [@sipteaandcoffee](https://x.com/sipteaandcoffee/status/2049174937420918968)
 
 ---
 

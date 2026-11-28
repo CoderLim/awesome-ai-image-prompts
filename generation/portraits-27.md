@@ -6,38 +6,6 @@
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
-<a id="prompthero-b83128713a6"></a>
-
-## A confident woman sits casually on a wooden bench,\.\.\.
-
-<a href="https://cdn.prompthero.com/ye5whn6i1odc1ksosxf8zvbi1yhd-sd-xl-v10-vae-fix-the-image-was-produced-with-comfyui-workflow-erol-sdxl-turbo-canny-controlnet-ttplanetsdxlcontrolnettilerealisticv1-as-well-as-its-workflow-by-ttplanet-a-confident-woman-sits-casually-on-a-wooden-bench-leaning-slightly-to-her-left-with-her-left-hand-supporting-her.png"><img src="https://cdn.prompthero.com/ye5whn6i1odc1ksosxf8zvbi1yhd-sd-xl-v10-vae-fix-the-image-was-produced-with-comfyui-workflow-erol-sdxl-turbo-canny-controlnet-ttplanetsdxlcontrolnettilerealisticv1-as-well-as-its-workflow-by-ttplanet-a-confident-woman-sits-casually-on-a-wooden-bench-leaning-slightly-to-her-left-with-her-left-hand-supporting-her.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-A confident woman sits casually on a wooden bench, leaning slightly to her left with her left hand supporting her weight. She wears a form-fitting, high-neck sleeveless black dress. Her hair is styled in sleek waves, complemented by defined makeup. Her direct gaze exudes composure. The warm ambient lighting highlights the wooden textures and soft background, creating a relaxed yet engaging atmosphere.
-```
-
-By [@JBlack16062205](https://prompthero.com/prompt/b83128713a6-sd-xl-v10-vae-fix-the-image-was-produced-with-comfyui-workflow-erol-sdxl-turbo-canny-controlnet-ttplanetsdxlcontrolnettilerealisticv1-as-well-as-its-workflow-by-ttplanet-a-confident-woman-sits-casually-on-a-wooden-bench-leaning-slightly-to-her-left-with-her-left-hand-supporting-her)
-
----
-
-<a id="prompthero-b662238875f"></a>
-
-## Description with knolling parts, fashion girl, Ful\.\.\.
-
-<a href="https://cdn.prompthero.com/ccjnlxl4rz7m2xomx1mky973as75-midjourney-51-description-with-knolling-parts-fashion-girl-full-body-one-american-girl-wearing-beach-sunglasses-white-t-shirt-with-nike-logo.png"><img src="https://cdn.prompthero.com/ccjnlxl4rz7m2xomx1mky973as75-midjourney-51-description-with-knolling-parts-fashion-girl-full-body-one-american-girl-wearing-beach-sunglasses-white-t-shirt-with-nike-logo.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-Description with knolling parts, fashion girl, Full body, one American girl, wearing beach, sunglasses, white T - shirt with nike logo, white sneakers, full scale, yellow backpack, HD, portrait, photo, 8k, escription with knolling parts, main color # ff7ad2, knolling, photorealistic, 8k, shot from above, with text description, data visualization --ar 3:4 --s 750 --v 5.1
-```
-
-[Source](https://prompthero.com/prompt/b662238875f-midjourney-51-description-with-knolling-parts-fashion-girl-full-body-one-american-girl-wearing-beach-sunglasses-white-t-shirt-with-nike-logo)
-
----
-
 <a id="prompthero-b4279926655"></a>
 
 ## Baroque Style, dreamlike Hyperdetailed grunge art \.\.\.
@@ -323,6 +291,38 @@ woman wearing a cyberpunk style shiny black helmet with robotic features, the re
 ```
 
 [Source](https://prompthero.com/prompt/c0e78bf78ea-stable-diffusion-15-a-teen-girl-in-a-futuristic-cyber-armor)
+
+---
+
+<a id="prompthero-c0eeb7d5daa"></a>
+
+## medium close-up photograph of a perky young woman \.\.\.
+
+<a href="https://cdn.prompthero.com/xt6s1jdlfnshyzkvqicuobv3niy4-flux-flux1-dev-medium-close-up-photograph-of-a-perky-young-woman-with-messy-black-hair-wearing-a-designer-sequin-bra-an-unbuttoned.png"><img src="https://cdn.prompthero.com/xt6s1jdlfnshyzkvqicuobv3niy4-flux-flux1-dev-medium-close-up-photograph-of-a-perky-young-woman-with-messy-black-hair-wearing-a-designer-sequin-bra-an-unbuttoned.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+medium close-up photograph of a perky young woman with messy black hair, wearing a designer sequin bra, an unbuttoned blouse, hoop earrings, necklace, her clothes are disheveled from an evening out on the town, lipstick, dark sparkling eye shadow, makeup, but she is very energetic, late night, dark, outdoors in the city, extremely intricate details, masterpiece, enhanced contrast, highly detailed skin
+```
+
+[Source](https://prompthero.com/prompt/c0eeb7d5daa-flux-flux1-dev-medium-close-up-photograph-of-a-perky-young-woman-with-messy-black-hair-wearing-a-designer-sequin-bra-an-unbuttoned)
+
+---
+
+<a id="prompthero-c1b35b6950b"></a>
+
+## a girl, light dress, strong wind, long pink hair, \.\.\.
+
+<a href="https://cdn.prompthero.com/516a2vtmn8fweskh9miqjuzr2lku-deliberate-v2-a-girl-light-dress-strong-wind-long-pink-hair-apterus-style13-dark-shot14-80mm-soft-light-sharp-exposure-blend-medium.png"><img src="https://cdn.prompthero.com/516a2vtmn8fweskh9miqjuzr2lku-deliberate-v2-a-girl-light-dress-strong-wind-long-pink-hair-apterus-style13-dark-shot14-80mm-soft-light-sharp-exposure-blend-medium.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+a girl, light dress, strong wind, long pink hair, (apterus style:1.3), (dark shot:1.4), 80mm, soft light, sharp, exposure blend, medium shot, bokeh, (hdr:1.4), (film grain:1.23), high contrast, (cinematic, teal and orange:0.85), (muted colors, dim colors, soothing tones:1.3), low saturation, (hyperdetailed:1.2), (noir:0.9),(intricate details, hyperdetailed:1.15), modelshoot style, dramatic lighting, minimalistic, flat colors, washed colors, dithering, lineart, (detailed background:1.3), (full body:1.2), (depth of field:1.4), (detailed face:1.1), (photo realistic:1.3), symetrical, octane render, 35mm, bokeh, 9:16, (intricate details:1.12), hdr, (intricate details, hyperdetailed:1.15), (natural skin texture, hyperrealism, soft light, sharp:1.2), (detailed skin:1.2), (natural skin texture, hyperrealism, soft light, sharp:1.2)
+```
+
+By [@heeyrina](https://prompthero.com/prompt/c1b35b6950b-deliberate-v2-a-girl-light-dress-strong-wind-long-pink-hair-apterus-style13-dark-shot14-80mm-soft-light-sharp-exposure-blend-medium)
 
 ---
 

@@ -6,38 +6,6 @@
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
-<a id="prompthero-de1819b1b14"></a>
-
-## A photo of an eccentric woman sitting on top of wh\.\.\.
-
-<a href="https://cdn.prompthero.com/6wryr34dlla639gjjfdrlk6bo4w6-flux-flux-11-pro-a-photo-of-an-eccentric-woman-sitting-on-top-of-white-fluffy-clouds-wearing-big-sunglasses-and-light-blue-pajamas.jpg"><img src="https://cdn.prompthero.com/6wryr34dlla639gjjfdrlk6bo4w6-flux-flux-11-pro-a-photo-of-an-eccentric-woman-sitting-on-top-of-white-fluffy-clouds-wearing-big-sunglasses-and-light-blue-pajamas.jpg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-A photo of an eccentric woman sitting on top of white fluffy clouds wearing big sunglasses and light blue pajamas with yellow polka dots, she has short dark hair in a bob cut, the background is babyblue sky with white cloud formations, shot by Jimmy Marble, muted earthy colors, soft tones
-```
-
-[Source](https://prompthero.com/prompt/de1819b1b14-flux-flux-11-pro-a-photo-of-an-eccentric-woman-sitting-on-top-of-white-fluffy-clouds-wearing-big-sunglasses-and-light-blue-pajamas)
-
----
-
-<a id="prompthero-de8453986d9"></a>
-
-## Fashion photography, close portrait of two albino \.\.\.
-
-<a href="https://cdn.prompthero.com/7261du6h167d38oyev3oww260rpe-stable-diffusion-2-base-fashion-photography-close-portrait-of-two-albino-twin-sisters-in-red-light-at-night-club-volumetric-lighting-cinematic-angle-glamour.png"><img src="https://cdn.prompthero.com/7261du6h167d38oyev3oww260rpe-stable-diffusion-2-base-fashion-photography-close-portrait-of-two-albino-twin-sisters-in-red-light-at-night-club-volumetric-lighting-cinematic-angle-glamour.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-Fashion photography, close portrait of two albino twin sisters in red light at night club, volumetric lighting, cinematic angle, glamour vibrant, highres, realistic photo, professional photography, cinematic angle, dynamic light back shining, bokeh,
-```
-
-[Source](https://prompthero.com/prompt/de8453986d9-stable-diffusion-2-base-fashion-photography-close-portrait-of-two-albino-twin-sisters-in-red-light-at-night-club-volumetric-lighting-cinematic-angle-glamour)
-
----
-
 <a id="prompthero-de23812088e"></a>
 
 ## A boy with blue hair, wearing a technologically ad\.\.\.
@@ -323,6 +291,38 @@ Close-up retro FlicFilm Elektra 100 photo of a classy model wearing a muted past
 ```
 
 [Source](https://prompthero.com/prompt/e4623ed1f21-flux-flux-11-pro-ultra-close-up-retro-flicfilm-elektra-100-photo-of-a-classy-model-wearing-a-muted-pastel-blue-western-suit-with-a)
+
+---
+
+<a id="prompthero-e6211b8bde2"></a>
+
+## Paparazzi-style extreme close-up photo of a woman \.\.\.
+
+<a href="https://cdn.prompthero.com/o9dg0qw96p8jt9f1d2topnmw23-stable-diffusion-35-large-paparazzi-style-extreme-close-up-photo-of-a-woman-with-striking-facial-features-caught-off-guard-while-turning-toward-the.jpeg"><img src="https://cdn.prompthero.com/o9dg0qw96p8jt9f1d2topnmw23-stable-diffusion-35-large-paparazzi-style-extreme-close-up-photo-of-a-woman-with-striking-facial-features-caught-off-guard-while-turning-toward-the.jpeg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+Paparazzi-style extreme close-up photo of a woman with striking facial features, caught off-guard while turning toward the camera. Face and shoulders only, shot from a low angle. Strong harsh on-camera flash, grainy high-ISO, raw candid street-photography feel. Background shows a crowded scene with motion blur (Paris Fashion Week atmosphere). Intense, spontaneous energy, imperfect and real. She is wearing a school uniform. Ultra-realistic, cinematic realism, high detail skin texture, slight lens distortion. Camera style: “35mm paparazzi lens, f/2.8, flash blown highlights” Look: “2000s tabloid photo aesthetic” Quality: “sharp focus on face, background heavily blurred and streaked”
+```
+
+[Source](https://prompthero.com/prompt/e6211b8bde2-stable-diffusion-35-large-paparazzi-style-extreme-close-up-photo-of-a-woman-with-striking-facial-features-caught-off-guard-while-turning-toward-the)
+
+---
+
+<a id="prompthero-e06677ed624"></a>
+
+## A captivating portrait of a young Asian woman, mid\.\.\.
+
+<a href="https://cdn.prompthero.com/8l9qpbv8jknyqnu4q0tsi04i6q6o-midjourney-61-a-captivating-portrait-of-a-young-asian-woman-mid-shot-embodying-a-futuristic-warrior-aesthetic-she-wears-a-teal-and.png"><img src="https://cdn.prompthero.com/8l9qpbv8jknyqnu4q0tsi04i6q6o-midjourney-61-a-captivating-portrait-of-a-young-asian-woman-mid-shot-embodying-a-futuristic-warrior-aesthetic-she-wears-a-teal-and.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+A captivating portrait of a young Asian woman, mid-shot, embodying a futuristic warrior aesthetic. She wears a teal and gold armored top, intricately designed with detailed patterns, accentuated with red accents, covering her chest and shoulders. Her facial features include a meticulously crafted mask that covers her nose and mouth, featuring a gold and teal color scheme, and sharply focused, piercing brown eyes. Her dark hair is styled in two high buns with red ribbon accents. A gleaming katana blade is held diagonally across her body, adding to the composition's dynamism. The background shows a weathered, concrete wall, providing a muted contrast to the vibrancy of the subject's outfit. The image is lit with a soft, diffused light, highlighting the textures of the armor and the sharpness of her gaze, rendered in a digital art style with high detail and a cinematic feel, emphasizing strong lines and geometric forms, reminiscent of a modern manga illustration. --ar 2:3 --q 2 -- 750
+```
+
+[Source](https://prompthero.com/prompt/e06677ed624-midjourney-61-a-captivating-portrait-of-a-young-asian-woman-mid-shot-embodying-a-futuristic-warrior-aesthetic-she-wears-a-teal-and)
 
 ---
 

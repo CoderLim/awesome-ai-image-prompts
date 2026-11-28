@@ -6,22 +6,6 @@
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
-<a id="prompthero-b60c97a9988"></a>
-
-## Hunt for Diablo: Ivanah
-
-<a href="https://cdn.prompthero.com/e745qsbgc09cgauftv2mwnozec9u-stable-diffusion-xl-base-09-hunt-for-diablo-ivanah.jpg"><img src="https://cdn.prompthero.com/e745qsbgc09cgauftv2mwnozec9u-stable-diffusion-xl-base-09-hunt-for-diablo-ivanah.jpg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-Photo of a seductive Amazon warrior, hyper detail, intimate facial expression, handcrafted cloth worn outfit, war paint, dark woods background, raining, rain showers, dramatic cinematic lighting, concept art, unreal engine 5, RTX, ray tracing, photorealistic
-```
-
-By [@abyishot](https://prompthero.com/prompt/b60c97a9988-stable-diffusion-xl-base-09-hunt-for-diablo-ivanah)
-
----
-
 <a id="prompthero-b876a410d85"></a>
 
 ## 50mm film photography, world war first photo on th\.\.\.
@@ -323,6 +307,22 @@ A piece of concept art depicting a male horrific demon with realistic, intricate
 ```
 
 By [@JBlack16062205](https://prompthero.com/prompt/c39167eea21-stable-diffusion-xl-base-09-comfyui-based-workflow-seargesdxl432-checkpoints-models-used-dreamshaper-xl-turbo-turbovisionxlsuperfastxl-realvisxlv30turbov30-juggernautxlv7rundiffusion-dreamshaperxlturbo-full-credits-shall-go-to-the-a-piece-of-concept-art-depicting-a-male-horrific-demon-with-realistic-intricate-details-the-artwork-should-contain-chaotic-brush)
+
+---
+
+<a id="prompthero-ca065b7d9f0"></a>
+
+## a samurai in a boat in the middle of the cherry bl\.\.\.
+
+<a href="https://cdn.prompthero.com/j4h73vwsp73jrdd2qqzl6p5sezsz-flux-flux-11-pro-a-samurai-in-a-boat-in-the-middle-of-the-cherry-blossoms-in-the-style-of-lush-scenery-fairycore-ultra.jpg"><img src="https://cdn.prompthero.com/j4h73vwsp73jrdd2qqzl6p5sezsz-flux-flux-11-pro-a-samurai-in-a-boat-in-the-middle-of-the-cherry-blossoms-in-the-style-of-lush-scenery-fairycore-ultra.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+a samurai in a boat in the middle of the cherry blossoms, in the style of lush scenery, fairycore, ultra detailed, intricate details, beautiful, octane, dramatic light, ambient lighting, by greg rutkowski and magali Villeneuve, foggy background, epic realistic, rutkowski, intricate details, hyperdetailed, cinematic, rim light, muted colors, (horror, dark, sad:1.5)
+```
+
+[Source](https://prompthero.com/prompt/ca065b7d9f0-flux-flux-11-pro-a-samurai-in-a-boat-in-the-middle-of-the-cherry-blossoms-in-the-style-of-lush-scenery-fairycore-ultra)
 
 ---
 

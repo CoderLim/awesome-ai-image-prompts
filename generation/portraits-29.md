@@ -6,38 +6,6 @@
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
-<a id="prompthero-c9201724801"></a>
-
-## Hunt for Diablo: Aveline
-
-<a href="https://cdn.prompthero.com/3bhdzz57ilkv3haox8tyvqp3lfnv-stable-diffusion-xl-base-09-hunt-for-diablo-aveline.jpg"><img src="https://cdn.prompthero.com/3bhdzz57ilkv3haox8tyvqp3lfnv-stable-diffusion-xl-base-09-hunt-for-diablo-aveline.jpg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-Female shadow assassin, centered, dark smoke, mild dark vignette, bokeh, lens flare, light bloom, bright backlight cinematic lighting, depth of field, HDR, ultra high-detail, high saturation
-```
-
-By [@abyishot](https://prompthero.com/prompt/c9201724801-stable-diffusion-xl-base-09-hunt-for-diablo-aveline)
-
----
-
-<a id="prompthero-ca8f7fb0584"></a>
-
-## A beautiful and hyperrealistic African American wo\.\.\.
-
-<a href="https://cdn.prompthero.com/q18zsww4k7kb3ihj5s1j4auo1ezk-flux-flux-11-pro-a-beautiful-and-hyperrealistic-african-american-woman-and-child-celebrating-happy-mothers-day-surrounded-by-vibrant-colors-and-intricate-details.jpg"><img src="https://cdn.prompthero.com/q18zsww4k7kb3ihj5s1j4auo1ezk-flux-flux-11-pro-a-beautiful-and-hyperrealistic-african-american-woman-and-child-celebrating-happy-mothers-day-surrounded-by-vibrant-colors-and-intricate-details.jpg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-A beautiful and hyperrealistic African American woman and child celebrating Happy Mother's Day, surrounded by vibrant colors and intricate details. The scene is framed in a suitable, elegant frame, with all elements and the frame contained without cropping. The image is rendered in an airbrush style with 8K acrylic quality, showcasing the woman's joyful expression and the festive atmosphere. The text 'Happy Mother's Day' is prominently displayed, adding to the celebratory mood.
-```
-
-[Source](https://prompthero.com/prompt/ca8f7fb0584-flux-flux-11-pro-a-beautiful-and-hyperrealistic-african-american-woman-and-child-celebrating-happy-mothers-day-surrounded-by-vibrant-colors-and-intricate-details)
-
----
-
 <a id="prompthero-cae3998af9a"></a>
 
 ## Low-angle fashion editorial portrait of a confiden\.\.\.
@@ -323,6 +291,38 @@ By [@Dallas59](https://prompthero.com/prompt/d14af99959f-midjourney-52-a-photo-o
 ```
 
 [Source](https://prompthero.com/prompt/d20df414e3c-flux-flux-11-pro-masterpiece1-5-raw-photo-film-grain-best-quality1-5-photorealistic-realistic-real-picture-intricate-details-photo-of-full-body-a)
+
+---
+
+<a id="prompthero-d29cd3e6c3e"></a>
+
+## A beautiful blonde woman wearing cowboy boots and \.\.\.
+
+<a href="https://cdn.prompthero.com/0wl6q0yllztfcy7ui63o6ck0fr0z-midjourney-61-a-beautiful-blonde-woman-wearing-cowboy-boots-and-a-hat-looking-at-the-camera-she-is-wearing-red-white-and.png"><img src="https://cdn.prompthero.com/0wl6q0yllztfcy7ui63o6ck0fr0z-midjourney-61-a-beautiful-blonde-woman-wearing-cowboy-boots-and-a-hat-looking-at-the-camera-she-is-wearing-red-white-and.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+A beautiful blonde woman wearing cowboy boots and a hat, looking at the camera. She is wearing red, white, and blue . This appears to be a photoshoot, with a close-up portrait and a cowboy aesthetic. The lighting is cinematic, and the background is a studio setting. --chaos 5 --ar 1:2 --style raw --v 7
+```
+
+[Source](https://prompthero.com/prompt/d29cd3e6c3e-midjourney-61-a-beautiful-blonde-woman-wearing-cowboy-boots-and-a-hat-looking-at-the-camera-she-is-wearing-red-white-and)
+
+---
+
+<a id="prompthero-d53e58b09d2"></a>
+
+## Foot Archer
+
+<a href="https://cdn.prompthero.com/369n1maa11pz854ot9lnn4ujzbz1-stable-diffusion-xl-base-09-foot-archer.jpg"><img src="https://cdn.prompthero.com/369n1maa11pz854ot9lnn4ujzbz1-stable-diffusion-xl-base-09-foot-archer.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+A Beautiful Athletic woman using her feet to aim with a bow, a ((foot archer)) highly detailed, 8k sharp focus, photorealism, handstand positioned, ((background bushy grassy landscape)) with trees over the horizon, wearing cyberpunk metal with leather strap clothing in the style of a T-Shirt and short shorts (colors white and silver)
+```
+
+By [@Atheist](https://prompthero.com/prompt/d53e58b09d2-stable-diffusion-xl-base-09-foot-archer)
 
 ---
 

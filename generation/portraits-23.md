@@ -6,38 +6,6 @@
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
-<a id="prompthero-875314cccb3"></a>
-
-## a poster depicts a boy holding a heart shaped ball\.\.\.
-
-<a href="https://cdn.prompthero.com/gvcg3hxc6vyn97g332dxs4hmlaxq-midjourney-6-a-poster-depicts-a-boy-holding-a-heart-shaped-balloon-in-the-style-of-sketchfab-poodlepunk-warm-tones-screenshotsaturday-romanticized.png"><img src="https://cdn.prompthero.com/gvcg3hxc6vyn97g332dxs4hmlaxq-midjourney-6-a-poster-depicts-a-boy-holding-a-heart-shaped-balloon-in-the-style-of-sketchfab-poodlepunk-warm-tones-screenshotsaturday-romanticized.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-a poster depicts a boy holding a heart shaped balloon, in the style of sketchfab, poodlepunk, warm tones, #screenshotsaturday, romanticized figures, expressive comic panels, romantic academia, (intricate details:1.12), hdr, (intricate details, hyperdetailed:1.15), (hyperrealism, soft light, sharp:1.2) dynamic pose, 32k, sharp focus, illustration, ((best quality)), ((masterpiece))
-```
-
-[Source](https://prompthero.com/prompt/875314cccb3-midjourney-6-a-poster-depicts-a-boy-holding-a-heart-shaped-balloon-in-the-style-of-sketchfab-poodlepunk-warm-tones-screenshotsaturday-romanticized)
-
----
-
-<a id="prompthero-0883267fc2d"></a>
-
-## A beautiful woman with robotic features as a close\.\.\.
-
-<a href="https://cdn.prompthero.com/6ziwii9z81qcmd524ba2qzmb80xd-midjourney-6-a-beautiful-woman-with-robotic-features-as-a-closeup-shot-of-the-face-and-neck-with-circuitry-on-her-skin.png"><img src="https://cdn.prompthero.com/6ziwii9z81qcmd524ba2qzmb80xd-midjourney-6-a-beautiful-woman-with-robotic-features-as-a-closeup-shot-of-the-face-and-neck-with-circuitry-on-her-skin.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-A beautiful woman with robotic features as a closeup shot of the face and neck, with circuitry on her skin, clean lines, minimal details, cyberpunk, portrayed in profile with a red background, futuristic design, in a 2D flat composition, red tones, digital art in the style of Studio Ghibli --ar 1:2 --stylize 750
-```
-
-By [@NorthmoorAI](https://prompthero.com/prompt/0883267fc2d-midjourney-6-a-beautiful-woman-with-robotic-features-as-a-closeup-shot-of-the-face-and-neck-with-circuitry-on-her-skin)
-
----
-
 <a id="prompthero-892323d1377"></a>
 
 ## woman walking up a beach carrying a surfboard unde\.\.\.
@@ -323,6 +291,38 @@ By [@jefharris](https://prompthero.com/prompt/509832595d6-midjourney-52-barbie-s
 ```
 
 [Source](https://prompthero.com/prompt/882755561fe-chatgpt-image-gpt-image-2-subject-type-portrait-gender-female-age-young-adult-ethnicity-ambiguous-european-skintone-fair-porcelain-like-skintexture-smooth-and-flawless-with)
+
+---
+
+<a id="prompthero-35859341517"></a>
+
+## hot blond hair girl, looking at viewer, portrait, \.\.\.
+
+<a href="https://cdn.prompthero.com/q66bcvr7vhqe1azn5quwvm4gioob-dreamshaper-7-hot-blond-hair-girl-looking-at-viewer-portrait-photography-detailed-skin-realistic-photo-realistic-8k-highly-detailed-full-length-frame.png"><img src="https://cdn.prompthero.com/q66bcvr7vhqe1azn5quwvm4gioob-dreamshaper-7-hot-blond-hair-girl-looking-at-viewer-portrait-photography-detailed-skin-realistic-photo-realistic-8k-highly-detailed-full-length-frame.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+hot blond hair girl, looking at viewer, portrait, photography, detailed skin, realistic, photo-realistic, 8k, highly detailed, full length frame, piercing, diffused soft lighting, shallow depth of field, sharp focus, hyperrealism, cinematic lighting
+```
+
+[Source](https://prompthero.com/prompt/35859341517-dreamshaper-7-hot-blond-hair-girl-looking-at-viewer-portrait-photography-detailed-skin-realistic-photo-realistic-8k-highly-detailed-full-length-frame)
+
+---
+
+<a id="prompthero-80643316741"></a>
+
+## Generate a photorealistic portrait of a middle-age\.\.\.
+
+<a href="https://cdn.prompthero.com/zzyg7yy9xo5hcbjuhvzykp8otto9-chatgpt-image-gpt-4o-generate-a-photorealistic-portrait-of-a-middle-aged-adult-male-radiating-wisdom-and-affable-confidence-his-presence-is-captivating-a.png"><img src="https://cdn.prompthero.com/zzyg7yy9xo5hcbjuhvzykp8otto9-chatgpt-image-gpt-4o-generate-a-photorealistic-portrait-of-a-middle-aged-adult-male-radiating-wisdom-and-affable-confidence-his-presence-is-captivating-a.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+Generate a photorealistic portrait of a middle-aged adult male, radiating wisdom and affable confidence. His presence is captivating, a blend of lived experience and open friendliness, with a smile that resonates with a deep understanding and gentle kindness. His hair, peppered with grey, is neatly groomed and styled with a dignified, yet effortless flair, signaling a man who values appearance but not vanity. Upon his face rest contemporary, rectangular glasses with a subtle frame, contributing to his scholarly yet accessible visage. They frame his eyes, which are a rich, warm brown, and brim with stories, inviting the viewer into his world with a single glance. He is dressed in a smart, dark-colored blazer that speaks of his professional acumen, layered over a crisp maroon shirt that adds a touch of approachable elegance to his appearance. The lighting caresses his face, soft yet defined, to reveal the honest textures of his life-etched skin, the slight creases around his eyes that hint at years of laughter and concern, and the faintest impression of stubble along a strong jawline, alluding to his everyday humanity. Every aspect of his visage, from the calculated casualness of his attire to the considered set of his clear glasses, is carefully curated to project the image of a man who is as nurturing as he is knowledgeable, as grounded as he is inspiring. The ambiance surrounding him is one of understated sophistication, the kind that fosters trust and admiration.
+```
+
+By [@robiness](https://prompthero.com/prompt/80643316741-chatgpt-image-gpt-4o-generate-a-photorealistic-portrait-of-a-middle-aged-adult-male-radiating-wisdom-and-affable-confidence-his-presence-is-captivating-a)
 
 ---
 

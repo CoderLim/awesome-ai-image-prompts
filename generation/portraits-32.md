@@ -6,38 +6,6 @@
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
-<a id="prompthero-e6211b8bde2"></a>
-
-## Paparazzi-style extreme close-up photo of a woman \.\.\.
-
-<a href="https://cdn.prompthero.com/o9dg0qw96p8jt9f1d2topnmw23-stable-diffusion-35-large-paparazzi-style-extreme-close-up-photo-of-a-woman-with-striking-facial-features-caught-off-guard-while-turning-toward-the.jpeg"><img src="https://cdn.prompthero.com/o9dg0qw96p8jt9f1d2topnmw23-stable-diffusion-35-large-paparazzi-style-extreme-close-up-photo-of-a-woman-with-striking-facial-features-caught-off-guard-while-turning-toward-the.jpeg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-Paparazzi-style extreme close-up photo of a woman with striking facial features, caught off-guard while turning toward the camera. Face and shoulders only, shot from a low angle. Strong harsh on-camera flash, grainy high-ISO, raw candid street-photography feel. Background shows a crowded scene with motion blur (Paris Fashion Week atmosphere). Intense, spontaneous energy, imperfect and real. She is wearing a school uniform. Ultra-realistic, cinematic realism, high detail skin texture, slight lens distortion. Camera style: “35mm paparazzi lens, f/2.8, flash blown highlights” Look: “2000s tabloid photo aesthetic” Quality: “sharp focus on face, background heavily blurred and streaked”
-```
-
-[Source](https://prompthero.com/prompt/e6211b8bde2-stable-diffusion-35-large-paparazzi-style-extreme-close-up-photo-of-a-woman-with-striking-facial-features-caught-off-guard-while-turning-toward-the)
-
----
-
-<a id="prompthero-e06677ed624"></a>
-
-## A captivating portrait of a young Asian woman, mid\.\.\.
-
-<a href="https://cdn.prompthero.com/8l9qpbv8jknyqnu4q0tsi04i6q6o-midjourney-61-a-captivating-portrait-of-a-young-asian-woman-mid-shot-embodying-a-futuristic-warrior-aesthetic-she-wears-a-teal-and.png"><img src="https://cdn.prompthero.com/8l9qpbv8jknyqnu4q0tsi04i6q6o-midjourney-61-a-captivating-portrait-of-a-young-asian-woman-mid-shot-embodying-a-futuristic-warrior-aesthetic-she-wears-a-teal-and.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-A captivating portrait of a young Asian woman, mid-shot, embodying a futuristic warrior aesthetic. She wears a teal and gold armored top, intricately designed with detailed patterns, accentuated with red accents, covering her chest and shoulders. Her facial features include a meticulously crafted mask that covers her nose and mouth, featuring a gold and teal color scheme, and sharply focused, piercing brown eyes. Her dark hair is styled in two high buns with red ribbon accents. A gleaming katana blade is held diagonally across her body, adding to the composition's dynamism. The background shows a weathered, concrete wall, providing a muted contrast to the vibrancy of the subject's outfit. The image is lit with a soft, diffused light, highlighting the textures of the armor and the sharpness of her gaze, rendered in a digital art style with high detail and a cinematic feel, emphasizing strong lines and geometric forms, reminiscent of a modern manga illustration. --ar 2:3 --q 2 -- 750
-```
-
-[Source](https://prompthero.com/prompt/e06677ed624-midjourney-61-a-captivating-portrait-of-a-young-asian-woman-mid-shot-embodying-a-futuristic-warrior-aesthetic-she-wears-a-teal-and)
-
----
-
 <a id="prompthero-e9241b9c3cf"></a>
 
 ## &quot;A highly detailed, photorealistic portrait of a m\.\.\.
@@ -323,6 +291,38 @@ A full body view of a (((barefoot))) Female Warrior, killing several little demo
 ```
 
 [Source](https://prompthero.com/prompt/efd6326354a-flux-flux-11-pro-a-full-body-view-of-a-barefoot-female-warrior-killing-several-little-demons-in-grotto-extremely-dynamic-scene-black-hair)
+
+---
+
+<a id="prompthero-efe70985326"></a>
+
+## An image of a young woman with a medium complexion\.\.\.
+
+<a href="https://cdn.prompthero.com/ws0y934lhyz4axbzbpg0kfhdt05g-stable-diffusion-xl-base-09-comfyui-based-workflow-seargesdxl432-checkpoints-models-used-dreamshaper-xl-turbo-turbovisionxlsuperfastxl-realvisxlv30turbov30-juggernautxlv8-dreamshaperxlturbo-full-credits-shall-go-to-the-an-image-of-a-young-woman-with-a-medium-complexion-and-chestnut-colored-hair-styled-in-a-casual-updo-with.png"><img src="https://cdn.prompthero.com/ws0y934lhyz4axbzbpg0kfhdt05g-stable-diffusion-xl-base-09-comfyui-based-workflow-seargesdxl432-checkpoints-models-used-dreamshaper-xl-turbo-turbovisionxlsuperfastxl-realvisxlv30turbov30-juggernautxlv8-dreamshaperxlturbo-full-credits-shall-go-to-the-an-image-of-a-young-woman-with-a-medium-complexion-and-chestnut-colored-hair-styled-in-a-casual-updo-with.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+An image of a young woman with a medium complexion and chestnut-colored hair styled in a casual updo with loose strands around her face. She has a natural makeup look with defined eyes and a neutral lip color. She is wearing a fitted, cropped burgundy T-shirt with short sleeves and high-waisted black pants with distinctive button details. She stands confidently, with one hand on her hip and the other gently touching her pants. The lighting is soft and frontal, highlighting her features and the texture of her clothing against a muted dark background.
+```
+
+By [@JBlack16062205](https://prompthero.com/prompt/efe70985326-stable-diffusion-xl-base-09-comfyui-based-workflow-seargesdxl432-checkpoints-models-used-dreamshaper-xl-turbo-turbovisionxlsuperfastxl-realvisxlv30turbov30-juggernautxlv8-dreamshaperxlturbo-full-credits-shall-go-to-the-an-image-of-a-young-woman-with-a-medium-complexion-and-chestnut-colored-hair-styled-in-a-casual-updo-with)
+
+---
+
+<a id="prompthero-f00e0bdd0f5"></a>
+
+## a young woman in glossy swimsuit in the water, bla\.\.\.
+
+<a href="https://cdn.prompthero.com/pgfbeplfelm2fh4tgdgoca03qej0-realistic-vision-v20-v20-a-young-woman-in-glossy-swimsuit-in-the-water-black-and-white-photography-elegant-intricate-very-inspirational-stunning-highly-detailed.png"><img src="https://cdn.prompthero.com/pgfbeplfelm2fh4tgdgoca03qej0-realistic-vision-v20-v20-a-young-woman-in-glossy-swimsuit-in-the-water-black-and-white-photography-elegant-intricate-very-inspirational-stunning-highly-detailed.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+a young woman in glossy swimsuit in the water, black and white photography, elegant, intricate, very inspirational, stunning, highly detailed, complex, sharp focus, great composition, cinematic, modern fine classic, volumetric lighting,
+```
+
+[Source](https://prompthero.com/prompt/f00e0bdd0f5-realistic-vision-v20-v20-a-young-woman-in-glossy-swimsuit-in-the-water-black-and-white-photography-elegant-intricate-very-inspirational-stunning-highly-detailed)
 
 ---
 

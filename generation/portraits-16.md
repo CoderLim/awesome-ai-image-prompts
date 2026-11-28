@@ -6,22 +6,6 @@
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
-<a id="prompthero-52ddd9d20f6"></a>
-
-## A young woman with long blonde hair styled in loos\.\.\.
-
-<a href="https://cdn.prompthero.com/cxuzu5hr5aar2j082i2gn0g1vfh8-flux-flux1-dev-a-young-woman-with-long-blonde-hair-styled-in-loose-waves-sits-on-a-wooden-staircase-her-legs-crossed-and.png"><img src="https://cdn.prompthero.com/cxuzu5hr5aar2j082i2gn0g1vfh8-flux-flux1-dev-a-young-woman-with-long-blonde-hair-styled-in-loose-waves-sits-on-a-wooden-staircase-her-legs-crossed-and.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-A young woman with long blonde hair styled in loose waves sits on a wooden staircase, her legs crossed and arms resting on her knees. She wears a denim jacket over a black top and has a serious, contemplative expression as she looks directly at the camera. The background is a blurred outdoor setting with trees and buildings, bathed in soft, natural light. The scene is framed with a shallow depth of field, emphasizing the womanâs features. The lighting is gentle, with a warm, golden-hour quality, casting a soft glow on her face and hair. The image has a cinematic feel, reminiscent of a David Lynch film, with subtle film grain and a muted, desaturated color palette that enhances the serious and introspective mood.
-```
-
-[Source](https://prompthero.com/prompt/52ddd9d20f6-flux-flux1-dev-a-young-woman-with-long-blonde-hair-styled-in-loose-waves-sits-on-a-wooden-staircase-her-legs-crossed-and)
-
----
-
 <a id="prompthero-52f63580863"></a>
 
 ## female parachutist, jumping from plane, smile, sel\.\.\.
@@ -198,22 +182,6 @@ close-up photograph of glossy purple, full lips slightly parted and twisted, rev
 
 ---
 
-<a id="prompthero-066e0e1f71b"></a>
-
-## a girl wearing Chanel&\#39;s diamond-encrusted heels , \.\.\.
-
-<a href="https://cdn.prompthero.com/q219rcn4uyy3b0nv4x9jhdxixz3d-dreamshaper-7-a-girl-wearing-chanels-diamond-encrusted-heels-flat-chested-abs-thin-the-background-is-sandy-beachfacing-the-audience-on-the.png"><img src="https://cdn.prompthero.com/q219rcn4uyy3b0nv4x9jhdxixz3d-dreamshaper-7-a-girl-wearing-chanels-diamond-encrusted-heels-flat-chested-abs-thin-the-background-is-sandy-beachfacing-the-audience-on-the.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-a girl wearing Chanel's diamond-encrusted heels ,  flat-chested, abs, thin, The background is sandy beach,facing the audience on the side, delicate hands, perfect dismantling,legant, highly detailed, intricate, sharp focus, depth of field, f/1.8, 85mm, medium shot, mid shot, (centered image composition), (professionally color graded), ((bright soft diffused light)), volumetric fog, trending on instagram, trending on tumblr, hdr 4k, 8k, <l
-```
-
-[Source](https://prompthero.com/prompt/066e0e1f71b-dreamshaper-7-a-girl-wearing-chanels-diamond-encrusted-heels-flat-chested-abs-thin-the-background-is-sandy-beachfacing-the-audience-on-the)
-
----
-
 <a id="prompthero-69ec18fd2ec"></a>
 
 ## An illustration of a man walking through the stree\.\.\.
@@ -325,6 +293,38 @@ A sultry cyberpunk street siren stands under neon rain, her long, silken hair st
 ```
 
 [Source](https://prompthero.com/prompt/74aac4ec8ba-hero-10-a-sultry-cyberpunk-street-siren-stands-under-neon-rain-her-long-silken-hair-streaked-with-electric-blue-and-violet-cascading)
+
+---
+
+<a id="prompthero-74db505d867"></a>
+
+## portrait the egyptian male anubis, cyberpunk, blac\.\.\.
+
+<a href="https://cdn.prompthero.com/dhvpze0sr1xrqmfbsh5a0iepm1tk-stable-diffusion-xl-base-09-anubis-leonardo-kino-xlleonardo-alchemyleonardo-photorealism-v2-portrait-the-egyptian-male-anubis-cyberpunk-black-pyramid-hyperdetailed-eyes-hyperrealism-extremely-detailed-epic-masterwork-dark-fantasy-detailed-matte-painting.jpg"><img src="https://cdn.prompthero.com/dhvpze0sr1xrqmfbsh5a0iepm1tk-stable-diffusion-xl-base-09-anubis-leonardo-kino-xlleonardo-alchemyleonardo-photorealism-v2-portrait-the-egyptian-male-anubis-cyberpunk-black-pyramid-hyperdetailed-eyes-hyperrealism-extremely-detailed-epic-masterwork-dark-fantasy-detailed-matte-painting.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+portrait the egyptian male anubis, cyberpunk, black, pyramid, hyperdetailed eyes, hyperrealism extremely detailed epic masterwork, dark fantasy detailed matte painting by Greg Rutkowski 8k resolution concept art intricately detailed Splash art trending on Artstation dynamic lighting Eldritch hyperdetailed
+```
+
+By [@Atheist](https://prompthero.com/prompt/74db505d867-stable-diffusion-xl-base-09-anubis-leonardo-kino-xlleonardo-alchemyleonardo-photorealism-v2-portrait-the-egyptian-male-anubis-cyberpunk-black-pyramid-hyperdetailed-eyes-hyperrealism-extremely-detailed-epic-masterwork-dark-fantasy-detailed-matte-painting)
+
+---
+
+<a id="prompthero-79b2ae458be"></a>
+
+## A touch of bling
+
+<a href="https://cdn.prompthero.com/mx8rj9r8mf5skdm60xbgxqv5uqgw-midjourney-6-a-touch-of-bling.png"><img src="https://cdn.prompthero.com/mx8rj9r8mf5skdm60xbgxqv5uqgw-midjourney-6-a-touch-of-bling.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+a woman with a large jaw and gold teeth, in the style of futuristic minimalism, restrained forms, darkly romanticism, the bechers' typologies, glossy finish, intricate imagery, close-up shots --ar 4:5 --s 300 --v 6.0 --style raw
+```
+
+By [@jefharris](https://prompthero.com/prompt/79b2ae458be-midjourney-6-a-touch-of-bling)
 
 ---
 

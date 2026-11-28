@@ -6,22 +6,6 @@
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
-<a id="prompthero-ca065b7d9f0"></a>
-
-## a samurai in a boat in the middle of the cherry bl\.\.\.
-
-<a href="https://cdn.prompthero.com/j4h73vwsp73jrdd2qqzl6p5sezsz-flux-flux-11-pro-a-samurai-in-a-boat-in-the-middle-of-the-cherry-blossoms-in-the-style-of-lush-scenery-fairycore-ultra.jpg"><img src="https://cdn.prompthero.com/j4h73vwsp73jrdd2qqzl6p5sezsz-flux-flux-11-pro-a-samurai-in-a-boat-in-the-middle-of-the-cherry-blossoms-in-the-style-of-lush-scenery-fairycore-ultra.jpg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-a samurai in a boat in the middle of the cherry blossoms, in the style of lush scenery, fairycore, ultra detailed, intricate details, beautiful, octane, dramatic light, ambient lighting, by greg rutkowski and magali Villeneuve, foggy background, epic realistic, rutkowski, intricate details, hyperdetailed, cinematic, rim light, muted colors, (horror, dark, sad:1.5)
-```
-
-[Source](https://prompthero.com/prompt/ca065b7d9f0-flux-flux-11-pro-a-samurai-in-a-boat-in-the-middle-of-the-cherry-blossoms-in-the-style-of-lush-scenery-fairycore-ultra)
-
----
-
 <a id="prompthero-cb1eed1518f"></a>
 
 ## buddha in a halo of green leaves, \[\(old white marb\.\.\.
@@ -323,6 +307,22 @@ octane render of cyberpunk batman by Tsutomu nihei, looking at the camera, (chro
 ```
 
 [Source](https://prompthero.com/prompt/df4330e66b4-stable-diffusion-21-768-gilded-batman)
+
+---
+
+<a id="prompthero-e2a7f55bd14"></a>
+
+## View from inside a car, shot through the windshiel\.\.\.
+
+<a href="https://cdn.prompthero.com/zyk3est86oeh9x0accnweqx3f8-hero-10-view-from-inside-a-car-shot-through-the-windshield-seeing-a-person-riding-a-white-scooter-on-the-road-the.jpeg"><img src="https://cdn.prompthero.com/zyk3est86oeh9x0accnweqx3f8-hero-10-view-from-inside-a-car-shot-through-the-windshield-seeing-a-person-riding-a-white-scooter-on-the-road-the.jpeg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+View from inside a car, shot through the windshield, seeing a person riding a white scooter on the road, the person is carrying a transparent backpack, inside the backpack are two cats, one cat wearing a shark costume, the other cat wearing a blue rabbit hat, the two cats are playing and frolicking in the backpack, suddenly hearing a car horn sound, they turn their heads simultaneously, hissing towards the camera, cats' fur texture clearly visible, realistic city daylight background, 4K video resolution, smooth motion, vivid cat expressions
+```
+
+[Source](https://prompthero.com/prompt/e2a7f55bd14-hero-10-view-from-inside-a-car-shot-through-the-windshield-seeing-a-person-riding-a-white-scooter-on-the-road-the)
 
 ---
 

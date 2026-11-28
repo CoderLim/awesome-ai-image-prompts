@@ -6,22 +6,6 @@
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
-<a id="prompthero-29cd5ad6141"></a>
-
-## Full-body cinematic shot of a battle-damaged femal\.\.\.
-
-<a href="https://cdn.prompthero.com/q5nugyhjaegxy8j1wjaq445f87-full-body-cinematic-shot-of-a-battle-damaged-female-cyborg-standing-in-a-scorched-wasteland-her-body-is-vertically-split.jpeg"><img src="https://cdn.prompthero.com/q5nugyhjaegxy8j1wjaq445f87-full-body-cinematic-shot-of-a-battle-damaged-female-cyborg-standing-in-a-scorched-wasteland-her-body-is-vertically-split.jpeg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-Full-body cinematic shot of a battle-damaged female cyborg standing in a scorched wasteland. Her body is vertically split: the left side shows a battle-worn woman with dark, messy high-ponytail hair and scarred skin; the right side reveals a complex chrome endoskeleton with a glowing red robotic eye and exposed hydraulic pistons. She wears tattered, tactical black leather wasteland clothing and scraps of metal armor. The background is a dark, industrial ruins filled with glowing embers, hanging chains, and thick atmospheric smoke. Hyper-realistic, gritty texture, high contrast, dramatic sparks flying from exposed wires, 8k resolution, Unreal Engine 5 render style.
-```
-
-[Source](https://prompthero.com/prompt/29cd5ad6141-full-body-cinematic-shot-of-a-battle-damaged-female-cyborg-standing-in-a-scorched-wasteland-her-body-is-vertically-split)
-
----
-
 <a id="prompthero-29fa094182c"></a>
 
 ## Graytheory model
@@ -323,6 +307,22 @@ A young Caucasian woman with striking makeup and black hair, styled with a pink 
 ```
 
 [Source](https://prompthero.com/prompt/52b0fe0270a-a-young-caucasian-woman-with-striking-makeup-and-black-hair-styled-with-a-pink-and-black-polka-dot-bow-and)
+
+---
+
+<a id="prompthero-52ddd9d20f6"></a>
+
+## A young woman with long blonde hair styled in loos\.\.\.
+
+<a href="https://cdn.prompthero.com/cxuzu5hr5aar2j082i2gn0g1vfh8-flux-flux1-dev-a-young-woman-with-long-blonde-hair-styled-in-loose-waves-sits-on-a-wooden-staircase-her-legs-crossed-and.png"><img src="https://cdn.prompthero.com/cxuzu5hr5aar2j082i2gn0g1vfh8-flux-flux1-dev-a-young-woman-with-long-blonde-hair-styled-in-loose-waves-sits-on-a-wooden-staircase-her-legs-crossed-and.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+A young woman with long blonde hair styled in loose waves sits on a wooden staircase, her legs crossed and arms resting on her knees. She wears a denim jacket over a black top and has a serious, contemplative expression as she looks directly at the camera. The background is a blurred outdoor setting with trees and buildings, bathed in soft, natural light. The scene is framed with a shallow depth of field, emphasizing the womanâs features. The lighting is gentle, with a warm, golden-hour quality, casting a soft glow on her face and hair. The image has a cinematic feel, reminiscent of a David Lynch film, with subtle film grain and a muted, desaturated color palette that enhances the serious and introspective mood.
+```
+
+[Source](https://prompthero.com/prompt/52ddd9d20f6-flux-flux1-dev-a-young-woman-with-long-blonde-hair-styled-in-loose-waves-sits-on-a-wooden-staircase-her-legs-crossed-and)
 
 ---
 

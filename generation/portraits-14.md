@@ -262,22 +262,6 @@ By [@Grayve](https://prompthero.com/prompt/025afb28307-midjourney-6-fashion-phot
 
 ---
 
-<a id="prompthero-25d3b8bca6c"></a>
-
-## an ultra high definition professional high fashion\.\.\.
-
-<a href="https://cdn.prompthero.com/htcvxuylxomxrf6rvqv2k6edl8f7-midjourney-5-an-ultra-high-definition-professional-high-fashion-portrait-studio-full-length-photograph-of-a-male-model-wearing-a-transparent-pearlescent.jpg"><img src="https://cdn.prompthero.com/htcvxuylxomxrf6rvqv2k6edl8f7-midjourney-5-an-ultra-high-definition-professional-high-fashion-portrait-studio-full-length-photograph-of-a-male-model-wearing-a-transparent-pearlescent.jpg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-an ultra high definition professional high fashion portrait studio full length photograph of a male model wearing a transparent pearlescent raincoat and neon visor in an icelandic black rock environment at dawn. no artefacts. extremely detailed. stark. refraction. shallow depth of field. volumetric light and shadow. ray tracing. light rays ||  jewelry, text, watermark, long neck, lowres, bad anatomy, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, blurry --q 2 --v 5 --ar 3:4
-```
-
-[Source](https://prompthero.com/prompt/25d3b8bca6c-midjourney-5-an-ultra-high-definition-professional-high-fashion-portrait-studio-full-length-photograph-of-a-male-model-wearing-a-transparent-pearlescent)
-
----
-
 <a id="prompthero-28d9718f072"></a>
 
 ## Mecha Wars: Angel Burn
@@ -323,6 +307,22 @@ female,A woman in a black sports bra and grey leggings performs a yoga pose indo
 ```
 
 [Source](https://prompthero.com/prompt/28e125917f8-flux-flux-11-pro-femalea-woman-in-a-black-sports-bra-and-grey-leggings-performs-a-yoga-pose-indoors-in-a-low-lunge-position)
+
+---
+
+<a id="prompthero-29cd5ad6141"></a>
+
+## Full-body cinematic shot of a battle-damaged femal\.\.\.
+
+<a href="https://cdn.prompthero.com/q5nugyhjaegxy8j1wjaq445f87-full-body-cinematic-shot-of-a-battle-damaged-female-cyborg-standing-in-a-scorched-wasteland-her-body-is-vertically-split.jpeg"><img src="https://cdn.prompthero.com/q5nugyhjaegxy8j1wjaq445f87-full-body-cinematic-shot-of-a-battle-damaged-female-cyborg-standing-in-a-scorched-wasteland-her-body-is-vertically-split.jpeg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+Full-body cinematic shot of a battle-damaged female cyborg standing in a scorched wasteland. Her body is vertically split: the left side shows a battle-worn woman with dark, messy high-ponytail hair and scarred skin; the right side reveals a complex chrome endoskeleton with a glowing red robotic eye and exposed hydraulic pistons. She wears tattered, tactical black leather wasteland clothing and scraps of metal armor. The background is a dark, industrial ruins filled with glowing embers, hanging chains, and thick atmospheric smoke. Hyper-realistic, gritty texture, high contrast, dramatic sparks flying from exposed wires, 8k resolution, Unreal Engine 5 render style.
+```
+
+[Source](https://prompthero.com/prompt/29cd5ad6141-full-body-cinematic-shot-of-a-battle-damaged-female-cyborg-standing-in-a-scorched-wasteland-her-body-is-vertically-split)
 
 ---
 

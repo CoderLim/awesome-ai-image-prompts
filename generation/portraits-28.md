@@ -6,38 +6,6 @@
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
-<a id="prompthero-c0eeb7d5daa"></a>
-
-## medium close-up photograph of a perky young woman \.\.\.
-
-<a href="https://cdn.prompthero.com/xt6s1jdlfnshyzkvqicuobv3niy4-flux-flux1-dev-medium-close-up-photograph-of-a-perky-young-woman-with-messy-black-hair-wearing-a-designer-sequin-bra-an-unbuttoned.png"><img src="https://cdn.prompthero.com/xt6s1jdlfnshyzkvqicuobv3niy4-flux-flux1-dev-medium-close-up-photograph-of-a-perky-young-woman-with-messy-black-hair-wearing-a-designer-sequin-bra-an-unbuttoned.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-medium close-up photograph of a perky young woman with messy black hair, wearing a designer sequin bra, an unbuttoned blouse, hoop earrings, necklace, her clothes are disheveled from an evening out on the town, lipstick, dark sparkling eye shadow, makeup, but she is very energetic, late night, dark, outdoors in the city, extremely intricate details, masterpiece, enhanced contrast, highly detailed skin
-```
-
-[Source](https://prompthero.com/prompt/c0eeb7d5daa-flux-flux1-dev-medium-close-up-photograph-of-a-perky-young-woman-with-messy-black-hair-wearing-a-designer-sequin-bra-an-unbuttoned)
-
----
-
-<a id="prompthero-c1b35b6950b"></a>
-
-## a girl, light dress, strong wind, long pink hair, \.\.\.
-
-<a href="https://cdn.prompthero.com/516a2vtmn8fweskh9miqjuzr2lku-deliberate-v2-a-girl-light-dress-strong-wind-long-pink-hair-apterus-style13-dark-shot14-80mm-soft-light-sharp-exposure-blend-medium.png"><img src="https://cdn.prompthero.com/516a2vtmn8fweskh9miqjuzr2lku-deliberate-v2-a-girl-light-dress-strong-wind-long-pink-hair-apterus-style13-dark-shot14-80mm-soft-light-sharp-exposure-blend-medium.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-a girl, light dress, strong wind, long pink hair, (apterus style:1.3), (dark shot:1.4), 80mm, soft light, sharp, exposure blend, medium shot, bokeh, (hdr:1.4), (film grain:1.23), high contrast, (cinematic, teal and orange:0.85), (muted colors, dim colors, soothing tones:1.3), low saturation, (hyperdetailed:1.2), (noir:0.9),(intricate details, hyperdetailed:1.15), modelshoot style, dramatic lighting, minimalistic, flat colors, washed colors, dithering, lineart, (detailed background:1.3), (full body:1.2), (depth of field:1.4), (detailed face:1.1), (photo realistic:1.3), symetrical, octane render, 35mm, bokeh, 9:16, (intricate details:1.12), hdr, (intricate details, hyperdetailed:1.15), (natural skin texture, hyperrealism, soft light, sharp:1.2), (detailed skin:1.2), (natural skin texture, hyperrealism, soft light, sharp:1.2)
-```
-
-By [@heeyrina](https://prompthero.com/prompt/c1b35b6950b-deliberate-v2-a-girl-light-dress-strong-wind-long-pink-hair-apterus-style13-dark-shot14-80mm-soft-light-sharp-exposure-blend-medium)
-
----
-
 <a id="prompthero-c4cd2ad299c"></a>
 
 ## \[COMPOSITION &amp; SHOT TYPE\] Close-up, slightly low \.\.\.
@@ -323,6 +291,38 @@ Ultra-cinematic black-and-white portrait of a young man standing in a dark minim
 ```
 
 [Source](https://prompthero.com/prompt/c60676db61a-stable-diffusion-35-large-ultra-cinematic-black-and-white-portrait-of-a-young-man-standing-in-a-dark-minimalist-studio-wearing-a-long-black)
+
+---
+
+<a id="prompthero-c9201724801"></a>
+
+## Hunt for Diablo: Aveline
+
+<a href="https://cdn.prompthero.com/3bhdzz57ilkv3haox8tyvqp3lfnv-stable-diffusion-xl-base-09-hunt-for-diablo-aveline.jpg"><img src="https://cdn.prompthero.com/3bhdzz57ilkv3haox8tyvqp3lfnv-stable-diffusion-xl-base-09-hunt-for-diablo-aveline.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+Female shadow assassin, centered, dark smoke, mild dark vignette, bokeh, lens flare, light bloom, bright backlight cinematic lighting, depth of field, HDR, ultra high-detail, high saturation
+```
+
+By [@abyishot](https://prompthero.com/prompt/c9201724801-stable-diffusion-xl-base-09-hunt-for-diablo-aveline)
+
+---
+
+<a id="prompthero-ca8f7fb0584"></a>
+
+## A beautiful and hyperrealistic African American wo\.\.\.
+
+<a href="https://cdn.prompthero.com/q18zsww4k7kb3ihj5s1j4auo1ezk-flux-flux-11-pro-a-beautiful-and-hyperrealistic-african-american-woman-and-child-celebrating-happy-mothers-day-surrounded-by-vibrant-colors-and-intricate-details.jpg"><img src="https://cdn.prompthero.com/q18zsww4k7kb3ihj5s1j4auo1ezk-flux-flux-11-pro-a-beautiful-and-hyperrealistic-african-american-woman-and-child-celebrating-happy-mothers-day-surrounded-by-vibrant-colors-and-intricate-details.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+A beautiful and hyperrealistic African American woman and child celebrating Happy Mother's Day, surrounded by vibrant colors and intricate details. The scene is framed in a suitable, elegant frame, with all elements and the frame contained without cropping. The image is rendered in an airbrush style with 8K acrylic quality, showcasing the woman's joyful expression and the festive atmosphere. The text 'Happy Mother's Day' is prominently displayed, adding to the celebratory mood.
+```
+
+[Source](https://prompthero.com/prompt/ca8f7fb0584-flux-flux-11-pro-a-beautiful-and-hyperrealistic-african-american-woman-and-child-celebrating-happy-mothers-day-surrounded-by-vibrant-colors-and-intricate-details)
 
 ---
 

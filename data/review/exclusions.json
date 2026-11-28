@@ -916,6 +916,14 @@
     "reviewSource": "v3-pair-77"
   },
   {
+    "id": "prompthero-027115638da",
+    "keys": [
+      "id:prompthero-027115638da",
+      "post:027115638da",
+      "prompt:4dda40b5ce9324fb047b8a4ff8b6dd343b71d5e149f52003b10da0b2c643fe4f"
+    ]
+  },
+  {
     "id": "prompthero-02b087a52fa",
     "keys": [
       "id:prompthero-02b087a52fa",
@@ -936,6 +944,22 @@
     "reason": "template-duplicate",
     "keepId": "prompthero-e11a8fcaf00",
     "reviewSource": "catalog-trigram-review-2026-11-26"
+  },
+  {
+    "id": "prompthero-066e0e1f71b",
+    "keys": [
+      "id:prompthero-066e0e1f71b",
+      "post:066e0e1f71b",
+      "prompt:d19e7a1933ca787496e92bac09bd2839753d5d2d4a0710e4899a7091d17d97bf"
+    ]
+  },
+  {
+    "id": "prompthero-0684131c859",
+    "keys": [
+      "id:prompthero-0684131c859",
+      "post:0684131c859",
+      "prompt:9edbfbaaa68a0bdc24054900942016666892a832c1828fb570a5b1a3b44d4030"
+    ]
   },
   {
     "id": "prompthero-083bba40e58",
@@ -1056,6 +1080,14 @@
     ]
   },
   {
+    "id": "prompthero-1ca1ddea92f",
+    "keys": [
+      "id:prompthero-1ca1ddea92f",
+      "post:1ca1ddea92f",
+      "prompt:38c88ad5c3fde4bf135920939df0e5d98b6642c57908bdd679620b465fdd7f93"
+    ]
+  },
+  {
     "id": "prompthero-1da158ccf43",
     "keys": [
       "id:prompthero-1da158ccf43",
@@ -1103,6 +1135,14 @@
     "reason": "template-duplicate",
     "keepId": "prompthero-a11394df568",
     "reviewSource": "v3-pair-57"
+  },
+  {
+    "id": "prompthero-25d3b8bca6c",
+    "keys": [
+      "id:prompthero-25d3b8bca6c",
+      "post:25d3b8bca6c",
+      "prompt:3575cea6eb6c8e8768242b4326b8ed61bf39d991f0362d522b891897de85dea3"
+    ]
   },
   {
     "id": "prompthero-27b935afced",
@@ -2102,6 +2142,30 @@
     "reason": "template-duplicate",
     "keepId": "prompthero-4577a444ffa",
     "reviewSource": "v3-pair-49"
+  },
+  {
+    "id": "sipteaandcoffee-2055599984750501919",
+    "keys": [
+      "id:sipteaandcoffee-2055599984750501919",
+      "post:2055599984750501919",
+      "prompt:cfd0b2e23ab99e7cac6eb40881a17e9dc16afa2e0db607128d4873e2afabab15"
+    ]
+  },
+  {
+    "id": "sipteaandcoffee-2055674237927686383",
+    "keys": [
+      "id:sipteaandcoffee-2055674237927686383",
+      "post:2055674237927686383",
+      "prompt:f46606cdcde950665967bf1e8c92b03db800cf6a826117d490dacfea05866e91"
+    ]
+  },
+  {
+    "id": "sipteaandcoffee-2095212333597675757",
+    "keys": [
+      "id:sipteaandcoffee-2095212333597675757",
+      "post:2095212333597675757",
+      "prompt:5bcebe53fa03dba9e7e6fec9965903313b9d8d39a31d33a4f2ffe5c1877e497d"
+    ]
   },
   {
     "id": "vcl-crosssection",

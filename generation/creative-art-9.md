@@ -6,22 +6,6 @@
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
-<a id="prompthero-a8dc2791743"></a>
-
-## A Wolf Got The Job Too
-
-<a href="https://cdn.prompthero.com/qu4wbfhr2u2oirigckbwbtr82ocn-flux-pro-11-ultra-a-wolf-got-the-job-too.png"><img src="https://cdn.prompthero.com/qu4wbfhr2u2oirigckbwbtr82ocn-flux-pro-11-ultra-a-wolf-got-the-job-too.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-A wolf sits casually on a minimalist white floor, sporting a realistic and stylish dark turtleneck. The relaxed pose highlights baggy brown pants and white sneakers. The background glows with a warm red hue, creating a bold contrast that enhances the surreal vibe. Capture this blend of urban fashion and wild spirit, focusing on expression and mood.
-```
-
-[Source](https://prompthero.com/prompt/a8dc2791743-flux-pro-11-ultra-a-wolf-got-the-job-too)
-
----
-
 <a id="prompthero-a28c54d1312"></a>
 
 ## a cinematic photograph of intricately designed gol\.\.\.
@@ -323,6 +307,22 @@ Alessi Kettle with a bird whistle, Sony A7R IV, Zeiss Batis 85mm f/1.8 lens, Sho
 ```
 
 By [@Grayve](https://prompthero.com/prompt/b57e0428e9f-midjourney-6-more-info-wwwgraytheorystudiocom-httpswwwinstagramcomspacemakergrayve-httpspromptbasecomprofilespacemakergrayve-alessi-kettle-with-a-bird-whistle-sony-a7r-iv-zeiss-batis-85mm-f18-lens-showcase-the-kettles-reflective-stainless-steel)
+
+---
+
+<a id="prompthero-b60c97a9988"></a>
+
+## Hunt for Diablo: Ivanah
+
+<a href="https://cdn.prompthero.com/e745qsbgc09cgauftv2mwnozec9u-stable-diffusion-xl-base-09-hunt-for-diablo-ivanah.jpg"><img src="https://cdn.prompthero.com/e745qsbgc09cgauftv2mwnozec9u-stable-diffusion-xl-base-09-hunt-for-diablo-ivanah.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+Photo of a seductive Amazon warrior, hyper detail, intimate facial expression, handcrafted cloth worn outfit, war paint, dark woods background, raining, rain showers, dramatic cinematic lighting, concept art, unreal engine 5, RTX, ray tracing, photorealistic
+```
+
+By [@abyishot](https://prompthero.com/prompt/b60c97a9988-stable-diffusion-xl-base-09-hunt-for-diablo-ivanah)
 
 ---
 

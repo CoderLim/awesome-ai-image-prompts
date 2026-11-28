@@ -168,22 +168,6 @@ By [@ArtEnthusiast](https://prompthero.com/prompt/fded9c1b182-stable-diffusion-x
 
 ---
 
-<a id="sipteaandcoffee-2055599984750501919"></a>
-
-## Photorealistic tech entrepreneur character sheet
-
-<a href="https://pbs.twimg.com/media/HIb1RqPbIAAnHke.jpg"><img src="https://pbs.twimg.com/media/HIb1RqPbIAAnHke.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Ultra-realistic cinematic character sheet of a female tech entrepreneur, full professional turnaround presentation with front view, side profile, 3/4 angle, and full-body pose lineup displayed on a clean neutral gray studio background. 27-year-old woman with an elegant athletic build, sharp cheekbones, defined jawline, soft olive skin with realistic pores and natural imperfections, deep-set expressive brown eyes, thick dark eyebrows, subtle faint freckles, naturally shaped lips, and long dark chestnut hair with soft layered texture slightly tousled by wind. Quiet luxury aesthetic with a calm intimidating presence and understated confidence. Outfit consistency across all poses: fitted charcoal-black ribbed t-shirt, lightweight oversized black technical blazer worn open, slim dark charcoal trousers with tailored fit, minimal silver luxury watch, subtle silver rings, sleek black leather sneakers, no logos or visible branding. Neutral luxury styling, modern AI founder aesthetic, stealth wealth fashion language. Expression sheet included: neutral expression, subtle confident smirk, focused analytical stare, relaxed candid smile, and intense paparazzi eye contact. Hair movement references included with both controlled studio look and natural wind-blown variation. Lighting references: realistic harsh midday sunlight version, soft overcast daylight version, and cinematic indoor ambient lighting reference. Skin should maintain realistic texture under every lighting condition with visible pores, slight under-eye detail, natural shine on forehead and cheeks, no beauty retouching. Additional detail callouts around the sheet: close-up eye detail, jewelry detail, fabric texture detail, shoe reference, hand reference, silhouette reference, and movement posture study. Include natural relaxed poses such as leaning against a matte black Lamborghini Huracán, walking candidly through a city street, holding a phone casually, and sitting with confident posture. Visual style should feel like a premium Hollywood pre-production character design board mixed with ultra-realistic photography references. Real-world proportions, cinematic realism, shallow depth of field on close-ups, subtle motion blur on movement studies, slight chromatic aberration, documentary-style authenticity, raw modern luxury atmosphere, realistic urban founder energy, highly detailed photorealistic rendering, professional character turnaround layout, realistic typography labels and framing guides, luxury stealth wealth mood, modern cinematic fashion realism.
-```
-
-By [@sipteaandcoffee](https://x.com/sipteaandcoffee/status/2055599984750501919)
-
----
-
 [1](characters.md) · [2](characters-2.md) · [3](characters-3.md) · [4](characters-4.md) · [5](characters-5.md) · **6**
 
 [← Home](../README.md)

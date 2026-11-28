@@ -6,38 +6,6 @@
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
-<a id="prompthero-f2781a8ca07"></a>
-
-## mdjrny-v4 style portrait photograph of Madison Bee\.\.\.
-
-<a href="https://cdn.prompthero.com/uurpuekruz2kycz946us8dkc5e9x-openjourney-15-mdjrny-v4-style-portrait-photograph-of-madison-beer-as-pocahontas-young-beautiful-native-american-woman-perfect-symmetrical-face-feather-jewelry.png"><img src="https://cdn.prompthero.com/uurpuekruz2kycz946us8dkc5e9x-openjourney-15-mdjrny-v4-style-portrait-photograph-of-madison-beer-as-pocahontas-young-beautiful-native-american-woman-perfect-symmetrical-face-feather-jewelry.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-mdjrny-v4 style portrait photograph of Madison Beer as Pocahontas, young beautiful native american woman, perfect symmetrical face, feather jewelry, traditional handmade dress, armed female hunter warrior, (((wild west))) environment, Utah landscape, ultra realistic, concept art, elegant, ((intricate)), ((highly detailed)), depth of field, ((professionally color graded)), 8k, art by artgerm and greg rutkowski and alphonse mucha, --as 4:5
-```
-
-[Source](https://prompthero.com/prompt/f2781a8ca07-openjourney-15-mdjrny-v4-style-portrait-photograph-of-madison-beer-as-pocahontas-young-beautiful-native-american-woman-perfect-symmetrical-face-feather-jewelry)
-
----
-
-<a id="prompthero-f5176b49a40"></a>
-
-## \(stained glass dress:1\.5\), \(beautiful young Korean\.\.\.
-
-<a href="https://cdn.prompthero.com/a48xhuda7phhp89lzv5wy1bwzwzq-unstableinkdream-v73-stained-glass-dress15-beautiful-young-korean-woman-with-white-hair-in-a-braided-ponytail-hands-on-hips15-nighttime-dramatic-lighting.png"><img src="https://cdn.prompthero.com/a48xhuda7phhp89lzv5wy1bwzwzq-unstableinkdream-v73-stained-glass-dress15-beautiful-young-korean-woman-with-white-hair-in-a-braided-ponytail-hands-on-hips15-nighttime-dramatic-lighting.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-(stained glass dress:1.5), (beautiful young Korean woman, with white hair in a braided ponytail, hands on hips:1.5), (nighttime, dramatic lighting, god rays, cosmic dust, star-filled sky:1.4), blacklight, photorealistic, photorealism, 8k, RAW photo, highest quality, masterpiece, ultra-high resolution, physics-based rendering, best shadow, best illustration, <lora:add_detail:0.8>, <lora:cosmicRainbow_v1:0.6>, <lyco:GoodHands-beta2:1.0>, <lora:Niji:0.2>, <lora:NijiExpressV2:0.4>, <lora:uv:1>, <lora:more_details:1>
-```
-
-[Source](https://prompthero.com/prompt/f5176b49a40-unstableinkdream-v73-stained-glass-dress15-beautiful-young-korean-woman-with-white-hair-in-a-braided-ponytail-hands-on-hips15-nighttime-dramatic-lighting)
-
----
-
 <a id="prompthero-f78371a5299"></a>
 
 ## Portrait Photography, A highly detailed close-up o\.\.\.

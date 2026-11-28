@@ -6,22 +6,6 @@
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
-<a id="prompthero-de45743342c"></a>
-
-## A detailed crosssection of the ancient Chinese tow\.\.\.
-
-<a href="https://cdn.prompthero.com/hq2dfu0aa4txptnc034a57tekyt2-midjourney-6-a-detailed-crosssection-of-the-ancient-chinese-tower-showcasing-its-construction-techniques-and-design-elements-in-color-pencil-style-with.png"><img src="https://cdn.prompthero.com/hq2dfu0aa4txptnc034a57tekyt2-midjourney-6-a-detailed-crosssection-of-the-ancient-chinese-tower-showcasing-its-construction-techniques-and-design-elements-in-color-pencil-style-with.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-A detailed crosssection of the ancient Chinese tower, showcasing its construction techniques and design elements in color pencil style with realistic shadows, include labels for each level to highlight key features such as rooms, bridges, or architecture details, text panel at bottom shows information about historical significance, frame size, dimensions, height, weight, materials used, form structure type, construction technology, user needs and other related drip icons. white background --ar 67:128 --stylize 750
-```
-
-By [@NorthmoorAI](https://prompthero.com/prompt/de45743342c-midjourney-6-a-detailed-crosssection-of-the-ancient-chinese-tower-showcasing-its-construction-techniques-and-design-elements-in-color-pencil-style-with)
-
----
-
 <a id="prompthero-e8415bd8a23"></a>
 
 ## High resolution photography interior design, dream\.\.\.

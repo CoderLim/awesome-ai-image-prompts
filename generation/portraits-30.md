@@ -6,38 +6,6 @@
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
-<a id="prompthero-d29cd3e6c3e"></a>
-
-## A beautiful blonde woman wearing cowboy boots and \.\.\.
-
-<a href="https://cdn.prompthero.com/0wl6q0yllztfcy7ui63o6ck0fr0z-midjourney-61-a-beautiful-blonde-woman-wearing-cowboy-boots-and-a-hat-looking-at-the-camera-she-is-wearing-red-white-and.png"><img src="https://cdn.prompthero.com/0wl6q0yllztfcy7ui63o6ck0fr0z-midjourney-61-a-beautiful-blonde-woman-wearing-cowboy-boots-and-a-hat-looking-at-the-camera-she-is-wearing-red-white-and.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-A beautiful blonde woman wearing cowboy boots and a hat, looking at the camera. She is wearing red, white, and blue . This appears to be a photoshoot, with a close-up portrait and a cowboy aesthetic. The lighting is cinematic, and the background is a studio setting. --chaos 5 --ar 1:2 --style raw --v 7
-```
-
-[Source](https://prompthero.com/prompt/d29cd3e6c3e-midjourney-61-a-beautiful-blonde-woman-wearing-cowboy-boots-and-a-hat-looking-at-the-camera-she-is-wearing-red-white-and)
-
----
-
-<a id="prompthero-d53e58b09d2"></a>
-
-## Foot Archer
-
-<a href="https://cdn.prompthero.com/369n1maa11pz854ot9lnn4ujzbz1-stable-diffusion-xl-base-09-foot-archer.jpg"><img src="https://cdn.prompthero.com/369n1maa11pz854ot9lnn4ujzbz1-stable-diffusion-xl-base-09-foot-archer.jpg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-A Beautiful Athletic woman using her feet to aim with a bow, a ((foot archer)) highly detailed, 8k sharp focus, photorealism, handstand positioned, ((background bushy grassy landscape)) with trees over the horizon, wearing cyberpunk metal with leather strap clothing in the style of a T-Shirt and short shorts (colors white and silver)
-```
-
-By [@Atheist](https://prompthero.com/prompt/d53e58b09d2-stable-diffusion-xl-base-09-foot-archer)
-
----
-
 <a id="prompthero-d54f6367b8c"></a>
 
 ## a serene and intimate scene of a woman standing gr\.\.\.
@@ -323,6 +291,38 @@ Create a hyper-stylized 3D floating head of a bratty, glamorous female avatar wi
 ```
 
 By [@chorlo](https://prompthero.com/prompt/dddb699b223-ideogram-ideogram-v3-quality-create-a-hyper-stylized-3d-floating-head-of-a-bratty-glamorous-female-avatar-with-a-bothered-unimpressed-expression-half-lidded)
+
+---
+
+<a id="prompthero-de1819b1b14"></a>
+
+## A photo of an eccentric woman sitting on top of wh\.\.\.
+
+<a href="https://cdn.prompthero.com/6wryr34dlla639gjjfdrlk6bo4w6-flux-flux-11-pro-a-photo-of-an-eccentric-woman-sitting-on-top-of-white-fluffy-clouds-wearing-big-sunglasses-and-light-blue-pajamas.jpg"><img src="https://cdn.prompthero.com/6wryr34dlla639gjjfdrlk6bo4w6-flux-flux-11-pro-a-photo-of-an-eccentric-woman-sitting-on-top-of-white-fluffy-clouds-wearing-big-sunglasses-and-light-blue-pajamas.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+A photo of an eccentric woman sitting on top of white fluffy clouds wearing big sunglasses and light blue pajamas with yellow polka dots, she has short dark hair in a bob cut, the background is babyblue sky with white cloud formations, shot by Jimmy Marble, muted earthy colors, soft tones
+```
+
+[Source](https://prompthero.com/prompt/de1819b1b14-flux-flux-11-pro-a-photo-of-an-eccentric-woman-sitting-on-top-of-white-fluffy-clouds-wearing-big-sunglasses-and-light-blue-pajamas)
+
+---
+
+<a id="prompthero-de8453986d9"></a>
+
+## Fashion photography, close portrait of two albino \.\.\.
+
+<a href="https://cdn.prompthero.com/7261du6h167d38oyev3oww260rpe-stable-diffusion-2-base-fashion-photography-close-portrait-of-two-albino-twin-sisters-in-red-light-at-night-club-volumetric-lighting-cinematic-angle-glamour.png"><img src="https://cdn.prompthero.com/7261du6h167d38oyev3oww260rpe-stable-diffusion-2-base-fashion-photography-close-portrait-of-two-albino-twin-sisters-in-red-light-at-night-club-volumetric-lighting-cinematic-angle-glamour.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+Fashion photography, close portrait of two albino twin sisters in red light at night club, volumetric lighting, cinematic angle, glamour vibrant, highres, realistic photo, professional photography, cinematic angle, dynamic light back shining, bokeh,
+```
+
+[Source](https://prompthero.com/prompt/de8453986d9-stable-diffusion-2-base-fashion-photography-close-portrait-of-two-albino-twin-sisters-in-red-light-at-night-club-volumetric-lighting-cinematic-angle-glamour)
 
 ---
 

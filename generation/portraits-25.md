@@ -6,38 +6,6 @@
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
-<a id="prompthero-a1304811bbe"></a>
-
-## GozdeSeker, a 45 years old woman with olive skin a\.\.\.
-
-<a href="https://cdn.prompthero.com/xfzh3ggxkb5mg8ufe7jxw2fwbht5-flux-dev-gozdeseker-a-45-years-old-woman-with-olive-skin-and-dark-wavy-hair-sits-in-a-cozy-coffee-shop-she.png"><img src="https://cdn.prompthero.com/xfzh3ggxkb5mg8ufe7jxw2fwbht5-flux-dev-gozdeseker-a-45-years-old-woman-with-olive-skin-and-dark-wavy-hair-sits-in-a-cozy-coffee-shop-she.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-GozdeSeker, a 45 years old woman with olive skin and dark, wavy hair, sits in a cozy coffee shop. She wears a soft gray sweater dress and subtle makeup, dshe wears a necked metal bdsm chocker, her expression serene. She holds a steaming cup of coffee, her eyes reflecting a mix of contentment and deep thought. The scene is bathed in warm, golden light from a window to her left, casting soft shadows and highlighting the rich textures of the wooden table and the ambient, vintage decor. The lighting is reminiscent of a Wes Anderson film, with a subtle film grain and a slightly desaturated color palette, creating a nostalgic and inviting atmosphere.
-```
-
-[Source](https://prompthero.com/prompt/a1304811bbe-flux-dev-gozdeseker-a-45-years-old-woman-with-olive-skin-and-dark-wavy-hair-sits-in-a-cozy-coffee-shop-she)
-
----
-
-<a id="prompthero-a3885940a0d"></a>
-
-## \(masterpiece:1\.1, best quality:1\.3\), Cinematic Sho\.\.\.
-
-<a href="https://cdn.prompthero.com/sxbff4uylkaiozi9tpusplwgb8lt-dreamshaper-5-baked-vae-masterpiece11-best-quality13-cinematic-shot-centered-shot-from-below-dynamic-pose-focused-shot-close-up-looking-toward-camera-1gothic-girl.jpg"><img src="https://cdn.prompthero.com/sxbff4uylkaiozi9tpusplwgb8lt-dreamshaper-5-baked-vae-masterpiece11-best-quality13-cinematic-shot-centered-shot-from-below-dynamic-pose-focused-shot-close-up-looking-toward-camera-1gothic-girl.jpg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-(masterpiece:1.1, best quality:1.3), Cinematic Shot, centered, shot from below, dynamic pose, focused shot, close up, (looking toward camera), 1gothic girl, cold, gorgeous, long chestnut ponytail hair, wearing scarf, jeans, leather army jacket, snowy blizzard, shopping district, city street background, RAW photo, volumetric lighting, global illumination, reflection, bokeh, studio color, photography, realistic depiction, (epic composition, epic proportion), 64K, HD, Professional work, Unreal engine, octane render, makoto shinkai inspired,
-```
-
-[Source](https://prompthero.com/prompt/a3885940a0d-dreamshaper-5-baked-vae-masterpiece11-best-quality13-cinematic-shot-centered-shot-from-below-dynamic-pose-focused-shot-close-up-looking-toward-camera-1gothic-girl)
-
----
-
 <a id="prompthero-ab59fb2794b"></a>
 
 ## Japanese negative film aesthetic, rooftop summer s\.\.\.
@@ -323,6 +291,38 @@ By [@Grayve](https://prompthero.com/prompt/b2da23a7940-midjourney-6-photography-
 ```
 
 By [@abyishot](https://prompthero.com/prompt/b3b36b2a5e9-stable-diffusion-xl-base-09-youth-uprising-laura)
+
+---
+
+<a id="prompthero-b4ced5a8de6"></a>
+
+## The image captures a joyous moment, centered on a \.\.\.
+
+<a href="https://cdn.prompthero.com/muiw908arx2rch86w53wl9aqlwyz-flux-flux-11-pro-ultra-the-image-captures-a-joyous-moment-centered-on-a-smiling-woman-dressed-vibrantly-in-traditional-clothing-possibly-from-a-culture.jpg"><img src="https://cdn.prompthero.com/muiw908arx2rch86w53wl9aqlwyz-flux-flux-11-pro-ultra-the-image-captures-a-joyous-moment-centered-on-a-smiling-woman-dressed-vibrantly-in-traditional-clothing-possibly-from-a-culture.jpg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+The image captures a joyous moment, centered on a smiling woman dressed vibrantly in traditional clothing, possibly from a culture known for its colorful attire. Her outfit is richly adorned with bright, intricate patterns and embellishments, and she wears a headdress adorned with flowers that add a splash of various colors to her appearance. She is holding up a decorative item, which could be a part of a festival or celebration, toward the sky with a look of exuberance and delight. Her expression is one of genuine happiness as she laughs, her eyes closed and her head tilted back, which suggests she is fully immersed in the festivities. Other individuals, similarly dressed in traditional clothing though slightly out of focus, can be seen in the background enjoying the event, indicating a communal or cultural gathering. The warm lighting amplifies the festive atmosphere, giving the image a vibrant and lively feel.
+```
+
+[Source](https://prompthero.com/prompt/b4ced5a8de6-flux-flux-11-pro-ultra-the-image-captures-a-joyous-moment-centered-on-a-smiling-woman-dressed-vibrantly-in-traditional-clothing-possibly-from-a-culture)
+
+---
+
+<a id="prompthero-b5bb3ad9536"></a>
+
+## high resolution photography, candid shot, couple, \.\.\.
+
+<a href="https://cdn.prompthero.com/rxikupa9egvwz1r54ijrl3v1yc-midjourney-shatter-high-resolution-photography-candid-shot-couple-hugging-at-a-complicated-street-35mm-film-kodak-portra-400-motion-blur-authentic-emotion.png"><img src="https://cdn.prompthero.com/rxikupa9egvwz1r54ijrl3v1yc-midjourney-shatter-high-resolution-photography-candid-shot-couple-hugging-at-a-complicated-street-35mm-film-kodak-portra-400-motion-blur-authentic-emotion.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+high resolution photography, candid shot, couple, hugging, at a complicated street, 35mm film, kodak portra 400, motion blur, authentic emotion, film grain, cinematic lighting, rich detailed --ar 9:16 --raw
+```
+
+By [@Grayve](https://prompthero.com/prompt/b5bb3ad9536-midjourney-shatter-high-resolution-photography-candid-shot-couple-hugging-at-a-complicated-street-35mm-film-kodak-portra-400-motion-blur-authentic-emotion)
 
 ---
 

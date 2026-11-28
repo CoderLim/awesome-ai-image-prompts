@@ -6,22 +6,6 @@
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
-<a id="sipteaandcoffee-2049174937420918968"></a>
-
-## Futuristic limited-edition sneaker advertisement
-
-<a href="https://pbs.twimg.com/media/HHAhvrDaMAAoT6P.jpg"><img src="https://pbs.twimg.com/media/HHAhvrDaMAAoT6P.jpg" width="480" alt="Source example"></a>
-
-**Prompt**
-
-```text
-Create a jaw-dropping premium advertising poster in 9:16 vertical format for a fictional ultra-limited women’s fashion sneaker called "NIKE AIR JORDAN 1 LOW - LIMITED DROP". The design must feel like a world-class campaign by a top creative agency, highly original, futuristic, visually explosive, and impossible to ignore. Main visual: A stunning athletic female model placed prominently in the foreground, dominating the composition and becoming the main focal point. She stands powerfully at the front of the frame wearing the hero sneaker, captured from a dramatic low angle with one foot stepping toward the camera. Her pose is bold, confident, fierce, elegant, and unstoppable. She should appear larger than the shoe and visually command attention first. The hero sneaker is positioned beside or slightly behind her in a dynamic floating pose, still highly visible as the premium product focus. The shoe should look ultra-premium, highly engineered, sleek, aerodynamic, and fashion-forward. Materials combine knit mesh, sculpted foam, translucent panels, reflective stripes, and a carbon-fiber sole plate. She wears a sleek futuristic sports-luxury outfit: fitted performance crop jacket, sculpted leggings, metallic detailing, aerodynamic silhouette. Hair flowing with motion energy. Both the model and sneaker stand above a black obsidian running track split by glowing energy cracks. Neon light trails swirl around her body and shoes like captured speed. Small particles, mist, sparks, and motion streaks add intensity. In the background, use faint silhouettes of female runners frozen mid-sprint, softly blurred to keep all attention on the foreground model and sneaker. Color palette: Matte black, electric red, silver, deep charcoal, subtle neon blue highlights. Typography and poster copy: Render all text cleanly, sharply, and professionally with strong hierarchy. Main headline: “OWN THE SPEED” Product title: “NIKE AIR JORDAN 1 LOW” Subheadline: “Built for the women who never move ordinary.” Feature callouts in elegant boxed layout: Featherlight Adaptive Knit Upper Carbon Energy Return Plate Precision Grip Traction Limited Collector Release Price line: $299 CTA: DROP LIVE NOW Secondary CTA: Only at https://t.co/feHYve1vIX Small footer text: “Performance innovation meets futuristic street identity.” Layout direction: Headline bold and oversized, partially integrated into background. Female model in the foreground center-front as the visual star. Sneaker placed near her feet or floating beside her. Product title near the shoe in refined premium layout. Feature callouts vertically aligned on one side. Add subtle badge reading LIMITED SERIES. Style: Ultra-detailed, hyper-realistic fashion product photography, cinematic studio lighting, premium advertising aesthetics, sharp focus, rich textures, subtle atmosphere, dynamic motion energy, high-end commercial poster, no clutter, no generic template look.
-```
-
-By [@sipteaandcoffee](https://x.com/sipteaandcoffee/status/2049174937420918968)
-
----
-
 <a id="sipteaandcoffee-2051610507803832768"></a>
 
 ## Premium smartphone advertisement poster

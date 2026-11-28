@@ -6,38 +6,6 @@
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
-<a id="prompthero-898a92917e9"></a>
-
-## Realistic Survivalist Portrait
-
-<a href="https://cdn.prompthero.com/od09fx0a0ocgy9iwut1r0vzjqdv7-stable-diffusion-xl-base-09-realistic-survivalist-portrait.jpg"><img src="https://cdn.prompthero.com/od09fx0a0ocgy9iwut1r0vzjqdv7-stable-diffusion-xl-base-09-realistic-survivalist-portrait.jpg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-a mid distance portrait of woman wearing a survival outfit, lots of gear, Junkyard in the background, Science fiction, Intricate digital painting. Character portrait, Character design, Concept art, Symmetrical face, Detailed realistic face, 8k, Unreal engine 5, Hyperrealistic, splash art, concept art, mid shot, intricately detailed, color depth, dramatic, 2/3 face angle, side light, colorful background
-```
-
-By [@Atheist](https://prompthero.com/prompt/898a92917e9-stable-diffusion-xl-base-09-realistic-survivalist-portrait)
-
----
-
-<a id="prompthero-912c103592e"></a>
-
-## Ultra-realistic photograph of a beautiful East Asi\.\.\.
-
-<a href="https://cdn.prompthero.com/czocwpdlwrmcyugc0xzl2xrrxg-hero-10-ultra-realistic-photograph-of-a-beautiful-east-asian-woman-in-her-mid-20s-viewed-from-behind-at-a-three-quarter.jpeg"><img src="https://cdn.prompthero.com/czocwpdlwrmcyugc0xzl2xrrxg-hero-10-ultra-realistic-photograph-of-a-beautiful-east-asian-woman-in-her-mid-20s-viewed-from-behind-at-a-three-quarter.jpeg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-Ultra-realistic photograph of a beautiful East Asian woman in her mid-20s, viewed from behind at a three-quarter angle, her head turned slightly to the side showing her elegant profile and closed eyes. She has flawless porcelain skin with realistic skin textures, visible pores, subtle muscle definition, and natural sheen under soft lighting. Her entire back is covered in an incredibly detailed, vibrant full-back Japanese irezumi tattoo masterpiece featuring a fierce red Oni demon with horns emerging from turbulent waves, a powerful green dragon coiled above, a traditional Japanese woman in profile, blooming pink cherry blossoms, peonies, a red sun, pagoda, and dynamic clouds — all rendered with perfect ink shading, texture, and depth. She wears a luxurious black silk kimono with bold red trim, dramatically slipped down to her waist, exposing her full tattooed back, the fabric artfully draped and tied with a red obi sash. Her jet-black hair is styled in a sleek, high bun with red kanzashi hairpins and loose strands framing her face. In her right hand she holds a authentic katana sword vertically, the blade resting on her shoulder, intricate black-and-white tsuka wrap and gold kashira visible. Shot on Canon EOS R5 with Canon EF 85mm f/1.2L II USM lens, shallow depth of field, subject tack-sharp, creamy bokeh background. Soft cinematic lighting with warm lantern glow from traditional Japanese temple interior, subtle rim lighting highlighting skin and tattoo details, moody atmospheric background with blurred wooden architecture and glowing lanterns. Photorealistic, hyper-detailed skin textures, 8k resolution, ultra-realistic, National Geographic level photography, masterpiece, best quality
-```
-
-[Source](https://prompthero.com/prompt/912c103592e-hero-10-ultra-realistic-photograph-of-a-beautiful-east-asian-woman-in-her-mid-20s-viewed-from-behind-at-a-three-quarter)
-
----
-
 <a id="prompthero-0950c747263"></a>
 
 ## sweet little girl is sleeping in the bed, full bod\.\.\.
@@ -323,6 +291,38 @@ photography, upper body, female model in dramatic side pose, leaning backwards a
 ```
 
 By [@Grayve](https://prompthero.com/prompt/4461bf26bb3-midjourney-6-photography-upper-body-female-model-in-dramatic-side-pose-leaning-backwards-at-15-degree-angle-head-tilted-down-stylish-hair)
+
+---
+
+<a id="prompthero-4497d8a6279"></a>
+
+## \(1girl, full body\), \(spider Gwen\), action scene, d\.\.\.
+
+<a href="https://cdn.prompthero.com/tm4kmzjhdw6ill4cupnfd3yn3bty-stable-diffusion-15-1girl-full-body-spider-gwen-action-scene-dynamic-pose-dramatic-lighting-photorealistic-photorealism15-8k-raw-photo-highest-quality-masterpiece-ultra.png"><img src="https://cdn.prompthero.com/tm4kmzjhdw6ill4cupnfd3yn3bty-stable-diffusion-15-1girl-full-body-spider-gwen-action-scene-dynamic-pose-dramatic-lighting-photorealistic-photorealism15-8k-raw-photo-highest-quality-masterpiece-ultra.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+(1girl, full body), (spider Gwen), action scene, dynamic pose, dramatic lighting, (photorealistic, photorealism:1.5), (8k, RAW photo, highest quality, masterpiece, ultra-high resolution, physics-based rendering), <lora:add_detail:1>
+```
+
+[Source](https://prompthero.com/prompt/4497d8a6279-stable-diffusion-15-1girl-full-body-spider-gwen-action-scene-dynamic-pose-dramatic-lighting-photorealistic-photorealism15-8k-raw-photo-highest-quality-masterpiece-ultra)
+
+---
+
+<a id="prompthero-4727f425bde"></a>
+
+## Close-up of two women with elaborate, dark, steamp\.\.\.
+
+<a href="https://cdn.prompthero.com/mfn3j6f37duysicok496ihry3v-seedream-4-seedream-45-close-up-of-two-women-with-elaborate-dark-steampunk-styled-costumes-the-woman-on-the-left-has-long-dark-hair.jpeg"><img src="https://cdn.prompthero.com/mfn3j6f37duysicok496ihry3v-seedream-4-seedream-45-close-up-of-two-women-with-elaborate-dark-steampunk-styled-costumes-the-woman-on-the-left-has-long-dark-hair.jpeg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+Close-up of two women with elaborate, dark, steampunk-styled costumes. The woman on the left has long, dark hair pulled back in a bun, adorned with a metallic headband. Her face is partially obscured by a dark, mechanical respirator mask that covers her mouth and nose. Makeup includes dark eyeliner and eyeshadow. Her costume includes intricate armor-like pieces on her upper body and arms, appearing as a combination of leather and metal. The color palette is dominated by dark blacks, greys, and deep reds. The woman on the right has a similarly elaborate costume, with a mask that's red and structured like a machine part, and horned embellishments, with the color mostly red and dark grey. The costume designs are heavy and suggest futuristic, perhaps dystopian, technology. The two women appear to be close together, as if touching or connected, focusing the viewer’s gaze on their faces and elaborated costumes. The background is out of focus but suggests a somewhat urban or industrial setting. The lighting is dramatic and creates strong shadows, enhancing the dark and stylized aesthetic of the image.
+```
+
+[Source](https://prompthero.com/prompt/4727f425bde-seedream-4-seedream-45-close-up-of-two-women-with-elaborate-dark-steampunk-styled-costumes-the-woman-on-the-left-has-long-dark-hair)
 
 ---
 

@@ -6,38 +6,6 @@
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
-<a id="prompthero-153e921b278"></a>
-
-## A stunning portrait of a woman, art nouveau style,\.\.\.
-
-<a href="https://cdn.prompthero.com/x43gyrouh4lmcai26lzmwwerp1up-midjourney-61-a-stunning-portrait-of-a-woman-art-nouveau-style-with-vibrant-neon-colors-body-paint-pink-and-blue-iridescent-skin.png"><img src="https://cdn.prompthero.com/x43gyrouh4lmcai26lzmwwerp1up-midjourney-61-a-stunning-portrait-of-a-woman-art-nouveau-style-with-vibrant-neon-colors-body-paint-pink-and-blue-iridescent-skin.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-A stunning portrait of a woman, art nouveau style, with vibrant neon colors, body paint, pink and blue, iridescent skin, glowing makeup, soft focus, intricate details, dramatic lighting, high contrast, bokeh, fashion photography, elegant jewelry, long dark hair, shallow depth of field, photorealistic, 8k
-```
-
-[Source](https://prompthero.com/prompt/153e921b278-midjourney-61-a-stunning-portrait-of-a-woman-art-nouveau-style-with-vibrant-neon-colors-body-paint-pink-and-blue-iridescent-skin)
-
----
-
-<a id="prompthero-181a0a6d7fc"></a>
-
-## black and white portrait of a young girl, in the s\.\.\.
-
-<a href="https://cdn.prompthero.com/h3aikbbjpn8u1saebstt9mf0pk0q-midjourney-52-black-and-white-portrait-of-a-young-girl-in-the-style-of-dark-atmosphere-realistic-hyper-detailed-portraits-hasselblad-500cm.png"><img src="https://cdn.prompthero.com/h3aikbbjpn8u1saebstt9mf0pk0q-midjourney-52-black-and-white-portrait-of-a-young-girl-in-the-style-of-dark-atmosphere-realistic-hyper-detailed-portraits-hasselblad-500cm.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-black and white portrait of a young girl, in the style of dark atmosphere, realistic hyper-detailed portraits, hasselblad 500c/m, carnivalesque, golden light, uhd image, sony alpha a1 --ar 69:128 --s 750 --v 5.2
-```
-
-By [@NorthmoorAI](https://prompthero.com/prompt/181a0a6d7fc-midjourney-52-black-and-white-portrait-of-a-young-girl-in-the-style-of-dark-atmosphere-realistic-hyper-detailed-portraits-hasselblad-500cm)
-
----
-
 <a id="prompthero-186bd6a98d6"></a>
 
 ## an image of a person with a flowing, sculptural h\.\.\.
@@ -323,6 +291,38 @@ Create a realistic style portrait of a gorgeous Turkish muslim women wearing pin
 ```
 
 [Source](https://prompthero.com/prompt/508a0fd8008-dreamshaper-5-inpainting-turkish-muslim-women)
+
+---
+
+<a id="prompthero-544eb80bf89"></a>
+
+## Alien landscape
+
+<a href="https://cdn.prompthero.com/0g3tddg6l2q5yuzyd6n1xflby1ot-stable-diffusion-xl-base-09-alien-landscape.png"><img src="https://cdn.prompthero.com/0g3tddg6l2q5yuzyd6n1xflby1ot-stable-diffusion-xl-base-09-alien-landscape.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+An incredible detailed portrait of a vast alien landscape with a space cowboy stargazing, planets colliding in the sky, 8k, extreme detail, photorealistic, dirt particles, cinematic lighting, cinematic shot, expertly drawn, masterpiece, rings in the sky
+```
+
+[Source](https://prompthero.com/prompt/544eb80bf89-stable-diffusion-xl-base-09-alien-landscape)
+
+---
+
+<a id="prompthero-558ae4eb664"></a>
+
+## 1 girl, beautiful Korean girl, \(Cute Loose Bob hai\.\.\.
+
+<a href="https://cdn.prompthero.com/t26thajeunqe9b29oxc48w2c2fjv-level4-v50-baked-vae-fp16-1-girl-beautiful-korean-girl-cute-loose-bob-hair-wearing-a-cropped-hoodie-capri-sweatpants15-hands-in-pockets15-red-lips13.png"><img src="https://cdn.prompthero.com/t26thajeunqe9b29oxc48w2c2fjv-level4-v50-baked-vae-fp16-1-girl-beautiful-korean-girl-cute-loose-bob-hair-wearing-a-cropped-hoodie-capri-sweatpants15-hands-in-pockets15-red-lips13.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+1 girl, beautiful Korean girl, (Cute Loose Bob hair), (wearing a cropped hoodie, capri sweatpants:1.5), (hands in pockets:1.5), (red lips:1.3), (small breasts:1.3), (toned stomach:1.3), (eyelashes:1.2), (aegyo sal:1.2), beautiful detailed eyes, symmetrical eyes, (detailed face), dramatic lighting, (photorealism:1.5), (photorealistic:1.4), (8k, RAW photo, masterpiece), High detail RAW color photo, professional photo, realistic, (highest quality), (best shadow), (best illustration), ultra high resolution, highly detailed CG unified 8K wallpapers, physics-based rendering, photo, realistic, realism, high contrast, hyperrealism, photography, f1.6 lens, rich colors, hyper-realistic lifelike texture, cinestill 800, <lora:koreanDollLikeness_v10:0.5>
+```
+
+[Source](https://prompthero.com/prompt/558ae4eb664-level4-v50-baked-vae-fp16-1-girl-beautiful-korean-girl-cute-loose-bob-hair-wearing-a-cropped-hoodie-capri-sweatpants15-hands-in-pockets15-red-lips13)
 
 ---
 

@@ -6,38 +6,6 @@
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
-<a id="prompthero-74db505d867"></a>
-
-## portrait the egyptian male anubis, cyberpunk, blac\.\.\.
-
-<a href="https://cdn.prompthero.com/dhvpze0sr1xrqmfbsh5a0iepm1tk-stable-diffusion-xl-base-09-anubis-leonardo-kino-xlleonardo-alchemyleonardo-photorealism-v2-portrait-the-egyptian-male-anubis-cyberpunk-black-pyramid-hyperdetailed-eyes-hyperrealism-extremely-detailed-epic-masterwork-dark-fantasy-detailed-matte-painting.jpg"><img src="https://cdn.prompthero.com/dhvpze0sr1xrqmfbsh5a0iepm1tk-stable-diffusion-xl-base-09-anubis-leonardo-kino-xlleonardo-alchemyleonardo-photorealism-v2-portrait-the-egyptian-male-anubis-cyberpunk-black-pyramid-hyperdetailed-eyes-hyperrealism-extremely-detailed-epic-masterwork-dark-fantasy-detailed-matte-painting.jpg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-portrait the egyptian male anubis, cyberpunk, black, pyramid, hyperdetailed eyes, hyperrealism extremely detailed epic masterwork, dark fantasy detailed matte painting by Greg Rutkowski 8k resolution concept art intricately detailed Splash art trending on Artstation dynamic lighting Eldritch hyperdetailed
-```
-
-By [@Atheist](https://prompthero.com/prompt/74db505d867-stable-diffusion-xl-base-09-anubis-leonardo-kino-xlleonardo-alchemyleonardo-photorealism-v2-portrait-the-egyptian-male-anubis-cyberpunk-black-pyramid-hyperdetailed-eyes-hyperrealism-extremely-detailed-epic-masterwork-dark-fantasy-detailed-matte-painting)
-
----
-
-<a id="prompthero-79b2ae458be"></a>
-
-## A touch of bling
-
-<a href="https://cdn.prompthero.com/mx8rj9r8mf5skdm60xbgxqv5uqgw-midjourney-6-a-touch-of-bling.png"><img src="https://cdn.prompthero.com/mx8rj9r8mf5skdm60xbgxqv5uqgw-midjourney-6-a-touch-of-bling.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-a woman with a large jaw and gold teeth, in the style of futuristic minimalism, restrained forms, darkly romanticism, the bechers' typologies, glossy finish, intricate imagery, close-up shots --ar 4:5 --s 300 --v 6.0 --style raw
-```
-
-By [@jefharris](https://prompthero.com/prompt/79b2ae458be-midjourney-6-a-touch-of-bling)
-
----
-
 <a id="prompthero-79b6b7220f2"></a>
 
 ## A photorealistic, nighttime portrait of a cute 25-\.\.\.
@@ -323,6 +291,38 @@ A photo of an eccentric black woman sitting on top of white fluffy clouds wearin
 ```
 
 [Source](https://prompthero.com/prompt/133b79e0a2e-flux-flux-11-pro-a-photo-of-an-eccentric-black-woman-sitting-on-top-of-white-fluffy-clouds-wearing-big-sunglasses-and-a-designer)
+
+---
+
+<a id="prompthero-153e921b278"></a>
+
+## A stunning portrait of a woman, art nouveau style,\.\.\.
+
+<a href="https://cdn.prompthero.com/x43gyrouh4lmcai26lzmwwerp1up-midjourney-61-a-stunning-portrait-of-a-woman-art-nouveau-style-with-vibrant-neon-colors-body-paint-pink-and-blue-iridescent-skin.png"><img src="https://cdn.prompthero.com/x43gyrouh4lmcai26lzmwwerp1up-midjourney-61-a-stunning-portrait-of-a-woman-art-nouveau-style-with-vibrant-neon-colors-body-paint-pink-and-blue-iridescent-skin.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+A stunning portrait of a woman, art nouveau style, with vibrant neon colors, body paint, pink and blue, iridescent skin, glowing makeup, soft focus, intricate details, dramatic lighting, high contrast, bokeh, fashion photography, elegant jewelry, long dark hair, shallow depth of field, photorealistic, 8k
+```
+
+[Source](https://prompthero.com/prompt/153e921b278-midjourney-61-a-stunning-portrait-of-a-woman-art-nouveau-style-with-vibrant-neon-colors-body-paint-pink-and-blue-iridescent-skin)
+
+---
+
+<a id="prompthero-181a0a6d7fc"></a>
+
+## black and white portrait of a young girl, in the s\.\.\.
+
+<a href="https://cdn.prompthero.com/h3aikbbjpn8u1saebstt9mf0pk0q-midjourney-52-black-and-white-portrait-of-a-young-girl-in-the-style-of-dark-atmosphere-realistic-hyper-detailed-portraits-hasselblad-500cm.png"><img src="https://cdn.prompthero.com/h3aikbbjpn8u1saebstt9mf0pk0q-midjourney-52-black-and-white-portrait-of-a-young-girl-in-the-style-of-dark-atmosphere-realistic-hyper-detailed-portraits-hasselblad-500cm.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+black and white portrait of a young girl, in the style of dark atmosphere, realistic hyper-detailed portraits, hasselblad 500c/m, carnivalesque, golden light, uhd image, sony alpha a1 --ar 69:128 --s 750 --v 5.2
+```
+
+By [@NorthmoorAI](https://prompthero.com/prompt/181a0a6d7fc-midjourney-52-black-and-white-portrait-of-a-young-girl-in-the-style-of-dark-atmosphere-realistic-hyper-detailed-portraits-hasselblad-500cm)
 
 ---
 

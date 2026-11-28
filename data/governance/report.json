@@ -1,46 +1,46 @@
 {
   "total": 2167,
-  "visible": 1936,
-  "hidden": 231,
-  "approved": 1935,
+  "visible": 1928,
+  "hidden": 239,
+  "approved": 1927,
   "pending": 1,
-  "rejected": 231,
-  "published": 1935,
-  "canonical": 1936,
+  "rejected": 239,
+  "published": 1927,
+  "canonical": 1928,
   "duplicateExcluded": 62,
   "duplicateExcludedFromGallery": 45,
   "uniqueCases": 2105,
   "galleryGroups": {
-    "reference": 229,
-    "generation": 1706
+    "reference": 228,
+    "generation": 1699
   },
   "types": {
-    "generation": 1894,
-    "editing": 41
+    "generation": 1887,
+    "editing": 40
   },
   "inputModes": {
     "reference-to-image": 191,
-    "text-to-image": 1506,
+    "text-to-image": 1499,
     "unknown": 200,
-    "image-editing": 38
+    "image-editing": 37
   },
   "categories": {
     "generation/posters": 165,
     "generation/illustrations": 230,
-    "editing/restyle": 23,
-    "generation/creative-art": 271,
-    "generation/characters": 140,
+    "editing/restyle": 22,
+    "generation/creative-art": 270,
+    "generation/characters": 139,
     "generation/logos": 27,
-    "generation/portraits": 736,
-    "generation/products": 50,
+    "generation/portraits": 734,
+    "generation/products": 49,
     "generation/travel": 62,
-    "generation/architecture": 48,
+    "generation/architecture": 47,
     "editing/composition": 7,
     "editing/portrait-editing": 4,
     "generation/other": 48,
     "editing/background-change": 2,
     "editing/object-replacement": 1,
-    "generation/comics-storyboards": 23,
+    "generation/comics-storyboards": 22,
     "generation/infographics": 56,
     "generation/ui-mockups": 29,
     "generation/avatars": 10,
@@ -55,7 +55,7 @@
   "flags": {
     "rights-review": 2155,
     "input-mode-review": 237,
-    "manual-excluded": 181,
+    "manual-excluded": 189,
     "duplicate-candidate:same-prompt-prefix": 51,
     "classification-review": 242,
     "missing-original-post-url": 180,
@@ -77,5 +77,5 @@
     "perceptualHash": "not-run",
     "semanticEmbedding": "not-run"
   },
-  "manualExcluded": 181
+  "manualExcluded": 189
 }

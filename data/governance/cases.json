@@ -21826,17 +21826,18 @@
       "product"
     ],
     "quality": {
-      "status": "metadata-complete",
-      "score": 4,
+      "status": "manual-excluded",
+      "score": 2,
       "flags": [
-        "rights-review"
+        "rights-review",
+        "manual-excluded"
       ],
       "imageAvailability": "unchecked",
       "imagePromptMatch": "unchecked",
       "reproduction": "untested",
       "rights": "pending-review"
     },
-    "visible": true
+    "visible": false
   },
   "prompthero-1ceb45671a9": {
     "type": "generation",
@@ -29173,17 +29174,18 @@
     "reason": "reviewed-collector-export",
     "tags": [],
     "quality": {
-      "status": "metadata-complete",
-      "score": 5,
+      "status": "manual-excluded",
+      "score": 3,
       "flags": [
-        "rights-review"
+        "rights-review",
+        "manual-excluded"
       ],
       "imageAvailability": "unchecked",
       "imagePromptMatch": "unchecked",
       "reproduction": "untested",
       "rights": "pending-review"
     },
-    "visible": true
+    "visible": false
   },
   "prompthero-25f33adb65f": {
     "type": "generation",
@@ -30866,17 +30868,18 @@
     "reason": "reviewed-collector-export",
     "tags": [],
     "quality": {
-      "status": "metadata-complete",
-      "score": 4,
+      "status": "manual-excluded",
+      "score": 2,
       "flags": [
-        "rights-review"
+        "rights-review",
+        "manual-excluded"
       ],
       "imageAvailability": "unchecked",
       "imagePromptMatch": "unchecked",
       "reproduction": "untested",
       "rights": "pending-review"
     },
-    "visible": true
+    "visible": false
   },
   "prompthero-68aa5c404f6": {
     "type": "generation",
@@ -37495,17 +37498,18 @@
     "reason": "reviewed-collector-export",
     "tags": [],
     "quality": {
-      "status": "metadata-complete",
-      "score": 5,
+      "status": "manual-excluded",
+      "score": 3,
       "flags": [
-        "rights-review"
+        "rights-review",
+        "manual-excluded"
       ],
       "imageAvailability": "unchecked",
       "imagePromptMatch": "unchecked",
       "reproduction": "untested",
       "rights": "pending-review"
     },
-    "visible": true
+    "visible": false
   },
   "prompthero-723106a7952": {
     "type": "generation",
@@ -38192,17 +38196,18 @@
     "reason": "reviewed-collector-export",
     "tags": [],
     "quality": {
-      "status": "metadata-complete",
-      "score": 4,
+      "status": "manual-excluded",
+      "score": 2,
       "flags": [
-        "rights-review"
+        "rights-review",
+        "manual-excluded"
       ],
       "imageAvailability": "unchecked",
       "imagePromptMatch": "unchecked",
       "reproduction": "untested",
       "rights": "pending-review"
     },
-    "visible": true
+    "visible": false
   },
   "prompthero-48770678cd9": {
     "type": "generation",
@@ -49372,17 +49377,18 @@
       "typography"
     ],
     "quality": {
-      "status": "metadata-complete",
-      "score": 4,
+      "status": "manual-excluded",
+      "score": 2,
       "flags": [
-        "rights-review"
+        "rights-review",
+        "manual-excluded"
       ],
       "imageAvailability": "unchecked",
       "imagePromptMatch": "unchecked",
       "reproduction": "untested",
       "rights": "pending-review"
     },
-    "visible": true
+    "visible": false
   },
   "sipteaandcoffee-2055674237927686383": {
     "type": "generation",
@@ -49402,17 +49408,18 @@
       "multi-panel"
     ],
     "quality": {
-      "status": "metadata-complete",
-      "score": 4,
+      "status": "manual-excluded",
+      "score": 2,
       "flags": [
-        "rights-review"
+        "rights-review",
+        "manual-excluded"
       ],
       "imageAvailability": "unchecked",
       "imagePromptMatch": "unchecked",
       "reproduction": "untested",
       "rights": "pending-review"
     },
-    "visible": true
+    "visible": false
   },
   "sipteaandcoffee-2056078056419393805": {
     "type": "generation",
@@ -49768,17 +49775,18 @@
       "image-editing"
     ],
     "quality": {
-      "status": "metadata-complete",
-      "score": 4,
+      "status": "manual-excluded",
+      "score": 2,
       "flags": [
-        "rights-review"
+        "rights-review",
+        "manual-excluded"
       ],
       "imageAvailability": "unchecked",
       "imagePromptMatch": "unchecked",
       "reproduction": "untested",
       "rights": "pending-review"
     },
-    "visible": true
+    "visible": false
   },
   "sipteaandcoffee-2123882892279349442": {
     "type": "generation",

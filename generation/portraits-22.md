@@ -6,38 +6,6 @@
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
-<a id="prompthero-22713d01d0d"></a>
-
-## A portrait of a young beautiful girl, under cut ha\.\.\.
-
-<a href="https://cdn.prompthero.com/ypm840gj0n3ghu6179fox6i24rdb-stable-diffusion-xl-base-09-all-my-works-use-advanced-process-ie-comfyui-baseline-model-juggernautxlv7-workflow-seargesdxl432-full-credits-shall-go-to-the-respective-a-portrait-of-a-young-beautiful-girl-under-cut-hair-style-slim-with-curves-indonesian-batik-outfit-establishing-shot-an.png"><img src="https://cdn.prompthero.com/ypm840gj0n3ghu6179fox6i24rdb-stable-diffusion-xl-base-09-all-my-works-use-advanced-process-ie-comfyui-baseline-model-juggernautxlv7-workflow-seargesdxl432-full-credits-shall-go-to-the-respective-a-portrait-of-a-young-beautiful-girl-under-cut-hair-style-slim-with-curves-indonesian-batik-outfit-establishing-shot-an.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-A portrait of a young beautiful girl, under cut hair style, "slim with curves", Indonesian batik outfit, establishing shot, an glamorous, elegant and sophisticated style, in the style of a {randomly selected} well-known photographer.
-```
-
-By [@JBlack16062205](https://prompthero.com/prompt/22713d01d0d-stable-diffusion-xl-base-09-all-my-works-use-advanced-process-ie-comfyui-baseline-model-juggernautxlv7-workflow-seargesdxl432-full-credits-shall-go-to-the-respective-a-portrait-of-a-young-beautiful-girl-under-cut-hair-style-slim-with-curves-indonesian-batik-outfit-establishing-shot-an)
-
----
-
-<a id="prompthero-26250e51943"></a>
-
-## high-resolution photo of a beautiful woman wearing\.\.\.
-
-<a href="https://cdn.prompthero.com/xyhyjngu0euksdqb2gpjqqdxppud-midjourney-6-high-resolution-photo-of-a-beautiful-woman-wearing-a-summer-dress-sitting-on-a-blanket-in-a-park-photorealistic-uhd.png"><img src="https://cdn.prompthero.com/xyhyjngu0euksdqb2gpjqqdxppud-midjourney-6-high-resolution-photo-of-a-beautiful-woman-wearing-a-summer-dress-sitting-on-a-blanket-in-a-park-photorealistic-uhd.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-high-resolution photo of a beautiful woman wearing a summer dress sitting on a blanket in a park, photorealistic, UHD, shot on a Sony A7III, optimal photography, natural lighting --ar 50:111
-```
-
-By [@NorthmoorAI](https://prompthero.com/prompt/26250e51943-midjourney-6-high-resolution-photo-of-a-beautiful-woman-wearing-a-summer-dress-sitting-on-a-blanket-in-a-park-photorealistic-uhd)
-
----
-
 <a id="prompthero-36172e1ad2e"></a>
 
 ## \(Nano Banana Pro\) Full-length editorial fashion ph\.\.\.
@@ -323,6 +291,38 @@ Psychedelic Dune portrait, A detailed, central portrait of a rugged male Dune ch
 ```
 
 [Source](https://prompthero.com/prompt/723106a7952-midjourney-niji-mode-psychedelic-dune-portrait-a-detailed-central-portrait-of-a-rugged-male-dune-character-with-characteristic-blue-eyes-weather-beaten-skin)
+
+---
+
+<a id="prompthero-875314cccb3"></a>
+
+## a poster depicts a boy holding a heart shaped ball\.\.\.
+
+<a href="https://cdn.prompthero.com/gvcg3hxc6vyn97g332dxs4hmlaxq-midjourney-6-a-poster-depicts-a-boy-holding-a-heart-shaped-balloon-in-the-style-of-sketchfab-poodlepunk-warm-tones-screenshotsaturday-romanticized.png"><img src="https://cdn.prompthero.com/gvcg3hxc6vyn97g332dxs4hmlaxq-midjourney-6-a-poster-depicts-a-boy-holding-a-heart-shaped-balloon-in-the-style-of-sketchfab-poodlepunk-warm-tones-screenshotsaturday-romanticized.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+a poster depicts a boy holding a heart shaped balloon, in the style of sketchfab, poodlepunk, warm tones, #screenshotsaturday, romanticized figures, expressive comic panels, romantic academia, (intricate details:1.12), hdr, (intricate details, hyperdetailed:1.15), (hyperrealism, soft light, sharp:1.2) dynamic pose, 32k, sharp focus, illustration, ((best quality)), ((masterpiece))
+```
+
+[Source](https://prompthero.com/prompt/875314cccb3-midjourney-6-a-poster-depicts-a-boy-holding-a-heart-shaped-balloon-in-the-style-of-sketchfab-poodlepunk-warm-tones-screenshotsaturday-romanticized)
+
+---
+
+<a id="prompthero-0883267fc2d"></a>
+
+## A beautiful woman with robotic features as a close\.\.\.
+
+<a href="https://cdn.prompthero.com/6ziwii9z81qcmd524ba2qzmb80xd-midjourney-6-a-beautiful-woman-with-robotic-features-as-a-closeup-shot-of-the-face-and-neck-with-circuitry-on-her-skin.png"><img src="https://cdn.prompthero.com/6ziwii9z81qcmd524ba2qzmb80xd-midjourney-6-a-beautiful-woman-with-robotic-features-as-a-closeup-shot-of-the-face-and-neck-with-circuitry-on-her-skin.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+A beautiful woman with robotic features as a closeup shot of the face and neck, with circuitry on her skin, clean lines, minimal details, cyberpunk, portrayed in profile with a red background, futuristic design, in a 2D flat composition, red tones, digital art in the style of Studio Ghibli --ar 1:2 --stylize 750
+```
+
+By [@NorthmoorAI](https://prompthero.com/prompt/0883267fc2d-midjourney-6-a-beautiful-woman-with-robotic-features-as-a-closeup-shot-of-the-face-and-neck-with-circuitry-on-her-skin)
 
 ---
 

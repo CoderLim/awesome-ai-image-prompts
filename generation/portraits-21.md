@@ -6,38 +6,6 @@
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
-<a id="prompthero-4497d8a6279"></a>
-
-## \(1girl, full body\), \(spider Gwen\), action scene, d\.\.\.
-
-<a href="https://cdn.prompthero.com/tm4kmzjhdw6ill4cupnfd3yn3bty-stable-diffusion-15-1girl-full-body-spider-gwen-action-scene-dynamic-pose-dramatic-lighting-photorealistic-photorealism15-8k-raw-photo-highest-quality-masterpiece-ultra.png"><img src="https://cdn.prompthero.com/tm4kmzjhdw6ill4cupnfd3yn3bty-stable-diffusion-15-1girl-full-body-spider-gwen-action-scene-dynamic-pose-dramatic-lighting-photorealistic-photorealism15-8k-raw-photo-highest-quality-masterpiece-ultra.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-(1girl, full body), (spider Gwen), action scene, dynamic pose, dramatic lighting, (photorealistic, photorealism:1.5), (8k, RAW photo, highest quality, masterpiece, ultra-high resolution, physics-based rendering), <lora:add_detail:1>
-```
-
-[Source](https://prompthero.com/prompt/4497d8a6279-stable-diffusion-15-1girl-full-body-spider-gwen-action-scene-dynamic-pose-dramatic-lighting-photorealistic-photorealism15-8k-raw-photo-highest-quality-masterpiece-ultra)
-
----
-
-<a id="prompthero-4727f425bde"></a>
-
-## Close-up of two women with elaborate, dark, steamp\.\.\.
-
-<a href="https://cdn.prompthero.com/mfn3j6f37duysicok496ihry3v-seedream-4-seedream-45-close-up-of-two-women-with-elaborate-dark-steampunk-styled-costumes-the-woman-on-the-left-has-long-dark-hair.jpeg"><img src="https://cdn.prompthero.com/mfn3j6f37duysicok496ihry3v-seedream-4-seedream-45-close-up-of-two-women-with-elaborate-dark-steampunk-styled-costumes-the-woman-on-the-left-has-long-dark-hair.jpeg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-Close-up of two women with elaborate, dark, steampunk-styled costumes. The woman on the left has long, dark hair pulled back in a bun, adorned with a metallic headband. Her face is partially obscured by a dark, mechanical respirator mask that covers her mouth and nose. Makeup includes dark eyeliner and eyeshadow. Her costume includes intricate armor-like pieces on her upper body and arms, appearing as a combination of leather and metal. The color palette is dominated by dark blacks, greys, and deep reds. The woman on the right has a similarly elaborate costume, with a mask that's red and structured like a machine part, and horned embellishments, with the color mostly red and dark grey. The costume designs are heavy and suggest futuristic, perhaps dystopian, technology. The two women appear to be close together, as if touching or connected, focusing the viewer’s gaze on their faces and elaborated costumes. The background is out of focus but suggests a somewhat urban or industrial setting. The lighting is dramatic and creates strong shadows, enhancing the dark and stylized aesthetic of the image.
-```
-
-[Source](https://prompthero.com/prompt/4727f425bde-seedream-4-seedream-45-close-up-of-two-women-with-elaborate-dark-steampunk-styled-costumes-the-woman-on-the-left-has-long-dark-hair)
-
----
-
 <a id="prompthero-5454b2836ef"></a>
 
 ## a portrait of a smiling woman with wet, slicked-ba\.\.\.
@@ -323,6 +291,38 @@ Create a photorealistic, high-resolution 16k image of a 35-year-old man embodyin
 ```
 
 [Source](https://prompthero.com/prompt/16220e841b2-midjourney-5-a-bad-ass-scottish-ginger)
+
+---
+
+<a id="prompthero-22713d01d0d"></a>
+
+## A portrait of a young beautiful girl, under cut ha\.\.\.
+
+<a href="https://cdn.prompthero.com/ypm840gj0n3ghu6179fox6i24rdb-stable-diffusion-xl-base-09-all-my-works-use-advanced-process-ie-comfyui-baseline-model-juggernautxlv7-workflow-seargesdxl432-full-credits-shall-go-to-the-respective-a-portrait-of-a-young-beautiful-girl-under-cut-hair-style-slim-with-curves-indonesian-batik-outfit-establishing-shot-an.png"><img src="https://cdn.prompthero.com/ypm840gj0n3ghu6179fox6i24rdb-stable-diffusion-xl-base-09-all-my-works-use-advanced-process-ie-comfyui-baseline-model-juggernautxlv7-workflow-seargesdxl432-full-credits-shall-go-to-the-respective-a-portrait-of-a-young-beautiful-girl-under-cut-hair-style-slim-with-curves-indonesian-batik-outfit-establishing-shot-an.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+A portrait of a young beautiful girl, under cut hair style, "slim with curves", Indonesian batik outfit, establishing shot, an glamorous, elegant and sophisticated style, in the style of a {randomly selected} well-known photographer.
+```
+
+By [@JBlack16062205](https://prompthero.com/prompt/22713d01d0d-stable-diffusion-xl-base-09-all-my-works-use-advanced-process-ie-comfyui-baseline-model-juggernautxlv7-workflow-seargesdxl432-full-credits-shall-go-to-the-respective-a-portrait-of-a-young-beautiful-girl-under-cut-hair-style-slim-with-curves-indonesian-batik-outfit-establishing-shot-an)
+
+---
+
+<a id="prompthero-26250e51943"></a>
+
+## high-resolution photo of a beautiful woman wearing\.\.\.
+
+<a href="https://cdn.prompthero.com/xyhyjngu0euksdqb2gpjqqdxppud-midjourney-6-high-resolution-photo-of-a-beautiful-woman-wearing-a-summer-dress-sitting-on-a-blanket-in-a-park-photorealistic-uhd.png"><img src="https://cdn.prompthero.com/xyhyjngu0euksdqb2gpjqqdxppud-midjourney-6-high-resolution-photo-of-a-beautiful-woman-wearing-a-summer-dress-sitting-on-a-blanket-in-a-park-photorealistic-uhd.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+high-resolution photo of a beautiful woman wearing a summer dress sitting on a blanket in a park, photorealistic, UHD, shot on a Sony A7III, optimal photography, natural lighting --ar 50:111
+```
+
+By [@NorthmoorAI](https://prompthero.com/prompt/26250e51943-midjourney-6-high-resolution-photo-of-a-beautiful-woman-wearing-a-summer-dress-sitting-on-a-blanket-in-a-park-photorealistic-uhd)
 
 ---
 

@@ -198,22 +198,6 @@ high resolution photography interior design, dreamy luxury living room, wooden f
 
 ---
 
-<a id="prompthero-0684131c859"></a>
-
-## high resolution photography interior design, dream\.\.\.
-
-<a href="https://cdn.prompthero.com/m74ehjh2r9jqrc0lhcsxtelbxmwz-openjourney-15-high-resolution-photography-interior-design-dreamy-sunken-living-room-conversation-pit-big-leather-couch-looking-royal-marble-floor-high-ceiling.png"><img src="https://cdn.prompthero.com/m74ehjh2r9jqrc0lhcsxtelbxmwz-openjourney-15-high-resolution-photography-interior-design-dreamy-sunken-living-room-conversation-pit-big-leather-couch-looking-royal-marble-floor-high-ceiling.png" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-high resolution photography interior design, dreamy sunken living room conversation pit, big leather couch looking royal, marble floor, high ceiling, beige black white pastel palette, interior design magazine, cozy atmosphere
-```
-
-[Source](https://prompthero.com/prompt/0684131c859-openjourney-15-high-resolution-photography-interior-design-dreamy-sunken-living-room-conversation-pit-big-leather-couch-looking-royal-marble-floor-high-ceiling)
-
----
-
 <a id="prompthero-68328549fa2"></a>
 
 ## Home office interior
@@ -323,6 +307,22 @@ create a photorealistic image showcasing the timeless elegance of the wegner wis
 ```
 
 By [@Grayve](https://prompthero.com/prompt/dc660565919-midjourney-6-create-a-photorealistic-image-showcasing-the-timeless-elegance-of-the-wegner-wishbone-chair-use-a-leica-q2-with-a-fixed)
+
+---
+
+<a id="prompthero-de45743342c"></a>
+
+## A detailed crosssection of the ancient Chinese tow\.\.\.
+
+<a href="https://cdn.prompthero.com/hq2dfu0aa4txptnc034a57tekyt2-midjourney-6-a-detailed-crosssection-of-the-ancient-chinese-tower-showcasing-its-construction-techniques-and-design-elements-in-color-pencil-style-with.png"><img src="https://cdn.prompthero.com/hq2dfu0aa4txptnc034a57tekyt2-midjourney-6-a-detailed-crosssection-of-the-ancient-chinese-tower-showcasing-its-construction-techniques-and-design-elements-in-color-pencil-style-with.png" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+A detailed crosssection of the ancient Chinese tower, showcasing its construction techniques and design elements in color pencil style with realistic shadows, include labels for each level to highlight key features such as rooms, bridges, or architecture details, text panel at bottom shows information about historical significance, frame size, dimensions, height, weight, materials used, form structure type, construction technology, user needs and other related drip icons. white background --ar 67:128 --stylize 750
+```
+
+By [@NorthmoorAI](https://prompthero.com/prompt/de45743342c-midjourney-6-a-detailed-crosssection-of-the-ancient-chinese-tower-showcasing-its-construction-techniques-and-design-elements-in-color-pencil-style-with)
 
 ---
 

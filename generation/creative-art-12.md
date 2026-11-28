@@ -6,22 +6,6 @@
 
 Source examples are not independently reproduced. Copy a prompt from its code block; original formatting is preserved in JSON.
 
-<a id="prompthero-e2a7f55bd14"></a>
-
-## View from inside a car, shot through the windshiel\.\.\.
-
-<a href="https://cdn.prompthero.com/zyk3est86oeh9x0accnweqx3f8-hero-10-view-from-inside-a-car-shot-through-the-windshield-seeing-a-person-riding-a-white-scooter-on-the-road-the.jpeg"><img src="https://cdn.prompthero.com/zyk3est86oeh9x0accnweqx3f8-hero-10-view-from-inside-a-car-shot-through-the-windshield-seeing-a-person-riding-a-white-scooter-on-the-road-the.jpeg" width="480" alt="After"></a>
-
-**Prompt**
-
-```text
-View from inside a car, shot through the windshield, seeing a person riding a white scooter on the road, the person is carrying a transparent backpack, inside the backpack are two cats, one cat wearing a shark costume, the other cat wearing a blue rabbit hat, the two cats are playing and frolicking in the backpack, suddenly hearing a car horn sound, they turn their heads simultaneously, hissing towards the camera, cats' fur texture clearly visible, realistic city daylight background, 4K video resolution, smooth motion, vivid cat expressions
-```
-
-[Source](https://prompthero.com/prompt/e2a7f55bd14-hero-10-view-from-inside-a-car-shot-through-the-windshield-seeing-a-person-riding-a-white-scooter-on-the-road-the)
-
----
-
 <a id="prompthero-e4edc337263"></a>
 
 ## \(masterpiece:1\.3\), perfect anatomy, 32k UHD resolu\.\.\.
@@ -323,6 +307,22 @@ Agile black wolf soldier character, anthropomorphic figure, wearing futuristic s
 ```
 
 By [@abyishot](https://prompthero.com/prompt/f63b728ea0b-midjourney-51-specialist-agile-kyle)
+
+---
+
+<a id="prompthero-f65bed0f91e"></a>
+
+## \( watercolor \\\(medium\\\),    IrisCompiet:1\.2\),&lt;lora\.\.\.
+
+<a href="https://cdn.prompthero.com/9wdfb2c3yvqy2bz2p31w69ta1upe-dreamshaper-33-watercolor-medium-iriscompiet12lorairiscompietstyle09-side-view-of-a-eagle-with-long-beak-face-focus-abstract-background-fantasy-many-colors-colorful-flower.jpeg"><img src="https://cdn.prompthero.com/9wdfb2c3yvqy2bz2p31w69ta1upe-dreamshaper-33-watercolor-medium-iriscompiet12lorairiscompietstyle09-side-view-of-a-eagle-with-long-beak-face-focus-abstract-background-fantasy-many-colors-colorful-flower.jpeg" width="480" alt="After"></a>
+
+**Prompt**
+
+```text
+( watercolor \(medium\),    IrisCompiet:1.2),<lora:IrisCompietStyle:0.9>, side view of a eagle with long beak, face focus, abstract background, fantasy, many colors, colorful, flower petals, wind blowing,
+```
+
+By [@heeyrina](https://prompthero.com/prompt/f65bed0f91e-dreamshaper-33-watercolor-medium-iriscompiet12lorairiscompietstyle09-side-view-of-a-eagle-with-long-beak-face-focus-abstract-background-fantasy-many-colors-colorful-flower)
 
 ---
 
