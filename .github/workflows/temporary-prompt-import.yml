@@ -1,0 +1,49 @@
+name: Build staged prompt import
+on:
+  push:
+    branches:
+      - import/sipteaandcoffee-20261128
+    paths:
+      - '.github/workflows/temporary-prompt-import.yml'
+permissions:
+  contents: write
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Verify and apply reviewed candidates
+        run: |
+          node --input-type=module <<'JS'
+          import fs from 'node:fs';
+          import {planImport} from './.claude/skills/collect-x-prompts/scripts/stage-import.mjs';
+          import {readCatalog} from './scripts/audit-prompt-similarity.mjs';
+          import {readExclusions,fingerprint} from './scripts/review-exclusions.mjs';
+          import {readTemplateDecisions} from './scripts/review-templates.mjs';
+          import {readFeatured} from './scripts/review-featured.mjs';
+          const source='sipteaandcoffee';
+          const file='data/index/'+source+'-001.json';
+          const read=p=>JSON.parse(fs.readFileSync(p,'utf8'));
+          const rows=read(file);
+          const catalog=readCatalog().filter(r=>r.provenance.collectedFrom[0].sourceId!==source);
+          const sources=read('data/sources.json').filter(s=>s.id!==source);
+          const filenames=fs.readdirSync('data/index').filter(f=>f!==source+'-001.json');
+          const reviews=rows.map(r=>({id:r.id,promptHash:fingerprint(r.prompt.original),reviewer:'AI text and duplicate first pass',text:'complete',duplicate:{status:'cleared',evidence:'Reviewed candidate concepts and exact source/prompt conflicts against existing catalog; unresolved similarity and media candidates remain blocked by planImport.'}}));
+          const result=planImport(rows,catalog,sources,filenames,reviews,{exclusions:readExclusions(),decisions:readTemplateDecisions(),featured:readFeatured()??[]});
+          console.log(JSON.stringify({added:result.added,blocked:result.blocked,rejected:result.rejected,near:result.near,imageMatches:result.imageMatches},null,2));
+          if(!result.added.length)throw Error('No eligible candidates');
+          fs.unlinkSync(file);
+          for(const [p,value] of Object.entries(result.updates))fs.writeFileSync(p,JSON.stringify(value,null,2)+'\n');
+          JS
+      - run: npm run build && npm run check
+      - name: Commit validated generated files
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add data generation reference README.md README.zh-CN.md docs/governance-report.md
+          git add -u
+          git commit -m 'Apply reviewed prompt import and rebuild galleries'
+          git push origin HEAD:refs/heads/import/sipteaandcoffee-20261128
