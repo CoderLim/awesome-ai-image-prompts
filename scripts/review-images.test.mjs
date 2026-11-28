@@ -7,6 +7,8 @@ import net from 'node:net';
 import {spawn} from 'node:child_process';
 import {once} from 'node:events';
 import {fileURLToPath} from 'node:url';
+import {execFileSync} from 'node:child_process';
+import {firstImportTimes,reviewTime,sortReviewCards} from './review-image-order.mjs';
 
 test('local reviewer persists exclusion, rejects stale writes, restores case', {timeout:20000}, async t=>{
  const root=fs.mkdtempSync(path.join(os.tmpdir(),'image-review-'));
@@ -14,7 +16,7 @@ test('local reviewer persists exclusion, rejects stale writes, restores case', {
  t.after(async()=>{if(child&&child.exitCode===null&&child.signalCode===null){const exited=once(child,'exit');child.kill();await exited;}fs.rmSync(root,{recursive:true,force:true});});
  const scripts=path.dirname(fileURLToPath(import.meta.url));
  fs.mkdirSync(path.join(root,'scripts'),{recursive:true});
- for(const f of ['review-images.mjs','review-images.html','review-exclusions.mjs','review-featured.mjs','review-local-queues.mjs','governance.mjs','x-source.mjs','audit-prompt-similarity.mjs','prompthero-preflight.mjs'])fs.copyFileSync(path.join(scripts,f),path.join(root,'scripts',f));
+ for(const f of ['review-images.mjs','review-images.html','review-image-order.mjs','review-exclusions.mjs','review-featured.mjs','review-local-queues.mjs','governance.mjs','x-source.mjs','audit-prompt-similarity.mjs','prompthero-preflight.mjs'])fs.copyFileSync(path.join(scripts,f),path.join(root,'scripts',f));
  fs.mkdirSync(path.join(root,'data/index'),{recursive:true});
  const make=(id,postId,prompt)=>({id,title:{en:id},prompt:{original:prompt},inputMode:'text-to-image',sourcePreview:{images:[{url:'https://example.com/'+id+'.jpg',role:'output'}]},provenance:{originalSource:{url:'https://example.com/'+id,postId},collectedFrom:[{sourceId:'fixture',path:'docs/gallery.md',url:'https://example.com/'+id}]},rights:{prompt:'unknown',media:'unknown'}});
  fs.writeFileSync(path.join(root,'data/index/test.json'),JSON.stringify([make('a','1','A cinematic portrait'),make('b','2','A different landscape')]));
@@ -54,4 +56,20 @@ test('local reviewer persists exclusion, rejects stale writes, restores case', {
  assert.equal((await write('unfeature',['a'],result.revision)).status,409);
  const empty=await (await write('unfeature',['a','b'],featured.revision)).json();
  assert.deepEqual(empty.featured,[]);
+});
+
+test('review order uses first import, not later shard edits; unknown dates sort last',t=>{
+ const root=fs.mkdtempSync(path.join(os.tmpdir(),'review-order-'));
+ t.after(()=>fs.rmSync(root,{recursive:true,force:true}));
+ const git=(...args)=>execFileSync('git',['-C',root,...args],{stdio:'ignore'});
+ git('init');git('config','user.name','Fixture');git('config','user.email','fixture@example.com');
+ fs.mkdirSync(path.join(root,'data/index'),{recursive:true});
+ const file=path.join(root,'data/index/shard.json');
+ const commit=(ids,date)=>{fs.writeFileSync(file,JSON.stringify(ids.map(id=>({id}))));git('add','data/index');execFileSync('git',['-C',root,'commit','-m','fixture'],{env:{...process.env,GIT_AUTHOR_DATE:date,GIT_COMMITTER_DATE:date},stdio:'ignore'});};
+ commit(['old'],'2026-01-01T00:00:00Z');commit(['old','new'],'2026-01-02T00:00:00Z');
+ const times=firstImportTimes(root,new Set(['old','new']));
+ assert.equal(times.get('old'),Date.parse('2026-01-01T00:00:00Z'));
+ assert.equal(times.get('new'),Date.parse('2026-01-02T00:00:00Z'));
+ const rows=[{id:'old'},{id:'new'},{id:'unknown'},{id:'candidate',provenance:{collectedFrom:[{collectedAt:'2026-01-03T00:00:00Z'}]}}];
+ assert.deepEqual(sortReviewCards(rows.map(r=>({...r,reviewTime:reviewTime(r,times)}))).map(r=>r.id),['candidate','new','old','unknown']);
 });

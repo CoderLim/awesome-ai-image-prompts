@@ -10,6 +10,7 @@ import { readExclusions, writeExclusions, exclusionMatches, makeExclusion } from
 
 import { readFeatured, writeFeatured } from './review-featured.mjs';
 import { readLocalReviewQueues } from './review-local-queues.mjs';
+import { firstImportTimes, reviewTime, sortReviewCards } from './review-image-order.mjs';
 
 const root=path.resolve(path.dirname(fileURLToPath(import.meta.url)),'..');
 const args=process.argv.slice(2);
@@ -38,7 +39,8 @@ candidates.push(...readLocalReviewQueues(root,known));
 const all=[...catalog,...candidates],display=[...published,...candidates];
 const displayIds=new Set(display.map(r=>r.id));
 const safeUrl=s=>{try{const u=new URL(s);return u.protocol==='https:'&&!u.username&&!u.password?u.href:null;}catch{return null;}};
-const cards=display.map(r=>{
+const importTimes=firstImportTimes(root,new Set(published.map(r=>r.id)));
+const cards=sortReviewCards(display.map(r=>{
  const images=r.sourcePreview.images.filter(m=>m.role!=='input');
  const ranked=[...images.filter(m=>m.role==='output'),...images.filter(m=>m.role!=='output')];
  const source=r.provenance.collectedFrom[0];
@@ -46,8 +48,8 @@ const cards=display.map(r=>{
   model:r.sourceMeta?.model||r.models?.map(x=>typeof x==='string'?x:x.name||x.id).filter(Boolean).join(', ')||'Unknown',
   candidate:!!r.candidate,images:[...new Set(ranked.map(m=>safeUrl(m.url)).filter(Boolean))],
   sourceUrl:safeUrl(r.provenance.originalSource.url||source.url),author:r.provenance.originalSource.author||null,
-  prompt:r.prompt.original};
-});
+  prompt:r.prompt.original,reviewTime:reviewTime(r,importTimes)};
+}));
 const token=randomBytes(32).toString('hex'),host='127.0.0.1:'+port;
 const html=fs.readFileSync(path.join(root,'scripts/review-images.html'),'utf8');
 const revision=e=>createHash('sha256').update(JSON.stringify(e)).digest('hex');
