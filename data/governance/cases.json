@@ -49001,6 +49001,856 @@
     },
     "visible": true
   },
+  "sipteaandcoffee-2049174937420918968": {
+    "type": "generation",
+    "category": "products",
+    "inputMode": "text-to-image",
+    "confidence": "medium",
+    "reason": "reviewed-collector-export",
+    "tags": [
+      "cinematic",
+      "photorealistic",
+      "product",
+      "typography"
+    ],
+    "quality": {
+      "status": "metadata-complete",
+      "score": 4,
+      "flags": [
+        "rights-review"
+      ],
+      "imageAvailability": "unchecked",
+      "imagePromptMatch": "unchecked",
+      "reproduction": "untested",
+      "rights": "pending-review"
+    },
+    "visible": true
+  },
+  "sipteaandcoffee-2049452006608392350": {
+    "type": "generation",
+    "category": "portraits",
+    "inputMode": "reference-to-image",
+    "confidence": "medium",
+    "reason": "reviewed-collector-export",
+    "tags": [
+      "ccd",
+      "photorealistic",
+      "editorial",
+      "reference-image"
+    ],
+    "quality": {
+      "status": "metadata-complete",
+      "score": 4,
+      "flags": [
+        "rights-review"
+      ],
+      "imageAvailability": "unchecked",
+      "imagePromptMatch": "unchecked",
+      "reproduction": "untested",
+      "rights": "pending-review"
+    },
+    "visible": true
+  },
+  "sipteaandcoffee-2049687864125100143": {
+    "type": "generation",
+    "category": "portraits",
+    "inputMode": "text-to-image",
+    "confidence": "medium",
+    "reason": "reviewed-collector-export",
+    "tags": [
+      "photorealistic"
+    ],
+    "quality": {
+      "status": "metadata-complete",
+      "score": 4,
+      "flags": [
+        "rights-review"
+      ],
+      "imageAvailability": "unchecked",
+      "imagePromptMatch": "unchecked",
+      "reproduction": "untested",
+      "rights": "pending-review"
+    },
+    "visible": true
+  },
+  "sipteaandcoffee-2051547841521479822": {
+    "type": "generation",
+    "category": "posters",
+    "inputMode": "text-to-image",
+    "confidence": "medium",
+    "reason": "reviewed-collector-export",
+    "tags": [
+      "photorealistic",
+      "editorial",
+      "product",
+      "typography"
+    ],
+    "quality": {
+      "status": "metadata-complete",
+      "score": 4,
+      "flags": [
+        "rights-review"
+      ],
+      "imageAvailability": "unchecked",
+      "imagePromptMatch": "unchecked",
+      "reproduction": "untested",
+      "rights": "pending-review"
+    },
+    "visible": true
+  },
+  "sipteaandcoffee-2051610507803832768": {
+    "type": "generation",
+    "category": "products",
+    "inputMode": "text-to-image",
+    "confidence": "medium",
+    "reason": "reviewed-collector-export",
+    "tags": [
+      "film",
+      "photorealistic",
+      "product",
+      "typography"
+    ],
+    "quality": {
+      "status": "metadata-complete",
+      "score": 4,
+      "flags": [
+        "rights-review"
+      ],
+      "imageAvailability": "unchecked",
+      "imagePromptMatch": "unchecked",
+      "reproduction": "untested",
+      "rights": "pending-review"
+    },
+    "visible": true
+  },
+  "sipteaandcoffee-2051658177784283264": {
+    "type": "generation",
+    "category": "portraits",
+    "inputMode": "reference-to-image",
+    "confidence": "medium",
+    "reason": "reviewed-collector-export",
+    "tags": [
+      "photorealistic",
+      "reference-image"
+    ],
+    "quality": {
+      "status": "metadata-complete",
+      "score": 4,
+      "flags": [
+        "rights-review"
+      ],
+      "imageAvailability": "unchecked",
+      "imagePromptMatch": "unchecked",
+      "reproduction": "untested",
+      "rights": "pending-review"
+    },
+    "visible": true
+  },
+  "sipteaandcoffee-2051919563051381045": {
+    "type": "generation",
+    "category": "creative-art",
+    "inputMode": "text-to-image",
+    "confidence": "medium",
+    "reason": "reviewed-collector-export",
+    "tags": [
+      "cinematic",
+      "editorial"
+    ],
+    "quality": {
+      "status": "metadata-complete",
+      "score": 4,
+      "flags": [
+        "rights-review"
+      ],
+      "imageAvailability": "unchecked",
+      "imagePromptMatch": "unchecked",
+      "reproduction": "untested",
+      "rights": "pending-review"
+    },
+    "visible": true
+  },
+  "sipteaandcoffee-2052641476153360592": {
+    "type": "generation",
+    "category": "posters",
+    "inputMode": "reference-to-image",
+    "confidence": "medium",
+    "reason": "reviewed-collector-export",
+    "tags": [
+      "cinematic",
+      "photorealistic",
+      "reference-image"
+    ],
+    "quality": {
+      "status": "metadata-complete",
+      "score": 4,
+      "flags": [
+        "rights-review"
+      ],
+      "imageAvailability": "unchecked",
+      "imagePromptMatch": "unchecked",
+      "reproduction": "untested",
+      "rights": "pending-review"
+    },
+    "visible": true
+  },
+  "sipteaandcoffee-2052815091792527512": {
+    "type": "generation",
+    "category": "infographics",
+    "inputMode": "text-to-image",
+    "confidence": "medium",
+    "reason": "reviewed-collector-export",
+    "tags": [
+      "vintage",
+      "typography",
+      "template"
+    ],
+    "quality": {
+      "status": "metadata-complete",
+      "score": 4,
+      "flags": [
+        "rights-review"
+      ],
+      "imageAvailability": "unchecked",
+      "imagePromptMatch": "unchecked",
+      "reproduction": "untested",
+      "rights": "pending-review"
+    },
+    "visible": true
+  },
+  "sipteaandcoffee-2052996112559280337": {
+    "type": "generation",
+    "category": "characters",
+    "inputMode": "reference-to-image",
+    "confidence": "medium",
+    "reason": "reviewed-collector-export",
+    "tags": [
+      "cinematic",
+      "anime",
+      "identity-preserving",
+      "reference-image"
+    ],
+    "quality": {
+      "status": "metadata-complete",
+      "score": 4,
+      "flags": [
+        "rights-review"
+      ],
+      "imageAvailability": "unchecked",
+      "imagePromptMatch": "unchecked",
+      "reproduction": "untested",
+      "rights": "pending-review"
+    },
+    "visible": true
+  },
+  "sipteaandcoffee-2053336764430139737": {
+    "type": "editing",
+    "category": "composition",
+    "inputMode": "image-editing",
+    "confidence": "medium",
+    "reason": "reviewed-collector-export",
+    "tags": [
+      "image-editing"
+    ],
+    "quality": {
+      "status": "metadata-complete",
+      "score": 4,
+      "flags": [
+        "rights-review"
+      ],
+      "imageAvailability": "unchecked",
+      "imagePromptMatch": "unchecked",
+      "reproduction": "untested",
+      "rights": "pending-review"
+    },
+    "visible": true
+  },
+  "sipteaandcoffee-2053466282419446015": {
+    "type": "generation",
+    "category": "comics-storyboards",
+    "inputMode": "text-to-image",
+    "confidence": "medium",
+    "reason": "reviewed-collector-export",
+    "tags": [
+      "cinematic",
+      "photorealistic",
+      "product",
+      "multi-panel"
+    ],
+    "quality": {
+      "status": "metadata-complete",
+      "score": 4,
+      "flags": [
+        "rights-review"
+      ],
+      "imageAvailability": "unchecked",
+      "imagePromptMatch": "unchecked",
+      "reproduction": "untested",
+      "rights": "pending-review"
+    },
+    "visible": true
+  },
+  "sipteaandcoffee-2053494585830379785": {
+    "type": "generation",
+    "category": "infographics",
+    "inputMode": "text-to-image",
+    "confidence": "medium",
+    "reason": "reviewed-collector-export",
+    "tags": [
+      "photorealistic",
+      "editorial",
+      "typography"
+    ],
+    "quality": {
+      "status": "metadata-complete",
+      "score": 4,
+      "flags": [
+        "rights-review"
+      ],
+      "imageAvailability": "unchecked",
+      "imagePromptMatch": "unchecked",
+      "reproduction": "untested",
+      "rights": "pending-review"
+    },
+    "visible": true
+  },
+  "sipteaandcoffee-2054553101236080714": {
+    "type": "generation",
+    "category": "products",
+    "inputMode": "text-to-image",
+    "confidence": "medium",
+    "reason": "reviewed-collector-export",
+    "tags": [
+      "product"
+    ],
+    "quality": {
+      "status": "metadata-complete",
+      "score": 4,
+      "flags": [
+        "rights-review"
+      ],
+      "imageAvailability": "unchecked",
+      "imagePromptMatch": "unchecked",
+      "reproduction": "untested",
+      "rights": "pending-review"
+    },
+    "visible": true
+  },
+  "sipteaandcoffee-2055546364755370155": {
+    "type": "generation",
+    "category": "portraits",
+    "inputMode": "text-to-image",
+    "confidence": "medium",
+    "reason": "reviewed-collector-export",
+    "tags": [
+      "cinematic",
+      "editorial",
+      "typography"
+    ],
+    "quality": {
+      "status": "metadata-complete",
+      "score": 4,
+      "flags": [
+        "rights-review"
+      ],
+      "imageAvailability": "unchecked",
+      "imagePromptMatch": "unchecked",
+      "reproduction": "untested",
+      "rights": "pending-review"
+    },
+    "visible": true
+  },
+  "sipteaandcoffee-2055599984750501919": {
+    "type": "generation",
+    "category": "characters",
+    "inputMode": "text-to-image",
+    "confidence": "medium",
+    "reason": "reviewed-collector-export",
+    "tags": [
+      "cinematic",
+      "photorealistic",
+      "product",
+      "typography"
+    ],
+    "quality": {
+      "status": "metadata-complete",
+      "score": 4,
+      "flags": [
+        "rights-review"
+      ],
+      "imageAvailability": "unchecked",
+      "imagePromptMatch": "unchecked",
+      "reproduction": "untested",
+      "rights": "pending-review"
+    },
+    "visible": true
+  },
+  "sipteaandcoffee-2055674237927686383": {
+    "type": "generation",
+    "category": "comics-storyboards",
+    "inputMode": "text-to-image",
+    "confidence": "medium",
+    "reason": "reviewed-collector-export",
+    "tags": [
+      "cinematic",
+      "film",
+      "photorealistic",
+      "3d",
+      "minimalist",
+      "editorial",
+      "product",
+      "typography",
+      "multi-panel"
+    ],
+    "quality": {
+      "status": "metadata-complete",
+      "score": 4,
+      "flags": [
+        "rights-review"
+      ],
+      "imageAvailability": "unchecked",
+      "imagePromptMatch": "unchecked",
+      "reproduction": "untested",
+      "rights": "pending-review"
+    },
+    "visible": true
+  },
+  "sipteaandcoffee-2056078056419393805": {
+    "type": "generation",
+    "category": "posters",
+    "inputMode": "reference-to-image",
+    "confidence": "medium",
+    "reason": "reviewed-collector-export",
+    "tags": [
+      "cinematic",
+      "minimalist",
+      "editorial",
+      "typography",
+      "reference-image"
+    ],
+    "quality": {
+      "status": "metadata-complete",
+      "score": 4,
+      "flags": [
+        "rights-review"
+      ],
+      "imageAvailability": "unchecked",
+      "imagePromptMatch": "unchecked",
+      "reproduction": "untested",
+      "rights": "pending-review"
+    },
+    "visible": true
+  },
+  "sipteaandcoffee-2057538178672943460": {
+    "type": "generation",
+    "category": "infographics",
+    "inputMode": "text-to-image",
+    "confidence": "medium",
+    "reason": "reviewed-collector-export",
+    "tags": [
+      "cinematic",
+      "photorealistic",
+      "editorial",
+      "typography"
+    ],
+    "quality": {
+      "status": "metadata-complete",
+      "score": 4,
+      "flags": [
+        "rights-review"
+      ],
+      "imageAvailability": "unchecked",
+      "imagePromptMatch": "unchecked",
+      "reproduction": "untested",
+      "rights": "pending-review"
+    },
+    "visible": true
+  },
+  "sipteaandcoffee-2061473641016299650": {
+    "type": "generation",
+    "category": "other",
+    "inputMode": "text-to-image",
+    "confidence": "medium",
+    "reason": "reviewed-collector-export",
+    "tags": [
+      "cinematic",
+      "photorealistic"
+    ],
+    "quality": {
+      "status": "metadata-complete",
+      "score": 4,
+      "flags": [
+        "classification-review",
+        "rights-review"
+      ],
+      "imageAvailability": "unchecked",
+      "imagePromptMatch": "unchecked",
+      "reproduction": "untested",
+      "rights": "pending-review"
+    },
+    "visible": true
+  },
+  "sipteaandcoffee-2062226869299323260": {
+    "type": "editing",
+    "category": "restyle",
+    "inputMode": "image-editing",
+    "confidence": "medium",
+    "reason": "reviewed-collector-export",
+    "tags": [
+      "image-editing"
+    ],
+    "quality": {
+      "status": "metadata-complete",
+      "score": 4,
+      "flags": [
+        "rights-review"
+      ],
+      "imageAvailability": "unchecked",
+      "imagePromptMatch": "unchecked",
+      "reproduction": "untested",
+      "rights": "pending-review"
+    },
+    "visible": true
+  },
+  "sipteaandcoffee-2062690114497851717": {
+    "type": "generation",
+    "category": "travel",
+    "inputMode": "text-to-image",
+    "confidence": "medium",
+    "reason": "reviewed-collector-export",
+    "tags": [
+      "cinematic",
+      "photorealistic",
+      "minimalist",
+      "editorial",
+      "typography"
+    ],
+    "quality": {
+      "status": "metadata-complete",
+      "score": 4,
+      "flags": [
+        "rights-review"
+      ],
+      "imageAvailability": "unchecked",
+      "imagePromptMatch": "unchecked",
+      "reproduction": "untested",
+      "rights": "pending-review"
+    },
+    "visible": true
+  },
+  "sipteaandcoffee-2062846034967986198": {
+    "type": "generation",
+    "category": "travel",
+    "inputMode": "text-to-image",
+    "confidence": "medium",
+    "reason": "reviewed-collector-export",
+    "tags": [
+      "cinematic",
+      "photorealistic",
+      "3d",
+      "editorial",
+      "typography"
+    ],
+    "quality": {
+      "status": "metadata-complete",
+      "score": 4,
+      "flags": [
+        "rights-review"
+      ],
+      "imageAvailability": "unchecked",
+      "imagePromptMatch": "unchecked",
+      "reproduction": "untested",
+      "rights": "pending-review"
+    },
+    "visible": true
+  },
+  "sipteaandcoffee-2063495489832784131": {
+    "type": "generation",
+    "category": "travel",
+    "inputMode": "text-to-image",
+    "confidence": "medium",
+    "reason": "reviewed-collector-export",
+    "tags": [
+      "photorealistic",
+      "3d",
+      "editorial",
+      "typography",
+      "multi-panel"
+    ],
+    "quality": {
+      "status": "metadata-complete",
+      "score": 4,
+      "flags": [
+        "rights-review"
+      ],
+      "imageAvailability": "unchecked",
+      "imagePromptMatch": "unchecked",
+      "reproduction": "untested",
+      "rights": "pending-review"
+    },
+    "visible": true
+  },
+  "sipteaandcoffee-2064034557352202253": {
+    "type": "generation",
+    "category": "products",
+    "inputMode": "text-to-image",
+    "confidence": "medium",
+    "reason": "reviewed-collector-export",
+    "tags": [
+      "3d",
+      "product",
+      "typography"
+    ],
+    "quality": {
+      "status": "metadata-complete",
+      "score": 4,
+      "flags": [
+        "rights-review"
+      ],
+      "imageAvailability": "unchecked",
+      "imagePromptMatch": "unchecked",
+      "reproduction": "untested",
+      "rights": "pending-review"
+    },
+    "visible": true
+  },
+  "sipteaandcoffee-2064207510777782352": {
+    "type": "generation",
+    "category": "products",
+    "inputMode": "text-to-image",
+    "confidence": "medium",
+    "reason": "reviewed-collector-export",
+    "tags": [
+      "cinematic",
+      "photorealistic",
+      "3d",
+      "minimalist",
+      "product"
+    ],
+    "quality": {
+      "status": "metadata-complete",
+      "score": 4,
+      "flags": [
+        "rights-review"
+      ],
+      "imageAvailability": "unchecked",
+      "imagePromptMatch": "unchecked",
+      "reproduction": "untested",
+      "rights": "pending-review"
+    },
+    "visible": true
+  },
+  "sipteaandcoffee-2064424561622634711": {
+    "type": "generation",
+    "category": "posters",
+    "inputMode": "text-to-image",
+    "confidence": "medium",
+    "reason": "reviewed-collector-export",
+    "tags": [
+      "photorealistic",
+      "editorial",
+      "typography",
+      "multi-panel"
+    ],
+    "quality": {
+      "status": "metadata-complete",
+      "score": 4,
+      "flags": [
+        "rights-review"
+      ],
+      "imageAvailability": "unchecked",
+      "imagePromptMatch": "unchecked",
+      "reproduction": "untested",
+      "rights": "pending-review"
+    },
+    "visible": true
+  },
+  "sipteaandcoffee-2065757835867144460": {
+    "type": "generation",
+    "category": "posters",
+    "inputMode": "text-to-image",
+    "confidence": "medium",
+    "reason": "reviewed-collector-export",
+    "tags": [
+      "minimalist",
+      "vintage"
+    ],
+    "quality": {
+      "status": "metadata-complete",
+      "score": 4,
+      "flags": [
+        "rights-review"
+      ],
+      "imageAvailability": "unchecked",
+      "imagePromptMatch": "unchecked",
+      "reproduction": "untested",
+      "rights": "pending-review"
+    },
+    "visible": true
+  },
+  "sipteaandcoffee-2073713796447674426": {
+    "type": "generation",
+    "category": "portraits",
+    "inputMode": "text-to-image",
+    "confidence": "medium",
+    "reason": "reviewed-collector-export",
+    "tags": [
+      "photorealistic",
+      "product"
+    ],
+    "quality": {
+      "status": "metadata-complete",
+      "score": 4,
+      "flags": [
+        "rights-review"
+      ],
+      "imageAvailability": "unchecked",
+      "imagePromptMatch": "unchecked",
+      "reproduction": "untested",
+      "rights": "pending-review"
+    },
+    "visible": true
+  },
+  "sipteaandcoffee-2076355672749592893": {
+    "type": "generation",
+    "category": "portraits",
+    "inputMode": "text-to-image",
+    "confidence": "medium",
+    "reason": "reviewed-collector-export",
+    "tags": [
+      "cinematic",
+      "photorealistic"
+    ],
+    "quality": {
+      "status": "metadata-complete",
+      "score": 4,
+      "flags": [
+        "rights-review"
+      ],
+      "imageAvailability": "unchecked",
+      "imagePromptMatch": "unchecked",
+      "reproduction": "untested",
+      "rights": "pending-review"
+    },
+    "visible": true
+  },
+  "sipteaandcoffee-2085403651070366091": {
+    "type": "generation",
+    "category": "posters",
+    "inputMode": "text-to-image",
+    "confidence": "medium",
+    "reason": "reviewed-collector-export",
+    "tags": [
+      "minimalist",
+      "editorial",
+      "multi-panel"
+    ],
+    "quality": {
+      "status": "metadata-complete",
+      "score": 4,
+      "flags": [
+        "rights-review"
+      ],
+      "imageAvailability": "unchecked",
+      "imagePromptMatch": "unchecked",
+      "reproduction": "untested",
+      "rights": "pending-review"
+    },
+    "visible": true
+  },
+  "sipteaandcoffee-2095212333597675757": {
+    "type": "editing",
+    "category": "restyle",
+    "inputMode": "image-editing",
+    "confidence": "medium",
+    "reason": "reviewed-collector-export",
+    "tags": [
+      "photorealistic",
+      "image-editing"
+    ],
+    "quality": {
+      "status": "metadata-complete",
+      "score": 4,
+      "flags": [
+        "rights-review"
+      ],
+      "imageAvailability": "unchecked",
+      "imagePromptMatch": "unchecked",
+      "reproduction": "untested",
+      "rights": "pending-review"
+    },
+    "visible": true
+  },
+  "sipteaandcoffee-2123882892279349442": {
+    "type": "generation",
+    "category": "illustrations",
+    "inputMode": "text-to-image",
+    "confidence": "medium",
+    "reason": "reviewed-collector-export",
+    "tags": [
+      "watercolor"
+    ],
+    "quality": {
+      "status": "metadata-complete",
+      "score": 4,
+      "flags": [
+        "rights-review"
+      ],
+      "imageAvailability": "unchecked",
+      "imagePromptMatch": "unchecked",
+      "reproduction": "untested",
+      "rights": "pending-review"
+    },
+    "visible": true
+  },
+  "sipteaandcoffee-2124234296877809889": {
+    "type": "generation",
+    "category": "posters",
+    "inputMode": "text-to-image",
+    "confidence": "medium",
+    "reason": "reviewed-collector-export",
+    "tags": [
+      "photorealistic",
+      "minimalist",
+      "editorial",
+      "typography"
+    ],
+    "quality": {
+      "status": "metadata-complete",
+      "score": 4,
+      "flags": [
+        "rights-review"
+      ],
+      "imageAvailability": "unchecked",
+      "imagePromptMatch": "unchecked",
+      "reproduction": "untested",
+      "rights": "pending-review"
+    },
+    "visible": true
+  },
+  "sipteaandcoffee-2124732867549053196": {
+    "type": "generation",
+    "category": "posters",
+    "inputMode": "reference-to-image",
+    "confidence": "medium",
+    "reason": "reviewed-collector-export",
+    "tags": [
+      "photorealistic",
+      "product",
+      "reference-image"
+    ],
+    "quality": {
+      "status": "metadata-complete",
+      "score": 4,
+      "flags": [
+        "rights-review"
+      ],
+      "imageAvailability": "unchecked",
+      "imagePromptMatch": "unchecked",
+      "reproduction": "untested",
+      "rights": "pending-review"
+    },
+    "visible": true
+  },
   "vcl-appmockup": {
     "type": "generation",
     "category": "ui-mockups",

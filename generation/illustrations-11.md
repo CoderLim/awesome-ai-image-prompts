@@ -70,6 +70,22 @@ By [@chorlo](https://prompthero.com/prompt/fca2a06862b-nano-banana-nano-banana-2
 
 ---
 
+<a id="sipteaandcoffee-2123882892279349442"></a>
+
+## Dragon fruit botanical natural-history plate
+
+<a href="https://pbs.twimg.com/media/HXmMK_La8AATx1V.jpg"><img src="https://pbs.twimg.com/media/HXmMK_La8AATx1V.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+A highly detailed scientific botanical study of dragon fruit (Selenicereus undatus), illustrated in the style of 19th-century natural history journals. Delicate antique ink linework, exquisite hand-painted watercolor, natural pigments, vivid magenta-pink dragon fruits with curved green bracts, whole mature fruits attached to climbing cactus stems, sliced dragon fruit revealing luminous white flesh densely scattered with tiny black seeds, detailed anatomical cross-sections, magnified seed morphology, spectacular large white night-blooming cactus flowers with golden stamens, green three-ribbed cactus stems and small spines, fine botanical leader lines, elegant handwritten Latin specimen labels in sepia ink, refined scientific plate arrangement, antique scholarly aesthetic, pristine white background, hyper-detailed museum-quality natural history illustration, 4:5 aspect ratio.
+```
+
+By [@sipteaandcoffee](https://x.com/sipteaandcoffee/status/2123882892279349442)
+
+---
+
 [1](illustrations.md) · [2](illustrations-2.md) · [3](illustrations-3.md) · [4](illustrations-4.md) · [5](illustrations-5.md) · [6](illustrations-6.md) · [7](illustrations-7.md) · [8](illustrations-8.md) · [9](illustrations-9.md) · [10](illustrations-10.md) · **11**
 
 [← Home](../README.md)

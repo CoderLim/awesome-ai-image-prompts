@@ -134,6 +134,54 @@ By [@catroom1](https://prompthero.com/prompt/6b48ea03e97-flux-flux-3-create-an-u
 
 ---
 
+<a id="sipteaandcoffee-2052641476153360592"></a>
+
+## Dark fantasy double-exposure portrait poster
+
+<a href="https://pbs.twimg.com/media/HHxyiyzawAAjBbS.jpg"><img src="https://pbs.twimg.com/media/HHxyiyzawAAjBbS.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+This ultra-cinematic dark fantasy poster is automatically generated using [" "] (face and hairstyle from the uploaded reference photo) as its outline, hyper-realistic portrait composition, a zoomed-in side profile of the subject, detailed skin textures, slightly messy, wet hair blowing in the wind, an intense and mysterious emotional expression, and an epic and dramatic atmosphere. Double exposure composition featuring multiple scenes in realistic silhouette: [ ] Realistic style, dramatic depth, volumetric lighting, [ ] (e.g., luxurious, girly, live-action, aesthetic, etc.) atmosphere, ultra-detailed textures, movie poster aesthetics, epic storytelling composition, high-contrast shadows, flexible cinematic coloring, ultra-realistic, masterpiece, sharp focus, HDR, 8K detail, Unreal Engine quality, highly detailed faces, photorealistic, fantasy adventure atmosphere. Vertical composition, compact layout, premium movie poster design, 9:16 aspect ratio, ultra HD
+```
+
+By [@sipteaandcoffee](https://x.com/sipteaandcoffee/status/2052641476153360592)
+
+---
+
+<a id="sipteaandcoffee-2056078056419393805"></a>
+
+## Monochrome streetwear editorial poster from a portrait
+
+<a href="https://pbs.twimg.com/media/HIioGD7asAAzivF.jpg"><img src="https://pbs.twimg.com/media/HIioGD7asAAzivF.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+Use my uploaded image as the face reference. Create a bold monochrome streetwear editorial poster featuring the uploaded person in oversized urban fashion, relaxed stance, hands in pockets, layered baggy clothing, sneakers, and confident rebellious attitude. Main theme keyword: "[QUEEN]". Use giant condensed typography behind the subject, handwritten signature-style script overlay, minimalist white studio background, gritty texture details, cinematic shadows, and luxury music-magazine aesthetics inspired by modern fashion campaigns. Black-and-white high-contrast photography style, full-body composition, eye-level angle, 85mm lens, ultra-sharp detail, soft studio lighting with subtle grain, premium viral poster design optimized for fashion and music culture content.
+```
+
+By [@sipteaandcoffee](https://x.com/sipteaandcoffee/status/2056078056419393805)
+
+---
+
+<a id="sipteaandcoffee-2124732867549053196"></a>
+
+## Photo to miniature brick diorama plaque
+
+<a href="https://pbs.twimg.com/media/HXyRNLcaAAAbCLy.jpg"><img src="https://pbs.twimg.com/media/HXyRNLcaAAAbCLy.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+3:4 vertical image, top 48% / bottom 52%, seamless join, no white line or border. Top: the uploaded photo, unchanged. Bottom: warm off-white textured paper background. Centered, the same scene recreated as a miniature diorama built from tiny micro building bricks with visible studs: same layout, key details and colors, on a thin brick base plate, slight three-quarter front view. Small trees, flowers, clouds, boats or people become tiny brick pieces or mini figures. Below it, a small cream plaque with two screws: the place name in bold uppercase serif, and city and country in smaller caps underneath. Soft studio light, gentle shadow, macro product photo, photorealistic. Avoid: white divider, border, extra text, watermark, logos.
+```
+
+By [@sipteaandcoffee](https://x.com/sipteaandcoffee/status/2124732867549053196)
+
+---
+
 [1](posters.md) · **2**
 
 [← Home](../README.md)

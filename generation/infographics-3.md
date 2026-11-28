@@ -118,6 +118,54 @@ Master Chief from the game Halo holding a beer mug and a galactic war on the bac
 
 ---
 
+<a id="sipteaandcoffee-2052815091792527512"></a>
+
+## Educational encyclopedia infographic template
+
+<a href="https://pbs.twimg.com/media/HH0Qcf-aAAAzWYx.jpg"><img src="https://pbs.twimg.com/media/HH0Qcf-aAAAzWYx.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+A highly detailed educational infographic poster for [SUBJECT], titled '[TITLE]'. The design features a central realistic anatomical illustration with several labeled callouts pointing to specific parts. The layout is organized into various modular boxes including: 'Quick Profile' with icons, 'Classification' list, 'Top 5 Amazing Facts', 'Size Comparison' relative to a human hand, 'Pros & Cons', and 'Detail Focus' macro circular insets on the right. The aesthetic is a vintage field guide style with a muted cream-colored parchment background, clean typography (serif and sans-serif mix), and professional scientific diagrams.
+```
+
+By [@sipteaandcoffee](https://x.com/sipteaandcoffee/status/2052815091792527512)
+
+---
+
+<a id="sipteaandcoffee-2053494585830379785"></a>
+
+## Biographical editorial infographic template
+
+<a href="https://pbs.twimg.com/media/HH96cNYakAAa3b1.jpg"><img src="https://pbs.twimg.com/media/HH96cNYakAAa3b1.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+Create a visually rich infographic about [Sadie sink]. Research their era, key achievements, turning points, and lasting impact. Use a dramatic portrait-style central illustration as the focal point, surrounded by annotated timeline segments, quote callouts, and symbolic icons representing their legacy. Style like a bold editorial spread — layered typography, color-blocked sections, and photorealistic portraiture against a dark or textured background. Dense, tactile, and magazine-quality.
+```
+
+By [@sipteaandcoffee](https://x.com/sipteaandcoffee/status/2053494585830379785)
+
+---
+
+<a id="sipteaandcoffee-2057538178672943460"></a>
+
+## Pakistan miniature world map infographic
+
+<a href="https://pbs.twimg.com/media/HI3YEWEaYAAGgjj.jpg"><img src="https://pbs.twimg.com/media/HI3YEWEaYAAGgjj.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+Create an ultra-detailed hyper-realistic 9:16 cinematic miniature world map of Pakistan, designed as a premium luxury travel-poster masterpiece where the entire country appears as a massive handcrafted floating island civilization suspended in soft atmospheric clouds. The terrain must showcase dramatic elevation and geographic diversity, including the towering snow-covered peaks of the Karakoram and Himalayas (featuring K2), lush green valleys of Hunza and Swat, dense forests, glowing rivers like the Indus, crystal-blue coastlines along the Arabian Sea, cascading waterfalls, expansive deserts like Thar and Cholistan, fertile farmland of Punjab, and serene lakes. Include futuristic cities blended with historical richness: Karachi as a sprawling coastal мегacity with glowing ports, highways, and modern skyline; Islamabad as a clean, organized capital with greenery, wide roads, and the iconic Faisal Mosque; Lahore as a cultural hub with Mughal-era architecture such as Badshahi Mosque and Lahore Fort; Peshawar and Quetta reflecting traditional architecture and mountainous backdrops. Add detailed infrastructure like highways, railways, suspension bridges, tiny moving vehicles, airplanes, and boats. Each province (Punjab, سندھ, خیبر پختونخوا, بلوچستان, گلگت بلتستان) should feel visually unique and culturally alive, represented through distinct architecture, clothing, festivals, colors, and environmental identity. Blend modern civilization with historical heritage: include shrines, mosques, forts, bazaars, truck art, and traditional markets naturally embedded into the environment. The environment must feel alive with tiny human activity, realistic lighting, atmospheric fog depth, cinematic cloud formations, reflections, and immersive depth layering. Integrate hidden storytelling elements such as street food (biryani, nihari, chapli kebab), cricket scenes, local music, wildlife (markhor), traditional clothing (shalwar kameez), rickshaws, buses, and cultural symbols subtly throughout the landscape. Design the composition in a clean minimal luxury editorial style with a bright elegant background. Place bold oversized PAKISTAN typography dominating the upper composition in a font inspired by Urdu calligraphy, with a cinematic tagline underneath like “Land of Majestic Peaks and Timeless Culture.” Add elegant minimal labels for major cities and landmarks integrated into the terrain. At the bottom, include refined infographic-style details showing: Population, Languages (Urdu, English, regional languages), Currency (PKR), Tourism highlights, Famous exports (textiles, rice, sports goods), Cultural influence, Technology growth, Cuisine, and Transportation systems. Ensure strong visual hierarchy, premium travel-documentary aesthetics, vibrant natural colors inspired by Pakistan’s landscapes, ultra-premium cinematic color grading, emotionally immersive composition, highly zoomable micro-details, and an 8K masterpiece finish that feels timeless, modern, cinematic, luxurious, culturally rich, and instantly viral.
+```
+
+By [@sipteaandcoffee](https://x.com/sipteaandcoffee/status/2057538178672943460)
+
+---
+
 <a id="vcl-blueprint"></a>
 
 ## Blueprint — Tesla Cybertruck

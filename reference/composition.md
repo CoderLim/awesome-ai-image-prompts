@@ -102,6 +102,22 @@ MAKE THE IMAGE I HAVE ATTACHED INTO A EPIC HYPERREALISTIC IMAGE ADD A EPIC ANGRY
 
 ---
 
+<a id="sipteaandcoffee-2053336764430139737"></a>
+
+## Pastel hand-drawn photo annotations
+
+<a href="https://pbs.twimg.com/media/HH7q53hbgAEl5OJ.jpg"><img src="https://pbs.twimg.com/media/HH7q53hbgAEl5OJ.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+Add hand-drawn pastel scribble lines, including outlines, swirls, arrows, and cute annotations. Include handwritten text in a casual, messy, and playful style, like notes and conversations. A soft, clean morning tone, with the sunrise peeking through, featuring water reflections, high detail, grain texture, Instagram aesthetic, and a minimal yet artistic composition.
+```
+
+By [@sipteaandcoffee](https://x.com/sipteaandcoffee/status/2053336764430139737)
+
+---
+
 **1**
 
 [← Home](../README.md)

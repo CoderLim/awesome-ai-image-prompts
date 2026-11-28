@@ -262,6 +262,54 @@ a tree made of Multiple human faces, a foggy mountain background, a foggy mounta
 
 ---
 
+<a id="sipteaandcoffee-2062690114497851717"></a>
+
+## Messi double-exposure Argentina travel campaign
+
+<a href="https://pbs.twimg.com/media/HKAluhqaQAAuBDs.jpg"><img src="https://pbs.twimg.com/media/HKAluhqaQAAuBDs.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+Ultra-premium travel tourism poster featuring Lionel Messi, designed in a sophisticated double-exposure style. A highly detailed cinematic portrait of Lionel Messi standing confidently against a warm beige minimalist background, wearing a sleek black bomber jacket and backpack, holding a smartphone in one hand. His gaze is directed upward with a determined and inspirational expression. Inside his silhouette, a breathtaking montage of Argentina's iconic landscapes and landmarks is seamlessly blended, including the colorful houses of La Boca in Buenos Aires, the majestic Perito Moreno Glacier in Patagonia, dramatic Andean mountains, the iconic Obelisco, vibrant tango streets, golden-hour reflections on the Río de la Plata, and the thundering Iguazu Falls. Small birds fly across the sunset sky, enhancing the sense of freedom and discovery. Elegant modern typography on the right side reads "ARGENTINA" in large bold letters with subtle Argentine flag accents (light blue and white). Premium tourism campaign branding includes motivational travel slogans such as "Move. Explore. Feel." and "Time to Discover." Clean luxury advertising layout, high-end magazine cover aesthetic, soft golden lighting, realistic skin texture, ultra-sharp details, cinematic color grading, professional commercial photography, destination marketing campaign, award-winning graphic design, photorealistic double exposure, depth, atmosphere, and storytelling. Style Keywords: Double exposure, luxury tourism poster, cinematic portrait photography, travel advertisement, premium branding, photorealistic, ultra-detailed, warm beige tones, golden hour lighting, editorial design, modern typography, inspirational travel campaign, 8K quality, masterpiece composition.
+```
+
+By [@sipteaandcoffee](https://x.com/sipteaandcoffee/status/2062690114497851717)
+
+---
+
+<a id="sipteaandcoffee-2062846034967986198"></a>
+
+## Isometric Pakistan travel ticket diorama
+
+<a href="https://pbs.twimg.com/media/HKCziKTXsAAWLOt.jpg"><img src="https://pbs.twimg.com/media/HKCziKTXsAAWLOt.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+Create a premium stylized 3D isometric travel poster of Pakistan designed as a floating miniature world placed on top of a large ticket, postcard, or stamp platform with perforated edges. Automatically include the most iconic and recognizable landmarks, skylines, architecture, mountains, deserts, valleys, rivers, forts, mosques, coastal areas, and cultural heritage sites associated with Pakistan. Compose everything in a compact cinematic arrangement with realistic geography and a strong, instantly recognizable national identity. Style the scene as: ultra detailed 3D diorama photorealistic miniature architecture cinematic travel advertisement luxury tourism aesthetic highly immersive but minimal clean and elegant composition realistic textures and reflections soft atmospheric haze subtle depth of field premium Instagram-worthy artwork Environment details: majestic northern mountain ranges including dramatic snow-capped peaks and deep valleys (Himalayas, Karakoram, and Hindu Kush-inspired terrain) lush green plateaus, rivers, and fertile plains flowing naturally into the landscape desert regions with warm sandy tones subtly integrated coastal Arabian Sea shoreline with harbors and calm blue water tiny boats, ferries, and sailboats in coastal areas winding rivers and curved shorelines for visual flow floating soft volumetric clouds around mountains and skyline warm golden cinematic sunlight with long elegant shadows subtle reflections on water and architectural surfaces Iconic landmarks to include (miniature but recognizable): Badshahi Mosque and Lahore Fort (Lahore heritage core) Faisal Mosque with modern geometric silhouette (Islamabad) Minar-e-Pakistan as a central national symbol Karachi skyline with modern high-rises and coastal port activity Makran Coastline cliffs and beaches Hunza Valley-style traditional villages and terraced landscapes Fairy Meadows–inspired alpine scenery near towering peaks Add tiny realistic miniature people naturally placed near landmarks and landscapes: tourists taking photos at monuments couples walking through scenic viewpoints travelers near waterfronts and mountain trails small silhouettes for scale only avoid crowds or clutter Typography: On the blank white ticket/poster area, automatically add: the destination name in large bold elegant typography: PAKISTAN a short poetic luxury-travel-style tagline such as: “Where mountains touch history and rivers write stories” Typography style: modern sans-serif premium travel poster design minimal and elegant subtle shadows and refined spacing Background: smooth vibrant gradient background inspired by Pakistan’s natural palette (emerald green, sandstone gold, deep ocean blue, snowy white) minimal distractions generous negative space around the floating island platform Composition: floating centered isometric platform balanced harmony between mountains, cities, coast, and typography destination feels suspended in air like a collectible world cinematic framing visually clean, uncluttered, premium editorial finish Aspect ratio: 1:1 Extremely detailed, cinematic, modern, premium, luxurious, artistic, visually striking travel-poster aesthetic.
+```
+
+By [@sipteaandcoffee](https://x.com/sipteaandcoffee/status/2062846034967986198)
+
+---
+
+<a id="sipteaandcoffee-2063495489832784131"></a>
+
+## Pastel paper-collage Pakistan travel poster
+
+<a href="https://pbs.twimg.com/media/HKMCNYJasAAsASL.jpg"><img src="https://pbs.twimg.com/media/HKMCNYJasAAsASL.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+PASTEL PAPER-COLLAGE STYLE META PROMPT Create a refined wide landscape illustration of Pakistan, naturally featuring Faisal Mosque as the main recognizable visual anchor. CORE STYLE: Depict Pakistan as a calm, elegant, highly stylized scene in a toned-down pastel paper-collage poster style. The scene should feel minimal, clean, poetic, modern, cultured, leisurely, and softly cheerful rather than realistic. COMPOSITION: Use a spacious horizontal composition. Place Faisal Mosque as the central focus, clearly recognizable through its iconic triangular tent-like architecture and soaring minarets rising above the layered landscape. Surround it with simplified representations of the Margalla Hills, Hunza Valley mountains, Badshahi Mosque silhouettes, Lahore Fort elements, traditional villages, winding rivers, terraced fields, and regional cultural details. Reinterpret everything in highly stylized illustrated forms using clean geometric shapes, layered color planes, soft curves, crisp silhouettes, and paper-like cutout forms. Avoid photorealism. VISUAL ELEMENTS: Include minimal charming details: tiny strolling figures, cyclists, traditional market scenes, colorful trucks, boats on the Indus River, flowering trees, grazing animals, and small architectural accents inspired by Pakistan's diverse regions. Use a calm open sky with generous breathing space and clean horizontal layered divisions suggesting depth and atmosphere. COLOR PALETTE (Toned-Down Pastels): Soft sky blue, hazy blue-gray, pale cobalt, muted sage green, powder mint, warm cream, light beige, pale stone gray, dusty coral, soft peach, muted yellow, off-white, with subtle accents of emerald green, turquoise, terracotta, and deep navy inspired by Pakistani art, textiles, and landscapes. TACTILE QUALITY: The image should feel tactile and handmade, like carefully arranged colored paper and gouache-painted poster board. Add subtle paper grain, matte printed texture, soft raised edges, delicate embossing, slight cut-paper shadows, and gentle surface roughness. Keep the surface refined and minimal, not messy. VISUAL LANGUAGE: Minimal paper collage, pastel travel poster, flat graphic shapes, subtle 3D paper relief, clean silhouettes, simplified architecture, soft matte texture, crisp color fields, gentle shadows, minimal linework, refined editorial illustration, modern South Asian cultural poster mood. Wide landscape format, balanced negative space, strong graphic layering, clear focal area, simplified zones arranged harmoniously, airy, composed, and visually restful. LIGHTING & MOOD: Bright soft daylight, clean atmosphere, gentle shadows, warm relaxed tone, cultured and optimistic mood, quiet and sophisticated travel-poster feeling. TYPOGRAPHY (Upper-left corner): Main title "PAKISTAN" in geometric uppercase sans-serif font with wide letter-spacing, solid white color. Below: smaller native text "پاکستان · Pakistan" and English subtext "Faisal Mosque & Northern Landscapes", all in matching white, left-aligned, thin stroke weights with airy spacious tracking. AVOID: Photorealism, realistic photography, over-detailed buildings, heavy outlines, messy brushwork, neon cyberpunk style, dark gloomy lighting, excessive gradients, crowded scenes, readable signage, logos, watermarks. FINAL RESULT: A polished minimal pastel paper-collage landscape illustration of Pakistan, with Faisal Mosque as the main recognizable visual anchor, featuring tactile paper texture, soft shadows, clean geometric color blocking, generous negative space, and a refined modern travel-illustration mood that celebrates the country's natural beauty, cultural heritage, mountains, rivers, and iconic architecture.
+```
+
+By [@sipteaandcoffee](https://x.com/sipteaandcoffee/status/2063495489832784131)
+
+---
+
 [1](travel.md) · [2](travel-2.md) · **3**
 
 [← Home](../README.md)

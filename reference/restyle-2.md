@@ -22,6 +22,38 @@ Crear un retrato en estilo ilustración 3D tipo Pixar de alta calidad, mantenien
 
 ---
 
+<a id="sipteaandcoffee-2062226869299323260"></a>
+
+## Freeform character sketchbook from a photo
+
+<a href="https://pbs.twimg.com/media/HJ6AaCFbsAAwk9x.jpg"><img src="https://pbs.twimg.com/media/HJ6AaCFbsAAwk9x.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+Draw the character in the image, (me) in a free and stripped colored sketch style. On a bright white background, freely distribute full-body drawings, face close-ups, small scribbles, full-body sketches and chibi/deformed versions, so that the page conveys the character's humor and personality. Don't do it like an organized character sheet, but like a sketchbook full of information drawn at will by an illustrator and then stacked. The written make it in Urdu
+```
+
+By [@sipteaandcoffee](https://x.com/sipteaandcoffee/status/2062226869299323260)
+
+---
+
+<a id="sipteaandcoffee-2095212333597675757"></a>
+
+## Playful crayon doodles on realistic photos
+
+<a href="https://pbs.twimg.com/media/HROwfSPbcAAnft4.jpg"><img src="https://pbs.twimg.com/media/HROwfSPbcAAnft4.jpg" width="480" alt="Source example"></a>
+
+**Prompt**
+
+```text
+Keep the original photo fully realistic and unchanged. Add playful hand-drawn doodles directly onto the photo, as if someone casually drew over a printed snapshot with crayons and markers. Randomly choose 2–4 creative interventions based on the scene: redraw parts of the clothing as colorful crayon outfits, extend or replace accessories with doodle versions, add funny objects or props, simple hearts, stars, arrows, utensils, flowers, symbols, or short handwritten annotations. Use rough black outlines, chunky uneven strokes, flat bright colors, visible waxy crayon texture, imperfect childlike coloring, and slightly messy hand-drawn edges. Make the doodles naturally interact with the people and objects in the photo and follow their body shapes, poses, and perspective. Keep faces, skin, hair, hands, and the environment photorealistic. Do not cartoonize the entire image. Each photo should receive a different, spontaneous combination of doodles, like a quirky personal photo diary.
+```
+
+By [@sipteaandcoffee](https://x.com/sipteaandcoffee/status/2095212333597675757)
+
+---
+
 [1](restyle.md) · **2**
 
 [← Home](../README.md)

@@ -54,11 +54,19 @@
       "pairing": "same-post-reported-by-collector",
       "imageVerification": "source-reported media URLs; HTTP and visual match unchecked",
       "review": {
-        "qualityStatus": "candidate",
+        "qualityStatus": "recommended",
         "classificationConfidence": "medium",
         "classificationMethod": "collector-review",
         "inputMode": "text-to-image",
         "category": "products"
+      },
+      "publicationReview": {
+        "reviewer": "AI text and duplicate first pass",
+        "promptHash": "a1376887f706a6aab9472b18a97b3283b0acfad9df7cefb7c1a925382faefe9c",
+        "duplicate": {
+          "status": "cleared",
+          "evidence": "Reviewed candidate concepts and exact source/prompt conflicts against existing catalog; unresolved similarity and media candidates remain blocked by planImport."
+        }
       }
     }
   },
@@ -117,11 +125,19 @@
       "pairing": "same-post-reported-by-collector",
       "imageVerification": "source-reported media URLs; HTTP and visual match unchecked",
       "review": {
-        "qualityStatus": "candidate",
+        "qualityStatus": "recommended",
         "classificationConfidence": "medium",
         "classificationMethod": "collector-review",
         "inputMode": "reference-to-image",
         "category": "portraits"
+      },
+      "publicationReview": {
+        "reviewer": "AI text and duplicate first pass",
+        "promptHash": "f2485e1b149a973ccbcac4d2abdf5a1434fa6b6ed64e2ea2b265efde296a6b65",
+        "duplicate": {
+          "status": "cleared",
+          "evidence": "Reviewed candidate concepts and exact source/prompt conflicts against existing catalog; unresolved similarity and media candidates remain blocked by planImport."
+        }
       }
     }
   },
@@ -180,11 +196,19 @@
       "pairing": "same-post-reported-by-collector",
       "imageVerification": "source-reported media URLs; HTTP and visual match unchecked",
       "review": {
-        "qualityStatus": "candidate",
+        "qualityStatus": "recommended",
         "classificationConfidence": "medium",
         "classificationMethod": "collector-review",
         "inputMode": "text-to-image",
         "category": "portraits"
+      },
+      "publicationReview": {
+        "reviewer": "AI text and duplicate first pass",
+        "promptHash": "879c37db011ce514e159d7a281a78320818a7a0fb53cdb181f404c2338452599",
+        "duplicate": {
+          "status": "cleared",
+          "evidence": "Reviewed candidate concepts and exact source/prompt conflicts against existing catalog; unresolved similarity and media candidates remain blocked by planImport."
+        }
       }
     }
   },
@@ -243,11 +267,19 @@
       "pairing": "same-post-reported-by-collector",
       "imageVerification": "source-reported media URLs; HTTP and visual match unchecked",
       "review": {
-        "qualityStatus": "candidate",
+        "qualityStatus": "recommended",
         "classificationConfidence": "medium",
         "classificationMethod": "collector-review",
         "inputMode": "text-to-image",
         "category": "posters"
+      },
+      "publicationReview": {
+        "reviewer": "AI text and duplicate first pass",
+        "promptHash": "464680bd79f8fb0bf79c6921de973770e5ef993d5a960c9af2959591bfefa982",
+        "duplicate": {
+          "status": "cleared",
+          "evidence": "Reviewed candidate concepts and exact source/prompt conflicts against existing catalog; unresolved similarity and media candidates remain blocked by planImport."
+        }
       }
     }
   },
@@ -306,11 +338,19 @@
       "pairing": "same-post-reported-by-collector",
       "imageVerification": "source-reported media URLs; HTTP and visual match unchecked",
       "review": {
-        "qualityStatus": "candidate",
+        "qualityStatus": "recommended",
         "classificationConfidence": "medium",
         "classificationMethod": "collector-review",
         "inputMode": "text-to-image",
         "category": "products"
+      },
+      "publicationReview": {
+        "reviewer": "AI text and duplicate first pass",
+        "promptHash": "f10915276d5adb1eb62893cd76c98cf1c212020b27b71694dd662c4125f0bf5a",
+        "duplicate": {
+          "status": "cleared",
+          "evidence": "Reviewed candidate concepts and exact source/prompt conflicts against existing catalog; unresolved similarity and media candidates remain blocked by planImport."
+        }
       }
     }
   },
@@ -373,11 +413,19 @@
       "pairing": "same-post-reported-by-collector",
       "imageVerification": "source-reported media URLs; HTTP and visual match unchecked",
       "review": {
-        "qualityStatus": "candidate",
+        "qualityStatus": "recommended",
         "classificationConfidence": "medium",
         "classificationMethod": "collector-review",
         "inputMode": "reference-to-image",
         "category": "portraits"
+      },
+      "publicationReview": {
+        "reviewer": "AI text and duplicate first pass",
+        "promptHash": "69a101368bd2347522526a969ce2ebbce3f7a1c5b7fd6b6b1effeac15da19d4b",
+        "duplicate": {
+          "status": "cleared",
+          "evidence": "Reviewed candidate concepts and exact source/prompt conflicts against existing catalog; unresolved similarity and media candidates remain blocked by planImport."
+        }
       }
     }
   },
@@ -440,11 +488,19 @@
       "pairing": "same-post-reported-by-collector",
       "imageVerification": "source-reported media URLs; HTTP and visual match unchecked",
       "review": {
-        "qualityStatus": "candidate",
+        "qualityStatus": "recommended",
         "classificationConfidence": "medium",
         "classificationMethod": "collector-review",
         "inputMode": "text-to-image",
         "category": "creative-art"
+      },
+      "publicationReview": {
+        "reviewer": "AI text and duplicate first pass",
+        "promptHash": "cb96f44fa1d36a5f967ac06f7405655e09456764a422f1a522e51b453bce196b",
+        "duplicate": {
+          "status": "cleared",
+          "evidence": "Reviewed candidate concepts and exact source/prompt conflicts against existing catalog; unresolved similarity and media candidates remain blocked by planImport."
+        }
       }
     }
   },
@@ -503,11 +559,19 @@
       "pairing": "same-post-reported-by-collector",
       "imageVerification": "source-reported media URLs; HTTP and visual match unchecked",
       "review": {
-        "qualityStatus": "candidate",
+        "qualityStatus": "recommended",
         "classificationConfidence": "medium",
         "classificationMethod": "collector-review",
         "inputMode": "reference-to-image",
         "category": "posters"
+      },
+      "publicationReview": {
+        "reviewer": "AI text and duplicate first pass",
+        "promptHash": "a398511a24a04ef41273a1cd1b8e029dde061772b749575aa0f1b9f71d76a313",
+        "duplicate": {
+          "status": "cleared",
+          "evidence": "Reviewed candidate concepts and exact source/prompt conflicts against existing catalog; unresolved similarity and media candidates remain blocked by planImport."
+        }
       }
     }
   },
@@ -570,11 +634,19 @@
       "pairing": "same-post-reported-by-collector",
       "imageVerification": "source-reported media URLs; HTTP and visual match unchecked",
       "review": {
-        "qualityStatus": "candidate",
+        "qualityStatus": "recommended",
         "classificationConfidence": "medium",
         "classificationMethod": "collector-review",
         "inputMode": "text-to-image",
         "category": "infographics"
+      },
+      "publicationReview": {
+        "reviewer": "AI text and duplicate first pass",
+        "promptHash": "19a0e1c059510ca6eaf51f7149cdd941460f2c3f335b7cc122139a067cbe1dc1",
+        "duplicate": {
+          "status": "cleared",
+          "evidence": "Reviewed candidate concepts and exact source/prompt conflicts against existing catalog; unresolved similarity and media candidates remain blocked by planImport."
+        }
       }
     }
   },
@@ -633,11 +705,19 @@
       "pairing": "same-post-reported-by-collector",
       "imageVerification": "source-reported media URLs; HTTP and visual match unchecked",
       "review": {
-        "qualityStatus": "candidate",
+        "qualityStatus": "recommended",
         "classificationConfidence": "medium",
         "classificationMethod": "collector-review",
         "inputMode": "reference-to-image",
         "category": "characters"
+      },
+      "publicationReview": {
+        "reviewer": "AI text and duplicate first pass",
+        "promptHash": "2c6db4412f6b61aad610a42e85a8345d117a1df3b6f9c49754d096f5173adc8b",
+        "duplicate": {
+          "status": "cleared",
+          "evidence": "Reviewed candidate concepts and exact source/prompt conflicts against existing catalog; unresolved similarity and media candidates remain blocked by planImport."
+        }
       }
     }
   },
@@ -696,11 +776,19 @@
       "pairing": "same-post-reported-by-collector",
       "imageVerification": "source-reported media URLs; HTTP and visual match unchecked",
       "review": {
-        "qualityStatus": "candidate",
+        "qualityStatus": "recommended",
         "classificationConfidence": "medium",
         "classificationMethod": "collector-review",
         "inputMode": "image-editing",
         "category": "composition"
+      },
+      "publicationReview": {
+        "reviewer": "AI text and duplicate first pass",
+        "promptHash": "106820f940ee7cd4d79d65b933d0f933f73e287124a88ba058002413e0440fd5",
+        "duplicate": {
+          "status": "cleared",
+          "evidence": "Reviewed candidate concepts and exact source/prompt conflicts against existing catalog; unresolved similarity and media candidates remain blocked by planImport."
+        }
       }
     }
   },
@@ -759,11 +847,19 @@
       "pairing": "same-post-reported-by-collector",
       "imageVerification": "source-reported media URLs; HTTP and visual match unchecked",
       "review": {
-        "qualityStatus": "candidate",
+        "qualityStatus": "recommended",
         "classificationConfidence": "medium",
         "classificationMethod": "collector-review",
         "inputMode": "text-to-image",
         "category": "comics-storyboards"
+      },
+      "publicationReview": {
+        "reviewer": "AI text and duplicate first pass",
+        "promptHash": "f017d26b93e4f860bf2c9b91e5532ea9328244eaf49baacc92bd5adfbe270f6e",
+        "duplicate": {
+          "status": "cleared",
+          "evidence": "Reviewed candidate concepts and exact source/prompt conflicts against existing catalog; unresolved similarity and media candidates remain blocked by planImport."
+        }
       }
     }
   },
@@ -826,11 +922,19 @@
       "pairing": "same-post-reported-by-collector",
       "imageVerification": "source-reported media URLs; HTTP and visual match unchecked",
       "review": {
-        "qualityStatus": "candidate",
+        "qualityStatus": "recommended",
         "classificationConfidence": "medium",
         "classificationMethod": "collector-review",
         "inputMode": "text-to-image",
         "category": "infographics"
+      },
+      "publicationReview": {
+        "reviewer": "AI text and duplicate first pass",
+        "promptHash": "22a30a6be6ed48b0b00fed0d911a857755c841d18ed8084267a903152cc216a4",
+        "duplicate": {
+          "status": "cleared",
+          "evidence": "Reviewed candidate concepts and exact source/prompt conflicts against existing catalog; unresolved similarity and media candidates remain blocked by planImport."
+        }
       }
     }
   },
@@ -897,11 +1001,19 @@
       "pairing": "same-post-reported-by-collector",
       "imageVerification": "source-reported media URLs; HTTP and visual match unchecked",
       "review": {
-        "qualityStatus": "candidate",
+        "qualityStatus": "recommended",
         "classificationConfidence": "medium",
         "classificationMethod": "collector-review",
         "inputMode": "text-to-image",
         "category": "products"
+      },
+      "publicationReview": {
+        "reviewer": "AI text and duplicate first pass",
+        "promptHash": "d2a3b61b9bb0d67d7c58eb4e5e9e5c3f334f1e7a3a64a62917d54a6d1eb00179",
+        "duplicate": {
+          "status": "cleared",
+          "evidence": "Reviewed candidate concepts and exact source/prompt conflicts against existing catalog; unresolved similarity and media candidates remain blocked by planImport."
+        }
       }
     }
   },
@@ -960,11 +1072,19 @@
       "pairing": "same-post-reported-by-collector",
       "imageVerification": "source-reported media URLs; HTTP and visual match unchecked",
       "review": {
-        "qualityStatus": "candidate",
+        "qualityStatus": "recommended",
         "classificationConfidence": "medium",
         "classificationMethod": "collector-review",
         "inputMode": "text-to-image",
         "category": "portraits"
+      },
+      "publicationReview": {
+        "reviewer": "AI text and duplicate first pass",
+        "promptHash": "9e33fac069a4f5b27c5f572c3a58f882a1226054ea39d01ebc801fe447eebe0d",
+        "duplicate": {
+          "status": "cleared",
+          "evidence": "Reviewed candidate concepts and exact source/prompt conflicts against existing catalog; unresolved similarity and media candidates remain blocked by planImport."
+        }
       }
     }
   },
@@ -1023,11 +1143,19 @@
       "pairing": "same-post-reported-by-collector",
       "imageVerification": "source-reported media URLs; HTTP and visual match unchecked",
       "review": {
-        "qualityStatus": "candidate",
+        "qualityStatus": "recommended",
         "classificationConfidence": "medium",
         "classificationMethod": "collector-review",
         "inputMode": "text-to-image",
         "category": "characters"
+      },
+      "publicationReview": {
+        "reviewer": "AI text and duplicate first pass",
+        "promptHash": "cfd0b2e23ab99e7cac6eb40881a17e9dc16afa2e0db607128d4873e2afabab15",
+        "duplicate": {
+          "status": "cleared",
+          "evidence": "Reviewed candidate concepts and exact source/prompt conflicts against existing catalog; unresolved similarity and media candidates remain blocked by planImport."
+        }
       }
     }
   },
@@ -1086,11 +1214,19 @@
       "pairing": "same-post-reported-by-collector",
       "imageVerification": "source-reported media URLs; HTTP and visual match unchecked",
       "review": {
-        "qualityStatus": "candidate",
+        "qualityStatus": "recommended",
         "classificationConfidence": "medium",
         "classificationMethod": "collector-review",
         "inputMode": "text-to-image",
         "category": "comics-storyboards"
+      },
+      "publicationReview": {
+        "reviewer": "AI text and duplicate first pass",
+        "promptHash": "f46606cdcde950665967bf1e8c92b03db800cf6a826117d490dacfea05866e91",
+        "duplicate": {
+          "status": "cleared",
+          "evidence": "Reviewed candidate concepts and exact source/prompt conflicts against existing catalog; unresolved similarity and media candidates remain blocked by planImport."
+        }
       }
     }
   },
@@ -1149,11 +1285,19 @@
       "pairing": "same-post-reported-by-collector",
       "imageVerification": "source-reported media URLs; HTTP and visual match unchecked",
       "review": {
-        "qualityStatus": "candidate",
+        "qualityStatus": "recommended",
         "classificationConfidence": "medium",
         "classificationMethod": "collector-review",
         "inputMode": "reference-to-image",
         "category": "posters"
+      },
+      "publicationReview": {
+        "reviewer": "AI text and duplicate first pass",
+        "promptHash": "17aaa4eca0eef0d9f31fe30a9b3da65322fd6bb768ecbe8371977faafd617f15",
+        "duplicate": {
+          "status": "cleared",
+          "evidence": "Reviewed candidate concepts and exact source/prompt conflicts against existing catalog; unresolved similarity and media candidates remain blocked by planImport."
+        }
       }
     }
   },
@@ -1212,11 +1356,19 @@
       "pairing": "same-post-reported-by-collector",
       "imageVerification": "source-reported media URLs; HTTP and visual match unchecked",
       "review": {
-        "qualityStatus": "candidate",
+        "qualityStatus": "recommended",
         "classificationConfidence": "medium",
         "classificationMethod": "collector-review",
         "inputMode": "text-to-image",
         "category": "infographics"
+      },
+      "publicationReview": {
+        "reviewer": "AI text and duplicate first pass",
+        "promptHash": "8832808b7a3041fa3dec19549de4793a5eecace5d9644a5ee2cb9f35939afea9",
+        "duplicate": {
+          "status": "cleared",
+          "evidence": "Reviewed candidate concepts and exact source/prompt conflicts against existing catalog; unresolved similarity and media candidates remain blocked by planImport."
+        }
       }
     }
   },
@@ -1275,11 +1427,19 @@
       "pairing": "same-post-reported-by-collector",
       "imageVerification": "source-reported media URLs; HTTP and visual match unchecked",
       "review": {
-        "qualityStatus": "candidate",
+        "qualityStatus": "recommended",
         "classificationConfidence": "medium",
         "classificationMethod": "collector-review",
         "inputMode": "text-to-image",
         "category": "other"
+      },
+      "publicationReview": {
+        "reviewer": "AI text and duplicate first pass",
+        "promptHash": "1fe710da53a9aeda33b32b69f45069a1cce6804ca1285c06ef2aebfc4e2093a6",
+        "duplicate": {
+          "status": "cleared",
+          "evidence": "Reviewed candidate concepts and exact source/prompt conflicts against existing catalog; unresolved similarity and media candidates remain blocked by planImport."
+        }
       }
     }
   },
@@ -1338,11 +1498,19 @@
       "pairing": "same-post-reported-by-collector",
       "imageVerification": "source-reported media URLs; HTTP and visual match unchecked",
       "review": {
-        "qualityStatus": "candidate",
+        "qualityStatus": "recommended",
         "classificationConfidence": "medium",
         "classificationMethod": "collector-review",
         "inputMode": "image-editing",
         "category": "restyle"
+      },
+      "publicationReview": {
+        "reviewer": "AI text and duplicate first pass",
+        "promptHash": "04ef9be9a17d041e41419101683f82db225281303b51880260051741c4e7a740",
+        "duplicate": {
+          "status": "cleared",
+          "evidence": "Reviewed candidate concepts and exact source/prompt conflicts against existing catalog; unresolved similarity and media candidates remain blocked by planImport."
+        }
       }
     }
   },
@@ -1401,11 +1569,19 @@
       "pairing": "same-post-reported-by-collector",
       "imageVerification": "source-reported media URLs; HTTP and visual match unchecked",
       "review": {
-        "qualityStatus": "candidate",
+        "qualityStatus": "recommended",
         "classificationConfidence": "medium",
         "classificationMethod": "collector-review",
         "inputMode": "text-to-image",
         "category": "travel"
+      },
+      "publicationReview": {
+        "reviewer": "AI text and duplicate first pass",
+        "promptHash": "f314084c986284e4cd5139ef818edb2e5c3caae4b5dd35329a44779844d1bc6e",
+        "duplicate": {
+          "status": "cleared",
+          "evidence": "Reviewed candidate concepts and exact source/prompt conflicts against existing catalog; unresolved similarity and media candidates remain blocked by planImport."
+        }
       }
     }
   },
@@ -1464,11 +1640,19 @@
       "pairing": "same-post-reported-by-collector",
       "imageVerification": "source-reported media URLs; HTTP and visual match unchecked",
       "review": {
-        "qualityStatus": "candidate",
+        "qualityStatus": "recommended",
         "classificationConfidence": "medium",
         "classificationMethod": "collector-review",
         "inputMode": "text-to-image",
         "category": "travel"
+      },
+      "publicationReview": {
+        "reviewer": "AI text and duplicate first pass",
+        "promptHash": "bbec5ffd814550bf7d58e9bb3bdaa364fa0ffeaba3c111d413d56cb53be3d135",
+        "duplicate": {
+          "status": "cleared",
+          "evidence": "Reviewed candidate concepts and exact source/prompt conflicts against existing catalog; unresolved similarity and media candidates remain blocked by planImport."
+        }
       }
     }
   },
@@ -1527,11 +1711,19 @@
       "pairing": "same-post-reported-by-collector",
       "imageVerification": "source-reported media URLs; HTTP and visual match unchecked",
       "review": {
-        "qualityStatus": "candidate",
+        "qualityStatus": "recommended",
         "classificationConfidence": "medium",
         "classificationMethod": "collector-review",
         "inputMode": "text-to-image",
         "category": "travel"
+      },
+      "publicationReview": {
+        "reviewer": "AI text and duplicate first pass",
+        "promptHash": "64e520193594a56101b24644f9dc2d09faad8fe9117daf066b62b609f22f1ef2",
+        "duplicate": {
+          "status": "cleared",
+          "evidence": "Reviewed candidate concepts and exact source/prompt conflicts against existing catalog; unresolved similarity and media candidates remain blocked by planImport."
+        }
       }
     }
   },
@@ -1590,11 +1782,19 @@
       "pairing": "same-post-reported-by-collector",
       "imageVerification": "source-reported media URLs; HTTP and visual match unchecked",
       "review": {
-        "qualityStatus": "candidate",
+        "qualityStatus": "recommended",
         "classificationConfidence": "medium",
         "classificationMethod": "collector-review",
         "inputMode": "text-to-image",
         "category": "products"
+      },
+      "publicationReview": {
+        "reviewer": "AI text and duplicate first pass",
+        "promptHash": "d5369a88254fe2e15c543575486d31dbd982017589bcb99fa6ba9b969bc4a851",
+        "duplicate": {
+          "status": "cleared",
+          "evidence": "Reviewed candidate concepts and exact source/prompt conflicts against existing catalog; unresolved similarity and media candidates remain blocked by planImport."
+        }
       }
     }
   },
@@ -1653,11 +1853,19 @@
       "pairing": "same-post-reported-by-collector",
       "imageVerification": "source-reported media URLs; HTTP and visual match unchecked",
       "review": {
-        "qualityStatus": "candidate",
+        "qualityStatus": "recommended",
         "classificationConfidence": "medium",
         "classificationMethod": "collector-review",
         "inputMode": "text-to-image",
         "category": "products"
+      },
+      "publicationReview": {
+        "reviewer": "AI text and duplicate first pass",
+        "promptHash": "0f35b3ed0f2edc4205ca00b29f4c66fb769e1b2cd0d53579a4acd460bca3006f",
+        "duplicate": {
+          "status": "cleared",
+          "evidence": "Reviewed candidate concepts and exact source/prompt conflicts against existing catalog; unresolved similarity and media candidates remain blocked by planImport."
+        }
       }
     }
   },
@@ -1716,11 +1924,19 @@
       "pairing": "same-post-reported-by-collector",
       "imageVerification": "source-reported media URLs; HTTP and visual match unchecked",
       "review": {
-        "qualityStatus": "candidate",
+        "qualityStatus": "recommended",
         "classificationConfidence": "medium",
         "classificationMethod": "collector-review",
         "inputMode": "text-to-image",
         "category": "posters"
+      },
+      "publicationReview": {
+        "reviewer": "AI text and duplicate first pass",
+        "promptHash": "5108c805e13f9d7acadb3bc49d236e97a63340dc808975a7a85bd7178fb56feb",
+        "duplicate": {
+          "status": "cleared",
+          "evidence": "Reviewed candidate concepts and exact source/prompt conflicts against existing catalog; unresolved similarity and media candidates remain blocked by planImport."
+        }
       }
     }
   },
@@ -1791,11 +2007,19 @@
       "pairing": "same-post-reported-by-collector",
       "imageVerification": "source-reported media URLs; HTTP and visual match unchecked",
       "review": {
-        "qualityStatus": "candidate",
+        "qualityStatus": "recommended",
         "classificationConfidence": "medium",
         "classificationMethod": "collector-review",
         "inputMode": "text-to-image",
         "category": "posters"
+      },
+      "publicationReview": {
+        "reviewer": "AI text and duplicate first pass",
+        "promptHash": "b4295712c09015a61b40f8bd4b574d7c306e64f3afba27e7404a9f4668e8fc66",
+        "duplicate": {
+          "status": "cleared",
+          "evidence": "Reviewed candidate concepts and exact source/prompt conflicts against existing catalog; unresolved similarity and media candidates remain blocked by planImport."
+        }
       }
     }
   },
@@ -1862,11 +2086,19 @@
       "pairing": "same-post-reported-by-collector",
       "imageVerification": "source-reported media URLs; HTTP and visual match unchecked",
       "review": {
-        "qualityStatus": "candidate",
+        "qualityStatus": "recommended",
         "classificationConfidence": "medium",
         "classificationMethod": "collector-review",
         "inputMode": "text-to-image",
         "category": "portraits"
+      },
+      "publicationReview": {
+        "reviewer": "AI text and duplicate first pass",
+        "promptHash": "de65a975be2427d0414e1e4b717b3c7af0651501f8a6c654e091eb0ea51bc131",
+        "duplicate": {
+          "status": "cleared",
+          "evidence": "Reviewed candidate concepts and exact source/prompt conflicts against existing catalog; unresolved similarity and media candidates remain blocked by planImport."
+        }
       }
     }
   },
@@ -1933,11 +2165,19 @@
       "pairing": "same-post-reported-by-collector",
       "imageVerification": "source-reported media URLs; HTTP and visual match unchecked",
       "review": {
-        "qualityStatus": "candidate",
+        "qualityStatus": "recommended",
         "classificationConfidence": "medium",
         "classificationMethod": "collector-review",
         "inputMode": "text-to-image",
         "category": "portraits"
+      },
+      "publicationReview": {
+        "reviewer": "AI text and duplicate first pass",
+        "promptHash": "0b342a7b2d1fac89c8e4957487a95985c138ec2d95888a94cec263c9b94abb5a",
+        "duplicate": {
+          "status": "cleared",
+          "evidence": "Reviewed candidate concepts and exact source/prompt conflicts against existing catalog; unresolved similarity and media candidates remain blocked by planImport."
+        }
       }
     }
   },
@@ -2008,11 +2248,19 @@
       "pairing": "same-post-reported-by-collector",
       "imageVerification": "source-reported media URLs; HTTP and visual match unchecked",
       "review": {
-        "qualityStatus": "candidate",
+        "qualityStatus": "recommended",
         "classificationConfidence": "medium",
         "classificationMethod": "collector-review",
         "inputMode": "text-to-image",
         "category": "posters"
+      },
+      "publicationReview": {
+        "reviewer": "AI text and duplicate first pass",
+        "promptHash": "d640617468c223135fd108b995b68f9aa318d6a1e32b322c39515558b523765b",
+        "duplicate": {
+          "status": "cleared",
+          "evidence": "Reviewed candidate concepts and exact source/prompt conflicts against existing catalog; unresolved similarity and media candidates remain blocked by planImport."
+        }
       }
     }
   },
@@ -2079,11 +2327,19 @@
       "pairing": "same-post-reported-by-collector",
       "imageVerification": "source-reported media URLs; HTTP and visual match unchecked",
       "review": {
-        "qualityStatus": "candidate",
+        "qualityStatus": "recommended",
         "classificationConfidence": "medium",
         "classificationMethod": "collector-review",
         "inputMode": "image-editing",
         "category": "restyle"
+      },
+      "publicationReview": {
+        "reviewer": "AI text and duplicate first pass",
+        "promptHash": "5bcebe53fa03dba9e7e6fec9965903313b9d8d39a31d33a4f2ffe5c1877e497d",
+        "duplicate": {
+          "status": "cleared",
+          "evidence": "Reviewed candidate concepts and exact source/prompt conflicts against existing catalog; unresolved similarity and media candidates remain blocked by planImport."
+        }
       }
     }
   },
@@ -2154,11 +2410,19 @@
       "pairing": "same-post-reported-by-collector",
       "imageVerification": "source-reported media URLs; HTTP and visual match unchecked",
       "review": {
-        "qualityStatus": "candidate",
+        "qualityStatus": "recommended",
         "classificationConfidence": "medium",
         "classificationMethod": "collector-review",
         "inputMode": "text-to-image",
         "category": "illustrations"
+      },
+      "publicationReview": {
+        "reviewer": "AI text and duplicate first pass",
+        "promptHash": "f87aaf7e224b13d26839f9dd714355d18a3cc85f96ee6b31d7264a20a0a7bacc",
+        "duplicate": {
+          "status": "cleared",
+          "evidence": "Reviewed candidate concepts and exact source/prompt conflicts against existing catalog; unresolved similarity and media candidates remain blocked by planImport."
+        }
       }
     }
   },
@@ -2229,11 +2493,19 @@
       "pairing": "same-post-reported-by-collector",
       "imageVerification": "source-reported media URLs; HTTP and visual match unchecked",
       "review": {
-        "qualityStatus": "candidate",
+        "qualityStatus": "recommended",
         "classificationConfidence": "medium",
         "classificationMethod": "collector-review",
         "inputMode": "text-to-image",
         "category": "posters"
+      },
+      "publicationReview": {
+        "reviewer": "AI text and duplicate first pass",
+        "promptHash": "cc2373861c294ffc81f4c05b66eb8d9516b7befddbc80c88444d7bf1acd633d0",
+        "duplicate": {
+          "status": "cleared",
+          "evidence": "Reviewed candidate concepts and exact source/prompt conflicts against existing catalog; unresolved similarity and media candidates remain blocked by planImport."
+        }
       }
     }
   },
@@ -2304,11 +2576,19 @@
       "pairing": "same-post-reported-by-collector",
       "imageVerification": "source-reported media URLs; HTTP and visual match unchecked",
       "review": {
-        "qualityStatus": "candidate",
+        "qualityStatus": "recommended",
         "classificationConfidence": "medium",
         "classificationMethod": "collector-review",
         "inputMode": "reference-to-image",
         "category": "posters"
+      },
+      "publicationReview": {
+        "reviewer": "AI text and duplicate first pass",
+        "promptHash": "050dda0d202c699705f2fc717e428a8bac31a7b33aee3d3cae84434dc5428370",
+        "duplicate": {
+          "status": "cleared",
+          "evidence": "Reviewed candidate concepts and exact source/prompt conflicts against existing catalog; unresolved similarity and media candidates remain blocked by planImport."
+        }
       }
     }
   }
